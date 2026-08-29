@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T19:04:38.289628+00:00",
+  "updated_at": "2026-08-29T19:19:14.092788+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -360,7 +360,10 @@
     "Toon Army": "ニューカッスル・ユナイテッドFC",
     "Neeraj Goyat": "",
     "Jake Paul": "",
-    "Yessin Koulali": ""
+    "Yessin Koulali": "",
+    "Substitute Liam Miller's": "",
+    "Terri Harper": "テリー・ハーパー (ボクサー)",
+    "Miranda Reyes": ""
   },
   "items": [
     {
@@ -504,6 +507,48 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "イラオラが最初の勝利を待っていますリヴァプール森林に対する救助の遅れの引くこと",
+      "summary": "リヴァプール2 度から2 度目に戻り、2-2 を攻撃するノッティンガム・フォレストアンフィールド、新しいマネージャーを残して Andoni Iraola 初めての検索プレミアリーグクラブで勝つ。",
+      "title_original": "Iraola awaits first win as Liverpool rescue late draw against Forest",
+      "summary_original": "Liverpool come from behind twice to rescue a 2-2 draw against Nottingham Forest at Anfield, leaving new manager Andoni Iraola in search of his first Premier League win with the club.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2zw96094xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:12:20 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Tarkowski は、救助ポイントに遅れて攻撃しますエヴァートンボーンマス",
+      "summary": "エヴァートンキャプテン James TarkowskiBournemouth が1-1 の描画のために解決するように91 分の1 でストライキ Vitality Stadium.",
+      "title_original": "Tarkowski strikes late to rescue point for Everton at Bournemouth",
+      "summary_original": "Everton captain James Tarkowski strikes in the 91st minute to rescue a point, as Bournemouth settle for a 1-1 draw at the Vitality Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c70lenegd1qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:12:07 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Hull は Coventry で勝ち続けると完璧なスタートを続けます",
+      "summary": "Substitute Liam Miller's 遅い目標は助けます Hull は 1-0 の勝利を保証します。コヴェントリー・シティ FC 人生を取り戻すための完璧なスタートを続け、プレミアリーグ、2 つのマッチから2 つの勝利を持つ。",
+      "title_original": "Hull continue perfect start with away win at Coventry",
+      "summary_original": "Substitute Liam Miller's late goal helps Hull secure a 1-0 away victory against Coventry City and continues their perfect start to life back in the Premier League, with two wins from two matches.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5yjd20g6rpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:12:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Moyes 'disappointed' とエヴァートンパフォーマンス",
       "summary": "エヴァートンマネージャーDavid Moyes 第2 半のレジリエンスを讃える James Tarkowski's ケガタイムイコライザーがポイントを救出エヴァートン FC 遠くへ Bournemouth. Moyes91 分ブレイクスルーが解約する前に、チーム「得点しない」のように見えると認めた Alex Scott's ファーストハーフオープナー。",
       "title_original": "Moyes 'disappointed' with Everton performance",
@@ -641,48 +686,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "「私はこの非常に誇りに思っています」 - フェルナンデスは今年の PFA プレーヤーを獲得します",
-      "summary": "マンチェスター・ユナイテッドキャプテンブルーノ・フェルナンデス男子2026 PFA 選手の受賞に反応。",
-      "title_original": "'I'm very proud of this' - Fernandes wins PFA player of the year",
-      "summary_original": "Manchester United captain Bruno Fernandes reacts to winning the men's 2026 PFA player of the year award.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjdv55g4871o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 21:29:08 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "'Truly honoured' - ショーは、年賞を受賞",
-      "summary": "マンチェスター・シティ獲得 Khadija Shaw3 つの季節に2 番目の PFA プレーヤーを獲得するために反応します。",
-      "title_original": "'Truly honoured' - Shaw wins PFA player of the year award",
-      "summary_original": "Manchester City forward Khadija Shaw reacts to winning her second PFA player of the year award in three seasons.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm27ymnk7jwo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 22:12:35 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "'大賞を受賞' - O'Reilly は、今年の PFA ヤング選手に選ばれました",
-      "summary": "マンチェスター・シティイングランドのフルバック Nico O'Reilly2026 年度 PFA ヤングプレイヤーの表彰を受けて「すごい感じ」と言います。",
-      "title_original": "'A huge award' - O'Reilly named PFA young player of the year",
-      "summary_original": "Manchester City and England full-back Nico O'Reilly says \"it feels amazing\" after receiving the 2026 PFA young player of the year award.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cn74yyepggmo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 21:02:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1190,6 +1193,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Leeds 最新:Zetterer が Perri に Torino 融資を完了",
+      "summary": "",
+      "title_original": "Leeds latest: Zetterer joins as Perri completes Torino loan",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Sat, 29 Aug 2026 20:01:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "トッテナム最新: 'Couldn' が悪くなった' - カラグラファーの評価トッテナムスタート",
       "summary": "",
       "title_original": "Tottenham latest: 'Couldn't have gone any worse' - Carragher assesses Spurs start",
@@ -1201,6 +1218,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ハーパーランドは右手 KO を壊す!",
+      "summary": "テリー・ハーパー (ボクサー)キャンセル Miranda Reyes 悪意のある右手のパンチとの戦いの第2 ラウンドで.",
+      "title_original": "Harper lands devastating right hand KO!",
+      "summary_original": "Terri Harper stopped Miranda Reyes in the second round of their fight with a vicious right hand punch.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13578849/mikaela-mayer-vs-chantelle-cameron-terri-harper-lands-devastating-right-hand-ko",
+      "published": "Sat, 29 Aug 2026 20:06:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1386,6 +1417,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ザ・ツアーチャンピオンシップライブ! Scheffler は、McIlroy's Birdie が破裂した後、ホヴランドを追いかける",
+      "summary": "",
+      "title_original": "Tour Championship LIVE! Scheffler chases Hovland after McIlroy's birdie burst",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13578675/tour-championship-third-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
+      "published": "Sat, 29 Aug 2026 20:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ウェストハムそれでも Watford の引くと勝利なし",
       "summary": "ヌーノ・エスピーリト・サントお待ちしています。ウェストハム'最初のリーグは、彼らは悲劇に開催された後に勝ちます 1-1 前に描画 Vicarage Road's6 年間最大の群衆。",
       "title_original": "West Ham still without a win after Watford draw",
@@ -1424,48 +1469,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "遅延した電子ボードの問題でイラオラフュームリヴァプールフォレストペン前のサブ",
-      "summary": "Andoni Iraola 彼は言ったノッティンガム・フォレストの penalty in the 2-2 土曜日の Anfield で描画する 4 人の公式の電子ボードが正しく機能していた場合は発生しません。",
-      "title_original": "Iraola fumes at electronic board issue which delayed Liverpool subs before Forest pen",
-      "summary_original": "Andoni Iraola said Nottingham Forest's penalty in the 2-2 draw at Anfield on Saturday would not have occurred if the fourth official's electronic board was working correctly.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578679/liverpool-andoni-iraola-says-fourth-officials-electronic-board-issue-delayed-subs-ahead-of-nottingham-forest-being-awarded-penalty",
-      "published": "Sat, 29 Aug 2026 16:48:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Munoz 魔法の救いリヴァプールフォレストに対するポイント",
-      "summary": "ハイライトリヴァプールに対してノッティンガム・フォレスト獲得を獲得を問い合わせプレミアリーグ.",
-      "title_original": "Munoz magic salvages Liverpool point against Forest",
-      "summary_original": "Highlights from Liverpool against Nottingham Forest in the Premier League.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13578595/liverpool-2-2-nottingham-forest-premier-league-highlights",
-      "published": "Sat, 29 Aug 2026 17:15:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Coventry の勝利が PL のリターンへの勝利の開始を続行するために強烈な勝利",
-      "summary": "ハイライトコヴェントリー・シティ FC に対してハル・シティ AFC 獲得を獲得を問い合わせプレミアリーグ.",
-      "title_original": "Hull clinch late victory over Coventry to continue winning start to PL return",
-      "summary_original": "Highlights from Coventry City against Hull City in the Premier League.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13578715/coventry-city-0-1-hull-city-premier-league-highlights",
-      "published": "Sat, 29 Aug 2026 17:15:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
