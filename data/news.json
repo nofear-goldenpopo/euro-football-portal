@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T17:19:29.037718+00:00",
+  "updated_at": "2026-08-29T17:34:16.862016+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -332,7 +332,11 @@
     "Kirstie Bavington": "",
     "Gemma Richardson": "",
     "Jim Goodwin": "",
-    "Rugby Park": ""
+    "Rugby Park": "",
+    "Vitality. In": "",
+    "Bournemouth. The": "",
+    "Marco Rose. An": "",
+    "CBS Arena": "コヴェントリー・ビルディング・ソサエティ・アリーナ"
   },
   "items": [
     {
@@ -361,6 +365,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Iraola angry として 公式のボード遅延 サブ ゴール前に",
+      "summary": "リヴァプールログイン Andoni Iraola 反対側が反対する間に、三重の置換を遅らせるのを防ぐことを怒っていたと言うノッティンガム・フォレスト.",
+      "title_original": "Iraola angry as official's board delays subs before goal",
+      "summary_original": "Liverpool boss Andoni Iraola says he was angry about being prevented from making a triple substitution sooner during his side's draw against Nottingham Forest.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd795e9ejgzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 15:27:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -403,20 +421,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Iraola angry として 公式のボード遅延 サブ ゴール前に",
-      "summary": "リヴァプールログイン Andoni Iraola 反対側が反対する間に、三重の置換を遅らせるのを防ぐことを怒っていたと言うノッティンガム・フォレスト.",
-      "title_original": "Iraola angry as official's board delays subs before goal",
-      "summary_original": "Liverpool boss Andoni Iraola says he was angry about being prevented from making a triple substitution sooner during his side's draw against Nottingham Forest.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd795e9ejgzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 15:27:43 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -630,6 +634,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "小さな町は、オッズを欠くことを目指していますブンデスリーガデビュー",
+      "summary": "エルバーベルクは、駅や人口はわずか13,000 人でなく、そのサッカーチームは、地域のドイツリーグから地域のドイツリーグに隕石の上昇を楽しんだブンデスリーガ.",
+      "title_original": "The tiny town aiming to defy odds in Bundesliga debut",
+      "summary_original": "Elversberg has no train station and a population of just 13,000, but its football team have enjoyed a meteoric rise from the regional German leagues to the Bundesliga.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70d4n1d0r9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 16:14:34 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ウイルスのインスピレーションになった50 歳のアマチュアサッカー選手",
       "summary": "Craig Kirby 息子の死後サッカーを終了することを考える - で 50, 彼は彼の最終シーズンを文書化ウイルスに期待しなかった.",
       "title_original": "The 50-year-old amateur footballer who became a viral inspiration",
@@ -658,17 +676,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "小さな町は、オッズを欠くことを目指していますブンデスリーガデビュー",
-      "summary": "エルバーベルクは、駅や人口はわずか13,000 人でなく、そのサッカーチームは、地域のドイツリーグから地域のドイツリーグに隕石の上昇を楽しんだブンデスリーガ.",
-      "title_original": "The tiny town aiming to defy odds in Bundesliga debut",
-      "summary_original": "Elversberg has no train station and a population of just 13,000, but its football team have enjoyed a meteoric rise from the regional German leagues to the Bundesliga.",
+      "title": "Arsenal & Barca、Rashford - Saturday's gossip を獲得候補に",
+      "summary": "アーセナルモニターマーカス・ラッシュフォード, チェルシーログインモナコ'Lamine Camara と バレンシア プッシュ のためにリヴァプールミッドフィルダーHarvey Elliott、プラス多く。",
+      "title_original": "Arsenal & Barca monitor Rashford - Saturday's gossip",
+      "summary_original": "Arsenal monitor Marcus Rashford, Chelsea eye Monaco's Lamine Camara and Valencia push for Liverpool midfielder Harvey Elliott, plus more.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70d4n1d0r9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 16:14:34 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8416ll9yvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 28 Aug 2026 20:48:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -693,20 +711,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 28 Aug 2026 22:56:42 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Arsenal & Barca、Rashford - Saturday's gossip を獲得候補に",
-      "summary": "アーセナルモニターマーカス・ラッシュフォード, チェルシーログインモナコ'Lamine Camara と バレンシア プッシュ のためにリヴァプールミッドフィルダーHarvey Elliott、プラス多く。",
-      "title_original": "Arsenal & Barca monitor Rashford - Saturday's gossip",
-      "summary_original": "Arsenal monitor Marcus Rashford, Chelsea eye Monaco's Lamine Camara and Valencia push for Liverpool midfielder Harvey Elliott, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8416ll9yvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 20:48:59 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -748,7 +752,7 @@
       "summary_original": "Updates from 5.30pm (BST) kickoff Email Barry and follow us on Bluesky Fun fact: Tottenham and Newcastle have met 61 times in the Premier League era without ever playing out a scoreless draw. Today could be the day for a dreary stalemate but it seems unlikely – fingers crossed for a glut of goals. Premier League: Hull City have made it back-to-back wins upon their return to the top flight, with Liam Millar scoring the only goal of their game at Coventry City to deposit another three precious poi",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/tottenham-hotspur-v-newcastle-premier-league-live",
-      "published": "Sat, 29 Aug 2026 17:00:42 GMT",
+      "published": "Sat, 29 Aug 2026 17:24:49 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -785,15 +789,15 @@
     },
     {
       "title": "James Tarkowski 死の時のポウンスエヴァートン deny Bournemouth 勝つ",
-      "summary": "風と雨が明けて、夏と新しい時代の幕開け Vitality. Milan この秋にドーセットを訪れたり、サン・セバスティアン, ガリシア, チェコ共和国が待っています. スタジアム自体は、リフォームの下にあります, 交渉する新しいセキュリティコードで満たされる運動選手. 1 月3 日までの持続期間を延ばす無縁のホームレコード。しかし、ボーンマスの目標を遅らせる能力は、James Tarkowski’s イコライザーが入って来るアディショナルタイム. すべての更新のために、ボーンマスは w オフキックオフ",
+      "summary": "風と雨、夏の終わり、そして新しい時代の Vitality. In 獲得を獲得を問い合わせヨーロッパリーグミラノはドーセットを訪問し、旅行しますサン・セバスティアン, ガリシア, ノルウェーとチェコ共和国が待っています Bournemouth. The スタジアムは改装下にあります。, 満たすために待っているエクスカレトンをタワー化, 交渉する新しいセキュリティコード, 新しい管理の下でチーム Marco Rose. An1 月 3 日までの持続期間を延ばす不当なホーム レコードは、Bournemouth の遅延目標を隠す傾向があります。James Tarkowski’",
       "title_original": "James Tarkowski pounces at the death as Everton deny Bournemouth win",
-      "summary_original": "Through wind and rain came the end of summer and a new era at the Vitality. Milan will visit Dorset this autumn, and travel to San Sebastián, Galicia, and Czechia awaits. The stadium itself is under renovation, exoskeletons to be filled in, new security cordons to negotiate. An unbeaten home record that stretches back to 3 January sustains, though so does Bournemouth’s ability to concede late goals, James Tarkowski’s equaliser coming in injury time. For all that renewal, Bournemouth kicked off w",
+      "summary_original": "Through wind and rain, the end of summer and a new era at the Vitality. In the Europa League, Milan will visit Dorset and travel to San Sebastián, Galicia, Norway and Czechia awaits Bournemouth. The stadium is under renovation, towering exoskeletons waiting to be filled, new security cordons to negotiate, the team under the new management of Marco Rose. An unbeaten home record that stretches back to 3 January sustains, though so does Bournemouth’s tendency to concede late goals. James Tarkowski’",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/29/bournemouth-everton-premier-league-match-report",
       "published": "Sat, 29 Aug 2026 16:12:19 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -813,9 +817,9 @@
     },
     {
       "title": "Scottish Premiership: オンソンデュランリフトセルティック Falkirk で勝つ魂",
-      "summary": "セルティックファンのバナーは、クラブの「世界クラスの」クレームハートのエッジを嘲笑 St Johnstone, ダンディー・ユナイテッド FC ログイン Killie Camilo Durán センターフォワードの好ましい立場で、両方の目標を獲得セルティック Falkirk で 2-1 勝つ .The Colombian 開口部29 分に2 つのストライカーのゴールを生成し、いくつかのチームメイトを設定しながらチャンスのために。ファルキルクは、休憩後に改善され、その野心が報われました Colby Donovan’s オウンゴール72 分 このストーリーが更新されます 続きを読みます",
+      "summary": "セルティックファンのバナーは、クラブの「世界クラスの」クレームハートのエッジを嘲笑 St Johnstone, ダンディー・ユナイテッド FC ログイン Killie Camilo Durán, センターフォワードの彼の好まれた位置で, のための両方の目標をスコアセルティック Falkirk で 2-1 勝つ .The Colombian 開口部29 分で2 つのストライカーの目標を達成し、いくつかのチームメイトを設定してチャンスをあげます。壊れ目の後に改善された Falkirk とその野心が報われました Colby Donovan’s オウンゴール72 分 このストーリーは更新されます 続きを読む...",
       "title_original": "Scottish Premiership: on-song Durán lifts Celtic spirits in win over Falkirk",
-      "summary_original": "Celtic fans’ banner mocks club’s ‘world class’ claims Hearts edge St Johnstone, Dundee United rout Killie Camilo Durán in his preferred position of centre-forward, scored both goals for Celtic in their 2-1 win over Falkirk . The Colombian produced two striker’s goals in the opening 29 minutes while also setting up several teammates for chances. Falkirk improved after the break and their ambition was rewarded by Colby Donovan’s own goal in the 72nd minute. This story will be updated Continue read",
+      "summary_original": "Celtic fans’ banner mocks club’s ‘world class’ claims Hearts edge St Johnstone, Dundee United rout Killie Camilo Durán, in his preferred position of centre-forward, scored both goals for Celtic in their 2-1 win over Falkirk . The Colombian hit two striker’s goals in the opening 29 minutes and also set up several teammates for chances. Falkirk improved after the break and their ambition was rewarded by Colby Donovan’s own goal in the 72nd minute. This story will be updated Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/29/scottish-premiership-celtic-hearts-rangers-aberdeen",
       "published": "Sat, 29 Aug 2026 16:42:20 GMT",
@@ -1162,6 +1166,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ウェストハム最新:Nuno は、無数のスタートにもかかわらず、信仰を維持",
+      "summary": "",
+      "title_original": "West Ham latest: Nuno keeping the faith despite winless start",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+      "published": "Thu, 27 Aug 2026 17:32:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "サウス ampton thump 5 過去の Millwall",
       "summary": "Cyle Larin なぜ南 ampton ボス Tonda Eckert 勝ったミルウォールのシーズンの完璧なスタートを散らばった5-1 勝の彼のダブルとして、選手権で最高のストライカーとして彼を率いてください。",
       "title_original": "Southampton thump five past Millwall",
@@ -1288,6 +1306,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ザ・ツアーチャンピオンシップライブ! McIlroy は、リーダーのすぐそばにある初期の鳥類を見つけました",
+      "summary": "",
+      "title_original": "Tour Championship LIVE! McIlroy finds early birdies to close on leaders",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13578675/tour-championship-third-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
+      "published": "Sat, 29 Aug 2026 18:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "デュランのダブルイージーセルティック'Falkirk の勝利と CL の心痛",
       "summary": "Camilo Duran's 二重のこぎりセルティック回復するチャンピオンズリーグ賞金を維持する心痛 Scottish Premiership スタート",
       "title_original": "Duran's double eases Celtic's CL heartache with Falkirk win",
@@ -1316,10 +1348,24 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ハートはオフを見るために保持 St Johnstone",
+      "summary": "Weary Hearts 厳しい週の終わりに会社を握り、非説得力のある2-1 の家の勝利を終わらせます St Johnstone 第二に登る Scottish Premiership.",
+      "title_original": "Hearts hold on to see off St Johnstone",
+      "summary_original": "Weary Hearts held firm at the end of a gruelling week to close out an unconvincing 2-1 home win over St Johnstone and climb to second in the Scottish Premiership.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/hearts-vs-st-johnstone/report/558354",
+      "published": "Sat, 29 Aug 2026 16:50:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Millar Seals 別の Hull が Coventry の PL の勝利の待ち合わせとして勝ち続ける",
-      "summary": "2 つの対照の物語では、トップフライトに戻ります。Liam MillarCBS で1-0 の勝利で Hull の第2 のストレート勝利をシールするために遅く得点 Frank Lampard's Coventry 第2 回連続リーグ戦に敗北。",
+      "summary": "2 つの対照の物語では、トップフライトに戻ります。Liam Millar1-0 の勝利で Hull の第2 のストレート勝利をシールするために遅刻されたコヴェントリー・ビルディング・ソサエティ・アリーナふりがな Frank Lampard's Coventry 第2 回連続リーグ戦に敗北。",
       "title_original": "Millar seals another Hull win as Coventry's wait for PL victory continues",
-      "summary_original": "In a tale of two contrasting returns to the top flight, substitute Liam Millar scored late on to seal Hull's second straight victory in a 1-0 win at the CBS while Frank Lampard's Coventry fell to a second consecutive league defeat.",
+      "summary_original": "In a tale of two contrasting returns to the top flight, substitute Liam Millar scored late on to seal Hull's second straight victory in a 1-0 win at the CBS Arena while Frank Lampard's Coventry fell to a second consecutive league defeat.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/coventry-city-vs-hull-city/report/559457",
       "published": "Sat, 29 Aug 2026 16:45:00 BST",
@@ -1337,20 +1383,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/kilmarnock-vs-dundee-united/report/558355",
       "published": "Sat, 08 Aug 2026 16:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ハートはオフを見るために保持 St Johnstone",
-      "summary": "Weary Hearts 厳しい週の終わりに会社を握り、非説得力のある2-1 の家の勝利を終わらせます St Johnstone 第二に登る Scottish Premiership.",
-      "title_original": "Hearts hold on to see off St Johnstone",
-      "summary_original": "Weary Hearts held firm at the end of a gruelling week to close out an unconvincing 2-1 home win over St Johnstone and climb to second in the Scottish Premiership.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/hearts-vs-st-johnstone/report/558354",
-      "published": "Wed, 05 Aug 2026 14:25:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1386,20 +1418,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ザ・ツアーチャンピオンシップライブ! McIlroy は Hovland 株式リードとして混合開始",
-      "summary": "",
-      "title_original": "Tour Championship LIVE! McIlroy makes mixed start as Hovland shares lead",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13578675/tour-championship-third-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
-      "published": "Sat, 29 Aug 2026 18:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "エヴァートン最新: アームストロングの£40m を支払う準備ができて森林",
       "summary": "",
       "title_original": "Everton latest: Forest ready to pay £40m for Armstrong",
@@ -1424,20 +1442,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ウィガン保持 League Leaders' Shield トラックに反する入札を維持する",
-      "summary": "Wigan Warriors 保持されている League Leaders' Shield26-20 勝利以降 Leeds Rhinos 第2 回連続トレブルの1 試合内で移動します。",
-      "title_original": "Wigan retain League Leaders' Shield to keep treble bid on track",
-      "summary_original": "Wigan Warriors have retained the League Leaders' Shield after 26-20 victory over Leeds Rhinos to move within one game of a second consecutive treble.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13578674/womens-super-league-wigan-warriors-retain-league-leaders-shield-to-keep-treble-bid-on-track",
-      "published": "Sat, 29 Aug 2026 16:36:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
