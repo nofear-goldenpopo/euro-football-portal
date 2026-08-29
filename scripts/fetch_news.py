@@ -10,7 +10,7 @@ import argostranslate.package
 import argostranslate.translate
 
 
-TRANSLATION_VERSION = "football-ja-v4"
+TRANSLATION_VERSION = "football-ja-v5"
 DATA_PATH = Path("data/news.json")
 
 
@@ -23,7 +23,8 @@ FEEDS = [
 
 
 # =========================================================
-# 第1段階：大会・クラブ・監督などの固定辞書
+# 第1段階
+# 大会・クラブ・監督などの固定辞書
 # =========================================================
 
 FOOTBALL_ENTITY_OVERRIDES = {
@@ -55,15 +56,20 @@ FOOTBALL_ENTITY_OVERRIDES = {
     "Newcastle": "ニューカッスル",
     "Aston Villa": "アストン・ヴィラ",
     "Crystal Palace": "クリスタル・パレス",
+    "Palace": "クリスタル・パレス",
     "Everton": "エヴァートン",
     "West Ham United": "ウェストハム",
     "West Ham": "ウェストハム",
     "Brighton": "ブライトン",
+    "Wrexham": "レクサム",
+    "Rangers": "レンジャーズ",
 
     # スペイン
     "Real Madrid": "レアル・マドリード",
     "FC Barcelona": "バルセロナ",
     "Barcelona": "バルセロナ",
+    "Barca": "バルセロナ",
+    "Barça": "バルセロナ",
     "Atletico Madrid": "アトレティコ・マドリード",
     "Atlético Madrid": "アトレティコ・マドリード",
     "Real Sociedad": "レアル・ソシエダ",
@@ -92,7 +98,7 @@ FOOTBALL_ENTITY_OVERRIDES = {
     "Bayer Leverkusen": "レヴァークーゼン",
     "RB Leipzig": "RBライプツィヒ",
 
-    # その他主要クラブ
+    # フランス・オランダ・ポルトガル・トルコ
     "Paris Saint-Germain": "パリ・サンジェルマン",
     "Paris St-Germain": "パリ・サンジェルマン",
     "PSG": "パリ・サンジェルマン",
@@ -126,16 +132,18 @@ FOOTBALL_ENTITY_OVERRIDES = {
     "Antonio Conte": "アントニオ・コンテ",
     "Frank Lampard": "フランク・ランパード",
     "Lampard": "ランパード",
+    "Derek McInnes": "デレク・マッキネス",
+    "McInnes": "マッキネス",
 }
 
 
 # =========================================================
-# 第2段階：成長型の選手名辞書
-# 変な表記が出た選手だけ、今後ここへ追加
+# 第2段階
+# 成長型の選手名辞書
 # =========================================================
 
 PLAYER_NAME_OVERRIDES = {
-    # Real Madrid
+    # レアル
     "Kylian Mbappé": "キリアン・エムバペ",
     "Kylian Mbappe": "キリアン・エムバペ",
     "Mbappé": "エムバペ",
@@ -149,7 +157,7 @@ PLAYER_NAME_OVERRIDES = {
     "Thibaut Courtois": "ティボー・クルトワ",
     "Courtois": "クルトワ",
 
-    # Barcelona
+    # バルセロナ
     "Lamine Yamal": "ラミン・ヤマル",
     "Yamal": "ヤマル",
     "Pedri": "ペドリ",
@@ -158,7 +166,7 @@ PLAYER_NAME_OVERRIDES = {
     "Robert Lewandowski": "ロベルト・レヴァンドフスキ",
     "Lewandowski": "レヴァンドフスキ",
 
-    # Premier League
+    # プレミア
     "Erling Haaland": "アーリング・ハーランド",
     "Haaland": "ハーランド",
     "Rayan Cherki": "ラヤン・シェルキ",
@@ -176,8 +184,16 @@ PLAYER_NAME_OVERRIDES = {
     "Palmer": "パーマー",
     "Bruno Fernandes": "ブルーノ・フェルナンデス",
     "Son Heung-min": "ソン・フンミン",
+    "Marcus Rashford": "マーカス・ラッシュフォード",
+    "Rashford": "ラッシュフォード",
+    "Adam Wharton": "アダム・ウォートン",
+    "Wharton": "ウォートン",
+    "Harvey Elliott": "ハーヴェイ・エリオット",
+    "Elliott": "エリオット",
+    "Dom Hyam": "ドム・ハイアム",
+    "Lamine Camara": "ラミン・カマラ",
 
-    # Serie A
+    # セリエA
     "Lautaro Martínez": "ラウタロ・マルティネス",
     "Lautaro Martinez": "ラウタロ・マルティネス",
     "Nicolò Barella": "ニコロ・バレッラ",
@@ -186,38 +202,35 @@ PLAYER_NAME_OVERRIDES = {
     "Alessandro Bastoni": "アレッサンドロ・バストーニ",
     "Bastoni": "バストーニ",
 
-    # Bundesliga
+    # ブンデス
     "Harry Kane": "ハリー・ケイン",
     "Kane": "ケイン",
     "Jamal Musiala": "ジャマル・ムシアラ",
     "Musiala": "ムシアラ",
 
-    # 記者など
+    # 記者
     "Phil McNulty": "フィル・マクナルティ",
     "McNulty": "マクナルティ",
 }
 
 
 # =========================================================
-# 第3段階：サッカー記事用の表現辞書
-# 「辞書翻訳」ではなく文脈に合う日本語へ
+# 第3段階
+# サッカー用語
 # =========================================================
 
 FOOTBALL_PHRASE_OVERRIDES = {
     "clean sheet": "クリーンシート",
     "hat-trick": "ハットトリック",
     "hat trick": "ハットトリック",
-
     "two goals": "2ゴール",
     "three goals": "3ゴール",
-    "four goals": "4ゴール",
     "brace": "2ゴール",
-
     "swaggering display": "圧巻のパフォーマンス",
     "impressive display": "印象的なパフォーマンス",
     "superb display": "素晴らしいパフォーマンス",
     "fine display": "好パフォーマンス",
-
+    "player ratings": "選手採点",
     "transfer fee": "移籍金",
     "transfer window": "移籍市場",
     "free transfer": "フリー移籍",
@@ -229,26 +242,23 @@ FOOTBALL_PHRASE_OVERRIDES = {
     "medical": "メディカルチェック",
     "contract extension": "契約延長",
     "new deal": "新契約",
-
     "sacked": "解任された",
     "sack": "解任",
-
     "starting XI": "先発メンバー",
     "starting eleven": "先発メンバー",
     "injury time": "アディショナルタイム",
     "stoppage time": "アディショナルタイム",
-
     "own goal": "オウンゴール",
     "penalty shootout": "PK戦",
     "red card": "レッドカード",
     "yellow card": "イエローカード",
-
     "title race": "優勝争い",
     "relegation battle": "残留争い",
     "top four": "トップ4",
-
     "time to shine": "輝く時",
     "moment to shine": "輝く時",
+    "Saturday's gossip": "土曜日の移籍ゴシップ",
+    "Sunday's gossip": "日曜日の移籍ゴシップ",
 }
 
 
@@ -281,7 +291,7 @@ PRIORITY = [
 def fetch(url):
     request = Request(
         url,
-        headers={"User-Agent": "EURO-Football-Portal/4.0"},
+        headers={"User-Agent": "EURO-Football-Portal/5.0"},
     )
 
     with urlopen(request, timeout=30) as response:
@@ -320,6 +330,7 @@ def classify(title, summary):
         "la liga",
         "real madrid",
         "barcelona",
+        "barca",
         "atletico madrid",
         "atlético madrid",
         "real sociedad",
@@ -395,13 +406,20 @@ def prepare_translator():
 
         package = next(
             p for p in packages
-            if p.from_code == "en" and p.to_code == "ja"
+            if p.from_code == "en"
+            and p.to_code == "ja"
         )
 
         downloaded = package.download()
-        argostranslate.package.install_from_path(downloaded)
 
-        installed = argostranslate.translate.get_installed_languages()
+        argostranslate.package.install_from_path(
+            downloaded
+        )
+
+        installed = (
+            argostranslate.translate
+            .get_installed_languages()
+        )
 
         english = next(
             lang for lang in installed
@@ -413,29 +431,51 @@ def prepare_translator():
             if lang.code == "ja"
         )
 
-        return english.get_translation(japanese)
+        return english.get_translation(
+            japanese
+        )
 
     except Exception as error:
-        print("Translator setup failed:", error)
+        print(
+            "Translator setup failed:",
+            error,
+        )
+
         return None
 
 
 # =========================================================
-# 固有名詞検索
-#
-# 前回のZXQトークン方式は廃止。
-# 固有名詞部分を翻訳エンジンへ渡さず、
-# 文章を分割して翻訳する。
+# 固有名詞処理
 # =========================================================
 
 def combined_entities():
     result = {}
 
-    result.update(FOOTBALL_ENTITY_OVERRIDES)
-    result.update(PLAYER_NAME_OVERRIDES)
-    result.update(FOOTBALL_PHRASE_OVERRIDES)
+    result.update(
+        FOOTBALL_ENTITY_OVERRIDES
+    )
+
+    result.update(
+        PLAYER_NAME_OVERRIDES
+    )
+
+    result.update(
+        FOOTBALL_PHRASE_OVERRIDES
+    )
 
     return result
+
+
+def entity_to_ja(name):
+    name = name.strip()
+
+    for english, japanese in (
+        combined_entities().items()
+    ):
+        if english.lower() == name.lower():
+            return japanese
+
+    return name
 
 
 def find_protected_spans(text):
@@ -459,84 +499,92 @@ def find_protected_spans(text):
                     match.start(),
                     match.end(),
                     japanese,
+                    len(match.group(0)),
                 )
             )
 
-    # 長い一致を優先
     candidates.sort(
         key=lambda x: (
             x[0],
-            -(x[1] - x[0]),
+            -x[3],
         )
     )
 
     selected = []
-    last_end = -1
 
-    for start, end, replacement in candidates:
-        if start < last_end:
-            continue
-
-        selected.append(
-            (start, end, replacement)
+    for start, end, replacement, _ in candidates:
+        overlap = any(
+            start < old_end
+            and end > old_start
+            for old_start, old_end, _
+            in selected
         )
 
-        last_end = end
+        if not overlap:
+            selected.append(
+                (
+                    start,
+                    end,
+                    replacement,
+                )
+            )
+
+    selected.sort(
+        key=lambda x: x[0]
+    )
 
     return selected
 
 
-# =========================================================
-# 未登録の「複数語の人名」を英字で保護
-#
-# 例：
-# Alejandro Garnacho
-# Florian Wirtz
-#
-# 無理なカタカナ化より原語表記を優先
-# =========================================================
+UNKNOWN_NAME_PATTERN = re.compile(
+    r"\b("
+    r"[A-ZÀ-ÖØ-Ý]"
+    r"[A-Za-zÀ-ÖØ-öø-ÿ'’-]+"
+    r"(?:\s+"
+    r"[A-ZÀ-ÖØ-Ý]"
+    r"[A-Za-zÀ-ÖØ-öø-ÿ'’-]+"
+    r"){1,2}"
+    r")\b"
+)
 
-NAME_STOPWORDS = {
-    "The",
-    "After",
-    "Before",
+
+UNKNOWN_NAME_STOPWORDS = {
     "Premier League",
     "Champions League",
-    "Manchester City",
-    "Manchester United",
-    "Real Madrid",
-    "Crystal Palace",
-    "Aston Villa",
-    "West Ham",
+    "Europa League",
+    "Conference League",
+    "Saturday Gossip",
+    "Sunday Gossip",
 }
 
 
-def add_unknown_name_spans(text, spans):
-    occupied = []
+def add_unknown_name_spans(
+    text,
+    spans,
+):
+    occupied = [
+        (start, end)
+        for start, end, _
+        in spans
+    ]
 
-    for start, end, replacement in spans:
-        occupied.append((start, end))
-
-    pattern = re.compile(
-        r"\b("
-        r"[A-ZÀ-ÖØ-Ý][A-Za-zÀ-ÖØ-öø-ÿ'’-]+"
-        r"(?:\s+[A-ZÀ-ÖØ-Ý][A-Za-zÀ-ÖØ-öø-ÿ'’-]+){1,2}"
-        r")\b"
-    )
-
-    for match in pattern.finditer(text):
+    for match in (
+        UNKNOWN_NAME_PATTERN
+        .finditer(text)
+    ):
         phrase = match.group(1)
 
-        if phrase in NAME_STOPWORDS:
+        if phrase in UNKNOWN_NAME_STOPWORDS:
             continue
 
         start = match.start()
         end = match.end()
 
         overlap = any(
-            start < other_end
-            and end > other_start
-            for other_start, other_end in occupied
+            start < old_end
+            and end > old_start
+            for old_start, old_end
+            in occupied
         )
 
         if overlap:
@@ -550,47 +598,126 @@ def add_unknown_name_spans(text, spans):
             )
         )
 
-        occupied.append((start, end))
+        occupied.append(
+            (start, end)
+        )
 
-    spans.sort(key=lambda x: x[0])
+    spans.sort(
+        key=lambda x: x[0]
+    )
 
     return spans
 
 
-# =========================================================
-# 第3段階：英文そのものをサッカー文脈で先に解釈
-#
-# 一般機械翻訳で壊れやすい定型表現を
-# 「意味単位」で日本語化する。
-# =========================================================
+def translate_piece(
+    translator,
+    text,
+):
+    if not text:
+        return ""
 
-def entity_to_ja(name):
-    normalized = name.strip()
+    if not re.search(
+        r"[A-Za-z]",
+        text,
+    ):
+        return text
 
-    all_names = {}
-    all_names.update(FOOTBALL_ENTITY_OVERRIDES)
-    all_names.update(PLAYER_NAME_OVERRIDES)
+    try:
+        return translator.translate(
+            text
+        )
 
-    for english, japanese in all_names.items():
-        if english.lower() == normalized.lower():
-            return japanese
+    except Exception as error:
+        print(
+            "Piece translation failed:",
+            error,
+        )
 
-    return normalized
+        return text
 
 
-def smart_source_rewrite(text):
-    # -----------------------------------------------------
-    # 例:
-    # This could be Cherki's moment for Man City
-    # -----------------------------------------------------
-    pattern = re.compile(
-        r"this could be "
-        r"(.+?)['’]s moment for "
-        r"(.+)$",
-        re.IGNORECASE,
+def translate_preserving_entities(
+    translator,
+    text,
+):
+    spans = find_protected_spans(
+        text
     )
 
-    match = pattern.search(text)
+    spans = add_unknown_name_spans(
+        text,
+        spans,
+    )
+
+    if not spans:
+        return translate_piece(
+            translator,
+            text,
+        )
+
+    result = []
+    position = 0
+
+    for start, end, replacement in spans:
+        if start > position:
+            result.append(
+                translate_piece(
+                    translator,
+                    text[position:start],
+                )
+            )
+
+        result.append(
+            replacement
+        )
+
+        position = end
+
+    if position < len(text):
+        result.append(
+            translate_piece(
+                translator,
+                text[position:],
+            )
+        )
+
+    return "".join(result)
+
+
+# =========================================================
+# 第4段階
+# サッカーニュース見出し専用の自然化
+# =========================================================
+
+def rewrite_headline(title):
+    raw = title.strip()
+    lower = raw.lower()
+
+    # Do Wrexham have defensive problems?
+    match = re.fullmatch(
+        r"Do (.+?) have defensive problems\?",
+        raw,
+        flags=re.IGNORECASE,
+    )
+
+    if match:
+        club = entity_to_ja(
+            match.group(1)
+        )
+
+        return (
+            f"{club}に守備面の"
+            f"問題はあるのか？"
+        )
+
+
+    # McInnes backs himself to bring Rangers success
+    match = re.fullmatch(
+        r"(.+?) backs himself to bring "
+        r"(.+?) success",
+        raw,
+        flags=re.IGNORECASE,
+    )
 
     if match:
         person = entity_to_ja(
@@ -601,39 +728,145 @@ def smart_source_rewrite(text):
             match.group(2)
         )
 
-        prefix = text[:match.start()].strip()
+        return (
+            f"{person}、自らの手腕に自信　"
+            f"{club}を成功へ導けるか"
+        )
 
-        if prefix:
-            prefix_ja = translate_simple_phrase(prefix)
 
-            return (
-                f"{prefix_ja}――"
-                f"{person}が{club}で"
-                f"輝く時が来たか"
-            )
+    # Cherki genius and Wharton excels -
+    # Palace v Man City player ratings
+    match = re.fullmatch(
+        r"(.+?) genius and (.+?) excels"
+        r"\s*-\s*"
+        r"(.+?) v (.+?) player ratings",
+        raw,
+        flags=re.IGNORECASE,
+    )
+
+    if match:
+        player1 = entity_to_ja(
+            match.group(1)
+        )
+
+        player2 = entity_to_ja(
+            match.group(2)
+        )
+
+        team1 = entity_to_ja(
+            match.group(3)
+        )
+
+        team2 = entity_to_ja(
+            match.group(4)
+        )
 
         return (
-            f"{person}が{club}で"
+            f"{player1}が圧巻、"
+            f"{player2}も高評価　"
+            f"{team1}対{team2}の選手採点"
+        )
+
+
+    # Arsenal & Barca monitor Rashford -
+    # Saturday's gossip
+    match = re.fullmatch(
+        r"(.+?)\s*&\s*(.+?) "
+        r"monitor (.+?)"
+        r"\s*-\s*"
+        r"(Saturday|Sunday)'s gossip",
+        raw,
+        flags=re.IGNORECASE,
+    )
+
+    if match:
+        club1 = entity_to_ja(
+            match.group(1)
+        )
+
+        club2 = entity_to_ja(
+            match.group(2)
+        )
+
+        player = entity_to_ja(
+            match.group(3)
+        )
+
+        day = (
+            match.group(4)
+            .lower()
+        )
+
+        if day == "saturday":
+            day_ja = "土曜日"
+        else:
+            day_ja = "日曜日"
+
+        return (
+            f"{club1}と{club2}が"
+            f"{player}を注視　"
+            f"{day_ja}の移籍ゴシップ"
+        )
+
+
+    # A magician and a maverick -
+    # this could be Cherki's moment for Man City
+    match = re.fullmatch(
+        r"A magician and a maverick"
+        r"\s*-\s*"
+        r"this could be "
+        r"(.+?)['’]s moment for (.+)",
+        raw,
+        flags=re.IGNORECASE,
+    )
+
+    if match:
+        player = entity_to_ja(
+            match.group(1)
+        )
+
+        club = entity_to_ja(
+            match.group(2)
+        )
+
+        return (
+            f"技巧と型破りな才能――"
+            f"{player}が{club}で"
             f"輝く時が来たか"
         )
 
-    # -----------------------------------------------------
-    # BBCで今回出た文章のような構造
-    #
-    # After two goals and a swaggering display against
-    # Crystal Palace, Phil McNulty asks if this is
-    # Rayan Cherki's time to shine for Manchester City.
-    # -----------------------------------------------------
-    pattern = re.compile(
-        r"After two goals and a swaggering display against "
-        r"(.+?), "
-        r"(.+?) asks if this is "
-        r"(.+?)['’]s time to shine for "
-        r"(.+?)[.]?$",
-        re.IGNORECASE,
-    )
 
-    match = pattern.match(text)
+    # Bundesligaの小都市記事
+    if (
+        "bundesliga debut" in lower
+        and "small town" in lower
+    ):
+        return (
+            "小さな町からブンデスリーガへ――"
+            "番狂わせを狙う挑戦"
+        )
+
+
+    return None
+
+
+# =========================================================
+# 要約専用の自然化
+# =========================================================
+
+def rewrite_summary(summary):
+    raw = summary.strip()
+
+    # シェルキ記事
+    match = re.fullmatch(
+        r"After two goals and a swaggering "
+        r"display against (.+?), "
+        r"(.+?) asks if this is "
+        r"(.+?)['’]s time to shine "
+        r"for (.+?)[.]?",
+        raw,
+        flags=re.IGNORECASE,
+    )
 
     if match:
         opponent = entity_to_ja(
@@ -654,112 +887,48 @@ def smart_source_rewrite(text):
 
         return (
             f"{opponent}戦で2ゴールを挙げ、"
-            f"圧巻のパフォーマンスを見せた{player}。"
+            f"圧巻のパフォーマンスを見せた"
+            f"{player}。"
             f"{journalist}は、"
             f"{club}で{player}が"
             f"輝く時が来たのかを問う。"
         )
 
+
+    # Wrexham守備記事
+    match = re.fullmatch(
+        r"Defender (.+?) suggests "
+        r"(.+?) need to find a "
+        r"['“\"]ruthless['”\"] streak "
+        r"to address their defensive "
+        r"problems[.]?",
+        raw,
+        flags=re.IGNORECASE,
+    )
+
+    if match:
+        player = entity_to_ja(
+            match.group(1)
+        )
+
+        club = entity_to_ja(
+            match.group(2)
+        )
+
+        return (
+            f"DF{player}は、"
+            f"{club}が守備面の課題を"
+            f"改善するには、"
+            f"より勝負に徹する姿勢が"
+            f"必要だと指摘した。"
+        )
+
+
     return None
 
 
-# smart_source_rewrite内から使う簡易表現補正
-def translate_simple_phrase(text):
-    lower = text.lower().strip(" -–—")
-
-    known = {
-        "a magician and a maverick":
-            "魔術師のような技巧と型破りな才能",
-
-        "a magician and a maverick -":
-            "魔術師のような技巧と型破りな才能",
-
-        "magician and a maverick":
-            "魔術師のような技巧と型破りな才能",
-
-        "a magician":
-            "魔術師のような技巧",
-
-        "a maverick":
-            "型破りな才能",
-    }
-
-    if lower in known:
-        return known[lower]
-
-    return text.strip(" -–—")
-
-
 # =========================================================
-# 通常翻訳
-# =========================================================
-
-def translate_piece(translator, text):
-    if not text:
-        return ""
-
-    if not re.search(r"[A-Za-z]", text):
-        return text
-
-    try:
-        return translator.translate(text)
-
-    except Exception as error:
-        print(
-            "Piece translation failed:",
-            error,
-        )
-        return text
-
-
-def translate_preserving_entities(
-    translator,
-    text,
-):
-    spans = find_protected_spans(text)
-    spans = add_unknown_name_spans(
-        text,
-        spans,
-    )
-
-    if not spans:
-        return translate_piece(
-            translator,
-            text,
-        )
-
-    result = []
-    position = 0
-
-    for start, end, replacement in spans:
-        if start > position:
-            normal_text = text[
-                position:start
-            ]
-
-            result.append(
-                translate_piece(
-                    translator,
-                    normal_text,
-                )
-            )
-
-        result.append(replacement)
-        position = end
-
-    if position < len(text):
-        result.append(
-            translate_piece(
-                translator,
-                text[position:]
-            )
-        )
-
-    return "".join(result)
-
-
-# =========================================================
-# 第3段階：翻訳後の日本語をサッカー記事向けに補正
+# 翻訳後の日本語補正
 # =========================================================
 
 def football_postprocess(text):
@@ -783,7 +952,7 @@ def football_postprocess(text):
         "アトレティコマドリード":
             "アトレティコ・マドリード",
 
-        # 選手・人物
+        # 人名
         "レイアン・チェレキ":
             "ラヤン・シェルキ",
 
@@ -809,7 +978,7 @@ def football_postprocess(text):
         "ブンデス・リーガ":
             "ブンデスリーガ",
 
-        # サッカー文脈
+        # サッカー表現
         "2つの目標":
             "2ゴール",
 
@@ -837,9 +1006,6 @@ def football_postprocess(text):
         "優れたディスプレイ":
             "素晴らしいパフォーマンス",
 
-        "シェルキの瞬間":
-            "シェルキが輝く時",
-
         "輝く時間":
             "輝く時",
 
@@ -851,7 +1017,27 @@ def football_postprocess(text):
 
         "解雇された":
             "解任された",
+
+        # 不自然な一般翻訳
+        "自分自身をバックアップ":
+            "自らの手腕に自信を見せ",
+
+        "防御的な問題":
+            "守備面の問題",
+
+        "防御問題":
+            "守備面の問題",
+
+        "成功をもたらす":
+            "成功へ導く",
+
+        "プレイヤーの評価":
+            "選手採点",
+
+        "プレイヤー評価":
+            "選手採点",
     }
+
 
     for old, new in fixes.items():
         text = text.replace(
@@ -859,14 +1045,32 @@ def football_postprocess(text):
             new,
         )
 
-    # ZXQ等の旧方式の残骸が万一あっても表示しない
+
+    # 英語の所有格が残った場合
     text = re.sub(
-        r"\bZXQ(?:FB)?\w*\b",
-        "",
+        r"([ァ-ヶー一-龠々]+)'s",
+        r"\1の",
         text,
-        flags=re.IGNORECASE,
     )
 
+
+    # 英字と日本語の密着を防止
+    text = re.sub(
+        r"([A-Za-z0-9])"
+        r"([ぁ-んァ-ヶ一-龠])",
+        r"\1 \2",
+        text,
+    )
+
+    text = re.sub(
+        r"([ぁ-んァ-ヶ一-龠])"
+        r"([A-Za-z])",
+        r"\1 \2",
+        text,
+    )
+
+
+    # 句読点整理
     text = re.sub(
         r"\s+([。、！？])",
         r"\1",
@@ -888,28 +1092,53 @@ def football_postprocess(text):
     return text.strip()
 
 
-def translate_football_text(
+# =========================================================
+# 最終翻訳
+# =========================================================
+
+def translate_title(
     translator,
-    text,
+    title,
 ):
-    if not text:
-        return ""
-
-    if translator is None:
-        return text
-
-    # まず高度なサッカー定型文処理
-    rewritten = smart_source_rewrite(text)
+    rewritten = rewrite_headline(
+        title
+    )
 
     if rewritten:
         return football_postprocess(
             rewritten
         )
 
-    # それ以外は固有名詞保護＋通常翻訳
-    translated = translate_preserving_entities(
-        translator,
-        text,
+    translated = (
+        translate_preserving_entities(
+            translator,
+            title,
+        )
+    )
+
+    return football_postprocess(
+        translated
+    )
+
+
+def translate_summary(
+    translator,
+    summary,
+):
+    rewritten = rewrite_summary(
+        summary
+    )
+
+    if rewritten:
+        return football_postprocess(
+            rewritten
+        )
+
+    translated = (
+        translate_preserving_entities(
+            translator,
+            summary,
+        )
     )
 
     return football_postprocess(
@@ -990,28 +1219,38 @@ for source, feed_url in FEEDS:
                 )
             )
 
-            if not original_title or not link:
+            if (
+                not original_title
+                or not link
+            ):
                 continue
 
-            category, label, item_type = classify(
-                original_title,
-                original_summary,
+
+            category, label, item_type = (
+                classify(
+                    original_title,
+                    original_summary,
+                )
             )
+
 
             combined = (
                 f"{original_title} "
                 f"{original_summary}"
             ).lower()
 
+
             featured = any(
                 priority in combined
                 for priority in PRIORITY
             )
 
+
             old = previous.get(
                 link,
                 {},
             )
+
 
             reuse_translation = (
                 old.get(
@@ -1032,6 +1271,7 @@ for source, feed_url in FEEDS:
                 and old.get("title")
             )
 
+
             if reuse_translation:
                 title_ja = old.get(
                     "title",
@@ -1044,15 +1284,16 @@ for source, feed_url in FEEDS:
                 )
 
             else:
-                title_ja = translate_football_text(
+                title_ja = translate_title(
                     translator,
                     original_title,
                 )
 
-                summary_ja = translate_football_text(
+                summary_ja = translate_summary(
                     translator,
                     original_summary[:500],
                 )
+
 
             items.append({
                 "title": title_ja,
@@ -1078,6 +1319,7 @@ for source, feed_url in FEEDS:
                     TRANSLATION_VERSION,
             })
 
+
     except Exception as error:
         print(
             "Feed failed:",
@@ -1093,6 +1335,7 @@ for source, feed_url in FEEDS:
 unique_items = []
 seen = set()
 
+
 for item in items:
     key = item["url"]
 
@@ -1100,8 +1343,15 @@ for item in items:
         continue
 
     seen.add(key)
-    unique_items.append(item)
 
+    unique_items.append(
+        item
+    )
+
+
+# =========================================================
+# JSON保存
+# =========================================================
 
 output = {
     "updated_at":
@@ -1119,6 +1369,7 @@ DATA_PATH.parent.mkdir(
     exist_ok=True,
 )
 
+
 DATA_PATH.write_text(
     json.dumps(
         output,
@@ -1130,5 +1381,7 @@ DATA_PATH.write_text(
 
 
 print(
-    f"Saved {len(output['items'])} football articles"
+    f"Saved "
+    f"{len(output['items'])} "
+    f"football articles"
 )
