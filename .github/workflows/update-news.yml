@@ -20,7 +20,8 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-
+      - name: Install translation library
+        run: pip install argostranslate
       - name: Fetch latest football news
         run: python scripts/fetch_news.py
 
