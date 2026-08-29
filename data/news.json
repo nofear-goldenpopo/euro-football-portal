@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T21:19:07.247463+00:00",
+  "updated_at": "2026-08-29T21:34:21.877542+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -393,9 +393,28 @@
     "Jonathan Liew": "",
     "Caroline Dubois": "",
     "Amelia Moore": "",
-    "Alycia Baumgardner": "アリシア・バウムガードナー"
+    "Alycia Baumgardner": "アリシア・バウムガードナー",
+    "Watch Match": "",
+    "Mönchengladbach The Bundesliga": "",
+    "ATP Tour": "ATPツアー",
+    "Arthur Fery's": "",
+    "Peruvian Ignacio Buse": ""
   },
   "items": [
+    {
+      "title": "Watch Match 当日の様子",
+      "summary": "4 つのハイライトプレミアリーグマッチ、を含むリヴァプール. .ノッティンガム・フォレスト.",
+      "title_original": "Watch Match of the Day",
+      "summary_original": "Highlights from four Premier League matches, including Liverpool v Nottingham Forest.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 22:35:30 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
     {
       "title": "£300m は、テーブルの底に費やしました...トッテナムログイン De Zerbi「怒らない」",
       "summary": "夏に£300m 以上を過ごした、トッテナム自分自身の底を見つけるプレミアリーグ, ポイントやゴールなし, しかし、ボス ロベルト・デ・ツェルビは楽観的まま.",
@@ -481,13 +500,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Tonali の闘争は、ゴンザレスの感動 -選手採点獲得を獲得を問い合わせトッテナム. .ニューカッスル",
-      "summary": "使い方トッテナムそして、ニューカッスル’ s 選手は、土曜日の 2-0 にランクインし、訪問者は、プレミアリーグマッチ。",
-      "title_original": "Tonali struggles but Gonzalez impresses - player ratings for Tottenham v Newcastle",
-      "summary_original": "How Tottenham Hotspur and Newcastle United's players rated following Saturday's 2-0 win for the visitors in their Premier League match.",
+      "title": "ニューカッスル Tonali の後でそこに生命の多くを示します",
+      "summary": "ニューカッスル販売販売 Sandro Tonali 獲得を獲得を問い合わせトッテナム, しかし、クラブは、北ロンドンでユナイテッドの 2-0 の勝利を横切って資金を明らかにしたのを見て.",
+      "title_original": "Newcastle show there's plenty of life after Tonali",
+      "summary_original": "Newcastle United sold Sandro Tonali to Tottenham Hotspur, but the club look to have reinvested the money wisely following United's 2-0 win in north London.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c93e8qv2qq0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 18:26:50 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c14d0elejzdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 21:28:16 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -537,20 +556,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "森は£22m の契約に合意クリスタル・パレス Munoz について",
-      "summary": "ノッティンガム・フォレスト署名する£22m の最小値の移籍に同意する Daniel Munoz からクリスタル・パレス.",
-      "title_original": "Forest agree £22m deal with Palace for Munoz",
-      "summary_original": "Nottingham Forest agree a deal worth a minimum of £22m to sign Daniel Munoz from Crystal Palace.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39m0vmgxrgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 16:43:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "O'Neill はセルティック Ibrox のファンが300 人以上",
       "summary": "マーティン・オニールコメントセルティックチケットは、後から入手できません。レンジャーズ側面のための300 を提供されて League Cup 月次 Ibrox の四半期ファイナル。",
       "title_original": "O'Neill would rather Celtic had no fans at Ibrox than 300",
@@ -561,6 +566,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "森は£22m の契約に合意クリスタル・パレス Munoz について",
+      "summary": "ノッティンガム・フォレスト署名する£22m の最小値の移籍に同意する Daniel Munoz からクリスタル・パレス.",
+      "title_original": "Forest agree £22m deal with Palace for Munoz",
+      "summary_original": "Nottingham Forest agree a deal worth a minimum of £22m to sign Daniel Munoz from Crystal Palace.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39m0vmgxrgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 16:43:25 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -607,13 +626,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "リヴァプール、パリ・サンジェルマンのバルコラ獲得で1 億2300 万ポンド合意",
-      "summary": "リヴァプール事前に署名する契約で閉じるブラッドリー・バルコラ疑惑を増加させる、Cody Gakpo's 未来。",
-      "title_original": "Liverpool agree £123m deal for PSG's Barcola",
-      "summary_original": "Liverpool are closing in on a deal to sign forward Bradley Barcola, which will increase doubts over Cody Gakpo's future.",
+      "title": "Tonali の闘争は、ゴンザレスの感動 -選手採点獲得を獲得を問い合わせトッテナム. .ニューカッスル",
+      "summary": "使い方トッテナムそして、ニューカッスル’ s 選手は、土曜日の 2-0 にランクインし、訪問者は、プレミアリーグマッチ。",
+      "title_original": "Tonali struggles but Gonzalez impresses - player ratings for Tottenham v Newcastle",
+      "summary_original": "How Tottenham Hotspur and Newcastle United's players rated following Saturday's 2-0 win for the visitors in their Premier League match.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 08:03:53 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c93e8qv2qq0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 18:26:50 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -761,6 +780,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "リヴァプール、パリ・サンジェルマンのバルコラ獲得で1 億2300 万ポンド合意",
+      "summary": "リヴァプール事前に署名する契約で閉じるブラッドリー・バルコラ疑惑を増加させる、Cody Gakpo's 未来。",
+      "title_original": "Liverpool agree £123m deal for PSG's Barcola",
+      "summary_original": "Liverpool are closing in on a deal to sign forward Bradley Barcola, which will increase doubts over Cody Gakpo's future.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 08:03:53 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ジブスホワイトシャイン -選手採点獲得を獲得を問い合わせリヴァプール. .ノッティンガム・フォレスト FC",
       "summary": "使い方リヴァプールそして、ノッティンガム・フォレストの のプレイヤーは、プレミアリーグマッチ。",
       "title_original": "Gibbs-White shines - player ratings for Liverpool v Nottm Forest",
@@ -772,34 +805,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "3 週間インテル国民は懸念を破る -モウリーニョ",
-      "summary": "ジョゼ・モウリーニョ3 週間と言うインテル国民の休憩は「コンサート」ですレアル・マドリード、の後で要求するスケジュールに直面している複数の主プレーヤーを使って World Cup.",
-      "title_original": "Three-week international break a concern - Mourinho",
-      "summary_original": "Jose Mourinho says the three-week international break is a “concern” for Real Madrid, with several key players facing a demanding schedule after the World Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zwwz5z4no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 12:54:26 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "小さな町は、オッズを欠くことを目指していますブンデスリーガデビュー",
-      "summary": "エルバーベルクは、駅や人口はわずか13,000 人でなく、そのサッカーチームは、地域のドイツリーグから地域のドイツリーグに隕石の上昇を楽しんだブンデスリーガ.",
-      "title_original": "The tiny town aiming to defy odds in Bundesliga debut",
-      "summary_original": "Elversberg has no train station and a population of just 13,000, but its football team have enjoyed a meteoric rise from the regional German leagues to the Bundesliga.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70d4n1d0r9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 16:14:34 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -915,10 +920,10 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ヨーロッパのサッカー:エルバーベルク・スタン・レバークセンの夢ブンデスリーガデビュー",
-      "summary": "13,000 の衝撃2024 年の町からのチームは Nkunku のリターンとして勝ちます RB ライプツィヒビート Mönchengladbach ブンデスリーガエルバーベルクはスタイルで最初のトップフライトキャンペーンを開始しました, 見事なレヴァークーゼン印象的な3-2 ホーム勝利で Saturday. Lukas Petkov そして、Cole Campbell それぞれ60 秒以内にスコアを上げて、エルバーベルク 2-0 を10 分前に置く。David Mokwa9,307 人の長所のファンの前で2 番目の半分に別の初期を追加しました。続きを読む...",
+      "title": "ヨーロッパのフットボール:エルバーベルク・スタン・レバークセンの夢ブンデスリーガデビュー",
+      "summary": "13,000 の衝撃2024 年の町からのチームは Nkunku のリターンとして勝ちます RB ライプツィヒビート Mönchengladbach ザ·ブンデスリーガエルバーベルクはスタイルで最初のトップフライトキャンペーンを開始しました, 見事なレヴァークーゼン印象的な3-2 ホーム勝利で Saturday. Lukas Petkov そして、Cole Campbell 各々の60 秒以内にスコアを上げて、エルバーベルク2-0 を10 分前にマークします。David Mokwa9,307 人の長所のファンの前で、もう1 つの初期に追加。続きを読む...",
       "title_original": "European football: Elversberg stun Leverkusen in dream Bundesliga debut",
-      "summary_original": "Team from town of 13,000 shock 2024 champions Nkunku returns as RB Leipzig beat Mönchengladbach Bundesliga newcomers Elversberg began their first top-flight campaign in style, stunning Bayer Leverkusen with an impressive 3-2 home victory on Saturday. Lukas Petkov and Cole Campbell scored within 60 seconds of each other to put Elversberg 2-0 up before the 10-minute mark. David Mokwa added another early in the second half in front of 9,307 delirious fans. Continue reading...",
+      "summary_original": "Team from town of 13,000 shock 2024 champions Nkunku returns as RB Leipzig beat Mönchengladbach The Bundesliga newcomers Elversberg began their first top-flight campaign in style, stunning Bayer Leverkusen with an impressive 3-2 home victory on Saturday. Lukas Petkov and Cole Campbell scored within 60 seconds of each other to put Elversberg 2-0 up before the 10-minute mark. David Mokwa added another early in the second half in front of 9,307 delirious fans. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/29/european-football-elversberg-dortmund-juventus-sevilla-atletico",
       "published": "Sat, 29 Aug 2026 18:07:04 GMT",
@@ -1223,6 +1228,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "メイドインの夢 ATP ツアータイトルは終了しました Winston-Salem Open ファイナル",
+      "summary": "Arthur Fery's メイデンを上陸させる希望 ATP ツアータイトル Winston-Salem Open 流行のファッションで終わる Peruvian Ignacio Buse 土曜日に。",
+      "title_original": "Fery's dreams of maiden ATP Tour title ended in Winston-Salem Open final",
+      "summary_original": "Arthur Fery's hopes of landing his maiden ATP Tour title at Winston-Salem Open was ended in emphatic fashion by Peruvian Ignacio Buse on Saturday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13578422/arthur-fery-brits-hopes-of-landing-maiden-atp-tour-title-at-winston-salem-open-ended-by-peruvian-ignacio-buse-with-us-open-starting-sunday",
+      "published": "Sat, 29 Aug 2026 22:21:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "森林最新:£22m Munoz の契約はのためのハッチンソン セットと一致しました AC ミランログイン",
       "summary": "",
       "title_original": "Forest latest: £22m Munoz deal agreed with Hutchinson set for AC Milan loan",
@@ -1405,9 +1424,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "テニスのスコア:Britain's Fery セットダウン Winston-Salem Open ファイナル",
+      "title": "US Open スコア: ノーリー、ブルター、フェンリー、サミュエル、行動日曜日のドジョコヴィック",
       "summary": "",
-      "title_original": "Tennis scores: Britain's Fery a set down in Winston-Salem Open final",
+      "title_original": "US Open scores: Norrie, Boulter, Fearnley, Samuel and Djokovic in action Sunday",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/scores-schedule",
@@ -1485,20 +1504,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ニューカッスル最新:「印象的」の魔女のパフォーマンスの後のカラグラファー賞賛",
-      "summary": "",
-      "title_original": "Newcastle latest: Carragher praise after 'impressive' Magpies performance",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Sat, 29 Aug 2026 13:05:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
