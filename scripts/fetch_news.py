@@ -3,6 +3,7 @@ import re
 import html
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
@@ -10,9 +11,8 @@ import argostranslate.package
 import argostranslate.translate
 
 
-TRANSLATION_VERSION = "football-ja-v5"
+TRANSLATION_VERSION = "football-ja-v6"
 DATA_PATH = Path("data/news.json")
-
 
 FEEDS = [
     ("BBC Sport", "https://feeds.bbci.co.uk/sport/football/rss.xml"),
@@ -23,16 +23,20 @@ FEEDS = [
 
 
 # =========================================================
-# 第1段階
-# 大会・クラブ・監督などの固定辞書
+# 固定辞書
+# ここにある名前はWikipedia照合より優先します
 # =========================================================
 
 FOOTBALL_ENTITY_OVERRIDES = {
-    # 大会
+    # UEFA大会
     "UEFA Champions League": "UEFAチャンピオンズリーグ",
     "Champions League": "チャンピオンズリーグ",
+    "UEFA Europa League": "UEFAヨーロッパリーグ",
     "Europa League": "ヨーロッパリーグ",
+    "UEFA Conference League": "UEFAカンファレンスリーグ",
     "Conference League": "カンファレンスリーグ",
+
+    # 主要リーグ
     "Premier League": "プレミアリーグ",
     "La Liga": "ラ・リーガ",
     "Serie A": "セリエA",
@@ -61,8 +65,7 @@ FOOTBALL_ENTITY_OVERRIDES = {
     "West Ham United": "ウェストハム",
     "West Ham": "ウェストハム",
     "Brighton": "ブライトン",
-    "Wrexham": "レクサム",
-    "Rangers": "レンジャーズ",
+    "Nottingham Forest": "ノッティンガム・フォレスト",
 
     # スペイン
     "Real Madrid": "レアル・マドリード",
@@ -72,10 +75,11 @@ FOOTBALL_ENTITY_OVERRIDES = {
     "Barça": "バルセロナ",
     "Atletico Madrid": "アトレティコ・マドリード",
     "Atlético Madrid": "アトレティコ・マドリード",
+    "Athletic Club": "アスレティック・ビルバオ",
     "Real Sociedad": "レアル・ソシエダ",
-    "Athletic Club": "アスレティック・クラブ",
     "Villarreal": "ビジャレアル",
     "Sevilla": "セビージャ",
+    "Real Betis": "レアル・ベティス",
 
     # イタリア
     "Inter Milan": "インテル",
@@ -89,6 +93,7 @@ FOOTBALL_ENTITY_OVERRIDES = {
     "Napoli": "ナポリ",
     "Lazio": "ラツィオ",
     "Fiorentina": "フィオレンティーナ",
+    "Bologna": "ボローニャ",
 
     # ドイツ
     "Bayern Munich": "バイエルン・ミュンヘン",
@@ -97,53 +102,91 @@ FOOTBALL_ENTITY_OVERRIDES = {
     "Dortmund": "ドルトムント",
     "Bayer Leverkusen": "レヴァークーゼン",
     "RB Leipzig": "RBライプツィヒ",
+    "Eintracht Frankfurt": "アイントラハト・フランクフルト",
+    "Stuttgart": "シュトゥットガルト",
 
-    # フランス・オランダ・ポルトガル・トルコ
+    # フランス
     "Paris Saint-Germain": "パリ・サンジェルマン",
     "Paris St-Germain": "パリ・サンジェルマン",
     "PSG": "パリ・サンジェルマン",
     "Marseille": "マルセイユ",
     "Monaco": "モナコ",
+    "Lille": "リール",
+    "Lyon": "リヨン",
+
+    # オランダ
     "Ajax": "アヤックス",
+    "PSV Eindhoven": "PSVアイントホーフェン",
     "PSV": "PSV",
     "Feyenoord": "フェイエノールト",
+    "AZ Alkmaar": "AZアルクマール",
+
+    # ポルトガル
     "Benfica": "ベンフィカ",
     "FC Porto": "ポルト",
     "Porto": "ポルト",
     "Sporting CP": "スポルティングCP",
+    "Braga": "ブラガ",
+
+    # トルコ
     "Galatasaray": "ガラタサライ",
     "Fenerbahce": "フェネルバフチェ",
     "Fenerbahçe": "フェネルバフチェ",
+    "Besiktas": "ベシクタシュ",
+    "Beşiktaş": "ベシクタシュ",
+
+    # スコットランド
+    "Celtic": "セルティック",
+    "Rangers": "レンジャーズ",
+
+    # その他欧州で頻出
+    "Club Brugge": "クラブ・ブルッヘ",
+    "Anderlecht": "アンデルレヒト",
+    "Union Saint-Gilloise": "ユニオン・サン＝ジロワーズ",
+    "RB Salzburg": "RBザルツブルク",
+    "Red Bull Salzburg": "RBザルツブルク",
+    "Sturm Graz": "シュトゥルム・グラーツ",
+    "Slavia Prague": "スラヴィア・プラハ",
+    "Sparta Prague": "スパルタ・プラハ",
+    "Dinamo Zagreb": "ディナモ・ザグレブ",
+    "Red Star Belgrade": "レッドスター・ベオグラード",
+    "Olympiacos": "オリンピアコス",
+    "Panathinaikos": "パナシナイコス",
+    "PAOK": "PAOK",
+    "Shakhtar Donetsk": "シャフタール・ドネツク",
+    "Dynamo Kyiv": "ディナモ・キーウ",
+    "Young Boys": "ヤングボーイズ",
+    "Basel": "バーゼル",
+    "Copenhagen": "コペンハーゲン",
+    "Midtjylland": "ミッティラン",
+    "Bodo/Glimt": "ボデ/グリムト",
+    "Bodø/Glimt": "ボデ/グリムト",
+    "Malmo": "マルメ",
+    "Malmö": "マルメ",
+    "Ferencvaros": "フェレンツヴァーロシュ",
+    "Ferencváros": "フェレンツヴァーロシュ",
 
     # 監督・著名人
     "José Mourinho": "ジョゼ・モウリーニョ",
     "Jose Mourinho": "ジョゼ・モウリーニョ",
     "Mourinho": "モウリーニョ",
-    "Carlo Ancelotti": "カルロ・アンチェロッティ",
-    "Ancelotti": "アンチェロッティ",
     "Pep Guardiola": "ペップ・グアルディオラ",
     "Guardiola": "グアルディオラ",
     "Mikel Arteta": "ミケル・アルテタ",
     "Arteta": "アルテタ",
     "Arne Slot": "アルネ・スロット",
     "Hansi Flick": "ハンジ・フリック",
-    "Thomas Tuchel": "トーマス・トゥヘル",
     "Diego Simeone": "ディエゴ・シメオネ",
     "Antonio Conte": "アントニオ・コンテ",
-    "Frank Lampard": "フランク・ランパード",
-    "Lampard": "ランパード",
-    "Derek McInnes": "デレク・マッキネス",
-    "McInnes": "マッキネス",
+    "Luis Enrique": "ルイス・エンリケ",
+    "Vincent Kompany": "ヴァンサン・コンパニ",
+    "Xabi Alonso": "シャビ・アロンソ",
+    "Simone Inzaghi": "シモーネ・インザーギ",
 }
 
 
-# =========================================================
-# 第2段階
-# 成長型の選手名辞書
-# =========================================================
-
 PLAYER_NAME_OVERRIDES = {
-    # レアル
+    # レアル・マドリード
     "Kylian Mbappé": "キリアン・エムバペ",
     "Kylian Mbappe": "キリアン・エムバペ",
     "Mbappé": "エムバペ",
@@ -153,9 +196,7 @@ PLAYER_NAME_OVERRIDES = {
     "Jude Bellingham": "ジュード・ベリンガム",
     "Bellingham": "ベリンガム",
     "Federico Valverde": "フェデリコ・バルベルデ",
-    "Valverde": "バルベルデ",
     "Thibaut Courtois": "ティボー・クルトワ",
-    "Courtois": "クルトワ",
 
     # バルセロナ
     "Lamine Yamal": "ラミン・ヤマル",
@@ -164,7 +205,15 @@ PLAYER_NAME_OVERRIDES = {
     "Gavi": "ガビ",
     "Raphinha": "ラフィーニャ",
     "Robert Lewandowski": "ロベルト・レヴァンドフスキ",
-    "Lewandowski": "レヴァンドフスキ",
+
+    # PSG
+    "Bradley Barcola": "ブラッドリー・バルコラ",
+    "Barcola": "バルコラ",
+    "Ousmane Dembélé": "ウスマン・デンベレ",
+    "Ousmane Dembele": "ウスマン・デンベレ",
+    "Khvicha Kvaratskhelia": "フヴィチャ・クヴァラツヘリア",
+    "Vitinha": "ヴィティーニャ",
+    "Achraf Hakimi": "アクラフ・ハキミ",
 
     # プレミア
     "Erling Haaland": "アーリング・ハーランド",
@@ -172,52 +221,33 @@ PLAYER_NAME_OVERRIDES = {
     "Rayan Cherki": "ラヤン・シェルキ",
     "Cherki": "シェルキ",
     "Phil Foden": "フィル・フォーデン",
-    "Foden": "フォーデン",
     "Mohamed Salah": "モハメド・サラー",
-    "Salah": "サラー",
     "Virgil van Dijk": "フィルジル・ファン・ダイク",
     "Bukayo Saka": "ブカヨ・サカ",
-    "Saka": "サカ",
     "Martin Ødegaard": "マルティン・ウーデゴール",
     "Martin Odegaard": "マルティン・ウーデゴール",
     "Cole Palmer": "コール・パーマー",
-    "Palmer": "パーマー",
     "Bruno Fernandes": "ブルーノ・フェルナンデス",
-    "Son Heung-min": "ソン・フンミン",
     "Marcus Rashford": "マーカス・ラッシュフォード",
-    "Rashford": "ラッシュフォード",
     "Adam Wharton": "アダム・ウォートン",
-    "Wharton": "ウォートン",
-    "Harvey Elliott": "ハーヴェイ・エリオット",
-    "Elliott": "エリオット",
-    "Dom Hyam": "ドム・ハイアム",
-    "Lamine Camara": "ラミン・カマラ",
+    "Florian Wirtz": "フロリアン・ヴィルツ",
+    "Alexander Isak": "アレクサンデル・イサク",
 
     # セリエA
     "Lautaro Martínez": "ラウタロ・マルティネス",
     "Lautaro Martinez": "ラウタロ・マルティネス",
     "Nicolò Barella": "ニコロ・バレッラ",
     "Nicolo Barella": "ニコロ・バレッラ",
-    "Barella": "バレッラ",
     "Alessandro Bastoni": "アレッサンドロ・バストーニ",
-    "Bastoni": "バストーニ",
 
     # ブンデス
     "Harry Kane": "ハリー・ケイン",
-    "Kane": "ケイン",
     "Jamal Musiala": "ジャマル・ムシアラ",
-    "Musiala": "ムシアラ",
 
     # 記者
     "Phil McNulty": "フィル・マクナルティ",
-    "McNulty": "マクナルティ",
 }
 
-
-# =========================================================
-# 第3段階
-# サッカー用語
-# =========================================================
 
 FOOTBALL_PHRASE_OVERRIDES = {
     "clean sheet": "クリーンシート",
@@ -229,7 +259,6 @@ FOOTBALL_PHRASE_OVERRIDES = {
     "swaggering display": "圧巻のパフォーマンス",
     "impressive display": "印象的なパフォーマンス",
     "superb display": "素晴らしいパフォーマンス",
-    "fine display": "好パフォーマンス",
     "player ratings": "選手採点",
     "transfer fee": "移籍金",
     "transfer window": "移籍市場",
@@ -242,8 +271,6 @@ FOOTBALL_PHRASE_OVERRIDES = {
     "medical": "メディカルチェック",
     "contract extension": "契約延長",
     "new deal": "新契約",
-    "sacked": "解任された",
-    "sack": "解任",
     "starting XI": "先発メンバー",
     "starting eleven": "先発メンバー",
     "injury time": "アディショナルタイム",
@@ -255,8 +282,6 @@ FOOTBALL_PHRASE_OVERRIDES = {
     "title race": "優勝争い",
     "relegation battle": "残留争い",
     "top four": "トップ4",
-    "time to shine": "輝く時",
-    "moment to shine": "輝く時",
     "Saturday's gossip": "土曜日の移籍ゴシップ",
     "Sunday's gossip": "日曜日の移籍ゴシップ",
 }
@@ -264,11 +289,12 @@ FOOTBALL_PHRASE_OVERRIDES = {
 
 PRIORITY = [
     "champions league",
+    "europa league",
+    "conference league",
     "real madrid",
     "mourinho",
     "barcelona",
     "manchester city",
-    "man city",
     "manchester united",
     "liverpool",
     "arsenal",
@@ -284,16 +310,11 @@ PRIORITY = [
 ]
 
 
-# =========================================================
-# 基本処理
-# =========================================================
-
 def fetch(url):
     request = Request(
         url,
-        headers={"User-Agent": "EURO-Football-Portal/5.0"},
+        headers={"User-Agent": "EURO-Football-Portal/6.0"},
     )
-
     with urlopen(request, timeout=30) as response:
         return response.read()
 
@@ -310,66 +331,42 @@ def classify(title, summary):
     if "champions league" in text:
         return "ucl", "CL", "ucl"
 
+    if "europa league" in text:
+        return "uel", "EL", "uel"
+
+    if "conference league" in text:
+        return "uecl", "ECL", "uecl"
+
     if any(x in text for x in [
-        "premier league",
-        "manchester city",
-        "man city",
-        "manchester united",
-        "man utd",
-        "liverpool",
-        "arsenal",
-        "chelsea",
-        "tottenham",
-        "newcastle",
-        "aston villa",
+        "premier league", "manchester city", "man city",
+        "manchester united", "man utd", "liverpool", "arsenal",
+        "chelsea", "tottenham", "newcastle", "aston villa",
         "crystal palace",
     ]):
         return "epl", "プレミア", "epl"
 
     if any(x in text for x in [
-        "la liga",
-        "real madrid",
-        "barcelona",
-        "barca",
-        "atletico madrid",
-        "atlético madrid",
-        "real sociedad",
+        "la liga", "real madrid", "barcelona", "barca",
+        "atletico madrid", "atlético madrid", "real sociedad",
         "villarreal",
     ]):
         return "laliga", "ラ・リーガ", "laliga"
 
     if any(x in text for x in [
-        "serie a",
-        "inter",
-        "ac milan",
-        "juventus",
-        "roma",
-        "atalanta",
-        "napoli",
-        "lazio",
+        "serie a", "inter", "ac milan", "juventus", "roma",
+        "atalanta", "napoli", "lazio",
     ]):
         return "seriea", "セリエA", "seriea"
 
     if any(x in text for x in [
-        "bundesliga",
-        "bayern",
-        "borussia dortmund",
-        "leverkusen",
-        "rb leipzig",
+        "bundesliga", "bayern", "borussia dortmund",
+        "leverkusen", "rb leipzig",
     ]):
         return "bundesliga", "ブンデス", "bundesliga"
 
     if any(x in text for x in [
-        "transfer",
-        "signing",
-        "signed",
-        "signs",
-        "loan",
-        "deal",
-        "move",
-        "fee",
-        "medical",
-        "personal terms",
+        "transfer", "signing", "signed", "signs", "loan",
+        "deal", "move", "fee", "medical", "personal terms",
         "contract",
     ]):
         return "transfer", "移籍", "transfer"
@@ -384,276 +381,251 @@ def classify(title, summary):
 def prepare_translator():
     try:
         installed = argostranslate.translate.get_installed_languages()
-
-        english = next(
-            (lang for lang in installed if lang.code == "en"),
-            None,
-        )
-
-        japanese = next(
-            (lang for lang in installed if lang.code == "ja"),
-            None,
-        )
+        english = next((x for x in installed if x.code == "en"), None)
+        japanese = next((x for x in installed if x.code == "ja"), None)
 
         if english and japanese:
             return english.get_translation(japanese)
 
         print("Installing English -> Japanese translation model")
-
         argostranslate.package.update_package_index()
-
         packages = argostranslate.package.get_available_packages()
-
         package = next(
             p for p in packages
-            if p.from_code == "en"
-            and p.to_code == "ja"
+            if p.from_code == "en" and p.to_code == "ja"
         )
-
         downloaded = package.download()
+        argostranslate.package.install_from_path(downloaded)
 
-        argostranslate.package.install_from_path(
-            downloaded
-        )
-
-        installed = (
-            argostranslate.translate
-            .get_installed_languages()
-        )
-
-        english = next(
-            lang for lang in installed
-            if lang.code == "en"
-        )
-
-        japanese = next(
-            lang for lang in installed
-            if lang.code == "ja"
-        )
-
-        return english.get_translation(
-            japanese
-        )
+        installed = argostranslate.translate.get_installed_languages()
+        english = next(x for x in installed if x.code == "en")
+        japanese = next(x for x in installed if x.code == "ja")
+        return english.get_translation(japanese)
 
     except Exception as error:
-        print(
-            "Translator setup failed:",
-            error,
-        )
-
+        print("Translator setup failed:", error)
         return None
 
 
-# =========================================================
-# 固有名詞処理
-# =========================================================
-
-def combined_entities():
+def combined_entities(dynamic_entities=None):
     result = {}
-
-    result.update(
-        FOOTBALL_ENTITY_OVERRIDES
-    )
-
-    result.update(
-        PLAYER_NAME_OVERRIDES
-    )
-
-    result.update(
-        FOOTBALL_PHRASE_OVERRIDES
-    )
-
+    result.update(FOOTBALL_ENTITY_OVERRIDES)
+    result.update(PLAYER_NAME_OVERRIDES)
+    result.update(FOOTBALL_PHRASE_OVERRIDES)
+    if dynamic_entities:
+        result.update(dynamic_entities)
     return result
 
 
-def entity_to_ja(name):
-    name = name.strip()
+# =========================================================
+# Wikipedia日本語名の自動補完
+# 英語Wikipediaの同名ページに日本語版がある場合、
+# 日本語ページ名を固有名詞表記として利用します。
+# =========================================================
 
-    for english, japanese in (
-        combined_entities().items()
-    ):
+UNKNOWN_NAME_PATTERN = re.compile(
+    r"\b("
+    r"[A-ZÀ-ÖØ-Ý][A-Za-zÀ-ÖØ-öø-ÿ'’.-]+"
+    r"(?:\s+[A-ZÀ-ÖØ-Ý][A-Za-zÀ-ÖØ-öø-ÿ'’.-]+){1,3}"
+    r")\b"
+)
+
+UNKNOWN_NAME_STOPWORDS = {
+    "Premier League",
+    "Champions League",
+    "UEFA Champions League",
+    "Europa League",
+    "UEFA Europa League",
+    "Conference League",
+    "UEFA Conference League",
+    "Saturday Gossip",
+    "Sunday Gossip",
+    "BBC Sport",
+    "Sky Sports",
+    "The Guardian",
+}
+
+
+def extract_unknown_candidates(text, known_entities):
+    results = []
+    known_lower = {key.lower() for key in known_entities}
+
+    for match in UNKNOWN_NAME_PATTERN.finditer(text or ""):
+        phrase = match.group(1).strip()
+        if phrase in UNKNOWN_NAME_STOPWORDS:
+            continue
+        if phrase.lower() in known_lower:
+            continue
+
+        words = phrase.split()
+        # 見出しの一般語を人名と誤認しにくくする
+        generic = {
+            "After", "Before", "Why", "How", "What", "When", "Where",
+            "Could", "Would", "Should", "Premier", "Champions", "Europa",
+            "Conference", "League", "Transfer", "Football", "Saturday",
+            "Sunday",
+        }
+        if any(word in generic for word in words):
+            continue
+
+        results.append(phrase)
+
+    return results
+
+
+def wikipedia_ja_batch(names, cache):
+    names = [n for n in dict.fromkeys(names) if n and n not in cache]
+    if not names:
+        return
+
+    # 1回20件にしてWikipedia APIへの負荷を抑える
+    for start in range(0, len(names), 20):
+        batch = names[start:start + 20]
+
+        try:
+            params = urlencode({
+                "action": "query",
+                "format": "json",
+                "formatversion": "2",
+                "redirects": "1",
+                "prop": "langlinks",
+                "lllang": "ja",
+                "lllimit": "1",
+                "titles": "|".join(batch),
+            })
+
+            request = Request(
+                "https://en.wikipedia.org/w/api.php?" + params,
+                headers={
+                    "User-Agent":
+                        "EURO-Football-Portal/6.0 "
+                        "(GitHub Pages football news translator)"
+                },
+            )
+
+            with urlopen(request, timeout=15) as response:
+                data = json.loads(response.read().decode("utf-8"))
+
+            query = data.get("query", {})
+            normalized = {
+                x.get("from"): x.get("to")
+                for x in query.get("normalized", [])
+            }
+            redirects = {
+                x.get("from"): x.get("to")
+                for x in query.get("redirects", [])
+            }
+
+            page_by_title = {
+                p.get("title"): p
+                for p in query.get("pages", [])
+                if not p.get("missing")
+            }
+
+            for original in batch:
+                title = normalized.get(original, original)
+                title = redirects.get(title, title)
+                page = page_by_title.get(title, {})
+                links = page.get("langlinks", [])
+
+                if links:
+                    ja_title = links[0].get("title", "").strip()
+                    cache[original] = ja_title
+                else:
+                    # 空文字もキャッシュし、次回以降の再照会を防ぐ
+                    cache[original] = ""
+
+        except Exception as error:
+            print("Wikipedia lookup failed:", error)
+            # 通信失敗時は空文字を保存しない。
+            # 次回の更新時に再試行できるようにする。
+
+
+def entity_to_ja(name, dynamic_entities):
+    name = name.strip()
+    for english, japanese in combined_entities(dynamic_entities).items():
         if english.lower() == name.lower():
             return japanese
-
     return name
 
 
-def find_protected_spans(text):
+def find_protected_spans(text, dynamic_entities):
     candidates = []
 
     entries = sorted(
-        combined_entities().items(),
+        combined_entities(dynamic_entities).items(),
         key=lambda item: len(item[0]),
         reverse=True,
     )
 
     for english, japanese in entries:
-        pattern = re.compile(
-            re.escape(english),
-            re.IGNORECASE,
-        )
-
+        pattern = re.compile(re.escape(english), re.IGNORECASE)
         for match in pattern.finditer(text):
             candidates.append(
-                (
-                    match.start(),
-                    match.end(),
-                    japanese,
-                    len(match.group(0)),
-                )
+                (match.start(), match.end(), japanese, len(match.group(0)))
             )
 
-    candidates.sort(
-        key=lambda x: (
-            x[0],
-            -x[3],
-        )
-    )
-
+    candidates.sort(key=lambda x: (x[0], -x[3]))
     selected = []
 
     for start, end, replacement, _ in candidates:
         overlap = any(
-            start < old_end
-            and end > old_start
-            for old_start, old_end, _
-            in selected
+            start < old_end and end > old_start
+            for old_start, old_end, _ in selected
         )
-
         if not overlap:
-            selected.append(
-                (
-                    start,
-                    end,
-                    replacement,
-                )
-            )
+            selected.append((start, end, replacement))
 
-    selected.sort(
-        key=lambda x: x[0]
-    )
-
+    selected.sort(key=lambda x: x[0])
     return selected
 
 
-UNKNOWN_NAME_PATTERN = re.compile(
-    r"\b("
-    r"[A-ZÀ-ÖØ-Ý]"
-    r"[A-Za-zÀ-ÖØ-öø-ÿ'’-]+"
-    r"(?:\s+"
-    r"[A-ZÀ-ÖØ-Ý]"
-    r"[A-Za-zÀ-ÖØ-öø-ÿ'’-]+"
-    r"){1,2}"
-    r")\b"
-)
+def add_unknown_name_spans(text, spans):
+    occupied = [(start, end) for start, end, _ in spans]
 
-
-UNKNOWN_NAME_STOPWORDS = {
-    "Premier League",
-    "Champions League",
-    "Europa League",
-    "Conference League",
-    "Saturday Gossip",
-    "Sunday Gossip",
-}
-
-
-def add_unknown_name_spans(
-    text,
-    spans,
-):
-    occupied = [
-        (start, end)
-        for start, end, _
-        in spans
-    ]
-
-    for match in (
-        UNKNOWN_NAME_PATTERN
-        .finditer(text)
-    ):
+    for match in UNKNOWN_NAME_PATTERN.finditer(text):
         phrase = match.group(1)
-
         if phrase in UNKNOWN_NAME_STOPWORDS:
             continue
 
-        start = match.start()
-        end = match.end()
-
+        start, end = match.start(), match.end()
         overlap = any(
-            start < old_end
-            and end > old_start
-            for old_start, old_end
-            in occupied
+            start < old_end and end > old_start
+            for old_start, old_end in occupied
         )
-
         if overlap:
             continue
 
-        spans.append(
-            (
-                start,
-                end,
-                phrase,
-            )
-        )
+        # Wikipediaで日本語名が見つからなかった名前は
+        # Argosに壊されないよう英語表記のまま保護する
+        spans.append((start, end, phrase))
+        occupied.append((start, end))
 
-        occupied.append(
-            (start, end)
-        )
-
-    spans.sort(
-        key=lambda x: x[0]
-    )
-
+    spans.sort(key=lambda x: x[0])
     return spans
 
 
-def translate_piece(
-    translator,
-    text,
-):
+def translate_piece(translator, text):
     if not text:
         return ""
-
-    if not re.search(
-        r"[A-Za-z]",
-        text,
-    ):
+    if not re.search(r"[A-Za-z]", text):
+        return text
+    if translator is None:
         return text
 
     try:
-        return translator.translate(
-            text
-        )
-
+        return translator.translate(text)
     except Exception as error:
-        print(
-            "Piece translation failed:",
-            error,
-        )
-
+        print("Piece translation failed:", error)
         return text
 
 
-def translate_preserving_entities(
-    translator,
-    text,
-):
-    spans = find_protected_spans(
-        text
-    )
-
-    spans = add_unknown_name_spans(
-        text,
-        spans,
-    )
+def translate_preserving_entities(translator, text, dynamic_entities):
+    spans = find_protected_spans(text, dynamic_entities)
+    spans = add_unknown_name_spans(text, spans)
 
     if not spans:
-        return translate_piece(
-            translator,
-            text,
-        )
+        return translate_piece(translator, text)
 
     result = []
     position = 0
@@ -661,671 +633,316 @@ def translate_preserving_entities(
     for start, end, replacement in spans:
         if start > position:
             result.append(
-                translate_piece(
-                    translator,
-                    text[position:start],
-                )
+                translate_piece(translator, text[position:start])
             )
-
-        result.append(
-            replacement
-        )
-
+        result.append(replacement)
         position = end
 
     if position < len(text):
-        result.append(
-            translate_piece(
-                translator,
-                text[position:],
-            )
-        )
+        result.append(translate_piece(translator, text[position:]))
 
     return "".join(result)
 
 
 # =========================================================
-# 第4段階
-# サッカーニュース見出し専用の自然化
+# 見出し・要約の自然化
 # =========================================================
 
-def rewrite_headline(title):
+def rewrite_headline(title, dynamic_entities):
     raw = title.strip()
     lower = raw.lower()
 
-    # Do Wrexham have defensive problems?
     match = re.fullmatch(
         r"Do (.+?) have defensive problems\?",
         raw,
         flags=re.IGNORECASE,
     )
-
     if match:
-        club = entity_to_ja(
-            match.group(1)
-        )
+        club = entity_to_ja(match.group(1), dynamic_entities)
+        return f"{club}に守備面の問題はあるのか？"
 
-        return (
-            f"{club}に守備面の"
-            f"問題はあるのか？"
-        )
-
-
-    # McInnes backs himself to bring Rangers success
     match = re.fullmatch(
-        r"(.+?) backs himself to bring "
-        r"(.+?) success",
+        r"(.+?) backs himself to bring (.+?) success",
         raw,
         flags=re.IGNORECASE,
     )
-
     if match:
-        person = entity_to_ja(
-            match.group(1)
-        )
+        person = entity_to_ja(match.group(1), dynamic_entities)
+        club = entity_to_ja(match.group(2), dynamic_entities)
+        return f"{person}、自らの手腕に自信　{club}を成功へ導けるか"
 
-        club = entity_to_ja(
-            match.group(2)
-        )
-
-        return (
-            f"{person}、自らの手腕に自信　"
-            f"{club}を成功へ導けるか"
-        )
-
-
-    # Cherki genius and Wharton excels -
-    # Palace v Man City player ratings
     match = re.fullmatch(
-        r"(.+?) genius and (.+?) excels"
-        r"\s*-\s*"
-        r"(.+?) v (.+?) player ratings",
+        r"(.+?) genius and (.+?) excels\s*-\s*(.+?) v (.+?) player ratings",
         raw,
         flags=re.IGNORECASE,
     )
-
     if match:
-        player1 = entity_to_ja(
-            match.group(1)
-        )
+        p1 = entity_to_ja(match.group(1), dynamic_entities)
+        p2 = entity_to_ja(match.group(2), dynamic_entities)
+        t1 = entity_to_ja(match.group(3), dynamic_entities)
+        t2 = entity_to_ja(match.group(4), dynamic_entities)
+        return f"{p1}が圧巻、{p2}も高評価　{t1}対{t2}の選手採点"
 
-        player2 = entity_to_ja(
-            match.group(2)
-        )
-
-        team1 = entity_to_ja(
-            match.group(3)
-        )
-
-        team2 = entity_to_ja(
-            match.group(4)
-        )
-
-        return (
-            f"{player1}が圧巻、"
-            f"{player2}も高評価　"
-            f"{team1}対{team2}の選手採点"
-        )
-
-
-    # Arsenal & Barca monitor Rashford -
-    # Saturday's gossip
     match = re.fullmatch(
-        r"(.+?)\s*&\s*(.+?) "
-        r"monitor (.+?)"
-        r"\s*-\s*"
-        r"(Saturday|Sunday)'s gossip",
+        r"(.+?)\s*&\s*(.+?) monitor (.+?)\s*-\s*(Saturday|Sunday)'s gossip",
         raw,
         flags=re.IGNORECASE,
     )
-
     if match:
-        club1 = entity_to_ja(
-            match.group(1)
-        )
+        c1 = entity_to_ja(match.group(1), dynamic_entities)
+        c2 = entity_to_ja(match.group(2), dynamic_entities)
+        player = entity_to_ja(match.group(3), dynamic_entities)
+        day = "土曜日" if match.group(4).lower() == "saturday" else "日曜日"
+        return f"{c1}と{c2}が{player}を注視　{day}の移籍ゴシップ"
 
-        club2 = entity_to_ja(
-            match.group(2)
-        )
-
-        player = entity_to_ja(
-            match.group(3)
-        )
-
-        day = (
-            match.group(4)
-            .lower()
-        )
-
-        if day == "saturday":
-            day_ja = "土曜日"
-        else:
-            day_ja = "日曜日"
-
-        return (
-            f"{club1}と{club2}が"
-            f"{player}を注視　"
-            f"{day_ja}の移籍ゴシップ"
-        )
-
-
-    # A magician and a maverick -
-    # this could be Cherki's moment for Man City
     match = re.fullmatch(
-        r"A magician and a maverick"
-        r"\s*-\s*"
-        r"this could be "
-        r"(.+?)['’]s moment for (.+)",
+        r"A magician and a maverick\s*-\s*this could be (.+?)['’]s moment for (.+)",
         raw,
         flags=re.IGNORECASE,
     )
-
     if match:
-        player = entity_to_ja(
-            match.group(1)
-        )
+        player = entity_to_ja(match.group(1), dynamic_entities)
+        club = entity_to_ja(match.group(2), dynamic_entities)
+        return f"技巧と型破りな才能――{player}が{club}で輝く時が来たか"
 
-        club = entity_to_ja(
-            match.group(2)
-        )
-
-        return (
-            f"技巧と型破りな才能――"
-            f"{player}が{club}で"
-            f"輝く時が来たか"
-        )
-
-
-    # Bundesligaの小都市記事
-    if (
-        "bundesliga debut" in lower
-        and "small town" in lower
-    ):
-        return (
-            "小さな町からブンデスリーガへ――"
-            "番狂わせを狙う挑戦"
-        )
-
+    if "bundesliga debut" in lower and "small town" in lower:
+        return "小さな町からブンデスリーガへ――番狂わせを狙う挑戦"
 
     return None
 
 
-# =========================================================
-# 要約専用の自然化
-# =========================================================
-
-def rewrite_summary(summary):
+def rewrite_summary(summary, dynamic_entities):
     raw = summary.strip()
 
-    # シェルキ記事
     match = re.fullmatch(
-        r"After two goals and a swaggering "
-        r"display against (.+?), "
-        r"(.+?) asks if this is "
-        r"(.+?)['’]s time to shine "
-        r"for (.+?)[.]?",
+        r"After two goals and a swaggering display against (.+?), "
+        r"(.+?) asks if this is (.+?)['’]s time to shine for (.+?)[.]?",
         raw,
         flags=re.IGNORECASE,
     )
-
     if match:
-        opponent = entity_to_ja(
-            match.group(1)
-        )
-
-        journalist = entity_to_ja(
-            match.group(2)
-        )
-
-        player = entity_to_ja(
-            match.group(3)
-        )
-
-        club = entity_to_ja(
-            match.group(4)
-        )
-
+        opponent = entity_to_ja(match.group(1), dynamic_entities)
+        journalist = entity_to_ja(match.group(2), dynamic_entities)
+        player = entity_to_ja(match.group(3), dynamic_entities)
+        club = entity_to_ja(match.group(4), dynamic_entities)
         return (
-            f"{opponent}戦で2ゴールを挙げ、"
-            f"圧巻のパフォーマンスを見せた"
-            f"{player}。"
-            f"{journalist}は、"
-            f"{club}で{player}が"
-            f"輝く時が来たのかを問う。"
+            f"{opponent}戦で2ゴールを挙げ、圧巻のパフォーマンスを見せた"
+            f"{player}。{journalist}は、{club}で{player}が輝く時が"
+            f"来たのかを問う。"
         )
-
-
-    # Wrexham守備記事
-    match = re.fullmatch(
-        r"Defender (.+?) suggests "
-        r"(.+?) need to find a "
-        r"['“\"]ruthless['”\"] streak "
-        r"to address their defensive "
-        r"problems[.]?",
-        raw,
-        flags=re.IGNORECASE,
-    )
-
-    if match:
-        player = entity_to_ja(
-            match.group(1)
-        )
-
-        club = entity_to_ja(
-            match.group(2)
-        )
-
-        return (
-            f"DF{player}は、"
-            f"{club}が守備面の課題を"
-            f"改善するには、"
-            f"より勝負に徹する姿勢が"
-            f"必要だと指摘した。"
-        )
-
 
     return None
 
-
-# =========================================================
-# 翻訳後の日本語補正
-# =========================================================
 
 def football_postprocess(text):
     fixes = {
-        # クラブ
-        "マンシティ":
-            "マンチェスター・シティ",
-
-        "マンチェスターシティ":
-            "マンチェスター・シティ",
-
-        "マンU":
-            "マンチェスター・ユナイテッド",
-
-        "レアルマドリード":
-            "レアル・マドリード",
-
-        "クリスタルパレス":
-            "クリスタル・パレス",
-
-        "アトレティコマドリード":
-            "アトレティコ・マドリード",
-
-        # 人名
-        "レイアン・チェレキ":
-            "ラヤン・シェルキ",
-
-        "レイアン・チェルキ":
-            "ラヤン・シェルキ",
-
-        "チェレキ":
-            "シェルキ",
-
-        "チェルキ":
-            "シェルキ",
-
-        "フィル・マッナルティ":
-            "フィル・マクナルティ",
-
-        # 大会
-        "ラリーガ":
-            "ラ・リーガ",
-
-        "セリエ A":
-            "セリエA",
-
-        "ブンデス・リーガ":
-            "ブンデスリーガ",
-
-        # サッカー表現
-        "2つの目標":
-            "2ゴール",
-
-        "二つの目標":
-            "2ゴール",
-
-        "3つの目標":
-            "3ゴール",
-
-        "目標を決め":
-            "ゴールを決め",
-
-        "目標を挙げ":
-            "ゴールを挙げ",
-
-        "分散表示":
-            "パフォーマンス",
-
-        "華やかなディスプレイ":
-            "圧巻のパフォーマンス",
-
-        "印象的なディスプレイ":
-            "印象的なパフォーマンス",
-
-        "優れたディスプレイ":
-            "素晴らしいパフォーマンス",
-
-        "輝く時間":
-            "輝く時",
-
-        "ペナルティシュートアウト":
-            "PK戦",
-
-        "ペナルティーシュートアウト":
-            "PK戦",
-
-        "解雇された":
-            "解任された",
-
-        # 不自然な一般翻訳
-        "自分自身をバックアップ":
-            "自らの手腕に自信を見せ",
-
-        "防御的な問題":
-            "守備面の問題",
-
-        "防御問題":
-            "守備面の問題",
-
-        "成功をもたらす":
-            "成功へ導く",
-
-        "プレイヤーの評価":
-            "選手採点",
-
-        "プレイヤー評価":
-            "選手採点",
+        "マンシティ": "マンチェスター・シティ",
+        "マンチェスターシティ": "マンチェスター・シティ",
+        "マンU": "マンチェスター・ユナイテッド",
+        "レアルマドリード": "レアル・マドリード",
+        "クリスタルパレス": "クリスタル・パレス",
+        "アトレティコマドリード": "アトレティコ・マドリード",
+        "レイアン・チェレキ": "ラヤン・シェルキ",
+        "レイアン・チェルキ": "ラヤン・シェルキ",
+        "チェレキ": "シェルキ",
+        "フィル・マッナルティ": "フィル・マクナルティ",
+        "ラリーガ": "ラ・リーガ",
+        "セリエ A": "セリエA",
+        "ブンデス・リーガ": "ブンデスリーガ",
+        "2つの目標": "2ゴール",
+        "二つの目標": "2ゴール",
+        "3つの目標": "3ゴール",
+        "目標を決め": "ゴールを決め",
+        "目標を挙げ": "ゴールを挙げ",
+        "分散表示": "パフォーマンス",
+        "華やかなディスプレイ": "圧巻のパフォーマンス",
+        "印象的なディスプレイ": "印象的なパフォーマンス",
+        "輝く時間": "輝く時",
+        "ペナルティシュートアウト": "PK戦",
+        "防御的な問題": "守備面の問題",
+        "防御問題": "守備面の問題",
+        "プレイヤーの評価": "選手採点",
+        "プレイヤー評価": "選手採点",
     }
 
-
     for old, new in fixes.items():
-        text = text.replace(
-            old,
-            new,
-        )
+        text = text.replace(old, new)
 
-
-    # 英語の所有格が残った場合
+    text = re.sub(r"([ァ-ヶー一-龠々]+)'s", r"\1の", text)
     text = re.sub(
-        r"([ァ-ヶー一-龠々]+)'s",
-        r"\1の",
-        text,
-    )
-
-
-    # 英字と日本語の密着を防止
-    text = re.sub(
-        r"([A-Za-z0-9])"
-        r"([ぁ-んァ-ヶ一-龠])",
+        r"([A-Za-z0-9])([ぁ-んァ-ヶ一-龠])",
         r"\1 \2",
         text,
     )
-
     text = re.sub(
-        r"([ぁ-んァ-ヶ一-龠])"
-        r"([A-Za-z])",
+        r"([ぁ-んァ-ヶ一-龠])([A-Za-z])",
         r"\1 \2",
         text,
     )
-
-
-    # 句読点整理
-    text = re.sub(
-        r"\s+([。、！？])",
-        r"\1",
-        text,
-    )
-
-    text = re.sub(
-        r"([。、！？])\s+",
-        r"\1",
-        text,
-    )
-
-    text = re.sub(
-        r"\s{2,}",
-        " ",
-        text,
-    )
-
+    text = re.sub(r"\s+([。、！？])", r"\1", text)
+    text = re.sub(r"([。、！？])\s+", r"\1", text)
+    text = re.sub(r"\s{2,}", " ", text)
     return text.strip()
 
 
-# =========================================================
-# 最終翻訳
-# =========================================================
-
-def translate_title(
-    translator,
-    title,
-):
-    rewritten = rewrite_headline(
-        title
-    )
-
+def translate_title(translator, title, dynamic_entities):
+    rewritten = rewrite_headline(title, dynamic_entities)
     if rewritten:
-        return football_postprocess(
-            rewritten
-        )
+        return football_postprocess(rewritten)
 
-    translated = (
-        translate_preserving_entities(
-            translator,
-            title,
-        )
+    translated = translate_preserving_entities(
+        translator, title, dynamic_entities
     )
-
-    return football_postprocess(
-        translated
-    )
+    return football_postprocess(translated)
 
 
-def translate_summary(
-    translator,
-    summary,
-):
-    rewritten = rewrite_summary(
-        summary
-    )
-
+def translate_summary(translator, summary, dynamic_entities):
+    rewritten = rewrite_summary(summary, dynamic_entities)
     if rewritten:
-        return football_postprocess(
-            rewritten
-        )
+        return football_postprocess(rewritten)
 
-    translated = (
-        translate_preserving_entities(
-            translator,
-            summary,
-        )
+    translated = translate_preserving_entities(
+        translator, summary, dynamic_entities
     )
-
-    return football_postprocess(
-        translated
-    )
+    return football_postprocess(translated)
 
 
 # =========================================================
-# 前回データ
+# 前回データとWikipediaキャッシュ
 # =========================================================
 
 previous = {}
+wiki_cache = {}
 
 if DATA_PATH.exists():
     try:
-        old_data = json.loads(
-            DATA_PATH.read_text(
-                encoding="utf-8"
-            )
-        )
+        old_data = json.loads(DATA_PATH.read_text(encoding="utf-8"))
+        wiki_cache = old_data.get("entity_cache", {}) or {}
 
-        for item in old_data.get(
-            "items",
-            [],
-        ):
+        for item in old_data.get("items", []):
             url = item.get("url")
-
             if url:
                 previous[url] = item
 
     except Exception as error:
-        print(
-            "Could not read previous data:",
-            error,
-        )
-
-
-translator = prepare_translator()
-
-items = []
+        print("Could not read previous data:", error)
 
 
 # =========================================================
-# RSS取得
+# まずRSSを全部取得
 # =========================================================
+
+raw_items = []
 
 for source, feed_url in FEEDS:
     try:
-        root = ET.fromstring(
-            fetch(feed_url)
-        )
+        root = ET.fromstring(fetch(feed_url))
 
-        for feed_item in root.findall(
-            ".//item"
-        )[:30]:
+        for feed_item in root.findall(".//item")[:30]:
+            original_title = clean(feed_item.findtext("title"))
+            original_summary = clean(feed_item.findtext("description"))
+            link = clean(feed_item.findtext("link"))
+            published = clean(feed_item.findtext("pubDate"))
 
-            original_title = clean(
-                feed_item.findtext(
-                    "title"
-                )
-            )
-
-            original_summary = clean(
-                feed_item.findtext(
-                    "description"
-                )
-            )
-
-            link = clean(
-                feed_item.findtext(
-                    "link"
-                )
-            )
-
-            published = clean(
-                feed_item.findtext(
-                    "pubDate"
-                )
-            )
-
-            if (
-                not original_title
-                or not link
-            ):
+            if not original_title or not link:
                 continue
 
-
-            category, label, item_type = (
-                classify(
-                    original_title,
-                    original_summary,
-                )
-            )
-
-
-            combined = (
-                f"{original_title} "
-                f"{original_summary}"
-            ).lower()
-
-
-            featured = any(
-                priority in combined
-                for priority in PRIORITY
-            )
-
-
-            old = previous.get(
-                link,
-                {},
-            )
-
-
-            reuse_translation = (
-                old.get(
-                    "translation_version"
-                )
-                == TRANSLATION_VERSION
-
-                and old.get(
-                    "title_original"
-                )
-                == original_title
-
-                and old.get(
-                    "summary_original"
-                )
-                == original_summary[:500]
-
-                and old.get("title")
-            )
-
-
-            if reuse_translation:
-                title_ja = old.get(
-                    "title",
-                    original_title,
-                )
-
-                summary_ja = old.get(
-                    "summary",
-                    original_summary,
-                )
-
-            else:
-                title_ja = translate_title(
-                    translator,
-                    original_title,
-                )
-
-                summary_ja = translate_summary(
-                    translator,
-                    original_summary[:500],
-                )
-
-
-            items.append({
-                "title": title_ja,
-                "summary": summary_ja,
-
-                "title_original":
-                    original_title,
-
-                "summary_original":
-                    original_summary[:500],
-
+            raw_items.append({
                 "source": source,
+                "title_original": original_title,
+                "summary_original": original_summary[:500],
                 "url": link,
                 "published": published,
-
-                "category": category,
-                "type": item_type,
-                "label": label,
-
-                "featured": featured,
-
-                "translation_version":
-                    TRANSLATION_VERSION,
             })
 
-
     except Exception as error:
-        print(
-            "Feed failed:",
-            source,
-            error,
+        print("Feed failed:", source, error)
+
+
+# =========================================================
+# 未知の人名・クラブ名候補をWikipediaで一括照合
+# =========================================================
+
+fixed = combined_entities()
+unknown_candidates = []
+
+for item in raw_items:
+    unknown_candidates.extend(
+        extract_unknown_candidates(item["title_original"], fixed)
+    )
+    unknown_candidates.extend(
+        extract_unknown_candidates(item["summary_original"], fixed)
+    )
+
+# 1回の更新で新規照会は最大100候補。
+# キャッシュ済みの候補はこの制限には含まれません。
+new_candidates = [
+    name for name in dict.fromkeys(unknown_candidates)
+    if name not in wiki_cache
+][:100]
+
+wikipedia_ja_batch(new_candidates, wiki_cache)
+
+dynamic_entities = {
+    english: japanese
+    for english, japanese in wiki_cache.items()
+    if japanese
+}
+
+
+# =========================================================
+# 翻訳
+# =========================================================
+
+translator = prepare_translator()
+items = []
+
+for raw in raw_items:
+    original_title = raw["title_original"]
+    original_summary = raw["summary_original"]
+    link = raw["url"]
+
+    category, label, item_type = classify(
+        original_title, original_summary
+    )
+
+    combined = f"{original_title} {original_summary}".lower()
+    featured = any(priority in combined for priority in PRIORITY)
+
+    old = previous.get(link, {})
+
+    reuse_translation = (
+        old.get("translation_version") == TRANSLATION_VERSION
+        and old.get("title_original") == original_title
+        and old.get("summary_original") == original_summary
+        and old.get("title")
+    )
+
+    if reuse_translation:
+        title_ja = old.get("title", original_title)
+        summary_ja = old.get("summary", original_summary)
+    else:
+        title_ja = translate_title(
+            translator, original_title, dynamic_entities
         )
+        summary_ja = translate_summary(
+            translator, original_summary, dynamic_entities
+        )
+
+    items.append({
+        "title": title_ja,
+        "summary": summary_ja,
+        "title_original": original_title,
+        "summary_original": original_summary,
+        "source": raw["source"],
+        "url": link,
+        "published": raw["published"],
+        "category": category,
+        "type": item_type,
+        "label": label,
+        "featured": featured,
+        "translation_version": TRANSLATION_VERSION,
+    })
 
 
 # =========================================================
@@ -1335,53 +952,36 @@ for source, feed_url in FEEDS:
 unique_items = []
 seen = set()
 
-
 for item in items:
     key = item["url"]
-
     if key in seen:
         continue
-
     seen.add(key)
-
-    unique_items.append(
-        item
-    )
+    unique_items.append(item)
 
 
 # =========================================================
 # JSON保存
 # =========================================================
 
-output = {
-    "updated_at":
-        datetime.now(
-            timezone.utc
-        ).isoformat(),
+# キャッシュが無制限に大きくならないよう上限を設定
+if len(wiki_cache) > 3000:
+    wiki_cache = dict(list(wiki_cache.items())[-3000:])
 
-    "items":
-        unique_items[:80],
+output = {
+    "updated_at": datetime.now(timezone.utc).isoformat(),
+    "translation_version": TRANSLATION_VERSION,
+    "entity_cache": wiki_cache,
+    "items": unique_items[:80],
 }
 
-
-DATA_PATH.parent.mkdir(
-    parents=True,
-    exist_ok=True,
-)
-
+DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
 
 DATA_PATH.write_text(
-    json.dumps(
-        output,
-        ensure_ascii=False,
-        indent=2,
-    ),
+    json.dumps(output, ensure_ascii=False, indent=2),
     encoding="utf-8",
 )
 
+print(f"Saved {len(output['items'])} football articles")
+print(f"Entity cache: {len(wiki_cache)} entries")
 
-print(
-    f"Saved "
-    f"{len(output['items'])} "
-    f"football articles"
-)
