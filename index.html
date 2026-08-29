@@ -1,1 +1,456 @@
-<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#111827"><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon.svg"><link rel="stylesheet" href="styles.css"><title>EURO FOOTBALL PORTAL</title></head><body><header class="topbar"><div><div class="eyebrow">EUROPEAN FOOTBALL</div><h1>EURO FOOTBALL PORTAL</h1></div><button id="refreshBtn" class="iconbtn">↻</button></header><main><section class="hero"><div class="heroTitle">欧州サッカー最新動向</div><div id="updatedAt" class="muted">データ読み込み中…</div><input id="search" class="search" type="search" placeholder="ニュースを検索（選手・クラブ・大会・移籍など）"></section><nav id="filters" class="filters"></nav><section><div class="sectionHead"><h2>最新ニュース</h2><span id="count" class="muted"></span></div><div id="news" class="news"></div></section></main><footer>無料ソースのホワイトリスト方式。記事本文を転載せず、タイトル・短い説明と原文へのリンクを基本とします。</footer><script src="config.js"></script><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#111827">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg">
+
+  <title>EURO FOOTBALL PORTAL</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Hiragino Sans",
+        "Yu Gothic",
+        sans-serif;
+      background: #f4f5f7;
+      color: #111827;
+    }
+
+    .topbar {
+      background: #111827;
+      color: white;
+      padding:
+        calc(42px + env(safe-area-inset-top))
+        24px
+        36px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .eyebrow {
+      color: #c7cbd4;
+      font-size: 14px;
+      letter-spacing: 4px;
+      margin-bottom: 10px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 30px;
+      line-height: 1.15;
+    }
+
+    .iconbtn {
+      width: 58px;
+      height: 58px;
+      border: 0;
+      border-radius: 50%;
+      background: #303747;
+      color: white;
+      font-size: 32px;
+    }
+
+    main {
+      padding: 18px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    .hero {
+      background: white;
+      border-radius: 24px;
+      padding: 22px;
+      box-shadow: 0 5px 20px rgba(0,0,0,.05);
+    }
+
+    .heroTitle {
+      font-size: 28px;
+      font-weight: 800;
+      margin-bottom: 5px;
+    }
+
+    .muted {
+      color: #8b93a3;
+      font-size: 14px;
+    }
+
+    .search {
+      width: 100%;
+      margin-top: 18px;
+      padding: 16px;
+      border: 1px solid #d5d8df;
+      border-radius: 18px;
+      font-size: 16px;
+      background: #f3f4f6;
+    }
+
+    .filters {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding: 18px 0;
+      scrollbar-width: none;
+    }
+
+    .filter {
+      flex: 0 0 auto;
+      border: 1px solid #d5d8df;
+      background: white;
+      border-radius: 999px;
+      padding: 10px 15px;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .filter.active {
+      background: #111827;
+      color: white;
+      border-color: #111827;
+    }
+
+    .sectionHead {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin: 12px 2px;
+    }
+
+    .sectionHead h2 {
+      font-size: 25px;
+      margin: 0;
+    }
+
+    .news {
+      display: grid;
+      gap: 14px;
+    }
+
+    .card {
+      background: white;
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0 4px 16px rgba(0,0,0,.04);
+    }
+
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      align-items: center;
+      font-size: 12px;
+      color: #7b8494;
+      margin-bottom: 10px;
+    }
+
+    .badge {
+      background: #e8ebf0;
+      color: #111827;
+      border-radius: 999px;
+      padding: 5px 9px;
+      font-weight: 700;
+    }
+
+    .star {
+      font-weight: 700;
+    }
+
+    .card h3 {
+      margin: 0 0 10px;
+      line-height: 1.4;
+      font-size: 19px;
+    }
+
+    .card p {
+      margin: 0 0 14px;
+      color: #555e6c;
+      line-height: 1.65;
+      font-size: 14px;
+    }
+
+    .card a {
+      color: #1d4ed8;
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    .empty {
+      background: white;
+      padding: 24px;
+      border-radius: 18px;
+      color: #7b8494;
+    }
+
+    footer {
+      padding: 28px 26px calc(34px + env(safe-area-inset-bottom));
+      color: #9aa1af;
+      font-size: 12px;
+      line-height: 1.6;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+
+<body>
+
+<header class="topbar">
+  <div>
+    <div class="eyebrow">EUROPEAN FOOTBALL</div>
+    <h1>EURO FOOTBALL<br>PORTAL</h1>
+  </div>
+
+  <button id="refreshBtn" class="iconbtn" aria-label="更新">
+    ↻
+  </button>
+</header>
+
+<main>
+
+  <section class="hero">
+    <div class="heroTitle">欧州サッカー最新動向</div>
+
+    <div id="updatedAt" class="muted">
+      データ読み込み中…
+    </div>
+
+    <input
+      id="search"
+      class="search"
+      type="search"
+      placeholder="ニュースを検索（選手・クラブ・大会・移籍など）"
+    >
+  </section>
+
+  <nav id="filters" class="filters"></nav>
+
+  <section>
+    <div class="sectionHead">
+      <h2>最新ニュース</h2>
+      <span id="count" class="muted"></span>
+    </div>
+
+    <div id="news" class="news"></div>
+  </section>
+
+</main>
+
+<footer>
+  無料ソースのホワイトリスト方式。
+  記事本文を転載せず、タイトル・短い説明と原文へのリンクを基本とします。
+</footer>
+
+<script>
+const DATA_URL = "./data/news.json";
+
+let allNews = [];
+let activeFilter = "all";
+
+const categories = [
+  ["all", "すべて"],
+  ["ucl", "CL"],
+  ["epl", "プレミア"],
+  ["laliga", "ラ・リーガ"],
+  ["seriea", "セリエA"],
+  ["bundesliga", "ブンデス"],
+  ["transfer", "移籍"],
+  ["other", "その他"]
+];
+
+function escapeHtml(value) {
+  const div = document.createElement("div");
+  div.textContent = value == null ? "" : String(value);
+  return div.innerHTML;
+}
+
+function renderFilters() {
+  const filters = document.getElementById("filters");
+
+  filters.innerHTML = categories.map(([id, label]) => `
+    <button
+      class="filter ${id === activeFilter ? "active" : ""}"
+      data-filter="${id}">
+      ${label}
+    </button>
+  `).join("");
+
+  filters.querySelectorAll(".filter").forEach(button => {
+    button.addEventListener("click", () => {
+      activeFilter = button.dataset.filter;
+      renderFilters();
+      renderNews();
+    });
+  });
+}
+
+function renderNews() {
+  const newsEl = document.getElementById("news");
+  const countEl = document.getElementById("count");
+  const searchEl = document.getElementById("search");
+
+  const query = searchEl.value.trim().toLowerCase();
+
+  const filtered = allNews.filter(item => {
+    const categoryMatch =
+      activeFilter === "all" ||
+      item.category === activeFilter ||
+      item.type === activeFilter;
+
+    const text = [
+      item.title,
+      item.summary,
+      item.source,
+      item.label,
+      item.category,
+      item.type
+    ]
+      .filter(Boolean)
+      .join(" ")
+      .toLowerCase();
+
+    return categoryMatch && (!query || text.includes(query));
+  });
+
+  countEl.textContent = filtered.length + "件";
+
+  if (!filtered.length) {
+    newsEl.innerHTML =
+      '<div class="empty">該当するニュースがありません。</div>';
+    return;
+  }
+
+  newsEl.innerHTML = filtered.map(item => {
+
+    let dateText = "";
+
+    if (item.published) {
+      const date = new Date(item.published);
+
+      dateText = Number.isNaN(date.getTime())
+        ? item.published
+        : date.toLocaleString("ja-JP");
+    }
+
+    return `
+      <article class="card">
+
+        <div class="meta">
+
+          ${item.label
+            ? `<span class="badge">${escapeHtml(item.label)}</span>`
+            : ""}
+
+          ${item.featured
+            ? `<span class="star">★ 注目</span>`
+            : ""}
+
+          ${item.source
+            ? `<span>${escapeHtml(item.source)}</span>`
+            : ""}
+
+          ${dateText
+            ? `<span>${escapeHtml(dateText)}</span>`
+            : ""}
+
+        </div>
+
+        <h3>${escapeHtml(item.title || "タイトルなし")}</h3>
+
+        ${item.summary
+          ? `<p>${escapeHtml(item.summary)}</p>`
+          : ""}
+
+        ${item.url
+          ? `<a
+              href="${escapeHtml(item.url)}"
+              target="_blank"
+              rel="noopener noreferrer">
+              原文を見る ↗
+            </a>`
+          : ""}
+
+      </article>
+    `;
+  }).join("");
+}
+
+async function loadNews() {
+
+  const updatedAt = document.getElementById("updatedAt");
+  const newsEl = document.getElementById("news");
+
+  updatedAt.textContent = "データ読み込み中…";
+
+  try {
+
+    const response = await fetch(
+      DATA_URL + "?t=" + Date.now(),
+      { cache: "no-store" }
+    );
+
+    if (!response.ok) {
+      throw new Error("HTTP " + response.status);
+    }
+
+    const data = await response.json();
+
+    allNews = Array.isArray(data.items)
+      ? data.items
+      : [];
+
+    if (data.updated_at) {
+
+      const date = new Date(data.updated_at);
+
+      updatedAt.textContent =
+        Number.isNaN(date.getTime())
+          ? "最終更新: " + data.updated_at
+          : "最終更新: " + date.toLocaleString("ja-JP");
+
+    } else {
+
+      updatedAt.textContent =
+        allNews.length + "件のニュースを取得";
+
+    }
+
+    renderNews();
+
+  } catch (error) {
+
+    console.error(error);
+
+    updatedAt.textContent =
+      "ニュースの読み込みに失敗しました";
+
+    newsEl.innerHTML =
+      '<div class="empty">データを取得できませんでした。</div>';
+  }
+}
+
+document
+  .getElementById("search")
+  .addEventListener("input", renderNews);
+
+document
+  .getElementById("refreshBtn")
+  .addEventListener("click", loadNews);
+
+renderFilters();
+loadNews();
+
+setInterval(loadNews, 15 * 60 * 1000);
+</script>
+
+</body>
+</html>
