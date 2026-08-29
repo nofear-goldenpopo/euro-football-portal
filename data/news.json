@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T10:49:03.919380+00:00",
+  "updated_at": "2026-08-29T11:04:13.954760+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -176,7 +176,10 @@
     "Gakpo. Nottingham Forest": "",
     "Aina. Continue": "",
     "BlueSky Andoni Iraola": "",
-    "TNT Sports": ""
+    "TNT Sports": "",
+    "BlueSky Iraola": "",
+    "Bradley Barcola. Once": "",
+    "EFL LIVE": ""
   },
   "items": [
     {
@@ -601,12 +604,12 @@
     },
     {
       "title": "リヴァプール. .ノッティンガム・フォレスト: プレミアリーグ– ライブ",
-      "summary": "キックオフ12.30pm(BST) 連絡を取る: メールスコットとフォローしてください BlueSky Andoni Iraola アンフィールドで初の競争力のある試合を担当リヴァプールランチタイムをマネージャーにし、TNT Sports. 「私の場合の感情...明らかにそれが我々が勝つためにしたいゲームです...あなたはピッチに焦点を当てています...しかし、私には、それは特別なゲームです、間違いなく、そう...それは私が選ぶために困難である必要があります先発メンバー...私たちが2 番目の半分で作ることができる変更...サブが提供できるもの...それら",
+      "summary": "キックオフ12.30pm(BST) 連絡を取る: メールスコットとフォローしてください BlueSky Iraola すぐに別の素晴らしい選択問題があります。朝刊の朝刊リヴァプール移籍の最終決定、最後に、パリ・サンジェルマンウィンガーブラッドリー・バルコラ. 最後のフープがジャンプされたら - a メディカルチェックこの週末 - 夏の最も退屈な...いいえ、素敵な...ゆっくりと展開物語は、その自然な終わりに来ます。Andoni Iraola アンフィールドで初の競争力のある試合を担当リヴァプール",
       "title_original": "Liverpool v Nottingham Forest: Premier League – live",
-      "summary_original": "Updates from 12.30pm (BST) kickoff Get in touch: mail Scott and follow us on BlueSky Andoni Iraola takes charge of his first competitive match at Anfield as Liverpool manager this lunchtime, and he speaks to TNT Sports. “Emotional in my case … obviously it’s a game we want to win … you are focusing on the pitch … but for me it’s a special game, definitely, yes … it has to be difficult for me to choose a starting XI … what changes we can make in the second half … what the subs can provide … they ",
+      "summary_original": "Updates from 12.30pm (BST) kickoff Get in touch: mail Scott and follow us on BlueSky Iraola will have another nice selection problem soon. News broke this morning of Liverpool finalising a deal, at long last, for PSG winger Bradley Barcola. Once the last hoop has been jumped through – a medical this weekend – one of the summer’s most tedious … no, let’s be nice … slowly unfolding tales will come to its natural end. Andoni Iraola takes charge of his first competitive match at Anfield as Liverpool",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/liverpool-v-nottingham-forest-premier-league-live",
-      "published": "Sat, 29 Aug 2026 10:33:29 GMT",
+      "published": "Sat, 29 Aug 2026 10:39:57 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -620,7 +623,7 @@
       "summary_original": "PSG winger due for Liverpool medical over weekend Get in touch: mail Sarah and follow us on BlueSky Liverpool have wrapped up a deal for Bradley Barcola from Paris Saint-Germain, according to reports today. The 23-year-old will arrive for a fee of well over £100m, with add-ons and precise sums involved TBC. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/transfer-news-liverpool-v-nottingham-forest-buildup-and-more-matchday-live",
-      "published": "Sat, 29 Aug 2026 10:26:07 GMT",
+      "published": "Sat, 29 Aug 2026 10:45:27 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1020,6 +1023,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ダービー, ワーブ, アクションでミドルスラフ -EFL LIVE 空に!",
+      "summary": "",
+      "title_original": "Derby, Wolves, Middlesbrough in action - EFL LIVE on Sky!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13577502/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
+      "published": "Sat, 29 Aug 2026 12:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "主の雨は、イングランドの支配人として遅れ始めます Pakistan LIVE!",
       "summary": "",
       "title_original": "Start delayed at Lord's as rain halts England's dominance against Pakistan LIVE!",
@@ -1282,20 +1299,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Wrexham 1-2 バーミンガム ハイライト",
-      "summary": "",
-      "title_original": "Wrexham 1-2 Birmingham highlights",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/wrexham-vs-birmingham-city/live/560533",
-      "published": "Fri, 28 Aug 2026 18:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
