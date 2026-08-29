@@ -1,36 +1,40 @@
-name: Update Football News
+import json
+import re
+from datetime import datetime, timezone
+from pathlib import Path
+from urllib.request import Request, urlopen
+import xml.etree.ElementTree as ET
 
-on:
-  schedule:
-    - cron: "*/15 * * * *"
-  workflow_dispatch:
+import argostranslate.package
+import argostranslate.translate
 
-permissions:
-  contents: write
 
-jobs:
-  update-news:
-    runs-on: ubuntu-latest
+# 辞書の内容を大きく変更した時は番号を上げる。
+# 以前の翻訳キャッシュを使わず、再翻訳させるための番号。
+TRANSLATION_VERSION = "football-ja-v2"
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
+FEEDS = [
+    ("BBC Sport", "https://feeds.bbci.co.uk/sport/football/rss.xml"),
+    ("The Guardian Football", "https://www.theguardian.com/football/rss"),
+    ("Sky Sports Football", "https://www.skysports.com/rss/12040"),
+    ("ESPN FC", "https://www.espn.com/espn/rss/soccer/news"),
+]
 
-      - name: Install translation library
-        run: python -m pip install --upgrade pip argostranslate
 
-      - name: Fetch latest football news
-        run: python scripts/fetch_news.py
+# ---------------------------------------------------------
+# 第1段階
+# クラブ・大会・監督・頻出固有名詞を固定
+# ---------------------------------------------------------
 
-      - name: Commit updated news
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
-          git diff --cached --quiet || git commit -m "Update football news"
-          git push
+FOOTBALL_ENTITY_OVERRIDES = {
+    # 大会
+    "Champions League": "チャンピオンズリーグ",
+    "UEFA Champions League": "UEFAチャンピオンズリーグ",
+    "Europa League": "ヨーロッパリーグ",
+    "Conference League": "カンファレンスリーグ",
+    "Premier League": "プレミアリーグ",
+    "La Liga": "ラ・リーガ",
+    "Serie A": "セリエA",
+    "Bundesliga": "ブンデスリーガ",
+    "Ligue 1":
