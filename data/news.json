@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T13:34:05.189379+00:00",
+  "updated_at": "2026-08-29T13:49:23.816591+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -241,7 +241,12 @@
     "Bluesky The Liverpool": "",
     "Morgan Gibbs-White": "",
     "Matt Crooks": "",
-    "Hidemasa Morita": ""
+    "Hidemasa Morita": "",
+    "Victor Munoz": "",
+    "Joseph Opoku": "",
+    "Eom Ji-sung": "",
+    "Sky Bet Championship": "EFLチャンピオンシップ",
+    "Will Lankshear": ""
   },
   "items": [
     {
@@ -301,20 +306,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "技巧と型破りな才能――シェルキがマンチェスター・シティで輝く時が来たか",
-      "summary": "クリスタル・パレス戦で2 ゴールを挙げ、圧巻のパフォーマンスを見せたラヤン・シェルキ。フィル・マクナルティは、マンチェスター・シティでラヤン・シェルキが輝く時が来たのかを問う。",
-      "title_original": "A magician and a maverick - this could be Cherki's moment for Man City",
-      "summary_original": "After two goals and a swaggering display against Crystal Palace, Phil McNulty asks if this is Rayan Cherki's time to shine for Manchester City.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 22:56:42 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "ランプード「真ん中のどこか」のモウリーニョそして Ancelotti",
       "summary": "自家経営のキャリアに8 年。コヴェントリー・シティ FC ログイン Frank Lampard ログインジョゼ・モウリーニョそして、Carli Ancelotti 彼のスタイルの主な影響として。",
       "title_original": "Lampard 'somewhere in the middle' of Mourinho and Ancelotti",
@@ -357,6 +348,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "技巧と型破りな才能――シェルキがマンチェスター・シティで輝く時が来たか",
+      "summary": "クリスタル・パレス戦で2 ゴールを挙げ、圧巻のパフォーマンスを見せたラヤン・シェルキ。フィル・マクナルティは、マンチェスター・シティでラヤン・シェルキが輝く時が来たのかを問う。",
+      "title_original": "A magician and a maverick - this could be Cherki's moment for Man City",
+      "summary_original": "After two goals and a swaggering display against Crystal Palace, Phil McNulty asks if this is Rayan Cherki's time to shine for Manchester City.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 28 Aug 2026 22:56:42 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Arsenal & Barca、Rashford - Saturday's gossip を獲得候補に",
       "summary": "アーセナルモニターマーカス・ラッシュフォード, チェルシーログインモナコ'Lamine Camara と バレンシア プッシュ のためにリヴァプールミッドフィルダーHarvey Elliott、プラス多く。",
       "title_original": "Arsenal & Barca monitor Rashford - Saturday's gossip",
@@ -395,20 +400,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ジャクソンは、出口のためにセットされたワトキンとヴィラに持って来るものは何ですか?",
-      "summary": "BBC スポーツは、新しいストライカーを調べる Nicolas Jackson ご持参ください。アストン・ヴィラと、Ollie WatkinsAl-Hilal にご参加ください。",
-      "title_original": "What will Jackson bring to Villa with Watkins set for exit?",
-      "summary_original": "BBC Sport examines what new striker Nicolas Jackson will bring to Aston Villa, with Ollie Watkins looking set to join Al-Hilal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 19:14:48 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -609,6 +600,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ジャクソンは、出口のためにセットされたワトキンとヴィラに持って来るものは何ですか?",
+      "summary": "BBC スポーツは、新しいストライカーを調べる Nicolas Jackson ご持参ください。アストン・ヴィラと、Ollie WatkinsAl-Hilal にご参加ください。",
+      "title_original": "What will Jackson bring to Villa with Watkins set for exit?",
+      "summary_original": "BBC Sport examines what new striker Nicolas Jackson will bring to Aston Villa, with Ollie Watkins looking set to join Al-Hilal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 28 Aug 2026 19:14:48 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "部門、ドラマ、パワー - インファンティーノとウエファの次のもの?",
       "summary": "爆発的な裁判所の文書は、フィファ大統領とウファのフェードの成長した苦難を明らかに Gianni Infantino, Dan Roan レポート。",
       "title_original": "Division, drama and power - what next for Infantino and Uefa?",
@@ -665,13 +670,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "リヴァプール. .ノッティンガム・フォレスト: プレミアリーグ– ライブ",
+      "title": "Muñoz snatches ポイント のためにリヴァプール脈動 2-2 森で描く - ライブ反応",
       "summary": "Anfield のライブアップデート 12.30pm キックオフ (BST)Email Scott| レッド ファイナライズ £123m バルコラソリューション チームが出てきます!リヴァプールレッド、最近のように目に見える3 枚目のシャツを身に着けている森マンチェスター・シティ番号。You’ll Never Walk Alone リングアウト、としてリヴァプールオーナージョン・ヘンリー (曖昧さ回避)そして新しい副会長 Amit Bhatia スタンドから見る わたしたちは一分間オフします...そして、その分はファンが伝説を覚えているのを見るでしょう Kevin Keegan、星の Bill Shankly’s 第2 の大きい t",
-      "title_original": "Liverpool v Nottingham Forest: Premier League – live",
+      "title_original": "Muñoz snatches point for Liverpool in pulsating 2-2 draw with Forest – live reaction",
       "summary_original": "Live updates from Anfield 12.30pm kick-off (BST) Email Scott | Reds finalise £123m Barcola deal The teams are out! Liverpool all in red, Forest wearing a third-choice shirt that looks awfully like a recent Manchester City number. You’ll Never Walk Alone rings out, as Liverpool principal owner John Henry and the new vice-chairman Amit Bhatia watch from the stand. We’ll be off in a minute … and that minute will see fans remember the legendary Kevin Keegan, the star of Bill Shankly’s second great t",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/liverpool-v-nottingham-forest-premier-league-live",
-      "published": "Sat, 29 Aug 2026 13:20:07 GMT",
+      "published": "Sat, 29 Aug 2026 13:33:25 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -685,7 +690,7 @@
       "summary_original": "Updates from 3pm games (BST) around the grounds Get in touch: mail Sarah and follow us on Bluesky The Liverpool v Nottingham Forest match is turning into a right battle. Alexander Isak equalised for the Reds but Morgan Gibbs-White just slotted a beautiful penalty to put Forest ahead once again. All the updates: Hull City make one change as Matt Crooks makes way for Hidemasa Morita, who will make his full Hull debut. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/premier-league-bournemouth-everton-coventry-hull-efl-clockwatch-live",
-      "published": "Sat, 29 Aug 2026 13:20:18 GMT",
+      "published": "Sat, 29 Aug 2026 13:31:19 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -763,10 +768,10 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ヨーロッパのフットボール:パリ・サンジェルマンしばらくスクランブル別の描画バイエルン飛行開始を作る",
-      "summary": "マーキンホスは、レイトイコライザーを掴むリーグ・アンチャンピオンバイエルン圧倒的に圧倒シュトゥットガルトアリアンツ・アリーナで5-1 パリ・サンジェルマンディフェンダー・マルキンホスは、希少に値するスナッチするために停止時間に深く得点 2-2 で描画リール金曜日にリーグ・アン開幕の週末にレンヌが主催する闘争に続くチャンピオン。貧しい 2-2 が Rennes に対して描画した後、物事は悪いから悪くなり、パリ・サンジェルマンいつかリールアイスランドのプレイメーカーとして21 分でリード Hákon Haraldsson ログイン",
-      "title_original": "European football: PSG scramble another draw while Bayern make flying start",
-      "summary_original": "Marquinhos grabs late equaliser for Ligue 1 champions Bayern overwhelm Stuttgart 5-1 at Allianz Arena Paris Saint-Germain defender Marquinhos scored deep into stoppage ⁠time to snatch a scarcely deserved 2-2 draw at Lille on Friday as the Ligue 1 champions ⁠continued to struggle ⁠after ​being held by Rennes on the opening weekend. After the poor 2-2 draw ‌against Rennes, things went from bad to worse for PSG when Lille took the lead in the 21st minute as Icelandic playmaker Hákon Haraldsson latc",
+      "title": "ヨーロッパのフットボール:パリ・サンジェルマンしばらく経つバイエルン・ミュンヘン飛行開始を作る",
+      "summary": "マーキンホスは、レイトイコライザーを掴むリーグ・アンチャンピオンバイエルンクラッシュシュトゥットガルト5-1; ミラノシンクヴェネチア 2-0 パリ・サンジェルマンディフェンダー・マルキンホスは、希少に値するスナッチするために停止時間に深く得点 2-2 で描画リール金曜日にリーグ・アンチャンピオンズは、シーズンに彼らの説得力のないスタートを継続しました。開いている週末にレンヌに反対する2-2 の悪い後、物事は悪いから悪くなってパリ・サンジェルマンいつかリールアイスランドのプレイメーカーとして21 分でリード Hákon Haraldsson ラッチ",
+      "title_original": "European football: PSG stumbled again while Bayern Munich make flying start",
+      "summary_original": "Marquinhos grabs late equaliser for Ligue 1 champions Bayern crush Stuttgart 5-1; Milan sink Venezia 2-0 Paris Saint-Germain defender Marquinhos scored deep into stoppage ⁠time to snatch a scarcely deserved 2-2 draw at Lille on Friday as the Ligue 1 champions ⁠continued their unconvincing start to the season. After a poor 2-2 draw ‌against Rennes on the opening weekend, things went from bad to worse for PSG when Lille took the lead in the 21st minute as Icelandic playmaker Hákon Haraldsson latch",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/29/european-football-psg-scramble-another-draw-while-bayern-make-flying-start",
       "published": "Fri, 28 Aug 2026 23:15:23 GMT",
@@ -1085,6 +1090,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Munoz 救助ポイントのためのリヴァプールイラオラの勝利の待ち時間として",
+      "summary": "Victor Munoz 絶え間ないレベラーで投げられたため、ポイントを救助リヴァプール2-2 で描くノッティンガム・フォレスト.",
+      "title_original": "Munoz rescues point for Liverpool as Iraola's wait for a win goes on",
+      "summary_original": "Victor Munoz thumped in a deflected leveller to rescue a point for Liverpool in a 2-2 draw with Nottingham Forest.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/report/559460",
+      "published": "Sat, 29 Aug 2026 14:38:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "エヴァートン最新: アームストロングの£40m を支払う準備ができて森林",
       "summary": "",
       "title_original": "Everton latest: Forest ready to pay £40m for Armstrong",
@@ -1113,12 +1132,40 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "スワンシークルーズで勝利を収める",
+      "summary": "Swansea は、ゴールからゴールした後、このシーズンのチャンピオンシップで無敵に残りました Joseph Opoku, Eom Ji-sung そして、Ronald は Derby で説得力のある3-0 の勝利をしっかり止めました。",
+      "title_original": "Swansea cruise to away win at struggling Derby",
+      "summary_original": "Swansea remained unbeaten in this season's Championship after goals from Joseph Opoku, Eom Ji-sung and Ronald secured a convincing 3-0 win at Derby.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/derby-county-vs-swansea-city/report/560527",
+      "published": "Sat, 29 Aug 2026 14:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ストークに対する勝利を容易にする",
+      "summary": "Wolves は、後から Stoke 4-1 を打ち負かし、アンベイトの始まりを続けました。EFL チャンピオンシップ.",
+      "title_original": "Wolves ease to victory against Stoke",
+      "summary_original": "Wolves came from behind to beat Stoke 4-1 and continue their unbeaten start in the Sky Bet Championship.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-stoke-city/report/560532",
+      "published": "Sat, 29 Aug 2026 14:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Wolves, Swansea & Boro すべての勝利;ウェストハム, Burnley アクション -EFL LIVE!",
       "summary": "",
       "title_original": "Wolves, Swansea & Boro all win; West Ham, Burnley in action - EFL LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13577502/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
+      "url": "https://www.skysports.com/football/watford-vs-west-ham-united/live/560531",
       "published": "Sat, 29 Aug 2026 12:00:00 BST",
       "category": "other",
       "type": "other",
@@ -1281,6 +1328,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ボロビートとして2 回ランクシャースコア West Brom",
+      "summary": "Will Lankshear 夏から始まる5 つのゲームで6 つの目標を達成トッテナムミドルスラフの強いスタートは、3-1 ホームの勝利を続けシーズンに West Brom.",
+      "title_original": "Lankshear scores twice as Boro beat West Brom",
+      "summary_original": "Will Lankshear made it six goals in five games following his summer move from Tottenham as Middlesbrough's strong start to the season continued with a 3-1 home win over West Brom.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/middlesbrough-vs-west-bromwich-albion/report/560528",
+      "published": "Sat, 29 Aug 2026 14:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "今年の戦い? マイヤーとカメルーンは偉大さをセメントにしようとします",
       "summary": "それまで、コード的にはなかった。それがなかったまで、信仰する。魅力的、既に。",
       "title_original": "Fight of the year? Mayer and Cameron seek to cement greatness",
@@ -1306,62 +1367,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ウィンストン・サーレムで初のキャリア ATP ファイナルまで、ウィブルドンのスター・フェリー",
-      "summary": "ウィンブルドンスターArthur Fery 最後まで到達し、夢の夏を続け Winston-Salem Open 金曜日",
-      "title_original": "Wimbledon star Fery through to first career ATP final in Winston-Salem",
-      "summary_original": "Wimbledon star Arthur Fery continued his dream summer by reaching the final of the Winston-Salem Open on Friday.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13578421/arthur-fery-britains-wimbledon-hero-reaches-winston-salem-open-final-after-his-opponent-james-duckworth-retires-injured",
-      "published": "Sat, 29 Aug 2026 01:29:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Hull、Woad チャッシング US Solheim Cup コルダとしてライバルがカットされる",
-      "summary": "European Solheim Cup プレイヤーLottie Woad そして、Charley Hull6 ショットオフペースで LPGA Tour's FM Championship アメリカのチーム ライバルと Allisen Corpuz 週末に向かうリードのシェアを握ります。",
-      "title_original": "Hull, Woad chasing US Solheim Cup rival as Korda just makes cut",
-      "summary_original": "European Solheim Cup players Lottie Woad and Charley Hull are six shots off the pace at the LPGA Tour's FM Championship with US team rival Allisen Corpuz holding a share of the lead heading into the weekend.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13578298/fm-championship-lottie-woad-charley-hull-six-off-the-pace-of-co-leader-allisen-corpuz-as-nelly-korda-just-makes-cut",
-      "published": "Thu, 27 Aug 2026 23:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "リヴァプール救助 森 ドロー 後 スーパー ムノス ストライク LIVE!",
-      "summary": "",
-      "title_original": "Liverpool rescue Forest draw after super Munoz strike LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/live/559460",
-      "published": "Tue, 28 Jul 2026 10:07:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Super League's Final Charge: 左の2 つの丸い形状を撮影するスポット",
-      "summary": "The Super League 季節は、その最後の3 つのアクションのラウンド、それと、ドラマ全体の多くは、として展開されていない Final Charge ランプアップ。",
-      "title_original": "Super League's Final Charge: Play-off spots taking shape with two rounds left",
-      "summary_original": "The Super League season is in to its final three rounds of action and, with it, a whole lot of drama is unfolding as the Final Charge ramps up.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13570739/super-leagues-final-charge-leeds-rhinos-wakefield-trinity-wigan-warriors-warrington-wolves-hull-kr-leigh-leopards-and-st-helens-in-contention",
-      "published": "Mon, 10 Aug 2026 10:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
