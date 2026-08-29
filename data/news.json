@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T18:04:11.859971+00:00",
+  "updated_at": "2026-08-29T18:19:37.569376+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -343,7 +343,8 @@
     "Siya Kolisi": "",
     "Cape Town": "ケープタウン",
     "Dan Lawrence": "",
-    "Cameron LIVE": ""
+    "Cameron LIVE": "",
+    "Oli McBurnie": "オリヴァー・マクバーニー"
   },
   "items": [
     {
@@ -358,6 +359,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "「最悪のチームには悪くない」プレミアリーグ歴史 - Hull の完璧なスタート",
+      "summary": "ハルストライカーオリヴァー・マクバーニーCoventry を打ち勝つために彼のチームの評論家で遊び心のある掘り下げを持っています 2 プレミアリーグゲーム。",
+      "title_original": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
+      "summary_original": "Hull striker Oli McBurnie has a playful dig at his team's critics after beating Coventry to win their opening two Premier League games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 18:03:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -736,20 +751,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Fulham が語るラージョ・バジェカーノ擁護者 Ratiu",
-      "summary": "フラハムは、署名に話していますローマナイア ディフェンダーAndrei Ratiu、28 からラージョ・バジェカーノ.",
-      "title_original": "Fulham in talks for Rayo Vallecano defender Ratiu",
-      "summary_original": "Fulham are in talks to sign Romania defender Andrei Ratiu, 28, from Rayo Vallecano.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07lgg84jdmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 10:31:12 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1173,6 +1174,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "O'Neill が反応するレンジャーズチケットオファー:'Might だけでなく、取得しません!'",
+      "summary": "",
+      "title_original": "O'Neill reacts to Rangers ticket offer: 'Might as well not get any!'",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "published": "Fri, 28 Aug 2026 17:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Springboks レベル シリーズとしてブーツが付いている Kolbe 星 New Zealand",
       "summary": "South Africa 裏返し Rugby’s Greatest Rivalry リターンキャプテンとして Siya Kolisi スリル満点の33-26 勝利で試してみると、彼のカムバックをマーク New Zealand 獲得を獲得を問い合わせケープタウン1-1 の 4 つのテスト シリーズを水平にすること。",
       "title_original": "Kolbe stars with the boot as Springboks level series with New Zealand",
@@ -1327,6 +1342,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ザ・ツアーチャンピオンシップライブ! McIlroy は、リーダーの傍らに Birdie をチャージします",
+      "summary": "",
+      "title_original": "Tour Championship LIVE! McIlroy makes birdie charge to close on leaders",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13578675/tour-championship-third-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
+      "published": "Sat, 29 Aug 2026 18:50:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "マイヤー対 Cameron LIVE! バーミンガムで巨大な戦いの夜からアップデート",
       "summary": "",
       "title_original": "Mayer vs Cameron LIVE! Updates from huge fight night in Birmingham",
@@ -1362,20 +1391,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bolton-wanderers-vs-lincoln-city/report/560523",
       "published": "Sat, 29 Aug 2026 17:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ザ・ツアーチャンピオンシップライブ! McIlroy は、リーダーのすぐそばにある初期の鳥類を見つけました",
-      "summary": "",
-      "title_original": "Tour Championship LIVE! McIlroy finds early birdies to close on leaders",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13578675/tour-championship-third-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
-      "published": "Sat, 29 Aug 2026 18:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1436,20 +1451,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "フラハム最新:サイン会を開催ローマ nian の右バック",
-      "summary": "",
-      "title_original": "Fulham latest: Talks held to sign Romanian right-back",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Fri, 28 Aug 2026 14:30:00 BST",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
