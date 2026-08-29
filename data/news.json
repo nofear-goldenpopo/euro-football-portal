@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T19:49:07.087650+00:00",
+  "updated_at": "2026-08-29T20:04:26.428060+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -376,7 +376,8 @@
     "Reyes TWICE": "",
     "Martin O'Neill": "マーティン・オニール",
     "England's Penge": "",
-    "Tom McKibbin": ""
+    "Tom McKibbin": "",
+    "Cody Gakpo": "コーディ・ガクポ"
   },
   "items": [
     {
@@ -401,6 +402,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 29 Aug 2026 19:27:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・シティオープントークリヴァプールオーバーガクポ",
+      "summary": "マンチェスター・シティオープントークリヴァプールオランダのウィンガーの署名についてコーディ・ガクポ.",
+      "title_original": "Man City open talks with Liverpool over Gakpo",
+      "summary_original": "Manchester City open talks with Liverpool about signing Netherlands winger Cody Gakpo.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:56:11 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -506,6 +521,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Forest to、Everton teenager Armstrong 獲得へ4000 万ポンドを提示",
+      "summary": "ノッティンガム・フォレスト署名する野心的な入札を開始エヴァートン'十代のミッドフィルダーHarrison Armstrong.",
+      "title_original": "Forest to bid £40m for Everton teenager Armstrong",
+      "summary_original": "Nottingham Forest launch an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 12:41:06 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Iraola angry として 公式のボード遅延 サブ ゴール前に",
       "summary": "リヴァプールログイン Andoni Iraola 反対側が反対する間に、三重の置換を遅らせるのを防ぐことを怒っていたと言うノッティンガム・フォレスト.",
       "title_original": "Iraola angry as official's board delays subs before goal",
@@ -520,13 +549,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Forest to、Everton teenager Armstrong 獲得へ4000 万ポンドを提示",
-      "summary": "ノッティンガム・フォレスト署名する野心的な入札を開始エヴァートン'十代のミッドフィルダーHarrison Armstrong.",
-      "title_original": "Forest to bid £40m for Everton teenager Armstrong",
-      "summary_original": "Nottingham Forest launch an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong.",
+      "title": "'Angry & apologetic' - McCann halt Kilmarnock の失業を開始できますか?",
+      "summary": "Kilmarnock で何が間違っています 失う スタート へ Scottish Premiership 季節は?",
+      "title_original": "'Angry & apologetic' - can McCann halt Kilmarnock's losing start?",
+      "summary_original": "What is going wrong at Kilmarnock amid losing start to Scottish Premiership season?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 12:41:06 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c86xw1v3vp4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:39:22 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -562,13 +591,27 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "トッテナム'didn' は値しません'ニューカッスル敗北 -De Zerbi",
-      "summary": "トッテナムマネージャーRoberto De Zerbi 彼の側面を記述する 2-0 敗北 へニューカッスルそれらは底に根ざしたまま「不公平な結果」としてプレミアリーグテーブル。",
-      "title_original": "Spurs 'didn't deserve' Newcastle defeat - De Zerbi",
-      "summary_original": "Tottenham manager Roberto De Zerbi describes his side's 2-0 defeat to Newcastle United as an \"unfair result\" as they remain rooted to the bottom of the Premier League table.",
+      "title": "トッテナム'didn't' 損失に値しませんニューカッスル - De Zerbi",
+      "summary": "トッテナムマネージャー ロベルト・デ・ツェルビは、彼の側の 2-0 敗北について説明ニューカッスル「不公平な結果」として、トッテナム底に根ざしたプレミアリーグテーブル。",
+      "title_original": "Spurs 'didn't deserve' loss to Newcastle - De Zerbi",
+      "summary_original": "Tottenham manager Roberto de Zerbi describes his side's 2-0 defeat by Newcastle United as an \"unfair result\", with Spurs rooted to the bottom of the Premier League table.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c0e3wpp1dj7o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 29 Aug 2026 19:44:47 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ニューカッスル「完全な約束」をで示しましたトッテナム勝つ - ジャスレ",
+      "summary": "ニューカッスルマネージャーMatthias Jaissle 彼らの 2-0 離れて勝利は「よく値する」と言って、反対に 3 つのポイントを保護するために彼の側面の決定を賞賛トッテナム獲得を獲得を問い合わせプレミアリーグ.",
+      "title_original": "Newcastle showed 'full commitment' in Spurs win - Jaissle",
+      "summary_original": "Newcastle manager Matthias Jaissle says their 2-0 away win is \"well deserved\" and praises his side's decision making to secure three points against Tottenham in the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3d7x1n93j2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 20:02:44 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -611,20 +654,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/czjzdnj3l14o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 29 Aug 2026 16:59:54 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "'スラップスティック' - ローズのラメントエヴァートンエキサイザー",
-      "summary": "ボーンマスマネージャーMarco Rose ケガタイムの目標を「スラップスティック」と述べた。その側面は、その1-1 の点に対して解決するエヴァートン獲得を獲得を問い合わせ Vitality Stadium.",
-      "title_original": "'Slapstick' - Rose laments late Everton equaliser",
-      "summary_original": "Bournemouth manager Marco Rose describes the injury-time goal his side conceded as \"slapstick\" as his side settle for a point in their 1-1 draw against Everton at the Vitality Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c7806jq0x02o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 17:12:43 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -754,34 +783,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "スポーツの最も象徴的なイメージの1 つが70 年前に共鳴する理由",
-      "summary": "1956 年、サッカーフォトグラファーは70 年後にまだ愛されてきた瞬間を撮影しました。",
-      "title_original": "Why one of sport's most iconic images resonates 70 years on",
-      "summary_original": "In 1956 a football photographer captured a moment in time that is still adored 70 years later.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/c33kv5gjeedo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 06:26:01 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "技巧と型破りな才能――シェルキがマンチェスター・シティで輝く時が来たか",
-      "summary": "クリスタル・パレス戦で2 ゴールを挙げ、圧巻のパフォーマンスを見せたラヤン・シェルキ。フィル・マクナルティは、マンチェスター・シティでラヤン・シェルキが輝く時が来たのかを問う。",
-      "title_original": "A magician and a maverick - this could be Cherki's moment for Man City",
-      "summary_original": "After two goals and a swaggering display against Crystal Palace, Phil McNulty asks if this is Rayan Cherki's time to shine for Manchester City.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 22:56:42 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1416,6 +1417,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ザ・ツアーチャンピオンシップライブ! マッキーランの後にリードの1 つ以内に McIlroy 料金",
+      "summary": "",
+      "title_original": "Tour Championship LIVE! McIlroy charges within one of lead after birdie run",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13578675/tour-championship-third-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
+      "published": "Sat, 29 Aug 2026 20:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ローレンス・フィフティ・リフト・イングランドは、レインリー・ロードのパキスタンの健やかなリードに",
       "summary": "イングランドは、主の第2 回テストの第2 日目の雨の影響を受けた3 日目にパキスタンを上回る健康な357 ランリードに進んでいます。Dan Lawrence(50no) 印象的な半世紀をもたらした。",
       "title_original": "Lawrence's fifty lifts England to healthy lead vs Pakistan at rainy Lord's",
@@ -1465,20 +1480,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/southampton-vs-millwall/report/560530",
       "published": "Sat, 29 Aug 2026 17:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "EPIC 入口!So Solid Crew21 秒でボクシングのスリル満点の夜をオープン!",
-      "summary": "So Solid Crew 象徴的な曲を21 秒として実行 Kirstie Bavington 彼女の戦いのための信じられないほどの入り口を作りました Gemma Richardson.",
-      "title_original": "EPIC entrance! So Solid Crew open thrilling night of boxing with 21 Seconds!",
-      "summary_original": "So Solid Crew performed their iconic song 21 Seconds as Kirstie Bavington made an incredible entrance for her fight with Gemma Richardson.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13578778/mikaela-mayer-vs-chantelle-cameron-so-solid-crew-open-thrilling-night-of-boxing-with-21-seconds",
-      "published": "Sat, 29 Aug 2026 17:48:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
