@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T21:34:21.877542+00:00",
+  "updated_at": "2026-08-29T21:49:30.169599+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -398,7 +398,19 @@
     "Mönchengladbach The Bundesliga": "",
     "ATP Tour": "ATPツアー",
     "Arthur Fery's": "",
-    "Peruvian Ignacio Buse": ""
+    "Peruvian Ignacio Buse": "",
+    "Nick Woltemade": "",
+    "Jack Grealish": "",
+    "Matias Fernandez-Pardo": "",
+    "Liverpool’s Andoni Iraola": "",
+    "Víctor Muñoz’s": "",
+    "Ipswich Michael Carrick": "",
+    "Hull. United": "",
+    "Youri Tielemans": "",
+    "Moyes Forest’s Armstrong": "",
+    "Man Utd's": "",
+    "Michael Carrick": "マイケル・キャリック",
+    "Manchester United's": ""
   },
   "items": [
     {
@@ -514,6 +526,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ナポリ インテル Woltemade ローンで ested -日曜日の移籍ゴシップ",
+      "summary": "ナポリイベントインテル最新記事ニューカッスル獲得 Nick Woltemade, マンチェスター・シティウィンガーJack Grealish サンダーランドが求められているアーセナル移動を探索するリール獲得 Matias Fernandez-Pardo.",
+      "title_original": "Napoli interested in Woltemade loan - Sunday's gossip",
+      "summary_original": "Napoli show interest in Newcastle forward Nick Woltemade, Manchester City winger Jack Grealish is wanted by Sunderland and Arsenal explore a move for Lille forward Matias Fernandez-Pardo.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x1wwgn8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 21:19:11 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "イラオラが最初の勝利を待っていますリヴァプール森林に対する救助の遅れの引くこと",
       "summary": "リヴァプール2 度から2 度目に戻り、2-2 を攻撃するノッティンガム・フォレストアンフィールド、新しいマネージャーを残して Andoni Iraola 初めての検索プレミアリーグクラブで勝つ。",
       "title_original": "Iraola awaits first win as Liverpool rescue late draw against Forest",
@@ -538,20 +564,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Hull は Coventry で勝ち続けると完璧なスタートを続けます",
-      "summary": "Substitute Liam Millar's 遅い目標は助けます Hull は 1-0 の勝利を保証します。コヴェントリー・シティ FC 人生を取り戻すための完璧なスタートを続け、プレミアリーグ、2 つのマッチから2 つの勝利を持つ。",
-      "title_original": "Hull continue perfect start with away win at Coventry",
-      "summary_original": "Substitute Liam Millar's late goal helps Hull secure a 1-0 away victory against Coventry City and continues their perfect start to life back in the Premier League, with two wins from two matches.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5yjd20g6rpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:12:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -637,6 +649,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Hull は Coventry で勝ち続けると完璧なスタートを続けます",
+      "summary": "Substitute Liam Millar's 遅い目標は助けます Hull は 1-0 の勝利を保証します。コヴェントリー・シティ FC 人生を取り戻すための完璧なスタートを続け、プレミアリーグ、2 つのマッチから2 つの勝利を持つ。",
+      "title_original": "Hull continue perfect start with away win at Coventry",
+      "summary_original": "Substitute Liam Millar's late goal helps Hull secure a 1-0 away victory against Coventry City and continues their perfect start to life back in the Premier League, with two wins from two matches.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5yjd20g6rpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:12:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -794,20 +820,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ジブスホワイトシャイン -選手採点獲得を獲得を問い合わせリヴァプール. .ノッティンガム・フォレスト FC",
-      "summary": "使い方リヴァプールそして、ノッティンガム・フォレストの のプレイヤーは、プレミアリーグマッチ。",
-      "title_original": "Gibbs-White shines - player ratings for Liverpool v Nottm Forest",
-      "summary_original": "How Liverpool and Nottingham Forest's players rated following their Premier League match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgwnnj281no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 13:28:37 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Lavish 支出 失敗 へ 修正トッテナム’s の大きな問題 – 魂と背骨の欠如 |Jonathan Liew",
       "summary": "慌てたボタンを押しても早いかもしれませんが、Roberto De Zerbi 彼がターンするなら、巨大なタスクに直面しますトッテナム時間についてトッテナムパニックを始めるには? これは、もちろん、微妙なトリック質問です。トッテナム実際にパンクを止めないクラブの1 つです。彼らは彼らがスコアするとき、彼らは隠蔽し、彼らはパニックなとき、彼らは慌てます。彼らはボールを持っているとき、彼らはパニック、他の人がそうするときにパニック. 彼らはコーチを持っています Roberto De Zerbi その顔は永久的な警報の状態を、明白呼びます",
       "title_original": "Lavish spending fails to fix Tottenham’s big issue – the lack of soul and spine | Jonathan Liew",
@@ -822,13 +834,27 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "イラオラのリヴァプールゆっくり始めようが、ムニョス・ストライク・デニーノッティンガム・フォレスト",
-      "summary": "故障した電子ボードは、誰のビンゴリストにも存在しませんリヴァプール第一次 Anfield ゲームの苦情 Andoni Iraola’s 音が聞こえるが、他人もよく聞きました。遅いスタート、強度と防御的な欠点の欠如は、再びとして明らかになりましたリヴァプール反対にポイントを唾液化ノッティンガム・フォレスト, £123m の興奮と一緒に、より強力な基礎を示すときに必要ですブラッドリー・バルコラ獲得を獲得を問い合わせ 背後にある億万長者の前でリヴァプール、イラオラのオープニング",
-      "title_original": "Iraola’s Liverpool start slowly again but Muñoz strike denies Nottingham Forest",
-      "summary_original": "A malfunctioning electronic board will not have been on anyone’s bingo list of Liverpool complaints for the first Anfield game of Andoni Iraola’s tenure, but others sounded all too familiar. A slow start, a lack of intensity and defensive shortcomings were again evident as Liverpool salvaged a point against Nottingham Forest, while showing stronger foundations are required along with the excitement of £123m Bradley Barcola . In front of some of the billionaires behind Liverpool, Iraola’s opening",
+      "title": "リヴァプール森のペナルティの前に置換遅延によって危険にさらすアンドーニ・イラオラ",
+      "summary": "第四の公式が電子ボードと戦うために登場しました「私は約3 分前にそれらの置換を作りたかった」Andoni Iraola 悪い最初の半分の表示と壊れた電子板のために bemoaned リヴァプール’s disappointing 2-2 と描画ノッティンガム・フォレストアンフィールド・ライグ初のホームゲーム。森は二度導いたが、第三次成功を否定したプレミアリーグで勝つリヴァプールによって Víctor Muñoz’s エフェティック 82 分のイコライザー。訪問者の第2 の目標、ペナルティから変換",
+      "title_original": "Liverpool’s Andoni Iraola angered by substitution delay before Forest penalty",
+      "summary_original": "Fourth official appeared to struggle with electronic boards ‘I wanted to make those substitutions about three minutes before’ Andoni Iraola bemoaned a poor first-half display plus a broken electronic board for Liverpool’s disappointing 2-2 draw with Nottingham Forest in the first home game of his Anfield reign. Forest led twice, but were denied a third successive Premier League win at Liverpool by Víctor Muñoz’s emphatic 82nd-minute equaliser. The visitors’ second goal, from a penalty converted ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-nottingham-forest-premier-league-match-report",
-      "published": "Sat, 29 Aug 2026 13:53:41 GMT",
+      "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-manager-andoni-iraola-substitution-delay-before-forest-penalty-football-premier-league",
+      "published": "Sat, 29 Aug 2026 15:55:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Carrick は ‘lazy’ を却下します。マンチェスター・ユナイテッド批判とフェルナンデスのリーダーシップを守る",
+      "summary": "マネージャーは「1 つのゲーム」だけ開いている日の敗北を言う ユナイテッド なし Carlos Baleba イプスウィッチに対するマイケル・キャリックすべてが間違っていたと言うのは「レイジーで簡単な」と言いましたマンチェスター・ユナイテッド開口日の敗北の後 Hull. Unitedtame ディスプレイで 2-0 を失い、管理者は自分のキャプテンかどうかを尋ねられました。ブルーノ・フェルナンデスと Youri Tielemans ベルギーのキャプテンは、パフォーマンスと結果に影響を与えたかもしれないリーダーシップを示しています。続きを読む...",
+      "title_original": "Carrick dismisses ‘lazy’ Manchester United criticism and defends Fernandes’ leadership",
+      "summary_original": "Manager says opening-day defeat just ‘one game’ United to be without Carlos Baleba against Ipswich Michael Carrick has said it was “lazy and easy” to say everything was wrong with Manchester United after the opening-day defeat at Hull. United lost 2-0 in a tame display and the manager was asked whether his captain, Bruno Fernandes, and Youri Tielemans, Belgium’s captain, had shown the leadership that might have affected the performance and result. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/manchester-united-michael-carrick-bruno-fernandes-lazy-criticism",
+      "published": "Sat, 29 Aug 2026 21:30:37 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -850,16 +876,44 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "James Tarkowski 死の時のポウンスエヴァートン deny Bournemouth 勝つ",
-      "summary": "風と雨、夏の終わり、そして新しい時代の Vitality. In 獲得を獲得を問い合わせヨーロッパリーグミラノはドーセットと旅行を訪れる予定ですサン・セバスティアン, ガリシア, ノルウェー、チェコ Bournemouth. The スタジアムは改装中です, 満たすために待っているエクスカレトンを横切る, 交渉する新しいセキュリティコード, 新しい管理の下でチーム Marco Rose. An1 月 3 日までの持続期間を延ばす不当なホーム レコードは、ボーンマスの遅延の目標を隠す傾向があります。James Tarkowski’s",
-      "title_original": "James Tarkowski pounces at the death as Everton deny Bournemouth win",
-      "summary_original": "Through wind and rain, the end of summer and a new era at the Vitality. In the Europa League, Milan will visit Dorset and trips to San Sebastián, Galicia, Norway and Czechia await Bournemouth. The stadium is under renovation, towering exoskeletons waiting to be filled, new security cordons to negotiate, the team under the new management of Marco Rose. An unbeaten home record that stretches back to 3 January sustains, though so does Bournemouth’s tendency to concede late goals. James Tarkowski’s ",
+      "title": "転送ラウンドアップ: モイズは森がムニョス獲得で合意しながらアームストロングを維持したい",
+      "summary": "「どんなプレイヤーも負ける余裕はない」と言う Moyes Forest’s Armstrong 入札は£40m と言われる;クリスタル・パレス同意する £22m 手数料 19 歳の販売 Harrison Armstrong 獲得を獲得を問い合わせノッティンガム・フォレスト「クラブ決定」になるエヴァートンに従って、David Moyes. After 彼のチームの1-1 はボーンマスで描きます , アームストロングがフルを演じました 90 分, モイズは、彼は報告された£40m の提供が行われたプレーヤーを維持することを好むと述べました. 「私はオファーがあったことを知っています, 私は本当にそこに mu があるとは思わない",
+      "title_original": "Transfer roundup: Moyes wants to keep Armstrong while Forest agree Muñoz deal",
+      "summary_original": "‘I don’t think we can afford to lose any players,’ says Moyes Forest’s Armstrong bid said to be £40m; Palace agree £22m fee The sale of the 19-year-old Harrison Armstrong to Nottingham Forest would be a “club decision” for Everton, according to David Moyes. After his team’s 1-1 draw at Bournemouth , in which Armstrong played the full 90 minutes, Moyes said he would prefer to keep a player for whom a reported £40m offer has been made. “I know there’s been an offer, I don’t really think there’s mu",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/bournemouth-everton-premier-league-match-report",
-      "published": "Sat, 29 Aug 2026 16:12:19 GMT",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
+      "url": "https://www.theguardian.com/football/2026/aug/29/moyes-says-everton-must-keep-best-players-after-forest-bid-for-harrison-armstrong",
+      "published": "Sat, 29 Aug 2026 18:14:18 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ヨーロッパのフットボール:エルバーベルク・スタン・レバークセンの夢ブンデスリーガデビュー",
+      "summary": "13,000 の衝撃2024 年の町からのチームは Nkunku のリターンとして勝ちます RB ライプツィヒビート Mönchengladbach ザ·ブンデスリーガエルバーベルクはスタイルで最初のトップフライトキャンペーンを開始しました, 見事なレヴァークーゼン印象的な3-2 ホーム勝利で Saturday. Lukas Petkov そして、Cole Campbell 各々の60 秒以内にスコアを上げて、エルバーベルク2-0 を10 分前にマークします。David Mokwa9,307 人の長所のファンの前で、もう1 つの初期に追加。続きを読む...",
+      "title_original": "European football: Elversberg stun Leverkusen in dream Bundesliga debut",
+      "summary_original": "Team from town of 13,000 shock 2024 champions Nkunku returns as RB Leipzig beat Mönchengladbach The Bundesliga newcomers Elversberg began their first top-flight campaign in style, stunning Bayer Leverkusen with an impressive 3-2 home victory on Saturday. Lukas Petkov and Cole Campbell scored within 60 seconds of each other to put Elversberg 2-0 up before the 10-minute mark. David Mokwa added another early in the second half in front of 9,307 delirious fans. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/european-football-elversberg-dortmund-juventus-sevilla-atletico",
+      "published": "Sat, 29 Aug 2026 21:22:49 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Hull は飛行開始をとして維持します Liam Millar’s 勝者 ruins Coventry の日",
+      "summary": "先日土曜日のトリムフは一回限りではありませんでした。ユールは衝撃的な勝利を裏返しましたマンチェスター・ユナイテッド100%のスタートを維持することでプレミアリーグ成功的な敗北にコベントリーを非難. 「私たちはリーグを勝ち取るつもりです」と、Hull のサポートから雨が降る華やかなシャントでした Liam Millar’s82 分ストライキ 目標は、コベントリーのための吸盤パンチでした, 勝者のためにプッシュし、シーズンの少なくとも彼らの最初のポイントを主張するように設定しました.Frank Lampard、腕の folde",
+      "title_original": "Hull maintain flying start as Liam Millar’s winner ruins Coventry’s day",
+      "summary_original": "Perhaps last Saturday’s triumph was not a one-off. Hull backed up a shock victory against Manchester United by maintaining their 100% start to the Premier League and condemning Coventry to successive defeats. “We’re gonna win the league,” was the glorious chant raining down from the Hull support after Liam Millar’s 82nd-minute strike. The goal was a sucker punch for Coventry, who were pushing for a winner and looked set to claim at least their first point of the season. Frank Lampard, arms folde",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/coventry-hull-premier-league-match-report",
+      "published": "Sat, 29 Aug 2026 16:11:35 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -878,20 +932,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Scottish Premiership: オンソンデュランリフトセルティック Falkirk で勝つ魂",
-      "summary": "セルティックファンのバナーは、クラブの「世界クラスの」クレームハートのエッジを嘲笑 St Johnstone, ダンディー・ユナイテッド FC ログイン Killie Camilo Durán, センターフォワードの彼の好まれた位置で, のための両方の目標をスコアセルティック Falkirk で 2-1 勝つ .The Colombian 開口部29 分で2 つのストライカーの目標を達成し、いくつかのチームメイトを設定してチャンスをあげます。壊れ目の後に改善された Falkirk とその野心が報われました Colby Donovan’s オウンゴール72 分 このストーリーは更新されます 続きを読む...",
-      "title_original": "Scottish Premiership: on-song Durán lifts Celtic spirits in win over Falkirk",
-      "summary_original": "Celtic fans’ banner mocks club’s ‘world class’ claims Hearts edge St Johnstone, Dundee United rout Killie Camilo Durán, in his preferred position of centre-forward, scored both goals for Celtic in their 2-1 win over Falkirk . The Colombian hit two striker’s goals in the opening 29 minutes and also set up several teammates for chances. Falkirk improved after the break and their ambition was rewarded by Colby Donovan’s own goal in the 72nd minute. This story will be updated Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/scottish-premiership-celtic-hearts-rangers-aberdeen",
-      "published": "Sat, 29 Aug 2026 16:42:20 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Alonso 取得チェルシー勝者マーティネスの Sánchez を掘り下げることによる「優先順位」 |Jacob Steinberg",
       "summary": "サインイン World CupBlueCo が転送市場で深刻なを得たときにこれが夏であることを意味するために勝者を追加 Carlo Cudicini とても良いゴールキーパーでした。しかし、ジョゼ・モウリーニョ彼になったとき無事だったチェルシー2004 年のマネージャー。とても良かったです。モウリーニョポルトガルの背後にある主要な要因のベストと1 つは、勝ちましたプレミアリーグ初シーズン中は、カディッシーニと交換する決定だった Petr Cech. There 素晴らしいゴールキーパーについての古いラインです",
       "title_original": "Alonso gets Chelsea’s priorities right by ditching Sánchez for winner Martínez | Jacob Steinberg",
@@ -903,34 +943,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Hull は飛行開始をとして維持します Liam Millar’s 勝者 ruins Coventry の日",
-      "summary": "先日土曜日のトリムフは一回限りではありませんでした。ユールは衝撃的な勝利を裏返しましたマンチェスター・ユナイテッド100%のスタートを維持することでプレミアリーグ成功的な敗北にコベントリーを非難. 「私たちはリーグを勝ち取るつもりです」と、Hull のサポートから雨が降る華やかなシャントでした Liam Millar’s82 分ストライキ 目標は、コベントリーのための吸盤パンチでした, 勝者のためにプッシュし、シーズンの少なくとも彼らの最初のポイントを主張するように設定しました.Frank Lampard、腕の folde",
-      "title_original": "Hull maintain flying start as Liam Millar’s winner ruins Coventry’s day",
-      "summary_original": "Perhaps last Saturday’s triumph was not a one-off. Hull backed up a shock victory against Manchester United by maintaining their 100% start to the Premier League and condemning Coventry to successive defeats. “We’re gonna win the league,” was the glorious chant raining down from the Hull support after Liam Millar’s 82nd-minute strike. The goal was a sucker punch for Coventry, who were pushing for a winner and looked set to claim at least their first point of the season. Frank Lampard, arms folde",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/coventry-hull-premier-league-match-report",
-      "published": "Sat, 29 Aug 2026 16:11:35 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ヨーロッパのフットボール:エルバーベルク・スタン・レバークセンの夢ブンデスリーガデビュー",
-      "summary": "13,000 の衝撃2024 年の町からのチームは Nkunku のリターンとして勝ちます RB ライプツィヒビート Mönchengladbach ザ·ブンデスリーガエルバーベルクはスタイルで最初のトップフライトキャンペーンを開始しました, 見事なレヴァークーゼン印象的な3-2 ホーム勝利で Saturday. Lukas Petkov そして、Cole Campbell 各々の60 秒以内にスコアを上げて、エルバーベルク2-0 を10 分前にマークします。David Mokwa9,307 人の長所のファンの前で、もう1 つの初期に追加。続きを読む...",
-      "title_original": "European football: Elversberg stun Leverkusen in dream Bundesliga debut",
-      "summary_original": "Team from town of 13,000 shock 2024 champions Nkunku returns as RB Leipzig beat Mönchengladbach The Bundesliga newcomers Elversberg began their first top-flight campaign in style, stunning Bayer Leverkusen with an impressive 3-2 home victory on Saturday. Lukas Petkov and Cole Campbell scored within 60 seconds of each other to put Elversberg 2-0 up before the 10-minute mark. David Mokwa added another early in the second half in front of 9,307 delirious fans. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/european-football-elversberg-dortmund-juventus-sevilla-atletico",
-      "published": "Sat, 29 Aug 2026 18:07:04 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1102,6 +1114,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Scottish Premiership: オンソンデュランリフトセルティック Falkirk で勝つ魂",
+      "summary": "セルティックファンのバナーは、クラブの「世界クラスの」クレームハートのエッジを嘲笑 St Johnstone, ダンディー・ユナイテッド FC ログイン Killie Camilo Durán, センターフォワードの彼の好まれた位置で, のための両方の目標をスコアセルティック Falkirk で 2-1 勝つ .The Colombian 開口部29 分で2 つのストライカーの目標を達成し、いくつかのチームメイトを設定してチャンスをあげます。壊れ目の後に改善された Falkirk とその野心が報われました Colby Donovan’s オウンゴール72 分 このストーリーは更新されます 続きを読む...",
+      "title_original": "Scottish Premiership: on-song Durán lifts Celtic spirits in win over Falkirk",
+      "summary_original": "Celtic fans’ banner mocks club’s ‘world class’ claims Hearts edge St Johnstone, Dundee United rout Killie Camilo Durán, in his preferred position of centre-forward, scored both goals for Celtic in their 2-1 win over Falkirk . The Colombian hit two striker’s goals in the opening 29 minutes and also set up several teammates for chances. Falkirk improved after the break and their ambition was rewarded by Colby Donovan’s own goal in the 72nd minute. This story will be updated Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/scottish-premiership-celtic-hearts-rangers-aberdeen",
+      "published": "Sat, 29 Aug 2026 16:42:20 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ジョゼ・モウリーニョクレームキリアン・エムバペバロン d’Or を勝つ必要があります。パリ・サンジェルマンスペインの星",
       "summary": "レアル・マドリードマネージャーは、土地賞に彼のストライカーを取り戻す「世界で最高の選手は、パリ・サンジェルマンスペインジョゼ・モウリーニョ彼は言ったキリアン・エムバペ今年の Balon d’Or に勝つために値する, 賞を主張するだけでなく、世界最高のプレーヤーに行く必要があります World Cup またはチャンピオンズリーグ成功。「世界で最高の選手、それらには2 つ、3 つまたは4 つがあり、彼らが誰であるかを知っています。」レアル・マドリードコーチは、彼らのゲームの前に土曜日に言いました マラガ で La Li",
       "title_original": "José Mourinho claims Kylian Mbappé should win Ballon d’Or ahead of PSG and Spain stars",
@@ -1210,20 +1236,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Pogba、Sancho、その他は、任意の Carrick の再構築のための注意的な物語です",
-      "summary": "ブルーノ・フェルナンデス攻撃者だけが生き残っている Ole Gunnar Solskjær’s2021 年のライバルにギャップを埋めようとする5 年は、サッカーで長い時間です。マンチェスター・ユナイテッド2021 年の夏は、ターンポイントとして記憶されている Ole Gunnar Solskjær’s 再興;署名への感情的な決定クリスティアーノ・ロナウド見出しは、ユナイテッドは、数年後の間違ったコースに着実にセットされているように行動します。しかし、その後、ロナルドの署名の前にも、周りの素晴らしさを最適化しました Old Traffo",
-      "title_original": "Plight of Pogba, Sancho and others is cautionary tale for any Carrick rebuild",
-      "summary_original": "Bruno Fernandes is the only surviving attacker from Ole Gunnar Solskjær’s attempt to bridge gap to rivals in 2021 Five years is a long time in football. Manchester United’s summer of 2021 is now remembered as the turning point in Ole Gunnar Solskjær’s reign; the sentimental decision to sign Cristiano Ronaldo the headline act as United set off on the wrong course after a few years of building steadily. But back then, even before the signing of Ronaldo, there was optimism aplenty around Old Traffo",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/27/manchester-united-michael-carrick-paul-pogba-jadon-sancho-cautionary-tale",
-      "published": "Thu, 27 Aug 2026 07:00:07 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1354,6 +1366,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "「私は理由を与える必要はありません」 - Carrick's インテル最新交換マンチェスター・ユナイテッド'情熱'",
+      "summary": "マイケル・キャリック toe-to-toe に質問をした際の Reporter に行きますマンチェスター・ユナイテッド初めて失った後の情熱プレミアリーグゲームへハル・シティ AFC.",
+      "title_original": "'I don't need to give a reason' - Carrick's interesting exchange on Man Utd's 'passion'",
+      "summary_original": "Michael Carrick goes toe-to-toe with a reporter when questioned about Manchester United's passion after losing their first Premier League game to Hull City.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13578718/michael-carrick-and-reporters-interesting-exchange-on-man-utds-passion-i-dont-need-to-give-a-reason",
+      "published": "Sat, 29 Aug 2026 22:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Jake Paul 残酷なハーパーフロアとして調整 Reyes TWICE 素晴らしい勝利で",
       "summary": "テリー・ハーパー (ボクサー)キャンセル Miranda Reyes 彼らの超軽量の戦いの第2 ラウンドで vicious 右手パンチ, 左 Jake Paul 驚いた!",
       "title_original": "Jake Paul stunned as brutal Harper floors Reyes TWICE in stunning victory",
@@ -1382,20 +1408,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "「ジョーク!」 - 主の放棄された日差しで3 日目のハスサインの煙",
-      "summary": "目撃する Nasser Hussain 英国とパキスタン間の第2 テストの3 日目に、放棄の決定は「冗談」だったと述べた。",
-      "title_original": "'A joke!' - Hussain fumes as day three at Lord's abandoned amid sunshine",
-      "summary_original": "A seething Nasser Hussain said the umpires' decision to abandon play late on day three of the second Test between England and Pakistan was \"a joke\".",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13578829/england-vs-pakistan-nasser-hussain-fumes-as-day-three-of-second-test-at-lords-abandoned-during-sunshine",
-      "published": "Sat, 29 Aug 2026 19:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "トッテナムエランガとウィッサのストライキとして再び打つニューカッスル",
       "summary": "トッテナム最初の2 つを失ったプレミアリーグ試合と若返りデュオとして両方のスコアに失敗 Anthony Elanga そして、ヨアヌ・ウィサ獲得するニューカッスル2-0 勝つ。",
       "title_original": "Spurs beaten again as Elanga and Wissa strike for Newcastle",
@@ -1407,6 +1419,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "「ジョーク!」 - 主の放棄された日差しで3 日目のハスサインの煙",
+      "summary": "目撃する Nasser Hussain 英国とパキスタン間の第2 テストの3 日目に、放棄の決定は「冗談」だったと述べた。",
+      "title_original": "'A joke!' - Hussain fumes as day three at Lord's abandoned amid sunshine",
+      "summary_original": "A seething Nasser Hussain said the umpires' decision to abandon play late on day three of the second Test between England and Pakistan was \"a joke\".",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13578829/england-vs-pakistan-nasser-hussain-fumes-as-day-three-of-second-test-at-lords-abandoned-during-sunshine",
+      "published": "Sat, 29 Aug 2026 19:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1491,20 +1517,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Marathon Sunday 獲得を獲得を問い合わせ England's Penge コリード British Masters",
-      "summary": "Marco Penge 気象予報の最終日にリード見出しの共有を保持 Husqvarna British Masters と、Tom McKibbin ケーシングパックを見出します。",
-      "title_original": "Marathon Sunday ahead as England's Penge co-leads British Masters",
-      "summary_original": "Marco Penge holds a share of the lead heading into marathon final day at the weather-affected Husqvarna British Masters, with Tom McKibbin heading the chasing pack.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13578746/british-masters-marco-penge-co-leads-alongside-daniel-hillier-as-marathon-sunday-lies-ahead",
-      "published": "Sat, 29 Aug 2026 21:55:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
