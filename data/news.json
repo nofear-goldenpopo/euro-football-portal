@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T20:04:26.428060+00:00",
+  "updated_at": "2026-08-29T20:19:14.836301+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -377,7 +377,13 @@
     "Martin O'Neill": "マーティン・オニール",
     "England's Penge": "",
     "Tom McKibbin": "",
-    "Cody Gakpo": "コーディ・ガクポ"
+    "Cody Gakpo": "コーディ・ガクポ",
+    "Are Charlton": "",
+    "Sam Parkin's EFL": "",
+    "BBC Final Score": "",
+    "Sam Parkin": "",
+    "Reina Tellez": "",
+    "Jessica Barry": ""
   },
   "items": [
     {
@@ -415,7 +421,7 @@
       "summary_original": "Manchester City open talks with Liverpool about signing Netherlands winger Cody Gakpo.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:56:11 GMT",
+      "published": "Sat, 29 Aug 2026 20:17:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -661,6 +667,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "'スラップスティック' - ローズのラメントエヴァートンエキサイザー",
+      "summary": "ボーンマスマネージャーMarco Rose ケガタイムの目標を「スラップスティック」と述べた。その側面は、その1-1 の点に対して解決するエヴァートン獲得を獲得を問い合わせ Vitality Stadium.",
+      "title_original": "'Slapstick' - Rose laments late Everton equaliser",
+      "summary_original": "Bournemouth manager Marco Rose describes the injury-time goal his side conceded as \"slapstick\" as his side settle for a point in their 1-1 draw against Everton at the Vitality Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c7806jq0x02o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 17:12:43 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Jakirovic は Hull をバック・ツー・バックの勝利の後で「滞在の謙虚に促します",
       "summary": "ハル・シティ AFC マネージャーSergej Jakirovic 授乳後に「滞在謙虚」に自分の側を思い出させますコヴェントリー・シティ FC2 つ目の勝利のためにプレミアリーグトップ部門に戻るゲーム。",
       "title_original": "Jakirovic urges Hull to 'stay humble' after back-to-back wins",
@@ -703,16 +723,16 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "そこにあることについて勇敢にしようプレミアリーグ - Coventry's Lampard",
-      "summary": "Frank Lampard そして、Tom GrennanCoventry が勇敢なサッカーをしている理由を議論プレミアリーグこちらの季節です。",
-      "title_original": "Let's be brave about being in Premier League - Coventry's Lampard",
-      "summary_original": "Frank Lampard and Tom Grennan discuss why Coventry will be playing brave football in the Premier League this season.",
+      "title": "Are Charlton チャレンジの準備は?Sam Parkin's EFL テイクアウト",
+      "summary": "BBC Final Score ログイン Sam ParkinEFL の週末の話ポイントを見て、完璧なスタートを含むチャールトン・アスレティック FC.",
+      "title_original": "Are Charlton ready to challenge? - Sam Parkin's EFL takeaways",
+      "summary_original": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including a perfect start for Charlton Athletic.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3r02929wllo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 05:13:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c305n87mdjro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:43:28 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -769,20 +789,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ランプード「真ん中のどこか」のモウリーニョそして Ancelotti",
-      "summary": "自家経営のキャリアに8 年。コヴェントリー・シティ FC ログイン Frank Lampard ログインジョゼ・モウリーニョそして、Carlo Ancelotti 彼のスタイルの主な影響として。",
-      "title_original": "Lampard 'somewhere in the middle' of Mourinho and Ancelotti",
-      "summary_original": "Eight years into his own managerial career, Coventry City boss Frank Lampard cites Jose Mourinho and Carlo Ancelotti as the main influences on his style.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c87v04d59n3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 05:12:27 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1249,6 +1255,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "テレスがバリーを打つように、年のコンデントの戦い",
+      "summary": "間のフェザー級試合のハイライト Reina Tellez そして、Jessica Barry.",
+      "title_original": "Fight of year contender as Tellez beats Barry",
+      "summary_original": "Highlights of the featherweight match between Reina Tellez and Jessica Barry.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13578873/reina-tellez-vs-jessica-barry-fight-highlights",
+      "published": "Sat, 29 Aug 2026 21:03:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Leeds 最新:Zetterer が Perri に Torino 融資を完了",
       "summary": "",
       "title_original": "Leeds latest: Zetterer joins as Perri completes Torino loan",
@@ -1263,13 +1283,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "トッテナム最新: 'Couldn' が悪くなった' - カラグラファーの評価トッテナムスタート",
+      "title": "トッテナム最新:De Zerbi トリオを離れたい",
       "summary": "",
-      "title_original": "Tottenham latest: 'Couldn't have gone any worse' - Carragher assesses Spurs start",
+      "title_original": "Tottenham latest: De Zerbi reveals trio want to leave",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Fri, 28 Aug 2026 13:30:00 BST",
+      "published": "Sat, 29 Aug 2026 21:04:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1330,6 +1350,34 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ヒットとミス:ニューカッスル duo elanga と wissa は reborn の下 jaissle",
+      "summary": "",
+      "title_original": "Hits and misses: Newcastle duo Elanga and Wissa are reborn under Jaissle",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13578505/newcastle-duo-anthony-elanga-and-yoane-wissa-thriving-under-matthias-jaissle-after-win-over-tottenham-premier-league-hits-and-misses",
+      "published": "Sat, 29 Aug 2026 20:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "コーディ・ガクポニュースを移して下さい:マンチェスター・シティサインアップするためのオープントークリヴァプール獲得",
+      "summary": "マンチェスター・シティ一緒に話を開いているリヴァプール署名するコーディ・ガクポ.",
+      "title_original": "Cody Gakpo transfer news: Man City open talks to sign Liverpool forward",
+      "summary_original": "Manchester City have opened talks with Liverpool to sign Cody Gakpo.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13578859/cody-gakpo-transfer-news-manchester-city-open-talks-to-sign-liverpool-forward",
+      "published": "Sat, 29 Aug 2026 20:23:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1417,9 +1465,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ザ・ツアーチャンピオンシップライブ! マッキーランの後にリードの1 つ以内に McIlroy 料金",
+      "title": "ザ・ツアーチャンピオンシップライブ! McIlroy は、8 の背後からリードを共有するために戦う",
       "summary": "",
-      "title_original": "Tour Championship LIVE! McIlroy charges within one of lead after birdie run",
+      "title_original": "Tour Championship LIVE! McIlroy fights back from eight behind to share lead",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13578675/tour-championship-third-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
@@ -1438,48 +1486,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13578616/england-vs-pakistan-dan-lawrences-brilliant-50-lifts-hosts-to-357-run-lead-as-rain-causes-havoc-on-day-three-at-lords",
       "published": "Sat, 29 Aug 2026 18:55:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "エヴァートン最新:「クラブの決定は Armstrong 運命を決める」と Moyes 氏は述べます",
-      "summary": "",
-      "title_original": "Everton latest: 'Club decision will decide Armstrong fate,' says Moyes",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Sat, 29 Aug 2026 19:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ウェストハム最新:Nuno は、無数のスタートにもかかわらず、信仰を維持",
-      "summary": "",
-      "title_original": "West Ham latest: Nuno keeping the faith despite winless start",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "published": "Thu, 27 Aug 2026 17:32:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "サウス ampton thump 5 過去の Millwall",
-      "summary": "Cyle Larin なぜ南 ampton ボス Tonda Eckert 勝ったミルウォールのシーズンの完璧なスタートを散らばった5-1 勝の彼のダブルとして、選手権で最高のストライカーとして彼を率いてください。",
-      "title_original": "Southampton thump five past Millwall",
-      "summary_original": "Cyle Larin proved why Southampton boss Tonda Eckert rates him as the best striker in the Championship as his double in a 5-1 victory shattered Millwall's perfect start to the season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/southampton-vs-millwall/report/560530",
-      "published": "Sat, 29 Aug 2026 17:15:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
