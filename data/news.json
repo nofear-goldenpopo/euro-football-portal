@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T09:23:20.915838+00:00",
-  "translation_version": "football-ja-v6",
+  "updated_at": "2026-08-29T09:34:47.596157+00:00",
+  "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
     "Rayan Cherki's": "",
@@ -101,12 +101,70 @@
     "Gil Marín": "",
     "Joan Laporta": "",
     "Andoni Iraola": "",
-    "Cody Gakpo Liverpool": ""
+    "Cody Gakpo Liverpool": "",
+    "Andoni Iraola. Barcola": "",
+    "Luton Carabao Cup": "",
+    "Leon Goretzka": "",
+    "Robert Sánchez": "",
+    "The Argentina": "",
+    "Aston Villa’s": "",
+    "Villa. Yet": "",
+    "Première Ligue": "フランス女子サッカーリーグ",
+    "Bayern Munich’s": "",
+    "Andy Brassell": "",
+    "The Franz Beckenbauer Supercup": "",
+    "The Bundesliga’s": "",
+    "Borussia Do": "",
+    "World Cup": "",
+    "Jan Paul": "",
+    "Marcos Senesi": "",
+    "De Zerbi. Continue": "",
+    "Leander Schaerlaeckens": "",
+    "On Friday": "",
+    "Rebecca Lowe": "",
+    "NBC. She": "",
+    "Lord's LIVE": "",
+    "Reigning Formula": "",
+    "Lando Norris": "",
+    "Ronnie O'Sullivan": "",
+    "Sky Sports Racing": "",
+    "Arthur Fery": "",
+    "Winston-Salem Open": "",
+    "US Solheim Cup": "",
+    "European Solheim Cup": "",
+    "Lottie Woad": "",
+    "Charley Hull": "",
+    "LPGA Tour's FM Championship": "",
+    "Allisen Corpuz": "",
+    "Super League's Final Charge": "",
+    "Final Charge": "",
+    "Flushing Meadows": "フラッシング・メドウズ・コロナ・パーク",
+    "New York": "",
+    "European Tour": "",
+    "Beau Greaves": "",
+    "Rob Cross": "",
+    "Hungarian Darts Trophy": "",
+    "Tour Championship": "ザ・ツアーチャンピオンシップ",
+    "Viktor Hovland": "",
+    "PGA Tour's": "",
+    "Scottie Scheffler": "",
+    "Racecourse Ground": "",
+    "British Masters": "",
+    "Marco Penge": "",
+    "Husqvarna British Masters": "",
+    "The Belfry": "",
+    "PL Predictions": "",
+    "Lewis Jones": "",
+    "Jones Knows": "",
+    "McIlroy's Tour Championship": "",
+    "East Lake Golf Club": "",
+    "Box-office' Archer": "",
+    "Jofra Archer": ""
   },
   "items": [
     {
-      "title": "リヴァプール同意する £123m のための契約パリ・サンジェルマンお問い合わせバルコラ",
-      "summary": "リヴァプール£123m まで価値のある取引に同意するパリ・サンジェルマン新着情報ブラッドリー・バルコラ.",
+      "title": "リヴァプール、パリ・サンジェルマンのバルコラ獲得で1 億2300 万ポンド合意",
+      "summary": "リヴァプール£123m まで価値のある移籍に同意するパリ・サンジェルマン獲得ブラッドリー・バルコラ.",
       "title_original": "Liverpool agree £123m deal for PSG's Barcola",
       "summary_original": "Liverpool agree a deal worth up to £123m for Paris St-Germain forward Bradley Barcola.",
       "source": "BBC Sport",
@@ -116,7 +174,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "技巧と型破りな才能――シェルキがマンチェスター・シティで輝く時が来たか",
@@ -130,7 +188,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "ランプード「真ん中のどこか」のモウリーニョそして Ancelotti",
@@ -144,7 +202,7 @@
       "type": "other",
       "label": "その他",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "ウイルスのインスピレーションになった50 歳のアマチュアサッカー選手",
@@ -158,7 +216,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "小さな町は、オッズを欠くことを目指していますブンデスリーガデビュー",
@@ -172,11 +230,11 @@
       "type": "bundesliga",
       "label": "ブンデス",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "トリップピアは、マイリーの「大きな存在」を、ニューカッスル表面 Tonali の reunion",
-      "summary": "ニューカッスルミッドフィルダーLewis Miley20 歳から20 歳までは元チームメイトに直面する準備が整っているので「自分が望む限り」に戻る Sandro Tonali お問い合わせトッテナムスタジアム",
+      "summary": "ニューカッスルミッドフィルダーLewis Miley20 歳から20 歳までは元チームメイトに直面する準備が整っているので「自分が望む限り」に戻る Sandro Tonali 獲得を獲得を問い合わせトッテナムスタジアム",
       "title_original": "Trippier praises Miley's 'big presence' as Newcastle face Tonali reunion",
       "summary_original": "Newcastle midfielder Lewis Miley is backed to \"go as far as he wants\" as the 20-year-old prepares to face former team-mate Sandro Tonali at Tottenham Hotspur Stadium.",
       "source": "BBC Sport",
@@ -186,7 +244,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "ジャクソンは、出口のためにセットされたワトキンとヴィラに持って来るものは何ですか?",
@@ -200,10 +258,10 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
-      "title": "アーセナルとバルセロナが Rashford を注視　土曜日の移籍ゴシップ",
+      "title": "Arsenal & Barca、Rashford - Saturday's gossip を獲得候補に",
       "summary": "アーセナルモニターマーカス・ラッシュフォード, チェルシーログインモナコ'Lamine Camara と バレンシア プッシュ のためにリヴァプールミッドフィルダーHarvey Elliott、プラス多く。",
       "title_original": "Arsenal & Barca monitor Rashford - Saturday's gossip",
       "summary_original": "Arsenal monitor Marcus Rashford, Chelsea eye Monaco's Lamine Camara and Valencia push for Liverpool midfielder Harvey Elliott, plus more.",
@@ -214,7 +272,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
@@ -228,7 +286,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "シェルキが圧巻、Wharton も高評価　クリスタル・パレス対マンチェスター・シティの選手採点",
@@ -242,7 +300,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Do Wrexham 守備面の問題がありますか?",
@@ -256,7 +314,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "McInnes は自分自身を返し、レンジャーズ成功事例",
@@ -270,7 +328,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "オルドネズの動くクリスタル・パレス疑わしい後メディカルチェック",
@@ -284,7 +342,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Departing Watkins 再生するために再利用 - Emery",
@@ -298,7 +356,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "トッテナムダンソを拒否レンタル移籍サンダーランドへ",
@@ -312,7 +370,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "スコットランドのクラブがユーロの失望にどのように反応しますか?",
@@ -326,11 +384,11 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
-      "title": "サンダーランドとボーンマスのドローAC ミランお問い合わせヨーロッパリーグ",
-      "summary": "サンダーランドは、1973 年以来、最初のヨーロッパキャンペーンを初めて開催します。San Siro デッサンの後で AC ミランお問い合わせヨーロッパリーグリーグフェーズ。",
+      "title": "サンダーランドとボーンマスのドローAC ミラン獲得を獲得を問い合わせヨーロッパリーグ",
+      "summary": "サンダーランドは、1973 年以来、最初のヨーロッパキャンペーンを初めて開催します。San Siro デッサンの後で AC ミラン獲得を獲得を問い合わせヨーロッパリーグリーグフェーズ。",
       "title_original": "Sunderland and Bournemouth draw AC Milan in Europa League",
       "summary_original": "Sunderland will mark their first European campaign since 1973 with a trip to the San Siro after drawing AC Milan in the Europa League league phase.",
       "source": "BBC Sport",
@@ -340,7 +398,7 @@
       "type": "uel",
       "label": "EL",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Ruiz という名前ブライトンショックヴィドシック出口後の上司",
@@ -354,11 +412,11 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "ハーランドそして、シェルキ火の印象的なマンチェスター・シティ勝つためにクリスタル・パレス",
-      "summary": "アーリング・ハーランドそして、ラヤン・シェルキスコアは2 回としてマンチェスター・シティ4-1 勝へのクルーズクリスタル・パレスお問い合わせプレミアリーグ.",
+      "summary": "アーリング・ハーランドそして、ラヤン・シェルキスコアは2 回としてマンチェスター・シティ4-1 勝へのクルーズクリスタル・パレス獲得を獲得を問い合わせプレミアリーグ.",
       "title_original": "Haaland and Cherki fire impressive Man City to victory at Palace",
       "summary_original": "Erling Haaland and Rayan Cherki both score twice as Manchester City cruise to a 4-1 win at Crystal Palace in the Premier League.",
       "source": "BBC Sport",
@@ -368,7 +426,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "そこにあることについて勇敢にしようプレミアリーグ - Coventry's Lampard",
@@ -382,7 +440,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "クリスタル・パレス3-1 で失われた希望 - セージ",
@@ -396,7 +454,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "玉玉ねぎ d'Or 希望",
@@ -410,7 +468,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "「私はこの非常に誇りに思っています」 - フェルナンデスは今年の PFA プレーヤーを獲得します",
@@ -424,11 +482,11 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "'Truly honoured' - ショーは、年賞を受賞",
-      "summary": "マンチェスター・シティ新着情報 Khadija Shaw3 つの季節に2 番目の PFA プレーヤーを獲得するために反応します。",
+      "summary": "マンチェスター・シティ獲得 Khadija Shaw3 つの季節に2 番目の PFA プレーヤーを獲得するために反応します。",
       "title_original": "'Truly honoured' - Shaw wins PFA player of the year award",
       "summary_original": "Manchester City forward Khadija Shaw reacts to winning her second PFA player of the year award in three seasons.",
       "source": "BBC Sport",
@@ -438,7 +496,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "'大賞を受賞' - O'Reilly は、今年の PFA ヤング選手に選ばれました",
@@ -452,7 +510,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "「スーパープライド」 - スミスは、年に連続した PFA ヤングプレーヤーを獲得",
@@ -466,11 +524,11 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "パルマーはそのまま印象づけますチェルシーエッジ 過去 ウルハム へ 与える Alonso 最初の 勝利",
-      "summary": "コール・パーマースコアおよびセット Joao Pedro としてチェルシープレゼントシャビ・アロンソ勝ったスタートから Alvaro Arbeloa's Fulham お問い合わせクレイヴン・コテージお問い合わせプレミアリーグ.",
+      "summary": "コール・パーマースコアおよびセット Joao Pedro としてチェルシープレゼントシャビ・アロンソ勝ったスタートから Alvaro Arbeloa's Fulham 獲得を獲得を問い合わせクレイヴン・コテージ獲得を獲得を問い合わせプレミアリーグ.",
       "title_original": "Palmer impresses as Chelsea edge past Fulham to give Alonso first win",
       "summary_original": "Cole Palmer scores and sets up Joao Pedro as Chelsea give Xabi Alonso a winning start against Alvaro Arbeloa's Fulham at Craven Cottage in the Premier League.",
       "source": "BBC Sport",
@@ -480,7 +538,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "'良いチームを持っているためには、我々は偉大なコールが必要 - パルマのアロノソ",
@@ -494,7 +552,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "フラハムは、より多くのに値するチェルシー敗北 - アルベロア",
@@ -508,11 +566,11 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "「ヴィッラのプレイを望んでいない」 - ワトキンは欲しいですか?",
-      "summary": "放置後アストン・ヴィラの マッチデイ 対ブライトンのマッチ Day's Gabby Logan, Danny Murphy そして、ジョー・ハートお問い合わせ Ollie Watkins クラブを離れる頂上にある Al Hilal.",
+      "summary": "放置後アストン・ヴィラの マッチデイ 対ブライトンのマッチ Day's Gabby Logan, Danny Murphy そして、ジョー・ハート獲得を獲得を問い合わせ Ollie Watkins クラブを離れる頂上にある Al Hilal.",
       "title_original": "'It would appear he no longer wants to play for Villa' - does Watkins want out?",
       "summary_original": "After being left out of Aston Villa's match-day squad against Brighton, Match of the Day's Gabby Logan, Danny Murphy and Joe Hart consider if Ollie Watkins is on the verge of leaving the club for Al Hilal.",
       "source": "BBC Sport",
@@ -522,7 +580,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "ニュースの転送,リヴァプール. .ノッティンガム・フォレストビルドアップなど - マッチデイライブ",
@@ -536,7 +594,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "シェルキそして、ハーランドダブルアップマンチェスター・シティクルーズクリスタル・パレス",
@@ -550,7 +608,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "ヨーロッパのフットボール:パリ・サンジェルマンしばらくスクランブル別の描画バイエルン飛行開始を作る",
@@ -564,7 +622,7 @@
       "type": "bundesliga",
       "label": "ブンデス",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "「今は、プレイヤーが話すのに良い時間です」:Lucy BronzeFifa で避難者を支援",
@@ -578,7 +636,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "アストン・ヴィラジャクソンと Mbaye のエメリーがワトキンを出発して空気をクリアする",
@@ -592,11 +650,11 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "De Zerbi 欲しい 1 より多くの署名のためのトッテナム振込期限前",
-      "summary": "トッテナム「1 つの特定の位置」のために押すヘッド コーチトッテナム hectic ウィンドウの最後にプレーヤーをオフロードすることができます Roberto De Zerbi 自分の署名を1 つ加えることを keen トッテナム火曜日の夜間の振替期限前には、外出取引も可能なと述べています。De Zerbi 木曜日の夜に夕食を食べましたトッテナム’ 所有者と主要な役員と、彼らはすでに彼の期待を超えるウィンドウに最終的なプッシュを議論しました. 管理者は歓迎しました Omar Marmoush 月曜日から木曜日にクラブへ",
+      "summary": "トッテナム「1 つの特定の位置」のために押すヘッド コーチトッテナム hectic ウィンドウの最後にプレーヤーをオフロードすることができます Roberto De Zerbi 自分の署名を1 つ加えることを keen トッテナム火曜日の夜間の振替期限前には、外出移籍も可能なと述べています。De Zerbi 木曜日の夜に夕食を食べましたトッテナム’ 所有者と主要な役員と、彼らはすでに彼の期待を超えるウィンドウに最終的なプッシュを議論しました. 管理者は歓迎しました Omar Marmoush 月曜日から木曜日にクラブへ",
       "title_original": "De Zerbi wants one more signing for Tottenham before transfer deadline",
       "summary_original": "Spurs head coach pushing for ‘one specific position’ Tottenham could offload players at end of hectic window Roberto De Zerbi is keen to add one more signing to his Tottenham squad and has said outgoing deals are also possible before Tuesday night’s transfer deadline. De Zerbi had dinner on Thursday night with Spurs’ owners and key executives and they discussed a final push to a window that has already exceeded his expectations. The manager welcomed Omar Marmoush to the club on Thursday from Man",
       "source": "The Guardian Football",
@@ -606,7 +664,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "漫画 アルパカコール・パーマー純粋な喜びの瞬間を発明するこの世界でユニコーンです |Barney Ronay",
@@ -620,7 +678,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "マネージャーの売上高は、新しい方法を予測する必要があることを意味しますプレミアリーグ備品",
@@ -634,7 +692,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "誰が最も厳しい備品を与えられたのかチャンピオンズリーグドローイング?",
@@ -648,7 +706,7 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Women’s Super League2026-27 プレビュー番号 8:エヴァートン",
@@ -662,10 +720,10 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
-      "title": "男性用移籍市場夏の2026:ヨーロッパトップ5 リーグの全ての取引",
+      "title": "男性用移籍市場夏の2026:ヨーロッパトップ5 リーグの全ての移籍",
       "summary": "最新情報プレミアリーグ, ラ・リーガ, ブンデスリーガ, リーグ・アンそして、セリエ A ディールとクラブバイクラブガイド移籍市場 インテルアクティブなガイド 続きを読む...",
       "title_original": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
       "summary_original": "All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide Women’s transfer window interactive guide Continue reading...",
@@ -676,7 +734,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "US Open テニス,プレミアリーグとイタマ v ハルゴヴィック – 私たちに従ってください",
@@ -690,7 +748,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Women’s Super League2026-27 プレビュー番号 7:クリスタル・パレス",
@@ -704,7 +762,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Women’s Super League2026-27 プレビュー番号 6:チェルシー",
@@ -718,7 +776,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Women’s Super League2026-27 プレビュー番号 5:チャールトン・アスレティック FC",
@@ -732,7 +790,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Women’s Super League2026-27 プレビュー番号 4:ブライトン",
@@ -746,7 +804,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "サインアップ Football Daily ニュースレター:無料サッカーメール",
@@ -760,7 +818,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Goalposts ニュースレターの移動にサインアップ:私たちの無料の女性のサッカーメール",
@@ -774,7 +832,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "フォーカスニュースレターでスポーツにサインアップ:写真のスポーツウィーク",
@@ -788,7 +846,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Recap ニュースレターに登録:無料スポーツハイライトメール",
@@ -802,11 +860,11 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
-      "title": "プレミアリーグニュース David Moyes によって中止されるマンチェスター・シティお問い合わせインテル最新記事 Iliman Ndiaye",
-      "summary": "サンダーランドが訪れる San Siro お問い合わせヨーロッパリーグふりがな Carlos Baleba 待たなければならないマンチェスター・ユナイテッドデビュー 続きを読む...",
+      "title": "プレミアリーグニュース David Moyes によって中止されるマンチェスター・シティ獲得を獲得を問い合わせインテル最新記事 Iliman Ndiaye",
+      "summary": "サンダーランドが訪れる San Siro 獲得を獲得を問い合わせヨーロッパリーグふりがな Carlos Baleba 待たなければならないマンチェスター・ユナイテッドデビュー 続きを読む...",
       "title_original": "Premier League news: David Moyes unsettled by Manchester City’s interest in Iliman Ndiaye",
       "summary_original": "Sunderland will visit San Siro in Europa League while Carlos Baleba must wait for his Manchester United debut Continue reading...",
       "source": "The Guardian Football",
@@ -816,11 +874,11 @@
       "type": "uel",
       "label": "EL",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Danny Welbeck リードチェルシー過去の Luton しかし Enzo Fernández ミス EFL カップタイ",
-      "summary": "Emiliano Martínez 別のハイプロファイルのアルゼンチンはすぐに別の色合いを着用する可能性があります。チェルシー最大の弱さ、満足度に対処シャビ・アロンソ’ s は、新しいゴールキーパーへの署名に£7.5m の契約に同意して望むアストン・ヴィラ、そしてそれらが端をに置いた前に確かに長くない Enzo Fernández サガ。フェルナンデスは最も注目すべき absentee でしたチェルシー第三ラウンドに緩和 EFL カップ2-0 で勝ちます Luton. There",
+      "summary": "Emiliano Martínez 別のハイプロファイルのアルゼンチンはすぐに別の色合いを着用する可能性があります。チェルシー最大の弱さ、満足度に対処シャビ・アロンソ’ s は、新しいゴールキーパーへの署名に£7.5m の獲得で合意して望むアストン・ヴィラ、そしてそれらが端をに置いた前に確かに長くない Enzo Fernández サガ。フェルナンデスは最も注目すべき absentee でしたチェルシー第三ラウンドに緩和 EFL カップ2-0 で勝ちます Luton. There",
       "title_original": "Danny Welbeck leads Chelsea past Luton but Enzo Fernández misses Carabao Cup tie",
       "summary_original": "Emiliano Martínez is on his way but another high-profile Argentinian is likely to be wearing a different shade of blue soon. Chelsea have dealt with their biggest weakness, satisfying Xabi Alonso’s wish for a new goalkeeper by agreeing a £7.5m deal to sign Martínez from Aston Villa, and it will surely not be long before they have put an end to the Enzo Fernández saga. Fernández was the most notable absentee as Chelsea eased into the third round of the Carabao Cup with a 2-0 win over Luton. There",
       "source": "The Guardian Football",
@@ -830,11 +888,11 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "アトレティコ・マドリード講師紹介 Julián Alvarez“never, ever” を販売します。バルセロナ",
-      "summary": "Miguel Ángel Gil Marín インフォメーションバルセロナ「おいしい」のアーセナルアルゼンチンとつながるアトレティコ・マドリード’ チーフエグゼクティブがドアをスラムに出演バルセロナ’s の追求 Julián Alvarez お問い合わせ Thursday. Miguel Ángel Gil マリインは、料理人のカタランクラブを認可し、アルゼンチンのフォワードは彼らに販売されます。スペインの放送局と話す Movistar Plus, Gil Marín ブリスター対応を納品バルセロナ代表取締役社長 Joan Laporta, 彼は言った",
+      "summary": "Miguel Ángel Gil Marín インフォメーションバルセロナ「おいしい」のアーセナルアルゼンチンとつながるアトレティコ・マドリード’ チーフエグゼクティブがドアをスラムに出演バルセロナ’s の追求 Julián Alvarez 獲得を獲得を問い合わせ Thursday. Miguel Ángel Gil マリインは、料理人のカタランクラブを認可し、アルゼンチンのフォワードは彼らに販売されます。スペインの放送局と話す Movistar Plus, Gil Marín ブリスター対応を納品バルセロナ代表取締役社長 Joan Laporta, 彼は言った",
       "title_original": "Atlético Madrid chief insists Julián Alvarez will ‘never, ever’ be sold to Barcelona",
       "summary_original": "Miguel Ángel Gil Marín accuses Barça of ‘dishonesty’ Arsenal have also been linked with Argentina forward Atlético Madrid’s chief executive appeared to slam the door on Barcelona’s pursuit of Julián Alvarez on Thursday. Miguel Ángel Gil Marín accused the Catalan club of dishonesty and insisted the Argentina forward would “never, ever” be sold to them. Speaking to the Spanish broadcaster Movistar Plus, Gil Marín delivered a blistering response to ⁠Barcelona’s president, Joan Laporta, who had said",
       "source": "The Guardian Football",
@@ -844,11 +902,11 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "リヴァプール同意する £120m のための契約ブラッドリー・バルコラブレイクスルーが話した後パリ・サンジェルマン",
-      "summary": "リヴァプールアドオンで£100m + £20m を支払う Andoni IraolaCody Gakpo の出口でヒントリヴァプールのための£120m の契約で閉鎖されていますブラッドリー・バルコラトークスルーの後パリ・サンジェルマンそして、ヘッドコーチ、アンドオーニ・イラオラによると「他のエリアの改善」を試みます。バルコラお問い合わせリヴァプール’s の主な転送ターゲットすべての夏だけのためにパリ・サンジェルマン’ £145m 著名なハードルを証明する評価. しかしながら、水曜日の夜に交渉が終わると、合意が成立した",
+      "summary": "リヴァプールアドオンで£100m + £20m を支払う Andoni IraolaCody Gakpo の出口でヒントリヴァプールのための£120m の契約で閉鎖されていますブラッドリー・バルコラトークスルーの後パリ・サンジェルマンそして、ヘッドコーチ、アンドオーニ・イラオラによると「他のエリアの改善」を試みます。バルコラ獲得を獲得を問い合わせリヴァプール’s の主な転送ターゲットすべての夏だけのためにパリ・サンジェルマン’ £145m 著名なハードルを証明する評価. しかしながら、水曜日の夜に交渉が終わると、合意が成立した",
       "title_original": "Liverpool agree £120m deal for Bradley Barcola after breakthrough talks with PSG",
       "summary_original": "Liverpool would pay £100m plus £20m in add-ons Andoni Iraola hints at exit for Cody Gakpo Liverpool are closing in on a £120m deal for Bradley Barcola after a breakthrough in talks with Paris Saint-Germain and will attempt to “improve other areas” according to the head coach, Andoni Iraola. Barcola has been Liverpool’s main transfer target all summer only for PSG’s £145m valuation to prove a significant hurdle. However, negotiations on Wednesday night ended in an outline agreement being reached ",
       "source": "The Guardian Football",
@@ -858,11 +916,11 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
-      "title": "チェルシー署名する£7.5m の契約に同意する Emiliano Martínez からアストン・ヴィラ",
-      "summary": "Enzo Fernández 左からルトン EFL カップ tie ヴィラ サイン ドイツ ミッドフィルダーLeon Goretzka 無料でチェルシー署名する£7.5m の契約に同意しましたアストン・ヴィラゴールキーパーEmiliano Martínez そして期待していますマンチェスター・シティオファーを作るために Enzo Fernández 次の48 時間。シャビ・アロンソゴールキーパーの署名を優先的に特定 Robert Sánchez 月曜日にフルハムとマルティネスの取引に苦労しました。The Argentina インテル国民は好ましいです",
+      "title": "Chelsea agree £7.5m deal to、アストン・ヴィラから Emiliano Martínez を獲得",
+      "summary": "Enzo Fernández 左からルトン EFL カップ tie ヴィラ サイン ドイツ ミッドフィルダーLeon Goretzka 無料でチェルシー署名する£7.5m の獲得で合意しましたアストン・ヴィラゴールキーパーEmiliano Martínez そして期待していますマンチェスター・シティオファーを作るために Enzo Fernández 次の48 時間。シャビ・アロンソゴールキーパーの署名を優先的に特定 Robert Sánchez 月曜日にフルハムとマルティネスの移籍に苦労しました。The Argentina インテル国民は好ましいです",
       "title_original": "Chelsea agree £7.5m deal to sign Emiliano Martínez from Aston Villa",
       "summary_original": "Enzo Fernández left out of Luton Carabao Cup tie Villa sign Germany midfielder Leon Goretzka on free Chelsea have agreed a £7.5m deal to sign the Aston Villa goalkeeper Emiliano Martínez and are expecting Manchester City to make an offer for Enzo Fernández in the next 48 hours. Xabi Alonso identified the signing of a goalkeeper as a priority after Robert Sánchez struggled against Fulham on Monday and the deal for Martínez has gone through quickly. The Argentina international is out of favour at ",
       "source": "The Guardian Football",
@@ -872,11 +930,11 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "アストン・ヴィラ’ s のスクワッドはしばらく残酷ですトッテナムスプラッシュアウト。金融ルールは公正ですか?",
-      "summary": "勝つヨーロッパリーグ第4 回を終えては、ヴィラを絶縁せず、トッテナムウーエの季節に妨げられなかった理論アストン・ヴィラサポーターは、自分の手で一緒に自分の手でこすれているはずですチャンピオンズリーグ季節限定 お問い合わせトッテナムファンは、後に絶望的だった残留争いワイヤーに行きました。第17 位の仕上げトッテナム£35m 未満で獲得プレミアリーグ最終的なリーグの位置に基づいているメリット支払い、Villa. Yet 私の気分",
+      "summary": "勝つヨーロッパリーグ第4 回を終えては、ヴィラを絶縁せず、トッテナムウーエの季節に妨げられなかった理論アストン・ヴィラサポーターは、自分の手で一緒に自分の手でこすれているはずですチャンピオンズリーグ季節限定 獲得を獲得を問い合わせトッテナムファンは、後に絶望的だった残留争いワイヤーに行きました。第17 位の仕上げトッテナム£35m 未満で獲得プレミアリーグ最終的なリーグの位置に基づいているメリット支払い、Villa. Yet 私の気分",
       "title_original": "Aston Villa’s squad is crumbling while Spurs splash out. Are the financial rules fair?",
       "summary_original": "Winning the Europa League and finishing fourth did not inoculate Villa and Spurs were not hampered by a season of woe In theory Aston Villa supporters should have been rubbing their hands together at the prospect of a Champions League season. Equally, Tottenham fans could have been despondent after a relegation battle that went to the wire. A 17th-place finish meant Spurs earned about £35m less in Premier League merit payments, which are based on final league position, than Villa. Yet the mood i",
       "source": "The Guardian Football",
@@ -886,11 +944,11 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
-      "title": "レディース移籍市場夏の2026:世界のトップ6 リーグからのすべての取引",
-      "summary": "NWSL、WSL、Liga F、Fauen の各取引ブンデスリーガ, Première Ligue そして、セリエ AFemminile だけでなく、クラブバイクラブガイド男性移籍市場 インテルアクティブなガイド 続きを読む...",
+      "title": "レディース移籍市場夏の2026:世界のトップ6 リーグからのすべての移籍",
+      "summary": "NWSL、WSL、Liga F、Fauen の各移籍ブンデスリーガ, フランス女子サッカーリーグそして、セリエ AFemminile だけでなく、クラブバイクラブガイド男性移籍市場 インテルアクティブなガイド 続きを読む...",
       "title_original": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
       "summary_original": "Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide Men’s transfer window interactive guide Continue reading...",
       "source": "The Guardian Football",
@@ -900,7 +958,7 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "ドルトムント残りのベストとしてブンデスリーガクラブの把握でバイエルン・ミュンヘン’s コートテール |Andy Brassell",
@@ -914,11 +972,11 @@
       "type": "bundesliga",
       "label": "ブンデス",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "トッテナム支払のための価格 World Cup オーストラリアへの事前シーズン旅行",
-      "summary": "多くの選手がペースオフで、Roberto De Zerbi 命名する名前に躊躇しない Jan Paulvan Hecke は、望ましくない名前チェックを与えられたものの中にありました Roberto De Zerbi アフタートッテナム’s 3-0 は、土曜日にブレントフォードで敗北. 右レベルではなく、マネージャーのコメントのヒストでした。De Zerbi お問い合わせ Marcos Senesi そして、Sandro Tonali、クラブの新しい署名の2 つ以上。彼らの状態は驚きとして来ていました。それは確かにそうではありませんでした De Zerbi. Continue 読書...",
+      "summary": "多くの選手がペースオフで、Roberto De Zerbi 命名する名前に躊躇しない Jan Paulvan Hecke は、望ましくない名前チェックを与えられたものの中にありました Roberto De Zerbi アフタートッテナム’s 3-0 は、土曜日にブレントフォードで敗北. 右レベルではなく、マネージャーのコメントのヒストでした。De Zerbi 獲得を獲得を問い合わせ Marcos Senesi そして、Sandro Tonali、クラブの新しい署名の2 つ以上。彼らの状態は驚きとして来ていました。それは確かにそうではありませんでした De Zerbi. Continue 読書...",
       "title_original": "Spurs paying price for World Cup and pre-season trip to Australia",
       "summary_original": "Too many players are off the pace and Roberto De Zerbi has had no hesitation in naming names Jan Paul van Hecke was among those given an unwanted name-check by Roberto De Zerbi after Tottenham’s 3-0 defeat at Brentford on Saturday . Not at the right level physically, was the gist of the manager’s comments. De Zerbi also mentioned Marcos Senesi and Sandro Tonali, two more of the club’s new signings. Their condition had to come as no surprise. It certainly did not to De Zerbi. Continue reading...",
       "source": "The Guardian Football",
@@ -928,7 +986,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "NBC のプレミアリーグ米国のカバレッジも英語? |Leander Schaerlaeckens",
@@ -942,7 +1000,35 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "イングランドは、雨でパキスタンを追い越す Lord's LIVE!",
+      "summary": "",
+      "title_original": "England look to build on lead over Pakistan at rainy Lord's LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13578445/england-vs-pakistan-second-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win",
+      "published": "Sat, 29 Aug 2026 10:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "'Nowhere 他の場所 ' - Norris は 2030 年までの McLaren 契約を拡張",
+      "summary": "Reigning Formula1 世界チャンピオン Lando Norris2030 年までに McLaren との契約を延長しました。",
+      "title_original": "'Nowhere else I want to be' - Norris extends McLaren contract until 2030",
+      "summary_original": "Reigning Formula 1 world champion Lando Norris has extended his contract with McLaren until at least 2030.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13577711/lando-norris-mclaren-driver-signs-contract-extension-until-2030-with-target-of-more-world-championships",
+      "published": "Sat, 29 Aug 2026 10:24:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Scaffolding は Sheffield のウイルス O'Sullivan 'zombie-like'の壁のサイトに戻る",
@@ -956,7 +1042,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "ウィンザーのゴーストライター、テナビリティ、シラウイクラッシュ",
@@ -970,11 +1056,11 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "シティ・スラッシュクリスタル・パレス二つの勝利からマレスカ 2 勝つ",
-      "summary": "ハイライトクリスタル・パレスに対してマンチェスター・シティお問い合わせプレミアリーグ.",
+      "summary": "ハイライトクリスタル・パレスに対してマンチェスター・シティ獲得を獲得を問い合わせプレミアリーグ.",
       "title_original": "City thrash Palace to give Maresca two wins from two",
       "summary_original": "Highlights from Crystal Palace against Manchester City in the Premier League.",
       "source": "Sky Sports Football",
@@ -984,7 +1070,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "今年の戦い? マイヤーとカメルーンは偉大さをセメントにしようとします",
@@ -998,10 +1084,10 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
-      "title": "バルコラ署名するセットリヴァプール2031 年契約",
+      "title": "バルコラ、Liverpool contract to 2031 獲得に迫る",
       "summary": "ブラッドリー・バルコラサインをセットするリヴァプール2031 年以降の契約プレミアリーグクラブは合意に達しましたパリ・サンジェルマン転送の構造上。",
       "title_original": "Barcola set to sign Liverpool contract to 2031",
       "summary_original": "Bradley Barcola is set sign a Liverpool contract to 2031 after the Premier League club reached agreement with PSG over the structure of the transfer.",
@@ -1012,7 +1098,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "ウィンストン・サーレムで初のキャリア ATP ファイナルまで、ウィブルドンのスター・フェリー",
@@ -1026,7 +1112,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Hull、Woad チャッシング US Solheim Cup コルダとしてライバルがカットされる",
@@ -1040,7 +1126,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Super League's Final Charge: 左の2 つの丸い形状を撮影するスポット",
@@ -1054,11 +1140,11 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "4 つのブリッツと Djokovic のアクションで日曜日を開くためのプレーの順序",
-      "summary": "日曜日のオープニングシングルのプレーを眺める US Open, Flushing Meadows, New York.",
+      "summary": "日曜日のオープニングシングルのプレーを眺める US Open, フラッシング・メドウズ・コロナ・パーク, New York.",
       "title_original": "Order of play for opening Sunday with four Brits and Djokovic in action",
       "summary_original": "Take a look at Sunday's opening singles order of play at the US Open, Flushing Meadows, New York.",
       "source": "Sky Sports Football",
@@ -1068,11 +1154,11 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "最後のレッグスリラーのクロスで拒否されたグレーヴ European Tour デビュー",
-      "summary": "Beau Greaves お問い合わせ Rob Cross 最後のレッグの決定者へ 失う 6-5 彼女の European Tour 初ラウンドでデビューHungarian Darts Trophy.",
+      "summary": "Beau Greaves 獲得を獲得を問い合わせ Rob Cross 最後のレッグの決定者へ 失う 6-5 彼女の European Tour 初ラウンドでデビューHungarian Darts Trophy.",
       "title_original": "Greaves denied by Cross in last-leg thriller on European Tour debut",
       "summary_original": "Beau Greaves took Rob Cross to a last-leg decider before losing out 6-5 on her European Tour debut in the first round of the Hungarian Darts Trophy.",
       "source": "Sky Sports Football",
@@ -1082,11 +1168,11 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
-      "title": "スケフラーはホヴランドを追いかける Tour ChampionshipMcIlroy がフェードを望んでいるように",
-      "summary": "Viktor Hovland ハーフウェイステージでリードのシェアを保持 PGA Tour's 季節限定 Tour Championship と、Scottie SchefflerFedExCup のコンテンツでしっかりと。",
+      "title": "スケフラーはホヴランドを追いかけるザ・ツアーチャンピオンシップ McIlroy がフェードを望んでいるように",
+      "summary": "Viktor Hovland ハーフウェイステージでリードのシェアを保持 PGA Tour's 季節限定ザ・ツアーチャンピオンシップと、Scottie SchefflerFedExCup のコンテンツでしっかりと。",
       "title_original": "Scheffler chases Hovland at Tour Championship as McIlroy's hopes fade",
       "summary_original": "Viktor Hovland holds a share of the lead at the halfway stage of the PGA Tour's season-ending Tour Championship, with Scottie Scheffler firmly in FedExCup contention.",
       "source": "Sky Sports Football",
@@ -1096,7 +1182,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "パーキンソンは、バーミンガムの Wrexham として「最も柔らかい目標」でふわふわ",
@@ -1110,7 +1196,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "'私は競争を必要としています' - Alcaraz は怪我から時間内に戻ります US Open ディフェンス",
@@ -1124,13 +1210,13 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
-      "title": "降雨日の2 日目に先立ち、British Masters",
-      "summary": "Marco Penge 雨の影響の第2 ラウンドを通して2 ショットの途中でリード Husqvarna British Masters 別の日の後 嵐の天気 The Belfry.",
-      "title_original": "Penge storms ahead on second rain-hit day at British Masters",
-      "summary_original": "Marco Penge leads by two shots midway through the second round of the rain-affected Husqvarna British Masters after another day of stormy weather at The Belfry.",
+      "title": "ペンジは、雨の遅れを追った後、第2 次リードを維持 British Masters",
+      "summary": "Marco Penge 雨の影響を受けた後、2 番目のラウンドの結論の後にショットでリード Husqvarna British Masters 嵐の天気の別の日中 The Belfry.",
+      "title_original": "Penge maintains second-round lead following rain delays at British Masters",
+      "summary_original": "Marco Penge leads by a shot after the conclusion of his second round following a rain-affected Husqvarna British Masters amid another day of stormy weather at The Belfry.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13578266/british-masters-marco-penge-makes-big-move-in-delayed-second-round-amid-continued-stormy-conditions-to-end-day-two-ahead",
       "published": "Thu, 27 Aug 2026 19:30:00 BST",
@@ -1138,7 +1224,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "PL Predictions: トッテナムバウンスバックに対してニューカッスル",
@@ -1152,7 +1238,7 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "Wrexham 1-2 バーミンガム ハイライト",
@@ -1166,11 +1252,11 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
-      "title": "McIlroy's Tour ChampionshipScheffler がホヴランドを日2 で追いかけることを期待",
-      "summary": "2 日目のハイライト Tour Championship 開催場所 East Lake Golf Club アトランタ、ジョージア州",
+      "title": "McIlroy さんザ・ツアーチャンピオンシップ Scheffler がホヴランドを日2 で追いかけることを期待",
+      "summary": "2 日目のハイライトザ・ツアーチャンピオンシップ開催場所 East Lake Golf Club アトランタ、ジョージア州",
       "title_original": "McIlroy's Tour Championship hopes fade as Scheffler chases Hovland on day two",
       "summary_original": "Highlights from day two of the Tour Championship held at East Lake Golf Club in Atlanta, Georgia.",
       "source": "Sky Sports Football",
@@ -1180,7 +1266,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     },
     {
       "title": "'Box-office' Archer 呪文は'relentless'をかき混ぜる イングランドボウリングディスプレイ",
@@ -1194,35 +1280,7 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v6"
-    },
-    {
-      "title": "イングランドとしてロビンソンとアーチャースターが261 ランリード対パキスタンを取る",
-      "summary": "Ollie Robinson そして、Jofra Archer イングランドが主の第2 回テストの日に2 日に261 ランのリードを取ったので、パキスタンの戦いの秩序を通して彼らの道をたどった。",
-      "title_original": "Robinson and Archer star as England take 261-run lead vs Pakistan",
-      "summary_original": "Ollie Robinson and Jofra Archer rattled their way through Pakistan's batting order as England took a 261-run lead on day two of the second Test at Lord's.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13578255/england-vs-pakistan-ollie-robinson-and-jofra-archer-skittle-visitors-as-joe-roots-side-take-261-run-lead-in-second-test",
-      "published": "Fri, 28 Aug 2026 18:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v6"
-    },
-    {
-      "title": "リーズビート St Helens ライバルのプレーオフの希望としてトップに戻るために",
-      "summary": "リーズは、トップに返された Betfred Super League 説得力のある34-6 勝利 St Helens 金曜日",
-      "title_original": "Leeds beat St Helens to go back top as rivals' play-off hopes dented",
-      "summary_original": "Leeds returned to the top of the Betfred Super League with a convincing 34-6 victory at St Helens on Friday.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13578174/super-league-leeds-rhinos-return-to-the-top-of-the-league-with-win-at-st-helens-as-huddersfield-and-catalans-also-triumph",
-      "published": "Fri, 28 Aug 2026 23:10:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v6"
+      "translation_version": "football-ja-v7"
     }
   ]
 }
