@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T12:19:25.129277+00:00",
+  "updated_at": "2026-08-29T12:33:59.327338+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -215,7 +215,11 @@
     "Ryan Reynolds": "",
     "Rob Mac": "",
     "Xabi Alonso’s Chelsea": "",
-    "Jonathan Wilson": ""
+    "Jonathan Wilson": "",
+    "Sky Sports' Nasser Hussain": "",
+    "Michael Atherton": "",
+    "Joe Root's": "",
+    "Forest LIVE": ""
   },
   "items": [
     {
@@ -645,7 +649,7 @@
       "summary_original": "Live updates from Anfield 12.30pm kick-off (BST) Email Scott | Reds finalise £123m Barcola deal The teams are out! Liverpool all in red, Forest wearing a third-choice shirt that looks awfully like a recent Manchester City number. You’ll Never Walk Alone rings out, as Liverpool principal owner John Henry and the new vice-chairman Amit Bhatia watch from the stand. We’ll be off in a minute … and that minute will see fans remember the legendary Kevin Keegan, the star of Bill Shankly’s second great t",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/liverpool-v-nottingham-forest-premier-league-live",
-      "published": "Sat, 29 Aug 2026 12:05:11 GMT",
+      "published": "Sat, 29 Aug 2026 12:20:09 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1073,9 +1077,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Wolves ヒット バック へ リード Stoke; Swansea リード -EFL LIVE 空に!",
+      "title": "Wolves ヒット バック へ リード Stoke; Swansea 先に -EFL LIVE 空に!",
       "summary": "",
-      "title_original": "Wolves hit back to lead Stoke; Swansea lead - EFL LIVE on Sky!",
+      "title_original": "Wolves hit back to lead Stoke; Swansea ahead - EFL LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13577502/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
@@ -1098,6 +1102,20 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "なぜ根は、lbw の却下剤で苦労していますか?",
+      "summary": "Sky Sports' Nasser Hussain そして、Michael Atherton 背後にある理由を議論 Joe Root'sTest cricket の lbw の dismissals への最近の脆弱性。",
+      "title_original": "Why is Root struggling with lbw dismissals?",
+      "summary_original": "Sky Sports' Nasser Hussain and Michael Atherton discuss the reasons behind Joe Root's recent vulnerability to lbw dismissals in Test cricket.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13578472/england-cricket-why-is-joe-root-struggling-with-lbw-dismissals",
+      "published": "Sat, 29 Aug 2026 11:20:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1241,17 +1259,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Wirtz イコライザーはフォレストがリードライブに値する後にオフサイドのために除外されています!",
+      "title": "HT で言うリヴァプールトレイル Forest LIVE!",
       "summary": "",
-      "title_original": "Wirtz equaliser ruled out for offside after Forest take deserved lead LIVE!",
+      "title_original": "Have your say at HT as Liverpool trail Forest LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/live/559460",
       "published": "Tue, 28 Jul 2026 10:07:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1318,20 +1336,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/wrexham-vs-birmingham-city/report/560533",
       "published": "Fri, 28 Aug 2026 22:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "'私は競争を必要としています' - Alcaraz は怪我から時間内に戻ります US Open ディフェンス",
-      "summary": "「競争が必要」",
-      "title_original": "'I need competition' - Alcaraz returns from injury in time for US Open defence",
-      "summary_original": "\"I need competition.\"",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13578200/us-open-carlos-alcaraz-admits-he-needs-competition-as-he-prepares-for-his-title-defence-after-wrist-injury",
-      "published": "Fri, 28 Aug 2026 20:20:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
