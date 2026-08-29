@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T19:34:16.020071+00:00",
+  "updated_at": "2026-08-29T19:49:07.087650+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -373,7 +373,10 @@
     "Saudi Arabia": "サウジアラビア",
     "The Gotham": "",
     "Al Qadsiah. The": "",
-    "Reyes TWICE": ""
+    "Reyes TWICE": "",
+    "Martin O'Neill": "マーティン・オニール",
+    "England's Penge": "",
+    "Tom McKibbin": ""
   },
   "items": [
     {
@@ -384,6 +387,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 29 Aug 2026 15:49:49 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Jaissle 主張 最初プレミアリーグで勝つ 欠乏症トッテナム",
+      "summary": "セカンドハーフの目標 Anthony Elanga そして、Yoanne Wissa マネージャーMatthias Jaissle 最初からプレミアリーグ勝利、としてニューカッスル勝 2-0 でトッテナム.",
+      "title_original": "Jaissle claims first Premier League win at lacklustre Spurs",
+      "summary_original": "Second-half goals from Anthony Elanga and Yoanne Wissa give manager Matthias Jaissle his first Premier League victory, as Newcastle United win 2-0 at Tottenham Hotspur.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:27:16 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -419,20 +436,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Jaissle 主張 最初プレミアリーグで勝つ 欠乏症トッテナム",
-      "summary": "セカンドハーフの目標 Anthony Elanga そして、Yoanne Wissa マネージャーMatthias Jaissle 初めてプレミアリーグ勝利、としてニューカッスル勝 2-0 離れてトッテナム.",
-      "title_original": "Jaissle claims first Premier League win at lacklustre Spurs",
-      "summary_original": "Second-half goals from Anthony Elanga and Yoanne Wissa give manager Matthias Jaissle his first Premier League victory, as Newcastle United win 2-0 away at Tottenham Hotspur.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:27:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "イラオラが最初の勝利を待っていますリヴァプール森林に対する救助の遅れの引くこと",
       "summary": "リヴァプール2 度から2 度目に戻り、2-2 を攻撃するノッティンガム・フォレストアンフィールド、新しいマネージャーを残して Andoni Iraola 初めての検索プレミアリーグクラブで勝つ。",
       "title_original": "Iraola awaits first win as Liverpool rescue late draw against Forest",
@@ -461,6 +464,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Hull は Coventry で勝ち続けると完璧なスタートを続けます",
+      "summary": "Substitute Liam Millar's 遅い目標は助けます Hull は 1-0 の勝利を保証します。コヴェントリー・シティ FC 人生を取り戻すための完璧なスタートを続け、プレミアリーグ、2 つのマッチから2 つの勝利を持つ。",
+      "title_original": "Hull continue perfect start with away win at Coventry",
+      "summary_original": "Substitute Liam Millar's late goal helps Hull secure a 1-0 away victory against Coventry City and continues their perfect start to life back in the Premier League, with two wins from two matches.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5yjd20g6rpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:12:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "森は£22m の契約に合意クリスタル・パレス Munoz について",
       "summary": "ノッティンガム・フォレスト署名する£22m の最小値の移籍に同意する Daniel Munoz からクリスタル・パレス.",
       "title_original": "Forest agree £22m deal with Palace for Munoz",
@@ -471,6 +488,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "O'Neill はセルティック Ibrox のファンが300 人以上",
+      "summary": "マーティン・オニールコメントセルティックチケットは、後から入手できません。レンジャーズ側面のための300 を提供されて League Cup 月次 Ibrox の四半期ファイナル。",
+      "title_original": "O'Neill would rather Celtic had no fans at Ibrox than 300",
+      "summary_original": "Martin O'Neill says Celtic \"might as well not get any\" tickets after Rangers offered 300 for the sides' League Cup quarter-final at Ibrox next month.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyz4jxg3g4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:29:12 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -531,17 +562,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Hull は Coventry で勝ち続けると完璧なスタートを続けます",
-      "summary": "Substitute Liam Millar's 遅い目標は助けます Hull は 1-0 の勝利を保証します。コヴェントリー・シティ FC 人生を取り戻すための完璧なスタートを続け、プレミアリーグ、2 つのマッチから2 つの勝利を持つ。",
-      "title_original": "Hull continue perfect start with away win at Coventry",
-      "summary_original": "Substitute Liam Millar's late goal helps Hull secure a 1-0 away victory against Coventry City and continues their perfect start to life back in the Premier League, with two wins from two matches.",
+      "title": "トッテナム'didn' は値しません'ニューカッスル敗北 -De Zerbi",
+      "summary": "トッテナムマネージャーRoberto De Zerbi 彼の側面を記述する 2-0 敗北 へニューカッスルそれらは底に根ざしたまま「不公平な結果」としてプレミアリーグテーブル。",
+      "title_original": "Spurs 'didn't deserve' Newcastle defeat - De Zerbi",
+      "summary_original": "Tottenham manager Roberto De Zerbi describes his side's 2-0 defeat to Newcastle United as an \"unfair result\" as they remain rooted to the bottom of the Premier League table.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5yjd20g6rpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:12:12 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0e3wpp1dj7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:44:47 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -657,20 +688,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "クリスタル・パレス3-1 で失われた希望 - セージ",
-      "summary": "クリスタル・パレスログイン Pierre Sage4-1 敗北に反応するマンチェスター・シティ.",
-      "title_original": "Palace lost hope at 3-1 - Sage",
-      "summary_original": "Crystal Palace boss Pierre Sage reacts to their 4-1 defeat by Manchester City.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c770408jzeno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 21:59:14 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "3 週間インテル国民は懸念を破る -モウリーニョ",
       "summary": "ジョゼ・モウリーニョ3 週間と言うインテル国民の休憩は「コンサート」ですレアル・マドリード、の後で要求するスケジュールに直面している複数の主プレーヤーを使って World Cup.",
       "title_original": "Three-week international break a concern - Mourinho",
@@ -741,20 +758,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "トリップピアは、マイリーの「大きな存在」を、ニューカッスル表面 Tonali の reunion",
-      "summary": "ニューカッスルミッドフィルダーLewis Miley20 歳から20 歳までは元チームメイトに直面する準備が整っているので「自分が望む限り」に戻る Sandro Tonali 獲得を獲得を問い合わせトッテナムスタジアム",
-      "title_original": "Trippier praises Miley's 'big presence' as Newcastle face Tonali reunion",
-      "summary_original": "Newcastle midfielder Lewis Miley is backed to \"go as far as he wants\" as the 20-year-old prepares to face former team-mate Sandro Tonali at Tottenham Hotspur Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07ler0rxlro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 06:11:10 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "スポーツの最も象徴的なイメージの1 つが70 年前に共鳴する理由",
       "summary": "1956 年、サッカーフォトグラファーは70 年後にまだ愛されてきた瞬間を撮影しました。",
       "title_original": "Why one of sport's most iconic images resonates 70 years on",
@@ -811,6 +814,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "古い男性のための国なし:プレミアリーグ粉砕は、マネージャーが若くなっている理由です",
+      "summary": "デュグアウトの上司は、通常、古いプレーヤーを老化させることはありません - ほとんどは、古い取得の問題の1 つに、排気トレッドミル上の40 年代にいます。あなたが、またはそれらであるかどうかは、あなたが決して確認されていないことです。世界は本当に変化していますか、それともあなただけです、適応するために苦労していますか? 人生にはマイルストーンがあります。おそらく、大学や最初の仕事に精通しているので、あなたはあなたよりも若いサッカー選手を見ていると考えているとき。それから、15-20 年後、あなたはあなたが見ていることを実感しています",
+      "title_original": "No country for old men: Premier League grind is why managers are getting younger",
+      "summary_original": "The boss in the dugout is typically no longer an ageing former player – most are in their 40s on an exhausting treadmill One of the problems with getting older is that you’re never quite sure whether it’s you or them. Is the world really changing, or is it just you, struggling to adapt? There’s a milestone in life, probably as you’re contemplating university or a first job, when you realise you’re watching a footballer who is younger than you. Then, 15-20 years later, you realise you’re watching",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/premier-league-managers-young-old-football-coaches",
+      "published": "Sat, 29 Aug 2026 19:00:34 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "James Tarkowski 死の時のポウンスエヴァートン deny Bournemouth 勝つ",
       "summary": "風と雨、夏の終わり、そして新しい時代の Vitality. In 獲得を獲得を問い合わせヨーロッパリーグミラノはドーセットと旅行を訪れる予定ですサン・セバスティアン, ガリシア, ノルウェー、チェコ Bournemouth. The スタジアムは改装中です, 満たすために待っているエクスカレトンを横切る, 交渉する新しいセキュリティコード, 新しい管理の下でチーム Marco Rose. An1 月 3 日までの持続期間を延ばす不当なホーム レコードは、ボーンマスの遅延の目標を隠す傾向があります。James Tarkowski’s",
       "title_original": "James Tarkowski pounces at the death as Everton deny Bournemouth win",
@@ -835,20 +852,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Hull は飛行開始をとして維持します Liam Millar’s 優勝 ruins Coventry の日",
-      "summary": "先日土曜日のトリムフは一回限りではありませんでした。ユールは衝撃的な勝利を裏返しましたマンチェスター・ユナイテッド100%のスタートを維持することでプレミアリーグ成功的な敗北にコベントリーを非難. 「私たちはリーグを勝ち取るつもりです」と、Hull のサポートから雨が降る華やかなシャントでした Liam Millar’s82 分ストライキ。目標は、コベントリーのための吸盤パンチでした, 勝者のためにプッシュし、シーズンの少なくとも彼らの最初のポイントを主張するように設定しました.Frank Lampard、腕の folde",
-      "title_original": "Hull maintain flying start as Liam Millar’s winner ruins Coventry’s day",
-      "summary_original": "Perhaps last Saturday’s triumph was not a one-off. Hull backed up a shock victory against Manchester United by maintaining their 100% start to the Premier League and condemning Coventry to successive defeats. “We’re gonna win the league,” was the glorious chant raining down from the Hull support after Liam Millar’s 82nd-minute strike. The goal was a sucker punch for Coventry, who were pushing for a winner and looked set to claim at least their first point of the season. Frank Lampard, arms folde",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/coventry-hull-premier-league-match-report",
-      "published": "Sat, 29 Aug 2026 16:11:35 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1203,6 +1206,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ヨーロッパリーグそして、カンファレンスリーグ備品",
+      "summary": "Sunderland が旅行します AC ミラン獲得を獲得を問い合わせヨーロッパリーグ Bournemouth がホストするセリエ A 巨人としてブライトンハートが発見したカンファレンスリーグ相手。",
+      "title_original": "Europa League and Conference League fixtures",
+      "summary_original": "Sunderland will travel to AC Milan in the Europa League and Bournemouth will host the Serie A giants as Brighton and Hearts discovered their Conference League opponents.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13578346/europa-league-and-conference-league-fixtures-for-celtic-bournemouth-sunderland-crystal-palace-brighton-and-hearts-confirmed",
+      "published": "Fri, 28 Aug 2026 21:02:00 BST",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "アストン・ヴィラ最新: 提供される Maatsen 新契約アフターマンチェスター・ユナイテッド インテルベスト",
       "summary": "",
       "title_original": "Aston Villa latest: Maatsen to be offered new deal after Man Utd interest",
@@ -1213,6 +1230,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "フラハム最新:サイン会を開催ローマ nian 右バック としてエヴァートン欲しい テテ",
+      "summary": "",
+      "title_original": "Fulham latest: Talks held to sign Romanian right-back as Everton want Tete",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "published": "Sat, 29 Aug 2026 20:37:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1246,9 +1277,9 @@
     },
     {
       "title": "Jake Paul 残酷なハーパーフロアとして調整 Reyes TWICE 素晴らしい勝利で",
-      "summary": "テリー・ハーパー (ボクサー)キャンセル Miranda Reyes 左の悪意のある右手パンチとの戦いの第2 ラウンド Jake Paul 驚いた!",
+      "summary": "テリー・ハーパー (ボクサー)キャンセル Miranda Reyes 彼らの超軽量の戦いの第2 ラウンドで vicious 右手パンチ, 左 Jake Paul 驚いた!",
       "title_original": "Jake Paul stunned as brutal Harper floors Reyes TWICE in stunning victory",
-      "summary_original": "Terri Harper stopped Miranda Reyes in the second round of their fight with a vicious right hand punch which left Jake Paul amazed!",
+      "summary_original": "Terri Harper stopped Miranda Reyes in the second round of their super lightweight fight with a vicious right-hand punch, which left Jake Paul amazed!",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13578849/mikaela-mayer-vs-chantelle-cameron-terri-harper-lands-devastating-right-hand-ko",
       "published": "Sat, 29 Aug 2026 20:06:00 BST",
@@ -1326,6 +1357,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Marathon Sunday 獲得を獲得を問い合わせ England's Penge コリード British Masters",
+      "summary": "Marco Penge 気象予報の最終日にリード見出しの共有を保持 Husqvarna British Masters と、Tom McKibbin ケーシングパックを見出します。",
+      "title_original": "Marathon Sunday ahead as England's Penge co-leads British Masters",
+      "summary_original": "Marco Penge holds a share of the lead heading into marathon final day at the weather-affected Husqvarna British Masters, with Tom McKibbin heading the chasing pack.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13578746/british-masters-marco-penge-co-leads-alongside-daniel-hillier-as-marathon-sunday-lies-ahead",
+      "published": "Sat, 29 Aug 2026 19:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1437,48 +1482,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ザ・ツアーチャンピオンシップライブ! Scheffler は、McIlroy's Birdie が破裂した後、ホヴランドを追いかける",
-      "summary": "",
-      "title_original": "Tour Championship LIVE! Scheffler chases Hovland after McIlroy's birdie burst",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13578675/tour-championship-third-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
-      "published": "Sat, 29 Aug 2026 20:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ウェストハムそれでも Watford の引くと勝利なし",
-      "summary": "ヌーノ・エスピーリト・サントお待ちしています。ウェストハム'最初のリーグは、彼らは悲劇に開催された後に勝ちます 1-1 前に描画 Vicarage Road's6 年間最大の群衆。",
-      "title_original": "West Ham still without a win after Watford draw",
-      "summary_original": "Nuno Espirito Santo is still waiting for West Ham's first League win after they were held to a gritty 1-1 draw in front of Vicarage Road's biggest crowd for six years.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/watford-vs-west-ham-united/report/560531",
-      "published": "Sat, 29 Aug 2026 17:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Charlton ビート Preston へ 維持 パーフェクト スタート",
-      "summary": "チャルトンは、ストラグリング・プレスストンの勝利1-0 後、チャンピオンシップテーブルのトップに移動しました。",
-      "title_original": "Charlton beat Preston to maintain perfect start",
-      "summary_original": "Charlton moved to the top of the Championship table after a 1-0 victory over struggling Preston.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/charlton-athletic-vs-preston-north-end/report/560526",
-      "published": "Sat, 29 Aug 2026 17:15:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
