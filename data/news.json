@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T13:04:14.273918+00:00",
+  "updated_at": "2026-08-29T13:19:45.459638+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -232,7 +232,10 @@
     "West Brom": "",
     "No McGregor": "",
     "Falkirk LIVE": "",
-    "Hull LIVE": ""
+    "Hull LIVE": "",
+    "Bluesky Everton": "",
+    "Harry Hackney": "",
+    "James Garner. Both Harrison": ""
   },
   "items": [
     {
@@ -334,20 +337,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ウイルスのインスピレーションになった50 歳のアマチュアサッカー選手",
-      "summary": "Craig Kirby 息子の死後サッカーを終了することを考える - で 50, 彼は彼の最終シーズンを文書化ウイルスに期待しなかった.",
-      "title_original": "The 50-year-old amateur footballer who became a viral inspiration",
-      "summary_original": "Craig Kirby thought about quitting football following the death of his son - at 50, he didn't expect to go viral documenting his final season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8d3jpyd1rno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 05:30:20 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -376,17 +365,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "シェルキが圧巻、Wharton も高評価　クリスタル・パレス対マンチェスター・シティの選手採点",
-      "summary": "使い方クリスタル・パレスそして、マンチェスター・シティの のプレイヤーは、プレミアリーグマッチ。",
-      "title_original": "Cherki genius and Wharton excels - Palace v Man City player ratings",
-      "summary_original": "How Crystal Palace and Manchester City's players rated following their Premier League match.",
+      "title": "ウイルスのインスピレーションになった50 歳のアマチュアサッカー選手",
+      "summary": "Craig Kirby 息子の死後サッカーを終了することを考える - で 50, 彼は彼の最終シーズンを文書化ウイルスに期待しなかった.",
+      "title_original": "The 50-year-old amateur footballer who became a viral inspiration",
+      "summary_original": "Craig Kirby thought about quitting football following the death of his son - at 50, he didn't expect to go viral documenting his final season.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4ryr777yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 21:01:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8d3jpyd1rno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 05:30:20 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -415,20 +404,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "McInnes は自分自身を返し、レンジャーズ成功事例",
-      "summary": "Manager Derek McInnes コメントレンジャーズ彼が望むものから「長い道のり」ですが、Ibrox で成功を届けるために自分自身をバックアップします。",
-      "title_original": "McInnes backs himself to deliver Rangers success",
-      "summary_original": "Manager Derek McInnes says Rangers are \"a long way away\" from what he wants but backs himself to deliver success at Ibrox.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjw5056v9v7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 22:29:37 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -642,6 +617,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "McInnes は自分自身を返し、レンジャーズ成功事例",
+      "summary": "Manager Derek McInnes コメントレンジャーズ彼が望むものから「長い道のり」ですが、Ibrox で成功を届けるために自分自身をバックアップします。",
+      "title_original": "McInnes backs himself to deliver Rangers success",
+      "summary_original": "Manager Derek McInnes says Rangers are \"a long way away\" from what he wants but backs himself to deliver success at Ibrox.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjw5056v9v7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 28 Aug 2026 22:29:37 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Do Wrexham 守備面の問題がありますか?",
       "summary": "Defender Dom HyamWrexham は、守備面の問題を是正するために「恐ろしい」の縞を見つける必要があることを示唆しました。",
       "title_original": "Do Wrexham have a defensive problem?",
@@ -656,13 +645,27 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "オルドネズの動くクリスタル・パレス疑わしい後メディカルチェック",
+      "summary": "クラブ・ブルッヘディフェンダーJoel Ordonez's 移動するクリスタル・パレス彼の後に合併症に遭遇メディカルチェック, イーグルスは、契約を進めるかどうかを決定するために設定しました.",
+      "title_original": "Ordonez's move to Palace in doubt after medical",
+      "summary_original": "Club Brugge defender Joel Ordonez's move to Crystal Palace runs into complications after his medical, with the Eagles set to decide whether to proceed with the deal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyjg6w67g4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 28 Aug 2026 15:35:11 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "リヴァプール. .ノッティンガム・フォレスト: プレミアリーグ– ライブ",
       "summary": "Anfield のライブアップデート 12.30pm キックオフ (BST)Email Scott| レッド ファイナライズ £123m バルコラソリューション チームが出てきます!リヴァプールレッド、最近のように目に見える3 枚目のシャツを身に着けている森マンチェスター・シティ番号。You’ll Never Walk Alone リングアウト、としてリヴァプールオーナージョン・ヘンリー (曖昧さ回避)そして新しい副会長 Amit Bhatia スタンドから見る わたしたちは一分間オフします...そして、その分はファンが伝説を覚えているのを見るでしょう Kevin Keegan、星の Bill Shankly’s 第2 の大きい t",
       "title_original": "Liverpool v Nottingham Forest: Premier League – live",
       "summary_original": "Live updates from Anfield 12.30pm kick-off (BST) Email Scott | Reds finalise £123m Barcola deal The teams are out! Liverpool all in red, Forest wearing a third-choice shirt that looks awfully like a recent Manchester City number. You’ll Never Walk Alone rings out, as Liverpool principal owner John Henry and the new vice-chairman Amit Bhatia watch from the stand. We’ll be off in a minute … and that minute will see fans remember the legendary Kevin Keegan, the star of Bill Shankly’s second great t",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/liverpool-v-nottingham-forest-premier-league-live",
-      "published": "Sat, 29 Aug 2026 12:51:14 GMT",
+      "published": "Sat, 29 Aug 2026 13:05:09 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -671,16 +674,16 @@
     },
     {
       "title": "ボーンマス v エヴァートン, Coventry v Hull 以上: サッカー時計腕時計 – ライブ",
-      "summary": "地面の周りの3pm ゲーム(BST)から更新 連絡を取る:メールサラと私たちに従ってください Bluesky The 第2 ラウンドプレミアリーグ金曜日にキックオフマンチェスター・シティビーツクリスタル・パレス4-1, 詳しくはこちら: The ブンデスリーガ我々はまた、我々はまた、継続するゲーム:RB ライプツィヒ. .Monchengladbach Mainz. .Paderbom Cologne. .Hoffenheim Union Berlin. .アイントラハト・フランクフルト SV エルバーベルク v レヴァークーゼン続きを読む...",
+      "summary": "地面の周りの3pm ゲーム(BST)からアップデート 連絡を取る:メールサラと Bluesky で私たちに従ってくださいエヴァートン変更を加える先発メンバー獲得を獲得を問い合わせ Harry Hackney ベンチ James Garner. Both Harrison アームストロングと Iliman Ndiaye 今後は他のクラブに移るのにリンクされているにもかかわらず、スタートします。一方、ボーンマスは、起動ラインアップで変更されていません。続きを読む...",
       "title_original": "Bournemouth v Everton, Coventry v Hull and more: football clockwatch – live",
-      "summary_original": "Updates from 3pm games (BST) around the grounds Get in touch: mail Sarah and follow us on Bluesky The second round of the Premier League kicked off on Friday with Manchester City beating Crystal Palace 4-1, read more here: The Bundesliga games which we will also keep across are: RB Leipzig v Monchengladbach Mainz v Paderbom Cologne v Hoffenheim Union Berlin v Eintracht Frankfurt SV Elversberg v Bayer Leverkusen Continue reading...",
+      "summary_original": "Updates from 3pm games (BST) around the grounds Get in touch: mail Sarah and follow us on Bluesky Everton make one change to their starting XI with Harry Hackney benched for James Garner. Both Harrison Armstrong and Iliman Ndiaye start despite being linked to moves to other clubs in the coming days. Bournemouth, meanwhile, are unchanged in the starting line-up. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/premier-league-bournemouth-everton-coventry-hull-efl-clockwatch-live",
-      "published": "Sat, 29 Aug 2026 12:46:31 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "published": "Sat, 29 Aug 2026 13:03:08 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1076,6 +1079,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "エヴァートン最新: アームストロングの£40m を支払う準備ができて森林",
+      "summary": "",
+      "title_original": "Everton latest: Forest ready to pay £40m for Armstrong",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "published": "Fri, 28 Aug 2026 10:55:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Bournemouth は Garner が始動するにつれて変更されていないエヴァートンライブ!",
       "summary": "",
       "title_original": "Bournemouth unchanged as Garner starts for Everton LIVE!",
@@ -1119,9 +1136,9 @@
     },
     {
       "title": "オフサイド論争?Should Boro 目標は不快に West Brom?",
-      "summary": "Should Will Lankshear's ゴール対 West Brom 許可されていませんか?",
+      "summary": "Should Will Lankshear's ミドルスラフに対する目標 West Brom 許可されていませんか?",
       "title_original": "Offside controversy? Should Boro goal have been disallowed against West Brom?",
-      "summary_original": "Should Will Lankshear's goal against West Brom have been disallowed?",
+      "summary_original": "Should Will Lankshear's goal for Middlesbrough against West Brom have been disallowed?",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13578528/offside-controversy-should-boro-goal-have-been-disallowed-against-west-brom",
       "published": "Sat, 29 Aug 2026 13:43:00 BST",
@@ -1146,9 +1163,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "プレイセット 雨の遅れの後の2.15pm イングランド対 Pakistan LIVE!",
+      "title": "雨の遅れの後の2.20pm で始まるために演劇はイギリス対を遅らせます Pakistan LIVE!",
       "summary": "",
-      "title_original": "Play set to start at 2.15pm after rain delays England vs Pakistan LIVE!",
+      "title_original": "Play to start at 2.20pm after rain delays England vs Pakistan LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13578445/england-vs-pakistan-second-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win",
@@ -1314,9 +1331,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Isak でタップリヴァプールイコライザー対 Forest LIVE!",
+      "title": "リヴァプールスーパーマンズストライキ LIVE の後、レベルアグイン対フォレスト!",
       "summary": "",
-      "title_original": "Isak taps in Liverpool equaliser vs Forest LIVE!",
+      "title_original": "Liverpool level AGAIN vs Forest after super Munoz strike LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/live/559460",
@@ -1335,20 +1352,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/news/12040/13570739/super-leagues-final-charge-leeds-rhinos-wakefield-trinity-wigan-warriors-warrington-wolves-hull-kr-leigh-leopards-and-st-helens-in-contention",
       "published": "Mon, 10 Aug 2026 10:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "4 つのブリッツと Djokovic のアクションで日曜日を開くためのプレーの順序",
-      "summary": "日曜日のオープニングシングルのプレーを眺める US Open, フラッシング・メドウズ・コロナ・パーク, New York.",
-      "title_original": "Order of play for opening Sunday with four Brits and Djokovic in action",
-      "summary_original": "Take a look at Sunday's opening singles order of play at the US Open, Flushing Meadows, New York.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13577913/us-open-2026-order-of-play-and-match-schedule-for-arthur-ashe-stadium-louis-armstrong-stadium-and-more",
-      "published": "Fri, 28 Aug 2026 23:20:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
