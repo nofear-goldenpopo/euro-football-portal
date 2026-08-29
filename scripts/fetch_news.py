@@ -11,7 +11,7 @@ import argostranslate.package
 import argostranslate.translate
 
 
-TRANSLATION_VERSION = "football-ja-v6"
+TRANSLATION_VERSION = "football-ja-v7"
 DATA_PATH = Path("data/news.json")
 
 FEEDS = [
@@ -313,7 +313,7 @@ PRIORITY = [
 def fetch(url):
     request = Request(
         url,
-        headers={"User-Agent": "EURO-Football-Portal/6.0"},
+        headers={"User-Agent": "EURO-Football-Portal/7.0"},
     )
     with urlopen(request, timeout=30) as response:
         return response.read()
@@ -498,7 +498,7 @@ def wikipedia_ja_batch(names, cache):
                 "https://en.wikipedia.org/w/api.php?" + params,
                 headers={
                     "User-Agent":
-                        "EURO-Football-Portal/6.0 "
+                        "EURO-Football-Portal/7.0 "
                         "(GitHub Pages football news translator)"
                 },
             )
@@ -648,9 +648,172 @@ def translate_preserving_entities(translator, text, dynamic_entities):
 # 見出し・要約の自然化
 # =========================================================
 
+def format_millions(amount, currency="£"):
+    amount = int(amount)
+
+    if currency == "€":
+        unit = "ユーロ"
+    else:
+        unit = "ポンド"
+
+    if amount >= 100:
+        oku = amount // 100
+        man = (amount % 100) * 100
+        if man:
+            return f"{oku}億{man}万{unit}"
+        return f"{oku}億{unit}"
+
+    return f"{amount * 100}万{unit}"
+
+
 def rewrite_headline(title, dynamic_entities):
     raw = title.strip()
     lower = raw.lower()
+
+    # =====================================================
+    # v7: 移籍ニュース見出しの自然化
+    # =====================================================
+
+    # Liverpool agree £123m deal for Paris St-Germain's Barcola
+    match = re.fullmatch(
+        r"(.+?) agree(?:s)?\s+(?:a\s+)?([£€])([0-9]+(?:\.[0-9]+)?)m\s+"
+        r"(?:deal|fee)\s+for\s+(.+?)['’]s\s+(.+)",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        buyer = entity_to_ja(match.group(1), dynamic_entities)
+        currency = match.group(2)
+        amount_raw = float(match.group(3))
+        seller = entity_to_ja(match.group(4), dynamic_entities)
+        player = entity_to_ja(match.group(5), dynamic_entities)
+
+        if amount_raw.is_integer():
+            amount_ja = format_millions(int(amount_raw), currency)
+        else:
+            unit = "ユーロ" if currency == "€" else "ポンド"
+            amount_ja = f"{amount_raw:g}百万{unit}"
+
+        return (
+            f"{buyer}、{seller}の{player}獲得で"
+            f"{amount_ja}合意"
+        )
+
+    # Liverpool agree deal for PSG's Barcola
+    match = re.fullmatch(
+        r"(.+?) agree(?:s)?\s+(?:a\s+)?deal\s+for\s+(.+?)['’]s\s+(.+)",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        buyer = entity_to_ja(match.group(1), dynamic_entities)
+        seller = entity_to_ja(match.group(2), dynamic_entities)
+        player = entity_to_ja(match.group(3), dynamic_entities)
+        return f"{buyer}、{seller}の{player}獲得で合意"
+
+    # Liverpool make enquiry for PSG's Barcola
+    match = re.fullmatch(
+        r"(.+?) (?:make|makes|made) (?:an\s+)?enquir(?:y|ies)\s+"
+        r"(?:for|about)\s+(.+?)['’]s\s+(.+)",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        club = entity_to_ja(match.group(1), dynamic_entities)
+        seller = entity_to_ja(match.group(2), dynamic_entities)
+        player = entity_to_ja(match.group(3), dynamic_entities)
+        return f"{club}、{seller}の{player}獲得を問い合わせ"
+
+    # Liverpool bid £80m for Barcola
+    match = re.fullmatch(
+        r"(.+?) (?:bid|bids|offer|offers)\s+([£€])([0-9]+(?:\.[0-9]+)?)m\s+"
+        r"for\s+(.+)",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        club = entity_to_ja(match.group(1), dynamic_entities)
+        currency = match.group(2)
+        amount_raw = float(match.group(3))
+        player = entity_to_ja(match.group(4), dynamic_entities)
+
+        if amount_raw.is_integer():
+            amount_ja = format_millions(int(amount_raw), currency)
+        else:
+            unit = "ユーロ" if currency == "€" else "ポンド"
+            amount_ja = f"{amount_raw:g}百万{unit}"
+
+        return f"{club}、{player}獲得へ{amount_ja}を提示"
+
+    # Liverpool close to signing Barcola
+    match = re.fullmatch(
+        r"(.+?) (?:are|is)?\s*(?:close to|set to|poised to)\s+"
+        r"(?:sign|signing)\s+(.+)",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        club = entity_to_ja(match.group(1), dynamic_entities)
+        player = entity_to_ja(match.group(2), dynamic_entities)
+        return f"{club}、{player}獲得に迫る"
+
+    # Barcola set to join Liverpool
+    match = re.fullmatch(
+        r"(.+?) (?:is\s+)?(?:set to|poised to|close to)\s+join\s+(.+)",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        player = entity_to_ja(match.group(1), dynamic_entities)
+        club = entity_to_ja(match.group(2), dynamic_entities)
+        return f"{player}、{club}加入へ"
+
+    # Liverpool sign Barcola from PSG
+    match = re.fullmatch(
+        r"(.+?) (?:sign|signs|signed)\s+(.+?)\s+from\s+(.+)",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        club = entity_to_ja(match.group(1), dynamic_entities)
+        player = entity_to_ja(match.group(2), dynamic_entities)
+        old_club = entity_to_ja(match.group(3), dynamic_entities)
+        return f"{club}、{old_club}から{player}を獲得"
+
+    # Liverpool in talks to sign Barcola
+    match = re.fullmatch(
+        r"(.+?) (?:in talks|hold talks|holding talks)\s+"
+        r"(?:to sign|over)\s+(.+)",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        club = entity_to_ja(match.group(1), dynamic_entities)
+        player = entity_to_ja(match.group(2), dynamic_entities)
+        return f"{club}、{player}獲得へ交渉"
+
+    # Liverpool target Barcola / Liverpool eye Barcola
+    match = re.fullmatch(
+        r"(.+?) (?:target|targets|eye|eyes|monitor|monitors)\s+(.+)",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        club = entity_to_ja(match.group(1), dynamic_entities)
+        player = entity_to_ja(match.group(2), dynamic_entities)
+        return f"{club}、{player}を獲得候補に"
+
+    # Barcola wants Liverpool move
+    match = re.fullmatch(
+        r"(.+?) (?:want|wants|seeks|keen on)\s+(.+?)\s+move",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        player = entity_to_ja(match.group(1), dynamic_entities)
+        club = entity_to_ja(match.group(2), dynamic_entities)
+        return f"{player}、{club}移籍を希望"
+
 
     match = re.fullmatch(
         r"Do (.+?) have defensive problems\?",
@@ -763,6 +926,12 @@ def football_postprocess(text):
         "防御問題": "守備面の問題",
         "プレイヤーの評価": "選手採点",
         "プレイヤー評価": "選手採点",
+        "契約に同意する": "獲得で合意",
+        "契約に同意": "獲得で合意",
+        "お問い合わせ": "獲得を問い合わせ",
+        "問い合わせ": "獲得を問い合わせ",
+        "新着情報": "獲得",
+        "取引": "移籍",
     }
 
     for old, new in fixes.items():
@@ -984,4 +1153,3 @@ DATA_PATH.write_text(
 
 print(f"Saved {len(output['items'])} football articles")
 print(f"Entity cache: {len(wiki_cache)} entries")
-
