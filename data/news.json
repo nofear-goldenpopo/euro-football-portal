@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T22:19:13.114313+00:00",
+  "updated_at": "2026-08-29T22:34:14.134736+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -415,23 +415,11 @@
     "Chantelle Cameron": "",
     "Mikaela Mayer": "ミカエラ・メイヤー",
     "Daniel Dubois": "",
-    "Fabio Wardley": ""
+    "Fabio Wardley": "",
+    "Jean-Matteo Bahoya": "",
+    "Luke Humphries": ""
   },
   "items": [
-    {
-      "title": "Watch Match 当日の様子",
-      "summary": "4 つのハイライトプレミアリーグマッチ、を含むリヴァプール. .ノッティンガム・フォレスト.",
-      "title_original": "Watch Match of the Day",
-      "summary_original": "Highlights from four Premier League matches, including Liverpool v Nottingham Forest.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 22:35:30 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
     {
       "title": "£300m は、テーブルの底に費やしました...トッテナムログイン De Zerbi「怒らない」",
       "summary": "夏に£300m 以上を過ごした、トッテナム自分自身の底を見つけるプレミアリーグ, ポイントやゴールなし, しかし、ボス ロベルト・デ・ツェルビは楽観的まま.",
@@ -440,34 +428,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyqn158n5jo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 29 Aug 2026 21:15:46 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "「信頼は存在しない」 - イラオラが Isak を最大限に引き出す方法は?",
-      "summary": "アレクサンデル・イサク2-2 のシーズンの最初の目標を勝ち抜くノッティンガム・フォレスト- しかし、方法リヴァプール彼から最善を尽くしますか?",
-      "title_original": "'That trust isn't there' - how does Iraola get best out of Isak?",
-      "summary_original": "Alexander Isak scored his first goal of the season in the 2-2 draw against Nottingham Forest - but how do Liverpool get the best out of him?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 15:49:49 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Jaissle 主張 最初プレミアリーグで勝つ 欠乏症トッテナム",
-      "summary": "セカンドハーフの目標 Anthony Elanga そして、Yoanne Wissa マネージャーMatthias Jaissle 最初からプレミアリーグ勝利、としてニューカッスル勝 2-0 でトッテナム.",
-      "title_original": "Jaissle claims first Premier League win at lacklustre Spurs",
-      "summary_original": "Second-half goals from Anthony Elanga and Yoanne Wissa give manager Matthias Jaissle his first Premier League victory, as Newcastle United win 2-0 at Tottenham Hotspur.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:27:16 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -489,6 +449,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Jaissle 主張 最初プレミアリーグで勝つ 欠乏症トッテナム",
+      "summary": "セカンドハーフの目標 Anthony Elanga そして、Yoanne Wissa マネージャーMatthias Jaissle 最初からプレミアリーグ勝利、としてニューカッスル勝 2-0 でトッテナム.",
+      "title_original": "Jaissle claims first Premier League win at lacklustre Spurs",
+      "summary_original": "Second-half goals from Anthony Elanga and Yoanne Wissa give manager Matthias Jaissle his first Premier League victory, as Newcastle United win 2-0 at Tottenham Hotspur.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:27:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "「サポーターはいつも間違っていません」 - マウスエヴァートンファンの怒り",
       "summary": "David Moyes「サポーターはいつも間違っていない」と言った。エヴァートンファンは十代のミッドフィルダーの潜在的な販売に彼らの反対をボイス Harrison ArmstrongBournemouth で 1-1 を描画します。",
       "title_original": "'Supporters aren't always wrong' - Moyes on Everton fans' anger",
@@ -500,6 +474,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "「信頼は存在しない」 - イラオラが Isak を最大限に引き出す方法は?",
+      "summary": "アレクサンデル・イサク2-2 のシーズンの最初の目標を勝ち抜くノッティンガム・フォレスト- しかし、方法リヴァプール彼から最善を尽くしますか?",
+      "title_original": "'That trust isn't there' - how does Iraola get best out of Isak?",
+      "summary_original": "Alexander Isak scored his first goal of the season in the 2-2 draw against Nottingham Forest - but how do Liverpool get the best out of him?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 15:49:49 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -573,6 +561,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Hull は Coventry で勝ち続けると完璧なスタートを続けます",
+      "summary": "Substitute Liam Millar's 遅い目標は助けます Hull は 1-0 の勝利を保証します。コヴェントリー・シティ FC 人生を取り戻すための完璧なスタートを続け、プレミアリーグ、2 つのマッチから2 つの勝利を持つ。",
+      "title_original": "Hull continue perfect start with away win at Coventry",
+      "summary_original": "Substitute Liam Millar's late goal helps Hull secure a 1-0 away victory against Coventry City and continues their perfect start to life back in the Premier League, with two wins from two matches.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5yjd20g6rpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:12:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "O'Neill はセルティック Ibrox のファンが300 人以上",
       "summary": "マーティン・オニールコメントセルティックチケットは、後から入手できません。レンジャーズ側面のための300 を提供されて League Cup 月次 Ibrox の四半期ファイナル。",
       "title_original": "O'Neill would rather Celtic had no fans at Ibrox than 300",
@@ -597,6 +599,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Hull は、ウィンガーバホヤのためにフランクフルトの移籍に同意します",
+      "summary": "ハル・シティ AFC 獲得を獲得を問い合わせアイントラハト・フランクフルトウィンガーに署名する Jean-Matteo Bahoya.",
+      "title_original": "Hull agree deal with Frankfurt for winger Bahoya",
+      "summary_original": "Hull City agree a deal with Eintracht Frankfurt to sign winger Jean-Matteo Bahoya.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 22:24:56 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -639,34 +655,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Tonali の闘争は、ゴンザレスの感動 -選手採点獲得を獲得を問い合わせトッテナム. .ニューカッスル",
-      "summary": "使い方トッテナムそして、ニューカッスル’ s 選手は、土曜日の 2-0 にランクインし、訪問者は、プレミアリーグマッチ。",
-      "title_original": "Tonali struggles but Gonzalez impresses - player ratings for Tottenham v Newcastle",
-      "summary_original": "How Tottenham Hotspur and Newcastle United's players rated following Saturday's 2-0 win for the visitors in their Premier League match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c93e8qv2qq0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 18:26:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Hull は Coventry で勝ち続けると完璧なスタートを続けます",
-      "summary": "Substitute Liam Millar's 遅い目標は助けます Hull は 1-0 の勝利を保証します。コヴェントリー・シティ FC 人生を取り戻すための完璧なスタートを続け、プレミアリーグ、2 つのマッチから2 つの勝利を持つ。",
-      "title_original": "Hull continue perfect start with away win at Coventry",
-      "summary_original": "Substitute Liam Millar's late goal helps Hull secure a 1-0 away victory against Coventry City and continues their perfect start to life back in the Premier League, with two wins from two matches.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5yjd20g6rpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:12:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -808,6 +796,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Tonali の闘争は、ゴンザレスの感動 -選手採点獲得を獲得を問い合わせトッテナム. .ニューカッスル",
+      "summary": "使い方トッテナムそして、ニューカッスル’ s 選手は、土曜日の 2-0 にランクインし、訪問者は、プレミアリーグマッチ。",
+      "title_original": "Tonali struggles but Gonzalez impresses - player ratings for Tottenham v Newcastle",
+      "summary_original": "How Tottenham Hotspur and Newcastle United's players rated following Saturday's 2-0 win for the visitors in their Premier League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c93e8qv2qq0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 18:26:50 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1245,6 +1247,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ペーパー:リヴァプールこれからも、サインを続けようクリスタル・パレスウィンガーサー",
+      "summary": "日曜日の新聞から噂を転送するトップストーリー...",
+      "title_original": "Papers: Liverpool continue talks to sign Crystal Palace winger Sarr",
+      "summary_original": "The top stories and transfer rumours from Sunday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13578898/liverpool-transfer-news-reds-continue-talks-with-crystal-palace-to-sign-ismaila-sarr-paper-talk",
+      "published": "Sat, 29 Aug 2026 22:22:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "メイドインの夢 ATP ツアータイトルは終了しました Winston-Salem Open ファイナル",
       "summary": "Arthur Fery's メイデンを上陸させる希望 ATP ツアータイトル Winston-Salem Open 流行のファッションで終わる Peruvian Ignacio Buse 土曜日に。",
       "title_original": "Fery's dreams of maiden ATP Tour title ended in Winston-Salem Open final",
@@ -1367,6 +1383,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "屈辱は衝撃的な敗北に苦しむ Hungarian Darts Trophy",
+      "summary": "Luke Humphries ショック6-3 は、ダーク・ヴァン・デュイヴェンボデに敗北しました Hungarian Darts Trophy 土曜日の夜にブダペストのトーナメントお気に入りがクラッシュしたように。",
+      "title_original": "Humphries suffers shock defeat in Hungarian Darts Trophy",
+      "summary_original": "Luke Humphries suffered a shock 6-3 defeat to Dirk van Duijvenbode in the second round of the Hungarian Darts Trophy as the tournament favourite crashed out of Budapest on Saturday night.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/news/12040/13578830/hungarian-darts-trophy-luke-humphries-suffers-shock-defeat-to-dirk-van-duijvenbode-as-michael-van-gerwen-delivers-comeback-win",
+      "published": "Sat, 29 Aug 2026 19:28:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -1494,34 +1524,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "US Open スコア: ノーリー、ブルター、フェンリー、サミュエル、行動日曜日のドジョコヴィック",
-      "summary": "",
-      "title_original": "US Open scores: Norrie, Boulter, Fearnley, Samuel and Djokovic in action Sunday",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/scores-schedule",
-      "published": "Sat, 29 Aug 2026 21:03:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マンチェスター・シティサインアップするためのオープントークリヴァプールの ガクポ",
-      "summary": "マンチェスター・シティ一緒に話し合っているリヴァプール署名するコーディ・ガクポ.",
-      "title_original": "Man City open talks to sign Liverpool's Gakpo",
-      "summary_original": "Manchester City have opened talks with Liverpool to sign Cody Gakpo.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578859/cody-gakpo-transfer-news-manchester-city-open-talks-to-sign-liverpool-forward",
-      "published": "Sat, 29 Aug 2026 20:23:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
