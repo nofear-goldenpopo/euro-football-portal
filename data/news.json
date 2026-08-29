@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T12:33:59.327338+00:00",
+  "updated_at": "2026-08-29T12:49:11.003706+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -219,7 +219,8 @@
     "Sky Sports' Nasser Hussain": "",
     "Michael Atherton": "",
     "Joe Root's": "",
-    "Forest LIVE": ""
+    "Forest LIVE": "",
+    "Hull City": "ハル・シティAFC"
   },
   "items": [
     {
@@ -243,7 +244,7 @@
       "summary_original": "Nottingham Forest launch an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 11:43:43 GMT",
+      "published": "Sat, 29 Aug 2026 12:41:06 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -649,7 +650,7 @@
       "summary_original": "Live updates from Anfield 12.30pm kick-off (BST) Email Scott | Reds finalise £123m Barcola deal The teams are out! Liverpool all in red, Forest wearing a third-choice shirt that looks awfully like a recent Manchester City number. You’ll Never Walk Alone rings out, as Liverpool principal owner John Henry and the new vice-chairman Amit Bhatia watch from the stand. We’ll be off in a minute … and that minute will see fans remember the legendary Kevin Keegan, the star of Bill Shankly’s second great t",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/liverpool-v-nottingham-forest-premier-league-live",
-      "published": "Sat, 29 Aug 2026 12:20:09 GMT",
+      "published": "Sat, 29 Aug 2026 12:28:01 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1063,9 +1064,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ボーンマス対エヴァートンプレビュー: 訪問者のためのハックニー「タッチと行く」",
+      "title": "ボーンマス対エヴァートンチームニュース LIVE!",
       "summary": "",
-      "title_original": "Bournemouth vs Everton preview: Hackney 'touch and go' for visitors",
+      "title_original": "Bournemouth vs Everton team news LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bournemouth-vs-everton/live/559455",
@@ -1077,9 +1078,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Wolves ヒット バック へ リード Stoke; Swansea 先に -EFL LIVE 空に!",
+      "title": "Wolves、ミドルスラフ&スワンシーオールリード -EFL LIVE 空に!",
       "summary": "",
-      "title_original": "Wolves hit back to lead Stoke; Swansea ahead - EFL LIVE on Sky!",
+      "title_original": "Wolves, Middlesbrough & Swansea all lead - EFL LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13577502/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
@@ -1105,9 +1106,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "なぜ根は、lbw の却下剤で苦労していますか?",
+      "title": "分析: なぜ根幹は、lbw の却下剤で苦しむ?",
       "summary": "Sky Sports' Nasser Hussain そして、Michael Atherton 背後にある理由を議論 Joe Root'sTest cricket の lbw の dismissals への最近の脆弱性。",
-      "title_original": "Why is Root struggling with lbw dismissals?",
+      "title_original": "Analysis: Why is Root struggling with lbw dismissals?",
       "summary_original": "Sky Sports' Nasser Hussain and Michael Atherton discuss the reasons behind Joe Root's recent vulnerability to lbw dismissals in Test cricket.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13578472/england-cricket-why-is-joe-root-struggling-with-lbw-dismissals",
@@ -1119,9 +1120,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "主の雨は、イングランドの支配人として遅れて再生 Pakistan LIVE!",
+      "title": "勝利のためのイングランドのプッシュとして雨として2pm からスタートするようにセットをプレイ Pakistan LIVE!",
       "summary": "",
-      "title_original": "Play delayed at Lord's as rain halts England's dominance against Pakistan LIVE!",
+      "title_original": "Play set to start at 2pm after rain as England push for victory vs Pakistan LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13578445/england-vs-pakistan-second-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win",
@@ -1182,6 +1183,34 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13577891/today-on-sky-sports-racing-chepstow-windsor-and-saratoga",
       "published": "Sat, 29 Aug 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "セルティック Falkirk チームニュース LIVE!",
+      "summary": "",
+      "title_original": "Celtic vs Falkirk team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/celtic-vs-falkirk/live/558352",
+      "published": "Sat, 29 Aug 2026 13:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "コベントリー対ハル・シティ AFC チームニュース LIVE!",
+      "summary": "",
+      "title_original": "Coventry vs Hull City team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/coventry-city-vs-hull-city/live/559457",
+      "published": "Sat, 29 Aug 2026 13:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1259,9 +1288,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "HT で言うリヴァプールトレイル Forest LIVE!",
+      "title": "ノッティンガム・フォレスト鉛欠乏症リヴァプールライブ!",
       "summary": "",
-      "title_original": "Have your say at HT as Liverpool trail Forest LIVE!",
+      "title_original": "Nottingham Forest lead lacklustre Liverpool LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/live/559460",
@@ -1307,34 +1336,6 @@
       "summary_original": "Beau Greaves took Rob Cross to a last-leg decider before losing out 6-5 on her European Tour debut in the first round of the Hungarian Darts Trophy.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13578173/hungarian-darts-trophy-beau-greaves-just-loses-out-to-rob-cross-in-last-leg-decider-on-european-tour-debut",
-      "published": "Fri, 28 Aug 2026 22:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "スケフラーはホヴランドを追いかけるザ・ツアーチャンピオンシップ McIlroy がフェードを望んでいるように",
-      "summary": "Viktor Hovland ハーフウェイステージでリードのシェアを保持 PGA Tour's 季節限定ザ・ツアーチャンピオンシップと、Scottie SchefflerFedExCup のコンテンツでしっかりと。",
-      "title_original": "Scheffler chases Hovland at Tour Championship as McIlroy's hopes fade",
-      "summary_original": "Viktor Hovland holds a share of the lead at the halfway stage of the PGA Tour's season-ending Tour Championship, with Scottie Scheffler firmly in FedExCup contention.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13578299/tour-championship-scottie-scheffler-chasing-viktor-hovland-in-fedexcup-finale-as-rory-mcilroy-falls-further-back",
-      "published": "Fri, 28 Aug 2026 23:10:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "パーキンソンは、バーミンガムの Wrexham として「最も柔らかい目標」でふわふわ",
-      "summary": "Wrexham のシーズンへの勝利の始まりは、バーミンガムが2-1 を打ち破った後、すべての競争で4 つのゲームに拡張されました Racecourse Ground.",
-      "title_original": "Parkinson fumes at 'softest goals' as Wrexham beaten by Birmingham",
-      "summary_original": "Wrexham's winless start to the season was extended to four games in all competitions after they were beaten 2-1 by Birmingham at the Racecourse Ground.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/wrexham-vs-birmingham-city/report/560533",
       "published": "Fri, 28 Aug 2026 22:00:00 BST",
       "category": "other",
       "type": "other",
