@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T12:49:11.003706+00:00",
+  "updated_at": "2026-08-29T13:04:14.273918+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -220,7 +220,19 @@
     "Michael Atherton": "",
     "Joe Root's": "",
     "Forest LIVE": "",
-    "Hull City": "ハル・シティAFC"
+    "Hull City": "ハル・シティAFC",
+    "Bluesky The": "",
+    "The Bundesliga": "",
+    "Monchengladbach Mainz": "",
+    "Paderbom Cologne": "",
+    "Hoffenheim Union Berlin": "",
+    "Eintracht Frankfurt SV Elversberg": "",
+    "Bayer Leverkusen Continue": "",
+    "Everton LIVE": "",
+    "West Brom": "",
+    "No McGregor": "",
+    "Falkirk LIVE": "",
+    "Hull LIVE": ""
   },
   "items": [
     {
@@ -249,6 +261,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "3 週間インテル国民は懸念を破る -モウリーニョ",
+      "summary": "ジョゼ・モウリーニョ3 週間と言うインテル国民の休憩は「コンサート」ですレアル・マドリード、の後で要求するスケジュールに直面している複数の主プレーヤーを使って World Cup.",
+      "title_original": "Three-week international break a concern - Mourinho",
+      "summary_original": "Jose Mourinho says the three-week international break is a “concern” for Real Madrid, with several key players facing a demanding schedule after the World Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zwwz5z4no?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 12:54:26 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -294,20 +320,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Arsenal & Barca、Rashford - Saturday's gossip を獲得候補に",
-      "summary": "アーセナルモニターマーカス・ラッシュフォード, チェルシーログインモナコ'Lamine Camara と バレンシア プッシュ のためにリヴァプールミッドフィルダーHarvey Elliott、プラス多く。",
-      "title_original": "Arsenal & Barca monitor Rashford - Saturday's gossip",
-      "summary_original": "Arsenal monitor Marcus Rashford, Chelsea eye Monaco's Lamine Camara and Valencia push for Liverpool midfielder Harvey Elliott, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8416ll9yvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 20:48:59 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "トリップピアは、マイリーの「大きな存在」を、ニューカッスル表面 Tonali の reunion",
       "summary": "ニューカッスルミッドフィルダーLewis Miley20 歳から20 歳までは元チームメイトに直面する準備が整っているので「自分が望む限り」に戻る Sandro Tonali 獲得を獲得を問い合わせトッテナムスタジアム",
       "title_original": "Trippier praises Miley's 'big presence' as Newcastle face Tonali reunion",
@@ -350,6 +362,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Arsenal & Barca、Rashford - Saturday's gossip を獲得候補に",
+      "summary": "アーセナルモニターマーカス・ラッシュフォード, チェルシーログインモナコ'Lamine Camara と バレンシア プッシュ のためにリヴァプールミッドフィルダーHarvey Elliott、プラス多く。",
+      "title_original": "Arsenal & Barca monitor Rashford - Saturday's gossip",
+      "summary_original": "Arsenal monitor Marcus Rashford, Chelsea eye Monaco's Lamine Camara and Valencia push for Liverpool midfielder Harvey Elliott, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8416ll9yvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 28 Aug 2026 20:48:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "シェルキが圧巻、Wharton も高評価　クリスタル・パレス対マンチェスター・シティの選手採点",
       "summary": "使い方クリスタル・パレスそして、マンチェスター・シティの のプレイヤーは、プレミアリーグマッチ。",
       "title_original": "Cherki genius and Wharton excels - Palace v Man City player ratings",
@@ -389,20 +415,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Do Wrexham 守備面の問題がありますか?",
-      "summary": "Defender Dom HyamWrexham は、守備面の問題を是正するために「恐ろしい」の縞を見つける必要があることを示唆しました。",
-      "title_original": "Do Wrexham have a defensive problem?",
-      "summary_original": "Defender Dom Hyam has suggested Wrexham may need to find a \"horrible\" streak to help rectify their defensive issues.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd94xd9j7z5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 07:44:32 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -630,16 +642,16 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "オルドネズの動くクリスタル・パレス疑わしい後メディカルチェック",
-      "summary": "クラブ・ブルッヘディフェンダーJoel Ordonez's 移動するクリスタル・パレス彼の後に合併症に遭遇メディカルチェック, イーグルスは、契約を進めるかどうかを決定するために設定しました.",
-      "title_original": "Ordonez's move to Palace in doubt after medical",
-      "summary_original": "Club Brugge defender Joel Ordonez's move to Crystal Palace runs into complications after his medical, with the Eagles set to decide whether to proceed with the deal.",
+      "title": "Do Wrexham 守備面の問題がありますか?",
+      "summary": "Defender Dom HyamWrexham は、守備面の問題を是正するために「恐ろしい」の縞を見つける必要があることを示唆しました。",
+      "title_original": "Do Wrexham have a defensive problem?",
+      "summary_original": "Defender Dom Hyam has suggested Wrexham may need to find a \"horrible\" streak to help rectify their defensive issues.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyjg6w67g4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 15:35:11 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd94xd9j7z5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 07:44:32 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -650,7 +662,21 @@
       "summary_original": "Live updates from Anfield 12.30pm kick-off (BST) Email Scott | Reds finalise £123m Barcola deal The teams are out! Liverpool all in red, Forest wearing a third-choice shirt that looks awfully like a recent Manchester City number. You’ll Never Walk Alone rings out, as Liverpool principal owner John Henry and the new vice-chairman Amit Bhatia watch from the stand. We’ll be off in a minute … and that minute will see fans remember the legendary Kevin Keegan, the star of Bill Shankly’s second great t",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/liverpool-v-nottingham-forest-premier-league-live",
-      "published": "Sat, 29 Aug 2026 12:28:01 GMT",
+      "published": "Sat, 29 Aug 2026 12:51:14 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ボーンマス v エヴァートン, Coventry v Hull 以上: サッカー時計腕時計 – ライブ",
+      "summary": "地面の周りの3pm ゲーム(BST)から更新 連絡を取る:メールサラと私たちに従ってください Bluesky The 第2 ラウンドプレミアリーグ金曜日にキックオフマンチェスター・シティビーツクリスタル・パレス4-1, 詳しくはこちら: The ブンデスリーガ我々はまた、我々はまた、継続するゲーム:RB ライプツィヒ. .Monchengladbach Mainz. .Paderbom Cologne. .Hoffenheim Union Berlin. .アイントラハト・フランクフルト SV エルバーベルク v レヴァークーゼン続きを読む...",
+      "title_original": "Bournemouth v Everton, Coventry v Hull and more: football clockwatch – live",
+      "summary_original": "Updates from 3pm games (BST) around the grounds Get in touch: mail Sarah and follow us on Bluesky The second round of the Premier League kicked off on Friday with Manchester City beating Crystal Palace 4-1, read more here: The Bundesliga games which we will also keep across are: RB Leipzig v Monchengladbach Mainz v Paderbom Cologne v Hoffenheim Union Berlin v Eintracht Frankfurt SV Elversberg v Bayer Leverkusen Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/aug/29/premier-league-bournemouth-everton-coventry-hull-efl-clockwatch-live",
+      "published": "Sat, 29 Aug 2026 12:46:31 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -673,15 +699,15 @@
     },
     {
       "title": "Women’s Super League2026-27 プレビュー番号 8:エヴァートン",
-      "summary": "Toffees の新しい一見の攻撃は、歴史的に第2 シーズンのキャンペーンに比較的簡単な開始の間にゲルを望む Goodison Park Guardian 作家の予測位置:10 位(NB:これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 8th 続きを読む...",
+      "summary": "新規発見攻撃は、その2 シーズンでキャンペーンを開始しやすくなる間にゲル化してほしい Goodison Park Guardian 作家の予測位置:10 位(NB:これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 8th 続きを読む...",
       "title_original": "Women’s Super League 2026-27 preview No 8: Everton",
-      "summary_original": "Toffees new-look attack will hope to gel during their relatively easy start to the campaign in their second season at the historic Goodison Park Guardian writers’ predicted position: 10th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 8th Continue reading...",
+      "summary_original": "New-look attack will hope to gel during their relatively easy start to the campaign in their second season at Goodison Park Guardian writers’ predicted position: 10th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 8th Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/29/womens-super-league-2026-27-preview-no-8-everton",
       "published": "Fri, 28 Aug 2026 23:01:10 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -700,6 +726,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "誰が最も厳しい備品を与えられたのかチャンピオンズリーグドローイング?",
+      "summary": "ドローは親切でしたリヴァプールそして、アーセナル, しかしマンチェスター・シティそして、アストン・ヴィラあまり良くない By Opta Analyst The36 クラブチャンピオンズリーグ彼らはリーグのフェーズでプレーする誰を知っている、しかし、チームは最も親切なドローを持っているし、誰が最も厳しい割り当てを持っていますか? それぞれの側面は8 つの相手を知っていますが、2 つのチームが同じ相手のセットに直面していないと、これはレベルプレイフィールドではありません。Opta のパワーランキングを利用しました。このランキングでは、世界中から 16,000 チームをランク付けしています。",
+      "title_original": "Who was given the toughest fixtures in the Champions League draw?",
+      "summary_original": "The draw was kind to Liverpool and Arsenal, but Manchester City and Aston Villa do not have it so good By Opta Analyst The 36 clubs in the Champions League know who they will play in the league phase , but which team has the kindest draw and who has the toughest assignment? Each side knows their eight opponents but, given that no two teams face the same set of opponents, this is not a level playing field. We have used the Opta power rankings – which rank 16,000 teams from across the world on the",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/28/champions-league-draw-liverpool-arsenal-manchester-city-aston-villa",
+      "published": "Sat, 29 Aug 2026 12:24:41 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "シェルキそして、ハーランドダブルアップマンチェスター・シティクルーズクリスタル・パレス",
       "summary": "出席者全員ラヤン・シェルキショーは、チケットはエンターテイメントの保証が付属しています知っています。Enzo Maresca, 彼の強迫的な位置制御のためにフェースマネージャー, 限界を置く必要はありませんマンチェスター・シティウィザード。シェルキ自由に感じ、彼は彼の創造的ベストに反対していたクリスタル・パレス街の創造的ハートビートの前のこのゲームにあった人は、後半から離れました。先輩達に良いスタートだったリヨンイングランドで2 年目の選手。シェルキアガイに触発された",
       "title_original": "Cherki and Haaland double up in Manchester City cruise at Crystal Palace",
@@ -707,20 +747,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/28/crystal-palace-manchester-city-premier-league-match-report",
       "published": "Fri, 28 Aug 2026 20:59:41 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "アストン・ヴィラ署名 ジャクソン と クローズ オン Mbaye として Emery クリアズ 空気 と 出発 ワトキンズ",
-      "summary": "ジャクソンが参加するチェルシー, パリ・サンジェルマン'Mbaye が参加しました Saudi-bound Watkins 再生する拒否のために申し訳ありません Unai Emery 彼は言ったアストン・ヴィラ署名を歓迎した「新しい章」に刻まれたチェルシー’ ニコラスジャクソン, とパリ・サンジェルマン'Ibrahim Mbaye は、彼の攻撃のほぼ£100m リメイクを完了しました。ジャクソンは、ヴィラが初期£47.5m を支払った人のために、自宅でデビューするために行っているアーセナル月曜日とクラブは、Mbaye の移転を確定します。",
-      "title_original": "Aston Villa sign Jackson and close on Mbaye as Emery clears air with departing Watkins",
-      "summary_original": "Jackson joins from Chelsea, PSG’s Mbaye poised to join Saudi-bound Watkins says sorry for refusing to play Unai Emery said Aston Villa were embarking on a “new chapter” as he welcomed the signing of Chelsea’s Nicolas Jackson, with Paris Saint-Germain’s Ibrahim Mbaye poised to complete a near-£100m remake of his attack. Jackson, for whom Villa have paid an initial £47.5m, is in line to make his debut at home against Arsenal on Monday and the club are finalising a move for Mbaye, who will also cos",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins",
-      "published": "Sat, 29 Aug 2026 09:51:02 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -738,20 +764,6 @@
       "category": "bundesliga",
       "type": "bundesliga",
       "label": "ブンデス",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "De Zerbi 欲しい 1 より多くの署名のためのトッテナム振込期限前",
-      "summary": "トッテナム「1 つの特定の位置」のために押すヘッド コーチトッテナム hectic ウィンドウの最後にプレーヤーをオフロードすることができます Roberto De Zerbi 自分の署名を1 つ加えることを keen トッテナム火曜日の夜間の振替期限前には、外出移籍も可能なと述べています。De Zerbi 木曜日の夜に夕食を食べましたトッテナム’ 所有者と主要な役員と、彼らはすでに彼の期待を超えるウィンドウに最終的なプッシュを議論しました. 管理者は歓迎しました Omar Marmoush 月曜日から木曜日にクラブへ",
-      "title_original": "De Zerbi wants one more signing for Tottenham before transfer deadline",
-      "summary_original": "Spurs head coach pushing for ‘one specific position’ Tottenham could offload players at end of hectic window Roberto De Zerbi is keen to add one more signing to his Tottenham squad and has said outgoing deals are also possible before Tuesday night’s transfer deadline. De Zerbi had dinner on Thursday night with Spurs’ owners and key executives and they discussed a final push to a window that has already exceeded his expectations. The manager welcomed Omar Marmoush to the club on Thursday from Man",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/28/tottenham-roberto-de-zerbi-premier-league-transfer-deadline-window",
-      "published": "Fri, 28 Aug 2026 14:52:43 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -938,6 +950,34 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "アストン・ヴィラ署名 ジャクソン と クローズ オン Mbaye として Emery クリアズ 空気 と 出発 ワトキンズ",
+      "summary": "ジャクソンが参加するチェルシー, パリ・サンジェルマン'Mbaye が参加しました Saudi-bound Watkins 再生する拒否のために申し訳ありません Unai Emery 彼は言ったアストン・ヴィラ署名を歓迎した「新しい章」に刻まれたチェルシー’ ニコラスジャクソン, とパリ・サンジェルマン'Ibrahim Mbaye は、彼の攻撃のほぼ£100m リメイクを完了しました。ジャクソンは、ヴィラが初期£47.5m を支払った人のために、自宅でデビューするために行っているアーセナル月曜日とクラブは、Mbaye の移転を確定します。",
+      "title_original": "Aston Villa sign Jackson and close on Mbaye as Emery clears air with departing Watkins",
+      "summary_original": "Jackson joins from Chelsea, PSG’s Mbaye poised to join Saudi-bound Watkins says sorry for refusing to play Unai Emery said Aston Villa were embarking on a “new chapter” as he welcomed the signing of Chelsea’s Nicolas Jackson, with Paris Saint-Germain’s Ibrahim Mbaye poised to complete a near-£100m remake of his attack. Jackson, for whom Villa have paid an initial £47.5m, is in line to make his debut at home against Arsenal on Monday and the club are finalising a move for Mbaye, who will also cos",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins",
+      "published": "Sat, 29 Aug 2026 09:51:02 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "De Zerbi 欲しい 1 より多くの署名のためのトッテナム振込期限前",
+      "summary": "トッテナム「1 つの特定の位置」のために押すヘッド コーチトッテナム hectic ウィンドウの最後にプレーヤーをオフロードすることができます Roberto De Zerbi 自分の署名を1 つ加えることを keen トッテナム火曜日の夜間の振替期限前には、外出移籍も可能なと述べています。De Zerbi 木曜日の夜に夕食を食べましたトッテナム’ 所有者と主要な役員と、彼らはすでに彼の期待を超えるウィンドウに最終的なプッシュを議論しました. 管理者は歓迎しました Omar Marmoush 月曜日から木曜日にクラブへ",
+      "title_original": "De Zerbi wants one more signing for Tottenham before transfer deadline",
+      "summary_original": "Spurs head coach pushing for ‘one specific position’ Tottenham could offload players at end of hectic window Roberto De Zerbi is keen to add one more signing to his Tottenham squad and has said outgoing deals are also possible before Tuesday night’s transfer deadline. De Zerbi had dinner on Thursday night with Spurs’ owners and key executives and they discussed a final push to a window that has already exceeded his expectations. The manager welcomed Omar Marmoush to the club on Thursday from Man",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/28/tottenham-roberto-de-zerbi-premier-league-transfer-deadline-window",
+      "published": "Fri, 28 Aug 2026 14:52:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "プレミアリーグニュース David Moyes によって中止されるマンチェスター・シティ獲得を獲得を問い合わせインテル最新記事 Iliman Ndiaye",
       "summary": "サンダーランドが訪れる San Siro 獲得を獲得を問い合わせヨーロッパリーグふりがな Carlos Baleba 待たなければならないマンチェスター・ユナイテッドデビュー 続きを読む...",
       "title_original": "Premier League news: David Moyes unsettled by Manchester City’s interest in Iliman Ndiaye",
@@ -948,34 +988,6 @@
       "category": "uel",
       "type": "uel",
       "label": "EL",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Danny Welbeck リードチェルシー過去の Luton しかし Enzo Fernández ミス EFL カップタイ",
-      "summary": "Emiliano Martínez 別のハイプロファイルのアルゼンチンはすぐに別の色合いを着用する可能性があります。チェルシー最大の弱さ、満足度に対処シャビ・アロンソ’ s は、新しいゴールキーパーへの署名に£7.5m の獲得で合意して望むアストン・ヴィラ、そしてそれらが端をに置いた前に確かに長くない Enzo Fernández サガ。フェルナンデスは最も注目すべき absentee でしたチェルシー第三ラウンドに緩和 EFL カップ2-0 で勝ちます Luton. There",
-      "title_original": "Danny Welbeck leads Chelsea past Luton but Enzo Fernández misses Carabao Cup tie",
-      "summary_original": "Emiliano Martínez is on his way but another high-profile Argentinian is likely to be wearing a different shade of blue soon. Chelsea have dealt with their biggest weakness, satisfying Xabi Alonso’s wish for a new goalkeeper by agreeing a £7.5m deal to sign Martínez from Aston Villa, and it will surely not be long before they have put an end to the Enzo Fernández saga. Fernández was the most notable absentee as Chelsea eased into the third round of the Carabao Cup with a 2-0 win over Luton. There",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/27/chelsea-luton-carabao-cup-second-round-match-report",
-      "published": "Thu, 27 Aug 2026 20:40:13 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "アトレティコ・マドリード講師紹介 Julián Alvarez“never, ever” を販売します。バルセロナ",
-      "summary": "Miguel Ángel Gil Marín インフォメーションバルセロナ「おいしい」のアーセナルアルゼンチンとつながるアトレティコ・マドリード’ チーフエグゼクティブがドアをスラムに出演バルセロナ’s の追求 Julián Alvarez 獲得を獲得を問い合わせ Thursday. Miguel Ángel Gil マリインは、料理人のカタランクラブを認可し、アルゼンチンのフォワードは彼らに販売されます。スペインの放送局と話す Movistar Plus, Gil Marín ブリスター対応を納品バルセロナ代表取締役社長 Joan Laporta, 彼は言った",
-      "title_original": "Atlético Madrid chief insists Julián Alvarez will ‘never, ever’ be sold to Barcelona",
-      "summary_original": "Miguel Ángel Gil Marín accuses Barça of ‘dishonesty’ Arsenal have also been linked with Argentina forward Atlético Madrid’s chief executive appeared to slam the door on Barcelona’s pursuit of Julián Alvarez on Thursday. Miguel Ángel Gil Marín accused the Catalan club of dishonesty and insisted the Argentina forward would “never, ever” be sold to them. Speaking to the Spanish broadcaster Movistar Plus, Gil Marín delivered a blistering response to ⁠Barcelona’s president, Joan Laporta, who had said",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/27/atletico-madrid-julian-alvarez-barcelona-transfer-news",
-      "published": "Thu, 27 Aug 2026 22:16:23 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1064,9 +1076,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ボーンマス対エヴァートンチームニュース LIVE!",
+      "title": "Bournemouth は Garner が始動するにつれて変更されていないエヴァートンライブ!",
       "summary": "",
-      "title_original": "Bournemouth vs Everton team news LIVE!",
+      "title_original": "Bournemouth unchanged as Garner starts for Everton LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bournemouth-vs-everton/live/559455",
@@ -1078,9 +1090,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Wolves、ミドルスラフ&スワンシーオールリード -EFL LIVE 空に!",
+      "title": "Wolves, Swansea & Middlesbrough すべてのリード -EFL LIVE 空に!",
       "summary": "",
-      "title_original": "Wolves, Middlesbrough & Swansea all lead - EFL LIVE on Sky!",
+      "title_original": "Wolves, Swansea & Middlesbrough all lead - EFL LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13577502/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
@@ -1106,6 +1118,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "オフサイド論争?Should Boro 目標は不快に West Brom?",
+      "summary": "Should Will Lankshear's ゴール対 West Brom 許可されていませんか?",
+      "title_original": "Offside controversy? Should Boro goal have been disallowed against West Brom?",
+      "summary_original": "Should Will Lankshear's goal against West Brom have been disallowed?",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13578528/offside-controversy-should-boro-goal-have-been-disallowed-against-west-brom",
+      "published": "Sat, 29 Aug 2026 13:43:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "分析: なぜ根幹は、lbw の却下剤で苦しむ?",
       "summary": "Sky Sports' Nasser Hussain そして、Michael Atherton 背後にある理由を議論 Joe Root'sTest cricket の lbw の dismissals への最近の脆弱性。",
       "title_original": "Analysis: Why is Root struggling with lbw dismissals?",
@@ -1120,9 +1146,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "勝利のためのイングランドのプッシュとして雨として2pm からスタートするようにセットをプレイ Pakistan LIVE!",
+      "title": "プレイセット 雨の遅れの後の2.15pm イングランド対 Pakistan LIVE!",
       "summary": "",
-      "title_original": "Play set to start at 2pm after rain as England push for victory vs Pakistan LIVE!",
+      "title_original": "Play set to start at 2.15pm after rain delays England vs Pakistan LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13578445/england-vs-pakistan-second-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win",
@@ -1190,9 +1216,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "セルティック Falkirk チームニュース LIVE!",
+      "title": "No McGregor またはホッホのためにセルティック対比 Falkirk LIVE!",
       "summary": "",
-      "title_original": "Celtic vs Falkirk team news LIVE!",
+      "title_original": "No McGregor or Hogh for Celtic vs Falkirk LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/celtic-vs-falkirk/live/558352",
@@ -1204,9 +1230,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "コベントリー対ハル・シティ AFC チームニュース LIVE!",
+      "title": "Awoniyi は Coventry 対 Coventry 対 Hull LIVE!",
       "summary": "",
-      "title_original": "Coventry vs Hull City team news LIVE!",
+      "title_original": "Awoniyi starts for Coventry vs Hull LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/coventry-city-vs-hull-city/live/559457",
@@ -1288,9 +1314,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ノッティンガム・フォレスト鉛欠乏症リヴァプールライブ!",
+      "title": "Isak でタップリヴァプールイコライザー対 Forest LIVE!",
       "summary": "",
-      "title_original": "Nottingham Forest lead lacklustre Liverpool LIVE!",
+      "title_original": "Isak taps in Liverpool equaliser vs Forest LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/live/559460",
@@ -1323,20 +1349,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13577913/us-open-2026-order-of-play-and-match-schedule-for-arthur-ashe-stadium-louis-armstrong-stadium-and-more",
       "published": "Fri, 28 Aug 2026 23:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "最後のレッグスリラーのクロスで拒否されたグレーヴ European Tour デビュー",
-      "summary": "Beau Greaves 獲得を獲得を問い合わせ Rob Cross 最後のレッグの決定者へ 失う 6-5 彼女の European Tour 初ラウンドでデビューHungarian Darts Trophy.",
-      "title_original": "Greaves denied by Cross in last-leg thriller on European Tour debut",
-      "summary_original": "Beau Greaves took Rob Cross to a last-leg decider before losing out 6-5 on her European Tour debut in the first round of the Hungarian Darts Trophy.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13578173/hungarian-darts-trophy-beau-greaves-just-loses-out-to-rob-cross-in-last-leg-decider-on-european-tour-debut",
-      "published": "Fri, 28 Aug 2026 22:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
