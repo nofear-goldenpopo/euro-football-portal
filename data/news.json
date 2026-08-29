@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T09:34:47.596157+00:00",
+  "updated_at": "2026-08-29T09:49:13.132648+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -159,7 +159,13 @@
     "McIlroy's Tour Championship": "",
     "East Lake Golf Club": "",
     "Box-office' Archer": "",
-    "Jofra Archer": ""
+    "Jofra Archer": "",
+    "Anfield. Liverpool": "",
+    "Ole Gunnar Solskjær’s": "",
+    "Manchester United’s": "",
+    "Cristiano Ronaldo": "クリスティアーノ・ロナウド",
+    "Old Traffo": "",
+    "Pakistan LIVE": ""
   },
   "items": [
     {
@@ -589,10 +595,24 @@
       "summary_original": "News, buildup and discussion before today’s fixtures Get in touch: mail Sarah and follow us on BlueSky Liverpool have wrapped up a deal for Bradley Barcola from Paris Saint-Germain, according to reports today. The 23-year-old will arrive for a fee of well over £100m, with add-ons and precise sums involved TBC. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/transfer-news-liverpool-v-nottingham-forest-buildup-and-more-matchday-live",
-      "published": "Sat, 29 Aug 2026 09:13:20 GMT",
+      "published": "Sat, 29 Aug 2026 09:35:06 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ブラッドリー・バルコラ免責事項メディカルチェックとしてリヴァプールウィンガーの Finalise £123m の移籍",
+      "summary": "バルコラクラブの2 番目に高価な署名になりますパリ・サンジェルマンプレイヤーセットメディカルチェック移動前の週末リヴァプール£123m までの移籍を確定しましたブラッドリー・バルコラ, とパリ・サンジェルマン受け取るためのウィンガーメディカルチェック先週末はアンフィールドに移ります。リヴァプール契約の概略合意チャンピオンズリーグ水曜日の夜、メインの夏の転送ターゲットに長い話に続くホルダー。続きを読む...",
+      "title_original": "Bradley Barcola due for medical as Liverpool finalise £123m deal for winger",
+      "summary_original": "Barcola will be club’s second-most expensive signing PSG player set for medical this weekend before move Liverpool have finalised a deal worth up to £123m for Bradley Barcola, with the Paris Saint-Germain winger to undergo a medical this weekend ahead of his move to Anfield. Liverpool agreed the outline of a deal with the Champions League holders on Wednesday night, following lengthy talks over their main summer transfer target. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-finalise-deal-bradley-barcola-psg-medical-premier-league",
+      "published": "Sat, 29 Aug 2026 09:22:47 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -677,34 +697,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マネージャーの売上高は、新しい方法を予測する必要があることを意味しますプレミアリーグ備品",
-      "summary": "今年任命された2 つのコーチを特徴とする110 の試合では、戦術的な歴史は、チームのヘッド・ツー・ヘッド・レコードよりも多くの洞察力があるかもしれません。ニュー・マネジャーは、シーズンの終わり前に発射される可能性がほぼ1 イン・ツー・ツーに直面しています、過去50 のパーマネントの22 を示すガーディアン分析から発見プレミアリーグ管理者は、その役割を1 年未満残す。賭け市場はこの現実を反映しています。8 つの6 プレミアリーグ管理者は、ブックメーカーが次のものになる可能性が高いと判断しました",
-      "title_original": "Managerial turnover means we need new ways to predict Premier League fixtures",
-      "summary_original": "With 110 matches to feature two coaches appointed this year, tactical history may be more insightful than teams’ head-to-head records New managers are facing an almost one-in-two chance of being fired before the end of the season, a finding from Guardian analysis that shows 22 of the past 50 permanent Premier League managers to leave their roles lasted less than a year. The betting markets reflect this reality. Six of the eight Premier League managers deemed most likely by bookmakers to be next ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/28/premier-league-h2h-record-manager-form-data-analysis",
-      "published": "Fri, 28 Aug 2026 12:00:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "誰が最も厳しい備品を与えられたのかチャンピオンズリーグドローイング?",
-      "summary": "ドローは親切でしたリヴァプールそして、アーセナル, しかしマンチェスター・シティそして、アストン・ヴィラあまり良くない By Opta Analyst The36 クラブチャンピオンズリーグ彼らはリーグのフェーズでプレーする誰を知っている、しかし、チームは最も親切なドローを持っているし、誰が最も厳しい割り当てを持っていますか? それぞれの側面は8 つの相手を知っていますが、2 つのチームが同じ相手のセットに直面していないと、これはレベルプレイフィールドではありません。Opta のパワーランキングを利用しました。このランキングでは、世界中から 16,000 チームをランク付けしています。",
-      "title_original": "Who was given the toughest fixtures in the Champions League draw?",
-      "summary_original": "The draw was kind to Liverpool and Arsenal, but Manchester City and Aston Villa do not have it so good By Opta Analyst The 36 clubs in the Champions League know who they will play in the league phase , but which team has the kindest draw and who has the toughest assignment? Each side knows their eight opponents but, given that no two teams face the same set of opponents, this is not a level playing field. We have used the Opta power rankings – which rank 16,000 teams from across the world on the",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/28/champions-league-draw-liverpool-arsenal-manchester-city-aston-villa",
-      "published": "Fri, 28 Aug 2026 14:00:01 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1003,9 +995,23 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "イングランドは、雨でパキスタンを追い越す Lord's LIVE!",
+      "title": "Pogba、Sancho、その他は、任意の Carrick の再構築のための注意的な物語です",
+      "summary": "ブルーノ・フェルナンデス攻撃者だけが生き残っている Ole Gunnar Solskjær’s2021 年のライバルにギャップを埋めようとする5 年は、サッカーで長い時間です。マンチェスター・ユナイテッド2021 年の夏は、ターンポイントとして記憶されている Ole Gunnar Solskjær’s 再興;署名への感情的な決定クリスティアーノ・ロナウド見出しは、ユナイテッドは、数年後の間違ったコースに着実にセットされているように行動します。しかし、その後、ロナルドの署名の前にも、周りの素晴らしさを最適化しました Old Traffo",
+      "title_original": "Plight of Pogba, Sancho and others is cautionary tale for any Carrick rebuild",
+      "summary_original": "Bruno Fernandes is the only surviving attacker from Ole Gunnar Solskjær’s attempt to bridge gap to rivals in 2021 Five years is a long time in football. Manchester United’s summer of 2021 is now remembered as the turning point in Ole Gunnar Solskjær’s reign; the sentimental decision to sign Cristiano Ronaldo the headline act as United set off on the wrong course after a few years of building steadily. But back then, even before the signing of Ronaldo, there was optimism aplenty around Old Traffo",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/27/manchester-united-michael-carrick-paul-pogba-jadon-sancho-cautionary-tale",
+      "published": "Thu, 27 Aug 2026 07:00:07 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "主の雨は、イングランドの支配人として遅れ始めます Pakistan LIVE!",
       "summary": "",
-      "title_original": "England look to build on lead over Pakistan at rainy Lord's LIVE!",
+      "title_original": "Start delayed at Lord's as rain halts England's dominance against Pakistan LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13578445/england-vs-pakistan-second-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win",
@@ -1088,9 +1094,9 @@
     },
     {
       "title": "バルコラ、Liverpool contract to 2031 獲得に迫る",
-      "summary": "ブラッドリー・バルコラサインをセットするリヴァプール2031 年以降の契約プレミアリーグクラブは合意に達しましたパリ・サンジェルマン転送の構造上。",
+      "summary": "ブラッドリー・バルコラ署名するセットリヴァプール2031 年以降の契約プレミアリーグクラブが合意に達したパリ・サンジェルマン転送の構造上。",
       "title_original": "Barcola set to sign Liverpool contract to 2031",
-      "summary_original": "Bradley Barcola is set sign a Liverpool contract to 2031 after the Premier League club reached agreement with PSG over the structure of the transfer.",
+      "summary_original": "Bradley Barcola is set to sign a Liverpool contract to 2031 after the Premier League club reached an agreement with Paris Saint-Germain over the structure of the transfer.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13578446/bradley-barcola-set-to-sign-liverpool-contract-to-2031-after-psg-agree-transfer-worth-up-to-123m",
       "published": "Sat, 29 Aug 2026 08:25:00 BST",
