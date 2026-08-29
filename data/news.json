@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T23:19:12.498331+00:00",
+  "updated_at": "2026-08-29T23:34:12.018384+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -440,7 +440,10 @@
     "Greatest Rivalry": "",
     "All Blacks": "ラグビーニュージーランド代表",
     "Filip Hrgovic": "",
-    "Moses Itauma": ""
+    "Moses Itauma": "",
+    "Vivien Endemann": "",
+    "Mao Itamura": "",
+    "Rory McIlroy": "ローリー・マキロイ"
   },
   "items": [
     {
@@ -962,6 +965,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Women’s Super League2026-27 プレビュー番号 9:リヴァプール",
+      "summary": "リヴァプールドイツのストライカーを望む Vivien Endemann そして日本の若者たち Mao Itamura 彼らが最後のシーズンのガーディアン作家の予測位置を持っていたよりも、より良いスタートにそれらを得るのを助けることができます。8 位(NB:これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 11th 続きを読む...",
+      "title_original": "Women’s Super League 2026-27 preview No 9: Liverpool",
+      "summary_original": "Liverpool will hope Germany striker Vivien Endemann and Japanese youngster Mao Itamura can help get them off to a better start than they had last season Guardian writers’ predicted position: 8th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 11th Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/30/womens-super-league-2026-27-preview-no-9-liverpool",
+      "published": "Sat, 29 Aug 2026 23:01:39 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Alonso 取得チェルシー勝者マーティネスの Sánchez を掘り下げることによる「優先順位」 |Jacob Steinberg",
       "summary": "サインイン World CupBlueCo が転送市場で深刻なを得たときにこれが夏であることを意味するために勝者を追加 Carlo Cudicini とても良いゴールキーパーでした。しかし、ジョゼ・モウリーニョ彼になったとき無事だったチェルシー2004 年のマネージャー。とても良かったです。モウリーニョポルトガルの背後にある主要な要因のベストと1 つは、勝ちましたプレミアリーグ初シーズン中は、カディッシーニと交換する決定だった Petr Cech. There 素晴らしいゴールキーパーについての古いラインです",
       "title_original": "Alonso gets Chelsea’s priorities right by ditching Sánchez for winner Martínez | Jacob Steinberg",
@@ -1000,20 +1017,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "レディース移籍市場夏の2026:世界のトップ6 リーグからのすべての移籍",
-      "summary": "NWSL、WSL、Liga F、Fauen の各移籍ブンデスリーガ, フランス女子サッカーリーグそして、セリエ AFemminile だけでなく、クラブバイクラブガイド男性移籍市場 インテルアクティブなガイド 続きを読む...",
-      "title_original": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-      "summary_original": "Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide Men’s transfer window interactive guide Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "published": "Thu, 13 Aug 2026 10:29:36 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1382,6 +1385,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Hovland は、McIlroy として FedExCup スリラーで Scheffler をリードし、後進プッシュ",
+      "summary": "Viktor Hovland 最後のラウンドに1 ショットのリードを取るザ・ツアーチャンピオンシップ, として Scottie Scheffler コンテンツにとどまり、ローリー・マキロイ FedExCup が生き生きたいと願っている。",
+      "title_original": "Hovland leads Scheffler in FedExCup thriller as McIlroy makes late push",
+      "summary_original": "Viktor Hovland takes a one-shot lead into the final round of the Tour Championship, as Scottie Scheffler stayed in contention and Rory McIlroy kept his FedExCup hopes alive.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13578716/tour-championship-viktor-hovland-leads-heading-into-final-day-as-scottie-scheffler-and-rory-mcilroy-keep-fedexcup-hopes-alive",
+      "published": "Sun, 30 Aug 2026 00:05:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "森林最新:£22m Munoz の契約はのためのハッチンソン セットと一致しました AC ミランログイン",
       "summary": "",
       "title_original": "Forest latest: £22m Munoz deal agreed with Hutchinson set for AC Milan loan",
@@ -1393,6 +1410,20 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Hrgovic stuns Itauma と epic カムバック として brit 敗北 レコード",
+      "summary": "Filip Hrgovic ボクシングの年の衝撃の1 つを、排出される停止作り出しました Moses Itauma 悪性 IBF ヘビー級タイトルを獲得し、クロアチア初の世界ヘビー級王者になるために O2 で9 ラウンドで。",
+      "title_original": "Hrgovic stuns Itauma with epic comeback as Brit loses unbeaten record",
+      "summary_original": "Filip Hrgovic produced one of the shocks of the boxing year, stopping an exhausted Moses Itauma in the ninth round at The O2 to win the vacant IBF heavyweight title and become Croatia's first world heavyweight champion.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13578906/filip-hrgovic-stuns-moses-itauma-with-epic-comeback-as-british-heavyweight-star-loses-unbeaten-record",
+      "published": "Sat, 29 Aug 2026 23:11:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1449,20 +1480,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Hrgovic stuns Itauma と epic カムバック として brit 敗北 レコード",
-      "summary": "Filip Hrgovic ボクシングの年の衝撃の1 つを、排出される停止作り出しました Moses Itauma 悪性 IBF ヘビー級タイトルを獲得し、クロアチア初の世界ヘビー級王者になるために O2 で9 ラウンドで。",
-      "title_original": "Hrgovic stuns Itauma with epic comeback as Brit loses unbeaten record",
-      "summary_original": "Filip Hrgovic produced one of the shocks of the boxing year, stopping an exhausted Moses Itauma in the ninth round at The O2 to win the vacant IBF heavyweight title and become Croatia's first world heavyweight champion.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13578906/filip-hrgovic-stuns-moses-itauma-with-epic-comeback-as-british-heavyweight-star-loses-unbeaten-record",
-      "published": "Sat, 29 Aug 2026 23:11:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1532,20 +1549,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "巨人 stun leigh へ クレーム 第 5 勝 6",
-      "summary": "ハダーズフィールド・ジャイアンツビート Leigh Leopards30-18 で Accu Stadium6 で5 番目の勝利を主張する Super League マッチ。",
-      "title_original": "Giants stun Leigh to claim fifth win in six",
-      "summary_original": "Huddersfield Giants beat Leigh Leopards 30-18 at the Accu Stadium to claim their fifth victory in six Super League matches.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13578402/huddersfield-giants-30-18-leigh-leopards-super-league-highlights",
-      "published": "Sat, 29 Aug 2026 00:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
