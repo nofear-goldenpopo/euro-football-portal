@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T11:34:08.257456+00:00",
+  "updated_at": "2026-08-29T11:49:16.509249+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -197,7 +197,18 @@
     "South Florida": "",
     "Harrison Armstrong": "",
     "BlueSky Oliver Glasner": "",
-    "Nottingham Forest LIVE": ""
+    "Nottingham Forest LIVE": "",
+    "Email Scott": "",
+    "You’ll Never Walk Alone": "",
+    "John Henry": "ジョン・ヘンリー (曖昧さ回避)",
+    "Amit Bhatia": "",
+    "Kevin Keegan": "",
+    "Bill Shankly’s": "",
+    "Jacob Steinberg": "",
+    "Carlo Cudicini": "",
+    "Petr Cech. There": "",
+    "Huge Jacquet": "",
+    "Anfield LIVE": ""
   },
   "items": [
     {
@@ -221,7 +232,7 @@
       "summary_original": "Nottingham Forest launch an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 11:28:34 GMT",
+      "published": "Sat, 29 Aug 2026 11:43:43 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -622,12 +633,26 @@
     },
     {
       "title": "リヴァプール. .ノッティンガム・フォレスト: プレミアリーグ– ライブ",
-      "summary": "キックオフ12.30pm(BST) 連絡を取る: メールスコットとフォローしてください BlueSky Oliver Glasner- 誰がまだ元ボーンマス上司のベストを取得していない Andoni Iraola パーソナルヘッド・ツー・ヘッド(P5 W0 D3 L2)で - 話す TNT Sports. 「最大の改善は、我々は、ゲームを勝つために目標が必要である...これは私たちがしたいものです...もちろんリヴァプール, 常に Anfield で再生は非常に困難です...しかし、多分新しい考えの新しいマネージャー, すべてが解決されていません 100 パーセント ... それは私たちに似ています... [Liam",
+      "summary": "Anfield のライブアップデート 12.30pm キックオフ (BST)Email Scott| レッド ファイナライズ £123m バルコラソリューション チームが出てきます!リヴァプールレッド、最近のように目に見える3 枚目のシャツを身に着けている森マンチェスター・シティ番号。You’ll Never Walk Alone リングアウト、としてリヴァプールオーナージョン・ヘンリー (曖昧さ回避)そして新しい副会長 Amit Bhatia スタンドから見る わたしたちは一分間オフします...そして、その分はファンが伝説を覚えているのを見るでしょう Kevin Keegan、星の Bill Shankly’s 第2 の大きい t",
       "title_original": "Liverpool v Nottingham Forest: Premier League – live",
-      "summary_original": "Updates from 12.30pm (BST) kickoff Get in touch: mail Scott and follow us on BlueSky Oliver Glasner – who has yet to get the best of former Bournemouth boss Andoni Iraola in the personal head-to-head (P5 W0 D3 L2) – speaks to TNT Sports. “The biggest improvement is we need a goal to win the game … this is what we want to do … of course Liverpool, always playing at Anfield is very challenging … but maybe a new manager with new ideas, all is not settled 100 percent … that is similar to us … [Liam ",
+      "summary_original": "Live updates from Anfield 12.30pm kick-off (BST) Email Scott | Reds finalise £123m Barcola deal The teams are out! Liverpool all in red, Forest wearing a third-choice shirt that looks awfully like a recent Manchester City number. You’ll Never Walk Alone rings out, as Liverpool principal owner John Henry and the new vice-chairman Amit Bhatia watch from the stand. We’ll be off in a minute … and that minute will see fans remember the legendary Kevin Keegan, the star of Bill Shankly’s second great t",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/liverpool-v-nottingham-forest-premier-league-live",
-      "published": "Sat, 29 Aug 2026 11:18:03 GMT",
+      "published": "Sat, 29 Aug 2026 11:34:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Alonso 取得チェルシー勝者マーティネスの Sánchez を掘り下げることによる「優先順位」 |Jacob Steinberg",
+      "summary": "サインイン World CupBlueCo が転送市場で深刻なを得たときにこれが夏であることを意味するために勝者を追加 Carlo Cudicini とても良いゴールキーパーでした。しかし、ジョゼ・モウリーニョ彼になったとき無事だったチェルシー2004 年のマネージャー。とても良かったです。モウリーニョポルトガルの背後にある主要な要因のベストと1 つは、勝ちましたプレミアリーグ初シーズン中は、カディッシーニと交換する決定だった Petr Cech. There 素晴らしいゴールキーパーについての古いラインです",
+      "title_original": "Alonso gets Chelsea’s priorities right by ditching Sánchez for winner Martínez | Jacob Steinberg",
+      "summary_original": "Signing of World Cup winner adds to sense that this is the summer when BlueCo got serious in transfer market Carlo Cudicini was a very good goalkeeper. However, José Mourinho was ruthless when he became Chelsea manager in 2004. Very good was not good enough. Mourinho wanted the best and one of the main factors behind the Portuguese winning the Premier League during his first season in charge was the decision to replace Cudicini with Petr Cech. There is an old line about a great goalkeeper being ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/xabi-alonso-chelsea-keepers-robert-sanchez-emiliano-martinez",
+      "published": "Sat, 29 Aug 2026 11:00:26 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -649,20 +674,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ヨーロッパのフットボール:パリ・サンジェルマンしばらくスクランブル別の描画バイエルン飛行開始を作る",
-      "summary": "マーキンホスは、レイトイコライザーを掴むリーグ・アンチャンピオンバイエルン圧倒的に圧倒シュトゥットガルトアリアンツ・アリーナで5-1 パリ・サンジェルマンディフェンダー・マルキンホスは、希少に値するスナッチするために停止時間に深く得点 2-2 で描画リール金曜日にリーグ・アン開幕の週末にレンヌが主催する闘争に続くチャンピオン。貧しい 2-2 が Rennes に対して描画した後、物事は悪いから悪くなり、パリ・サンジェルマンいつかリールアイスランドのプレイメーカーとして21 分でリード Hákon Haraldsson ログイン",
-      "title_original": "European football: PSG scramble another draw while Bayern make flying start",
-      "summary_original": "Marquinhos grabs late equaliser for Ligue 1 champions Bayern overwhelm Stuttgart 5-1 at Allianz Arena Paris Saint-Germain defender Marquinhos scored deep into stoppage ⁠time to snatch a scarcely deserved 2-2 draw at Lille on Friday as the Ligue 1 champions ⁠continued to struggle ⁠after ​being held by Rennes on the opening weekend. After the poor 2-2 draw ‌against Rennes, things went from bad to worse for PSG when Lille took the lead in the 21st minute as Icelandic playmaker Hákon Haraldsson latc",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/european-football-psg-scramble-another-draw-while-bayern-make-flying-start",
-      "published": "Fri, 28 Aug 2026 23:15:23 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "「今は、プレイヤーが話すのに良い時間です」:Lucy BronzeFifa で避難者を支援",
       "summary": "チェルシーディフェンダーは、この夏にコロンビアの難民と人々を支援するための彼女の情熱とピッチを離れて過ごす時間に反映します Lucy Bronze 止まらない。脳は1 分100 マイルを走る。伝統芸能を必要としません。「私はテレビを見ているのは良いではありません - 私はまだ座ることができません」とブロンズは、風からシールドされたベンチに、まだ並べ替えチェルシーCobham でのトレーニング 「最近、車に耳を傾けて、他の人が飛び込んだことを私に尋ねました",
       "title_original": "‘Now is a good time for players to speak up’: Lucy Bronze on Fifa and helping refugees",
@@ -677,16 +688,16 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ブラッドリー・バルコラ免責事項メディカルチェックとしてリヴァプールウィンガーの Finalise £123m の移籍",
-      "summary": "バルコラクラブの2 番目に高価な署名になりますパリ・サンジェルマンプレイヤーセットメディカルチェック移動前の週末リヴァプール£123m までの移籍を確定しましたブラッドリー・バルコラと、パリ・サンジェルマン受け取るためのウィンガーメディカルチェックこの週末はアンフィールドに移ります。リヴァプール契約の概略合意チャンピオンズリーグ水曜日の夜、メインの夏の転送ターゲットに長い話の後ホルダー。続きを読む...",
-      "title_original": "Bradley Barcola due for medical as Liverpool finalise £123m deal for winger",
-      "summary_original": "Barcola will be club’s second-most expensive signing PSG player set for medical this weekend before move Liverpool have finalised a deal worth up to £123m for Bradley Barcola, with the Paris Saint-Germain winger to undergo a medical this weekend for his move to Anfield. Liverpool agreed the outline of a deal with the Champions League holders on Wednesday night, after lengthy talks over their main summer transfer target. Continue reading...",
+      "title": "ヨーロッパのフットボール:パリ・サンジェルマンしばらくスクランブル別の描画バイエルン飛行開始を作る",
+      "summary": "マーキンホスは、レイトイコライザーを掴むリーグ・アンチャンピオンバイエルン圧倒的に圧倒シュトゥットガルトアリアンツ・アリーナで5-1 パリ・サンジェルマンディフェンダー・マルキンホスは、希少に値するスナッチするために停止時間に深く得点 2-2 で描画リール金曜日にリーグ・アン開幕の週末にレンヌが主催する闘争に続くチャンピオン。貧しい 2-2 が Rennes に対して描画した後、物事は悪いから悪くなり、パリ・サンジェルマンいつかリールアイスランドのプレイメーカーとして21 分でリード Hákon Haraldsson ログイン",
+      "title_original": "European football: PSG scramble another draw while Bayern make flying start",
+      "summary_original": "Marquinhos grabs late equaliser for Ligue 1 champions Bayern overwhelm Stuttgart 5-1 at Allianz Arena Paris Saint-Germain defender Marquinhos scored deep into stoppage ⁠time to snatch a scarcely deserved 2-2 draw at Lille on Friday as the Ligue 1 champions ⁠continued to struggle ⁠after ​being held by Rennes on the opening weekend. After the poor 2-2 draw ‌against Rennes, things went from bad to worse for PSG when Lille took the lead in the 21st minute as Icelandic playmaker Hákon Haraldsson latc",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-finalise-deal-bradley-barcola-psg-medical-premier-league",
-      "published": "Sat, 29 Aug 2026 09:22:47 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
+      "url": "https://www.theguardian.com/football/2026/aug/29/european-football-psg-scramble-another-draw-while-bayern-make-flying-start",
+      "published": "Fri, 28 Aug 2026 23:15:23 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1041,6 +1052,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Swansea 取る 早い リード で ダービー; Wolves Trail Stoke -EFL LIVE 空に!",
+      "summary": "",
+      "title_original": "Swansea take early lead at Derby; Wolves trail Stoke - EFL LIVE on Sky!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13577502/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
+      "published": "Sat, 29 Aug 2026 12:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "チャンピオンズリーグ備品のスケジュール確認",
       "summary": "ザ・オブ・ザ・チャンピオンズリーグ備品の日付アーセナル, マンチェスター・シティ, マンチェスター・ユナイテッド, リヴァプールそして、アストン・ヴィラ獲得を獲得を問い合わせ",
       "title_original": "Champions League fixture schedule confirmed",
@@ -1052,20 +1077,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ダービー, ワーブ, アクションでミドルスラフ -EFL LIVE 空に!",
-      "summary": "",
-      "title_original": "Derby, Wolves, Middlesbrough in action - EFL LIVE on Sky!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13577502/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
-      "published": "Sat, 29 Aug 2026 12:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1209,17 +1220,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "リヴァプール対比ノッティンガム・フォレストライブ!",
+      "title": "Huge Jacquet タックルは、オープナーからフォレストを停止します Anfield LIVE!",
       "summary": "",
-      "title_original": "Liverpool vs Nottingham Forest LIVE!",
+      "title_original": "Huge Jacquet tackle stops Forest from opener at Anfield LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/live/559460",
       "published": "Tue, 28 Jul 2026 10:07:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
