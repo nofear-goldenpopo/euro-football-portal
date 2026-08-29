@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T11:19:10.773892+00:00",
+  "updated_at": "2026-08-29T11:34:08.257456+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -194,7 +194,10 @@
     "Guillermo Hoyos Inter Miami": "",
     "César Luis Merlo": "",
     "Guillermo Hoyos": "",
-    "South Florida": ""
+    "South Florida": "",
+    "Harrison Armstrong": "",
+    "BlueSky Oliver Glasner": "",
+    "Nottingham Forest LIVE": ""
   },
   "items": [
     {
@@ -209,6 +212,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Forest to、Everton teenager Armstrong 獲得へ4000 万ポンドを提示",
+      "summary": "ノッティンガム・フォレスト署名する野心的な入札を開始エヴァートン'十代のミッドフィルダーHarrison Armstrong.",
+      "title_original": "Forest to bid £40m for Everton teenager Armstrong",
+      "summary_original": "Nottingham Forest launch an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 11:28:34 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -296,20 +313,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ジャクソンは、出口のためにセットされたワトキンとヴィラに持って来るものは何ですか?",
-      "summary": "BBC スポーツは、新しいストライカーを調べる Nicolas Jackson ご持参ください。アストン・ヴィラと、Ollie WatkinsAl-Hilal にご参加ください。",
-      "title_original": "What will Jackson bring to Villa with Watkins set for exit?",
-      "summary_original": "BBC Sport examines what new striker Nicolas Jackson will bring to Aston Villa, with Ollie Watkins looking set to join Al-Hilal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 19:14:48 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -335,6 +338,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ジャクソンは、出口のためにセットされたワトキンとヴィラに持って来るものは何ですか?",
+      "summary": "BBC スポーツは、新しいストライカーを調べる Nicolas Jackson ご持参ください。アストン・ヴィラと、Ollie WatkinsAl-Hilal にご参加ください。",
+      "title_original": "What will Jackson bring to Villa with Watkins set for exit?",
+      "summary_original": "BBC Sport examines what new striker Nicolas Jackson will bring to Aston Villa, with Ollie Watkins looking set to join Al-Hilal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 28 Aug 2026 19:14:48 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -376,20 +393,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "オルドネズの動くクリスタル・パレス疑わしい後メディカルチェック",
-      "summary": "クラブ・ブルッヘディフェンダーJoel Ordonez's 移動するクリスタル・パレス彼の後に合併症に遭遇メディカルチェック, イーグルスは、契約を進めるかどうかを決定するために設定しました.",
-      "title_original": "Ordonez's move to Palace in doubt after medical",
-      "summary_original": "Club Brugge defender Joel Ordonez's move to Crystal Palace runs into complications after his medical, with the Eagles set to decide whether to proceed with the deal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyjg6w67g4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 15:35:11 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -604,27 +607,27 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "トッテナムダンソを拒否レンタル移籍サンダーランドへ",
-      "summary": "トッテナム守護者のための Sunderland から季節限定のローンオファーを拒否 Kevin Danso.",
-      "title_original": "Tottenham reject Danso loan move to Sunderland",
-      "summary_original": "Tottenham Hotspur reject a season-long loan offer from Sunderland for defender Kevin Danso.",
+      "title": "オルドネズの動くクリスタル・パレス疑わしい後メディカルチェック",
+      "summary": "クラブ・ブルッヘディフェンダーJoel Ordonez's 移動するクリスタル・パレス彼の後に合併症に遭遇メディカルチェック, イーグルスは、契約を進めるかどうかを決定するために設定しました.",
+      "title_original": "Ordonez's move to Palace in doubt after medical",
+      "summary_original": "Club Brugge defender Joel Ordonez's move to Crystal Palace runs into complications after his medical, with the Eagles set to decide whether to proceed with the deal.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp3knknq5neo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 21:41:55 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyjg6w67g4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 28 Aug 2026 15:35:11 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
       "title": "リヴァプール. .ノッティンガム・フォレスト: プレミアリーグ– ライブ",
-      "summary": "キックオフ12.30pm(BST) 連絡を取る: メールスコットと BlueSky で私たちに従ってくださいバルコラ彼が到着したときに仕事に着きます Anfield. Iraola このペースと眉毛を上げるマニフェストでロードを設定します。「私のために、羽根、先を行くと、彼らは私たちに90 分を与える必要はありませんそれらを常に伝えます。疲れた時、疲れた時、良い知らせを伝えます。続きを読む...",
+      "summary": "キックオフ12.30pm(BST) 連絡を取る: メールスコットとフォローしてください BlueSky Oliver Glasner- 誰がまだ元ボーンマス上司のベストを取得していない Andoni Iraola パーソナルヘッド・ツー・ヘッド(P5 W0 D3 L2)で - 話す TNT Sports. 「最大の改善は、我々は、ゲームを勝つために目標が必要である...これは私たちがしたいものです...もちろんリヴァプール, 常に Anfield で再生は非常に困難です...しかし、多分新しい考えの新しいマネージャー, すべてが解決されていません 100 パーセント ... それは私たちに似ています... [Liam",
       "title_original": "Liverpool v Nottingham Forest: Premier League – live",
-      "summary_original": "Updates from 12.30pm (BST) kickoff Get in touch: mail Scott and follow us on BlueSky Barcola will certainly be put to work when he arrives at Anfield. Iraola sets out the load with this pace-and-eyebrow-raising manifesto. “For me, wingers, forwards, I always tell them that they don’t need to give us 90 minutes. I tell them it is good news when they are exhausted because then we have taken everything from you and someone else will come in.” Continue reading...",
+      "summary_original": "Updates from 12.30pm (BST) kickoff Get in touch: mail Scott and follow us on BlueSky Oliver Glasner – who has yet to get the best of former Bournemouth boss Andoni Iraola in the personal head-to-head (P5 W0 D3 L2) – speaks to TNT Sports. “The biggest improvement is we need a goal to win the game … this is what we want to do … of course Liverpool, always playing at Anfield is very challenging … but maybe a new manager with new ideas, all is not settled 100 percent … that is similar to us … [Liam ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/liverpool-v-nottingham-forest-premier-league-live",
-      "published": "Sat, 29 Aug 2026 10:58:11 GMT",
+      "published": "Sat, 29 Aug 2026 11:18:03 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1038,6 +1041,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "チャンピオンズリーグ備品のスケジュール確認",
+      "summary": "ザ・オブ・ザ・チャンピオンズリーグ備品の日付アーセナル, マンチェスター・シティ, マンチェスター・ユナイテッド, リヴァプールそして、アストン・ヴィラ獲得を獲得を問い合わせ",
+      "title_original": "Champions League fixture schedule confirmed",
+      "summary_original": "The Champions League fixture dates for Arsenal, Manchester City, Manchester United, Liverpool and Aston Villa have been confirmed.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13578265/champions-league-2026-27-fixtures-dates-schedule-format-and-who-has-qualified-from-premier-league-and-around-europe",
+      "published": "Fri, 28 Aug 2026 18:50:00 BST",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ダービー, ワーブ, アクションでミドルスラフ -EFL LIVE 空に!",
       "summary": "",
       "title_original": "Derby, Wolves, Middlesbrough in action - EFL LIVE on Sky!",
@@ -1192,9 +1209,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Gakpo は、リヴァプールフォレストベンチ LIVE でデラップ!",
+      "title": "リヴァプール対比ノッティンガム・フォレストライブ!",
       "summary": "",
-      "title_original": "Gakpo starts for Liverpool with Delap on Forest bench LIVE!",
+      "title_original": "Liverpool vs Nottingham Forest LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/live/559460",
@@ -1300,20 +1317,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "PL Predictions: トッテナムバウンスバックに対してニューカッスル",
-      "summary": "私たちのトップのヒント Lewis Jones, 赤坂 Jones Knows 先週末は飛んでいましたが、トリックを繰り返すことはできますか?",
-      "title_original": "PL Predictions: Spurs to bounce back against Newcastle",
-      "summary_original": "Our top tipster Lewis Jones, aka Jones Knows, was in flying form last weekend - can he repeat the trick?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13577786/premier-league-predictions-jones-knows-best-bets-crystal-palace-pain-man-city-to-make-it-back-to-back-wins",
-      "published": "Thu, 27 Aug 2026 19:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
