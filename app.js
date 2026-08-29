@@ -1,16 +1,18 @@
 const DATA_URL = "./data/news.json";
 
-const state = {
-  items: [],
-  query: ""
-};
+let allNews = [];
+let activeFilter = "all";
 
-const els = {
-  status: document.querySelector("#status"),
-  newsList: document.querySelector("#newsList"),
-  search: document.querySelector("#search"),
-  refresh: document.querySelector("#refresh")
-};
+const categories = [
+  ["all", "すべて"],
+  ["ucl", "CL"],
+  ["epl", "プレミア"],
+  ["laliga", "ラ・リーガ"],
+  ["seriea", "セリエA"],
+  ["bundesliga", "ブンデス"],
+  ["other", "その他"],
+  ["transfer", "移籍"]
+];
 
 function escapeHtml(value = "") {
   return String(value)
@@ -21,28 +23,45 @@ function escapeHtml(value = "") {
     .replaceAll("'", "&#039;");
 }
 
-function formatDate(value) {
-  if (!value) return "";
-  const date = new Date(value);
+function renderFilters() {
+  const filters = document.querySelector("#filters");
+  if (!filters) return;
 
-  if (Number.isNaN(date.getTime())) {
-    return value;
-  }
+  filters.innerHTML = categories.map(([id, label]) => {
+    return `
+      <button
+        class="filter ${id === activeFilter ? "active" : ""}"
+        data-filter="${id}"
+      >
+        ${label}
+      </button>
+    `;
+  }).join("");
 
-  return new Intl.DateTimeFormat("ja-JP", {
-    month: "numeric",
-    day: "numeric",
-    hour: "2-digit",
-    minute: "2-digit"
-  }).format(date);
+  filters.querySelectorAll(".filter").forEach(button => {
+    button.addEventListener("click", () => {
+      activeFilter = button.dataset.filter;
+      renderFilters();
+      renderNews();
+    });
+  });
 }
 
-function filteredItems() {
-  const q = state.query.trim().toLowerCase();
+function renderNews() {
+  const newsEl = document.querySelector("#news");
+  const countEl = document.querySelector("#count");
+  const searchEl = document.querySelector("#search");
 
-  if (!q) return state.items;
+  if (!newsEl) return;
 
-  return state.items.filter(item => {
+  const query = (searchEl?.value || "").trim().toLowerCase();
+
+  const filtered = allNews.filter(item => {
+    const categoryMatch =
+      activeFilter === "all" ||
+      item.category === activeFilter ||
+      item.type === activeFilter;
+
     const text = [
       item.title,
       item.summary,
@@ -55,52 +74,65 @@ function filteredItems() {
       .join(" ")
       .toLowerCase();
 
-    return text.includes(q);
+    const searchMatch = !query || text.includes(query);
+
+    return categoryMatch && searchMatch;
   });
-}
 
-function render() {
-  if (!els.newsList) return;
+  if (countEl) {
+    countEl.textContent = `${filtered.length}件`;
+  }
 
-  const items = filteredItems();
-
-  if (!items.length) {
-    els.newsList.innerHTML =
-      '<p class="empty">該当するニュースがありません。</p>';
+  if (!filtered.length) {
+    newsEl.innerHTML =
+      '<div class="empty">該当するニュースがありません。</div>';
     return;
   }
 
-  els.newsList.innerHTML = items.map(item => {
+  newsEl.innerHTML = filtered.map(item => {
     const title = escapeHtml(item.title || "タイトルなし");
     const summary = escapeHtml(item.summary || "");
     const source = escapeHtml(item.source || "");
     const label = escapeHtml(item.label || "");
-    const date = escapeHtml(formatDate(item.published));
     const url = escapeHtml(item.url || "#");
 
+    let dateText = "";
+    if (item.published) {
+      const d = new Date(item.published);
+      dateText = Number.isNaN(d.getTime())
+        ? escapeHtml(item.published)
+        : d.toLocaleString("ja-JP");
+    }
+
     return `
-      <article class="news-card">
-        <div class="news-meta">
-          ${label ? `<span>${label}</span>` : ""}
-          ${source ? `<span>${source}</span>` : ""}
-          ${date ? `<span>${date}</span>` : ""}
+      <article class="card">
+        <div class="meta">
+          ${label ? `<span class="badge">${label}</span>` : ""}
+          ${item.featured ? '<span class="star">★ 注目</span>' : ""}
+          ${source ? `<span class="source">${source}</span>` : ""}
+          ${dateText ? `<span class="source">${dateText}</span>` : ""}
         </div>
 
-        <h2 class="news-title">
-          <a href="${url}" target="_blank" rel="noopener noreferrer">
-            ${title}
-          </a>
-        </h2>
+        <h3>${title}</h3>
 
-        ${summary ? `<p class="news-summary">${summary}</p>` : ""}
+        ${summary ? `<p>${summary}</p>` : ""}
+
+        ${
+          item.url
+            ? `<a href="${url}" target="_blank" rel="noopener noreferrer">原文を見る ↗</a>`
+            : ""
+        }
       </article>
     `;
   }).join("");
 }
 
 async function loadNews() {
-  if (els.status) {
-    els.status.textContent = "データ読み込み中…";
+  const updatedAt = document.querySelector("#updatedAt");
+  const newsEl = document.querySelector("#news");
+
+  if (updatedAt) {
+    updatedAt.textContent = "データ読み込み中…";
   }
 
   try {
@@ -115,52 +147,41 @@ async function loadNews() {
 
     const data = await response.json();
 
-    state.items = Array.isArray(data.items) ? data.items : [];
+    allNews = Array.isArray(data.items) ? data.items : [];
 
-    if (els.status) {
-      if (state.items.length) {
-        els.status.textContent =
-          `${state.items.length}件のニュースを取得`;
+    if (updatedAt) {
+      if (data.updated_at) {
+        const d = new Date(data.updated_at);
+
+        updatedAt.textContent = Number.isNaN(d.getTime())
+          ? `最終更新: ${data.updated_at}`
+          : `最終更新: ${d.toLocaleString("ja-JP")}`;
       } else {
-        els.status.textContent =
-          "ニュースデータは現在0件です";
+        updatedAt.textContent = `${allNews.length}件のニュースを取得`;
       }
     }
 
-    render();
+    renderNews();
 
   } catch (error) {
     console.error(error);
 
-    if (els.status) {
-      els.status.textContent =
-        "ニュースの読み込みに失敗しました";
+    if (updatedAt) {
+      updatedAt.textContent = "ニュースの読み込みに失敗しました";
     }
 
-    if (els.newsList) {
-      els.newsList.innerHTML =
-        '<p class="empty">データを取得できませんでした。</p>';
+    if (newsEl) {
+      newsEl.innerHTML =
+        '<div class="empty">データを取得できませんでした。</div>';
     }
   }
 }
 
-if (els.search) {
-  els.search.addEventListener("input", event => {
-    state.query = event.target.value;
-    render();
-  });
-}
+document.querySelector("#search")?.addEventListener("input", renderNews);
 
-if (els.refresh) {
-  els.refresh.addEventListener("click", loadNews);
-}
+document.querySelector("#refreshBtn")?.addEventListener("click", loadNews);
 
-document.addEventListener("visibilitychange", () => {
-  if (document.visibilityState === "visible") {
-    loadNews();
-  }
-});
-
+renderFilters();
 loadNews();
 
 setInterval(loadNews, 15 * 60 * 1000);
