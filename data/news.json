@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T20:19:14.836301+00:00",
+  "updated_at": "2026-08-29T20:34:18.852522+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -383,7 +383,11 @@
     "BBC Final Score": "",
     "Sam Parkin": "",
     "Reina Tellez": "",
-    "Jessica Barry": ""
+    "Jessica Barry": "",
+    "Britain's Fery": "",
+    "Liverpool's Gakpo": "",
+    "Hull FC": "",
+    "MKM Stadium": "KCスタジアム"
   },
   "items": [
     {
@@ -426,6 +430,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "「サポーターはいつも間違っていません」 - マウスエヴァートンファンの怒り",
+      "summary": "David Moyes「サポーターはいつも間違っていない」と言った。エヴァートンファンは十代のミッドフィルダーの潜在的な販売に彼らの反対をボイス Harrison ArmstrongBournemouth で 1-1 を描画します。",
+      "title_original": "'Supporters aren't always wrong' - Moyes on Everton fans' anger",
+      "summary_original": "David Moyes says \"supporters aren't always wrong\" after Everton fans voice their opposition to the potential sale of teenage midfielder Harrison Armstrong during the 1-1 draw at Bournemouth.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy7zk5vprplo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 18:59:28 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -751,20 +769,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c89jw4554e5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 05:18:55 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "小さな町は、オッズを欠くことを目指していますブンデスリーガデビュー",
       "summary": "エルバーベルクは、駅や人口はわずか13,000 人でなく、そのサッカーチームは、地域のドイツリーグから地域のドイツリーグに隕石の上昇を楽しんだブンデスリーガ.",
       "title_original": "The tiny town aiming to defy odds in Bundesliga debut",
@@ -891,17 +895,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Women’s Super League2026-27 プレビュー番号 8:エヴァートン",
-      "summary": "新規発見攻撃は、その2 シーズンでキャンペーンを開始しやすくなる間にゲル化してほしい Goodison Park Guardian 作家の予測位置:10 位(NB:これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 8th 続きを読む...",
-      "title_original": "Women’s Super League 2026-27 preview No 8: Everton",
-      "summary_original": "New-look attack will hope to gel during their relatively easy start to the campaign in their second season at Goodison Park Guardian writers’ predicted position: 10th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 8th Continue reading...",
+      "title": "Hull は飛行開始をとして維持します Liam Millar’s 勝者 ruins Coventry の日",
+      "summary": "先日土曜日のトリムフは一回限りではありませんでした。ユールは衝撃的な勝利を裏返しましたマンチェスター・ユナイテッド100%のスタートを維持することでプレミアリーグ成功的な敗北にコベントリーを非難. 「私たちはリーグを勝ち取るつもりです」と、Hull のサポートから雨が降る華やかなシャントでした Liam Millar’s82 分ストライキ 目標は、コベントリーのための吸盤パンチでした, 勝者のためにプッシュし、シーズンの少なくとも彼らの最初のポイントを主張するように設定しました.Frank Lampard、腕の folde",
+      "title_original": "Hull maintain flying start as Liam Millar’s winner ruins Coventry’s day",
+      "summary_original": "Perhaps last Saturday’s triumph was not a one-off. Hull backed up a shock victory against Manchester United by maintaining their 100% start to the Premier League and condemning Coventry to successive defeats. “We’re gonna win the league,” was the glorious chant raining down from the Hull support after Liam Millar’s 82nd-minute strike. The goal was a sucker punch for Coventry, who were pushing for a winner and looked set to claim at least their first point of the season. Frank Lampard, arms folde",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/womens-super-league-2026-27-preview-no-8-everton",
-      "published": "Fri, 28 Aug 2026 23:01:10 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.theguardian.com/football/2026/aug/29/coventry-hull-premier-league-match-report",
+      "published": "Sat, 29 Aug 2026 16:11:35 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -961,6 +965,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Women’s Super League2026-27 プレビュー番号 8:エヴァートン",
+      "summary": "新規発見攻撃は、その2 シーズンでキャンペーンを開始しやすくなる間にゲル化してほしい Goodison Park Guardian 作家の予測位置:10 位(NB:これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 8th 続きを読む...",
+      "title_original": "Women’s Super League 2026-27 preview No 8: Everton",
+      "summary_original": "New-look attack will hope to gel during their relatively easy start to the campaign in their second season at Goodison Park Guardian writers’ predicted position: 10th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 8th Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/womens-super-league-2026-27-preview-no-8-everton",
+      "published": "Fri, 28 Aug 2026 23:01:10 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Women’s Super League2026-27 プレビュー番号 7:クリスタル・パレス",
       "summary": "Jo Potter’s 昇進に満たされた側面および殴打者で持って来ました Bethany England 彼らがガーディアン作家の予測された位置を維持するために禁止されているように:13th(NB:これは必ずしもそうではありません)Sophie Downey’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 2nd (WSL2) 続きを読む...",
       "title_original": "Women’s Super League 2026-27 preview No 7: Crystal Palace",
@@ -996,20 +1014,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/26/womens-super-league-2026-27-preview-no-5-charlton-athletic",
       "published": "Tue, 25 Aug 2026 23:01:27 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Women’s Super League2026-27 プレビュー番号 4:ブライトン",
-      "summary": "Dario Vidosic クラブが最初に取得するのを見ている季節に構築する入札で nous と潜在的な追加しました FA Cup 最後のガーディアン作家の予測位置:6 位(NB:これは必ずしもそうではありません)Sophie Downey’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 7th 続きを読む...",
-      "title_original": "Women’s Super League 2026-27 preview No 4: Brighton",
-      "summary_original": "Dario Vidosic has added nous and potential in a bid to build on a season that saw the club get to a first FA Cup final Guardian writers’ predicted position: 6th (NB: this is not necessarily Sophie Downey’s prediction but the average of our writers’ tips) Last season’s position: 7th Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/25/womens-super-league-2026-27-preview-no-4-brighton",
-      "published": "Mon, 24 Aug 2026 23:01:41 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1339,6 +1343,34 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Tennis scores: Britain's Fery、Winston-Salem glory against Buse を獲得候補に",
+      "summary": "",
+      "title_original": "Tennis scores: Britain's Fery eyes Winston-Salem glory against Buse",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/scores-schedule",
+      "published": "Sat, 29 Aug 2026 21:03:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・シティサインアップするためのオープントークリヴァプールの ガクポ",
+      "summary": "マンチェスター・シティ一緒に話し合っているリヴァプール署名するコーディ・ガクポ.",
+      "title_original": "Man City open talks to sign Liverpool's Gakpo",
+      "summary_original": "Manchester City have opened talks with Liverpool to sign Cody Gakpo.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13578859/cody-gakpo-transfer-news-manchester-city-open-talks-to-sign-liverpool-forward",
+      "published": "Sat, 29 Aug 2026 20:23:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ルートのジレンマ: ポンドの苦闘の背後にあるものは何ですか?",
       "summary": "Does Joe Rootlbw の問題がありますか?",
       "title_original": "Root's dilemma: What is behind his lbw struggles?",
@@ -1364,20 +1396,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "コーディ・ガクポニュースを移して下さい:マンチェスター・シティサインアップするためのオープントークリヴァプール獲得",
-      "summary": "マンチェスター・シティ一緒に話を開いているリヴァプール署名するコーディ・ガクポ.",
-      "title_original": "Cody Gakpo transfer news: Man City open talks to sign Liverpool forward",
-      "summary_original": "Manchester City have opened talks with Liverpool to sign Cody Gakpo.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578859/cody-gakpo-transfer-news-manchester-city-open-talks-to-sign-liverpool-forward",
-      "published": "Sat, 29 Aug 2026 20:23:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1437,20 +1455,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "O'Neill が反応するレンジャーズチケットオファー:'Might だけでなく、取得しません!'",
-      "summary": "",
-      "title_original": "O'Neill reacts to Rangers ticket offer: 'Might as well not get any!'",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "published": "Fri, 28 Aug 2026 17:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "コルベの星、Kolisi は Springboks のレベル シリーズと XV に戻る New Zealand",
       "summary": "South Africa 裏返し Rugby’s Greatest Rivalry リターンキャプテンとして Siya Kolisi スリル満点の33-26 勝利で試してみると、彼のカムバックをマーク New Zealand 獲得を獲得を問い合わせケープタウン1-1 の 4 つのテスト シリーズを水平にすること。",
       "title_original": "Kolbe stars, Kolisi returns to XV as Springboks level series with New Zealand",
@@ -1465,13 +1469,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ザ・ツアーチャンピオンシップライブ! McIlroy は、8 の背後からリードを共有するために戦う",
+      "title": "O'Neill が反応するレンジャーズチケットオファー:'Might だけでなく、取得しません!'",
       "summary": "",
-      "title_original": "Tour Championship LIVE! McIlroy fights back from eight behind to share lead",
+      "title_original": "O'Neill reacts to Rangers ticket offer: 'Might as well not get any!'",
       "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13578675/tour-championship-third-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
-      "published": "Sat, 29 Aug 2026 20:00:00 BST",
+      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "published": "Fri, 28 Aug 2026 17:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1479,13 +1483,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ローレンス・フィフティ・リフト・イングランドは、レインリー・ロードのパキスタンの健やかなリードに",
-      "summary": "イングランドは、主の第2 回テストの第2 日目の雨の影響を受けた3 日目にパキスタンを上回る健康な357 ランリードに進んでいます。Dan Lawrence(50no) 印象的な半世紀をもたらした。",
-      "title_original": "Lawrence's fifty lifts England to healthy lead vs Pakistan at rainy Lord's",
-      "summary_original": "England advanced to a healthy 357-run lead over Pakistan on a frustrating rain-affected third day of the second Test at Lord's, as Dan Lawrence (50no) brought up an impressive half-century.",
+      "title": "ウォリントンシールホームプレイオフスポットとしてウェイクフィールドもポストシーズンの場所を予約",
+      "summary": "ワーリントンは、遅くなることを理解した後、ホームプレイオフスポットを保証しました Hull FC16-14 を主張する対決 Betfred Super League で勝つ KC スタジアム.",
+      "title_original": "Warrington seal home play-off spot as Wakefield also book post-season place",
+      "summary_original": "Warrington guaranteed a home play-off spot after withstanding a late Hull FC fightback to claim a 16-14 Betfred Super League win at the MKM Stadium.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13578616/england-vs-pakistan-dan-lawrences-brilliant-50-lifts-hosts-to-357-run-lead-as-rain-causes-havoc-on-day-three-at-lords",
-      "published": "Sat, 29 Aug 2026 18:55:00 BST",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13578748/super-league-warrington-seal-home-play-off-spot-as-wakefield-also-book-post-season-place",
+      "published": "Sat, 29 Aug 2026 17:19:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
