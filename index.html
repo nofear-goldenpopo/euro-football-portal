@@ -30,9 +30,9 @@
       background: #111827;
       color: white;
       padding:
-        calc(42px + env(safe-area-inset-top))
-        24px
-        36px;
+        calc(32px + env(safe-area-inset-top))
+        20px
+        24px;
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -40,57 +40,57 @@
 
     .eyebrow {
       color: #c7cbd4;
-      font-size: 14px;
-      letter-spacing: 4px;
-      margin-bottom: 10px;
+      font-size: 12px;
+      letter-spacing: 3px;
+      margin-bottom: 7px;
     }
 
     h1 {
       margin: 0;
-      font-size: 30px;
-      line-height: 1.15;
+      font-size: 25px;
+      line-height: 1.12;
     }
 
     .iconbtn {
-      width: 58px;
-      height: 58px;
+      width: 52px;
+      height: 52px;
       border: 0;
       border-radius: 50%;
       background: #303747;
       color: white;
-      font-size: 32px;
+      font-size: 28px;
     }
 
     main {
-      padding: 18px;
+      padding: 16px;
       max-width: 900px;
       margin: 0 auto;
     }
 
     .hero {
       background: white;
-      border-radius: 24px;
-      padding: 22px;
+      border-radius: 22px;
+      padding: 20px;
       box-shadow: 0 5px 20px rgba(0,0,0,.05);
     }
 
     .heroTitle {
-      font-size: 28px;
+      font-size: 24px;
       font-weight: 800;
       margin-bottom: 5px;
     }
 
     .muted {
       color: #8b93a3;
-      font-size: 14px;
+      font-size: 13px;
     }
 
     .search {
       width: 100%;
-      margin-top: 18px;
-      padding: 16px;
+      margin-top: 16px;
+      padding: 15px;
       border: 1px solid #d5d8df;
-      border-radius: 18px;
+      border-radius: 16px;
       font-size: 16px;
       background: #f3f4f6;
     }
@@ -99,8 +99,12 @@
       display: flex;
       gap: 8px;
       overflow-x: auto;
-      padding: 18px 0;
+      padding: 16px 0;
       scrollbar-width: none;
+    }
+
+    .filters::-webkit-scrollbar {
+      display: none;
     }
 
     .filter {
@@ -108,7 +112,7 @@
       border: 1px solid #d5d8df;
       background: white;
       border-radius: 999px;
-      padding: 10px 15px;
+      padding: 9px 14px;
       font-size: 14px;
       font-weight: 700;
     }
@@ -123,11 +127,11 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin: 12px 2px;
+      margin: 10px 2px;
     }
 
     .sectionHead h2 {
-      font-size: 25px;
+      font-size: 23px;
       margin: 0;
     }
 
@@ -139,7 +143,7 @@
     .card {
       background: white;
       border-radius: 20px;
-      padding: 20px;
+      padding: 19px;
       box-shadow: 0 4px 16px rgba(0,0,0,.04);
     }
 
@@ -167,21 +171,52 @@
 
     .card h3 {
       margin: 0 0 10px;
-      line-height: 1.4;
+      line-height: 1.45;
       font-size: 19px;
     }
 
     .card p {
-      margin: 0 0 14px;
+      margin: 0 0 15px;
       color: #555e6c;
-      line-height: 1.65;
+      line-height: 1.7;
       font-size: 14px;
     }
 
-    .card a {
-      color: #1d4ed8;
-      font-weight: 700;
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 9px;
+      margin-top: 14px;
+    }
+
+    .actionButton {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 42px;
+      border-radius: 12px;
+      padding: 10px 14px;
+      font-size: 13px;
+      font-weight: 800;
       text-decoration: none;
+    }
+
+    .translateButton {
+      background: #111827;
+      color: white;
+    }
+
+    .originalButton {
+      border: 1px solid #d5d8df;
+      background: white;
+      color: #374151;
+    }
+
+    .translateNote {
+      margin-top: 10px;
+      color: #9aa1af;
+      font-size: 11px;
+      line-height: 1.5;
     }
 
     .empty {
@@ -192,9 +227,9 @@
     }
 
     footer {
-      padding: 28px 26px calc(34px + env(safe-area-inset-bottom));
+      padding: 28px 24px calc(34px + env(safe-area-inset-bottom));
       color: #9aa1af;
-      font-size: 12px;
+      font-size: 11px;
       line-height: 1.6;
       max-width: 900px;
       margin: 0 auto;
@@ -246,8 +281,9 @@
 </main>
 
 <footer>
-  無料ソースのホワイトリスト方式。
-  記事本文を転載せず、タイトル・短い説明と原文へのリンクを基本とします。
+  ニュース一覧は無料ソースから取得しています。
+  「日本語で詳しく読む」は元記事を翻訳表示します。
+  翻訳表示に対応していない媒体では「原文を見る」を利用してください。
 </footer>
 
 <script>
@@ -271,6 +307,18 @@ function escapeHtml(value) {
   const div = document.createElement("div");
   div.textContent = value == null ? "" : String(value);
   return div.innerHTML;
+}
+
+function googleTranslateUrl(originalUrl) {
+  if (!originalUrl) return "#";
+
+  return (
+    "https://translate.google.com/translate" +
+    "?sl=auto" +
+    "&tl=ja" +
+    "&u=" +
+    encodeURIComponent(originalUrl)
+  );
 }
 
 function renderFilters() {
@@ -312,7 +360,9 @@ function renderNews() {
       item.source,
       item.label,
       item.category,
-      item.type
+      item.type,
+      item.title_original,
+      item.summary_original
     ]
       .filter(Boolean)
       .join(" ")
@@ -330,7 +380,6 @@ function renderNews() {
   }
 
   newsEl.innerHTML = filtered.map(item => {
-
     let dateText = "";
 
     if (item.published) {
@@ -340,6 +389,9 @@ function renderNews() {
         ? item.published
         : date.toLocaleString("ja-JP");
     }
+
+    const originalUrl = item.url || "";
+    const translatedUrl = googleTranslateUrl(originalUrl);
 
     return `
       <article class="card">
@@ -370,14 +422,35 @@ function renderNews() {
           ? `<p>${escapeHtml(item.summary)}</p>`
           : ""}
 
-        ${item.url
-          ? `<a
-              href="${escapeHtml(item.url)}"
-              target="_blank"
-              rel="noopener noreferrer">
-              原文を見る ↗
-            </a>`
-          : ""}
+        ${
+          originalUrl
+            ? `
+              <div class="actions">
+
+                <a
+                  class="actionButton translateButton"
+                  href="${escapeHtml(translatedUrl)}"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  🇯🇵 日本語で詳しく読む
+                </a>
+
+                <a
+                  class="actionButton originalButton"
+                  href="${escapeHtml(originalUrl)}"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  原文を見る ↗
+                </a>
+
+              </div>
+
+              <div class="translateNote">
+                翻訳ページが開けない場合は原文をご利用ください。
+              </div>
+            `
+            : ""
+        }
 
       </article>
     `;
@@ -385,49 +458,53 @@ function renderNews() {
 }
 
 async function loadNews() {
+  const updatedAt =
+    document.getElementById("updatedAt");
 
-  const updatedAt = document.getElementById("updatedAt");
-  const newsEl = document.getElementById("news");
+  const newsEl =
+    document.getElementById("news");
 
-  updatedAt.textContent = "データ読み込み中…";
+  updatedAt.textContent =
+    "データ読み込み中…";
 
   try {
-
     const response = await fetch(
       DATA_URL + "?t=" + Date.now(),
       { cache: "no-store" }
     );
 
     if (!response.ok) {
-      throw new Error("HTTP " + response.status);
+      throw new Error(
+        "HTTP " + response.status
+      );
     }
 
-    const data = await response.json();
+    const data =
+      await response.json();
 
-    allNews = Array.isArray(data.items)
-      ? data.items
-      : [];
+    allNews =
+      Array.isArray(data.items)
+        ? data.items
+        : [];
 
     if (data.updated_at) {
-
-      const date = new Date(data.updated_at);
+      const date =
+        new Date(data.updated_at);
 
       updatedAt.textContent =
         Number.isNaN(date.getTime())
           ? "最終更新: " + data.updated_at
-          : "最終更新: " + date.toLocaleString("ja-JP");
-
+          : "最終更新: " +
+            date.toLocaleString("ja-JP");
     } else {
-
       updatedAt.textContent =
-        allNews.length + "件のニュースを取得";
-
+        allNews.length +
+        "件のニュースを取得";
     }
 
     renderNews();
 
   } catch (error) {
-
     console.error(error);
 
     updatedAt.textContent =
@@ -440,16 +517,25 @@ async function loadNews() {
 
 document
   .getElementById("search")
-  .addEventListener("input", renderNews);
+  .addEventListener(
+    "input",
+    renderNews
+  );
 
 document
   .getElementById("refreshBtn")
-  .addEventListener("click", loadNews);
+  .addEventListener(
+    "click",
+    loadNews
+  );
 
 renderFilters();
 loadNews();
 
-setInterval(loadNews, 15 * 60 * 1000);
+setInterval(
+  loadNews,
+  15 * 60 * 1000
+);
 </script>
 
 </body>
