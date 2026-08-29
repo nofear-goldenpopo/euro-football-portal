@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T13:19:45.459638+00:00",
+  "updated_at": "2026-08-29T13:34:05.189379+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -235,9 +235,29 @@
     "Hull LIVE": "",
     "Bluesky Everton": "",
     "Harry Hackney": "",
-    "James Garner. Both Harrison": ""
+    "James Garner. Both Harrison": "",
+    "Nottm Forest": "ノッティンガム・フォレストFC",
+    "Nottingham Forest's": "",
+    "Bluesky The Liverpool": "",
+    "Morgan Gibbs-White": "",
+    "Matt Crooks": "",
+    "Hidemasa Morita": ""
   },
   "items": [
+    {
+      "title": "ジブスホワイトシャイン -選手採点獲得を獲得を問い合わせリヴァプール. .ノッティンガム・フォレスト FC",
+      "summary": "使い方リヴァプールそして、ノッティンガム・フォレストの のプレイヤーは、プレミアリーグマッチ。",
+      "title_original": "Gibbs-White shines - player ratings for Liverpool v Nottm Forest",
+      "summary_original": "How Liverpool and Nottingham Forest's players rated following their Premier League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgwnnj281no?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 13:28:37 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
     {
       "title": "リヴァプール、パリ・サンジェルマンのバルコラ獲得で1 億2300 万ポンド合意",
       "summary": "リヴァプール事前に署名する契約で閉じるブラッドリー・バルコラ疑惑を増加させる、Cody Gakpo's 未来。",
@@ -323,20 +343,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "トリップピアは、マイリーの「大きな存在」を、ニューカッスル表面 Tonali の reunion",
-      "summary": "ニューカッスルミッドフィルダーLewis Miley20 歳から20 歳までは元チームメイトに直面する準備が整っているので「自分が望む限り」に戻る Sandro Tonali 獲得を獲得を問い合わせトッテナムスタジアム",
-      "title_original": "Trippier praises Miley's 'big presence' as Newcastle face Tonali reunion",
-      "summary_original": "Newcastle midfielder Lewis Miley is backed to \"go as far as he wants\" as the 20-year-old prepares to face former team-mate Sandro Tonali at Tottenham Hotspur Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07ler0rxlro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 06:11:10 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -358,6 +364,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp8416ll9yvo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 28 Aug 2026 20:48:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "トリップピアは、マイリーの「大きな存在」を、ニューカッスル表面 Tonali の reunion",
+      "summary": "ニューカッスルミッドフィルダーLewis Miley20 歳から20 歳までは元チームメイトに直面する準備が整っているので「自分が望む限り」に戻る Sandro Tonali 獲得を獲得を問い合わせトッテナムスタジアム",
+      "title_original": "Trippier praises Miley's 'big presence' as Newcastle face Tonali reunion",
+      "summary_original": "Newcastle midfielder Lewis Miley is backed to \"go as far as he wants\" as the 20-year-old prepares to face former team-mate Sandro Tonali at Tottenham Hotspur Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07ler0rxlro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 06:11:10 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -390,20 +410,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "フラハムが語るラージョ・バジェカーノ擁護者 Ratiu",
-      "summary": "フラハムは署名に話していますローマナイア ディフェンダーAndrei Ratiu、28 からラージョ・バジェカーノ.",
-      "title_original": "Fulham in talks for Rayo Vallecano defender Ratiu",
-      "summary_original": "Fulham are in talks to sign Romania defender Andrei Ratiu, 28, from Rayo Vallecano.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07lgg84jdmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 10:31:12 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -617,6 +623,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "フラハムが語るラージョ・バジェカーノ擁護者 Ratiu",
+      "summary": "フラハムは署名に話していますローマナイア ディフェンダーAndrei Ratiu、28 からラージョ・バジェカーノ.",
+      "title_original": "Fulham in talks for Rayo Vallecano defender Ratiu",
+      "summary_original": "Fulham are in talks to sign Romania defender Andrei Ratiu, 28, from Rayo Vallecano.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07lgg84jdmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 10:31:12 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "McInnes は自分自身を返し、レンジャーズ成功事例",
       "summary": "Manager Derek McInnes コメントレンジャーズ彼が望むものから「長い道のり」ですが、Ibrox で成功を届けるために自分自身をバックアップします。",
       "title_original": "McInnes backs himself to deliver Rangers success",
@@ -645,27 +665,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "オルドネズの動くクリスタル・パレス疑わしい後メディカルチェック",
-      "summary": "クラブ・ブルッヘディフェンダーJoel Ordonez's 移動するクリスタル・パレス彼の後に合併症に遭遇メディカルチェック, イーグルスは、契約を進めるかどうかを決定するために設定しました.",
-      "title_original": "Ordonez's move to Palace in doubt after medical",
-      "summary_original": "Club Brugge defender Joel Ordonez's move to Crystal Palace runs into complications after his medical, with the Eagles set to decide whether to proceed with the deal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyjg6w67g4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 15:35:11 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "リヴァプール. .ノッティンガム・フォレスト: プレミアリーグ– ライブ",
       "summary": "Anfield のライブアップデート 12.30pm キックオフ (BST)Email Scott| レッド ファイナライズ £123m バルコラソリューション チームが出てきます!リヴァプールレッド、最近のように目に見える3 枚目のシャツを身に着けている森マンチェスター・シティ番号。You’ll Never Walk Alone リングアウト、としてリヴァプールオーナージョン・ヘンリー (曖昧さ回避)そして新しい副会長 Amit Bhatia スタンドから見る わたしたちは一分間オフします...そして、その分はファンが伝説を覚えているのを見るでしょう Kevin Keegan、星の Bill Shankly’s 第2 の大きい t",
       "title_original": "Liverpool v Nottingham Forest: Premier League – live",
       "summary_original": "Live updates from Anfield 12.30pm kick-off (BST) Email Scott | Reds finalise £123m Barcola deal The teams are out! Liverpool all in red, Forest wearing a third-choice shirt that looks awfully like a recent Manchester City number. You’ll Never Walk Alone rings out, as Liverpool principal owner John Henry and the new vice-chairman Amit Bhatia watch from the stand. We’ll be off in a minute … and that minute will see fans remember the legendary Kevin Keegan, the star of Bill Shankly’s second great t",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/liverpool-v-nottingham-forest-premier-league-live",
-      "published": "Sat, 29 Aug 2026 13:05:09 GMT",
+      "published": "Sat, 29 Aug 2026 13:20:07 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -674,16 +680,16 @@
     },
     {
       "title": "ボーンマス v エヴァートン, Coventry v Hull 以上: サッカー時計腕時計 – ライブ",
-      "summary": "地面の周りの3pm ゲーム(BST)からアップデート 連絡を取る:メールサラと Bluesky で私たちに従ってくださいエヴァートン変更を加える先発メンバー獲得を獲得を問い合わせ Harry Hackney ベンチ James Garner. Both Harrison アームストロングと Iliman Ndiaye 今後は他のクラブに移るのにリンクされているにもかかわらず、スタートします。一方、ボーンマスは、起動ラインアップで変更されていません。続きを読む...",
+      "summary": "地面の周りの3pm ゲーム(BST)からアップデート 連絡を取る:メールサラと Bluesky The で私たちに従ってくださいリヴァプール. .ノッティンガム・フォレストマッチが正しい戦いに変わります。アレクサンデル・イサクレッドに等しいが、Morgan Gibbs-White 再び森を先に置くために美しいペナルティを投げました。すべての更新:ハル・シティ AFC1 つの変更をとして作って下さい Matt Crooks 方法を作る Hidemasa Morita, 誰が彼のフルハルデビューを作るだろう. 続きを読む...",
       "title_original": "Bournemouth v Everton, Coventry v Hull and more: football clockwatch – live",
-      "summary_original": "Updates from 3pm games (BST) around the grounds Get in touch: mail Sarah and follow us on Bluesky Everton make one change to their starting XI with Harry Hackney benched for James Garner. Both Harrison Armstrong and Iliman Ndiaye start despite being linked to moves to other clubs in the coming days. Bournemouth, meanwhile, are unchanged in the starting line-up. Continue reading...",
+      "summary_original": "Updates from 3pm games (BST) around the grounds Get in touch: mail Sarah and follow us on Bluesky The Liverpool v Nottingham Forest match is turning into a right battle. Alexander Isak equalised for the Reds but Morgan Gibbs-White just slotted a beautiful penalty to put Forest ahead once again. All the updates: Hull City make one change as Matt Crooks makes way for Hidemasa Morita, who will make his full Hull debut. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/premier-league-bournemouth-everton-coventry-hull-efl-clockwatch-live",
-      "published": "Sat, 29 Aug 2026 13:03:08 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
+      "published": "Sat, 29 Aug 2026 13:20:18 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1107,9 +1113,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Wolves, Swansea & Middlesbrough すべてのリード -EFL LIVE 空に!",
+      "title": "Wolves, Swansea & Boro すべての勝利;ウェストハム, Burnley アクション -EFL LIVE!",
       "summary": "",
-      "title_original": "Wolves, Swansea & Middlesbrough all lead - EFL LIVE on Sky!",
+      "title_original": "Wolves, Swansea & Boro all win; West Ham, Burnley in action - EFL LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13577502/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
@@ -1163,9 +1169,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "雨の遅れの後の2.20pm で始まるために演劇はイギリス対を遅らせます Pakistan LIVE!",
+      "title": "イングランドは、再開後すぐにゲイを失う パキスタン で Lord's LIVE!",
       "summary": "",
-      "title_original": "Play to start at 2.20pm after rain delays England vs Pakistan LIVE!",
+      "title_original": "England lose Gay shortly after resumption vs Pakistan at Lord's LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13578445/england-vs-pakistan-second-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win",
@@ -1331,9 +1337,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "リヴァプールスーパーマンズストライキ LIVE の後、レベルアグイン対フォレスト!",
+      "title": "リヴァプール救助 森 ドロー 後 スーパー ムノス ストライク LIVE!",
       "summary": "",
-      "title_original": "Liverpool level AGAIN vs Forest after super Munoz strike LIVE!",
+      "title_original": "Liverpool rescue Forest draw after super Munoz strike LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/live/559460",
