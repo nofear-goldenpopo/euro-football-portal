@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T07:48:57.353700+00:00",
+  "updated_at": "2026-08-30T08:04:18.374438+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -469,7 +469,12 @@
     "Ipswich Town Continue": "",
     "As Liverpool": "",
     "Pape Matar Sarr": "",
-    "Pape Sarr": "パペ・サール"
+    "Pape Sarr": "パペ・サール",
+    "Emillia Yesterday’s": "",
+    "Nottingham Forest Coventry City": "",
+    "Hull City Bournemouth": "",
+    "Everton Tottenham": "",
+    "Newcastle Continue": ""
   },
   "items": [
     {
@@ -894,12 +899,12 @@
     },
     {
       "title": "締切の織機として最も最近の移動、プレミアリーグビルドアップなど - マッチデイライブ",
-      "summary": "土曜日の行動やサッカーのニュースへの反応 今日の試合 | 結果 | 表 | 電子メール Emillia In さらなる打撃へのトッテナム, De Zerbi また、Richarlison、Kevin Danso そして、Pape Matar Sarr 残したい。「Richarlison, 私は知りません. 彼が去りたい時も何度も言った。ダンソは2 日前に来たし、去りたいと言いました。パペ・サール同じだが、彼は小さな怪我に苦しんでいるが、彼は訓練する準備ができている。続きを読む...",
+      "summary": "土曜日の行動やサッカーのニュースへの反応 今日の試合 | 結果 | 表 | 電子メール Emillia Yesterday’s 結果発表リヴァプール 2-2 ノッティンガム・フォレスト コヴェントリー・シティ FC 0-1 ハル・シティ AFC ボーンマス 1-1 エヴァートン トッテナム 0-2 ニューカッスル続きを読む...",
       "title_original": "Transfer latest as deadline looms, Premier League buildup and more – matchday live",
-      "summary_original": "Reaction to Saturday’s action and more football news Today’s matches | Results | Tables | And email Emillia In a further blow to Spurs, De Zerbi also revealed that Richarlison, Kevin Danso and Pape Matar Sarr all want to leave. He admitted: “Richarlison, I don’t know. He said too many times he wants to leave. Danso came to me two days ago and he said he wants to leave. Pape Sarr the same but he suffered a small injury, but he is almost ready to train. Continue reading...",
+      "summary_original": "Reaction to Saturday’s action and more football news Today’s matches | Results | Tables | And email Emillia Yesterday’s results Liverpool 2-2 Nottingham Forest Coventry City 0-1 Hull City Bournemouth 1-1 Everton Tottenham 0-2 Newcastle Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
-      "published": "Sun, 30 Aug 2026 07:30:53 GMT",
+      "published": "Sun, 30 Aug 2026 07:44:22 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1313,6 +1318,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Hrgovic: Itauma は “amazing” ですが、“amateur” のように箱詰めされています。",
+      "summary": "Filip Hrgovic 賞賛された Moses Itauma 彼のショックニンラウンドのストップページの後、彼の対戦相手は「アマチュアのように」ボクシングを持っていたと述べた。",
+      "title_original": "Hrgovic: Itauma is ‘amazing’ but boxed like an ‘amateur’",
+      "summary_original": "Filip Hrgovic praised Moses Itauma after his shock ninth-round stoppage but said his opponent had boxed “like an amateur”.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13578936/filip-hrgovic-moses-itauma-amazing-but-boxed-like-an-amateur-in-thrilling-heavyweight-fight-at-the-o2",
+      "published": "Sun, 30 Aug 2026 07:58:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "US Open 主な質問:Is Alcaraz フィット?Will Sabalenka 歴史を作る?",
       "summary": "全米オープン, すべての 4 つのスラムの, それは、シーズンに 8 ヶ月に選手は、ツアーの研削から打たれた自分の体と痛みを看護していないよりも、年の時間に落ちるので、その勝者を予測する悪名高いです.",
       "title_original": "US Open key questions: Is Alcaraz fit? Will Sabalenka make history?",
@@ -1341,20 +1360,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ノリス:私は McLaren で欲しいものを手に入れることを強くすることができます",
-      "summary": "ワールドチャンピオン獲得 Lando Norris 彼は McLaren の立場にあると言います。彼は署名した後に「私が望むものを手に入れるのに力を尽くすことができます」と言っています契約延長チームと共に。",
-      "title_original": "Norris: I can be forceful to get what I want at McLaren",
-      "summary_original": "Reigning world champion Lando Norris says he is in a position at McLaren where he \"can be forceful to try to get what I want\" after signing a contract extension with the team.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13578159/lando-norris-mclaren-driver-says-he-can-be-forceful-to-get-what-he-wants-with-team-after-signing-new-contract",
-      "published": "Sun, 30 Aug 2026 07:00:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "今日更新 Sky Sports Racing: Deauville でショーで英国レイダー",
       "summary": "英国がたくさんありますインテル日曜日、この日曜日にデウビルで最高品質のカードで est、すべてのライブオン Sky Sports Racing.",
       "title_original": "Today on Sky Sports Racing: British raiders on show at Deauville",
@@ -1366,6 +1371,20 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ノリス:私は McLaren で欲しいものを手に入れることを強くすることができます",
+      "summary": "ワールドチャンピオン獲得 Lando Norris 彼は McLaren の立場にあると言います。彼は署名した後に「私が望むものを手に入れるのに力を尽くすことができます」と言っています契約延長チームと共に。",
+      "title_original": "Norris: I can be forceful to get what I want at McLaren",
+      "summary_original": "Reigning world champion Lando Norris says he is in a position at McLaren where he \"can be forceful to try to get what I want\" after signing a contract extension with the team.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13578159/lando-norris-mclaren-driver-says-he-can-be-forceful-to-get-what-he-wants-with-team-after-signing-new-contract",
+      "published": "Sun, 30 Aug 2026 07:00:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1575,20 +1594,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ヨーロッパリーグそして、カンファレンスリーグ備品の確認",
-      "summary": "サンダーランド,クリスタル・パレス, ボーンマス,ブライトン, セルティックそして、ハートは自分の詳細を学びましたヨーロッパリーグそして、カンファレンスリーグ今シーズンの備品。",
-      "title_original": "Europa League and Conference League fixtures confirmed",
-      "summary_original": "Sunderland, Crystal Palace, Bournemouth, Brighton, Celtic and Hearts have learned the details of their Europa League and Conference League fixtures this season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578346/europa-league-and-conference-league-fixtures-for-celtic-bournemouth-sunderland-crystal-palace-brighton-and-hearts-confirmed",
-      "published": "Fri, 28 Aug 2026 21:02:00 BST",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
       "featured": true,
       "translation_version": "football-ja-v7"
     }
