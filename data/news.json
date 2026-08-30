@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T16:04:22.206809+00:00",
+  "updated_at": "2026-08-30T16:19:13.860435+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -584,7 +584,8 @@
     "Hi Tim": "",
     "Sheff Utd": "シェフィールド・ユナイテッドFC",
     "Leicester's Choudhury": "",
-    "Le Bris": ""
+    "Le Bris": "",
+    "Tottenham. They": ""
   },
   "items": [
     {
@@ -1014,7 +1015,7 @@
       "summary_original": "Premier League updates from the 4.30pm (BST) kick-off Live scoreboard | Mail Tim and follow us over on Bluesky Out come the players, some of them holding babes in arms – including Marcus Rashford, who has a big smile on his face. The first email of the afternoon comes from Dave. “Hi Tim, loving the MBM.” Thanks! “Just wondered if there’s any insight into why Sesko seems to find it so hard to get a start.” Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
-      "published": "Sun, 30 Aug 2026 15:49:50 GMT",
+      "published": "Sun, 30 Aug 2026 16:04:57 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1051,9 +1052,9 @@
     },
     {
       "title": "Calvert-Lewin は、ブレントフォードに対するリーズサルベージポイントとして、シェードのオープナーをキャンセル",
-      "summary": "Leeds と Brentford は、彼らの unbeaten が始まりますプレミアリーグ過去に何をすべきかを最適化することができることを示唆するのに十分な瞬間を持っていたドローの季節。両サイドが開幕の週末に勝ち、状況が異なります。リーズは、ハードアーシードの勝利をノッティンガム・フォレスト一方、ブレンフォードは解体で優秀だったトッテナム. そして、彼らは2 つの半分の典型的なゲームで別の1 をキャンセルしましたエランド・ロードどちらのマネジャーも見つかるでしょう",
+      "summary": "Leeds と Brentford は、彼らの unbeaten が始まりますプレミアリーグ過去に何をすべきかを最適化することができることを示唆するのに十分な瞬間を持っていたドローの季節。両サイドが開幕の週末に勝ち、状況が異なります。リーズは、ハードアーシードの勝利をノッティンガム・フォレスト一方、ブレンフォードは解体で優秀だったトッテナム. 彼らは2 つの半分の典型的なゲームで別の1 をキャンセルしましたエランド・ロード, どちらのマネージャーも、おそらく多くの pos を見る",
       "title_original": "Calvert-Lewin cancels out Schade’s opener as Leeds salvage point against Brentford",
-      "summary_original": "Leeds and Brentford continued their unbeaten starts to the Premier League season with a draw that had enough moments to suggest both can be optimistic about what lies ahead. Both sides won on the opening weekend, albeit in differing circumstances. Leeds crafted a hard-earned win at Nottingham Forest while Brentford were outstanding in dismantling Tottenham. And they cancelled one another out in a quintessential game of two halves at Elland Road, in which both managers will probably see plenty of",
+      "summary_original": "Leeds and Brentford continued their unbeaten starts to the Premier League season with a draw that had enough moments to suggest both can be optimistic about what lies ahead. Both sides won on the opening weekend, albeit in differing circumstances. Leeds crafted a hard-earned win at Nottingham Forest while Brentford were outstanding in dismantling Tottenham. They cancelled one another out in a quintessential game of two halves at Elland Road, in which both managers will probably see plenty of pos",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/30/leeds-brentford-premier-league-match-report",
       "published": "Sun, 30 Aug 2026 15:03:46 GMT",
@@ -1428,6 +1429,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ザ・ツアーチャンピオンシップライブ! McIlroy chases Hovland で FedExCup Finale",
+      "summary": "",
+      "title_original": "Tour Championship LIVE! McIlroy chases Hovland in FedExCup finale",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13578968/tour-championship-final-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
+      "published": "Sun, 30 Aug 2026 17:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "サンダーランド最新:私たちは、私たちの家の要塞を再構築したい、と言う Le Bris",
       "summary": "",
       "title_original": "Sunderland latest: We want to rebuild our home fortress, says Le Bris",
@@ -1456,6 +1471,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "イングランドはパキスタンでチップを続け、サウドの戦いは訪問者にとって困難です",
+      "summary": "イングランドとパキスタン間の第2 テストマッチの4 日目の午前と午後のセッションからのハイライト。",
+      "title_original": "England continue to chip away at Pakistan whilst Saud battles hard for the visitors",
+      "summary_original": "Highlights from the morning and afternoon session on day four of the second Test match between England and Pakistan.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13579009/england-vs-pakistan-2nd-test-day-four-morning-session-highlights",
+      "published": "Sun, 30 Aug 2026 13:34:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "チェルシービートブライトン Alonso の勝利の始まりを続行する7 ゴールのスリラー",
       "summary": "チェルシー開催中止ブライトンスリル満点の4-3 勝利をクリアし、マネージャーの下で勝利のスタートを続行するための戦いバックシャビ・アロンソ.",
       "title_original": "Chelsea beat Brighton in seven-goal thriller to continue Alonso's winning start",
@@ -1470,23 +1499,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "アブバスは、主の名誉ボードに2 番目のインニングでロビンソンが輝きます",
-      "summary": "イングランドとパキスタンの第2 次試験試合の4 日目の午前セッションからハイライト。",
-      "title_original": "Abbas joins the Lord's honours board as Robinson shines in the second innings",
-      "summary_original": "Highlights from the morning session on day four of the second Test match between England and Pakistan.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13579009/england-vs-pakistan-2nd-test-day-four-morning-session-highlights",
-      "published": "Sun, 30 Aug 2026 13:34:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Fulham 最新:Sunderland の Arbeloa laments tame ディスプレイ",
+      "title": "Fulham 最新: サンダーランドの Arbeloa laments 'terrible' display",
       "summary": "",
-      "title_original": "Fulham latest: Arbeloa laments tame display at Sunderland",
+      "title_original": "Fulham latest: Arbeloa laments 'terrible' display at Sunderland",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
@@ -1691,20 +1706,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "トッテナムそして、エヴァートン Ndiaye と Richarlison の上級トーク",
-      "summary": "トッテナムそして、エヴァートンのための転送上の高度の話はあります Iliman Ndiaye そして Richarlison。",
-      "title_original": "Spurs and Everton in advanced talks over Ndiaye and Richarlison",
-      "summary_original": "Tottenham and Everton are in advanced talks over transfers for Iliman Ndiaye and Richarlison.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578971/iliman-ndiaye-and-richarlison-transfer-news-tottenham-and-everton-in-advanced-talks-over-separate-deals",
-      "published": "Sun, 30 Aug 2026 10:42:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
