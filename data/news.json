@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T06:19:03.968328+00:00",
+  "updated_at": "2026-08-30T06:34:33.742595+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -447,7 +447,9 @@
     "Sir Nick Faldo": "ニック・ファルド",
     "FM Championship": "",
     "Ruoning Yin": "殷若寧",
-    "LPGA Tour’s FM Championship": ""
+    "LPGA Tour’s FM Championship": "",
+    "The Sky Sports Tennis": "",
+    "Grand Slam": "グランドスラム"
   },
   "items": [
     {
@@ -521,6 +523,34 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "イラオラが最初の勝利を待っていますリヴァプール森林に対する救助の遅れの引くこと",
+      "summary": "リヴァプール2 度から2 度目に戻り、2-2 を攻撃するノッティンガム・フォレストアンフィールド、新しいマネージャーを残して Andoni Iraola 初めての検索プレミアリーグクラブで勝つ。",
+      "title_original": "Iraola awaits first win as Liverpool rescue late draw against Forest",
+      "summary_original": "Liverpool come from behind twice to rescue a 2-2 draw against Nottingham Forest at Anfield, leaving new manager Andoni Iraola in search of his first Premier League win with the club.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2zw96094xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:12:20 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Tarkowski は、救助ポイントに遅れて攻撃しますエヴァートンボーンマス",
+      "summary": "エヴァートンキャプテン James TarkowskiBournemouth が1-1 の描画のために解決するように91 分の1 でストライキ Vitality Stadium.",
+      "title_original": "Tarkowski strikes late to rescue point for Everton at Bournemouth",
+      "summary_original": "Everton captain James Tarkowski strikes in the 91st minute to rescue a point, as Bournemouth settle for a 1-1 draw at the Vitality Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c70lenegd1qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:12:07 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "「最悪のチームには悪くない」プレミアリーグ歴史 - Hull の完璧なスタート",
       "summary": "ハルストライカーオリヴァー・マクバーニーCoventry を打ち勝つために彼のチームの評論家で遊び心のある掘り下げを持っています 2 プレミアリーグゲーム。",
       "title_original": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
@@ -549,41 +579,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ナポリ インテル Woltemade ローンで ested -日曜日の移籍ゴシップ",
-      "summary": "ナポリイベントインテル最新記事ニューカッスル獲得 Nick Woltemade, マンチェスター・シティウィンガーJack Grealish サンダーランドが求められているアーセナル移動を探索するリール獲得 Matias Fernandez-Pardo.",
-      "title_original": "Napoli interested in Woltemade loan - Sunday's gossip",
-      "summary_original": "Napoli show interest in Newcastle forward Nick Woltemade, Manchester City winger Jack Grealish is wanted by Sunderland and Arsenal explore a move for Lille forward Matias Fernandez-Pardo.",
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x1wwgn8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 21:19:11 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "イラオラが最初の勝利を待っていますリヴァプール森林に対する救助の遅れの引くこと",
-      "summary": "リヴァプール2 度から2 度目に戻り、2-2 を攻撃するノッティンガム・フォレストアンフィールド、新しいマネージャーを残して Andoni Iraola 初めての検索プレミアリーグクラブで勝つ。",
-      "title_original": "Iraola awaits first win as Liverpool rescue late draw against Forest",
-      "summary_original": "Liverpool come from behind twice to rescue a 2-2 draw against Nottingham Forest at Anfield, leaving new manager Andoni Iraola in search of his first Premier League win with the club.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2zw96094xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:12:20 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Tarkowski は、救助ポイントに遅れて攻撃しますエヴァートンボーンマス",
-      "summary": "エヴァートンキャプテン James TarkowskiBournemouth が1-1 の描画のために解決するように91 分の1 でストライキ Vitality Stadium.",
-      "title_original": "Tarkowski strikes late to rescue point for Everton at Bournemouth",
-      "summary_original": "Everton captain James Tarkowski strikes in the 91st minute to rescue a point, as Bournemouth settle for a 1-1 draw at the Vitality Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c70lenegd1qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:12:07 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd0q82zpxyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 06:22:41 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -633,6 +635,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ナポリ インテル Woltemade ローンで ested -日曜日の移籍ゴシップ",
+      "summary": "ナポリイベントインテル最新記事ニューカッスル獲得 Nick Woltemade, マンチェスター・シティウィンガーJack Grealish サンダーランドが求められているアーセナル移動を探索するリール獲得 Matias Fernandez-Pardo.",
+      "title_original": "Napoli interested in Woltemade loan - Sunday's gossip",
+      "summary_original": "Napoli show interest in Newcastle forward Nick Woltemade, Manchester City winger Jack Grealish is wanted by Sunderland and Arsenal explore a move for Lille forward Matias Fernandez-Pardo.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x1wwgn8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 21:19:11 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Hull は、ウィンガーバホヤのためにフランクフルトの移籍に同意します",
       "summary": "ハル・シティ AFC 獲得を獲得を問い合わせアイントラハト・フランクフルトウィンガーに署名する Jean-Matteo Bahoya.",
       "title_original": "Hull agree deal with Frankfurt for winger Bahoya",
@@ -672,20 +688,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "'Angry & apologetic' - McCann halt Kilmarnock の失業を開始できますか?",
-      "summary": "Kilmarnock で何が間違っています 失う スタート へ Scottish Premiership 季節は?",
-      "title_original": "'Angry & apologetic' - can McCann halt Kilmarnock's losing start?",
-      "summary_original": "What is going wrong at Kilmarnock amid losing start to Scottish Premiership season?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c86xw1v3vp4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:39:22 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -843,6 +845,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "'Angry & apologetic' - McCann halt Kilmarnock の失業を開始できますか?",
+      "summary": "Kilmarnock で何が間違っています 失う スタート へ Scottish Premiership 季節は?",
+      "title_original": "'Angry & apologetic' - can McCann halt Kilmarnock's losing start?",
+      "summary_original": "What is going wrong at Kilmarnock amid losing start to Scottish Premiership season?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c86xw1v3vp4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:39:22 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Tonali の闘争は、ゴンザレスの感動 -選手採点獲得を獲得を問い合わせトッテナム. .ニューカッスル",
       "summary": "使い方トッテナムそして、ニューカッスル’ s 選手は、土曜日の 2-0 にランクインし、訪問者は、プレミアリーグマッチ。",
       "title_original": "Tonali struggles but Gonzalez impresses - player ratings for Tottenham v Newcastle",
@@ -850,20 +866,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c93e8qv2qq0o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 29 Aug 2026 18:26:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "リヴァプール、パリ・サンジェルマンのバルコラ獲得で1 億2300 万ポンド合意",
-      "summary": "リヴァプール事前に署名する契約で閉じるブラッドリー・バルコラ疑惑を増加させる、Cody Gakpo's 未来。",
-      "title_original": "Liverpool agree £123m deal for PSG's Barcola",
-      "summary_original": "Liverpool are closing in on a deal to sign forward Bradley Barcola, which will increase doubts over Cody Gakpo's future.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 08:03:53 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1291,17 +1293,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "今日更新 Sky Sports Racing: Deauville でショーで英国レイダー",
-      "summary": "英国がたくさんありますインテル日曜日、この日曜日にデウビルで最高品質のカードで est、すべてのライブオン Sky Sports Racing.",
-      "title_original": "Today on Sky Sports Racing: British raiders on show at Deauville",
-      "summary_original": "There is plenty of British interest on a quality card at Deauville this Sunday, all live on Sky Sports Racing.",
+      "title": "US Open 予測:The Sky Sports Tennis パネルは勝者を選びます!",
+      "summary": "The Sky Sports Tennis パネルは、決勝の先で勝者と暗い馬を選ぶグランドスラムの 2026 で US Open.",
+      "title_original": "US Open predictions: The Sky Sports Tennis panel pick their winners!",
+      "summary_original": "The Sky Sports Tennis panel pick their winners and dark horses ahead of the final Grand Slam of 2026 at the US Open.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13578151/today-on-sky-sports-racing-british-raiders-into-the-sky-and-mitbaahy-on-show-at-deauville",
+      "url": "https://www.skysports.com/tennis/news/12040/13577528/us-open-predictions-carlos-alcaraz-and-coco-gauff-the-sky-sports-tennis-panel-pick-their-winners-and-dark-horses-ahead-of-the-grand-slam-in-new-york",
       "published": "Sun, 30 Aug 2026 07:00:00 BST",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1316,6 +1318,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "今日更新 Sky Sports Racing: Deauville でショーで英国レイダー",
+      "summary": "英国がたくさんありますインテル日曜日、この日曜日にデウビルで最高品質のカードで est、すべてのライブオン Sky Sports Racing.",
+      "title_original": "Today on Sky Sports Racing: British raiders on show at Deauville",
+      "summary_original": "There is plenty of British interest on a quality card at Deauville this Sunday, all live on Sky Sports Racing.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13578151/today-on-sky-sports-racing-british-raiders-into-the-sky-and-mitbaahy-on-show-at-deauville",
+      "published": "Sun, 30 Aug 2026 07:00:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1554,20 +1570,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "アストン・ヴィラ最新: 提供される Maatsen 新契約アフターマンチェスター・ユナイテッド インテルベスト",
-      "summary": "",
-      "title_original": "Aston Villa latest: Maatsen to be offered new deal after Man Utd interest",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Sat, 29 Aug 2026 20:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
