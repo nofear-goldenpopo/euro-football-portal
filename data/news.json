@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T20:49:02.891467+00:00",
+  "updated_at": "2026-08-30T21:04:28.128971+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -658,7 +658,10 @@
     "Bizarre Gakpo": "",
     "Aaron Paul": "アーロン・ポール",
     "Charlie Austin": "",
-    "Luke Edwards. Hear": ""
+    "Luke Edwards. Hear": "",
+    "Christian Pulisic": "クリスチャン・プルシック",
+    "Jamie Leweling": "",
+    "Dean Henderson": ""
   },
   "items": [
     {
@@ -771,6 +774,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "トッテナム Pulisic についての獲得を獲得を問い合わせ - 月曜日のゴシップ",
+      "summary": "トッテナム注意を向けるクリスチャン・プルシック, リヴァプールそして、エヴァートンイベントインテル最新記事シュトゥットガルトウィンガーJamie Leweling とクリスタル・パレス継続したい Dean Henderson アフターノッティンガム・フォレスト入札.",
+      "title_original": "Tottenham enquire about Pulisic - Monday's gossip",
+      "summary_original": "Spurs turn attention to Christian Pulisic, Liverpool and Everton show interest in Stuttgart winger Jamie Leweling, and Crystal Palace want to keep Dean Henderson after Nottingham Forest bid.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c89jxnelpywo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 20:59:21 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1047,20 +1064,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 10:39:54 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ナポリ インテル Woltemade ローンで ested -日曜日の移籍ゴシップ",
-      "summary": "ナポリイベントインテル最新記事ニューカッスル獲得 Nick Woltemade, マンチェスター・シティウィンガーJack GrealishSunderland が求められているアーセナル移動を探索するリール獲得 Matias Fernandez-Pardo.",
-      "title_original": "Napoli interested in Woltemade loan - Sunday's gossip",
-      "summary_original": "Napoli show interest in Newcastle forward Nick Woltemade, Manchester City winger Jack Grealish is wanted by Sunderland and Arsenal explore a move for Lille forward Matias Fernandez-Pardo.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x1wwgn8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 21:19:11 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1530,9 +1533,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "リヴァプール最新:Bizarre Gakpo 去るかもしれないとレッドは、フルバックに署名していない, ネビルは言う",
+      "title": "リヴァプール最新: Neville 質問 Gakpo 出口とフルバックの欠如",
       "summary": "",
-      "title_original": "Liverpool latest: Bizarre Gakpo might leave and Reds aren't signing full-backs, says Neville",
+      "title_original": "Liverpool latest: Neville questions Gakpo exit and lack of full-backs",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -1698,9 +1701,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "US Open1 日目 LIVE!Britain's Norrie で '犬の戦い', ブルターと来る",
+      "title": "US Open1 日目 LIVE!Britain's Norrie 最初のラウンドでアウトしますが、サミュエルは勝つ",
       "summary": "",
-      "title_original": "US Open day one LIVE! Britain's Norrie in 'dog fight', with Boulter to come",
+      "title_original": "US Open day one LIVE! Britain's Norrie out in first round but Samuel wins",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13578915/us-open-live-scores-updates-news-commentary-and-results-from-flushing-meadows-new-york",
