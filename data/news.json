@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T18:19:13.244111+00:00",
+  "updated_at": "2026-08-30T18:34:21.079504+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -623,7 +623,18 @@
     "Daizen Maeda": "前田大然",
     "Leif Davis": "",
     "Britain's Norrie": "",
-    "Brentford Tottenh": ""
+    "Brentford Tottenh": "",
+    "Real Madrid’s": "",
+    "Promoted Málaga": "",
+    "Bernabéu Suzuki": "",
+    "Werder Real Madrid": "",
+    "Jude Bellingham’s": "",
+    "Alfonso Herrero": "",
+    "Lionel Messi’s": "",
+    "Minnesota United": "",
+    "Inter Miami": "",
+    "Lionel Messi": "リオネル・メッシ",
+    "Saturday. Messi’s": ""
   },
   "items": [
     {
@@ -792,6 +803,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "バルコラ- setbacks を克服した 'grasshopper'",
+      "summary": "獲得を獲得を問い合わせリヴァプール£123m の獲得で合意しますブラッドリー・バルコラ, BBC スポーツは、彼は彼の家族の助けを借りてトップに到達するために、退任したトリムスとセットバックを持っている方法を見て.",
+      "title_original": "Barcola - the 'grasshopper' who has overcome setbacks",
+      "summary_original": "As Liverpool agree a £123m deal for Bradley Barcola, BBC Sport looks at how he has ridden triumphs and setbacks to reach the top with the help of his family.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceqewejnpr3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 07:38:07 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -977,20 +1002,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "バルコラ- setbacks を克服した 'grasshopper'",
-      "summary": "獲得を獲得を問い合わせリヴァプール£123m の獲得で合意しますブラッドリー・バルコラ, BBC スポーツは、彼は彼の家族の助けを借りてトップに到達するために、退任したトリムスとセットバックを持っている方法を見て.",
-      "title_original": "Barcola - the 'grasshopper' who has overcome setbacks",
-      "summary_original": "As Liverpool agree a £123m deal for Bradley Barcola, BBC Sport looks at how he has ridden triumphs and setbacks to reach the top with the help of his family.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ceqewejnpr3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 07:38:07 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "フランクフルト・ウィンガー・バホヤの移籍は、",
       "summary": "ハル・シティ AFC's のための移動アイントラハト・フランクフルトウィンガーJean-Matteo Bahoya プレイヤーが参加することを決定した後に落下プレミアリーグサイド。",
       "title_original": "Hull's deal for Frankfurt winger Bahoya falls through",
@@ -1033,13 +1044,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "£300m は、テーブルの底に費やしました...トッテナムログイン De Zerbi「怒らない」",
-      "summary": "夏に£300m 以上を過ごした、トッテナム自分自身の底を見つけるプレミアリーグ, ポイントやゴールなし, しかし、ボス ロベルト・デ・ツェルビは楽観的まま.",
-      "title_original": "£300m spent, bottom of the table... but Spurs boss De Zerbi 'not angry'",
-      "summary_original": "Having spent more than £300m in the summer, Tottenham find themselves bottom of the Premier League, without a point or a goal, but boss Roberto de Zerbi remains optimistic.",
+      "title": "マンチェスター・シティオープントークリヴァプールオーバーガクポ",
+      "summary": "オランダ前方も引き付けましたインテル一番からトッテナム, しかし、ソースは示しますマンチェスター・シティ彼がアンフィールドを離れるならば、彼の好まれる目的地です。",
+      "title_original": "Man City open talks with Liverpool over Gakpo",
+      "summary_original": "The Netherlands forward has also attracted interest from Tottenham, but sources indicate Manchester City is his preferred destination if he leaves Anfield.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyqn158n5jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 21:15:46 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 20:17:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1068,20 +1079,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report",
       "published": "Sun, 30 Aug 2026 15:15:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "転送ラウンドアップ:Ollie Watkins から Al-Hilal に移動するアストン・ヴィラ",
-      "summary": "イングランドのフォワードの出口は、忙しい夏を続けている Villa News 獲得を獲得を問い合わせ Emiliano Martínez 移動するチェルシーAl-Hilal は署名しました Ollie Watkins からアストン・ヴィラ、30 歳のストライカーが成功を収めたため、日曜日に発表された2 クラブは、ミッドランズクラブで成功を収めました。プレミアリーグ. イングランドインテル国民は、ヴィラ契約に2 年残った人、報告された£51m のために移動しました。ワトキンズは、アル・ヒルルが買収した3 年間の契約を締結",
-      "title_original": "Transfer roundup: Ollie Watkins completes move to Al-Hilal from Aston Villa",
-      "summary_original": "England forward’s exit continues busy summer for Villa News follows Emiliano Martínez moving to Chelsea Al-Hilal have signed Ollie Watkins from Aston Villa, ⁠the two clubs announced on Sunday, as the 30-year-old striker ended a successful ⁠six-year spell with ⁠the ​Midlands club where he became their top scorer in the Premier League. The England international, who had ​two years left on ‌his Villa contract, has moved for a reported £51m. Watkins ‌signed a three-year contract as Al-Hilal acquired",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/30/transfer-roundup-ollie-watkins-al-hilal-aston-villa",
-      "published": "Sun, 30 Aug 2026 16:46:29 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1131,6 +1128,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ヨーロッパのフットボール:ベリンガムスパークスレアル・マドリード完璧なスタートを維持するクルーズ",
+      "summary": "Promoted Málagaslump へ 4-0 で敗北 Bernabéu Suzuki スコアハットトリックフライブルクのウェンダーに対する勝利レアル・マドリード四季折々の旬を彩るラ・リーガ日曜日に Málaga を昇進させた上で快適な4-0 の家のウィンと、遅くなる4 つを加える前に30 分以内に3 回スクーリング。ジュード・ベリンガム Málaga のゴールキーパーによる独自のオープナー「華麗なソロオープナー」Alfonso Herrero そして鋭くキリアン・エムバペ volley は、ハーフタイム前にコンテストを効果的に解決し、サブスティ",
+      "title_original": "European football: Bellingham sparks Real Madrid’s cruise to maintain perfect start",
+      "summary_original": "Promoted Málaga slump to 4-0 defeat at the Bernabéu Suzuki scores hat-trick in Freiburg’s win against Werder Real Madrid maintained their perfect start to the season in La Liga with a comfortable 4-0 home ⁠win over promoted Málaga on Sunday, scoring three times inside 30 minutes before adding a late fourth. Jude Bellingham’s brilliant solo opener, an own ⁠goal by the Málaga goalkeeper ⁠Alfonso Herrero and ​a sharp Kylian Mbappé volley effectively settled the contest before half-time, with substi",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/30/european-football-real-madrid-malaga-napoli-como-inter",
+      "published": "Sun, 30 Aug 2026 18:15:43 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "「私は非常に強烈なキャリアを持っていた」:Mario Balotelli イタリアのサッカーの悩みと将来について",
       "summary": "ストライカーは、UAE での生活を語る, Azzurri と「特別な感情」のための再生の問題マンチェスター・シティ名前がいつまでも Mario Balotelli 特にイタリアでは、後悔感のある会話はほぼ必然的にレースされています。そこには、物事だけが異なっていた場合、世界の最高の1 つであるために、生を所有しているプレーヤーの上に集約的な sigh である「どうか?」を lingering ということです。しかし、彼の前にいる、彼の顔に笑顔で、それはクルになります",
       "title_original": "‘I’ve had a very hectic career’: Mario Balotelli on Italian football’s troubles and his future",
@@ -1145,16 +1156,16 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Emiliano Martínez ついに彼のヴィラ出口を£7.5m に移動して取得チェルシー",
-      "summary": "アルゼンチンは、Sánchez をそのまま置き換える Blues’ No1 'へのコメントチェルシー作る簡単な決定だったチェルシー署名を完了しましたアストン・ヴィラゴールキーパーEmiliano Martínez. The 去る2 つの夏にヴィラを離れるのを目撃してきた33 歳、ついに彼は£7.5m のために移動し、三年契約に署名し、彼の願いを得ました Stamford Bridge. Martínez2022 を獲得した人 World Cup アルゼンチンと2 回確保 Yashin Trophy 最高のゴールキーパーのために、R を置換するように設定されています",
-      "title_original": "Emiliano Martínez finally gets his Villa exit with £7.5m move to Chelsea",
-      "summary_original": "Argentinian set to displace Sánchez as Blues’ No 1 ‘Coming to Chelsea was an easy decision to make’ Chelsea have completed the signing of the Aston Villa goalkeeper Emiliano Martínez. The 33-year-old, who has been agitating to leave Villa for the last two summers, has finally got his wish as he has moved for £7.5m, signing a three-year contract at Stamford Bridge. Martínez, who won the 2022 World Cup with Argentina and twice secured the Yashin Trophy for the best goalkeeper, is set to displace R",
+      "title": "リオネル・メッシマイアミ・クラッシュ・モントリオールの「フットボーリング・ビューティ」がハイリング、MLS ラウンドアップ",
+      "summary": "Messi ネット 4 ゴール, でサポートを追加します。7-1 マイアミ ウィン デジャン ジョヴェルジッチ スコア 2 回 Sounders デビューMinnesota United スコア 3 回 4 分インテルマイアミインテルイムコーチ Guillermo Hoyos のための過激派から逃げるリオネル・メッシアルゼンチンのプレイメーカーが4 つのゴールを獲得した後、Major League SoccerCF モントリオールで 7-1 の発散を促す彼のキャリアで初めてマッチ Saturday. Messi’s マイアミの4 つのゴール・ハルとアシストは、マイアミにとって重要な時期に来ました。",
+      "title_original": "Lionel Messi’s ‘footballing beauty’ hailed as Miami crush Montreal; MLS roundup",
+      "summary_original": "Messi nets four goals, adds assist in 7-1 Miami win Dejan Joveljić scores twice on Sounders debut Minnesota United score three times in four minutes Inter Miami interim coach Guillermo Hoyos ran out of superlatives for Lionel Messi after the ⁠Argentine playmaker scored four goals in a Major League Soccer match for the first time in his career to ⁠inspire a 7-1 thrashing ⁠of CF ​Montreal on Saturday. Messi’s four-goal haul and an assist came at a crucial time for Miami, helping them snap a ⁠five-",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-aston-villa-exit-move-chelsea",
-      "published": "Sun, 30 Aug 2026 08:44:11 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/aug/30/lionel-messi-inter-miami-mls-nashville-sc-dejan-joveljic-seattle-sounders",
+      "published": "Sun, 30 Aug 2026 18:09:56 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1467,6 +1478,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Ipswich 最新: O'Neil 氏は setback によく対応しなければなりません。",
+      "summary": "",
+      "title_original": "Ipswich latest: We must respond better to setbacks, says O'Neil",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "published": "Fri, 28 Aug 2026 15:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "フェルナンデスハットトリックサポートマンチェスター・ユナイテッド Ipswich を打つために後ろから来る",
       "summary": "ブルーノ・フェルナンデススコアハットトリックとしてマンチェスター・ユナイテッド後ろからイプスウィッチ5〜2 を打つオールド・トラッフォード季節の初勝利をピックアップ。",
       "title_original": "Fernandes hat-trick helps Man Utd come from behind to beat Ipswich",
@@ -1509,9 +1534,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ザ・ツアーチャンピオンシップライブ! Scheffler は McIlroy が地面を失うようにホブランドに閉まります",
+      "title": "ザ・ツアーチャンピオンシップライブ! Scheffler は McIlroy の stumbles としてホブランドとレベルを引っ張ります",
       "summary": "",
-      "title_original": "Tour Championship LIVE! Scheffler closes on Hovland as McIlroy loses ground",
+      "title_original": "Tour Championship LIVE! Scheffler pulls level with Hovland as McIlroy stumbles",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13578968/tour-championship-final-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
@@ -1730,20 +1755,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "チェルシー最新: ここまで勝ち抜いたプレミアリーグ, マルティネス と言う",
-      "summary": "",
-      "title_original": "Chelsea latest: I came to here to win the Premier League, says Martinez",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Sun, 30 Aug 2026 15:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
