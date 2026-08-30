@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T08:19:10.148588+00:00",
+  "updated_at": "2026-08-30T08:34:05.304582+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -477,7 +477,9 @@
     "Newcastle Continue": "",
     "Emillia Elsewhere": "",
     "Bournemouth. Víctor Muñoz": "",
-    "Anfield. Continue": ""
+    "Anfield. Continue": "",
+    "Bournemouth. Continue": "",
+    "Emi Martinez": "エミリアーノ・マルティネス"
   },
   "items": [
     {
@@ -901,13 +903,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "締切の織機として最も最近の移動、プレミアリーグビルドアップなど - マッチデイライブ",
-      "summary": "土曜日の行動やサッカーのニュースへの反応 今日の試合 | 結果 | 表 | 電子メール Emillia Elsewhere 獲得を獲得を問い合わせプレミアリーグ, Hull は Coventry に対する勝利の始まりを続け、エヴァートン最後の分イコライザーを対比 Bournemouth. Víctor Muñoz 救われたポイントのためのリヴァプール昨日からノッティンガム・フォレスト獲得を獲得を問い合わせ Andoni Iraola’s はじめてプレミアリーグレッドの担当者にマッチ Anfield. Continue 読書...",
-      "title_original": "Transfer latest as deadline looms, Premier League buildup and more – matchday live",
-      "summary_original": "Reaction to Saturday’s action and more football news Today’s matches | Results | Tables | And email Emillia Elsewhere in the Premier League, Hull continued their winning start against Coventry and Everton clinched a last-minute equaliser against Bournemouth. Víctor Muñoz rescued a point for Liverpool yesterday against Nottingham Forest in Andoni Iraola’s first Premier League match in charge of the Reds at Anfield. Continue reading...",
+      "title": "最新情報を転送するチェルシーマーク・マルティネス,プレミアリーグビルドアップなど - マッチデイライブ",
+      "summary": "土曜日の行動やサッカーのニュースへの反応 今日の試合 | 結果 | 表 | 電子メール Emillia How 表は昨日の結果の後に見えます... エルザの場所でプレミアリーグ, Hull は Coventry に対する勝利の始まりを続け、エヴァートン最後の分イコライザーを対比 Bournemouth. Continue 読書...",
+      "title_original": "Transfer latest as Chelsea sign Martínez, Premier League buildup and more – matchday live",
+      "summary_original": "Reaction to Saturday’s action and more football news Today’s matches | Results | Tables | And email Emillia How the table looks after yesterday’s results… Elsewhere in the Premier League, Hull continued their winning start against Coventry and Everton clinched a last-minute equaliser against Bournemouth. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
-      "published": "Sun, 30 Aug 2026 08:00:26 GMT",
+      "published": "Sun, 30 Aug 2026 08:16:43 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1321,9 +1323,23 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Hrgovic: Itauma は “amazing” ですが、“amateur” のように箱詰めされています。",
+      "title": "チェルシー、Villa から Martinez in £7.5m deal を獲得",
+      "summary": "チェルシー署名済みエミリアーノ・マルティネスからアストン・ヴィラ3 年契約",
+      "title_original": "Chelsea sign Martinez in £7.5m deal from Villa",
+      "summary_original": "Chelsea have signed Emi Martinez from Aston Villa on a three-year deal.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13578946/emi-martinez-transfer-news-chelsea-complete-signing-of-argentina-international-goalkeeper-from-aston-villa",
+      "published": "Sun, 30 Aug 2026 09:10:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Hrgovic: Itauma は'amazing'ですが、'amateur'のように箱詰め",
       "summary": "Filip Hrgovic 賞賛された Moses Itauma 彼のショックニンラウンドのストップページの後、彼の対戦相手は「アマチュアのように」ボクシングを持っていたと述べた。",
-      "title_original": "Hrgovic: Itauma is ‘amazing’ but boxed like an ‘amateur’",
+      "title_original": "Hrgovic: Itauma is 'amazing' but boxed like an 'amateur'",
       "summary_original": "Filip Hrgovic praised Moses Itauma after his shock ninth-round stoppage but said his opponent had boxed “like an amateur”.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/boxing/news/12040/13578936/filip-hrgovic-moses-itauma-amazing-but-boxed-like-an-amateur-in-thrilling-heavyweight-fight-at-the-o2",
@@ -1584,20 +1600,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "De Zerbi 最大の問題を強調トッテナム Carra slams として 'worst start'",
-      "summary": "Roberto De Zerbi 精神性の変化を信じるトッテナム一番大きな挑戦です。Sky Sports' Jamie Carragher 彼らのスタートは、次の敗北に続くシーズン「カルドンが悪くなった」に言いましたニューカッスル.",
-      "title_original": "De Zerbi highlights biggest problem at Spurs as Carra slams 'worst start'",
-      "summary_original": "Roberto De Zerbi believes changing the mentality at Tottenham is his biggest challenge after Sky Sports' Jamie Carragher said their start to the season \"couldn't have gone any worse\" following defeat to Newcastle.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578837/tottenham-hotspur-roberto-de-zerbi-highlights-biggest-problem-at-spurs-after-newcastle-defeat-as-jamie-carragher-slams-start",
-      "published": "Sat, 29 Aug 2026 19:35:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
