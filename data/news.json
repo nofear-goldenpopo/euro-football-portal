@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T07:34:20.285843+00:00",
+  "updated_at": "2026-08-30T07:48:57.353700+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -466,7 +466,10 @@
     "Brighton Leeds United": "",
     "Brentford Sunderland": "",
     "Fulham Manchester United": "",
-    "Ipswich Town Continue": ""
+    "Ipswich Town Continue": "",
+    "As Liverpool": "",
+    "Pape Matar Sarr": "",
+    "Pape Sarr": "パペ・サール"
   },
   "items": [
     {
@@ -477,6 +480,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyqn158n5jo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 29 Aug 2026 21:15:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "バルコラ- setbacks を克服した 'grasshopper'",
+      "summary": "獲得を獲得を問い合わせリヴァプール£123m の獲得で合意しますブラッドリー・バルコラ, BBC スポーツは、彼は彼の家族の助けを借りてトップに到達するために、退任したトリムスとセットバックを持っている方法を見て.",
+      "title_original": "Barcola - the 'grasshopper' who has overcome setbacks",
+      "summary_original": "As Liverpool agree a £123m deal for Bradley Barcola, BBC Sport looks at how he has ridden triumphs and setbacks to reach the top with the help of his family.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceqewejnpr3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 07:38:07 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -582,34 +599,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "「最悪のチームには悪くない」プレミアリーグ歴史 - Hull の完璧なスタート",
-      "summary": "ハルストライカーオリヴァー・マクバーニーCoventry を打ち勝つために彼のチームの評論家で遊び心のある掘り下げを持っています 2 プレミアリーグゲーム。",
-      "title_original": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
-      "summary_original": "Hull striker Oli McBurnie has a playful dig at his team's critics after beating Coventry to win their opening two Premier League games.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 18:03:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ニューカッスル Tonali の後でそこに生命の多くを示します",
-      "summary": "ニューカッスル販売販売 Sandro Tonali 獲得を獲得を問い合わせトッテナム, しかし、クラブは、北ロンドンでユナイテッドの 2-0 の勝利を横切って資金を明らかにしたのを見て.",
-      "title_original": "Newcastle show there's plenty of life after Tonali",
-      "summary_original": "Newcastle United sold Sandro Tonali to Tottenham Hotspur, but the club look to have reinvested the money wisely following United's 2-0 win in north London.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c14d0elejzdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 21:28:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Hull は Coventry で勝ち続けると完璧なスタートを続けます",
       "summary": "Substitute Liam Millar's 遅い目標は助けます Hull は 1-0 の勝利を保証します。コヴェントリー・シティ FC 人生を取り戻すための完璧なスタートを続け、プレミアリーグ、2 つのマッチから2 つの勝利を持つ。",
       "title_original": "Hull continue perfect start with away win at Coventry",
@@ -638,6 +627,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "「最悪のチームには悪くない」プレミアリーグ歴史 - Hull の完璧なスタート",
+      "summary": "ハルストライカーオリヴァー・マクバーニーCoventry を打ち勝つために彼のチームの評論家で遊び心のある掘り下げを持っています 2 プレミアリーグゲーム。",
+      "title_original": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
+      "summary_original": "Hull striker Oli McBurnie has a playful dig at his team's critics after beating Coventry to win their opening two Premier League games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 18:03:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "森は£22m の契約に合意クリスタル・パレス Munoz について",
       "summary": "ノッティンガム・フォレスト署名する£22m の最小値の移籍に同意する Daniel Munoz からクリスタル・パレス.",
       "title_original": "Forest agree £22m deal with Palace for Munoz",
@@ -649,6 +652,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ニューカッスル Tonali の後でそこに生命の多くを示します",
+      "summary": "ニューカッスル販売販売 Sandro Tonali 獲得を獲得を問い合わせトッテナム, しかし、クラブは、北ロンドンでユナイテッドの 2-0 の勝利を横切って資金を明らかにしたのを見て.",
+      "title_original": "Newcastle show there's plenty of life after Tonali",
+      "summary_original": "Newcastle United sold Sandro Tonali to Tottenham Hotspur, but the club look to have reinvested the money wisely following United's 2-0 win in north London.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c14d0elejzdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 21:28:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -690,20 +707,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Forest to、Everton teenager Armstrong 獲得へ4000 万ポンドを提示",
-      "summary": "ノッティンガム・フォレスト署名する野心的な入札を開始エヴァートン'十代のミッドフィルダーHarrison Armstrong.",
-      "title_original": "Forest to bid £40m for Everton teenager Armstrong",
-      "summary_original": "Nottingham Forest launch an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 12:41:06 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -862,6 +865,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Forest to、Everton teenager Armstrong 獲得へ4000 万ポンドを提示",
+      "summary": "ノッティンガム・フォレスト署名する野心的な入札を開始エヴァートン'十代のミッドフィルダーHarrison Armstrong.",
+      "title_original": "Forest to bid £40m for Everton teenager Armstrong",
+      "summary_original": "Nottingham Forest launch an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 12:41:06 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Iraola angry として 公式のボード遅延 サブ ゴール前に",
       "summary": "リヴァプールログイン Andoni Iraola 反対側が反対する間に、三重の置換を遅らせるのを防ぐことを怒っていたと言うノッティンガム・フォレスト.",
       "title_original": "Iraola angry as official's board delays subs before goal",
@@ -876,27 +893,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "'Angry & apologetic' - McCann halt Kilmarnock の失業を開始できますか?",
-      "summary": "Kilmarnock で何が間違っています 失う スタート へ Scottish Premiership 季節は?",
-      "title_original": "'Angry & apologetic' - can McCann halt Kilmarnock's losing start?",
-      "summary_original": "What is going wrong at Kilmarnock amid losing start to Scottish Premiership season?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c86xw1v3vp4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:39:22 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "締切の織機として最も最近の移動、プレミアリーグビルドアップなど - マッチデイライブ",
-      "summary": "土曜日の行動やサッカーのニュースへの反応 今日の試合 | 結果 | 表 | 電子メール Emillia In お見逃しの際は、トッテナム昨日からキャンペーンの第2 敗北に苦しむニューカッスル. ポール・マックインネスはトッテナム衝突のためのスタジアム。最近の投稿プレミアリーグ備品チェルシー. .ブライトン リーズ・ユナイテッド FC. .Brentford Sunderlandv フラハムマンチェスター・ユナイテッド. .Ipswich Town Continue 読書...",
+      "summary": "土曜日の行動やサッカーのニュースへの反応 今日の試合 | 結果 | 表 | 電子メール Emillia In さらなる打撃へのトッテナム, De Zerbi また、Richarlison、Kevin Danso そして、Pape Matar Sarr 残したい。「Richarlison, 私は知りません. 彼が去りたい時も何度も言った。ダンソは2 日前に来たし、去りたいと言いました。パペ・サール同じだが、彼は小さな怪我に苦しんでいるが、彼は訓練する準備ができている。続きを読む...",
       "title_original": "Transfer latest as deadline looms, Premier League buildup and more – matchday live",
-      "summary_original": "Reaction to Saturday’s action and more football news Today’s matches | Results | Tables | And email Emillia In case you missed it, Tottenham suffered their second defeat of the campaign yesterday against Newcastle. Paul MacInnes was at the Tottenham Hotspur Stadium for the clash. Today’s Premier League fixtures Chelsea v Brighton Leeds United v Brentford Sunderland v Fulham Manchester United v Ipswich Town Continue reading...",
+      "summary_original": "Reaction to Saturday’s action and more football news Today’s matches | Results | Tables | And email Emillia In a further blow to Spurs, De Zerbi also revealed that Richarlison, Kevin Danso and Pape Matar Sarr all want to leave. He admitted: “Richarlison, I don’t know. He said too many times he wants to leave. Danso came to me two days ago and he said he wants to leave. Pape Sarr the same but he suffered a small injury, but he is almost ready to train. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
-      "published": "Sun, 30 Aug 2026 07:15:05 GMT",
+      "published": "Sun, 30 Aug 2026 07:30:53 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
