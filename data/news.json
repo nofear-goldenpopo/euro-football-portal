@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T15:49:40.809693+00:00",
+  "updated_at": "2026-08-30T16:04:22.206809+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -583,7 +583,8 @@
     "Bluesky Out": "",
     "Hi Tim": "",
     "Sheff Utd": "シェフィールド・ユナイテッドFC",
-    "Leicester's Choudhury": ""
+    "Leicester's Choudhury": "",
+    "Le Bris": ""
   },
   "items": [
     {
@@ -607,7 +608,7 @@
       "summary_original": "Barcelona are closing in on a move for Arsenal striker Gabriel Jesus in a deal worth £8.6m.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 15:31:39 GMT",
+      "published": "Sun, 30 Aug 2026 16:01:28 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1013,7 +1014,7 @@
       "summary_original": "Premier League updates from the 4.30pm (BST) kick-off Live scoreboard | Mail Tim and follow us over on Bluesky Out come the players, some of them holding babes in arms – including Marcus Rashford, who has a big smile on his face. The first email of the afternoon comes from Dave. “Hi Tim, loving the MBM.” Thanks! “Just wondered if there’s any insight into why Sesko seems to find it so hard to get a start.” Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
-      "published": "Sun, 30 Aug 2026 15:34:18 GMT",
+      "published": "Sun, 30 Aug 2026 15:49:50 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1024,7 +1025,7 @@
       "title": "チェルシーキャンセルブライトンで 4-3 勝ちますが、下に迷路のままシャビ・アロンソ",
       "summary": "時間のフルネスチェルシーの の監視者に対してブライトン & Hove Albion 去る4 月は、旋回点として見られるかもしれません。屈辱が加速 Liam Rosenior’s 約束し、強制する Stamford Bridgehierarchy に reckoning の任命につながったシャビ・アロンソ、移転戦略のシフト、JP Morgan 正面3 と最後に Robert Sánchez’s 第1 ゴールキーパーとしての時間。今のところ、しかし、その引数は Emiliano Martínez ジグソーパズルの最終作品は、",
       "title_original": "Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso",
-      "summary_original": "In the fullness of time Chelsea’s surrender against Brighton & Hove Albion last April may come to be seen as the turning point. The humiliation accelerated Liam Rosenior’s demise and forced the Stamford Bridge hierarchy into a reckoning which has led to the appointment of Xabi Alonso, a shift in the transfer strategy, the JP Morgan front three and the end of Robert Sánchez’s time as the No 1 goalkeeper. For now, though, the argument that Emiliano Martínez is the final piece in the jigsaw seems a",
+      "summary_original": "In the fullness of time Chelsea’s surrender against Brighton & Hove Albion last April may come to be seen as the turning point. The humiliation accelerated Liam Rosenior’s demise and forced the Stamford Bridge hierarchy into a reckoning which has led to the appointment of Xabi Alonso , a shift in the transfer strategy , the JP Morgan front three and the end of Robert Sánchez’s time as the No 1 goalkeeper. For now, though, the argument that Emiliano Martínez is the final piece in the jigsaw seems",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report",
       "published": "Sun, 30 Aug 2026 15:15:25 GMT",
@@ -1427,6 +1428,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "サンダーランド最新:私たちは、私たちの家の要塞を再構築したい、と言う Le Bris",
+      "summary": "",
+      "title_original": "Sunderland latest: We want to rebuild our home fortress, says Le Bris",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Sun, 30 Aug 2026 13:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "EFL 最新:シェフィールド・ユナイテッド FChijack Derby's のための移動 Leicester's Choudhury",
       "summary": "",
       "title_original": "EFL latest: Sheff Utd hijack Derby's move for Leicester's Choudhury",
@@ -1438,6 +1453,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "チェルシービートブライトン Alonso の勝利の始まりを続行する7 ゴールのスリラー",
+      "summary": "チェルシー開催中止ブライトンスリル満点の4-3 勝利をクリアし、マネージャーの下で勝利のスタートを続行するための戦いバックシャビ・アロンソ.",
+      "title_original": "Chelsea beat Brighton in seven-goal thriller to continue Alonso's winning start",
+      "summary_original": "Chelsea held off a Brighton fightback to clinch a thrilling 4-3 victory and continue their winning start under manager Xabi Alonso.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/report/559456",
+      "published": "Sun, 30 Aug 2026 16:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1455,17 +1484,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "チェルシービートブライトン Alonso の勝利の始まりを続行する7 ゴールのスリラー",
-      "summary": "チェルシー開催中止ブライトンスリル満点の4-3 勝利をクリアし、マネージャーの下で勝利のスタートを続行するための戦いバックシャビ・アロンソ.",
-      "title_original": "Chelsea beat Brighton in seven-goal thriller to continue Alonso's winning start",
-      "summary_original": "Chelsea held off a Brighton fightback to clinch a thrilling 4-3 victory and continue their winning start under manager Xabi Alonso.",
+      "title": "Fulham 最新:Sunderland の Arbeloa laments tame ディスプレイ",
+      "summary": "",
+      "title_original": "Fulham latest: Arbeloa laments tame display at Sunderland",
+      "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/report/559456",
-      "published": "Tue, 21 Jul 2026 12:22:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "published": "Sun, 30 Aug 2026 10:05:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1553,6 +1582,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Calvert-Lewin 救助は印象的な Brentford に対してリーズのために引く",
+      "summary": "Dominic Calvert-Lewin レイト・タップインを獲得リーズ・ユナイテッド FC1-1 ドローとブレンフォードエランド・ロード.",
+      "title_original": "Calvert-Lewin rescues draw for Leeds against impressive Brentford",
+      "summary_original": "Dominic Calvert-Lewin scored a late tap-in to earn Leeds United a 1-1 draw with Brentford at Elland Road.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/leeds-united-vs-brentford/report/559459",
+      "published": "Sun, 30 Aug 2026 16:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "イタウマは、ハルゴヴィックのリマッチを受け取りません",
       "summary": "Moses Itauma 直近のリマッチを受け取りたくない Filip Hrgovic 彼の世界ヘビー級タイトルが敗北した後。",
       "title_original": "Itauma unlikely to receive Hrgovic rematch",
@@ -1577,20 +1620,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Calvert-Lewin 救助は印象的な Brentford に対してリーズのために引く",
-      "summary": "Dominic Calvert-Lewin レイト・タップインを獲得リーズ・ユナイテッド FC1-1 ドローとブレンフォードエランド・ロード.",
-      "title_original": "Calvert-Lewin rescues draw for Leeds against impressive Brentford",
-      "summary_original": "Dominic Calvert-Lewin scored a late tap-in to earn Leeds United a 1-1 draw with Brentford at Elland Road.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/leeds-united-vs-brentford/report/559459",
-      "published": "Sun, 30 Aug 2026 16:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -1672,34 +1701,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13578971/iliman-ndiaye-and-richarlison-transfer-news-tottenham-and-everton-in-advanced-talks-over-separate-deals",
       "published": "Sun, 30 Aug 2026 10:42:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ロビンソンは、シリーズの勝利のためのイングランドのプッシュとしてパキスタンをリッピング!",
-      "summary": "",
-      "title_original": "Robinson ripping through Pakistan as England push for series win LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13578951/england-vs-pakistan-second-test-day-four-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win",
-      "published": "Sun, 30 Aug 2026 10:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "チェルシー、Villa から Martinez in £7.5m deal を獲得",
-      "summary": "チェルシー署名済みエミリアーノ・マルティネスからアストン・ヴィラ3 年契約",
-      "title_original": "Chelsea sign Martinez in £7.5m deal from Villa",
-      "summary_original": "Chelsea have signed Emi Martinez from Aston Villa on a three-year deal.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578946/emi-martinez-transfer-news-chelsea-complete-signing-of-argentina-international-goalkeeper-from-aston-villa",
-      "published": "Sun, 30 Aug 2026 09:10:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
