@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T16:49:41.492150+00:00",
+  "updated_at": "2026-08-30T17:04:14.218607+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -595,9 +595,43 @@
     "Daniel'- Andrews": "",
     "Keith Andrews": "",
     "Regis Le Bris": "",
-    "Aberdeen St Mirren": ""
+    "Aberdeen St Mirren": "",
+    "Until Sunday's": "",
+    "Joe Root’s": "",
+    "Solheim Cup": "",
+    "South Africa's Casandra Alexander": "",
+    "KPMG Irish Open": "",
+    "County Kildare": "キルデア県"
   },
   "items": [
+    {
+      "title": "ワトキンズは、サウジ側 Al-Hilal に£51m の移動を完了",
+      "summary": "Ollie Watkins 彼の£51m が移動する Saudi Pro League サイド Al Hilal からアストン・ヴィラ.",
+      "title_original": "Watkins completes £51m move to Saudi side Al-Hilal",
+      "summary_original": "Ollie Watkins completes his £51m move to Saudi Pro League side Al Hilal from Aston Villa.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70le5gllyeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 16:55:21 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "'bitty' Pittodrie が McInnes のターンポイントを獲得し、レンジャーズ?",
+      "summary": "Until Sunday's アバディーンへ北へ Derek McInnes 本当に楽しんでいないレンジャーズチーム。Pittodrie で不協調の勝利の後に変更しました。",
+      "title_original": "Is 'bitty' Pittodrie win turning point for McInnes and Rangers?",
+      "summary_original": "Until Sunday's trip north to Aberdeen, Derek McInnes had not really enjoyed watching his Rangers team. That changed after an unconvincing win at Pittodrie.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgwz6g45lpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 16:38:50 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
     {
       "title": "Joao Pedro デビューのヤルクーエスター -チェルシー. .ブライトン 選手採点",
       "summary": "プレイヤーが次のように評価される方法は次のとおりです。チェルシーそして、ブライトン出会い系プレミアリーグ日曜日",
@@ -655,20 +689,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マンチェスター・ユナイテッド A66 クラッシュで死亡した 'proud Red' 役員に敬意を表します",
-      "summary": "息子の息子 PC Matthew Blades 導かれたマンチェスター・ユナイテッド獲得を獲得を問い合わせオールド・トラッフォード日曜日のためプレミアリーグイプスウィッチでゲーム。",
-      "title_original": "Man Utd pay tribute to 'proud Red' officer who died in A66 crash",
-      "summary_original": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 16:30:05 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "エヴァートンファンバックラッシュ後の Armstrong セールを呼び出します",
       "summary": "エヴァートン Midfielder を売る提案された契約を離れて呼びました Harrison Armstrong 獲得を獲得を問い合わせノッティンガム・フォレストクラブのサポーターのバックラッシュに続いています。",
       "title_original": "Everton call off Armstrong sale after fan backlash",
@@ -680,6 +700,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド A66 クラッシュで死亡した 'proud Red' 役員に敬意を表します",
+      "summary": "息子の息子 PC Matthew Blades 導かれたマンチェスター・ユナイテッド獲得を獲得を問い合わせオールド・トラッフォード日曜日のためプレミアリーグイプスウィッチでゲーム。",
+      "title_original": "Man Utd pay tribute to 'proud Red' officer who died in A66 crash",
+      "summary_original": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 16:30:05 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -708,20 +742,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Coventry、マンチェスター・シティから Mfuni on loan を獲得",
-      "summary": "コヴェントリー・シティ FC 印の英語の擁護者 Stephen Mfuni 季節限定のローン契約からマンチェスター・シティ.",
-      "title_original": "Coventry sign Mfuni on loan from Man City",
-      "summary_original": "Coventry City sign English defender Stephen Mfuni on a season-long loan deal from Manchester City.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g73yvjz9do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 11:55:34 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -921,6 +941,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Coventry、マンチェスター・シティから Mfuni on loan を獲得",
+      "summary": "コヴェントリー・シティ FC 印の英語の擁護者 Stephen Mfuni 季節限定のローン契約からマンチェスター・シティ.",
+      "title_original": "Coventry sign Mfuni on loan from Man City",
+      "summary_original": "Coventry City sign English defender Stephen Mfuni on a season-long loan deal from Manchester City.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g73yvjz9do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 11:55:34 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "£300m は、テーブルの底に費やしました...トッテナムログイン De Zerbi「怒らない」",
       "summary": "夏に£300m 以上を過ごした、トッテナム自分自身の底を見つけるプレミアリーグ, ポイントやゴールなし, しかし、ボス ロベルト・デ・ツェルビは楽観的まま.",
       "title_original": "£300m spent, bottom of the table... but Spurs boss De Zerbi 'not angry'",
@@ -963,20 +997,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Boreham WoodAbdulmalik の Vardy-beating の記録料を受け入れて下さい",
-      "summary": "スウェーデンクラブ Djurgardens 同意する National League 記録手数料は、ウィンガーに署名するために£1.5m を超えると考えられていました Abdul Abdulmalik から Boreham Wood.",
-      "title_original": "Boreham Wood accept Vardy-beating record fee for Abdulmalik",
-      "summary_original": "Swedish club Djurgardens agree a National League record fee thought to be in excess of £1.5m to sign winger Abdul Abdulmalik from Boreham Wood.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zvw14e8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 09:19:27 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "「サポーターはいつも間違っていません」 - マウスエヴァートンファンの怒り",
       "summary": "David Moyes「サポーターはいつも間違っていない」と言った。エヴァートンファンは十代のミッドフィルダーの潜在的な販売に彼らの反対をボイス Harrison ArmstrongBournemouth で 1-1 を描画します。",
       "title_original": "'Supporters aren't always wrong' - Moyes on Everton fans' anger",
@@ -1005,27 +1025,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ハンブルクの上級トークアーセナルの ヴィエイラ",
-      "summary": "ハンブルクは購入するための高度な話ですアーセナルミッドフィルダーFabio Vieira10m ユーロ(£8.6m)移籍で。",
-      "title_original": "Hamburg in advanced talks for Arsenal's Vieira",
-      "summary_original": "Hamburg are in advanced talks to buy Arsenal midfielder Fabio Vieira in a 10m euro (£8.6m) deal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ymvz83dy1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 11:27:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "マンチェスター・ユナイテッドツイートイプスウィッチ・タウン FC: プレミアリーグ– ライブ",
       "summary": "プレミアリーグ4:30pm(BST)キックオフライブスコアボードからのアップデート |Mail Tim 獲得を獲得を問い合わせ Bluesky Out 選手、それらのいくつかは、腕の赤ん坊を保持します - を含むマーカス・ラッシュフォード顔に笑顔が大きい人。午後の最初のメールはデイブから来ています。Hi TimMBM を愛する 獲得を獲得を問い合わせ 「Sesko がスタートを手に入れるのが難しいと思える理由について、どんなインサイトがあるか疑問に思います。」 続きを読む...",
       "title_original": "Manchester United v Ipswich Town: Premier League – live",
       "summary_original": "Premier League updates from the 4.30pm (BST) kick-off Live scoreboard | Mail Tim and follow us over on Bluesky Out come the players, some of them holding babes in arms – including Marcus Rashford, who has a big smile on his face. The first email of the afternoon comes from Dave. “Hi Tim, loving the MBM.” Thanks! “Just wondered if there’s any insight into why Sesko seems to find it so hard to get a start.” Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
-      "published": "Sun, 30 Aug 2026 16:31:21 GMT",
+      "published": "Sun, 30 Aug 2026 16:50:06 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1467,6 +1473,34 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "チェルシービートブライトン Alonso の勝利の始まりを続行する7 ゴールのスリラー",
+      "summary": "チェルシー開催中止ブライトンスリル満点の4-3 勝利をクリアし、マネージャーの下で勝利のスタートを続行するための戦いバックシャビ・アロンソ.",
+      "title_original": "Chelsea beat Brighton in seven-goal thriller to continue Alonso's winning start",
+      "summary_original": "Chelsea held off a Brighton fightback to clinch a thrilling 4-3 victory and continue their winning start under manager Xabi Alonso.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/report/559456",
+      "published": "Sun, 30 Aug 2026 16:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ロビンソンの輝きとしてパキスタンに対するイギリスのシールシリーズの勝利",
+      "summary": "Joe Root’s イングランドのキャプテンがシリーズを封印するために、主のパキスタンで快適な194 ラン勝利にクルーズし、彼の側面として飛行開始に降りた2 番目のスタントは、行くためにゲームで2-0 に行く。",
+      "title_original": "England seal series victory against Pakistan as Robinson shines",
+      "summary_original": "Joe Root’s second stint as England captain got off to a flying start as his side cruised to a comfortable 194-run win over Pakistan at Lord’s to seal the series, going 2-0 up with a game to go.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13579083/england-vs-pakistan-joe-roots-side-seal-series-victory-in-second-test-at-lords-as-ruthless-ollie-robinson-shines-again",
+      "published": "Sun, 30 Aug 2026 15:49:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "サンダーランド最新:私たちは、私たちの家の要塞を再構築したい、と言う Le Bris",
       "summary": "",
       "title_original": "Sunderland latest: We want to rebuild our home fortress, says Le Bris",
@@ -1523,20 +1557,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "チェルシービートブライトン Alonso の勝利の始まりを続行する7 ゴールのスリラー",
-      "summary": "チェルシー開催中止ブライトンスリル満点の4-3 勝利をクリアし、マネージャーの下で勝利のスタートを続行するための戦いバックシャビ・アロンソ.",
-      "title_original": "Chelsea beat Brighton in seven-goal thriller to continue Alonso's winning start",
-      "summary_original": "Chelsea held off a Brighton fightback to clinch a thrilling 4-3 victory and continue their winning start under manager Xabi Alonso.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/report/559456",
-      "published": "Sun, 30 Aug 2026 16:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Leeds 最新: より多くの署名を期待するファーク",
       "summary": "",
       "title_original": "Leeds latest: Farke hopeful of more signings",
@@ -1576,6 +1596,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Maguire は家土の先に4 つを終えます Solheim Cup アレクサンダーの勝利として",
+      "summary": "South Africa's Casandra Alexander 影響を受けた天候で勝利を主張 KPMG Irish Open 厳粛な週に渡るパフォーマンスキルデア県.",
+      "title_original": "Maguire finishes fourth on home soil ahead of Solheim Cup as Alexander wins",
+      "summary_original": "South Africa's Casandra Alexander claimed victory at a weather affected KPMG Irish Open with a dominant performance across a sodden week in County Kildare.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13578955/kpmg-womens-irish-open-leona-maguire-finishes-fourth-on-home-soil-ahead-of-solheim-cup-as-casandra-alexander-claims-second-let-victory",
+      "published": "Sun, 30 Aug 2026 10:16:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1687,34 +1721,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Isidor は Sunderland の 3 つのポイントを切るために遅れて衝突します。",
-      "summary": "FREE TO WATCH: サンダーランドの Fulham との試合からのハイライトプレミアリーグ.",
-      "title_original": "Isidor strikes late to clinch three points for Sunderland",
-      "summary_original": "FREE TO WATCH: Highlights from Sunderland’s match against Fulham in the Premier League.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13579100/sunderland-1-0-fulham-premier-league-highlights",
-      "published": "Sun, 30 Aug 2026 16:10:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Late Leeds ゴールとシェードの輝きは、ポイントをシェアエランド・ロード",
-      "summary": "ハイライトリーズ・ユナイテッド FC ブレントフォードに対してプレミアリーグ.",
-      "title_original": "Late Leeds goal and Schade brilliance see points shared at Elland Road",
-      "summary_original": "Highlights from Leeds United against Brentford in the Premier League.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13579102/leeds-united-1-1-brentford-premier-league-highlights",
-      "published": "Sun, 30 Aug 2026 16:11:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
