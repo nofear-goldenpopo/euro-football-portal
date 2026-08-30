@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T21:19:22.390535+00:00",
+  "updated_at": "2026-08-30T21:34:06.070256+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -666,7 +666,12 @@
     "Leif Davis’s": "",
     "Bryan Mbeumo’s": "",
     "Chuka Akpom’s": "",
-    "Britain's Boulter": ""
+    "Britain's Boulter": "",
+    "Van Assche": "",
+    "Cameron Norrie": "",
+    "Luca Van Assche": "",
+    "Ross Smith": "",
+    "Gary Anderson": "ゲイリー・アンダーソン (曖昧さ回避)"
   },
   "items": [
     {
@@ -1147,12 +1152,12 @@
     },
     {
       "title": "ヨーロッパのフットボール:ベリンガムスパークスレアル・マドリード完璧なスタートを維持するクルーズ",
-      "summary": "Promoted Málagaslump へ 4-0 で敗北 Bernabéu Como で勝つナポリ; Freiburg thump Werder Bremen ; Freiburg thump Werder ブレーメンレアル・マドリード四季折々の旬を彩るラ・リーガ日曜日に Málaga を昇進させた上で快適な4-0 の家のウィンと、遅く加える30 分の中の3 回をスクーリングして下さい。ジュード・ベリンガム Málaga ゴールキーパー ’s の素晴らしいソロオープナー、Alfonso Herrero そして鋭くキリアン・エムバペ volley は、Ard を代替して、ハーフタイム前にコンテストを効果的に解決しました",
+      "summary": "Promoted Málagaslump へ 4-0 で敗北 Bernabéu Como バックナンバーナポリ;ジョーンズは作りますインテルウィンでデビューレアル・マドリード四季折々の旬を彩るラ・リーガ日曜日に Málaga を昇進させた上で快適な4-0 の家のウィンと、遅く加える30 分の中の3 回をスクーリングして下さい。ジュード・ベリンガム Málaga ゴールキーパー ’s の素晴らしいソロオープナー、Alfonso Herrero そして鋭くキリアン・エムバペ volley は、ハーフタイム前にコンテストを効果的に解決し、代替 A",
       "title_original": "European football: Bellingham sparks Real Madrid’s cruise to maintain perfect start",
-      "summary_original": "Promoted Málaga slump to 4-0 defeat at the Bernabéu Como win at Napoli; Freiburg thump Werder Bremen Real Madrid maintained their perfect start to the season in La Liga with a comfortable 4-0 home ⁠win over promoted Málaga on Sunday, scoring three times inside 30 minutes before adding a late fourth. Jude Bellingham’s brilliant solo opener, an own ⁠goal by the Málaga goalkeeper ⁠Alfonso Herrero and ​a sharp Kylian Mbappé volley effectively settled the contest before half-time, with substitute Ard",
+      "summary_original": "Promoted Málaga slump to 4-0 defeat at the Bernabéu Como defeat Napoli; Jones makes Inter debut in win Real Madrid maintained their perfect start to the season in La Liga with a comfortable 4-0 home ⁠win over promoted Málaga on Sunday, scoring three times inside 30 minutes before adding a late fourth. Jude Bellingham’s brilliant solo opener, an own ⁠goal by the Málaga goalkeeper ⁠Alfonso Herrero and ​a sharp Kylian Mbappé volley effectively settled the contest before half-time, with substitute A",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/30/european-football-real-madrid-malaga-napoli-como-inter",
-      "published": "Sun, 30 Aug 2026 18:55:19 GMT",
+      "published": "Sun, 30 Aug 2026 21:19:56 GMT",
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
@@ -1524,6 +1529,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Norrie がクラッシュする US Open アフターVan Assche カムバック",
+      "summary": "Cameron Norrie クラッシュアウト全米オープン最初のラウンドで Luca Van Assche セットダウンから4 勝へ。",
+      "title_original": "Norrie crashes out of US Open after Van Assche comeback",
+      "summary_original": "Cameron Norrie crashed out of the US Open in the first round as Luca Van Assche came from a set down to win in four.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13579292/cameron-norrie-v-luca-van-assche-us-open-first-round-highlights",
+      "published": "Sun, 30 Aug 2026 22:09:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "クリスタル・パレス最新: サールは、販売するために拒否するが、イーグルを望んでいます",
       "summary": "",
       "title_original": "Palace latest: Sarr wants out but Eagles refusing to sell",
@@ -1664,6 +1683,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "スミスは、ハンガリーでアンダーソンを敗北させ、スコッツ・フェアリー・タルが最終ハードルで落ちる",
+      "summary": "Ross Smith クレーム Hungarian Darts Trophyemphatic スタイル、ルーティングゲイリー・アンダーソン (曖昧さ回避)日曜日の決勝で2 位 European Tour 今年のタイトル。",
+      "title_original": "Smith defeats Anderson in Hungary as Scot's fairy-tale run falls at final hurdle",
+      "summary_original": "Ross Smith claimed the Hungarian Darts Trophy in emphatic style, routing Gary Anderson 8-2 in Sunday's final to land a second European Tour title of the year.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/news/12040/13579117/hungarian-darts-trophy-ross-smith-defeats-gary-anderson-as-scots-fairy-tale-run-ends-in-final",
+      "published": "Sun, 30 Aug 2026 16:43:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Nordqvist は、先のキャリアを再生するために感情的な運賃を入札 Solheim Cup キャパシー",
       "summary": "Anna Nordqvist18 年連続で活躍するキャリアに、感情的な終焉を迎えました。FM Championship 日曜日、彼女はリードする前に12 日 Team Europe 獲得を獲得を問い合わせ Solheim Cup キャプテンとして、スカイスポーツに住んでいます。",
       "title_original": "Nordqvist bids emotional farewell to playing career ahead of Solheim Cup captaincy",
@@ -1721,9 +1754,9 @@
     },
     {
       "title": "ロビンソンの輝きとしてパキスタンに対するイギリスのシールシリーズの勝利",
-      "summary": "Joe Root’s イングランドのキャプテンとして2 番目のスタントは、彼の側にクルーズとして飛行スタートにオフです 194-ランの勝利 主がシリーズをシールするために、, 行くためにゲームで2-0 上に行く.",
+      "summary": "Joe Root’s イングランドのキャプテンとして2 番目のスタントは、主がシリーズをシールするためにパキスタンで194-run 勝利にクルーズされた彼の側面として飛行スタートにオフです, 行くためにゲームで2-0 上に行く.",
       "title_original": "England seal series victory against Pakistan as Robinson shines",
-      "summary_original": "Joe Root’s second stint as England captain is off to a flying start as his side cruised to a comfortable 194-run win over Pakistan at Lord’s to seal the series, going 2-0 up with a game to go.",
+      "summary_original": "Joe Root’s second stint as England captain is off to a flying start as his side cruised to a 194-run win over Pakistan at Lord’s to seal the series, going 2-0 up with a game to go.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13579083/england-vs-pakistan-joe-roots-side-seal-series-victory-in-second-test-at-lords-as-ruthless-ollie-robinson-shines-again",
       "published": "Sun, 30 Aug 2026 15:49:00 BST",
@@ -1745,34 +1778,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "最も最近のゴルフ リーダーボード:FM Championship, ザ・ツアーチャンピオンシップ詳しくはこちら",
-      "summary": "PGA Tour's を含む世界中から最新のゴルフスコアと結果ザ・ツアーチャンピオンシップ, ,Husqvarna British Masters 獲得を獲得を問い合わせ",
-      "title_original": "Latest golf leaderboards: FM Championship, Tour Championship and more",
-      "summary_original": "Latest golf scores and results from around the world, including the PGA Tour's Tour Championship, the Husqvarna British Masters and more.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
-      "published": "Sun, 30 Aug 2026 18:18:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ハイライト: イギリスのクルーズは、ルートのキャプテンリターンでシリーズが勝つためにパキスタンをクルーズ",
-      "summary": "主の4 日目の最高を見ます イングランド thumped パキスタン によって 194 3 つのマッチテストシリーズで失敗した2-0 リードを取るために実行します。",
-      "title_original": "Highlights: England cruise past Pakistan to clinch series win on Root’s captaincy return",
-      "summary_original": "Watch the best of day four at Lord's as England thumped Pakistan by 194 runs to take an unassailable 2-0 lead in the three-match Test series.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13579009/england-vs-pakistan-2nd-test-day-four-morning-session-highlights",
-      "published": "Sun, 30 Aug 2026 13:34:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
