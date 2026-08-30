@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T00:34:17.859482+00:00",
+  "updated_at": "2026-08-30T00:49:04.841702+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -444,7 +444,10 @@
     "Vivien Endemann": "",
     "Mao Itamura": "",
     "Rory McIlroy": "ローリー・マキロイ",
-    "Sir Nick Faldo": "ニック・ファルド"
+    "Sir Nick Faldo": "ニック・ファルド",
+    "FM Championship": "",
+    "Ruoning Yin": "殷若寧",
+    "LPGA Tour’s FM Championship": ""
   },
   "items": [
     {
@@ -1400,6 +1403,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ヨーロッパの希望は、FM Championship アイルランドのマギレの印象",
+      "summary": "殷若寧最終ラウンドチップインを生成し、ワンショットリードを最終ラウンドに LPGA Tour’s FM Championship 欧州のタイトルは、ボストンに面したことを望んでいます。",
+      "title_original": "Europe's hopes fade at FM Championship as Maguire impresses in Ireland",
+      "summary_original": "Ruoning Yin produced a final-hole chip-in to take a one-shot lead into the final round of the LPGA Tour’s FM Championship, as European title hopes faded in Boston.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13578731/lpga-tour-ruoning-yin-grabs-fm-championship-lead-after-late-chip-in-as-european-title-challenge-fades-in-boston",
+      "published": "Sun, 30 Aug 2026 01:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "キャメロンは、マイヤー紛争の結果として3 分のラウンドリマッチを呼び出します",
       "summary": "Chantelle Cameron3 分間のリマッチに対して呼び出されるミカエラ・メイヤーバーミンガムの MVPW-06 の MVPW-06 で統一された WBA、WBC および WBO スーパーウェルター級王者になるための非アニマルな決定によってアメリカ人を賭けた後。",
       "title_original": "Cameron calls for three-minute round rematch as Mayer disputes result",
@@ -1533,20 +1550,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13578873/reina-tellez-vs-jessica-barry-fight-highlights",
       "published": "Sat, 29 Aug 2026 21:03:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ウィガン・スラッシュ Hull KR テーブルの上に行く",
-      "summary": "ハイライト Super League 間の衝突 Wigan Warriors そして、Hull KR.",
-      "title_original": "Wigan thrash Hull KR to go top of the table",
-      "summary_original": "Highlights of the Super League clash between Wigan Warriors and Hull KR.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13577969/wigan-warriors-46-0-hull-kr-rugby-super-league-highlights",
-      "published": "Thu, 27 Aug 2026 22:06:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
