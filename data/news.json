@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T20:34:11.815139+00:00",
+  "updated_at": "2026-08-30T20:49:02.891467+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -655,7 +655,10 @@
     "Team Europe": "",
     "Aaron Donald": "",
     "Los Angeles Rams": "ロサンゼルス・ラムズ",
-    "Bizarre Gakpo": ""
+    "Bizarre Gakpo": "",
+    "Aaron Paul": "アーロン・ポール",
+    "Charlie Austin": "",
+    "Luke Edwards. Hear": ""
   },
   "items": [
     {
@@ -1023,6 +1026,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Football Daily",
+      "summary": "アーロン・ポールインタビュープレミアリーグ獲得を獲得を問い合わせ Charlie Austin & Luke Edwards. Hear から De Zerbi.",
+      "title_original": "Football Daily",
+      "summary_original": "Aaron Paul talks Premier League with Charlie Austin & Luke Edwards. Hear from De Zerbi.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/m003123c?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 20:10:00 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "トッテナム Ndiaye を Richarlison セットと動かして下さいエヴァートン",
       "summary": "トッテナム署名する高度の話にあります Iliman Ndiaye からエヴァートン, Richarlison は、別の交渉の一環として、反対方向に移動するように設定.",
       "title_original": "Tottenham make Ndiaye move with Richarlison set for Everton",
@@ -1044,20 +1061,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x1wwgn8o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 29 Aug 2026 21:19:11 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マンチェスター・シティオープントークリヴァプールオーバーガクポ",
-      "summary": "オランダ前方も引き付けましたインテル一番からトッテナム, しかし、ソースは示しますマンチェスター・シティ彼がアンフィールドを離れるならば、彼の好まれる目的地です。",
-      "title_original": "Man City open talks with Liverpool over Gakpo",
-      "summary_original": "The Netherlands forward has also attracted interest from Tottenham, but sources indicate Manchester City is his preferred destination if he leaves Anfield.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 20:17:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
