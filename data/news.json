@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T21:34:06.070256+00:00",
+  "updated_at": "2026-08-30T21:49:09.345826+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -671,9 +671,27 @@
     "Cameron Norrie": "",
     "Luca Van Assche": "",
     "Ross Smith": "",
-    "Gary Anderson": "ゲイリー・アンダーソン (曖昧さ回避)"
+    "Gary Anderson": "ゲイリー・アンダーソン (曖昧さ回避)",
+    "In Spain’s La Liga": "",
+    "Italy’s Serie": "",
+    "Britain's Samuel": "",
+    "Britain's Toby Samuel": ""
   },
   "items": [
+    {
+      "title": "観戦:日の試合",
+      "summary": "4 つのハイライトプレミアリーグマッチ、を含むマンチェスター・ユナイテッド v イプスウィッチ。",
+      "title_original": "Watch: Match of the Day",
+      "summary_original": "Highlights of four Premier League matches, including Manchester United v Ipswich.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 22:40:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
     {
       "title": "獲得マンチェスター・ユナイテッド時代 - しかし、フェルナンデスはまだ標準を設定します",
       "summary": "すべての新しい署名のために、それはまだキャプテンですブルーノ・フェルナンデス誰が標準をで置きますマンチェスター・ユナイテッド, 書き込み Simon Stone.",
@@ -1067,20 +1085,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "トッテナム Ndiaye を Richarlison セットと動かして下さいエヴァートン",
-      "summary": "トッテナム署名する高度の話にあります Iliman Ndiaye からエヴァートン, Richarlison は、別の交渉の一環として、反対方向に移動するように設定.",
-      "title_original": "Tottenham make Ndiaye move with Richarlison set for Everton",
-      "summary_original": "Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with Richarlison set to move in the opposite direction as part of separate negotiations.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 10:39:54 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "マイケル・キャリックログインマンチェスター・ユナイテッド'Ipswich の破裂後の屑",
       "summary": "フェルナンデス火災ハットトリックユナイテッドは、ホームウィン「バウンスされた方法、それが最大のものだ」を楽しむ 嬉しいマイケル・キャリック褒められた方法マンチェスター・ユナイテッドユールのオープンウィークエンドの敗北からイプスウィッチの5-2 の破裂でバウンス。ブルーノ・フェルナンデス獲得を獲得を問い合わせハットトリック、40th、61st および 68th の分で評価される、保障されたユナイテッドのカムバックの勝利の後で Leif Davis’s オープン ツイート Jacob Greaves オウンゴール56 分以降 Bryan Mbeumo’s82 分のストライキは、ホームスコアリングを完了しました,Chuka Akpom’s",
       "title_original": "Michael Carrick hails Manchester United’s grit after rout of Ipswich",
@@ -1137,17 +1141,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Scottish Premiership: スポットのシャンクランドは、マクインンズの圧力を緩和し、レンジャーズ",
-      "summary": "打突者の第2 半のペナルティは1-0 の勝利をで保障します Aberdeen St Mirren3-3 母;セルティック2-0 ファルキルク Saturday Lawrence Shankland’s 第2 半のペナルティは与えました Derek McInnes そして、レンジャーズ Aberdeen に対して1-0 の勝利にもかかわらず、いくつかのはるかに必要な rPittodrie. The 以来の物語レンジャーズマネージャーは、夏にハートから到着し、欧州の2 つの競争から出入り口する形成と人員の一定した変化の1 つであり、プレミアシップキャンペーンへの貧しいスタートでした。The Ibrox 側面はで回しました",
-      "title_original": "Scottish Premiership: Shankland on the spot to ease pressure on McInnes and Rangers",
-      "summary_original": "Striker’s second-half penalty ensures 1-0 win at Aberdeen St Mirren 3-3 Motherwell; Celtic 2-0 Falkirk on Saturday Lawrence Shankland’s second-half penalty gave Derek McInnes and Rangers some much-needed respite with a 1-0 win against Aberdeen at Pittodrie. The tale since the Rangers manager arrived from Hearts in the summer has been one of constant change in formation and personnel amid exits from two European competitions and a poor start to the Premiership campaign. The Ibrox side turned in a",
+      "title": "ミケル・アルテタ「掘り下げ」プレミアリーグ20 人のマッチデイ・スクワッドを拡大する",
+      "summary": "アーセナル管理者は、プレイヤーの「期待の幸福」をドロップすると言うセリエ A25 人のプレーヤーのマッチデイ スクワッドを可能にし、ラ・リーガ 23 アーセナル獲得を獲得を問い合わせプレミアリーグマッチデイ・スクワッドのサイズを増加させるために、ミケル・アルテタ現在のシステムがプレーヤーの福祉に有害であると言っています。トップ・フライト・クラブは、少なくとも3 人の家庭栽培選手を含むゲームに20 人の選手を名付けることができます。スペインでラ・リーガ, クラブは、イタリアで23 のマッチデイ・スクワッドに名前を付けることができますセリエ A25 を許可します。アーセナル複数のフロントで競合しています",
+      "title_original": "Mikel Arteta ‘begging’ Premier League to expand 20-man matchday squads",
+      "summary_original": "Arsenal manager says dropping players ‘affects wellbeing’ Serie A allows 25-player matchday squads and La Liga 23 Arsenal have asked the Premier League to increase the size of matchday squads, with Mikel Arteta saying the current system is detrimental to player welfare. Top‑flight clubs can name 20 players for games, including a minimum of three homegrown players. In Spain’s La Liga, clubs can name a matchday squad of 23, while Italy’s Serie A allows 25. Arsenal have competed on multiple fronts ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/scottish-premiership-celtic-hearts-rangers-aberdeen",
-      "published": "Sun, 30 Aug 2026 16:31:12 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.theguardian.com/football/2026/aug/30/mikel-arteta-premier-league-matchday-squad-player-welfare-arsenal",
+      "published": "Sun, 30 Aug 2026 21:30:06 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1179,17 +1183,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "リオネル・メッシマイアミ・クラッシュ・モントリオールの「フットボーリング・ビューティ」がハイリング、MLS ラウンドアップ",
-      "summary": "Messi ネット 4 ゴール, でサポートを追加します。7-1 マイアミ ウィン デジャン ジョヴェルジッチ スコア 2 回 Sounders デビューMinnesota United スコア 3 回 4 分インテルマイアミインテルイムコーチ Guillermo Hoyos のための過激派から逃げるリオネル・メッシアルゼンチンのプレイメーカーが4 つのゴールを獲得した後、Major League SoccerCF モントリオールで 7-1 の発散を促す彼のキャリアで初めてマッチ Saturday. Messi’s マイアミの4 つのゴール・ハルとアシストは、マイアミにとって重要な時期に来ました。",
-      "title_original": "Lionel Messi’s ‘footballing beauty’ hailed as Miami crush Montreal; MLS roundup",
-      "summary_original": "Messi nets four goals, adds assist in 7-1 Miami win Dejan Joveljić scores twice on Sounders debut Minnesota United score three times in four minutes Inter Miami interim coach Guillermo Hoyos ran out of superlatives for Lionel Messi after the ⁠Argentine playmaker scored four goals in a Major League Soccer match for the first time in his career to ⁠inspire a 7-1 thrashing ⁠of CF ​Montreal on Saturday. Messi’s four-goal haul and an assist came at a crucial time for Miami, helping them snap a ⁠five-",
+      "title": "Scottish Premiership: スポットのシャンクランドは、マクインンズの圧力を緩和し、レンジャーズ",
+      "summary": "打突者の第2 半のペナルティは1-0 の勝利をで保障します Aberdeen St Mirren3-3 母;セルティック2-0 ファルキルク Saturday Lawrence Shankland’s 第2 半のペナルティは与えました Derek McInnes そして、レンジャーズ Aberdeen に対して1-0 の勝利にもかかわらず、いくつかのはるかに必要な rPittodrie. The 以来の物語レンジャーズマネージャーは、夏にハートから到着し、欧州の2 つの競争から出入り口する形成と人員の一定した変化の1 つであり、プレミアシップキャンペーンへの貧しいスタートでした。The Ibrox 側面はで回しました",
+      "title_original": "Scottish Premiership: Shankland on the spot to ease pressure on McInnes and Rangers",
+      "summary_original": "Striker’s second-half penalty ensures 1-0 win at Aberdeen St Mirren 3-3 Motherwell; Celtic 2-0 Falkirk on Saturday Lawrence Shankland’s second-half penalty gave Derek McInnes and Rangers some much-needed respite with a 1-0 win against Aberdeen at Pittodrie. The tale since the Rangers manager arrived from Hearts in the summer has been one of constant change in formation and personnel amid exits from two European competitions and a poor start to the Premiership campaign. The Ibrox side turned in a",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/30/lionel-messi-inter-miami-mls-nashville-sc-dejan-joveljic-seattle-sounders",
-      "published": "Sun, 30 Aug 2026 18:09:56 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
+      "url": "https://www.theguardian.com/football/2026/aug/29/scottish-premiership-celtic-hearts-rangers-aberdeen",
+      "published": "Sun, 30 Aug 2026 16:31:12 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1361,6 +1365,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "リオネル・メッシマイアミ・クラッシュ・モントリオールの「フットボーリング・ビューティ」がハイリング、MLS ラウンドアップ",
+      "summary": "Messi ネット 4 ゴール, でサポートを追加します。7-1 マイアミ ウィン デジャン ジョヴェルジッチ スコア 2 回 Sounders デビューMinnesota United スコア 3 回 4 分インテルマイアミインテルイムコーチ Guillermo Hoyos のための過激派から逃げるリオネル・メッシアルゼンチンのプレイメーカーが4 つのゴールを獲得した後、Major League SoccerCF モントリオールで 7-1 の発散を促す彼のキャリアで初めてマッチ Saturday. Messi’s マイアミの4 つのゴール・ハルとアシストは、マイアミにとって重要な時期に来ました。",
+      "title_original": "Lionel Messi’s ‘footballing beauty’ hailed as Miami crush Montreal; MLS roundup",
+      "summary_original": "Messi nets four goals, adds assist in 7-1 Miami win Dejan Joveljić scores twice on Sounders debut Minnesota United score three times in four minutes Inter Miami interim coach Guillermo Hoyos ran out of superlatives for Lionel Messi after the ⁠Argentine playmaker scored four goals in a Major League Soccer match for the first time in his career to ⁠inspire a 7-1 thrashing ⁠of CF ​Montreal on Saturday. Messi’s four-goal haul and an assist came at a crucial time for Miami, helping them snap a ⁠five-",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/30/lionel-messi-inter-miami-mls-nashville-sc-dejan-joveljic-seattle-sounders",
+      "published": "Sun, 30 Aug 2026 18:09:56 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Hull は飛行開始をとして維持します Liam Millar’s 優勝 ruins Coventry の日",
       "summary": "先日土曜日のトリムフは一回限りではありませんでした。ユールは衝撃的な勝利を裏返しましたマンチェスター・ユナイテッド100%のスタートを維持することでプレミアリーグ成功的な敗北にコベントリーを非難. 「私たちはリーグを勝ち取るつもりです」と、Hull のサポートから雨が降る華やかなシャントでした Liam Millar’s82 分ストライキ。目標は、コベントリーのための吸盤パンチでした, 勝者のためにプッシュし、シーズンの少なくとも彼らの最初のポイントを主張するように設定しました.Frank Lampard、腕の folde",
       "title_original": "Hull maintain flying start as Liam Millar’s winner ruins Coventry’s day",
@@ -1410,20 +1428,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/29/watford-west-ham-championship-match-report",
       "published": "Sat, 29 Aug 2026 16:15:30 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "チャンピオンシップ ラウンドアップ: グラントは、サンズ ハンマー ミルウォールとしてシャルトン トップを置く",
-      "summary": "Charlton は Preston を打ち負かし、100% レコードの Millwall のテイクリードを維持します St Mary’s しかし、南 ampton は 5-1 シャールトンが 1-0 の勝利で表の上部に移動しました。Karlan Grant’s チャルトンが初めて参加するフリー移籍から West Brom ロンドンの南側は、100%の記録を誇る部門の唯一の側面であることを確認してください。チャルトンが1992-93 キャンペーン以来、2 番目のティアで3 つの試合を開始したのは初めてです。メニュー",
-      "title_original": "Championship roundup: Grant puts Charlton top as Saints hammer Millwall",
-      "summary_original": "Charlton beat Preston to maintain 100% record Millwall take lead at St Mary’s but Southampton win 5-1 Charlton moved to the top of the table with a 1-0 victory against struggling Preston . Karlan Grant’s first goal for Charlton since rejoining on a free transfer from West Brom ensured that the south Londoners are the only side in the division still boasting a 100% record. It is the first time that Charlton have won their opening three matches in the second tier since the 1992-93 campaign. Contin",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/championship-roundup-wolves-stoke-swansea-derby-middlesbrough-west-brom",
-      "published": "Sat, 29 Aug 2026 16:54:16 GMT",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
@@ -1508,6 +1512,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/nfl/news/12040/13579264/aaron-donald-los-angeles-rams-legendary-defensive-tackle-comes-out-of-retirement-for-2026-season",
       "published": "Sun, 30 Aug 2026 21:19:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Britain's Samuel 最初に勝つグランドスラムノーリーが開いている日を失うようにマッチ US Open",
+      "summary": "Britain's Toby Samuel メイドイングランドスラム印象的なストレートセット勝利の後にマッチ Cameron Norrie 開会日に失われた全米オープン.",
+      "title_original": "Britain's Samuel wins first Grand Slam match as Norrie loses on opening day of US Open",
+      "summary_original": "Britain's Toby Samuel won his maiden Grand Slam match after an impressive straight sets victory while Cameron Norrie lost on the opening day of the US Open.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13579291/us-open-2026-toby-samuel-wins-first-career-grand-slam-match-as-cameron-norrie-loses-on-opening-day",
+      "published": "Sun, 30 Aug 2026 22:25:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1669,6 +1687,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Nordqvist は、先のキャリアを再生するために感情的な運賃を入札 Solheim Cup キャパシー",
+      "summary": "Anna Nordqvist18 年連続で活躍するキャリアに、感情的な終焉を迎えました。FM Championship 日曜日、彼女はリードする前に12 日 Team Europe 獲得を獲得を問い合わせ Solheim Cup キャプテンとして、スカイスポーツに住んでいます。",
+      "title_original": "Nordqvist bids emotional farewell to playing career ahead of Solheim Cup captaincy",
+      "summary_original": "Anna Nordqvist brought an emotional end to her 18-year playing career at the FM Championship on Sunday, 12 days before she leads Team Europe into the Solheim Cup as captain, live on Sky Sports .",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13579242/anna-nordqvist-team-europes-solheim-cup-captain-bids-emotional-farewell-to-playing-career-at-lpga-tours-fm-championship",
+      "published": "Sun, 30 Aug 2026 20:07:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "「世界のクリケットの味方は、イングランドボウリング攻撃に苦しんでいる」",
       "summary": "Nasser Hussain 世界のどの側面も、彼らはまだ再びパキスタンをシャレッドした後、イングランドのボウリング攻撃に対して厳しいことがわかります Joe Root's ゲームをスペアリングするシリーズの勝利の側面。",
       "title_original": "'Any side in world cricket would find it hard against England bowling attack'",
@@ -1690,20 +1722,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13579117/hungarian-darts-trophy-ross-smith-defeats-gary-anderson-as-scots-fairy-tale-run-ends-in-final",
       "published": "Sun, 30 Aug 2026 16:43:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Nordqvist は、先のキャリアを再生するために感情的な運賃を入札 Solheim Cup キャパシー",
-      "summary": "Anna Nordqvist18 年連続で活躍するキャリアに、感情的な終焉を迎えました。FM Championship 日曜日、彼女はリードする前に12 日 Team Europe 獲得を獲得を問い合わせ Solheim Cup キャプテンとして、スカイスポーツに住んでいます。",
-      "title_original": "Nordqvist bids emotional farewell to playing career ahead of Solheim Cup captaincy",
-      "summary_original": "Anna Nordqvist brought an emotional end to her 18-year playing career at the FM Championship on Sunday, 12 days before she leads Team Europe into the Solheim Cup as captain, live on Sky Sports .",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13579242/anna-nordqvist-team-europes-solheim-cup-captain-bids-emotional-farewell-to-playing-career-at-lpga-tours-fm-championship",
-      "published": "Sun, 30 Aug 2026 20:07:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1764,20 +1782,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ゴールガレ!マンチェスター・ユナイテッドブルーノで勝つために後ろから来たハットトリック",
-      "summary": "FREE TO WATCH: ハイライトからプレミアリーグ間のマッチマンチェスター・ユナイテッドそして、イプスウィッチ・タウン FC.",
-      "title_original": "Goals galore! Man Utd come from behind to win with Bruno hat-trick",
-      "summary_original": "FREE TO WATCH: Highlights from the Premier League match between Manchester United and Ipswich Town.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13579195/manchester-united-5-2-ipswich-premier-league-highlights",
-      "published": "Sun, 30 Aug 2026 18:45:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
