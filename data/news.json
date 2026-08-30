@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T22:34:07.937584+00:00",
+  "updated_at": "2026-08-30T22:48:59.923997+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -680,23 +680,10 @@
     "LPGA Tour": "全米女子プロゴルフ協会",
     "PGA Tour": "",
     "Every PGA Tour": "",
-    "Signature Events": ""
+    "Signature Events": "",
+    "Ellen White": "エレン・ホワイト"
   },
   "items": [
-    {
-      "title": "観戦:日の試合",
-      "summary": "4 つのハイライトプレミアリーグマッチ、を含むマンチェスター・ユナイテッド v イプスウィッチ。",
-      "title_original": "Watch: Match of the Day",
-      "summary_original": "Highlights of four Premier League matches, including Manchester United v Ipswich.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 22:40:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
     {
       "title": "獲得マンチェスター・ユナイテッド時代 - しかし、フェルナンデスはまだ標準を設定します",
       "summary": "すべての新しい署名のために、それはまだキャプテンですブルーノ・フェルナンデス誰が標準をで置きますマンチェスター・ユナイテッド, 書き込み Simon Stone.",
@@ -950,6 +937,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "「彼はそれですべての時間に - 白は「信じられない」フェルナンデスを賞賛",
+      "summary": "デイパンディットのマッチエレン・ホワイトラベルブルーノ・フェルナンデス\"信じられない\"、ミッドフィルダーの後にハットトリック獲得を獲得を問い合わせマンチェスター・ユナイテッド'5-2 コールバックの勝利に対するイプスウィッチ・タウン FC.",
+      "title_original": "'He's on it all the time' - White praises 'unbelievable' Fernandes",
+      "summary_original": "Match of the Day pundit Ellen White labels Bruno Fernandes \"unbelievable\", after the midfielder's hat-trick in Manchester United's 5-2 comeback win against Ipswich Town.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cy4zmlrrpxxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 22:37:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Carrick 'really 喜ばれた として フェルナンデスハットトリックスパークスマンチェスター・ユナイテッドカムバック",
       "summary": "マンチェスター・ユナイテッドマネージャーマイケル・キャリックチームで「本当に喜んで」ブルーノ・フェルナンデス' ハットトリック5-2 のカムバックの勝利を攻撃するイプスウィッチ・タウン FC, 最後の週末の開口日の敗北に続いて.",
       "title_original": "Carrick 'really pleased' as Fernandes hat-trick sparks Man Utd comeback",
@@ -1048,20 +1049,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Jaissle 主張 最初プレミアリーグで勝つ 欠乏症トッテナム",
-      "summary": "セカンドハーフの目標 Anthony Elanga そして、Yoanne Wissa マネージャーMatthias Jaissle 最初からプレミアリーグ勝利、としてニューカッスル勝 2-0 でトッテナム.",
-      "title_original": "Jaissle claims first Premier League win at lacklustre Spurs",
-      "summary_original": "Second-half goals from Anthony Elanga and Yoanne Wissa give manager Matthias Jaissle his first Premier League victory, as Newcastle United win 2-0 at Tottenham Hotspur.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:27:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "バルコラ- setbacks を克服した 'grasshopper'",
       "summary": "獲得を獲得を問い合わせリヴァプール£123m の獲得で合意しますブラッドリー・バルコラ, BBC スポーツは、彼は彼の家族の助けを借りてトップに到達するために、退任したトリムスとセットバックを持っている方法を見て.",
       "title_original": "Barcola - the 'grasshopper' who has overcome setbacks",
@@ -1087,6 +1074,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "トッテナム Ndiaye を Richarlison セットと動かして下さいエヴァートン",
+      "summary": "トッテナム署名する高度の話にあります Iliman Ndiaye からエヴァートン, Richarlison は、別の交渉の一環として、反対方向に移動するように設定.",
+      "title_original": "Tottenham make Ndiaye move with Richarlison set for Everton",
+      "summary_original": "Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with Richarlison set to move in the opposite direction as part of separate negotiations.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 10:39:54 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
