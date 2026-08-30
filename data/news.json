@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T14:04:03.169720+00:00",
+  "updated_at": "2026-08-30T14:19:26.666985+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -532,7 +532,14 @@
     "Lawrence Shankland's": "",
     "Sunderland LIVE": "",
     "Leeds LIVE": "",
-    "US Open Day One": ""
+    "US Open Day One": "",
+    "Bluesky Mark Slater": "",
+    "Ipswich Town": "イプスウィッチ・タウンFC",
+    "Mail Tim": "",
+    "Bluesky Afternoon": "",
+    "Arnold Mühren": "",
+    "Hull. Michael Carrick": "",
+    "McInnes' Rangers": ""
   },
   "items": [
     {
@@ -542,7 +549,21 @@
       "summary_original": "Barcelona are closing in on a move for Arsenal striker Gabriel Jesus in a deal worth £8.6m.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 13:52:01 GMT",
+      "published": "Sun, 30 Aug 2026 14:08:03 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "トッテナム Ndiaye を Richarlison セットと動かして下さいエヴァートン",
+      "summary": "トッテナム署名する高度の話にあります Iliman Ndiaye からエヴァートン, Richarlison は、別の交渉の一環として、反対方向に移動するように設定.",
+      "title_original": "Tottenham make Ndiaye move with Richarlison set for Everton",
+      "summary_original": "Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with Richarlison set to move in the opposite direction as part of separate negotiations.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 10:39:54 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -606,20 +627,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "トッテナム Ndiaye を Richarlison セットと動かして下さいエヴァートン",
-      "summary": "トッテナム署名する高度の話にあります Iliman Ndiaye からエヴァートン, Richarlison は、別の交渉の一環として、反対方向に移動するように設定.",
-      "title_original": "Tottenham make Ndiaye move with Richarlison set for Everton",
-      "summary_original": "Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with Richarlison set to move in the opposite direction as part of separate negotiations.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 10:39:54 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "バルコラ- setbacks を克服した 'grasshopper'",
       "summary": "獲得を獲得を問い合わせリヴァプール£123m の獲得で合意しますブラッドリー・バルコラ, BBC スポーツは、彼は彼の家族の助けを借りてトップに到達するために、退任したトリムスとセットバックを持っている方法を見て.",
       "title_original": "Barcola - the 'grasshopper' who has overcome setbacks",
@@ -662,6 +669,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Boreham WoodAbdulmalik の Vardy-beating の記録料を受け入れて下さい",
+      "summary": "スウェーデンクラブ Djurgardens 同意する National League 記録手数料は、ウィンガーに署名するために£1.5m を超えると考えられていました Abdul Abdulmalik から Boreham Wood.",
+      "title_original": "Boreham Wood accept Vardy-beating record fee for Abdulmalik",
+      "summary_original": "Swedish club Djurgardens agree a National League record fee thought to be in excess of £1.5m to sign winger Abdul Abdulmalik from Boreham Wood.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zvw14e8zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 09:19:27 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "アントニオは、若いガーナ人のチェイスを助けますプレミアリーグ夢の夢",
       "summary": "過去の投稿ウェストハム獲得 Michail Antonio ガーナアカデミーの選手を支援しています。, プロの回転の希望でイングランドに旅行している人.",
       "title_original": "Antonio helps young Ghanaians chase Premier League dreams",
@@ -701,20 +722,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Boreham WoodAbdulmalik の Vardy-beating の記録料を受け入れて下さい",
-      "summary": "スウェーデンクラブ Djurgardens 同意する National League 記録手数料は、ウィンガーに署名するために£1.5m を超えると考えられていました Abdul Abdulmalik から Boreham Wood.",
-      "title_original": "Boreham Wood accept Vardy-beating record fee for Abdulmalik",
-      "summary_original": "Swedish club Djurgardens agree a National League record fee thought to be in excess of £1.5m to sign winger Abdul Abdulmalik from Boreham Wood.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zvw14e8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 09:19:27 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -957,12 +964,26 @@
     },
     {
       "title": "チェルシー. .ブライトン, リーズ v ブレントフォード, サンダーランド v フルハム:プレミアリーグ– ライブ",
-      "summary": "プレミアリーグ2pm(BST)キックオフライブスコアボードからのアップデート |Mail John 獲得を獲得を問い合わせ BlueSky Mark Slater 連絡を取る: 「私は次のようになりますチェルシー対比ブライトン特にマッチするが、見栄えが嬉しいジョイ・ディヴィジョン開いている段落の引用。インスタグラムチェルシーの の場合,ブライトンそして、Hove Albion, マンチェスター・シティとアストン・ヴィラ最近の投稿 トム:「A+++」ジョイ・ディヴィジョン獲得を獲得を問い合わせ Sunday MBM。続きを読む...",
+      "summary": "プレミアリーグ2pm(BST)キックオフライブスコアボードからのアップデート |Mail John 獲得を獲得を問い合わせ Bluesky Mark Slater 連絡を取る: 「私は次のようになりますチェルシー対比ブライトン特にマッチするが、見栄えが嬉しいジョイ・ディヴィジョン開いている段落の引用。インスタグラムチェルシーの の場合,ブライトンそして、Hove Albion, マンチェスター・シティとアストン・ヴィラ最近の投稿 トム:「A+++」ジョイ・ディヴィジョン獲得を獲得を問い合わせ Sunday MBM。続きを読む...",
       "title_original": "Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live",
-      "summary_original": "Premier League updates from the 2pm (BST) kick-offs Live scoreboard | Mail John and follow us on BlueSky Mark Slater gets in touch: “I will be following the Chelsea vs Brighton match particulary, but am happy to see a Joy Division quote in the opening paragraphs. In Chelsea’s case, Brighton and Hove Albion, Manchester City, and Aston Villa most recently...” Tom: “A+++ for getting Joy Division into the Sunday MBM.” Continue reading...",
+      "summary_original": "Premier League updates from the 2pm (BST) kick-offs Live scoreboard | Mail John and follow us on Bluesky Mark Slater gets in touch: “I will be following the Chelsea vs Brighton match particulary, but am happy to see a Joy Division quote in the opening paragraphs. In Chelsea’s case, Brighton and Hove Albion, Manchester City, and Aston Villa most recently...” Tom: “A+++ for getting Joy Division into the Sunday MBM.” Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/chelsea-brighton-leeds-brentford-sunderland-fulham-premier-league-live",
-      "published": "Sun, 30 Aug 2026 13:44:18 GMT",
+      "published": "Sun, 30 Aug 2026 14:09:55 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド. .イプスウィッチ・タウン FC: プレミアリーグ– ライブ",
+      "summary": "プレミアリーグ4:30pm(BST)キックオフライブスコアボードからのアップデート |Mail Tim 獲得を獲得を問い合わせ Bluesky Afternoon 皆様のお越しをお待ちしております。Arnold Mühren ダービー。季節が始まる前にやったものよりも、今より大きくロームするゲームです。それから、日曜日のティータイムのスロットの意外な選択肢みたいな感じでしたが、先週末はかなりのスクルードだった。Ipswich は Sunderland を越える勝利と動く地面に当たるマンチェスター・ユナイテッド Hull でバナナの皮に滑ります。マイケル・キャリックスチル",
+      "title_original": "Manchester United v Ipswich Town: Premier League – live",
+      "summary_original": "Premier League updates from the 4.30pm (BST) kick-off Live scoreboard | Mail Tim and follow us over on Bluesky Afternoon everyone and welcome to the Arnold Mühren derby. It’s a game that looms larger now than it did before the season began. Then, it seemed like a surprising choice for the Sunday-teatime slot, but since last weekend it has looked rather shrewd. Ipswich hit the ground running with a win over Sunderland, while Manchester United slipped on a banana skin at Hull. Michael Carrick stil",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
+      "published": "Sun, 30 Aug 2026 14:02:57 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -995,6 +1016,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Women’s Super League2026-27 プレビュー番号 9:リヴァプール",
+      "summary": "リヴァプールドイツのストライカーを望む Vivien Endemann そして日本の若者たち Mao Itamura 彼らが最後のシーズンのガーディアン作家の予測位置を持っていたよりも、より良いスタートにそれらを得るのを助けることができます。8 位(NB:これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 11th 続きを読む...",
+      "title_original": "Women’s Super League 2026-27 preview No 9: Liverpool",
+      "summary_original": "Liverpool will hope Germany striker Vivien Endemann and Japanese youngster Mao Itamura can help get them off to a better start than they had last season Guardian writers’ predicted position: 8th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 11th Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/30/womens-super-league-2026-27-preview-no-9-liverpool",
+      "published": "Sat, 29 Aug 2026 23:01:39 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1040,34 +1075,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Women’s Super League2026-27 プレビュー番号 9:リヴァプール",
-      "summary": "リヴァプールドイツのストライカーを望む Vivien Endemann そして日本の若者たち Mao Itamura 彼らが最後のシーズンのガーディアン作家の予測位置を持っていたよりも、より良いスタートにそれらを得るのを助けることができます。8 位(NB:これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 11th 続きを読む...",
-      "title_original": "Women’s Super League 2026-27 preview No 9: Liverpool",
-      "summary_original": "Liverpool will hope Germany striker Vivien Endemann and Japanese youngster Mao Itamura can help get them off to a better start than they had last season Guardian writers’ predicted position: 8th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 11th Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/30/womens-super-league-2026-27-preview-no-9-liverpool",
-      "published": "Sat, 29 Aug 2026 23:01:39 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Carrick は ‘lazy’ を却下します。マンチェスター・ユナイテッド批判とフェルナンデスのリーダーシップを守る",
-      "summary": "マネージャーは「1 つのゲーム」だけ開いている日の敗北を言う ユナイテッド なし Carlos Baleba イプスウィッチに対するマイケル・キャリックすべてが間違っていたと言うのは「レイジーで簡単な」と言いましたマンチェスター・ユナイテッド開口日の敗北の後 Hull. Unitedtame ディスプレイで 2-0 を失い、管理者は自分のキャプテンかどうかを尋ねられました。ブルーノ・フェルナンデスと Youri Tielemans ベルギーのキャプテンは、パフォーマンスと結果に影響を与えたかもしれないリーダーシップを示しています。続きを読む...",
-      "title_original": "Carrick dismisses ‘lazy’ Manchester United criticism and defends Fernandes’ leadership",
-      "summary_original": "Manager says opening-day defeat just ‘one game’ United to be without Carlos Baleba against Ipswich Michael Carrick has said it was “lazy and easy” to say everything was wrong with Manchester United after the opening-day defeat at Hull. United lost 2-0 in a tame display and the manager was asked whether his captain, Bruno Fernandes, and Youri Tielemans, Belgium’s captain, had shown the leadership that might have affected the performance and result. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/manchester-united-michael-carrick-bruno-fernandes-lazy-criticism",
-      "published": "Sat, 29 Aug 2026 21:30:37 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "リヴァプール森のペナルティの前に置換遅延によって危険にさらすアンドーニ・イラオラ",
       "summary": "第四の公式が電子ボードと戦うために登場しました「私は約3 分前にそれらの置換を作りたかった」Andoni Iraola 悪い最初の半分の表示と壊れた電子板のために bemoaned リヴァプール’s disappointing 2-2 と描画ノッティンガム・フォレストアンフィールド・ライグ初のホームゲーム。森は二度導いたが、第三次成功を否定したプレミアリーグで勝つリヴァプールによって Víctor Muñoz’s エフェティック 82 分のイコライザー。訪問者の第2 の目標、ペナルティから変換",
       "title_original": "Liverpool’s Andoni Iraola angered by substitution delay before Forest penalty",
@@ -1075,20 +1082,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-manager-andoni-iraola-substitution-delay-before-forest-penalty-football-premier-league",
       "published": "Sat, 29 Aug 2026 15:55:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "「今は、プレイヤーが話すのに良い時間です」:Lucy BronzeFifa で避難者を支援",
-      "summary": "チェルシーディフェンダーは、この夏にコロンビアの難民と人々を支援するための彼女の情熱とピッチを離れて過ごす時間に反映します Lucy Bronze 止まらない。脳は1 分100 マイルを走る。伝統芸能を必要としません。「私はテレビを見ているのは良いではありません - 私はまだ座ることができません」とブロンズは、風からシールドされたベンチに、まだ並べ替えチェルシーCobham でのトレーニング 「最近、車に耳を傾けて、他の人が飛び込んだことを私に尋ねました",
-      "title_original": "‘Now is a good time for players to speak up’: Lucy Bronze on Fifa and helping refugees",
-      "summary_original": "Chelsea defender reflects on spending time with refugees in Colombia this summer and her passion for helping people on and off the pitch Lucy Bronze does not stop. Her brain runs a hundred miles a minute. She does not need traditional entertainment. “I’m not good at watching TV – I can’t sit still,” Bronze says, sitting sort-of still, on a bench shielded from the wind, overlooking Chelsea’s training pitch at Cobham. “Someone recently asked me what I listen to in the car and someone else jumped i",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/lucy-bronze-chelsea-women-england-fifa-refugees",
-      "published": "Sat, 29 Aug 2026 07:00:20 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1120,6 +1113,20 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "「今は、プレイヤーが話すのに良い時間です」:Lucy BronzeFifa で避難者を支援",
+      "summary": "チェルシーディフェンダーは、この夏にコロンビアの難民と人々を支援するための彼女の情熱とピッチを離れて過ごす時間に反映します Lucy Bronze 止まらない。脳は1 分100 マイルを走る。伝統芸能を必要としません。「私はテレビを見ているのは良いではありません - 私はまだ座ることができません」とブロンズは、風からシールドされたベンチに、まだ並べ替えチェルシーCobham でのトレーニング 「最近、車に耳を傾けて、他の人が飛び込んだことを私に尋ねました",
+      "title_original": "‘Now is a good time for players to speak up’: Lucy Bronze on Fifa and helping refugees",
+      "summary_original": "Chelsea defender reflects on spending time with refugees in Colombia this summer and her passion for helping people on and off the pitch Lucy Bronze does not stop. Her brain runs a hundred miles a minute. She does not need traditional entertainment. “I’m not good at watching TV – I can’t sit still,” Bronze says, sitting sort-of still, on a bench shielded from the wind, overlooking Chelsea’s training pitch at Cobham. “Someone recently asked me what I listen to in the car and someone else jumped i",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/lucy-bronze-chelsea-women-england-fifa-refugees",
+      "published": "Sat, 29 Aug 2026 07:00:20 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1390,10 +1397,10 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "シャンクランド ペナルティ 獲得レンジャーズ VAR denies Aberdeen イコライザーとして最初のリーグ勝利",
-      "summary": "Lawrence Shankland's ペナルティは決定的として証明しましたレンジャーズ Aberdeen で1-0 の勝利を保証しました。Scottish Premiership 家の側がピットドリーの VAR によって後半のイコライザーを否定した後、シーズンの勝利。",
-      "title_original": "Shankland penalty earns Rangers first league win as VAR denies Aberdeen equaliser",
-      "summary_original": "Lawrence Shankland's penalty proved decisive as Rangers secured a 1-0 win at Aberdeen, their first Scottish Premiership win of the season, after the home side were denied a late equaliser by VAR at Pittodrie.",
+      "title": "マクインンズレンジャーズ VAR denies Aberdeen イコライザーとして最初のリーグを獲得",
+      "summary": "Lawrence Shankland's ペナルティは決定的として証明しましたレンジャーズ Aberdeen で1-0 の勝利を保証しました。Scottish Premiership 家の側面がピットドリーの VAR によって遅刻のイコライザーを否定した後、シーズンの勝利は、圧力を緩和しました Derek McInnes.",
+      "title_original": "McInnes' Rangers earn first league win as VAR denies Aberdeen equaliser",
+      "summary_original": "Lawrence Shankland's penalty proved decisive as Rangers secured a 1-0 win at Aberdeen, their first Scottish Premiership win of the season, after the home side were denied a late equaliser by VAR at Pittodrie, easing the pressure on Derek McInnes.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/aberdeen-vs-rangers/report/558351",
       "published": "Sun, 30 Aug 2026 14:32:00 BST",
@@ -1460,9 +1467,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "雨は、シリーズの勝利のためにイングランドのプッシュとして主のプレイを止めます Pakistan LIVE!",
+      "title": "プレイは、シリーズの勝利のためにイングランドのプッシュとして雨の後に再開します Pakistan LIVE!",
       "summary": "",
-      "title_original": "Rain stops play at Lord's as England push for series win over Pakistan LIVE!",
+      "title_original": "Play resumes after rain as England push for series win over Pakistan LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13578951/england-vs-pakistan-second-test-day-four-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win",
@@ -1600,9 +1607,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "レンジャーズそして、McInnes は大きな勝利を確保 Aberdeen LIVE!",
+      "title": "すべての重要な瞬間と選手採点アフターレンジャーズビート・アバディーン",
       "summary": "",
-      "title_original": "Rangers and McInnes secure big win at Aberdeen LIVE!",
+      "title_original": "All the key moments and player ratings after Rangers beat Aberdeen",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/aberdeen-vs-rangers/live/558351",
@@ -1628,9 +1635,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "王は良いフラムチャンスを上回る Sunderland LIVE!",
+      "title": "サンダーランドとフルハムは、オープナーのライブで戦う!",
       "summary": "",
-      "title_original": "King fires good Fulham chance over at Sunderland LIVE!",
+      "title_original": "Sunderland and Fulham battling for opener LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/sunderland-vs-fulham/live/559462",
