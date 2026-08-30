@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T13:19:06.584883+00:00",
+  "updated_at": "2026-08-30T13:34:14.506091+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -523,7 +523,15 @@
     "PC Matthew Blades": "",
     "Old Trafford": "オールド・トラッフォード",
     "Arsenal's Jesus": "",
-    "Gabriel Jesus": "ガブリエウ・ジェズス"
+    "Gabriel Jesus": "ガブリエウ・ジェズス",
+    "Falkirk Hearts": "",
+    "Killie Lawrence Shankland’s": "",
+    "Derek McInnes": "",
+    "Pittodrie. The": "",
+    "The Ibrox": "",
+    "Lawrence Shankland's": "",
+    "Sunderland LIVE": "",
+    "Leeds LIVE": ""
   },
   "items": [
     {
@@ -533,7 +541,7 @@
       "summary_original": "Barcelona are closing in on a move for Arsenal striker Gabriel Jesus in a deal worth £8.6m.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 13:09:39 GMT",
+      "published": "Sun, 30 Aug 2026 13:32:43 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -953,7 +961,7 @@
       "summary_original": "Premier League updates from the 2pm (BST) kick-offs Live scoreboard | Mail John and follow us on BlueSky Mark Slater gets in touch: “I will be following the Chelsea vs Brighton match particulary, but am happy to see a Joy Division quote in the opening paragraphs. In Chelsea’s case, Brighton and Hove Albion, Manchester City, and Aston Villa most recently...” Tom: “A+++ for getting Joy Division into the Sunday MBM.” Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/chelsea-brighton-leeds-brentford-sunderland-fulham-premier-league-live",
-      "published": "Sun, 30 Aug 2026 13:04:03 GMT",
+      "published": "Sun, 30 Aug 2026 13:24:24 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -975,16 +983,16 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "古い男性のための国なし:プレミアリーグ粉砕は、マネージャーが若くなっている理由です",
-      "summary": "デュグアウトの上司は、通常、古いプレーヤーを老化させることはありません - ほとんどは、古い取得の問題の1 つに、排気トレッドミル上の40 年代にいます。あなたが、またはそれらであるかどうかは、あなたが決して確認されていないことです。世界は本当に変化していますか、それともあなただけです、適応するために苦労していますか? 人生にはマイルストーンがあります。おそらく、大学や最初の仕事に精通しているので、あなたはあなたよりも若いサッカー選手を見ていると考えているとき。それから、15-20 年後、あなたはあなたが見ていることを実感しています",
-      "title_original": "No country for old men: Premier League grind is why managers are getting younger",
-      "summary_original": "The boss in the dugout is typically no longer an ageing former player – most are in their 40s on an exhausting treadmill One of the problems with getting older is that you’re never quite sure whether it’s you or them. Is the world really changing, or is it just you, struggling to adapt? There’s a milestone in life, probably as you’re contemplating university or a first job, when you realise you’re watching a footballer who is younger than you. Then, 15-20 years later, you realise you’re watching",
+      "title": "Scottish Premiership: スポットのシャンクランドは、マクインンズの圧力を緩和し、レンジャーズ",
+      "summary": "セルティックファンの旗は勝利の間にクラブを嘲笑します Falkirk Hearts エッジアウト St Johnstone, ダンディー・ユナイテッド FC ログイン Killie Lawrence Shankland’s 第2 半のペナルティは与えました Derek McInnes そして、レンジャーズ Aberdeen で 1-0 勝つにもかかわらず、いくつかのはるかに必要な rPittodrie. The ガーズ・マネージャーが夏のハートから到着したので、物語は、欧州の2 つの競争から出入りし、プレミアシップ・キャンペーンに貧しいスタートを下回る定数変化の1 つです。The Ibrox 側面はよりよい pe で回しました",
+      "title_original": "Scottish Premiership: Shankland on the spot to ease pressure on McInnes and Rangers",
+      "summary_original": "Celtic fans’ banner mocks club during win over Falkirk Hearts edge out St Johnstone, Dundee United rout Killie Lawrence Shankland’s second-half penalty gave Derek McInnes and Rangers some much-needed respite with a 1-0 win over Aberdeen at Pittodrie. The tale since the Gers manager arrived from Hearts in the summer has been one of constant change in formation and personnel amid exits from two European competitions and a poor start to the Premiership campaign. The Ibrox side turned in a better pe",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/premier-league-managers-young-old-football-coaches",
-      "published": "Sat, 29 Aug 2026 19:00:34 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/aug/29/scottish-premiership-celtic-hearts-rangers-aberdeen",
+      "published": "Sun, 30 Aug 2026 13:13:52 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -1014,6 +1022,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "古い男性のための国なし:プレミアリーグ粉砕は、マネージャーが若くなっている理由です",
+      "summary": "デュグアウトの上司は、通常、古いプレーヤーを老化させることはありません - ほとんどは、古い取得の問題の1 つに、排気トレッドミル上の40 年代にいます。あなたが、またはそれらであるかどうかは、あなたが決して確認されていないことです。世界は本当に変化していますか、それともあなただけです、適応するために苦労していますか? 人生にはマイルストーンがあります。おそらく、大学や最初の仕事に精通しているので、あなたはあなたよりも若いサッカー選手を見ていると考えているとき。それから、15-20 年後、あなたはあなたが見ていることを実感しています",
+      "title_original": "No country for old men: Premier League grind is why managers are getting younger",
+      "summary_original": "The boss in the dugout is typically no longer an ageing former player – most are in their 40s on an exhausting treadmill One of the problems with getting older is that you’re never quite sure whether it’s you or them. Is the world really changing, or is it just you, struggling to adapt? There’s a milestone in life, probably as you’re contemplating university or a first job, when you realise you’re watching a footballer who is younger than you. Then, 15-20 years later, you realise you’re watching",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/premier-league-managers-young-old-football-coaches",
+      "published": "Sat, 29 Aug 2026 19:00:34 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1055,20 +1077,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ヨーロッパのフットボール:エルバーベルク・スタン・レバークセンの夢ブンデスリーガデビュー",
-      "summary": "13,000 ショック2024 チャンピオンの町からのチームユヴェントス2-0 パルマ;セビージャ 1-3 アトレティコ・マドリードザ・オブ・ザ・ブンデスリーガエルバーベルクはスタイルで最初のトップフライトキャンペーンを開始しました, 見事なレヴァークーゼン印象的な3-2 ホーム勝利で Saturday. Lukas Petkov そして、Cole Campbell 各々の60 秒以内にスコアを上げて、エルバーベルク2-0 を10 分前にマークします。David Mokwa9,307 人の長所のファンの前で、もう1 つの初期に追加。続きを読む...",
-      "title_original": "European football: Elversberg stun Leverkusen in dream Bundesliga debut",
-      "summary_original": "Team from town of 13,000 shock 2024 champions Juventus 2-0 Parma; Sevilla 1-3 Atlético Madrid The Bundesliga newcomers Elversberg began their first top-flight campaign in style, stunning Bayer Leverkusen with an impressive 3-2 home victory on Saturday. Lukas Petkov and Cole Campbell scored within 60 seconds of each other to put Elversberg 2-0 up before the 10-minute mark. David Mokwa added another early in the second half in front of 9,307 delirious fans. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/european-football-elversberg-dortmund-juventus-sevilla-atletico",
-      "published": "Sat, 29 Aug 2026 21:46:43 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1241,6 +1249,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ヨーロッパのフットボール:エルバーベルク・スタン・レバークセンの夢ブンデスリーガデビュー",
+      "summary": "13,000 ショック2024 チャンピオンの町からのチームユヴェントス2-0 パルマ;セビージャ 1-3 アトレティコ・マドリードザ・オブ・ザ・ブンデスリーガエルバーベルクはスタイルで最初のトップフライトキャンペーンを開始しました, 見事なレヴァークーゼン印象的な3-2 ホーム勝利で Saturday. Lukas Petkov そして、Cole Campbell 各々の60 秒以内にスコアを上げて、エルバーベルク2-0 を10 分前にマークします。David Mokwa9,307 人の長所のファンの前で、もう1 つの初期に追加。続きを読む...",
+      "title_original": "European football: Elversberg stun Leverkusen in dream Bundesliga debut",
+      "summary_original": "Team from town of 13,000 shock 2024 champions Juventus 2-0 Parma; Sevilla 1-3 Atlético Madrid The Bundesliga newcomers Elversberg began their first top-flight campaign in style, stunning Bayer Leverkusen with an impressive 3-2 home victory on Saturday. Lukas Petkov and Cole Campbell scored within 60 seconds of each other to put Elversberg 2-0 up before the 10-minute mark. David Mokwa added another early in the second half in front of 9,307 delirious fans. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/european-football-elversberg-dortmund-juventus-sevilla-atletico",
+      "published": "Sat, 29 Aug 2026 21:46:43 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Amin Nabizada ドローが圧力をかけるワットフォードのための輝きウェストハムヌーノ",
       "summary": "クラブが英語のサッカーの上位のエッキロンの確立された部分であるとき、68,000 人スタジアム内のホームゲームを再生し、トップフライトから解放された後すぐにチャンピオンシップ・トランスファー・レコードを破る、自然に従う期待があります。すべてのアカウントで、ウェストハム第2 層の存在で短い空想であることを意味するものだけを貫くことが想定されている。勝てない3 人のリーグがシーズンにマッチしたのは無事です。旅行大陸の",
       "title_original": "Amin Nabizada sparkles for Watford as draw puts pressure on West Ham’s Nuno",
@@ -1266,20 +1288,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Scottish Premiership: オンソンデュランリフトセルティック Falkirk で勝つ魂",
-      "summary": "セルティックファンのバナーは、クラブの「世界クラスの」クレームハートのエッジを嘲笑 St Johnstone, ダンディー・ユナイテッド FC ログイン Killie Camilo Durán, センターフォワードの彼の好まれた位置で, のための両方の目標をスコアセルティック Falkirk で 2-1 勝つ .The Colombian 開口部29 分で2 つのストライカーの目標を達成し、いくつかのチームメイトを設定してチャンスをあげます。壊れ目の後に改善された Falkirk とその野心が報われました Colby Donovan’s オウンゴール72 分 このストーリーは更新されます 続きを読む...",
-      "title_original": "Scottish Premiership: on-song Durán lifts Celtic spirits in win over Falkirk",
-      "summary_original": "Celtic fans’ banner mocks club’s ‘world class’ claims Hearts edge St Johnstone, Dundee United rout Killie Camilo Durán, in his preferred position of centre-forward, scored both goals for Celtic in their 2-1 win over Falkirk . The Colombian hit two striker’s goals in the opening 29 minutes and also set up several teammates for chances. Falkirk improved after the break and their ambition was rewarded by Colby Donovan’s own goal in the 72nd minute. This story will be updated Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/scottish-premiership-celtic-hearts-rangers-aberdeen",
-      "published": "Sat, 29 Aug 2026 16:42:20 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1364,6 +1372,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "シャンクランド ペナルティ 獲得レンジャーズ VAR denies Aberdeen イコライザーとして最初のリーグ勝利",
+      "summary": "Lawrence Shankland's ペナルティは決定的として証明しましたレンジャーズ Aberdeen で1-0 の勝利を保証しました。Scottish Premiership 家の側がピットドリーの VAR によって後半のイコライザーを否定した後、シーズンの勝利。",
+      "title_original": "Shankland penalty earns Rangers first league win as VAR denies Aberdeen equaliser",
+      "summary_original": "Lawrence Shankland's penalty proved decisive as Rangers secured a 1-0 win at Aberdeen, their first Scottish Premiership win of the season, after the home side were denied a late equaliser by VAR at Pittodrie.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/aberdeen-vs-rangers/report/558351",
+      "published": "Sun, 30 Aug 2026 14:32:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1577,9 +1599,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "サンダーランド対 Fulham LIVE!",
+      "title": "王は良いフラムチャンスを上回る Sunderland LIVE!",
       "summary": "",
-      "title_original": "Sunderland vs Fulham LIVE!",
+      "title_original": "King fires good Fulham chance over at Sunderland LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/sunderland-vs-fulham/live/559462",
@@ -1591,9 +1613,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "リーズ対 Brentford LIVE!",
+      "title": "ブレントフォードは強いスタートをします Leeds LIVE!",
       "summary": "",
-      "title_original": "Leeds vs Brentford LIVE!",
+      "title_original": "Brentford make strong start at Leeds LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/leeds-united-vs-brentford/live/559459",
@@ -1626,20 +1648,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13578912/moses-itauma-vs-filip-hrgovic-fight-highlights",
       "published": "Sun, 30 Aug 2026 10:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "キャメロン stuns mayer と unanimous 決定 勝ち",
-      "summary": "WBC、WBA、WBO のスーパーウェルター級の戦いのハイライトミカエラ・メイヤーそして、Chantelle Cameron.",
-      "title_original": "Cameron stuns Mayer with unanimous decision victory",
-      "summary_original": "Highlights of the WBC, WBA and WBO super-welterweight fight between Mikaela Mayer and Chantelle Cameron.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13578904/mikaela-mayer-vs-chantelle-cameron-fight-highlights",
-      "published": "Sat, 29 Aug 2026 22:53:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
