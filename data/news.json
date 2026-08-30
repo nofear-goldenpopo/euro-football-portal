@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T22:48:59.923997+00:00",
+  "updated_at": "2026-08-30T23:04:30.487324+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -681,7 +681,10 @@
     "PGA Tour": "",
     "Every PGA Tour": "",
     "Signature Events": "",
-    "Ellen White": "エレン・ホワイト"
+    "Ellen White": "エレン・ホワイト",
+    "Shay Given": "シェイ・ギヴン",
+    "Can Chelsea": "",
+    "Xabi Alonso's": ""
   },
   "items": [
     {
@@ -783,17 +786,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "「それは目標のように感じません」 - O'Neil の質問 'blatant' の後の法律 マギレハンドボール",
-      "summary": "イプスウィッチ・タウン FC マネージャーガリー・オニールループホールを許した後のハンドボールルールに質問するハリー・マグワイアの の扱いの犯罪はとして立ちます Jacob Greaves オウンゴール.",
-      "title_original": "'It doesn't feel like a goal' - O'Neil questions law after 'blatant' Maguire handball",
-      "summary_original": "Ipswich Town manager Gary O'Neil questions the handball rule after a loophole allowed Harry Maguire's handling offence to stand as a Jacob Greaves own goal.",
+      "title": "フェルナンデスハットトリック5 つの目標マンチェスター・ユナイテッド Ipswich に対するコバック",
+      "summary": "ブルーノ・フェルナンデススコアハットトリックとしてマンチェスター・ユナイテッドビートに初期の傷を克服イプスウィッチ・タウン FC5-2 でオールド・トラッフォード.",
+      "title_original": "Fernandes hat-trick inspires five-goal Man Utd comeback against Ipswich",
+      "summary_original": "Bruno Fernandes scores a hat-trick as Manchester United overcome an early scare to beat Ipswich Town 5-2 at Old Trafford.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyzxz0yvz0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 20:01:40 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/videos/cy0z9e5g209o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 19:08:36 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -804,20 +807,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c89jxnelpywo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 20:59:21 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "フェルナンデスハットトリック5 つの目標マンチェスター・ユナイテッド Ipswich に対するコバック",
-      "summary": "ブルーノ・フェルナンデススコアハットトリックとしてマンチェスター・ユナイテッドビートに初期の傷を克服イプスウィッチ・タウン FC5-2 でオールド・トラッフォード.",
-      "title_original": "Fernandes hat-trick inspires five-goal Man Utd comeback against Ipswich",
-      "summary_original": "Bruno Fernandes scores a hat-trick as Manchester United overcome an early scare to beat Ipswich Town 5-2 at Old Trafford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy0z9e5g209o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 19:08:36 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -863,6 +852,34 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "MOTD pundits debate controversial オウンゴール獲得を獲得を問い合わせマンチェスター・ユナイテッド優勝",
+      "summary": "デイパンディットのマッチエレン・ホワイトそして、シェイ・ギヴン参照論論論論論論論論の議論オールド・トラッフォードループホールにより、ハリー・マグワイアハンドボールとして立つ Jacob Greaves オウンゴール.",
+      "title_original": "MOTD pundits debate controversial own goal in Man Utd victory",
+      "summary_original": "Match of the Day pundits Ellen White and Shay Given discuss the refereeing controversy at Old Trafford whereby a loophole allowed a Harry Maguire handball to stand as a Jacob Greaves own goal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cp93xrk5k5xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 22:47:53 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "「それは目標のように感じません」 - O'Neil の質問 'blatant' の後の法律 マギレハンドボール",
+      "summary": "イプスウィッチ・タウン FC マネージャーガリー・オニールループホールを許した後のハンドボールルールに質問するハリー・マグワイアの の扱いの犯罪はとして立ちます Jacob Greaves オウンゴール.",
+      "title_original": "'It doesn't feel like a goal' - O'Neil questions law after 'blatant' Maguire handball",
+      "summary_original": "Ipswich Town manager Gary O'Neil questions the handball rule after a loophole allowed Harry Maguire's handling offence to stand as a Jacob Greaves own goal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwyzxz0yvz0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 20:01:40 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -965,6 +982,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "できますチェルシーバックで3 人でリーグを勝ち取る? - 神の評決",
+      "summary": "デイパンディットのマッチシェイ・ギヴンアワードチェルシーの Flying wing-backs, バックイングシャビ・アロンソの の側面は勝ちますプレミアリーグタイトルには3 つのシステムを使用します。",
+      "title_original": "Can Chelsea win the league with three at the back? - Given's verdict",
+      "summary_original": "Match of the Day pundit Shay Given praises Chelsea's flying wing-backs, backing Xabi Alonso's side to win the Premier League title using a three-at-the-back system.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwyz17d1vy9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 22:59:49 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Alonso 賞賛 Joao Pedro's7 ゴール後の「欲望」ブライトンスリラー",
       "summary": "チェルシー新たなスタートを維持プレミアリーグ敗北するために開催されているシーズンブライトン楽しい試合で Stamford Bridge.",
       "title_original": "Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller",
@@ -1035,20 +1066,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "「新しい章を書く」 -Le Bris サンダーランド勝利",
-      "summary": "サンダーランド・マネージャーRegis Le Bris 代用後、側面のパフォーマンス、エネルギーおよび「togetherness」に満足しています Wilson IsidorFulham で 1-0 の勝利を保証するためにタック.",
-      "title_original": "'A new chapter to write' - Le Bris on Sunderland victory",
-      "summary_original": "Sunderland manager Regis Le Bris is pleased with his side's performance, energy and \"togetherness\" after substitute Wilson Isidor struck to secure a 1-0 victory over Fulham.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvgyxy18d03o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 16:15:08 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "バルコラ- setbacks を克服した 'grasshopper'",
       "summary": "獲得を獲得を問い合わせリヴァプール£123m の獲得で合意しますブラッドリー・バルコラ, BBC スポーツは、彼は彼の家族の助けを借りてトップに到達するために、退任したトリムスとセットバックを持っている方法を見て.",
       "title_original": "Barcola - the 'grasshopper' who has overcome setbacks",
@@ -1068,7 +1085,7 @@
       "title_original": "Football Daily",
       "summary_original": "Aaron Paul talks Premier League with Charlie Austin & Luke Edwards. Hear from De Zerbi.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/m003123c?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 20:10:00 GMT",
       "category": "epl",
       "type": "epl",
@@ -1609,9 +1626,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Scheffler が Hovland を FedExCup タイトルに打ち勝つザ・ツアーチャンピオンシップライブ!",
+      "title": "虎は「歴史」FedExCup の成功の後の「信じられない」の Scheffler を賞賛します",
       "summary": "",
-      "title_original": "Scheffler beats Hovland to FedExCup title at Tour Championship LIVE!",
+      "title_original": "Tiger praises 'incredible' Scheffler after 'historic' FedExCup success",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13578968/tour-championship-final-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
@@ -1630,6 +1647,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "published": "Sun, 30 Aug 2026 20:45:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Scheffler は、FedExCup のタイトルを獲得するために最終日の戦いを生成します!",
+      "summary": "4 日目のハイライトザ・ツアーチャンピオンシップ開催場所 East Lake Golf Club アトランタ、ジョージア州",
+      "title_original": "Scheffler produces final-day fightback to win FedExCup title!",
+      "summary_original": "Highlights from day four of the Tour Championship held at East Lake Golf Club in Atlanta, Georgia.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13579306/tour-championship-day-four-highlights",
+      "published": "Sun, 30 Aug 2026 23:40:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1770,20 +1801,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13579146/kobbie-mainoo-stars-alongside-bruno-fernandes-in-man-utds-win-over-ipswich-premier-league-hits-and-misses",
       "published": "Sun, 30 Aug 2026 17:31:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Nordqvist は、先のキャリアを再生するために感情的な運賃を入札 Solheim Cup キャパシー",
-      "summary": "Anna Nordqvist18 年連続で活躍するキャリアに、感情的な終焉を迎えました。FM Championship 日曜日、彼女はリードする前に12 日 Team Europe 獲得を獲得を問い合わせ Solheim Cup キャプテンとして、スカイスポーツに住んでいます。",
-      "title_original": "Nordqvist bids emotional farewell to playing career ahead of Solheim Cup captaincy",
-      "summary_original": "Anna Nordqvist brought an emotional end to her 18-year playing career at the FM Championship on Sunday, 12 days before she leads Team Europe into the Solheim Cup as captain, live on Sky Sports .",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13579242/anna-nordqvist-team-europes-solheim-cup-captain-bids-emotional-farewell-to-playing-career-at-lpga-tours-fm-championship",
-      "published": "Sun, 30 Aug 2026 20:07:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
