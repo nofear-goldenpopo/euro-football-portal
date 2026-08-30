@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T13:04:08.151061+00:00",
+  "updated_at": "2026-08-30T13:19:06.584883+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -521,9 +521,25 @@
     "Stephen Mfuni": "",
     "Fulham LIVE": "",
     "PC Matthew Blades": "",
-    "Old Trafford": "オールド・トラッフォード"
+    "Old Trafford": "オールド・トラッフォード",
+    "Arsenal's Jesus": "",
+    "Gabriel Jesus": "ガブリエウ・ジェズス"
   },
   "items": [
+    {
+      "title": "バルセロナ移籍に近いアーセナルイエス",
+      "summary": "バルセロナ移動中に閉じるアーセナルストライカーガブリエウ・ジェズス£8.6m 相当の移籍",
+      "title_original": "Barcelona close to deal for Arsenal's Jesus",
+      "summary_original": "Barcelona are closing in on a move for Arsenal striker Gabriel Jesus in a deal worth £8.6m.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 13:09:39 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
     {
       "title": "マルティネスは8 時間チェルシー-4 年間で Villa の移籍",
       "summary": "After Emiliano Martinez's 動きます, BBC スポーツはなぜ見てアストン・ヴィラそして、チェルシー1 つになったプレミアリーグ’2022 年以降、バギース・トランスファー・パートナーシップ",
@@ -567,9 +583,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マンチェスター・ユナイテッド'proud Red'クラッシュ死役員に敬意を払う",
+      "title": "マンチェスター・ユナイテッド A66 クラッシュで死亡した 'proud Red' 役員に敬意を表します",
       "summary": "ウィドウと2 人の子供 PC Matthew Blades 獲得を獲得を問い合わせオールド・トラッフォード獲得を獲得を問い合わせマンチェスター・ユナイテッド獲得を獲得を問い合わせプレミアリーグイプスウィッチでゲーム。",
-      "title_original": "Man Utd pay tribute to 'proud Red' crash death officer",
+      "title_original": "Man Utd pay tribute to 'proud Red' officer who died in A66 crash",
       "summary_original": "The widow and two children of PC Matthew Blades will be at Old Trafford for Manchester United's Premier League game with Ipswich.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
@@ -676,20 +692,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "「サポーターはいつも間違っていません」 - マウスエヴァートンファンの怒り",
-      "summary": "David Moyes「サポーターはいつも間違っていない」と言った。エヴァートンファンは十代のミッドフィルダーの潜在的な販売に彼らの反対をボイス Harrison ArmstrongBournemouth で 1-1 を描画します。",
-      "title_original": "'Supporters aren't always wrong' - Moyes on Everton fans' anger",
-      "summary_original": "David Moyes says \"supporters aren't always wrong\" after Everton fans voice their opposition to the potential sale of teenage midfielder Harrison Armstrong during the 1-1 draw at Bournemouth.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy7zk5vprplo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 18:59:28 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -903,6 +905,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "「サポーターはいつも間違っていません」 - マウスエヴァートンファンの怒り",
+      "summary": "David Moyes「サポーターはいつも間違っていない」と言った。エヴァートンファンは十代のミッドフィルダーの潜在的な販売に彼らの反対をボイス Harrison ArmstrongBournemouth で 1-1 を描画します。",
+      "title_original": "'Supporters aren't always wrong' - Moyes on Everton fans' anger",
+      "summary_original": "David Moyes says \"supporters aren't always wrong\" after Everton fans voice their opposition to the potential sale of teenage midfielder Harrison Armstrong during the 1-1 draw at Bournemouth.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy7zk5vprplo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 18:59:28 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "「最悪のチームには悪くない」プレミアリーグ歴史 - Hull の完璧なスタート",
       "summary": "ハルストライカーオリヴァー・マクバーニーCoventry を打ち勝つために彼のチームの評論家で遊び心のある掘り下げを持っています 2 プレミアリーグゲーム。",
       "title_original": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
@@ -931,27 +947,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "West Brom、マンチェスター・ユナイテッドから Collyer を獲得",
-      "summary": "ウェスト・ブロムウィッチ・アルビオン FC サインイン ミッドフィルダーToby Collyer からマンチェスター・ユナイテッド未公開料金の場合。",
-      "title_original": "West Brom sign Collyer from Manchester United",
-      "summary_original": "West Bromwich Albion sign midfielder Toby Collyer from Manchester United for an undisclosed fee.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62ew152y7vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 11:45:59 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "チェルシー. .ブライトン, リーズ v ブレントフォード, サンダーランド v フルハム:プレミアリーグ– ライブ",
       "summary": "プレミアリーグ2pm(BST)キックオフライブスコアボードからのアップデート |Mail John 獲得を獲得を問い合わせ BlueSky Mark Slater 連絡を取る: 「私は次のようになりますチェルシー対比ブライトン特にマッチするが、見栄えが嬉しいジョイ・ディヴィジョン開いている段落の引用。インスタグラムチェルシーの の場合,ブライトンそして、Hove Albion, マンチェスター・シティとアストン・ヴィラ最近の投稿 トム:「A+++」ジョイ・ディヴィジョン獲得を獲得を問い合わせ Sunday MBM。続きを読む...",
       "title_original": "Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live",
       "summary_original": "Premier League updates from the 2pm (BST) kick-offs Live scoreboard | Mail John and follow us on BlueSky Mark Slater gets in touch: “I will be following the Chelsea vs Brighton match particulary, but am happy to see a Joy Division quote in the opening paragraphs. In Chelsea’s case, Brighton and Hove Albion, Manchester City, and Aston Villa most recently...” Tom: “A+++ for getting Joy Division into the Sunday MBM.” Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/chelsea-brighton-leeds-brentford-sunderland-fulham-premier-league-live",
-      "published": "Sun, 30 Aug 2026 13:00:03 GMT",
+      "published": "Sun, 30 Aug 2026 13:04:03 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1365,6 +1367,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Barcelona agree deal to、アーセナルから Jesus を獲得",
+      "summary": "バルセロナ原則的に合意したアーセナル署名するガブリエウ・ジェズス£8.6m(€10m)用。",
+      "title_original": "Barcelona agree deal to sign Jesus from Arsenal",
+      "summary_original": "Barcelona have agreed a deal in principle with Arsenal to sign Gabriel Jesus for £8.6m (€10m).",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579021/gabriel-jesus-barcelona-agree-8-6m-deal-in-principle-to-sign-arsenal-and-brazil-forward",
+      "published": "Sun, 30 Aug 2026 14:01:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "イタウマは、ハルゴヴィックのリマッチを受け取りません",
       "summary": "Moses Itauma 直近のリマッチを受け取りたくない Filip Hrgovic 彼の世界ヘビー級タイトルが敗北した後。",
       "title_original": "Itauma unlikely to receive Hrgovic rematch",
@@ -1407,9 +1423,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "主のイングランドの押しで初登場のパキスタンが LIVE を勝ち取る!",
+      "title": "主のイングランドのプッシュでパキスタンが歌うシリーズが LIVE を獲得!",
       "summary": "",
-      "title_original": "Pakistan three down early at Lord's as England push for series win LIVE!",
+      "title_original": "Pakistan dig in at Lord's as England push for series win LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13578951/england-vs-pakistan-second-test-day-four-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win",
@@ -1491,6 +1507,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "スタート!チェルシースコア秒間からブライトンライブ!",
+      "summary": "",
+      "title_original": "What a start! Chelsea score second against Brighton LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/live/559456",
+      "published": "Tue, 28 Jul 2026 09:32:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ノリス:私は McLaren で欲しいものを手に入れることを強くすることができます",
       "summary": "ワールドチャンピオン獲得 Lando Norris 彼は McLaren の立場にあると言います。彼は署名した後に「私が望むものを手に入れるのに力を尽くすことができます」と言っています契約延長チームと共に。",
       "title_original": "Norris: I can be forceful to get what I want at McLaren",
@@ -1502,20 +1532,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "チェルシー対比ブライトンライブ!",
-      "summary": "",
-      "title_original": "Chelsea vs Brighton LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/live/559456",
-      "published": "Tue, 28 Jul 2026 09:32:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1624,20 +1640,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13578904/mikaela-mayer-vs-chantelle-cameron-fight-highlights",
       "published": "Sat, 29 Aug 2026 22:53:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Bradford は stern Toulouse に対して カムバック 試みで不足している",
-      "summary": "ハイライト Super League 間の衝突 Toulouse Olympique そして、Bradford Bulls.",
-      "title_original": "Bradford fall short in comeback attempt against stern Toulouse",
-      "summary_original": "Highlights of the Super League clash between Toulouse Olympique and Bradford Bulls.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13578910/toulouse-olympique-28-18-bradford-bulls-super-league-highlights",
-      "published": "Sun, 30 Aug 2026 00:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
