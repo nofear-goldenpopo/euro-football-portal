@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T13:49:15.745371+00:00",
+  "updated_at": "2026-08-30T14:04:03.169720+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -531,7 +531,8 @@
     "The Ibrox": "",
     "Lawrence Shankland's": "",
     "Sunderland LIVE": "",
-    "Leeds LIVE": ""
+    "Leeds LIVE": "",
+    "US Open Day One": ""
   },
   "items": [
     {
@@ -541,7 +542,7 @@
       "summary_original": "Barcelona are closing in on a move for Arsenal striker Gabriel Jesus in a deal worth £8.6m.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 13:32:43 GMT",
+      "published": "Sun, 30 Aug 2026 13:52:01 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -961,7 +962,7 @@
       "summary_original": "Premier League updates from the 2pm (BST) kick-offs Live scoreboard | Mail John and follow us on BlueSky Mark Slater gets in touch: “I will be following the Chelsea vs Brighton match particulary, but am happy to see a Joy Division quote in the opening paragraphs. In Chelsea’s case, Brighton and Hove Albion, Manchester City, and Aston Villa most recently...” Tom: “A+++ for getting Joy Division into the Sunday MBM.” Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/chelsea-brighton-leeds-brentford-sunderland-fulham-premier-league-live",
-      "published": "Sun, 30 Aug 2026 13:40:00 GMT",
+      "published": "Sun, 30 Aug 2026 13:44:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1375,6 +1376,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "US Open Day One ライブ! Norrie, Boulter, Fearnley と Samuel がイギリスのチャージをリード",
+      "summary": "",
+      "title_original": "US Open Day One LIVE! Norrie, Boulter, Fearnley and Samuel lead the British charge",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13578915/us-open-live-scores-updates-news-commentary-and-results-from-flushing-meadows-new-york",
+      "published": "Sun, 30 Aug 2026 14:55:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "シャンクランド ペナルティ 獲得レンジャーズ VAR denies Aberdeen イコライザーとして最初のリーグ勝利",
       "summary": "Lawrence Shankland's ペナルティは決定的として証明しましたレンジャーズ Aberdeen で1-0 の勝利を保証しました。Scottish Premiership 家の側がピットドリーの VAR によって後半のイコライザーを否定した後、シーズンの勝利。",
       "title_original": "Shankland penalty earns Rangers first league win as VAR denies Aberdeen equaliser",
@@ -1515,6 +1530,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "マンチェスター・ユナイテッド Ipswich チームニュース LIVE!",
+      "summary": "",
+      "title_original": "Man Utd vs Ipswich team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-united-vs-ipswich-town/live/559461",
+      "published": "Tue, 28 Jul 2026 09:26:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "今日更新 Sky Sports Racing: Deauville でショーで英国レイダー",
       "summary": "英国がたくさんありますインテル日曜日、この日曜日にデウビルで最高品質のカードで est、すべてのライブオン Sky Sports Racing.",
       "title_original": "Today on Sky Sports Racing: British raiders on show at Deauville",
@@ -1620,34 +1649,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/leeds-united-vs-brentford/live/559459",
       "published": "Tue, 28 Jul 2026 09:45:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ヨークを食べた後、ウェイクフィールドの安全なプレイオフスポット!",
-      "summary": "ハイライト Super League 間のマッチ Wakefield Trinity そして、York Knights.",
-      "title_original": "Wakefield secure play-off spot after beating York!",
-      "summary_original": "Highlights of the Super League match between Wakefield Trinity and York Knights.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13578909/wakefield-trinity-28-12-york-knights-super-league-highlights",
-      "published": "Sun, 30 Aug 2026 00:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ハイライト:Hrgovic は IBF のヘビー級タイトルを獲得するために信じられないほどのカムバックでイタマを停止します",
-      "summary": "IBF ヘビー級世界タイトルの戦いのハイライト Moses Itauma そして、Filip Hrgovic. Video クレジット:DAZN の礼儀",
-      "title_original": "Highlights: Hrgovic stops Itauma in incredible comeback to win IBF heavyweight title",
-      "summary_original": "Highlights of the IBF heavyweight world title fight between Moses Itauma and Filip Hrgovic. Video credit: Courtesy of DAZN",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13578912/moses-itauma-vs-filip-hrgovic-fight-highlights",
-      "published": "Sun, 30 Aug 2026 10:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
