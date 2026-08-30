@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T19:49:09.620231+00:00",
+  "updated_at": "2026-08-30T20:04:07.395435+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -644,7 +644,10 @@
     "Substitute Isidor": "",
     "Substitute Wilson Isidor": "",
     "Bernabéu Como": "",
-    "Werder Bremen Real Madrid": ""
+    "Werder Bremen Real Madrid": "",
+    "Gary O'Neil": "ガリー・オニール",
+    "Harry Maguire's": "",
+    "Jacob Greaves": ""
   },
   "items": [
     {
@@ -746,6 +749,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "「それは目標のように感じません」 - O'Neil の質問 'blatant' の後の法律 マギレハンドボール",
+      "summary": "イプスウィッチ・タウン FC マネージャーガリー・オニールループホールを許した後のハンドボールルールに質問するハリー・マグワイアの の扱いの犯罪はとして立ちます Jacob Greaves オウンゴール.",
+      "title_original": "'It doesn't feel like a goal' - O'Neil questions law after 'blatant' Maguire handball",
+      "summary_original": "Ipswich Town manager Gary O'Neil questions the handball rule after a loophole allowed Harry Maguire's handling offence to stand as a Jacob Greaves own goal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwyzxz0yvz0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 20:01:40 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "フェルナンデスハットトリック5 つの目標マンチェスター・ユナイテッド Ipswich に対するコバック",
       "summary": "ブルーノ・フェルナンデススコアハットトリックとしてマンチェスター・ユナイテッドビートに初期の傷を克服イプスウィッチ・タウン FC5-2 でオールド・トラッフォード.",
       "title_original": "Fernandes hat-trick inspires five-goal Man Utd comeback against Ipswich",
@@ -799,34 +816,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Alonso 賞賛 Joao Pedro's7 ゴール後の 'desire'ブライトンスリラー",
-      "summary": "チェルシー新たなスタートを維持プレミアリーグ敗北する季節ブライトン楽しい試合で Stamford Bridge.",
-      "title_original": "Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller",
-      "summary_original": "Chelsea maintained their perfect start to the new Premier League season as they held on to defeat Brighton in an entertaining match at Stamford Bridge.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpq09095xjzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 16:37:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "チェルシー「私たちを罰する品質を持っていた」 - ハルツェラー",
-      "summary": "ブライトンマネージャーFabian Hurzeler プロモーションチェルシー「私たちを罰する品質」を持っていたが、スリリングな4-3 敗北中に「それのために行く」という彼の側面の態度を賞賛 Stamford Bridge.",
-      "title_original": "Chelsea had the 'quality to punish us' - Hurzeler",
-      "summary_original": "Brighton manager Fabian Hurzeler admits Chelsea had the \"quality to punish us\" but praised his side's attitude to \"go for it\" during a thrilling 4-3 defeat at Stamford Bridge.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0lrgrzjnpxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 16:29:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1488,6 +1477,48 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "アーセナル最新: Alvarez は、期限が切れる Atletico のトレーニングに戻ります",
+      "summary": "",
+      "title_original": "Arsenal latest: Alvarez returns to Atletico training as deadline expires",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Sun, 30 Aug 2026 20:50:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "クリスタル・パレス最新: サールは、販売するために拒否するが、イーグルを望んでいます",
+      "summary": "",
+      "title_original": "Palace latest: Sarr wants out but Eagles refusing to sell",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "published": "Sun, 30 Aug 2026 20:45:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ザ・ツアーチャンピオンシップライブ! Scheffler が McIlroy の希望としてホブランドを戦う",
+      "summary": "",
+      "title_original": "Tour Championship LIVE! Scheffler battles Hovland as McIlroy's hopes fade",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13578968/tour-championship-final-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
+      "published": "Sun, 30 Aug 2026 20:46:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Ipswich 最新: O'Neil 氏は setback によく対応しなければなりません。",
       "summary": "",
       "title_original": "Ipswich latest: We must respond better to setbacks, says O'Neil",
@@ -1495,6 +1526,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "published": "Fri, 28 Aug 2026 15:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "イギリス選手採点: シーマーズは、コックスがバットに感動するように再びシズル",
+      "summary": "私たちは、194-run の後にイングランドの選手を率います, 主のパキスタン上のシリーズシーリング勝利, 再び海兵と...",
+      "title_original": "England player ratings: Seamers sizzle again as Cox impresses with the bat",
+      "summary_original": "We rate England's players after the 194-run, series-sealing victory over Pakistan at Lord's, with the seamers once again standing out...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13579054/england-player-ratings-for-second-test-at-lords-ollie-robinson-and-jofra-archer-star-as-jordan-cox-looks-assured-with-bat",
+      "published": "Sun, 30 Aug 2026 20:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1586,9 +1631,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "US Open1 日目 LIVE!Britain's Norrie アクションで Boulter, Fearnley へ 来る",
+      "title": "US Open1 日目 LIVE!Britain's Norrie で '犬の戦い' ボターと来る",
       "summary": "",
-      "title_original": "US Open day one LIVE! Britain's Norrie in action with Boulter, Fearnley to come",
+      "title_original": "US Open day one LIVE! Britain's Norrie in 'dog fight' with Boulter to come",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13578915/us-open-live-scores-updates-news-commentary-and-results-from-flushing-meadows-new-york",
@@ -1625,20 +1670,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ザ・ツアーチャンピオンシップライブ! Scheffler バック レベル とともに Hovland として McIlroy chases",
-      "summary": "",
-      "title_original": "Tour Championship LIVE! Scheffler back level with Hovland as McIlroy chases",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13578968/tour-championship-final-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
-      "published": "Sun, 30 Aug 2026 20:05:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1719,48 +1750,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13579166/england-v-pakistan-harry-brook-takes-final-catch-to-seal-test-series-at-lords",
       "published": "Sun, 30 Aug 2026 17:56:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "エースから「感動!」 | シェフラー インチ!",
-      "summary": "Scottie Scheffler 最後のラウンドの2 番目の穴にほとんど穴の1 を作ったザ・ツアーチャンピオンシップ.",
-      "title_original": "'That was sensational!' | Scheffler inches from ACE!",
-      "summary_original": "Scottie Scheffler almost made a hole-in-one on the second hole of his final round at the Tour Championship.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13579199/that-was-sensational-scottie-scheffler-inches-from-ace",
-      "published": "Sun, 30 Aug 2026 18:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Sunderland 最新:ブラックキャットダンソのために戻って",
-      "summary": "",
-      "title_original": "Sunderland latest: Black Cats back in for Danso",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Sun, 30 Aug 2026 19:40:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "EFL 最新:Championship Team 今週の週末が明らかに!",
-      "summary": "",
-      "title_original": "EFL latest: Championship Team of the Weekend revealed!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "published": "Sun, 30 Aug 2026 16:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
