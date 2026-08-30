@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T11:49:08.585838+00:00",
+  "updated_at": "2026-08-30T12:04:37.964764+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -497,7 +497,18 @@
     "Vítor Pereira": "",
     "Graham Potter": "グレアム・ポッター",
     "Thomas Frank": "",
-    "Sky Blues": ""
+    "Sky Blues": "",
+    "West Bromwich Albion": "ウェスト・ブロムウィッチ・アルビオンFC",
+    "Toby Collyer": "",
+    "BlueSky The": "",
+    "Chelsea. Full": "",
+    "Brighton. Continue": "",
+    "Blues’ No": "",
+    "Emiliano Martínez. The": "",
+    "Stamford Bridge. Martínez": "",
+    "Yashin Trophy": "",
+    "Brighton LIVE": "",
+    "Brentford LIVE": ""
   },
   "items": [
     {
@@ -627,20 +638,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "イラオラが最初の勝利を待っていますリヴァプール森林に対する救助の遅れの引くこと",
-      "summary": "リヴァプール2 度から2 度目に戻り、2-2 を攻撃するノッティンガム・フォレストアンフィールド、新しいマネージャーを残して Andoni Iraola 初めての検索プレミアリーグクラブで勝つ。",
-      "title_original": "Iraola awaits first win as Liverpool rescue late draw against Forest",
-      "summary_original": "Liverpool come from behind twice to rescue a 2-2 draw against Nottingham Forest at Anfield, leaving new manager Andoni Iraola in search of his first Premier League win with the club.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2zw96094xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:12:20 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "「最悪のチームには悪くない」プレミアリーグ歴史 - Hull の完璧なスタート",
       "summary": "ハルストライカーオリヴァー・マクバーニーCoventry を打ち勝つために彼のチームの評論家で遊び心のある掘り下げを持っています 2 プレミアリーグゲーム。",
       "title_original": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
@@ -669,20 +666,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Wrexham 上司 Parkinson 'probably under Pressure' はじめて",
-      "summary": "今シーズンも勝てない、オール・ウォーズ・ストライカーIwan Roberts 信じる Phil Parkinson おそらく Wrexham 上司として初めての圧力の下にあります。",
-      "title_original": "Wrexham boss Parkinson 'probably under pressure' for first time",
-      "summary_original": "With no wins yet this season, ex-Wales striker Iwan Roberts believes Phil Parkinson is probably under pressure for the first time as Wrexham boss.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce87epm56n0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 11:05:21 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "アントニオは、若いガーナ人のチェイスを助けますプレミアリーグ夢の夢",
       "summary": "過去の投稿ウェストハム獲得 Michail Antonio ガーナアカデミーの選手を支援しています。, プロの回転の希望でイングランドに旅行している人.",
       "title_original": "Antonio helps young Ghanaians chase Premier League dreams",
@@ -694,6 +677,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "West Brom、マンチェスター・ユナイテッドから Collyer を獲得",
+      "summary": "ウェスト・ブロムウィッチ・アルビオン FC サインイン ミッドフィルダーToby Collyer からマンチェスター・ユナイテッド未公開料金の場合。",
+      "title_original": "West Brom sign Collyer from Manchester United",
+      "summary_original": "West Bromwich Albion sign midfielder Toby Collyer from Manchester United for an undisclosed fee.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62ew152y7vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 11:45:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -722,6 +719,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "イラオラが最初の勝利を待っていますリヴァプール森林に対する救助の遅れの引くこと",
+      "summary": "リヴァプール2 度から2 度目に戻り、2-2 を攻撃するノッティンガム・フォレストアンフィールド、新しいマネージャーを残して Andoni Iraola 初めての検索プレミアリーグクラブで勝つ。",
+      "title_original": "Iraola awaits first win as Liverpool rescue late draw against Forest",
+      "summary_original": "Liverpool come from behind twice to rescue a 2-2 draw against Nottingham Forest at Anfield, leaving new manager Andoni Iraola in search of his first Premier League win with the club.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2zw96094xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:12:20 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -893,6 +904,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Wrexham 上司 Parkinson 'probably under Pressure' はじめて",
+      "summary": "今シーズンも勝てない、オール・ウォーズ・ストライカーIwan Roberts 信じる Phil Parkinson おそらく Wrexham 上司として初めての圧力の下にあります。",
+      "title_original": "Wrexham boss Parkinson 'probably under pressure' for first time",
+      "summary_original": "With no wins yet this season, ex-Wales striker Iwan Roberts believes Phil Parkinson is probably under pressure for the first time as Wrexham boss.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce87epm56n0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 11:05:21 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "O'Neill はセルティック Ibrox のファンが300 人以上",
       "summary": "マーティン・オニールコメントセルティックチケットは、後から入手できません。レンジャーズ側面のための300 を提供されて League Cup 月次 Ibrox の四半期ファイナル。",
       "title_original": "O'Neill would rather Celtic had no fans at Ibrox than 300",
@@ -907,27 +932,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Are Charlton チャレンジの準備は?Sam Parkin's EFL テイクアウト",
-      "summary": "BBC Final Score ログイン Sam ParkinEFL の週末の話ポイントを見て、完璧なスタートを含むチャールトン・アスレティック FC.",
-      "title_original": "Are Charlton ready to challenge? - Sam Parkin's EFL takeaways",
-      "summary_original": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including a perfect start for Charlton Athletic.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c305n87mdjro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:43:28 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "チェルシー. .ブライトン, リーズ v ブレントフォード, サンダーランド v フルハム:プレミアリーグ– ライブ",
-      "summary": "プレミアリーグ2pm(BST)キックオフライブスコアボードからのアップデート |Mail JohnBlueSky で私たちに従ってくださいチェルシー新たなゴールキーパーを持つ。開催場所 Robert Sanchez 終わりか。自分は、チェルシー, 以前ブライトン. 同じような先端で、Andrew Beesley 数値を実行しています。Vítor Pereira, グレアム・ポッターそして、Thomas FrankWolves のマネージャーになりました。ウェストハムそして、トッテナムそれぞれ2025 年(2025 年)に、その役割の最後のシーズンをスタートし、今年2 月中旬に下旬に削除されました。",
+      "title": "チェルシーツイートブライトン, リーズ v ブレントフォード, サンダーランド v フルハム:プレミアリーグ– ライブ",
+      "summary": "プレミアリーグ2pm(BST)キックオフライブスコアボードからのアップデート |Mail John 獲得を獲得を問い合わせ BlueSky The つまり、エミリアーノ・マルティネススタートチェルシー. すぐに続く完全なチームニュース...チェルシー新たなゴールキーパーを持つ。開催場所 Robert Sanchez 終わりか。自分は、チェルシー, 以前ブライトン. 続きを読む...",
       "title_original": "Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live",
-      "summary_original": "Premier League updates from the 2pm (BST) kick-offs Live scoreboard | Mail John and follow us on BlueSky Chelsea have a new goalkeeper. Where will Robert Sanchez end up? He was, as is customary for Chelsea, previously at Brighton. On a similar tip, Andrew Beesley has run the numbers. Vítor Pereira, Graham Potter and Thomas Frank became managers of Wolves, West Ham and Tottenham respectively in 2025, started last season in those roles and yet were removed by mid-February of this year at the lates",
+      "summary_original": "Premier League updates from the 2pm (BST) kick-offs Live scoreboard | Mail John and follow us on BlueSky The word is that Emi Martinez will start for Chelsea. Full team news to follow soon… Chelsea have a new goalkeeper. Where will Robert Sanchez end up? He was, as is customary for Chelsea, previously at Brighton. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/chelsea-brighton-leeds-brentford-sunderland-fulham-premier-league-live",
-      "published": "Sun, 30 Aug 2026 11:40:35 GMT",
+      "published": "Sun, 30 Aug 2026 11:49:25 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -935,13 +946,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "最新情報を転送するチェルシーマーク・マルティネス,エヴァートン Armstrong 販売上のプルプラグ - マッチデイライブ",
-      "summary": "土曜日の行動やサッカーのニュースへの反応 今日の試合 | 結果 | 表 | 電子メール Emillia How 表は昨日の結果の後に見えます... エルザの場所でプレミアリーグ, Hull は Coventry に対する勝利の始まりを続け、エヴァートン最後の分イコライザーを対比 Bournemouth. Continue 読書...",
-      "title_original": "Transfer latest as Chelsea sign Martínez, Everton pull plug on Armstrong sale – matchday live",
-      "summary_original": "Reaction to Saturday’s action and more football news Today’s matches | Results | Tables | And email Emillia How the table looks after yesterday’s results… Elsewhere in the Premier League, Hull continued their winning start against Coventry and Everton clinched a last-minute equaliser against Bournemouth. Continue reading...",
+      "title": "Emiliano Martínez ついに彼のヴィラ出口を£7.5m に移動して取得チェルシー",
+      "summary": "アルゼンチンは、Sánchez をそのまま置き換える Blues’ No1 'へのコメントチェルシー作る簡単な決定だったチェルシー署名を完了しましたアストン・ヴィラゴールキーパーEmiliano Martínez. The 去る2 つの夏にヴィラを離れるのを目撃してきた33 歳、ついに彼は£7.5m のために移動し、三年契約に署名し、彼の願いを得ました Stamford Bridge. Martínez2022 を獲得した人 World Cup アルゼンチンと2 回確保 Yashin Trophy 最高のゴールキーパーのために、R を置換するように設定されています",
+      "title_original": "Emiliano Martínez finally gets his Villa exit with £7.5m move to Chelsea",
+      "summary_original": "Argentinian set to displace Sánchez as Blues’ No 1 ‘Coming to Chelsea was an easy decision to make’ Chelsea have completed the signing of the Aston Villa goalkeeper Emiliano Martínez. The 33-year-old, who has been agitating to leave Villa for the last two summers, has finally got his wish as he has moved for £7.5m, signing a three-year contract at Stamford Bridge. Martínez, who won the 2022 World Cup with Argentina and twice secured the Yashin Trophy for the best goalkeeper, is set to displace R",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
-      "published": "Sun, 30 Aug 2026 11:44:33 GMT",
+      "url": "https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-aston-villa-exit-move-chelsea",
+      "published": "Sun, 30 Aug 2026 08:44:11 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1467,6 +1478,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Fernandez absent, マルティネス 開始 のためにチェルシーに対してブライトンライブ!",
+      "summary": "",
+      "title_original": "Fernandez absent, Martinez starts for Chelsea against Brighton LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/live/559456",
+      "published": "Tue, 28 Jul 2026 09:32:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ペーパー:リヴァプールこれからも、サインを続けようクリスタル・パレスウィンガーサー",
       "summary": "日曜日の新聞から噂を転送するトップストーリー...",
       "title_original": "Papers: Liverpool continue talks to sign Crystal Palace winger Sarr",
@@ -1523,9 +1548,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "リーズ対ブレンフォードチームニュース LIVE!",
+      "title": "リーズベンチ対ウィルソン Brentford LIVE!",
       "summary": "",
-      "title_original": "Leeds vs Brentford team news LIVE!",
+      "title_original": "Wilson on Leeds bench vs Brentford LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/leeds-united-vs-brentford/live/559459",
@@ -1534,20 +1559,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マルティネスが到着チェルシー一歩先を行くブライトンゲームライブ!",
-      "summary": "",
-      "title_original": "Martinez arrives with Chelsea squad ahead of Brighton game LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/live/559456",
-      "published": "Tue, 28 Jul 2026 09:32:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
