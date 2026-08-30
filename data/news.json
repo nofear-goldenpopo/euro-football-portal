@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:34:22.926337+00:00",
+  "updated_at": "2026-08-30T12:49:17.010004+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -517,7 +517,9 @@
     "Joy Division": "ジョイ・ディヴィジョン",
     "In Chelsea’s": "",
     "Hove Albion": "",
-    "Aberdeen LIVE": ""
+    "Aberdeen LIVE": "",
+    "Stephen Mfuni": "",
+    "Fulham LIVE": ""
   },
   "items": [
     {
@@ -591,6 +593,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Coventry、マンチェスター・シティから Mfuni on loan を獲得",
+      "summary": "コヴェントリー・シティ FC 印の英語の擁護者 Stephen Mfuni 季節限定のローン契約からマンチェスター・シティ.",
+      "title_original": "Coventry sign Mfuni on loan from Man City",
+      "summary_original": "Coventry City sign English defender Stephen Mfuni on a season-long loan deal from Manchester City.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g73yvjz9do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 11:55:34 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "マンチェスター・シティオープントークリヴァプールオーバーガクポ",
       "summary": "オランダ前方も引き付けましたインテル一番からトッテナム, しかし、ソースは示しますマンチェスター・シティ彼がアンフィールドを離れるならば、彼の好まれる目的地です。",
       "title_original": "Man City open talks with Liverpool over Gakpo",
@@ -602,20 +618,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "「サポーターはいつも間違っていません」 - マウスエヴァートンファンの怒り",
-      "summary": "David Moyes「サポーターはいつも間違っていない」と言った。エヴァートンファンは十代のミッドフィルダーの潜在的な販売に彼らの反対をボイス Harrison ArmstrongBournemouth で 1-1 を描画します。",
-      "title_original": "'Supporters aren't always wrong' - Moyes on Everton fans' anger",
-      "summary_original": "David Moyes says \"supporters aren't always wrong\" after Everton fans voice their opposition to the potential sale of teenage midfielder Harrison Armstrong during the 1-1 draw at Bournemouth.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy7zk5vprplo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 18:59:28 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -644,6 +646,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "「サポーターはいつも間違っていません」 - マウスエヴァートンファンの怒り",
+      "summary": "David Moyes「サポーターはいつも間違っていない」と言った。エヴァートンファンは十代のミッドフィルダーの潜在的な販売に彼らの反対をボイス Harrison ArmstrongBournemouth で 1-1 を描画します。",
+      "title_original": "'Supporters aren't always wrong' - Moyes on Everton fans' anger",
+      "summary_original": "David Moyes says \"supporters aren't always wrong\" after Everton fans voice their opposition to the potential sale of teenage midfielder Harrison Armstrong during the 1-1 draw at Bournemouth.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy7zk5vprplo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 18:59:28 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -686,34 +702,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "West Brom、マンチェスター・ユナイテッドから Collyer を獲得",
-      "summary": "ウェスト・ブロムウィッチ・アルビオン FC サインイン ミッドフィルダーToby Collyer からマンチェスター・ユナイテッド未公開料金の場合。",
-      "title_original": "West Brom sign Collyer from Manchester United",
-      "summary_original": "West Bromwich Albion sign midfielder Toby Collyer from Manchester United for an undisclosed fee.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62ew152y7vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 11:45:59 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "「信頼は存在しない」 - イラオラが Isak を最大限に引き出す方法は?",
-      "summary": "アレクサンデル・イサク2-2 のシーズンの最初の目標を勝ち抜くノッティンガム・フォレスト- しかし、方法リヴァプール彼から最善を尽くしますか?",
-      "title_original": "'That trust isn't there' - how does Iraola get best out of Isak?",
-      "summary_original": "Alexander Isak scored his first goal of the season in the 2-2 draw against Nottingham Forest - but how do Liverpool get the best out of him?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 15:49:49 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -927,17 +915,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "O'Neill はセルティック Ibrox のファンが300 人以上",
-      "summary": "マーティン・オニールコメントセルティックチケットは、後から入手できません。レンジャーズ側面のための300 を提供されて League Cup 月次 Ibrox の四半期ファイナル。",
-      "title_original": "O'Neill would rather Celtic had no fans at Ibrox than 300",
-      "summary_original": "Martin O'Neill says Celtic \"might as well not get any\" tickets after Rangers offered 300 for the sides' League Cup quarter-final at Ibrox next month.",
+      "title": "「信頼は存在しない」 - イラオラが Isak を最大限に引き出す方法は?",
+      "summary": "アレクサンデル・イサク2-2 のシーズンの最初の目標を勝ち抜くノッティンガム・フォレスト- しかし、方法リヴァプール彼から最善を尽くしますか?",
+      "title_original": "'That trust isn't there' - how does Iraola get best out of Isak?",
+      "summary_original": "Alexander Isak scored his first goal of the season in the 2-2 draw against Nottingham Forest - but how do Liverpool get the best out of him?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyz4jxg3g4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:29:12 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 15:49:49 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -947,7 +935,7 @@
       "summary_original": "Premier League updates from the 2pm (BST) kick-offs Live scoreboard | Mail John and follow us on BlueSky Mark Slater gets in touch: “I will be following the Chelsea vs Brighton match particulary, but am happy to see a Joy Division quote in the opening paragraphs. In Chelsea’s case, Brighton and Hove Albion, Manchester City, and Aston Villa most recently...” Tom: “A+++ for getting Joy Division into the Sunday MBM.” Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/chelsea-brighton-leeds-brentford-sunderland-fulham-premier-league-live",
-      "published": "Sun, 30 Aug 2026 12:17:04 GMT",
+      "published": "Sun, 30 Aug 2026 12:31:22 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1515,9 +1503,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ターンポイント?レンジャーズリード Aberdeen LIVE!",
+      "title": "レンジャーズ獲得を獲得を問い合わせ アバディーンイコライザーが LIVE を除外!",
       "summary": "",
-      "title_original": "Turning point? Rangers lead Aberdeen LIVE!",
+      "title_original": "Rangers relief! Aberdeen equaliser ruled out LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/aberdeen-vs-rangers/live/558351",
@@ -1543,9 +1531,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Sunderland 対 Fulham チームニュース LIVE!",
+      "title": "サンダーランド対 Fulham LIVE!",
       "summary": "",
-      "title_original": "Sunderland vs Fulham team news LIVE!",
+      "title_original": "Sunderland vs Fulham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/sunderland-vs-fulham/live/559462",
@@ -1627,13 +1615,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Springboks レベル Greatest Rivalry 勝つとのシリーズラグビーニュージーランド代表!",
-      "summary": "ハイライト Greatest Rivalry 第2 部 間のテスト South Africa そして、New Zealand.",
-      "title_original": "Springboks level Greatest Rivalry series with win against All Blacks!",
-      "summary_original": "Highlights of the Greatest Rivalry second Test between South Africa and New Zealand.",
+      "title": "スコアカード:イングランド対パキスタン、第二テスト、主の",
+      "summary": "",
+      "title_original": "Scorecard: England vs Pakistan, second Test, Lord's",
+      "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13578810/south-africa-33-26-new-zealand-rugbys-greatest-rivalry-second-test-highlights",
-      "published": "Sat, 29 Aug 2026 18:39:00 BST",
+      "url": "https://www.skysports.com/cricket/england-v-pakistan/scorecard/1063b9b8-e3e5-5f0a-8be8-66743bae740b",
+      "published": "Thu, 27 Aug 2026 10:50:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
