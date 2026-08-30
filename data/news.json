@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T11:18:58.759580+00:00",
+  "updated_at": "2026-08-30T11:34:16.967207+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -485,7 +485,10 @@
     "Abdul Abdulmalik": "",
     "Rangers LIVE": "",
     "Iwan Roberts": "",
-    "Phil Parkinson": ""
+    "Phil Parkinson": "",
+    "Arsenal's Vieira": "",
+    "Fabio Vieira": "",
+    "Pittodrie LIVE": ""
   },
   "items": [
     {
@@ -587,6 +590,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ハンブルクの上級トークアーセナルの ヴィエイラ",
+      "summary": "ハンブルクは購入するための高度な話ですアーセナルミッドフィルダーFabio Vieira10m ユーロ(£8.6m)移籍で。",
+      "title_original": "Hamburg in advanced talks for Arsenal's Vieira",
+      "summary_original": "Hamburg are in advanced talks to buy Arsenal midfielder Fabio Vieira in a 10m euro (£8.6m) deal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ymvz83dy1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 11:27:02 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "£300m は、テーブルの底に費やしました...トッテナムログイン De Zerbi「怒らない」",
       "summary": "夏に£300m 以上を過ごした、トッテナム自分自身の底を見つけるプレミアリーグ, ポイントやゴールなし, しかし、ボス ロベルト・デ・ツェルビは楽観的まま.",
       "title_original": "£300m spent, bottom of the table... but Spurs boss De Zerbi 'not angry'",
@@ -598,20 +615,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Boreham WoodAbdulmalik の Vardy-beating の記録料を受け入れて下さい",
-      "summary": "スウェーデンクラブ Djurgardens 同意する National League 記録手数料は、ウィンガーに署名するために£1.5m を超えると考えられていました Abdul Abdulmalik から Boreham Wood.",
-      "title_original": "Boreham Wood accept Vardy-beating record fee for Abdulmalik",
-      "summary_original": "Swedish club Djurgardens agree a National League record fee thought to be in excess of £1.5m to sign winger Abdul Abdulmalik from Boreham Wood.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zvw14e8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 09:19:27 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -639,6 +642,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Boreham WoodAbdulmalik の Vardy-beating の記録料を受け入れて下さい",
+      "summary": "スウェーデンクラブ Djurgardens 同意する National League 記録手数料は、ウィンガーに署名するために£1.5m を超えると考えられていました Abdul Abdulmalik から Boreham Wood.",
+      "title_original": "Boreham Wood accept Vardy-beating record fee for Abdulmalik",
+      "summary_original": "Swedish club Djurgardens agree a National League record fee thought to be in excess of £1.5m to sign winger Abdul Abdulmalik from Boreham Wood.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zvw14e8zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 09:19:27 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -695,20 +712,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "森は£22m の契約に合意クリスタル・パレス Munoz について",
-      "summary": "ノッティンガム・フォレスト署名する£22m の最小値の移籍に同意する Daniel Munoz からクリスタル・パレス.",
-      "title_original": "Forest agree £22m deal with Palace for Munoz",
-      "summary_original": "Nottingham Forest agree a deal worth a minimum of £22m to sign Daniel Munoz from Crystal Palace.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39m0vmgxrgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 16:43:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -895,17 +898,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ナポリ インテル Woltemade ローンで ested -日曜日の移籍ゴシップ",
-      "summary": "ナポリイベントインテル最新記事ニューカッスル獲得 Nick Woltemade, マンチェスター・シティウィンガーJack Grealish サンダーランドが求められているアーセナル移動を探索するリール獲得 Matias Fernandez-Pardo.",
-      "title_original": "Napoli interested in Woltemade loan - Sunday's gossip",
-      "summary_original": "Napoli show interest in Newcastle forward Nick Woltemade, Manchester City winger Jack Grealish is wanted by Sunderland and Arsenal explore a move for Lille forward Matias Fernandez-Pardo.",
+      "title": "Are Charlton チャレンジの準備は?Sam Parkin's EFL テイクアウト",
+      "summary": "BBC Final Score ログイン Sam ParkinEFL の週末の話ポイントを見て、完璧なスタートを含むチャールトン・アスレティック FC.",
+      "title_original": "Are Charlton ready to challenge? - Sam Parkin's EFL takeaways",
+      "summary_original": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including a perfect start for Charlton Athletic.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x1wwgn8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 21:19:11 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c305n87mdjro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:43:28 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -915,7 +918,7 @@
       "summary_original": "Reaction to Saturday’s action and more football news Today’s matches | Results | Tables | And email Emillia How the table looks after yesterday’s results… Elsewhere in the Premier League, Hull continued their winning start against Coventry and Everton clinched a last-minute equaliser against Bournemouth. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
-      "published": "Sun, 30 Aug 2026 11:00:23 GMT",
+      "published": "Sun, 30 Aug 2026 11:17:53 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1455,9 +1458,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "アバディーン対レンジャーズライブ!",
+      "title": "アバディーンとレンジャーズライブスタート Pittodrie LIVE!",
       "summary": "",
-      "title_original": "Aberdeen vs Rangers LIVE!",
+      "title_original": "Aberdeen and Rangers serve up lively start at Pittodrie LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/aberdeen-vs-rangers/live/558351",
@@ -1476,6 +1479,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13578907/hull-fc-14-16-warrington-wolves-super-league-highlights",
       "published": "Sun, 30 Aug 2026 00:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "リーズ対ブレンフォードチームニュース LIVE!",
+      "summary": "",
+      "title_original": "Leeds vs Brentford team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/leeds-united-vs-brentford/live/559459",
+      "published": "Tue, 28 Jul 2026 09:45:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1588,20 +1605,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13578422/arthur-fery-brits-hopes-of-landing-maiden-atp-tour-title-at-winston-salem-open-ended-by-peruvian-ignacio-buse-with-us-open-starting-sunday",
       "published": "Sat, 29 Aug 2026 22:21:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Hovland は、McIlroy として FedExCup スリラーで Scheffler をリードし、後進プッシュ",
-      "summary": "Viktor Hovland 最後のラウンドに1 ショットのリードを取るザ・ツアーチャンピオンシップ, として Scottie Scheffler コンテンツにとどまり、ローリー・マキロイ FedExCup が生き生きたいと願っている。",
-      "title_original": "Hovland leads Scheffler in FedExCup thriller as McIlroy makes late push",
-      "summary_original": "Viktor Hovland takes a one-shot lead into the final round of the Tour Championship, as Scottie Scheffler stayed in contention and Rory McIlroy kept his FedExCup hopes alive.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13578716/tour-championship-viktor-hovland-leads-heading-into-final-day-as-scottie-scheffler-and-rory-mcilroy-keep-fedexcup-hopes-alive",
-      "published": "Sun, 30 Aug 2026 00:05:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
