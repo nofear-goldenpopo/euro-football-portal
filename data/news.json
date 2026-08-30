@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T09:04:14.877236+00:00",
+  "updated_at": "2026-08-30T09:19:17.268406+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -479,7 +479,8 @@
     "Bournemouth. Víctor Muñoz": "",
     "Anfield. Continue": "",
     "Bournemouth. Continue": "",
-    "Emi Martinez": "エミリアーノ・マルティネス"
+    "Emi Martinez": "エミリアーノ・マルティネス",
+    "Filip Hrgovic. Video": ""
   },
   "items": [
     {
@@ -511,13 +512,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "£300m は、テーブルの底に費やしました...トッテナムログイン De Zerbi「怒らない」",
-      "summary": "夏に£300m 以上を過ごした、トッテナム自分自身の底を見つけるプレミアリーグ, ポイントやゴールなし, しかし、ボス ロベルト・デ・ツェルビは楽観的まま.",
-      "title_original": "£300m spent, bottom of the table... but Spurs boss De Zerbi 'not angry'",
-      "summary_original": "Having spent more than £300m in the summer, Tottenham find themselves bottom of the Premier League, without a point or a goal, but boss Roberto de Zerbi remains optimistic.",
+      "title": "Richarlison, Danso と Sarr 依頼する 残しますトッテナム",
+      "summary": "トッテナムマネージャーRoberto De ZerbiRicharlison と言う,Kevin Danso そして、Pape Matar Sarr 退場をお願いしております。",
+      "title_original": "Richarlison, Danso and Sarr ask to leave Spurs",
+      "summary_original": "Tottenham manager Roberto De Zerbi says that Richarlison, Kevin Danso and Pape Matar Sarr have asked to leave the club.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyqn158n5jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 21:15:46 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 09:04:11 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -581,6 +582,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "£300m は、テーブルの底に費やしました...トッテナムログイン De Zerbi「怒らない」",
+      "summary": "夏に£300m 以上を過ごした、トッテナム自分自身の底を見つけるプレミアリーグ, ポイントやゴールなし, しかし、ボス ロベルト・デ・ツェルビは楽観的まま.",
+      "title_original": "£300m spent, bottom of the table... but Spurs boss De Zerbi 'not angry'",
+      "summary_original": "Having spent more than £300m in the summer, Tottenham find themselves bottom of the Premier League, without a point or a goal, but boss Roberto de Zerbi remains optimistic.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyqn158n5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 21:15:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "アントニオは、若いガーナ人のチェイスを助けますプレミアリーグ夢の夢",
       "summary": "過去の投稿ウェストハム獲得 Michail Antonio ガーナアカデミーの選手を支援しています。, プロの回転の希望でイングランドに旅行している人.",
       "title_original": "Antonio helps young Ghanaians chase Premier League dreams",
@@ -623,20 +638,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "「信頼は存在しない」 - イラオラが Isak を最大限に引き出す方法は?",
-      "summary": "アレクサンデル・イサク2-2 のシーズンの最初の目標を勝ち抜くノッティンガム・フォレスト- しかし、方法リヴァプール彼から最善を尽くしますか?",
-      "title_original": "'That trust isn't there' - how does Iraola get best out of Isak?",
-      "summary_original": "Alexander Isak scored his first goal of the season in the 2-2 draw against Nottingham Forest - but how do Liverpool get the best out of him?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 15:49:49 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "「最悪のチームには悪くない」プレミアリーグ歴史 - Hull の完璧なスタート",
       "summary": "ハルストライカーオリヴァー・マクバーニーCoventry を打ち勝つために彼のチームの評論家で遊び心のある掘り下げを持っています 2 プレミアリーグゲーム。",
       "title_original": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
@@ -648,6 +649,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "「信頼は存在しない」 - イラオラが Isak を最大限に引き出す方法は?",
+      "summary": "アレクサンデル・イサク2-2 のシーズンの最初の目標を勝ち抜くノッティンガム・フォレスト- しかし、方法リヴァプール彼から最善を尽くしますか?",
+      "title_original": "'That trust isn't there' - how does Iraola get best out of Isak?",
+      "summary_original": "Alexander Isak scored his first goal of the season in the 2-2 draw against Nottingham Forest - but how do Liverpool get the best out of him?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 15:49:49 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -889,27 +904,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Hull は、ウィンガーバホヤのためにフランクフルトの移籍に同意します",
-      "summary": "ハル・シティ AFC 獲得を獲得を問い合わせアイントラハト・フランクフルトウィンガーに署名する Jean-Matteo Bahoya.",
-      "title_original": "Hull agree deal with Frankfurt for winger Bahoya",
-      "summary_original": "Hull City agree a deal with Eintracht Frankfurt to sign winger Jean-Matteo Bahoya.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 22:24:56 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "最新情報を転送するチェルシーマーク・マルティネス,プレミアリーグビルドアップなど - マッチデイライブ",
       "summary": "土曜日の行動やサッカーのニュースへの反応 今日の試合 | 結果 | 表 | 電子メール Emillia How 表は昨日の結果の後に見えます... エルザの場所でプレミアリーグ, Hull は Coventry に対する勝利の始まりを続け、エヴァートン最後の分イコライザーを対比 Bournemouth. Continue 読書...",
       "title_original": "Transfer latest as Chelsea sign Martínez, Premier League buildup and more – matchday live",
       "summary_original": "Reaction to Saturday’s action and more football news Today’s matches | Results | Tables | And email Emillia How the table looks after yesterday’s results… Elsewhere in the Premier League, Hull continued their winning start against Coventry and Everton clinched a last-minute equaliser against Bournemouth. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
-      "published": "Sun, 30 Aug 2026 08:50:04 GMT",
+      "published": "Sun, 30 Aug 2026 09:02:53 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1253,6 +1254,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Alonso 取得チェルシー勝者マーティネスの Sánchez を掘り下げることによる「優先順位」 |Jacob Steinberg",
+      "summary": "サインイン World CupBlueCo が転送市場で深刻なを得たときにこれが夏であることを意味するために勝者を追加 Carlo Cudicini とても良いゴールキーパーでした。しかし、ジョゼ・モウリーニョ彼になったとき無事だったチェルシー2004 年のマネージャー。とても良かったです。モウリーニョポルトガルの背後にある主要な要因のベストと1 つは、勝ちましたプレミアリーグ初シーズン中は、カディッシーニと交換する決定だった Petr Cech. There 素晴らしいゴールキーパーについての古いラインです",
+      "title_original": "Alonso gets Chelsea’s priorities right by ditching Sánchez for winner Martínez | Jacob Steinberg",
+      "summary_original": "Signing of World Cup winner adds to sense that this is the summer when BlueCo got serious in transfer market Carlo Cudicini was a very good goalkeeper. However, José Mourinho was ruthless when he became Chelsea manager in 2004. Very good was not good enough. Mourinho wanted the best and one of the main factors behind the Portuguese winning the Premier League during his first season in charge was the decision to replace Cudicini with Petr Cech. There is an old line about a great goalkeeper being ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/xabi-alonso-chelsea-keepers-robert-sanchez-emiliano-martinez",
+      "published": "Sat, 29 Aug 2026 11:00:26 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "アストン・ヴィラ’ s のスクワッドはしばらく残酷ですトッテナムスプラッシュアウト。金融ルールは公正ですか?",
       "summary": "勝つヨーロッパリーグ第4 回を終えては、ヴィラを絶縁せず、トッテナムウーエの季節に妨げられなかった理論アストン・ヴィラサポーターは、自分の手で一緒に自分の手でこすれているはずですチャンピオンズリーグ季節限定 獲得を獲得を問い合わせトッテナムファンは、後に絶望的だった残留争いワイヤーに行きました。第17 位の仕上げトッテナム£35m 未満で獲得プレミアリーグ最終的なリーグの位置に基づいているメリット支払い、Villa. Yet 私の気分",
       "title_original": "Aston Villa’s squad is crumbling while Spurs splash out. Are the financial rules fair?",
@@ -1267,16 +1282,16 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ドルトムント残りのベストとしてブンデスリーガクラブの把握でバイエルン・ミュンヘン’s コートテール |Andy Brassell",
-      "summary": "BVB は再活性化され、Leverkusen は安定していますが、誰がチャンピオンを止めることができますか?The Franz Beckenbauer Supercup 欧州の同等体よりもはるかに強度があります。こんな理由はたくさんあります。ザ・オブ・ザ・ブンデスリーガ’ の伝統的なシーズンのカーテン・レイザーは、カップの勝者に対するリーグのチャンピオンをピットティングは、ニュートラルの領土で再生されません。, 適切なステークと国内ゲームの感触を与えます. ドイツのファンは、外国の土壌に置くことは決して受け入れません。Borussia Do",
-      "title_original": "Dortmund best of the rest as Bundesliga clubs grasp at Bayern Munich’s coattails | Andy Brassell",
-      "summary_original": "BVB are re-energised and Leverkusen have stabilised, but can anyone stop the champions? The Franz Beckenbauer Supercup has a modicum more intensity than most of its European equivalents. There are many reasons for this. The Bundesliga’s traditional season curtain-raiser pitting league champions against cup winners is not played on neutral territory, giving it the feeling of a domestic game with proper stakes. German fans would also never accept it taking place on foreign soil, as the Borussia Do",
+      "title": "コール・パーマー純粋な喜びの瞬間を発明するこの世界でユニコーンです |Barney Ronay",
+      "summary": "いいね Central Cee, ,チェルシー攻撃者とは異なる存在であり、今は、そこに唯一の真の創造的な英語プレーヤーです 今週の予定 Central Cee 新しくリリースされたプレミアリーグ歌, 呼ばれる The Team. ItCoca-Cola 社と共同で立ち上げた、若々しい、ファスト bumping 社的タイイン、コカ・コーラ社と、コンピューター画面で「クールな都市通り言葉、何?」を AI に入力する時間半の間、ゴルフカジュアルな服を着ている男性に関与しているように見えるプレスリリース",
+      "title_original": "Cole Palmer is a unicorn in this world inventing moments of pure pleasure | Barney Ronay",
+      "summary_original": "Much like Central Cee, the Chelsea attacker is a distinct presence and right now is perhaps the only truly creative English player out there This week Central Cee launched his new Premier League song, called The Team. It owes its existence to a youth-centred, fist-bumping corporate tie-in with Coca-Cola, the press release for which appears to have involved a man in golf-casual clothing frowning at his computer screen for half an hour before typing “cool urban street words, what are?” into the AI",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/27/bundesliga-preview-bayern-munich-borussia-dortmund",
-      "published": "Thu, 27 Aug 2026 11:14:22 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
+      "url": "https://www.theguardian.com/football/2026/aug/28/cole-palmer-chelsea-central-cee-england-football",
+      "published": "Fri, 28 Aug 2026 16:59:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1288,20 +1303,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/27/spurs-squad-pre-season-charlton-carabao-cup-newcastle",
       "published": "Thu, 27 Aug 2026 15:27:04 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "コール・パーマー純粋な喜びの瞬間を発明するこの世界でユニコーンです |Barney Ronay",
-      "summary": "いいね Central Cee, ,チェルシー攻撃者とは異なる存在であり、今は、そこに唯一の真の創造的な英語プレーヤーです 今週の予定 Central Cee 新しくリリースされたプレミアリーグ歌, 呼ばれる The Team. ItCoca-Cola 社と共同で立ち上げた、若々しい、ファスト bumping 社的タイイン、コカ・コーラ社と、コンピューター画面で「クールな都市通り言葉、何?」を AI に入力する時間半の間、ゴルフカジュアルな服を着ている男性に関与しているように見えるプレスリリース",
-      "title_original": "Cole Palmer is a unicorn in this world inventing moments of pure pleasure | Barney Ronay",
-      "summary_original": "Much like Central Cee, the Chelsea attacker is a distinct presence and right now is perhaps the only truly creative English player out there This week Central Cee launched his new Premier League song, called The Team. It owes its existence to a youth-centred, fist-bumping corporate tie-in with Coca-Cola, the press release for which appears to have involved a man in golf-casual clothing frowning at his computer screen for half an hour before typing “cool urban street words, what are?” into the AI",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/28/cole-palmer-chelsea-central-cee-england-football",
-      "published": "Fri, 28 Aug 2026 16:59:43 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1449,6 +1450,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ハイライト:Hrgovic は IBF のヘビー級タイトルを獲得するために信じられないほどのカムバックでイタマを停止します",
+      "summary": "IBF ヘビー級世界タイトルの戦いのハイライト Moses Itauma そして、Filip Hrgovic. Video クレジット:DAZN の礼儀",
+      "title_original": "Highlights: Hrgovic stops Itauma in incredible comeback to win IBF heavyweight title",
+      "summary_original": "Highlights of the IBF heavyweight world title fight between Moses Itauma and Filip Hrgovic. Video credit: Courtesy of DAZN",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13578912/moses-itauma-vs-filip-hrgovic-fight-highlights",
+      "published": "Sun, 30 Aug 2026 10:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "キャメロン stuns mayer と unanimous 決定 勝ち",
       "summary": "WBC、WBA、WBO のスーパーウェルター級の戦いのハイライトミカエラ・メイヤーそして、Chantelle Cameron.",
       "title_original": "Cameron stuns Mayer with unanimous decision victory",
@@ -1586,20 +1601,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Hrgovic stuns Itauma と epic カムバック として brit 敗北 レコード",
-      "summary": "Filip Hrgovic ボクシングの年の衝撃の1 つを、排出される停止作り出しました Moses Itauma 悪性 IBF ヘビー級タイトルを獲得し、クロアチア初の世界ヘビー級王者になるために O2 で9 ラウンドで。",
-      "title_original": "Hrgovic stuns Itauma with epic comeback as Brit loses unbeaten record",
-      "summary_original": "Filip Hrgovic produced one of the shocks of the boxing year, stopping an exhausted Moses Itauma in the ninth round at The O2 to win the vacant IBF heavyweight title and become Croatia's first world heavyweight champion.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13578906/filip-hrgovic-stuns-moses-itauma-with-epic-comeback-as-british-heavyweight-star-loses-unbeaten-record",
-      "published": "Sat, 29 Aug 2026 23:11:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
