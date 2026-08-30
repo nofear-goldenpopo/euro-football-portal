@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T06:49:26.405841+00:00",
+  "updated_at": "2026-08-30T07:04:07.041141+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -449,7 +449,12 @@
     "Ruoning Yin": "殷若寧",
     "LPGA Tour’s FM Championship": "",
     "The Sky Sports Tennis": "",
-    "Grand Slam": "グランドスラム"
+    "Grand Slam": "グランドスラム",
+    "Former West Ham": "",
+    "Michail Antonio": "",
+    "Is Alcaraz": "",
+    "Will Sabalenka": "",
+    "The US Open": "全米オープン"
   },
   "items": [
     {
@@ -505,6 +510,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "アントニオは、若いガーナ人のチェイスを助けますプレミアリーグ夢の夢",
+      "summary": "過去の投稿ウェストハム獲得 Michail Antonio ガーナアカデミーの選手を支援しています。, プロの回転の希望でイングランドに旅行している人.",
+      "title_original": "Antonio helps young Ghanaians chase Premier League dreams",
+      "summary_original": "Former West Ham forward Michail Antonio is helping players from a Ghana academy, who have travelled to England in the hope of turning pro.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 07:01:58 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -579,20 +598,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd0q82zpxyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 06:22:41 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Hull は Coventry で勝ち続けると完璧なスタートを続けます",
       "summary": "Substitute Liam Millar's 遅い目標は助けます Hull は 1-0 の勝利を保証します。コヴェントリー・シティ FC 人生を取り戻すための完璧なスタートを続け、プレミアリーグ、2 つのマッチから2 つの勝利を持つ。",
       "title_original": "Hull continue perfect start with away win at Coventry",
@@ -631,6 +636,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd0q82zpxyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 06:22:41 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -674,20 +693,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Iraola angry として 公式のボード遅延 サブ ゴール前に",
-      "summary": "リヴァプールログイン Andoni Iraola 反対側が反対する間に、三重の置換を遅らせるのを防ぐことを怒っていたと言うノッティンガム・フォレスト.",
-      "title_original": "Iraola angry as official's board delays subs before goal",
-      "summary_original": "Liverpool boss Andoni Iraola says he was angry about being prevented from making a triple substitution sooner during his side's draw against Nottingham Forest.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd795e9ejgzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 15:27:43 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -845,6 +850,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Iraola angry として 公式のボード遅延 サブ ゴール前に",
+      "summary": "リヴァプールログイン Andoni Iraola 反対側が反対する間に、三重の置換を遅らせるのを防ぐことを怒っていたと言うノッティンガム・フォレスト.",
+      "title_original": "Iraola angry as official's board delays subs before goal",
+      "summary_original": "Liverpool boss Andoni Iraola says he was angry about being prevented from making a triple substitution sooner during his side's draw against Nottingham Forest.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd795e9ejgzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 15:27:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "'Angry & apologetic' - McCann halt Kilmarnock の失業を開始できますか?",
       "summary": "Kilmarnock で何が間違っています 失う スタート へ Scottish Premiership 季節は?",
       "title_original": "'Angry & apologetic' - can McCann halt Kilmarnock's losing start?",
@@ -856,20 +875,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Tonali の闘争は、ゴンザレスの感動 -選手採点獲得を獲得を問い合わせトッテナム. .ニューカッスル",
-      "summary": "使い方トッテナムそして、ニューカッスル’ s 選手は、土曜日の 2-0 にランクインし、訪問者は、プレミアリーグマッチ。",
-      "title_original": "Tonali struggles but Gonzalez impresses - player ratings for Tottenham v Newcastle",
-      "summary_original": "How Tottenham Hotspur and Newcastle United's players rated following Saturday's 2-0 win for the visitors in their Premier League match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c93e8qv2qq0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 18:26:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1293,6 +1298,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "US Open 主な質問:Is Alcaraz フィット?Will Sabalenka 歴史を作る?",
+      "summary": "全米オープン, すべての 4 つのスラムの, それは、シーズンに 8 ヶ月に選手は、ツアーの研削から打たれた自分の体と痛みを看護していないよりも、年の時間に落ちるので、その勝者を予測する悪名高いです.",
+      "title_original": "US Open key questions: Is Alcaraz fit? Will Sabalenka make history?",
+      "summary_original": "The US Open, of all the four slams, is notoriously the hardest to predict the winners of as it falls at a time of year when eight months into the season the players are more likely than not nursing aches and pains with their bodies battered from the grind of the tour.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13578913/us-open-key-questions-gigi-salmon-dissects-the-draws-with-carlos-alcaraz-novak-djokovic-aryna-sabalenka-and-coco-gauff-in-the-mix",
+      "published": "Sun, 30 Aug 2026 08:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "US Open 予測:The Sky Sports Tennis パネルは勝者を選びます!",
       "summary": "The Sky Sports Tennis パネルは、決勝の先で勝者と暗い馬を選ぶグランドスラムの 2026 で US Open.",
       "title_original": "US Open predictions: The Sky Sports Tennis panel pick their winners!",
@@ -1556,20 +1575,6 @@
       "type": "uel",
       "label": "EL",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "'あなたは私を倒さない!' | デュボイとバウムガードナーは言葉の戦争に入ります!",
-      "summary": "Caroline Dubois そして、アリシア・バウムガードナー英国のボクサーの勝利に続く言葉の戦争に入り、互いに呼びかけます Amelia Moore.",
-      "title_original": "'You won't beat me!' | Dubois and Baumgardner get into a war of words!",
-      "summary_original": "Caroline Dubois and Alycia Baumgardner get into a war of words and call each other out following the British boxer's win over Amelia Moore.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13578891/mikaela-mayer-vs-chantelle-cameron-caroline-dubois-and-alycia-baumgardner-get-into-a-war-of-words",
-      "published": "Sat, 29 Aug 2026 21:58:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
