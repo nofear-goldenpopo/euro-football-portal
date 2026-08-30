@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T20:19:12.546525+00:00",
+  "updated_at": "2026-08-30T20:34:11.815139+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -652,7 +652,10 @@
     "Marcelino Núñez’s": "",
     "Suddenly Fe": "",
     "Anna Nordqvist": "",
-    "Team Europe": ""
+    "Team Europe": "",
+    "Aaron Donald": "",
+    "Los Angeles Rams": "ロサンゼルス・ラムズ",
+    "Bizarre Gakpo": ""
   },
   "items": [
     {
@@ -811,9 +814,9 @@
     },
     {
       "title": "イシドーのストライキの手 Sunderland 季節の最初の勝利",
-      "summary": "Substitute Wilson Isidor フランチャイズ・オーバー・フルハムでサンダーランドのハード·フォールド1-0 勝利を確保するための64 分のストライキクレイヴン・コテージ.",
+      "summary": "Substitute Wilson Isidor 光のスタジアムでフラハムの上にサンダーランドのためのハード·ファウンド1-0 勝利を確保するための75 分のストライキ。",
       "title_original": "Isidor strike hands Sunderland first win of season",
-      "summary_original": "Substitute Wilson Isidor strikes in the 64th minute to secure a hard-fought 1-0 victory for Sunderland over Fulham at Craven Cottage.",
+      "summary_original": "Substitute Wilson Isidor strikes in the 75th minute to secure a hard-fought 1-0 victory for Sunderland over Fulham at the Stadium of Light.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cy9zq3zx7veo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 19:00:24 GMT",
@@ -1482,6 +1485,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ドナルド・エンドがドラマティック・ラムズ・リターンを作るための退職",
+      "summary": "Aaron Donald 退職を正式に受け止め、帰国ロサンゼルス・ラムズこちらの季節です。",
+      "title_original": "Donald ends retirement to make dramatic Rams return",
+      "summary_original": "Aaron Donald has officially come out of retirement and will return for the Los Angeles Rams this season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13579264/aaron-donald-los-angeles-rams-legendary-defensive-tackle-comes-out-of-retirement-for-2026-season",
+      "published": "Sun, 30 Aug 2026 21:19:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "アーセナル最新: Alvarez は、期限が切れる Atletico のトレーニングに戻ります",
       "summary": "",
       "title_original": "Arsenal latest: Alvarez returns to Atletico training as deadline expires",
@@ -1510,13 +1527,27 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ザ・ツアーチャンピオンシップライブ! Scheffler が McIlroy の希望としてホブランドを戦う",
+      "title": "リヴァプール最新:Bizarre Gakpo 去るかもしれないとレッドは、フルバックに署名していない, ネビルは言う",
       "summary": "",
-      "title_original": "Tour Championship LIVE! Scheffler battles Hovland as McIlroy's hopes fade",
+      "title_original": "Liverpool latest: Bizarre Gakpo might leave and Reds aren't signing full-backs, says Neville",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Sun, 30 Aug 2026 15:10:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ザ・ツアーチャンピオンシップライブ! Scheffler は FedExCup スリラーでホヴランドをリード",
+      "summary": "",
+      "title_original": "Tour Championship LIVE! Scheffler leads Hovland in FedExCup thriller",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13578968/tour-championship-final-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
-      "published": "Sun, 30 Aug 2026 20:46:00 BST",
+      "published": "Sun, 30 Aug 2026 21:15:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1731,34 +1762,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ブライトン最新: 3 ゴールは何かを取るのに十分であるべきである、Hurzeler 氏は述べます",
-      "summary": "",
-      "title_original": "Brighton latest: Three away goals should be enough to take something, says Hurzeler",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Sun, 30 Aug 2026 17:35:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "チェルシービートブライトン Alonso の勝利の始まりを続行する7 ゴールのスリラー",
-      "summary": "チェルシー開催中止ブライトンスリル満点の4-3 勝利をクリアし、マネージャーの下で勝利のスタートを続行するための戦いバックシャビ・アロンソ.",
-      "title_original": "Chelsea beat Brighton in seven-goal thriller to continue Alonso's winning start",
-      "summary_original": "Chelsea held off a Brighton fightback to clinch a thrilling 4-3 victory and continue their winning start under manager Xabi Alonso.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/report/559456",
-      "published": "Sun, 30 Aug 2026 16:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
