@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T17:34:17.846444+00:00",
+  "updated_at": "2026-08-30T17:49:18.818359+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -610,7 +610,12 @@
     "Mohammad Ali": "モハメド・アリ",
     "Josh Tongue": "",
     "Chelsea Al-Hilal": "",
-    "Root’s Test": ""
+    "Root’s Test": "",
+    "Ipswich Town's": "",
+    "Harry Maguire": "ハリー・マグワイア",
+    "Michael Oliver": "",
+    "PGA Tour's Tour Championship": "",
+    "Championship Team": ""
   },
   "items": [
     {
@@ -621,6 +626,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 17:12:39 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "フェルナンデスの完璧なパフォーマンス -マンチェスター・ユナイテッド v イプスウィッチ選手採点",
+      "summary": "使い方マンチェスター・ユナイテッドそして、イプスウィッチ・タウン FC's のプレイヤーは、プレミアリーグマッチ。",
+      "title_original": "Fernandes' perfect performance - Man Utd v Ipswich player ratings",
+      "summary_original": "How Manchester United and Ipswich Town's players rated following their Premier League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z6kkqdxqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 17:32:04 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -642,6 +661,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "なぜ?マンチェスター・ユナイテッド Maguire 'handball' にもかかわらず、ゴールは立ち向かうことができました",
+      "summary": "ハンドボールの法律は、多くの場合、支持者を混乱させるために役立ちます - そして、それは再びその頭を次のように支持しましたハリー・マグワイアお祝いのポーズマンチェスター・ユナイテッド正面からイプスウィッチ・タウン FC.",
+      "title_original": "Why Man Utd goal was allowed to stand - despite Maguire 'handball'",
+      "summary_original": "The handball law often serves to confuse supporters - and it reared its head again as Harry Maguire celebrated putting Manchester United in front against Ipswich Town.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62ewy19w2ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 17:38:26 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "'bitty' Pittodrie が McInnes のターンポイントを獲得し、レンジャーズ?",
       "summary": "Until Sunday's アバディーンへ北へ Derek McInnes 本当に楽しんでいないレンジャーズチーム。Pittodrie で不協調の勝利の後に変更しました。",
       "title_original": "Is 'bitty' Pittodrie win turning point for McInnes and Rangers?",
@@ -656,13 +689,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Joao Pedro デビューのヤルクーエスター -チェルシー. .ブライトン 選手採点",
-      "summary": "プレイヤーが次のように評価される方法は次のとおりです。チェルシーそして、ブライトン出会い系プレミアリーグ日曜日",
-      "title_original": "Joao Pedro and debutant Yalcouye star - Chelsea v Brighton player ratings",
-      "summary_original": "Here's how the players rated as Chelsea and Brighton met in the Premier League on Sunday.",
+      "title": "技術的な悩みの葉チェルシーcomms のないゲームの ref",
+      "summary": "レフリーMichael Oliver 後半に出現 Stamford Bridge 日曜日に重要なことは欠落していた - 彼のコミュニケーションパック。",
+      "title_original": "Tech trouble leaves Chelsea game ref without comms",
+      "summary_original": "When referee Michael Oliver emerged for the second half at Stamford Bridge on Sunday something important was missing - his communications pack.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx5z7zk54po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 15:02:57 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yl4lzp9gzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 17:41:22 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -684,20 +717,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "トッテナム Ndiaye を Richarlison セットと動かして下さいエヴァートン",
-      "summary": "トッテナム署名する高度の話にあります Iliman Ndiaye からエヴァートン, Richarlison は、別の交渉の一環として、反対方向に移動するように設定.",
-      "title_original": "Tottenham make Ndiaye move with Richarlison set for Everton",
-      "summary_original": "Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with Richarlison set to move in the opposite direction as part of separate negotiations.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 10:39:54 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Alonso 賞賛 Joao Pedro's7 ゴール後の 'desire'ブライトンスリラー",
       "summary": "チェルシー新たなスタートを維持プレミアリーグ敗北する季節ブライトン楽しい試合で Stamford Bridge.",
       "title_original": "Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller",
@@ -712,17 +731,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "エヴァートンファンバックラッシュ後の Armstrong セールを呼び出します",
-      "summary": "エヴァートン Midfielder を売る提案された契約を離れて呼びました Harrison Armstrong 獲得を獲得を問い合わせノッティンガム・フォレストクラブのサポーターのバックラッシュに続いています。",
-      "title_original": "Everton call off Armstrong sale after fan backlash",
-      "summary_original": "Everton have called off a proposed deal to sell midfielder Harrison Armstrong to Nottingham Forest following a backlash from the club's supporters.",
+      "title": "Joao Pedro デビューのヤルクーエスター -チェルシー. .ブライトン 選手採点",
+      "summary": "プレイヤーが次のように評価される方法は次のとおりです。チェルシーそして、ブライトン出会い系プレミアリーグ日曜日",
+      "title_original": "Joao Pedro and debutant Yalcouye star - Chelsea v Brighton player ratings",
+      "summary_original": "Here's how the players rated as Chelsea and Brighton met in the Premier League on Sunday.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0lrge3dwklo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 08:58:28 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx5z7zk54po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 15:02:57 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -740,13 +759,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マルティネスは8 時間チェルシー-4 年間で Villa の移籍",
-      "summary": "After Emiliano Martinez's 動きます, BBC スポーツはなぜ見てアストン・ヴィラそして、チェルシー1 つになったプレミアリーグ’2022 年以降、バギース・トランスファー・パートナーシップ",
-      "title_original": "Martinez is eighth Chelsea-Villa deal in four years",
-      "summary_original": "After Emiliano Martinez's move, BBC Sport looks at why Aston Villa and Chelsea have become one of the Premier League’s busiest transfer partnerships since 2022.",
+      "title": "トッテナム Ndiaye を Richarlison セットと動かして下さいエヴァートン",
+      "summary": "トッテナム署名する高度の話にあります Iliman Ndiaye からエヴァートン, Richarlison は、別の交渉の一環として、反対方向に移動するように設定.",
+      "title_original": "Tottenham make Ndiaye move with Richarlison set for Everton",
+      "summary_original": "Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with Richarlison set to move in the opposite direction as part of separate negotiations.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 08:51:08 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 10:39:54 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -754,16 +773,16 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "フランクフルト・ウィンガー・バホヤの移籍は、",
-      "summary": "ハル・シティ AFC's のための移動アイントラハト・フランクフルトウィンガーJean-Matteo Bahoya プレイヤーが参加することを決定した後に落下プレミアリーグサイド。",
-      "title_original": "Hull's deal for Frankfurt winger Bahoya falls through",
-      "summary_original": "Hull City's move for Eintracht Frankfurt winger Jean-Matteo Bahoya falls through after the player decides against joining the Premier League side.",
+      "title": "エヴァートンファンバックラッシュ後の Armstrong セールを呼び出します",
+      "summary": "エヴァートン Midfielder を売る提案された契約を離れて呼びました Harrison Armstrong 獲得を獲得を問い合わせノッティンガム・フォレストクラブのサポーターのバックラッシュに続いています。",
+      "title_original": "Everton call off Armstrong sale after fan backlash",
+      "summary_original": "Everton have called off a proposed deal to sell midfielder Harrison Armstrong to Nottingham Forest following a backlash from the club's supporters.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 15:09:49 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0lrge3dwklo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 08:58:28 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -964,6 +983,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "フランクフルト・ウィンガー・バホヤの移籍は、",
+      "summary": "ハル・シティ AFC's のための移動アイントラハト・フランクフルトウィンガーJean-Matteo Bahoya プレイヤーが参加することを決定した後に落下プレミアリーグサイド。",
+      "title_original": "Hull's deal for Frankfurt winger Bahoya falls through",
+      "summary_original": "Hull City's move for Eintracht Frankfurt winger Jean-Matteo Bahoya falls through after the player decides against joining the Premier League side.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 15:09:49 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Boreham WoodAbdulmalik の Vardy-beating の記録料を受け入れて下さい",
       "summary": "スウェーデンクラブ Djurgardens 同意する National League 記録手数料は、ウィンガーに署名するために£1.5m を超えると考えられていました Abdul Abdulmalik から Boreham Wood.",
       "title_original": "Boreham Wood accept Vardy-beating record fee for Abdulmalik",
@@ -978,13 +1011,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Coventry、マンチェスター・シティから Mfuni on loan を獲得",
-      "summary": "コヴェントリー・シティ FC 印の英語の擁護者 Stephen Mfuni 季節限定のローン契約からマンチェスター・シティ.",
-      "title_original": "Coventry sign Mfuni on loan from Man City",
-      "summary_original": "Coventry City sign English defender Stephen Mfuni on a season-long loan deal from Manchester City.",
+      "title": "ナポリ インテル Woltemade ローンで ested -日曜日の移籍ゴシップ",
+      "summary": "ナポリイベントインテル最新記事ニューカッスル獲得 Nick Woltemade, マンチェスター・シティウィンガーJack GrealishSunderland が求められているアーセナル移動を探索するリール獲得 Matias Fernandez-Pardo.",
+      "title_original": "Napoli interested in Woltemade loan - Sunday's gossip",
+      "summary_original": "Napoli show interest in Newcastle forward Nick Woltemade, Manchester City winger Jack Grealish is wanted by Sunderland and Arsenal explore a move for Lille forward Matias Fernandez-Pardo.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g73yvjz9do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 11:55:34 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x1wwgn8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 21:19:11 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1006,41 +1039,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ナポリ インテル Woltemade ローンで ested -日曜日の移籍ゴシップ",
-      "summary": "ナポリイベントインテル最新記事ニューカッスル獲得 Nick Woltemade, マンチェスター・シティウィンガーJack GrealishSunderland が求められているアーセナル移動を探索するリール獲得 Matias Fernandez-Pardo.",
-      "title_original": "Napoli interested in Woltemade loan - Sunday's gossip",
-      "summary_original": "Napoli show interest in Newcastle forward Nick Woltemade, Manchester City winger Jack Grealish is wanted by Sunderland and Arsenal explore a move for Lille forward Matias Fernandez-Pardo.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x1wwgn8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 21:19:11 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "アントニオは、若いガーナ人のチェイスを助けますプレミアリーグ夢の夢",
-      "summary": "過去の投稿ウェストハム獲得 Michail Antonio ガーナアカデミーの選手を支援しています。, プロの回転の希望でイングランドに旅行している人.",
-      "title_original": "Antonio helps young Ghanaians chase Premier League dreams",
-      "summary_original": "Former West Ham forward Michail Antonio is helping players from a Ghana academy, who have travelled to England in the hope of turning pro.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 07:01:58 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マンチェスター・ユナイテッドツイートイプスウィッチ・タウン FC: プレミアリーグ– ライブ",
-      "summary": "プレミアリーグ4:30pm(BST)キックオフライブスコアボードからのアップデート |Mail Tim 獲得を獲得を問い合わせ Bluesky Out 選手、それらのいくつかは、腕の赤ん坊を保持します - を含むマーカス・ラッシュフォード顔に笑顔が大きい人。午後の最初のメールはデイブから来ています。Hi TimMBM を愛する 獲得を獲得を問い合わせ 「Sesko がスタートを手に入れるのが難しいと思える理由について、どんなインサイトがあるか疑問に思います。」 続きを読む...",
-      "title_original": "Manchester United v Ipswich Town: Premier League – live",
+      "title": "マンチェスター・ユナイテッド 5-2 イプスウィッチ・タウン FC: プレミアリーグ– ライブ",
+      "summary": "プレミアリーグ4:30pm(BST)キックオフライブスコアボードからのアップデート |Mail Tim 獲得を獲得を問い合わせ Bluesky Out 選手、それらのいくつかは、腕の赤ん坊を保持します - を含むマーカス・ラッシュフォード顔に笑顔が大きい人。午後の最初のメールはデイブから来ています。Hi TimMBM を愛する 獲得を獲得を問い合わせ 「Sesko がスタートを手に入れるのが難しいと思われる理由について、どんなインサイトがあるか疑問に思います。」 続きを読む...",
+      "title_original": "Manchester United 5-2 Ipswich Town: Premier League – live",
       "summary_original": "Premier League updates from the 4.30pm (BST) kick-off Live scoreboard | Mail Tim and follow us over on Bluesky Out come the players, some of them holding babes in arms – including Marcus Rashford, who has a big smile on his face. The first email of the afternoon comes from Dave. “Hi Tim, loving the MBM.” Thanks! “Just wondered if there’s any insight into why Sesko seems to find it so hard to get a start.” Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
-      "published": "Sun, 30 Aug 2026 17:19:01 GMT",
+      "published": "Sun, 30 Aug 2026 17:33:47 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1454,13 +1459,27 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ザ・ツアーチャンピオンシップライブ! McIlroy chases Hovland で FedExCup Finale",
+      "title": "フェルナンデスハットトリックサポートマンチェスター・ユナイテッド Ipswich を打つために後ろから来る",
+      "summary": "ブルーノ・フェルナンデススコアハットトリックとしてマンチェスター・ユナイテッド後ろからイプスウィッチ5〜2 を打つオールド・トラッフォード季節の初勝利をピックアップ。",
+      "title_original": "Fernandes hat-trick helps Man Utd come from behind to beat Ipswich",
+      "summary_original": "Bruno Fernandes scored a hat-trick as Manchester United came from behind to beat Ipswich 5-2 at Old Trafford and pick up their first win of the season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-united-vs-ipswich-town/report/559461",
+      "published": "Sun, 30 Aug 2026 18:40:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ザ・ツアーチャンピオンシップライブ! McIlroy は Hovland リードとして初期の bogey を作る",
       "summary": "",
-      "title_original": "Tour Championship LIVE! McIlroy chases Hovland in FedExCup finale",
+      "title_original": "Tour Championship LIVE! McIlroy makes early bogey as Hovland leads",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13578968/tour-championship-final-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
-      "published": "Sun, 30 Aug 2026 17:15:00 BST",
+      "published": "Sun, 30 Aug 2026 18:26:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1468,10 +1487,24 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "イギリスのクルーズ過去のパキスタンからシールシリーズ Root’s Test キャプテンリターン",
-      "summary": "イングランドとパキスタンの第2 回試験試合の4 日目からハイライト。",
-      "title_original": "England cruise past Pakistan to seal series on Root’s Test captaincy return",
-      "summary_original": "Highlights from the day four of the second Test match between England and Pakistan.",
+      "title": "最も最近のゴルフ リーダーボード:FM Championship, ザ・ツアーチャンピオンシップ詳しくはこちら",
+      "summary": "PGA Tour's を含む世界中から最新のゴルフスコアと結果ザ・ツアーチャンピオンシップ, ,Husqvarna British Masters 獲得を獲得を問い合わせ",
+      "title_original": "Latest golf leaderboards: FM Championship, Tour Championship and more",
+      "summary_original": "Latest golf scores and results from around the world, including the PGA Tour's Tour Championship, the Husqvarna British Masters and more.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+      "published": "Sun, 30 Aug 2026 18:18:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ハイライト: イギリスのクルーズは、ルートのキャプテンリターンのシールシリーズにパキスタンを過ぎました",
+      "summary": "主の4 日目の最高を見ます イングランド thumped パキスタン によって 194 3 つのマッチテストシリーズで失敗した2-0 リードを取るために実行します。",
+      "title_original": "Highlights: England cruise past Pakistan to seal series on Root’s captaincy return",
+      "summary_original": "Watch the best of day four at Lord's as England thumped Pakistan by 194 runs to take an unassailable 2-0 lead in the three-match Test series.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13579009/england-vs-pakistan-2nd-test-day-four-morning-session-highlights",
       "published": "Sun, 30 Aug 2026 13:34:00 BST",
@@ -1496,20 +1529,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ブルックの「華麗な」は、主のパキスタンでイングランドの勝利を印鑑",
-      "summary": "その瞬間 Harry Brook キャッチモハメド・アリオフ Josh Tongue 主の194 ランの勝利を完了し、パキスタンを追い越した2-0 シリーズをシールします。",
-      "title_original": "Brook's 'brilliant' catch seals England's victory over Pakistan at Lord's",
-      "summary_original": "The moment Harry Brook caught Mohammad Ali off Josh Tongue to complete England's 194-run victory at Lord's and seal an unassailable 2-0 series lead over Pakistan.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13579166/england-v-pakistan-harry-brook-takes-final-catch-to-seal-test-series-at-lords",
-      "published": "Sun, 30 Aug 2026 17:56:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "チェルシービートブライトン Alonso の勝利の始まりを続行する7 ゴールのスリラー",
       "summary": "チェルシー開催中止ブライトンスリル満点の4-3 勝利をクリアし、マネージャーの下で勝利のスタートを続行するための戦いバックシャビ・アロンソ.",
       "title_original": "Chelsea beat Brighton in seven-goal thriller to continue Alonso's winning start",
@@ -1521,6 +1540,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ブルックの「華麗な」は、主のパキスタンでイングランドの勝利を印鑑",
+      "summary": "その瞬間 Harry Brook キャッチモハメド・アリオフ Josh Tongue 主の194 ランの勝利を完了し、パキスタンを追い越した2-0 シリーズをシールします。",
+      "title_original": "Brook's 'brilliant' catch seals England's victory over Pakistan at Lord's",
+      "summary_original": "The moment Harry Brook caught Mohammad Ali off Josh Tongue to complete England's 194-run victory at Lord's and seal an unassailable 2-0 series lead over Pakistan.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13579166/england-v-pakistan-harry-brook-takes-final-catch-to-seal-test-series-at-lords",
+      "published": "Sun, 30 Aug 2026 17:56:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1538,6 +1571,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "EFL 最新:Championship Team 今週の週末が明らかに!",
+      "summary": "",
+      "title_original": "EFL latest: Championship Team of the Weekend revealed!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "published": "Sun, 30 Aug 2026 16:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "サンダーランド最新:私たちは、私たちの家の要塞を再構築したい、と言う Le Bris",
       "summary": "",
       "title_original": "Sunderland latest: We want to rebuild our home fortress, says Le Bris",
@@ -1548,20 +1595,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "EFL 最新:シェフィールド・ユナイテッド FChijack Derby's のための移動 Leicester's Choudhury",
-      "summary": "",
-      "title_original": "EFL latest: Sheff Utd hijack Derby's move for Leicester's Choudhury",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "published": "Sun, 30 Aug 2026 16:00:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -1636,20 +1669,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "チェルシー最新: ここまで勝ち抜いたプレミアリーグ, マルティネス と言う",
-      "summary": "",
-      "title_original": "Chelsea latest: I came to here to win the Premier League, says Martinez",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Sun, 30 Aug 2026 15:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Maguire は家土の先に4 つを終えます Solheim Cup アレクサンダーの勝利として",
       "summary": "South Africa's Casandra Alexander 影響を受けた天候で勝利を主張 KPMG Irish Open 厳粛な週に渡るパフォーマンスキルデア県.",
       "title_original": "Maguire finishes fourth on home soil ahead of Solheim Cup as Alexander wins",
@@ -1661,6 +1680,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "チェルシー最新: ここまで勝ち抜いたプレミアリーグ, マルティネス と言う",
+      "summary": "",
+      "title_original": "Chelsea latest: I came to here to win the Premier League, says Martinez",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Sun, 30 Aug 2026 15:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1703,34 +1736,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マクインンズレンジャーズ VAR denies Aberdeen イコライザーとして最初のリーグを獲得",
-      "summary": "Lawrence Shankland's ペナルティは決定的として証明しましたレンジャーズ Aberdeen で1-0 の勝利を保証しました。Scottish Premiership 家の側面がピットドリーの VAR によって遅刻のイコライザーを否定した後、シーズンの勝利は、圧力を緩和しました Derek McInnes.",
-      "title_original": "McInnes' Rangers earn first league win as VAR denies Aberdeen equaliser",
-      "summary_original": "Lawrence Shankland's penalty proved decisive as Rangers secured a 1-0 win at Aberdeen, their first Scottish Premiership win of the season, after the home side were denied a late equaliser by VAR at Pittodrie, easing the pressure on Derek McInnes.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/aberdeen-vs-rangers/report/558351",
-      "published": "Sun, 30 Aug 2026 14:32:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "イディダー・シスターズ サンダーランド へ 狭い 勝つ から フォルハム",
-      "summary": "サンダーランドは、シーズンの最初のポイントをそのまま確保しました Wilson Isidor's 彼らの努力は、フルハムに対して1-0 の勝利を獲得しました。",
-      "title_original": "Isidor steers Sunderland to narrow win against Fulham",
-      "summary_original": "Sunderland secured their first points of the season as Wilson Isidor's effort earned them a 1-0 win against Fulham.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/sunderland-vs-fulham/report/559462",
-      "published": "Sun, 30 Aug 2026 15:45:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
