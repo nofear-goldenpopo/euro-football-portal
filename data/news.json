@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:49:17.010004+00:00",
+  "updated_at": "2026-08-30T13:04:08.151061+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -519,7 +519,9 @@
     "Hove Albion": "",
     "Aberdeen LIVE": "",
     "Stephen Mfuni": "",
-    "Fulham LIVE": ""
+    "Fulham LIVE": "",
+    "PC Matthew Blades": "",
+    "Old Trafford": "オールド・トラッフォード"
   },
   "items": [
     {
@@ -530,6 +532,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 08:51:08 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Jaissle 主張 最初プレミアリーグで勝つ 欠乏症トッテナム",
+      "summary": "セカンドハーフの目標 Anthony Elanga そして、Yoanne Wissa マネージャーMatthias Jaissle 最初からプレミアリーグ勝利、としてニューカッスル勝 2-0 でトッテナム.",
+      "title_original": "Jaissle claims first Premier League win at lacklustre Spurs",
+      "summary_original": "Second-half goals from Anthony Elanga and Yoanne Wissa give manager Matthias Jaissle his first Premier League victory, as Newcastle United win 2-0 at Tottenham Hotspur.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:27:16 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -548,6 +564,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド'proud Red'クラッシュ死役員に敬意を払う",
+      "summary": "ウィドウと2 人の子供 PC Matthew Blades 獲得を獲得を問い合わせオールド・トラッフォード獲得を獲得を問い合わせマンチェスター・ユナイテッド獲得を獲得を問い合わせプレミアリーグイプスウィッチでゲーム。",
+      "title_original": "Man Utd pay tribute to 'proud Red' crash death officer",
+      "summary_original": "The widow and two children of PC Matthew Blades will be at Old Trafford for Manchester United's Premier League game with Ipswich.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 12:46:10 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -579,20 +609,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Jaissle 主張 最初プレミアリーグで勝つ 欠乏症トッテナム",
-      "summary": "セカンドハーフの目標 Anthony Elanga そして、Yoanne Wissa マネージャーMatthias Jaissle 最初からプレミアリーグ勝利、としてニューカッスル勝 2-0 でトッテナム.",
-      "title_original": "Jaissle claims first Premier League win at lacklustre Spurs",
-      "summary_original": "Second-half goals from Anthony Elanga and Yoanne Wissa give manager Matthias Jaissle his first Premier League victory, as Newcastle United win 2-0 at Tottenham Hotspur.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:27:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Coventry、マンチェスター・シティから Mfuni on loan を獲得",
       "summary": "コヴェントリー・シティ FC 印の英語の擁護者 Stephen Mfuni 季節限定のローン契約からマンチェスター・シティ.",
       "title_original": "Coventry sign Mfuni on loan from Man City",
@@ -604,6 +620,34 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "£300m は、テーブルの底に費やしました...トッテナムログイン De Zerbi「怒らない」",
+      "summary": "夏に£300m 以上を過ごした、トッテナム自分自身の底を見つけるプレミアリーグ, ポイントやゴールなし, しかし、ボス ロベルト・デ・ツェルビは楽観的まま.",
+      "title_original": "£300m spent, bottom of the table... but Spurs boss De Zerbi 'not angry'",
+      "summary_original": "Having spent more than £300m in the summer, Tottenham find themselves bottom of the Premier League, without a point or a goal, but boss Roberto de Zerbi remains optimistic.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyqn158n5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 21:15:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "アントニオは、若いガーナ人のチェイスを助けますプレミアリーグ夢の夢",
+      "summary": "過去の投稿ウェストハム獲得 Michail Antonio ガーナアカデミーの選手を支援しています。, プロの回転の希望でイングランドに旅行している人.",
+      "title_original": "Antonio helps young Ghanaians chase Premier League dreams",
+      "summary_original": "Former West Ham forward Michail Antonio is helping players from a Ghana academy, who have travelled to England in the hope of turning pro.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 07:01:58 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -635,20 +679,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "£300m は、テーブルの底に費やしました...トッテナムログイン De Zerbi「怒らない」",
-      "summary": "夏に£300m 以上を過ごした、トッテナム自分自身の底を見つけるプレミアリーグ, ポイントやゴールなし, しかし、ボス ロベルト・デ・ツェルビは楽観的まま.",
-      "title_original": "£300m spent, bottom of the table... but Spurs boss De Zerbi 'not angry'",
-      "summary_original": "Having spent more than £300m in the summer, Tottenham find themselves bottom of the Premier League, without a point or a goal, but boss Roberto de Zerbi remains optimistic.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyqn158n5jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 21:15:46 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "「サポーターはいつも間違っていません」 - マウスエヴァートンファンの怒り",
       "summary": "David Moyes「サポーターはいつも間違っていない」と言った。エヴァートンファンは十代のミッドフィルダーの潜在的な販売に彼らの反対をボイス Harrison ArmstrongBournemouth で 1-1 を描画します。",
       "title_original": "'Supporters aren't always wrong' - Moyes on Everton fans' anger",
@@ -663,20 +693,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "「最悪のチームには悪くない」プレミアリーグ歴史 - Hull の完璧なスタート",
-      "summary": "ハルストライカーオリヴァー・マクバーニーCoventry を打ち勝つために彼のチームの評論家で遊び心のある掘り下げを持っています 2 プレミアリーグゲーム。",
-      "title_original": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
-      "summary_original": "Hull striker Oli McBurnie has a playful dig at his team's critics after beating Coventry to win their opening two Premier League games.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 18:03:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Boreham WoodAbdulmalik の Vardy-beating の記録料を受け入れて下さい",
       "summary": "スウェーデンクラブ Djurgardens 同意する National League 記録手数料は、ウィンガーに署名するために£1.5m を超えると考えられていました Abdul Abdulmalik から Boreham Wood.",
       "title_original": "Boreham Wood accept Vardy-beating record fee for Abdulmalik",
@@ -687,20 +703,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "アントニオは、若いガーナ人のチェイスを助けますプレミアリーグ夢の夢",
-      "summary": "過去の投稿ウェストハム獲得 Michail Antonio ガーナアカデミーの選手を支援しています。, プロの回転の希望でイングランドに旅行している人.",
-      "title_original": "Antonio helps young Ghanaians chase Premier League dreams",
-      "summary_original": "Former West Ham forward Michail Antonio is helping players from a Ghana academy, who have travelled to England in the hope of turning pro.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 07:01:58 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -901,6 +903,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "「最悪のチームには悪くない」プレミアリーグ歴史 - Hull の完璧なスタート",
+      "summary": "ハルストライカーオリヴァー・マクバーニーCoventry を打ち勝つために彼のチームの評論家で遊び心のある掘り下げを持っています 2 プレミアリーグゲーム。",
+      "title_original": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
+      "summary_original": "Hull striker Oli McBurnie has a playful dig at his team's critics after beating Coventry to win their opening two Premier League games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 18:03:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Wrexham 上司 Parkinson 'probably under Pressure' はじめて",
       "summary": "今シーズンも勝てない、オール・ウォーズ・ストライカーIwan Roberts 信じる Phil Parkinson おそらく Wrexham 上司として初めての圧力の下にあります。",
       "title_original": "Wrexham boss Parkinson 'probably under pressure' for first time",
@@ -915,13 +931,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "「信頼は存在しない」 - イラオラが Isak を最大限に引き出す方法は?",
-      "summary": "アレクサンデル・イサク2-2 のシーズンの最初の目標を勝ち抜くノッティンガム・フォレスト- しかし、方法リヴァプール彼から最善を尽くしますか?",
-      "title_original": "'That trust isn't there' - how does Iraola get best out of Isak?",
-      "summary_original": "Alexander Isak scored his first goal of the season in the 2-2 draw against Nottingham Forest - but how do Liverpool get the best out of him?",
+      "title": "West Brom、マンチェスター・ユナイテッドから Collyer を獲得",
+      "summary": "ウェスト・ブロムウィッチ・アルビオン FC サインイン ミッドフィルダーToby Collyer からマンチェスター・ユナイテッド未公開料金の場合。",
+      "title_original": "West Brom sign Collyer from Manchester United",
+      "summary_original": "West Bromwich Albion sign midfielder Toby Collyer from Manchester United for an undisclosed fee.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 15:49:49 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62ew152y7vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 11:45:59 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -935,7 +951,7 @@
       "summary_original": "Premier League updates from the 2pm (BST) kick-offs Live scoreboard | Mail John and follow us on BlueSky Mark Slater gets in touch: “I will be following the Chelsea vs Brighton match particulary, but am happy to see a Joy Division quote in the opening paragraphs. In Chelsea’s case, Brighton and Hove Albion, Manchester City, and Aston Villa most recently...” Tom: “A+++ for getting Joy Division into the Sunday MBM.” Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/chelsea-brighton-leeds-brentford-sunderland-fulham-premier-league-live",
-      "published": "Sun, 30 Aug 2026 12:31:22 GMT",
+      "published": "Sun, 30 Aug 2026 13:00:03 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1349,6 +1365,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "イタウマは、ハルゴヴィックのリマッチを受け取りません",
+      "summary": "Moses Itauma 直近のリマッチを受け取りたくない Filip Hrgovic 彼の世界ヘビー級タイトルが敗北した後。",
+      "title_original": "Itauma unlikely to receive Hrgovic rematch",
+      "summary_original": "Moses Itauma is unlikely to receive an immediate rematch with Filip Hrgovic after his world heavyweight title defeat.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13579003/moses-itauma-unlikely-to-receive-filip-hrgovic-rematch-after-shock-heavyweight-stoppage-defeat",
+      "published": "Sun, 30 Aug 2026 13:25:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Coventry 最新:マンチェスター・シティヤングスターMfuni 参加 Sky Blues レンタル移籍で",
       "summary": "",
       "title_original": "Coventry latest: Man City youngster Mfuni joins Sky Blues on loan",
@@ -1377,9 +1407,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ロビンソンは、イングランドのハントシリーズが勝利対を勝ち抜いた2 倍に打つ Pakistan LIVE!",
+      "title": "主のイングランドの押しで初登場のパキスタンが LIVE を勝ち取る!",
       "summary": "",
-      "title_original": "Robinson strikes twice in over as England hunt series win vs Pakistan LIVE!",
+      "title_original": "Pakistan three down early at Lord's as England push for series win LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13578951/england-vs-pakistan-second-test-day-four-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win",
@@ -1475,9 +1505,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Fernandez absent, マルティネス 開始 のためにチェルシーに対してブライトンライブ!",
+      "title": "チェルシー対比ブライトンライブ!",
       "summary": "",
-      "title_original": "Fernandez absent, Martinez starts for Chelsea against Brighton LIVE!",
+      "title_original": "Chelsea vs Brighton LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/live/559456",
@@ -1503,9 +1533,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "レンジャーズ獲得を獲得を問い合わせ アバディーンイコライザーが LIVE を除外!",
+      "title": "レンジャーズそして、McInnes は大きな勝利を確保 Aberdeen LIVE!",
       "summary": "",
-      "title_original": "Rangers relief! Aberdeen equaliser ruled out LIVE!",
+      "title_original": "Rangers and McInnes secure big win at Aberdeen LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/aberdeen-vs-rangers/live/558351",
@@ -1545,9 +1575,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "リーズベンチ対ウィルソン Brentford LIVE!",
+      "title": "リーズ対 Brentford LIVE!",
       "summary": "",
-      "title_original": "Wilson on Leeds bench vs Brentford LIVE!",
+      "title_original": "Leeds vs Brentford LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/leeds-united-vs-brentford/live/559459",
@@ -1608,20 +1638,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13578910/toulouse-olympique-28-18-bradford-bulls-super-league-highlights",
       "published": "Sun, 30 Aug 2026 00:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "スコアカード:イングランド対パキスタン、第二テスト、主の",
-      "summary": "",
-      "title_original": "Scorecard: England vs Pakistan, second Test, Lord's",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/england-v-pakistan/scorecard/1063b9b8-e3e5-5f0a-8be8-66743bae740b",
-      "published": "Thu, 27 Aug 2026 10:50:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
