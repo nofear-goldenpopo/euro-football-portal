@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T10:19:30.692391+00:00",
+  "updated_at": "2026-08-30T10:34:38.933160+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -482,7 +482,8 @@
     "Emi Martinez": "エミリアーノ・マルティネス",
     "Filip Hrgovic. Video": "",
     "Boreham Wood": "",
-    "Abdul Abdulmalik": ""
+    "Abdul Abdulmalik": "",
+    "Rangers LIVE": ""
   },
   "items": [
     {
@@ -626,20 +627,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Tarkowski は、救助ポイントに遅れて攻撃しますエヴァートンボーンマス",
-      "summary": "エヴァートンキャプテン James TarkowskiBournemouth が1-1 の描画のために解決するように91 分の1 でストライキ Vitality Stadium.",
-      "title_original": "Tarkowski strikes late to rescue point for Everton at Bournemouth",
-      "summary_original": "Everton captain James Tarkowski strikes in the 91st minute to rescue a point, as Bournemouth settle for a 1-1 draw at the Vitality Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c70lenegd1qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 19:12:07 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "「最悪のチームには悪くない」プレミアリーグ歴史 - Hull の完璧なスタート",
       "summary": "ハルストライカーオリヴァー・マクバーニーCoventry を打ち勝つために彼のチームの評論家で遊び心のある掘り下げを持っています 2 プレミアリーグゲーム。",
       "title_original": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
@@ -735,6 +722,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Tarkowski は、救助ポイントに遅れて攻撃しますエヴァートンボーンマス",
+      "summary": "エヴァートンキャプテン James TarkowskiBournemouth が1-1 の描画のために解決するように91 分の1 でストライキ Vitality Stadium.",
+      "title_original": "Tarkowski strikes late to rescue point for Everton at Bournemouth",
+      "summary_original": "Everton captain James Tarkowski strikes in the 91st minute to rescue a point, as Bournemouth settle for a 1-1 draw at the Vitality Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c70lenegd1qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 19:12:07 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -912,7 +913,7 @@
       "summary_original": "Reaction to Saturday’s action and more football news Today’s matches | Results | Tables | And email Emillia How the table looks after yesterday’s results… Elsewhere in the Premier League, Hull continued their winning start against Coventry and Everton clinched a last-minute equaliser against Bournemouth. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
-      "published": "Sun, 30 Aug 2026 10:00:33 GMT",
+      "published": "Sun, 30 Aug 2026 10:20:10 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1340,9 +1341,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "イングランドはローレンスを早く失いますが、360 以上のライブでパキスタンをリード!",
+      "title": "アブバスは、イングランドが360 対を超えるリードでニンスを失うにつれて5 を取る Pakistan LIVE!",
       "summary": "",
-      "title_original": "England lose Lawrence early but lead Pakistan by more than 360 LIVE!",
+      "title_original": "Abbas takes five as England lose ninth with lead over 360 vs Pakistan LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13578951/england-vs-pakistan-second-test-day-four-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win",
@@ -1449,6 +1450,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "アバディーン対レンジャーズライブ!",
+      "summary": "",
+      "title_original": "Aberdeen vs Rangers LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/aberdeen-vs-rangers/live/558351",
+      "published": "Sun, 30 Aug 2026 11:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1585,20 +1600,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13578731/lpga-tour-ruoning-yin-grabs-fm-championship-lead-after-late-chip-in-as-european-title-challenge-fades-in-boston",
       "published": "Sun, 30 Aug 2026 01:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "キャメロンは、マイヤー紛争の結果として3 分のラウンドリマッチを呼び出します",
-      "summary": "Chantelle Cameron3 分間のリマッチに対して呼び出されるミカエラ・メイヤーバーミンガムの MVPW-06 の MVPW-06 で統一された WBA、WBC および WBO スーパーウェルター級王者になるための非アニマルな決定によってアメリカ人を賭けた後。",
-      "title_original": "Cameron calls for three-minute round rematch as Mayer disputes result",
-      "summary_original": "Chantelle Cameron has called for a three-minute-round rematch against Mikaela Mayer after beating the American by unanimous decision to become the unified WBA, WBC and WBO super-welterweight champion at MVPW-06 in Birmingham.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13578911/chantelle-cameron-calls-on-wbc-to-implement-three-minute-rounds-for-impending-mikaela-mayer-title-fight-rematch",
-      "published": "Sat, 29 Aug 2026 23:49:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
