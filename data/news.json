@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T14:19:26.666985+00:00",
+  "updated_at": "2026-08-30T14:34:12.398542+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -539,7 +539,15 @@
     "Bluesky Afternoon": "",
     "Arnold Mühren": "",
     "Hull. Michael Carrick": "",
-    "McInnes' Rangers": ""
+    "McInnes' Rangers": "",
+    "Bluesky Marcus Rashford": "",
+    "Ruben Amorim": "ルベン・アモリム",
+    "Patrick Dorgu": "",
+    "Diogo Dalot": "",
+    "Lisandro Martinez": "",
+    "Andrey Santos": "",
+    "Battling Brighton": "",
+    "Chelsea LIVE": ""
   },
   "items": [
     {
@@ -969,7 +977,7 @@
       "summary_original": "Premier League updates from the 2pm (BST) kick-offs Live scoreboard | Mail John and follow us on Bluesky Mark Slater gets in touch: “I will be following the Chelsea vs Brighton match particulary, but am happy to see a Joy Division quote in the opening paragraphs. In Chelsea’s case, Brighton and Hove Albion, Manchester City, and Aston Villa most recently...” Tom: “A+++ for getting Joy Division into the Sunday MBM.” Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/chelsea-brighton-leeds-brentford-sunderland-fulham-premier-league-live",
-      "published": "Sun, 30 Aug 2026 14:09:55 GMT",
+      "published": "Sun, 30 Aug 2026 14:24:54 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -978,12 +986,12 @@
     },
     {
       "title": "マンチェスター・ユナイテッド. .イプスウィッチ・タウン FC: プレミアリーグ– ライブ",
-      "summary": "プレミアリーグ4:30pm(BST)キックオフライブスコアボードからのアップデート |Mail Tim 獲得を獲得を問い合わせ Bluesky Afternoon 皆様のお越しをお待ちしております。Arnold Mühren ダービー。季節が始まる前にやったものよりも、今より大きくロームするゲームです。それから、日曜日のティータイムのスロットの意外な選択肢みたいな感じでしたが、先週末はかなりのスクルードだった。Ipswich は Sunderland を越える勝利と動く地面に当たるマンチェスター・ユナイテッド Hull でバナナの皮に滑ります。マイケル・キャリックスチル",
+      "summary": "プレミアリーグ4:30pm(BST)キックオフライブスコアボードからのアップデート |Mail TimBluesky で私たちに従ってくださいマーカス・ラッシュフォード先週末半ばにやってきた人達が、45 分以上のキーパスをプレイブルーノ・フェルナンデス90 歳で管理し、最初からスタートした。ルベン・アモリム2024 年12 月 彼は置き換える Patrick Dorgu 左から。マイケル・キャリックまた、彼の防衛を揺るがします。Diogo Dalot そして、Lisandro Martinez, ミッドフィールドで Andrey Santos プレゼント",
       "title_original": "Manchester United v Ipswich Town: Premier League – live",
-      "summary_original": "Premier League updates from the 4.30pm (BST) kick-off Live scoreboard | Mail Tim and follow us over on Bluesky Afternoon everyone and welcome to the Arnold Mühren derby. It’s a game that looms larger now than it did before the season began. Then, it seemed like a surprising choice for the Sunday-teatime slot, but since last weekend it has looked rather shrewd. Ipswich hit the ground running with a win over Sunderland, while Manchester United slipped on a banana skin at Hull. Michael Carrick stil",
+      "summary_original": "Premier League updates from the 4.30pm (BST) kick-off Live scoreboard | Mail Tim and follow us over on Bluesky Marcus Rashford, who came on at half-time last weekend and played more key passes in 45 minutes than Bruno Fernandes managed in 90, is rewarded with his first start since he was frozen out by Ruben Amorim in December 2024. He replaces Patrick Dorgu on the left. Michael Carrick also shakes up his defence, bringing in Diogo Dalot and Lisandro Martinez, and in midfield Andrey Santos gives ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
-      "published": "Sun, 30 Aug 2026 14:02:57 GMT",
+      "published": "Sun, 30 Aug 2026 14:24:37 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1537,9 +1545,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マンチェスター・ユナイテッド Ipswich チームニュース LIVE!",
+      "title": "マンチェスター・ユナイテッド Rashford と Mainoo のスタートとして Ipswich チームニュースをライブ!",
       "summary": "",
-      "title_original": "Man Utd vs Ipswich team news LIVE!",
+      "title_original": "Man Utd vs Ipswich team news as Rashford and Mainoo start LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-united-vs-ipswich-town/live/559461",
@@ -1565,9 +1573,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ブライトンゴールを逆に引きますチェルシースリラーライブ!",
+      "title": "バタリングブライトン別の目標を逆に引きチェルシーライブ!",
       "summary": "",
-      "title_original": "Brighton pull a goal back against Chelsea in thriller LIVE!",
+      "title_original": "Battling Brighton pull another goal back against Chelsea LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/live/559456",
@@ -1635,9 +1643,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "サンダーランドとフルハムは、オープナーのライブで戦う!",
+      "title": "Isidor は Sunderland の遅いブレークスルー対を与えます Fulham LIVE!",
       "summary": "",
-      "title_original": "Sunderland and Fulham battling for opener LIVE!",
+      "title_original": "Isidor gives Sunderland late breakthrough vs Fulham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/sunderland-vs-fulham/live/559462",
@@ -1649,9 +1657,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Schade は Brentford に値する鉛を与えます Leeds LIVE!",
+      "title": "ブレンフォードは、シェード・オープナー・ライブの後、リーズでまだ先立ち!",
       "summary": "",
-      "title_original": "Schade gives Brentford deserved lead at Leeds LIVE!",
+      "title_original": "Brentford still ahead at Leeds after Schade opener LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/leeds-united-vs-brentford/live/559459",
