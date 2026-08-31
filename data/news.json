@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T18:04:42.225283+00:00",
+  "updated_at": "2026-08-31T18:22:07.372908+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -816,7 +816,9 @@
     "Nicolas Jackson. Marco Bizot": "",
     "João Gomes": "",
     "Alejandro Garnacho": "",
-    "US. The": ""
+    "US. The": "",
+    "Mykhailo Mudryk": "ミハイロ・ムドリク",
+    "Enzo Fernandez": ""
   },
   "items": [
     {
@@ -890,6 +892,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "トッテナム、winger Mudryk on loan 獲得へ交渉",
+      "summary": "トッテナム看板の話チェルシーウィンガーミハイロ・ムドリク季節限定のローン。",
+      "title_original": "Tottenham in talks to sign winger Mudryk on loan",
+      "summary_original": "Tottenham are in talks to sign Chelsea winger Mykhailo Mudryk on a season-long loan.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2m37k27pjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 18:12:08 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ウィンドウを閉じる前に見る転送",
       "summary": "BBC Sport's サッカーの専門家は火曜日の23:00 前に通ることができるスタンドアウト転送を選択します BST English 応募締切",
       "title_original": "The transfers to watch before window closes",
@@ -946,20 +962,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "「それは良い関係ではありません、それはお金の移籍です」 - ヴィラの Emery -チェルシーログイン",
-      "summary": "Unai Emery「良い関係がない」という主張チェルシーそして、アストン・ヴィラクラブ間での一連の転送の後。",
-      "title_original": "'It's not a good relationship, it's a deal for money' - Emery on Villa-Chelsea moves",
-      "summary_original": "Unai Emery insists that there are no \"good relations\" between Chelsea and Aston Villa after a series of transfers between the clubs.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 05:31:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -981,6 +983,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 17:58:36 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "「それは良い関係ではありません、それはお金の移籍です」 - ヴィラの Emery -チェルシーログイン",
+      "summary": "Unai Emery「良い関係がない」という主張チェルシーそして、アストン・ヴィラクラブ間での一連の転送の後。",
+      "title_original": "'It's not a good relationship, it's a deal for money' - Emery on Villa-Chelsea moves",
+      "summary_original": "Unai Emery insists that there are no \"good relations\" between Chelsea and Aston Villa after a series of transfers between the clubs.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 05:31:02 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1026,20 +1042,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "How Rangers、Kelsy once hid in truck to chase football dream を獲得候補に",
-      "summary": "戦場で遊べるトラックの隠れからレンジャーズターゲット Kevin Kelsy すでにキャリアを積んだ。",
-      "title_original": "How Rangers target Kelsy once hid in truck to chase football dream",
-      "summary_original": "From hiding in a truck to playing in a war zone, Rangers target Kevin Kelsy has had an eventful career already.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgw93e4938o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 10:22:45 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -1660,6 +1662,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "マンチェスター・シティ Ndiaye の契約の進歩、トッテナム Mudryk に注目を向ける",
+      "summary": "マンチェスター・シティと話すのに役立ちますエヴァートンウィンガーIliman Ndiaye 代替手段としてコーディ・ガクポ.",
+      "title_original": "Man City advancing on Ndiaye deal, Spurs turn attention to Mudryk",
+      "summary_original": "Manchester City are advancing in talks with Everton for winger Iliman Ndiaye as an alternative to Cody Gakpo.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579541/iliman-ndiaye-transfer-news-man-city-in-advanced-talks-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk",
+      "published": "Mon, 31 Aug 2026 19:15:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "McInnes ban は 'disgusting' コメントを上回る 'disgusting' コメントを上回る 'disgusting' 禁止レンジャーズプロモーション",
       "summary": "Derek McInnes' 直近のタッチライン禁止が下回りましたレンジャーズ「アピール」",
       "title_original": "McInnes ban verdict over 'disgusting' comment revealed after Rangers appeal",
@@ -1670,6 +1686,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Djokovic が「心臓破壊」の後退するのは今のところ正しい時間です US Open 損失?",
+      "summary": "ノバク・ジョコビッチ彼は5 セットのすべての瞬間に「despised」と述べた, 彼の終了5 時間の経口近く US Open 最初のラウンドで希望するので、現在、彼はトロフィー・ラデンのキャリアの時間を呼び出しているかどうか質問です。",
+      "title_original": "Is now the right time for Djokovic to retire after 'heart-breaking' US Open loss?",
+      "summary_original": "Novak Djokovic said he \"despised\" every moment of the five-set, near five-hour ordeal which ended his US Open hopes in the first round, so now the question is whether he calls time on his trophy-laden career.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13579465/us-open-is-now-the-right-time-for-novak-djokovic-to-retire-after-heart-breaking-first-round-exit-in-new-york",
+      "published": "Mon, 31 Aug 2026 19:00:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -1730,6 +1760,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Sunderland 最新: 原則的に合意したトッテナム Danso に署名する",
+      "summary": "",
+      "title_original": "Sunderland latest: Agreement in principle reached with Spurs to sign Danso",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Mon, 31 Aug 2026 19:04:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "マンチェスター・シティバンパーGakpo 入札拒否後のオプションを検討",
       "summary": "マンチェスター・シティ後に代替品を探していますリヴァプール£80m 入札を拒否コーディ・ガクポ.",
       "title_original": "Man City consider options after bumper Gakpo bid rejected",
@@ -1783,6 +1827,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・シティオープントークチェルシーフェナンデスに署名する",
+      "summary": "マンチェスター・シティクラブ・ツー・クラブ・トークをオープンしました。チェルシー署名する Enzo Fernandez、イタリアの空に従って。",
+      "title_original": "Man City open talks with Chelsea to sign Fernandez",
+      "summary_original": "Manchester City have opened direct club-to-club talks with Chelsea to sign Enzo Fernandez, according to Sky in Italy.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13577767/enzo-fernandez-transfer-news-man-city-open-talks-with-chelsea-to-sign-argentina-midfielder",
+      "published": "Mon, 31 Aug 2026 19:10:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1856,9 +1914,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "US Open2 日目 LIVE! Alcaraz は Sabalenka として返し、Britain's Dart ログイン",
+      "title": "US Open2 日目 LIVE! Alcaraz は、Sabalenka ウィンズ と Fils ダンプアウトとして返されます",
       "summary": "",
-      "title_original": "US Open day two LIVE! Alcaraz returns as Sabalenka and Britain's Dart win",
+      "title_original": "US Open day two LIVE! Alcaraz returns as Sabalenka wins and Fils dumped out",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13579172/us-open-live-scores-updates-news-commentary-and-results-from-flushing-meadows-new-york-with-carlos-alcaraz-aryna-sabalenka-in-action",
@@ -1880,62 +1938,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "イングランドの未来へ Ireland ODIs リリースインテル夏季休暇",
-      "summary": "England Women's ODI 側面は、アイルランドに対して異なる外観を持っています, シニアフィギュアが休息し、新しいまたはフリンジ選手は機会を手渡しました.",
-      "title_original": "Glimpse into England's future as Ireland ODIs end international summer",
-      "summary_original": "England Women's ODI side will have a different look to it against Ireland, with senior figures rested and new or fringe players handed opportunities.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13579396/england-take-on-ireland-in-odis-live-on-sky-sports-with-alice-capsey-keeping-wicket-and-charlie-dean-captaining-again",
-      "published": "Mon, 31 Aug 2026 13:00:00 BST",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "WTGL チームは、11 月の発売前に発表された 5 つの星を獲得",
-      "summary": "The Women's TGL11 月にリーグの立ち上げに先立ち、5 つの創設チームで完全なロスターを確認しました。",
-      "title_original": "Five star-studded WTGL teams revealed ahead of November launch",
-      "summary_original": "The Women's TGL has confirmed the complete rosters for its five founding teams ahead of the league launch in November.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13579476/womens-tgl-five-line-ups-for-inaugural-season-unveiled-with-charley-hull-and-lexi-thompson-among-big-names",
-      "published": "Mon, 31 Aug 2026 16:03:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "森のグラズナーと Munoz が再会クリスタル・パレスログイン",
-      "summary": "ノッティンガム・フォレスト署名を完了しました Daniel Munoz からクリスタル・パレス.",
-      "title_original": "Munoz reunites with Glasner at Forest after Palace move",
-      "summary_original": "Nottingham Forest have completed the signing of Daniel Munoz from Crystal Palace.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579400/daniel-munoz-nottingham-forest-sign-defender-from-crystal-palace-in-transfer-deal-worth-up-to-22m",
-      "published": "Mon, 31 Aug 2026 13:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ハル最新:タイガーズは、シュトゥットガルト Vagnoman について",
-      "summary": "",
-      "title_original": "Hull latest: Tigers agree deal with Stuttgart for Vagnoman",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Mon, 31 Aug 2026 12:25:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
