@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T19:04:38.971592+00:00",
+  "updated_at": "2026-08-31T19:19:11.900397+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -825,7 +825,14 @@
     "Joshua Kushner": "",
     "Gianni Infantino's": "",
     "Unai Emery’s": "",
-    "Arsenal LIVE": ""
+    "Arsenal LIVE": "",
+    "Everton's Ndiaye": "",
+    "Villa Park": "ヴィラ・パーク",
+    "North Stand": "",
+    "Poor Villa. They": "",
+    "The Argentine’s": "",
+    "FedEx Cup": "",
+    "Rob Lee": ""
   },
   "items": [
     {
@@ -853,6 +860,20 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・シティ、エヴァートンの Ndiaye 獲得で6500 万ポンド合意",
+      "summary": "マンチェスター・シティ署名する最低£60m の価値のある移籍に同意する Iliman Ndiaye からエヴァートン.",
+      "title_original": "Man City agree £65m deal for Everton's Ndiaye",
+      "summary_original": "Manchester City agree a deal worth a minimum £60m to sign Iliman Ndiaye from Everton.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 19:12:15 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -941,20 +962,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "森の完全な£22m Munoz 署名からクリスタル・パレス",
-      "summary": "ノッティンガム・フォレスト£22m の署名を完了 Daniel Munoz からクリスタル・パレス.",
-      "title_original": "Forest complete £22m Munoz signing from Palace",
-      "summary_original": "Nottingham Forest complete the £22m signing of Daniel Munoz from Crystal Palace.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn5d7k4nkyvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 12:30:45 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "時計: アルゼンチンのメッシーの最後の目標",
       "summary": "リオネル・メッシアトランタでの試合中に2〜2 で試合をレベルアップするために、エジプトに対するアルゼンチンの後半のイコライザーをスコアします。",
       "title_original": "Watch: Messi's last-ever goal for Argentina",
@@ -965,6 +972,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "森の完全な£22m Munoz 署名からクリスタル・パレス",
+      "summary": "ノッティンガム・フォレスト£22m の署名を完了 Daniel Munoz からクリスタル・パレス.",
+      "title_original": "Forest complete £22m Munoz signing from Palace",
+      "summary_original": "Nottingham Forest complete the £22m signing of Daniel Munoz from Crystal Palace.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn5d7k4nkyvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 12:30:45 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -1235,27 +1256,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "フォローする方法 Transfer Deadline DayBBC について",
-      "summary": "Our Ask Me Anything チームは、BBC 全体での転送期限日のアクションに従う方法を説明します。",
-      "title_original": "How to follow Transfer Deadline Day on the BBC",
-      "summary_original": "Our Ask Me Anything team explain how to follow all the transfer deadline day action across the BBC.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zxvqx8k9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 09:12:46 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "アストン・ヴィラ. .アーセナル: プレミアリーグ– ライブ",
-      "summary": "⚽️ プレミアリーグ BST キックオフの8pm からのアップデート Email ScottTikTok と Bluesky で私たちに従ってくださいアストン・ヴィラ新しいキットを今夜にデビューします。この素晴らしく実現されたナンセンスを再訪する古い言い訳...Unai Emery’s ダブルブレストスポーツコートは、明らかにその映画の傑出した部分ですが、ヴィラシャツ自体は最高の注文のレトロな輝きです。問題があります。ここまでは、ヴィラは歴史の4 つの前の機会に青い袖を掛けました",
+      "summary": "⚽️ プレミアリーグ BST キックオフの8pm からのアップデート Email ScottTikTok で私たちに従ってください Bluesky The チームをクリア! みんなの身に着けていることを知っています。37,000 円前後の容量を削減ヴィラ・パーク, と North Stand 季節限定で拡大を容易に 数分間オフします。プレマッチのポストバッグ。“Poor Villa. They 昨年も大盛況でした。その後、経営陣はチームの中心を離れる。今日、彼らはによって恥ずかしい取得します Gunners. What プレゼント",
       "title_original": "Aston Villa v Arsenal: Premier League – live",
-      "summary_original": "⚽️ Premier League updates from the 8pm BST kick-off ⚽️ Email Scott and follow us on TikTok and Bluesky Aston Villa will be debuting their new kit tonight. Any old excuse to revisit this wonderfully realised nonsense … Unai Emery’s double-breasted sports coat is obviously the standout piece in that film, but the Villa shirt itself is retro glam of the highest order. There is a problem though. As far as I can make out, Villa have ditched the blue sleeves on four previous occasions in their history",
+      "summary_original": "⚽️ Premier League updates from the 8pm BST kick-off ⚽️ Email Scott and follow us on TikTok and Bluesky The teams are out! You know what everyone’s wearing. A reduced capacity of around 37,000 at Villa Park, with the North Stand closed for the season to facilitate its expansion. We’ll be off in a couple of minutes. Pre-match postbag. “Poor Villa. They were so great last year. Then management sells off the heart of their team. Today they will get embarrassed by the Gunners. What a present to their",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/31/aston-villa-v-arsenal-premier-league-live",
-      "published": "Mon, 31 Aug 2026 18:43:51 GMT",
+      "published": "Mon, 31 Aug 2026 19:14:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1585,6 +1592,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "リオネル・メッシ獲得を獲得を問い合わせインテル国家退職は、リマインダーとして機能します:あなたがまだできる間に彼を見る",
+      "summary": "The Argentine’s アルゼンチンとのキャリアは単数で、彼の出口は、すべての良いものが最後まで来ることを思い出させるものであり、2026 の決定的な瞬間の中にありました World Cup: リオネル・メッシ最後の腕を失った後、アルゼンチンの fervent サポーターに目を向ける立っている腕の akimbo。ティールズは、彼のチームの恥ずかしがりがりかしいスペインへの喪失の後に彼の顔をストリーミングしました。有名なアルゼンチンのキットを着ています。大会で最初に叫んだのはなかった。そこにあった",
+      "title_original": "Lionel Messi’s international retirement serves as a reminder: Watch him while you still can",
+      "summary_original": "The Argentine’s career with Argentina was singular, and his exit is a reminder that all good things come to an end It was among the defining moments of the 2026 World Cup: Lionel Messi standing arms akimbo, looking up towards Argentina’s fervent supporters after losing the final . Tears streamed down his face after his team’s embarrassing loss to Spain in what we now know was Messi’s final match wearing that famous Argentina kit. It was not the first time he’d cried at the tournament. There had ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can",
+      "published": "Mon, 31 Aug 2026 18:51:49 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ワトキンズは、サウジの supremacy と Tuchel の注意をプッシュするストライカーとしてトニークラッシュに直面しています",
       "summary": "Al-Hilal の Villa のサインは、Al-Ahli に対する大きなゲームにまっすぐ投げられ、期待の最高に直面しています Ollie Watkins そして、イヴァン・トニーマイアミで数週間前にピッチで33 分を過ごしました。イングランドは3 位でフランス6-4 を敗北させました。World Cup. They アル・ハイル・アル・アハリのリヤドで火曜日に再会され、タイトルの希望間の最初の大きな衝突は Saudi Pro League 季節限定アストン・ヴィラファンは、から始めて、それを望んでいますアーセナル月曜日、日曜日",
       "title_original": "Watkins faces Toney clash as strikers push for Saudi supremacy and Tuchel’s attention",
@@ -1655,16 +1676,16 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "古い男性のための国なし:プレミアリーグ粉砕は、マネージャーが若くなっている理由です",
-      "summary": "デュグアウトの上司は、通常、古いプレーヤーを老化させることはありません - ほとんどは、古い取得の問題の1 つに、排気トレッドミル上の40 年代にいます。あなたが、またはそれらであるかどうかは、あなたが決して確認されていないことです。世界は本当に変化していますか、それともあなただけです、適応するために苦労していますか? 人生にはマイルストーンがあります。おそらく、大学や最初の仕事に精通しているので、あなたはあなたよりも若いサッカー選手を見ていると考えているとき。それから、15-20 年後、あなたはあなたが見ていることを実感しています",
-      "title_original": "No country for old men: Premier League grind is why managers are getting younger",
-      "summary_original": "The boss in the dugout is typically no longer an ageing former player – most are in their 40s on an exhausting treadmill One of the problems with getting older is that you’re never quite sure whether it’s you or them. Is the world really changing, or is it just you, struggling to adapt? There’s a milestone in life, probably as you’re contemplating university or a first job, when you realise you’re watching a footballer who is younger than you. Then, 15-20 years later, you realise you’re watching",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/premier-league-managers-young-old-football-coaches",
-      "published": "Sat, 29 Aug 2026 19:00:34 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "title": "McIlroy:「Grumpy」世界 No2 は「新しい目標」を必要としません FedEx Cup クレーム",
+      "summary": "ローリー・マキロイ元ゴルファーによると、彼の家命のバランスをとりながら、彼は本当に世界 No 1 になりたいどのくらいを評価する必要があります Rob Lee.",
+      "title_original": "McIlroy: 'Grumpy' world No 2 needs 'new goal' after FedEx Cup claims",
+      "summary_original": "Rory McIlroy needs to assess how much he truly wants to be world No 1 again alongside balancing his home life, according to former golfer Rob Lee.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13579554/rory-mcilroys-desire-will-dictate-future-as-scottie-scheffler-tipped-to-relight-opponents-fire",
+      "published": "Mon, 31 Aug 2026 19:50:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -1711,9 +1732,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "MNF:アストン・ヴィラ対比アーセナルライブ!",
+      "title": "ヴィラは Buendia のヒットでよく始まりますアーセナルクロスバー LIVE!",
       "summary": "",
-      "title_original": "MNF: Aston Villa vs Arsenal LIVE!",
+      "title_original": "Villa start well with Buendia hitting Arsenal crossbar LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/aston-villa-vs-arsenal/live/559454",
@@ -1865,17 +1886,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ニューカッスル最新:Fernandez-Pardo 料金が明らかに",
+      "title": "ニューカッスル最新:ユヴェントス Woltemade に署名する合意に達するレンタル移籍で",
       "summary": "",
-      "title_original": "Newcastle latest: Fernandez-Pardo fee revealed",
+      "title_original": "Newcastle latest: Juventus reach agreement to sign Woltemade on loan",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Mon, 31 Aug 2026 12:15:00 BST",
+      "published": "Mon, 31 Aug 2026 20:02:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1931,20 +1952,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ニューカッスル契約の締結リール'フェルナンデス・パド",
-      "summary": "ニューカッスル署名の順守 Matias Fernandez-Pardo.",
-      "title_original": "Newcastle closing in on deal to sign Lille's Fernandez-Pardo",
-      "summary_original": "Newcastle United are closing in on a deal to sign Matias Fernandez-Pardo.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579415/matias-fernandez-pardo-transfer-news-newcastle-closing-in-on-deal-to-sign-lille-forward-ahead-of-transfer-deadline",
-      "published": "Mon, 31 Aug 2026 14:50:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
