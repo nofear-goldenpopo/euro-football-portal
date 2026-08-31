@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T14:49:30.862837+00:00",
+  "updated_at": "2026-08-31T15:04:56.372900+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -773,7 +773,8 @@
     "St James’ Park": "セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)",
     "Matthias Jaissle. Continue": "",
     "Igor Julio": "",
-    "Scot Prem": ""
+    "Scot Prem": "",
+    "EFL Cup": "EFLカップ"
   },
   "items": [
     {
@@ -847,6 +848,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "エヴァートン強制移動 EFL カップ短い通知でタイ",
+      "summary": "エヴァートン彼らの移動を強制的に EFL カップチャンピオンシップ側の Wolves - 再生される前に9 日。",
+      "title_original": "Everton forced to move EFL Cup tie at short notice",
+      "summary_original": "Everton are forced to move their Carabao Cup third-round match against Championship side Wolves - nine days before it was due to be played.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zq97w28eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 14:46:10 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "運転と空腹 Rashford a マンチェスター・ユナイテッドアセット - マギレ",
       "summary": "マンチェスター・ユナイテッドディフェンダーハリー・マグワイアバックアップマーカス・ラッシュフォード今シーズンはクラブに大きなインパクトを与える。",
       "title_original": "Driven & hungry Rashford a Man Utd asset - Maguire",
@@ -861,13 +876,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "なぜ?チェルシータイトルの挑戦者であるために新しいゴールキーパーより多くを必要とする",
-      "summary": "チェルシー「新しいゴールキーパー」Emiliano Martinez スリリングな4-3 勝でデビューブライトン- しかし、自分の新しいクラブの守備面の問題を解決することはできません。",
-      "title_original": "Why Chelsea need more than a new goalkeeper to be title challengers",
-      "summary_original": "Chelsea's new goalkeeper Emiliano Martinez made his debut in a thrilling 4-3 win over Brighton - but is unable to solve his new club's defensive problems on his own.",
+      "title": "バルコラ- setbacks を克服した 'grasshopper'",
+      "summary": "獲得を獲得を問い合わせリヴァプール£123m 転送を完了ブラッドリー・バルコラ, BBC スポーツは、彼は彼の家族の助けを借りてトップに到達するために、退任したトリムスとセットバックを持っている方法を見て.",
+      "title_original": "Barcola - the 'grasshopper' who has overcome setbacks",
+      "summary_original": "As Liverpool complete a £123m transfer for Bradley Barcola, BBC Sport looks at how he has ridden triumphs and setbacks to reach the top with the help of his family.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 17:12:39 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceqewejnpr3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 13:14:48 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -917,6 +932,34 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "バレンシアインテル融資先で評価リヴァプールエリオット",
+      "summary": "バレンシアは、リヴァプールミッドフィルダーを取るために Harvey Elliott レンタル移籍で四季折々の休憩に。",
+      "title_original": "Valencia interested in loan for Liverpool's Elliott",
+      "summary_original": "Valencia are in talks with Liverpool to take midfielder Harvey Elliott on loan for the rest of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 12:56:36 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "なぜ?チェルシータイトルの挑戦者であるために新しいゴールキーパーより多くを必要とする",
+      "summary": "チェルシー「新しいゴールキーパー」Emiliano Martinez スリリングな4-3 勝でデビューブライトン- しかし、自分の新しいクラブの守備面の問題を解決することはできません。",
+      "title_original": "Why Chelsea need more than a new goalkeeper to be title challengers",
+      "summary_original": "Chelsea's new goalkeeper Emiliano Martinez made his debut in a thrilling 4-3 win over Brighton - but is unable to solve his new club's defensive problems on his own.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 17:12:39 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "マンチェスター・ユナイテッド近くの契約のための Mexico's Bernal",
       "summary": "マンチェスター・ユナイテッドメキシコの署名に近いですインテル全国 Rebeca Bernal からワシントン・スピリット.",
       "title_original": "Man Utd near deal for Mexico's Bernal",
@@ -941,48 +984,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "バレンシアインテル融資先で評価リヴァプールエリオット",
-      "summary": "バレンシアは、リヴァプールミッドフィルダーを取るために Harvey Elliott レンタル移籍で四季折々の休憩に。",
-      "title_original": "Valencia interested in loan for Liverpool's Elliott",
-      "summary_original": "Valencia are in talks with Liverpool to take midfielder Harvey Elliott on loan for the rest of the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 12:56:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Germany's Wamser 完全な移動マンチェスター・シティ",
-      "summary": "マンチェスター・シティ署名を完了して下さいレヴァークーゼンドイツのディフェンダーCarlotta Wamser4 年契約",
-      "title_original": "Germany's Wamser completes move to Man City",
-      "summary_original": "Manchester City complete the signing of Bayer Leverkusen and Germany defender Carlotta Wamser on a four-year deal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g5x8y0n2jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 10:30:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Coady は相互の同意によって Wrexham を離れます",
-      "summary": "Defender Conor Coady 選手権クラブとの契約の相互終了に続くレキシャムを残します。",
-      "title_original": "Coady leaves Wrexham by mutual consent",
-      "summary_original": "Defender Conor Coady leaves Wrexham following the mutual termination of his contract with the Championship club.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg59yzg2yrzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 13:01:08 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -1183,16 +1184,16 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "フォローする方法 Transfer Deadline DayBBC について",
-      "summary": "Our Ask Me Anything チームは、BBC 全体での転送期限日のアクションに従う方法を説明します。",
-      "title_original": "How to follow Transfer Deadline Day on the BBC",
-      "summary_original": "Our Ask Me Anything team explain how to follow all the transfer deadline day action across the BBC.",
+      "title": "トッテナム Pulisic についての獲得を獲得を問い合わせ - 月曜日のゴシップ",
+      "summary": "トッテナム注意を向けるクリスチャン・プルシック, リヴァプールそして、エヴァートンイベントインテル最新記事シュトゥットガルトウィンガーJamie Leweling とクリスタル・パレス継続したい Dean Henderson アフターノッティンガム・フォレスト入札.",
+      "title_original": "Tottenham enquire about Pulisic - Monday's gossip",
+      "summary_original": "Spurs turn attention to Christian Pulisic, Liverpool and Everton show interest in Stuttgart winger Jamie Leweling, and Crystal Palace want to keep Dean Henderson after Nottingham Forest bid.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zxvqx8k9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 09:12:46 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c89jxnelpywo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 20:59:21 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1203,7 +1204,7 @@
       "summary_original": "Men’s transfer interactive | Women’s transfer interactive Get in touch: email Dom and follow us on Bluesky Some slightly lower-key deals for you: Rotherham United have confirmed the signing of Manchester United youngster Jayce Fitzgerald on loan for the rest of the season. Barcelona have signed 16-year-old prodigy Mikael Baza from Hamburg – he will join their youth ranks. Jaden Heskey is to return to Sheffield Wednesday from Manchester City on loan after impressing last season. Continue reading.",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/31/football-transfer-deadline-day-looms-latest-news-on-gakpo-sarr-and-more-live",
-      "published": "Mon, 31 Aug 2026 14:41:11 GMT",
+      "published": "Mon, 31 Aug 2026 14:52:51 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1533,6 +1534,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "サッカートップの短い人生についてシャツを手に入れる時間です",
+      "summary": "四季折々の廃棄を目指したクラブシャツの数百万枚のリシンクが必要 When Joanna Czutkowna 埋葬されたマンチェスター・ユナイテッド彼女のランカシャー農場で綿 T シャツとウールコットンジャンパー、そして1 年後にダグアップし、ビデオはウイルスになりました。The T-shirt 縫い目(ポリエステル糸で縫い付け)とは別に消えていましたが、ジャンパーは80%なくなっていましたが、ユナイテッドシャツは残っています。(インサートジョークはこちら) 大判は驚きではなく、確かに",
+      "title_original": "It’s time to get shirty about the short life of the football top",
+      "summary_original": "With millions of club shirts going to waste every season, a radical recycling rethink is needed When Joanna Czutkowna buried a Manchester United jersey, a cotton T-shirt and a wool-cotton jumper in her Lancashire farm and dug it up a year later, the video went viral. The T-shirt had disappeared, apart from the seams (sewn with polyester thread), the jumper was 80% gone, but the United shirt remained – grubby but indestructible. (Insert joke here) The big reveal was not a surprise, certainly not ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/sport/2026/aug/31/get-shirty-about-short-life-of-football-top-the-hotspot",
+      "published": "Mon, 31 Aug 2026 10:00:23 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "「私は非常に強烈なキャリアを持っていた」:Mario Balotelli イタリアのサッカーの悩みと将来について",
       "summary": "ストライカーは、UAE での生活を語る, Azzurri と「特別な感情」のための再生の問題マンチェスター・シティ名前がいつまでも Mario Balotelli 特にイタリアでは、後悔感のある会話はほぼ必然的にレースされています。そこには、物事だけが異なっていた場合、世界の最高の1 つであるために、生を所有しているプレーヤーの上に集約的な sigh である「どうか?」を lingering ということです。しかし、彼の前にいる、彼の顔に笑顔で、それはクルになります",
       "title_original": "‘I’ve had a very hectic career’: Mario Balotelli on Italian football’s troubles and his future",
@@ -1586,20 +1601,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "「今は、プレイヤーが話すのに良い時間です」:Lucy BronzeFifa で避難者を支援",
-      "summary": "チェルシーディフェンダーは、この夏にコロンビアの難民と人々を支援するための彼女の情熱とピッチを離れて過ごす時間に反映します Lucy Bronze 止まらない。脳は1 分100 マイルを走る。伝統芸能を必要としません。「私はテレビを見ているのは良いではありません - 私はまだ座ることができません」とブロンズは、風からシールドされたベンチに、まだ並べ替えチェルシーCobham でのトレーニング 「最近、車に耳を傾けて、他の人が飛び込んだことを私に尋ねました",
-      "title_original": "‘Now is a good time for players to speak up’: Lucy Bronze on Fifa and helping refugees",
-      "summary_original": "Chelsea defender reflects on spending time with refugees in Colombia this summer and her passion for helping people on and off the pitch Lucy Bronze does not stop. Her brain runs a hundred miles a minute. She does not need traditional entertainment. “I’m not good at watching TV – I can’t sit still,” Bronze says, sitting sort-of still, on a bench shielded from the wind, overlooking Chelsea’s training pitch at Cobham. “Someone recently asked me what I listen to in the car and someone else jumped i",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/lucy-bronze-chelsea-women-england-fifa-refugees",
-      "published": "Sat, 29 Aug 2026 07:00:20 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
