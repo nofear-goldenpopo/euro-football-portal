@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T08:04:40.158636+00:00",
+  "updated_at": "2026-08-31T08:19:12.852698+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -713,7 +713,8 @@
     "Baggy Greens": "",
     "The Ashes": "ジ・アッシズ",
     "Good Morning Transfers": "",
-    "Sky Sports News": ""
+    "Sky Sports News": "",
+    "Euro Debrief": ""
   },
   "items": [
     {
@@ -723,7 +724,7 @@
       "summary_original": "BBC Sport's football experts picks out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 06:42:23 GMT",
+      "published": "Mon, 31 Aug 2026 08:12:39 GMT",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
@@ -1683,6 +1684,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Euro Debrief: モウリーニョを最大限に活用するベリンガム獲得を獲得を問い合わせレアル・マドリード",
+      "summary": "",
+      "title_original": "Euro Debrief: Mourinho getting best out of Bellingham at Real Madrid",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13576939/jude-bellingham-jose-mourinho-getting-best-out-of-england-star-as-a-no-10-at-real-madrid-plus-lots-more-in-the-euro-debrief",
+      "published": "Mon, 31 Aug 2026 09:00:00 BST",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "'それはそれらのためにそこにあります' - ルートは、イングランドのボウラーを「レガシーの作成」に挑戦します",
       "summary": "Joe Root イングランドのチームは、ゲームで自分の遺産を追い出すために挑戦しました, 彼の側は、主のパキスタンに対する一連の勝利を固定した後.",
       "title_original": "'It's all there for them' - Root challenges England bowlers to 'create legacy'",
@@ -1820,20 +1835,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Ipswich 最新: O'Neil 氏は setback によく対応しなければなりません。",
-      "summary": "",
-      "title_original": "Ipswich latest: We must respond better to setbacks, says O'Neil",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Fri, 28 Aug 2026 15:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
