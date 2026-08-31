@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T20:34:30.258428+00:00",
+  "updated_at": "2026-08-31T20:49:36.492992+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -845,7 +845,12 @@
     "Carlos Alcaraz": "",
     "Russia's Roman Safiullin": "",
     "Villa LIVE": "",
-    "United States": "アメリカ合衆国"
+    "United States": "アメリカ合衆国",
+    "Mark Chapman": "",
+    "Chris Sutton": "クリス・サットン",
+    "Stephen Warnock": "",
+    "Rory Smith": "",
+    "Aryna Sabalenka": ""
   },
   "items": [
     {
@@ -877,6 +882,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "マンチェスター・シティ'£80m 崩壊に近いガクポのために移動",
+      "summary": "マンチェスター・シティの 提案 £80m のために移動リヴァプール獲得コーディ・ガクポ繁華街に近いです。",
+      "title_original": "Man City's £80m move for Gakpo close to collapse",
+      "summary_original": "Manchester City's proposed £80m move for Liverpool forward Cody Gakpo is close to collapsing.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 19:30:01 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "'Nothing left to give' - 伝説 Messi 終了 アルゼンチン キャリア",
       "summary": "アルゼンチン 素晴らしいリオネル・メッシ退職後退の発表インテル国民のサッカーは「急ぎ」と判断したが、「時が来た」と理解している。",
       "title_original": "'Nothing left to give' - legend Messi ends Argentina career",
@@ -902,20 +921,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マンチェスター・シティ'£80m 崩壊に近いガクポのために移動",
-      "summary": "マンチェスター・シティの 提案 £80m のために移動リヴァプール獲得コーディ・ガクポ繁華街に近いです。",
-      "title_original": "Man City's £80m move for Gakpo close to collapse",
-      "summary_original": "Manchester City's proposed £80m move for Liverpool forward Cody Gakpo is close to collapsing.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 19:30:01 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -989,20 +994,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ゴール、レコード、涙... Messi の最も象徴的な瞬間",
-      "summary": "獲得を獲得を問い合わせリオネル・メッシ退職者からインテル父の死に続く国民のサッカー、BBC スポーツは、彼の最も象徴的な瞬間のいくつかを見てください。",
-      "title_original": "Goals, records, tears ... Messi's most iconic moments",
-      "summary_original": "As Lionel Messi retires from international football following the death of his father, BBC Sport looks back at some of his most iconic moments.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74x9zd83vlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 17:46:23 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "エヴァートン同意する £40m 手数料 のためのモナコストライカー・バロウン",
       "summary": "エヴァートン£40m の獲得で合意モナコ獲得を獲得を問い合わせアメリカ合衆国ストライカーFolarin Balogun.",
       "title_original": "Everton agree £40m fee for Monaco striker Balogun",
@@ -1014,6 +1005,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ゴール、レコード、涙... Messi の最も象徴的な瞬間",
+      "summary": "獲得を獲得を問い合わせリオネル・メッシ退職者からインテル父の死に続く国民のサッカー、BBC スポーツは、彼の最も象徴的な瞬間のいくつかを見てください。",
+      "title_original": "Goals, records, tears ... Messi's most iconic moments",
+      "summary_original": "As Lionel Messi retires from international football following the death of his father, BBC Sport looks back at some of his most iconic moments.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74x9zd83vlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 17:46:23 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1083,6 +1088,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "MNC:Transfer Deadline Eve& Messi 言う よい bye へ アルゼンチン",
+      "summary": "Mark Chapman 参加するクリス・サットン, Stephen Warnock そして、Rory Smith.",
+      "title_original": "MNC: Transfer Deadline Eve & Messi says goodbye to Argentina",
+      "summary_original": "Mark Chapman is joined by Chris Sutton, Stephen Warnock and Rory Smith.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p78d6b?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 20:39:00 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1248,20 +1267,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c05rprn1ld1o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 19:41:31 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Alonso 賞賛 Joao Pedro's7 ゴール後の「欲望」ブライトンスリラー",
-      "summary": "チェルシー新たなスタートを維持プレミアリーグ敗北するために開催されているシーズンブライトン楽しい試合で Stamford Bridge.",
-      "title_original": "Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller",
-      "summary_original": "Chelsea maintained their perfect start to the new Premier League season as they held on to defeat Brighton in an entertaining match at Stamford Bridge.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpq09095xjzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 16:37:02 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1689,6 +1694,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "「私は不安定なハッカーに疲れている」 - サバレンカは批評家に戻りました",
+      "summary": "Aryna Sabalenka 彼女の批判に戻って、彼女は3 番目の成功のための彼女の探求で勝利の始まりをした後、「それは自分の人生で行くと取得することができます」と言って、US Open タイトル。",
+      "title_original": "'I'm so tired of the miserable haters' - Sabalenka hits back at critics",
+      "summary_original": "Aryna Sabalenka hit back at her critics, saying \"haters can go and get on with their own lives\" after she made a winning start in her quest for a ‌third successive US Open title.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13579468/us-open-aryna-sabalenka-tired-of-the-miserable-haters-as-she-hits-back-at-critics-after-first-round-win",
+      "published": "Mon, 31 Aug 2026 21:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Alcaraz は、サバレンカとしても勝つため、怪我から戻ってくることに感動しました",
       "summary": "Carlos Alcaraz ロシアに勝つストレートセットでテニスへの彼のリターンに感動ローマ n Safiullin 最初のラウンドで全米オープン.",
       "title_original": "Alcaraz impresses on return from injury as Sabalenka also wins",
@@ -1948,20 +1967,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13576481/scottie-scheffler-rory-mcilroy-or-matt-fitzpatrick-have-your-say-on-who-should-win-pga-tours-player-of-the-year-award",
       "published": "Wed, 26 Aug 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "「評判の打撃」の後の主のピッチ上の行為を取る MCC",
-      "summary": "The MCCICC が「不満足」と判断したとおり、主のピッチに対する懸念に対処するための行動計画を策定しました。",
-      "title_original": "MCC taking action over Lord's pitch after 'reputational blow'",
-      "summary_original": "The MCC has outlined an action plan to address concerns over the pitch at Lord's, with it having been deemed \"unsatisfactory\" by the ICC.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13579421/lords-pitch-mcc-outlines-action-plan-after-england-vs-pakistan-test-to-address-criticism-of-playing-surface",
-      "published": "Mon, 31 Aug 2026 14:33:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
