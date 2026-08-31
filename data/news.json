@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T01:34:13.896931+00:00",
+  "updated_at": "2026-08-31T01:49:07.473695+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -690,7 +690,9 @@
     "Catalonia. Every": "",
     "London City Lionesses": "ロンドン・シティ・ライオネス",
     "Leeds United's": "",
-    "Katie Boulter": ""
+    "Katie Boulter": "",
+    "Arsenal Unai Emery": "",
+    "Morgan Rogers": "モーガン・ロジャーズ"
   },
   "items": [
     {
@@ -1142,13 +1144,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "転送ラウンドアップ:Ollie Watkins から Al-Hilal に移動するアストン・ヴィラ",
-      "summary": "イングランドのフォワードの出口は、忙しい夏を続けている Villa News 獲得を獲得を問い合わせ Emiliano Martínez 移動するチェルシーAl-Hilal は署名しました Ollie Watkins からアストン・ヴィラ、30 歳のストライカーが成功を収めたため、日曜日に発表された2 クラブは、ミッドランズクラブで成功を収めました。プレミアリーグ. イングランドインテル国民は、ヴィラ契約に2 年残った人、報告された£51m のために移動しました。ワトキンズは、アル・ヒルルが買収した3 年間の契約を締結",
-      "title_original": "Transfer roundup: Ollie Watkins completes move to Al-Hilal from Aston Villa",
-      "summary_original": "England forward’s exit continues busy summer for Villa News follows Emiliano Martínez moving to Chelsea Al-Hilal have signed Ollie Watkins from Aston Villa, ⁠the two clubs announced on Sunday, as the 30-year-old striker ended a successful ⁠six-year spell with ⁠the ​Midlands club where he became their top scorer in the Premier League. The England international, who had ​two years left on ‌his Villa contract, has moved for a reported £51m. Watkins ‌signed a three-year contract as Al-Hilal acquired",
+      "title": "アストン・ヴィラそして、チェルシートランスファーパイプラインにもかかわらず、まだ敵, 主張エメリー",
+      "summary": "マーティネスとジャクソン最新デュオがクラブ・ゴレツカとスズキとの間で移動し、デビューは反対にすることができますアーセナル Unai Emery 彼は言ったアストン・ヴィラそして、チェルシー近年のビジネスを定期的に行っているにもかかわらず、クラブがお互いに「キル」したいと主張しているのではなく、敵です。Emiliano Martínez チームの間で移動する最新のプレーヤーになった後チェルシー署名するために£117m を支払ったモーガン・ロジャーズヴィラからこの夏。Nicolas Jackson, デに参加した後、ヴィラの記録署名になることができる人",
+      "title_original": "Aston Villa and Chelsea still enemies despite transfer pipeline, insists Emery",
+      "summary_original": "Martínez and Jackson latest duo to move between clubs Goretzka and Suzuki could make debuts against Arsenal Unai Emery has said Aston Villa and Chelsea are enemies rather than friends, insisting the clubs want to “kill” each other despite regularly doing business in recent years. Emiliano Martínez became the latest player to move between the teams, after Chelsea paid £117m to sign Morgan Rogers from Villa this summer. Nicolas Jackson, who could become Villa’s record signing after joining in a de",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/30/transfer-roundup-ollie-watkins-al-hilal-aston-villa",
-      "published": "Sun, 30 Aug 2026 16:46:29 GMT",
+      "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-chelsea-still-enemies-transfer-pipeline-unai-emery",
+      "published": "Mon, 31 Aug 2026 01:00:11 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1170,6 +1172,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "転送ラウンドアップ:Ollie Watkins から Al-Hilal に移動するアストン・ヴィラ",
+      "summary": "イングランドのフォワードの出口は、忙しい夏を続けている Villa News 獲得を獲得を問い合わせ Emiliano Martínez 移動するチェルシーAl-Hilal は署名しました Ollie Watkins からアストン・ヴィラ、30 歳のストライカーが成功を収めたため、日曜日に発表された2 クラブは、ミッドランズクラブで成功を収めました。プレミアリーグ. イングランドインテル国民は、ヴィラ契約に2 年残った人、報告された£51m のために移動しました。ワトキンズは、アル・ヒルルが買収した3 年間の契約を締結",
+      "title_original": "Transfer roundup: Ollie Watkins completes move to Al-Hilal from Aston Villa",
+      "summary_original": "England forward’s exit continues busy summer for Villa News follows Emiliano Martínez moving to Chelsea Al-Hilal have signed Ollie Watkins from Aston Villa, ⁠the two clubs announced on Sunday, as the 30-year-old striker ended a successful ⁠six-year spell with ⁠the ​Midlands club where he became their top scorer in the Premier League. The England international, who had ​two years left on ‌his Villa contract, has moved for a reported £51m. Watkins ‌signed a three-year contract as Al-Hilal acquired",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/30/transfer-roundup-ollie-watkins-al-hilal-aston-villa",
+      "published": "Sun, 30 Aug 2026 16:46:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "チェルシーキャンセルブライトンで 4-3 勝ちますが、下に迷路のままシャビ・アロンソ",
       "summary": "時間のフルネスチェルシーの の監視者に対してブライトン4 月は、旋回点として見られます。屈辱は、ライム・ローシニアの約束を加速し、強制的に Stamford Bridgehierarchy に -reckoning 主導の任命シャビ・アロンソ, 転送速度のシフト, 出産 JP Morgan フロント3 と-の終了 Robert Sánchez’s 目標の時間。今のところ、しかし、その引数は Emiliano Martínez ジグソーパズルの最終作品は、タッチ・プレマチュアらしいです。7 つの g を使って",
       "title_original": "Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso",
@@ -1181,20 +1197,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Sunderland’s Wilson Isidor フィニッシュタッチをシンクフルハムに適用",
-      "summary": "最後の笛でアルバロ・アルベロアペンシブネスの勉強をしながら提供 Régis Le Bris さっそく、安心。予期せぬ期間のために、Sunderland Manager の-second-half の代替品の2 つが決定した試合のほぼペラブルな喪失の恐怖が形成されました。Habib Diarra そして、Wilson Isidor、後者のスコアに結合される。イシダーの目標は、アルベロアのサイドポイントレスを残しながら、シーズンの最初の勝利で Sunderland を供給するだけでなく、彼の側の17 年間のランニングを終わらせた",
-      "title_original": "Sunderland’s Wilson Isidor applies the finishing touch to sink Fulham",
-      "summary_original": "At the final whistle Álvaro Arbeloa provided a study in pensiveness while Régis Le Bris simply looked relieved. For protracted periods an almost palpable fear of losing formed the subtext of a match decided when two of the Sunderland manager’s ­second-half substitutes, Habib Diarra and Wilson Isidor, combined for the latter to score. Isidor’s goal not merely supplied Sunderland with their first win of the season while leaving Arbeloa’s side pointless, but also ended his side’s 17‑year run withou",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/30/sunderland-fulham-premier-league-match-report",
-      "published": "Sun, 30 Aug 2026 15:12:21 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1408,6 +1410,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Sunderland’s Wilson Isidor フィニッシュタッチをシンクフルハムに適用",
+      "summary": "最後の笛でアルバロ・アルベロアペンシブネスの勉強をしながら提供 Régis Le Bris さっそく、安心。予期せぬ期間のために、Sunderland Manager の-second-half の代替品の2 つが決定した試合のほぼペラブルな喪失の恐怖が形成されました。Habib Diarra そして、Wilson Isidor、後者のスコアに結合される。イシダーの目標は、アルベロアのサイドポイントレスを残しながら、シーズンの最初の勝利で Sunderland を供給するだけでなく、彼の側の17 年間のランニングを終わらせた",
+      "title_original": "Sunderland’s Wilson Isidor applies the finishing touch to sink Fulham",
+      "summary_original": "At the final whistle Álvaro Arbeloa provided a study in pensiveness while Régis Le Bris simply looked relieved. For protracted periods an almost palpable fear of losing formed the subtext of a match decided when two of the Sunderland manager’s ­second-half substitutes, Habib Diarra and Wilson Isidor, combined for the latter to score. Isidor’s goal not merely supplied Sunderland with their first win of the season while leaving Arbeloa’s side pointless, but also ended his side’s 17‑year run withou",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/30/sunderland-fulham-premier-league-match-report",
+      "published": "Sun, 30 Aug 2026 15:12:21 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Scottish Premiership: スポットのシャンクランドは、マクインンズの圧力を緩和し、レンジャーズ",
       "summary": "打突者の第2 半のペナルティは1-0 の勝利をで保障します Aberdeen St Mirren3-3 母;セルティック2-0 ファルキルク Saturday Lawrence Shankland’s 第2 半のペナルティは与えました Derek McInnes そして、レンジャーズ Aberdeen に対して1-0 の勝利にもかかわらず、いくつかのはるかに必要な rPittodrie. The 以来の物語レンジャーズマネージャーは、夏にハートから到着し、欧州の2 つの競争から出入り口する形成と人員の一定した変化の1 つであり、プレミアシップキャンペーンへの貧しいスタートでした。The Ibrox 側面はで回しました",
       "title_original": "Scottish Premiership: Shankland on the spot to ease pressure on McInnes and Rangers",
@@ -1446,20 +1462,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "リヴァプール森のペナルティの前に置換遅延によって危険にさらすアンドーニ・イラオラ",
-      "summary": "第四の公式が電子ボードと戦うために登場しました「私は約3 分前にそれらの置換を作りたかった」Andoni Iraola 悪い最初の半分の表示と壊れた電子板のために bemoaned リヴァプール’s disappointing 2-2 と描画ノッティンガム・フォレストアンフィールド・ライグ初のホームゲーム。森は二度導いたが、第三次成功を否定したプレミアリーグで勝つリヴァプールによって Víctor Muñoz’s エフェティック 82 分のイコライザー。訪問者の第2 の目標、ペナルティから変換",
-      "title_original": "Liverpool’s Andoni Iraola angered by substitution delay before Forest penalty",
-      "summary_original": "Fourth official appeared to struggle with electronic boards ‘I wanted to make those substitutions about three minutes before’ Andoni Iraola bemoaned a poor first-half display plus a broken electronic board for Liverpool’s disappointing 2-2 draw with Nottingham Forest in the first home game of his Anfield reign. Forest led twice, but were denied a third successive Premier League win at Liverpool by Víctor Muñoz’s emphatic 82nd-minute equaliser. The visitors’ second goal, from a penalty converted ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-manager-andoni-iraola-substitution-delay-before-forest-penalty-football-premier-league",
-      "published": "Sat, 29 Aug 2026 15:55:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
