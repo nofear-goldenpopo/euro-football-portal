@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T16:49:23.171643+00:00",
+  "updated_at": "2026-08-31T17:04:31.102986+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -798,7 +798,10 @@
     "PGA Tour Player": "",
     "Jack Nicklaus Award": "",
     "Gakpo Bradley Barcola": "",
-    "The Women's TGL": ""
+    "The Women's TGL": "",
+    "Man City's": "",
+    "Manchester City Bradley Barcola": "",
+    "Brit Samuel": ""
   },
   "items": [
     {
@@ -823,6 +826,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 13:01:22 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・シティ'£80m 崩壊に近いガクポのために移動",
+      "summary": "マンチェスター・シティの 提案 £80m のために移動リヴァプール獲得コーディ・ガクポ繁華街に近いです。",
+      "title_original": "Man City's £80m move for Gakpo close to collapse",
+      "summary_original": "Manchester City's proposed £80m move for Liverpool forward Cody Gakpo is close to collapsing.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 16:53:46 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -928,20 +945,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ニューカッスル Fernandez-Pardo のための£55m の契約で閉じる",
-      "summary": "ニューカッスルの署名で閉じるリール獲得 Matias Fernandez-Pardo£55m まで価値のある移籍。",
-      "title_original": "Newcastle close in on £55m deal for Fernandez-Pardo",
-      "summary_original": "Newcastle United are closing in on the signing of Lille forward Matias Fernandez-Pardo in a deal worth up to £55m.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 14:29:13 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -952,6 +955,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ニューカッスル Fernandez-Pardo のための£55m の契約で閉じる",
+      "summary": "ニューカッスルの署名で閉じるリール獲得 Matias Fernandez-Pardo£55m まで価値のある移籍。",
+      "title_original": "Newcastle close in on £55m deal for Fernandez-Pardo",
+      "summary_original": "Newcastle United are closing in on the signing of Lille forward Matias Fernandez-Pardo in a deal worth up to £55m.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 14:29:13 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -984,20 +1001,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "バレンシアインテル融資先で評価リヴァプールエリオット",
-      "summary": "バレンシアは、リヴァプールミッドフィルダーを取るために Harvey Elliott レンタル移籍で四季折々の休憩に。",
-      "title_original": "Valencia interested in loan for Liverpool's Elliott",
-      "summary_original": "Valencia are in talks with Liverpool to take midfielder Harvey Elliott on loan for the rest of the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 12:56:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "マンチェスター・ユナイテッド近くの契約のための Mexico's Bernal",
       "summary": "マンチェスター・ユナイテッドメキシコの署名に近いですインテル全国 Rebeca Bernal からワシントン・スピリット.",
       "title_original": "Man Utd near deal for Mexico's Bernal",
@@ -1005,6 +1008,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 08:21:54 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "バレンシアインテル融資先で評価リヴァプールエリオット",
+      "summary": "バレンシアは、リヴァプールミッドフィルダーを取るために Harvey Elliott レンタル移籍で四季折々の休憩に。",
+      "title_original": "Valencia interested in loan for Liverpool's Elliott",
+      "summary_original": "Valencia are in talks with Liverpool to take midfielder Harvey Elliott on loan for the rest of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 12:56:36 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1208,20 +1225,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "フォローする方法 Transfer Deadline DayBBC について",
-      "summary": "Our Ask Me Anything チームは、BBC 全体での転送期限日のアクションに従う方法を説明します。",
-      "title_original": "How to follow Transfer Deadline Day on the BBC",
-      "summary_original": "Our Ask Me Anything team explain how to follow all the transfer deadline day action across the BBC.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zxvqx8k9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 09:12:46 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "アルゼンチンリオネル・メッシ退職者からインテル国民のフットボール:「これは私をたくさん傷つけます」",
       "summary": "アルゼンチンの素晴らしい最後のゲームは、World Cup ファイナリストの父ジョルジェが8 月に亡くなったリオネル・メッシ207 キャップを獲得した後、アルゼンチンの義務から退職を発表した。2005 年にアルゼンチンデビューを果たした39 歳、優勝 World Cup2022 年、この夏と2014 年はランナーアップでした。彼はまた2 つを固定しましたコパ・アメリカタイトル Messi は「痛い決断だった」という文に書いていますが、それでも深刻に痛むという決断でした。しかし、その時が来たことを理解しています。私はあなたに誓います",
       "title_original": "Argentina’s Lionel Messi retires from international football: ‘This hurts me a lot’",
@@ -1236,10 +1239,10 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "リヴァプールログインブラッドリー・バルコラ£123m の移籍と期待コーディ・ガクポ滞在する",
-      "summary": "フランスインテル国民は「私の最大の夢の1」クラブが最近拒否したと述べていますマンチェスター・シティ Gakpo のアプローチブラッドリー・バルコラ勝つことを目指しているプレミアリーグ移動を補完した後リヴァプールからパリ・サンジェルマン初期の£106m のために、それは£123m に上昇することができます。The France インテル国民は5 年契約を結びました。Andoni Iraola 交換後、この夏にこの夏の署名を優先順位付けアルネ・スロット. バルコラ到着の翌日 Victor Muñoz 元ボーンマスヘッドコーチとして",
-      "title_original": "Liverpool sign Bradley Barcola in £123m deal and expect Cody Gakpo to stay",
-      "summary_original": "France international says title ‘one of my biggest dreams’ Club rejected recent Manchester City approach for Gakpo Bradley Barcola is aiming to win the Premier League after completing his move to Liverpool from Paris Saint-Germain for an initial £106m, which could rise to £123m. The France international has signed a five-year deal. Andoni Iraola has prioritised signing wingers this summer after replacing Arne Slot. Barcola follows the arrival of Victor Muñoz as the former Bournemouth head coach ",
+      "title": "リヴァプールログインバルコラで £123m 契約し、都市提供£80m 後に滞在するために Gakpo を期待",
+      "summary": "フランスインテル国民は「私の最大の夢の1」クラブは週末のガクポ入札を拒否しましたマンチェスター・シティ ブラッドリー・バルコラ勝つことを目指しているプレミアリーグ移動を補完した後リヴァプールからパリ・サンジェルマン初期の£106m のために、それは£123m に上昇することができます。The France インテル国民は5 年契約を結びました。Andoni Iraola 交換後、この夏にこの夏の署名を優先順位付けアルネ・スロット. バルコラ到着の翌日 Victor Muñoz 元ボーンマスヘッドコーチが目指す",
+      "title_original": "Liverpool sign Barcola in £123m deal and expect Gakpo to stay after City offer £80m",
+      "summary_original": "France international says title ‘one of my biggest dreams’ Club rejected weekend Gakpo bid from Manchester City Bradley Barcola is aiming to win the Premier League after completing his move to Liverpool from Paris Saint-Germain for an initial £106m, which could rise to £123m. The France international has signed a five-year deal. Andoni Iraola has prioritised signing wingers this summer after replacing Arne Slot. Barcola follows the arrival of Victor Muñoz as the former Bournemouth head coach aim",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg",
       "published": "Mon, 31 Aug 2026 16:38:50 GMT",
@@ -1642,6 +1645,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "「今は今だ」Brit Samuel 世界 No1,871 から US Open 第2 ラウンド",
+      "summary": "Britain's Toby Samuel2025 年の始まりから、世界の1,871 年を上回るまで、長い道が来ました。全米オープン第2 ラウンド。",
+      "title_original": "'I'm here now' - Brit Samuel goes from world No 1,871 to US Open second round",
+      "summary_original": "Britain's Toby Samuel has come a long way from the start of 2025 - rising from 1,871 in the world to the US Open second round.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13579309/us-open-britains-toby-samuels-meteoric-rise-from-world-no-1871-and-playing-in-guatemala-to-the-us-open-second-round",
+      "published": "Mon, 31 Aug 2026 17:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "マンチェスター・ユナイテッド最新: カラ・ヘイルズ「スローバック」 Ipswich ウィンでのユナイテッドパフォーマンス",
       "summary": "",
       "title_original": "Man Utd latest: Carra hails 'throwback' United performance in Ipswich win",
@@ -1905,20 +1922,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Djokovic は衝撃の敗北の決定セットを通して涙の途中で破壊します",
-      "summary": "ノバク・ジョコビッチ最終セットの最終セット中に目に見えない設定だった US Open 初めてのラウンド敗北に Mariano Navone.",
-      "title_original": "Djokovic breaks down in tears midway through deciding set in shock defeat",
-      "summary_original": "Novak Djokovic was visibly upset during the final set in his US Open first round defeat to Mariano Navone.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13579363/novak-djokovic-breaks-down-in-tears-midway-through-deciding-set-in-shock-defeat",
-      "published": "Mon, 31 Aug 2026 10:16:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
