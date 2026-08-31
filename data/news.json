@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T15:19:18.894326+00:00",
+  "updated_at": "2026-08-31T15:34:08.520900+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -778,9 +778,28 @@
     "Victor Muñoz Bradley Barcola": "",
     "The France": "",
     "Arne Slot. Barcola": "",
-    "Victor Muñoz": ""
+    "Victor Muñoz": "",
+    "Folarin Balogun": "",
+    "Argentina’s Lionel Messi": "",
+    "August Lionel Messi": "",
+    "Copa América": "コパ・アメリカ",
+    "Britain's Dart": ""
   },
   "items": [
+    {
+      "title": "Messi 退職インテル国民のフットボール",
+      "summary": "アルゼンチン 素晴らしいリオネル・メッシ退職後退の発表インテル国民のサッカーは「急ぎ」と判断したが、「時が来た」と理解している。",
+      "title_original": "Messi retires from international football",
+      "summary_original": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 15:18:39 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
     {
       "title": "バルコラ参加するリヴァプールからパリ・サンジェルマン£123m の移動",
       "summary": "リヴァプールフランスの署名を完了して下さいブラッドリー・バルコラからパリ・サンジェルマン£123m までの料金。",
@@ -821,6 +840,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "エヴァートン入札をするモナコストライカー・バロウン",
+      "summary": "エヴァートンオファーを作るモナコ獲得 Folarin Balogun- フランスのクラブによって£40m で評価される人。",
+      "title_original": "Everton make bid for Monaco striker Balogun",
+      "summary_original": "Everton make an offer for Monaco forward Folarin Balogun - who is valued at £40m by the French club.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 15:16:28 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -880,34 +913,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "How Rangers、Kelsy once hid in truck to chase football dream を獲得候補に",
-      "summary": "戦場で遊べるトラックの隠れからレンジャーズターゲット Kevin Kelsy すでにキャリアを積んだ。",
-      "title_original": "How Rangers target Kelsy once hid in truck to chase football dream",
-      "summary_original": "From hiding in a truck to playing in a war zone, Rangers target Kevin Kelsy has had an eventful career already.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgw93e4938o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 10:22:45 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "バルコラ- setbacks を克服した 'grasshopper'",
-      "summary": "獲得を獲得を問い合わせリヴァプール£123m 転送を完了ブラッドリー・バルコラ, BBC スポーツは、彼は彼の家族の助けを借りてトップに到達するために、退任したトリムスとセットバックを持っている方法を見て.",
-      "title_original": "Barcola - the 'grasshopper' who has overcome setbacks",
-      "summary_original": "As Liverpool complete a £123m transfer for Bradley Barcola, BBC Sport looks at how he has ridden triumphs and setbacks to reach the top with the help of his family.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ceqewejnpr3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 13:14:48 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -936,13 +941,27 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "バレンシアインテル融資先で評価リヴァプールエリオット",
-      "summary": "バレンシアは、リヴァプールミッドフィルダーを取るために Harvey Elliott レンタル移籍で四季折々の休憩に。",
-      "title_original": "Valencia interested in loan for Liverpool's Elliott",
-      "summary_original": "Valencia are in talks with Liverpool to take midfielder Harvey Elliott on loan for the rest of the season.",
+      "title": "How Rangers、Kelsy once hid in truck to chase football dream を獲得候補に",
+      "summary": "戦場で遊べるトラックの隠れからレンジャーズターゲット Kevin Kelsy すでにキャリアを積んだ。",
+      "title_original": "How Rangers target Kelsy once hid in truck to chase football dream",
+      "summary_original": "From hiding in a truck to playing in a war zone, Rangers target Kevin Kelsy has had an eventful career already.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 12:56:36 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgw93e4938o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 10:22:45 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "バルコラ- setbacks を克服した 'grasshopper'",
+      "summary": "獲得を獲得を問い合わせリヴァプール£123m 転送を完了ブラッドリー・バルコラ, BBC スポーツは、彼は彼の家族の助けを借りてトップに到達するために、退任したトリムスとセットバックを持っている方法を見て.",
+      "title_original": "Barcola - the 'grasshopper' who has overcome setbacks",
+      "summary_original": "As Liverpool complete a £123m transfer for Bradley Barcola, BBC Sport looks at how he has ridden triumphs and setbacks to reach the top with the help of his family.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceqewejnpr3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 13:14:48 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -950,13 +969,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "なぜ?チェルシータイトルの挑戦者であるために新しいゴールキーパーより多くを必要とする",
-      "summary": "チェルシー「新しいゴールキーパー」Emiliano Martinez スリリングな4-3 勝でデビューブライトン- しかし、自分の新しいクラブの守備面の問題を解決することはできません。",
-      "title_original": "Why Chelsea need more than a new goalkeeper to be title challengers",
-      "summary_original": "Chelsea's new goalkeeper Emiliano Martinez made his debut in a thrilling 4-3 win over Brighton - but is unable to solve his new club's defensive problems on his own.",
+      "title": "バレンシアインテル融資先で評価リヴァプールエリオット",
+      "summary": "バレンシアは、リヴァプールミッドフィルダーを取るために Harvey Elliott レンタル移籍で四季折々の休憩に。",
+      "title_original": "Valencia interested in loan for Liverpool's Elliott",
+      "summary_original": "Valencia are in talks with Liverpool to take midfielder Harvey Elliott on loan for the rest of the season.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 17:12:39 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 12:56:36 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -975,20 +994,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "'bitty' Pittodrie が McInnes のターンポイントを獲得し、レンジャーズ?",
-      "summary": "Until Sunday's アバディーンへ北へ Derek McInnes 本当に楽しんでいないレンジャーズチーム。Pittodrie で不協調の勝利の後に変更しました。",
-      "title_original": "Is 'bitty' Pittodrie win turning point for McInnes and Rangers?",
-      "summary_original": "Until Sunday's trip north to Aberdeen, Derek McInnes had not really enjoyed watching his Rangers team. That changed after an unconvincing win at Pittodrie.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgwz6g45lpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 16:38:50 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1188,16 +1193,30 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "トッテナム Pulisic についての獲得を獲得を問い合わせ - 月曜日のゴシップ",
-      "summary": "トッテナム注意を向けるクリスチャン・プルシック, リヴァプールそして、エヴァートンイベントインテル最新記事シュトゥットガルトウィンガーJamie Leweling とクリスタル・パレス継続したい Dean Henderson アフターノッティンガム・フォレスト入札.",
-      "title_original": "Tottenham enquire about Pulisic - Monday's gossip",
-      "summary_original": "Spurs turn attention to Christian Pulisic, Liverpool and Everton show interest in Stuttgart winger Jamie Leweling, and Crystal Palace want to keep Dean Henderson after Nottingham Forest bid.",
+      "title": "なぜ?チェルシータイトルの挑戦者であるために新しいゴールキーパーより多くを必要とする",
+      "summary": "チェルシー「新しいゴールキーパー」Emiliano Martinez スリリングな4-3 勝でデビューブライトン- しかし、自分の新しいクラブの守備面の問題を解決することはできません。",
+      "title_original": "Why Chelsea need more than a new goalkeeper to be title challengers",
+      "summary_original": "Chelsea's new goalkeeper Emiliano Martinez made his debut in a thrilling 4-3 win over Brighton - but is unable to solve his new club's defensive problems on his own.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c89jxnelpywo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 20:59:21 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 17:12:39 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "アルゼンチンリオネル・メッシ退職者からインテル国民のフットボール:「これは私をたくさん傷つけます」",
+      "summary": "アルゼンチンの素晴らしい最後のゲームは、World Cup ファイナリストの父ジョルジェが8 月に亡くなったリオネル・メッシ退職後退の発表インテル207 キャップを獲得した後、アルゼンチンと国民の義務。2005 年にアルゼンチンデビューしたメッシーが優勝 World Cup2022 年、この夏と2014 年はランナーアップでした。彼はまた2 つを固定しましたコパ・アメリカタイトル 続きを読む...",
+      "title_original": "Argentina’s Lionel Messi retires from international football: ‘This hurts me a lot’",
+      "summary_original": "Argentina great’s last game was in World Cup final Player’s father Jorge passed away earlier in August Lionel Messi has announced his retirement from international duty with Argentina after winning 207 caps. Messi, who made his Argentina debut in 2005, won the World Cup in 2022 and was a runner-up this summer and in 2014. He also secured two Copa América titles. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messi-retires-from-international-football-argentina",
+      "published": "Mon, 31 Aug 2026 15:19:13 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1244,6 +1263,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "チェルシー’ s 完璧なまだ気取らないスタートへプレミアリーグシーズン |Jonathan Wilson",
+      "summary": "シャビ・アロンソ’ s 側は、これまでの 2 つの勝利で 7 と 5 つを計算しました。, スクワッドの定数の churn の製品は、私たちの無料ニュースレターにサインアップ ここに 2 プレミアリーグゲームプレイチェルシーアクセスシャビ・アロンソ: 2 勝7 ゴール獲得 多くの新しいマネージャーを喜ばせるようなスタートです。他の2 つのクラブのみが6 ポイントスタートを誇ります。プレミアリーグ季節(食事付き)アーセナル月曜日が過ぎてプレイする ほぼノブ時、このオッズトランジカルフェーズで得たポイント",
+      "title_original": "Chelsea’s perfect yet unserious start to the Premier League season | Jonathan Wilson",
+      "summary_original": "Xabi Alonso’s side have scored seven and conceded five in two wins so far, a product of the squad’s constant churn Sign up for our free newsletter here Two Premier League games played for Chelsea under Xabi Alonso: two wins and seven goals scored. It’s the sort of start that would delight many new managers – only two other clubs can boast about a six-point start this Premier League season (albeit with Arsenal to play later on Monday). Points gained in this odd transitional phase, when almost nob",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/31/chelsea-premier-league-xabi-alonso",
+      "published": "Mon, 31 Aug 2026 14:40:00 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "フィオレンティーナ獲得を獲得を問い合わせセリエ A 再会感は、追い越しの後に消える感じ |Nicky Bandini",
       "summary": "Frosinone に対するホームゲームは、自分のランドマークを祝うための完璧な方法だった. その方法がうまくいなかったフィオレンティーナ水曜日の夜にフィレンツェの歴史的中心部を巡り、土曜日の午後に Frosinone に対してホームゲームに拡張するファンのプロジェクションから4 日間、100 回目のバースデーパーティーが行われました。クラブは、1926 年8 月29 日に設立されましたが、その日付の報告で10 年にわたる控えめさは、26 日に伝統的に祝うために支持者を主導しました。ツイート",
       "title_original": "Fiorentina’s Serie A renaissance feels a way off after chastening centenary | Nicky Bandini",
@@ -1272,20 +1305,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "チェルシー’ s 完璧なまだ気取らないスタートへプレミアリーグシーズン |Jonathan Wilson",
-      "summary": "シャビ・アロンソ’ s 側は、これまでの 2 つの勝利で 7 と 5 つを計算しました。, スクワッドの定数の churn の製品は、私たちの無料ニュースレターにサインアップ ここに 2 プレミアリーグゲームプレイチェルシーアクセスシャビ・アロンソ: 2 勝7 ゴール獲得 多くの新しいマネージャーを喜ばせるようなスタートです。他の2 つのクラブのみが6 ポイントスタートを誇ります。プレミアリーグ季節(食事付き)アーセナル月曜日が過ぎてプレイする ほぼノブ時、このオッズトランジカルフェーズで得たポイント",
-      "title_original": "Chelsea’s perfect yet unserious start to the Premier League season | Jonathan Wilson",
-      "summary_original": "Xabi Alonso’s side have scored seven and conceded five in two wins so far, a product of the squad’s constant churn Sign up for our free newsletter here Two Premier League games played for Chelsea under Xabi Alonso: two wins and seven goals scored. It’s the sort of start that would delight many new managers – only two other clubs can boast about a six-point start this Premier League season (albeit with Arsenal to play later on Monday). Points gained in this odd transitional phase, when almost nob",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/31/chelsea-premier-league-xabi-alonso",
-      "published": "Mon, 31 Aug 2026 14:40:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
       "summary": "ニューカッスルプレーヤーは、再生を見て,リヴァプール’s の好奇心な転送戦略と心配の始まりクリスタル・パレス懸念中マンチェスター・ユナイテッド, 1 人のプレーヤーは、要求されていない Senne Lammens. The ゴールキーパーは、困難な状況でゲームの中で彼の側面を維持するために、イプスウィッチに対して重要な最初の半分の節約を生成しました。リラックスしたキャラクター、ベルギーは感情的な環境に落ち着きのある影響を受けており、特にパンクされた防御力があります。When Julio Enciso 目標は、ランメンが決まっていた",
       "title_original": "Premier League: 10 talking points from the weekend’s action",
@@ -1293,20 +1312,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action",
       "published": "Mon, 31 Aug 2026 07:00:19 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ワトキンズは、サウジの supremacy と Tuchel の注目のために、ストライカーとしてトニークラッシュに直面しています",
-      "summary": "Al-Hilal の Villa のサインは、Al-Ahli に対する大きなゲームにまっすぐ投げられ、期待の最高に直面しています Ollie Watkins そして、イヴァン・トニーマイアミで数週間前にピッチで33 分を過ごしました イングランドは3 位で試合でフランス6-4 を倒します World Cup. They アル・ハイル・アル・アハリのリヤードで火曜日に再会されます, タイトルの希望間の最初の大きな衝突 Saudi Pro League 季節限定アストン・ヴィラファンは、から始めて、それを望んでいますアーセナル月曜日, ニック",
-      "title_original": "Watkins faces Toney clash as strikers push for Saudi supremacy and Tuchel’s attention",
-      "summary_original": "Al-Hilal’s signing from Villa is thrown straight into big game against Al-Ahli and faces the highest of expectations Ollie Watkins and Ivan Toney spent 33 minutes on the pitch together a few weeks ago in Miami as England beat France 6-4 in a game for third place at the World Cup. They will be reunited on Tuesday in Riyadh for Al-Hilal v Al-Ahli, the first big clash between title hopefuls in the Saudi Pro League season. Aston Villa fans will be hoping that, starting against Arsenal on Monday, Nic",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/31/ollie-watkins-ivan-toney-saudi-arabia-thomas-tuchel-england",
-      "published": "Mon, 31 Aug 2026 09:01:39 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1622,9 +1627,23 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "US Open2 日目 LIVE! Alcaraz は、Sabalenka と Brits のアクションで怪我から戻ります",
+      "title": "Messi 退職インテル国民のフットボール",
+      "summary": "リオネル・メッシ退職後退の発表インテル全国サッカー39 歳。",
+      "title_original": "Messi retires from international football",
+      "summary_original": "Lionel Messi has announced his retirement from international football aged 39.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13565109/lionel-messi-retires-from-international-football-aged-39-as-argentinas-most-capped-player-and-all-time-leading-goalscorer",
+      "published": "Mon, 20 Jul 2026 00:13:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "US Open2 日目 LIVE! サヴァレンカと Britain's DartAlcaraz のリターンの前の行為",
       "summary": "",
-      "title_original": "US Open day two LIVE! Alcaraz returns from injury with Sabalenka and Brits in action",
+      "title_original": "US Open day two LIVE! Sabalenka and Britain's Dart in action ahead of Alcaraz return",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13579172/us-open-live-scores-updates-news-commentary-and-results-from-flushing-meadows-new-york-with-carlos-alcaraz-aryna-sabalenka-in-action",
@@ -1884,20 +1903,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Scot Prem 最新:セルティックケルシーが受け継がれているとダブルの獲得で合意レンジャーズ メディカルチェック",
-      "summary": "",
-      "title_original": "Scot Prem latest: Celtic agree double deal as Kelsy undergoes Rangers medical",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "published": "Mon, 31 Aug 2026 15:37:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
