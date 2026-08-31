@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T10:19:15.759916+00:00",
+  "updated_at": "2026-08-31T10:34:27.750396+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -747,7 +747,9 @@
     "Jayce Fitzgerald": "",
     "Mikael Baza": "",
     "Jaden Heskey": "",
-    "Sheffield Wednesday": "シェフィールド・ウェンズデイFC"
+    "Sheffield Wednesday": "シェフィールド・ウェンズデイFC",
+    "Germany's Wamser": "",
+    "Carlotta Wamser": ""
   },
   "items": [
     {
@@ -814,6 +816,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2z6kkqdxqo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 17:32:04 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Germany's Wamser 完全な移動マンチェスター・シティ",
+      "summary": "マンチェスター・シティ署名を完了して下さいレヴァークーゼンドイツのディフェンダーCarlotta Wamser4 年契約",
+      "title_original": "Germany's Wamser completes move to Man City",
+      "summary_original": "Manchester City complete the signing of Bayer Leverkusen and Germany defender Carlotta Wamser on a four-year deal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g5x8y0n2jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 10:30:12 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -926,20 +942,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yl4lzp9gzo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 17:41:22 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "バルセロナ移籍に近いアーセナルイエス",
-      "summary": "バルセロナ移動中に閉じるアーセナルストライカーガブリエウ・ジェズス£8.6m 相当の移籍",
-      "title_original": "Barcelona close to deal for Arsenal's Jesus",
-      "summary_original": "Barcelona are closing in on a move for Arsenal striker Gabriel Jesus in a deal worth £8.6m.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 16:01:28 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1143,6 +1145,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "バルセロナ移籍に近いアーセナルイエス",
+      "summary": "バルセロナ移動中に閉じるアーセナルストライカーガブリエウ・ジェズス£8.6m 相当の移籍",
+      "title_original": "Barcelona close to deal for Arsenal's Jesus",
+      "summary_original": "Barcelona are closing in on a move for Arsenal striker Gabriel Jesus in a deal worth £8.6m.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 16:01:28 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Joao Pedro デビューのヤルクーエスター -チェルシー. .ブライトン 選手採点",
       "summary": "プレイヤーが次のように評価される方法は次のとおりです。チェルシーそして、ブライトン出会い系プレミアリーグ日曜日",
       "title_original": "Joao Pedro and debutant Yalcouye star - Chelsea v Brighton player ratings",
@@ -1157,27 +1173,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "バルコラ- setbacks を克服した 'grasshopper'",
-      "summary": "獲得を獲得を問い合わせリヴァプール£123m の獲得で合意ブラッドリー・バルコラ, BBC スポーツは、彼は彼の家族の助けを借りてトップに到達するために、退任したトリムスとセットバックを持っている方法を見て.",
-      "title_original": "Barcola - the 'grasshopper' who has overcome setbacks",
-      "summary_original": "As Liverpool agree a £123m deal for Bradley Barcola, BBC Sport looks at how he has ridden triumphs and setbacks to reach the top with the help of his family.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ceqewejnpr3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 07:38:07 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "サッカーの転送期限日ローム:ガクポ、サーなどに関する最新のニュース - ライブ",
-      "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ 連絡を取る: 電子メール Dominic とフォロー私たちに従ってください Bluesky Some あなたのためのより低いキーのお得な情報:Rotherham United 署名を確認しましたマンチェスター・ユナイテッドヤングスターJayce Fitzgerald レンタル移籍で四季折々のひとときを。バルセロナ署名された16 歳の職業 Mikael Baza ハンブルグから若者のランクに参加 Jaden Heskey に戻るシェフィールド・ウェンズデイ FC からマンチェスター・シティ レンタル移籍で最後の季節を印象づけた後 続きを読みます...",
+      "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ 連絡を取る: 電子メール Dominic とフォロー私たちに従ってください Bluesky Some 少し下キーのお得な情報:Rotherham United 署名を確認しましたマンチェスター・ユナイテッドヤングスターJayce Fitzgerald レンタル移籍で四季折々のひとときを。バルセロナ署名された16 歳の職業 Mikael Baza ハンブルグから若者のランクに参加します。Jaden Heskey に戻るシェフィールド・ウェンズデイ FC からマンチェスター・シティ レンタル移籍で季節を感動させる。続きを読む",
       "title_original": "Football transfer deadline day looms: latest news on Gakpo, Sarr and more – live",
-      "summary_original": "Men’s transfer interactive | Women’s transfer interactive Get in touch: email Dominic and follow us on Bluesky Some more low-key deals for you: Rotherham United have confirmed the signing of Manchester United youngster Jayce Fitzgerald on loan for the rest of the season. Barcelona have signed 16-year-old prodigy Mikael Baza from Hamburg – he will join their youth ranks Jaden Heskey is to return to Sheffield Wednesday from Manchester City on loan after impressing last season Continue reading...",
+      "summary_original": "Men’s transfer interactive | Women’s transfer interactive Get in touch: email Dominic and follow us on Bluesky Some slightly lower-key deals for you: Rotherham United have confirmed the signing of Manchester United youngster Jayce Fitzgerald on loan for the rest of the season. Barcelona have signed 16-year-old prodigy Mikael Baza from Hamburg – he will join their youth ranks. Jaden Heskey is to return to Sheffield Wednesday from Manchester City on loan after impressing last season. Continue read",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/31/football-transfer-deadline-day-looms-latest-news-on-gakpo-sarr-and-more-live",
-      "published": "Mon, 31 Aug 2026 10:10:04 GMT",
+      "published": "Mon, 31 Aug 2026 10:24:10 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1605,6 +1607,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "イングランドのバッティングコンドルム: Bethell が返したときに誰が逃しているのか?",
+      "summary": "テレビゲームショーカウントダウンでファイナリストのように、イングランドは、特にトリッキーコンドルムに対処する必要があります。",
+      "title_original": "England's batting conundrum: Who misses out when Bethell returns?",
+      "summary_original": "Like a finalist on TV game show Countdown, England are going to have to deal with a particularly tricky conundrum.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13579350/englands-test-batting-conundrum-will-jordan-cox-dan-lawrence-or-emilio-gay-miss-out-when-jacob-bethell-is-fit-again",
+      "published": "Mon, 31 Aug 2026 11:00:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "アストン・ヴィラ最新: Harwood-Bellis が受けるメディカルチェックワトキンズペンとしてファーウェル",
       "summary": "",
       "title_original": "Aston Villa latest: Harwood-Bellis undergoes medical as Watkins pens farewell",
@@ -1850,20 +1866,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13579292/cameron-norrie-v-luca-van-assche-us-open-first-round-highlights",
       "published": "Sun, 30 Aug 2026 22:09:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "虎は「歴史」FedExCup の成功の後の「信じられない」の Scheffler を賞賛します",
-      "summary": "",
-      "title_original": "Tiger praises 'incredible' Scheffler after 'historic' FedExCup success",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13578968/tour-championship-final-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
-      "published": "Sun, 30 Aug 2026 22:44:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
