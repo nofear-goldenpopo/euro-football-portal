@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T03:49:42.473585+00:00",
+  "updated_at": "2026-08-31T04:04:31.009217+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -692,7 +692,10 @@
     "Leeds United's": "",
     "Katie Boulter": "",
     "Arsenal Unai Emery": "",
-    "Morgan Rogers": "モーガン・ロジャーズ"
+    "Morgan Rogers": "モーガン・ロジャーズ",
+    "Tearful Djokovic": "",
+    "Novak Djokovic": "ノバク・ジョコビッチ",
+    "Argentine Mariano Navone": ""
   },
   "items": [
     {
@@ -1536,6 +1539,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Tearful Djokovic 衝撃の最初のハードルで落ちる US Open アクセス",
+      "summary": "ノバク・ジョコビッチ第25 回記録破砕で彼の傾きとして最初のハードルで落ちましたグランドスラムショックエンドに来た Argentine Mariano Navone5 セットの epic で全米オープン.",
+      "title_original": "Tearful Djokovic falls at first hurdle in shock US Open exit",
+      "summary_original": "Novak Djokovic fell at the first hurdle as his tilt at a record-breaking 25th Grand Slam came to a shock end to Argentine Mariano Navone in a five-set epic at the US Open.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13579310/us-open-novak-djokovic-loses-to-mariano-navone-in-longest-first-round-match-of-his-career-in-grand-slams",
+      "published": "Mon, 31 Aug 2026 04:57:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "PGA Tour: 2026 年のフェデックスカップシーズンの全ての結果",
       "summary": "Every PGA Tour 結果から 2026 FedExCup シーズン、9Signature Events35 件を超える観光カレンダー",
       "title_original": "PGA Tour: Every result from the 2026 FedExCup season",
@@ -1799,20 +1816,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ヒットと見逃し: Mainoo は、同様にフェルナンデスを感動します",
-      "summary": "",
-      "title_original": "Hits and misses: Mainoo impresses as well as Fernandes",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579146/kobbie-mainoo-stars-alongside-bruno-fernandes-in-man-utds-win-over-ipswich-premier-league-hits-and-misses",
-      "published": "Sun, 30 Aug 2026 17:31:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
