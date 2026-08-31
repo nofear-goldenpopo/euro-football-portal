@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T08:34:18.470455+00:00",
+  "updated_at": "2026-08-31T08:49:30.642790+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -718,7 +718,10 @@
     "Mexico's Bernal": "",
     "Rebeca Bernal": "",
     "Washington Spirit": "ワシントン・スピリット",
-    "Bradley Barc": ""
+    "Bradley Barc": "",
+    "Williams' US Open": "",
+    "Venus Williams": "ビーナス・ウィリアムズ",
+    "Sofia Kenin": ""
   },
   "items": [
     {
@@ -1688,6 +1691,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Williams' US Open ケニンチャレンジ後の終了",
+      "summary": "ハイライト全米オープン中間の試合ビーナス・ウィリアムズそして、Sofia Kenin.",
+      "title_original": "Williams' US Open ends short after Kenin challenge",
+      "summary_original": "Highlights of the US Open first-round match between Venus Williams and Sofia Kenin.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13579340/venus-williams-vs-sofia-kenin-us-open-highlights",
+      "published": "Mon, 31 Aug 2026 08:07:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Euro Debrief: モウリーニョを最大限に活用するベリンガム獲得を獲得を問い合わせレアル・マドリード",
       "summary": "",
       "title_original": "Euro Debrief: Mourinho getting best out of Bellingham at Real Madrid",
@@ -1825,20 +1842,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "リヴァプール最新: Neville 質問 Gakpo 出口とフルバックの欠如",
-      "summary": "",
-      "title_original": "Liverpool latest: Neville questions Gakpo exit and lack of full-backs",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Sun, 30 Aug 2026 15:10:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
