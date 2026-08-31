@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T18:34:07.388930+00:00",
+  "updated_at": "2026-08-31T18:49:31.650603+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -821,7 +821,11 @@
     "Enzo Fernandez": "",
     "Lionel Messi's": "",
     "Bluesky Unai Emery’s": "",
-    "Everton's Iliman Ndiaye": ""
+    "Everton's Iliman Ndiaye": "",
+    "Joshua Kushner": "",
+    "Gianni Infantino's": "",
+    "Unai Emery’s": "",
+    "Arsenal LIVE": ""
   },
   "items": [
     {
@@ -864,6 +868,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Kushner は後悔しています World Cup 販売オフプラン",
+      "summary": "ベンチャーキャピタル Joshua Kushner フィファ大統領に関与していないと言う Gianni Infantino's スクラップされたプランでステークを売る World Cup サッカーの世界がどのように反応したかを知っていたら。",
+      "title_original": "Kushner states regret over World Cup sell-off plan",
+      "summary_original": "Venture capitalist Joshua Kushner says he would not have got involved in Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup if he had known how the football world reacted.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 18:38:55 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -937,20 +955,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "タッチライン禁止レンジャーズマネージャー McInnes",
-      "summary": "レンジャーズマネージャーDerek McInnes 最後のガスプで行われたコメントのための元のペナルティに対する訴えに2 つの中断された、2 つのゲームに減少したタッチライン禁止を持っていますセルティックペナルティ。",
-      "title_original": "Touchline ban reduced for Rangers manager McInnes",
-      "summary_original": "Rangers manager Derek McInnes has a touchline ban reduced to two games, with two suspended, following an appeal against the original penalty for comments made on a last-gasp Celtic penalty.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy7zgn4nzlgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 18:12:35 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "時計: アルゼンチンのメッシーの最後の目標",
       "summary": "リオネル・メッシアトランタでの試合中に2〜2 で試合をレベルアップするために、エジプトに対するアルゼンチンの後半のイコライザーをスコアします。",
       "title_original": "Watch: Messi's last-ever goal for Argentina",
@@ -958,6 +962,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c20yd7wp134o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 07 Jul 2026 18:13:01 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "タッチライン禁止レンジャーズマネージャー McInnes",
+      "summary": "レンジャーズマネージャーDerek McInnes 最後のガスプで行われたコメントに対する罰に対する罰に対する控訴を受けて、2 つの中断付きで2 つのゲームに減少したタッチライン禁止を持っていますセルティックペナルティ。",
+      "title_original": "Touchline ban reduced for Rangers manager McInnes",
+      "summary_original": "Rangers manager Derek McInnes has a touchline ban reduced to two games, with two suspended, following an appeal against punishment for comments made on a last-gasp Celtic penalty.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy7zgn4nzlgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 18:12:35 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1032,34 +1050,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "エヴァートン強制移動 EFL カップ短い通知でタイ",
-      "summary": "エヴァートン彼らの移動を強制的に EFL カップチャンピオンシップ側の Wolves - 再生される前に9 日。",
-      "title_original": "Everton forced to move EFL Cup tie at short notice",
-      "summary_original": "Everton are forced to move their Carabao Cup third-round match against Championship side Wolves - nine days before it was due to be played.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zq97w28eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 14:46:10 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ニューカッスル Fernandez-Pardo のための£55m の契約で閉じる",
-      "summary": "ニューカッスルの署名で閉じるリール獲得 Matias Fernandez-Pardo£55m まで価値のある移籍。",
-      "title_original": "Newcastle close in on £55m deal for Fernandez-Pardo",
-      "summary_original": "Newcastle United are closing in on the signing of Lille forward Matias Fernandez-Pardo in a deal worth up to £55m.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 14:29:13 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1245,13 +1235,27 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "フォローする方法 Transfer Deadline DayBBC について",
+      "summary": "Our Ask Me Anything チームは、BBC 全体での転送期限日のアクションに従う方法を説明します。",
+      "title_original": "How to follow Transfer Deadline Day on the BBC",
+      "summary_original": "Our Ask Me Anything team explain how to follow all the transfer deadline day action across the BBC.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zxvqx8k9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 28 Aug 2026 09:12:46 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "アストン・ヴィラ. .アーセナル: プレミアリーグ– ライブ",
-      "summary": "⚽️ プレミアリーグ BST キックオフの8pm からのアップデート Email ScottTikTok で私たちに従ってください Bluesky Unai Emery’s スカイに話せます。「良い夕方...最初の試合は計画どおりではありませんでしたが、我々は前進し続ける必要があります...今日、私たちは自宅で再生しています、最初の試合、第二の日プレミアリーグ...私達は私達がいかに私達を答えようとしているかを楽しみにしています...私達はできるだけ早くそれを行う必要があります...今日は私達のためのよい一致です...それは最もよいチームです、アーセナルですから、なかなか難しいです...。",
+      "summary": "⚽️ プレミアリーグ BST キックオフの8pm からのアップデート Email ScottTikTok と Bluesky で私たちに従ってくださいアストン・ヴィラ新しいキットを今夜にデビューします。この素晴らしく実現されたナンセンスを再訪する古い言い訳...Unai Emery’s ダブルブレストスポーツコートは、明らかにその映画の傑出した部分ですが、ヴィラシャツ自体は最高の注文のレトロな輝きです。問題があります。ここまでは、ヴィラは歴史の4 つの前の機会に青い袖を掛けました",
       "title_original": "Aston Villa v Arsenal: Premier League – live",
-      "summary_original": "⚽️ Premier League updates from the 8pm BST kick-off ⚽️ Email Scott and follow us on TikTok and Bluesky Unai Emery’s turn to talk to Sky. “Good evening … the first match was not as planned but we must keep going forward … today we are playing at home, the first match, the second day of the Premier League … we are looking forward to how we are going to respond … we need to do that as soon as possible … today is a good match for us … it is the best team, Arsenal, so it is difficult … but with our s",
+      "summary_original": "⚽️ Premier League updates from the 8pm BST kick-off ⚽️ Email Scott and follow us on TikTok and Bluesky Aston Villa will be debuting their new kit tonight. Any old excuse to revisit this wonderfully realised nonsense … Unai Emery’s double-breasted sports coat is obviously the standout piece in that film, but the Villa shirt itself is retro glam of the highest order. There is a problem though. As far as I can make out, Villa have ditched the blue sleeves on four previous occasions in their history",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/31/aston-villa-v-arsenal-premier-league-live",
-      "published": "Mon, 31 Aug 2026 18:21:26 GMT",
+      "published": "Mon, 31 Aug 2026 18:43:51 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1665,12 +1669,12 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マンチェスター・シティ Ndiaye の契約の進歩、トッテナム Mudryk に注目を向ける",
-      "summary": "マンチェスター・シティと話すのに役立ちますエヴァートンウィンガーIliman Ndiaye 代替手段としてコーディ・ガクポ.",
-      "title_original": "Man City advancing on Ndiaye deal, Spurs turn attention to Mudryk",
-      "summary_original": "Manchester City are advancing in talks with Everton for winger Iliman Ndiaye as an alternative to Cody Gakpo.",
+      "title": "マンチェスター・シティ同意する £65m Ndiaye の契約,トッテナム Mudryk に注目を向ける",
+      "summary": "マンチェスター・シティ£65m の移籍合意エヴァートンウィンガーIliman Ndiaye 代替手段としてコーディ・ガクポ.",
+      "title_original": "Man City agree £65m Ndiaye deal, Spurs turn attention to Mudryk",
+      "summary_original": "Manchester City have agreed a £65m deal with Everton for winger Iliman Ndiaye as an alternative to Cody Gakpo.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579541/iliman-ndiaye-transfer-news-man-city-in-advanced-talks-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk",
+      "url": "https://www.skysports.com/football/news/12040/13579541/iliman-ndiaye-transfer-news-man-city-agree-65m-deal-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk",
       "published": "Mon, 31 Aug 2026 19:15:00 BST",
       "category": "epl",
       "type": "epl",
@@ -1707,9 +1711,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "MNF:アストン・ヴィラ対比アーセナルチームニュース LIVE!",
+      "title": "MNF:スズキ、ジャクソンが変容したヴィラでスタートアーセナルライブ!",
       "summary": "",
-      "title_original": "MNF: Aston Villa vs Arsenal team news LIVE!",
+      "title_original": "MNF: Suzuki, Jackson start for Villa vs unchanged Arsenal LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/aston-villa-vs-arsenal/live/559454",
