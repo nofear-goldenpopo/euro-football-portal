@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T21:04:48.632453+00:00",
+  "updated_at": "2026-08-31T21:19:36.261698+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -850,7 +850,14 @@
     "Chris Sutton": "クリス・サットン",
     "Stephen Warnock": "",
     "Rory Smith": "",
-    "Aryna Sabalenka": ""
+    "Aryna Sabalenka": "",
+    "Trey Nyoni": "",
+    "Chelsea's Sanchez": "",
+    "Tosin Adarabioyo": "",
+    "Declan Rice’s": "",
+    "The Arsenal": "アーセナル",
+    "Ian Maatsen": "",
+    "David Raya": ""
   },
   "items": [
     {
@@ -952,10 +959,10 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マンチェスター・シティフェルナンデスに署名するオープントーク - 火曜日のゴシップ",
-      "summary": "マンチェスター・シティオープントークチェルシー署名する Enzo Fernandez, アーセナル探検する Malick Fofana, 銃器もまだインテル署名で ested フリアン・アルバレス、プラス多く。",
-      "title_original": "Man City open talks to sign Fernandez - Tuesday gossip",
-      "summary_original": "Manchester City open talks with Chelsea to sign Enzo Fernandez, Arsenal explore move for Malick Fofana, Gunners also still interested in signing Julian Alvarez, plus more.",
+      "title": "アーセナル探検する ウィンガーフォファナ - 火曜日ゴシップ",
+      "summary": "アーセナル探検する Malick Fofana, 銃器もまだインテル署名で ested フリアン・アルバレスとリヴァプールから£30m 入札を拒否ノッティンガム・フォレスト獲得を獲得を問い合わせ Trey Nyoni, 以上.",
+      "title_original": "Arsenal explore move for winger Fofana - Tuesday gossip",
+      "summary_original": "Arsenal explore move for Malick Fofana, Gunners also still interested in signing Julian Alvarez, and Liverpool reject £30m bid from Nottingham Forest for Trey Nyoni, plus more.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwyz130nxkro?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 20:10:58 GMT",
@@ -994,17 +1001,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "エヴァートン同意する £40m 手数料 のためのモナコストライカー・バロウン",
-      "summary": "エヴァートン£40m の獲得で合意モナコ獲得を獲得を問い合わせアメリカ合衆国ストライカーFolarin Balogun.",
-      "title_original": "Everton agree £40m fee for Monaco striker Balogun",
-      "summary_original": "Everton agree a £40m deal with Monaco for United States striker Folarin Balogun.",
+      "title": "Mudryk へトッテナムとしてチェルシー'サンチェスはコモに向かう",
+      "summary": "チェルシーオファーを受け取るトッテナムウィンガーミハイロ・ムドリクそして擁護者 Tosin Adarabioyo, だけでなく、ゴールキーパーのためのイタリアのクラブコモから入札 Robert Sanchez.",
+      "title_original": "Mudryk to Spurs as Chelsea's Sanchez heads to Como",
+      "summary_original": "Chelsea accept offers from Tottenham for winger Mykhailo Mudryk and defender Tosin Adarabioyo, as well as a bid from Italian club Como for goalkeeper Robert Sanchez.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 20:21:22 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gj341p8ypo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 21:05:13 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1022,17 +1029,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "トッテナム、winger Mudryk on loan 獲得へ交渉",
-      "summary": "トッテナム看板の話チェルシーウィンガーミハイロ・ムドリク季節限定のローン。",
-      "title_original": "Tottenham in talks to sign winger Mudryk on loan",
-      "summary_original": "Tottenham are in talks to sign Chelsea winger Mykhailo Mudryk on a season-long loan.",
+      "title": "エヴァートン同意する £40m 手数料 のためのモナコストライカー・バロウン",
+      "summary": "エヴァートン£40m の獲得で合意モナコ獲得を獲得を問い合わせアメリカ合衆国ストライカーFolarin Balogun.",
+      "title_original": "Everton agree £40m fee for Monaco striker Balogun",
+      "summary_original": "Everton agree a £40m deal with Monaco for United States striker Folarin Balogun.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2m37k27pjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 18:12:08 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 20:21:22 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1078,6 +1085,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "サンダーランドは融資契約に合意トッテナムダンソ",
+      "summary": "サンダーランドは、ディフェンダーに署名するように設定されています Kevin Danso からトッテナム恒久的な動きのためのオプションで、季節限定のローン。",
+      "title_original": "Sunderland agree loan deal with Spurs for Danso",
+      "summary_original": "Sunderland are set to sign defender Kevin Danso from Tottenham on a season-long loan, with an option for a permanent move.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crl63ylw12yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 21:07:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -1089,20 +1110,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "MNC:Transfer Deadline Eve& Messi 言う よい bye へ アルゼンチン",
-      "summary": "Mark Chapman 参加するクリス・サットン, Stephen Warnock そして、Rory Smith.",
-      "title_original": "MNC: Transfer Deadline Eve & Messi says goodbye to Argentina",
-      "summary_original": "Mark Chapman is joined by Chris Sutton, Stephen Warnock and Rory Smith.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p78d6b?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 20:39:00 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1274,13 +1281,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "アストン・ヴィラ. .アーセナル: プレミアリーグ– ライブ",
-      "summary": "⚽️ プレミアリーグ BST キックオフの8pm からのアップデート Email ScottTikTok で私たちに従ってください Bluesky The チームをクリア! みんなの身に着けていることを知っています。37,000 円前後の容量を削減ヴィラ・パーク, と North Stand 季節限定で拡大を容易に 数分間オフします。プレマッチのポストバッグ。“Poor Villa. They 昨年も大盛況でした。その後、経営陣はチームの中心を離れる。今日、彼らはによって恥ずかしい取得します Gunners. What プレゼント",
-      "title_original": "Aston Villa v Arsenal: Premier League – live",
-      "summary_original": "⚽️ Premier League updates from the 8pm BST kick-off ⚽️ Email Scott and follow us on TikTok and Bluesky The teams are out! You know what everyone’s wearing. A reduced capacity of around 37,000 at Villa Park, with the North Stand closed for the season to facilitate its expansion. We’ll be off in a couple of minutes. Pre-match postbag. “Poor Villa. They were so great last year. Then management sells off the heart of their team. Today they will get embarrassed by the Gunners. What a present to their",
+      "title": "坂は悲嘆の戦いをとり、アストン・ヴィラ拡張するアーセナル’s 勝ちスタート",
+      "summary": "笑顔に Declan Rice’s 数分間顔をとって言ったんです。アーセナルミッドフィルダーはちょうどシャットダウンしていた Ian Maatsen としてアストン・ヴィラボックスに全バックズーム。アーセナル不快だった。ブカヨ・サカ唯一の目標を絞るが、Unai Emery’s 側面はチャンピオンを傷つけるために苦労しました、David Rayauntroubled。レコードは、Villa が2002 年以来、初めてのスコアリングなしでシーズンの最初の2 リーグの試合を失いましたが、成功的な敗北にもかかわらず、この時間はありませんでした",
+      "title_original": "Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start",
+      "summary_original": "The smile on Declan Rice’s face a few minutes from time said it all. The Arsenal midfielder had just shut down Ian Maatsen as the Aston Villa full-back zoomed into the box. Arsenal were hardly imperious, Bukayo Saka scoring the only goal, but Unai Emery’s side struggled to hurt the champions , David Raya untroubled. The records will show Villa have lost their first two league matches of a season without scoring for the first time since 2002 but, despite successive defeats, this time there was no",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/aug/31/aston-villa-v-arsenal-premier-league-live",
-      "published": "Mon, 31 Aug 2026 20:58:25 GMT",
+      "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-arsenal-premier-league-match-report",
+      "published": "Mon, 31 Aug 2026 21:08:55 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1694,6 +1701,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "チェルシー最新:トッテナム Tosin と Mudryk の二重移動で閉じる",
+      "summary": "",
+      "title_original": "Chelsea latest: Spurs close in on double move for Tosin and Mudryk",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Mon, 31 Aug 2026 14:34:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "「私は不安定なハッカーに疲れている」 - サバレンカは批評家に戻りました",
       "summary": "Aryna Sabalenka 彼女の批判に戻って、彼女は3 番目の成功のための彼女の探求で勝利の始まりをした後、「それは自分の人生で行くと取得することができます」と言って、US Open タイトル。",
       "title_original": "'I'm so tired of the miserable haters' - Sabalenka hits back at critics",
@@ -1957,20 +1978,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Scheffler、McIlroy、Fitzpatrick? 誰が勝つか PGA Tour Player 受賞作品",
-      "summary": "ローリー・マキロイ王冠されるレースで「オール・トゥ・プレイ」を主張 PGA Tour Player 今年は、まだ布団のための満足している人 Jack Nicklaus Award?",
-      "title_original": "Scheffler, McIlroy, Fitzpatrick? Who wins PGA Tour Player of the Year award?",
-      "summary_original": "Rory McIlroy insists it’s 'all to play for' in the race to be crowned PGA Tour Player of the Year, but who is still in contention for the coveted Jack Nicklaus Award?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13576481/scottie-scheffler-rory-mcilroy-or-matt-fitzpatrick-have-your-say-on-who-should-win-pga-tours-player-of-the-year-award",
-      "published": "Wed, 26 Aug 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
