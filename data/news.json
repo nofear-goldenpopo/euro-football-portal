@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T11:49:06.622576+00:00",
+  "updated_at": "2026-08-31T12:05:23.217152+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -759,7 +759,9 @@
     "Kevin Kelsy": "",
     "Julián Álvarez": "フリアン・アルバレス",
     "Álvarez Jesus": "",
-    "Rassie Erasmus": "ラシー・エラスムス"
+    "Rassie Erasmus": "ラシー・エラスムス",
+    "Allan Elias": "",
+    "VfB Stuttgart": "VfBシュトゥットガルト"
   },
   "items": [
     {
@@ -773,6 +775,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・シティサイン Palmeiras ウィンガー アラン £34m",
+      "summary": "マンチェスター・シティウィンガーの署名を完了して下さい Allan EliasPalmeiras から £34.2m まで価値のある移籍。",
+      "title_original": "Man City sign Palmeiras winger Allan for £34m",
+      "summary_original": "Manchester City complete the signing of winger Allan Elias from Palmeiras in a deal worth up to £34.2m.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crer89qjgydo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 12:00:06 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -875,20 +891,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ワトキンズは、サウジアラビア側 Al-Hilal に£51m の移動を完了",
-      "summary": "Ollie Watkins 彼が想像したり、彼の意図をしたことがないと言うアストン・ヴィラ彼の£51m が Al-Hilal に移行した後、「この道を終わらせる」キャリア。",
-      "title_original": "Watkins completes £51m move to Saudi side Al-Hilal",
-      "summary_original": "Ollie Watkins says he never imagined or intended his Aston Villa career to \"end this way\" after completing his £51m move to Al-Hilal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70le5gllyeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 17:12:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "マンチェスター・ユナイテッド近くの契約のための Mexico's Bernal",
       "summary": "マンチェスター・ユナイテッドメキシコの署名に近いですインテル全国 Rebeca Bernal からワシントン・スピリット.",
       "title_original": "Man Utd near deal for Mexico's Bernal",
@@ -928,6 +930,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ワトキンズは、サウジアラビア側 Al-Hilal に£51m の移動を完了",
+      "summary": "Ollie Watkins 彼が想像したり、彼の意図をしたことがないと言うアストン・ヴィラ彼の£51m が Al-Hilal に移行した後、「この道を終わらせる」キャリア。",
+      "title_original": "Watkins completes £51m move to Saudi side Al-Hilal",
+      "summary_original": "Ollie Watkins says he never imagined or intended his Aston Villa career to \"end this way\" after completing his £51m move to Al-Hilal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70le5gllyeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 17:12:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1169,30 +1185,30 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "「硬くて貴重なポイント」 - ファルクはリーズのキャラクターを賞賛",
-      "summary": "リーズマネージャーダニエル・ファルケゴールダウンから1〜1 をサルベージするために買った後、彼の側面「レジリエンス」とキャラクターを賞賛プレミアリーグ.",
-      "title_original": "'A hard but precious point' - Farke praises Leeds character",
-      "summary_original": "Leeds manager Daniel Farke praises his side \"resilience\" and character after they fought back from a goal down to salvage a 1-1 draw against Brentford in the Premier League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2zvzpdyjdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 16:37:47 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "サッカーの転送期限日ローム:Gakpo、Balogun などの最新のニュース - ライブ",
       "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ 連絡を取る: 電子メール Dominic とフォロー私たちに従ってください Bluesky Some 少し下キーのお得な情報:Rotherham United 署名を確認しましたマンチェスター・ユナイテッドヤングスターJayce Fitzgerald レンタル移籍で四季折々のひとときを。バルセロナ署名された16 歳の職業 Mikael Baza ハンブルグから若者のランクに参加します。Jaden Heskey に戻るシェフィールド・ウェンズデイ FC からマンチェスター・シティ レンタル移籍で季節を感動させる。続きを読む",
       "title_original": "Football transfer deadline day looms: latest news on Gakpo, Balogun and more – live",
       "summary_original": "Men’s transfer interactive | Women’s transfer interactive Get in touch: email Dominic and follow us on Bluesky Some slightly lower-key deals for you: Rotherham United have confirmed the signing of Manchester United youngster Jayce Fitzgerald on loan for the rest of the season. Barcelona have signed 16-year-old prodigy Mikael Baza from Hamburg – he will join their youth ranks. Jaden Heskey is to return to Sheffield Wednesday from Manchester City on loan after impressing last season. Continue read",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/31/football-transfer-deadline-day-looms-latest-news-on-gakpo-sarr-and-more-live",
-      "published": "Mon, 31 Aug 2026 11:37:42 GMT",
+      "published": "Mon, 31 Aug 2026 11:52:57 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "エルバーベルクと「奇跡の村」は、ブンデスリーガ妖精はまだ存在します |Andy Brassell",
+      "summary": "ドイツのサッカーは、長い主張しています エリートリーグよりも優勝争い. 今、彼らは驚きと不思議がここにあまりにも金曜日の夜に住んでいる世界を示す物語を持っていることは初めての楽しみだった VfB シュトゥットガルト彼らが最初の手は残りの部分の証拠を得たのでブンデスリーガ恐れのある:バイエルン・ミュンヘンこれまでよりも、おそらく大騒ぎです。カーテン・レイザーですが、実は週末のトーンをセットしませんでした。ドイツのサッカーは、彼らのエリートリーグに、長い主張しています",
+      "title_original": "Elversberg and ‘miracle village’ prove that Bundesliga fairytales still exist | Andy Brassell",
+      "summary_original": "German football has long insisted there is more to their elite league than a title race. Now they have a story that shows the world that surprise and wonder does live here too Friday night was no first day fun for VfB Stuttgart as they got first-hand proof of what the rest of the Bundesliga feared: that Bayern Munich are perhaps mightier than ever. The curtain-raiser, though, didn’t actually set the tone for the the weekend. German football has long insisted there is more to their elite league t",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/31/elversberg-miracle-village-prove-bundesliga-fairytales-still-exist",
+      "published": "Mon, 31 Aug 2026 11:52:41 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1292,20 +1308,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マーカス・ラッシュフォード獲得を獲得を問い合わせマンチェスター・ユナイテッド便利さの結婚のような気持ちを返す |Will Unwin",
-      "summary": "交換を見つけるためのオファーや問題の欠如は、移動の背後にあるかもしれませんが、それは動作しない 試合の最初のチャントは、マーカス・ラッシュフォード, マンチェスター・ユナイテッド’ s の戻りローグの息子, 1 は 18 ヶ月, 最初にミッドランズとその後 Catalonia. Every サッカーファンは、ランクを上げているアカデミー製品が大好きです, 料理の子供から得 76,000 彼らの席オフ. Rashford はこれらの1 つです。オールド・トラッフォードそして彼ら",
-      "title_original": "Marcus Rashford’s Manchester United return feels like a marriage of convenience | Will Unwin",
-      "summary_original": "A lack of offers and problems in finding a replacement may be behind the move, but that does not mean it cannot work The first chant of the match was for Marcus Rashford, Manchester United’s returning rogue son, the one banished for 18 months, first to the Midlands and then Catalonia. Every football fan loves an academy product who has risen up the ranks, from scrawny child to getting 76,000 off their seats. Rashford is one of these, living out the dream of everyone inside Old Trafford and they ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/30/marcus-rashford-manchester-united-return-old-trafford",
-      "published": "Sun, 30 Aug 2026 19:45:41 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1533,6 +1535,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "マーカス・ラッシュフォード獲得を獲得を問い合わせマンチェスター・ユナイテッド便利さの結婚のような気持ちを返す |Will Unwin",
+      "summary": "交換を見つけるためのオファーや問題の欠如は、移動の背後にあるかもしれませんが、それは動作しない 試合の最初のチャントは、マーカス・ラッシュフォード, マンチェスター・ユナイテッド’ s の戻りローグの息子, 1 は 18 ヶ月, 最初にミッドランズとその後 Catalonia. Every サッカーファンは、ランクを上げているアカデミー製品が大好きです, 料理の子供から得 76,000 彼らの席オフ. Rashford はこれらの1 つです。オールド・トラッフォードそして彼ら",
+      "title_original": "Marcus Rashford’s Manchester United return feels like a marriage of convenience | Will Unwin",
+      "summary_original": "A lack of offers and problems in finding a replacement may be behind the move, but that does not mean it cannot work The first chant of the match was for Marcus Rashford, Manchester United’s returning rogue son, the one banished for 18 months, first to the Midlands and then Catalonia. Every football fan loves an academy product who has risen up the ranks, from scrawny child to getting 76,000 off their seats. Rashford is one of these, living out the dream of everyone inside Old Trafford and they ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/30/marcus-rashford-manchester-united-return-old-trafford",
+      "published": "Sun, 30 Aug 2026 19:45:41 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Lavish 支出 失敗 へ 修正トッテナム’s の大きな問題 – 魂と背骨の欠如 |Jonathan Liew",
       "summary": "慌てたボタンを押しても早いかもしれませんが、Roberto De Zerbi 彼がターンするなら、巨大なタスクに直面しますトッテナム時間についてトッテナムパニックを始めるには? これは、もちろん、微妙なトリック質問です。トッテナム実際にパンクを止めないクラブの1 つです。彼らは彼らがスコアするとき、彼らは隠蔽し、彼らはパニックなとき、彼らは慌てます。彼らはボールを持っているとき、彼らはパニック、他の人がそうするときにパニック. 彼らはコーチを持っています Roberto De Zerbi その顔は永久的な警報の状態を、明白呼びます",
       "title_original": "Lavish spending fails to fix Tottenham’s big issue – the lack of soul and spine | Jonathan Liew",
@@ -1589,17 +1605,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "アストン・ヴィラ’ s のスクワッドはしばらく残酷ですトッテナムスプラッシュアウト。金融ルールは公正ですか?",
-      "summary": "勝つヨーロッパリーグ第4 回を終えては、ヴィラを絶縁せず、トッテナムウーエの季節に妨げられなかった理論アストン・ヴィラサポーターは、自分の手で一緒に自分の手でこすれているはずですチャンピオンズリーグ季節限定 獲得を獲得を問い合わせトッテナムファンは、後に絶望的だった残留争いワイヤーに行きました。第17 位の仕上げトッテナム£35m 未満で獲得プレミアリーグ最終的なリーグの位置に基づいているメリット支払い、Villa. Yet 私の気分",
-      "title_original": "Aston Villa’s squad is crumbling while Spurs splash out. Are the financial rules fair?",
-      "summary_original": "Winning the Europa League and finishing fourth did not inoculate Villa and Spurs were not hampered by a season of woe In theory Aston Villa supporters should have been rubbing their hands together at the prospect of a Champions League season. Equally, Tottenham fans could have been despondent after a relegation battle that went to the wire. A 17th-place finish meant Spurs earned about £35m less in Premier League merit payments, which are based on final league position, than Villa. Yet the mood i",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/28/aston-villa-spurs-are-football-financial-rules-fair-transfers",
-      "published": "Fri, 28 Aug 2026 09:00:01 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
+      "title": "森のグラズナーと Munoz が再会クリスタル・パレスログイン",
+      "summary": "ノッティンガム・フォレスト署名を完了しました Daniel Munoz からクリスタル・パレス.",
+      "title_original": "Munoz reunites with Glasner at Forest after Palace move",
+      "summary_original": "Nottingham Forest have completed the signing of Daniel Munoz from Crystal Palace.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579400/daniel-munoz-nottingham-forest-sign-defender-from-crystal-palace-in-transfer-deal-worth-up-to-22m",
+      "published": "Mon, 31 Aug 2026 13:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1866,20 +1882,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Euro Debrief: モウリーニョを最大限に活用するベリンガム獲得を獲得を問い合わせレアル・マドリード",
-      "summary": "",
-      "title_original": "Euro Debrief: Mourinho getting best out of Bellingham at Real Madrid",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13576939/jude-bellingham-jose-mourinho-getting-best-out-of-england-star-as-a-no-10-at-real-madrid-plus-lots-more-in-the-euro-debrief",
-      "published": "Mon, 31 Aug 2026 09:00:00 BST",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
