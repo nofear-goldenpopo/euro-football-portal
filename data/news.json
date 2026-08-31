@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T17:04:31.102986+00:00",
+  "updated_at": "2026-08-31T17:19:04.251173+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -801,7 +801,13 @@
     "The Women's TGL": "",
     "Man City's": "",
     "Manchester City Bradley Barcola": "",
-    "Brit Samuel": ""
+    "Brit Samuel": "",
+    "United States. The": "",
+    "On Monday": "",
+    "Constitution Hill": "",
+    "William Hill September Stakes": "",
+    "Kempton Park": "",
+    "Billy Loughnane": ""
   },
   "items": [
     {
@@ -1226,9 +1232,9 @@
     },
     {
       "title": "アルゼンチンリオネル・メッシ退職者からインテル国民のフットボール:「これは私をたくさん傷つけます」",
-      "summary": "アルゼンチンの素晴らしい最後のゲームは、World Cup ファイナリストの父ジョルジェが8 月に亡くなったリオネル・メッシ207 キャップを獲得した後、アルゼンチンの義務から退職を発表した。2005 年にアルゼンチンデビューを果たした39 歳、優勝 World Cup2022 年、この夏と2014 年はランナーアップでした。彼はまた2 つを固定しましたコパ・アメリカタイトル Messi は「痛い決断だった」という文に書いていますが、それでも深刻に痛むという決断でした。しかし、その時が来たことを理解しています。私はあなたに誓います",
+      "summary": "アルゼンチンの素晴らしい最後のゲームは、World Cup ファイナリストの父ジョルジェが8 月に亡くなったリオネル・メッシ退職後退の発表インテルアルゼンチンがスペインで殴られた7 週間後に全国サッカー7 週間 World Cup 決勝 United States. The39 歳 キャプテン アルゼンチン へ World Cup 栄光で 2022 と 2 コパ・アメリカ2005 年に最初のキャップを獲得した後のタイトル。On Monday, Messi は、彼が書いた手書きメモの Instagram に写真を掲載しました 21 7 月, 2 日 AF",
       "title_original": "Argentina’s Lionel Messi retires from international football: ‘This hurts me a lot’",
-      "summary_original": "Argentina great’s last game was in World Cup final Player’s father Jorge passed away earlier in August Lionel Messi has announced his retirement from Argentina duty after winning 207 caps. The 39-year-old, who made his Argentina debut in 2005, won the World Cup in 2022 and was a runner-up this summer and in 2014. He also secured two Copa América titles. Messi wrote in a statement: “It was a decision that hurt – and still hurts deep down – but I understand that the time has come. I swear to you t",
+      "summary_original": "Argentina great’s last game was in World Cup final Player’s father Jorge passed away earlier in August Lionel Messi has announced his retirement from international football seven weeks after Argentina were beaten by Spain in the World Cup final in the United States. The 39-year-old captained Argentina to World Cup glory in 2022 and two Copa América titles after winning his first cap in 2005. On Monday, Messi posted a picture on Instagram of handwritten notes that he wrote on 21 July, two days af",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messi-retires-from-international-football-argentina",
       "published": "Mon, 31 Aug 2026 15:19:13 GMT",
@@ -1645,6 +1651,34 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Constitution Hill 土曜日にケンプトンで深刻なテストを設定する",
+      "summary": "Constitution Hill 彼が行くとき、彼はフラットに彼の大レースの野望の深刻な検査に直面している可能性が高い William Hill September Stakes 獲得を獲得を問い合わせ Kempton Park 土曜日、新しいジョッキーと Billy Loughnane サドルで。",
+      "title_original": "Constitution Hill set for serious test at Kempton on Saturday",
+      "summary_original": "Constitution Hill looks likely to face a serious examination of his big-race ambitions on the Flat when he goes for the William Hill September Stakes at Kempton Park on Saturday, with new jockey Billy Loughnane in the saddle.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13579512/constitution-hill-set-for-serious-test-at-kempton-on-saturday",
+      "published": "Mon, 31 Aug 2026 17:50:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・シティバンパーGakpo 入札拒否後のオプションを検討",
+      "summary": "マンチェスター・シティ後に代替品を探していますリヴァプール£80m 入札を拒否コーディ・ガクポ.",
+      "title_original": "Man City consider options after bumper Gakpo bid rejected",
+      "summary_original": "Man City are exploring alternatives after Liverpool rejected their £80m bid for Cody Gakpo.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13578880/cody-gakpo-transfer-news-man-city-consider-options-after-liverpool-reject-80m-bid-for-winger",
+      "published": "Sat, 29 Aug 2026 21:20:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "「今は今だ」Brit Samuel 世界 No1,871 から US Open 第2 ラウンド",
       "summary": "Britain's Toby Samuel2025 年の始まりから、世界の1,871 年を上回るまで、長い道が来ました。全米オープン第2 ラウンド。",
       "title_original": "'I'm here now' - Brit Samuel goes from world No 1,871 to US Open second round",
@@ -1894,34 +1928,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "アストン・ヴィラ最新: Harwood-Bellis が受けるメディカルチェックワトキンズペンとしてファーウェル",
-      "summary": "",
-      "title_original": "Aston Villa latest: Harwood-Bellis undergoes medical as Watkins pens farewell",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Mon, 31 Aug 2026 09:46:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "リヴァプール獲得を獲得を問い合わせバルコラからの署名パリ・サンジェルマン",
-      "summary": "リヴァプール署名を完了しましたブラッドリー・バルコラからパリ・サンジェルマン.",
-      "title_original": "Liverpool complete Barcola signing from PSG",
-      "summary_original": "Liverpool have completed the signing of Bradley Barcola from Paris Saint-Germain.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13577733/bradley-barcola-transfer-news-liverpool-complete-123m-signing-of-france-winger-from-psg",
-      "published": "Mon, 31 Aug 2026 14:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
