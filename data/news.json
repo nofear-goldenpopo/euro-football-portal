@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T08:19:12.852698+00:00",
+  "updated_at": "2026-08-31T08:34:18.470455+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -714,7 +714,11 @@
     "The Ashes": "ジ・アッシズ",
     "Good Morning Transfers": "",
     "Sky Sports News": "",
-    "Euro Debrief": ""
+    "Euro Debrief": "",
+    "Mexico's Bernal": "",
+    "Rebeca Bernal": "",
+    "Washington Spirit": "ワシントン・スピリット",
+    "Bradley Barc": ""
   },
   "items": [
     {
@@ -830,6 +834,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "マンチェスター・ユナイテッド近くの契約のための Mexico's Bernal",
+      "summary": "マンチェスター・ユナイテッドメキシコの署名に近いですインテル全国 Rebeca Bernal からワシントン・スピリット.",
+      "title_original": "Man Utd near deal for Mexico's Bernal",
+      "summary_original": "Manchester United are close to signing Mexico international Rebeca Bernal from Washington Spirit.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 08:21:54 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "'bitty' Pittodrie が McInnes のターンポイントを獲得し、レンジャーズ?",
       "summary": "Until Sunday's アバディーンへ北へ Derek McInnes 本当に楽しんでいないレンジャーズチーム。Pittodrie で不協調の勝利の後に変更しました。",
       "title_original": "Is 'bitty' Pittodrie win turning point for McInnes and Rangers?",
@@ -841,20 +859,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "技術的な悩みの葉チェルシーcomms のないゲームの ref",
-      "summary": "レフリーMichael Oliver 後半に出現 Stamford Bridge 日曜日に重要なことは欠落していた - 彼のコミュニケーションパック。",
-      "title_original": "Tech trouble leaves Chelsea game ref without comms",
-      "summary_original": "When referee Michael Oliver emerged for the second half at Stamford Bridge on Sunday something important was missing - his communications pack.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yl4lzp9gzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 17:41:22 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -942,6 +946,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "技術的な悩みの葉チェルシーcomms のないゲームの ref",
+      "summary": "レフリーMichael Oliver 後半に出現 Stamford Bridge 日曜日に重要なことは欠落していた - 彼のコミュニケーションパック。",
+      "title_original": "Tech trouble leaves Chelsea game ref without comms",
+      "summary_original": "When referee Michael Oliver emerged for the second half at Stamford Bridge on Sunday something important was missing - his communications pack.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yl4lzp9gzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 17:41:22 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "バルセロナ移籍に近いアーセナルイエス",
       "summary": "バルセロナ移動中に閉じるアーセナルストライカーガブリエウ・ジェズス£8.6m 相当の移籍",
       "title_original": "Barcelona close to deal for Arsenal's Jesus",
@@ -952,20 +970,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Abdulmalik は Vardy の非リーグ転送記録を破る",
-      "summary": "スウェーデンクラブ Djurgarden サイン Abdul Adbulmalik から Boreham Wood 獲得を獲得を問い合わせ National League 初期£1.5m 相当のレコード料金。",
-      "title_original": "Abdulmalik breaks Vardy's non-league transfer record",
-      "summary_original": "Swedish club Djurgarden sign Abdul Adbulmalik from Boreham Wood for a National League record fee worth an initial £1.5m.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zvw14e8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 09:19:27 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1124,17 +1128,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "エヴァートンファンバックラッシュ後の Armstrong セールを呼び出します",
-      "summary": "エヴァートン Midfielder を売る提案された契約を離れて呼びました Harrison Armstrong 獲得を獲得を問い合わせノッティンガム・フォレストクラブのサポーターのバックラッシュに続いています。",
-      "title_original": "Everton call off Armstrong sale after fan backlash",
-      "summary_original": "Everton have called off a proposed deal to sell midfielder Harrison Armstrong to Nottingham Forest following a backlash from the club's supporters.",
+      "title": "Abdulmalik は Vardy の非リーグ転送記録を破る",
+      "summary": "スウェーデンクラブ Djurgarden サイン Abdul Adbulmalik から Boreham Wood 獲得を獲得を問い合わせ National League 初期£1.5m 相当のレコード料金。",
+      "title_original": "Abdulmalik breaks Vardy's non-league transfer record",
+      "summary_original": "Swedish club Djurgarden sign Abdul Adbulmalik from Boreham Wood for a National League record fee worth an initial £1.5m.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0lrge3dwklo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 08:58:28 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zvw14e8zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 09:19:27 GMT",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1145,6 +1149,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action",
       "published": "Mon, 31 Aug 2026 07:00:19 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "フットボールの移動の噂:リヴァプール Estêvão に署名するには?クリスチャン・プルシック獲得を獲得を問い合わせトッテナム?",
+      "summary": "今日のチャットターは、今日の夢について話しています。エリートフットボールクラブは、これらの日々の努力に何百万もの突出し、データの連鎖を集めて、数え切れないほどの時間を費やして、採用計画を組み立てていますが、何とか最終日が移籍市場プレイヤーをリクルートするために、必殺処分のスクラップを維持します。羽根が季節に始まり、わずかに糸穴の正面線で、リヴァプール事実にもかかわらず、確かにそのブラケットで自分自身を見つける Bradley Barc",
+      "title_original": "Football transfer rumours: Liverpool to sign Estêvão? Christian Pulisic to Spurs?",
+      "summary_original": "Today’s chatter is talking about its dreams again Elite football clubs splash out millions on their scouting efforts these days, gather reams of data and spend countless meticulous hours assembling their recruitment plans, yet somehow the final days of the transfer window remain a desperate scrap, for some, to recruit players. After an underwhelming start to the season and with a slightly threadbare frontline, Liverpool certainly find themselves in that bracket and, despite the fact Bradley Barc",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/31/football-transfer-rumours-liverpool-to-sign-estevao-christian-pulisic-to-spurs",
+      "published": "Mon, 31 Aug 2026 08:22:50 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1166,20 +1184,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "アストン・ヴィラそして、チェルシートランスファーパイプラインにもかかわらず、まだ敵, 主張エメリー",
-      "summary": "マーティネスとジャクソン最新デュオがクラブ・ゴレツカとスズキとの間で移動し、デビューは反対にすることができますアーセナル Unai Emery 彼は言ったアストン・ヴィラそして、チェルシー近年のビジネスを定期的に行っているにもかかわらず、クラブがお互いに「キル」したいと主張しているのではなく、敵です。Emiliano Martínez チームの間で移動する最新のプレーヤーになった後チェルシー署名するために£117m を支払ったモーガン・ロジャーズヴィラからこの夏。Nicolas Jackson, デに参加した後、ヴィラの記録署名になることができる人",
-      "title_original": "Aston Villa and Chelsea still enemies despite transfer pipeline, insists Emery",
-      "summary_original": "Martínez and Jackson latest duo to move between clubs Goretzka and Suzuki could make debuts against Arsenal Unai Emery has said Aston Villa and Chelsea are enemies rather than friends, insisting the clubs want to “kill” each other despite regularly doing business in recent years. Emiliano Martínez became the latest player to move between the teams, after Chelsea paid £117m to sign Morgan Rogers from Villa this summer. Nicolas Jackson, who could become Villa’s record signing after joining in a de",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-chelsea-still-enemies-transfer-pipeline-unai-emery",
-      "published": "Mon, 31 Aug 2026 01:00:11 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Women’s Super League2026-27 プレビュー番号 10:ロンドン・シティ・ライオネス",
       "summary": "Ballon d’Or の勝者 Putellas は、非常に最高の Guardian 作家の予測位置へのギャップを橋渡しすることを目指し、独立したクラブでスーパースターの名前のインフルエンザを率いています: 4th (NB: これは必ずしも必ずしもそうではありません)Suzanne Wrack’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 6th 続きを読む...",
       "title_original": "Women’s Super League 2026-27 preview No 10: London City Lionesses",
@@ -1194,13 +1198,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マーカス・ラッシュフォード獲得を獲得を問い合わせマンチェスター・ユナイテッド便利さの結婚のような気持ちを返す |Will Unwin",
-      "summary": "交換を見つけるためのオファーや問題の欠如は、移動の背後にあるかもしれませんが、それは動作しない 試合の最初のチャントは、マーカス・ラッシュフォード, マンチェスター・ユナイテッド’ s の戻りローグの息子, 1 は 18 ヶ月, 最初にミッドランズとその後 Catalonia. Every サッカーファンは、ランクを上げているアカデミー製品が大好きです, 料理の子供から得 76,000 彼らの席オフ. Rashford はこれらの1 つです。オールド・トラッフォードそして彼ら",
-      "title_original": "Marcus Rashford’s Manchester United return feels like a marriage of convenience | Will Unwin",
-      "summary_original": "A lack of offers and problems in finding a replacement may be behind the move, but that does not mean it cannot work The first chant of the match was for Marcus Rashford, Manchester United’s returning rogue son, the one banished for 18 months, first to the Midlands and then Catalonia. Every football fan loves an academy product who has risen up the ranks, from scrawny child to getting 76,000 off their seats. Rashford is one of these, living out the dream of everyone inside Old Trafford and they ",
+      "title": "アストン・ヴィラそして、チェルシートランスファーパイプラインにもかかわらず、まだ敵, 主張エメリー",
+      "summary": "マーティネスとジャクソン最新デュオがクラブ・ゴレツカとスズキとの間で移動し、デビューは反対にすることができますアーセナル Unai Emery 彼は言ったアストン・ヴィラそして、チェルシー近年のビジネスを定期的に行っているにもかかわらず、クラブがお互いに「キル」したいと主張しているのではなく、敵です。Emiliano Martínez チームの間で移動する最新のプレーヤーになった後チェルシー署名するために£117m を支払ったモーガン・ロジャーズヴィラからこの夏。Nicolas Jackson, デに参加した後、ヴィラの記録署名になることができる人",
+      "title_original": "Aston Villa and Chelsea still enemies despite transfer pipeline, insists Emery",
+      "summary_original": "Martínez and Jackson latest duo to move between clubs Goretzka and Suzuki could make debuts against Arsenal Unai Emery has said Aston Villa and Chelsea are enemies rather than friends, insisting the clubs want to “kill” each other despite regularly doing business in recent years. Emiliano Martínez became the latest player to move between the teams, after Chelsea paid £117m to sign Morgan Rogers from Villa this summer. Nicolas Jackson, who could become Villa’s record signing after joining in a de",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/30/marcus-rashford-manchester-united-return-old-trafford",
-      "published": "Sun, 30 Aug 2026 19:45:41 GMT",
+      "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-chelsea-still-enemies-transfer-pipeline-unai-emery",
+      "published": "Mon, 31 Aug 2026 01:00:11 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1208,13 +1212,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "転送ラウンドアップ:Ollie Watkins から Al-Hilal に移動するアストン・ヴィラ",
-      "summary": "イングランドのフォワードの出口は、忙しい夏を続けている Villa News 獲得を獲得を問い合わせ Emiliano Martínez 移動するチェルシーAl-Hilal は署名しました Ollie Watkins からアストン・ヴィラ、30 歳のストライカーが成功を収めたため、日曜日に発表された2 クラブは、ミッドランズクラブで成功を収めました。プレミアリーグ. イングランドインテル国民は、ヴィラ契約に2 年残った人、報告された£51m のために移動しました。ワトキンズは、アル・ヒルルが買収した3 年間の契約を締結",
-      "title_original": "Transfer roundup: Ollie Watkins completes move to Al-Hilal from Aston Villa",
-      "summary_original": "England forward’s exit continues busy summer for Villa News follows Emiliano Martínez moving to Chelsea Al-Hilal have signed Ollie Watkins from Aston Villa, ⁠the two clubs announced on Sunday, as the 30-year-old striker ended a successful ⁠six-year spell with ⁠the ​Midlands club where he became their top scorer in the Premier League. The England international, who had ​two years left on ‌his Villa contract, has moved for a reported £51m. Watkins ‌signed a three-year contract as Al-Hilal acquired",
+      "title": "マーカス・ラッシュフォード獲得を獲得を問い合わせマンチェスター・ユナイテッド便利さの結婚のような気持ちを返す |Will Unwin",
+      "summary": "交換を見つけるためのオファーや問題の欠如は、移動の背後にあるかもしれませんが、それは動作しない 試合の最初のチャントは、マーカス・ラッシュフォード, マンチェスター・ユナイテッド’ s の戻りローグの息子, 1 は 18 ヶ月, 最初にミッドランズとその後 Catalonia. Every サッカーファンは、ランクを上げているアカデミー製品が大好きです, 料理の子供から得 76,000 彼らの席オフ. Rashford はこれらの1 つです。オールド・トラッフォードそして彼ら",
+      "title_original": "Marcus Rashford’s Manchester United return feels like a marriage of convenience | Will Unwin",
+      "summary_original": "A lack of offers and problems in finding a replacement may be behind the move, but that does not mean it cannot work The first chant of the match was for Marcus Rashford, Manchester United’s returning rogue son, the one banished for 18 months, first to the Midlands and then Catalonia. Every football fan loves an academy product who has risen up the ranks, from scrawny child to getting 76,000 off their seats. Rashford is one of these, living out the dream of everyone inside Old Trafford and they ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/30/transfer-roundup-ollie-watkins-al-hilal-aston-villa",
-      "published": "Sun, 30 Aug 2026 16:46:29 GMT",
+      "url": "https://www.theguardian.com/football/2026/aug/30/marcus-rashford-manchester-united-return-old-trafford",
+      "published": "Sun, 30 Aug 2026 19:45:41 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
