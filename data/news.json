@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T17:34:20.302015+00:00",
+  "updated_at": "2026-08-31T17:49:31.934198+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -807,7 +807,9 @@
     "Constitution Hill": "",
     "William Hill September Stakes": "",
     "Kempton Park": "",
-    "Billy Loughnane": ""
+    "Billy Loughnane": "",
+    "Britain's Fearnley": "",
+    "Defiant Richarlison": ""
   },
   "items": [
     {
@@ -1231,6 +1233,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "アストン・ヴィラ. .アーセナル: プレミアリーグ– ライブ",
+      "summary": "⚽️ プレミアリーグ BST キックオフの8pm からのアップデート Email ScottTikTok と Bluesky で私たちに従ってくださいプレミアリーグマッチウィーク 2 つ(格闘ゲームを諦めていた)は、おそらく10 の最も興味深いゲームと結論づけています。ミケル・アルテタ自分の帝国フェーズに入るように見えるアーセナル: 再興のチャンピオン、広く彼らの王冠を保持することを期待して、欧州で2 番目の最高のチームを正式に、来年より良い1 つに行くことを願っている。先週のキャンペーンを開始し、ブリージー3〜3 勝利",
+      "title_original": "Aston Villa v Arsenal: Premier League – live",
+      "summary_original": "⚽️ Premier League updates from the 8pm BST kick-off ⚽️ Email Scott and follow us on TikTok and Bluesky Premier League Matchweek Two (I’ve given up fighting it) concludes with perhaps the most intriguing game of the ten. Mikel Arteta looks to be entering his imperial phase with Arsenal: the reigning champions, widely expected to retain their crown, officially the second-best team in Europe with aspirations to go one better next year. And they started their campaign last week with a breezy 3-0 win",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/aug/31/aston-villa-v-arsenal-premier-league-live",
+      "published": "Mon, 31 Aug 2026 17:30:31 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "アルゼンチンリオネル・メッシ退職者からインテル国民のフットボール:「これは私をたくさん傷つけます」",
       "summary": "アルゼンチンの素晴らしい最後のゲームは、World Cup ファイナリストの父ジョルジェが8 月に亡くなったリオネル・メッシ退職後退の発表インテルアルゼンチンがスペインで殴られた7 週間後に全国サッカー7 週間 World Cup 決勝 United States. The39 歳 キャプテン アルゼンチン へ World Cup 栄光で 2022 と 2 コパ・アメリカ2005 年に最初のキャップを獲得した後のタイトル。On Monday, Messi は、彼が書いた手書きメモの Instagram に写真を掲載しました 21 7 月, 2 日 AF",
       "title_original": "Argentina’s Lionel Messi retires from international football: ‘This hurts me a lot’",
@@ -1252,20 +1268,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg",
       "published": "Mon, 31 Aug 2026 16:38:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "アーセナルルアーをしようとフリアン・アルバレス Martinelli とイエスを販売する合意後",
-      "summary": "Atlético は、許さないと言うバルセロナ購入するÁlvarez Jesus のために供給されるバルセロナアル・ヒラルのマルティネリアーセナル説得する時間から実行されているフリアン・アルバレス参加するアトレティコ・マドリード売却後の同意 Gabriel Martinelli, ガブリエウ・ジェズスそして、Fábio Vieira£70m 以上を一括して移籍できます。Álvarez は、彼の心がバルセロナ Atlético の主張にもかかわらず、彼らは彼らのために販売しませんラ・リーガライバルとスクワから出てから日曜日に訓練に戻って",
-      "title_original": "Arsenal trying to lure Julián Álvarez after agreeing deals to sell Martinelli and Jesus",
-      "summary_original": "Atlético say they will not allow Barcelona to buy Álvarez Jesus poised for Barça and Martinelli for Al-Hilal Arsenal are running out of time to persuade Julián Álvarez to join them from Atlético Madrid after agreeing to sell Gabriel Martinelli, Gabriel Jesus and Fábio Vieira in deals collectively worth more than £70m. Álvarez has his heart set on Barcelona despite Atlético’s insistence they will not sell to their La Liga rivals and returned to training on Sunday after being left out of their squ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers",
-      "published": "Mon, 31 Aug 2026 10:45:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1497,16 +1499,16 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
-      "summary": "ニューカッスルプレーヤーは、再生を見て,リヴァプール’s の好奇心な転送戦略と心配の始まりクリスタル・パレス懸念中マンチェスター・ユナイテッド, 1 人のプレーヤーは、要求されていない Senne Lammens. The ゴールキーパーは、困難な状況でゲームの中で彼の側面を維持するために、イプスウィッチに対して重要な最初の半分の節約を生成しました。リラックスしたキャラクター、ベルギーは感情的な環境に落ち着きのある影響を受けており、特にパンクされた防御力があります。When Julio Enciso 目標は、ランメンが決まっていた",
-      "title_original": "Premier League: 10 talking points from the weekend’s action",
-      "summary_original": "Newcastle players look revitalised, Liverpool’s curious transfer strategy and a worrying start for Palace Amid the concerns at Manchester United, one player unquestioned is Senne Lammens. The goalkeeper produced some important first-half saves against Ipswich to keep his side in the game in difficult circumstances. A relaxed character, the Belgian is a calming influence in an emotional environment, especially with a panicked defence. When Julio Enciso was through on goal, Lammens had to decide w",
+      "title": "マルセイユ’ s のスクワッドは圧倒されていますが、マネージャーは滞在しています – 今",
+      "summary": "それは厳しいです移籍市場獲得を獲得を問い合わせマルセイユと 2-0 で敗北モナコ長い季節になることができることを提案して下さい By Get French Football ニュース 天気の良い夜モナコ温度を測る機会を提供しましたマルセイユサポーター 遠くのファンのバンにもかかわらずスタッド・ルイ・ドゥ, 多くは彼らの 2-0 敗北のための出席にありました 2-0 敗北 Principality. There 新しいマネージャーの応援をしました。Bruno Génésio と boos のために Geoffrey Kondogbia、しかし、それは2 番目の半分の多くのための沈黙でした",
+      "title_original": "Marseille’s squad is being gutted but their manager is staying – for now",
+      "summary_original": "It has been a tough transfer window for Marseille and a 2-0 defeat at Monaco suggests it could be a long season By Get French Football News A humid night in Monaco provided an opportunity to gauge the temperature of the Marseille supporters. Despite the ban on away fans at the Stade Louis II, plenty were in attendance for their 2-0 defeat in the Principality. There were cheers for their new manager, Bruno Génésio, and boos for Geoffrey Kondogbia, but it was the silence for much of the second hal",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action",
-      "published": "Mon, 31 Aug 2026 07:00:19 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/aug/31/marseille-squad-manager-staying-monaco-season",
+      "published": "Mon, 31 Aug 2026 16:11:23 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1581,16 +1583,16 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マルセイユ’ s のスクワッドは圧倒されていますが、マネージャーは滞在しています – 今",
-      "summary": "それは厳しいです移籍市場獲得を獲得を問い合わせマルセイユと 2-0 で敗北モナコ長い季節になることができることを提案して下さい By Get French Football ニュース 天気の良い夜モナコ温度を測る機会を提供しましたマルセイユサポーター 遠くのファンのバンにもかかわらずスタッド・ルイ・ドゥ, 多くは彼らの 2-0 敗北のための出席にありました 2-0 敗北 Principality. There 新しいマネージャーの応援をしました。Bruno Génésio と boos のために Geoffrey Kondogbia、しかし、それは2 番目の半分の多くのための沈黙でした",
-      "title_original": "Marseille’s squad is being gutted but their manager is staying – for now",
-      "summary_original": "It has been a tough transfer window for Marseille and a 2-0 defeat at Monaco suggests it could be a long season By Get French Football News A humid night in Monaco provided an opportunity to gauge the temperature of the Marseille supporters. Despite the ban on away fans at the Stade Louis II, plenty were in attendance for their 2-0 defeat in the Principality. There were cheers for their new manager, Bruno Génésio, and boos for Geoffrey Kondogbia, but it was the silence for much of the second hal",
+      "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
+      "summary": "ニューカッスルプレーヤーは、再生を見て,リヴァプール’s の好奇心な転送戦略と心配の始まりクリスタル・パレス懸念中マンチェスター・ユナイテッド, 1 人のプレーヤーは、要求されていない Senne Lammens. The ゴールキーパーは、困難な状況でゲームの中で彼の側面を維持するために、イプスウィッチに対して重要な最初の半分の節約を生成しました。リラックスしたキャラクター、ベルギーは感情的な環境に落ち着きのある影響を受けており、特にパンクされた防御力があります。When Julio Enciso 目標は、ランメンが決まっていた",
+      "title_original": "Premier League: 10 talking points from the weekend’s action",
+      "summary_original": "Newcastle players look revitalised, Liverpool’s curious transfer strategy and a worrying start for Palace Amid the concerns at Manchester United, one player unquestioned is Senne Lammens. The goalkeeper produced some important first-half saves against Ipswich to keep his side in the game in difficult circumstances. A relaxed character, the Belgian is a calming influence in an emotional environment, especially with a panicked defence. When Julio Enciso was through on goal, Lammens had to decide w",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/31/marseille-squad-manager-staying-monaco-season",
-      "published": "Mon, 31 Aug 2026 16:11:23 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
+      "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action",
+      "published": "Mon, 31 Aug 2026 07:00:19 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1679,6 +1681,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "US Open スコア:Britain's Fearnley 第一次行動におけるウェンデルケン",
+      "summary": "",
+      "title_original": "US Open scores: Britain's Fearnley and Wendelken in first-round action",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/scores-schedule",
+      "published": "Mon, 31 Aug 2026 05:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "マンチェスター・シティバンパーGakpo 入札拒否後のオプションを検討",
       "summary": "マンチェスター・シティ後に代替品を探していますリヴァプール£80m 入札を拒否コーディ・ガクポ.",
       "title_original": "Man City consider options after bumper Gakpo bid rejected",
@@ -1686,6 +1702,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13578880/cody-gakpo-transfer-news-man-city-consider-options-after-liverpool-reject-80m-bid-for-winger",
       "published": "Sat, 29 Aug 2026 21:20:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "トッテナム最新:Defiant Richarlison 自分の未来をコントロールする誓い",
+      "summary": "",
+      "title_original": "Tottenham latest: Defiant Richarlison vows to control his own future",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Mon, 31 Aug 2026 14:08:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1791,9 +1821,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "US Open2 日目 LIVE! Alcaraz は、Britain's Dart 決定セット",
+      "title": "US Open2 日目 LIVE! Alcaraz は Sabalenka として返し、Britain's Dart ログイン",
       "summary": "",
-      "title_original": "US Open day two LIVE! Alcaraz returns with Britain's Dart in deciding set",
+      "title_original": "US Open day two LIVE! Alcaraz returns as Sabalenka and Britain's Dart win",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13579172/us-open-live-scores-updates-news-commentary-and-results-from-flushing-meadows-new-york-with-carlos-alcaraz-aryna-sabalenka-in-action",
@@ -1896,34 +1926,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13570623/mary-earps-exclusive-london-city-lionesses-goalkeeper-on-busy-summer-transfer-window-and-facing-man-utd-in-wsl-opener",
       "published": "Mon, 31 Aug 2026 12:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "「彼はゲームのトップに所属しています」 - フェリーは世界 No14 Musetti に直面しています US Open",
-      "summary": "英国のスターArthur Fery 第13 回種子に反して行くと厳しい作業に直面します Lorenzo Musetti 火曜日全米オープン",
-      "title_original": "'He belongs at the top of the game' - Fery faces world No 14 Musetti at US Open",
-      "summary_original": "British star Arthur Fery faces a tough task when he goes up against 13th seed Lorenzo Musetti on Tuesday at the US Open",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13579318/arthur-fery-lorenzo-musetti-awaits-in-first-round-of-us-open-for-british-no-1",
-      "published": "Mon, 31 Aug 2026 12:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ブライトン最新:Azeez が Burnley の作物として拒絶されるために増加された入札 Igor Julio オファー",
-      "summary": "",
-      "title_original": "Brighton latest: Increased bid for Azeez rejected as Burnley make Igor Julio offer",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Mon, 31 Aug 2026 15:35:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
