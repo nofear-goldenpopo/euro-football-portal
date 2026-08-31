@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T09:19:23.626043+00:00",
+  "updated_at": "2026-08-31T09:34:24.624934+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -725,7 +725,12 @@
     "Our Ask Me Anything": "",
     "Bluesky The Rumour Mill": "",
     "Ivan Toney": "イヴァン・トニー",
-    "World Cup. They": ""
+    "World Cup. They": "",
+    "Bluesky Ollie Watkins": "",
+    "Three Lions": "",
+    "Ivan Toney. John Duerden": "",
+    "Thomas Tuchel’s": "",
+    "Mariano Navone": ""
   },
   "items": [
     {
@@ -1150,15 +1155,15 @@
     },
     {
       "title": "サッカーの転送期限日ローム:ガクポ、サーなどに関する最新のニュース - ライブ",
-      "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ 連絡を取る: 電子メール Dominic とフォロー私たちに従ってください Bluesky The Rumour Mill あなたが自己プロモーションを許すならば、私は今日の版を書いていると任務を与えられた開始する唯一の場所です。窓の最終日には、メリーゴーラウンドのワイドフォワードがお越しいただけます。続きを読む...",
+      "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ 連絡を取る: 電子メール Dominic とフォロー私たちに従ってください Bluesky Ollie Watkins から消えているアストン・ヴィラ獲得を獲得を問い合わせ Saudi Pro LeagueAl-Hilal に参加し、イングランドのストライカーは Al-Ahli に対して大きなゲームにまっすぐ投げられ、期待の最高に直面します。Three Lions これからもよろしくお願いします。イヴァン・トニー. ジョン・デュエルデンが2 つの英語ストライカーのビリングについて報告 Thomas Tuchel’s 硫酸からの注意。続きを読む...",
       "title_original": "Football transfer deadline day looms: latest news on Gakpo, Sarr and more – live",
-      "summary_original": "Men’s transfer interactive | Women’s transfer interactive Get in touch: email Dominic and follow us on Bluesky The Rumour Mill is the only place to start, if you will forgive the self-promotion, given I was tasked with writing today’s edition. A merry-go-round of wide forwards could be upon us in the final days of the window. Continue reading...",
+      "summary_original": "Men’s transfer interactive | Women’s transfer interactive Get in touch: email Dominic and follow us on Bluesky Ollie Watkins has gone from Aston Villa to the Saudi Pro League to join Al-Hilal, and the England striker will be thrown straight into a big game against Al-Ahli and faces the highest of expectations – against fellow Three Lions forward hopeful, Ivan Toney. John Duerden reports on the two English strikers vying for Thomas Tuchel’s attention from the gulf. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/31/football-transfer-deadline-day-looms-latest-news-on-gakpo-sarr-and-more-live",
-      "published": "Mon, 31 Aug 2026 09:01:24 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
+      "published": "Mon, 31 Aug 2026 09:20:40 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1597,6 +1602,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Djokovic は衝撃の敗北の決定セットを通して涙の途中で破壊します",
+      "summary": "ノバク・ジョコビッチ最終セットの最終セット中に目に見えない設定だった US Open 初めてのラウンド敗北に Mariano Navone.",
+      "title_original": "Djokovic breaks down in tears midway through deciding set in shock defeat",
+      "summary_original": "Novak Djokovic was visibly upset during the final set in his US Open first round defeat to Mariano Navone.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13579363/novak-djokovic-breaks-down-in-tears-midway-through-deciding-set-in-shock-defeat",
+      "published": "Mon, 31 Aug 2026 10:16:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ポンピング:Labuschagne's Australia Test'almost untenable'を置く",
       "summary": "Ricky Ponting 彼は言った Marnus Labuschagne's スポット Australia Test チームには、イングランドを主張する「楽しい」という才能があり、Baggy Greens 開催期間ジ・アッシズ次の夏。",
       "title_original": "Ponting: Labuschagne's Australia Test place 'almost untenable'",
@@ -1832,20 +1851,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Palace latest: Eagles working on deal to sign Chelsea、レンタル移籍でを獲得候補に",
-      "summary": "",
-      "title_original": "Palace latest: Eagles working on deal to sign Chelsea target on loan",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Mon, 31 Aug 2026 08:50:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
