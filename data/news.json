@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T06:34:20.690239+00:00",
+  "updated_at": "2026-08-31T06:49:33.800073+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -701,9 +701,25 @@
     "Ripon’s Champion Two Years": "",
     "Old Trophy": "",
     "Bank Holiday Monday": "バンク・ホリデー",
-    "Joe Root": ""
+    "Joe Root": "",
+    "BBC Sport's": "",
+    "BST English": ""
   },
   "items": [
+    {
+      "title": "ウィンドウが閉じる前に見る転送",
+      "summary": "BBC Sport's サッカーの専門家は、火曜日の23:00 前に通ることができるスタンドアウト転送を選択します BST English 応募締切",
+      "title_original": "The transfers to watch before window closes",
+      "summary_original": "BBC Sport's football experts picks out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 06:42:23 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
     {
       "title": "獲得マンチェスター・ユナイテッド時代 - しかし、フェルナンデスはまだ標準を設定します",
       "summary": "すべての新しい署名のために、それはまだキャプテンですブルーノ・フェルナンデス誰が標準をで置きますマンチェスター・ユナイテッド, 書き込み Simon Stone.",
@@ -971,20 +987,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "エヴァートンファンバックラッシュ後の Armstrong セールを呼び出します",
-      "summary": "エヴァートン Midfielder を売る提案された契約を離れて呼びました Harrison Armstrong 獲得を獲得を問い合わせノッティンガム・フォレストクラブのサポーターのバックラッシュに続いています。",
-      "title_original": "Everton call off Armstrong sale after fan backlash",
-      "summary_original": "Everton have called off a proposed deal to sell midfielder Harrison Armstrong to Nottingham Forest following a backlash from the club's supporters.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0lrge3dwklo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 08:58:28 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "「彼はそれですべての時間に - 白は「信じられない」フェルナンデスを賞賛",
       "summary": "デイパンディットのマッチエレン・ホワイトラベルブルーノ・フェルナンデス\"信じられない\"、ミッドフィルダーの後にハットトリック獲得を獲得を問い合わせマンチェスター・ユナイテッド'5-2 コールバックの勝利に対するイプスウィッチ・タウン FC.",
       "title_original": "'He's on it all the time' - White praises 'unbelievable' Fernandes",
@@ -1111,17 +1113,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "バルコラ- setbacks を克服した 'grasshopper'",
-      "summary": "獲得を獲得を問い合わせリヴァプール£123m の獲得で合意しますブラッドリー・バルコラ, BBC スポーツは、彼は彼の家族の助けを借りてトップに到達するために、退任したトリムスとセットバックを持っている方法を見て.",
-      "title_original": "Barcola - the 'grasshopper' who has overcome setbacks",
-      "summary_original": "As Liverpool agree a £123m deal for Bradley Barcola, BBC Sport looks at how he has ridden triumphs and setbacks to reach the top with the help of his family.",
+      "title": "エヴァートンファンバックラッシュ後の Armstrong セールを呼び出します",
+      "summary": "エヴァートン Midfielder を売る提案された契約を離れて呼びました Harrison Armstrong 獲得を獲得を問い合わせノッティンガム・フォレストクラブのサポーターのバックラッシュに続いています。",
+      "title_original": "Everton call off Armstrong sale after fan backlash",
+      "summary_original": "Everton have called off a proposed deal to sell midfielder Harrison Armstrong to Nottingham Forest following a backlash from the club's supporters.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ceqewejnpr3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 07:38:07 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0lrge3dwklo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 08:58:28 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1559,6 +1561,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "なぜ?アーセナルまだコンサが必要 - それほど多くの擁護者を持っているにもかかわらず",
+      "summary": "最終時刻移籍市場見ることができるアーセナル攻撃者を招く。しかし、窓が止まる前に、守秘的な購入は月曜日の夜に中心の段階を取ることができます。",
+      "title_original": "Why Arsenal still needed Konsa - despite having so many defenders",
+      "summary_original": "The final hours of the transfer window could see Arsenal bring in an attacker. But before the window shuts, a defensive purchase could take centre stage on Monday night.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13578303/ezri-konsa-why-arsenal-signed-aston-villas-top-defender-for-55m-despite-having-so-many-defenders",
+      "published": "Fri, 28 Aug 2026 19:52:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "新しい Verstappen、Norris 移籍後にドライバーマーケットドラマをトリガーできるのは?",
       "summary": "推測の夏の後で、契約延長 s のためのマックス・フェルスタッペンそして、Lando Norris 式1 グリッドのエリートシートは、少なくとも次の数年間ロックされています。",
       "title_original": "What could trigger driver-market drama after new Verstappen, Norris deals?",
@@ -1804,20 +1820,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13579247/emotional-moment-anna-nordqvist-finishes-her-final-round-before-retirement",
       "published": "Sun, 30 Aug 2026 20:25:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Scheffler は、FedExCup の勝利でより多くのレコードを破るためにホヴランドオフを保持",
-      "summary": "Scottie Scheffler 決勝戦のタズルを経て、Viktor Hovland 別のキャップオフ PGA TourFedExCup の栄光とスタイルの季節ザ・ツアーチャンピオンシップ.",
-      "title_original": "Scheffler holds off Hovland to break more records with FedExCup win",
-      "summary_original": "Scottie Scheffler came through a final-round tussle with Viktor Hovland to cap off another PGA Tour season in style with FedExCup glory at the Tour Championship.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13578960/tour-championship-scottie-scheffler-holds-off-viktor-hovland-to-claim-fedexcup-title-and-break-more-pga-tour-records",
-      "published": "Sun, 30 Aug 2026 22:33:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
