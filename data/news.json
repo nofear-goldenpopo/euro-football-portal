@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T04:49:06.228285+00:00",
+  "updated_at": "2026-08-31T05:04:37.755199+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -695,7 +695,8 @@
     "Morgan Rogers": "モーガン・ロジャーズ",
     "Tearful Djokovic": "",
     "Novak Djokovic": "ノバク・ジョコビッチ",
-    "Argentine Mariano Navone": ""
+    "Argentine Mariano Navone": "",
+    "Max Verstappen": "マックス・フェルスタッペン"
   },
   "items": [
     {
@@ -1539,9 +1540,23 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Tearful Djokovic 衝撃の最初のハードルで落ちる US Open アクセス",
+      "title": "新しい Verstappen、Norris 移籍後にドライバーマーケットドラマをトリガーできるのは?",
+      "summary": "推測の夏の後で、契約延長 s のためのマックス・フェルスタッペンそして、Lando Norris 式1 グリッドのエリートシートは、少なくとも次の数年間ロックされています。",
+      "title_original": "What could trigger driver-market drama after new Verstappen, Norris deals?",
+      "summary_original": "After a summer of speculation, contract extensions for Max Verstappen and Lando Norris suggest the elite seats on the Formula 1 grid are locked in for at least the next couple of years.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13578230/f1-why-there-could-still-be-drama-in-the-driver-market-despite-max-verstappen-and-lando-norris-signing-new-contracts",
+      "published": "Mon, 31 Aug 2026 06:00:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "「私の体は崩壊し始めた」 - Djokovic は衝撃の最初のハードルで落ちます US Open アクセス",
       "summary": "ノバク・ジョコビッチ第25 回記録破砕で彼の傾きとして最初のハードルで落ちましたグランドスラムショックエンドに来た Argentine Mariano Navone5 セットの epic で全米オープン.",
-      "title_original": "Tearful Djokovic falls at first hurdle in shock US Open exit",
+      "title_original": "'My body started to collapse' - Djokovic falls at first hurdle in shock US Open exit",
       "summary_original": "Novak Djokovic fell at the first hurdle as his tilt at a record-breaking 25th Grand Slam came to a shock end to Argentine Mariano Navone in a five-set epic at the US Open.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13579310/us-open-novak-djokovic-loses-to-mariano-navone-in-longest-first-round-match-of-his-career-in-grand-slams",
@@ -1802,20 +1817,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "トッテナム最新:トッテナムすぐに自分自身を得る必要があります, ネビルは言う",
-      "summary": "",
-      "title_original": "Tottenham latest: Spurs must get themselves right quickly, says Neville",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Sun, 30 Aug 2026 21:05:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
