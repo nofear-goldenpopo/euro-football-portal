@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T15:49:25.556328+00:00",
+  "updated_at": "2026-08-31T16:04:45.649294+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -786,7 +786,8 @@
     "Britain's Dart": "",
     "Klose's World Cup": "",
     "Lionel Messi's World Cup": "",
-    "Miroslav Klose's": ""
+    "Miroslav Klose's": "",
+    "The MCC": ""
   },
   "items": [
     {
@@ -1630,6 +1631,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "「評判の打撃」の後の主のピッチ上の行為を取る MCC",
+      "summary": "The MCCICC が「不満足」と判断したとおり、主のピッチに対する懸念に対処するための行動計画を策定しました。",
+      "title_original": "MCC taking action over Lord's pitch after 'reputational blow'",
+      "summary_original": "The MCC has outlined an action plan to address concerns over the pitch at Lord's, with it having been deemed \"unsatisfactory\" by the ICC.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13579421/lords-pitch-mcc-outlines-action-plan-after-england-vs-pakistan-test-to-address-criticism-of-playing-surface",
+      "published": "Mon, 31 Aug 2026 14:33:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Messi 退職インテル国民のフットボール:「私は与えるために残らない」",
       "summary": "リオネル・メッシ退職後退の発表インテル全国サッカー39 歳。",
       "title_original": "Messi retires from international football: 'I have nothing left to give'",
@@ -1892,20 +1907,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ナチュラルフィニッシャー バログウンは、トップへ自分の道を造りました",
-      "summary": "When Folarin Balogun 個々のトレーニングセッション、コーチ、Saul Isaksson-Hurst 柔軟であることを学びました。詳細な計画をマップアウトすることができますが、バロウン、激しい分析特性は、自分の考えをもたらす傾向があります。",
-      "title_original": "How 'natural finisher' Balogun forged his own path to the top",
-      "summary_original": "When Folarin Balogun arrives for his individual training sessions, his coach, Saul Isaksson-Hurst, has learned to be flexible. He can have a detailed plan mapped out, but Balogun, an intense and analytical character, tends to bring his own ideas.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13573027/folarin-balogun-to-everton-former-arsenal-striker-is-a-natural-finisher-who-forged-his-own-path-to-the-top-with-france-move-and-usa-switch",
-      "published": "Mon, 31 Aug 2026 10:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
