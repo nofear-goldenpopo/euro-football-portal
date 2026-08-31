@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T15:34:08.520900+00:00",
+  "updated_at": "2026-08-31T15:49:25.556328+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -783,7 +783,10 @@
     "Argentina’s Lionel Messi": "",
     "August Lionel Messi": "",
     "Copa América": "コパ・アメリカ",
-    "Britain's Dart": ""
+    "Britain's Dart": "",
+    "Klose's World Cup": "",
+    "Lionel Messi's World Cup": "",
+    "Miroslav Klose's": ""
   },
   "items": [
     {
@@ -997,6 +1000,34 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "時計: アルゼンチンのメッシーの最後の目標",
+      "summary": "リオネル・メッシアトランタでの試合中に2〜2 で試合をレベルアップするために、エジプトに対するアルゼンチンの後半のイコライザーをスコアします。",
+      "title_original": "Watch: Messi's last-ever goal for Argentina",
+      "summary_original": "Lionel Messi scores a late equaliser for Argentina against Egypt to level the game at 2-2 during their match in Atlanta.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c20yd7wp134o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 18:13:01 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "How Messi 壊れた Klose's World Cup ゴールコーチングレコード",
+      "summary": "すべてを見るリオネル・メッシ’ ワールドカップのゴールを破る Miroslav Klose's アルゼンチンのグループステージで17 位のゴールで、個々のスコアリングレコードがオーストリアにマッチします。",
+      "title_original": "How Messi broke Klose's World Cup goalscoring record",
+      "summary_original": "Watch all of Lionel Messi's World Cup goals as he breaks Miroslav Klose's individual scoring record with a 17th goal in Argentina's group stage match against Austria.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/czj8m1zgrzvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 18:11:50 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "MOTD pundits debate controversial オウンゴール獲得を獲得を問い合わせマンチェスター・ユナイテッド優勝",
       "summary": "デイパンディットのマッチエレン・ホワイトそして、シェイ・ギヴン参照論論論論論論論論の議論オールド・トラッフォードループホールにより、ハリー・マグワイアハンドボールとして立つ Jacob Greaves オウンゴール.",
       "title_original": "MOTD pundits debate controversial own goal in Man Utd victory",
@@ -1165,34 +1196,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "チェルシー「私たちを罰する品質を持っていた」 - ハルツェラー",
-      "summary": "ブライトンマネージャーFabian Hurzeler プロモーションチェルシー「私たちを罰する品質」を持っていたが、スリリングな4-3 敗北中に「それのために行く」という彼の側面の態度を賞賛 Stamford Bridge.",
-      "title_original": "Chelsea had the 'quality to punish us' - Hurzeler",
-      "summary_original": "Brighton manager Fabian Hurzeler admits Chelsea had the \"quality to punish us\" but praised his side's attitude to \"go for it\" during a thrilling 4-3 defeat at Stamford Bridge.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0lrgrzjnpxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 16:29:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "「硬くて貴重なポイント」 - ファークはリーズのキャラクターを賞賛",
-      "summary": "リーズマネージャーダニエル・ファルケゴールダウンからゴールダウンに挑んだ後、彼の側面「レジリエンス」とキャラクターを賞賛 1-1 ブレントフォードに対して引くプレミアリーグ.",
-      "title_original": "'A hard but precious point' - Farke praises Leeds character",
-      "summary_original": "Leeds manager Daniel Farke praises his side \"resilience\" and character after they fought back from a goal down to salvage a 1-1 draw against Brentford in the Premier League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2zvzpdyjdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 16:37:47 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "なぜ?チェルシータイトルの挑戦者であるために新しいゴールキーパーより多くを必要とする",
       "summary": "チェルシー「新しいゴールキーパー」Emiliano Martinez スリリングな4-3 勝でデビューブライトン- しかし、自分の新しいクラブの守備面の問題を解決することはできません。",
       "title_original": "Why Chelsea need more than a new goalkeeper to be title challengers",
@@ -1208,9 +1211,9 @@
     },
     {
       "title": "アルゼンチンリオネル・メッシ退職者からインテル国民のフットボール:「これは私をたくさん傷つけます」",
-      "summary": "アルゼンチンの素晴らしい最後のゲームは、World Cup ファイナリストの父ジョルジェが8 月に亡くなったリオネル・メッシ退職後退の発表インテル207 キャップを獲得した後、アルゼンチンと国民の義務。2005 年にアルゼンチンデビューしたメッシーが優勝 World Cup2022 年、この夏と2014 年はランナーアップでした。彼はまた2 つを固定しましたコパ・アメリカタイトル 続きを読む...",
+      "summary": "アルゼンチンの素晴らしい最後のゲームは、World Cup ファイナリストの父ジョルジェが8 月に亡くなったリオネル・メッシ207 キャップを獲得した後、アルゼンチンの義務から退職を発表した。2005 年にアルゼンチンデビューを果たした39 歳、優勝 World Cup2022 年、この夏と2014 年はランナーアップでした。彼はまた2 つを固定しましたコパ・アメリカタイトル Messi は「痛い決断だった」という文に書いていますが、それでも深刻に痛むという決断でした。しかし、その時が来たことを理解しています。私はあなたに誓います",
       "title_original": "Argentina’s Lionel Messi retires from international football: ‘This hurts me a lot’",
-      "summary_original": "Argentina great’s last game was in World Cup final Player’s father Jorge passed away earlier in August Lionel Messi has announced his retirement from international duty with Argentina after winning 207 caps. Messi, who made his Argentina debut in 2005, won the World Cup in 2022 and was a runner-up this summer and in 2014. He also secured two Copa América titles. Continue reading...",
+      "summary_original": "Argentina great’s last game was in World Cup final Player’s father Jorge passed away earlier in August Lionel Messi has announced his retirement from Argentina duty after winning 207 caps. The 39-year-old, who made his Argentina debut in 2005, won the World Cup in 2022 and was a runner-up this summer and in 2014. He also secured two Copa América titles. Messi wrote in a statement: “It was a decision that hurt – and still hurts deep down – but I understand that the time has come. I swear to you t",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messi-retires-from-international-football-argentina",
       "published": "Mon, 31 Aug 2026 15:19:13 GMT",
@@ -1627,9 +1630,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Messi 退職インテル国民のフットボール",
+      "title": "Messi 退職インテル国民のフットボール:「私は与えるために残らない」",
       "summary": "リオネル・メッシ退職後退の発表インテル全国サッカー39 歳。",
-      "title_original": "Messi retires from international football",
+      "title_original": "Messi retires from international football: 'I have nothing left to give'",
       "summary_original": "Lionel Messi has announced his retirement from international football aged 39.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13565109/lionel-messi-retires-from-international-football-aged-39-as-argentinas-most-capped-player-and-all-time-leading-goalscorer",
