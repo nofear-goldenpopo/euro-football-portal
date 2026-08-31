@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T17:49:31.934198+00:00",
+  "updated_at": "2026-08-31T18:04:42.225283+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -809,7 +809,14 @@
     "Kempton Park": "",
     "Billy Loughnane": "",
     "Britain's Fearnley": "",
-    "Defiant Richarlison": ""
+    "Defiant Richarlison": "",
+    "As Lionel Messi": "",
+    "Bluesky Aston Villa": "",
+    "Zion Suzuki": "鈴木彩艶",
+    "Nicolas Jackson. Marco Bizot": "",
+    "João Gomes": "",
+    "Alejandro Garnacho": "",
+    "US. The": ""
   },
   "items": [
     {
@@ -820,6 +827,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 15:18:39 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ゴール、レコード、涙... Messi の最も象徴的な瞬間",
+      "summary": "獲得を獲得を問い合わせリオネル・メッシ退職者からインテル父の死に続く国民のサッカー、BBC スポーツは、彼の最も象徴的な瞬間のいくつかを見てください。",
+      "title_original": "Goals, records, tears ... Messi's most iconic moments",
+      "summary_original": "As Lionel Messi retires from international football following the death of his father, BBC Sport looks back at some of his most iconic moments.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74x9zd83vlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 17:46:23 GMT",
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
@@ -939,20 +960,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "エヴァートン強制移動 EFL カップ短い通知でタイ",
-      "summary": "エヴァートン彼らの移動を強制的に EFL カップチャンピオンシップ側の Wolves - 再生される前に9 日。",
-      "title_original": "Everton forced to move EFL Cup tie at short notice",
-      "summary_original": "Everton are forced to move their Carabao Cup third-round match against Championship side Wolves - nine days before it was due to be played.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zq97w28eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 14:46:10 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -967,6 +974,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "バレンシアへの参加予定の Elliott レンタル移籍で",
+      "summary": "リヴァプールミッドフィルダーHarvey Elliott バレンシアへの参加予定レンタル移籍で四季折々のひとときを。",
+      "title_original": "Elliott expected to join Valencia on loan",
+      "summary_original": "Liverpool midfielder Harvey Elliott is expected to join Valencia on loan for the rest of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 17:58:36 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "運転と空腹 Rashford a マンチェスター・ユナイテッドアセット - マギレ",
       "summary": "マンチェスター・ユナイテッドディフェンダーハリー・マグワイアバックアップマーカス・ラッシュフォード今シーズンはクラブに大きなインパクトを与える。",
       "title_original": "Driven & hungry Rashford a Man Utd asset - Maguire",
@@ -978,6 +999,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "エヴァートン強制移動 EFL カップ短い通知でタイ",
+      "summary": "エヴァートン彼らの移動を強制的に EFL カップチャンピオンシップ側の Wolves - 再生される前に9 日。",
+      "title_original": "Everton forced to move EFL Cup tie at short notice",
+      "summary_original": "Everton are forced to move their Carabao Cup third-round match against Championship side Wolves - nine days before it was due to be played.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zq97w28eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 14:46:10 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1006,34 +1041,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド近くの契約のための Mexico's Bernal",
-      "summary": "マンチェスター・ユナイテッドメキシコの署名に近いですインテル全国 Rebeca Bernal からワシントン・スピリット.",
-      "title_original": "Man Utd near deal for Mexico's Bernal",
-      "summary_original": "Manchester United are close to signing Mexico international Rebeca Bernal from Washington Spirit.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 08:21:54 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "バレンシアインテル融資先で評価リヴァプールエリオット",
-      "summary": "バレンシアは、リヴァプールミッドフィルダーを取るために Harvey Elliott レンタル移籍で四季折々の休憩に。",
-      "title_original": "Valencia interested in loan for Liverpool's Elliott",
-      "summary_original": "Valencia are in talks with Liverpool to take midfielder Harvey Elliott on loan for the rest of the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 12:56:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1234,12 +1241,12 @@
     },
     {
       "title": "アストン・ヴィラ. .アーセナル: プレミアリーグ– ライブ",
-      "summary": "⚽️ プレミアリーグ BST キックオフの8pm からのアップデート Email ScottTikTok と Bluesky で私たちに従ってくださいプレミアリーグマッチウィーク 2 つ(格闘ゲームを諦めていた)は、おそらく10 の最も興味深いゲームと結論づけています。ミケル・アルテタ自分の帝国フェーズに入るように見えるアーセナル: 再興のチャンピオン、広く彼らの王冠を保持することを期待して、欧州で2 番目の最高のチームを正式に、来年より良い1 つに行くことを願っている。先週のキャンペーンを開始し、ブリージー3〜3 勝利",
+      "summary": "⚽️ プレミアリーグ BST キックオフの8pm からのアップデート Email ScottTikTok と Bluesky で私たちに従ってくださいアストン・ヴィラ31 分後に4 つの目標を下回ったチームに2 つの変更を加えるブライトン最終週末。来場2 名:ゴールキーパー鈴木彩艶そしてストライカーNicolas Jackson. Marco Bizot ベンチに落ちる João Gomes, 偽造の海で送られた, 中断された. ヴィラには、ベンチに3 つの潜在的デビュー者があります Alejandro Garnacho, マット",
       "title_original": "Aston Villa v Arsenal: Premier League – live",
-      "summary_original": "⚽️ Premier League updates from the 8pm BST kick-off ⚽️ Email Scott and follow us on TikTok and Bluesky Premier League Matchweek Two (I’ve given up fighting it) concludes with perhaps the most intriguing game of the ten. Mikel Arteta looks to be entering his imperial phase with Arsenal: the reigning champions, widely expected to retain their crown, officially the second-best team in Europe with aspirations to go one better next year. And they started their campaign last week with a breezy 3-0 win",
+      "summary_original": "⚽️ Premier League updates from the 8pm BST kick-off ⚽️ Email Scott and follow us on TikTok and Bluesky Aston Villa make two changes to the team who found themselves four goals down after 31 minutes at Brighton last weekend. In come two debutants: goalkeeper Zion Suzuki and striker Nicolas Jackson. Marco Bizot drops to the bench, while João Gomes, sent off in that aforementioned debacle-by-the-sea, is suspended. Villa have three other potential debutants on their bench in Alejandro Garnacho, Matt",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/31/aston-villa-v-arsenal-premier-league-live",
-      "published": "Mon, 31 Aug 2026 17:30:31 GMT",
+      "published": "Mon, 31 Aug 2026 17:58:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1248,9 +1255,9 @@
     },
     {
       "title": "アルゼンチンリオネル・メッシ退職者からインテル国民のフットボール:「これは私をたくさん傷つけます」",
-      "summary": "アルゼンチンの素晴らしい最後のゲームは、World Cup ファイナリストの父ジョルジェが8 月に亡くなったリオネル・メッシ退職後退の発表インテルアルゼンチンがスペインで殴られた7 週間後に全国サッカー7 週間 World Cup 決勝 United States. The39 歳 キャプテン アルゼンチン へ World Cup 栄光で 2022 と 2 コパ・アメリカ2005 年に最初のキャップを獲得した後のタイトル。On Monday, Messi は、彼が書いた手書きメモの Instagram に写真を掲載しました 21 7 月, 2 日 AF",
+      "summary": "アルゼンチンの素晴らしい最後のゲームは、World Cup ファイナリストの父ジョルジェが8 月に亡くなったリオネル・メッシ退職後退の発表インテルアルゼンチンがスペインで殴られた7 週間後に全国サッカー7 週間 World Cup 決勝 US. The39 歳 キャプテン アルゼンチン へ World Cup 栄光で 2022 と 2 コパ・アメリカ2005 年に最初のキャップを獲得した後のタイトル。On Monday, Messi は、彼が書いたメモの Instagram に写真を掲載しました 21 7 月, 2 日後に World Cup ファイナル",
       "title_original": "Argentina’s Lionel Messi retires from international football: ‘This hurts me a lot’",
-      "summary_original": "Argentina great’s last game was in World Cup final Player’s father Jorge passed away earlier in August Lionel Messi has announced his retirement from international football seven weeks after Argentina were beaten by Spain in the World Cup final in the United States. The 39-year-old captained Argentina to World Cup glory in 2022 and two Copa América titles after winning his first cap in 2005. On Monday, Messi posted a picture on Instagram of handwritten notes that he wrote on 21 July, two days af",
+      "summary_original": "Argentina great’s last game was in World Cup final Player’s father Jorge passed away earlier in August Lionel Messi has announced his retirement from international football seven weeks after Argentina were beaten by Spain in the World Cup final in the US. The 39-year-old captained Argentina to World Cup glory in 2022 and two Copa América titles after winning his first cap in 2005. On Monday, Messi posted a picture on Instagram of notes that he wrote on 21 July, two days after the World Cup final",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messi-retires-from-international-football-argentina",
       "published": "Mon, 31 Aug 2026 15:19:13 GMT",
@@ -1653,6 +1660,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "McInnes ban は 'disgusting' コメントを上回る 'disgusting' コメントを上回る 'disgusting' 禁止レンジャーズプロモーション",
+      "summary": "Derek McInnes' 直近のタッチライン禁止が下回りましたレンジャーズ「アピール」",
+      "title_original": "McInnes ban verdict over 'disgusting' comment revealed after Rangers appeal",
+      "summary_original": "Derek McInnes' immediate touchline ban has been reduced following Rangers' appeal.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579467/derek-mcinnes-rangers-managers-touchline-ban-changed-after-appeal-over-disgusting-comment-last-season",
+      "published": "Mon, 31 Aug 2026 19:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "MNF:アストン・ヴィラ対比アーセナルチームニュース LIVE!",
       "summary": "",
       "title_original": "MNF: Aston Villa vs Arsenal team news LIVE!",
@@ -1678,6 +1699,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "FREE STREAM: The Transfer Show 獲得を獲得を問い合わせ Sky Sports News",
+      "summary": "",
+      "title_original": "FREE STREAM: The Transfer Show on Sky Sports News",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "published": "Mon, 31 Aug 2026 18:55:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1901,34 +1936,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "How Scheffler ドミナント FedExCup シーズンをキャップする別のタイガーレコードを破棄",
-      "summary": "四季折々の四季折々の味を、Scottie Scheffler 勝てないから行く PGA Tour 破壊するタイガー・ウッズ' 26 歳キャリアマネー記録。",
-      "title_original": "How Scheffler broke another Tiger record to cap off dominant FedExCup season",
-      "summary_original": "It has taken less than five seasons for Scottie Scheffler to go from being winless on the PGA Tour to breaking Tiger Woods' 26-year-old career money record.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13578963/scottie-scheffler-overtakes-tiger-woods-in-pga-tour-career-money-list-at-tour-championship-to-cap-off-dominant-fedexcup-season",
-      "published": "Mon, 31 Aug 2026 12:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "「学校の初日のように」 - LCL の新しいスーパースターのスクワッドの部分にあるイヤホン",
-      "summary": "Mary Earps イングランドのゴールキーパーや女性の試合の問題を強調するかどうか、フロントから導き出すために使用されます。この夏、彼女はドアを通って最初の1 つだったロンドン・シティ・ライオネス星を獲得したスクワッドを連結。",
-      "title_original": "'It's like the first day of school' - Earps on being part of LCL's new superstar squad",
-      "summary_original": "Mary Earps is used to leading from the front, whether as an England goalkeeper or highlighting issues in the women's game. This summer, she was the first one through the door as London City Lionesses collated a star-strewn squad.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570623/mary-earps-exclusive-london-city-lionesses-goalkeeper-on-busy-summer-transfer-window-and-facing-man-utd-in-wsl-opener",
-      "published": "Mon, 31 Aug 2026 12:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
