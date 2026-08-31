@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T20:04:33.274478+00:00",
+  "updated_at": "2026-08-31T20:19:21.595167+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -839,7 +839,12 @@
     "Enzo Fernández. City’s": "",
     "Liverpool’s Cody Gakpo": "",
     "The Senegal": "",
-    "Paris Saint": ""
+    "Paris Saint": "",
+    "Malick Fofana": "",
+    "Julian Alvarez": "フリアン・アルバレス",
+    "Carlos Alcaraz": "",
+    "Russia's Roman Safiullin": "",
+    "Villa LIVE": ""
   },
   "items": [
     {
@@ -857,13 +862,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ゴール、レコード、涙... Messi の最も象徴的な瞬間",
-      "summary": "獲得を獲得を問い合わせリオネル・メッシ退職者からインテル父の死に続く国民のサッカー、BBC スポーツは、彼の最も象徴的な瞬間のいくつかを見てください。",
-      "title_original": "Goals, records, tears ... Messi's most iconic moments",
-      "summary_original": "As Lionel Messi retires from international football following the death of his father, BBC Sport looks back at some of his most iconic moments.",
+      "title": "'Nothing left to give' - 伝説 Messi 終了 アルゼンチン キャリア",
+      "summary": "アルゼンチン 素晴らしいリオネル・メッシ退職後退の発表インテル国民のサッカーは「急ぎ」と判断したが、「時が来た」と理解している。",
+      "title_original": "'Nothing left to give' - legend Messi ends Argentina career",
+      "summary_original": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74x9zd83vlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 17:46:23 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 15:18:39 GMT",
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
@@ -927,16 +932,30 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Messi は、アルゼンチンの義務から「与えるために残っていること」と退職しました",
-      "summary": "アルゼンチン 素晴らしいリオネル・メッシ退職後退の発表インテル国民のサッカーは「急ぎ」と判断したが、「時が来た」と理解している。",
-      "title_original": "Messi retires from Argentina duty with 'nothing left to give'",
-      "summary_original": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
+      "title": "ゴール、レコード、涙... Messi の最も象徴的な瞬間",
+      "summary": "獲得を獲得を問い合わせリオネル・メッシ退職者からインテル父の死に続く国民のサッカー、BBC スポーツは、彼の最も象徴的な瞬間のいくつかを見てください。",
+      "title_original": "Goals, records, tears ... Messi's most iconic moments",
+      "summary_original": "As Lionel Messi retires from international football following the death of his father, BBC Sport looks back at some of his most iconic moments.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 15:18:39 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74x9zd83vlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 17:46:23 GMT",
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・シティフェルナンデスに署名するオープントーク - 火曜日のゴシップ",
+      "summary": "マンチェスター・シティオープントークチェルシー署名する Enzo Fernandez, アーセナル探検する Malick Fofana, 銃器もまだインテル署名で ested フリアン・アルバレス、プラス多く。",
+      "title_original": "Man City open talks to sign Fernandez - Tuesday gossip",
+      "summary_original": "Manchester City open talks with Chelsea to sign Enzo Fernandez, Arsenal explore move for Malick Fofana, Gunners also still interested in signing Julian Alvarez, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyz130nxkro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 20:10:58 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -955,20 +974,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ウィンドウを閉じる前に見る転送",
-      "summary": "BBC Sport's サッカーの専門家は火曜日の23:00 前に通ることができるスタンドアウト転送を選択します BST English 応募締切",
-      "title_original": "The transfers to watch before window closes",
-      "summary_original": "BBC Sport's football experts pick out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 17:28:57 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "時計: アルゼンチンのメッシーの最後の目標",
       "summary": "リオネル・メッシアトランタでの試合中に2〜2 で試合をレベルアップするために、エジプトに対するアルゼンチンの後半のイコライザーをスコアします。",
       "title_original": "Watch: Messi's last-ever goal for Argentina",
@@ -980,6 +985,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ウィンドウを閉じる前に見る転送",
+      "summary": "BBC Sport's サッカーの専門家は火曜日の23:00 前に通ることができるスタンドアウト転送を選択します BST English 応募締切",
+      "title_original": "The transfers to watch before window closes",
+      "summary_original": "BBC Sport's football experts pick out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 17:28:57 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1050,20 +1069,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "フォレストフォワードハッチンソン参加 AC ミラン レンタル移籍で",
-      "summary": "AC ミラン署名を完了して下さいオマリ・ハッチンソン レンタル移籍でからノッティンガム・フォレスト季節の終わりまで。",
-      "title_original": "Forest forward Hutchinson joins AC Milan on loan",
-      "summary_original": "AC Milan complete the signing of Omari Hutchinson on loan from Nottingham Forest until the end of the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62k7n7p64eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 19:45:18 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1269,7 +1274,7 @@
       "summary_original": "⚽️ Premier League updates from the 8pm BST kick-off ⚽️ Email Scott and follow us on TikTok and Bluesky The teams are out! You know what everyone’s wearing. A reduced capacity of around 37,000 at Villa Park, with the North Stand closed for the season to facilitate its expansion. We’ll be off in a couple of minutes. Pre-match postbag. “Poor Villa. They were so great last year. Then management sells off the heart of their team. Today they will get embarrassed by the Gunners. What a present to their",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/31/aston-villa-v-arsenal-premier-league-live",
-      "published": "Mon, 31 Aug 2026 19:50:54 GMT",
+      "published": "Mon, 31 Aug 2026 20:15:27 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1278,9 +1283,9 @@
     },
     {
       "title": "アルゼンチンリオネル・メッシ退職者からインテル国民のフットボール:「これは私をたくさん傷つけます」",
-      "summary": "アルゼンチンの素晴らしい最後のゲームは、World Cup ファイナリストの父ジョルジェが8 月に亡くなったリオネル・メッシ退職後退の発表インテルアルゼンチンがスペインで殴られた7 週間後に全国サッカー7 週間 World Cup 決勝 US. The39 歳 キャプテン アルゼンチン へ World Cup 栄光で 2022 と 2 コパ・アメリカ2005 年に最初のキャップを獲得した後のタイトル。On Monday, Messi は、彼が書いたメモの Instagram に写真を掲載しました 21 7 月, 2 日後に World Cup ファイナル",
+      "summary": "アルゼンチンの素晴らしい最後のゲームは、World Cup 最終プレイヤーの父ジョルジェは8 月に亡くなりましたリオネル・メッシ退職後退の発表インテルアルゼンチンがスペインで殴られた7 週間後に全国サッカー7 週間 World Cup 決勝 US. The39 歳 キャプテン アルゼンチン へ World Cup 栄光で 2022 と 2 コパ・アメリカ2005 年に最初のキャップを獲得した後のタイトル。On Monday, Messi は、彼が書いたメモの Instagram に写真を掲載しました 21 7 月, 2 日後に World Cup 決勝、コンフィ",
       "title_original": "Argentina’s Lionel Messi retires from international football: ‘This hurts me a lot’",
-      "summary_original": "Argentina great’s last game was in World Cup final Player’s father Jorge passed away earlier in August Lionel Messi has announced his retirement from international football seven weeks after Argentina were beaten by Spain in the World Cup final in the US. The 39-year-old captained Argentina to World Cup glory in 2022 and two Copa América titles after winning his first cap in 2005. On Monday, Messi posted a picture on Instagram of notes that he wrote on 21 July, two days after the World Cup final",
+      "summary_original": "Argentina great’s last game was in World Cup final Player’s father Jorge died earlier in August Lionel Messi has announced his retirement from international football seven weeks after Argentina were beaten by Spain in the World Cup final in the US. The 39-year-old captained Argentina to World Cup glory in 2022 and two Copa América titles after winning his first cap in 2005. On Monday, Messi posted a picture on Instagram of notes that he wrote on 21 July, two days after the World Cup final, confi",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messi-retires-from-international-football-argentina",
       "published": "Mon, 31 Aug 2026 15:19:13 GMT",
@@ -1292,9 +1297,9 @@
     },
     {
       "title": "Manchester City gazump Spurs over Iliman Ndiaye and、Enzo Fernández deal を獲得候補に",
-      "summary": "市は£65m の契約を一致させますエヴァートンセネガル・ウィンガー・リヒソンが滞在するトッテナム欲しい人チェルシー'ムドリクマンチェスター・シティ購入によって攻撃を強化するセットエヴァートン'Iliman Ndiaye まで £65m と話を開くチェルシー移籍に署名する Enzo Fernández. City’s ハイジャックトッテナム'Ndiaye の契約は、土地への試みを見た後に来たリヴァプール獲得を獲得を問い合わせコーディ・ガクポ分解します。The Senegal インテル国民は受け取るために置かれますメディカルチェックアドオンの£60m プラス£5m の料金が ag だった後",
+      "summary": "市は£65m の契約を一致させますエヴァートンセネガル・ウィンガー・リヒソンが滞在するトッテナム欲しい人チェルシー'ムドリクマンチェスター・シティ購入することにより、攻撃を強化するエヴァートン'Iliman Ndiaye まで £65m と話を開くチェルシー移籍に署名する Enzo Fernández. City’s ハイジャックトッテナム’Ndiaye の契約は、署名しようとする試みの後に来たリヴァプール獲得を獲得を問い合わせコーディ・ガクポダウン。The Senegal インテル国民は受け取るために養われますメディカルチェックアドオンの£60m と£5m の料金が一致した後",
       "title_original": "Manchester City gazump Spurs over Iliman Ndiaye and eye Enzo Fernández deal",
-      "summary_original": "City agree £65m deal with Everton for Senegal winger Richarlison to stay at Spurs, who want Chelsea’s Mudryk Manchester City are set to bolster their attack by buying Everton’s Iliman Ndiaye for up to £65m and have opened talks with Chelsea over a deal to sign Enzo Fernández. City’s hijack of Tottenham’s deal for Ndiaye came after they saw their attempts to land Liverpool’s Cody Gakpo break down. The Senegal international is set to undergo a medical after a fee of £60m plus £5m in add-ons was ag",
+      "summary_original": "City agree £65m deal with Everton for Senegal winger Richarlison to stay at Spurs, who want Chelsea’s Mudryk Manchester City are poised to bolster their attack by buying Everton’s Iliman Ndiaye for up to £65m and have opened talks with Chelsea over a deal to sign Enzo Fernández. City’s hijack of Tottenham’s deal for Ndiaye came after their attempts to sign Liverpool’s Cody Gakpo broke down. The Senegal international is poised to undergo a medical after a fee of £60m plus £5m in add-ons was agree",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/31/manchester-city-spurs-iliman-ndiaye-enzo-fernandez-deal-richarlison-mudryk",
       "published": "Mon, 31 Aug 2026 19:32:27 GMT",
@@ -1683,6 +1688,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Alcaraz は、サバレンカとしても勝つため、怪我から戻ってくることに感動しました",
+      "summary": "Carlos Alcaraz ロシアに勝つストレートセットでテニスへの彼のリターンに感動ローマ n Safiullin 最初のラウンドで全米オープン.",
+      "title_original": "Alcaraz impresses on return from injury as Sabalenka also wins",
+      "summary_original": "Carlos Alcaraz impressed on his return to tennis with a straight-sets win over Russia's Roman Safiullin in the first round of the US Open.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13579551/us-open-2026-carlos-alcaraz-impresses-on-return-from-injury-as-aryna-sabalenka-harriet-dart-also-win",
+      "published": "Mon, 31 Aug 2026 21:06:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "エヴァートン最新: Toffees は£40m Balogun の獲得で合意します",
       "summary": "",
       "title_original": "Everton latest: Toffees agree £40m Balogun deal",
@@ -1753,9 +1772,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "別荘の frustrating アーセナル Buendia ヒットクロスバーLIVE!",
+      "title": "坂のスライドアーセナルオープン Villa LIVE!",
       "summary": "",
-      "title_original": "Villa frustrating Arsenal after Buendia hit crossbar LIVE!",
+      "title_original": "Saka slides in Arsenal opener at Villa LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/aston-villa-vs-arsenal/live/559454",
@@ -1946,20 +1965,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Messi 退職インテル国民のフットボール:「私は与えるために残らない」",
-      "summary": "リオネル・メッシ退職後退の発表インテル全国サッカー39 歳。",
-      "title_original": "Messi retires from international football: 'I have nothing left to give'",
-      "summary_original": "Lionel Messi has announced his retirement from international football aged 39.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13565109/lionel-messi-retires-from-international-football-aged-39-as-argentinas-most-capped-player-and-all-time-leading-goalscorer",
-      "published": "Mon, 20 Jul 2026 00:13:00 BST",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
