@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T21:34:13.399371+00:00",
+  "updated_at": "2026-08-31T21:49:16.528831+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -858,7 +858,8 @@
     "The Arsenal": "アーセナル",
     "Ian Maatsen": "",
     "David Raya": "",
-    "Bukayo Saka's": ""
+    "Bukayo Saka's": "",
+    "Messi's Argentina": ""
   },
   "items": [
     {
@@ -869,6 +870,34 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckgvrlme148o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 21:20:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・シティ'£80m 崩壊に近いガクポのために移動",
+      "summary": "マンチェスター・シティの 提案 £80m のために移動リヴァプール獲得コーディ・ガクポ繁華街に近いです。",
+      "title_original": "Man City's £80m move for Gakpo close to collapse",
+      "summary_original": "Manchester City's proposed £80m move for Liverpool forward Cody Gakpo is close to collapsing.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 19:30:01 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マッチング・ウィンター・サカが何をしたのかヴィラ・パーク?",
+      "summary": "使い方アストン・ヴィラそして、アーセナルガンナーズ1-0 の勝利に従ったプレイヤー",
+      "title_original": "How did match-winner Saka do at Villa Park?",
+      "summary_original": "How Aston Villa and Arsenal's players rated following the Gunners' 1-0 win.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 20:59:29 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -890,9 +919,23 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "How Messi's ドミナンスの数十年は、ほとんど起こらない",
+      "title": "坂の利益アーセナル硬い戦いの勝利でアストン・ヴィラ",
+      "summary": "ブカヨ・サカ「第2 半の目標は獲得するのに十分ですプレミアリーグチャンピオンアーセナル優勝アストン・ヴィラ.",
+      "title_original": "Saka earns Arsenal hard-fought win at Aston Villa",
+      "summary_original": "Bukayo Saka's second-half goal is enough to earn Premier League champions Arsenal victory at Aston Villa.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0lrz74r8l9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 21:37:50 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "再編方法 Messi's Argentina 栄光の年はほとんど起こらない",
       "summary": "リオネル・メッシサッカーの最高の物語の一つとして、ほとんど起こらないアルゼンチンとのドミナンスの10 年。",
-      "title_original": "How Messi's decade of dominance almost never happened",
+      "title_original": "How retiring Messi's Argentina glory years almost never happened",
       "summary_original": "Lionel Messi's decade of dominance with Argentina that almost never happened will go down as one of football's greatest ever stories.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c20e6wv1pdwo?at_medium=RSS&at_campaign=rss",
@@ -901,48 +944,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マンチェスター・シティ'£80m 崩壊に近いガクポのために移動",
-      "summary": "マンチェスター・シティの 提案 £80m のために移動リヴァプール獲得コーディ・ガクポ繁華街に近いです。",
-      "title_original": "Man City's £80m move for Gakpo close to collapse",
-      "summary_original": "Manchester City's proposed £80m move for Liverpool forward Cody Gakpo is close to collapsing.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 19:30:01 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "'Nothing left to give' - 伝説 Messi 終了 アルゼンチン キャリア",
-      "summary": "アルゼンチン 素晴らしいリオネル・メッシ退職後退の発表インテル国民のサッカーは「急ぎ」と判断したが、「時が来た」と理解している。",
-      "title_original": "'Nothing left to give' - legend Messi ends Argentina career",
-      "summary_original": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 15:18:39 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マッチング・ウィンター・サカが何をしたのかヴィラ・パーク?",
-      "summary": "使い方アストン・ヴィラそして、アーセナルガンナーズ1-0 の勝利に従ったプレイヤー",
-      "title_original": "How did match-winner Saka do at Villa Park?",
-      "summary_original": "How Aston Villa and Arsenal's players rated following the Gunners' 1-0 win.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 20:59:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -974,6 +975,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Mudryk へトッテナムとしてチェルシー'サンチェスはコモに向かう",
+      "summary": "チェルシーオファーを受け取るトッテナムウィンガーミハイロ・ムドリクそして擁護者 Tosin Adarabioyo, だけでなく、ゴールキーパーのためのイタリアのクラブコモから入札 Robert Sanchez.",
+      "title_original": "Mudryk to Spurs as Chelsea's Sanchez heads to Como",
+      "summary_original": "Chelsea accept offers from Tottenham for winger Mykhailo Mudryk and defender Tosin Adarabioyo, as well as a bid from Italian club Como for goalkeeper Robert Sanchez.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gj341p8ypo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 21:05:13 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "バルコラ参加するリヴァプールからパリ・サンジェルマン£123m の移動",
       "summary": "リヴァプールフランスの署名を完了して下さいブラッドリー・バルコラからパリ・サンジェルマン£123m までの料金。",
       "title_original": "Barcola joins Liverpool from PSG in £123m move",
@@ -988,30 +1003,16 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "時計: アルゼンチンのメッシーの最後の目標",
-      "summary": "リオネル・メッシアトランタでの試合中に2〜2 で試合をレベルアップするために、エジプトに対するアルゼンチンの後半のイコライザーをスコアします。",
-      "title_original": "Watch: Messi's last-ever goal for Argentina",
-      "summary_original": "Lionel Messi scores a late equaliser for Argentina against Egypt to level the game at 2-2 during their match in Atlanta.",
+      "title": "'Nothing left to give' - 伝説 Messi 終了 アルゼンチン キャリア",
+      "summary": "アルゼンチン 素晴らしいリオネル・メッシ退職後退の発表インテル国民のサッカーは「急ぎ」と判断したが、「時が来た」と理解している。",
+      "title_original": "'Nothing left to give' - legend Messi ends Argentina career",
+      "summary_original": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c20yd7wp134o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 18:13:01 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Mudryk へトッテナムとしてチェルシー'サンチェスはコモに向かう",
-      "summary": "チェルシーオファーを受け取るトッテナムウィンガーミハイロ・ムドリクそして擁護者 Tosin Adarabioyo, だけでなく、ゴールキーパーのためのイタリアのクラブコモから入札 Robert Sanchez.",
-      "title_original": "Mudryk to Spurs as Chelsea's Sanchez heads to Como",
-      "summary_original": "Chelsea accept offers from Tottenham for winger Mykhailo Mudryk and defender Tosin Adarabioyo, as well as a bid from Italian club Como for goalkeeper Robert Sanchez.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gj341p8ypo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 21:05:13 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 15:18:39 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1107,6 +1108,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4g7ljprwzmo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 05:45:38 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "時計: アルゼンチンのメッシーの最後の目標",
+      "summary": "リオネル・メッシアトランタでの試合中に2〜2 で試合をレベルアップするために、エジプトに対するアルゼンチンの後半のイコライザーをスコアします。",
+      "title_original": "Watch: Messi's last-ever goal for Argentina",
+      "summary_original": "Lionel Messi scores a late equaliser for Argentina against Egypt to level the game at 2-2 during their match in Atlanta.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c20yd7wp134o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 18:13:01 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1265,20 +1280,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Carrick 'really 喜ばれた として フェルナンデスハットトリックスパークスマンチェスター・ユナイテッドカムバック",
-      "summary": "マンチェスター・ユナイテッドマネージャーマイケル・キャリックチームで「本当に喜んで」ブルーノ・フェルナンデス' ハットトリック5-2 のカムバックの勝利を攻撃するイプスウィッチ・タウン FC, 最後の週末の開口日の敗北に続いて.",
-      "title_original": "Carrick 'really pleased' as Fernandes hat-trick sparks Man Utd comeback",
-      "summary_original": "Manchester United manager Michael Carrick is \"really pleased\" with his team as Bruno Fernandes' hat-trick inspires a 5-2 comeback win over Ipswich Town, following last weekend's opening-day defeat.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c05rprn1ld1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 19:41:31 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1730,6 +1731,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Alcaraz は、サバレンカとしても勝つため、怪我から戻ってくることに感動しました",
+      "summary": "Carlos Alcaraz ロシアに勝つストレートセットでテニスへの彼のリターンに感動ローマ n Safiullin 最初のラウンドで全米オープン.",
+      "title_original": "Alcaraz impresses on return from injury as Sabalenka also wins",
+      "summary_original": "Carlos Alcaraz impressed on his return to tennis with a straight-sets win over Russia's Roman Safiullin in the first round of the US Open.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13579551/us-open-2026-carlos-alcaraz-impresses-on-return-from-injury-as-aryna-sabalenka-harriet-dart-also-win",
+      "published": "Mon, 31 Aug 2026 21:06:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "チェルシー最新:トッテナム Tosin と Mudryk の二重移動で閉じる",
       "summary": "",
       "title_original": "Chelsea latest: Spurs close in on double move for Tosin and Mudryk",
@@ -1755,20 +1770,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Alcaraz は、サバレンカとしても勝つため、怪我から戻ってくることに感動しました",
-      "summary": "Carlos Alcaraz ロシアに勝つストレートセットでテニスへの彼のリターンに感動ローマ n Safiullin 最初のラウンドで全米オープン.",
-      "title_original": "Alcaraz impresses on return from injury as Sabalenka also wins",
-      "summary_original": "Carlos Alcaraz impressed on his return to tennis with a straight-sets win over Russia's Roman Safiullin in the first round of the US Open.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13579551/us-open-2026-carlos-alcaraz-impresses-on-return-from-injury-as-aryna-sabalenka-harriet-dart-also-win",
-      "published": "Mon, 31 Aug 2026 21:06:00 BST",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1898,9 +1899,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "US Open スコア:Britain's Fearnley 第一次行動におけるウェンデルケン",
+      "title": "US Open スコア: シェルトンと大阪で一晩の行動",
       "summary": "",
-      "title_original": "US Open scores: Britain's Fearnley and Wendelken in first-round action",
+      "title_original": "US Open scores: Shelton and Osaka in overnight action",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/scores-schedule",
