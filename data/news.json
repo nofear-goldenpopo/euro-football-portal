@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T22:19:07.797731+00:00",
+  "updated_at": "2026-08-31T22:34:37.246835+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -859,7 +859,9 @@
     "Ian Maatsen": "",
     "David Raya": "",
     "Bukayo Saka's": "",
-    "Messi's Argentina": ""
+    "Messi's Argentina": "",
+    "Deadline Day Papers": "",
+    "Tuesday's Deadline Day": ""
   },
   "items": [
     {
@@ -891,9 +893,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マッチング・ウィンター・サカはどのようにしたのですか? 評価のためのアストン・ヴィラ. .アーセナル",
+      "title": "マッチング・ウィンター・サカはどのようにしたのですか?アストン・ヴィラ. .アーセナル評価",
       "summary": "使い方アストン・ヴィラそして、アーセナルガンナーズ1-0 の勝利に従ったプレイヤー",
-      "title_original": "How did match-winner Saka do? Ratings for Aston Villa v Arsenal",
+      "title_original": "How did match-winner Saka do? Aston Villa v Arsenal ratings",
       "summary_original": "How Aston Villa and Arsenal's players rated following the Gunners' 1-0 win.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno?at_medium=RSS&at_campaign=rss",
@@ -1101,6 +1103,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ラミン・ヤマルそしてラフィーナのスコアは2 倍としてバルセロナヒット 5",
+      "summary": "ラミン・ヤマルそしてラフィーナのスコアは2 倍としてバルセロナビートラージョ・バジェカーノ5-2 インチラ・リーガ.",
+      "title_original": "Lamine Yamal and Raphina score twice as Barcelona hit five",
+      "summary_original": "Lamine Yamal and Raphina score twice as Barcelona beat Rayo Vallecano 5-2 in La Liga.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gl7j81l1do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 22:31:49 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "時計: アルゼンチンのメッシーの最後の目標",
       "summary": "リオネル・メッシアトランタでの試合中に2〜2 で試合をレベルアップするために、エジプトに対するアルゼンチンの後半のイコライザーをスコアします。",
       "title_original": "Watch: Messi's last-ever goal for Argentina",
@@ -1150,20 +1166,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cy4zmlrrpxxo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 22:37:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "できますチェルシーバックで3 人でリーグを勝ち取る? 評決の決定",
-      "summary": "デイパンディットのマッチシェイ・ギヴンアワードチェルシーの フライング ウィング バックシャビ・アロンソの の側面は勝ちますプレミアリーグタイトルは3 つのシステムを使用して。",
-      "title_original": "Can Chelsea win the league with three at the back? Given's verdict",
-      "summary_original": "Match of the Day pundit Shay Given praises Chelsea's flying wing-backs, backing Xabi Alonso's side to win the Premier League title using a three-at-the-back system.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyz17d1vy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 22:59:49 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1857,6 +1859,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Deadline Day Papers: マンチェスター・ユナイテッドキャプテン・フェルナンデスとオープン契約協議",
+      "summary": "トップストーリーと噂の移送 Tuesday's Deadline Day バックページ...",
+      "title_original": "Deadline Day Papers: Man Utd open contract talks with captain Fernandes",
+      "summary_original": "The top stories and transfer rumours from Tuesday's Deadline Day back pages...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579619/man-utd-transfer-news-bruno-fernandes-in-contract-talks-as-club-look-to-tie-down-captain-paper-talk",
+      "published": "Mon, 31 Aug 2026 23:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "アストン・ヴィラ 0-1 アーセナルコメントとハイライト",
       "summary": "",
       "title_original": "Aston Villa 0-1 Arsenal commentary and highlights",
@@ -1965,20 +1981,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド最新: カラ・ヘイルズ「スローバック」 Ipswich ウィンでのユナイテッドパフォーマンス",
-      "summary": "",
-      "title_original": "Man Utd latest: Carra hails 'throwback' United performance in Ipswich win",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Mon, 31 Aug 2026 17:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
