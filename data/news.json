@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:04:26.205301+00:00",
+  "updated_at": "2026-08-31T13:19:27.371665+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -765,9 +765,24 @@
     "Ahanor Nick Woltemade": "",
     "Ireland ODIs": "",
     "England Women's ODI": "",
-    "Liverpool's Elliott": ""
+    "Liverpool's Elliott": "",
+    "Defender Conor Coady": ""
   },
   "items": [
+    {
+      "title": "バルコラ参加するリヴァプールからパリ・サンジェルマン£123m の移動",
+      "summary": "リヴァプールフランスの署名を完了して下さいブラッドリー・バルコラからパリ・サンジェルマン£123m までの料金。",
+      "title_original": "Barcola joins Liverpool from PSG in £123m move",
+      "summary_original": "Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 13:01:22 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
     {
       "title": "森の完全な£22m Munoz 署名からクリスタル・パレス",
       "summary": "ノッティンガム・フォレスト£22m の署名を完了 Daniel Munoz からクリスタル・パレス.",
@@ -783,10 +798,10 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ウィンドウが閉じる前に見る転送",
-      "summary": "BBC Sport's サッカーの専門家は、火曜日の23:00 前に通ることができるスタンドアウト転送を選択します BST English 応募締切",
+      "title": "ウィンドウを閉じる前に見る転送",
+      "summary": "BBC Sport's サッカーの専門家は火曜日の23:00 前に通ることができるスタンドアウト転送を選択します BST English 応募締切",
       "title_original": "The transfers to watch before window closes",
-      "summary_original": "BBC Sport's football experts picks out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
+      "summary_original": "BBC Sport's football experts pick out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 08:12:39 GMT",
@@ -881,20 +896,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "バレンシアインテル融資先で評価リヴァプールエリオット",
-      "summary": "バレンシアは、リヴァプールミッドフィルダーを取るために Harvey Elliott レンタル移籍で四季折々の休憩に。",
-      "title_original": "Valencia interested in loan for Liverpool's Elliott",
-      "summary_original": "Valencia are in talks with Liverpool to take midfielder Harvey Elliott on loan for the rest of the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 12:56:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -937,6 +938,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "バレンシアインテル融資先で評価リヴァプールエリオット",
+      "summary": "バレンシアは、リヴァプールミッドフィルダーを取るために Harvey Elliott レンタル移籍で四季折々の休憩に。",
+      "title_original": "Valencia interested in loan for Liverpool's Elliott",
+      "summary_original": "Valencia are in talks with Liverpool to take midfielder Harvey Elliott on loan for the rest of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 12:56:36 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Germany's Wamser 完全な移動マンチェスター・シティ",
       "summary": "マンチェスター・シティ署名を完了して下さいレヴァークーゼンドイツのディフェンダーCarlotta Wamser4 年契約",
       "title_original": "Germany's Wamser completes move to Man City",
@@ -951,6 +966,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Coady は相互の同意によって Wrexham を離れます",
+      "summary": "Defender Conor Coady 選手権クラブとの契約の相互終了に続くレキシャムを残します。",
+      "title_original": "Coady leaves Wrexham by mutual consent",
+      "summary_original": "Defender Conor Coady leaves Wrexham following the mutual termination of his contract with the Championship club.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg59yzg2yrzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 13:01:08 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "なぜ?マンチェスター・ユナイテッド Maguire 'handball' にもかかわらず、ゴールは立ち向かうことができました",
       "summary": "ハンドボールの法律は、多くの場合、支持者を混乱させるために役立ちます - そして、それは再びその頭を次のように支持しましたハリー・マグワイアお祝いのポーズマンチェスター・ユナイテッド正面からイプスウィッチ・タウン FC.",
       "title_original": "Why Man Utd goal was allowed to stand - despite Maguire 'handball'",
@@ -962,20 +991,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ワトキンズは、サウジアラビア側 Al-Hilal に£51m の移動を完了",
-      "summary": "Ollie Watkins 彼が想像したり、彼の意図をしたことがないと言うアストン・ヴィラ彼の£51m が Al-Hilal に移行した後、「この道を終わらせる」キャリア。",
-      "title_original": "Watkins completes £51m move to Saudi side Al-Hilal",
-      "summary_original": "Ollie Watkins says he never imagined or intended his Aston Villa career to \"end this way\" after completing his £51m move to Al-Hilal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70le5gllyeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 17:12:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1175,27 +1190,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "チェルシー「私たちを罰する品質を持っていた」 - ハルツェラー",
-      "summary": "ブライトンマネージャーFabian Hurzeler プロモーションチェルシー「私たちを罰する品質」を持っていたが、スリリングな4-3 敗北中に「それのために行く」という彼の側面の態度を賞賛 Stamford Bridge.",
-      "title_original": "Chelsea had the 'quality to punish us' - Hurzeler",
-      "summary_original": "Brighton manager Fabian Hurzeler admits Chelsea had the \"quality to punish us\" but praised his side's attitude to \"go for it\" during a thrilling 4-3 defeat at Stamford Bridge.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0lrgrzjnpxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 16:29:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "サッカーの転送期限日ローム:マンチェスター・シティサインイン アラン、ムニョスがフォレストに参加し、もっと – ライブ",
-      "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ 連絡を取る: 電子メール グレッグと私たちに従ってください Bluesky Some 少し下キーのお得な情報:Rotherham United 署名を確認しましたマンチェスター・ユナイテッドヤングスターJayce Fitzgerald レンタル移籍で四季折々のひとときを。バルセロナ署名された16 歳の職業 Mikael Baza ハンブルグから若者のランクに参加します。Jaden Heskey に戻るシェフィールド・ウェンズデイ FC からマンチェスター・シティ レンタル移籍で季節を感動させる。続きを読む",
-      "title_original": "Football transfer deadline day looms: Manchester City sign Allan, Muñoz joins Forest, and more – live",
-      "summary_original": "Men’s transfer interactive | Women’s transfer interactive Get in touch: email Gregg and follow us on Bluesky Some slightly lower-key deals for you: Rotherham United have confirmed the signing of Manchester United youngster Jayce Fitzgerald on loan for the rest of the season. Barcelona have signed 16-year-old prodigy Mikael Baza from Hamburg – he will join their youth ranks. Jaden Heskey is to return to Sheffield Wednesday from Manchester City on loan after impressing last season. Continue readin",
+      "title": "Football transfer deadline day looms: Liverpool sign Barcola, Chelsea、Koné, and more – live を獲得候補に",
+      "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ 連絡を取る: 電子メール ドムと私たちに従ってください Bluesky Some 少し下キーのお得な情報:Rotherham United 署名を確認しましたマンチェスター・ユナイテッドヤングスターJayce Fitzgerald レンタル移籍で四季折々のひとときを。バルセロナ署名された16 歳の職業 Mikael Baza ハンブルグから若者のランクに参加します。Jaden Heskey に戻るシェフィールド・ウェンズデイ FC からマンチェスター・シティ レンタル移籍で季節を感動させる。続きを読む",
+      "title_original": "Football transfer deadline day looms: Liverpool sign Barcola, Chelsea target Koné, and more – live",
+      "summary_original": "Men’s transfer interactive | Women’s transfer interactive Get in touch: email Dom and follow us on Bluesky Some slightly lower-key deals for you: Rotherham United have confirmed the signing of Manchester United youngster Jayce Fitzgerald on loan for the rest of the season. Barcelona have signed 16-year-old prodigy Mikael Baza from Hamburg – he will join their youth ranks. Jaden Heskey is to return to Sheffield Wednesday from Manchester City on loan after impressing last season. Continue reading.",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/aug/31/football-transfer-deadline-day-looms-latest-news-on-gakpo-sarr-and-more-live",
-      "published": "Mon, 31 Aug 2026 12:51:49 GMT",
+      "published": "Mon, 31 Aug 2026 13:08:02 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
