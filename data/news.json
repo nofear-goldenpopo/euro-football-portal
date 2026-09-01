@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T15:44:33.222979+00:00",
+  "updated_at": "2026-09-01T16:28:23.848704+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -956,9 +956,27 @@
     "New Jersey": "ニュージャージー州",
     "Louis Page": "",
     "BST. Get": "",
-    "World Cups": ""
+    "World Cups": "",
+    "Chelsea's Fernandez": "",
+    "Parma's Sorensen": "",
+    "Oliver Sorensen": "",
+    "Shaun Maloney": "ショーン・マロニー"
   },
   "items": [
+    {
+      "title": "マンチェスター・シティ、チェルシーの Fernandez 獲得で1 億2500 万ポンド合意",
+      "summary": "マンチェスター・シティ£125m の英国の転送記録料を支払うことに同意しますチェルシーミッドフィルダーEnzo Fernandez.",
+      "title_original": "Man City agree £125m fee for Chelsea's Fernandez",
+      "summary_original": "Manchester City agree to pay a British transfer record fee of £125m for Chelsea midfielder Enzo Fernandez.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 15:55:10 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
     {
       "title": "ニューカッスル、Lille for £51m から Fernandez-Pardo を獲得",
       "summary": "ニューカッスルベルギー進出 Matias Fernandez-Pardo からリール最初の£51.4m の場合。",
@@ -974,6 +992,34 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "バレンシア サインリヴァプールエリオットレンタル移籍で",
+      "summary": "リヴァプールミッドフィルダーHarvey Elliott 季節限定融資でバレンシアに参加",
+      "title_original": "Valencia sign Liverpool's Elliott on loan",
+      "summary_original": "Liverpool midfielder Harvey Elliott joins Valencia on a season-long loan",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c305m3jqy89o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 16:23:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "セルティックログイン Parma's Sorensen、期限の前に来ると",
+      "summary": "セルティックサインイン パルマミッドフィルダーOliver Sorensen レンタル移籍でアシスタントマネージャーの直後ショーン・マロニースコットランドのチャンピオンは、彼らのファイナライズする前に最大4 つの追加で働いていましたヨーロッパリーグ毎週水曜日",
+      "title_original": "Celtic sign Parma's Sorensen, with more to come before deadline",
+      "summary_original": "Celtic sign Parma midfielder Oliver Sorensen on loan shortly after assistant manager Shaun Maloney suggests the Scottish champions were working on up to four additions before finalising their Europa League squad on Wednesday.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62ek3n67e7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 16:15:49 GMT",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "アストン・ヴィラサイン Mbaye と Harwood-Bellis",
       "summary": "アストン・ヴィラ Senegal のウィンガーの署名を完了して下さいイブラヒム・エンバイェからパリ・サンジェルマン英語センターバック Taylor Harwood-Bellis 南 ampton から。",
       "title_original": "Aston Villa sign Mbaye and Harwood-Bellis",
@@ -985,6 +1031,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ユヴェントスサイン サールレンタル移籍で Woltemade ローンに同意する",
+      "summary": "ユヴェントスミッドフィルダーの署名を発表 Pape Matar Sarr からトッテナムまた、融資獲得で合意しながら、初期ローンにニューカッスル獲得 Nick Woltemade.",
+      "title_original": "Juventus sign Sarr on loan and agree Woltemade loan",
+      "summary_original": "Juventus announce the signing of midfielder Pape Matar Sarr from Tottenham on an initial loan while also agree a loan deal for Newcastle forward Nick Woltemade.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3wj80lw5q2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 16:18:48 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1044,6 +1104,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "振込期限日のご案内",
+      "summary": "重要な署名と出発をチェックプレミアリーグ, Scottish Premiership、EFL および Women's Super League.",
+      "title_original": "Every done deal on transfer deadline day",
+      "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 14:16:00 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "フラハムは、ミッドフィルダー天使とラーソンに署名することに同意します",
       "summary": "フラハムは、ミッドフィルダーに署名することに同意します Manuel Angel そして、Hugo Larsson からレアル・マドリードそして、アイントラハト・フランクフルトそれぞれ。",
       "title_original": "Fulham agree to sign midfielders Angel and Larsson",
@@ -1054,6 +1128,20 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド Leicester Midfielder Page のトークでロック",
+      "summary": "マンチェスター・ユナイテッド高く評価されたレスターの若者に署名する話に残る Louis Page£10m を超える価値がある移籍で。",
+      "title_original": "Man Utd locked in talks for Leicester midfielder Page",
+      "summary_original": "Manchester United remain in talks to sign highly-rated Leicester youngster Louis Page in a deal that could be worth over £10m.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn5n015go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 15:36:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1086,34 +1174,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マンチェスター・ユナイテッド Leicester Midfielder Page のトークでロック",
-      "summary": "マンチェスター・ユナイテッド高く評価されたレスターの若者に署名する話に残る Louis Page£10m を超える価値がある移籍で。",
-      "title_original": "Man Utd locked in talks for Leicester midfielder Page",
-      "summary_original": "Manchester United remain in talks to sign highly-rated Leicester youngster Louis Page in a deal that could be worth over £10m.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn5n015go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 15:36:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "振込期限日のご案内",
-      "summary": "重要な署名と出発をチェックプレミアリーグ, Scottish Premiership、EFL および Women's Super League.",
-      "title_original": "Every done deal on transfer deadline day",
-      "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 14:16:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Boss Goodwin 病院を離れるが、まだから不在ダンディー・ユナイテッド FC ログイン",
       "summary": "ダンディー・ユナイテッド FC マネージャーJim Goodwin 病院から健康被害を受けたが、その職務を再開する際には不明確に残っている。",
       "title_original": "Boss Goodwin leaves hospital but still absent from Dundee Utd role",
@@ -1139,62 +1199,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Portsmouth のゴールキーパーの伝説の騎士は65 歳の死にます",
-      "summary": "Goalkeeper Alan Knight801 ポートマスゲームを再生した人、2024 年に前立腺癌と診断された65 歳の死にます。",
-      "title_original": "Portsmouth goalkeeper legend Knight dies aged 65",
-      "summary_original": "Goalkeeper Alan Knight, who played 801 Portsmouth games, dies aged 65 after being diagnosed with prostate cancer in 2024.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z5ze24g7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 14:38:09 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Juventus agree to、ニューカッスルから Woltemade on loan を獲得",
-      "summary": "ユヴェントス agree a season-long loan deal for ニューカッスル forward Nick Woltemade.",
-      "title_original": "Juventus agree to sign Woltemade on loan from Newcastle",
-      "summary_original": "Juventus agree a season-long loan deal for Newcastle United forward Nick Woltemade.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3wj80lw5q2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 08:03:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ベッカムとモウリーニョメッシーに敬意を払う",
-      "summary": "Former England キャプテンデビッド・ベッカムコメントリオネル・メッシアルゼンチンから再建した「世界の子どもの百万人」に触発しました。インテル国民のフットボール。",
-      "title_original": "Beckham and Mourinho pay tribute to Messi",
-      "summary_original": "Former England captain Sir David Beckham says Lionel Messi has inspired \"millions of children worldwide,\" following the Argentine retiring from international football.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0nw1n9y8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 12:01:17 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ハルサインアンサとノートン・カフィに近く",
-      "summary": "ハル・シティ AFC サインアップ Ilyas Ansah5 年間の移籍からブンデスリーガサイド1.FC ウニオン・ベルリン.",
-      "title_original": "Hull sign Ansah and close on Norton-Cuffy",
-      "summary_original": "Hull City sign forward Ilyas Ansah on a five-year deal from Bundesliga side Union Berlin.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 09:57:22 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1380,13 +1384,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "サッカーの転送期限日:マンチェスター・シティ近くの フェルナンデス,ニューカッスルシール £51m の移籍など – ライブ",
+      "title": "サッカーの転送期限日:マンチェスター・シティ同意する £125m フェルナンデス契約,ニューカッスルシール £51m 署名, 以上 – ライブ",
       "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ The Rumour Mill: 期限日のすべてを確認する Luke にメールを送ったり、TikTok と Bluesky にフォローすることができます。多くの人が、企業を移動したり、ジョブを変更したりするために非常に投資されています。経理や廃棄物管理でこれを得ることはできません。プレイヤーが本日動いていない場合、クラブから退出するために必殺到している場合、オプションがあります。9 月1 日(土)に全国の締切日を祝うわけではないので、まだ頭の希望がある",
-      "title_original": "Football transfer deadline day: Manchester City close on Fernández, Newcastle seal £51m deal, and more – live",
+      "title_original": "Football transfer deadline day: Manchester City agree £125m Fernández deal, Newcastle seal £51m signing, and more – live",
       "summary_original": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Luke and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of head",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 15:39:12 GMT",
+      "published": "Tue, 01 Sep 2026 16:21:37 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1800,6 +1804,34 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "「チャレンジできる唯一のチーム」アーセナル' | カラグラファーが衝撃を解説マンチェスター・シティサインエンゾー",
+      "summary": "Sky Sports' Jamie Carragher 署名を信じる Enzo Fernandez 作るマンチェスター・シティ最大のチャレンジアーセナルレース中プレミアリーグタイトル。",
+      "title_original": "'The only team that can challenge Arsenal' | Carragher explains impact of Man City signing Enzo",
+      "summary_original": "Sky Sports' Jamie Carragher believes the signing of Enzo Fernandez will make Manchester City the biggest challenge to Arsenal in the race for the Premier League title.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13579949/manchester-city-agree-deal-for-enzo-fernandez-jamie-carragher-explains-impact-of-big-money-signing",
+      "published": "Tue, 01 Sep 2026 17:12:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・シティ署名する£125m の獲得で合意チェルシー'フェルナンデス",
+      "summary": "マンチェスター・シティ契約の合意チェルシー署名する Enzo Fernandez£125m 用",
+      "title_original": "Man City agree £125m deal to sign Chelsea's Fernandez",
+      "summary_original": "Manchester City have agreed a deal with Chelsea to sign Enzo Fernandez for £125m.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579667/enzo-fernandez-transfer-news-manchester-city-agree-125m-deal-to-sign-chelsea-midfielder-on-deadline-day",
+      "published": "Tue, 01 Sep 2026 16:58:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "US Open LIVE! 雨の遅延は、外側の裁判所で再生 Britain's Fery フィードバック",
       "summary": "",
       "title_original": "US Open LIVE! Rain delays play on outside courts as Britain's Fery returns",
@@ -1814,17 +1846,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "セルティック McInnes 株式としての FIVE 署名のクローズレンジャーズ転送更新",
+      "title": "Scot Prem 最新: ソレンセン参加セルティック FIVE サインのクラブクローズ",
       "summary": "",
-      "title_original": "Celtic close in on FIVE signings as McInnes shares Rangers transfer update",
+      "title_original": "Scot Prem latest: Sorensen joins Celtic as club close in on FIVE signings",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "published": "Tue, 01 Sep 2026 16:00:00 BST",
+      "published": "Tue, 01 Sep 2026 17:00:00 BST",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1895,6 +1927,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Fofana tug-of-war!(フオファナ) サンダーランドとクリスタル・パレス移籍に同意しますが、どこで終わるのでしょうか?",
+      "summary": "クリスタル・パレスそして、Sunderland は、両方の署名に合意された移籍を持っています Malick Fofana, 転送タッグ・オブ・ウォーの中央にウィンガーを残して、次の目的地はまだ決定されます Deadline Day.",
+      "title_original": "Fofana tug-of-war! Sunderland and Palace agree deals but where will he end up?",
+      "summary_original": "Crystal Palace and Sunderland have both agreed deals to sign Malick Fofana, leaving the winger at the centre of a transfer tug-of-war with his next destination still to be decided on Deadline Day.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579894/malick-fofana-transfer-news-lyon-winger-at-centre-of-premier-league-tug-of-war-as-crystal-palace-and-sunderland-agree-deals",
+      "published": "Tue, 01 Sep 2026 16:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -2035,48 +2081,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ヴィラサインパリ・サンジェルマンフォワード Mbaye と Saints の擁護者 Harwood-Bellis",
-      "summary": "アストン・ヴィラ双方の署名を確認しましたパリ・サンジェルマン獲得イブラヒム・エンバイェサウス ampton センターバック Taylor Harwood-Bellis.",
-      "title_original": "Villa sign PSG forward Mbaye and Saints defender Harwood-Bellis",
-      "summary_original": "Aston Villa have confirmed the signings of both Paris Saint-Germain forward Ibrahim Mbaye and Southampton centre-back Taylor Harwood-Bellis.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579783/ibrahim-mbaye-aston-villa-confirm-signing-of-18-year-old-paris-saint-germain-winger",
-      "published": "Tue, 01 Sep 2026 11:28:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Alcaraz は、サバレンカとしても勝つため、怪我から戻ってくることに感動しました",
-      "summary": "Carlos Alcaraz ロシアに勝つストレートセットでテニスへの彼のリターンに感動ローマ n Safiullin 最初のラウンドで全米オープン.",
-      "title_original": "Alcaraz impresses on return from injury as Sabalenka also wins",
-      "summary_original": "Carlos Alcaraz impressed on his return to tennis with a straight-sets win over Russia's Roman Safiullin in the first round of the US Open.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13579551/us-open-2026-carlos-alcaraz-impresses-on-return-from-injury-as-aryna-sabalenka-harriet-dart-also-win",
-      "published": "Mon, 31 Aug 2026 21:06:00 BST",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Fernandez-Pardo はどのように良いですか? 爆発的なウィンガーはドクのようなスリルをすることができます",
-      "summary": "確信するあるある特別な質がありますニューカッスルということ Matias Fernandez-Pardo 繁栄することができますプレミアリーグ. 「彼は非常に爆発的です, 非常に高速です,」彼の元コーチ Arnar Vidarsson スカイスポーツ . 「彼は信じられないほどの力を持っています。」",
-      "title_original": "How good is Fernandez-Pardo? Explosive winger can thrill like Doku",
-      "summary_original": "There is one special quality that will have convinced Newcastle United that Matias Fernandez-Pardo can thrive in the Premier League. \"He is very explosive, very fast,\" his former coach Arnar Vidarsson tells Sky Sports . \"He has this unbelievable power.\"",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569269/matias-fernandez-pardo-to-newcastle-signing-from-lille-is-very-fast-with-unbelievable-power-like-jeremy-doku",
-      "published": "Tue, 01 Sep 2026 11:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
