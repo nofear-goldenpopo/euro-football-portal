@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T23:34:42.419138+00:00",
+  "updated_at": "2026-09-01T23:49:21.376031+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1022,7 +1022,12 @@
     "Enzo Fernandez's": "",
     "Maresca Chelsea’s": "",
     "Monaco’s Camara": "",
-    "Three Deadline Day": ""
+    "Three Deadline Day": "",
+    "Balogun's Everton": "",
+    "Quinten Timber": "クインテン・ティンバー",
+    "Marc Skinner": "",
+    "Eva Olid": "",
+    "Kaveh Solhekol": ""
   },
   "items": [
     {
@@ -1074,7 +1079,7 @@
       "summary_original": "Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 22:26:54 GMT",
+      "published": "Tue, 01 Sep 2026 23:34:53 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1096,17 +1101,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "エヴァートン署名 グレアルッシュ と クローズ オン バロウン 移籍",
-      "summary": "エヴァートンログイン Jack Grealish 季節限定のローン契約からマンチェスター・シティそして署名に近いです Folarin Balogun からモナコ.",
-      "title_original": "Everton sign Grealish and close in on Balogun deal",
-      "summary_original": "Everton sign Jack Grealish on a season-long loan deal from Manchester City and are close to signing Folarin Balogun from Monaco.",
+      "title": "バロウンのエヴァートン彼が歩くと移籍が崩壊",
+      "summary": "エヴァートンの の追求 Folarin Balogun からモナコバログウン後の崩壊は、動きに対して決定します。",
+      "title_original": "Balogun's Everton deal collapses after he walks away",
+      "summary_original": "Everton's pursuit of Folarin Balogun from Monaco collapses after Balogun decides against move.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 23:13:14 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "published": "Tue, 01 Sep 2026 23:41:10 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1138,17 +1143,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "サンダーランドサイントッテナムディフェンダーダンソレンタル移籍で",
-      "summary": "Sunderland はオーストリアの擁護者を署名しました Kevin Danso からトッテナム季節が終わるまで融資契約上。",
-      "title_original": "Sunderland sign Spurs defender Danso on loan",
-      "summary_original": "Sunderland have signed Austria defender Kevin Danso from Tottenham on a loan deal until the end of the season.",
+      "title": "Fofana シール £30m サンダーランドに移動",
+      "summary": "サンダーランドは殴られたクリスタル・パレス署名に Malick Fofana からリヨン.",
+      "title_original": "Fofana seals £30m move to Sunderland",
+      "summary_original": "Sunderland have beaten Crystal Palace to the signing of Malick Fofana from Lyon.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4z3yglzro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 19:50:58 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 23:34:50 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1158,7 +1163,7 @@
       "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 23:32:37 GMT",
+      "published": "Tue, 01 Sep 2026 23:48:37 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1166,13 +1171,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "クリスタル・パレス Chilwell を永続契約に再署名",
-      "summary": "クリスタル・パレス再署名されたイングランドを持っているインテル全国 Ben Chilwell 永続的な移籍から RC ストラスブール.",
-      "title_original": "Crystal Palace re-sign Chilwell on permanent deal",
-      "summary_original": "Crystal Palace have re-signed England international Ben Chilwell on permanent deal from RC Strasbourg.",
+      "title": "クリスタル・パレス署名 締め切り後のチルウェルと木材",
+      "summary": "クリスタル・パレス署名済みインテル国民体育 Ben Chilwell そして、クインテン・ティンバー永久移籍",
+      "title_original": "Palace sign Chilwell and Timber after deadline",
+      "summary_original": "Crystal Palace have signed internationals Ben Chilwell and Quinten Timber on permanent deals",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/crr4d0x0175o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 23:11:02 GMT",
+      "published": "Tue, 01 Sep 2026 23:44:52 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1191,6 +1196,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "サンダーランドサイントッテナムディフェンダーダンソレンタル移籍で",
+      "summary": "Sunderland はオーストリアの擁護者を署名しました Kevin Danso からトッテナム季節が終わるまで融資契約上。",
+      "title_original": "Sunderland sign Spurs defender Danso on loan",
+      "summary_original": "Sunderland have signed Austria defender Kevin Danso from Tottenham on a loan deal until the end of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4z3yglzro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 19:50:58 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1219,20 +1238,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Sunderland へ ビートクリスタル・パレス獲得を獲得を問い合わせリヨン'£30m のウィンガーFofana",
-      "summary": "サンダーランドは署名する予定ですリヨンウィンガーMalick Fofana にもかかわらず、クリスタル・パレスの は移籍をハイジャックしようとします",
-      "title_original": "Sunderland to beat Palace to Lyon's £30m winger Fofana",
-      "summary_original": "Sunderland are expected to sign Lyon winger Malick Fofana, despite Crystal Palace's attempts to hijack the deal",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 21:13:41 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1488,20 +1493,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "男性用移籍市場夏の2026:ヨーロッパトップ5 リーグの全ての移籍",
-      "summary": "最新情報プレミアリーグ, ラ・リーガ, ブンデスリーガ, リーグ・アンそして、セリエ A ディールとクラブバイクラブガイド移籍市場 インテルアクティブなガイド 続きを読む...",
-      "title_original": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-      "summary_original": "All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide Women’s transfer window interactive guide Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-      "published": "Tue, 01 Sep 2026 12:12:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "ウェストハム Wolves を戦う Divine MukasaNuno の圧力を倍増",
       "summary": "隣接する2 つの側面と、2 つのチームは、ドロップを横切って新しいアイデンティティを追い出しようとしました。Championship. In エンドウェストハム Wolves から離れ、圧力を削減し、目標の前面で、決議の度合い、非常に重要である、運のビットのおかげで勝ちましたヌーノ・エスピーリト・サント少なくとも数日間。ファーストハーフの目標から Divine Mukasa そして、Jarrod Bowen、ペナルティスポットからの後者は、第二の2 つによって補完された。Mukasa は保護された",
       "title_original": "West Ham fight off Wolves as Divine Mukasa double eases pressure on Nuno",
@@ -1516,27 +1507,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "アストン・ヴィラ印 Mbaye および Harwood-Bellis としてニューカッスルフェナンデス - パド",
-      "summary": "ガブリエウ・ジェズスから動くアーセナル獲得を獲得を問い合わせバルセロナ Harvey Elliott 参加 バレンシアレンタル移籍でからリヴァプール アストン・ヴィラ署名の完了イブラヒム・エンバイェそして、Taylor Harwood-Bellis 締切日、と Unai Emery クラブのラジカルな夏のオーバーホールは、最近の成功を再現するために、ヴィラを置いています。自分の両方を失ったヴィラプレミアリーグゲームこのキャンペーンは、チャンピオンズリーグ過去の3 シーズンの2 つで、最初の主要なトロップを獲得",
-      "title_original": "Aston Villa sign Mbaye and Harwood-Bellis as Newcastle get Fernandez-Pardo",
-      "summary_original": "Gabriel Jesus completes move from Arsenal to Barcelona Harvey Elliott joins Valencia on loan from Liverpool Aston Villa completed the signings of Ibrahim Mbaye and Taylor Harwood-Bellis on deadline day, with Unai Emery confident the club’s radical summer overhaul has left Villa in position to replicate their recent success. Villa, who have lost both of their Premier League games this campaign, have qualified for the Champions League in two of the past three seasons and won their first major trop",
+      "title": "男性用移籍市場夏の2026:ヨーロッパトップ5 リーグの全ての移籍",
+      "summary": "最新情報プレミアリーグ, ラ・リーガ, ブンデスリーガ, リーグ・アンそして、セリエ A ディールとクラブバイクラブガイド移籍市場 インテルアクティブなガイド 続きを読む...",
+      "title_original": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "summary_original": "All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide Women’s transfer window interactive guide Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/01/aston-villa-sign-mbaye-and-harwood-bellis-as-newcastle-get-fernandez-pardo",
-      "published": "Tue, 01 Sep 2026 17:58:47 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Football Daily | トッテナムそして彼らのクラブハイプマンの急速な消失",
-      "summary": "今すぐ登録! 今すぐ登録! 今すぐサインアップ 今すぐ登録! 我々が行く前に, 窓のスラムシャットの前にすべての最新の転送期限日のアップデートのための作家の私たちのチームに参加するためのリマインダー (ほとんどの主要なリーグで) 11pmBST. Get 獲得を獲得を問い合わせ 歴史の中で最も偉大な選手が退職を発表したのは、インテル国民のフットボール、私は同様にそうしたいです。確かに、怒りは私に決して拾いませんでした。World Cups とユーロが、Messi、tim のような感じです",
-      "title_original": "Football Daily | Tottenham and the rapid disappearance of their club hype man",
-      "summary_original": "Sign up now! Sign up now! Sign up now? Sign up now! Before we get going, a reminder to join our team of writers for all the latest transfer deadline day updates before the window slams shut (in most major leagues) at 11pm BST. Get on it . As probably the greatest player in history has announced his retirement from international football, I’d like to do likewise. Sure, the ingrates never picked me, overlooking my abilities through several World Cups and Euros, but I feel that, like Messi, the tim",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/01/football-daily-email-tottenham-oh-tottenham",
-      "published": "Tue, 01 Sep 2026 14:33:00 GMT",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "published": "Tue, 01 Sep 2026 12:12:32 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1558,6 +1535,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "アストン・ヴィラ印 Mbaye および Harwood-Bellis としてニューカッスルフェナンデス - パド",
+      "summary": "ガブリエウ・ジェズスから動くアーセナル獲得を獲得を問い合わせバルセロナ Harvey Elliott 参加 バレンシアレンタル移籍でからリヴァプール アストン・ヴィラ署名の完了イブラヒム・エンバイェそして、Taylor Harwood-Bellis 締切日、と Unai Emery クラブのラジカルな夏のオーバーホールは、最近の成功を再現するために、ヴィラを置いています。自分の両方を失ったヴィラプレミアリーグゲームこのキャンペーンは、チャンピオンズリーグ過去の3 シーズンの2 つで、最初の主要なトロップを獲得",
+      "title_original": "Aston Villa sign Mbaye and Harwood-Bellis as Newcastle get Fernandez-Pardo",
+      "summary_original": "Gabriel Jesus completes move from Arsenal to Barcelona Harvey Elliott joins Valencia on loan from Liverpool Aston Villa completed the signings of Ibrahim Mbaye and Taylor Harwood-Bellis on deadline day, with Unai Emery confident the club’s radical summer overhaul has left Villa in position to replicate their recent success. Villa, who have lost both of their Premier League games this campaign, have qualified for the Champions League in two of the past three seasons and won their first major trop",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/01/aston-villa-sign-mbaye-and-harwood-bellis-as-newcastle-get-fernandez-pardo",
+      "published": "Tue, 01 Sep 2026 17:58:47 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "David Squires 上...転送契約の芸術",
       "summary": "私たちの漫画家は、その近代的なコンストラクトにサッカーの転送の進化をチャートにするために、年齢を見ていきます 漫画を買う | ダビデのお気に入りの作品の一部 そして、彼の最新の本、箱のチャオス: 今それを得る 続きを読みます...",
       "title_original": "David Squires on … the art of the transfer deal",
@@ -1572,17 +1563,31 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "「私は私の古いチームメイトに伝えるのに怖かった」:Victoria Pelova から飛躍を作るアーセナル獲得を獲得を問い合わせトッテナム",
-      "summary": "ロンドン北部を横断する一方で、オランダのミッドフィルダーは元クラブと衝突する 男性のカウンターパートの間にあるように、女性のチーム間でクラブの儀式に同じ強度はありませんが、ゲームが変化するにつれて成長します。プレイヤーがライバルの側を離れると、ファンからアニモシーがあります。Victoria Pelova’s からの移動アーセナル獲得を獲得を問い合わせトッテナムしかし、しっかりとトレンドをバックス. 間違いなく彼女の最高の年を過ごしているにもかかわらず、, 27 歳のデパート",
-      "title_original": "‘I was scared to tell my old teammates’: Victoria Pelova on making leap from Arsenal to Spurs",
-      "summary_original": "While move across north London has been amicable, the Dutch midfielder is relishing clash with former club There is not the same intensity to club rivalries between women’s teams as there is between their men’s counterparts, but as the game grows that is changing. Increasingly, there is animosity from fans if a player leaves for a rival side. Victoria Pelova’s move from Arsenal to Tottenham firmly bucks the trend, though. Despite arguably having her best years ahead of her, the 27-year-old depar",
+      "title": "Women’s Super League2026-27 プレビュー番号 12:マンチェスター・ユナイテッド",
+      "summary": "出発の出発 Marc Skinner シニア・スクワッド・メンバーが新しいマネージャーを離れる Eva Olid 新しい時代のガーディアン作家の予測位置にユナイテッドを導く: 7th (NB: これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 第4 回 続きを読む...",
+      "title_original": "Women’s Super League 2026-27 preview No 12: Manchester United",
+      "summary_original": "The departure of Marc Skinner and senior squad members leaves new manager Eva Olid to guide United into new era Guardian writers’ predicted position: 7th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 4th Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/01/i-was-scared-to-tell-my-old-teammates-victoria-pelova-on-making-leap-from-arsenal-to-spurs",
-      "published": "Tue, 01 Sep 2026 11:00:03 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/02/womens-super-league-preview-manchester-united",
+      "published": "Tue, 01 Sep 2026 23:01:15 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Janine Sonis: 「デンバーの63,000 人のファンが、女性のチームを乗り越える道だった」",
+      "summary": "The Canada そして、Denver Summit パックでプレーするフルバックマイル・ハイ・スタジアムそして影響の Lindsey Heaps In シカゴから6-1 勝の13 分 Janine Sonis ペナルティエリアに潜り、ディフェンダーのラインの背後にあるステルシーに座って、右隅に鮮明なショットをつかむ。今シーズンの目標だったのは、どれも Denver Summit プレーヤー、ジョイントセブンス NWSL. Now デビューシーズン、NWSL とカナダのヴェットで彼女の故郷のクラブのためにプレー",
+      "title_original": "Janine Sonis: ‘63,000 fans in Denver proves a women’s team was way overdue’",
+      "summary_original": "The Canada and Denver Summit full-back on playing at a packed Mile High Stadium and the impact of Lindsey Heaps In the 13th minute of a 6-1 win against Chicago, Janine Sonis ran into the penalty area and stealthily positioned herself behind a line of defenders, before striking a crisp shot into the right corner. It was her ninth goal of the season, the most of any Denver Summit player, and joint-seventh in the NWSL. Now playing for her hometown club in their debut season, the NWSL and Canada vet",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/01/janine-sonis-interview-denver-summit-moving-the-goalposts",
+      "published": "Tue, 01 Sep 2026 11:29:56 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1782,6 +1787,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "「私は私の古いチームメイトに伝えるのに怖かった」:Victoria Pelova から飛躍を作るアーセナル獲得を獲得を問い合わせトッテナム",
+      "summary": "ロンドン北部を横断する一方で、オランダのミッドフィルダーは元クラブと衝突する 男性のカウンターパートの間にあるように、女性のチーム間でクラブの儀式に同じ強度はありませんが、ゲームが変化するにつれて成長します。プレイヤーがライバルの側を離れると、ファンからアニモシーがあります。Victoria Pelova’s からの移動アーセナル獲得を獲得を問い合わせトッテナムしかし、しっかりとトレンドをバックス. 間違いなく彼女の最高の年を過ごしているにもかかわらず、, 27 歳のデパート",
+      "title_original": "‘I was scared to tell my old teammates’: Victoria Pelova on making leap from Arsenal to Spurs",
+      "summary_original": "While move across north London has been amicable, the Dutch midfielder is relishing clash with former club There is not the same intensity to club rivalries between women’s teams as there is between their men’s counterparts, but as the game grows that is changing. Increasingly, there is animosity from fans if a player leaves for a rival side. Victoria Pelova’s move from Arsenal to Tottenham firmly bucks the trend, though. Despite arguably having her best years ahead of her, the 27-year-old depar",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/01/i-was-scared-to-tell-my-old-teammates-victoria-pelova-on-making-leap-from-arsenal-to-spurs",
+      "published": "Tue, 01 Sep 2026 11:00:03 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Barcelona breeze past Rayo but all、in Spain remain on Julián Álvarez を獲得候補に",
       "summary": "ハンジ・フリック獲得を獲得を問い合わせガブリエウ・ジェズス獲得を獲得を問い合わせバルセロナ– しかし、フリアン・アルバレス究極の賞品を残す場合ラフィーニャメイクシフト No9 として再生についての間違いはありませんバルセロナ、彼はそれを隠すのに良い仕事をしています。フリアン・アルバレススペイン語のチャンピオンに触発されたブラジルの2 つのきちんとしたフィニッシュを5〜2 勝利に誇りに思いますラージョ・バジェカーノ月曜日の夜、振替休日の24 時間前。ラミン・ヤマル演奏会で自分の2 つの素晴らしい目標を獲得しました",
       "title_original": "Barcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
@@ -1824,20 +1843,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マルセイユ’ s のスクワッドは圧倒されていますが、マネージャーは滞在しています – 今",
-      "summary": "それは厳しいです移籍市場獲得を獲得を問い合わせマルセイユと 2-0 で敗北モナコ長い季節になることができることを提案して下さい By Get French Football ニュース 天気の良い夜モナコ温度を測る機会を提供しましたマルセイユサポーター 遠くのファンのバンにもかかわらずスタッド・ルイ・ドゥ, 多くは彼らの 2-0 敗北のための出席にありました 2-0 敗北 Principality. There 新しいマネージャーの応援をしました。Bruno Génésio と boos のために Geoffrey Kondogbia、しかし、それは2 番目の半分の多くのための沈黙でした",
-      "title_original": "Marseille’s squad is being gutted but their manager is staying – for now",
-      "summary_original": "It has been a tough transfer window for Marseille and a 2-0 defeat at Monaco suggests it could be a long season By Get French Football News A humid night in Monaco provided an opportunity to gauge the temperature of the Marseille supporters. Despite the ban on away fans at the Stade Louis II, plenty were in attendance for their 2-0 defeat in the Principality. There were cheers for their new manager, Bruno Génésio, and boos for Geoffrey Kondogbia, but it was the silence for much of the second hal",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/31/marseille-squad-manager-staying-monaco-season",
-      "published": "Mon, 31 Aug 2026 16:11:23 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "ワトキンズは、サウジの supremacy と Tuchel の注意をプッシュするストライカーとしてトニークラッシュに直面しています",
       "summary": "Al-Hilal の Villa のサインは、Al-Ahli に対する大きなゲームにまっすぐ投げられ、期待の最高に直面しています Ollie Watkins そして、イヴァン・トニーマイアミで数週間前にピッチで33 分を過ごしました。イングランドは3 位でフランス6-4 を敗北させました。World Cup. They アル・ハイル・アル・アハリのリヤドで火曜日に再会され、タイトルの希望間の最初の大きな衝突は Saudi Pro League 季節限定アストン・ヴィラファンは、から始めて、それを望んでいますアーセナル月曜日、日曜日",
       "title_original": "Watkins faces Toney clash as strikers push for Saudi supremacy and Tuchel’s attention",
@@ -1859,6 +1864,34 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/31/unai-emery-aston-villa-rebuild-arsenal-premier-league",
       "published": "Mon, 31 Aug 2026 21:35:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Balogun は徒歩で行ける場所に位置しています。エヴァートン移籍 - 移動後 乗っ camara へチェルシー",
+      "summary": "エヴァートンの のための移動モナコストライカーFolarin Balogun プレイヤーから心の変化が変化した後に倒れている - 移籍が成功した後チェルシーサインのチャンスラミン・カマラ.",
+      "title_original": "Balogun walks away from Everton deal - after move scuppered Camara to Chelsea",
+      "summary_original": "Everton's move for Monaco striker Folarin Balogun has fallen through after a change of heart from the player - after the deal scuppered Chelsea's chances of signing Lamine Camara.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13580201/folarin-balogun-monaco-strikers-move-to-everton-falls-through-after-deal-scuppered-chelseas-chances-of-signing-lamine-camara",
+      "published": "Wed, 02 Sep 2026 00:21:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "なぜ?チェルシーそれでもフェルナンデスを販売マンチェスター・シティカマラの移籍の崩壊にもかかわらず",
+      "summary": "スカイスポーツチーフ対応 Kaveh Solhekol 理由を説明するチェルシー販売販売 Enzo Fernandez ライバルへマンチェスター・シティ契約の最後の分の崩壊にもかかわらず、署名ラミン・カマラからモナコ.",
+      "title_original": "Why Chelsea still sold Fernandez to Man City despite collapse of Camara deal",
+      "summary_original": "Sky Sports chief correspondent Kaveh Solhekol explains why Chelsea sold Enzo Fernandez to rivals Manchester City despite the last-minute collapse of their deal to sign Lamine Camara from Monaco.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13580198/explained-why-chelsea-still-sold-enzo-fernandez-despite-collapse-of-lamina-camara-deal",
+      "published": "Wed, 02 Sep 2026 00:15:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2115,34 +2148,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ウェストハムシーズンの最初のリーグ勝利を主張する Wolves を打つ",
-      "summary": "Divine Mukasa スコアは2 回としてウェストハム Wolves 4-2 を打つと、最後のシーズンのチャンピオンシップへのリレギンス以来、最初の 3 つのポイントをピックアップします。",
-      "title_original": "West Ham beat Wolves to claim first league win of the season",
-      "summary_original": "Divine Mukasa scored twice as West Ham beat Wolves 4-2 to pick up their first three points since last season's relegation to the Championship.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/west-ham-united-vs-wolverhampton-wanderers/report/560541",
-      "published": "Tue, 01 Sep 2026 21:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Every Deadline Day 獲得を獲得を問い合わせ",
-      "summary": "2026 夏移籍市場イングランドは9 月1 日の午後11 時を過ぎます。完了したすべての移籍をキーリーグで追跡する Deadline Day.",
-      "title_original": "Every Deadline Day deal....",
-      "summary_original": "The 2026 summer transfer window closes in England at 11pm on September 1. Keep track of all the done deals across the key leagues on Deadline Day.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579708/transfer-deadline-day-deals-summer-2026-confirmed-moves-across-premier-league-championship-efl-europe-and-more",
-      "published": "Tue, 01 Sep 2026 10:30:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
