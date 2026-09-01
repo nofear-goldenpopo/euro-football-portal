@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T11:50:34.900197+00:00",
+  "updated_at": "2026-09-01T12:08:03.235412+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -922,7 +922,11 @@
     "Victoria Pelova": "",
     "Victoria Pelova’s": "",
     "Leicester LIVE": "",
-    "Taylor Harwood Bellis": ""
+    "Taylor Harwood Bellis": "",
+    "Former England": "",
+    "Sir David Beckham": "デビッド・ベッカム",
+    "Honest Ahanor": "",
+    "Taylor Harwood-Bellis": ""
   },
   "items": [
     {
@@ -954,9 +958,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "エヴァートン Grealish を再署名する同意するレンタル移籍でからマンチェスター・シティ",
+      "title": "エヴァートン再署名同意する Grealish レンタル移籍でからマンチェスター・シティ",
       "summary": "エヴァートン獲得を獲得を問い合わせ Jack Grealish 季節融資のクラブに戻るマンチェスター・シティ.",
-      "title_original": "Everton agree deal to re-sign Grealish on loan from Man City",
+      "title_original": "Everton agree to re-sign Grealish on loan from Man City",
       "summary_original": "Everton agree a deal for Jack Grealish to return to the club on a season-long loan from Manchester City.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c70dkgx1yepo?at_medium=RSS&at_campaign=rss",
@@ -996,20 +1000,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マンチェスター・シティオープントークチェルシーオーバーフェルナンデス移動",
-      "summary": "マンチェスター・シティオープントークチェルシーアルゼンチンミッドフィルダーに署名する入札 Enzo Fernandez.",
-      "title_original": "Man City open talks with Chelsea over Fernandez move",
-      "summary_original": "Manchester City open talks with Chelsea in their bid to sign Argentina midfielder Enzo Fernandez.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvrlme148o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 21:20:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "ハルサインアンサとノートン・カフィに近く",
       "summary": "ハル・シティ AFC サインアップ Ilyas Ansah5 年間の移籍からブンデスリーガサイド1.FC ウニオン・ベルリン.",
       "title_original": "Hull sign Ansah and close on Norton-Cuffy",
@@ -1038,13 +1028,27 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マンチェスター・シティ'£80m 崩壊に近いガクポのために移動",
-      "summary": "マンチェスター・シティの 提案 £80m のために移動リヴァプール獲得コーディ・ガクポ繁華街に近いです。",
-      "title_original": "Man City's £80m move for Gakpo close to collapse",
-      "summary_original": "Manchester City's proposed £80m move for Liverpool forward Cody Gakpo is close to collapsing.",
+      "title": "ベッカムとモウリーニョメッシーに敬意を払う",
+      "summary": "Former England キャプテンデビッド・ベッカムコメントリオネル・メッシアルゼンチンから再建した「世界の子どもの百万人」に触発しました。インテル国民のフットボール。",
+      "title_original": "Beckham and Mourinho pay tribute to Messi",
+      "summary_original": "Former England captain Sir David Beckham says Lionel Messi has inspired \"millions of children worldwide,\" following the Argentine retiring from international football.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 19:30:01 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0nw1n9y8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 12:01:17 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・シティオープントークチェルシーオーバーフェルナンデス移動",
+      "summary": "マンチェスター・シティオープントークチェルシーアルゼンチンミッドフィルダーに署名する入札 Enzo Fernandez.",
+      "title_original": "Man City open talks with Chelsea over Fernandez move",
+      "summary_original": "Manchester City open talks with Chelsea in their bid to sign Argentina midfielder Enzo Fernandez.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvrlme148o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 21:20:32 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1066,6 +1070,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "参加方法チェルシー翌日以降クリスタル・パレスログイン",
+      "summary": "チェルシー十代の守護者発表 Honest Ahanor2027 年以降クラブに参加しますアタランタプレイヤーはローンを完了しましたクリスタル・パレス.",
+      "title_original": "Ahanor to join Chelsea next season after Palace loan",
+      "summary_original": "Chelsea announce teenage defender Honest Ahanor will join the club in 2027 after the Atalanta player has completed a loan at Crystal Palace.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 11:50:30 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ウィンドウを閉じる前に見る転送",
       "summary": "BBC Sport's サッカーの専門家は火曜日の23:00 前に通ることができるスタンドアウト転送を選択します BST English 応募締切",
       "title_original": "The transfers to watch before window closes",
@@ -1076,6 +1094,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・シティ'£80m 崩壊に近いガクポのために移動",
+      "summary": "マンチェスター・シティの 提案 £80m のために移動リヴァプール獲得コーディ・ガクポ繁華街に近いです。",
+      "title_original": "Man City's £80m move for Gakpo close to collapse",
+      "summary_original": "Manchester City's proposed £80m move for Liverpool forward Cody Gakpo is close to collapsing.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 19:30:01 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1133,20 +1165,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マンチェスター・シティ、エヴァートンの Ndiaye 獲得で6500 万ポンド合意",
-      "summary": "マンチェスター・シティ署名する最低£60m の価値のある移籍に同意する Iliman Ndiaye からエヴァートン.",
-      "title_original": "Man City agree £65m deal for Everton's Ndiaye",
-      "summary_original": "Manchester City agree a deal worth a minimum £60m to sign Iliman Ndiaye from Everton.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 19:12:15 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1332,27 +1350,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "最高の SPFL アクションのラウンドアップを見る",
-      "summary": "週末のアクションを最大限に活用 Scottish Championship, Scottish League1 と1Scottish League 2.",
-      "title_original": "Watch round-up of best SPFL action",
-      "summary_original": "Watch the best of the weekend action from the Scottish Championship, Scottish League 1 and Scottish League 2.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/videos/cn0715p7wn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 10:08:42 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "サッカーの転送期限日:マンチェスター・シティ Fernández、Villa Sign Mbaye など - ライブ",
       "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ The Rumour Mill: 期限日のすべてを確認する Daniel にメールを送って TikTok と Bluesky A 多くの人々 は、人々 の移動会社や転職の仕事に非常に投資しています。経理や廃棄物管理でこれを得ることはできません。プレイヤーが本日動いていない場合、クラブから退出するために必殺到している場合、オプションがあります。9 月1 日(土)に全国の締切日を祝うわけではないので、まだ希望がある",
       "title_original": "Football transfer deadline day: Manchester City move for Fernández, Villa sign Mbaye, and more – live",
       "summary_original": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Daniel and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of he",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 11:33:59 GMT",
+      "published": "Tue, 01 Sep 2026 11:47:29 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1920,10 +1924,10 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "パリ・サンジェルマン Mbaye が£47m の契約でヴィラに参加",
-      "summary": "アストン・ヴィラ署名を確認しましたイブラヒム・エンバイェからパリ・サンジェルマン.",
-      "title_original": "PSG forward Mbaye joins Villa in £47m deal",
-      "summary_original": "Aston Villa have confirmed the signing of Ibrahim Mbaye from Paris Saint-Germain.",
+      "title": "ヴィラサインパリ・サンジェルマンフォワード Mbaye と Saints の擁護者 Harwood-Bellis",
+      "summary": "アストン・ヴィラ双方の署名を確認しましたパリ・サンジェルマン獲得イブラヒム・エンバイェサウス ampton センターバック Taylor Harwood-Bellis.",
+      "title_original": "Villa sign PSG forward Mbaye and Saints defender Harwood-Bellis",
+      "summary_original": "Aston Villa have confirmed the signings of both Paris Saint-Germain forward Ibrahim Mbaye and Southampton centre-back Taylor Harwood-Bellis.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13579783/ibrahim-mbaye-aston-villa-confirm-signing-of-18-year-old-paris-saint-germain-winger",
       "published": "Tue, 01 Sep 2026 11:28:00 BST",
