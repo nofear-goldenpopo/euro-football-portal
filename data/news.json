@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T22:23:02.887209+00:00",
+  "updated_at": "2026-09-01T22:36:20.272782+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1007,17 +1007,20 @@
     "Email Niall": "",
     "No Julian Alvarez": "",
     "Arsenal. He": "",
-    "And Mikel Arteta": ""
+    "And Mikel Arteta": "",
+    "Zian Flemming": "ジアン・フレミング",
+    "Tim Iroegbunam": "",
+    "Robinio Vaz": ""
   },
   "items": [
     {
-      "title": "チェルシー同意する £47.1m のために移動しますモナコカマラ",
-      "summary": "チェルシーミッドフィルダーを交換するために移動しました Enzo Fernandez 獲得を獲得を問い合わせモナコ'ラミン・カマラ。",
-      "title_original": "Chelsea agree £47.1m move for Monaco's Camara",
-      "summary_original": "Chelsea have moved to replace outgoing midfielder Enzo Fernandez with Monaco's Lamine Camara.",
+      "title": "Camara の£47.1m から移動モナコ獲得を獲得を問い合わせチェルシークラッシュ",
+      "summary": "ラミン・カマラご宿泊中モナコセネガルのミッドフィルダーの£47.1m が移動した後チェルシー崩壊。",
+      "title_original": "Camara's £47.1m move from Monaco to Chelsea collapses",
+      "summary_original": "Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 20:50:42 GMT",
+      "published": "Tue, 01 Sep 2026 22:26:54 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1095,13 +1098,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "トッテナムログインチェルシームドリクレンタル移籍で",
-      "summary": "トッテナムログインチェルシーウィンガーミハイロ・ムドリク レンタル移籍で季節の終わりまで。",
-      "title_original": "Tottenham sign Chelsea's Mudryk on loan",
-      "summary_original": "Tottenham sign Chelsea winger Mykhailo Mudryk on loan until the end of the season.",
+      "title": "トッテナムログインチェルシーMudryk と Tosin のペア",
+      "summary": "トッテナムログインチェルシーウィンガーミハイロ・ムドリク レンタル移籍で季節の終わりまで、永久的な動きを完了して下さい Tosin Adarabioyo.",
+      "title_original": "Tottenham sign Chelsea pair Mudryk and Tosin",
+      "summary_original": "Tottenham sign Chelsea winger Mykhailo Mudryk on loan until the end of the season and complete a permanent move for Tosin Adarabioyo.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c70dkdyd5r9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 21:22:03 GMT",
+      "published": "Tue, 01 Sep 2026 22:27:24 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1143,11 +1146,25 @@
       "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 22:06:40 GMT",
+      "published": "Tue, 01 Sep 2026 22:32:26 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Ipswich サイン Burnley フォワード フレミング のために £20m",
+      "summary": "Ipswich サイン Burnley 転送ジアン・フレミング報告された£20m の4 年間の移籍。",
+      "title_original": "Ipswich sign Burnley forward Flemming for £20m",
+      "summary_original": "Ipswich sign Burnley forward Zian Flemming on a four-year deal for a reported £20m.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e37d6w6w0o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 22:28:54 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1162,6 +1179,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Hull、Everton and Vaz from Roma から Iroegbunam を獲得",
+      "summary": "ハル・シティ AFC サインイン ミッドフィルダーTim Iroegbunam からエヴァートンそして先に進みます Robinio Vaz からローマ締め切り日",
+      "title_original": "Hull sign Iroegbunam from Everton and Vaz from Roma",
+      "summary_original": "Hull City sign midfielder Tim Iroegbunam from Everton and forward Robinio Vaz from Roma on deadline day",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 22:16:40 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1204,34 +1235,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "膝の怪我でシーズンのスタートを逃すミデマ",
-      "summary": "フィフィアネ・ミデマースタートを逃す Women's Super League 膝の怪我のためシーズン。",
-      "title_original": "Miedema to miss start of season with knee injury",
-      "summary_original": "Vivianne Miedema will miss the start of the Women's Super League season because of a knee injury.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0rez8re11ko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 18:26:12 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "セルティックログイン Parma's Sorensen、期限の前に来ると",
-      "summary": "セルティックサインイン パルマミッドフィルダーOliver Sorensen レンタル移籍でアシスタントマネージャーの直後ショーン・マロニースコットランドのチャンピオンは、彼らのファイナライズする前に最大4 つの追加で働いていましたヨーロッパリーグ毎週水曜日",
-      "title_original": "Celtic sign Parma's Sorensen, with more to come before deadline",
-      "summary_original": "Celtic sign Parma midfielder Oliver Sorensen on loan shortly after assistant manager Shaun Maloney suggests the Scottish champions were working on up to four additions before finalising their Europa League squad on Wednesday.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62ek3n67e7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 16:15:49 GMT",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1460,9 +1463,9 @@
     },
     {
       "title": "ウェストハム Wolves を戦う Divine MukasaNuno の圧力を倍増",
-      "summary": "隣接する2 つの側面と、2 つのチームは、ドロップを横切って新しいアイデンティティを追い出しようとしました。Championship. In エンドウェストハム Wolves から離れ、圧力を削減し、目標の前面で、決議の度合い、非常に重要である、運のビットのおかげで勝ちましたヌーノ・エスピーリト・サント少なくとも数日間。最初のハーフゴールから Divine Mukasa そして、Jarrod Bowen ミカサは、ペナルティのスポットから2 つ以上2 つに賛同した。2 ゴール",
+      "summary": "隣接する2 つの側面と、2 つのチームは、ドロップを横切って新しいアイデンティティを追い出しようとしました。Championship. In エンドウェストハム Wolves から離れ、圧力を削減し、目標の前面で、決議の度合い、非常に重要である、運のビットのおかげで勝ちましたヌーノ・エスピーリト・サント少なくとも数日間。ファーストハーフの目標から Divine Mukasa そして、Jarrod Bowen、ペナルティスポットからの後者は、第二の2 つによって補完された。Mukasa は保護された",
       "title_original": "West Ham fight off Wolves as Divine Mukasa double eases pressure on Nuno",
-      "summary_original": "It was a match between two disjointed sides, two teams trying to carve out new identities following the drop into the Championship. In the end West Ham won thanks to a bit of luck, a degree of resolve and, crucially, a sharpness in front of goal that took them away from Wolves and reduced the pressure on Nuno Espírito Santo, for a few days at least. First half goals from Divine Mukasa and Jarrod Bowen from the penalty spot were complimented by two more in the second, as Mukasa secured his brace ",
+      "summary_original": "It was a match between two disjointed sides, two teams trying to carve out new identities following the drop into the Championship. In the end West Ham won thanks to a bit of luck, a degree of resolve and, crucially, a sharpness in front of goal that took them away from Wolves and reduced the pressure on Nuno Espírito Santo, for a few days at least. First-half goals from Divine Mukasa and Jarrod Bowen, the latter from the penalty spot, were complemented by two more in the second; Mukasa secured ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/01/west-ham-wolves-championship-match-report",
       "published": "Tue, 01 Sep 2026 21:01:15 GMT",
@@ -1851,6 +1854,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "オフ!モナコ Fernandez の取り替えの Camara を販売することの引きチェルシー",
+      "summary": "モナコ販売する移籍から引き抜かれたラミン・カマラ獲得を獲得を問い合わせチェルシー- フランスのクラブが非特異的かつ深く無事に行動していると感じている人。",
+      "title_original": "Deal off! Monaco pull out of selling Fernandez replacement Camara to Chelsea",
+      "summary_original": "Monaco have pulled out of the deal to sell Lamine Camara to Chelsea - who feel the French club have acted in an extraordinary and deeply unprofessional way.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement",
+      "published": "Tue, 01 Sep 2026 23:15:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "トッテナムログインチェルシーduo Mudryk と Tosin 上の Deadline Day",
       "summary": "トッテナム署名済みチェルシーウィンガーミハイロ・ムドリク季節限定のローンでご購入いただけます。",
       "title_original": "Spurs sign Chelsea duo Mudryk and Tosin on Deadline Day",
@@ -2089,20 +2106,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Every Deadline Day 獲得を獲得を問い合わせ",
-      "summary": "2026 夏移籍市場イングランドは9 月1 日の午後11 時を過ぎます。完了したすべての移籍をキーリーグで追跡する Deadline Day.",
-      "title_original": "Every Deadline Day deal....",
-      "summary_original": "The 2026 summer transfer window closes in England at 11pm on September 1. Keep track of all the done deals across the key leagues on Deadline Day.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579708/transfer-deadline-day-deals-summer-2026-confirmed-moves-across-premier-league-championship-efl-europe-and-more",
-      "published": "Tue, 01 Sep 2026 10:30:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "滞在したのは? オプクはマニカルゴールマススクランブル後のシッターを逃します",
       "summary": "Joseph OpokuSwansea を Watford に先立って強烈なゴールマスのスクランブルを放つ機会を逃しました",
       "title_original": "How did that stay out?! Opoku misses sitter after manic goalmouth scramble",
@@ -2117,17 +2120,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ウィケットじゃないの? 奇妙な瞬間のボールは切り株を打つが、4 のために逃げる",
-      "summary": "Issy Wongstumps の境界線を隠します。, ベールは奇跡的に滞在.",
-      "title_original": "How's this not a wicket?! Bizarre moment ball hits stump but runs away for four",
-      "summary_original": "Issy Wong concedes a boundary off the stumps, which the bails miraculously stay on.",
+      "title": "Every Deadline Day 獲得を獲得を問い合わせ",
+      "summary": "2026 夏移籍市場イングランドは9 月1 日の午後11 時を過ぎます。完了したすべての移籍をキーリーグで追跡する Deadline Day.",
+      "title_original": "Every Deadline Day deal....",
+      "summary_original": "The 2026 summer transfer window closes in England at 11pm on September 1. Keep track of all the done deals across the key leagues on Deadline Day.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13579915/issy-wong-concedes-boundary-off-stumps",
-      "published": "Tue, 01 Sep 2026 16:18:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.skysports.com/football/news/12040/13579708/transfer-deadline-day-deals-summer-2026-confirmed-moves-across-premier-league-championship-efl-europe-and-more",
+      "published": "Tue, 01 Sep 2026 10:30:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
