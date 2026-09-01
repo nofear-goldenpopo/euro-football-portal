@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T21:49:20.766857+00:00",
+  "updated_at": "2026-09-01T22:05:58.405316+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -996,7 +996,14 @@
     "Ethan Galbraith": "",
     "August Priske": "",
     "Midfielder Larsson": "",
-    "De Zerbi’ Tottenham": ""
+    "De Zerbi’ Tottenham": "",
+    "Manchester United's Joshua Zirkzee": "",
+    "Malo Gusto": "マロ・ギュスト",
+    "Championship. In": "",
+    "Brooke Norton-Cuffy's": "",
+    "Lincoln City": "",
+    "Michael Appleton": "",
+    "Rich O’Donnell": ""
   },
   "items": [
     {
@@ -1056,6 +1063,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "エヴァートンサインイン グルガリッシュ として Zirkzee 滞在 時マンチェスター・ユナイテッド",
+      "summary": "エヴァートンログイン Jack Grealish 季節限定のローン契約からマンチェスター・シティしかし、見逃してしまったマンチェスター・ユナイテッドジョシュア・ジルクゼ",
+      "title_original": "Everton sign Grealish as Zirkzee stays at Man Utd",
+      "summary_original": "Everton sign Jack Grealish on a season-long loan deal from Manchester City but have missed out on Manchester United's Joshua Zirkzee.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 21:54:30 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Brughmans 参加リヴァプール£30m まで価値のある移籍",
       "summary": "リヴァプール十代のゴールキーパーの署名をしっかり止めました Lucca Brughmans2027-28 シーズンスタート",
       "title_original": "Brughmans joins Liverpool in deal worth up to £30m",
@@ -1098,6 +1119,34 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "リヴァプールグストに署名しようと - 水曜日のゴシップ",
+      "summary": "サッカーのゴシップ:リヴァプール遅い移動のためにチェルシーディフェンダーマロ・ギュストそして、マンチェスター・ユナイテッド'trial'今シーズンのディフェンダー",
+      "title_original": "Liverpool tried to sign Gusto - Wednesday's gossip",
+      "summary_original": "Football gossip: Liverpool made a late move for Chelsea defender Malo Gusto and Manchester United defenders on 'trial' this season",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9qr4vw9eqgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 22:03:03 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "振込期限日のご案内",
+      "summary": "重要な署名と出発をチェックプレミアリーグ, Scottish Premiership、EFL および Women's Super League.",
+      "title_original": "Every done deal on transfer deadline day",
+      "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 22:04:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ニューカッスル、Lille for £51m から Fernandez-Pardo を獲得",
       "summary": "ニューカッスルベルギー進出 Matias Fernandez-Pardo からリール最初の£51.4m の場合。",
       "title_original": "Newcastle sign Fernandez-Pardo from Lille for £51m",
@@ -1126,20 +1175,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "振込期限日のご案内",
-      "summary": "重要な署名と出発をチェックプレミアリーグ, Scottish Premiership、EFL および Women's Super League.",
-      "title_original": "Every done deal on transfer deadline day",
-      "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 21:39:08 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "エンジェルはフルハムの3 分の1 になりますレアル・マドリード夏のサイン",
       "summary": "Manuel Angel からフルハムに参加する3 番目のプレーヤーになりましたレアル・マドリードこの夏",
       "title_original": "Angel becomes Fulham's third Real Madrid signing of summer",
@@ -1151,6 +1186,20 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "アストン・ヴィラサイン Mbaye と Harwood-Bellis",
+      "summary": "アストン・ヴィラ Senegal のウィンガーの署名を完了して下さいイブラヒム・エンバイェからパリ・サンジェルマン英語センターバック Taylor Harwood-Bellis 南 ampton から。",
+      "title_original": "Aston Villa sign Mbaye and Harwood-Bellis",
+      "summary_original": "Aston Villa complete the signings of Senegal winger Ibrahim Mbaye from Paris St-Germain and English centre-back Taylor Harwood-Bellis from Southampton.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 12:24:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1168,20 +1217,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "エヴァートン再署名同意する Grealish レンタル移籍で Beto の葉として",
-      "summary": "エヴァートン獲得を獲得を問い合わせ Jack Grealish 季節融資のクラブに戻るマンチェスター・シティそして Beto の葉のためのフィオレンティーナ.",
-      "title_original": "Everton agree to re-sign Grealish on loan as Beto leaves",
-      "summary_original": "Everton agree a deal for Jack Grealish to return to the club on a season-long loan from Manchester City and Beto leaves for Fiorentina.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70dkgx1yepo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 20:12:05 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "セルティックログイン Parma's Sorensen、期限の前に来ると",
       "summary": "セルティックサインイン パルマミッドフィルダーOliver Sorensen レンタル移籍でアシスタントマネージャーの直後ショーン・マロニースコットランドのチャンピオンは、彼らのファイナライズする前に最大4 つの追加で働いていましたヨーロッパリーグ毎週水曜日",
       "title_original": "Celtic sign Parma's Sorensen, with more to come before deadline",
@@ -1193,34 +1228,6 @@
       "type": "uel",
       "label": "EL",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "バレンシア サインリヴァプールエリオットレンタル移籍で",
-      "summary": "リヴァプールミッドフィルダーHarvey Elliott 季節限定融資でバレンシアに参加",
-      "title_original": "Valencia sign Liverpool's Elliott on loan",
-      "summary_original": "Liverpool midfielder Harvey Elliott joins Valencia on a season-long loan",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c305m3jqy89o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 16:23:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "アストン・ヴィラサイン Mbaye と Harwood-Bellis",
-      "summary": "アストン・ヴィラ Senegal のウィンガーの署名を完了して下さいイブラヒム・エンバイェからパリ・サンジェルマン英語センターバック Taylor Harwood-Bellis 南 ampton から。",
-      "title_original": "Aston Villa sign Mbaye and Harwood-Bellis",
-      "summary_original": "Aston Villa complete the signings of Senegal winger Ibrahim Mbaye from Paris St-Germain and English centre-back Taylor Harwood-Bellis from Southampton.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 12:24:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1426,7 +1433,7 @@
       "summary_original": "Chelsea to sign Monaco’s Lamine Camara in £47m move Men’s transfer interactive : all the deadline-day deals You can mail Daniel and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of headin",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 21:39:07 GMT",
+      "published": "Tue, 01 Sep 2026 21:54:44 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1435,9 +1442,9 @@
     },
     {
       "title": "「素晴らしい気持ち」:ミハイロ・ムドリクシールレンタル移籍からチェルシー獲得を獲得を問い合わせトッテナム",
-      "summary": "ウクライナのウィンガーのディールには、£75m の購入オプション「私は De Zerbi と再結合することがとても興奮しています」トッテナム投げたプレミアリーグ忘れたものへのライフラインチェルシーウィンガー,ミハイロ・ムドリク, 彼に署名レンタル移籍でトランスファーの期限が過ぎて、キャリアを復活させようと奮闘する。Mudryk が€100m プレーヤーになったときチェルシー彼からシャフタール・ドネツクに 1 月 2023 ; 移籍は、アドオンの初期€70m と€30m を侵害しました。チェルシービートアーセナル Uk の時点で彼の署名に",
+      "summary": "ウクライナのウィンガーのディールには、£75m の購入オプション「私は De Zerbi と再結合することがとても興奮しています」トッテナム投げたプレミアリーグ忘れたものへのライフラインチェルシーウィンガー,ミハイロ・ムドリク, 彼に署名レンタル移籍でトランスファーの期限の直前に、彼のキャリアを復活させるために彼に挑戦. Mudryk が€100m(£89m)プレーヤーになったときチェルシー彼からシャフタール・ドネツクに 1 月 2023 ; 移籍は、アドオンの初期€70m と€30m で構成されていました。チェルシービートアーセナル t がポイントで署名する",
       "title_original": "‘A great feeling’: Mykhailo Mudryk seals loan move from Chelsea to Tottenham",
-      "summary_original": "Deal for Ukrainian winger has £75m purchase option ‘I’m so excited to be reunited with De Zerbi’ Tottenham have thrown a Premier League lifeline to the forgotten Chelsea winger, Mykhailo Mudryk, signing him on loan just before the transfer deadline and challenging him to revive his career. Mudryk became a €100m player when Chelsea took him from Shakhtar Donetsk in January 2023 ; the deal compromised an initial €70m and €30m in add-ons. Chelsea beat Arsenal to his signature at a point when the Uk",
+      "summary_original": "Deal for Ukrainian winger has £75m purchase option ‘I’m so excited to be reunited with De Zerbi’ Tottenham have thrown a Premier League lifeline to the forgotten Chelsea winger, Mykhailo Mudryk, signing him on loan just before the transfer deadline and challenging him to revive his career. Mudryk became a €100m (£89m) player when Chelsea took him from Shakhtar Donetsk in January 2023 ; the deal comprised an initial €70m and €30m in add-ons. Chelsea beat Arsenal to his signature at a point when t",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/01/a-great-feeling-mykhailo-mudryk-seals-loan-move-from-chelsea-to-tottenham",
       "published": "Tue, 01 Sep 2026 21:24:04 GMT",
@@ -1449,16 +1456,16 @@
     },
     {
       "title": "ウェストハム Wolves を戦う Divine MukasaNuno の圧力を倍増",
-      "summary": "隣接する2 つの側面と、2 つの側面が一致して、選手権のドロップで新しいアイデンティティを追い出しようとしました。ウェストハム Wolves から離れ、圧力を削減し、目標の前面で、決議の度合い、非常に重要である、運のビットのおかげで勝ちましたヌーノ・エスピーリト・サント少なくとも数日間。ファーストハーフの目標から Divine Mukasa そして、Jarrod Bowen、ペナルティーの点から、後2 つによって補われたインテルバルは、Mukasa が2 番目のアロを固定したように",
+      "summary": "隣接する2 つの側面と、2 つのチームは、ドロップを横切って新しいアイデンティティを追い出しようとしました。Championship. In エンドウェストハム Wolves から離れ、圧力を削減し、目標の前面で、決議の度合い、非常に重要である、運のビットのおかげで勝ちましたヌーノ・エスピーリト・サント少なくとも数日間。最初のハーフゴールから Divine Mukasa そして、Jarrod Bowen ミカサは、ペナルティのスポットから2 つ以上2 つに賛同した。2 ゴール",
       "title_original": "West Ham fight off Wolves as Divine Mukasa double eases pressure on Nuno",
-      "summary_original": "It was a match between two disjointed sides, two sides trying to carve out new identities following the drop into the Championship. West Ham won thanks to a bit of luck, a degree of resolve and, crucially, a sharpness in front of goal that took them away from Wolves and reduced the pressure on Nuno Espírito Santo, for a few days at least. First-half goals from Divine Mukasa and Jarrod Bowen, from the penalty spot, were complemented by two more after the interval, as Mukasa secured his second alo",
+      "summary_original": "It was a match between two disjointed sides, two teams trying to carve out new identities following the drop into the Championship. In the end West Ham won thanks to a bit of luck, a degree of resolve and, crucially, a sharpness in front of goal that took them away from Wolves and reduced the pressure on Nuno Espírito Santo, for a few days at least. First half goals from Divine Mukasa and Jarrod Bowen from the penalty spot were complimented by two more in the second, as Mukasa secured his brace ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/01/west-ham-wolves-championship-match-report",
       "published": "Tue, 01 Sep 2026 21:01:15 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1910,12 +1917,12 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "シェフィールド・ユナイテッド FC5 つのゴールスリラーでエッジボルトンに戻ってヒット",
-      "summary": "Romelle Donovan 勝者を付与するために追加された時間につかむシェフィールド・ユナイテッド FC3-2 ボルトンの勝利 Bramall Lane.",
-      "title_original": "Sheff Utd hit back to edge Bolton in five-goal thriller",
-      "summary_original": "Romelle Donovan grabbed the winner in time added on to give Sheffield United a 3-2 victory over Bolton at Bramall Lane.",
+      "title": "ブリストル・シティ FC 勝つ パイル より多くの 不幸 に struggling Preston",
+      "summary": "後半の目標は2 つ助けましたブリストル・シティ FCDeepdale でスピリットされた Preston 3-1 を脱いでいるため、安全なバックツーバックチャンピオンシップが勝ちます。",
+      "title_original": "Bristol City win piles more misery on struggling Preston",
+      "summary_original": "Two late goals helped Bristol City secure back-to-back Championship wins as they saw off spirited Preston 3-1 at Deepdale.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/sheffield-united-vs-bolton-wanderers/report/560538",
+      "url": "https://www.skysports.com/football/preston-north-end-vs-bristol-city/report/560537",
       "published": "Tue, 01 Sep 2026 21:30:00 BST",
       "category": "other",
       "type": "other",
@@ -1924,12 +1931,12 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ブリストル・シティ FC 勝つ パイル より多くの 不幸 に struggling Preston",
-      "summary": "後半の目標は2 つ助けましたブリストル・シティ FCDeepdale でスピリットされた Preston 3-1 を脱いでいるため、安全なバックツーバックチャンピオンシップが勝ちます。",
-      "title_original": "Bristol City win piles more misery on struggling Preston",
-      "summary_original": "Two late goals helped Bristol City secure back-to-back Championship wins as they saw off spirited Preston 3-1 at Deepdale.",
+      "title": "シェフィールド・ユナイテッド FC5 つのゴールスリラーでエッジボルトンに戻ってヒット",
+      "summary": "Romelle Donovan 勝者を付与するために追加された時間につかむシェフィールド・ユナイテッド FC3-2 ボルトンの勝利 Bramall Lane.",
+      "title_original": "Sheff Utd hit back to edge Bolton in five-goal thriller",
+      "summary_original": "Romelle Donovan grabbed the winner in time added on to give Sheffield United a 3-2 victory over Bolton at Bramall Lane.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/preston-north-end-vs-bristol-city/report/560537",
+      "url": "https://www.skysports.com/football/sheffield-united-vs-bolton-wanderers/report/560538",
       "published": "Tue, 01 Sep 2026 21:30:00 BST",
       "category": "other",
       "type": "other",
@@ -1948,6 +1955,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Why Norton-Cuffy 長い道の後で準備ができていますプレミアリーグ",
+      "summary": "ストーリーについて Brooke Norton-Cuffy's ティーンエイジャーとしての時間レンタル移籍で獲得を獲得を問い合わせ Lincoln City アクセス Michael Appleton それは彼の成熟度を強調する。「マイケルと私はまだ話している」Rich O’Donnell, その後、リンカーンのアシスタントコーチ, スカイスポーツを伝えます .",
+      "title_original": "Why Norton-Cuffy is ready after long road to the Premier League",
+      "summary_original": "There is a story about Brooke Norton-Cuffy's time as a teenager on loan at Lincoln City under Michael Appleton that highlights his maturity. “It is one that Michael and I still speak about,” Rich O’Donnell, then Lincoln’s assistant coach, tells Sky Sports .",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13549731/brooke-norton-cuffy-to-hull-from-genoa-how-loans-at-lincoln-rotherham-coventry-and-millwall-got-him-to-the-top",
+      "published": "Tue, 01 Sep 2026 22:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -2078,34 +2099,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "滞在したのは? オプクはマニカルゴールマススクランブル後のシッターを逃します",
-      "summary": "Joseph OpokuSwansea を Watford に先立って強烈なゴールマスのスクランブルを放つ機会を逃しました",
-      "title_original": "How did that stay out?! Opoku misses sitter after manic goalmouth scramble",
-      "summary_original": "Joseph Opoku missed a great opportunity to put Swansea ahead against Watford after a hectic goalmouth scramble",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13580015/swansea-vs-watford-joseph-opoku-misses-sitter-after-manic-goalmouth-scramble",
-      "published": "Tue, 01 Sep 2026 20:05:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ウィケットじゃないの? 奇妙な瞬間のボールは切り株を打つが、4 のために逃げる",
-      "summary": "Issy Wong 汚いが奇跡的に滞在するストゥムを離れて境界線を隠します。",
-      "title_original": "How's this not a wicket?! Bizarre moment ball hits stump but runs away for four",
-      "summary_original": "Issy Wong concedes a boundary off the stumps, which the bails miraculously stay on.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13579915/issy-wong-concedes-boundary-off-stumps",
-      "published": "Tue, 01 Sep 2026 16:18:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Every Deadline Day 獲得を獲得を問い合わせ",
       "summary": "2026 夏移籍市場イングランドは9 月1 日の午後11 時を過ぎます。完了したすべての移籍をキーリーグで追跡する Deadline Day.",
       "title_original": "Every Deadline Day deal....",
@@ -2117,6 +2110,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "滞在したのは? オプクはマニカルゴールマススクランブル後のシッターを逃します",
+      "summary": "Joseph OpokuSwansea を Watford に先立って強烈なゴールマスのスクランブルを放つ機会を逃しました",
+      "title_original": "How did that stay out?! Opoku misses sitter after manic goalmouth scramble",
+      "summary_original": "Joseph Opoku missed a great opportunity to put Swansea ahead against Watford after a hectic goalmouth scramble",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13580015/swansea-vs-watford-joseph-opoku-misses-sitter-after-manic-goalmouth-scramble",
+      "published": "Tue, 01 Sep 2026 20:05:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
