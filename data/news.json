@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T21:24:10.405045+00:00",
+  "updated_at": "2026-09-01T21:36:34.027908+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1126,9 +1126,9 @@
     },
     {
       "title": "Sunderland へ ビートクリスタル・パレス獲得を獲得を問い合わせリヨン'£30m のウィンガーFofana",
-      "summary": "サンダーランドは署名する予定ですリヨンウィンガーMalick Fofana, 30 にもかかわらずクリスタル・パレスの は移籍をハイジャックしようとします",
+      "summary": "サンダーランドは署名する予定ですリヨンウィンガーMalick Fofana にもかかわらず、クリスタル・パレスの は移籍をハイジャックしようとします",
       "title_original": "Sunderland to beat Palace to Lyon's £30m winger Fofana",
-      "summary_original": "Sunderland are expected to sign Lyon winger Malick Fofana, 30, despite Crystal Palace's attempts to hijack the deal",
+      "summary_original": "Sunderland are expected to sign Lyon winger Malick Fofana, despite Crystal Palace's attempts to hijack the deal",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 01 Sep 2026 21:13:41 GMT",
@@ -1425,7 +1425,7 @@
       "summary_original": "Chelsea to sign Monaco’s Lamine Camara in £47m move Men’s transfer interactive : all the deadline-day deals You can mail Daniel and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of headin",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 21:12:06 GMT",
+      "published": "Tue, 01 Sep 2026 21:24:26 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1853,6 +1853,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "トッテナム、Chelsea with option to buy から Mudryk on loan を獲得",
+      "summary": "トッテナム署名済みチェルシーウィンガーミハイロ・ムドリク季節限定のローンでご購入いただけます。",
+      "title_original": "Spurs sign Mudryk on loan from Chelsea with option to buy",
+      "summary_original": "Tottenham have signed Chelsea winger Mykhailo Mudryk on a season-long loan with an option to buy.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579537/mykhailo-mudryk-transfer-news-tottenham-sign-chelsea-winger-on-loan-with-option-to-buy",
+      "published": "Sat, 01 Aug 2026 22:12:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Szmodics はポートマスで Derby ウィンとしてストライキ",
       "summary": "ダービーは、ゴールからゴールのおかげで、ポートスマスでの勝利2-0 勝利でシーズンの最初の勝利を保証しました Sammie Szmodics そして、Lars-Jorgen Salvesen.",
       "title_original": "Szmodics strikes as Derby win at Portsmouth",
@@ -1937,16 +1951,16 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Fulham 最新:Midfielder Larsson フランクフルトから£21.4m 移籍に参加",
+      "title": "Fulham 最新:Midfielder Larsson フランクフルトから参加",
       "summary": "",
-      "title_original": "Fulham latest: Midfielder Larsson joins in £21.4m deal from Frankfurt",
+      "title_original": "Fulham latest: Midfielder Larsson joins from Frankfurt",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "published": "Tue, 01 Sep 2026 22:03:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -2102,20 +2116,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Dual Gold Cup 受賞者 Galopin Des Champs ダイス 10 歳",
-      "summary": "Two-time Cheltenham Gold Cup ヒーローGalopin Des Champs 接続で退職後1 週間未満のフィールドで事故で支えられた怪我から死亡しました。",
-      "title_original": "Dual Gold Cup winner Galopin Des Champs dies aged 10",
-      "summary_original": "Two-time Cheltenham Gold Cup hero Galopin Des Champs has died from injuries sustained in an accident in a field less than a week after being retired by connections.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13579978/galopin-des-champs-two-time-cheltenham-gold-cup-winner-dies-aged-10-following-accident-in-field",
-      "published": "Tue, 01 Sep 2026 18:27:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
