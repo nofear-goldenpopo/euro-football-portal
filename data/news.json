@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T14:26:55.463290+00:00",
+  "updated_at": "2026-09-01T14:39:41.319651+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -947,7 +947,10 @@
     "Great Britain": "",
     "United States’ Walker Cup": "",
     "Boss Goodwin": "",
-    "Dundee Utd": "ダンディー・ユナイテッドFC"
+    "Dundee Utd": "ダンディー・ユナイテッドFC",
+    "Goalkeeper Alan Knight": "",
+    "US Open LIVE": "",
+    "Britain's Wimbledon": ""
   },
   "items": [
     {
@@ -1120,12 +1123,12 @@
     },
     {
       "title": "Portsmouth のゴールキーパーの伝説の騎士は65 歳の死にます",
-      "summary": "Former Portsmouth ゴールキーパーAlan Knight, 誰がクラブのために801 ゲームを再生しました, 死にます 65 後に前立腺がんと診断した後 2024.",
+      "summary": "Goalkeeper Alan Knight801 ポートマスゲームを再生した人、2024 年に前立腺癌と診断された65 歳の死にます。",
       "title_original": "Portsmouth goalkeeper legend Knight dies aged 65",
-      "summary_original": "Former Portsmouth goalkeeper Alan Knight, who played 801 games for the club, dies aged 65 after being diagnosed with prostate cancer in 2024.",
+      "summary_original": "Goalkeeper Alan Knight, who played 801 Portsmouth games, dies aged 65 after being diagnosed with prostate cancer in 2024.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2z5ze24g7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 10:41:11 GMT",
+      "published": "Tue, 01 Sep 2026 14:38:09 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1791,9 +1794,23 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "イングランドは、アイルランドが150 LIVE を通過した後、2 つのクイックウィケットで戻ってヒット!",
+      "title": "US Open LIVE! Britain's Wimbledon ヒーロー Fery に戻るグランドスラムアクション",
       "summary": "",
-      "title_original": "England hit back with two quick wickets after Ireland pass 150 LIVE!",
+      "title_original": "US Open LIVE! Britain's Wimbledon hero Fery returns to Grand Slam action",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13579618/us-open-live-scores-updates-news-commentary-and-results-from-flushing-meadows-new-york-with-arthur-fery-elena-rybakina-in-action",
+      "published": "Tue, 01 Sep 2026 15:23:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "アイルランドは最初のイングランドの戦いとしてウィケットの苦難を失います ODI LIVE!",
+      "summary": "",
+      "title_original": "Ireland lose clatter of wickets as England fight back in first ODI LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13579786/england-vs-ireland-first-womens-odi-live-latest-cricket-score-updates-videos-and-analysis-from-leicester",
@@ -2054,20 +2071,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "「私は不安定なハッカーに疲れている」 - サバレンカは批評家に戻りました",
-      "summary": "Aryna Sabalenka 彼女の批判に戻って、彼女は3 番目の成功のための彼女の探求で勝利の始まりをした後、「それは自分の人生で行くと取得することができます」と言って、US Open タイトル。",
-      "title_original": "'I'm so tired of the miserable haters' - Sabalenka hits back at critics",
-      "summary_original": "Aryna Sabalenka hit back at her critics, saying \"haters can go and get on with their own lives\" after she made a winning start in her quest for a ‌third successive US Open title.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13579468/us-open-aryna-sabalenka-tired-of-the-miserable-haters-as-she-hits-back-at-critics-after-first-round-win",
-      "published": "Mon, 31 Aug 2026 21:35:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
