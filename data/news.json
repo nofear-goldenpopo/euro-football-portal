@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T10:28:45.951918+00:00",
+  "updated_at": "2026-09-01T10:42:13.562699+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -909,9 +909,39 @@
     "If Raphinha": "",
     "Adelaide Strikers": "",
     "Former England Test": "",
-    "Ben Stokes": "ベン・ストークス"
+    "Ben Stokes": "ベン・ストークス",
+    "Ibrahim Mbaye": "イブラヒム・エンバイェ",
+    "Schumacher-inspired Italian GP": ""
   },
   "items": [
+    {
+      "title": "アストン・ヴィラ完全な£47m Mbaye の署名",
+      "summary": "アストン・ヴィラ Senegal のウィンガーの印イブラヒム・エンバイェからパリ・サンジェルマン55m ユーロ(£47m)の料金で。",
+      "title_original": "Aston Villa complete £47m Mbaye signing",
+      "summary_original": "Aston Villa sign of Senegal winger Ibrahim Mbaye from Paris St-Germain for a fee of 55m euros (£47m).",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 10:38:06 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "リヨン winger Fofana は£30m のサンダーランドの移動のために置きました",
+      "summary": "サンダーランドはちょうど£30m の下の価値の移籍に同意しますリヨンウィンガーMalick Fofana 五年契約に署名する。",
+      "title_original": "Lyon winger Fofana set for £30m Sunderland move",
+      "summary_original": "Sunderland agree a deal worth just under £30m for Lyon winger Malick Fofana, who is set to sign a five-year contract.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 10:27:43 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
     {
       "title": "エヴァートン Grealish を再署名する同意するレンタル移籍でからマンチェスター・シティ",
       "summary": "エヴァートン獲得を獲得を問い合わせ Jack Grealish 季節融資のクラブに戻るマンチェスター・シティ.",
@@ -983,6 +1013,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "振込期限日のご案内",
+      "summary": "重要な署名と出発をチェックプレミアリーグ, Scottish Premiership、EFL および Women's Super League.",
+      "title_original": "Every done deal on transfer deadline day",
+      "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 09:33:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "マンチェスター・シティ'£80m 崩壊に近いガクポのために移動",
       "summary": "マンチェスター・シティの 提案 £80m のために移動リヴァプール獲得コーディ・ガクポ繁華街に近いです。",
       "title_original": "Man City's £80m move for Gakpo close to collapse",
@@ -997,16 +1041,30 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "振込期限日のご案内",
-      "summary": "重要な署名と出発をチェックプレミアリーグ, Scottish Premiership、EFL および Women's Super League.",
-      "title_original": "Every done deal on transfer deadline day",
-      "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "title": "ドルトムント獲得を獲得を問い合わせレンタル移籍獲得を獲得を問い合わせアーセナル Nwaneri さん",
+      "summary": "ドイツクラブボルシア・ドルトムント獲得を獲得を問い合わせアーセナル署名するイーサン・ヌワネリ季節限定のローン。",
+      "title_original": "Dortmund agree loan move for Arsenal's Nwaneri",
+      "summary_original": "German club Borussia Dortmund agree a deal with Arsenal to sign Ethan Nwaneri on a season-long loan.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 09:33:43 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 07:34:09 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ウィンドウを閉じる前に見る転送",
+      "summary": "BBC Sport's サッカーの専門家は火曜日の23:00 前に通ることができるスタンドアウト転送を選択します BST English 応募締切",
+      "title_original": "The transfers to watch before window closes",
+      "summary_original": "BBC Sport's football experts pick out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 17:28:57 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1025,20 +1083,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ドルトムント獲得を獲得を問い合わせレンタル移籍獲得を獲得を問い合わせアーセナル Nwaneri さん",
-      "summary": "ドイツクラブボルシア・ドルトムント獲得を獲得を問い合わせアーセナル署名するイーサン・ヌワネリ季節限定のローン。",
-      "title_original": "Dortmund agree loan move for Arsenal's Nwaneri",
-      "summary_original": "German club Borussia Dortmund agree a deal with Arsenal to sign Ethan Nwaneri on a season-long loan.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 07:34:09 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Arsenal agree terms to、パリ・サンジェルマンから De Almeida を獲得",
       "summary": "アーセナル多彩なフランスの擁護者 Elissa de Almeida に署名する条件に同意するパリ・サンジェルマン.",
       "title_original": "Arsenal agree terms to sign De Almeida from PSG",
@@ -1049,20 +1093,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ウィンドウを閉じる前に見る転送",
-      "summary": "BBC Sport's サッカーの専門家は火曜日の23:00 前に通ることができるスタンドアウト転送を選択します BST English 応募締切",
-      "title_original": "The transfers to watch before window closes",
-      "summary_original": "BBC Sport's football experts pick out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 17:28:57 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1095,20 +1125,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "獲得を獲得を問い合わせ Transfer Deadline Day",
-      "summary": "Our Ask Me Anything チームは、夏の転送期限のアプローチとして知る必要があるすべてのことをあなたに伝えます。",
-      "title_original": "All you need to know about Transfer Deadline Day",
-      "summary_original": "Our Ask Me Anything team tell you all you need to know as the summer transfer deadline approaches.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c209g6e3yx7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 08:08:26 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Mudryk へトッテナムとしてチェルシー'サンチェスはコモに向かう",
       "summary": "チェルシーオファーを受け取るトッテナムウィンガーミハイロ・ムドリクそして擁護者 Tosin Adarabioyo, だけでなく、ゴールキーパーのためのイタリアのクラブコモから入札 Robert Sanchez.",
       "title_original": "Mudryk to Spurs as Chelsea's Sanchez heads to Como",
@@ -1120,20 +1136,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpwl500jjgro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 06:09:56 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1767,6 +1769,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "フェラーリが明らかに Schumacher-inspired Italian GP ライブリー",
+      "summary": "",
+      "title_original": "Ferrari reveal Schumacher-inspired Italian GP livery",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "published": "Tue, 01 Sep 2026 10:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Every Deadline Day 獲得を獲得を問い合わせ",
       "summary": "2026 夏移籍市場イングランドは9 月1 日の午後11 時を過ぎます。完了したすべての移籍をキーリーグで追跡する Deadline Day.",
       "title_original": "Every Deadline Day deal....",
@@ -2015,20 +2031,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Djokovic が「心臓破壊」の後退するのは今のところ正しい時間です US Open 損失?",
-      "summary": "ノバク・ジョコビッチ彼は5 セットのすべての瞬間に「despised」と述べた, 彼の終了5 時間の経口近く US Open 最初のラウンドで希望するので、現在、彼はトロフィー・ラデンのキャリアの時間を呼び出しているかどうか質問です。",
-      "title_original": "Is now the right time for Djokovic to retire after 'heart-breaking' US Open loss?",
-      "summary_original": "Novak Djokovic said he \"despised\" every moment of the five-set, near five-hour ordeal which ended his US Open hopes in the first round, so now the question is whether he calls time on his trophy-laden career.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13579465/us-open-is-now-the-right-time-for-novak-djokovic-to-retire-after-heart-breaking-first-round-exit-in-new-york",
-      "published": "Mon, 31 Aug 2026 19:00:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
