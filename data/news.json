@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T07:38:43.127273+00:00",
+  "updated_at": "2026-09-01T07:51:30.702296+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -886,9 +886,25 @@
     "Alex Scott BBC Sport": "",
     "BBC One": "BBC One",
     "Arsenal's Nwaneri": "",
-    "Ethan Nwaneri": "イーサン・ヌワネリ"
+    "Ethan Nwaneri": "イーサン・ヌワネリ",
+    "Portugal. England": "",
+    "Potential Fernandez": ""
   },
   "items": [
+    {
+      "title": "エヴァートン Grealish を再署名する同意するレンタル移籍でからマンチェスター・シティ",
+      "summary": "エヴァートン獲得を獲得を問い合わせ Jack Grealish 季節融資のクラブに戻るマンチェスター・シティ.",
+      "title_original": "Everton agree deal to re-sign Grealish on loan from Man City",
+      "summary_original": "Everton agree a deal for Jack Grealish to return to the club on a season-long loan from Manchester City.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70dkgx1yepo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 07:35:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
     {
       "title": "アルテタエリート250 クラブに参加する - しかし、彼はランク付けする場所?",
       "summary": "アーセナルの のファンは、再びリーグを勝ち取ることについて歌っていますミケル・アルテタ. 月曜日の1-0 勝利でアストン・ヴィラ長任のマネージャーの下で開発された強みを実証しました。",
@@ -925,6 +941,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 19:30:01 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "振込期限日のご案内",
+      "summary": "重要な署名と出発をチェックプレミアリーグ, Scottish Premiership、EFL および Women's Super League.",
+      "title_original": "Every done deal on transfer deadline day",
+      "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 07:44:59 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -988,20 +1018,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpwl500jjgro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 06:09:56 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "トロイさんを作った人プレミアリーグ週のチーム?",
       "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を獲得を問い合わせ",
       "title_original": "Who has made Troy's Premier League team of the week?",
@@ -1037,6 +1053,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c20e6wv1pdwo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 18:24:04 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpwl500jjgro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 06:09:56 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1111,20 +1141,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "エヴァートン同意する £40m 手数料 のためのモナコストライカー・バロウン",
-      "summary": "エヴァートン£40m の獲得で合意モナコ獲得を獲得を問い合わせアメリカ合衆国ストライカーFolarin Balogun.",
-      "title_original": "Everton agree £40m fee for Monaco striker Balogun",
-      "summary_original": "Everton agree a £40m deal with Monaco for United States striker Folarin Balogun.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 20:21:22 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1296,27 +1312,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "「それは目標のように感じません」 - O'Neil の質問 'blatant' の後の法律 マギレハンドボール",
-      "summary": "イプスウィッチ・タウン FC マネージャーガリー・オニールループホールを許した後のハンドボールルールに質問するハリー・マグワイアの の扱いの犯罪はとして立ちます Jacob Greaves オウンゴール.",
-      "title_original": "'It doesn't feel like a goal' - O'Neil questions law after 'blatant' Maguire handball",
-      "summary_original": "Ipswich Town manager Gary O'Neil questions the handball rule after a loophole allowed Harry Maguire's handling offence to stand as a Jacob Greaves own goal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyzxz0yvz0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 20:01:40 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "サッカーの転送期限日:Fernández、Alvarez、Ndiaye などの最新 - ライブ",
-      "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ TikTok にメールを送ったり、TikTok でフォローしたりできます。Bluesky In プレイヤーが本日動いていない場合、クラブから退出するために必殺到している場合、オプションがあります。9 月1 日は国の祝祭日を祝うわけではないので、トルコやトルコに立ち向かうという希望はまだあります。Portugal. Here 期限日の一覧です。Fifa. England, フランス, ドイツ, イタリア, スペイン – 1September Argentina オランダ - 2September Scotland- 9 月3 日",
+      "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ ウィルにメールを送ったり、TikTok と Bluesky にフォローすることができます。多くの人々は、企業が移動したり、ジョブを変更したりするために非常に投資されています。経理や廃棄物管理でこれを得ることはできません。プレイヤーが本日動いていない場合、クラブから退出するために必殺到している場合、オプションがあります。9 月1 日は国の祝祭日を祝うわけではないので、トルコやトルコに立ち向かうという希望はまだあります。Portugal. England, フランス, ドイツ",
       "title_original": "Football transfer deadline day: latest on Fernández, Alvarez, Ndiaye and more – live",
-      "summary_original": "Men’s transfer interactive | Women’s transfer interactive You can mail Will and follow us on TikTok and Bluesky In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of heading off to Turkey or Portugal. Here are a list of deadline days, according to Fifa. England, France, Germany, Italy, Spain – 1 September Argentina, Netherlands - 2 September Scotland - 3 Septemb",
+      "summary_original": "Men’s transfer interactive | Women’s transfer interactive You can mail Will and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of heading off to Turkey or Portugal. England, France, German",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 07:14:32 GMT",
+      "published": "Tue, 01 Sep 2026 07:33:36 GMT",
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
@@ -1828,13 +1830,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "チェルシー最新:Sanchez 融資終了合意",
+      "title": "チェルシー最新:Potential Fernandez 交換アイド",
       "summary": "",
-      "title_original": "Chelsea latest: Sanchez loan exit agreed",
+      "title_original": "Chelsea latest: Potential Fernandez replacements eyed",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Tue, 01 Sep 2026 07:00:00 BST",
+      "published": "Tue, 01 Sep 2026 08:00:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1852,6 +1854,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Scot Prem 最新:セルティック Johnstone の融資が合意したように三重移籍で終了",
+      "summary": "",
+      "title_original": "Scot Prem latest: Celtic close in on triple deal as Johnstone loan agreed",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "published": "Tue, 01 Sep 2026 08:30:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -1992,20 +2008,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "FREE STREAM: The Transfer Show 獲得を獲得を問い合わせ Sky Sports News",
-      "summary": "",
-      "title_original": "FREE STREAM: The Transfer Show on Sky Sports News",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "published": "Mon, 31 Aug 2026 18:55:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v7"
     }
