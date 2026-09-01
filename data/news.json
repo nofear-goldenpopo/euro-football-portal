@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T18:29:52.361625+00:00",
+  "updated_at": "2026-09-01T18:42:21.908821+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -969,7 +969,9 @@
     "Galopin Des Champs": "",
     "Two-time Cheltenham Gold Cup": "",
     "Moses Itauma's": "",
-    "Lucca Brughmans": ""
+    "Lucca Brughmans": "",
+    "Vivianne Miedema": "フィフィアネ・ミデマー",
+    "Experimental England": ""
   },
   "items": [
     {
@@ -1011,6 +1013,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "膝の怪我でシーズンのスタートを逃すミデマ",
+      "summary": "フィフィアネ・ミデマースタートを逃す Women's Super League 膝の怪我のためシーズン。",
+      "title_original": "Miedema to miss start of season with knee injury",
+      "summary_original": "Vivianne Miedema will miss the start of the Women's Super League season because of a knee injury.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0rez8re11ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 18:26:12 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -1071,20 +1087,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ユヴェントス徴候 ウーレメードおよびサールレンタル移籍で",
-      "summary": "ユヴェントス到着が発表されましたニューカッスル獲得 Nick Woltemade そして、トッテナムミッドフィルダーPape Matar Sarr 季節限定のローン移籍",
-      "title_original": "Juventus sign Woltemade and Sarr on loan",
-      "summary_original": "Juventus have announced the arrival of Newcastle forward Nick Woltemade and Tottenham Hotspur midfielder Pape Matar Sarr on season-long loan deals.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3wj80lw5q2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 17:56:09 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "振込期限日のご案内",
       "summary": "重要な署名と出発をチェックプレミアリーグ, Scottish Premiership、EFL および Women's Super League.",
       "title_original": "Every done deal on transfer deadline day",
@@ -1092,6 +1094,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 01 Sep 2026 18:24:01 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ユヴェントス徴候 ウーレメードおよびサールレンタル移籍で",
+      "summary": "ユヴェントス到着が発表されましたニューカッスル獲得 Nick Woltemade そして、トッテナムミッドフィルダーPape Matar Sarr 季節限定のローン移籍",
+      "title_original": "Juventus sign Woltemade and Sarr on loan",
+      "summary_original": "Juventus have announced the arrival of Newcastle forward Nick Woltemade and Tottenham Hotspur midfielder Pape Matar Sarr on season-long loan deals.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3wj80lw5q2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 17:56:09 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1376,20 +1392,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ブライトン Millwall のウィンガーAzeez の£15m の獲得で合意",
-      "summary": "ブライトン25 歳のナイジェリアのウィンガーに署名する獲得で合意します Femi Azeez チャンピオンシップクラブミルウォールから。",
-      "title_original": "Brighton agree £15m deal for Millwall winger Azeez",
-      "summary_original": "Brighton agree a deal to sign 25-year-old Nigeria winger Femi Azeez from Championship club Millwall.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx5e590qqeo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 13:53:32 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1813,12 +1815,26 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Norwich, Southampton, ワットフォード で アクション -EFL LIVE スカイに!",
+      "title": "Experimental England アイルランドの勝利で最高の ODI チェイスに嵐",
+      "summary": "イングランドは、ライスターの6 つのウィケットでアイルランドを打つ実験的な側面として、精巧なフィールドとボウリング性能の後、最も成功した ODI チェイスに風変わりしました。",
+      "title_original": "Experimental England storm to highest ODI chase in win over Ireland",
+      "summary_original": "England breezed to their highest successful ODI chase after an iffy fielding and bowling performance as an experimental side beat Ireland by six wickets in the series opener at Leicester.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13579985/england-beat-ireland-in-first-odi-as-maia-bouchier-scores-century-in-teams-highest-run-chase-in-the-format",
+      "published": "Tue, 01 Sep 2026 19:25:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ウェストハム顔 wolves; 聖人, 行動のノリッチ -EFL LIVE 空に!",
       "summary": "",
-      "title_original": "Norwich, Southampton, Watford in action - EFL LIVE on Sky!",
+      "title_original": "West Ham face Wolves; Saints, Norwich in action - EFL LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13579446/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
+      "url": "https://www.skysports.com/football/west-ham-united-vs-wolverhampton-wanderers/live/560541",
       "published": "Tue, 01 Sep 2026 19:15:00 BST",
       "category": "other",
       "type": "other",
@@ -1855,9 +1871,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ウェストハム最新: Todibo は Olympiakos の涼しい Alvarez としてレンズに参加しますインテルベスト",
+      "title": "ウェストハム最新: Morato で, Todibo アウト として Olympiakos クール Alvarez インテルベスト",
       "summary": "",
-      "title_original": "West Ham latest: Todibo joins Lens as Olympiakos cool Alvarez interest",
+      "title_original": "West Ham latest: Morato in, Todibo out as Olympiakos cool Alvarez interest",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
@@ -2075,20 +2091,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "パキスタンの卸売は「今までに最も衝撃的な変化」と Afridi 氏は述べています",
-      "summary": "Former Pakistan キャプテン Shahid Afridi セレクターの決定を呼び、スクワッドに変化し、ヘッドコーチを削除 Sarfaraz Ahmed イングランドに対する3 番目と最終テストの先を「今までの衝撃」としました。",
-      "title_original": "Pakistan's wholesale changes 'most shocking ever', says Afridi",
-      "summary_original": "Former Pakistan captain Shahid Afridi has called the selectors' decision to make sweeping changes to the squad and remove head coach Sarfaraz Ahmed ahead of the third and final Test against England as the \"most shocking ever\".",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13579772/pakistans-wholesale-changes-for-final-england-test-called-most-shocking-selection-decision-ever-by-shahid-afridi",
-      "published": "Tue, 01 Sep 2026 11:30:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
