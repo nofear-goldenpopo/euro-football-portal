@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T20:24:46.366813+00:00",
+  "updated_at": "2026-09-01T20:37:14.748696+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -977,9 +977,24 @@
     "Liverpool Aston Villa": "",
     "Marseille's Timber": "",
     "Alice Capsey's": "",
-    "Nat Sciver-Brunt's": ""
+    "Nat Sciver-Brunt's": "",
+    "Monaco's Camara": ""
   },
   "items": [
+    {
+      "title": "チェルシー同意する £47.1m のために移動しますモナコカマラ",
+      "summary": "チェルシーミッドフィルダーを交換するために移動しました Enzo Fernandez 獲得を獲得を問い合わせモナコ'ラミン・カマラ。",
+      "title_original": "Chelsea agree £47.1m move for Monaco's Camara",
+      "summary_original": "Chelsea have moved to replace outgoing midfielder Enzo Fernandez with Monaco's Lamine Camara.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 20:30:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
     {
       "title": "プレミアリーグ第2 ストレート夏のための転送記録を破る",
       "summary": "プレミアリーグクラブは、支出が£3.198bn に達した後、すべての時間の夏の転送記録を破ります。",
@@ -995,13 +1010,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マンチェスター・シティ、Everton for £65m から Ndiaye を獲得",
+      "title": "マンチェスター・シティログインエヴァートン'Ndiaye - しかし、彼は£65m の価値がありますか?",
       "summary": "マンチェスター・シティサインウィンガーIliman Ndiaye からエヴァートン£65m まで価値のある移籍。",
-      "title_original": "Man City sign Ndiaye from Everton for £65m",
+      "title_original": "Man City sign Everton's Ndiaye - but is he worth £65m?",
       "summary_original": "Manchester City sign winger Iliman Ndiaye from Everton in a deal worth up to £65m.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 20:09:07 GMT",
+      "published": "Tue, 01 Sep 2026 20:26:52 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1079,20 +1094,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "バレンシア サインリヴァプールエリオットレンタル移籍で",
-      "summary": "リヴァプールミッドフィルダーHarvey Elliott 季節限定融資でバレンシアに参加",
-      "title_original": "Valencia sign Liverpool's Elliott on loan",
-      "summary_original": "Liverpool midfielder Harvey Elliott joins Valencia on a season-long loan",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c305m3jqy89o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 16:23:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "振込期限日のご案内",
       "summary": "重要な署名と出発をチェックプレミアリーグ, Scottish Premiership、EFL および Women's Super League.",
       "title_original": "Every done deal on transfer deadline day",
@@ -1149,6 +1150,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "バレンシア サインリヴァプールエリオットレンタル移籍で",
+      "summary": "リヴァプールミッドフィルダーHarvey Elliott 季節限定融資でバレンシアに参加",
+      "title_original": "Valencia sign Liverpool's Elliott on loan",
+      "summary_original": "Liverpool midfielder Harvey Elliott joins Valencia on a season-long loan",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c305m3jqy89o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 16:23:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "アストン・ヴィラサイン Mbaye と Harwood-Bellis",
       "summary": "アストン・ヴィラ Senegal のウィンガーの署名を完了して下さいイブラヒム・エンバイェからパリ・サンジェルマン英語センターバック Taylor Harwood-Bellis 南 ampton から。",
       "title_original": "Aston Villa sign Mbaye and Harwood-Bellis",
@@ -1160,20 +1175,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ユヴェントス徴候 ウーレメードおよびサールレンタル移籍で",
-      "summary": "ユヴェントス到着が発表されましたニューカッスル獲得 Nick Woltemade そして、トッテナムミッドフィルダーPape Matar Sarr 季節限定のローン移籍",
-      "title_original": "Juventus sign Woltemade and Sarr on loan",
-      "summary_original": "Juventus have announced the arrival of Newcastle forward Nick Woltemade and Tottenham Hotspur midfielder Pape Matar Sarr on season-long loan deals.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3wj80lw5q2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 17:56:09 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1407,7 +1408,7 @@
       "summary_original": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Niall and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of hea",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 20:07:51 GMT",
+      "published": "Tue, 01 Sep 2026 20:24:51 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
