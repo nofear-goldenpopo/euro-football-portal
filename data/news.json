@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T08:52:39.963690+00:00",
+  "updated_at": "2026-09-01T09:06:08.106324+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -891,7 +891,10 @@
     "Potential Fernandez": "",
     "Supermarket Sweep-style": "",
     "The Rumour Mill": "",
-    "Melvin Bard": "メルヴァン・バール"
+    "Melvin Bard": "メルヴァン・バール",
+    "Joe Worrall": "",
+    "Roma's Kone": "",
+    "Manu Kone": "マヌ・コネ"
   },
   "items": [
     {
@@ -971,7 +974,7 @@
       "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 08:46:03 GMT",
+      "published": "Tue, 01 Sep 2026 09:05:01 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1105,20 +1108,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マッチング・ウィンター・サカはどのようにしたのですか?アストン・ヴィラ. .アーセナル評価",
-      "summary": "使い方アストン・ヴィラそして、アーセナルガンナーズ1-0 の勝利に従ったプレイヤー",
-      "title_original": "How did match-winner Saka do? Aston Villa v Arsenal ratings",
-      "summary_original": "How Aston Villa and Arsenal's players rated following the Gunners' 1-0 win.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 20:59:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "アーセナルアルバレスの遅い移動を探検 - 火曜日のゴシップ",
       "summary": "アーセナルまだまだインテル署名で ested フリアン・アルバレス, リヴァプールから£30m 入札を拒否ノッティンガム・フォレスト獲得を獲得を問い合わせ Trey Nyoni, ボルシア・ドルトムント動くことを考慮するジェイドン・サンチョ.",
       "title_original": "Arsenal explore late move for Alvarez - Tuesday gossip",
@@ -1130,6 +1119,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Wrexham の印 Burnley の擁護者 Worrall",
+      "summary": "まだ Wrexham を飼っている方クリーンシート今シーズン、サインセンターバック Joe Worrall チャンピオンシップライバルバーニーから。",
+      "title_original": "Wrexham sign Burnley defender Worrall",
+      "summary_original": "Wrexham, who are yet to keep a clean sheet this season, sign centre-back Joe Worrall from Championship rivals Burnley.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99dydkky1eo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 09:00:24 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1321,7 +1324,7 @@
       "summary_original": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Will and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of head",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 08:37:05 GMT",
+      "published": "Tue, 01 Sep 2026 08:57:00 GMT",
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
@@ -1749,6 +1752,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "チェルシー、ローマの Kone 獲得で合意",
+      "summary": "チェルシー合意に近いローマフランスのミッドフィルダーに署名するマヌ・コネ、イタリアの空に従って。",
+      "title_original": "Chelsea agree deal for Roma's Kone",
+      "summary_original": "Chelsea are close to an agreement with Roma to sign France midfielder Manu Kone, according to Sky in Italy.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579726/chelsea-transfer-latest-roma-midfielder-manu-kone-set-for-deadline-day-move-with-jamie-gittens-heading-the-other-way-on-loan",
+      "published": "Tue, 01 Sep 2026 09:55:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "なぜイタリアの家土に格子のペナルティを取っている Antonelli?",
       "summary": "チャンピオンシップリーダーKimi Antonelli この週末の土で家土で勝利するための満足度が高いイタリアグランプリ.",
       "title_original": "Why is Antonelli taking grid penalties on home soil in Italy?",
@@ -1998,20 +2015,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "リヴァプールバンパーを拒絶して下さい £80m マンチェスター・シティ Gakpo のオファー",
-      "summary": "リヴァプールから£80m の提供を拒否しましたマンチェスター・シティウィンガーコーディ・ガクポ, 都市でに注意を向けるエヴァートンイリマン・ニディア",
-      "title_original": "Liverpool reject bumper £80m Man City offer for Gakpo",
-      "summary_original": "Liverpool have rejected an £80m offer from Manchester City for winger Cody Gakpo, with City turning their attention to Everton's Iliman Ndiaye .",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578880/cody-gakpo-transfer-news-man-city-consider-options-after-liverpool-reject-80m-bid-for-winger",
-      "published": "Sat, 29 Aug 2026 21:20:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
