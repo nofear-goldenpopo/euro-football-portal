@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T15:13:28.999278+00:00",
+  "updated_at": "2026-09-01T15:44:33.222979+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -953,7 +953,10 @@
     "Britain's Wimbledon": "",
     "England LIVE": "",
     "Lionel Scaloni’s": "",
-    "New Jersey": "ニュージャージー州"
+    "New Jersey": "ニュージャージー州",
+    "Louis Page": "",
+    "BST. Get": "",
+    "World Cups": ""
   },
   "items": [
     {
@@ -1047,7 +1050,7 @@
       "summary_original": "Fulham agree to sign midfielders Manuel Angel and Hugo Larsson from Real Madrid and Eintracht Frankfurt respectively.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4grzg0jzgzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 14:03:20 GMT",
+      "published": "Tue, 01 Sep 2026 15:14:54 GMT",
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
@@ -1076,6 +1079,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c70dkgx1yepo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 01 Sep 2026 12:27:37 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド Leicester Midfielder Page のトークでロック",
+      "summary": "マンチェスター・ユナイテッド高く評価されたレスターの若者に署名する話に残る Louis Page£10m を超える価値がある移籍で。",
+      "title_original": "Man Utd locked in talks for Leicester midfielder Page",
+      "summary_original": "Manchester United remain in talks to sign highly-rated Leicester youngster Louis Page in a deal that could be worth over £10m.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn5n015go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 15:36:52 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1178,20 +1195,6 @@
       "type": "bundesliga",
       "label": "ブンデス",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ドルトムント獲得を獲得を問い合わせレンタル移籍獲得を獲得を問い合わせアーセナル Nwaneri さん",
-      "summary": "ドイツクラブボルシア・ドルトムント獲得を獲得を問い合わせアーセナル署名するイーサン・ヌワネリ季節限定のローン。",
-      "title_original": "Dortmund agree loan move for Arsenal's Nwaneri",
-      "summary_original": "German club Borussia Dortmund agree a deal with Arsenal to sign Ethan Nwaneri on a season-long loan.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 07:34:09 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1377,13 +1380,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "サッカーの転送期限日:マンチェスター・シティ Fernández のための移動、ニューカッスルシール £51m の移籍など – ライブ",
-      "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ The Rumour Mill: 期限日のすべてを確認する Luke にメールを送ったり、TikTok と Bluesky にフォローすることができます。多くの人が、企業が移動したり、ジョブを変更したりするために非常に投資されています。経理や廃棄物管理でこれを得ることはできません。プレイヤーが本日動いていない場合、クラブから退出するために必殺到している場合、オプションがあります。9 月1 日(土)に全国の締切日を祝うわけではないので、まだ頭の希望がある",
-      "title_original": "Football transfer deadline day: Manchester City move for Fernández, Newcastle seal £51m deal, and more – live",
+      "title": "サッカーの転送期限日:マンチェスター・シティ近くの フェルナンデス,ニューカッスルシール £51m の移籍など – ライブ",
+      "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ The Rumour Mill: 期限日のすべてを確認する Luke にメールを送ったり、TikTok と Bluesky にフォローすることができます。多くの人が、企業を移動したり、ジョブを変更したりするために非常に投資されています。経理や廃棄物管理でこれを得ることはできません。プレイヤーが本日動いていない場合、クラブから退出するために必殺到している場合、オプションがあります。9 月1 日(土)に全国の締切日を祝うわけではないので、まだ頭の希望がある",
+      "title_original": "Football transfer deadline day: Manchester City close on Fernández, Newcastle seal £51m deal, and more – live",
       "summary_original": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Luke and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of head",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 15:09:08 GMT",
+      "published": "Tue, 01 Sep 2026 15:39:12 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1405,16 +1408,16 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "David Squires 上...転送契約の芸術",
-      "summary": "私たちの漫画家は、その近代的なコンストラクトにサッカーの転送の進化をチャートにするために、年齢を見ていきます 漫画を買う | ダビデのお気に入りの作品の一部 そして、彼の最新の本、箱のチャオス: 今それを得る 続きを読みます...",
-      "title_original": "David Squires on … the art of the transfer deal",
-      "summary_original": "Our cartoonist looks through the ages to chart the evolution of the football transfer into its modern construct Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
+      "title": "Football Daily | トッテナムそして彼らのクラブハイプマンの急速な消失",
+      "summary": "今すぐ登録! 今すぐ登録! 今すぐサインアップ 今すぐ登録! 我々が行く前に, 窓のスラムシャットの前にすべての最新の転送期限日のアップデートのための作家の私たちのチームに参加するためのリマインダー (ほとんどの主要なリーグで) 11pmBST. Get 獲得を獲得を問い合わせ 歴史の中で最も偉大な選手が退職を発表したのは、インテル国民のフットボール、私は同様にそうしたいです。確かに、怒りは私に決して拾いませんでした。World Cups とユーロが、Messi、tim のような感じです",
+      "title_original": "Football Daily | Tottenham and the rapid disappearance of their club hype man",
+      "summary_original": "Sign up now! Sign up now! Sign up now? Sign up now! Before we get going, a reminder to join our team of writers for all the latest transfer deadline day updates before the window slams shut (in most major leagues) at 11pm BST. Get on it . As probably the greatest player in history has announced his retirement from international football, I’d like to do likewise. Sure, the ingrates never picked me, overlooking my abilities through several World Cups and Euros, but I feel that, like Messi, the tim",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/picture/2026/sep/01/david-squires-on-the-art-of-the-transfer-deal",
-      "published": "Tue, 01 Sep 2026 10:00:03 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
+      "url": "https://www.theguardian.com/football/2026/sep/01/football-daily-email-tottenham-oh-tottenham",
+      "published": "Tue, 01 Sep 2026 14:33:00 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1429,6 +1432,34 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "David Squires 上...転送契約の芸術",
+      "summary": "私たちの漫画家は、その近代的なコンストラクトにサッカーの転送の進化をチャートにするために、年齢を見ていきます 漫画を買う | ダビデのお気に入りの作品の一部 そして、彼の最新の本、箱のチャオス: 今それを得る 続きを読みます...",
+      "title_original": "David Squires on … the art of the transfer deal",
+      "summary_original": "Our cartoonist looks through the ages to chart the evolution of the football transfer into its modern construct Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/picture/2026/sep/01/david-squires-on-the-art-of-the-transfer-deal",
+      "published": "Tue, 01 Sep 2026 10:00:03 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Barcelona breeze past Rayo but all、in Spain remain on Julián Álvarez を獲得候補に",
+      "summary": "ハンジ・フリック獲得を獲得を問い合わせガブリエウ・ジェズス獲得を獲得を問い合わせバルセロナ. しかし、フリアン・アルバレス究極の賞品を残す場合ラフィーニャメイクシフト No9 として再生についての間違いはありませんバルセロナ、彼はそれを隠すのに良い仕事をしています。フリアン・アルバレススペイン語のチャンピオンに触発されたブラジルの2 つのきちんとしたフィニッシュを5〜2 勝利に誇りに思いますラージョ・バジェカーノ月曜日の夜、振替休日の24 時間前。ラミン・ヤマル自身の2 つの素晴らしい目標を、パナックで得た",
+      "title_original": "Barcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
+      "summary_original": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona. But Julián Álvarez remains the ultimate prize If Raphinha has any misgivings about playing as a makeshift No 9 for Barcelona, he is doing a good job of hiding it. Julián Álvarez would have been proud of the Brazilian’s two neat finishes that inspired the Spanish champions to a 5-2 victory against Rayo Vallecano on Monday night, 24 hours before the transfer deadline. Lamine Yamal scored two wonderful goals of his own in a performanc",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarez",
+      "published": "Tue, 01 Sep 2026 09:42:25 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1468,34 +1499,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/01/womens-super-league-preview-manchester-city",
       "published": "Mon, 31 Aug 2026 23:01:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Barcelona breeze past Rayo but all、in Spain remain on Julián Álvarez を獲得候補に",
-      "summary": "ハンジ・フリック獲得を獲得を問い合わせガブリエウ・ジェズス獲得を獲得を問い合わせバルセロナ. しかし、フリアン・アルバレス究極の賞品を残す場合ラフィーニャメイクシフト No9 として再生についての間違いはありませんバルセロナ、彼はそれを隠すのに良い仕事をしています。フリアン・アルバレススペイン語のチャンピオンに触発されたブラジルの2 つのきちんとしたフィニッシュを5〜2 勝利に誇りに思いますラージョ・バジェカーノ月曜日の夜、振替休日の24 時間前。ラミン・ヤマル自身の2 つの素晴らしい目標を、パナックで得た",
-      "title_original": "Barcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
-      "summary_original": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona. But Julián Álvarez remains the ultimate prize If Raphinha has any misgivings about playing as a makeshift No 9 for Barcelona, he is doing a good job of hiding it. Julián Álvarez would have been proud of the Brazilian’s two neat finishes that inspired the Spanish champions to a 5-2 victory against Rayo Vallecano on Monday night, 24 hours before the transfer deadline. Lamine Yamal scored two wonderful goals of his own in a performanc",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarez",
-      "published": "Tue, 01 Sep 2026 09:42:25 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "坂は悲嘆の戦いを解決しますアストン・ヴィラ拡張するアーセナル’s 勝ちスタート",
-      "summary": "笑顔に Declan Rice’s 残っている6 分の通常の時間で直面する。彼はちょうどシャットダウンしていた Ian Maatsen としてアストン・ヴィラフルバックは箱にズームしました。アーセナル, 誰ブカヨ・サカ唯一の目標を獲得し、権威的で一見して、ヴィラを腕の長さに保つことに大きな満足を浴びました。Unai Emery’s チャンピオンを試すことに苦労したワーク・イン・プログレス・サイド David Rayauntroubled。記録は、ヴィラがスコリンなしでシーズンの最初の2 リーグの試合を失いました",
-      "title_original": "Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start",
-      "summary_original": "The smile on Declan Rice’s face with six minutes of normal time remaining said it all. He had just shut down Ian Maatsen as the Aston Villa full-back zoomed into the box. Arsenal, for whom Bukayo Saka scored the only goal, were authoritative and seemingly took great satisfaction in keeping Villa at arm’s length. Unai Emery’s work‑in‑progress side struggled to test the champions, David Raya untroubled. The records will show Villa have lost their first two league matches of a season without scorin",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-arsenal-premier-league-match-report",
-      "published": "Mon, 31 Aug 2026 21:08:55 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1643,10 +1646,10 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "BBC は、フラッグシップハイライトをキャンセルしても「女性のサッカーにうまくコミット」",
-      "summary": "The Women’s Football ShowBBC が発表した新しいシーズンの YouTube チャットショーを中止 Alex Scott BBC Sport 旗艦を継続しているにもかかわらず、それは「女性のサッカーと WSL に十分にコミット」まま主張します BBC One ハイライトプログラム-Women’s Football Show 新規登録 Women’s Super League 季節限定 BBC は、代わりにハイライトを表示するデジタルプラットフォームに焦点を当てることを理解しています, その新しく発売された YouTube 女子サッカーチャンネルでそれらを表示を含みます, 代わりに t",
+      "title": "BBC は、フラッグシップのハイライトをキャンセルしているにもかかわらず、女性のサッカーに「十分にコミット」",
+      "summary": "The Women’s Football Show 新規シーズンの BBC プランの YouTube チャットショーが発表されました Alex Scott BBC Sport 旗艦を中止しても「女性のサッカーと WSL に十分にコミット」を主張する BBC One ハイライトプログラム、Women’s Football Show、新しいのために Women’s Super League 季節限定 BBC は、新しい起動した YouTube 女子サッカーチャンネルに表示するなど、代わりにハイライトを提示するために、デジタルプラットフォームに焦点を当てることを理解しています。",
       "title_original": "BBC ‘fully committed to women’s football’ despite cancelling flagship highlights show",
-      "summary_original": "The Women’s Football Show discontinued for new season BBC plans YouTube chat show presented by Alex Scott BBC Sport insists it remains “fully committed to women’s football and the WSL” despite ­discontinuing its flagship BBC One highlights programme the ­Women’s Football Show for the new Women’s Super League season. It is understood the BBC will focus on digital platforms to ­showcase highlights instead, including ­showing them on its newly launched YouTube women’s football channel, instead of t",
+      "summary_original": "The Women’s Football Show discontinued for new season BBC plans YouTube chatshow presented by Alex Scott BBC Sport insists it remains “fully committed to women’s football and the WSL” despite discontinuing its flagship BBC One highlights programme, the Women’s Football Show, for the new Women’s Super League season. It is understood the BBC will focus on digital platforms to showcase highlights instead, including showing them on its newly launched YouTube women’s football channel, instead of the ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/01/bbc-fully-committed-to-womens-football-despite-cancelling-flagship-highlights-show",
       "published": "Tue, 01 Sep 2026 07:00:47 GMT",
@@ -1654,6 +1657,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "坂は悲嘆の戦いを解決しますアストン・ヴィラ拡張するアーセナル’s 勝ちスタート",
+      "summary": "笑顔に Declan Rice’s 残っている6 分の通常の時間で直面する。彼はちょうどシャットダウンしていた Ian Maatsen としてアストン・ヴィラフルバックは箱にズームしました。アーセナル, 誰ブカヨ・サカ唯一の目標を獲得し、権威的で一見して、ヴィラを腕の長さに保つことに大きな満足を浴びました。Unai Emery’s チャンピオンを試すことに苦労したワーク・イン・プログレス・サイド David Rayauntroubled。記録は、ヴィラがスコリンなしでシーズンの最初の2 リーグの試合を失いました",
+      "title_original": "Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start",
+      "summary_original": "The smile on Declan Rice’s face with six minutes of normal time remaining said it all. He had just shut down Ian Maatsen as the Aston Villa full-back zoomed into the box. Arsenal, for whom Bukayo Saka scored the only goal, were authoritative and seemingly took great satisfaction in keeping Villa at arm’s length. Unai Emery’s work‑in‑progress side struggled to test the champions, David Raya untroubled. The records will show Villa have lost their first two league matches of a season without scorin",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-arsenal-premier-league-match-report",
+      "published": "Mon, 31 Aug 2026 21:08:55 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1696,20 +1713,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Fifa はオーストリアで女性サッカー選手を密かに撮影した男に禁止を拡張",
-      "summary": "Former SCR Altach 従業員は現在、プレイヤーの組合の Fifa からの圧力に従った世界的な移動禁止されています 前の試合の公式に禁止し、SCR Altach 社員は、クラブの女性のチームのメンバーの秘密のビデオや写真を撮ることの罪を見つけました。In February, オーストリアのフェルドキッチの地方裁判所, 男に7 ヶ月サスペンド刑務所の文を手渡しました, €1,200 (£1,046) 罰金と犠牲者を支払うために彼を注文しました €625 (£545) 彼は f の罪を発見した後、補償のそれぞれ",
-      "title_original": "Fifa extends ban on man who secretly filmed female footballers in Austria",
-      "summary_original": "Former SCR Altach employee now banned worldwide Move follows pressure from players’ unions Fifa has extended worldwide the ban on a former match official and SCR Altach employee found guilty of taking secret videos and photographs of members of the club’s women’s team. In February, a regional court in Feldkirch, Austria, handed the man a seven-month suspended prison sentence, a €1,200 (£1,046) fine and ordered him to pay the victims €625 (£545) each in compensation after he was found guilty of f",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/31/fifa-worldwide-ban-man-secretly-filmed-female-footballers-austria-altach",
-      "published": "Mon, 31 Aug 2026 16:06:11 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1811,9 +1814,23 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "アイルランドは最高の ODI スコア対ポストに感動 England LIVE!",
+      "title": "セルティック McInnes 株式としての FIVE 署名のクローズレンジャーズ転送更新",
       "summary": "",
-      "title_original": "Ireland impress to post best-ever ODI score vs England LIVE!",
+      "title_original": "Celtic close in on FIVE signings as McInnes shares Rangers transfer update",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "published": "Tue, 01 Sep 2026 16:00:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "イングランドは、アイルランドが ODI-best スコアとホスト LIVE を投稿するように282 を追いかける!",
+      "summary": "",
+      "title_original": "England chasing 282 as Ireland post ODI-best score vs hosts LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13579786/england-vs-ireland-first-womens-odi-live-latest-cricket-score-updates-videos-and-analysis-from-leicester",
@@ -2059,20 +2076,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ストークサイン Adelaide Strikers 獲得を獲得を問い合わせ Big Bash League",
-      "summary": "Former England Test キャプテンベン・ストークスのために署名しました Adelaide Strikers 獲得を獲得を問い合わせ Big Bash League(BBL).",
-      "title_original": "Stokes signs for Adelaide Strikers in Big Bash League",
-      "summary_original": "Former England Test captain Ben Stokes has signed for the Adelaide Strikers in the Big Bash League (BBL).",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13579756/ben-stokes-former-england-test-captain-signs-for-adelaide-strikers-in-big-bash-league",
-      "published": "Tue, 01 Sep 2026 10:44:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
