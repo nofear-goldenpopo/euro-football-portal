@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T08:06:33.398038+00:00",
+  "updated_at": "2026-09-01T08:28:02.422380+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -888,7 +888,8 @@
     "Arsenal's Nwaneri": "",
     "Ethan Nwaneri": "イーサン・ヌワネリ",
     "Portugal. England": "",
-    "Potential Fernandez": ""
+    "Potential Fernandez": "",
+    "Supermarket Sweep-style": ""
   },
   "items": [
     {
@@ -976,20 +977,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "坂の利益アーセナル硬い戦いの勝利でアストン・ヴィラ",
-      "summary": "ブカヨ・サカ「第2 半の目標は獲得するのに十分ですプレミアリーグチャンピオンアーセナル優勝アストン・ヴィラ.",
-      "title_original": "Saka earns Arsenal hard-fought win at Aston Villa",
-      "summary_original": "Bukayo Saka's second-half goal is enough to earn Premier League champions Arsenal victory at Aston Villa.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0lrz74r8l9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 21:37:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "マンチェスター・シティ、エヴァートンの Ndiaye 獲得で6500 万ポンド合意",
       "summary": "マンチェスター・シティ署名する最低£60m の価値のある移籍に同意する Iliman Ndiaye からエヴァートン.",
       "title_original": "Man City agree £65m deal for Everton's Ndiaye",
@@ -1046,6 +1033,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "獲得を獲得を問い合わせ Transfer Deadline Day",
+      "summary": "Our Ask Me Anything チームは、夏の転送期限のアプローチとして知る必要があるすべてのことをあなたに伝えます。",
+      "title_original": "All you need to know about Transfer Deadline Day",
+      "summary_original": "Our Ask Me Anything team tell you all you need to know as the summer transfer deadline approaches.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c209g6e3yx7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 08:08:26 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "再編方法 Messi's Argentina 栄光の年はほとんど起こらない",
       "summary": "リオネル・メッシサッカーの最高の物語の一つとして、ほとんど起こらないアルゼンチンとのドミナンスの10 年。",
       "title_original": "How retiring Messi's Argentina glory years almost never happened",
@@ -1088,20 +1089,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "フォローする方法 Transfer Deadline DayBBC について",
-      "summary": "Our Ask Me Anything チームは、BBC 全体での転送期限日のアクションに従う方法を説明します。",
-      "title_original": "How to follow Transfer Deadline Day on the BBC",
-      "summary_original": "Our Ask Me Anything team explain how to follow all the transfer deadline day action across the BBC.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zxvqx8k9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 09:12:46 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "マッチング・ウィンター・サカはどのようにしたのですか?アストン・ヴィラ. .アーセナル評価",
       "summary": "使い方アストン・ヴィラそして、アーセナルガンナーズ1-0 の勝利に従ったプレイヤー",
       "title_original": "How did match-winner Saka do? Aston Villa v Arsenal ratings",
@@ -1137,6 +1124,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 13:01:22 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "坂の利益アーセナル硬い戦いの勝利でアストン・ヴィラ",
+      "summary": "ブカヨ・サカ「第2 半の目標は獲得するのに十分ですプレミアリーグチャンピオンアーセナル優勝アストン・ヴィラ.",
+      "title_original": "Saka earns Arsenal hard-fought win at Aston Villa",
+      "summary_original": "Bukayo Saka's second-half goal is enough to earn Premier League champions Arsenal victory at Aston Villa.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0lrz74r8l9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 21:37:50 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1318,10 +1319,24 @@
       "summary_original": "Men’s transfer interactive | Women’s transfer interactive You can mail Will and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of heading off to Turkey or Portugal. England, France, German",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 07:46:43 GMT",
+      "published": "Tue, 01 Sep 2026 08:25:05 GMT",
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Football transfer rumours: Manchester United and Liverpool、Kroupi? Vardy to Wrexham?を獲得候補に",
+      "summary": "今日の噂は、すべての最後のドロップ締切日がライブで叫び出しています - すべてのニュースに従うと移動 男子最終日移籍市場ここにありますが、いくつかの噂のためのまだ時間があります。Supermarket Sweep-style トロリーダッシュ11 時間目印。通路で野生に行く?マンチェスター・ユナイテッド獲得を獲得を問い合わせインテル一番新しい左に戻りは、夏に長く知られていましたが、ここでウィンドウの最終日に1 つしか立ちません。ユナイテッドの事業を主張しているが、",
+      "title_original": "Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
+      "summary_original": "Today’s rumours are squeezing out every last drop Deadline day live – follow all the news and moves The final day of the men’s transfer window is here , but there is still time for some rumourmongering, before a Supermarket Sweep-style trolley dash for 11th hour signings. Going wild in the aisles? Manchester United’s interest in a new left-back has been known all summer long, yet here they stand without one on the final day of the window. While many are claiming United’s business could be done, ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham",
+      "published": "Tue, 01 Sep 2026 08:23:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1403,20 +1418,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers",
       "published": "Mon, 31 Aug 2026 22:36:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "転送最新:ユヴェントスウォルトメードローントークで、エヴァートン同意する £40m Balogun 手数料",
-      "summary": "マンチェスター・シティ最初の£32.1m のアラン署名を確認するクリスタル・パレス Muñoz を森に販売し、署名にこだわりました Ahanor Nick Woltemade 近くのところにあるレンタル移籍からニューカッスル獲得を獲得を問い合わせユヴェントス, 到着後1 年セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)クラブレコード £69m からの移籍シュトゥットガルト. 贈られたドイツは、最初に振付された高輝度ゲームプランの中で自分自身を課すことに苦労しましたエディ・ハウそして今、マティアス・ジャッスル。ユヴェントスクラブの1 つです。ボルシア・ドルトムント他の人の間で – へ h",
-      "title_original": "Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
-      "summary_original": "Manchester City confirm Allan signing for initial £32.1m Palace sell Muñoz to Forest and poised to sign Ahanor Nick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving at St James’ Park in a club-record £69m deal from Stuttgart. The gifted Germany forward has struggled to impose himself amid the high-intensity gameplans choreographed first by Eddie Howe and now Matthias Jaissle. Juventus are one of a handful of clubs – Borussia Dortmund are among the others – to h",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun",
-      "published": "Mon, 31 Aug 2026 22:47:37 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1578,6 +1579,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "転送最新:ユヴェントスウォルトメードローントークで、エヴァートン同意する £40m Balogun 手数料",
+      "summary": "マンチェスター・シティ最初の£32.1m のアラン署名を確認するクリスタル・パレス Muñoz を森に販売し、署名にこだわりました Ahanor Nick Woltemade 近くのところにあるレンタル移籍からニューカッスル獲得を獲得を問い合わせユヴェントス, 到着後1 年セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)クラブレコード £69m からの移籍シュトゥットガルト. 贈られたドイツは、最初に振付された高輝度ゲームプランの中で自分自身を課すことに苦労しましたエディ・ハウそして今、マティアス・ジャッスル。ユヴェントスクラブの1 つです。ボルシア・ドルトムント他の人の間で – へ h",
+      "title_original": "Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
+      "summary_original": "Manchester City confirm Allan signing for initial £32.1m Palace sell Muñoz to Forest and poised to sign Ahanor Nick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving at St James’ Park in a club-record £69m deal from Stuttgart. The gifted Germany forward has struggled to impose himself amid the high-intensity gameplans choreographed first by Eddie Howe and now Matthias Jaissle. Juventus are one of a handful of clubs – Borussia Dortmund are among the others – to h",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun",
+      "published": "Mon, 31 Aug 2026 22:47:37 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "Fifa はオーストリアで女性サッカー選手を密かに撮影した男に禁止を拡張",
       "summary": "Former SCR Altach 従業員は現在、プレイヤーの組合の Fifa からの圧力に従った世界的な移動禁止されています 前の試合の公式に禁止し、SCR Altach 社員は、クラブの女性のチームのメンバーの秘密のビデオや写真を撮ることの罪を見つけました。In February, オーストリアのフェルドキッチの地方裁判所, 男に7 ヶ月サスペンド刑務所の文を手渡しました, €1,200 (£1,046) 罰金と犠牲者を支払うために彼を注文しました €625 (£545) 彼は f の罪を発見した後、補償のそれぞれ",
       "title_original": "Fifa extends ban on man who secretly filmed female footballers in Austria",
@@ -1627,20 +1642,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/30/leeds-brentford-premier-league-match-report",
       "published": "Sun, 30 Aug 2026 15:03:46 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Sunderland’s Wilson Isidor フィニッシュタッチをシンクフルハムに適用",
-      "summary": "最後の笛でアルバロ・アルベロアペンシブネスの勉強をしながら提供 Régis Le Bris 安心。引き込み期間のために、Sunderland Manager の-second-half の代替品の2 つが決定した試合のほとんど触発可能な恐怖が形成されました。Habib Diarra そして、Wilson Isidor、後者のスコアに結合される。イシダーの目標は、アルベロアのサイドポイントレスを残しながら、シーズンの最初の勝利で Sunderland を供給するだけでなく、彼の側の17〜年のランニングを終わらせる",
-      "title_original": "Sunderland’s Wilson Isidor applies the finishing touch to sink Fulham",
-      "summary_original": "At the final whistle Álvaro Arbeloa provided a study in pensiveness while Régis Le Bris simply looked relieved. For protracted periods an almost palpable fear of losing formed the subtext of a match decided when two of the Sunderland manager’s ­second-half substitutes, Habib Diarra and Wilson Isidor, combined for the latter to score. Isidor’s goal not merely supplied Sunderland with their first win of the season while leaving Arbeloa’s side pointless, but also ended his side’s 17‑year run withou",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/30/sunderland-fulham-premier-league-match-report",
-      "published": "Sun, 30 Aug 2026 15:12:21 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
