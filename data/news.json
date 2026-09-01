@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T07:25:36.014071+00:00",
+  "updated_at": "2026-09-01T07:38:43.127273+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -884,7 +884,9 @@
     "September Argentina": "",
     "September Scotland": "",
     "Alex Scott BBC Sport": "",
-    "BBC One": "BBC One"
+    "BBC One": "BBC One",
+    "Arsenal's Nwaneri": "",
+    "Ethan Nwaneri": "イーサン・ヌワネリ"
   },
   "items": [
     {
@@ -937,6 +939,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 19:12:15 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ドルトムント獲得を獲得を問い合わせレンタル移籍獲得を獲得を問い合わせアーセナル Nwaneri さん",
+      "summary": "ドイツクラブボルシア・ドルトムント獲得を獲得を問い合わせアーセナル署名するイーサン・ヌワネリ季節限定のローン。",
+      "title_original": "Dortmund agree loan move for Arsenal's Nwaneri",
+      "summary_original": "German club Borussia Dortmund agree a deal with Arsenal to sign Ethan Nwaneri on a season-long loan.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 07:34:09 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1014,20 +1030,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マッチング・ウィンター・サカはどのようにしたのですか?アストン・ヴィラ. .アーセナル評価",
-      "summary": "使い方アストン・ヴィラそして、アーセナルガンナーズ1-0 の勝利に従ったプレイヤー",
-      "title_original": "How did match-winner Saka do? Aston Villa v Arsenal ratings",
-      "summary_original": "How Aston Villa and Arsenal's players rated following the Gunners' 1-0 win.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 20:59:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "再編方法 Messi's Argentina 栄光の年はほとんど起こらない",
       "summary": "リオネル・メッシサッカーの最高の物語の一つとして、ほとんど起こらないアルゼンチンとのドミナンスの10 年。",
       "title_original": "How retiring Messi's Argentina glory years almost never happened",
@@ -1052,6 +1054,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "マッチング・ウィンター・サカはどのようにしたのですか?アストン・ヴィラ. .アーセナル評価",
+      "summary": "使い方アストン・ヴィラそして、アーセナルガンナーズ1-0 の勝利に従ったプレイヤー",
+      "title_original": "How did match-winner Saka do? Aston Villa v Arsenal ratings",
+      "summary_original": "How Aston Villa and Arsenal's players rated following the Gunners' 1-0 win.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 20:59:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1291,20 +1307,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "'Nothing left to give' - 伝説 Messi 終了 アルゼンチン キャリア",
-      "summary": "アルゼンチン 素晴らしいリオネル・メッシ退職後退の発表インテル国民のサッカーは「急ぎ」と判断したが、「時が来た」と理解している。",
-      "title_original": "'Nothing left to give' - legend Messi ends Argentina career",
-      "summary_original": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 15:18:39 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
