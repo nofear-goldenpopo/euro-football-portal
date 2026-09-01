@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T14:06:52.269034+00:00",
+  "updated_at": "2026-09-01T14:26:55.463290+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -945,7 +945,9 @@
     "Can GB": "",
     "Walker Cup": "ウォーカーカップ",
     "Great Britain": "",
-    "United States’ Walker Cup": ""
+    "United States’ Walker Cup": "",
+    "Boss Goodwin": "",
+    "Dundee Utd": "ダンディー・ユナイテッドFC"
   },
   "items": [
     {
@@ -1081,11 +1083,25 @@
       "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 13:34:20 GMT",
+      "published": "Tue, 01 Sep 2026 14:16:00 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Boss Goodwin 病院を離れるが、まだから不在ダンディー・ユナイテッド FC ログイン",
+      "summary": "ダンディー・ユナイテッド FC マネージャーJim Goodwin 病院から健康被害を受けたが、その職務を再開する際には不明確に残っている。",
+      "title_original": "Boss Goodwin leaves hospital but still absent from Dundee Utd role",
+      "summary_original": "Dundee United manager Jim Goodwin has been released from hospital after a health scare but it remains unclear when he will resume his duties.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0m31m2191lo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 14:13:05 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1124,20 +1140,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3wj80lw5q2o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 01 Sep 2026 08:03:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マンチェスター・シティオープントークチェルシーオーバーフェルナンデス移動",
-      "summary": "マンチェスター・シティオープントークチェルシーアルゼンチンミッドフィルダーに署名する入札 Enzo Fernandez.",
-      "title_original": "Man City open talks with Chelsea over Fernandez move",
-      "summary_original": "Manchester City open talks with Chelsea in their bid to sign Argentina midfielder Enzo Fernandez.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvrlme148o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 21:20:32 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1369,13 +1371,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "サッカーの転送期限日:マンチェスター・シティ Fernández、Villa Sign Mbaye など - ライブ",
-      "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ The Rumour Mill: 期限日のすべてを確認する Daniel にメールを送って TikTok と Bluesky A 多くの人々 は、人々 の移動会社や転職の仕事に非常に投資しています。経理や廃棄物管理でこれを得ることはできません。プレイヤーが本日動いていない場合、クラブから退出するために必殺到している場合、オプションがあります。9 月1 日(土)に全国の締切日を祝うわけではないので、まだ希望がある",
-      "title_original": "Football transfer deadline day: Manchester City move for Fernández, Villa sign Mbaye, and more – live",
+      "title": "サッカーの転送期限日:マンチェスター・シティ Fernández のための移動、ニューカッスルシール £51m の移籍など – ライブ",
+      "summary": "男子送迎インテルアクティブ | 女性転送インテルアクティブ The Rumour Mill: 期限日のすべてを確認する Daniel にメールを送って TikTok と Bluesky A の人々 の多くは、人々 の移動会社や転職の仕事に非常に投資しています。. 経理や廃棄物管理でこれを得ることはできません。プレイヤーが本日動いていない場合、クラブから退出するために必殺到している場合は、オプションがあります。9 月1 日(土)に全国の締切日を祝うわけではないので、まだ希望がある",
+      "title_original": "Football transfer deadline day: Manchester City move for Fernández, Newcastle seal £51m deal, and more – live",
       "summary_original": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Daniel and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of he",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 13:49:32 GMT",
+      "published": "Tue, 01 Sep 2026 14:15:58 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1635,10 +1637,10 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "BBC は、フラッグシップのハイライトをキャンセルしているにもかかわらず、女性のサッカーに「十分にコミット」",
-      "summary": "The Women’s Football Show 新規シーズン BBC プランの YouTube チャットショーを中止 Alex Scott BBC Sport 旗艦を中止しているにもかかわらず、女性のサッカーと WSL に十分にコミットしていると主張しています BBC One ハイライトプログラム The Women’s Football Show 新規登録 Women’s Super League 季節限定 BBC は、代わりにハイライトを提示するために、デジタルプラットフォームに焦点を当てることを理解しています, その新しく発売された YouTube の女性のサッカーチャンネルにそれらを表示を含みます, 代わりに、",
+      "title": "BBC は、フラッグシップハイライトをキャンセルしても「女性のサッカーにうまくコミット」",
+      "summary": "The Women’s Football ShowBBC が発表した新しいシーズンの YouTube チャットショーを中止 Alex Scott BBC Sport 旗艦を継続しているにもかかわらず、それは「女性のサッカーと WSL に十分にコミット」まま主張します BBC One ハイライトプログラム-Women’s Football Show 新規登録 Women’s Super League 季節限定 BBC は、代わりにハイライトを表示するデジタルプラットフォームに焦点を当てることを理解しています, その新しく発売された YouTube 女子サッカーチャンネルでそれらを表示を含みます, 代わりに t",
       "title_original": "BBC ‘fully committed to women’s football’ despite cancelling flagship highlights show",
-      "summary_original": "The Women’s Football Show discontinued for new season BBC plans YouTube chat show presented by Alex Scott BBC Sport is insisting it remains “fully committed to women’s football and the WSL” despite discontinuing its flagship BBC One highlights programme The Women’s Football Show for the new Women’s Super League season. It is understood the BBC will focus on digital platforms to showcase highlights instead, including showing them on its newly launched YouTube women’s football channel, instead of ",
+      "summary_original": "The Women’s Football Show discontinued for new season BBC plans YouTube chat show presented by Alex Scott BBC Sport insists it remains “fully committed to women’s football and the WSL” despite ­discontinuing its flagship BBC One highlights programme the ­Women’s Football Show for the new Women’s Super League season. It is understood the BBC will focus on digital platforms to ­showcase highlights instead, including ­showing them on its newly launched YouTube women’s football channel, instead of t",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/01/bbc-fully-committed-to-womens-football-despite-cancelling-flagship-highlights-show",
       "published": "Tue, 01 Sep 2026 07:00:47 GMT",
@@ -1789,9 +1791,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "アイルランドのパス150 LIVE としてイングランドのウィケットをはるかに超えるウォン!",
+      "title": "イングランドは、アイルランドが150 LIVE を通過した後、2 つのクイックウィケットで戻ってヒット!",
       "summary": "",
-      "title_original": "Wong takes much-needed wicket for England as Ireland pass 150 LIVE!",
+      "title_original": "England hit back with two quick wickets after Ireland pass 150 LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13579786/england-vs-ireland-first-womens-odi-live-latest-cricket-score-updates-videos-and-analysis-from-leicester",
@@ -1915,6 +1917,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ニューカッスル、リールから Fernandez-Pardo を獲得",
+      "summary": "ニューカッスル署名済み Matias Fernandez-Pardo フレンチクラブリール£51m 相当の移籍",
+      "title_original": "Newcastle sign Fernandez-Pardo from Lille",
+      "summary_original": "Newcastle United have signed Matias Fernandez-Pardo from French club Lille in a deal worth £51m.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579855/matias-fernandez-pardo-transfer-news-newcastle-sign-lille-forward-ahead-of-transfer-deadline-in-deal-worth-51m",
+      "published": "Tue, 01 Sep 2026 15:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "大阪の NBA の伝説のイバーソンが開口に触発 US Open ログイン",
       "summary": "Naomi Osaka 彼女の通常のファッショナブルな入り口を作った彼女は元 NBA スーパースターをチャンネルアレン・アイバーソン獲得を獲得を問い合わせ全米オープン.",
       "title_original": "Osaka's look inspired by NBA legend Iverson in opening US Open win",
@@ -1929,10 +1945,10 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "イエスが参加するバルセロナからアーセナル",
-      "summary": "ガブリエウ・ジェズス移動完了バルセロナからアーセナル.",
-      "title_original": "Jesus joins Barcelona from Arsenal",
-      "summary_original": "Gabriel Jesus has completed a move to Barcelona from Arsenal.",
+      "title": "イエスが参加するバルセロナ'dream' から移動アーセナル",
+      "summary": "ガブリエウ・ジェズス彼は彼の移動を完了した後に「ドリーム」を満たしていると述べたバルセロナからアーセナル.",
+      "title_original": "Jesus joins Barcelona in 'dream' move from Arsenal",
+      "summary_original": "Gabriel Jesus said he has fulfilled a \"dream\" after completing his move to Barcelona from Arsenal.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13579275/gabriel-jesus-arsenal-forward-completes-barcelona-transfer-in-8-6m-deal-on-deadline-day",
       "published": "Tue, 01 Sep 2026 13:45:00 BST",
@@ -2027,13 +2043,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Chelsea latest: Camara bid rejected as Blues、Fernandez replacement を獲得候補に",
+      "title": "チェルシー最新: PL オプションで Fernandez を交換する Blues も見ています",
       "summary": "",
-      "title_original": "Chelsea latest: Camara bid rejected as Blues eye Fernandez replacement",
+      "title_original": "Chelsea latest: Blues also looking at PL options to replace Fernandez",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Tue, 01 Sep 2026 08:00:00 BST",
+      "published": "Tue, 01 Sep 2026 15:09:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2051,20 +2067,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Scot Prem 最新:セルティック最近の投稿",
-      "summary": "",
-      "title_original": "Scot Prem latest: Celtic close in on FOUR new signings",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "published": "Tue, 01 Sep 2026 08:30:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     }
