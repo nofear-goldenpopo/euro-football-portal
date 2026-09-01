@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T06:47:20.439070+00:00",
+  "updated_at": "2026-09-01T07:06:22.123656+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -872,7 +872,12 @@
     "Kimi Antonelli": "",
     "Italian Grand Prix": "イタリアグランプリ",
     "Mikel Arteta. Monday's": "",
-    "Jadon Sancho": "ジェイドン・サンチョ"
+    "Jadon Sancho": "ジェイドン・サンチョ",
+    "The BRUTAL": "",
+    "Nelson Hysa": "",
+    "Thomas Narmo": "",
+    "Moses Itauma's IBF": "",
+    "Filip Hrgovic. Courtesy": ""
   },
   "items": [
     {
@@ -1744,6 +1749,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "The BRUTAL イタマのアンダーカードでノックアウト!",
+      "summary": "41 歳から Nelson Hysaunbeaten 停止 Thomas Narmo アンダーカードの右手を壊した第2 ラウンド Moses Itauma's IBF ヘビー級クラッシュと Filip Hrgovic. CourtesyDAZN の",
+      "title_original": "The BRUTAL knockout on Itauma undercard!",
+      "summary_original": "41-year-old Nelson Hysa stopped unbeaten Thomas Narmo in the second round with a devastating right hand on the undercard of Moses Itauma's IBF heavyweight clash with Filip Hrgovic. Courtesy of DAZN.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13578881/boxing-brutal-right-hand-knockout-on-moses-itauma-undercard",
+      "published": "Sun, 30 Aug 2026 10:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "大阪チャンネル NBA レジェンド Iverson がオープンした様子を触発 US Open ログイン",
       "summary": "Naomi Osaka 彼女の通常のファッショナブルな入り口を作った彼女は元 NBA スーパースターをチャンネルアレン・アイバーソン彼女の一部として US Open デビュー。",
       "title_original": "Osaka channels NBA legend Iverson inspired look in opening US Open win",
@@ -1842,13 +1861,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "エヴァートン最新: Toffees は£40m Balogun の獲得で合意します",
+      "title": "エヴァートン最新: グリースセットメディカルチェックと£40m バロウン契約合意",
       "summary": "",
-      "title_original": "Everton latest: Toffees agree £40m Balogun deal",
+      "title_original": "Everton latest: Grealish set for medical and £40m Balogun deal agreed",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Mon, 31 Aug 2026 20:32:00 BST",
+      "published": "Tue, 01 Sep 2026 07:46:00 BST",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
@@ -1856,9 +1875,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "McIlroy:「Grumpy」世界 No2 は「新しい目標」を必要としません FedEx Cup クレーム",
+      "title": "'grumpy' McIlroy は、新しいゴールが必要 FedEx Cup 入学条件",
       "summary": "ローリー・マキロイ元ゴルファーによると、彼の家命のバランスをとりながら、彼は本当に世界 No 1 になりたいどのくらいを評価する必要があります Rob Lee.",
-      "title_original": "McIlroy: 'Grumpy' world No 2 needs 'new goal' after FedEx Cup claims",
+      "title_original": "Does 'grumpy' McIlroy need new goal after FedEx Cup admission?",
       "summary_original": "Rory McIlroy needs to assess how much he truly wants to be world No 1 again alongside balancing his home life, according to former golfer Rob Lee.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13579554/rory-mcilroys-desire-will-dictate-future-as-scottie-scheffler-tipped-to-relight-opponents-fire",
@@ -1979,20 +1998,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "US Open スコア: キー、フリッツ、フィーリー、ホダー、チョインスキー、ジョーンズ、毎週火曜日",
-      "summary": "",
-      "title_original": "US Open scores: Keys, Fritz, Fery, Jodar, Choinski and Jones all playing Tuesday",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/scores-schedule",
-      "published": "Tue, 01 Sep 2026 00:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
