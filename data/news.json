@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T05:50:28.326962+00:00",
+  "updated_at": "2026-09-01T06:07:50.668932+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1100,20 +1100,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g7ljprwzmo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 05:45:38 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "ラミン・ヤマルそして、ラフィーニャスコア2 回としてバルセロナヒット 5",
       "summary": "ラミン・ヤマルそして、ラフィーニャスコア2 回としてバルセロナビートラージョ・バジェカーノ5-2 インチラ・リーガ.",
       "title_original": "Lamine Yamal and Raphinha score twice as Barcelona hit five",
@@ -1293,6 +1279,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "'Nothing left to give' - 伝説 Messi 終了 アルゼンチン キャリア",
+      "summary": "アルゼンチン 素晴らしいリオネル・メッシ退職後退の発表インテル国民のサッカーは「急ぎ」と判断したが、「時が来た」と理解している。",
+      "title_original": "'Nothing left to give' - legend Messi ends Argentina career",
+      "summary_original": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 15:18:39 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1800,13 +1800,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "チェルシー最新:トッテナム Tosin と Mudryk の二重移動で閉じる",
+      "title": "チェルシー最新:Sanchez 出口が合意しましたトッテナム二重署名で閉じる",
       "summary": "",
-      "title_original": "Chelsea latest: Spurs close in on double move for Tosin and Mudryk",
+      "title_original": "Chelsea latest: Sanchez exit agreed as Spurs close in on double signing",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Mon, 31 Aug 2026 14:34:00 BST",
+      "published": "Tue, 01 Sep 2026 07:00:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
