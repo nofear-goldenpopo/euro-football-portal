@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T09:06:08.106324+00:00",
+  "updated_at": "2026-09-01T09:26:00.091293+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -894,7 +894,11 @@
     "Melvin Bard": "メルヴァン・バール",
     "Joe Worrall": "",
     "Roma's Kone": "",
-    "Manu Kone": "マヌ・コネ"
+    "Manu Kone": "マヌ・コネ",
+    "Mamadou Sangare": "ママドゥ・サンガレ",
+    "Gonzalo Garcia": "",
+    "Every Deadline Day": "",
+    "Sky Sports' Robert Lee": ""
   },
   "items": [
     {
@@ -1108,20 +1112,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "アーセナルアルバレスの遅い移動を探検 - 火曜日のゴシップ",
-      "summary": "アーセナルまだまだインテル署名で ested フリアン・アルバレス, リヴァプールから£30m 入札を拒否ノッティンガム・フォレスト獲得を獲得を問い合わせ Trey Nyoni, ボルシア・ドルトムント動くことを考慮するジェイドン・サンチョ.",
-      "title_original": "Arsenal explore late move for Alvarez - Tuesday gossip",
-      "summary_original": "Arsenal still interested in signing Julian Alvarez, Liverpool reject £30m bid from Nottingham Forest for Trey Nyoni, Borussia Dortmund consider move for Jadon Sancho.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyz130nxkro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 05:43:23 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "Wrexham の印 Burnley の擁護者 Worrall",
       "summary": "まだ Wrexham を飼っている方クリーンシート今シーズン、サインセンターバック Joe Worrall チャンピオンシップライバルバーニーから。",
       "title_original": "Wrexham sign Burnley defender Worrall",
@@ -1132,6 +1122,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "夏の署名は、すでに影響を生む - Sangare、ロジャース、Enciso",
+      "summary": "BBC について スポーツは、新しい飛行開始に降り得る夏の署名を見ていきますプレミアリーグ季節限定の季節限定ママドゥ・サンガレ, モーガン・ロジャーズ, Julio Enciso, Gonzalo Garcia そして、Victor Munoz.",
+      "title_original": "The summer signings already making an impact - Sangare, Rogers, Enciso",
+      "summary_original": "BBC Sport takes a look at the summer signings getting off to a flying start in the new Premier League season, featuring Mamadou Sangare, Morgan Rogers, Julio Enciso, Gonzalo Garcia and Victor Munoz.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm2q1yn6620o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 09:22:03 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -1324,7 +1328,7 @@
       "summary_original": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Will and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of head",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 08:57:00 GMT",
+      "published": "Tue, 01 Sep 2026 09:10:31 GMT",
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
@@ -1752,12 +1756,26 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "チェルシー、ローマの Kone 獲得で合意",
+      "title": "Every Deadline Day 獲得を獲得を問い合わせ",
+      "summary": "2026 夏移籍市場イングランドは9 月1 日の午後11 時を過ぎます。完了したすべての移籍をキーリーグで追跡する Deadline Day.",
+      "title_original": "Every Deadline Day deal....",
+      "summary_original": "The 2026 summer transfer window closes in England at 11pm on September 1. Keep track of all the done deals across the key leagues on Deadline Day.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579708/transfer-deadline-day-deals-summer-2026-confirmed-moves-across-premier-league-championship-efl-europe-and-more",
+      "published": "Tue, 01 Sep 2026 09:15:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "チェルシー同意する契約に近いローマの コーン",
       "summary": "チェルシー合意に近いローマフランスのミッドフィルダーに署名するマヌ・コネ、イタリアの空に従って。",
-      "title_original": "Chelsea agree deal for Roma's Kone",
+      "title_original": "Chelsea close to agreeing deal for Roma's Kone",
       "summary_original": "Chelsea are close to an agreement with Roma to sign France midfielder Manu Kone, according to Sky in Italy.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579726/chelsea-transfer-latest-roma-midfielder-manu-kone-set-for-deadline-day-move-with-jamie-gittens-heading-the-other-way-on-loan",
+      "url": "https://www.skysports.com/football/news/12040/13579726/chelsea-transfer-latest-deal-close-for-roma-midfielder-manu-kone-as-loan-explored-for-jamie-gittens-to-go-the-other-way",
       "published": "Tue, 01 Sep 2026 09:55:00 BST",
       "category": "epl",
       "type": "epl",
@@ -1920,10 +1938,10 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "'grumpy' McIlroy は、新しいゴールが必要 FedEx Cup 入学条件",
-      "summary": "ローリー・マキロイ元ゴルファーによると、彼の家命のバランスをとりながら、彼は本当に世界 No 1 になりたいどのくらいを評価する必要があります Rob Lee.",
-      "title_original": "Does 'grumpy' McIlroy need new goal after FedEx Cup admission?",
-      "summary_original": "Rory McIlroy needs to assess how much he truly wants to be world No 1 again alongside balancing his home life, according to former golfer Rob Lee.",
+      "title": "'grumpy' McIlroy は FedExCup の入学後に新しい目標が必要ですか?",
+      "summary": "ローリー・マキロイ彼が本当に世界にしたいどのくらいを評価する必要があります。1 再び彼の家庭の人生のバランスをとりながら、Sky Sports' Robert Lee.",
+      "title_original": "Does 'grumpy' McIlroy need new goal after FedExCup admission?",
+      "summary_original": "Rory McIlroy needs to assess how much he truly wants to be world No 1 again alongside balancing his home life, according to Sky Sports' Robert Lee.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13579554/rory-mcilroys-desire-will-dictate-future-as-scottie-scheffler-tipped-to-relight-opponents-fire",
       "published": "Mon, 31 Aug 2026 19:50:00 BST",
@@ -2001,20 +2019,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Constitution Hill 土曜日にケンプトンで深刻なテストを設定する",
-      "summary": "Constitution Hill 彼が行くとき、彼はフラットに彼の大レースの野望の深刻な検査に直面している可能性が高い William Hill September Stakes 獲得を獲得を問い合わせ Kempton Park 土曜日、新しいジョッキーと Billy Loughnane サドルで。",
-      "title_original": "Constitution Hill set for serious test at Kempton on Saturday",
-      "summary_original": "Constitution Hill looks likely to face a serious examination of his big-race ambitions on the Flat when he goes for the William Hill September Stakes at Kempton Park on Saturday, with new jockey Billy Loughnane in the saddle.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13579512/constitution-hill-set-for-serious-test-at-kempton-on-saturday",
-      "published": "Mon, 31 Aug 2026 17:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
