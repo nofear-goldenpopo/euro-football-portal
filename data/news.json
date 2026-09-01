@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T20:51:20.553246+00:00",
+  "updated_at": "2026-09-01T21:06:28.907930+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -981,7 +981,12 @@
     "Monaco's Camara": "",
     "Monaco’s Lamine Camara": "",
     "Divine Mukasa": "",
-    "Lamine Camara": "ラミン・カマラ"
+    "Lamine Camara": "ラミン・カマラ",
+    "Chelsea's Mudryk": "",
+    "Romelle Donovan": "",
+    "Bramall Lane": "",
+    "Bristol City": "ブリストル・シティFC",
+    "In-form Swansea": ""
   },
   "items": [
     {
@@ -1013,13 +1018,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "マンチェスター・シティログインエヴァートン'Ndiaye - しかし、彼は£65m の価値がありますか?",
+      "title": "ノンリーグのサッカーから£65m への Ndiaye の旅マンチェスター・シティログイン",
       "summary": "マンチェスター・シティサインウィンガーIliman Ndiaye からエヴァートン£65m まで価値のある移籍。",
-      "title_original": "Man City sign Everton's Ndiaye - but is he worth £65m?",
+      "title_original": "Ndiaye's journey from non-league football to £65m Man City move",
       "summary_original": "Manchester City sign winger Iliman Ndiaye from Everton in a deal worth up to £65m.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 20:41:44 GMT",
+      "published": "Tue, 01 Sep 2026 20:57:48 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1055,6 +1060,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "トッテナムログインチェルシームドリクレンタル移籍で",
+      "summary": "トッテナムログインチェルシーウィンガーミハイロ・ムドリク レンタル移籍で季節の終わりまで。",
+      "title_original": "Tottenham sign Chelsea's Mudryk on loan",
+      "summary_original": "Tottenham sign Chelsea winger Mykhailo Mudryk on loan until the end of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70dkdyd5r9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 21:00:39 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "サンダーランドサイントッテナムディフェンダーダンソレンタル移籍で",
       "summary": "Sunderland はオーストリアの擁護者を署名しました Kevin Danso からトッテナム季節が終わるまで融資契約上。",
       "title_original": "Sunderland sign Spurs defender Danso on loan",
@@ -1083,20 +1102,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "膝の怪我でシーズンのスタートを逃すミデマ",
-      "summary": "フィフィアネ・ミデマースタートを逃す Women's Super League 膝の怪我のためシーズン。",
-      "title_original": "Miedema to miss start of season with knee injury",
-      "summary_original": "Vivianne Miedema will miss the start of the Women's Super League season because of a knee injury.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0rez8re11ko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 18:26:12 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "振込期限日のご案内",
       "summary": "重要な署名と出発をチェックプレミアリーグ, Scottish Premiership、EFL および Women's Super League.",
       "title_original": "Every done deal on transfer deadline day",
@@ -1108,6 +1113,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "膝の怪我でシーズンのスタートを逃すミデマ",
+      "summary": "フィフィアネ・ミデマースタートを逃す Women's Super League 膝の怪我のためシーズン。",
+      "title_original": "Miedema to miss start of season with knee injury",
+      "summary_original": "Vivianne Miedema will miss the start of the Women's Super League season because of a knee injury.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0rez8re11ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 18:26:12 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1174,20 +1193,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 01 Sep 2026 12:24:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "クリスタル・パレス£30m Fofana のサンダーランドバトリング",
-      "summary": "クリスタル・パレス Sunderland の移動をハイジャックしようとするリヨンマリック・フォファナ",
-      "title_original": "Palace and Sunderland battling for £30m Fofana",
-      "summary_original": "Crystal Palace attempt to hijack Sunderland's move for Lyon's Malick Fofana.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 12:16:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1391,17 +1396,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "アーセナル'Nwaneri 参加ドルトムント レンタル移籍で",
-      "summary": "ドイツクラブボルシア・ドルトムントサインインイーサン・ヌワネリ季節の融資からアーセナル.",
-      "title_original": "Arsenal's Nwaneri joins Dortmund on loan",
-      "summary_original": "German club Borussia Dortmund signs Ethan Nwaneri on a season-long loan from Arsenal.",
+      "title": "クリスタル・パレス£30m Fofana のサンダーランドバトリング",
+      "summary": "クリスタル・パレス Sunderland の移動をハイジャックしようとするリヨンマリック・フォファナ",
+      "title_original": "Palace and Sunderland battling for £30m Fofana",
+      "summary_original": "Crystal Palace attempt to hijack Sunderland's move for Lyon's Malick Fofana.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 18:32:20 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 12:16:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1411,7 +1416,7 @@
       "summary_original": "Chelsea to sign Monaco’s Lamine Camara in £47m move Men’s transfer interactive : all the deadline-day deals You can mail Daniel and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of headin",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 20:43:36 GMT",
+      "published": "Tue, 01 Sep 2026 20:46:12 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1825,6 +1830,48 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "FREE STREAM: Deadline Day 獲得を獲得を問い合わせ Sky Sports News",
+      "summary": "",
+      "title_original": "FREE STREAM: Deadline Day on Sky Sports News",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "published": "Tue, 01 Sep 2026 21:55:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "シェフィールド・ユナイテッド FC5 つのゴールスリラーでエッジボルトンに戻ってヒット",
+      "summary": "Romelle Donovan 勝者を付与するために追加された時間につかむシェフィールド・ユナイテッド FC3-2 ボルトンの勝利 Bramall Lane.",
+      "title_original": "Sheff Utd hit back to edge Bolton in five-goal thriller",
+      "summary_original": "Romelle Donovan grabbed the winner in time added on to give Sheffield United a 3-2 victory over Bolton at Bramall Lane.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/sheffield-united-vs-bolton-wanderers/report/560538",
+      "published": "Tue, 01 Sep 2026 21:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ブリストル・シティ FC 勝つ パイル より多くの 不幸 に struggling Preston",
+      "summary": "後半の目標は2 つ助けましたブリストル・シティ FCDeepdale でスピリットされた Preston 3-1 を脱いでいるため、安全なバックツーバックチャンピオンシップが勝ちます。",
+      "title_original": "Bristol City win piles more misery on struggling Preston",
+      "summary_original": "Two late goals helped Bristol City secure back-to-back Championship wins as they saw off spirited Preston 3-1 at Deepdale.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/preston-north-end-vs-bristol-city/report/560537",
+      "published": "Tue, 01 Sep 2026 21:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ウェストハムシーズンの最初のリーグ勝利を主張する Wolves を打つ",
       "summary": "Divine Mukasa スコアは2 回としてウェストハム Wolves 4-2 を打つと、最後のシーズンのチャンピオンシップへのリレギンス以来、最初の 3 つのポイントをピックアップします。",
       "title_original": "West Ham beat Wolves to claim first league win of the season",
@@ -1832,6 +1879,34 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/west-ham-united-vs-wolverhampton-wanderers/report/560541",
       "published": "Tue, 01 Sep 2026 21:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "In-form Swansea ワットフォードを過ぎる容易さ",
+      "summary": "Swansea がトップを移動 EFL チャンピオンシップワトフォードを上回る2-0 の家の勝利を使って。",
+      "title_original": "In-form Swansea ease past Watford",
+      "summary_original": "Swansea moved top of the Sky Bet Championship with a 2-0 home win over Watford.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/swansea-city-vs-watford/report/560540",
+      "published": "Tue, 01 Sep 2026 21:30:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ウェストハムスリラーで Wolves を打ちます。ダービー、スワン&ストークウィン - EFL ハイライト",
+      "summary": "",
+      "title_original": "West Ham beat Wolves in thriller; Derby, Swans & Stoke win - EFL highlights",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13579446/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
+      "published": "Tue, 01 Sep 2026 19:15:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1864,20 +1939,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ウェストハムスリラーでヴォルフを打つ; バーミンガムペグバックサンツ -EFL LIVE!",
-      "summary": "",
-      "title_original": "West Ham beat Wolves in thriller; Birmingham peg back Saints - EFL LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/west-ham-united-vs-wolverhampton-wanderers/live/560541",
-      "published": "Tue, 01 Sep 2026 19:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -2046,62 +2107,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "カララ:エンゾ署名は作りますマンチェスター・シティ アーセナル一番近いタイトルチャレンジ",
-      "summary": "Sky Sports' Jamie Carragher 署名を信じる Enzo Fernandez 作るマンチェスター・シティ最大のチャレンジアーセナルレース中プレミアリーグタイトル。",
-      "title_original": "Carra: Enzo signing makes Man City Arsenal's closest title challengers",
-      "summary_original": "Sky Sports' Jamie Carragher believes the signing of Enzo Fernandez will make Manchester City the biggest challenge to Arsenal in the race for the Premier League title.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13579949/manchester-city-agree-deal-for-enzo-fernandez-jamie-carragher-explains-impact-of-big-money-signing",
-      "published": "Tue, 01 Sep 2026 17:12:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マンチェスター・シティフェナンデスに署名するレコード装備獲得で合意",
-      "summary": "マンチェスター・シティ契約の合意チェルシー署名する Enzo Fernandez£125m 用",
-      "title_original": "Man City agree record-equalling deal to sign Fernandez",
-      "summary_original": "Manchester City have agreed a deal with Chelsea to sign Enzo Fernandez for £125m.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579667/enzo-fernandez-transfer-news-manchester-city-agree-125m-deal-to-sign-chelsea-midfielder-on-deadline-day",
-      "published": "Tue, 01 Sep 2026 16:58:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Sorensen joins as Celtic、SIX signings while McInnes shares Rangers update を獲得候補に",
-      "summary": "",
-      "title_original": "Sorensen joins as Celtic target SIX signings while McInnes shares Rangers update",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "published": "Tue, 01 Sep 2026 19:43:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "バットではなく、ボールで「円筒」 - イングランドが困難が始まる後にアイルランドを打つ方法",
-      "summary": "",
-      "title_original": "'Clinical' with the bat but not the ball - how England beat Ireland after iffy start",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13579786/england-vs-ireland-first-womens-odi-live-latest-cricket-score-updates-videos-and-analysis-from-leicester",
-      "published": "Tue, 01 Sep 2026 12:16:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
