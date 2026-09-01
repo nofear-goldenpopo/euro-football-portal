@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T17:35:45.648743+00:00",
+  "updated_at": "2026-09-01T17:49:31.313349+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -964,7 +964,11 @@
     "Man City Arsenal's": "",
     "Ireland LIVE": "",
     "Mile High Stadium": "マイル・ハイ・スタジアム",
-    "RB Le": ""
+    "RB Le": "",
+    "Dual Gold Cup": "",
+    "Galopin Des Champs": "",
+    "Two-time Cheltenham Gold Cup": "",
+    "Moses Itauma's": ""
   },
   "items": [
     {
@@ -1003,6 +1007,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c305m3jqy89o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 01 Sep 2026 16:23:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "エヴァートン再署名同意する Grealish レンタル移籍で Beto の葉として",
+      "summary": "エヴァートン獲得を獲得を問い合わせ Jack Grealish 季節融資のクラブに戻るマンチェスター・シティそして Beto の葉のためのフィオレンティーナ.",
+      "title_original": "Everton agree to re-sign Grealish on loan as Beto leaves",
+      "summary_original": "Everton agree a deal for Jack Grealish to return to the club on a season-long loan from Manchester City and Beto leaves for Fiorentina.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70dkgx1yepo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 17:39:13 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1094,20 +1112,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Ahanor は1 日後に2 クラブで発表しましたチェルシートレーニング",
-      "summary": "チェルシー十代の守護者発表 Honest Ahanor2027 年以降クラブに参加しますアタランタプレイヤーはローンを完了しましたクリスタル・パレス.",
-      "title_original": "Ahanor announced by two clubs in one day after Chelsea workaround",
-      "summary_original": "Chelsea announce teenage defender Honest Ahanor will join the club in 2027 after the Atalanta player has completed a loan at Crystal Palace.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 12:47:43 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "振込期限日のご案内",
       "summary": "重要な署名と出発をチェックプレミアリーグ, Scottish Premiership、EFL および Women's Super League.",
       "title_original": "Every done deal on transfer deadline day",
@@ -1115,6 +1119,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 01 Sep 2026 17:16:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Ahanor は1 日後に2 クラブで発表しましたチェルシートレーニング",
+      "summary": "チェルシー十代の守護者発表 Honest Ahanor2027 年以降クラブに参加しますアタランタプレイヤーはローンを完了しましたクリスタル・パレス.",
+      "title_original": "Ahanor announced by two clubs in one day after Chelsea workaround",
+      "summary_original": "Chelsea announce teenage defender Honest Ahanor will join the club in 2027 after the Atalanta player has completed a loan at Crystal Palace.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 12:47:43 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1161,20 +1179,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "エヴァートン再署名同意する Grealish レンタル移籍でからマンチェスター・シティ",
-      "summary": "エヴァートン獲得を獲得を問い合わせ Jack Grealish 季節融資のクラブに戻るマンチェスター・シティ.",
-      "title_original": "Everton agree to re-sign Grealish on loan from Man City",
-      "summary_original": "Everton agree a deal for Jack Grealish to return to the club on a season-long loan from Manchester City.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70dkgx1yepo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 12:27:37 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1374,17 +1378,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "トロイさんを作った人プレミアリーグ週のチーム?",
-      "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を獲得を問い合わせ",
-      "title_original": "Who has made Troy's Premier League team of the week?",
-      "summary_original": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "title": "アルテタエリート250 クラブに参加する - しかし、彼はランク付けする場所?",
+      "summary": "アーセナルの のファンは、再びリーグを勝ち取ることについて歌っていますミケル・アルテタ. 月曜日の1-0 勝利でアストン・ヴィラ長任のマネージャーの下で開発された強みを実証しました。",
+      "title_original": "Arteta joins elite 250 club - but where does he rank?",
+      "summary_original": "Arsenal's fans are singing about winning the league again under Mikel Arteta. Monday's 1-0 win at Aston Villa demonstrated the strengths they have developed under their long-serving manager.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 23:00:03 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4z8qjx931o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 23:15:36 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1394,7 +1398,7 @@
       "summary_original": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Daniel and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of he",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 17:25:13 GMT",
+      "published": "Tue, 01 Sep 2026 17:36:25 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1459,9 +1463,9 @@
     },
     {
       "title": "Barcelona breeze past Rayo but all、in Spain remain on Julián Álvarez を獲得候補に",
-      "summary": "ハンジ・フリック獲得を獲得を問い合わせガブリエウ・ジェズス獲得を獲得を問い合わせバルセロナ. しかし、フリアン・アルバレス究極の賞品を残す場合ラフィーニャメイクシフト No9 として再生についての間違いはありませんバルセロナ、彼はそれを隠すのに良い仕事をしています。フリアン・アルバレススペイン語のチャンピオンに触発されたブラジルの2 つのきちんとしたフィニッシュを5〜2 勝利に誇りに思いますラージョ・バジェカーノ月曜日の夜、振替休日の24 時間前。ラミン・ヤマル自身の2 つの素晴らしい目標を、パナックで得た",
+      "summary": "ハンジ・フリック獲得を獲得を問い合わせガブリエウ・ジェズス獲得を獲得を問い合わせバルセロナ– しかし、フリアン・アルバレス究極の賞品を残す場合ラフィーニャメイクシフト No9 として再生についての間違いはありませんバルセロナ、彼はそれを隠すのに良い仕事をしています。フリアン・アルバレススペイン語のチャンピオンに触発されたブラジルの2 つのきちんとしたフィニッシュを5〜2 勝利に誇りに思いますラージョ・バジェカーノ月曜日の夜、振替休日の24 時間前。ラミン・ヤマル演奏会で自分の2 つの素晴らしい目標を獲得しました",
       "title_original": "Barcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
-      "summary_original": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona. But Julián Álvarez remains the ultimate prize If Raphinha has any misgivings about playing as a makeshift No 9 for Barcelona, he is doing a good job of hiding it. Julián Álvarez would have been proud of the Brazilian’s two neat finishes that inspired the Spanish champions to a 5-2 victory against Rayo Vallecano on Monday night, 24 hours before the transfer deadline. Lamine Yamal scored two wonderful goals of his own in a performanc",
+      "summary_original": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona – but Julián Álvarez remains the ultimate prize If Raphinha has any misgivings about playing as a makeshift No 9 for Barcelona, he is doing a good job of hiding it. Julián Álvarez would have been proud of the Brazilian’s two neat finishes that inspired the Spanish champions to a 5-2 victory against Rayo Vallecano on Monday night, 24 hours before the transfer deadline. Lamine Yamal scored two wonderful goals of his own in a performan",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarez",
       "published": "Tue, 01 Sep 2026 09:42:25 GMT",
@@ -1808,6 +1812,34 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "ニューカッスル最新:ユヴェントスサインイン Woltemade レンタル移籍で",
+      "summary": "",
+      "title_original": "Newcastle latest: Juventus sign Woltemade on loan",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Tue, 01 Sep 2026 18:41:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Dual Gold Cup 受賞者 Galopin Des Champs ダイス 10 歳",
+      "summary": "Two-time Cheltenham Gold Cup ヒーローGalopin Des Champs 接続で退職後1 週間未満のフィールドで事故で支えられた怪我から死亡しました。",
+      "title_original": "Dual Gold Cup winner Galopin Des Champs dies aged 10",
+      "summary_original": "Two-time Cheltenham Gold Cup hero Galopin Des Champs has died from injuries sustained in an accident in a field less than a week after being retired by connections.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13579978/galopin-des-champs-two-time-cheltenham-gold-cup-winner-dies-aged-10-following-accident-in-field",
+      "published": "Tue, 01 Sep 2026 18:27:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "ウェストハム最新:Todibo がレンズに参加レンタル移籍で",
       "summary": "",
       "title_original": "West Ham latest: Todibo joins Lens on loan",
@@ -1822,13 +1854,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "リーズ最新: トークは署名を開始しますブンデスリーガ'最速のプレーヤー",
+      "title": "リーズ最新: ディールは署名に合意ブンデスリーガ'最速のプレーヤー",
       "summary": "",
-      "title_original": "Leeds latest: Talks begin to sign Bundesliga's fastest player",
+      "title_original": "Leeds latest: Deal agreed to sign Bundesliga's fastest player",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Tue, 01 Sep 2026 13:00:00 BST",
+      "published": "Tue, 01 Sep 2026 18:33:00 BST",
       "category": "bundesliga",
       "type": "bundesliga",
       "label": "ブンデス",
@@ -1864,9 +1896,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Sunderland 最新:ベンフィカ Fofana の代替品として並ぶ winger",
+      "title": "Sunderland 最新:ブラックキャット2 人の翼のために行く Deadline Day",
       "summary": "",
-      "title_original": "Sunderland latest: Benfica winger being lined up as Fofana alternative",
+      "title_original": "Sunderland latest: Black Cats going for two wingers on Deadline Day",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -1920,9 +1952,23 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "イングランドは2 つのクイックウィケットを失いますが、もちろんビート Ireland LIVE!",
+      "title": "「彼は十分なスペアをしませんでした」 - イタマの準備は質問しました",
+      "summary": "Moses Itauma's 準備は、彼の驚くべきニンスラウンド TKO 敗北に続いて疑問にありました Filip Hrgovic.",
+      "title_original": "'He didn't spar enough' - Itauma preparations questioned",
+      "summary_original": "Moses Itauma's preparations have been questioned following his devastating ninth-round TKO defeat to Filip Hrgovic.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13579952/moses-itauma-preparations-questioned-after-defeat-to-filip-hrgovic-but-heavyweight-star-is-backed-to-become-world-champion",
+      "published": "Tue, 01 Sep 2026 18:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ブチアーは勝利に勝つためにイングランドのクルーズとして2 番目の ODI100 に当たる Ireland LIVE!",
       "summary": "",
-      "title_original": "England lose two quick wickets but on course to beat Ireland LIVE!",
+      "title_original": "Bouchier hits second ODI hundred as England cruise towards win over Ireland LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13579786/england-vs-ireland-first-womens-odi-live-latest-cricket-score-updates-videos-and-analysis-from-leicester",
@@ -2039,48 +2085,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13578004/kimi-antonelli-why-is-mercedes-driver-taking-grid-penalties-at-italian-grand-prix-in-monza-on-home-soil",
       "published": "Tue, 01 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "The BRUTAL イタマのアンダーカードでノックアウト!",
-      "summary": "41 歳から Nelson Hysaunbeaten 停止 Thomas Narmo アンダーカードの右手を壊した第2 ラウンド Moses Itauma's IBF ヘビー級クラッシュと Filip Hrgovic. CourtesyDAZN の",
-      "title_original": "The BRUTAL knockout on Itauma undercard!",
-      "summary_original": "41-year-old Nelson Hysa stopped unbeaten Thomas Narmo in the second round with a devastating right hand on the undercard of Moses Itauma's IBF heavyweight clash with Filip Hrgovic. Courtesy of DAZN.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13578881/boxing-brutal-right-hand-knockout-on-moses-itauma-undercard",
-      "published": "Sun, 30 Aug 2026 10:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ニューカッスル、リールから Fernandez-Pardo を獲得",
-      "summary": "ニューカッスル署名済み Matias Fernandez-Pardo フレンチクラブリール£51m 相当の移籍",
-      "title_original": "Newcastle sign Fernandez-Pardo from Lille",
-      "summary_original": "Newcastle United have signed Matias Fernandez-Pardo from French club Lille in a deal worth £51m.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579855/matias-fernandez-pardo-transfer-news-newcastle-sign-lille-forward-ahead-of-transfer-deadline-in-deal-worth-51m",
-      "published": "Tue, 01 Sep 2026 15:52:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "大阪の NBA の伝説のイバーソンが開口に触発 US Open ログイン",
-      "summary": "Naomi Osaka 彼女の通常のファッショナブルな入り口を作った彼女は元 NBA スーパースターをチャンネルアレン・アイバーソン獲得を獲得を問い合わせ全米オープン.",
-      "title_original": "Osaka's look inspired by NBA legend Iverson in opening US Open win",
-      "summary_original": "Naomi Osaka made her usual fashionable entrance as she channelled former NBA superstar Allen Iverson at the US Open.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13579641/us-open-naomi-osaka-inspired-by-nba-legend-allen-iverson-for-night-session-outfit",
-      "published": "Tue, 01 Sep 2026 05:24:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
