@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T23:05:42.737236+00:00",
+  "updated_at": "2026-09-01T23:20:54.645155+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1016,7 +1016,10 @@
     "Jackson Koivun": "",
     "Jason Day": "",
     "International Team": "",
-    "On Tuesday": ""
+    "On Tuesday": "",
+    "Ben Chilwell": "",
+    "RC Strasbourg": "RCストラスブール",
+    "Enzo Fernandez's": ""
   },
   "items": [
     {
@@ -1076,13 +1079,13 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "エヴァートンサインイン グルガリッシュ として Zirkzee 滞在 時マンチェスター・ユナイテッド",
-      "summary": "エヴァートンログイン Jack Grealish 季節限定のローン契約からマンチェスター・シティしかし、見逃してしまったマンチェスター・ユナイテッドジョシュア・ジルクゼ",
-      "title_original": "Everton sign Grealish as Zirkzee stays at Man Utd",
-      "summary_original": "Everton sign Jack Grealish on a season-long loan deal from Manchester City but have missed out on Manchester United's Joshua Zirkzee.",
+      "title": "エヴァートン署名 グレアルッシュ と クローズ オン バロウン 移籍",
+      "summary": "エヴァートンログイン Jack Grealish 季節限定のローン契約からマンチェスター・シティそして署名に近いです Folarin Balogun からモナコ.",
+      "title_original": "Everton sign Grealish and close in on Balogun deal",
+      "summary_original": "Everton sign Jack Grealish on a season-long loan deal from Manchester City and are close to signing Folarin Balogun from Monaco.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 21:54:30 GMT",
+      "published": "Tue, 01 Sep 2026 23:13:14 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1152,7 +1155,21 @@
       "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 23:02:40 GMT",
+      "published": "Tue, 01 Sep 2026 23:13:35 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "クリスタル・パレス Chilwell を永続契約に再署名",
+      "summary": "クリスタル・パレス再署名されたイングランドを持っているインテル全国 Ben Chilwell 永続的な移籍から RC ストラスブール.",
+      "title_original": "Crystal Palace re-sign Chilwell on permanent deal",
+      "summary_original": "Crystal Palace have re-signed England international Ben Chilwell on permanent deal from RC Strasbourg.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crr4d0x0175o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 23:11:02 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1213,20 +1230,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "エンジェルはフルハムの3 分の1 になりますレアル・マドリード夏のサイン",
-      "summary": "Manuel Angel からフルハムに参加する3 番目のプレーヤーになりましたレアル・マドリードこの夏",
-      "title_original": "Angel becomes Fulham's third Real Madrid signing of summer",
-      "summary_original": "Manuel Angel has become the third player to join Fulham from Real Madrid this summer",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4grzg0jzgzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 21:19:42 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1426,17 +1429,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "アストン・ヴィラサイン Mbaye と Harwood-Bellis",
-      "summary": "アストン・ヴィラ Senegal のウィンガーの署名を完了して下さいイブラヒム・エンバイェからパリ・サンジェルマン英語センターバック Taylor Harwood-Bellis 南 ampton から。",
-      "title_original": "Aston Villa sign Mbaye and Harwood-Bellis",
-      "summary_original": "Aston Villa complete the signings of Senegal winger Ibrahim Mbaye from Paris St-Germain and English centre-back Taylor Harwood-Bellis from Southampton.",
+      "title": "エンジェルはフルハムの3 分の1 になりますレアル・マドリード夏のサイン",
+      "summary": "Manuel Angel からフルハムに参加する3 番目のプレーヤーになりましたレアル・マドリードこの夏",
+      "title_original": "Angel becomes Fulham's third Real Madrid signing of summer",
+      "summary_original": "Manuel Angel has become the third player to join Fulham from Real Madrid this summer",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 12:24:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4grzg0jzgzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 23:19:22 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1446,7 +1449,7 @@
       "summary_original": "Keep up with the last-minute deals as window closes Men’s transfer interactive | Email Niall here A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of heading off to Turkey or Portugal. England, France, Germany, Italy, Spai",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 22:41:30 GMT",
+      "published": "Tue, 01 Sep 2026 23:03:50 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1888,6 +1891,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "US Open スコア: Gauff、Zverev、Monfils は一晩の行為で作用します",
+      "summary": "",
+      "title_original": "US Open scores: Gauff, Zverev and Monfils in overnight action",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/scores-schedule",
+      "published": "Wed, 02 Sep 2026 00:10:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "マンチェスター・シティ英国レコード式移籍のフェナンデスに署名",
       "summary": "マンチェスター・シティ署名済み Enzo Fernandez からチェルシー£125m の共同英国の記録料のため。",
       "title_original": "Man City sign Fernandez in British-record-equalling deal",
@@ -1969,6 +1986,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "記録的な転送費は、誰が本当に幸せですか?",
+      "summary": "野生を集める Transfer Deadline Day 英国の転送記録は、ウィンドウの最終時間に一致していたこと。Enzo Fernandez's からの移動チェルシー獲得を獲得を問い合わせマンチェスター・シティ激しい夏を過ごした夏の恒例の夏。",
+      "title_original": "Record-breaking transfer spend but is anyone really happy?",
+      "summary_original": "It sums up a wild Transfer Deadline Day that the British transfer record was matched in the final hours of the window. Enzo Fernandez's move from Chelsea to Manchester City completed an extraordinary summer in which spending went stratospheric.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13580082/transfer-deadline-day-brings-record-spending-but-will-any-money-be-enough-for-these-premier-league-clubs",
+      "published": "Wed, 02 Sep 2026 00:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -2098,45 +2129,17 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ウェストハムスリラーで Wolves を打ちます。ダービー、スワン&ストークウィン - EFL ハイライト",
-      "summary": "",
-      "title_original": "West Ham beat Wolves in thriller; Derby, Swans & Stoke win - EFL highlights",
-      "summary_original": "",
+      "title": "Every Deadline Day 獲得を獲得を問い合わせ",
+      "summary": "2026 夏移籍市場イングランドは9 月1 日の午後11 時を過ぎます。完了したすべての移籍をキーリーグで追跡する Deadline Day.",
+      "title_original": "Every Deadline Day deal....",
+      "summary_original": "The 2026 summer transfer window closes in England at 11pm on September 1. Keep track of all the done deals across the key leagues on Deadline Day.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13579446/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
-      "published": "Tue, 01 Sep 2026 19:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Capsey catches the、during 'rogue' move to wicketkeeper を獲得候補に",
-      "summary": "ローグの動き? 目を引くワンハンドキャッチを持たせたものの、Alice Capsey's ウィケットキーパーに移動して、チャンスを傷つける Nat Sciver-Brunt's 自然な後継者?",
-      "title_original": "Capsey catches the eye during 'rogue' move to wicketkeeper",
-      "summary_original": "A rogue move? One which brought an eye-catching one-handed catch, but is Alice Capsey's move to wicketkeeper harming her chance to be Nat Sciver-Brunt's natural successor?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13579938/alice-capsey-england-wicketkeeper-impresses-in-first-odi-win-over-ireland-after-rogue-switch-behind-the-stumps",
-      "published": "Tue, 01 Sep 2026 16:59:00 BST",
+      "url": "https://www.skysports.com/football/news/12040/13579708/transfer-deadline-day-deals-summer-2026-confirmed-moves-across-premier-league-championship-efl-europe-and-more",
+      "published": "Tue, 01 Sep 2026 10:30:00 BST",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Experimental England アイルランドの勝利で最高の ODI チェイスに嵐",
-      "summary": "イングランドは、ライスターの6 つのウィケットでアイルランドを打つ実験的な側面として、精巧なフィールドとボウリング性能の後、最も成功した ODI チェイスに風変わりしました。",
-      "title_original": "Experimental England storm to highest ODI chase in win over Ireland",
-      "summary_original": "England breezed to their highest successful ODI chase after an iffy fielding and bowling performance as an experimental side beat Ireland by six wickets in the series opener at Leicester.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13579985/england-beat-ireland-in-first-odi-as-maia-bouchier-scores-century-in-teams-highest-run-chase-in-the-format",
-      "published": "Tue, 01 Sep 2026 19:25:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v7"
     }
   ]
