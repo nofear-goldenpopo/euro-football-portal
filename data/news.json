@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T08:41:58.023095+00:00",
+  "updated_at": "2026-09-01T08:52:39.963690+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -890,7 +890,8 @@
     "Portugal. England": "",
     "Potential Fernandez": "",
     "Supermarket Sweep-style": "",
-    "The Rumour Mill": ""
+    "The Rumour Mill": "",
+    "Melvin Bard": "メルヴァン・バール"
   },
   "items": [
     {
@@ -970,7 +971,35 @@
       "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 07:44:59 GMT",
+      "published": "Tue, 01 Sep 2026 08:46:03 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "リーズ クローズ に すてきな ディフェンダー バード",
+      "summary": "リーズ・ユナイテッド FC 初期に閉じるレンタル移籍 Nice のディフェンダーのためのオプションメルヴァン・バール.",
+      "title_original": "Leeds close in on Nice defender Bard",
+      "summary_original": "Leeds United are closing in on an initial loan move with option for Nice defender Melvin Bard.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyq7qnglx3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 08:36:47 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ドルトムント獲得を獲得を問い合わせレンタル移籍獲得を獲得を問い合わせアーセナル Nwaneri さん",
+      "summary": "ドイツクラブボルシア・ドルトムント獲得を獲得を問い合わせアーセナル署名するイーサン・ヌワネリ季節限定のローン。",
+      "title_original": "Dortmund agree loan move for Arsenal's Nwaneri",
+      "summary_original": "German club Borussia Dortmund agree a deal with Arsenal to sign Ethan Nwaneri on a season-long loan.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 07:34:09 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -985,20 +1014,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 19:12:15 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "ドルトムント獲得を獲得を問い合わせレンタル移籍獲得を獲得を問い合わせアーセナル Nwaneri さん",
-      "summary": "ドイツクラブボルシア・ドルトムント獲得を獲得を問い合わせアーセナル署名するイーサン・ヌワネリ季節限定のローン。",
-      "title_original": "Dortmund agree loan move for Arsenal's Nwaneri",
-      "summary_original": "German club Borussia Dortmund agree a deal with Arsenal to sign Ethan Nwaneri on a season-long loan.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 07:34:09 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1111,20 +1126,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwyz130nxkro?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 01 Sep 2026 05:43:23 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "バルコラ参加するリヴァプールからパリ・サンジェルマン£123m の移動",
-      "summary": "リヴァプールフランスの署名を完了して下さいブラッドリー・バルコラからパリ・サンジェルマン£123m までの料金。",
-      "title_original": "Barcola joins Liverpool from PSG in £123m move",
-      "summary_original": "Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 13:01:22 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
