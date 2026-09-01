@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T10:53:19.198092+00:00",
+  "updated_at": "2026-09-01T11:06:37.200887+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -913,7 +913,12 @@
     "Ibrahim Mbaye": "イブラヒム・エンバイェ",
     "Schumacher-inspired Italian GP": "",
     "Mark Langdon": "",
-    "Newcastle. Continue": ""
+    "Newcastle. Continue": "",
+    "Former Portsmouth": "",
+    "Alan Knight": "",
+    "Former Pakistan": "",
+    "Shahid Afridi": "",
+    "Sarfaraz Ahmed": ""
   },
   "items": [
     {
@@ -1001,9 +1006,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "Hull、1.FC ウニオン・ベルリンから German forward Ansah を獲得",
+      "title": "ハルサインアンサとノートン・カフィに近く",
       "summary": "ハル・シティ AFC サインアップ Ilyas Ansah5 年間の移籍からブンデスリーガサイド1.FC ウニオン・ベルリン.",
-      "title_original": "Hull sign German forward Ansah from Union Berlin",
+      "title_original": "Hull sign Ansah and close on Norton-Cuffy",
       "summary_original": "Hull City sign forward Ilyas Ansah on a five-year deal from Bundesliga side Union Berlin.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o?at_medium=RSS&at_campaign=rss",
@@ -1071,6 +1076,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "Portsmouth のゴールキーパーの伝説の騎士は65 歳の死にます",
+      "summary": "Former Portsmouth ゴールキーパーAlan Knight, 誰がクラブのために801 ゲームを再生しました, 死にます 65 後に前立腺がんと診断した後 2024.",
+      "title_original": "Portsmouth goalkeeper legend Knight dies aged 65",
+      "summary_original": "Former Portsmouth goalkeeper Alan Knight, who played 801 games for the club, dies aged 65 after being diagnosed with prostate cancer in 2024.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z5ze24g7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 10:41:11 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "リーズ クローズ に すてきな ディフェンダー バード",
       "summary": "リーズ・ユナイテッド FC 初期に閉じるレンタル移籍 Nice のディフェンダーのためのオプションメルヴァン・バール.",
       "title_original": "Leeds close in on Nice defender Bard",
@@ -1120,20 +1139,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 19:12:15 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "Mudryk へトッテナムとしてチェルシー'サンチェスはコモに向かう",
-      "summary": "チェルシーオファーを受け取るトッテナムウィンガーミハイロ・ムドリクそして擁護者 Tosin Adarabioyo, だけでなく、ゴールキーパーのためのイタリアのクラブコモから入札 Robert Sanchez.",
-      "title_original": "Mudryk to Spurs as Chelsea's Sanchez heads to Como",
-      "summary_original": "Chelsea accept offers from Tottenham for winger Mykhailo Mudryk and defender Tosin Adarabioyo, as well as a bid from Italian club Como for goalkeeper Robert Sanchez.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gj341p8ypo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 21:05:13 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1343,7 +1348,7 @@
       "summary_original": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Will and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of head",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "published": "Tue, 01 Sep 2026 10:37:19 GMT",
+      "published": "Tue, 01 Sep 2026 10:46:40 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1393,16 +1398,30 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "レディース移籍市場夏の2026:世界のトップ6 リーグからのすべての移籍",
-      "summary": "NWSL、WSL、Liga F、Fauen の各移籍ブンデスリーガ, フランス女子サッカーリーグそして、セリエ AFemminile だけでなく、クラブバイクラブガイド男性移籍市場 インテルアクティブなガイド 続きを読む...",
-      "title_original": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-      "summary_original": "Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide Men’s transfer window interactive guide Continue reading...",
+      "title": "坂は悲嘆の戦いを解決しますアストン・ヴィラ拡張するアーセナル’s 勝ちスタート",
+      "summary": "笑顔に Declan Rice’s 残っている6 分の通常の時間で直面する。彼はちょうどシャットダウンしていた Ian Maatsen としてアストン・ヴィラフルバックは箱にズームしました。アーセナル, 誰ブカヨ・サカ唯一の目標を獲得し、権威的で一見して、ヴィラを腕の長さに保つことに大きな満足を浴びました。Unai Emery’s チャンピオンを試すことに苦労したワーク・イン・プログレス・サイド David Rayauntroubled。記録は、ヴィラがスコリンなしでシーズンの最初の2 リーグの試合を失いました",
+      "title_original": "Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start",
+      "summary_original": "The smile on Declan Rice’s face with six minutes of normal time remaining said it all. He had just shut down Ian Maatsen as the Aston Villa full-back zoomed into the box. Arsenal, for whom Bukayo Saka scored the only goal, were authoritative and seemingly took great satisfaction in keeping Villa at arm’s length. Unai Emery’s work‑in‑progress side struggled to test the champions, David Raya untroubled. The records will show Villa have lost their first two league matches of a season without scorin",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "published": "Tue, 01 Sep 2026 10:18:32 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
+      "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-arsenal-premier-league-match-report",
+      "published": "Mon, 31 Aug 2026 21:08:55 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "Women’s Super League2026-27 プレビュー番号 11:マンチェスター・シティ",
+      "summary": "Beth Mead そして、Niamh Charles 最後のシーズンのガーディアン・ライターの予測位置と同じくらい強いように見えるチャンピオンズのスクワッドへの注目すべき追加: 1st (NB: これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 1st 続きを読む...",
+      "title_original": "Women’s Super League 2026-27 preview No 11: Manchester City",
+      "summary_original": "Beth Mead and Niamh Charles are notable additions to the champions’ squad that looks just as strong as last season Guardian writers’ predicted position: 1st (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 1st Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/01/womens-super-league-preview-manchester-city",
+      "published": "Mon, 31 Aug 2026 23:01:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1418,20 +1437,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "坂は悲嘆の戦いを解決しますアストン・ヴィラ拡張するアーセナル’s 勝ちスタート",
-      "summary": "笑顔に Declan Rice’s 残っている6 分の通常の時間で直面する。彼はちょうどシャットダウンしていた Ian Maatsen としてアストン・ヴィラフルバックは箱にズームしました。アーセナル, 誰ブカヨ・サカ唯一の目標を獲得し、権威的で一見して、ヴィラを腕の長さに保つことに大きな満足を浴びました。Unai Emery’s チャンピオンを試すことに苦労したワーク・イン・プログレス・サイド David Rayauntroubled。記録は、ヴィラがスコリンなしでシーズンの最初の2 リーグの試合を失いました",
-      "title_original": "Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start",
-      "summary_original": "The smile on Declan Rice’s face with six minutes of normal time remaining said it all. He had just shut down Ian Maatsen as the Aston Villa full-back zoomed into the box. Arsenal, for whom Bukayo Saka scored the only goal, were authoritative and seemingly took great satisfaction in keeping Villa at arm’s length. Unai Emery’s work‑in‑progress side struggled to test the champions, David Raya untroubled. The records will show Villa have lost their first two league matches of a season without scorin",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-arsenal-premier-league-match-report",
-      "published": "Mon, 31 Aug 2026 21:08:55 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v7"
     },
     {
@@ -1473,6 +1478,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "レディース移籍市場夏の2026:世界のトップ6 リーグからのすべての移籍",
+      "summary": "NWSL、WSL、Liga F、Fauen の各移籍ブンデスリーガ, フランス女子サッカーリーグそして、セリエ AFemminile だけでなく、クラブバイクラブガイド男性移籍市場 インテルアクティブなガイド 続きを読む...",
+      "title_original": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "summary_original": "Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide Men’s transfer window interactive guide Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "published": "Tue, 01 Sep 2026 10:18:32 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v7"
     },
@@ -1743,20 +1762,6 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "ブルーノ・フェルナンデス輝きと輝きトッテナム無点のまま |Football Weekly ビデオ",
-      "summary": "Max Rushden 獲得を獲得を問い合わせ Barry Glendenning, Nicky Bandini そして、Mark Langdon としてブルーノ・フェルナンデスハトトリックをスコアマンチェスター・ユナイテッド'5-2 は Ipswich に勝ち、トッテナム自宅で2-0 の損失がゼロポイントに残りますニューカッスル. 続きを読む...",
-      "title_original": "Bruno Fernandes brilliance and Spurs remain pointless | Football Weekly video",
-      "summary_original": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Mark Langdon as Bruno Fernandes scores a hattrick in Manchester United’s 5-2 win over Ipswich and Spurs remain on zero points after their 2-0 loss at home to Newcastle. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/aug/31/bruno-fernandes-brilliance-and-spurs-remain-pointless-football-weekly-video",
-      "published": "Mon, 31 Aug 2026 14:40:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
       "title": "今日更新 Sky Sports Racing: ジェシカは Wolverhampton で最初の成功を追います",
       "summary": "毎週火曜日は、定休日の営業をしております。ブライトン, リンフィールド, Ripon と Wolverhampton, ライブ 上の Sky Sports Racing...",
       "title_original": "Today on Sky Sports Racing: Jessica chases first success at Wolverhampton",
@@ -1767,6 +1772,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "パキスタンの卸売は「今までに最も衝撃的な変化」と Afridi 氏は述べています",
+      "summary": "Former Pakistan キャプテン Shahid Afridi セレクターの決定を呼び、スクワッドに変化し、ヘッドコーチを削除 Sarfaraz Ahmed イングランドに対する3 番目と最終テストの先を「今までの衝撃」としました。",
+      "title_original": "Pakistan's wholesale changes 'most shocking ever', says Afridi",
+      "summary_original": "Former Pakistan captain Shahid Afridi has called the selectors' decision to make sweeping changes to the squad and remove head coach Sarfaraz Ahmed ahead of the third and final Test against England as the \"most shocking ever\".",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13579772/pakistans-wholesale-changes-for-final-england-test-called-most-shocking-selection-decision-ever-by-shahid-afridi",
+      "published": "Tue, 01 Sep 2026 11:30:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v7"
     },
@@ -1880,6 +1899,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v7"
+    },
+    {
+      "title": "ヴィラは署名を確認するパリ・サンジェルマンウィンガー Mbaye",
+      "summary": "アストン・ヴィラ署名を確認しましたイブラヒム・エンバイェからパリ・サンジェルマン.",
+      "title_original": "Villa confirm signing of PSG winger Mbaye",
+      "summary_original": "Aston Villa have confirmed the signing of Ibrahim Mbaye from Paris Saint-Germain.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579783/ibrahim-mbaye-aston-villa-confirm-signing-of-18-year-old-paris-saint-germain-winger",
+      "published": "Tue, 01 Sep 2026 11:28:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v7"
     },
     {
@@ -2002,34 +2035,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13579554/rory-mcilroys-desire-will-dictate-future-as-scottie-scheffler-tipped-to-relight-opponents-fire",
       "published": "Mon, 31 Aug 2026 19:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "マンチェスター・シティ同意する £65m Ndiaye 移籍",
-      "summary": "マンチェスター・シティ£65m の移籍合意エヴァートンウィンガーIliman Ndiaye 代替手段としてコーディ・ガクポ.",
-      "title_original": "Man City agree £65m Ndiaye deal",
-      "summary_original": "Manchester City have agreed a £65m deal with Everton for winger Iliman Ndiaye as an alternative to Cody Gakpo.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579541/iliman-ndiaye-transfer-news-man-city-agree-65m-deal-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk",
-      "published": "Mon, 31 Aug 2026 19:15:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "McInnes ban は 'disgusting' コメントを上回る 'disgusting' コメントを上回る 'disgusting' 禁止レンジャーズプロモーション",
-      "summary": "Derek McInnes' 直近のタッチライン禁止が下回りましたレンジャーズ「アピール」",
-      "title_original": "McInnes ban verdict over 'disgusting' comment revealed after Rangers appeal",
-      "summary_original": "Derek McInnes' immediate touchline ban has been reduced following Rangers' appeal.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579467/derek-mcinnes-rangers-managers-touchline-ban-changed-after-appeal-over-disgusting-comment-last-season",
-      "published": "Mon, 31 Aug 2026 19:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
