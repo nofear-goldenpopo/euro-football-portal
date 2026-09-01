@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T04:25:15.506610+00:00",
+  "updated_at": "2026-09-01T04:38:45.004094+00:00",
   "translation_version": "football-ja-v7",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -866,7 +866,9 @@
     "Beth Mead": "",
     "Niamh Charles": "",
     "Matthias Jaissle. Juventus": "",
-    "The Argentinian’s": ""
+    "The Argentinian’s": "",
+    "Naomi Osaka": "",
+    "Allen Iverson": "アレン・アイバーソン"
   },
   "items": [
     {
@@ -1710,6 +1712,20 @@
       "translation_version": "football-ja-v7"
     },
     {
+      "title": "大阪チャンネル NBA レジェンド Iverson がインスパイアした外観 US Open",
+      "summary": "Naomi Osaka 彼女の通常のファッショナブルな入り口を作った彼女は元 NBA スーパースターをチャンネルアレン・アイバーソン彼女の一部として US Open デビュー。",
+      "title_original": "Osaka channels NBA legend Iverson inspired look for US Open",
+      "summary_original": "Naomi Osaka made her usual fashionable entrance as she channelled former NBA superstar Allen Iverson as part of her US Open debut.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13579641/us-open-naomi-osaka-inspired-by-former-nba-legend-allen-iverson-for-night-session-outfit",
+      "published": "Tue, 01 Sep 2026 05:24:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v7"
+    },
+    {
       "title": "坂のゴールリードアーセナル勝つためにヴィラ・パーク",
       "summary": "FREE TO WATCH: ハイライトアストン・ヴィラの とのマッチアーセナル獲得を獲得を問い合わせプレミアリーグ.",
       "title_original": "Saka goal leads Arsenal to victory at Villa Park",
@@ -1934,9 +1950,9 @@
       "translation_version": "football-ja-v7"
     },
     {
-      "title": "US Open スコア: オンナイトアクションで2 回元チャンピオン大阪",
+      "title": "US Open スコア: キー、フリッツ、フィーリー、ホダー、チョインスキー、ジョーンズ、毎週火曜日",
       "summary": "",
-      "title_original": "US Open scores: Two-time former champion Osaka in overnight action",
+      "title_original": "US Open scores: Keys, Fritz, Fery, Jodar, Choinski and Jones all playing Tuesday",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/scores-schedule",
@@ -1973,20 +1989,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v7"
-    },
-    {
-      "title": "「今は今だ」Brit Samuel 世界 No1,871 から US Open 第2 ラウンド",
-      "summary": "Britain's Toby Samuel2025 年の始まりから、世界の1,871 年を上回るまで、長い道が来ました。全米オープン第2 ラウンド。",
-      "title_original": "'I'm here now' - Brit Samuel goes from world No 1,871 to US Open second round",
-      "summary_original": "Britain's Toby Samuel has come a long way from the start of 2025 - rising from 1,871 in the world to the US Open second round.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13579309/us-open-britains-toby-samuels-meteoric-rise-from-world-no-1871-and-playing-in-guatemala-to-the-us-open-second-round",
-      "published": "Mon, 31 Aug 2026 17:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v7"
     }
   ]
