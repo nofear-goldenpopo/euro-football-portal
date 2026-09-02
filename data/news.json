@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T21:37:14.033795+00:00",
+  "updated_at": "2026-09-02T21:50:02.343689+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1157,7 +1157,9 @@
     "Kawhi Leonard": "カワイ・レナード",
     "St Mirren": "",
     "Fraser Taylor's": "",
-    "Dens Park": ""
+    "Dens Park": "",
+    "Georginio Wijnaldum": "ジョルジニオ・ワイナルドゥム",
+    "Eli Junior Kroupi": ""
   },
   "items": [
     {
@@ -1245,6 +1247,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チェルシーWijnaldum - 木曜日のゴシップと連絡を取る",
+      "summary": "チェルシー前者に連絡するリヴァプールミッドフィルダージョルジニオ・ワイナルドゥム, アーセナルアイボーンマスストライカーEli Junior Kroupi, エヴァートン獲得の見通しを再生フリー移籍 s, 以上.",
+      "title_original": "Chelsea make contact with Wijnaldum - Thursday's gossip",
+      "summary_original": "Chelsea make contact with former Liverpool midfielder Georginio Wijnaldum, Arsenal eye Bournemouth striker Eli Junior Kroupi, Everton play down prospect of signing free transfers, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj647945e88o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 21:36:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "獲得を問い合わせアーセナル世界トップクラスに獲得しないリスクは?",
       "summary": "アーセナル彼らは彼らの守るために見ているように、移籍市場で忙しかったですプレミアリーグタイトル, しかし、彼らは世界クラスのストライカーはまだ欠けています?",
       "title_original": "Are Arsenal taking a risk in not signing a world-class forward?",
@@ -1322,20 +1338,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c624z0q5y5jo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 21:18:23 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "北アイルランドボス O'Neill 'hopeful'トレーニングセンター計画進捗",
-      "summary": "北アイルランドマネージャーMichael O'Neill 彼が「十分に希望する」と言っている Irish Football Association 計画を立てて進むことができる National Training Centre2028 年オープン",
-      "title_original": "Northern Ireland boss O'Neill 'hopeful' training centre plans progress",
-      "summary_original": "Northern Ireland manager Michael O'Neill says that he is \"certainly hopeful\" that the Irish Football Association can move forward with plans to have a National Training Centre open by 2028.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jyw0zdn8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 18:32:09 GMT",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
@@ -1553,6 +1555,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "北アイルランドボス O'Neill 'hopeful'トレーニングセンター計画進捗",
+      "summary": "北アイルランドマネージャーMichael O'Neill 彼が「十分に希望する」と言っている Irish Football Association 計画を立てて進むことができる National Training Centre2028 年オープン",
+      "title_original": "Northern Ireland boss O'Neill 'hopeful' training centre plans progress",
+      "summary_original": "Northern Ireland manager Michael O'Neill says that he is \"certainly hopeful\" that the Irish Football Association can move forward with plans to have a National Training Centre open by 2028.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jyw0zdn8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 18:32:09 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -1560,20 +1576,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg0m8we91no?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 05:44:40 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Trabzonspor U-turn 管理者の辞任を受け入れるため",
-      "summary": "The Turkish クラブはヘッドコーチの「感情」辞任を受け入れますファティフ・テッケリクエストを初期に拒否し、ステップダウンします。",
-      "title_original": "Trabzonspor U-turn to accept manager's resignation",
-      "summary_original": "The Turkish club accepts the \"emotional\" resignation of head coach Fatih Tekke after initially rejecting his request to step down.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqxv037gw8qo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 12:24:32 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1595,17 +1597,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バログン引き出されたエヴァートン自分の手引きを引き継ぐメディカルチェック, 請求モナコ",
-      "summary": "Thiago ScuroMerseyside クラブの責任を示唆モナコチーフ・エグゼクティブが守備するカマラ フォラリン・バログン4000万ポンド から引き出すエヴァートン彼が彼の上で処理された方法のためにメディカルチェックに従って、モナコ代表取締役社長 Thiago Scuro、また販売しない遅刻の決定を守った人ラミン・カマラ獲得を問い合わせチェルシー. バログン期限日の午後11 時までに注文用紙に獲得エヴァートン移籍が完了すると、移動を短時間後に拒否するだけです。エヴァートン st は st を renegotiated していた",
-      "title_original": "Balogun pulled out of Everton move over handling of his medical, claim Monaco",
-      "summary_original": "Thiago Scuro suggests Merseyside club responsible Monaco chief executive defends keeping Camara Folarin Balogun pulled out of a £40m move to Everton because of how he was treated over his medical, according to Monaco’s chief executive, Thiago Scuro, who also defended the late decision not to sell Lamine Camara to Chelsea. Balogun signed a deal sheet shortly before 11pm on deadline day to allow Everton to complete his transfer only to reject the move shortly after. Everton had renegotiated the st",
+      "title": "デッドラインデイシャブルの葉エヴァートンそして、David Moyes 再びオッズを戦う",
+      "summary": "アームストロングの入札受付から崩壊までバログン移籍, TFG は、野心の欠如として、同じブラケットに置かれるアマチュアと野心的なアプローチを示しました, リソースの欠如や不快感は、最も長いトロフィーの干ばつに貢献しましたエヴァートン’ の歴史, 特に 20 きらめき新しいスタジアムへの移動と多岐にわたる債務の清算を伴った再点に数か月, かなりの不快感と恥ずかしがりかしがり屋の原因となるはずです The Friedkin Grou",
+      "title_original": "Deadline-day shambles leaves Everton and David Moyes fighting the odds again",
+      "summary_original": "From accepting a bid for Armstrong to collapse of Balogun deal, TFG has shown an amateurish and unambitious approach To be placed in the same bracket as owners whose lack of ambition, lack of resources and/or incompetence has contributed to the longest trophy drought in Everton’s history, particularly 20 months into a reign that has accompanied the move to a glittering new stadium and the clearing of onerous debt, should be cause for considerable discomfort and embarrassment at The Friedkin Grou",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/02/folarin-balogun-transfer-deadline-day-collapse-monaco-everton-lamine-camara-chelsea",
-      "published": "Wed, 02 Sep 2026 17:46:40 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.theguardian.com/football/2026/sep/02/deadline-day-shambles-leaves-everton-and-david-moyes-fighting-the-odds-again",
+      "published": "Wed, 02 Sep 2026 18:02:02 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1847,6 +1849,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "バログン引き出されたエヴァートン自分の手引きを引き継ぐメディカルチェック, 請求モナコ",
+      "summary": "Thiago ScuroMerseyside クラブの責任を示唆モナコチーフ・エグゼクティブが守備するカマラ フォラリン・バログン4000万ポンド から引き出すエヴァートン彼が彼の上で処理された方法のためにメディカルチェックに従って、モナコ代表取締役社長 Thiago Scuro、また販売しない遅刻の決定を守った人ラミン・カマラ獲得を問い合わせチェルシー. バログン期限日の午後11 時までに注文用紙に獲得エヴァートン移籍が完了すると、移動を短時間後に拒否するだけです。エヴァートン st は st を renegotiated していた",
+      "title_original": "Balogun pulled out of Everton move over handling of his medical, claim Monaco",
+      "summary_original": "Thiago Scuro suggests Merseyside club responsible Monaco chief executive defends keeping Camara Folarin Balogun pulled out of a £40m move to Everton because of how he was treated over his medical, according to Monaco’s chief executive, Thiago Scuro, who also defended the late decision not to sell Lamine Camara to Chelsea. Balogun signed a deal sheet shortly before 11pm on deadline day to allow Everton to complete his transfer only to reject the move shortly after. Everton had renegotiated the st",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/02/folarin-balogun-transfer-deadline-day-collapse-monaco-everton-lamine-camara-chelsea",
+      "published": "Wed, 02 Sep 2026 17:46:40 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Fernández はレコード装備 1億2500万ポンド の移動を完了しますチェルシー獲得を問い合わせマンチェスター・シティ",
       "summary": "「これは成功のために建てられたクラブです」ミッドフィルダーは言うチェルシーの が動くモナコ獲得を問い合わせカマラ秋を通るマンチェスター・シティ獲得するべき1億2500万ポンド の契約とイギリスの移動記録を等しくしましたエンソ・フェルナンデスからチェルシー, アルゼンチンのミッドフィルダーを交換しようとすると、その試みが残っていた人は、モナコ売買契約締結ラミン・カマラ火曜日の夜。ツイストとターンの日に、都市は獲得によって攻撃を強化した後、強力な位置で現れました Iliman Ndiay",
       "title_original": "Fernández completes record-equalling £125m move from Chelsea to Manchester City",
@@ -1903,31 +1919,31 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アストン・ヴィラ印 Mbaye および Harwood-Bellis としてニューカッスル獲得を問い合わせフェルナンデス＝パルド",
-      "summary": "ガブリエウ・ジェズスから動くアーセナル獲得を問い合わせバルセロナ Harvey Elliott 参加 バレンシアレンタル移籍でからリヴァプール アストン・ヴィラ獲得の完了イブラヒム・エンバイェそして、Taylor Harwood-Bellis 締切日、と Unai Emery クラブのラジカルな夏のオーバーホールは、最近の成功を再現する立場にヴィラを残していると確信しています。自分の両方を失ったヴィラプレミアリーグゲームこのキャンペーンは、チャンピオンズリーグ過去3 シーズンの2 つで、初優勝",
-      "title_original": "Aston Villa sign Mbaye and Harwood-Bellis as Newcastle get Fernandez-Pardo",
-      "summary_original": "Gabriel Jesus completes move from Arsenal to Barcelona Harvey Elliott joins Valencia on loan from Liverpool Aston Villa completed the signings of Ibrahim Mbaye and Taylor Harwood-Bellis on deadline day, with Unai Emery confident that the club’s radical summer overhaul has left Villa in position to replicate their recent success. Villa, who have lost both of their Premier League games this campaign, have qualified for the Champions League in two of the past three seasons and won their first major",
+      "title": "「死ぬまで心の中で」: アルゼンチンはあなたに感謝して涙を言うリオネル・メッシ",
+      "summary": "The Argentinian’s 終了までの決定インテル国民のフットボールは、彼が主導した国からの愛情の浸透によって会いました World Cup 栄光 に 2022 誰にでもプレゼント Lionel Scaloni’s 直後のプレス会議 World Cup スペインとアルゼンチンの最終目的地ニュージャージー州19 7 月、彼の涙を見ました, 彼は立ち上がって歩いている間、彼は話から彼を防ぐ sobs, これは、単一の試合で敗北の理由ではなく、彼は完全にサを意識していた男だったことを言うことができます",
+      "title_original": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
+      "summary_original": "The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022 Anyone who was present at Lionel Scaloni’s press conference immediately after the World Cup final between Spain and Argentina in New Jersey on 19 July and saw his tears, the sobs which prevented him from speaking while he got up and walked out, could tell this was a man weeping not because of defeat in a single match but because he was fully aware tha",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/01/aston-villa-sign-mbaye-and-harwood-bellis-as-newcastle-get-fernandez-pardo",
-      "published": "Tue, 01 Sep 2026 17:58:47 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
+      "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement",
+      "published": "Tue, 01 Sep 2026 15:05:49 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "デッドラインデイシャブルの葉エヴァートンそして、David Moyes 再びオッズを戦う",
-      "summary": "アームストロングの入札受付から崩壊までバログン移籍, TFG は、野心の欠如として、同じブラケットに置かれるアマチュアと野心的なアプローチを示しました, リソースの欠如や不快感は、最も長いトロフィーの干ばつに貢献しましたエヴァートン’ の歴史, 特に 20 きらめき新しいスタジアムへの移動と多岐にわたる債務の清算を伴った再点に数か月, かなりの不快感と恥ずかしがりかしがり屋の原因となるはずです The Friedkin Grou",
-      "title_original": "Deadline-day shambles leaves Everton and David Moyes fighting the odds again",
-      "summary_original": "From accepting a bid for Armstrong to collapse of Balogun deal, TFG has shown an amateurish and unambitious approach To be placed in the same bracket as owners whose lack of ambition, lack of resources and/or incompetence has contributed to the longest trophy drought in Everton’s history, particularly 20 months into a reign that has accompanied the move to a glittering new stadium and the clearing of onerous debt, should be cause for considerable discomfort and embarrassment at The Friedkin Grou",
+      "title": "Football Daily| 戦争チェスト、移籍シート、オンラインメルトダウン:期限日の解剖学",
+      "summary": "今すぐ登録! 今すぐ登録! 今すぐサインアップ 今すぐ登録!契約解除金 s. 戦争チェスト。Amortisation. Transfer リクエスト 要求への余剰。オンラインメルトダウン。Agents. Gazumping. Buy-back 句。オプション。アドオン。個人条件. 柔らかいアプローチ。Grifters. Clickbait. Lowball 入札。In The Knows. Serious 入札。スーパーエージェント ハイジャック入札。原則の合意。メディカルチェック s. 不開示手数料。パート交換 ディールシート。ここに行きます! お得な情報 バスカーがギターを弾く Sky Sports News スタッフ",
+      "title_original": "Football Daily | War chests, deal sheets and online meltdowns: anatomy of a deadline day",
+      "summary_original": "Sign up now! Sign up now! Sign up now? Sign up now! Release clauses. War chests. Amortisation. Transfer requests. Surplus to requirements. Online meltdowns. Agents. Gazumping. Buy-back clauses. Options. Add-ons. Personal terms. Soft approaches. Grifters. Clickbait. Lowball bids. In The Knows. Serious bids. Super agents. Hijacked bids. Agreements in principle. Medicals. Undisclosed fees. Part exchanges. Deal sheets. Here we gos! Done deals. Some busker strumming a guitar in the Sky Sports News st",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/02/deadline-day-shambles-leaves-everton-and-david-moyes-fighting-the-odds-again",
-      "published": "Wed, 02 Sep 2026 18:02:02 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/02/football-daily-newsletter-anatomy-of-a-deadline-day",
+      "published": "Wed, 02 Sep 2026 14:57:37 GMT",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1955,20 +1971,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「死ぬまで心の中で」: アルゼンチンはあなたに感謝して涙を言うリオネル・メッシ",
-      "summary": "The Argentinian’s 終了までの決定インテル国民のフットボールは、彼が主導した国からの愛情の浸透によって会いました World Cup 栄光 に 2022 誰にでもプレゼント Lionel Scaloni’s 直後のプレス会議 World Cup スペインとアルゼンチンの最終目的地ニュージャージー州19 7 月、彼の涙を見ました, 彼は立ち上がって歩いている間、彼は話から彼を防ぐ sobs, これは、単一の試合で敗北の理由ではなく、彼は完全にサを意識していた男だったことを言うことができます",
-      "title_original": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
-      "summary_original": "The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022 Anyone who was present at Lionel Scaloni’s press conference immediately after the World Cup final between Spain and Argentina in New Jersey on 19 July and saw his tears, the sobs which prevented him from speaking while he got up and walked out, could tell this was a man weeping not because of defeat in a single match but because he was fully aware tha",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement",
-      "published": "Tue, 01 Sep 2026 15:05:49 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2183,6 +2185,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マザーウェルは、無縁のリーグが立ち上がり始めますダンディー・ユナイテッド FC",
+      "summary": "マザーウェルは10 人余りにランクシャーの境界を続けましたダンディー・ユナイテッド FC ワンサイドコンテストで3〜3 位を獲得。",
+      "title_original": "Motherwell continue unbeaten league start with stroll against Dundee United",
+      "summary_original": "Motherwell continued their Lanarkshire stranglehold over 10-man Dundee United with a 3-0 home win in a one-sided contest.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/motherwell-vs-dundee-united/report/558362",
+      "published": "Wed, 02 Sep 2026 21:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "キルマノックは、高飛行への損失後のポイントなしで残っています St Mirren",
       "summary": "Fraser Taylor's メイドのゴール St Mirren 彼らの最初のリーグの勝利に貢献 Rugby Park13 年以上 - キルマノックを苦労する圧力を増加させる。",
       "title_original": "Kilmarnock remain without a point after loss to high-flying St Mirren",
@@ -2260,20 +2276,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13580547/millwall-0-3-wrexham-championship-highlights",
       "published": "Wed, 02 Sep 2026 21:48:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ノリスが2027 年のデビュー以来、シングルシーターチーム LN4 Fusion を発売",
-      "summary": "Lando Norris2027 年に複数のチャンピオンシップでレースする新しいジュニアシングルシーターチーム、LN4 Fusion を立ち上げました。",
-      "title_original": "Norris launches single-seater team LN4 Fusion ahead of 2027 debut",
-      "summary_original": "Lando Norris has launched a new junior single-seater team, LN4 Fusion, which will race in multiple championships in 2027.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13580435/lando-norris-f1-world-champion-launches-new-junior-single-seater-team-ln4-fusion-ahead-of-2027-racing-debut",
-      "published": "Wed, 02 Sep 2026 19:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
