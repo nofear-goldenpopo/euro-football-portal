@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T20:06:42.323151+00:00",
+  "updated_at": "2026-09-02T20:26:13.654169+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1137,7 +1137,12 @@
     "The Friedkin Grou": "",
     "MK Dons": "ミルトン・キーンズ・ドンズFC",
     "Middlesbrough's Aidan Morris": "",
-    "Kosta Nedeljkovic": ""
+    "Kosta Nedeljkovic": "",
+    "Keira Walsh": "",
+    "Keira Walsh’s": "",
+    "Wimbledon’s Cherry Red Records": "",
+    "Sonia Bompastor’s": "",
+    "Callum Styles": "カラム・スタイルズ"
   },
   "items": [
     {
@@ -1169,20 +1174,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド、ワシントン・スピリットから Bernal を獲得",
-      "summary": "マンチェスター・ユナイテッドメキシコの獲得を完了しましたインテル全国 Rebeca Bernal からワシントン・スピリット.",
-      "title_original": "Man Utd sign Bernal from Washington Spirit",
-      "summary_original": "Manchester United have completed the signing of Mexico international Rebeca Bernal from Washington Spirit.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 19:47:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "夏の最も高価な移籍20",
       "summary": "詳しくはこちらエンソ・フェルナンデス獲得を問い合わせ Maxence Lacroix, BBC スポーツは、夏の窓の最大の移籍をリストします.",
       "title_original": "The 20 most expensive transfers of the summer",
@@ -1197,20 +1188,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "北アイルランドボス O'Neill 'hopeful'トレーニングセンター計画進捗",
-      "summary": "北アイルランドマネージャーMichael O'Neill 彼が「十分に希望する」と言っている Irish Football Association 計画を立てて進むことができる National Training Centre2028 年オープン",
-      "title_original": "Northern Ireland boss O'Neill 'hopeful' training centre plans progress",
-      "summary_original": "Northern Ireland manager Michael O'Neill says that he is \"certainly hopeful\" that the Irish Football Association can move forward with plans to have a National Training Centre open by 2028.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jyw0zdn8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 18:32:09 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "送金期限日以降にフリーエージェントは誰ですか?",
       "summary": "BBC について スポーツは2026 年の夏後にクラブなしで選手を見ていきます移籍市場シャット。",
       "title_original": "Who are the free agents after transfer deadline day?",
@@ -1221,6 +1198,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド、ワシントン・スピリットから Bernal を獲得",
+      "summary": "マンチェスター・ユナイテッドメキシコの獲得を完了しましたインテル全国 Rebeca Bernal からワシントン・スピリット.",
+      "title_original": "Man Utd sign Bernal from Washington Spirit",
+      "summary_original": "Manchester United have completed the signing of Mexico international Rebeca Bernal from Washington Spirit.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 19:47:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1239,6 +1230,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "北アイルランドボス O'Neill 'hopeful'トレーニングセンター計画進捗",
+      "summary": "北アイルランドマネージャーMichael O'Neill 彼が「十分に希望する」と言っている Irish Football Association 計画を立てて進むことができる National Training Centre2028 年オープン",
+      "title_original": "Northern Ireland boss O'Neill 'hopeful' training centre plans progress",
+      "summary_original": "Northern Ireland manager Michael O'Neill says that he is \"certainly hopeful\" that the Irish Football Association can move forward with plans to have a National Training Centre open by 2028.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jyw0zdn8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 18:32:09 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "攻撃で恐怖、背中の光 - なぜリヴァプール獲得を問い合わせ移籍市場よくある質問",
       "summary": "攻撃で消えたが、背中のライト?リヴァプール2億ポンド 以上を費やしました移籍市場しかし、スクワットが十分な深さを持っているかどうか疑問は残っています。",
       "title_original": "Feared in attack, light at the back - why Liverpool's transfer window leaves questions",
@@ -1253,20 +1258,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "獲得を問い合わせアーセナル世界トップクラスに獲得しないリスクは?",
-      "summary": "アーセナル彼らは彼らの守るために見ているように、移籍市場で忙しかったですプレミアリーグタイトル, しかし、彼らは世界クラスのストライカーはまだ欠けています?",
-      "title_original": "Are Arsenal taking a risk in not signing a world-class forward?",
-      "summary_original": "Arsenal have been busy in the transfer market as they look to defend their Premier League title, but do they lack a world class striker still?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c783x812dk5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 07:25:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Woltemade は夏の変化に根ざした動きをニューカッスル",
       "summary": "期限日の2 つの非常に異なる移籍のほとんどは、Nick Woltemade 左からニューカッスル参加するユヴェントス レンタル移籍でそしてクラブは到着を通知しましたマティアス・フェルナンデス＝パルド.",
       "title_original": "Woltemade move underlines summer of change at Newcastle",
@@ -1274,6 +1265,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2z4q00pg7o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 10:01:36 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "獲得を問い合わせアーセナル世界トップクラスに獲得しないリスクは?",
+      "summary": "アーセナル彼らは彼らの守るために見ているように、移籍市場で忙しかったですプレミアリーグタイトル, しかし、彼らは世界クラスのストライカーはまだ欠けています?",
+      "title_original": "Are Arsenal taking a risk in not signing a world-class forward?",
+      "summary_original": "Arsenal have been busy in the transfer market as they look to defend their Premier League title, but do they lack a world class striker still?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c783x812dk5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 07:25:24 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1421,20 +1426,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプールグストに獲得しようと - 水曜日のゴシップ",
-      "summary": "サッカーのゴシップ:リヴァプール遅い移動のためにチェルシーディフェンダーマロ・ギュストそして、マンチェスター・ユナイテッド今シーズンの「trial」のディフェンダー",
-      "title_original": "Liverpool tried to sign Gusto - Wednesday's gossip",
-      "summary_original": "Football gossip: Liverpool made a late move for Chelsea defender Malo Gusto and Manchester United defenders on \"trial\" this season",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9qr4vw9eqgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 22:40:28 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "今シーズン BBC スポーツで女性のサッカーに従う方法",
       "summary": "新規登録 Women's Super LeagueBBC スポーツは、そのカバレッジを強化しています。",
       "title_original": "How to follow women's football with BBC Sport this season",
@@ -1561,6 +1552,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Farke の後半の戦術的なシフトを信用するブレントフォードログイン",
+      "summary": "デイパンディットの試合・カレンダー・ユナイテッド FC'後半戦術的シフト後の Dominic Calvert-Lewin 遅刻してサルベージ a 1-1 ドロー とブレントフォード.",
+      "title_original": "Given credits Farke's second-half tactical shift in Brentford draw",
+      "summary_original": "Match of the Day pundit Shay Given commends Leeds United's second-half tactical shift after Dominic Calvert-Lewin struck late to salvage a 1-1 draw with Brentford.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c770rlyx817o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 23:09:18 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "プレミアリーグお金は、過剰の混沌とした光景の中ですべての意味を失っています |Barney Ronay",
       "summary": "ザ・オブ・ザ・移籍市場すべての合理的なルールと制限を破棄し、私たちを驚かせて、最終的に、請求を拾う テレビ番組の場所、場所、の生活の中で数年後に研究の勉強があった Location. You 獲得を問い合わせ 中途半端の漂流の1 時間半。よくある品質は、ウェリントンブーツ、ボルボ XC40、フレーズ「ピギービット」が人間の形に再構成され、その後、jud に送られたように見える2 人の人々によってホストされている",
       "title_original": "Premier League money has lost all meaning amid chaotic spectacle of excess | Barney Ronay",
@@ -1585,6 +1590,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウォルシュキャップチャンピオンズリーグ進行状況チェルシーでも、レアル・ソシエダ粉砕",
+      "summary": "レアル・ソシエダ 0-1 チェルシー(アグ 2-6)Keira Walsh 角のスコアはタイを解決するためにチェルシー3 つあります Women’s Super League リーグフェーズにおけるチームチャンピオンズリーグとして Keira Walsh’s 第2 ハーフストライク対レアル・ソシエダ3 ラウンド修飾子の最初の脚から 3 ゴールマージンを拡張します。. スペイン語側で5～2 勝チェルシー初のゲーム Wimbledon’s Cherry Red Records スタジアム提供 Sonia Bompastor’s サイド コマンド リード に tie, 後 rusty",
+      "title_original": "Walsh caps Champions League progress for Chelsea despite Real Sociedad grind",
+      "summary_original": "Real Sociedad 0-1 Chelsea (agg 2-6) Keira Walsh scores at corner to settle tie Chelsea ensured there will be three Women’s Super League teams in the league phase of the Champions League as Keira Walsh’s second-half strike against Real Sociedad extended their three-goal margin from the first leg of the third-round qualifier. The 5-2 win against the Spanish side in Chelsea’s first game at Wimbledon’s Cherry Red Records stadium gave Sonia Bompastor’s side a commanding lead in the tie, after a rusty",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/02/walsh-caps-champions-league-progress-for-chelsea-despite-real-sociedad-grind",
+      "published": "Wed, 02 Sep 2026 19:54:27 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1617,20 +1636,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグ会話ポイントの移籍:データから学んだ3 つのこと",
-      "summary": "移籍市場での消費を記録した後、イングランドのトップクラブは、欧州のカウンターパートにギャップを広げましたプレミアリーグクラブは、今年夏にプレイヤーに34億ポンド 以上を投資しました, 増加 11.9% 昨年に. この巨大な支出の3 つの側面は、近くのスカルチニの価値があります。続きを読む...",
-      "title_original": "Premier League transfer talking points: three things we learned from the data",
-      "summary_original": "After record spending in the transfer market, England’s top clubs have widened the gap to their European counterparts Premier League clubs have invested more than £3.4bn in players this summer, an increase of 11.9% on last year. There are three aspects of this enormous spending worthy of closer scrutiny. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-talking-points-three-things-we-learned-from-the-data",
-      "published": "Wed, 02 Sep 2026 15:29:31 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "どのサッカー選手が最もきらめくクラブのキャリアをしたの? |The Knowledge",
       "summary": "プラス:イギリスで遊ぶ兄弟トップ4 ティアーズ、シャツホギングスポンサー、ゴールキーパーは、あなたのすべての質問と答えをアップフィールドメールに送信しました “Marquinhos は、クラブサッカーで40 番目のトロフィーを獲得しましたパリ・サンジェルマンビートアストン・ヴィラ獲得を問い合わせ Super Cup「メモ」メルセンヌ素数. 「プレイヤーが勝ったの?」 短い回答はなしです。Pete Tomlin 故障で。「マルキンホスが実際に41 トロフィーを獲得したことを計算します。Copa Libertadores, 11 リーグ・アンタイトル、8 つのクーペデフラン",
       "title_original": "Which footballer has had the most glittering club career? | The Knowledge",
@@ -1645,13 +1650,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Women’s Super League2026-27 プレビュー番号 12:マンチェスター・ユナイテッド",
-      "summary": "出発の出発 Marc Skinner シニア・スクワッド・メンバーが新しいマネージャーを離れる Eva Olid ユナイテッドを新しい時代のガーディアン・ライターの予測位置に導く: 7th (NB: これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 第4 回 続きを読む...",
-      "title_original": "Women’s Super League 2026-27 preview No 12: Manchester United",
-      "summary_original": "The departure of Marc Skinner and senior squad members leaves the new manager Eva Olid to guide United into a new era Guardian writers’ predicted position: 7th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 4th Continue reading...",
+      "title": "プレミアリーグ会話ポイントの移籍:データから学んだ3 つのこと",
+      "summary": "移籍市場での消費を記録した後、イングランドのトップクラブは、欧州のカウンターパートにギャップを広げましたプレミアリーグクラブは、今年夏にプレイヤーに34億ポンド 以上を投資しました, 増加 11.9% 昨年に. この巨大な支出の3 つの側面は、近くのスカルチニの価値があります。続きを読む...",
+      "title_original": "Premier League transfer talking points: three things we learned from the data",
+      "summary_original": "After record spending in the transfer market, England’s top clubs have widened the gap to their European counterparts Premier League clubs have invested more than £3.4bn in players this summer, an increase of 11.9% on last year. There are three aspects of this enormous spending worthy of closer scrutiny. Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/02/womens-super-league-preview-manchester-united",
-      "published": "Tue, 01 Sep 2026 23:01:15 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-talking-points-three-things-we-learned-from-the-data",
+      "published": "Wed, 02 Sep 2026 15:29:31 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1715,6 +1720,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Women’s Super League2026-27 プレビュー番号 12:マンチェスター・ユナイテッド",
+      "summary": "出発の出発 Marc Skinner シニア・スクワッド・メンバーが新しいマネージャーを離れる Eva Olid ユナイテッドを新しい時代のガーディアン・ライターの予測位置に導く: 7th (NB: これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 第4 回 続きを読む...",
+      "title_original": "Women’s Super League 2026-27 preview No 12: Manchester United",
+      "summary_original": "The departure of Marc Skinner and senior squad members leaves the new manager Eva Olid to guide United into a new era Guardian writers’ predicted position: 7th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 4th Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/02/womens-super-league-preview-manchester-united",
+      "published": "Tue, 01 Sep 2026 23:01:15 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Women’s Super League2026-27 プレビュー番号 11:マンチェスター・シティ",
       "summary": "Beth Mead そして、Niamh Charles 最後のシーズンのガーディアン・ライターの予測位置と同じくらい強いように見えるチャンピオンズのスクワッドへの注目すべき追加: 1st (NB: これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 1st 続きを読む...",
       "title_original": "Women’s Super League 2026-27 preview No 11: Manchester City",
@@ -1754,20 +1773,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Women’s Super League2026-27 プレビュー番号 8:エヴァートン",
-      "summary": "新規発見攻撃は、その2 シーズンでキャンペーンを開始しやすくなる間にゲル化してほしい Goodison Park Guardian 作家の予測位置:10 位(NB:これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 8th 続きを読む...",
-      "title_original": "Women’s Super League 2026-27 preview No 8: Everton",
-      "summary_original": "New-look attack will hope to gel during their relatively easy start to the campaign in their second season at Goodison Park Guardian writers’ predicted position: 10th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 8th Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/womens-super-league-2026-27-preview-no-8-everton",
-      "published": "Fri, 28 Aug 2026 23:01:10 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1995,9 +2000,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Wrexham、WBA、QPR 先;ボルオリードバーンリー - EFL LIVE 空に!",
+      "title": "Wrexham、QPR は先を先取りします;バーンリーpeg バック ボロ -EFL LIVE 空に!",
       "summary": "",
-      "title_original": "Wrexham, WBA, QPR ahead; Boro lead at Burnley - EFL LIVE on Sky!",
+      "title_original": "Wrexham, QPR ahead; Burnley peg back Boro - EFL LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/burnley-vs-middlesbrough/live/560542",
@@ -2107,6 +2112,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スタイルはバギーを先に置くために半分のバレーボールでスマッシュ",
+      "summary": "カラム・スタイルズデッドロックが壊れている West Brom チャールトンの楽しいハーフボレーに対して.",
+      "title_original": "Styles smashes in half volley to put Baggies ahead",
+      "summary_original": "Callum Styles has broken the deadlock for West Brom against Charlton delightful half-volley.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13580526/west-brom-vs-charlton-callum-styles-smashes-in-half-volley-to-put-baggies-ahead",
+      "published": "Wed, 02 Sep 2026 21:06:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「信じられない」 | ウィガンは TWO のシッターを逃しましたが、ボールはラインを渡しましたか?",
       "summary": "ウィガンは最初の半分に2 つの大きなチャンスを逃しましたミルトン・キーンズ・ドンズ FC しかし、第二のチャンスは線を渡しましたか?",
       "title_original": "'Unbelievable' | Wigan miss TWO sitters but did the ball cross the line?",
@@ -2135,20 +2154,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Nedeljkovic スコア 微量オウンゴール Falkirk イコライズ",
-      "summary": "Kosta Nedeljkovic スコアオウンゴール Falkirk と同等レンジャーズハーフタイムの直前まで",
-      "title_original": "Nedeljkovic scores calamitous own goal as Falkirk equalise",
-      "summary_original": "Kosta Nedeljkovic scored an own goal as Falkirk equalised against Rangers shortly before half-time.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13580522/falkirk-vs-rangers-kosta-nedeljkovic-scores-calamitous-own-goal-as-home-side-equalise",
-      "published": "Wed, 02 Sep 2026 20:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "話が続くにつれて、ホシュアで新鮮なスワイプを発売",
       "summary": "タイソン・フューリーブランド Anthony Joshua「臆病」と2 回世界ヘビー級王者を提案したのは、待望のオール英国のショーダウンを続けた上でのトークとして「みんなをつなぐ」ことです。",
       "title_original": "Fury launches fresh swipe at Joshua as talks continue",
@@ -2156,6 +2161,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/boxing/news/12040/13580468/tyson-fury-launches-fresh-attack-on-anthony-joshua-as-talks-over-fight-continue",
       "published": "Wed, 02 Sep 2026 18:10:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Nedeljkovic スコア 微量オウンゴール Falkirk イコライズ",
+      "summary": "Kosta Nedeljkovic スコアオウンゴール Falkirk と同等レンジャーズハーフタイムの直前まで",
+      "title_original": "Nedeljkovic scores calamitous own goal as Falkirk equalise",
+      "summary_original": "Kosta Nedeljkovic scored an own goal as Falkirk equalised against Rangers shortly before half-time.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13580522/falkirk-vs-rangers-kosta-nedeljkovic-scores-calamitous-own-goal-as-home-side-equalise",
+      "published": "Wed, 02 Sep 2026 20:50:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2243,20 +2262,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "すべての方法プレミアリーグクラブの夏の窓のランク?",
-      "summary": "記録的な支出をもたらした夏の後に、Deadline Day ドラマ, スカイスポーツのレポーターは、すべてランクプレミアリーグクラブの窓...",
-      "title_original": "How does every Premier League club's summer window rank?",
-      "summary_original": "After a summer that brought record spending and Deadline Day drama, Sky Sports' reporters rank every Premier League club's window...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13580212/premier-league-transfer-window-sky-sports-reporters-rank-your-clubs-summer-after-dramatic-deadline-day",
-      "published": "Wed, 02 Sep 2026 13:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
