@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T16:27:00.700577+00:00",
+  "updated_at": "2026-09-02T16:39:45.576392+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1103,7 +1103,10 @@
     "The EFL Podcast": "",
     "Jobi McAnuff": "",
     "Norwich City": "ノリッジ・シティFC",
-    "Ben Knapper": ""
+    "Ben Knapper": "",
+    "Thelo Aasgaard": "",
+    "Nicolas Raskin": "",
+    "Daniil Medvedev": "ダニール・メドベージェフ"
   },
   "items": [
     {
@@ -1202,6 +1205,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Aasgaard セットアンデルレヒトスイッチとしてレンジャーズラスキン禁止を拒否",
+      "summary": "レンジャーズミッドフィルダーThelo Aasgaard の頂点にあるレンタル移籍獲得を問い合わせアンデルレヒト, 一方、Ibrox クラブは、から融資入札を取り戻しましたベシクタシュベルギーミッドフィルダーNicolas Raskin.",
+      "title_original": "Aasgaard set for Anderlecht switch as Rangers reject Raskin bid",
+      "summary_original": "Rangers midfielder Thelo Aasgaard is on the verge of a loan move to Anderlecht, while the Ibrox club have knocked back an loan bid from Besiktas for Belgium midfielder Nicolas Raskin.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c624z0q5y5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 16:21:25 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1317,20 +1334,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグ、2 年連続で夏の移籍金総額記録を更新",
-      "summary": "プレミアリーグクラブは、支出が31億9800万ポンド に達した後、史上の夏の移籍記録を破ります。",
-      "title_original": "Premier League breaks transfer record for second straight summer",
-      "summary_original": "Premier League clubs break their all-time summer transfer record after spending reaches £3.198bn.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 00:17:42 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "セルティック印の保持者 Johnstone 及び殴打者 Mheuka レンタル移籍で",
       "summary": "Former England ゴールキーパーSam Johnstone 参加するセルティック Wolves からのシーズン ロング ローンのストライカーShumaira Mheuka 到着からチェルシー.",
       "title_original": "Celtic sign keeper Johnstone & striker Mheuka on loan",
@@ -1338,6 +1341,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 14:25:14 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "プレミアリーグ、2 年連続で夏の移籍金総額記録を更新",
+      "summary": "プレミアリーグクラブは、支出が31億9800万ポンド に達した後、史上の夏の移籍記録を破ります。",
+      "title_original": "Premier League breaks transfer record for second straight summer",
+      "summary_original": "Premier League clubs break their all-time summer transfer record after spending reaches £3.198bn.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 00:17:42 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1408,20 +1425,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/crr4d0x0175o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 00:15:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "パリ・サンジェルマン拒否マンチェスター・シティミッドフィルダーEchegini のオファー",
-      "summary": "パリ・サンジェルマン複数拒否マンチェスター・シティ彼らのナイジェリアのミッドフィルダーのためのオファーJennifer Echegini.",
-      "title_original": "PSG reject Man City offers for midfielder Echegini",
-      "summary_original": "Paris St-Germain reject several Manchester City offers for their Nigerian midfielder Jennifer Echegini.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpwldyj8yp0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 08:29:54 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1961,6 +1964,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「これはとても悪くない!」 | 鳥のハットプレイとしてメデフメス!",
+      "summary": "欲求不満への多くダニール・メドベージェフ、umpire はネットコードの2 つのスズローの存在による許可を呼び出します全米オープン!",
+      "title_original": "'This is very bad!' | Medvedev fumes as birds halt play!",
+      "summary_original": "Much to the frustration of Daniil Medvedev, the umpire calls a let due to the presence of two sparrows on the net cord at the US Open!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13580444/us-open-daniil-medvedev-fumes-as-birds-halt-play",
+      "published": "Wed, 02 Sep 2026 17:08:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "US Open LIVE! Brits Boulter, Fearnley, Choinski, サミュエルとジョーンズ アクション",
       "summary": "",
       "title_original": "US Open LIVE! Brits Boulter, Fearnley, Choinski, Samuel and Jones in action",
@@ -2210,20 +2227,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "エラスムとレニーの言葉の戦争は、第3 回テストの先をエスカレートします",
-      "summary": "4 つのマッチシリーズは、1-1 で細径化され、Rugby’s Greatest Rivalry ようやく緊張の新たな高さに到達するラシー・エラスムスそして、Dave Rennie’s エスカレートという言葉の戦争。",
-      "title_original": "Erasmus and Rennie's war of words escalates ahead of third Test",
-      "summary_original": "The four-match series is finely poised at 1-1, with Rugby’s Greatest Rivalry seemingly reaching new heights of tension as Rassie Erasmus and Dave Rennie’s war of words escalates.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13580305/south-africa-vs-new-zealand-rassie-erasmus-and-dave-rennies-war-of-words-escalates-with-series-finely-poised",
-      "published": "Wed, 02 Sep 2026 10:39:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
