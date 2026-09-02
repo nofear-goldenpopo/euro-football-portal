@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T11:05:57.759840+00:00",
+  "updated_at": "2026-09-02T11:25:36.622286+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1055,7 +1055,18 @@
     "Amanda Staveley": "",
     "London Stadium": "ロンドン・スタジアム",
     "Will Hamilton": "ウィリアム・ハミルトン",
-    "Scott Kuggeleijn": ""
+    "Scott Kuggeleijn": "",
+    "The Knowledge": "",
+    "Super Cup": "",
+    "Paul Gage": "メルセンヌ素数",
+    "Pete Tomlin": "",
+    "Copa Libertadores": "",
+    "World Series": "",
+    "Darts Finals": "",
+    "Lourence Ilagan": "",
+    "Luke Littler": "",
+    "Danny Noppert": "",
+    "Italian GP Practice": ""
   },
   "items": [
     {
@@ -1177,7 +1188,7 @@
       "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 10:42:18 GMT",
+      "published": "Wed, 02 Sep 2026 11:14:30 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1241,20 +1252,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バログン獲得を問い合わせメディカルチェック獲得を問い合わせエヴァートン放棄前の移動",
-      "summary": "エヴァートンの のための移動フォラリン・バログンストライカーが心を変えた後の崩壊メディカルチェッククラブズ Finch Farm トレーニングベース。",
-      "title_original": "Balogun has medical at Everton before abandoning move",
-      "summary_original": "Everton's move for Folarin Balogun collapses after the striker changes his mind following a medical at the club's Finch Farm training base.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 07:48:04 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "クリスタル・パレス獲得 締め切り後のチルウェルと木材",
       "summary": "クリスタル・パレス獲得済みインテル国民体育 Ben Chilwell そして、クインテン・ティンバー永久移籍",
       "title_original": "Palace sign Chilwell and Timber after deadline",
@@ -1262,6 +1259,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/crr4d0x0175o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 00:15:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "カマラのモナコからチェルシーへの47.1 百万ポンド移籍が破談",
+      "summary": "ラミン・カマラご宿泊中モナコセネガルのミッドフィルダーの4710万ポンド が移動した後チェルシー崩壊。",
+      "title_original": "Camara's £47.1m move from Monaco to Chelsea collapses",
+      "summary_original": "Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 23:34:53 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1283,17 +1294,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "カマラのモナコからチェルシーへの47.1 百万ポンド移籍が破談",
-      "summary": "ラミン・カマラご宿泊中モナコセネガルのミッドフィルダーの4710万ポンド が移動した後チェルシー崩壊。",
-      "title_original": "Camara's £47.1m move from Monaco to Chelsea collapses",
-      "summary_original": "Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.",
+      "title": "バログン獲得を問い合わせエヴァートン メディカルチェック放棄前の移動",
+      "summary": "エヴァートンの の移動フォラリン・バログンストライカーが心を変えた後の崩壊メディカルチェッククラブズ Finch Farm トレーニングベース。",
+      "title_original": "Balogun has Everton medical before abandoning move",
+      "summary_original": "Everton's move for Folarin Balogun collapses after the striker changes his mind following a medical at the club's Finch Farm training base.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 23:34:53 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 07:48:04 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1364,20 +1375,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ニューカッスル、リールからフェルナンデス＝パルドを5100 万ポンドで獲得",
-      "summary": "ニューカッスルベルギー進出マティアス・フェルナンデス＝パルドからリール最初の5140万ポンド の場合。",
-      "title_original": "Newcastle sign Fernandez-Pardo from Lille for £51m",
-      "summary_original": "Newcastle United sign Belgium forward Matias Fernandez-Pardo from Lille for an initial £51.4m.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 14:01:47 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1479,6 +1476,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "できますチェルシーバックで3 人でリーグを勝ち取る? 評決の決定",
+      "summary": "デイパンディットの試合・ギヴンアワードチェルシーの フライング ウィング バックシャビ・アロンソの 側の勝利プレミアリーグタイトルには3 つのシステムを使用します。",
+      "title_original": "Can Chelsea win the league with three at the back? Given's verdict",
+      "summary_original": "Match of the Day pundit Shay Given praises Chelsea's flying wing-backs, backing Xabi Alonso's side to win the Premier League title using a three-at-the-back system.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwyz17d1vy9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 22:59:49 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "移籍市場評決: あらゆる方法プレミアリーグクラブ ファーズ",
       "summary": "The British トランスファーレコードは等しく、1 クラブが別のヘクティック・サマーの18 人以上のプレーヤーに獲得しませんでした Christos Tzolis, Bruno Guimarães そして、Ezri Konsa 窓に強いスタートでしたが、アーセナルマルケ攻撃者に獲得できないのは、長期的に費用がかかりますか? ターゲティングを開始モーガン・ロジャーズ配管の前にヴィニシウス・ジュニオールイングランドが進むとチェルシー、Vinícius が獲得したときに失望を終わらせるだけ新契約獲得を問い合わせレアル・マドリード. Julián アルバレス 作って clea",
       "title_original": "Transfer window verdict: how every Premier League club fared",
@@ -1521,17 +1532,31 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フットボールの移動の噂:Jamie Vardy 獲得を問い合わせサンパウロまたはシェフィールド・ウェンズデイ FC?",
-      "summary": "本日のふわふわは、あるべき姿を描いた夜としてパワーダウンしています。多くのファンは、今日、このフレーズを使用して、プレミアリーグ 移籍市場最終夜11 時過ぎに閉幕し、これ以上の移籍はできないが、W まで作ることができることを意味するインテルウィンドウが開きます。エヴァートン米国のための遅れの契約の後で草にハトを見てきた猫のようなガラスで留められますインテル全国フォラリン・バログン。伝えられた先には、メディカルチェック獲得を問い合わせエヴァートン FCi を投げる",
-      "title_original": "Football transfer rumours: Jamie Vardy to São Paulo or Sheffield Wednesday?",
-      "summary_original": "Today’s fluff is powering down as the nights draw in Should have, would have, could have. Many fans will be using this phrase today after the Premier League transfer window closed at 11pm last night, meaning no more deals can but made until the winter window opens. Everton will be clawing at the glass like a cat who has seen a pigeon on the grass after a late deal for the USA international Folarin Balogun fell through . The forward reportedly had his medical with the Toffees, which threw up an i",
+      "title": "Women’s Super League2026-27 プレビュー番号 12:マンチェスター・ユナイテッド",
+      "summary": "出発の出発 Marc Skinner シニア・スクワッド・メンバーが新しいマネージャーを離れる Eva Olid ユナイテッドを新しい時代のガーディアン・ライターの予測位置に導く: 7th (NB: これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 第4 回 続きを読む...",
+      "title_original": "Women’s Super League 2026-27 preview No 12: Manchester United",
+      "summary_original": "The departure of Marc Skinner and senior squad members leaves the new manager Eva Olid to guide United into a new era Guardian writers’ predicted position: 7th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 4th Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/02/football-transfer-rumours-jamie-vardy-to-sao-paulo-or-sheffield-wednesday",
-      "published": "Wed, 02 Sep 2026 08:26:30 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/02/womens-super-league-preview-manchester-united",
+      "published": "Tue, 01 Sep 2026 23:01:15 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "どのサッカー選手が最もきらめくクラブのキャリアをしたの? |The Knowledge",
+      "summary": "プラス:イギリスで遊ぶ兄弟トップ4 ティアーズ、シャツホギングスポンサー、ゴールキーパーは、あなたのすべての質問と答えをアップフィールドメールに送信しました “Marquinhos は、クラブサッカーで40 番目のトロフィーを獲得しましたパリ・サンジェルマンビートアストン・ヴィラ獲得を問い合わせ Super Cup「メモ」メルセンヌ素数. 「プレイヤーが勝ったの?」 短い回答はなしです。Pete Tomlin 故障で。「マルキンホスが実際に41 トロフィーを獲得したことを計算します。Copa Libertadores, 11 リーグ・アンタイトル、8 つのクーペデフラン",
+      "title_original": "Which footballer has had the most glittering club career? | The Knowledge",
+      "summary_original": "Plus: brothers playing in England’s top four tiers, shirt-hogging sponsors, and goalkeepers sent off upfield Mail us with your all of your questions and answers “Marquinhos won his 40th trophy in club football when Paris Saint-Germain beat Aston Villa in the Super Cup,” notes Paul Gage. “Has any player won more?” The short answer is no: here’s Pete Tomlin with the breakdown. “I calculate that Marquinhos has actually won 41 trophies – one Copa Libertadores, 11 Ligue 1 titles, eight Coupes de Fran",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/02/which-footballer-has-had-the-most-trophy-laden-club-career",
+      "published": "Wed, 02 Sep 2026 07:00:26 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1546,20 +1571,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Women’s Super League2026-27 プレビュー番号 12:マンチェスター・ユナイテッド",
-      "summary": "出発の出発 Marc Skinner シニア・スクワッド・メンバーが新しいマネージャーを離れる Eva Olid 新しい時代のガーディアン作家の予測位置にユナイテッドを導く: 7th (NB: これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 第4 回 続きを読む...",
-      "title_original": "Women’s Super League 2026-27 preview No 12: Manchester United",
-      "summary_original": "The departure of Marc Skinner and senior squad members leaves new manager Eva Olid to guide United into new era Guardian writers’ predicted position: 7th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 4th Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/02/womens-super-league-preview-manchester-united",
-      "published": "Tue, 01 Sep 2026 23:01:15 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1591,13 +1602,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「私は私の古いチームメイトに伝えるのに怖かった」:Victoria Pelova から飛躍を作るアーセナル獲得を問い合わせトッテナム",
-      "summary": "ロンドン北部を横断して動いた間、オランダのミッドフィルダーは元クラブと衝突する 男性のカウンターパートの間にあるように、女性のチーム間でクラブの儀式に同じ強度はありませんが、ゲームが変化するにつれて成長します。プレイヤーがライバルの側を離れると、ファンからアニモシーがあります。Victoria Pelova’s からの移動アーセナル獲得を問い合わせトッテナムしかし、しっかりとトレンドをバックス. 間違いなく彼女の最高の年を過ごしているにもかかわらず、, 27 歳の部族",
-      "title_original": "‘I was scared to tell my old teammates’: Victoria Pelova on making leap from Arsenal to Spurs",
-      "summary_original": "While move across north London has been amicable, the Dutch midfielder is relishing clash with former club There is not the same intensity to club rivalries between women’s teams as there is between their men’s counterparts, but as the game grows that is changing. Increasingly, there is animosity from fans if a player leaves for a rival side. Victoria Pelova’s move from Arsenal to Tottenham firmly bucks the trend, though. Despite arguably having her best years ahead of her, the 27-year-old depar",
+      "title": "フットボールの移動の噂:Jamie Vardy 獲得を問い合わせサンパウロまたはシェフィールド・ウェンズデイ FC?",
+      "summary": "本日のふわふわは、あるべき姿を描いた夜としてパワーダウンしています。多くのファンは、今日、このフレーズを使用して、プレミアリーグ 移籍市場最終夜11 時過ぎに閉幕し、これ以上の移籍はできないが、W まで作ることができることを意味するインテルウィンドウが開きます。エヴァートン米国のための遅れの契約の後で草にハトを見てきた猫のようなガラスで留められますインテル全国フォラリン・バログン。伝えられた先には、メディカルチェック獲得を問い合わせエヴァートン FCi を投げる",
+      "title_original": "Football transfer rumours: Jamie Vardy to São Paulo or Sheffield Wednesday?",
+      "summary_original": "Today’s fluff is powering down as the nights draw in Should have, would have, could have. Many fans will be using this phrase today after the Premier League transfer window closed at 11pm last night, meaning no more deals can but made until the winter window opens. Everton will be clawing at the glass like a cat who has seen a pigeon on the grass after a late deal for the USA international Folarin Balogun fell through . The forward reportedly had his medical with the Toffees, which threw up an i",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/01/i-was-scared-to-tell-my-old-teammates-victoria-pelova-on-making-leap-from-arsenal-to-spurs",
-      "published": "Tue, 01 Sep 2026 11:00:03 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/02/football-transfer-rumours-jamie-vardy-to-sao-paulo-or-sheffield-wednesday",
+      "published": "Wed, 02 Sep 2026 08:26:30 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1899,6 +1910,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "MVG 起動 World Series インフォメーション Darts Finals イラグナに対する防衛",
+      "summary": "マイケル・ヴァン・ゲルウェンが開幕 World Series インフォメーション Darts Finals タイトルに対する防衛 Lourence Ilagan, として Luke Littler ヘッド・ツー・ヘッド Danny Noppert アムステルダム",
+      "title_original": "MVG starts World Series of Darts Finals defence against Ilagan",
+      "summary_original": "Michael van Gerwen will open his World Series of Darts Finals title defence against Lourence Ilagan, as Luke Littler goes head-to-head with Danny Noppert in Amsterdam.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/news/12040/13580326/world-series-of-darts-finals-michael-van-gerwen-faces-lourence-ilagan-to-start-title-defence-as-luke-littler-takes-on-danny-noppert",
+      "published": "Wed, 02 Sep 2026 12:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ウィリアム・ハミルトン, Russsell または Norris が Monza でタイトルレースの開口部を押下しますか?",
       "summary": "世界選手権のリーダーと Kimi Antonelli グリッドの後ろから始めるように設定イタリアグランプリ, ブリッツのトリオは、スタンドの上部に彼を追いかけるしようとする主要な機会を持っています.",
       "title_original": "Will Hamilton, Russell or Norris seize title-race opening at Monza?",
@@ -1934,6 +1959,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13579867/f1-fans-will-crucify-teams-if-team-orders-are-used-in-2026-title-battle-says-former-world-champion-mika-hakkinen",
       "published": "Wed, 02 Sep 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フェラーリは、チームとしてシュマッチャー・インスパイアされたライブリーを明らかにし、ルーキーを発表します。Italian GP Practice",
+      "summary": "",
+      "title_original": "Ferrari reveal Schumacher-inspired livery as teams announce rookies for Italian GP Practice",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13580330/f1-italian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
+      "published": "Wed, 02 Sep 2026 12:05:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2148,34 +2187,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Alvarez は Atletico に滞在しています。アーセナル攻撃に短すぎる?",
-      "summary": "なしフリアン・アルバレス獲得を問い合わせアーセナル. 彼は参加するモーガン・ロジャーズそして、ヴィニシウス・ジュニオール移動しないでプレミアリーグこの夏をチャンピオンに。そしてミケル・アルテタ彼が望んでいた星の攻撃者に逃しました。",
-      "title_original": "Alvarez stays at Atletico - so are Arsenal too short in attack?",
-      "summary_original": "No Julian Alvarez to Arsenal. He joins Morgan Rogers and Vinicius Junior in not moving to the Premier League champions this summer. And Mikel Arteta has missed out on the star attacker he wanted.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579965/arsenal-fail-to-sign-julian-alvarez-and-with-no-elite-attacker-in-are-mikel-artetas-team-short-in-the-forward-options",
-      "published": "Tue, 01 Sep 2026 23:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Szmodics はポートマスで Derby ウィンとしてストライキ",
-      "summary": "ダービーは、ゴールからゴールのおかげで、ポートスマスでの勝利2-0 勝利でシーズンの最初の勝利を保証しました Sammie Szmodics そして、Lars-Jorgen Salvesen.",
-      "title_original": "Szmodics strikes as Derby win at Portsmouth",
-      "summary_original": "Derby secured their first win of the season with a 2-0 victory at Portsmouth thanks to goals from Sammie Szmodics and Lars-Jorgen Salvesen.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/portsmouth-vs-derby-county/report/560536",
-      "published": "Tue, 01 Sep 2026 21:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
