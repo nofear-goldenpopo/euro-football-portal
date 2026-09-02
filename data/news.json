@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T16:06:51.057895+00:00",
+  "updated_at": "2026-09-02T16:27:00.700577+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1099,7 +1099,11 @@
     "In The Knows. Serious": "",
     "Medicals. Undisclosed": "",
     "Katie Taylor": "",
-    "Croke Park": "クローク・パーク"
+    "Croke Park": "クローク・パーク",
+    "The EFL Podcast": "",
+    "Jobi McAnuff": "",
+    "Norwich City": "ノリッジ・シティFC",
+    "Ben Knapper": ""
   },
   "items": [
     {
@@ -1383,6 +1387,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "72+: The EFL Podcast",
+      "summary": "アーロン・ポールそして、Jobi McAnuff 獲得を問い合わせノリッジ・シティ FC スポーツディレクターBen Knapper.",
+      "title_original": "72+: The EFL Podcast",
+      "summary_original": "Aaron Paul and Jobi McAnuff are joined by Norwich City sporting director Ben Knapper.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p7kbw4?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 14:55:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "クリスタル・パレス獲得 締め切り後のチルウェルと木材",
       "summary": "クリスタル・パレス獲得済みインテル国民体育 Ben Chilwell そして、クインテン・ティンバー永久移籍",
       "title_original": "Palace sign Chilwell and Timber after deadline",
@@ -1390,20 +1408,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/crr4d0x0175o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 00:15:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "カマラのモナコからチェルシーへの47.1 百万ポンド移籍が破談",
-      "summary": "ラミン・カマラご宿泊中モナコセネガルのミッドフィルダーの4710万ポンド が移動した後チェルシー崩壊。",
-      "title_original": "Camara's £47.1m move from Monaco to Chelsea collapses",
-      "summary_original": "Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 23:34:53 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
