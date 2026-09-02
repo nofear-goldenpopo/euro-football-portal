@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T14:39:58.494772+00:00",
+  "updated_at": "2026-09-02T14:53:41.711359+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1086,7 +1086,13 @@
     "Isack Hadjar": "",
     "Liam Lawson": "",
     "Red Bull": "レッドブル",
-    "Brits Boulter": ""
+    "Brits Boulter": "",
+    "Nizaar Kinsella": "",
+    "Pakistan Test": "",
+    "Brydon Carse": "",
+    "Matthew Fisher": "",
+    "Sri Lanka": "スリランカ",
+    "The ICC": ""
   },
   "items": [
     {
@@ -1100,6 +1106,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "深夜移籍フォールアウトスパークチェルシー-モナコログイン",
+      "summary": "使い方チェルシー, エヴァートンそして、モナコ最終日は深夜ドラマを過ぎても見逃せません。Nizaar Kinsella レポート。",
+      "title_original": "Late-night transfer fallout sparks Chelsea-Monaco row",
+      "summary_original": "How Chelsea, Everton and Monaco all missed out after late-night drama on deadline day. Nizaar Kinsella reports.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1wx0g1npn9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 14:48:09 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1244,6 +1264,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Staveley の腕時計ウェストハムオーナーシップサガで勝つ",
+      "summary": "プロスペクティブウェストハムスタッフ Amanda Staveley 獲得を問い合わせロンドン・スタジアム火曜日に Wolves に対して4-2 の勝利を見るため。",
+      "title_original": "Staveley watches West Ham win amid ownership saga",
+      "summary_original": "Prospective West Ham United owner Amanda Staveley was at London Stadium to watch the 4-2 win against Wolves on Tuesday.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4v23llny6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 10:46:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "エンディアイエ’ s 旅からノンリーグ サッカー へ 6500万ポンド マンチェスター・シティログイン",
       "summary": "マンチェスター・シティサインウィンガーイリマン・エンディアイエからエヴァートン6500万ポンド まで価値のある移籍。",
       "title_original": "Ndiaye's journey from non-league football to £65m Man City move",
@@ -1286,6 +1320,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "セルティック印の保持者 Johnstone 及び殴打者 Mheuka レンタル移籍で",
+      "summary": "Former England ゴールキーパーSam Johnstone 参加するセルティック Wolves からのシーズン ロング ローンのストライカーShumaira Mheuka 到着からチェルシー.",
+      "title_original": "Celtic sign keeper Johnstone & striker Mheuka on loan",
+      "summary_original": "Former England goalkeeper Sam Johnstone joins Celtic on a season-long loan from Wolves as striker Shumaira Mheuka arrives from Chelsea.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 14:25:14 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リヴァプールグストに獲得しようと - 水曜日のゴシップ",
       "summary": "サッカーのゴシップ:リヴァプール遅い移動のためにチェルシーディフェンダーマロ・ギュストそして、マンチェスター・ユナイテッド今シーズンの「trial」のディフェンダー",
       "title_original": "Liverpool tried to sign Gusto - Wednesday's gossip",
@@ -1300,27 +1348,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "セルティックローンゴールキーパージョンストーンとストライカー・ムフカ",
-      "summary": "Former England ゴールキーパーSam Johnstone 参加するセルティック Wolves からのシーズン ロング ローン ストライカーとして Shumaira Mheuka 到着からチェルシー.",
-      "title_original": "Celtic loan goalkeeper Johnstone and striker Mheuka",
-      "summary_original": "Former England goalkeeper Sam Johnstone joins Celtic on a season-long loan from Wolves as striker Shumaira Mheuka arrives from Chelsea.",
+      "title": "今シーズン BBC スポーツで女性のサッカーに従う方法",
+      "summary": "新規登録 Women's Super LeagueBBC スポーツは、そのカバレッジを強化しています。",
+      "title_original": "How to follow women's football with BBC Sport this season",
+      "summary_original": "With the new Women's Super League season about to begin, BBC Sport is strengthening its coverage.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 14:25:14 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Staveley の腕時計ウェストハムオーナーシップサガで勝つ",
-      "summary": "プロスペクティブウェストハムスタッフ Amanda Staveley 獲得を問い合わせロンドン・スタジアム火曜日に Wolves に対して4-2 の勝利を見るため。",
-      "title_original": "Staveley watches West Ham win amid ownership saga",
-      "summary_original": "Prospective West Ham United owner Amanda Staveley was at London Stadium to watch the 4-2 win against Wolves on Tuesday.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr4v23llny6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 10:46:48 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crl6n1de5gzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 08:01:47 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1395,34 +1429,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "今シーズン BBC スポーツで女性のサッカーに従う方法",
-      "summary": "新規登録 Women's Super LeagueBBC スポーツは、そのカバレッジを強化しています。",
-      "title_original": "How to follow women's football with BBC Sport this season",
-      "summary_original": "With the new Women's Super League season about to begin, BBC Sport is strengthening its coverage.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl6n1de5gzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 08:01:47 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トッテナムログインチェルシーMudryk と Tosin のペア",
-      "summary": "トッテナムログインチェルシーウィンガーミハイロ・ムドリク レンタル移籍で季節の終わりまで、永久的な動きを完了して下さい Tosin Adarabioyo.",
-      "title_original": "Tottenham sign Chelsea pair Mudryk and Tosin",
-      "summary_original": "Tottenham sign Chelsea winger Mykhailo Mudryk on loan until the end of the season and complete a permanent move for Tosin Adarabioyo.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70dkdyd5r9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 22:27:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1930,6 +1936,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "イギリスのカースは3 分の3 番目を抜いた Pakistan Test",
+      "summary": "Brydon Carse そして、Matthew Fisher エドグバストンのパキスタンに対する3 番目と最終テストのために、イングランドの15 人のチームから2 番目を残しています。",
+      "title_original": "Carse left out of England squad for third Pakistan Test",
+      "summary_original": "Brydon Carse and Matthew Fisher have both been left out of England's 15-man squad for the third and final Test against Pakistan at Edgbaston.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13580419/england-vs-pakistan-brydon-carse-left-out-for-third-and-final-test-at-edgbaston-as-joe-roots-15-man-squad-revealed",
+      "published": "Wed, 02 Sep 2026 15:42:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "US Open LIVE! Brits Boulter, Fearnley, Choinski, サミュエルとジョーンズ アクション",
       "summary": "",
       "title_original": "US Open LIVE! Brits Boulter, Fearnley, Choinski, Samuel and Jones in action",
@@ -2056,6 +2076,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "インドが保持する Women's Champions Trophy としてスリランカホストとして削除",
+      "summary": "The ICC 農村が確認した ICC Women's Champions Trophy 来年はインドで開催されます。スリランカホスティング業務から削除されました。",
+      "title_original": "India to hold Women's Champions Trophy as Sri Lanka removed as hosts",
+      "summary_original": "The ICC has confirmed that the inaugural ICC Women's Champions Trophy will be held in India next year, after Sri Lanka were removed from hosting duties.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13580401/womens-champions-trophy-icc-confirm-india-as-venue-for-inaugural-edition-after-sri-lanka-removed-from-hosting-rights",
+      "published": "Wed, 02 Sep 2026 15:30:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ベスト(最悪)買い手と売り手の移籍市場明らかにされた",
       "summary": "プレミアリーグ記録的な破壊的な夏の合計34億ポンド を費やす移籍市場- しかし、あなたのクラブは実際に購入し、販売する方法は?",
       "title_original": "Best (and worst) buyers and sellers of the transfer window revealed",
@@ -2178,34 +2212,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'チェルシー獲得を問い合わせモナコ販売の引きカマラ",
-      "summary": "モナコ売却する移籍から引き抜かれたラミン・カマラ獲得を問い合わせチェルシーフランスのクラブが非特異的で、深く無事に行動していると感じている人。",
-      "title_original": "'Chelsea are really unhappy!' - Monaco pull out of selling Camara",
-      "summary_original": "Monaco have pulled out of the deal to sell Lamine Camara to Chelsea, who feel the French club have acted in an extraordinary and deeply unprofessional way.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement",
-      "published": "Tue, 01 Sep 2026 23:15:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "サンダーランド劇的なサガの後にフィオファナ獲得を完了",
-      "summary": "サンダーランドついにサインを完了しましたリヨンウィンガーMalick Fofana 劇的な後 Deadline Day2 つのプライベートジェットとプレイヤーが複数の時間を変化させたサガを移籍します。",
-      "title_original": "Sunderland complete Fofana signing after dramatic saga",
-      "summary_original": "Sunderland have finally completed the signing of Lyon winger Malick Fofana after a dramatic Deadline Day transfer saga involving two private jets and the player changing his mind multiple times.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13580106/malick-fofana-sunderland-finally-complete-signing-of-lyon-winger-after-deadline-day-drama-with-crystal-palace",
-      "published": "Wed, 02 Sep 2026 00:15:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v8"
     }
