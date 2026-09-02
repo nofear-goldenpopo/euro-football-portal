@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T14:07:15.150832+00:00",
+  "updated_at": "2026-09-02T14:26:04.428741+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1081,7 +1081,11 @@
     "Italian GP": "イタリアグランプリ",
     "Lewis Hamilton": "",
     "Charles Leclerc": "",
-    "Claressa Shields": ""
+    "Claressa Shields": "",
+    "Shumaira Mheuka": "",
+    "Isack Hadjar": "",
+    "Liam Lawson": "",
+    "Red Bull": "レッドブル"
   },
   "items": [
     {
@@ -1295,17 +1299,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "セルティックゴールキーパー・ジョンストーンレンタル移籍で Wolves から",
-      "summary": "Former England ゴールキーパーSam Johnstone 参加するセルティック季節の融資からウルヴァーハンプトン・ワンダラーズ FC.",
-      "title_original": "Celtic take goalkeeper Johnstone on loan from Wolves",
-      "summary_original": "Former England goalkeeper Sam Johnstone joins Celtic on a season-long loan from Wolverhampton Wanderers.",
+      "title": "セルティックローンゴールキーパー・ジョンストーンとストライカー・ムフカ",
+      "summary": "Former England ゴールキーパーSam Johnstone 参加するセルティック Wolvers からストライカーとしての季節融資 Shumaira Mheuka 到着からチェルシー.",
+      "title_original": "Celtic loan goalkeeper Johnstone and striker Mheuka",
+      "summary_original": "Former England goalkeeper Sam Johnstone joins Celtic on a season-long loan from Wolvers as striker Shumaira Mheuka arrives from Chelsea.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 11:30:49 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
+      "published": "Wed, 02 Sep 2026 14:25:14 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1925,6 +1929,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Hadjar を見逃すイタリアグランプリ進行中の手首の傷害を使って",
+      "summary": "Isack Hadjar 今週末はお見逃しなく!イタリアグランプリ進行中の手首の怪我による Liam Lawson 第2 回連続イベントの交換レッドブル.",
+      "title_original": "Hadjar to miss Italian GP with ongoing wrist injury",
+      "summary_original": "Isack Hadjar will miss this weekend's Italian Grand Prix due to his ongoing wrist injury with Liam Lawson replacing him for a second consecutive event at Red Bull.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13580313/isack-hadjar-to-miss-italian-grand-prix-with-wrist-injury-as-liam-lawson-gets-red-bull-opportunity-at-monza",
+      "published": "Wed, 02 Sep 2026 15:05:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フェラーリ確認イタリアグランプリ Hamilton、Leclerc のためのエンジンのアップグレード",
       "summary": "フェラーリが確認済み Lewis Hamilton そして、Charles Leclerc 今週の週末にエンジンのアップグレードを行いますイタリアグランプリ.",
       "title_original": "Ferrari confirm Italian GP engine upgrade for Hamilton, Leclerc",
@@ -2187,20 +2205,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ピーターズは終了を目指しているハル勝利およびプレーオフの点との KR の張力",
-      "summary": "の式のためのハル KR は金曜日に簡単です: ビートハダーズフィールド・ジャイアンツそして、彼らはプレーオフです。",
-      "title_original": "Peters aims to end Hull KR tenure with win and play-off spot",
-      "summary_original": "The equation for Hull KR is simple on Friday: Beat Huddersfield Giants and they are in the play-offs.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13580289/willie-peters-hull-kr-head-coach-targeting-perfect-farewell-with-super-league-play-off-place-on-the-line",
-      "published": "Wed, 02 Sep 2026 09:57:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
