@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T10:51:31.356418+00:00",
+  "updated_at": "2026-09-02T11:05:57.759840+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1053,7 +1053,9 @@
     "Beat Huddersfield Giants": "",
     "Prospective West Ham United": "",
     "Amanda Staveley": "",
-    "London Stadium": "ロンドン・スタジアム"
+    "London Stadium": "ロンドン・スタジアム",
+    "Will Hamilton": "ウィリアム・ハミルトン",
+    "Scott Kuggeleijn": ""
   },
   "items": [
     {
@@ -1506,9 +1508,9 @@
     },
     {
       "title": "エヴァートンあと1 回だけストライカーで左にバログン期限日が遅れて移籍が崩壊",
-      "summary": "最後の瞬間に4000万ポンド の契約から25 歳の散歩 Beto とエンディアイエすでにクラブが資金を調達するために販売エヴァートン'4000万ポンド は米国のために動きますインテル全国フォラリン・バログン期限日が遅れてマネージャーを離れる David Moyes 季節初旬のストライカーが1 本だけ。エヴァートン4000万ポンド の契約合意バログンストライカーの問題だけメディカルチェックメルシーサイドクラブが Beto を販売した後、間違いなく移籍を置くためにフィオレンティーナそして、イリマン・エンディアイエ獲得を問い合わせマンチェスター・シティ. 獲得を問い合わせ",
+      "summary": "アメリカは4000万ポンド のディール・クラブが Beto を販売し、エンディアイエ資金調達エヴァートン’s 4000万ポンド 米国のために移動インテル全国フォラリン・バログン期限日が遅れてマネージャーを離れる David Moyes 季節初旬のストライカーが1 人だけ。エヴァートン4000万ポンド の契約合意バログンストライカーの問題だけメディカルチェックメルシーサイドクラブが Beto を販売した後、間違いなく移籍を置くためにフィオレンティーナそして、イリマン・エンディアイエ獲得を問い合わせマンチェスター・シティ. 獲得を問い合わせはマッドでした",
       "title_original": "Everton left with only one striker after Balogun deal collapses late on deadline day",
-      "summary_original": "25-year-old walks away from £40m deal at last moment Beto and Ndiaye already sold by club to raise funds Everton’s £40m move for US international Folarin Balogun collapsed late on deadline day to leave manager David Moyes with only one striker for the first half of the season. Everton had agreed a £40m deal for Balogun only for issues with the striker’s medical to place the transfer in doubt after the Merseyside club had sold Beto to Fiorentina and Iliman Ndiaye to Manchester City. Enquiries wer",
+      "summary_original": "USA forward changes his mind over £40m deal Club had sold Beto and Ndiaye to raise funds Everton’s £40m move for the USA international Folarin Balogun collapsed late on deadline day to leave the manager, David Moyes, with only one striker for the first half of the season. Everton had agreed a £40m deal for Balogun only for issues with the striker’s medical to place the transfer in doubt after the Merseyside club had sold Beto to Fiorentina and Iliman Ndiaye to Manchester City. Enquiries were mad",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/02/everton-in-late-scramble-to-complete-balogun-transfer-after-flurry-of-sales",
       "published": "Tue, 01 Sep 2026 23:46:05 GMT",
@@ -1897,6 +1899,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウィリアム・ハミルトン, Russsell または Norris が Monza でタイトルレースの開口部を押下しますか?",
+      "summary": "世界選手権のリーダーと Kimi Antonelli グリッドの後ろから始めるように設定イタリアグランプリ, ブリッツのトリオは、スタンドの上部に彼を追いかけるしようとする主要な機会を持っています.",
+      "title_original": "Will Hamilton, Russell or Norris seize title-race opening at Monza?",
+      "summary_original": "With world championship leader Kimi Antonelli set to start from the back of the grid at the Italian Grand Prix, the trio of Brits attempting to chase him down at the top of the standings have a major opportunity.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13580177/italian-gp-will-lewis-hamilton-george-russell-or-lando-norris-seize-title-race-opening-due-to-kimi-antonelli-grid-penalties",
+      "published": "Wed, 02 Sep 2026 12:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Etienne はバースで最初の成功を追います",
       "summary": "お風呂から平坦な行動で水曜日に忙しい一日のレースをしています。ニューカッスル, ライブオン Sky Sports Racing...",
       "title_original": "Etienne chases first success at Bath",
@@ -2023,6 +2039,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Hampshire は、ソーシャルメディアのバックラッシュ後の新しい獲得に U ターンを作る",
+      "summary": "ハンプシャーが確認した New Zealand オールラウンド Scott Kuggeleijn クラブは、彼の獲得の上に広く普及している批判に従って機能しません。",
+      "title_original": "Hampshire make U-turn on new signing after social media backlash",
+      "summary_original": "Hampshire have confirmed that New Zealand all-rounder Scott Kuggeleijn will not feature for the club, following widespread criticism over his signing.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13580316/scott-kuggeleijn-hampshire-confirm-new-zealand-all-rounder-will-not-feature-for-club-after-criticism-over-signing",
+      "published": "Wed, 02 Sep 2026 11:40:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ピーターは完成する準備が整いましたハル KR は、ホームウィンで高い耐久性でプレイオフスポットを確保",
       "summary": "の式のためのハル KR は金曜日に簡単です: ビートハダーズフィールド・ジャイアンツそして、彼らはプレーオフにあります。",
       "title_original": "Peters ready to finish Hull KR tenure on high with home win to secure play-off spot",
@@ -2142,34 +2172,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/portsmouth-vs-derby-county/report/560536",
       "published": "Tue, 01 Sep 2026 21:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "In-form Swansea ワットフォードを過ぎる容易さ",
-      "summary": "Swansea がトップを移動 EFL チャンピオンシップワトフォードを上回る2-0 の家の勝利を使って。",
-      "title_original": "In-form Swansea ease past Watford",
-      "summary_original": "Swansea moved top of the Sky Bet Championship with a 2-0 home win over Watford.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/swansea-city-vs-watford/report/560540",
-      "published": "Tue, 01 Sep 2026 21:30:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Musetti が誇る US Open デビュー",
-      "summary": "Arthur Fery's フェアリー・タレ・デビュー・ランの希望全米オープンストレートセットで最初のラウンドで終了 Lorenzo Musetti 獲得を問い合わせフラッシング・メドウズ・コロナ・パーク.",
-      "title_original": "Fery outclassed by Musetti on US Open debut",
-      "summary_original": "Arthur Fery's hopes of a fairy-tale debut run at the US Open were ended in the first round by a straight-sets defeat to Lorenzo Musetti at Flushing Meadows.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13580037/us-open-2026-arthur-fery-beaten-by-lorenzo-musetti-in-straight-sets-on-flushing-meadows-debut",
-      "published": "Tue, 01 Sep 2026 23:49:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
