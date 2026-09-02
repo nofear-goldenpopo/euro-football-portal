@@ -11,7 +11,7 @@ import argostranslate.package
 import argostranslate.translate
 
 
-TRANSLATION_VERSION = "football-ja-v7"
+TRANSLATION_VERSION = "football-ja-v8"
 DATA_PATH = Path("data/news.json")
 
 FEEDS = [
@@ -65,6 +65,15 @@ FOOTBALL_ENTITY_OVERRIDES = {
     "West Ham United": "ウェストハム",
     "West Ham": "ウェストハム",
     "Brighton": "ブライトン",
+    "Brentford": "ブレントフォード",
+    "Burnley": "バーンリー",
+    "Ipswich Town": "イプスウィッチ・タウン",
+    "Ipswich": "イプスウィッチ",
+    "Sunderland": "サンダーランド",
+    "Hull City": "ハル・シティ",
+    "Hull": "ハル",
+    "Leeds United": "リーズ・ユナイテッド",
+    "Leeds": "リーズ",
     "Nottingham Forest": "ノッティンガム・フォレスト",
 
     # スペイン
@@ -245,6 +254,33 @@ PLAYER_NAME_OVERRIDES = {
     "Jamal Musiala": "ジャマル・ムシアラ",
 
     # 記者
+    "Lionel Messi": "リオネル・メッシ",
+    "Messi": "メッシ",
+    "Miroslav Klose": "ミロスラフ・クローゼ",
+    "Klose": "クローゼ",
+    "Enzo Fernández": "エンソ・フェルナンデス",
+    "Enzo Fernandez": "エンソ・フェルナンデス",
+    "Fernandez": "フェルナンデス",
+    "Matias Fernandez-Pardo": "マティアス・フェルナンデス＝パルド",
+    "Fernandez-Pardo": "フェルナンデス＝パルド",
+    "Tim Iroegbunam": "ティム・イロエグブナム",
+    "Iroegbunam": "イロエグブナム",
+    "Iliman Ndiaye": "イリマン・エンディアイエ",
+    "Ndiaye": "エンディアイエ",
+    "Kevin Danso": "ケヴィン・ダンソ",
+    "Danso": "ダンソ",
+    "Folarin Balogun": "フォラリン・バログン",
+    "Balogun": "バログン",
+    "Lamine Camara": "ラミン・カマラ",
+    "Camara": "カマラ",
+    "Julio Enciso": "フリオ・エンシソ",
+    "Enciso": "エンシソ",
+    "Morgan Rogers": "モーガン・ロジャーズ",
+    "Rogers": "ロジャーズ",
+    "Gonzalo Garcia": "ゴンサロ・ガルシア",
+    "Victor Munoz": "ビクトル・ムニョス",
+    "Lucca Brughmans": "ルカ・ブルッヒマンス",
+    "Brughmans": "ブルッヒマンス",
     "Phil McNulty": "フィル・マクナルティ",
 }
 
@@ -313,7 +349,7 @@ PRIORITY = [
 def fetch(url):
     request = Request(
         url,
-        headers={"User-Agent": "EURO-Football-Portal/7.0"},
+        headers={"User-Agent": "EURO-Football-Portal/8.0"},
     )
     with urlopen(request, timeout=30) as response:
         return response.read()
@@ -671,6 +707,236 @@ def rewrite_headline(title, dynamic_entities):
     lower = raw.lower()
 
     # =====================================================
+    # v8: 汎用サッカー見出しの自然化
+    # =====================================================
+
+    # How Messi broke Klose's World Cup goalscoring record
+    match = re.fullmatch(
+        r"How (.+?) broke (.+?)['’]s World Cup goalscoring record",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        player = entity_to_ja(match.group(1), dynamic_entities)
+        record_holder = entity_to_ja(match.group(2), dynamic_entities)
+        return (
+            f"{player}はいかにして{record_holder}の"
+            f"W杯最多得点記録を更新したのか"
+        )
+
+    # Fernandes joins Man City for joint-British record £125m
+    match = re.fullmatch(
+        r"(.+?) joins (.+?) for (?:a )?joint-British record "
+        r"([£€])([0-9]+(?:\.[0-9]+)?)m",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        player = entity_to_ja(match.group(1), dynamic_entities)
+        club = entity_to_ja(match.group(2), dynamic_entities)
+        currency = match.group(3)
+        amount_raw = float(match.group(4))
+        if amount_raw.is_integer():
+            amount_ja = format_millions(int(amount_raw), currency)
+        else:
+            unit = "ユーロ" if currency == "€" else "ポンド"
+            amount_ja = f"{amount_raw:g}百万{unit}"
+        return (
+            f"{club}、{player}を英国史上最高額タイの"
+            f"{amount_ja}で獲得"
+        )
+
+    # Newcastle sign Fernandez-Pardo from Lille for £51m
+    match = re.fullmatch(
+        r"(.+?) sign(?:s|ed)? (.+?) from (.+?) for "
+        r"([£€])([0-9]+(?:\.[0-9]+)?)m",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        club = entity_to_ja(match.group(1), dynamic_entities)
+        player = entity_to_ja(match.group(2), dynamic_entities)
+        old_club = entity_to_ja(match.group(3), dynamic_entities)
+        currency = match.group(4)
+        amount_raw = float(match.group(5))
+        if amount_raw.is_integer():
+            amount_ja = format_millions(int(amount_raw), currency)
+        else:
+            unit = "ユーロ" if currency == "€" else "ポンド"
+            amount_ja = f"{amount_raw:g}百万{unit}"
+        return (
+            f"{club}、{old_club}から{player}を"
+            f"{amount_ja}で獲得"
+        )
+
+    # Ipswich sign Burnley forward Fleming for £20m
+    match = re.fullmatch(
+        r"(.+?) sign(?:s|ed)? (.+?) (forward|midfielder|defender|goalkeeper) "
+        r"(.+?) for ([£€])([0-9]+(?:\.[0-9]+)?)m",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        club = entity_to_ja(match.group(1), dynamic_entities)
+        old_club = entity_to_ja(match.group(2), dynamic_entities)
+        position_map = {
+            "forward": "FW",
+            "midfielder": "MF",
+            "defender": "DF",
+            "goalkeeper": "GK",
+        }
+        pos = position_map.get(match.group(3).lower(), "")
+        player = entity_to_ja(match.group(4), dynamic_entities)
+        currency = match.group(5)
+        amount_raw = float(match.group(6))
+        if amount_raw.is_integer():
+            amount_ja = format_millions(int(amount_raw), currency)
+        else:
+            unit = "ユーロ" if currency == "€" else "ポンド"
+            amount_ja = f"{amount_raw:g}百万{unit}"
+        return (
+            f"{club}、{old_club}の{pos}{player}を"
+            f"{amount_ja}で獲得"
+        )
+
+    # Sunderland sign Tottenham defender Danso on loan
+    match = re.fullmatch(
+        r"(.+?) sign(?:s|ed)? (.+?) (forward|midfielder|defender|goalkeeper) "
+        r"(.+?) on loan",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        club = entity_to_ja(match.group(1), dynamic_entities)
+        old_club = entity_to_ja(match.group(2), dynamic_entities)
+        position_map = {
+            "forward": "FW",
+            "midfielder": "MF",
+            "defender": "DF",
+            "goalkeeper": "GK",
+        }
+        pos = position_map.get(match.group(3).lower(), "")
+        player = entity_to_ja(match.group(4), dynamic_entities)
+        return f"{club}、{old_club}の{pos}{player}をレンタルで獲得"
+
+    # Hull sign six players including £22m Iroegbunam
+    match = re.fullmatch(
+        r"(.+?) sign(?:s|ed)? (six|6) players including "
+        r"([£€])([0-9]+(?:\.[0-9]+)?)m (.+)",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        club = entity_to_ja(match.group(1), dynamic_entities)
+        currency = match.group(3)
+        amount_raw = float(match.group(4))
+        player = entity_to_ja(match.group(5), dynamic_entities)
+        if amount_raw.is_integer():
+            amount_ja = format_millions(int(amount_raw), currency)
+        else:
+            unit = "ユーロ" if currency == "€" else "ポンド"
+            amount_ja = f"{amount_raw:g}百万{unit}"
+        return f"{club}、{player}ら6選手を獲得　{player}は{amount_ja}"
+
+    # Camara's £47.1m move from Monaco to Chelsea collapses
+    match = re.fullmatch(
+        r"(.+?)['’]s ([£€])([0-9]+(?:\.[0-9]+)?)m move from "
+        r"(.+?) to (.+?) collapses",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        player = entity_to_ja(match.group(1), dynamic_entities)
+        currency = match.group(2)
+        amount_raw = float(match.group(3))
+        old_club = entity_to_ja(match.group(4), dynamic_entities)
+        new_club = entity_to_ja(match.group(5), dynamic_entities)
+        unit = "ユーロ" if currency == "€" else "ポンド"
+        if amount_raw.is_integer():
+            amount_ja = format_millions(int(amount_raw), currency)
+        else:
+            amount_ja = f"{amount_raw:g}百万{unit}"
+        return (
+            f"{player}の{old_club}から{new_club}への"
+            f"{amount_ja}移籍が破談"
+        )
+
+    # Balogun's Everton move collapses
+    match = re.fullmatch(
+        r"(.+?)['’]s (.+?) move collapses",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        player = entity_to_ja(match.group(1), dynamic_entities)
+        club = entity_to_ja(match.group(2), dynamic_entities)
+        return f"{player}の{club}移籍が破談"
+
+    # Brughmans joins Liverpool in transfer worth up to £30m
+    match = re.fullmatch(
+        r"(.+?) joins (.+?) in (?:a )?transfer worth up to "
+        r"([£€])([0-9]+(?:\.[0-9]+)?)m",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        player = entity_to_ja(match.group(1), dynamic_entities)
+        club = entity_to_ja(match.group(2), dynamic_entities)
+        currency = match.group(3)
+        amount_raw = float(match.group(4))
+        if amount_raw.is_integer():
+            amount_ja = format_millions(int(amount_raw), currency)
+        else:
+            unit = "ユーロ" if currency == "€" else "ポンド"
+            amount_ja = f"{amount_raw:g}百万{unit}"
+        return f"{club}、{player}を最大{amount_ja}で獲得"
+
+    # Yamal and Raphinha score twice as Barcelona hit five
+    match = re.fullmatch(
+        r"(.+?) and (.+?) score twice as (.+?) hit five",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        p1 = entity_to_ja(match.group(1), dynamic_entities)
+        p2 = entity_to_ja(match.group(2), dynamic_entities)
+        club = entity_to_ja(match.group(3), dynamic_entities)
+        return f"{p1}と{p2}が2得点　{club}が5ゴールで快勝"
+
+    # Fernandes hat-trick as Man Utd beat Ipswich
+    match = re.fullmatch(
+        r"(.+?) hat-trick as (.+?) beat (.+)",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        player = entity_to_ja(match.group(1), dynamic_entities)
+        winner = entity_to_ja(match.group(2), dynamic_entities)
+        loser = entity_to_ja(match.group(3), dynamic_entities)
+        return f"{player}がハットトリック　{winner}が{loser}に勝利"
+
+    # Premier League breaks transfer record for second straight summer
+    match = re.fullmatch(
+        r"Premier League breaks transfer record for (?:a )?second straight summer",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        return "プレミアリーグ、2年連続で夏の移籍金総額記録を更新"
+
+    # MOTD pundits debate controversial own goal as Man Utd win
+    match = re.fullmatch(
+        r"MOTD pundits debate controversial own goal(?: as (.+?) win)?",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        if match.group(1):
+            club = entity_to_ja(match.group(1), dynamic_entities)
+            return f"MOTD解説陣、{club}勝利の物議を醸したオウンゴールを議論"
+        return "MOTD解説陣、物議を醸したオウンゴールを議論"
+
+    # =====================================================
     # v7: 移籍ニュース見出しの自然化
     # =====================================================
 
@@ -877,6 +1143,51 @@ def rewrite_headline(title, dynamic_entities):
 def rewrite_summary(summary, dynamic_entities):
     raw = summary.strip()
 
+    # X signs Y from Z for a reported £20m on a four-year deal.
+    match = re.fullmatch(
+        r"(.+?) sign(?:s|ed)? (.+?) from (.+?) for (?:a )?reported "
+        r"([£€])([0-9]+(?:\.[0-9]+)?)m on a ([a-z-]+)-year deal[.]?",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        club = entity_to_ja(match.group(1), dynamic_entities)
+        player = entity_to_ja(match.group(2), dynamic_entities)
+        old_club = entity_to_ja(match.group(3), dynamic_entities)
+        currency = match.group(4)
+        amount_raw = float(match.group(5))
+        years_word = match.group(6).lower()
+        year_map = {
+            "two": 2, "three": 3, "four": 4,
+            "five": 5, "six": 6,
+        }
+        years = year_map.get(years_word, years_word)
+        if amount_raw.is_integer():
+            amount_ja = format_millions(int(amount_raw), currency)
+        else:
+            unit = "ユーロ" if currency == "€" else "ポンド"
+            amount_ja = f"{amount_raw:g}百万{unit}"
+        return (
+            f"{club}は{old_club}から{player}を"
+            f"推定{amount_ja}で獲得。契約期間は{years}年。"
+        )
+
+    # X signs Y on loan from Z until the end of the season.
+    match = re.fullmatch(
+        r"(.+?) sign(?:s|ed)? (.+?) on loan from (.+?) "
+        r"until the end of the season[.]?",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        club = entity_to_ja(match.group(1), dynamic_entities)
+        player = entity_to_ja(match.group(2), dynamic_entities)
+        old_club = entity_to_ja(match.group(3), dynamic_entities)
+        return (
+            f"{club}は{old_club}から{player}を"
+            f"シーズン終了までのレンタルで獲得した。"
+        )
+
     match = re.fullmatch(
         r"After two goals and a swaggering display against (.+?), "
         r"(.+?) asks if this is (.+?)['’]s time to shine for (.+?)[.]?",
@@ -932,6 +1243,30 @@ def football_postprocess(text):
         "問い合わせ": "獲得を問い合わせ",
         "新着情報": "獲得",
         "取引": "移籍",
+        "第2半": "後半",
+        "第二半": "後半",
+        "転送": "移籍",
+        "夏の署名": "夏の新加入選手",
+        "署名": "獲得",
+        "共同英国の記録": "英国史上最高額タイ",
+        "すべての時間": "史上",
+        "すべての時代": "史上",
+        "ワールドカップ": "W杯",
+        "ゴールコーチングレコード": "最多得点記録",
+        "ゴールスコアリングレコード": "最多得点記録",
+        "壊れた": "更新した",
+        "獲得を獲得を": "獲得を",
+        "獲得を問い合わせ": "獲得を問い合わせ",
+        "参照論論論論論論論論論": "議論",
+        "参照論論論論論論論": "議論",
+        "参照論論論論論": "議論",
+        "参照論論論": "議論",
+        "参照論": "議論",
+        "オウンゴール獲得": "オウンゴール",
+        "季節限定の季節限定": "今夏",
+        "プレミアリーグ季節限定": "プレミアリーグ",
+        "マッチシェイ": "試合",
+        "ギヴンカレンダーリーズ": "カレンダー",
     }
 
     for old, new in fixes.items():
@@ -950,6 +1285,62 @@ def football_postprocess(text):
     )
     text = re.sub(r"\s+([。、！？])", r"\1", text)
     text = re.sub(r"([。、！？])\s+", r"\1", text)
+    # £51m / £47.1m / €125m などを日本語表記に
+    def _money_repl(match):
+        currency = match.group(1)
+        value = float(match.group(2))
+        unit = "ユーロ" if currency == "€" else "ポンド"
+
+        if value.is_integer():
+            return format_millions(int(value), currency)
+
+        # 小数を含む場合は実額へ換算
+        total_million = value
+        total = int(round(total_million * 1_000_000))
+        oku = total // 100_000_000
+        man = (total % 100_000_000) // 10_000
+
+        if oku and man:
+            return f"{oku}億{man}万{unit}"
+        if oku:
+            return f"{oku}億{unit}"
+        return f"{man}万{unit}"
+
+    text = re.sub(
+        r"([£€])([0-9]+(?:\.[0-9]+)?)m\b",
+        _money_repl,
+        text,
+        flags=re.IGNORECASE,
+    )
+
+    # £3.198bn → 31億9800万ポンド
+    def _billion_repl(match):
+        currency = match.group(1)
+        value = float(match.group(2))
+        unit = "ユーロ" if currency == "€" else "ポンド"
+        total = int(round(value * 1_000_000_000))
+        oku = total // 100_000_000
+        man = (total % 100_000_000) // 10_000
+        if man:
+            return f"{oku}億{man}万{unit}"
+        return f"{oku}億{unit}"
+
+    text = re.sub(
+        r"([£€])([0-9]+(?:\.[0-9]+)?)bn\b",
+        _billion_repl,
+        text,
+        flags=re.IGNORECASE,
+    )
+
+    # サッカー文脈で頻発する不自然な訳を軽く補正
+    text = re.sub(r"(?<!目標の)目標を(挙げ|決め)", r"ゴールを\1", text)
+    text = re.sub(r"(\d+)つの目標", r"\1ゴール", text)
+    text = re.sub(r"(\d+)\s*位のゴール", r"\1ゴール", text)
+
+    # 重複語
+    text = re.sub(r"(獲得を){2,}", "獲得を", text)
+    text = re.sub(r"(議論){2,}", "議論", text)
+
     text = re.sub(r"\s{2,}", " ", text)
     return text.strip()
 
