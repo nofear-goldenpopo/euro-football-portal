@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T18:28:55.237805+00:00",
+  "updated_at": "2026-09-02T18:41:41.231708+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1120,7 +1120,10 @@
     "Camara Folarin Balogun": "",
     "Chelsea. Balogun": "",
     "The Friedkin Group": "",
-    "Van Leuven": ""
+    "Van Leuven": "",
+    "Northern Ireland": "北アイルランド",
+    "Michael O'Neill": "",
+    "National Training Centre": ""
   },
   "items": [
     {
@@ -1163,6 +1166,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "O'Neill 'hopeful' トレーニングセンターの計画進捗",
+      "summary": "北アイルランドマネージャーMichael O'Neill 彼が「十分に希望する」と言っている Irish Football Association 計画を立てて進むことができる National Training Centre2028 年オープン",
+      "title_original": "O'Neill 'hopeful' training centre plans progress",
+      "summary_original": "Northern Ireland manager Michael O'Neill says that he is \"certainly hopeful\" that the Irish Football Association can move forward with plans to have a National Training Centre open by 2028.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jyw0zdn8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 18:32:09 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1250,20 +1267,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "タイトルのコンテンダーは十分で完了します移籍市場チャレンジへアーセナル?",
-      "summary": "として、移籍市場夏の終わり、チーフサッカーライターフィル・マクナルティ獲得を問い合わせアーセナルライバルは、チャンピオンに挑戦するのに十分だったのですか?",
-      "title_original": "Have title contenders done enough in transfer window to challenge Arsenal?",
-      "summary_original": "As the transfer window closes for the summer, chief football writer Phil McNulty asks if Arsenal's rivals have done enough to challenge the champions?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c804y5e1333o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 06:12:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "締め切り、明滅、記録としてマンチェスター・シティバックマレスカのためのフェルナンデスソリューション",
       "summary": "夏の最長の移籍サガの端とマンチェスター・シティミッドフィルダーに持ち込むための英国史上最高額タイ料を支払うエンソ・フェルナンデスからチェルシー.",
       "title_original": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
@@ -1271,6 +1274,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 01 Sep 2026 23:16:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "タイトルのコンテンダーは十分で完了します移籍市場チャレンジへアーセナル?",
+      "summary": "として、移籍市場夏の終わり、チーフサッカーライターフィル・マクナルティ獲得を問い合わせアーセナルライバルは、チャンピオンに挑戦するのに十分だったのですか?",
+      "title_original": "Have title contenders done enough in transfer window to challenge Arsenal?",
+      "summary_original": "As the transfer window closes for the summer, chief football writer Phil McNulty asks if Arsenal's rivals have done enough to challenge the champions?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c804y5e1333o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 06:12:02 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1411,20 +1428,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/articles/ckgwd5vd433o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 10:19:31 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "72+: The EFL Podcast",
-      "summary": "アーロン・ポールそして、Jobi McAnuff 獲得を問い合わせノリッジ・シティ FC スポーツディレクターBen Knapper.",
-      "title_original": "72+: The EFL Podcast",
-      "summary_original": "Aaron Paul and Jobi McAnuff are joined by Norwich City sporting director Ben Knapper.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p7kbw4?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 14:55:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
