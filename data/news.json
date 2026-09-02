@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T20:26:13.654169+00:00",
+  "updated_at": "2026-09-02T20:38:32.339678+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1142,7 +1142,8 @@
     "Keira Walsh’s": "",
     "Wimbledon’s Cherry Red Records": "",
     "Sonia Bompastor’s": "",
-    "Callum Styles": "カラム・スタイルズ"
+    "Callum Styles": "カラム・スタイルズ",
+    "Ugo Raghouber": ""
   },
   "items": [
     {
@@ -2084,9 +2085,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! 雨が止むように屋根の下の行動でブルターは、外側の裁判所で再生します",
+      "title": "US Open LIVE! Boulter は、外部の裁判所を再起動するために約再生して1 つのゲームを獲得",
       "summary": "",
-      "title_original": "US Open LIVE! Boulter in action under the roof as rain stops play on outside courts",
+      "title_original": "US Open LIVE! Boulter wins just one game with play about to restart on outside courts",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13580222/us-open-live-scores-updates-news-commentary-and-results-from-new-york-with-katie-boulter-jacob-fearnley-jan-choinski-and-toby-samuel-in-action",
@@ -2105,6 +2106,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13580391/im-getting-emotional-katie-taylor-gets-teary-reflecting-on-dream-farewell-fight",
       "published": "Wed, 02 Sep 2026 14:38:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Raghouber の網の素晴らしいイコライザーのためのバーンリー!",
+      "summary": "Ugo Raghouber スコアをレベルアップバーンリーミドルスラッシュで。",
+      "title_original": "Raghouber nets stunning equaliser for Burnley!",
+      "summary_original": "Ugo Raghouber levels the score for Burnley in their clash with Middlesbrough.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13580532/ugo-raghouber-nets-stunning-equaliser-for-burnley",
+      "published": "Wed, 02 Sep 2026 21:24:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2147,6 +2162,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13580518/burnley-0-1-middlesbrough-aidan-morris-finally-breaks-boro-duck-with-stunner",
       "published": "Wed, 02 Sep 2026 20:31:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンジャーズ Falkirk で開催されるセルティック3 アップとクルージング対 Dons LIVE!",
+      "summary": "",
+      "title_original": "Rangers being held at Falkirk, Celtic three up and cruising vs Dons LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/falkirk-vs-rangers/live/558359",
+      "published": "Wed, 02 Sep 2026 18:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2231,34 +2260,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13580369/italian-gp-lewis-hamilton-hopeful-ferrari-can-fight-for-monza-win-as-team-confirm-engine-upgrade-for-home-race",
       "published": "Wed, 02 Sep 2026 18:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Nedeljkovic OGFalkirk レベル対レンジャーズ, セルティック3 アップ対 Dons LIVE!",
-      "summary": "",
-      "title_original": "Nedeljkovic OG brings Falkirk level vs Rangers, Celtic three up vs Dons LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/falkirk-vs-rangers/live/558359",
-      "published": "Wed, 02 Sep 2026 18:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "MVG 起動 World Series インフォメーション Darts Finals イラグナに対する防衛",
-      "summary": "マイケル・ヴァン・ゲルウェンが開幕 World Series インフォメーション Darts Finals タイトルに対する防衛 Lourence Ilagan, として Luke Littler ヘッド・ツー・ヘッド Danny Noppert アムステルダム",
-      "title_original": "MVG starts World Series of Darts Finals defence against Ilagan",
-      "summary_original": "Michael van Gerwen will open his World Series of Darts Finals title defence against Lourence Ilagan, as Luke Littler goes head-to-head with Danny Noppert in Amsterdam.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13580326/world-series-of-darts-finals-michael-van-gerwen-faces-lourence-ilagan-to-start-title-defence-as-luke-littler-takes-on-danny-noppert",
-      "published": "Wed, 02 Sep 2026 12:15:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
