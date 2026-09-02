@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T10:38:36.012169+00:00",
+  "updated_at": "2026-09-02T10:51:31.356418+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1050,7 +1050,10 @@
     "DURING Fery": "",
     "BBC Sport's Ask Me": "",
     "Iliman Ndiay": "",
-    "Beat Huddersfield Giants": ""
+    "Beat Huddersfield Giants": "",
+    "Prospective West Ham United": "",
+    "Amanda Staveley": "",
+    "London Stadium": "ロンドン・スタジアム"
   },
   "items": [
     {
@@ -1110,6 +1113,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・ユナイテッド計算された左バックギャンブル",
+      "summary": "大規模な期待にもかかわらず、彼らは、この夏の左バックに獲得します,マンチェスター・ユナイテッド- それはどういう意味ですか?",
+      "title_original": "Man Utd and their calculated left-back gamble",
+      "summary_original": "Despite a widespread expectation they would sign a left-back this summer, Manchester United decided against - what does it mean?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9x212829vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 10:46:56 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Woltemade は夏の変化に根ざした動きをニューカッスル",
       "summary": "期限日の2 つの非常に異なる移籍のほとんどは、Nick Woltemade 左からニューカッスル参加するユヴェントス レンタル移籍でそしてクラブは到着を通知しましたマティアス・フェルナンデス＝パルド.",
       "title_original": "Woltemade move underlines summer of change at Newcastle",
@@ -1158,25 +1175,11 @@
       "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 23:48:37 GMT",
+      "published": "Wed, 02 Sep 2026 10:42:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "バログン獲得を問い合わせメディカルチェック獲得を問い合わせエヴァートン放棄前の移動",
-      "summary": "エヴァートンの のための移動フォラリン・バログンストライカーが心を変えた後の崩壊メディカルチェッククラブズ Finch Farm トレーニングベース。",
-      "title_original": "Balogun has medical at Everton before abandoning move",
-      "summary_original": "Everton's move for Folarin Balogun collapses after the striker changes his mind following a medical at the club's Finch Farm training base.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 07:48:04 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1218,6 +1221,34 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Staveley の腕時計ウェストハムオーナーシップサガで勝つ",
+      "summary": "プロスペクティブウェストハムスタッフ Amanda Staveley 獲得を問い合わせロンドン・スタジアム火曜日に Wolves に対して4-2 の勝利を見るため。",
+      "title_original": "Staveley watches West Ham win amid ownership saga",
+      "summary_original": "Prospective West Ham United owner Amanda Staveley was at London Stadium to watch the 4-2 win against Wolves on Tuesday.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4v23llny6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 10:46:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "バログン獲得を問い合わせメディカルチェック獲得を問い合わせエヴァートン放棄前の移動",
+      "summary": "エヴァートンの のための移動フォラリン・バログンストライカーが心を変えた後の崩壊メディカルチェッククラブズ Finch Farm トレーニングベース。",
+      "title_original": "Balogun has medical at Everton before abandoning move",
+      "summary_original": "Everton's move for Folarin Balogun collapses after the striker changes his mind following a medical at the club's Finch Farm training base.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 07:48:04 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1264,6 +1295,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "今シーズン BBC スポーツで女性のサッカーに従う方法",
+      "summary": "新規登録 Women's Super LeagueBBC スポーツは、そのカバレッジを強化しています。",
+      "title_original": "How to follow women's football with BBC Sport this season",
+      "summary_original": "With the new Women's Super League season about to begin, BBC Sport is strengthening its coverage.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crl6n1de5gzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 08:01:47 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トッテナムログインチェルシーMudryk と Tosin のペア",
       "summary": "トッテナムログインチェルシーウィンガーミハイロ・ムドリク レンタル移籍で季節の終わりまで、永久的な動きを完了して下さい Tosin Adarabioyo.",
       "title_original": "Tottenham sign Chelsea pair Mudryk and Tosin",
@@ -1289,20 +1334,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "今シーズン BBC スポーツで女性のサッカーに従う方法",
-      "summary": "新規登録 Women's Super LeagueBBC スポーツは、そのカバレッジを強化しています。",
-      "title_original": "How to follow women's football with BBC Sport this season",
-      "summary_original": "With the new Women's Super League season about to begin, BBC Sport is strengthening its coverage.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl6n1de5gzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 08:01:47 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1344,20 +1375,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブライトン、Millwall から winger Azeez を獲得",
-      "summary": "ブライトン期限日契約の確保 Femi Azeez1500万ポンド まで価値のある移籍。",
-      "title_original": "Brighton sign winger Azeez from Millwall",
-      "summary_original": "Brighton secure a deadline-day deal for Femi Azeez in a deal worth up to £15m.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx5e590qqeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 09:49:35 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1453,20 +1470,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cy4zmlrrpxxo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 22:37:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "できますチェルシーバックで3 人でリーグを勝ち取る? 評決の決定",
-      "summary": "デイパンディットの試合・ギヴンアワードチェルシーの フライング ウィング バックシャビ・アロンソの の側面は勝ちますプレミアリーグタイトルは3 つのシステムを使用して。",
-      "title_original": "Can Chelsea win the league with three at the back? Given's verdict",
-      "summary_original": "Match of the Day pundit Shay Given praises Chelsea's flying wing-backs, backing Xabi Alonso's side to win the Premier League title using a three-at-the-back system.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyz17d1vy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 22:59:49 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
