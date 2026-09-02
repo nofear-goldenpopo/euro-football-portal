@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T09:51:30.368074+00:00",
+  "updated_at": "2026-09-02T10:06:41.029599+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1046,7 +1046,8 @@
     "Real Madrid. Julián Alvarez": "",
     "Jamie Vardy": "",
     "São Paulo": "サンパウロ",
-    "Can Schalke": ""
+    "Can Schalke": "",
+    "DURING Fery": ""
   },
   "items": [
     {
@@ -1099,6 +1100,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2zg85eyrqo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 09:10:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Woltemade は夏の変化に根ざした動きをニューカッスル",
+      "summary": "期限日の2 つの非常に異なる移籍のほとんどは、Nick Woltemade 左からニューカッスル参加するユヴェントス レンタル移籍でそしてクラブは到着を通知しましたマティアス・フェルナンデス＝パルド",
+      "title_original": "Woltemade move underlines summer of change at Newcastle",
+      "summary_original": "It was ultimately a tale of two very different forwards on deadline day as Nick Woltemade left Newcastle United to join Juventus on loan and the club announced the arrival of Matias Fernandez-Pardo",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z4q00pg7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 10:01:36 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1162,6 +1177,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リヴァプールグストに獲得しようと - 水曜日のゴシップ",
+      "summary": "サッカーのゴシップ:リヴァプール遅い移動のためにチェルシーディフェンダーマロ・ギュストそして、マンチェスター・ユナイテッド今シーズンの「trial」のディフェンダー",
+      "title_original": "Liverpool tried to sign Gusto - Wednesday's gossip",
+      "summary_original": "Football gossip: Liverpool made a late move for Chelsea defender Malo Gusto and Manchester United defenders on \"trial\" this season",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9qr4vw9eqgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 22:40:28 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0m8we91no?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 05:44:40 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "クリスタル・パレス獲得 締め切り後のチルウェルと木材",
       "summary": "クリスタル・パレス獲得済みインテル国民体育 Ben Chilwell そして、クインテン・ティンバー永久移籍",
       "title_original": "Palace sign Chilwell and Timber after deadline",
@@ -1190,20 +1233,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0m8we91no?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 05:44:40 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "今シーズン BBC スポーツで女性のサッカーに従う方法",
       "summary": "新規登録 Women's Super LeagueBBC スポーツは、そのカバレッジを強化しています。",
       "title_original": "How to follow women's football with BBC Sport this season",
@@ -1215,20 +1244,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リヴァプールグストに獲得しようと - 水曜日のゴシップ",
-      "summary": "サッカーのゴシップ:リヴァプール遅い移動のためにチェルシーディフェンダーマロ・ギュストそして、マンチェスター・ユナイテッド今シーズンの「trial」のディフェンダー",
-      "title_original": "Liverpool tried to sign Gusto - Wednesday's gossip",
-      "summary_original": "Football gossip: Liverpool made a late move for Chelsea defender Malo Gusto and Manchester United defenders on \"trial\" this season",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9qr4vw9eqgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 22:40:28 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1316,16 +1331,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スコアよりも",
-      "summary": "Can Schalke 力になるブンデスリーガもう一度?",
-      "title_original": "More than the Score",
-      "summary_original": "Can Schalke become a force in the Bundesliga once again?",
+      "title": "ブライトン、Millwall から winger Azeez を獲得",
+      "summary": "ブライトン期限日契約の確保 Femi Azeez1500万ポンド まで価値のある移籍。",
+      "title_original": "Brighton sign winger Azeez from Millwall",
+      "summary_original": "Brighton secure a deadline-day deal for Femi Azeez in a deal worth up to £15m.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p7c30x?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 05:00:00 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx5e590qqeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 09:49:35 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1453,20 +1468,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フェルナンデスハットトリック5 つの目標マンチェスター・ユナイテッド対面するイプスウィッチ",
-      "summary": "ブルーノ・フェルナンデススコアハットトリックとしてマンチェスター・ユナイテッドビートに初期の傷を克服イプスウィッチ・タウン FC5-2 でオールド・トラッフォード.",
-      "title_original": "Fernandes hat-trick inspires five-goal Man Utd comeback against Ipswich",
-      "summary_original": "Bruno Fernandes scores a hat-trick as Manchester United overcome an early scare to beat Ipswich Town 5-2 at Old Trafford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy0z9e5g209o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 19:08:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1918,6 +1919,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "『ワンダーウォール!』 | ファン 歌 オアシス クラシック DURING Fery マッチで US Open",
+      "summary": "ファン sings オアシス クラシック 'Wonderwall' 間に Arthur Fery's 対比 Lorenzo Musetti 獲得を問い合わせ US Open.",
+      "title_original": "'You're my Wonderwall!' | Fan sings Oasis classic DURING Fery match at US Open",
+      "summary_original": "Fan sings Oasis classic 'Wonderwall' during Arthur Fery's match against Lorenzo Musetti at US Open.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13580283/fan-sings-oasis-classic-wonderwall-during-arthur-fery-match-against-lorenzo-musetti-at-us-open",
+      "published": "Wed, 02 Sep 2026 09:48:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「私は私が仕事をしなければならないことを知っています」 - にもかかわらず、最高のを取る準備ができてフェリーUS Open アクセス",
       "summary": "Britain's Arthur Fery 彼は今、彼は彼が彼の後に仕事をしなければならないことを知っています US Open 火曜にショートカット。",
       "title_original": "'I know what I have to work on' - Fery ready to take on best despite US Open exit",
@@ -2153,20 +2168,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ノーウィッチに対する Stoke クレームの重要な狭い勝利",
-      "summary": "Ethan Galbraith ベット365 スタジアムで Norwich で1-0 の勝利で選手権シーズンの最初のポイントを獲得しました。",
-      "title_original": "Stoke claim vital narrow win against Norwich",
-      "summary_original": "Ethan Galbraith earned Stoke their first points of the Championship season with a 1-0 victory over Norwich at the bet365 Stadium.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/stoke-city-vs-norwich-city/report/560539",
-      "published": "Tue, 01 Sep 2026 21:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
