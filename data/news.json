@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T12:31:48.399945+00:00",
+  "updated_at": "2026-09-02T12:47:56.253451+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1076,9 +1076,24 @@
     "Trabzonspor U-turn": "",
     "The Turkish": "",
     "Fatih Tekke": "ファティフ・テッケ",
-    "Cath Bishop": ""
+    "Cath Bishop": "",
+    "The Friedkin": ""
   },
   "items": [
+    {
+      "title": "使い方エヴァートン'期限日障害は、ファンの変異に直面している所有者を残します",
+      "summary": "エヴァートンの 移籍期限日障害オーバーフォラリン・バログン葉の所有者 The Friedkin ファンの変異に直面している, チーフサッカーライターは言うフィル・マクナルティ.",
+      "title_original": "How Everton's deadline day debacle leaves owners facing fan mutiny",
+      "summary_original": "Everton's transfer deadline day debacle over Folarin Balogun leaves owners The Friedkin facing fan mutiny, says chief football writer Phil McNulty.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9861n79kepo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 12:33:25 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "夏の最も高価な移籍20",
       "summary": "詳しくはこちらエンソ・フェルナンデス獲得を問い合わせ Maxence Lacroix, BBC スポーツは、夏の窓の最大の移籍をリストします.",
@@ -1192,20 +1207,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "振込期限日のご案内",
-      "summary": "重要な獲得と出発をチェックプレミアリーグ, Scottish Premiership、EFL および Women's Super League.",
-      "title_original": "Every done deal on transfer deadline day",
-      "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 12:17:43 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Trabzonspor U-turn 管理者の辞任を受け入れるため",
       "summary": "The Turkish クラブはヘッドコーチの「感情」辞任を受け入れますファティフ・テッケリクエストを初期に拒否し、ステップダウンします。",
       "title_original": "Trabzonspor U-turn to accept manager's resignation",
@@ -1231,6 +1232,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "振込期限日のご案内",
+      "summary": "重要な獲得と出発をチェックプレミアリーグ, Scottish Premiership、EFL および Women's Super League.",
+      "title_original": "Every done deal on transfer deadline day",
+      "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 12:17:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1276,20 +1291,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Staveley の腕時計ウェストハムオーナーシップサガで勝つ",
-      "summary": "プロスペクティブウェストハムスタッフ Amanda Staveley 獲得を問い合わせロンドン・スタジアム火曜日に Wolves に対して4-2 の勝利を見るため。",
-      "title_original": "Staveley watches West Ham win amid ownership saga",
-      "summary_original": "Prospective West Ham United owner Amanda Staveley was at London Stadium to watch the 4-2 win against Wolves on Tuesday.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr4v23llny6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 10:46:48 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "クリスタル・パレス獲得 締め切り後のチルウェルと木材",
       "summary": "クリスタル・パレス獲得済みインテル国民体育 Ben Chilwell そして、クインテン・ティンバー永久移籍",
       "title_original": "Palace sign Chilwell and Timber after deadline",
@@ -1301,6 +1302,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Staveley の腕時計ウェストハムオーナーシップサガで勝つ",
+      "summary": "プロスペクティブウェストハムスタッフ Amanda Staveley 獲得を問い合わせロンドン・スタジアム火曜日に Wolves に対して4-2 の勝利を見るため。",
+      "title_original": "Staveley watches West Ham win amid ownership saga",
+      "summary_original": "Prospective West Ham United owner Amanda Staveley was at London Stadium to watch the 4-2 win against Wolves on Tuesday.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4v23llny6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 10:46:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1370,20 +1385,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "バログン獲得を問い合わせエヴァートン メディカルチェック放棄前の移動",
-      "summary": "エヴァートンの の移動フォラリン・バログンストライカーが心を変えた後の崩壊メディカルチェッククラブズ Finch Farm トレーニングベース。",
-      "title_original": "Balogun has Everton medical before abandoning move",
-      "summary_original": "Everton's move for Folarin Balogun collapses after the striker changes his mind following a medical at the club's Finch Farm training base.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 07:48:04 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1976,6 +1977,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ベスト(最悪)買い手と売り手の移籍市場明らかにされた",
+      "summary": "プレミアリーグ記録的な破壊的な夏の合計34億ポンド を費やす移籍市場- しかし、あなたのクラブは実際に購入し、販売する方法は?",
+      "title_original": "Best (and worst) buyers and sellers of the transfer window revealed",
+      "summary_original": "Premier League spending totalled £3.4bn in a record-breaking summer transfer window - but how well did your club actually buy and sell?",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579892/chelsea-liverpool-aston-villa-best-and-worst-buyers-and-sellers-of-the-summer-transfer-window-between-the-lines",
+      "published": "Wed, 02 Sep 2026 13:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フェラーリは、チームとしてシュマッチャー・インスパイアされたライブリーを明らかにし、ルーキーを発表します。Italian GP Practice",
       "summary": "",
       "title_original": "Ferrari reveal Schumacher-inspired livery as teams announce rookies for Italian GP Practice",
@@ -2183,20 +2198,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "自分のクラブはどれくらいの時間を費やしましたか?プレミアリーグ移籍記録を破る",
-      "summary": "夏の窓に移籍に費やしたクラブはいくらですか? 数字を崩す...",
-      "title_original": "How much did your club spend? Premier League breaks transfer record",
-      "summary_original": "How much have clubs spent on transfers during the summer window? We crunch the numbers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13574593/summer-transfer-spending-premier-league-efl-wsl-scottish-premiership-laliga-ligue-1-serie-a-and-bundesliga-breakdowns",
-      "published": "Tue, 01 Sep 2026 23:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
