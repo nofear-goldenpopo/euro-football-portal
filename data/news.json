@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T05:51:30.964459+00:00",
+  "updated_at": "2026-09-02T06:07:39.285470+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1033,7 +1033,8 @@
     "Zeynep Sonmez": "",
     "Maya Joint": "",
     "Chan Hao-Ching": "詹皓晴",
-    "Britain's Arthur Fery": ""
+    "Britain's Arthur Fery": "",
+    "Mika Hakkinen": "ミカ・ハッキネン"
   },
   "items": [
     {
@@ -1877,6 +1878,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Etienne はバースで最初の成功を追います",
+      "summary": "お風呂から平坦な行動で水曜日に忙しい一日のレースをしています。ニューカッスル, ライブオン Sky Sports Racing...",
+      "title_original": "Etienne chases first success at Bath",
+      "summary_original": "We have a busy day’s racing on Wednesday with flat action from Bath and Newcastle, live on Sky Sports Racing...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13579505/today-on-sky-sports-racing-bath-and-newcastle",
+      "published": "Wed, 02 Sep 2026 07:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「ファンは彼らを崩します」 - タイトルの戦いでチーム注文の警告をハクキンン問題",
+      "summary": "2 回世界王者ミカ・ハッキネンフォーミュラ1 チームは、今年のタイトルの戦いに影響を与える試みでチーム注文を実施する場合、スポーツのファンによって「十字架になる」危険を警告しました。",
+      "title_original": "'Fans will crucify them' - Hakkinen issues warning over team orders in title battle",
+      "summary_original": "Two-time world champion Mika Hakkinen has warned that Formula 1 teams risk 'being crucified' by the sport's fans if they implement team orders in an attempt to influence this year's title battle.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13579867/f1-fans-will-crucify-teams-if-team-orders-are-used-in-2026-title-battle-says-former-world-champion-mika-hakkinen",
+      "published": "Wed, 02 Sep 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「私は私が仕事をしなければならないことを知っています」 - にもかかわらず、最高のを取る準備ができてフェリーUS Open アクセス",
       "summary": "Britain's Arthur Fery 彼は今、彼は彼が彼の後に仕事をしなければならないことを知っています US Open 火曜にショートカット。",
       "title_original": "'I know what I have to work on' - Fery ready to take on best despite US Open exit",
@@ -1989,9 +2018,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open スコア: カードのメジャーアップセット? 5 番目のセットに取られたトップシード Zverev",
+      "title": "US Open スコア: Zverev は水曜日に4pm から Shelton、Medvedev、Jodar の前に主要な怖い生き残ります",
       "summary": "",
-      "title_original": "US Open scores: Major upset on the cards? Top seed Zverev taken to fifth set",
+      "title_original": "US Open scores: Zverev survives major scare before Shelton, Medvedev and Jodar from 4pm on Wednesday",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/scores-schedule",
@@ -2125,34 +2154,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リンカーンは10 人ブラックバーンで開催",
-      "summary": "リンカーンは10 人ブラックバーンの屋台に点在する余儀なくされました。",
-      "title_original": "Lincoln held by 10-man Blackburn",
-      "summary_original": "Lincoln were forced to settle for a point in a stalemate with 10-man Blackburn.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/lincoln-city-vs-blackburn-rovers/report/560535",
-      "published": "Tue, 01 Sep 2026 21:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Fulham 最新:Three Deadline Day 獲得の確認",
-      "summary": "",
-      "title_original": "Fulham latest: Three Deadline Day signings confirmed",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Wed, 02 Sep 2026 00:01:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
