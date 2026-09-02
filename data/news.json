@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T21:23:53.272291+00:00",
+  "updated_at": "2026-09-02T21:37:14.033795+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1156,7 +1156,8 @@
     "The Los Angeles Clippers": "",
     "Kawhi Leonard": "カワイ・レナード",
     "St Mirren": "",
-    "Fraser Taylor's": ""
+    "Fraser Taylor's": "",
+    "Dens Park": ""
   },
   "items": [
     {
@@ -1188,20 +1189,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "夏の最も高価な移籍20",
-      "summary": "詳しくはこちらエンソ・フェルナンデス獲得を問い合わせ Maxence Lacroix, BBC スポーツは、夏の窓の最大の移籍をリストします.",
-      "title_original": "The 20 most expensive transfers of the summer",
-      "summary_original": "From Enzo Fernandez to Maxence Lacroix, BBC Sport lists the 20 biggest transfers of the summer window.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyjmd19887o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 11:59:58 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マンチェスター・ユナイテッド計算された左バックギャンブル",
       "summary": "大規模な期待にもかかわらず、彼らは、この夏の左バックに獲得します,マンチェスター・ユナイテッド- それはどういう意味ですか?",
       "title_original": "Man Utd and their calculated left-back gamble",
@@ -1212,6 +1199,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "夏の最も高価な移籍20",
+      "summary": "詳しくはこちらエンソ・フェルナンデス獲得を問い合わせ Maxence Lacroix, BBC スポーツは、夏の窓の最大の移籍をリストします.",
+      "title_original": "The 20 most expensive transfers of the summer",
+      "summary_original": "From Enzo Fernandez to Maxence Lacroix, BBC Sport lists the 20 biggest transfers of the summer window.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyjmd19887o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 11:59:58 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1321,6 +1322,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c624z0q5y5jo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 21:18:23 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "北アイルランドボス O'Neill 'hopeful'トレーニングセンター計画進捗",
+      "summary": "北アイルランドマネージャーMichael O'Neill 彼が「十分に希望する」と言っている Irish Football Association 計画を立てて進むことができる National Training Centre2028 年オープン",
+      "title_original": "Northern Ireland boss O'Neill 'hopeful' training centre plans progress",
+      "summary_original": "Northern Ireland manager Michael O'Neill says that he is \"certainly hopeful\" that the Irish Football Association can move forward with plans to have a National Training Centre open by 2028.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jyw0zdn8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 18:32:09 GMT",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
@@ -1535,20 +1550,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "北アイルランドボス O'Neill 'hopeful'トレーニングセンター計画進捗",
-      "summary": "北アイルランドマネージャーMichael O'Neill 彼が「十分に希望する」と言っている Irish Football Association 計画を立てて進むことができる National Training Centre2028 年オープン",
-      "title_original": "Northern Ireland boss O'Neill 'hopeful' training centre plans progress",
-      "summary_original": "Northern Ireland manager Michael O'Neill says that he is \"certainly hopeful\" that the Irish Football Association can move forward with plans to have a National Training Centre open by 2028.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jyw0zdn8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 18:32:09 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2168,6 +2169,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "St Johnstone ダンディーの後半ドラマの後、安全なタイサイドダービード",
+      "summary": "St Johnstone1-1 は、劇的な結論の後に Tayside derby で描く Dens Park.",
+      "title_original": "St Johnstone secure Tayside derby draw after late drama at Dundee",
+      "summary_original": "St Johnstone claimed a 1-1 draw in the Tayside derby after a dramatic conclusion at Dens Park.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/dundee-vs-st-johnstone/report/558358",
+      "published": "Wed, 02 Sep 2026 21:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "キルマノックは、高飛行への損失後のポイントなしで残っています St Mirren",
       "summary": "Fraser Taylor's メイドのゴール St Mirren 彼らの最初のリーグの勝利に貢献 Rugby Park13 年以上 - キルマノックを苦労する圧力を増加させる。",
       "title_original": "Kilmarnock remain without a point after loss to high-flying St Mirren",
@@ -2259,20 +2274,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13580435/lando-norris-f1-world-champion-launches-new-junior-single-seater-team-ln4-fusion-ahead-of-2027-racing-debut",
       "published": "Wed, 02 Sep 2026 19:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "US Open LIVE! フェンリー、ジョーンズ・イン・アクション・トゥ・サミュエル・ボルター・ボウズアウト後",
-      "summary": "",
-      "title_original": "US Open LIVE! Fearnley, Jones in action with Samuel to come after Boulter bows out",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13580222/us-open-live-scores-updates-news-commentary-and-results-from-new-york-with-katie-boulter-jacob-fearnley-jan-choinski-and-toby-samuel-in-action",
-      "published": "Wed, 02 Sep 2026 15:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
