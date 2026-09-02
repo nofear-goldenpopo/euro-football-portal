@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T12:07:49.984025+00:00",
+  "updated_at": "2026-09-02T12:31:48.399945+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1072,7 +1072,11 @@
     "Maxence Lacroix": "",
     "Sam Johnstone": "",
     "Wolverhampton Wanderers": "ウルヴァーハンプトン・ワンダラーズFC",
-    "Ebbsfleet United": ""
+    "Ebbsfleet United": "",
+    "Trabzonspor U-turn": "",
+    "The Turkish": "",
+    "Fatih Tekke": "ファティフ・テッケ",
+    "Cath Bishop": ""
   },
   "items": [
     {
@@ -1194,7 +1198,7 @@
       "summary_original": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 11:14:30 GMT",
+      "published": "Wed, 02 Sep 2026 12:17:43 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1202,17 +1206,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプールグストに獲得しようと - 水曜日のゴシップ",
-      "summary": "サッカーのゴシップ:リヴァプール遅い移動のためにチェルシーディフェンダーマロ・ギュストそして、マンチェスター・ユナイテッド今シーズンの「trial」のディフェンダー",
-      "title_original": "Liverpool tried to sign Gusto - Wednesday's gossip",
-      "summary_original": "Football gossip: Liverpool made a late move for Chelsea defender Malo Gusto and Manchester United defenders on \"trial\" this season",
+      "title": "Trabzonspor U-turn 管理者の辞任を受け入れるため",
+      "summary": "The Turkish クラブはヘッドコーチの「感情」辞任を受け入れますファティフ・テッケリクエストを初期に拒否し、ステップダウンします。",
+      "title_original": "Trabzonspor U-turn to accept manager's resignation",
+      "summary_original": "The Turkish club accepts the \"emotional\" resignation of head coach Fatih Tekke after initially rejecting his request to step down.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9qr4vw9eqgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 22:40:28 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqxv037gw8qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 12:24:32 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1237,6 +1241,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 00:17:42 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプールグストに獲得しようと - 水曜日のゴシップ",
+      "summary": "サッカーのゴシップ:リヴァプール遅い移動のためにチェルシーディフェンダーマロ・ギュストそして、マンチェスター・ユナイテッド今シーズンの「trial」のディフェンダー",
+      "title_original": "Liverpool tried to sign Gusto - Wednesday's gossip",
+      "summary_original": "Football gossip: Liverpool made a late move for Chelsea defender Malo Gusto and Manchester United defenders on \"trial\" this season",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9qr4vw9eqgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 22:40:28 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1286,20 +1304,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "カマラのモナコからチェルシーへの47.1 百万ポンド移籍が破談",
-      "summary": "ラミン・カマラご宿泊中モナコセネガルのミッドフィルダーの4710万ポンド が移動した後チェルシー崩壊。",
-      "title_original": "Camara's £47.1m move from Monaco to Chelsea collapses",
-      "summary_original": "Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 23:34:53 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "WSL の新人である「準備は整います」?",
       "summary": "BBC Sport's Ask Me チーム全員が3 つの新しい追加を目にする Women's Super League 初旬の14 チームフォーマットで",
       "title_original": "'We'll be ready' - who are the WSL newcomers?",
@@ -1311,6 +1315,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "カマラのモナコからチェルシーへの47.1 百万ポンド移籍が破談",
+      "summary": "ラミン・カマラご宿泊中モナコセネガルのミッドフィルダーの4710万ポンド が移動した後チェルシー崩壊。",
+      "title_original": "Camara's £47.1m move from Monaco to Chelsea collapses",
+      "summary_original": "Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 23:34:53 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1377,20 +1395,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c70dkdyd5r9o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 01 Sep 2026 22:27:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブルッヒマンス参加するリヴァプール3000万ポンド まで価値のある移籍",
-      "summary": "リヴァプール十代のゴールキーパーの獲得をしっかり止めましたルカ・ブルッヒマンス2027-28 シーズンスタート",
-      "title_original": "Brughmans joins Liverpool in deal worth up to £30m",
-      "summary_original": "Liverpool have secured the signing of teenage goalkeeper Lucca Brughmans for the start of the 2027-28 season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c86xp9epl83o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 18:01:04 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1510,6 +1514,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Women’s Super League2026-27 プレビュー番号 12:マンチェスター・ユナイテッド",
+      "summary": "出発の出発 Marc Skinner シニア・スクワッド・メンバーが新しいマネージャーを離れる Eva Olid ユナイテッドを新しい時代のガーディアン・ライターの予測位置に導く: 7th (NB: これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 第4 回 続きを読む...",
+      "title_original": "Women’s Super League 2026-27 preview No 12: Manchester United",
+      "summary_original": "The departure of Marc Skinner and senior squad members leaves the new manager Eva Olid to guide United into a new era Guardian writers’ predicted position: 7th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 4th Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/02/womens-super-league-preview-manchester-united",
+      "published": "Tue, 01 Sep 2026 23:01:15 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Fernández はレコード装備 1億2500万ポンド の移動を完了しますチェルシー獲得を問い合わせマンチェスター・シティ",
       "summary": "「これは成功のために建てられたクラブです」ミッドフィルダーは言うチェルシーの が動くモナコ獲得を問い合わせカマラ秋を通るマンチェスター・シティ獲得するべき1億2500万ポンド の契約とイギリスの移動記録を等しくしましたエンソ・フェルナンデスからチェルシー, アルゼンチンのミッドフィルダーを交換しようとすると、その試みが残っていた人は、モナコ売買契約締結ラミン・カマラ火曜日の夜。ツイストとターンの日に、都市は獲得によって攻撃を強化した後、強力な位置で現れました Iliman Ndiay",
       "title_original": "Fernández completes record-equalling £125m move from Chelsea to Manchester City",
@@ -1538,20 +1556,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Women’s Super League2026-27 プレビュー番号 12:マンチェスター・ユナイテッド",
-      "summary": "出発の出発 Marc Skinner シニア・スクワッド・メンバーが新しいマネージャーを離れる Eva Olid ユナイテッドを新しい時代のガーディアン・ライターの予測位置に導く: 7th (NB: これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 第4 回 続きを読む...",
-      "title_original": "Women’s Super League 2026-27 preview No 12: Manchester United",
-      "summary_original": "The departure of Marc Skinner and senior squad members leaves the new manager Eva Olid to guide United into a new era Guardian writers’ predicted position: 7th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 4th Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/02/womens-super-league-preview-manchester-united",
-      "published": "Tue, 01 Sep 2026 23:01:15 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "どのサッカー選手が最もきらめくクラブのキャリアをしたの? |The Knowledge",
       "summary": "プラス:イギリスで遊ぶ兄弟トップ4 ティアーズ、シャツホギングスポンサー、ゴールキーパーは、あなたのすべての質問と答えをアップフィールドメールに送信しました “Marquinhos は、クラブサッカーで40 番目のトロフィーを獲得しましたパリ・サンジェルマンビートアストン・ヴィラ獲得を問い合わせ Super Cup「メモ」メルセンヌ素数. 「プレイヤーが勝ったの?」 短い回答はなしです。Pete Tomlin 故障で。「マルキンホスが実際に41 トロフィーを獲得したことを計算します。Copa Libertadores, 11 リーグ・アンタイトル、8 つのクーペデフラン",
       "title_original": "Which footballer has had the most glittering club career? | The Knowledge",
@@ -1566,10 +1570,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "サッカーはコミュニティを接続しますが、慎重に管理されている場合は、それらを引き抜くことができます",
-      "summary": "スポーツは、若者がキャラクター、レジリエンス、自信を身につけるのを助ける空間です。しかし、より強力なリーダーシップと安全な環境を必要とし、これを実現するために サッカーの魂のための戦いは、ちょうどユーファとフィファのオフィスで起こっていない, それは家に近いピッチで行われています. スコットランドで5〜6 歳の子供750 人のサッカーの週末ゲームでは、鉄名の「Fun 4s」プログラム内の重度の行動問題により中止されました。セブンティーツーレッドカード s だった",
-      "title_original": "Football connects communities but can pull them apart if governed carelessly",
-      "summary_original": "Sport is a space to help youngsters develop character, resilience and confidence, but we need stronger leadership and safer environments to make this happen The fight for the soul of football isn’t just happening in the offices of Uefa and Fifa, it’s taking place on pitches much closer to home. At the weekend games of football for 750 children aged five to six in Scotland were cancelled due to severe behavioural issues within the ironically named “Fun 4s” programme. Seventy-two red cards were ha",
+      "title": "サッカーはコミュニティを接続しますが、慎重に管理されている場合は、それらを引き抜くことができます |Cath Bishop",
+      "summary": "スポーツは、若者がキャラクター、レジリエンス、自信を身につけるのを助ける空間です。しかし、より強力なリーダーシップとより安全な環境が必要です。サッカーの魂のための戦いは、ちょうどユーファとフィファのオフィスで起こっていない, それは家に近いピッチで行われています. スコットランドで5〜6 歳の子供750 人のためのサッカーの週末ゲームでは、鉄名の「Fun 4s」プログラム内の重度の行動問題のためにキャンセルされました。セブンティーツーレッドカードツイート",
+      "title_original": "Football connects communities but can pull them apart if governed carelessly | Cath Bishop",
+      "summary_original": "Sport is a space to help youngsters to develop character, resilience and confidence, but we need stronger leadership and safer environments to make this happen The fight for the soul of football isn’t just happening in the offices of Uefa and Fifa, it’s taking place on pitches much closer to home. At the weekend games of football for 750 children aged five to six in Scotland were cancelled because of severe behavioural issues within the ironically named “Fun 4s” programme. Seventy-two red cards ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/sport/2026/sep/02/football-connects-communities-but-can-pull-them-apart-if-governed-carelessly",
       "published": "Wed, 02 Sep 2026 07:00:26 GMT",
@@ -1580,16 +1584,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウェストハム Wolves を戦う Divine MukasaNuno の圧力を倍増",
-      "summary": "隣接する2 つの側面と、2 つのチームは、ドロップを横切って新しいアイデンティティを追い出しようとしました。Championship. In エンドウェストハム Wolves から離れ、圧力を削減し、目標の前面で、決議の度合い、非常に重要である、運のビットのおかげで勝ちましたヌーノ・エスピーリト・サント少なくとも数日間。ファーストハーフの目標から Divine Mukasa そして、Jarrod Bowen、ペナルティスポットからの後者は、第二の2 つによって補完された。Mukasa は保護された",
-      "title_original": "West Ham fight off Wolves as Divine Mukasa double eases pressure on Nuno",
-      "summary_original": "It was a match between two disjointed sides, two teams trying to carve out new identities following the drop into the Championship. In the end West Ham won thanks to a bit of luck, a degree of resolve and, crucially, a sharpness in front of goal that took them away from Wolves and reduced the pressure on Nuno Espírito Santo, for a few days at least. First-half goals from Divine Mukasa and Jarrod Bowen, the latter from the penalty spot, were complemented by two more in the second; Mukasa secured ",
+      "title": "Women’s Super League2 つの予測:できますニューカッスルプロモーションを達し、Watford は滞在しますか?",
+      "summary": "キャンペーン開始12 チームとして、各側面のチャンスを調べ、再資源化場所を占有する The Women’s Super League2 シーズン、Watford ホストの金曜日に道中バーンリー、微調整されたフォーマットおよび新しい据え付け品の導入が付属しています。この夏の WSL の拡張後、WSL2 のチャンピオンだけが保証されたプロモーションであり、第2 と第3 のチームは、WSL の seco に直面しているかどうかを決定するために、新しい、事前修飾マッチを競争します",
+      "title_original": "Women’s Super League 2 predictions: can Newcastle reach promotion and will Watford stay up?",
+      "summary_original": "As the 12 teams start their campaigns, we look at each side’s chances of going up and who will occupy the relegation places The Women’s Super League 2 season, which gets under way on Friday when Watford host Burnley, comes with a tweaked format and the introduction of a new fixture. After the expansion of the WSL this summer, only the WSL2 champions are guaranteed promotion and the teams finishing second and third will contest a new, pre-qualifying match to determine who will face the WSL’s seco",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/01/west-ham-wolves-championship-match-report",
-      "published": "Tue, 01 Sep 2026 21:01:15 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "url": "https://www.theguardian.com/football/2026/sep/02/womens-super-league-2-predictions-can-newcastle-united-promotion-watford-relegation",
+      "published": "Wed, 02 Sep 2026 12:00:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1762,6 +1766,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウェストハム Wolves を戦う Divine MukasaNuno の圧力を倍増",
+      "summary": "隣接する2 つの側面と、2 つのチームは、ドロップを横切って新しいアイデンティティを追い出しようとしました。Championship. In エンドウェストハム Wolves から離れ、圧力を削減し、目標の前面で、決議の度合い、非常に重要である、運のビットのおかげで勝ちましたヌーノ・エスピーリト・サント少なくとも数日間。ファーストハーフの目標から Divine Mukasa そして、Jarrod Bowen、ペナルティスポットからの後者は、第二の2 つによって補完された。Mukasa は保護された",
+      "title_original": "West Ham fight off Wolves as Divine Mukasa double eases pressure on Nuno",
+      "summary_original": "It was a match between two disjointed sides, two teams trying to carve out new identities following the drop into the Championship. In the end West Ham won thanks to a bit of luck, a degree of resolve and, crucially, a sharpness in front of goal that took them away from Wolves and reduced the pressure on Nuno Espírito Santo, for a few days at least. First-half goals from Divine Mukasa and Jarrod Bowen, the latter from the penalty spot, were complemented by two more in the second; Mukasa secured ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/01/west-ham-wolves-championship-match-report",
+      "published": "Tue, 01 Sep 2026 21:01:15 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "BBC は、フラッグシップのハイライトをキャンセルしているにもかかわらず、女性のサッカーに「十分にコミット」",
       "summary": "The Women’s Football Show 新規シーズンの BBC プランの YouTube チャットショーが発表されました Alex Scott BBC Sport 旗艦を中止しても「女性のサッカーと WSL に十分にコミット」を主張する BBC One ハイライトプログラム、Women’s Football Show、新しいのために Women’s Super League 季節限定 BBC は、新しい起動した YouTube 女子サッカーチャンネルに表示するなど、代わりにハイライトを提示するために、デジタルプラットフォームに焦点を当てることを理解しています。",
       "title_original": "BBC ‘fully committed to women’s football’ despite cancelling flagship highlights show",
@@ -1811,20 +1829,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg",
       "published": "Mon, 31 Aug 2026 16:38:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "移籍最新:ユヴェントスウォルトメードローントークで、エヴァートン同意する 4000万ポンド バログン料金について",
-      "summary": "マンチェスター・シティ最初の3210万ポンド のアラン獲得を確認するクリスタル・パレス Muñoz を森に販売し、獲得にこだわりました Ahanor Nick Woltemade 近くのところにあるレンタル移籍からニューカッスル獲得を問い合わせユヴェントス, 到着後1 年セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)クラブレコード 6900万ポンド からの移籍シュトゥットガルト. 贈られたドイツは、最初に振付された高輝度ゲームプランの中で自分自身を課すことに苦労しましたエディ・ハウそして今、マティアス・ジャッスル。ユヴェントスクラブの1 つです。ボルシア・ドルトムント他の人の間で – へ h",
-      "title_original": "Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
-      "summary_original": "Manchester City confirm Allan signing for initial £32.1m Palace sell Muñoz to Forest and poised to sign Ahanor Nick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving at St James’ Park in a club-record £69m deal from Stuttgart. The gifted Germany forward has struggled to impose himself amid the high-intensity gameplans choreographed first by Eddie Howe and now Matthias Jaissle. Juventus are one of a handful of clubs – Borussia Dortmund are among the others – to h",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun",
-      "published": "Mon, 31 Aug 2026 22:47:37 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
