@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T16:39:45.576392+00:00",
+  "updated_at": "2026-09-02T16:53:03.957674+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1106,7 +1106,8 @@
     "Ben Knapper": "",
     "Thelo Aasgaard": "",
     "Nicolas Raskin": "",
-    "Daniil Medvedev": "ダニール・メドベージェフ"
+    "Daniil Medvedev": "ダニール・メドベージェフ",
+    "City Studios": ""
   },
   "items": [
     {
@@ -2076,6 +2077,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「一緒に勝つために行くつもりです」 | エンツォが最初に与えますインテル参加してみるマンチェスター・シティ.",
+      "summary": "エンソ・フェルナンデス初めてインテルもっと見るマンチェスター・シティ参加以来のプレイヤーチェルシー締め切り日 写真提供:City Studios.",
+      "title_original": "'We're going to win lots together' | Enzo gives first interview since joining Man City.",
+      "summary_original": "Enzo Fernandez gave his first interview as Manchester City player since joining from Chelsea on deadline day. Pictures courtesy of City Studios.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13580451/premier-league-enzo-fernandez-gives-first-interview-since-joining-manchester-city",
+      "published": "Wed, 02 Sep 2026 17:23:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ウィリアム・ハミルトン, Russsell または Norris が Monza でタイトルレースの開口部を押下?",
       "summary": "世界選手権のリーダーと Kimi Antonelli グリッドの後ろから始めるように設定イタリアグランプリ, ブリッツのトリオは、スタンドの上部に彼を追いかけるしようとする主要な機会を持っています.",
       "title_original": "Will Hamilton, Russell or Norris seize title-race opening at Monza?",
@@ -2213,20 +2228,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "バログン徒歩約5 分エヴァートンソリューション",
-      "summary": "エヴァートンの の移動モナコストライカーフォラリン・バログン移籍が成功した後、プレイヤーから心の変化を下回るチェルシーサインのチャンスラミン・カマラ.",
-      "title_original": "Balogun walks away from Everton deal",
-      "summary_original": "Everton's move for Monaco striker Folarin Balogun has fallen through following a change of heart from the player after the deal scuppered Chelsea's chances of signing Lamine Camara.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13580201/folarin-balogun-monaco-strikers-move-to-everton-falls-through-after-deal-scuppered-chelseas-chances-of-signing-lamine-camara",
-      "published": "Wed, 02 Sep 2026 00:21:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
