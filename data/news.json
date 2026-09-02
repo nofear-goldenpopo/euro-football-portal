@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T08:52:08.595135+00:00",
+  "updated_at": "2026-09-02T09:06:09.876297+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1045,7 +1045,8 @@
     "Ezri Konsa": "",
     "Real Madrid. Julián Alvarez": "",
     "Jamie Vardy": "",
-    "São Paulo": "サンパウロ"
+    "São Paulo": "サンパウロ",
+    "Can Schalke": ""
   },
   "items": [
     {
@@ -1315,6 +1316,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スコアよりも",
+      "summary": "Can Schalke 力になるブンデスリーガもう一度?",
+      "title_original": "More than the Score",
+      "summary_original": "Can Schalke become a force in the Bundesliga once again?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p7c30x?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 05:00:00 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "エンジェルはフルハムの3 分の1 になりますレアル・マドリード夏のサイン",
       "summary": "Manuel Angel からフルハムに参加する3 番目のプレーヤーになりましたレアル・マドリードこの夏",
       "title_original": "Angel becomes Fulham's third Real Madrid signing of summer",
@@ -1452,20 +1467,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フェルナンデスハットトリック5 つの目標マンチェスター・ユナイテッド対面するイプスウィッチ",
-      "summary": "ブルーノ・フェルナンデススコアハットトリックとしてマンチェスター・ユナイテッドビートに初期の傷を克服イプスウィッチ・タウン FC5-2 でオールド・トラッフォード.",
-      "title_original": "Fernandes hat-trick inspires five-goal Man Utd comeback against Ipswich",
-      "summary_original": "Bruno Fernandes scores a hat-trick as Manchester United overcome an early scare to beat Ipswich Town 5-2 at Old Trafford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy0z9e5g209o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 19:08:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
