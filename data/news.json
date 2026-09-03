@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T21:49:52.278933+00:00",
+  "updated_at": "2026-09-03T22:06:10.873252+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1283,7 +1283,11 @@
     "Friday's Scottish FA-led": "",
     "Hugo Ekitiké": "ウーゴ・エキティケ",
     "Conor Bradley": "",
-    "Giovanni Leoni": ""
+    "Giovanni Leoni": "",
+    "Daniel Kretinsky": "",
+    "Ecstatic Arsenal": "",
+    "Alexia Putellas": "アレクシア・プテジャス",
+    "More Iraola": ""
   },
   "items": [
     {
@@ -1385,6 +1389,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Kretinsky は、最大のものになることに同意しますウェストハム株主総会",
+      "summary": "チェコビジネスマン Daniel Kretinsky になるために移籍を打つウェストハム'最大の株主、シャットアウトする動きで Amanda Staveley.",
+      "title_original": "Kretinsky agrees to become largest West Ham shareholder",
+      "summary_original": "Czech businessman Daniel Kretinsky strikes deal to become West Ham's largest shareholder, in a move that shuts out Amanda Staveley.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly45z47543o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 21:52:23 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "エヴァートン、free agent Vardy - Friday's gossip を獲得候補に",
       "summary": "エヴァートン移動量を量る Jamie Vardy または Anthony Martial, ウィルフレッド・ザハ参加可能 AC ミラン, Estevao Willian からの移動を考慮するチェルシー.",
       "title_original": "Everton eye free agent Vardy - Friday's gossip",
@@ -1413,20 +1431,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'Adonis' Gibbs-White's チャンスを輝かせる - Tuchel は通知を受ける?",
-      "summary": "Morgan Gibbs-White 左から England's World Cup スクワット - 彼の継続的な良いフォームは不可能になりますトーマス・トゥヘル無視するには?",
-      "title_original": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
-      "summary_original": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 17:07:18 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "London City 女性のゲームで最大のシャツ - カン",
       "summary": "ロンドン・シティ・ライオネススタッフ Michele Kang 女性のゲームで最大のシャツスポンサーシップ移籍に獲得したと言います。",
       "title_original": "London City shirt deal biggest in women's game - Kang",
@@ -1437,6 +1441,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'Adonis' Gibbs-White's チャンスを輝かせる - Tuchel は通知を受ける?",
+      "summary": "Morgan Gibbs-White 左から England's World Cup スクワット - 彼の継続的な良いフォームは不可能になりますトーマス・トゥヘル無視するには?",
+      "title_original": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
+      "summary_original": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 17:07:18 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1497,20 +1515,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・シティ、England の GKMoorhouse をレンタルで獲得",
-      "summary": "マンチェスター・シティサイン イングランドゴールキーパーAnna Moorhouse 短期借入金からオーランド・プライド.",
-      "title_original": "Man City sign England goalkeeper Moorhouse on loan",
-      "summary_original": "Manchester City sign England goalkeeper Anna Moorhouse on a short-term loan from Orlando Pride.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yep5d6qnno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 20:30:19 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "How AlvarezAtletico で信頼を再構築する必要がある",
       "summary": "使い方フリアン・アルバレスサポーターに焦点を合わせなければならないアトレティコ・マドリード, 彼の夢が移動した後バルセロナではなかった。",
       "title_original": "How Alvarez needs to rebuild trust at Atletico",
@@ -1521,6 +1525,20 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・シティ、England の GKMoorhouse をレンタルで獲得",
+      "summary": "マンチェスター・シティサイン イングランドゴールキーパーAnna Moorhouse 短期借入金からオーランド・プライド.",
+      "title_original": "Man City sign England goalkeeper Moorhouse on loan",
+      "summary_original": "Manchester City sign England goalkeeper Anna Moorhouse on a short-term loan from Orlando Pride.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yep5d6qnno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 20:30:19 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1577,20 +1595,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4k74d1n7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 05:37:48 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2169,6 +2173,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "WSL ウィンドウの勝者&敗者:静的アーセナルしかし、マンチェスター・シティ & チェルシー獲得を問い合わせ",
+      "summary": "アーセナル最初に勝つために見ている Women's Super League タイトルは、8 つの新しいプレーヤーに獲得した後、2019 年以来、ロンドン・シティ・ライオネス' 夏を大指定 - 購入を含むアレクシア・プテジャス, 「リーグが見てきた最大の獲得」 - タイトルの課題にそれらを導きますか?",
+      "title_original": "WSL window winners & losers: Ecstatic Arsenal but have Man City & Chelsea done enough?",
+      "summary_original": "Arsenal are looking to win their first Women's Super League title since 2019 after signing eight new players, while can London City Lionesses' big-spending summer - including the purchase of Alexia Putellas, \"the biggest signing the league has seen\" - lead them to an unlikely title challenge?",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13581035/wsl-2026-27-transfer-window-winners-and-losers-ecstatic-arsenal-but-have-man-city-and-chelsea-done-enough",
+      "published": "Thu, 03 Sep 2026 23:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ダービーの6 ウィケット勝利でシリーズへのイングランドクルーズ",
       "summary": "ダービーからイングランドがレースしたアクションのベストは、わずか23 のオーバーで166 のターゲットにまでレースされ、シリーズがスペアリングするゲームでアイルランドで勝つために勝つことができます。",
       "title_original": "England cruise to series win with six-wicket victory in Derby",
@@ -2250,6 +2268,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "PL Predictions: More Iraola 問題?リヴァプールスリップにイプスウィッチ",
+      "summary": "私たちのトップのヒント Lewis Jones, 赤坂 Jones Knows 週末に分析とベッティングのインサイトを提供プレミアリーグアクション。",
+      "title_original": "PL Predictions: More Iraola issues? Liverpool to slip at Ipswich",
+      "summary_original": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the weekend Premier League action.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13581012/premier-league-predictions-jones-knows-best-bets-more-andoni-iraola-issues-liverpool-to-slip-at-ipswich",
+      "published": "Thu, 03 Sep 2026 22:50:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2376,34 +2408,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「手を振る必要はありません」 - Dubois は Worley に明確なメッセージを送信します!",
-      "summary": "Daniel Dubois「友達ではない」という主張 Fabio Wardley10 月17 日、O2 で再戦を開始。",
-      "title_original": "'I don't have to shake his hand' - Dubois sends clear message to Wardley!",
-      "summary_original": "Daniel Dubois claims he is 'not friends' with Fabio Wardley ahead of their rematch on October 17 at The O2.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13580809/daniel-dubois-sends-clear-message-to-fabio-wardley-i-dont-have-to-shake-his-hand",
-      "published": "Thu, 03 Sep 2026 12:57:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "イングランドのクリンチ ODI シリーズがアイルランドで勝つ5 対のウォンスター",
-      "summary": "Issy Wong's メイドインインテルナショナル・5 ウィケット・ハルは、イングランドをアイルランドの2 番目の ODI で包括的勝利に触発し、ダービーでスペアリングするゲームで3 つのマッチシリーズをクランチしました。",
-      "title_original": "Wong stars with five-for as England clinch ODI series win over Ireland",
-      "summary_original": "Issy Wong's maiden international five-wicket haul inspired England to a comprehensive victory over Ireland in the second ODI as they clinched the three-match series with a game to spare in Derby.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13580912/england-seal-odi-series-win-over-ireland-after-issy-wongs-five-fer-in-six-wicket-victory-in-derby",
-      "published": "Thu, 03 Sep 2026 18:15:00 BST",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
