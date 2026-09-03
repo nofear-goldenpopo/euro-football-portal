@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T06:16:42.487043+00:00",
+  "updated_at": "2026-09-03T06:36:26.654249+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1177,7 +1177,8 @@
     "Bu Yunchaokete": "",
     "Tara Davis-Woodhall": "",
     "Graffard's Drazinda": "",
-    "Armor Supreme": ""
+    "Armor Supreme": "",
+    "Liverpool Continue": ""
   },
   "items": [
     {
@@ -1188,6 +1189,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 22:07:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ほとんどのゲーム変更移籍をランキングプレミアリーグ歴史・歴史",
+      "summary": "いくつかの移籍は、ベッドに時間がかかります, 他の人は、インスタントゲームチェンジャーを証明 - ここでは、トップです 10 の獲得プレミアリーグ針を動かす時代。",
+      "title_original": "Ranking the most game-changing transfers in Premier League history",
+      "summary_original": "Some transfers take time to bed in, others prove instant game-changers - here are the top 10 signings of the Premier League era that moved the needle.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 06:17:38 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1293,20 +1308,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "送金期限日以降にフリーエージェントは誰ですか?",
-      "summary": "BBC について スポーツは2026 年の夏後にクラブなしで選手を見ていきます移籍市場シャット。",
-      "title_original": "Who are the free agents after transfer deadline day?",
-      "summary_original": "BBC Sport takes a look at the players still without a club after the 2026 summer transfer window shut.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yd4065nlwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 13:53:47 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "夏の最も高価な移籍20",
       "summary": "詳しくはこちらエンソ・フェルナンデス獲得を問い合わせ Maxence Lacroix, BBC スポーツは、夏の窓の最大の移籍をリストします.",
       "title_original": "The 20 most expensive transfers of the summer",
@@ -1314,6 +1315,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyjmd19887o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 11:59:58 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "送金期限日以降にフリーエージェントは誰ですか?",
+      "summary": "BBC について スポーツは2026 年の夏後にクラブなしで選手を見ていきます移籍市場シャット。",
+      "title_original": "Who are the free agents after transfer deadline day?",
+      "summary_original": "BBC Sport takes a look at the players still without a club after the 2026 summer transfer window shut.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yd4065nlwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 13:53:47 GMT",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
@@ -1356,20 +1371,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2z4q00pg7o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 10:01:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "タイトルのコンテンダーは十分で完了します移籍市場チャレンジへアーセナル?",
-      "summary": "として、移籍市場夏の終わり、チーフサッカーライターフィル・マクナルティ獲得を問い合わせアーセナルライバルは、チャンピオンに挑戦するのに十分だったのですか?",
-      "title_original": "Have title contenders done enough in transfer window to challenge Arsenal?",
-      "summary_original": "As the transfer window closes for the summer, chief football writer Phil McNulty asks if Arsenal's rivals have done enough to challenge the champions?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c804y5e1333o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 06:12:02 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1727,20 +1728,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "男性用移籍市場夏の2026:ヨーロッパトップ5 リーグの全ての移籍",
-      "summary": "最新情報プレミアリーグ, ラ・リーガ, ブンデスリーガ, リーグ・アンそして、セリエ A ディールとクラブバイクラブガイド移籍市場 インテルアクティブなガイド 続きを読む...",
-      "title_original": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-      "summary_original": "All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide Women’s transfer window interactive guide Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-      "published": "Tue, 01 Sep 2026 12:12:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "レディース移籍市場夏の2026:世界のトップ6 リーグからのすべての移籍",
       "summary": "NWSL、WSL、Liga F、Fauen の各移籍ブンデスリーガ, フランス女子サッカーリーグそして、セリエ AFemminile だけでなく、クラブバイクラブガイド男性移籍市場 インテルアクティブなガイド 続きを読む...",
       "title_original": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
@@ -1751,6 +1738,20 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "男性用移籍市場夏の2026:ヨーロッパトップ5 リーグの全ての移籍",
+      "summary": "最新情報プレミアリーグ, ラ・リーガ, ブンデスリーガ, リーグ・アンそして、セリエ A ディールとクラブバイクラブガイド移籍市場 インテルアクティブなガイド 続きを読む...",
+      "title_original": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "summary_original": "All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide Women’s transfer window interactive guide Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "published": "Tue, 01 Sep 2026 12:12:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1965,34 +1966,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Football Daily| 戦争チェスト、移籍シート、オンラインメルトダウン:期限日の解剖学",
-      "summary": "今すぐ登録! 今すぐ登録! 今すぐサインアップ 今すぐ登録!契約解除金 s. 戦争チェスト。Amortisation. Transfer リクエスト 要求への余剰。オンラインメルトダウン。Agents. Gazumping. Buy-back 句。オプション。アドオン。個人条件. 柔らかいアプローチ。Grifters. Clickbait. Lowball 入札。In The Knows. Serious 入札。スーパーエージェント ハイジャック入札。原則の合意。メディカルチェック s. 不開示手数料。パート交換 ディールシート。ここに行きます! お得な情報 バスカーがギターを弾く Sky Sports News スタッフ",
-      "title_original": "Football Daily | War chests, deal sheets and online meltdowns: anatomy of a deadline day",
-      "summary_original": "Sign up now! Sign up now! Sign up now? Sign up now! Release clauses. War chests. Amortisation. Transfer requests. Surplus to requirements. Online meltdowns. Agents. Gazumping. Buy-back clauses. Options. Add-ons. Personal terms. Soft approaches. Grifters. Clickbait. Lowball bids. In The Knows. Serious bids. Super agents. Hijacked bids. Agreements in principle. Medicals. Undisclosed fees. Part exchanges. Deal sheets. Here we gos! Done deals. Some busker strumming a guitar in the Sky Sports News st",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/02/football-daily-newsletter-anatomy-of-a-deadline-day",
-      "published": "Wed, 02 Sep 2026 14:57:37 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「死ぬまで心の中で」: アルゼンチンはあなたに感謝して涙を言うリオネル・メッシ",
-      "summary": "The Argentinian’s 終了までの決定インテル国民のフットボールは、彼が主導した国からの愛情の浸透によって会いました World Cup 栄光 に 2022 誰にでもプレゼント Lionel Scaloni’s 直後のプレス会議 World Cup スペインとアルゼンチンの最終目的地ニュージャージー州19 7 月、彼の涙を見ました, 彼は立ち上がって歩いている間、彼は話から彼を防ぐ sobs, これは、単一の試合で敗北の理由ではなく、彼は完全にサを意識していた男だったことを言うことができます",
-      "title_original": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
-      "summary_original": "The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022 Anyone who was present at Lionel Scaloni’s press conference immediately after the World Cup final between Spain and Argentina in New Jersey on 19 July and saw his tears, the sobs which prevented him from speaking while he got up and walked out, could tell this was a man weeping not because of defeat in a single match but because he was fully aware tha",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement",
-      "published": "Tue, 01 Sep 2026 15:05:49 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Janine Sonis: 「デンバーの63,000 人のファンが、女性のチームを乗り越える道だった」",
       "summary": "The Canada そして、Denver Summit パックでプレーするフルバックマイル・ハイ・スタジアムそして影響の Lindsey Heaps In シカゴから6-1 勝の13 分 Janine Sonis ペナルティエリアに潜り、ディフェンダーのラインの背後にあるステルシーに座って、右隅に鮮明なショットをつかむ。今シーズンの目標だったのは、どれも Denver Summit プレーヤー、ジョイントセブンス NWSL. Now デビューシーズン、NWSL とカナダのヴェットで彼女の故郷のクラブのためにプレー",
       "title_original": "Janine Sonis: ‘63,000 fans in Denver proves a women’s team was way overdue’",
@@ -2017,6 +1990,34 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「死ぬまで心の中で」: アルゼンチンはあなたに感謝して涙を言うリオネル・メッシ",
+      "summary": "The Argentinian’s 終了までの決定インテル国民のフットボールは、彼が主導した国からの愛情の浸透によって会いました World Cup 栄光 に 2022 誰にでもプレゼント Lionel Scaloni’s 直後のプレス会議 World Cup スペインとアルゼンチンの最終目的地ニュージャージー州19 7 月、彼の涙を見ました, 彼は立ち上がって歩いている間、彼は話から彼を防ぐ sobs, これは、単一の試合で敗北の理由ではなく、彼は完全にサを意識していた男だったことを言うことができます",
+      "title_original": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
+      "summary_original": "The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022 Anyone who was present at Lionel Scaloni’s press conference immediately after the World Cup final between Spain and Argentina in New Jersey on 19 July and saw his tears, the sobs which prevented him from speaking while he got up and walked out, could tell this was a man weeping not because of defeat in a single match but because he was fully aware tha",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement",
+      "published": "Tue, 01 Sep 2026 15:05:49 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "サカストライキのメンテナンスアーセナル'完璧なスタート、プラス期限日 Football Weekly– ビデオ",
+      "summary": "Max Rushden 参加する Barry Glendenning , John Brewin そして、Jonathan Wilson としてアーセナルビートアストン・ヴィラ1-0 およびブラッドリー・バルコラ参加するリヴァプール続きを読む...",
+      "title_original": "Saka strike maintains Arsenal’s perfect start, plus deadline day | Football Weekly – video",
+      "summary_original": "Max Rushden is joined by Barry Glendenning , John Brewin and Jonathan Wilson as Arsenal beat Aston Villa 1-0 and Bradley Barcola joins Liverpool Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/sep/01/saka-strike-maintains-arsenals-perfect-start-plus-deadline-day-football-weekly-video",
+      "published": "Tue, 01 Sep 2026 12:50:11 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
