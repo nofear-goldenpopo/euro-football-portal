@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T11:24:10.851402+00:00",
+  "updated_at": "2026-09-03T11:36:53.334512+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1208,7 +1208,9 @@
     "British South Asians": "",
     "British NFL": "",
     "Seydou Traore's": "",
-    "Manager Andoni Iraola": ""
+    "Manager Andoni Iraola": "",
+    "The WSL": "",
+    "Friday. Players": ""
   },
   "items": [
     {
@@ -1632,13 +1634,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグ paradox: ミッドフィルダーは、より高価で、さらにはより高価です。Jonathan Liew",
-      "summary": "エンソ・フェルナンデスそして、Sandro Tonali 大きなお金の夏が動きましたが、キャンドルを握ることはできますか? 現代のミッドフィールドの役割について本当に知っておく必要がある唯一のことは、Enzo Maresca リコーノス Marc Guéhi それよりも良い再生することができます Mateo Kovacic. Guéhi, 現実にセンターバック, のためのミッドフィールドでシーズンを開始マンチェスター・シティ, Kovacic の先, 今出発 Nico González と Matheus Nunes. In この文脈都市の購買エンソ・フェルナンデスクラブレコードの場合 1億2500万ポンド することができます",
-      "title_original": "Premier League paradox: midfielders are more and more expensive, yet more and more mediocre | Jonathan Liew",
-      "summary_original": "Enzo Fernández and Sandro Tonali had big-money summer moves, but can they hold a candle to past greats? Perhaps the only thing you really need to know about the modern midfield role is that Enzo Maresca reckons that Marc Guéhi can play it better than Mateo Kovacic. Guéhi, in reality a centre-back, started the season in midfield for Manchester City, ahead of Kovacic, the now-departed Nico González, and Matheus Nunes. In this context City’s purchase of Enzo Fernández for a club record £125m can be",
+      "title": "The WSL 今までになく、口水でより大きいリターン優勝争い",
+      "summary": "トップエンドでは、優勝争いアウトセットから広いオープンです。マンチェスター・シティ王冠を保持する入札 イングランドの女子サッカーの夏に変化を続け、Women’s Super League14 チームに 3 つの新しい側面を折り目に持って来る, 見出しを打つ巨大な移籍, 変更に League Cup キックオフの準備をして WSL トロフィーの新しい名前 Friday. Players 夏の間は、大事なものもなく、夏の間はきちんと休憩をしていたインテル国民の女性の名声",
+      "title_original": "The WSL returns bigger than ever and with a mouthwatering title race",
+      "summary_original": "At the top end, the title race is wide open from the outset, with Manchester City bidding to retain their crown It has been a summer of change for women’s football in England, with expansion of the Women’s Super League to 14 teams bringing three new sides into the fold, huge transfers hitting the headlines, changes to the League Cup and a new name on the WSL trophy as we prepare for kick-off on Friday. Players have had a proper break over the summer, with no major international women’s tournamen",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/03/premier-league-transfer-window-expensive-midfielders-enzo-fernandez-elliot-anderson-sandro-tonali",
-      "published": "Thu, 03 Sep 2026 07:00:46 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/03/wsl-womens-super-league-2026-27-season-preview",
+      "published": "Thu, 03 Sep 2026 10:27:50 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1674,6 +1676,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "プレミアリーグ paradox: ミッドフィルダーは、より高価で、さらにはより高価です。Jonathan Liew",
+      "summary": "エンソ・フェルナンデスそして、Sandro Tonali 大きなお金の夏が動きましたが、キャンドルを握ることはできますか? 現代のミッドフィールドの役割について本当に知っておく必要がある唯一のことは、Enzo Maresca リコーノス Marc Guéhi それよりも良い再生することができます Mateo Kovacic. Guéhi, 現実にセンターバック, のためのミッドフィールドでシーズンを開始マンチェスター・シティ, Kovacic の先, 今出発 Nico González と Matheus Nunes. In この文脈都市の購買エンソ・フェルナンデスクラブレコードの場合 1億2500万ポンド することができます",
+      "title_original": "Premier League paradox: midfielders are more and more expensive, yet more and more mediocre | Jonathan Liew",
+      "summary_original": "Enzo Fernández and Sandro Tonali had big-money summer moves, but can they hold a candle to past greats? Perhaps the only thing you really need to know about the modern midfield role is that Enzo Maresca reckons that Marc Guéhi can play it better than Mateo Kovacic. Guéhi, in reality a centre-back, started the season in midfield for Manchester City, ahead of Kovacic, the now-departed Nico González, and Matheus Nunes. In this context City’s purchase of Enzo Fernández for a club record £125m can be",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/03/premier-league-transfer-window-expensive-midfielders-enzo-fernandez-elliot-anderson-sandro-tonali",
+      "published": "Thu, 03 Sep 2026 07:00:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Andrés への Azeez: 7 つのスマートな一見プレミアリーグ期限日移籍",
       "summary": "メジャー2 名でプレイした18 歳インテル昨年シーズンの全国大会や部門のトップクリアランスメーカーも、トリッキー、エキサイティング、迅速で汎用性の高いミッドフィルダー、エイゼスは、過去2 シーズンにわたってミルウォールと選手権で自分自身を証明し、今ではトップフライトで自分自身をテストするチャンスに値します。続きを読む...",
       "title_original": "Azeez to Andrés: seven smart-looking Premier League deadline day deals",
@@ -1695,20 +1711,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/03/wsl-transfer-deadline-day-arsenal-elisa-de-almeida-psg",
       "published": "Thu, 03 Sep 2026 09:28:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Women’s Super League2026-27 プレビュー番号 13:トッテナム",
-      "summary": "レコードの等しい終わりの後で下で Martin Ho 昨年の季節と、頭を回した夏の募集戦略は、トッテナム押しますトップ4? ガーディアンライターの予測位置:5 位(NB:これは必ずしもない Suzanne Wracks’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 5th 続きを読む...",
-      "title_original": "Women’s Super League 2026-27 preview No 13: Tottenham Hotspur",
-      "summary_original": "After a record equalling finish under Martin Ho last season and a summer recruitment strategy that has turned heads can Spurs push into the top four? Guardian writers’ predicted position: 5th (NB: this is not necessarily Suzanne Wracks’s prediction but the average of our writers’ tips) Last season’s position: 5th Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/03/womens-super-league-2026-27-preview-no-13-tottenham-hotspur",
-      "published": "Wed, 02 Sep 2026 23:01:37 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1786,6 +1788,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Women’s Super League2026-27 プレビュー番号 13:トッテナム",
+      "summary": "レコードの等しい終わりの後で下で Martin Ho 昨年の季節と、頭を回した夏の募集戦略は、トッテナム押しますトップ4? ガーディアンライターの予測位置:5 位(NB:これは必ずしもない Suzanne Wracks’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 5th 続きを読む...",
+      "title_original": "Women’s Super League 2026-27 preview No 13: Tottenham Hotspur",
+      "summary_original": "After a record equalling finish under Martin Ho last season and a summer recruitment strategy that has turned heads can Spurs push into the top four? Guardian writers’ predicted position: 5th (NB: this is not necessarily Suzanne Wracks’s prediction but the average of our writers’ tips) Last season’s position: 5th Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/03/womens-super-league-2026-27-preview-no-13-tottenham-hotspur",
+      "published": "Wed, 02 Sep 2026 23:01:37 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Women’s Super League2026-27 プレビュー番号 12:マンチェスター・ユナイテッド",
       "summary": "出発の出発 Marc Skinner シニア・スクワッド・メンバーが新しいマネージャーを離れる Eva Olid ユナイテッドを新しい時代のガーディアン・ライターの予測位置に導く: 7th (NB: これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 第4 回 続きを読む...",
       "title_original": "Women’s Super League 2026-27 preview No 12: Manchester United",
@@ -1825,20 +1841,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Women’s Super League2026-27 プレビュー番号 9:リヴァプール",
-      "summary": "リヴァプールドイツのストライカーを望む Vivien Endemann そして日本の若者たち Mao Itamura 彼らが最後のシーズンのガーディアン作家の予測位置を持っていたよりも、より良いスタートにそれらを得るのを助けることができます。8 位(NB:これは必ずしもそうではありません)Tom Garry’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 11th 続きを読む...",
-      "title_original": "Women’s Super League 2026-27 preview No 9: Liverpool",
-      "summary_original": "Liverpool will hope Germany striker Vivien Endemann and Japanese youngster Mao Itamura can help get them off to a better start than they had last season Guardian writers’ predicted position: 8th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 11th Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/30/womens-super-league-2026-27-preview-no-9-liverpool",
-      "published": "Sat, 29 Aug 2026 23:01:39 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
