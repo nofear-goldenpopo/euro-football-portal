@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T15:06:16.637613+00:00",
+  "updated_at": "2026-09-03T15:29:18.107542+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1221,7 +1221,12 @@
     "Peroni Nastro Azzurro": "ペローニ",
     "Ferrari Formula": "",
     "Leeds' Rodon": "",
-    "Joe Rodon": "ジョー・ロドン"
+    "Joe Rodon": "ジョー・ロドン",
+    "Ismaila Sarr": "イスマイラ・サール",
+    "London City": "",
+    "Michele Kang": "",
+    "Called Jamie Vardy’s Having": "",
+    "Josh James": ""
   },
   "items": [
     {
@@ -1323,17 +1328,31 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Kane の遺跡の楽しみの前に働くローラーコースターが付いている Osnabruck の表示 tifo",
-      "summary": "VfL Osnabruck 過去に計画する月を取った tifo をショーケース DFB ポカールネクタイ対バイエルン・ミュンヘン.",
-      "title_original": "Osnabruck display tifo with working rollercoaster before Kane ruins fun",
-      "summary_original": "VfL Osnabruck showcase a tifo that took months to plan before their German Cup tie against Bayern Munich.",
+      "title": "サールはプロセス崩壊の時間を要しますリヴァプールログイン",
+      "summary": "クリスタル・パレス獲得イスマイラ・サール提案された移動の崩壊を処理する時間が必要になりますリヴァプール言うイーグルスヘッドコーチ Pierre Sage.",
+      "title_original": "Sarr needs time to process collapse of Liverpool move",
+      "summary_original": "Crystal Palace forward Ismaila Sarr will need time to process the collapse of his proposed move to Liverpool, says Eagles head coach Pierre Sage.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy1g4800zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 09:38:32 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czdz349nyl7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 15:05:22 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "London City 女性のゲームで最大のシャツ - カン",
+      "summary": "ロンドン・シティ・ライオネススタッフ Michele Kang 女性のゲームで最大のシャツスポンサーシップ移籍に獲得したと言います。",
+      "title_original": "London City shirt deal biggest in women's game - Kang",
+      "summary_original": "London City Lionesses owner Michele Kang says they have signed the biggest shirt sponsorship deal in the women's game.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4lgdgnx0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 15:06:23 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1365,20 +1384,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Olid 約束 'brave'マンチェスター・ユナイテッド新たなスタイルで",
-      "summary": "ニュースマンチェスター・ユナイテッドマネージャーEva Olid プレイヤーが「勇敢」となり、今シーズンは「挑戦マインドセット」を持っていることを強く求めています。",
-      "title_original": "Olid promises 'brave' Man Utd with new-look style",
-      "summary_original": "New Manchester United manager Eva Olid has urged her players to be \"brave\" and have an \"attacking mindset\" this season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xwd2el9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 09:00:39 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "フォローする方法プレミアリーグ今週末 BBC で",
       "summary": "Our Ask Me Anything チームは、週3 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
       "title_original": "How to follow the Premier League on the BBC this weekend",
@@ -1390,6 +1395,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Kane の遺跡の楽しみの前に働くローラーコースターが付いている Osnabruck の表示 tifo",
+      "summary": "VfL Osnabruck 過去に計画する月を取った tifo をショーケース DFB ポカールネクタイ対バイエルン・ミュンヘン.",
+      "title_original": "Osnabruck display tifo with working rollercoaster before Kane ruins fun",
+      "summary_original": "VfL Osnabruck showcase a tifo that took months to plan before their German Cup tie against Bayern Munich.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy1g4800zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 09:38:32 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1421,13 +1440,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシーWijnaldum - 木曜日のゴシップと連絡を取る",
-      "summary": "チェルシー前者に連絡するリヴァプールミッドフィルダージョルジニオ・ワイナルドゥム, アーセナルアイボーンマスストライカーEli Junior Kroupi, エヴァートン獲得の見通しを再生フリー移籍 s, 以上.",
-      "title_original": "Chelsea make contact with Wijnaldum - Thursday's gossip",
-      "summary_original": "Chelsea make contact with former Liverpool midfielder Georginio Wijnaldum, Arsenal eye Bournemouth striker Eli Junior Kroupi, Everton play down prospect of signing free transfers, plus more.",
+      "title": "Olid 約束 'brave'マンチェスター・ユナイテッド新たなスタイルで",
+      "summary": "ニュースマンチェスター・ユナイテッドマネージャーEva Olid プレイヤーが「勇敢」となり、今シーズンは「挑戦マインドセット」を持っていることを強く求めています。",
+      "title_original": "Olid promises 'brave' Man Utd with new-look style",
+      "summary_original": "New Manchester United manager Eva Olid has urged her players to be \"brave\" and have an \"attacking mindset\" this season.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj647945e88o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 21:36:32 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xwd2el9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 09:00:39 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1435,13 +1454,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "深夜移籍フォールアウトスパークチェルシー-モナコログイン",
-      "summary": "使い方チェルシー, エヴァートンそして、モナコ最終日は深夜ドラマを過ぎても見逃せません。Nizaar Kinsella レポート。",
-      "title_original": "Late-night transfer fallout sparks Chelsea-Monaco row",
-      "summary_original": "How Chelsea, Everton and Monaco all missed out after late-night drama on deadline day. Nizaar Kinsella reports.",
+      "title": "チェルシーWijnaldum - 木曜日のゴシップと連絡を取る",
+      "summary": "チェルシー前者に連絡するリヴァプールミッドフィルダージョルジニオ・ワイナルドゥム, アーセナルアイボーンマスストライカーEli Junior Kroupi, エヴァートン獲得の見通しを再生フリー移籍 s, 以上.",
+      "title_original": "Chelsea make contact with Wijnaldum - Thursday's gossip",
+      "summary_original": "Chelsea make contact with former Liverpool midfielder Georginio Wijnaldum, Arsenal eye Bournemouth striker Eli Junior Kroupi, Everton play down prospect of signing free transfers, plus more.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1wx0g1npn9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 14:48:09 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj647945e88o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 21:36:32 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1631,20 +1650,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フェルナンデスハットトリック5 つの目標マンチェスター・ユナイテッド対面するイプスウィッチ",
-      "summary": "ブルーノ・フェルナンデススコア a ハットトリックとしてマンチェスター・ユナイテッドビートに初期の傷を克服イプスウィッチ・タウン FC5 月2 日オールド・トラッフォード.",
-      "title_original": "Fernandes hat-trick inspires five-goal Man Utd comeback against Ipswich",
-      "summary_original": "Bruno Fernandes scores a hat-trick as Manchester United overcome an early scare to beat Ipswich Town 5-2 at Old Trafford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy0z9e5g209o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 19:08:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "The WSL 今までになく、口水でより大きいリターン優勝争い",
       "summary": "トップエンドでは、優勝争いアウトセットから広いオープンです。マンチェスター・シティ王冠を保持する入札 イングランドの女子サッカーの夏に変化を続け、Women’s Super League14 チームに 3 つの新しい側面を折り目に持って来る, 見出しを打つ巨大な移籍, 変更に League Cup キックオフの準備をして WSL トロフィーの新しい名前 Friday. Players 夏の間は、大事なものもなく、夏の間はきちんと休憩をしていたインテル国民の女性の名声",
       "title_original": "The WSL returns bigger than ever and with a mouthwatering title race",
@@ -1656,6 +1661,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Football Daily | Mike Dean 勝負のゲームの主張の上に自分自身に笛を吹くように見える",
+      "summary": "今すぐ登録! 今すぐ登録! 今すぐサインアップ 今すぐ登録!While Football Daily 今週前に、私たちは文化的なパルスに私たちの指を持っていると思うように、我々は事実に従順だった Jamie Vardy 自分のポッドキャストを持っています。Called Jamie Vardy’s Having パーティーは、私たちが見た唯一のエピソードは、私たちの t1tular ヒーローとコメディアンを特徴としている名前の提案よりもはるかに立派な雰囲気です Josh James リスニング Mike Dean 自分の時間について紹介します。While Football Daily できません。",
+      "title_original": "Football Daily | Mike Dean appears to blow the whistle on himself over in-match game claims",
+      "summary_original": "Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily likes to think we have our finger on the cultural pulse, before this week we were oblivious to the fact that Jamie Vardy has his own podcast. Called Jamie Vardy’s Having a Party, it is a far more sedate affair than the name suggests, given the only episode we have seen features our t1tular hero and his sidekick the comedian Josh James listening to Mike Dean reminisce about his time as a referee. While Football Daily can’t t",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/03/football-daily-email-mike-dean",
+      "published": "Thu, 03 Sep 2026 14:28:40 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1701,20 +1720,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ハル期限日の獲得の「消散」危機的虐待を非難 Robinio Vaz",
-      "summary": "十代のストライカーは、社会的メディアクラブで、責任あるものを見つけるために当局と協力して乱用しましたハル・シティ AFC 彼らの新しい獲得で指示された racist を非難しました Robinio Vaz ソーシャルメディアでは、責任あるものを識別するために、当局と協力していたと述べた。19 歳で活躍したストライカーがプロモートに参加プレミアリーグサイドレンタル移籍でからローマ振込期限日 Vaz’s move はソーシャルメディア投稿で発表され、T シャツのコメントを大量に取り上げました。",
-      "title_original": "Hull condemn ‘disgusting’ racist abuse of deadline-day signing Robinio Vaz",
-      "summary_original": "Teenage striker racially abused on social media Club working with authorities to find those responsible Hull City have condemned racist ⁠abuse directed at their new signing Robinio Vaz on ⁠social media ⁠and ​said they were working with authorities to identify ⁠those responsible. The 19-year-old striker joined the promoted ⁠Premier League side on loan ​from Roma ‌on transfer deadline day. Vaz’s move was announced in a social media post that garnered a high volume of derogatory comments aimed at t",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/03/hull-condemn-racist-abuse-robinio-vaz-social-media",
-      "published": "Thu, 03 Sep 2026 11:09:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "プレミアリーグ paradox: ミッドフィルダーは、より高価で、さらにはより高価です。Jonathan Liew",
       "summary": "エンソ・フェルナンデスそして、Sandro Tonali 大きなお金の夏が動きましたが、キャンドルを握ることはできますか? 現代のミッドフィールドの役割について本当に知っておく必要がある唯一のことは、Enzo Maresca リコーノス Marc Guéhi それよりも良い再生することができます Mateo Kovacic. Guéhi, 現実にセンターバック, のためのミッドフィールドでシーズンを開始マンチェスター・シティ, Kovacic の先, 今出発 Nico González と Matheus Nunes. In この文脈都市の購買エンソ・フェルナンデスクラブレコードの場合 1億2500万ポンド することができます",
       "title_original": "Premier League paradox: midfielders are more and more expensive, yet more and more mediocre | Jonathan Liew",
@@ -1722,6 +1727,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/03/premier-league-transfer-window-expensive-midfielders-enzo-fernandez-elliot-anderson-sandro-tonali",
       "published": "Thu, 03 Sep 2026 07:00:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハル期限日の獲得の「消散」危機的虐待を非難 Robinio Vaz",
+      "summary": "十代のストライカーは、社会的メディアクラブで、責任あるものを見つけるために当局と協力して乱用しましたハル・シティ AFC 彼らの新しい獲得で指示された racist を非難しました Robinio Vaz ソーシャルメディアでは、責任あるものを識別するために、当局と協力していたと述べた。19 歳で活躍したストライカーがプロモートに参加プレミアリーグサイドレンタル移籍でからローマ振込期限日 Vaz’s move はソーシャルメディア投稿で発表され、T シャツのコメントを大量に取り上げました。",
+      "title_original": "Hull condemn ‘disgusting’ racist abuse of deadline-day signing Robinio Vaz",
+      "summary_original": "Teenage striker racially abused on social media Club working with authorities to find those responsible Hull City have condemned racist ⁠abuse directed at their new signing Robinio Vaz on ⁠social media ⁠and ​said they were working with authorities to identify ⁠those responsible. The 19-year-old striker joined the promoted ⁠Premier League side on loan ​from Roma ‌on transfer deadline day. Vaz’s move was announced in a social media post that garnered a high volume of derogatory comments aimed at t",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/03/hull-condemn-racist-abuse-robinio-vaz-social-media",
+      "published": "Thu, 03 Sep 2026 11:09:17 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1750,20 +1769,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
       "published": "Thu, 03 Sep 2026 09:00:49 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "プレミアリーグお金は、過剰の混沌とした光景の中ですべての意味を失っています |Barney Ronay",
-      "summary": "ザ・オブ・ザ・移籍市場すべての合理的なルールと制限を破棄し、私たちを驚かせて、最終的に、請求を拾う テレビ番組の場所、場所、の生活の中で数年後に研究の勉強があった Location. You 獲得を問い合わせ 中途半端の漂流の1 時間半。よくある品質は、ウェリントンブーツ、ボルボ XC40、フレーズ「ピギービット」が人間の形に再構成され、その後、jud に送られたように見える2 人の人々によってホストされている",
-      "title_original": "Premier League money has lost all meaning amid chaotic spectacle of excess | Barney Ronay",
-      "summary_original": "The transfer window has broken all rational rules and limits, leaving us to marvel and, ultimately, pick up the bill There was a research study a few years back into a key period in the life of the TV show Location, Location, Location. You know the one. Half an hour of mid-morning drift. Hosted by two people whose common quality is they both look as if the minced essence of Wellington boots, the Volvo XC40 and the phrase “picky bits” has been reconstituted into human shapes, then sent out to jud",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-spending-transfer-window-summer-2026-chelsea-enzo-fernandez",
-      "published": "Wed, 02 Sep 2026 19:00:32 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1981,6 +1986,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "プレミアリーグお金は、過剰の混沌とした光景の中ですべての意味を失っています |Barney Ronay",
+      "summary": "ザ・オブ・ザ・移籍市場すべての合理的なルールと制限を破棄し、私たちを驚かせて、最終的に、請求を拾う テレビ番組の場所、場所、の生活の中で数年後に研究の勉強があった Location. You 獲得を問い合わせ 中途半端の漂流の1 時間半。よくある品質は、ウェリントンブーツ、ボルボ XC40、フレーズ「ピギービット」が人間の形に再構成され、その後、jud に送られたように見える2 人の人々によってホストされている",
+      "title_original": "Premier League money has lost all meaning amid chaotic spectacle of excess | Barney Ronay",
+      "summary_original": "The transfer window has broken all rational rules and limits, leaving us to marvel and, ultimately, pick up the bill There was a research study a few years back into a key period in the life of the TV show Location, Location, Location. You know the one. Half an hour of mid-morning drift. Hosted by two people whose common quality is they both look as if the minced essence of Wellington boots, the Volvo XC40 and the phrase “picky bits” has been reconstituted into human shapes, then sent out to jud",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-spending-transfer-window-summer-2026-chelsea-enzo-fernandez",
+      "published": "Wed, 02 Sep 2026 19:00:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "若い選手の検索が運転する方法プレミアリーグ獲得を問い合わせインテルナルトランスファー市場",
       "summary": "イングランドのトップ部門は、任意のトップヨーロッパリーグよりも多くのティーンエイジ選手を購入し、それは、次の Frenkie デジョンであることに賛同し、市場を作成しています 20 単に最初のチーム外観をした 20 次の Frenkie デジョンエールディヴィジ獲得を問い合わせアヤックス移動する前にニューカッスルこの夏。Sean Steur18 です。そして、一度は信頼できるプレミアリーグクラブは、1968-69 のために早くプレーするであろう職業にハングする4 回ヨーロッパのチャンピオンがほとんどなかった、呼ばれましたインターシティーズ・フェアーズカップ獲得を問い合わせ",
       "title_original": "How the search for younger players is driving the Premier League’s internal transfer market",
@@ -2033,20 +2052,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Women’s Super League2 つの予測:できますニューカッスルプロモーションを達し、Watford は滞在しますか?",
-      "summary": "キャンペーン開始12 チームとして、各側面のチャンスを調べ、再資源化場所を占有する The Women’s Super League2 シーズン、Watford ホストの金曜日に道中バーンリー、微調整されたフォーマットおよび新しい据え付け品の導入が付属しています。この夏の WSL の拡張後、WSL2 のチャンピオンだけが保証されたプロモーションであり、第2 と第3 のチームは、WSL の seco に直面しているかどうかを決定するために、新しい、事前修飾マッチを競争します",
-      "title_original": "Women’s Super League 2 predictions: can Newcastle reach promotion and will Watford stay up?",
-      "summary_original": "As the 12 teams start their campaigns, we look at each side’s chances of going up and who will occupy the relegation places The Women’s Super League 2 season, which gets under way on Friday when Watford host Burnley, comes with a tweaked format and the introduction of a new fixture. After the expansion of the WSL this summer, only the WSL2 champions are guaranteed promotion and the teams finishing second and third will contest a new, pre-qualifying match to determine who will face the WSL’s seco",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/02/womens-super-league-2-predictions-can-newcastle-united-promotion-watford-relegation",
-      "published": "Wed, 02 Sep 2026 12:00:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2191,6 +2196,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "パキスタンの劇的な変化は、バスの下に投げられたイムと評価",
+      "summary": "",
+      "title_original": "Pakistan's dramatic changes assessed as Imam' thrown under the bus'",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/podcasts/36578/11933948/sky-sports-cricket-podcast-with-nasser-hussain-and-michael-atherton",
+      "published": "Mon, 24 Aug 2026 13:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Solheim Cup| 勝ち抜いた瞬間!",
       "summary": "いくつか見てみる Solheim Cup 長年にわたる古典的な勝利の瞬間 Team USA そして、Team Europe.",
       "title_original": "Solheim Cup | Best winning moments!",
@@ -2327,20 +2346,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Good Good Golfexecs 残ロール 後に backlash 以上 controversial ビデオ",
-      "summary": "シニアエグゼクティブ2 名 Good Good Golf 両方とも自分の役割を残しています, 地面に押し込まれている女性を示したゴルフ広告の上にバックラッシュ後.",
-      "title_original": "Good Good Golf execs leave roles after backlash over controversial video",
-      "summary_original": "Two senior executives from Good Good Golf have both left their roles, following backlash over a golf advert which showed a woman being pushed to the ground.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13580726/good-good-golf-chief-executive-and-president-leave-roles-after-backlash-over-controversial-deleted-callaway-advert",
-      "published": "Thu, 03 Sep 2026 09:10:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
