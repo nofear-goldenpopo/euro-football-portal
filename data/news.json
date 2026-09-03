@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T12:53:58.756287+00:00",
+  "updated_at": "2026-09-03T13:06:52.774907+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1217,7 +1217,8 @@
     "Spurs’s Irish": "",
     "Czech Darts Open": "",
     "Daryl Gurney": "",
-    "European Tour's Czech Darts": ""
+    "European Tour's Czech Darts": "",
+    "Peroni Nastro Azzurro": "ペローニ"
   },
   "items": [
     {
@@ -2103,6 +2104,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ミラノでハミルトン&レクルクラークのフェラーリファンチェッカーとして BIG クラウドが集結!",
+      "summary": "Lewis Hamilton そして、Charles Leclerc ミラノのフェラーリファンがミラノに集結し、F1 の星をハウス・オブ・ザ・ハウス・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・ハウスで応援するという大きなレセプションで迎えられました。ペローニ0.0% イベント",
+      "title_original": "BIG crowds gather in Milan as Ferrari fans cheer for Hamilton & Leclerc!",
+      "summary_original": "Lewis Hamilton and Charles Leclerc were greeted with a big reception as Ferrari fans gathered in Milan to cheer on the F1 stars at a House of Peroni Nastro Azzurro 0.0% event.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13580707/formula-1-ferrari-fans-flock-to-peroni-event-to-cheer-on-lewis-hamilton-and-charles-leclerc",
+      "published": "Thu, 03 Sep 2026 07:53:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "British NFL プレーヤートロール:私はドルフィンの衝撃を作るために私がする必要があることを行います",
       "summary": "聞いたことがある Seydou Traore's 前のストーリー。そのようなことは、NFL のキャリアを通して何度も何度も聞いているということです。",
       "title_original": "British NFL player Traore: I'll do what I need to do to make Dolphins impact",
@@ -2323,20 +2338,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「どんな質問ですか?!」 - サバレンカが勝利後にパーティーの質問にヒット",
-      "summary": "Aryna Sabalenka 記者会見中に質問が残っていた全米オープン一方のレポーターは、彼女の前面の「パーティー」について彼女に尋ねたので、彼女のラウンド2 の勝利の後。",
-      "title_original": "'What kind of question is that?!' - Sabalenka hits out over partying questions after win",
-      "summary_original": "Aryna Sabalenka was left furious over questions during her press conference at the US Open following her round two victory, as one reporter asked her about her pre-tournament 'partying'.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13580695/us-open-aryna-sabalenka-left-annoyed-over-partying-questions-during-press-conference",
-      "published": "Thu, 03 Sep 2026 06:32:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
