@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T15:40:34.071461+00:00",
+  "updated_at": "2026-09-03T15:51:35.340471+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1226,7 +1226,9 @@
     "London City": "",
     "Michele Kang": "",
     "Called Jamie Vardy’s Having": "",
-    "Josh James": ""
+    "Josh James": "",
+    "Saints' Percival": "",
+    "Mark Percival": ""
   },
   "items": [
     {
@@ -1255,6 +1257,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "How AlvarezAtletico で信頼を再構築する必要がある",
+      "summary": "使い方フリアン・アルバレスサポーターに焦点を合わせなければならないアトレティコ・マドリード, 彼の夢が移動した後バルセロナではなかった。",
+      "title_original": "How Alvarez needs to rebuild trust at Atletico",
+      "summary_original": "How Julian Alvarez must convince supporters his focus is firmly on Atletico Madrid, after his dream move to Barcelona did not happen.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07l8n34dleo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 15:47:39 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1370,20 +1386,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「プロペラキャプテンのパフォーマンス」はシャンクランドのスプリングボードですか?",
-      "summary": "Lawrence Shankland ネット2 回レンジャーズ' 2-1 Falkirk で成功し、新しい外観の Ibrox 側のためのキャンペーンを開始した後、それバックツーバックの勝利を作る。",
-      "title_original": "Will 'proper captain's performance' be springboard for Shankland?",
-      "summary_original": "Lawrence Shankland nets twice in Rangers' 2-1 success at Falkirk, making it back-to-back wins after a sticky start to the campaign for the new-look Ibrox side.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ceq8jd8pgy8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 06:17:59 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "フォローする方法プレミアリーグ今週末 BBC で",
       "summary": "Our Ask Me Anything チームは、週3 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
       "title_original": "How to follow the Premier League on the BBC this weekend",
@@ -1394,6 +1396,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「プロペラキャプテンのパフォーマンス」はシャンクランドのスプリングボードですか?",
+      "summary": "Lawrence Shankland ネット2 回レンジャーズ' 2-1 Falkirk で成功し、新しい外観の Ibrox 側のためのキャンペーンを開始した後、それバックツーバックの勝利を作る。",
+      "title_original": "Will 'proper captain's performance' be springboard for Shankland?",
+      "summary_original": "Lawrence Shankland nets twice in Rangers' 2-1 success at Falkirk, making it back-to-back wins after a sticky start to the campaign for the new-look Ibrox side.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceq8jd8pgy8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 06:17:59 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1633,20 +1649,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Farke の後半の戦術的なシフトを信用するブレントフォードログイン",
-      "summary": "デイパンディットの試合・カレンダー・ユナイテッド FC'後半戦術的シフト後の Dominic Calvert-Lewin 遅刻してサルベージ a 1-1 ドロー とブレントフォード.",
-      "title_original": "Given credits Farke's second-half tactical shift in Brentford draw",
-      "summary_original": "Match of the Day pundit Shay Given commends Leeds United's second-half tactical shift after Dominic Calvert-Lewin struck late to salvage a 1-1 draw with Brentford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c770rlyx817o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 23:09:18 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2070,6 +2072,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Antonelli: フェラーリは信じられないほどのブランドですが、私はメルセデスで満足しています",
+      "summary": "Kimi Antonelli 彼はメルセデスと彼のキャリア全体を費やすことができると主張したので、彼は将来フェラーリのために運転することができた提案を演じました.",
+      "title_original": "Antonelli: Ferrari an incredible brand but I’m happy at Mercedes",
+      "summary_original": "Kimi Antonelli played down suggestions that he could drive for Ferrari in the future as he claimed he could spend his entire career with Mercedes.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13580796/kimi-antonelli-mercedes-driver-plays-down-speculation-around-future-switch-to-ferrari-ahead-of-italian-gp",
+      "published": "Thu, 03 Sep 2026 16:20:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "パキスタンのクリケット危機:根本的な変化は「笑う株式」の側面を作った?",
       "summary": "Nasser Hussain イングランドに対する最終テストの先にあるパキスタンの劇的な変化を批判し、クリケットボードの決定がチームを「持ち株」にしました。",
       "title_original": "Pakistan's cricket crisis: Have radical changes made side 'a laughing stock'?",
@@ -2210,6 +2226,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Saints' Percival2026 年末に退職 Super League 季節限定",
+      "summary": "St Helens' センターMark Percival2026 年末に退職すると発表した Super League 季節限定",
+      "title_original": "Saints' Percival to retire at end of 2026 Super League season",
+      "summary_original": "St Helens' centre Mark Percival has announced he will retire at the end of the 2026 Super League season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13580897/super-league-mark-percival-to-retire-at-end-of-season-after-13-year-career-with-st-helens",
+      "published": "Thu, 03 Sep 2026 15:59:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "パキスタンの劇的な変化は、イムムとして評価 'バスの下スローン'",
       "summary": "",
       "title_original": "Pakistan's dramatic changes assessed as Imam 'thrown under the bus'",
@@ -2315,34 +2345,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13580662/us-open-aryna-sabalenka-hits-back-at-party-line-of-questioning-after-latest-win-at-flushing-meadows",
       "published": "Thu, 03 Sep 2026 04:44:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スペイン語 驚いた jodar で 精通 交換 後に ショック US Open アクセス",
-      "summary": "スペイン語 不思議ラファエル・ホダル中国の幸運な敗者への彼の素晴らしい出口の後にジャーナリストと証言交換に参加しました Bu Yunchaokete 獲得を問い合わせ全米オープン水曜日",
-      "title_original": "Spanish wonderkid Jodar in testy exchange after shock US Open exit",
-      "summary_original": "Spanish wonderkid Rafael Jodar was involved in a testy exchange with a journalist following his stunning exit to Chinese lucky loser Bu Yunchaokete at the US Open on Wednesday.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13580660/us-open-spanish-wonderkid-rafael-jodar-involved-in-testy-exchange-with-journalist-following-shock-exit-at-flushing-meadows",
-      "published": "Thu, 03 Sep 2026 01:35:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "シャンクランドをダブルでレンジャーズ Falkirk で勝つ",
-      "summary": "Lawrence Shankland's 美しいダブルセキュアバック・ツー・バック Scottish Premiership 勝つためにレンジャーズ水曜日の夜に Falkirk で2-1 の勝利で。",
-      "title_original": "Shankland at the double as Rangers win at Falkirk",
-      "summary_original": "Lawrence Shankland's stunning double secured back-to-back Scottish Premiership wins for Rangers with a 2-1 victory at Falkirk on Wednesday night.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/falkirk-vs-rangers/report/558359",
-      "published": "Wed, 02 Sep 2026 21:50:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
