@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T16:26:23.871055+00:00",
+  "updated_at": "2026-09-03T16:39:08.042937+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1235,9 +1235,28 @@
     "Yan Diomande": "",
     "Real Madrid. There": "",
     "Switzerland’s Johan Manzambi": "",
-    "Herzegovina’s Kerim Alajbegovic": ""
+    "Herzegovina’s Kerim Alajbegovic": "",
+    "Arsenal's Martinelli": "",
+    "An EFL": "",
+    "Colchester United": "コルチェスター・ユナイテッドFC",
+    "Penalised Antonelli": "",
+    "George Russell": ""
   },
   "items": [
+    {
+      "title": "アーセナル'マルティネッリは、6000万ポンド の移動で Al-Hilal に参加",
+      "summary": "アーセナルウィンガーGabriel Martinelli 獲得を問い合わせ Saudi Pro League 側面 6000万ポンド のための Al-Hilal。",
+      "title_original": "Arsenal's Martinelli joins Al-Hilal in £60m move",
+      "summary_original": "Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal for £60m.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 16:30:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "ザ・オブ・ザ・プレミアリーグプレミアムは2000万ポンド - ヨーロッパのクラブを心配する",
       "summary": "英語のプレイヤーがプレミアムに来たという古い広告。今では、すでにプレーヤーに単に適用するように表示されるプレミアリーグ.",
@@ -1267,9 +1286,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブレイクダウンチェルシーの staggering 39 この夏を終了します",
+      "title": "ブレイクダウンチェルシーの staggering 39 夏終了",
       "summary": "チェルシー39 人の選手を販売またはローンアウトすることにより、この夏に5億ポンド 以上を回復していると考えられています。",
-      "title_original": "Breaking down Chelsea's staggering 39 exits this summer",
+      "title_original": "Breaking down Chelsea's staggering 39 summer exits",
       "summary_original": "Chelsea are believed to have recouped more than £500m this summer by either selling or loaning out a staggering 39 players.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o?at_medium=RSS&at_campaign=rss",
@@ -1351,20 +1370,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Iraola 嬉しい とともに サイン としてバルコラデビューセット",
-      "summary": "Manager Andoni Iraola ディスカッションリヴァプール送迎事業、到着ブラッドリー・バルコラそして保ち続けることコーディ・ガクポ.",
-      "title_original": "Iraola happy with signings as Barcola set for debut",
-      "summary_original": "Manager Andoni Iraola discusses Liverpool's transfer business, the arrival of Bradley Barcola and keeping Cody Gakpo.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c14dx8eze1do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 10:58:42 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "リーズ' ハムストリング怪我で最大10 週間ロドンアウト",
       "summary": "リーズ・ユナイテッド FC マネージャーダニエル・ファルケセンターバックジョー・ロドン「深刻なハムストリングの怪我」のために8〜10 週間かかります。",
       "title_original": "Leeds' Rodon out for up to 10 weeks with hamstring injury",
@@ -1390,6 +1395,34 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Iraola 嬉しい とともに サイン としてバルコラデビューセット",
+      "summary": "Manager Andoni Iraola ディスカッションリヴァプール送迎事業、到着ブラッドリー・バルコラそして保ち続けることコーディ・ガクポ.",
+      "title_original": "Iraola happy with signings as Barcola set for debut",
+      "summary_original": "Manager Andoni Iraola discusses Liverpool's transfer business, the arrival of Bradley Barcola and keeping Cody Gakpo.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c14dx8eze1do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 10:58:42 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チャオス -An EFL 振込期限日 他なし",
+      "summary": "ノリッジ・シティ FC スポーツディレクターとコルチェスター・ユナイテッド FC 管理者は、試合と同じ日に落下期限日の希少性について議論します。",
+      "title_original": "'Chaos' - An EFL transfer deadline day like no other",
+      "summary_original": "Norwich City sporting director and Colchester United manager discuss the rarity of deadline day falling on the same day as matches.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4n3dye5ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 16:21:14 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1421,6 +1454,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4k74d1n7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 05:37:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・シティコストリーな新しいミッドフィールドを購入する - しかし、彼らは見落としているハーランドカバー?",
       "summary": "マンチェスター・シティ完全に改装されたミッドフィールドを含むスクワットオーバーホールを完了しましたプレミアリーグレコード4億5800万ポンド, しかし、その排水番号は完全な物語を伝えません.",
       "title_original": "Man City buy costly new midfield - but have they overlooked Haaland cover?",
@@ -1442,20 +1489,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ceq8jd8pgy8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 03 Sep 2026 06:17:59 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4k74d1n7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 05:37:48 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1502,20 +1535,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "例-マンチェスター・ユナイテッドアシスタント Queiroz はガーナの上司として戻ります",
-      "summary": "カルロス・ケイロスガーナの男性のナショナルチームのヘッドコーチとして再任命され、2 ヶ月後に彼はから彼らの出口に続くステップダウンに現れました World Cup.",
-      "title_original": "Ex-Man Utd assistant Queiroz returns as Ghana boss",
-      "summary_original": "Carlos Queiroz is reappointed as head coach of Ghana's men's national team, two months after he appeared to step down following their exit from the World Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyeqly7r0po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 11:48:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1638,20 +1657,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cy4zmlrrpxxo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 22:37:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "できますチェルシーバックで3 人でリーグを勝ち取る? 評決の決定",
-      "summary": "デイパンディットの試合・ギヴンアワードチェルシーの Flying wing-backs, バックイングシャビ・アロンソの の側面は勝ちますプレミアリーグタイトルには3 つのシステムを使用します。",
-      "title_original": "Can Chelsea win the league with three at the back? Given's verdict",
-      "summary_original": "Match of the Day pundit Shay Given praises Chelsea's flying wing-backs, backing Xabi Alonso's side to win the Premier League title using a three-at-the-back system.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyz17d1vy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 22:59:49 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2079,9 +2084,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランドの3 ダウンと100 ラン未満のシリーズ対勝つ必要があります Ireland LIVE!",
+      "title": "Penalised AntonelliRusssell を助けるためにイタリアグランプリ",
+      "summary": "Kimi Antonelli メルセデスチームメイトとタイトルライバルを支援する準備ができている George Russell 予選でイタリアグランプリエンジンのペナルティのために世界選手権のリーダーがグリッドの後ろで始まります。",
+      "title_original": "Penalised Antonelli to help Russell at Italian GP",
+      "summary_original": "Kimi Antonelli is ready to help Mercedes team-mate and title rival George Russell in qualifying at the Italian Grand Prix for a race the world championship leader will start at the back of the grid due to an engine penalty.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13580797/italian-gp-kimi-antonelli-to-help-mercedes-team-mate-george-russell-in-monza-qualifying-due-to-engine-grid-penalty",
+      "published": "Thu, 03 Sep 2026 12:10:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "イングランド3 ダウンと80 ラン未満のシリーズ対勝つために必要 Ireland LIVE!",
       "summary": "",
-      "title_original": "England three down and need less than 100 runs to win series vs Ireland LIVE!",
+      "title_original": "England three down and need less than 80 runs to win series vs Ireland LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13580787/england-vs-ireland-second-womens-odi-cricket-score-updates-video-and-analysis-as-charlie-deans-side-look-to-clinch-series-in-derby",
@@ -2132,6 +2151,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Martinelli が参加 Al Hilal 獲得を問い合わせアーセナルクラブレコード販売",
+      "summary": "Gabriel Martinelli 獲得を問い合わせ Al Hilal クラブレコードで6000万ポンド 販売アーセナル.",
+      "title_original": "Martinelli joins Al Hilal in Arsenal club-record sale",
+      "summary_original": "Gabriel Martinelli has joined Al Hilal in a club-record £60m sale for Arsenal.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579276/gabriel-martinelli-transfer-news-forward-joins-al-hilal-in-a-club-record-sale-for-arsenal-in-60m-deal",
+      "published": "Thu, 03 Sep 2026 17:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2324,34 +2357,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13580692/carlos-alcaraz-vs-jaime-faria-us-open-highlights",
       "published": "Thu, 03 Sep 2026 06:22:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "シールドまたはテイラーは最高の? 「1A と1B です!」",
-      "summary": "Claressa Shields の偉大さを高く評価しました Katie Taylor そして、彼女はボクシングの偉人の間で戦うために四角形を保持していないと言うことは決して材料化しません。",
-      "title_original": "Shields or Taylor the greatest? \"We're 1A and 1B!\"",
-      "summary_original": "Claressa Shields has hailed the greatness of Katie Taylor and says she holds no qualms over a fight between the boxing greats never materialising.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13579959/claressa-shields-not-upset-katie-taylor-fight-didnt-happen-and-sends-retirement-message-to-irish-great",
-      "published": "Thu, 03 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'Think before you say !' - 準備の質問でサバレンカフューム",
-      "summary": "Aryna Sabalenka 第2 次勝利に続くレポーターとの激しい交換で彼女の前面活動に関する短い質問をカットします。",
-      "title_original": "'Think before you say stuff!' - Sabalenka fumes at preparation questions",
-      "summary_original": "Aryna Sabalenka cut short questions about her pre-tournament activities in an excruciating exchange with a reporter following her second-round win.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13580662/us-open-aryna-sabalenka-hits-back-at-party-line-of-questioning-after-latest-win-at-flushing-meadows",
-      "published": "Thu, 03 Sep 2026 04:44:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
