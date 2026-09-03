@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T17:51:59.879028+00:00",
+  "updated_at": "2026-09-03T18:07:52.648733+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1254,21 +1254,23 @@
     "England's Todd Clements": "",
     "Ashun Wu": "",
     "Omega European Masters": "",
-    "Crans Montana": "クラン＝モンタナ"
+    "Crans Montana": "クラン＝モンタナ",
+    "Katerina Siniakova": "カテリナ・シ二アコバ",
+    "England's ODI": ""
   },
   "items": [
     {
-      "title": "アーセナル'マルティネッリは、6000万ポンド の移動で Al-Hilal に参加",
-      "summary": "アーセナルウィンガーGabriel Martinelli 獲得を問い合わせ Saudi Pro League 側面 6000万ポンド のための Al-Hilal。",
-      "title_original": "Arsenal's Martinelli joins Al-Hilal in £60m move",
-      "summary_original": "Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal for £60m.",
+      "title": "Fifa は Infantino に対する'smear キャンペーンの Uefa を非難します",
+      "summary": "フィファは、社長に対して「スモールキャンペーン」を実施するウファを非難 Gianni Infantino 企業のリーダーシップ。",
+      "title_original": "Fifa accuses Uefa of 'smear campaign' against Infantino",
+      "summary_original": "Fifa accuse Uefa of conducting a \"smear campaign\" against president Gianni Infantino and the corporation's leadership.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 16:30:43 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 18:05:23 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1279,6 +1281,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 03 Sep 2026 16:20:42 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アーセナル'マルティネッリは、6000万ポンド の移動で Al-Hilal に参加",
+      "summary": "アーセナルウィンガーGabriel Martinelli 獲得を問い合わせ Saudi Pro League 側面 6000万ポンド のための Al-Hilal。",
+      "title_original": "Arsenal's Martinelli joins Al-Hilal in £60m move",
+      "summary_original": "Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal for £60m.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 16:30:43 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1310,6 +1326,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンジャーズストライカー・ケルシーの多彩なキャリア - わずか22 歳",
+      "summary": "トラックに隠れるから、戦場で遊ぶまで、新しいレンジャーズストライカーKevin Kelsy すでにキャリアを積んだ。",
+      "title_original": "Rangers striker Kelsy's colourful career - aged just 22",
+      "summary_original": "From hiding in a truck to playing in a war zone, new Rangers striker Kevin Kelsy has had an eventful career already.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgw93e4938o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 16:09:32 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1370,20 +1400,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズサインストライカーケルシーとウィンガーブーアナニ",
-      "summary": "レンジャーズベネズエラストライカーを購入していることを確認してください Kevin Kelsy からポートランド・ティンバーズアルジェリアのウィンガーを取られた Badredine Bouanani レンタル移籍でからシュトゥットガルト.",
-      "title_original": "Rangers sign striker Kelsy and winger Bouanani",
-      "summary_original": "Rangers confirm they have bought Venezuela striker Kevin Kelsy from Portland Timbers and taken Algeria winger Badredine Bouanani on loan from Stuttgart.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4pzgyjedo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 16:05:13 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "トッテナム omit Richarlison からプレミアリーグスチーム",
       "summary": "Richarlison が残っているトッテナム獲得を問い合わせプレミアリーグ今シーズンはクラブの計画では見つかりません。",
       "title_original": "Spurs omit Richarlison from Premier League squad",
@@ -1423,6 +1439,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンジャーズサインストライカーケルシーとウィンガーブーアナニ",
+      "summary": "レンジャーズベネズエラストライカーを購入していることを確認してください Kevin Kelsy からポートランド・ティンバーズアルジェリアのウィンガーを取られた Badredine Bouanani レンタル移籍でからシュトゥットガルト.",
+      "title_original": "Rangers sign striker Kelsy and winger Bouanani",
+      "summary_original": "Rangers confirm they have bought Venezuela striker Kevin Kelsy from Portland Timbers and taken Algeria winger Badredine Bouanani on loan from Stuttgart.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4pzgyjedo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 16:05:13 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1468,20 +1498,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4k74d1n7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 05:37:48 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "フォローする方法プレミアリーグ今週末 BBC で",
       "summary": "Our Ask Me Anything チームは、週3 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
       "title_original": "How to follow the Premier League on the BBC this weekend",
@@ -1492,6 +1508,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4k74d1n7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 05:37:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1563,20 +1593,6 @@
       "type": "bundesliga",
       "label": "ブンデス",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Olid 約束 'brave'マンチェスター・ユナイテッド新たなスタイルで",
-      "summary": "ニュースマンチェスター・ユナイテッドマネージャーEva Olid プレイヤーが「勇敢」となり、今シーズンは「挑戦マインドセット」を持っていることを強く求めています。",
-      "title_original": "Olid promises 'brave' Man Utd with new-look style",
-      "summary_original": "New Manchester United manager Eva Olid has urged her players to be \"brave\" and have an \"attacking mindset\" this season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xwd2el9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 09:00:39 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1664,20 +1680,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「彼はそれで史上に - 白は「信じられない」フェルナンデスを賞賛",
-      "summary": "デイパンディットのマッチエレン・ホワイトラベルブルーノ・フェルナンデス\"信じられない\"、ミッドフィルダーの後にハットトリック獲得を問い合わせマンチェスター・ユナイテッド'5-2 コールバックの勝利に対するイプスウィッチ・タウン FC.",
-      "title_original": "'He's on it all the time' - White praises 'unbelievable' Fernandes",
-      "summary_original": "Match of the Day pundit Ellen White labels Bruno Fernandes \"unbelievable\", after the midfielder's hat-trick in Manchester United's 5-2 comeback win against Ipswich Town.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy4zmlrrpxxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 22:37:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Gabriel Martinelli リーフレットアーセナル獲得を問い合わせサウジアラビア n クラブ Al-Hilal に 6000万ポンド の契約",
       "summary": "フォワードフォローガブリエウ・ジェズスチャンピオンの外で Richarlison ないでトッテナム獲得を問い合わせプレミアリーグスチームアーセナル確認済み Gabriel Martinelli 参加しましたサウジアラビア n 側面 6000万ポンド のための Al ヒラル。ブラジルの移籍は前方には、販売上の条項が含まれています。参加したマルティネリ、アーセナル2019 年のイチュアノから、エミレーツのピークを下回りました。プレミアリーグタイトル最終シーズン。過去の記録を上回る彼の手数料は、4000万ポンド は、b を受け取った",
       "title_original": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
@@ -1734,6 +1736,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・シティ獲得を問い合わせフィフィアネ・ミデマー膝の怪我で一年休むことができます",
+      "summary": "アーセナル土地に供給パリ・サンジェルマンÉlisa De Almeida, イタリア New United コーチ Olid は攻撃スタイルを約束しますマンチェスター・シティできなければフィフィアネ・ミデマー少なくとも2026 の残りのために、ガーディアンは、後に理解しますオランダ膝の怪我を持続させる。複数のソースによると、負傷は前方立方靭帯ではありませんが、真剣であり、彼女がその後まで戻らない恐れがあります Women’s Super League’s 獲得を問い合わせインテルブレイク。火曜日のクラブからの発言は、ミデマは誤って言った",
+      "title_original": "Manchester City’s Vivianne Miedema could miss rest of year with knee injury",
+      "summary_original": "Arsenal poised to land PSG’s Élisa De Almeida New United coach Olid promises attacking style Manchester City could be without Vivianne Miedema for at least the rest of 2026, the Guardian understands, after the Netherlands forward sustained a knee injury. According to multiple sources the injury is not an anterior cruciate ligament but is serious and there are fears she will not return until after the Women’s Super League’s winter break. A statement from the club on Tuesday said Miedema would mis",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/03/wsl-transfer-deadline-day-arsenal-elisa-de-almeida-psg",
+      "published": "Thu, 03 Sep 2026 17:28:08 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "The WSL 今までになく、口水でより大きいリターン優勝争い",
       "summary": "トップエンドでは、優勝争いアウトセットから広いオープンです。マンチェスター・シティ王冠を保持する入札 イングランドの女子サッカーの夏に変化を続け、Women’s Super League14 チームに 3 つの新しい側面を折り目に持って来る, 見出しを打つ巨大な移籍, 変更に League Cup キックオフの準備をして WSL トロフィーの新しい名前 Friday. Players 夏の間は、大事なものもなく、夏の間はきちんと休憩をしていたインテル国民の女性の名声",
       "title_original": "The WSL returns bigger than ever and with a mouthwatering title race",
@@ -1769,20 +1785,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/03/hull-condemn-racist-abuse-robinio-vaz-social-media",
       "published": "Thu, 03 Sep 2026 11:09:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・シティ獲得を問い合わせフィフィアネ・ミデマー膝の怪我で一年休むことができます",
-      "summary": "アーセナル土地に供給パリ・サンジェルマンÉlisa De Almeida, イタリア New United コーチ Olid は攻撃スタイルを約束しますマンチェスター・シティできなければフィフィアネ・ミデマー少なくとも2026 の残りのために、ガーディアンは、後に理解しますオランダ膝の怪我を持続させる。複数のソースによると、負傷は前方立方靭帯ではありませんが、真剣であり、彼女がその後まで戻らない恐れがあります Women’s Super League’s 獲得を問い合わせインテルブレイク。火曜日のクラブからの発言は、ミデマは誤って言った",
-      "title_original": "Manchester City’s Vivianne Miedema could miss rest of year with knee injury",
-      "summary_original": "Arsenal poised to land PSG’s Élisa De Almeida New United coach Olid promises attacking style Manchester City could be without Vivianne Miedema for at least the rest of 2026, the Guardian understands, after the Netherlands forward sustained a knee injury. According to multiple sources the injury is not an anterior cruciate ligament but is serious and there are fears she will not return until after the Women’s Super League’s winter break. A statement from the club on Tuesday said Miedema would mis",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/03/wsl-transfer-deadline-day-arsenal-elisa-de-almeida-psg",
-      "published": "Thu, 03 Sep 2026 17:28:08 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2126,9 +2128,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'現象' イングランドはダービーでアイルランドを楽しんだ",
+      "title": "大阪が苦闘を乗り越える US Open 第3 ラウンド",
+      "summary": "Naomi Osaka ビートにミッドマッチ小石をオーバーカムカテリナ・シ二アコバ6-2 5-7 6-1 および第 3 ラウンドの達して下さい全米オープン.",
+      "title_original": "Osaka overcomes serving struggles to reach US Open third round",
+      "summary_original": "Naomi Osaka overcame a mid-match wobble to beat Katerina Siniakova 6-2 5-7 6-1 and reach the third round of the US Open.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13580942/us-open-naomi-osaka-overcomes-serving-struggles-to-beat-katerina-siniakova-and-clinch-spot-in-third-round",
+      "published": "Thu, 03 Sep 2026 17:22:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ケンプ・バットがどこにいるべきか England's ODI サイド?",
       "summary": "",
-      "title_original": "How 'phenomenal' England eased past Ireland in Derby",
+      "title_original": "Where should Kemp bat in England's ODI side?",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13580787/england-vs-ireland-second-womens-odi-cricket-score-updates-video-and-analysis-as-charlie-deans-side-look-to-clinch-series-in-derby",
@@ -2360,20 +2376,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "パキスタンの劇的な変化は、イムムとして評価 'バスの下スローン'",
-      "summary": "",
-      "title_original": "Pakistan's dramatic changes assessed as Imam 'thrown under the bus'",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/podcasts/36578/11933948/sky-sports-cricket-podcast-with-nasser-hussain-and-michael-atherton",
-      "published": "Mon, 24 Aug 2026 13:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
