@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T11:36:53.334512+00:00",
+  "updated_at": "2026-09-03T11:50:44.313933+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1210,7 +1210,8 @@
     "Seydou Traore's": "",
     "Manager Andoni Iraola": "",
     "The WSL": "",
-    "Friday. Players": ""
+    "Friday. Players": "",
+    "Mike Dean": ""
   },
   "items": [
     {
@@ -1249,6 +1250,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 03 Sep 2026 11:13:06 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "私は笑いとして試合をプレーするために使用 - ディーン",
+      "summary": "過去の投稿プレミアリーグ参考文献 Mike Dean 彼は試合中にできる限りセンターサークルに滞在すると言っています。",
+      "title_original": "I used to play in-match games as a laugh - Dean",
+      "summary_original": "Former Premier League referee Mike Dean says he would stay in the centre circle for as long as he could during a match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjql4w604eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 11:45:09 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1340,20 +1355,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Olid 約束 'brave'マンチェスター・ユナイテッド新たなスタイルで",
-      "summary": "ニュースマンチェスター・ユナイテッドマネージャーEva Olid プレイヤーが「勇敢」となり、今シーズンは「挑戦マインドセット」を持っていることを強く求めています。",
-      "title_original": "Olid promises 'brave' Man Utd with new-look style",
-      "summary_original": "New Manchester United manager Eva Olid has urged her players to be \"brave\" and have an \"attacking mindset\" this season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xwd2el9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 09:00:39 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -1365,6 +1366,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Olid 約束 'brave'マンチェスター・ユナイテッド新たなスタイルで",
+      "summary": "ニュースマンチェスター・ユナイテッドマネージャーEva Olid プレイヤーが「勇敢」となり、今シーズンは「挑戦マインドセット」を持っていることを強く求めています。",
+      "title_original": "Olid promises 'brave' Man Utd with new-look style",
+      "summary_original": "New Manchester United manager Eva Olid has urged her players to be \"brave\" and have an \"attacking mindset\" this season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xwd2el9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 09:00:39 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1388,7 +1403,7 @@
       "summary_original": "Carlos Queiroz is reappointed as head coach of Ghana's men's national team, two months after he appeared to step down following their exit from the World Cup.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyeqly7r0po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 09:59:29 GMT",
+      "published": "Thu, 03 Sep 2026 11:48:00 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1617,20 +1632,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Calvert-Lewin レスキューポイントリーズに対してブレントフォード",
-      "summary": "Dominic Calvert-Lewin 季節を第一に考えるリーズ戦いの背部は1-1 の引くために勝ちますブレントフォード.",
-      "title_original": "Calvert-Lewin rescues point for Leeds against Brentford",
-      "summary_original": "Dominic Calvert-Lewin scores his first goal of the season as Leeds battle back and earn a 1-1 draw against Brentford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cn0jx60ekk0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 19:00:28 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2054,6 +2055,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "イングランドは、第二の ODI 対でシリーズをクランチする Ireland LIVE!",
+      "summary": "",
+      "title_original": "England look to clinch series in second ODI vs Ireland LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13580787/england-vs-ireland-second-womens-odi-cricket-score-updates-video-and-analysis-as-charlie-deans-side-look-to-clinch-series-in-derby",
+      "published": "Thu, 03 Sep 2026 11:58:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Mal Benning 奨励されるために, Choudhury 勝ちシェフィールド・ユナイテッド FC デビュー",
       "summary": "ようこそ!Dev's Digest、アジェンダ セッティングスカイスポーツの列 Dev Trehan 排他的なニュースを配信し、主要な開発のいくつかを反映 British South Asians サッカー",
       "title_original": "Mal Benning to be honoured, Choudhury winning Sheffield United debut",
@@ -2312,20 +2327,6 @@
       "summary_original": "Ugo Raghouber's first goal for Burnley earned only their second point from their opening four Championship matches as they came from behind to draw 1-1 with Middlesbrough.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/burnley-vs-middlesbrough/report/560542",
-      "published": "Wed, 02 Sep 2026 21:35:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "シャルトンが戻ってホールド West Brom",
-      "summary": "シャールトンの100 パーセントのレコードは、最後まで持ち込まれていましたが、彼らはそのまま残っています Tyreece Campbell's 後半ストライキが1-1 を引く West Brom.",
-      "title_original": "Charlton hit back to hold West Brom",
-      "summary_original": "Charlton's 100 per cent record was brought to and end but they remain unbeaten as Tyreece Campbell's second-half strike earned a 1-1 draw against West Brom.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/west-bromwich-albion-vs-charlton-athletic/report/560545",
       "published": "Wed, 02 Sep 2026 21:35:00 BST",
       "category": "other",
       "type": "other",
