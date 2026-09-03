@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T23:34:34.213109+00:00",
+  "updated_at": "2026-09-03T23:49:20.624915+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1849,20 +1849,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レディース移籍市場夏の2026:世界のトップ6 リーグからのすべての移籍",
-      "summary": "NWSL、WSL、Liga F、Fauen の各移籍ブンデスリーガ, フランス女子サッカーリーグそして、セリエ AFemminile だけでなく、クラブバイクラブガイド男性移籍市場 インテルアクティブなガイド 続きを読む...",
-      "title_original": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-      "summary_original": "Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide Men’s transfer window interactive guide Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "published": "Tue, 01 Sep 2026 12:12:16 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "男性用移籍市場夏の2026:ヨーロッパトップ5 リーグの全ての移籍",
       "summary": "最新情報プレミアリーグ, ラ・リーガ, ブンデスリーガ, リーグ・アンそして、セリエ A ディールとクラブバイクラブガイド移籍市場 インテルアクティブなガイド 続きを読む...",
       "title_original": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
@@ -1873,6 +1859,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レディース移籍市場夏の2026:世界のトップ6 リーグからのすべての移籍",
+      "summary": "NWSL、WSL、Liga F、Fauen の各移籍ブンデスリーガ, フランス女子サッカーリーグそして、セリエ AFemminile だけでなく、クラブバイクラブガイド男性移籍市場 インテルアクティブなガイド 続きを読む...",
+      "title_original": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "summary_original": "Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide Men’s transfer window interactive guide Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "published": "Tue, 01 Sep 2026 12:12:16 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
