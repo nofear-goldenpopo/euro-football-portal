@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T05:59:31.526840+00:00",
+  "updated_at": "2026-09-03T06:16:42.487043+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1175,7 +1175,9 @@
     "Wasteful Falkirk": "",
     "Rafael Jodar": "ラファエル・ホダル",
     "Bu Yunchaokete": "",
-    "Tara Davis-Woodhall": ""
+    "Tara Davis-Woodhall": "",
+    "Graffard's Drazinda": "",
+    "Armor Supreme": ""
   },
   "items": [
     {
@@ -2019,6 +2021,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Graffard's Drazinda フェイス Armor Supreme",
+      "summary": "リンフィールド, サウスウェル,ニューカッスル ParisLongchamp は今日のアクションの会場です。Sky Sports Racing.",
+      "title_original": "Graffard's Drazinda faces Armor Supreme",
+      "summary_original": "Lingfield, Southwell, Newcastle and ParisLongchamp are the venues for today's action - live on Sky Sports Racing.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13580265/today-on-sky-sports-racing-francis-henri-graffards-drazinda-faces-armor-supreme",
+      "published": "Thu, 03 Sep 2026 07:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Solheim Cup| 勝ち抜いた瞬間!",
       "summary": "いくつか見てみる Solheim Cup 長年にわたる古典的な勝利の瞬間 Team USA そして、Team Europe.",
       "title_original": "Solheim Cup | Best winning moments!",
@@ -2278,20 +2294,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13580576/falkirk-1-2-rangers-scottish-premiership-highlights",
       "published": "Wed, 02 Sep 2026 23:40:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "キルマノック 0-1St Mirren",
-      "summary": "ハイライトから Scottish PremiershipKilmarnock と St Mirren.",
-      "title_original": "Kilmarnock 0-1 St Mirren",
-      "summary_original": "Highlights from the Scottish Premiership match between Kilmarnock and St Mirren.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13580650/kilmarnock-0-1-st-mirren-scottish-premiership-highlights",
-      "published": "Wed, 02 Sep 2026 23:25:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
