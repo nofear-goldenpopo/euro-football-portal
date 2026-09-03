@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T18:43:11.300834+00:00",
+  "updated_at": "2026-09-03T19:00:05.797787+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1257,7 +1257,8 @@
     "Crans Montana": "クラン＝モンタナ",
     "Katerina Siniakova": "カテリナ・シ二アコバ",
     "England's ODI": "",
-    "Raul Asencio": ""
+    "Raul Asencio": "",
+    "Henry Crocombe": ""
   },
   "items": [
     {
@@ -1267,7 +1268,7 @@
       "summary_original": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 18:30:00 GMT",
+      "published": "Thu, 03 Sep 2026 18:48:13 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2213,13 +2214,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Britain's Dart 大阪が勝利を主張している間、大まかに打ち勝つアーサー・アッシュ",
+      "title": "US Open LIVE! Britain's Dart ビートンとアウダー・エイリアシムは衝撃出口を苦しむ",
       "summary": "",
-      "title_original": "US Open LIVE! Britain's Dart heavily beaten while Osaka claims victory on Arthur Ashe",
+      "title_original": "US Open LIVE! Britain's Dart beaten and Auger-Aliassime suffers shock exit",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13580550/us-open-live-scores-updates-news-commentary-and-results-from-new-york-with-naomi-osaka-taylor-fritz-alex-eala-and-coco-gauff-in-action",
       "published": "Wed, 02 Sep 2026 21:49:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Crocombe は2 秒かかりますハットトリック Sussex の8 日間",
+      "summary": "サセックスシーマーHenry Crocombe 第2 弾を取ったハットトリック8 日間で Essex を 177 に非難する オール アウト に 171-3 わずか 26 球前に.",
+      "title_original": "Crocombe takes second hat-trick in eight days for Sussex",
+      "summary_original": "Sussex seamer Henry Crocombe took his second hat-trick in eight days to help condemn Essex to 177 all out having been 171-3 just 26 balls before.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13580972/county-championship-henry-crocombe-takes-hat-tricks-in-successive-games-as-23-wickets-fall-in-surrey-vs-yorkshire-round-up",
+      "published": "Thu, 03 Sep 2026 18:55:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2364,20 +2379,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "イタリアグランプリ宣言された熱ハザードレース",
-      "summary": "",
-      "title_original": "Italian GP declared heat hazard race",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13580330/f1-italian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
-      "published": "Thu, 03 Sep 2026 10:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
