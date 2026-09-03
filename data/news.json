@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T10:06:32.298827+00:00",
+  "updated_at": "2026-09-03T10:26:42.041965+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1201,7 +1201,11 @@
     "Manchester City New United": "",
     "Élisa De Almeida": "",
     "Ex-Man Utd": "",
-    "Carlos Queiroz": "カルロス・ケイロス"
+    "Carlos Queiroz": "カルロス・ケイロス",
+    "Mal Benning": "",
+    "Dev's Digest": "",
+    "Dev Trehan": "",
+    "British South Asians": ""
   },
   "items": [
     {
@@ -1345,20 +1349,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシーWijnaldum - 木曜日のゴシップと連絡を取る",
-      "summary": "チェルシー前者に連絡するリヴァプールミッドフィルダージョルジニオ・ワイナルドゥム, アーセナルアイボーンマスストライカーEli Junior Kroupi, エヴァートン獲得の見通しを再生フリー移籍 s, 以上.",
-      "title_original": "Chelsea make contact with Wijnaldum - Thursday's gossip",
-      "summary_original": "Chelsea make contact with former Liverpool midfielder Georginio Wijnaldum, Arsenal eye Bournemouth striker Eli Junior Kroupi, Everton play down prospect of signing free transfers, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj647945e88o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 21:36:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "セルティックヴァンデンベルク&ロッテムバが到着してから1 日で5 つ獲得",
       "summary": "セルティック元イングランドゴールキーパーのための完全な融資移籍 Sam Johnstone ティーンエイジチェルシーデュオ Shumaira Mheuka そして、Landon Emenalo.",
       "title_original": "Celtic sign five in one day after Van den Berg & Lotomba arrive",
@@ -1366,20 +1356,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 22:07:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド計算された左バックギャンブル",
-      "summary": "大規模な期待にもかかわらず、彼らは、この夏の左バックに獲得します,マンチェスター・ユナイテッド- それはどういう意味ですか?",
-      "title_original": "Man Utd and their calculated left-back gamble",
-      "summary_original": "Despite a widespread expectation they would sign a left-back this summer, Manchester United decided against - what does it mean?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj9x212829vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 10:46:56 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1397,6 +1373,34 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェルシーWijnaldum - 木曜日のゴシップと連絡を取る",
+      "summary": "チェルシー前者に連絡するリヴァプールミッドフィルダージョルジニオ・ワイナルドゥム, アーセナルアイボーンマスストライカーEli Junior Kroupi, エヴァートン獲得の見通しを再生フリー移籍 s, 以上.",
+      "title_original": "Chelsea make contact with Wijnaldum - Thursday's gossip",
+      "summary_original": "Chelsea make contact with former Liverpool midfielder Georginio Wijnaldum, Arsenal eye Bournemouth striker Eli Junior Kroupi, Everton play down prospect of signing free transfers, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj647945e88o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 21:36:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド計算された左バックギャンブル",
+      "summary": "大規模な期待にもかかわらず、彼らは、この夏の左バックに獲得します,マンチェスター・ユナイテッド- それはどういう意味ですか?",
+      "title_original": "Man Utd and their calculated left-back gamble",
+      "summary_original": "Despite a widespread expectation they would sign a left-back this summer, Manchester United decided against - what does it mean?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9x212829vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 10:46:56 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2045,6 +2049,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Mal Benning 奨励されるために, Choudhury 勝ちシェフィールド・ユナイテッド FC デビュー",
+      "summary": "ようこそ!Dev's Digest、アジェンダ セッティングスカイスポーツの列 Dev Trehan 排他的なニュースを配信し、主要な開発のいくつかを反映 British South Asians サッカー",
+      "title_original": "Mal Benning to be honoured, Choudhury winning Sheffield United debut",
+      "summary_original": "Welcome to Dev's Digest, the agenda-setting Sky Sports column where Dev Trehan delivers exclusive news and reflects some of the key developments for British South Asians in Football.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13580349/devs-digest-mal-benning-to-be-honoured-hamza-choudhury-wins-on-sheffield-united-debut-amit-bhatia-attends-liverpool-match-at-anfield",
+      "published": "Thu, 03 Sep 2026 11:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "イタリアグランプリ宣言された熱ハザードレース",
       "summary": "",
       "title_original": "Italian GP declared heat hazard race",
@@ -2199,9 +2217,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Good Golf Golfexecs 残ロール 後に backlash 以上 controversial ビデオ",
+      "title": "Good Good Golfexecs 残ロール 後に backlash 以上 controversial ビデオ",
       "summary": "シニアエグゼクティブ2 名 Good Good Golf 両方とも自分の役割を残しています, 地面に押し込まれている女性を示したゴルフ広告の上にバックラッシュ後.",
-      "title_original": "Good Golf Golf execs leave roles after backlash over controversial video",
+      "title_original": "Good Good Golf execs leave roles after backlash over controversial video",
       "summary_original": "Two senior executives from Good Good Golf have both left their roles, following backlash over a golf advert which showed a woman being pushed to the ground.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13580726/good-good-golf-chief-executive-and-president-leave-roles-after-backlash-over-controversial-deleted-callaway-advert",
@@ -2308,20 +2326,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Walsh の勝者は送るのを助けますチェルシー女性によるチャンピオンズリーグ",
-      "summary": "チェルシー女性のスポットを予約チャンピオンズリーグ1-0 の勝利の後のリーグ段階レアル・ソシエダ3 番目の予選ラウンドタイの2 番目の脚。",
-      "title_original": "Walsh winner helps send Chelsea through in Women’s Champions League",
-      "summary_original": "Chelsea booked their spot in the Women's Champions League league phase after a 1-0 win over Real Sociedad in the second leg of their third qualifying round tie.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/real-sociedad-women-vs-chelsea-women/report/577459",
-      "published": "Wed, 02 Sep 2026 20:15:00 BST",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
