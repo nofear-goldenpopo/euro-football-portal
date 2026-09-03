@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T07:26:24.252165+00:00",
+  "updated_at": "2026-09-03T07:38:18.991998+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1185,7 +1185,8 @@
     "Matheus Nunes. In": "",
     "Polina Iatchenko": "",
     "Arthur Ashe": "アーサー・アッシュ",
-    "Jaime Faria": ""
+    "Jaime Faria": "",
+    "Lawrence Shankland": ""
   },
   "items": [
     {
@@ -1214,6 +1215,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「プロペラキャプテンのパフォーマンス」はシャンクランドのスプリングボードですか?",
+      "summary": "Lawrence Shankland ネット2 回レンジャーズ' 2-1 Falkirk で成功し、新しい外観の Ibrox 側のためのキャンペーンを開始した後、それバックツーバックの勝利を作る。",
+      "title_original": "Will 'proper captain's performance' be springboard for Shankland?",
+      "summary_original": "Lawrence Shankland nets twice in Rangers' 2-1 success at Falkirk, making it back-to-back wins after a sticky start to the campaign for the new-look Ibrox side.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceq8jd8pgy8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 06:17:59 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1339,20 +1354,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "獲得を問い合わせアーセナル世界トップクラスに獲得しないリスクは?",
-      "summary": "アーセナル彼らは彼らの守るために見ているように、移籍市場で忙しかったですプレミアリーグタイトル, しかし、彼らは世界クラスのストライカーはまだ欠けています?",
-      "title_original": "Are Arsenal taking a risk in not signing a world-class forward?",
-      "summary_original": "Arsenal have been busy in the transfer market as they look to defend their Premier League title, but do they lack a world class striker still?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c783x812dk5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 07:25:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
