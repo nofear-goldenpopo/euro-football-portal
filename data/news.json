@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T14:39:35.578404+00:00",
+  "updated_at": "2026-09-03T14:53:11.831488+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1219,7 +1219,9 @@
     "Daryl Gurney": "",
     "European Tour's Czech Darts": "",
     "Peroni Nastro Azzurro": "ペローニ",
-    "Ferrari Formula": ""
+    "Ferrari Formula": "",
+    "Leeds' Rodon": "",
+    "Joe Rodon": "ジョー・ロドン"
   },
   "items": [
     {
@@ -1279,6 +1281,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リーズ' ハムストリング怪我で最大10 週間ロドンアウト",
+      "summary": "リーズ・ユナイテッド FC マネージャーダニエル・ファルケセンターバックジョー・ロドン「深刻なハムストリングの怪我」のために8〜10 週間かかります。",
+      "title_original": "Leeds' Rodon out for up to 10 weeks with hamstring injury",
+      "summary_original": "Leeds United manager Daniel Farke says centre-back Joe Rodon will be out for eight to 10 weeks because of a \"serious hamstring injury\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crm93nv8n7yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 14:39:30 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・シティコストリーな新しいミッドフィールドを購入する - しかし、彼らは見落としているハーランドカバー?",
       "summary": "マンチェスター・シティ完全に改装されたミッドフィールドを含むスクワットオーバーホールを完了しましたプレミアリーグレコード4億5800万ポンド, しかし、その排水番号は完全な物語を伝えません.",
       "title_original": "Man City buy costly new midfield - but have they overlooked Haaland cover?",
@@ -1290,6 +1306,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "新しい獲得の危機的虐待 -ハル",
+      "summary": "ハル・シティ AFC 新しい獲得を指示する「アベント・ラシスト・虐待」を批判する Robinio Vaz 獲得が発表されたとき。",
+      "title_original": "Racist abuse of new signing Vaz abhorrent - Hull",
+      "summary_original": "Hull City criticise the \"abhorrent racist abuse\" directed at new signing Robinio Vaz when they announced his signing.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyeq3v7829o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 10:28:25 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1349,17 +1379,31 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシーWijnaldum - 木曜日のゴシップと連絡を取る",
-      "summary": "チェルシー前者に連絡するリヴァプールミッドフィルダージョルジニオ・ワイナルドゥム, アーセナルアイボーンマスストライカーEli Junior Kroupi, エヴァートン獲得の見通しを再生フリー移籍 s, 以上.",
-      "title_original": "Chelsea make contact with Wijnaldum - Thursday's gossip",
-      "summary_original": "Chelsea make contact with former Liverpool midfielder Georginio Wijnaldum, Arsenal eye Bournemouth striker Eli Junior Kroupi, Everton play down prospect of signing free transfers, plus more.",
+      "title": "フォローする方法プレミアリーグ今週末 BBC で",
+      "summary": "Our Ask Me Anything チームは、週3 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
+      "title_original": "How to follow the Premier League on the BBC this weekend",
+      "summary_original": "Our Ask Me Anything team explains how to follow matches from week three of the Premier League season on the BBC this weekend.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj647945e88o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 21:36:32 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 14:48:11 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4k74d1n7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 05:37:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1377,17 +1421,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "title": "チェルシーWijnaldum - 木曜日のゴシップと連絡を取る",
+      "summary": "チェルシー前者に連絡するリヴァプールミッドフィルダージョルジニオ・ワイナルドゥム, アーセナルアイボーンマスストライカーEli Junior Kroupi, エヴァートン獲得の見通しを再生フリー移籍 s, 以上.",
+      "title_original": "Chelsea make contact with Wijnaldum - Thursday's gossip",
+      "summary_original": "Chelsea make contact with former Liverpool midfielder Georginio Wijnaldum, Arsenal eye Bournemouth striker Eli Junior Kroupi, Everton play down prospect of signing free transfers, plus more.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4k74d1n7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 05:37:48 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj647945e88o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 21:36:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1457,34 +1501,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド計算された左バックギャンブル",
-      "summary": "大規模な期待にもかかわらず、彼らは、この夏の左バックに獲得します,マンチェスター・ユナイテッド- それはどういう意味ですか?",
-      "title_original": "Man Utd and their calculated left-back gamble",
-      "summary_original": "Despite a widespread expectation they would sign a left-back this summer, Manchester United decided against - what does it mean?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj9x212829vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 10:46:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "夏の最も高価な移籍20",
-      "summary": "詳しくはこちらエンソ・フェルナンデス獲得を問い合わせ Maxence Lacroix, BBC スポーツは、夏の窓の最大の移籍をリストします.",
-      "title_original": "The 20 most expensive transfers of the summer",
-      "summary_original": "From Enzo Fernandez to Maxence Lacroix, BBC Sport lists the 20 biggest transfers of the summer window.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyjmd19887o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 11:59:58 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1622,20 +1638,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cy0z9e5g209o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 19:08:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシー7 ゴールで完璧なスタートを維持ブライトンスリラー",
-      "summary": "チェルシー四季折々の旬を彩るシャビ・アロンソ, オフブライトン対決で7 ゴールの出会い4-3 を獲得 Stamford Bridge.",
-      "title_original": "Chelsea maintain perfect start in seven-goal Brighton thriller",
-      "summary_original": "Chelsea maintained their perfect start to the season under Xabi Alonso, holding off a Brighton fightback to win a seven-goal encounter 4-3 at Stamford Bridge.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c7v4e23z7gvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 19:00:20 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
