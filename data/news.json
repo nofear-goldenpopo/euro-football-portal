@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T08:41:26.337299+00:00",
+  "updated_at": "2026-09-03T08:53:25.394485+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1188,7 +1188,8 @@
     "Jaime Faria": "",
     "Lawrence Shankland": "",
     "But Andoni Iraola": "",
-    "US President Donald Trump": "ドナルド・トランプ"
+    "US President Donald Trump": "ドナルド・トランプ",
+    "The Argentine": "アルゼンチン"
   },
   "items": [
     {
@@ -1216,6 +1217,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ゲームをホーナーに一時停止するアルゼンチンリーグメッシ",
+      "summary": "アルゼンチンサッカーリーグはあなたに敬意を表しますリオネル・メッシ獲得を問い合わせインテル今週の10 分に全国各地の試合を巡る",
+      "title_original": "Argentine league to pause games to honour Messi",
+      "summary_original": "The Argentine football league will pay tribute to Lionel Messi's international career by pausing all their domestic matches in the 10th minute this weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzjy431keo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 08:42:31 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1591,20 +1606,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2zg85eyrqo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 09:10:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Woltemade は夏の変化に根ざした動きをニューカッスル",
-      "summary": "期限日の2 つの非常に異なる移籍のほとんどは、Nick Woltemade 左からニューカッスル参加するユヴェントス レンタル移籍でそしてクラブは到着を通知しましたマティアス・フェルナンデス＝パルド.",
-      "title_original": "Woltemade move underlines summer of change at Newcastle",
-      "summary_original": "It was ultimately a tale of two very different forwards on deadline day as Nick Woltemade left Newcastle United to join Juventus on loan and the club announced the arrival of Matias Fernandez-Pardo.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z4q00pg7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 10:01:36 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
