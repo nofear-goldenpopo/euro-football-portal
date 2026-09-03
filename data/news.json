@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T19:49:18.849339+00:00",
+  "updated_at": "2026-09-03T20:06:31.109221+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1263,7 +1263,8 @@
     "As Fifa": "",
     "Kate Scott": "",
     "Jamie Carragher": "",
-    "Rubik's Cubes": "ルービックキューブ"
+    "Rubik's Cubes": "ルービックキューブ",
+    "Serge Pizzorno": ""
   },
   "items": [
     {
@@ -1306,6 +1307,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Sutton の予測 v Kasabian のフロントマン Serge Pizzorno",
+      "summary": "BBC スポーツサッカーの専門家クリス・サットン Kasabian フロントマン Serge Pizzorno この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
+      "title_original": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
+      "summary_original": "BBC Sport football expert Chris Sutton takes on Kasabian frontman Serge Pizzorno, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 19:58:10 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1379,20 +1394,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナム omit Richarlison からプレミアリーグスチーム",
-      "summary": "Richarlison が残っているトッテナム獲得を問い合わせプレミアリーグ今シーズンはクラブの計画では見つかりません。",
-      "title_original": "Spurs omit Richarlison from Premier League squad",
-      "summary_original": "Richarlison is left out of Tottenham's Premier League squad as he does not figure in the club's plans this season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 17:46:55 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "新しい獲得の危機的虐待 -ハル",
       "summary": "ハル・シティ AFC 新しい獲得を指示する「アベント・ラシスト・虐待」を批判する Robinio Vaz 獲得が発表されたとき。",
       "title_original": "Racist abuse of new signing Vaz abhorrent - Hull",
@@ -1418,6 +1419,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "トッテナム omit Richarlison からプレミアリーグスチーム",
+      "summary": "Richarlison が残っているトッテナム獲得を問い合わせプレミアリーグ今シーズンはクラブの計画では見つかりません。",
+      "title_original": "Spurs omit Richarlison from Premier League squad",
+      "summary_original": "Richarlison is left out of Tottenham's Premier League squad as he does not figure in the club's plans this season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 17:46:55 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1557,20 +1572,6 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・シティコストリーな新しいミッドフィールドを購入する - しかし、彼らは見落としているハーランドカバー?",
-      "summary": "マンチェスター・シティ完全に改装されたミッドフィールドを含むスクワットオーバーホールを完了しましたプレミアリーグレコード4億5800万ポンド, しかし、その排水番号は完全な物語を伝えません.",
-      "title_original": "Man City buy costly new midfield - but have they overlooked Haaland cover?",
-      "summary_original": "Manchester City have completed a squad overhaul including a fully revamped midfield to the tune of a Premier League record £458m, but that eyewatering number does not tell the full story.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 22:07:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
