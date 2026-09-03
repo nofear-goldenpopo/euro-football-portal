@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T14:27:20.674220+00:00",
+  "updated_at": "2026-09-03T14:39:35.578404+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1363,6 +1363,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「謙虚で野心的」 - 秋の巨人の復帰 シャーク",
+      "summary": "ドイツに落ちる巨人の一人、シャークは後ろにブンデスリーガ複雑な数年後に。",
+      "title_original": "'Humble but ambitious' - the return of fallen giants Schalke",
+      "summary_original": "One of Germany's fallen giants, Schalke are back in the Bundesliga after a complicated few years.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ym7g49gr0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 07:48:46 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -1626,20 +1640,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Calvert-Lewin レスキューポイントリーズに対してブレントフォード",
-      "summary": "Dominic Calvert-Lewin 季節を第一に考えるリーズ戦いの背部は1-1 の引くために勝ちますブレントフォード.",
-      "title_original": "Calvert-Lewin rescues point for Leeds against Brentford",
-      "summary_original": "Dominic Calvert-Lewin scores his first goal of the season as Leeds battle back and earn a 1-1 draw against Brentford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cn0jx60ekk0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 19:00:28 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2077,9 +2077,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アイルランドはイングランドが ODI シリーズの LIVE をクリンチしよう!",
+      "title": "Wong は 3 つのウィケットをアイルランドは 6 ダウン 対 England LIVE!",
       "summary": "",
-      "title_original": "Ireland four down as England look to clinch ODI series LIVE!",
+      "title_original": "Wong takes three wickets as Ireland go six down vs England LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13580787/england-vs-ireland-second-womens-odi-cricket-score-updates-video-and-analysis-as-charlie-deans-side-look-to-clinch-series-in-derby",
