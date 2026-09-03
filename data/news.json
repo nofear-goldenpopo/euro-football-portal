@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T22:06:10.873252+00:00",
+  "updated_at": "2026-09-03T22:24:16.553398+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1287,7 +1287,9 @@
     "Daniel Kretinsky": "",
     "Ecstatic Arsenal": "",
     "Alexia Putellas": "アレクシア・プテジャス",
-    "More Iraola": ""
+    "More Iraola": "",
+    "Federico Chiesa": "",
+    "Wataru Endo": "遠藤航"
   },
   "items": [
     {
@@ -1487,17 +1489,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ザ・オブ・ザ・プレミアリーグプレミアムは2000万ポンド - ヨーロッパのクラブを心配する",
-      "summary": "英語のプレイヤーがプレミアムに来たという古い広告。今では、すでにプレーヤーに単に適用するように表示されるプレミアリーグ.",
-      "title_original": "The Premier League premium is £20m - and that worries European clubs",
-      "summary_original": "The old adage used to be that English players came at a premium. Now that appears to simply apply to a player already in the Premier League.",
+      "title": "Chiesa & Endo ない でリヴァプール獲得を問い合わせチャンピオンズリーグスチーム",
+      "summary": "リヴァプールふりがな Federico Chiesa そして、遠藤航リーグフェーズの25 人のチームのうちチャンピオンズリーグ.",
+      "title_original": "Chiesa & Endo not in Liverpool's Champions League squad",
+      "summary_original": "Liverpool leave Federico Chiesa and Wataru Endo out of their 25-man squad for the league phase of the Champions League.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 11:13:06 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4vnzpw57lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 22:13:22 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1512,6 +1514,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ザ・オブ・ザ・プレミアリーグプレミアムは2000万ポンド - ヨーロッパのクラブを心配する",
+      "summary": "英語のプレイヤーがプレミアムに来たという古い広告。今では、すでにプレーヤーに単に適用するように表示されるプレミアリーグ.",
+      "title_original": "The Premier League premium is £20m - and that worries European clubs",
+      "summary_original": "The old adage used to be that English players came at a premium. Now that appears to simply apply to a player already in the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 11:13:06 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1554,20 +1570,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レンジャーズサインストライカーケルシーとウィンガーブーアナニ",
-      "summary": "レンジャーズベネズエラストライカーを購入していることを確認してください Kevin Kelsy からポートランド・ティンバーズアルジェリアのウィンガーを取られた Badredine Bouanani レンタル移籍でからシュトゥットガルト.",
-      "title_original": "Rangers sign striker Kelsy and winger Bouanani",
-      "summary_original": "Rangers confirm they have bought Venezuela striker Kevin Kelsy from Portland Timbers and taken Algeria winger Badredine Bouanani on loan from Stuttgart.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4pzgyjedo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 16:05:13 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
