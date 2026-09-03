@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T09:52:14.986364+00:00",
+  "updated_at": "2026-09-03T10:06:32.298827+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1199,7 +1199,9 @@
     "German Cup": "DFBポカール",
     "PSG’s Élisa De Almeida": "",
     "Manchester City New United": "",
-    "Élisa De Almeida": ""
+    "Élisa De Almeida": "",
+    "Ex-Man Utd": "",
+    "Carlos Queiroz": "カルロス・ケイロス"
   },
   "items": [
     {
@@ -1273,20 +1275,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシーWijnaldum - 木曜日のゴシップと連絡を取る",
-      "summary": "チェルシー前者に連絡するリヴァプールミッドフィルダージョルジニオ・ワイナルドゥム, アーセナルアイボーンマスストライカーEli Junior Kroupi, エヴァートン獲得の見通しを再生フリー移籍 s, 以上.",
-      "title_original": "Chelsea make contact with Wijnaldum - Thursday's gossip",
-      "summary_original": "Chelsea make contact with former Liverpool midfielder Georginio Wijnaldum, Arsenal eye Bournemouth striker Eli Junior Kroupi, Everton play down prospect of signing free transfers, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj647945e88o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 21:36:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「謙虚で野心的」 - 秋の巨人の復帰 シャーク",
       "summary": "ドイツに落ちる巨人の1 つ、シャークは後ろにブンデスリーガ複雑な数年後に。",
       "title_original": "'Humble but ambitious' - the return of fallen giants Schalke",
@@ -1329,6 +1317,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "例-マンチェスター・ユナイテッドアシスタント Queiroz はガーナの上司として戻ります",
+      "summary": "カルロス・ケイロスガーナの男性のナショナルチームのヘッドコーチとして再任命され、2 ヶ月後に彼はから彼らの出口に続くステップダウンに現れました World Cup.",
+      "title_original": "Ex-Man Utd assistant Queiroz returns as Ghana boss",
+      "summary_original": "Carlos Queiroz is reappointed as head coach of Ghana's men's national team, two months after he appeared to step down following their exit from the World Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyeqly7r0po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 09:59:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -1340,6 +1342,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェルシーWijnaldum - 木曜日のゴシップと連絡を取る",
+      "summary": "チェルシー前者に連絡するリヴァプールミッドフィルダージョルジニオ・ワイナルドゥム, アーセナルアイボーンマスストライカーEli Junior Kroupi, エヴァートン獲得の見通しを再生フリー移籍 s, 以上.",
+      "title_original": "Chelsea make contact with Wijnaldum - Thursday's gossip",
+      "summary_original": "Chelsea make contact with former Liverpool midfielder Georginio Wijnaldum, Arsenal eye Bournemouth striker Eli Junior Kroupi, Everton play down prospect of signing free transfers, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj647945e88o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 21:36:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1367,20 +1383,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Wrexham ボス 喜んで を見る移籍市場おすすめ",
-      "summary": "Phil Parkinson 夏を喜ばせる移籍市場 Millwall の Wrexham の3〜3 勝は、彼の側が作った進捗状況を強調しています。",
-      "title_original": "Wrexham boss pleased to see transfer window close",
-      "summary_original": "Phil Parkinson admits he is pleased the summer transfer window has closed and says Wrexham's 3-0 win at Millwall highlights the progress his side have made.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3783peglo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 21:33:58 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
