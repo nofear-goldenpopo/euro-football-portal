@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T20:06:31.109221+00:00",
+  "updated_at": "2026-09-03T20:24:18.439496+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1264,7 +1264,11 @@
     "Kate Scott": "",
     "Jamie Carragher": "",
     "Rubik's Cubes": "ルービックキューブ",
-    "Serge Pizzorno": ""
+    "Serge Pizzorno": "",
+    "Sadiq Khan": "",
+    "London Sadiq Khan": "",
+    "Anthony Joshua's": "",
+    "Madison Square Garden": "マディソン・スクエア・ガーデン"
   },
   "items": [
     {
@@ -2234,6 +2238,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Sadiq Khan: フューリーと AJ が何をしたいのか - ロンドンに戦いましょう!",
+      "summary": "市長の London Sadiq Khan 獲得を問い合わせタイソン・フューリーそして、Anthony Joshua's 英国のボクサー間の衝突を推測しながら「ロンドンへの戦いをゲット」にプロモーターは、マディソン・スクエア・ガーデン獲得を問い合わせ New York.",
+      "title_original": "Sadiq Khan: Do what Fury and AJ want - get the fight to London!",
+      "summary_original": "Mayor of London Sadiq Khan has urged Tyson Fury and Anthony Joshua's promoters to \"get the fight to London\" amid speculation the clash between the British boxers could take place at Madison Square Garden in New York.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13581010/fury-vs-joshua-mayor-of-london-sadiq-khan-issues-plea-to-eddie-hearn-and-frank-warren-to-get-fight-to-london",
+      "published": "Thu, 03 Sep 2026 20:10:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "パキスタンのクリケット危機:根本的な変化は「笑う株式」の側面を作った?",
       "summary": "Nasser Hussain イングランドに対する最終テストの先にあるパキスタンの劇的な変化を批判し、クリケットボードの決定がチームを「持ち株」にしました。",
       "title_original": "Pakistan's cricket crisis: Have radical changes made side 'a laughing stock'?",
@@ -2371,20 +2389,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ミラノでハミルトン&レクルクラークのフェラーリファンチェッカーとして BIG クラウドが集結!",
-      "summary": "Lewis Hamilton そして、Charles Leclerc ミラノのフェラーリファンがミラノに集結し、F1 の星をハウス・オブ・ザ・ハウス・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・ハウスで応援するという大きなレセプションで迎えられました。ペローニ0.0% イベント",
-      "title_original": "BIG crowds gather in Milan as Ferrari fans cheer for Hamilton & Leclerc!",
-      "summary_original": "Lewis Hamilton and Charles Leclerc were greeted with a big reception as Ferrari fans gathered in Milan to cheer on the F1 stars at a House of Peroni Nastro Azzurro 0.0% event.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13580707/formula-1-ferrari-fans-flock-to-peroni-event-to-cheer-on-lewis-hamilton-and-charles-leclerc",
-      "published": "Thu, 03 Sep 2026 07:53:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
