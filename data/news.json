@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T17:06:08.569975+00:00",
+  "updated_at": "2026-09-03T17:25:28.625826+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1242,7 +1242,10 @@
     "Penalised Antonelli": "",
     "George Russell": "",
     "Is Chelsea's": "",
-    "Deadline Day's": ""
+    "Deadline Day's": "",
+    "Adonis' Gibbs-White's": "",
+    "England's World Cup": "",
+    "Thomas Tuchel": "トーマス・トゥヘル"
   },
   "items": [
     {
@@ -1257,34 +1260,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ザ・オブ・ザ・プレミアリーグプレミアムは2000万ポンド - ヨーロッパのクラブを心配する",
-      "summary": "英語のプレイヤーがプレミアムに来たという古い広告。今では、すでにプレーヤーに単に適用するように表示されるプレミアリーグ.",
-      "title_original": "The Premier League premium is £20m - and that worries European clubs",
-      "summary_original": "The old adage used to be that English players came at a premium. Now that appears to simply apply to a player already in the Premier League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 11:13:06 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "私は笑いとして試合をプレーするために使用 - ディーン",
-      "summary": "過去の投稿プレミアリーグ参考文献 Mike Dean 彼は試合中にできる限りセンターサークルに滞在すると言っています。",
-      "title_original": "I used to play in-match games as a laugh - Dean",
-      "summary_original": "Former Premier League referee Mike Dean says he would stay in the centre circle for as long as he could during a match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjql4w604eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 11:45:09 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1313,6 +1288,48 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "私は笑いとして試合をプレーするために使用 - ディーン",
+      "summary": "過去の投稿プレミアリーグ参考文献 Mike Dean 彼は試合中にできる限りセンターサークルに滞在すると言っています。",
+      "title_original": "I used to play in-match games as a laugh - Dean",
+      "summary_original": "Former Premier League referee Mike Dean says he would stay in the centre circle for as long as he could during a match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjql4w604eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 11:45:09 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'Adonis' Gibbs-White's チャンスを輝かせる - Tuchel は通知を受ける?",
+      "summary": "Morgan Gibbs-White 左から England's World Cup スクワット - 彼の継続的な良いフォームは不可能になりますトーマス・トゥヘル無視するには?",
+      "title_original": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
+      "summary_original": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 17:07:18 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ザ・オブ・ザ・プレミアリーグプレミアムは2000万ポンド - ヨーロッパのクラブを心配する",
+      "summary": "英語のプレイヤーがプレミアムに来たという古い広告。今では、すでにプレーヤーに単に適用するように表示されるプレミアリーグ.",
+      "title_original": "The Premier League premium is £20m - and that worries European clubs",
+      "summary_original": "The old adage used to be that English players came at a premium. Now that appears to simply apply to a player already in the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 11:13:06 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1358,6 +1375,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "トッテナム omit Richarlison からプレミアリーグスチーム",
+      "summary": "Richarlison が残っているトッテナム獲得を問い合わせプレミアリーグ今シーズンはクラブの計画では見つかりません。",
+      "title_original": "Spurs omit Richarlison from Premier League squad",
+      "summary_original": "Richarlison is left out of Tottenham's Premier League squad as he does not figure in the club's plans this season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 17:11:10 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "London City 女性のゲームで最大のシャツ - カン",
+      "summary": "ロンドン・シティ・ライオネススタッフ Michele Kang 女性のゲームで最大のシャツスポンサーシップ移籍に獲得したと言います。",
+      "title_original": "London City shirt deal biggest in women's game - Kang",
+      "summary_original": "London City Lionesses owner Michele Kang says they have signed the biggest shirt sponsorship deal in the women's game.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4lgdgnx0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 15:06:23 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ほとんどのゲーム変更移籍をランキングプレミアリーグ歴史・歴史",
       "summary": "いくつかの移籍は、ベッドに時間がかかります, 他の人は、インスタントゲームチェンジャーを証明 - ここでは、トップです 10 の獲得プレミアリーグ針を動かす時代。",
       "title_original": "Ranking the most game-changing transfers in Premier League history",
@@ -1365,6 +1410,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 03 Sep 2026 06:17:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Iraola 嬉しい とともに サイン としてバルコラデビューセット",
+      "summary": "Manager Andoni Iraola ディスカッションリヴァプール送迎事業、到着ブラッドリー・バルコラそして保ち続けることコーディ・ガクポ.",
+      "title_original": "Iraola happy with signings as Barcola set for debut",
+      "summary_original": "Manager Andoni Iraola discusses Liverpool's transfer business, the arrival of Bradley Barcola and keeping Cody Gakpo.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c14dx8eze1do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 10:58:42 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1386,34 +1445,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "London City 女性のゲームで最大のシャツ - カン",
-      "summary": "ロンドン・シティ・ライオネススタッフ Michele Kang 女性のゲームで最大のシャツスポンサーシップ移籍に獲得したと言います。",
-      "title_original": "London City shirt deal biggest in women's game - Kang",
-      "summary_original": "London City Lionesses owner Michele Kang says they have signed the biggest shirt sponsorship deal in the women's game.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4lgdgnx0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 15:06:23 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Iraola 嬉しい とともに サイン としてバルコラデビューセット",
-      "summary": "Manager Andoni Iraola ディスカッションリヴァプール送迎事業、到着ブラッドリー・バルコラそして保ち続けることコーディ・ガクポ.",
-      "title_original": "Iraola happy with signings as Barcola set for debut",
-      "summary_original": "Manager Andoni Iraola discusses Liverpool's transfer business, the arrival of Bradley Barcola and keeping Cody Gakpo.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c14dx8eze1do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 10:58:42 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "チャオス -An EFL 振込期限日 他なし",
       "summary": "ノリッジ・シティ FC スポーツディレクターとコルチェスター・ユナイテッド FC 管理者は、試合と同じ日に落下期限日の希少性について議論します。",
       "title_original": "'Chaos' - An EFL transfer deadline day like no other",
@@ -1428,17 +1459,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ゲームをホーナーに一時停止するアルゼンチンリーグメッシ",
-      "summary": "アルゼンチンサッカーリーグはあなたに敬意を表しますリオネル・メッシ獲得を問い合わせインテル今週の10 分に全国各地の試合を巡る",
-      "title_original": "Argentine league to pause games to honour Messi",
-      "summary_original": "The Argentine football league will pay tribute to Lionel Messi's international career by pausing all their domestic matches in the 10th minute this weekend.",
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzjy431keo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 08:42:31 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4k74d1n7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 05:37:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1456,17 +1487,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "title": "ゲームをホーナーに一時停止するアルゼンチンリーグメッシ",
+      "summary": "アルゼンチンサッカーリーグはあなたに敬意を表しますリオネル・メッシ獲得を問い合わせインテル今週の10 分に全国各地の試合を巡る",
+      "title_original": "Argentine league to pause games to honour Messi",
+      "summary_original": "The Argentine football league will pay tribute to Lionel Messi's international career by pausing all their domestic matches in the 10th minute this weekend.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4k74d1n7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 05:37:48 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzjy431keo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 08:42:31 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1536,34 +1567,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ヨーロッパのスクワッドリストはどのように機能しますか?",
-      "summary": "Our Ask Me Anything チームは、チームを選択するときにチームに固執しなければならないルールを説明していますチャンピオンズリーグ, ヨーロッパリーグそして、カンファレンスリーグスチーム",
-      "title_original": "How do European squad lists work?",
-      "summary_original": "Our Ask Me Anything team explain the rules that teams have to stick to when selecting their Champions League, Europa League and Conference League squads.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyz65nkre2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 13:19:44 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "使い方エヴァートン'期限日障害は、ファンの変異に直面している所有者を残します",
-      "summary": "エヴァートンの 移籍期限日障害オーバーフォラリン・バログン葉の所有者 The Friedkin ファンの変異に直面している, チーフサッカーライターは言うフィル・マクナルティ.",
-      "title_original": "How Everton's deadline day debacle leaves owners facing fan mutiny",
-      "summary_original": "Everton's transfer deadline day debacle over Folarin Balogun leaves owners The Friedkin facing fan mutiny, says chief football writer Phil McNulty.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9861n79kepo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 12:33:25 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1667,9 +1670,9 @@
     },
     {
       "title": "Gabriel Martinelli リーフレットアーセナル獲得を問い合わせサウジアラビア n クラブ Al-Hilal に 6000万ポンド の契約",
-      "summary": "フォワードフォローガブリエウ・ジェズスチャンピオンから Martinelli 手数料は、販売オン条項が含まれていますアーセナル確認済み Gabriel Martinelli 参加しましたサウジアラビア n 側面 6000万ポンド のための Al ヒラル。ブラジルの手数料は前売りの句を含んでいました。参加したマルティネリ、アーセナル2019 年のイチュアノから、エミレーツのピークを下回りました。プレミアリーグタイトル最終シーズン。過去の記録を上回る彼の料金 4000万ポンド によって受け取ったアーセナルいつか",
+      "summary": "フォワードフォローガブリエウ・ジェズスチャンピオンから Martinelli の契約は年1700万ポンド の価値を考えたアーセナル確認済み Gabriel Martinelli 参加しましたサウジアラビア n 側面 6000万ポンド のための Al ヒラル。ブラジルの移籍は前方には、販売オン条項が含まれていることが理解されています。参加したマルティネリ、アーセナル2019 年のイチュアノから、エミレーツのピークを下回っています。プレミアリーグタイトル最終シーズン。以前のレコードを上回る彼の料金は、Ar によって受け取った4000万ポンド",
       "title_original": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
-      "summary_original": "Forward follows Gabriel Jesus out of champions Martinelli fee includes sell-on clause Arsenal have confirmed Gabriel Martinelli has joined the Saudi Arabian side Al-Hilal for £60m. It is understood the fee for Brazil forward included a sell-on clause. Martinelli, who joined Arsenal from Ituano in 2019, has fallen down the pecking order at the Emirates despite being part of the squad that won the Premier League title last season. His fee surpasses the previous record £40m received by Arsenal when",
+      "summary_original": "Forward follows Gabriel Jesus out of champions Martinelli’s contract thought worth £17m a year Arsenal have confirmed Gabriel Martinelli has joined the Saudi Arabian side Al-Hilal for £60m. It is understood the deal for Brazil forward includes a sell-on clause. Martinelli, who joined Arsenal from Ituano in 2019, has fallen down the pecking order at the Emirates despite being part of the squad that won the Premier League title last season. His fee surpasses the previous record £40m received by Ar",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal",
       "published": "Thu, 03 Sep 2026 16:30:08 GMT",
@@ -2100,9 +2103,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランドのクルージングを ODI シリーズに勝利 アイルランドでゲームをスペアリング LIVE!",
+      "title": "イングランドの thump アイルランドは、ゲームで ODI シリーズの勝利をスペアリング LIVE!",
       "summary": "",
-      "title_original": "England cruising to ODI series win over Ireland with a game to spare LIVE!",
+      "title_original": "England thump Ireland to clinch ODI series victory with a game to spare LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13580787/england-vs-ireland-second-womens-odi-cricket-score-updates-video-and-analysis-as-charlie-deans-side-look-to-clinch-series-in-derby",
@@ -2156,9 +2159,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Britain's Dart 大阪で制御するアーサー・アッシュ",
+      "title": "US Open LIVE! Britain's Dart アクションで大阪のギャンブルアーサー・アッシュ",
       "summary": "",
-      "title_original": "US Open LIVE! Britain's Dart in action with Osaka in control on Arthur Ashe",
+      "title_original": "US Open LIVE! Britain's Dart in action with Osaka wobbling on Arthur Ashe",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13580550/us-open-live-scores-updates-news-commentary-and-results-from-new-york-with-naomi-osaka-taylor-fritz-alex-eala-and-coco-gauff-in-action",
@@ -2226,9 +2229,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズ期限の日にケルシーとブーアナニに獲得",
+      "title": "レンジャーズケルシーとブーアナニをサイン Deadline Day",
       "summary": "レンジャーズ獲得済み Kevin Kelsy からポートランド・ティンバーズウィンガーと900万ポンド の価値のある移籍 Badredine Bouanani エントリーレンタル移籍でからシュトゥットガルト.",
-      "title_original": "Rangers sign Kelsy and Bouanani on deadline day",
+      "title_original": "Rangers sign Kelsy and Bouanani on Deadline Day",
       "summary_original": "Rangers have signed Kevin Kelsy from Portland Timbers in a deal worth £9m with winger Badredine Bouanani joining on loan from Stuttgart.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13579735/rangers-transfer-news-kevin-kelsy-and-badredine-bouanani-join-on-deadline-day-as-nico-raskin-bid-rejected",
