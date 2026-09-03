@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T10:26:42.041965+00:00",
+  "updated_at": "2026-09-03T10:38:18.931883+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1205,7 +1205,9 @@
     "Mal Benning": "",
     "Dev's Digest": "",
     "Dev Trehan": "",
-    "British South Asians": ""
+    "British South Asians": "",
+    "British NFL": "",
+    "Seydou Traore's": ""
   },
   "items": [
     {
@@ -1293,6 +1295,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チェルシーWijnaldum - 木曜日のゴシップと連絡を取る",
+      "summary": "チェルシー前者に連絡するリヴァプールミッドフィルダージョルジニオ・ワイナルドゥム, アーセナルアイボーンマスストライカーEli Junior Kroupi, エヴァートン獲得の見通しを再生フリー移籍 s, 以上.",
+      "title_original": "Chelsea make contact with Wijnaldum - Thursday's gossip",
+      "summary_original": "Chelsea make contact with former Liverpool midfielder Georginio Wijnaldum, Arsenal eye Bournemouth striker Eli Junior Kroupi, Everton play down prospect of signing free transfers, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj647945e88o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 21:36:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "深夜移籍フォールアウトスパークチェルシー-モナコログイン",
       "summary": "使い方チェルシー, エヴァートンそして、モナコ最終日は深夜ドラマを過ぎても見逃せません。Nizaar Kinsella レポート。",
       "title_original": "Late-night transfer fallout sparks Chelsea-Monaco row",
@@ -1349,20 +1365,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "セルティックヴァンデンベルク&ロッテムバが到着してから1 日で5 つ獲得",
-      "summary": "セルティック元イングランドゴールキーパーのための完全な融資移籍 Sam Johnstone ティーンエイジチェルシーデュオ Shumaira Mheuka そして、Landon Emenalo.",
-      "title_original": "Celtic sign five in one day after Van den Berg & Lotomba arrive",
-      "summary_original": "Celtic complete loan deals for former England goalkeeper Sam Johnstone and teenage Chelsea duo Shumaira Mheuka and Landon Emenalo.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 22:07:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "使い方エヴァートン'期限日障害は、ファンの変異に直面している所有者を残します",
       "summary": "エヴァートンの 移籍期限日障害オーバーフォラリン・バログン葉の所有者 The Friedkin ファンの変異に直面している, チーフサッカーライターは言うフィル・マクナルティ.",
       "title_original": "How Everton's deadline day debacle leaves owners facing fan mutiny",
@@ -1377,17 +1379,31 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシーWijnaldum - 木曜日のゴシップと連絡を取る",
-      "summary": "チェルシー前者に連絡するリヴァプールミッドフィルダージョルジニオ・ワイナルドゥム, アーセナルアイボーンマスストライカーEli Junior Kroupi, エヴァートン獲得の見通しを再生フリー移籍 s, 以上.",
-      "title_original": "Chelsea make contact with Wijnaldum - Thursday's gossip",
-      "summary_original": "Chelsea make contact with former Liverpool midfielder Georginio Wijnaldum, Arsenal eye Bournemouth striker Eli Junior Kroupi, Everton play down prospect of signing free transfers, plus more.",
+      "title": "セルティックヴァンデンベルク&ロッテムバが到着してから1 日で5 つ獲得",
+      "summary": "セルティック元イングランドゴールキーパーのための完全な融資移籍 Sam Johnstone ティーンエイジチェルシーデュオ Shumaira Mheuka そして、Landon Emenalo.",
+      "title_original": "Celtic sign five in one day after Van den Berg & Lotomba arrive",
+      "summary_original": "Celtic complete loan deals for former England goalkeeper Sam Johnstone and teenage Chelsea duo Shumaira Mheuka and Landon Emenalo.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj647945e88o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 21:36:32 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 22:07:25 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "新しい獲得の危機的虐待 -ハル",
+      "summary": "ハル・シティ AFC 新しい獲得を指示する「アベント・ラシスト・虐待」を批判する Robinio Vaz 獲得が発表されたとき。",
+      "title_original": "Racist abuse of new signing Vaz abhorrent - Hull",
+      "summary_original": "Hull City criticise the \"abhorrent racist abuse\" directed at new signing Robinio Vaz when they announced his signing.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyeq3v7829o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 10:28:25 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1608,20 +1624,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cy9zq3zx7veo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 19:00:24 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "最高の SPFL アクションのラウンドアップを見る",
-      "summary": "週末のアクションを最大限に活用 Scottish Championship, Scottish League1 と1Scottish League 2.",
-      "title_original": "Watch round-up of best SPFL action",
-      "summary_original": "Watch the best of the weekend action from the Scottish Championship, Scottish League 1 and Scottish League 2.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/videos/cn0715p7wn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 10:08:42 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2049,6 +2051,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "British NFL プレーヤートロール:私はドルフィンの衝撃を作るために私がする必要があることを行います",
+      "summary": "聞いたことがある Seydou Traore's 前のストーリー。そのようなことは、NFL のキャリアを通して何度も何度も聞いているということです。",
+      "title_original": "British NFL player Traore: I'll do what I need to do to make Dolphins impact",
+      "summary_original": "You may have heard Seydou Traore's story before. The likelihood is that you'll hear it many more times throughout his NFL career.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13559821/seydou-traore-interview-british-tight-end-on-nfl-draft-miami-dolphins-and-goals-in-the-league",
+      "published": "Thu, 03 Sep 2026 11:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Mal Benning 奨励されるために, Choudhury 勝ちシェフィールド・ユナイテッド FC デビュー",
       "summary": "ようこそ!Dev's Digest、アジェンダ セッティングスカイスポーツの列 Dev Trehan 排他的なニュースを配信し、主要な開発のいくつかを反映 British South Asians サッカー",
       "title_original": "Mal Benning to be honoured, Choudhury winning Sheffield United debut",
@@ -2308,20 +2324,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/west-bromwich-albion-vs-charlton-athletic/report/560545",
       "published": "Wed, 02 Sep 2026 21:35:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "オリンピック金メダリスト「車が衝突した後に生きてラッキー」",
-      "summary": "オリンピックと世界チャンピオンのロングジャンパーTara Davis-Woodhall 彼女は訓練に運転しながら、ヘッドオンの車の衝突に関与した後、「生き生きることがラッキーである」と述べた。",
-      "title_original": "Olympic gold medallist 'lucky to be alive' after car crash",
-      "summary_original": "Olympic and world champion long jumper Tara Davis-Woodhall said she is ‘lucky to be alive’ after being involved in a head-on car collision while driving to training.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/olympics/news/12040/13580687/tara-davis-woodhall-olympic-long-jump-and-world-champion-lucky-to-be-alive-after-being-injured-in-car-crash",
-      "published": "Thu, 03 Sep 2026 06:09:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
