@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T20:24:18.439496+00:00",
+  "updated_at": "2026-09-03T20:41:34.783156+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1268,7 +1268,9 @@
     "Sadiq Khan": "",
     "London Sadiq Khan": "",
     "Anthony Joshua's": "",
-    "Madison Square Garden": "マディソン・スクエア・ガーデン"
+    "Madison Square Garden": "マディソン・スクエア・ガーデン",
+    "Anna Moorhouse": "",
+    "Orlando Pride": "オーランド・プライド"
   },
   "items": [
     {
@@ -1468,6 +1470,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・シティ、England の GKMoorhouse をレンタルで獲得",
+      "summary": "マンチェスター・シティサイン イングランドゴールキーパーAnna Moorhouse 短期借入金からオーランド・プライド.",
+      "title_original": "Man City sign England goalkeeper Moorhouse on loan",
+      "summary_original": "Manchester City sign England goalkeeper Anna Moorhouse on a short-term loan from Orlando Pride.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yep5d6qnno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 20:30:19 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "How AlvarezAtletico で信頼を再構築する必要がある",
       "summary": "使い方フリアン・アルバレスサポーターに焦点を合わせなければならないアトレティコ・マドリード, 彼の夢が移動した後バルセロナではなかった。",
       "title_original": "How Alvarez needs to rebuild trust at Atletico",
@@ -1563,20 +1579,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ゲームをホーナーに一時停止するアルゼンチンリーグメッシ",
-      "summary": "アルゼンチンサッカーリーグはあなたに敬意を表しますリオネル・メッシ獲得を問い合わせインテル今週の10 分に全国各地の試合を巡る",
-      "title_original": "Argentine league to pause games to honour Messi",
-      "summary_original": "The Argentine football league will pay tribute to Lionel Messi's international career by pausing all their domestic matches in the 10th minute this weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzjy431keo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 08:42:31 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2182,12 +2184,12 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "大阪が苦闘を乗り越える US Open 第3 ラウンド",
-      "summary": "Naomi Osaka ビートにミッドマッチ小石をオーバーカムカテリナ・シ二アコバ6-2 5-7 6-1 および第 3 ラウンドの達して下さい全米オープン.",
-      "title_original": "Osaka overcomes serving struggles to reach US Open third round",
-      "summary_original": "Naomi Osaka overcame a mid-match wobble to beat Katerina Siniakova 6-2 5-7 6-1 and reach the third round of the US Open.",
+      "title": "大阪府知事 US Open テニス「エチケット」を尊重するインフルエンサー",
+      "summary": "Naomi Osaka ソーシャルメディアインフルエンサーの増加を促しました全米オープン第2 次勝利に続くスポーツの「エチケット」を尊重しますカテリナ・シ二アコバ.",
+      "title_original": "Osaka urges US Open influencers to respect tennis 'etiquette'",
+      "summary_original": "Naomi Osaka urged the growing number of social media influencers at the US Open to respect the sport's \"etiquette\" following her second-round win over Katerina Siniakova.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13580942/us-open-naomi-osaka-overcomes-serving-struggles-to-beat-katerina-siniakova-and-clinch-spot-in-third-round",
+      "url": "https://www.skysports.com/tennis/news/12040/13580942/us-open-naomi-osaka-urges-social-media-influencers-in-attendance-to-respect-tennis-etiquette-after-second-round-win",
       "published": "Thu, 03 Sep 2026 17:22:00 BST",
       "category": "other",
       "type": "other",
