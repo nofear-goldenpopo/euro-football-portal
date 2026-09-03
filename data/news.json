@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T20:49:53.499058+00:00",
+  "updated_at": "2026-09-03T21:07:04.789352+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1270,7 +1270,10 @@
     "Anthony Joshua's": "",
     "Madison Square Garden": "マディソン・スクエア・ガーデン",
     "Anna Moorhouse": "",
-    "Orlando Pride": "オーランド・プライド"
+    "Orlando Pride": "オーランド・プライド",
+    "Anthony Martial": "",
+    "Wilfried Zaha": "ウィルフレッド・ザハ",
+    "Estevao Willian": ""
   },
   "items": [
     {
@@ -1372,6 +1375,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "エヴァートン、free agent Vardy - Friday's gossip を獲得候補に",
+      "summary": "エヴァートン移動量を量る Jamie Vardy または Anthony Martial, ウィルフレッド・ザハ参加可能 AC ミラン, Estevao Willian からの移動を考慮するチェルシー.",
+      "title_original": "Everton eye free agent Vardy - Friday's gossip",
+      "summary_original": "Everton weigh up moves for Jamie Vardy or Anthony Martial, Wilfried Zaha could join AC Milan, Estevao Willian considers move from Chelsea.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62jgzxkjypo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 20:54:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "レンジャーズストライカー・ケルシーの多彩なキャリア - わずか22 歳",
       "summary": "トラックに隠れるから、戦場で遊ぶまで、新しいレンジャーズストライカーKevin Kelsy すでにキャリアを積んだ。",
       "title_original": "Rangers striker Kelsy's colourful career - aged just 22",
@@ -1400,20 +1417,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "新しい獲得の危機的虐待 -ハル",
-      "summary": "ハル・シティ AFC 新しい獲得を指示する「アベント・ラシスト・虐待」を批判する Robinio Vaz 獲得が発表されたとき。",
-      "title_original": "Racist abuse of new signing Vaz abhorrent - Hull",
-      "summary_original": "Hull City criticise the \"abhorrent racist abuse\" directed at new signing Robinio Vaz when they announced his signing.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyeq3v7829o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 10:28:25 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "London City 女性のゲームで最大のシャツ - カン",
       "summary": "ロンドン・シティ・ライオネススタッフ Michele Kang 女性のゲームで最大のシャツスポンサーシップ移籍に獲得したと言います。",
       "title_original": "London City shirt deal biggest in women's game - Kang",
@@ -1421,6 +1424,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cdj4lgdgnx0o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 03 Sep 2026 15:06:23 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "新しい獲得の危機的虐待 -ハル",
+      "summary": "ハル・シティ AFC 新しい獲得を指示する「アベント・ラシスト・虐待」を批判する Robinio Vaz 獲得が発表されたとき。",
+      "title_original": "Racist abuse of new signing Vaz abhorrent - Hull",
+      "summary_original": "Hull City criticise the \"abhorrent racist abuse\" directed at new signing Robinio Vaz when they announced his signing.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyeq3v7829o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 10:28:25 GMT",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
@@ -1456,13 +1473,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ほとんどのゲーム変更移籍をランキングプレミアリーグ歴史・歴史",
-      "summary": "いくつかの移籍は、ベッドに時間がかかります, 他の人は、インスタントゲームチェンジャーを証明 - ここでは、トップです 10 の獲得プレミアリーグ針を動かす時代。",
-      "title_original": "Ranking the most game-changing transfers in Premier League history",
-      "summary_original": "Some transfers take time to bed in, others prove instant game-changers - here are the top 10 signings of the Premier League era that moved the needle.",
+      "title": "アーセナル、パリ・サンジェルマンから France defender De Almeida を獲得",
+      "summary": "アーセナルフランスの擁護者エリサ・デ・アルメダの獲得を確認するパリ・サンジェルマン.",
+      "title_original": "Arsenal sign France defender De Almeida from PSG",
+      "summary_original": "Arsenal confirm the signing of France defender Elisa de Almeida from Paris St-Germain.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 06:17:38 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgl7yw9y1weo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 21:00:09 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1498,6 +1515,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ほとんどのゲーム変更移籍をランキングプレミアリーグ歴史・歴史",
+      "summary": "いくつかの移籍は、ベッドに時間がかかります, 他の人は、インスタントゲームチェンジャーを証明 - ここでは、トップです 10 の獲得プレミアリーグ針を動かす時代。",
+      "title_original": "Ranking the most game-changing transfers in Premier League history",
+      "summary_original": "Some transfers take time to bed in, others prove instant game-changers - here are the top 10 signings of the Premier League era that moved the needle.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 06:17:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "レンジャーズサインストライカーケルシーとウィンガーブーアナニ",
       "summary": "レンジャーズベネズエラストライカーを購入していることを確認してください Kevin Kelsy からポートランド・ティンバーズアルジェリアのウィンガーを取られた Badredine Bouanani レンタル移籍でからシュトゥットガルト.",
       "title_original": "Rangers sign striker Kelsy and winger Bouanani",
@@ -1526,20 +1557,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チャオス -An EFL 振込期限日 他なし",
-      "summary": "ノリッジ・シティ FC スポーツディレクターとコルチェスター・ユナイテッド FC 管理者は、試合と同じ日に落下期限日の希少性について議論します。",
-      "title_original": "'Chaos' - An EFL transfer deadline day like no other",
-      "summary_original": "Norwich City sporting director and Colchester United manager discuss the rarity of deadline day falling on the same day as matches.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4n3dye5ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 16:21:14 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "フォローする方法プレミアリーグ今週末 BBC で",
       "summary": "Our Ask Me Anything チームは、週3 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
       "title_original": "How to follow the Premier League on the BBC this weekend",
@@ -1561,20 +1578,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3v4k74d1n7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 03 Sep 2026 05:37:48 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リーズ' ハムストリング怪我で最大10 週間ロドンアウト",
-      "summary": "リーズ・ユナイテッド FC マネージャーダニエル・ファルケセンターバックジョー・ロドン「深刻なハムストリングの怪我」のために8〜10 週間かかります。",
-      "title_original": "Leeds' Rodon out for up to 10 weeks with hamstring injury",
-      "summary_original": "Leeds United manager Daniel Farke says centre-back Joe Rodon will be out for eight to 10 weeks because of a \"serious hamstring injury\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crm93nv8n7yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 14:39:30 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2268,9 +2271,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Britain's Dart ビートンとアウダー・エイリアシムは衝撃出口を苦しむ",
+      "title": "Britain's Dart 衝撃出口のよく殴られたおよび第3 シードオーガー・アリアシム",
       "summary": "",
-      "title_original": "US Open LIVE! Britain's Dart beaten and Auger-Aliassime suffers shock exit",
+      "title_original": "Britain's Dart well beaten and third seed Auger-Aliassime in shock exit",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13580550/us-open-live-scores-updates-news-commentary-and-results-from-new-york-with-naomi-osaka-taylor-fritz-alex-eala-and-coco-gauff-in-action",
