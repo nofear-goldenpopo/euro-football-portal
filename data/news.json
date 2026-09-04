@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T05:06:11.612571+00:00",
+  "updated_at": "2026-09-04T05:24:09.485475+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1302,7 +1302,10 @@
     "Michele Kang. The": "",
     "Nick Kyrgios": "ニック・キリオス",
     "Monfils' Grand Slam": "",
-    "Spain's Paula": ""
+    "Spain's Paula": "",
+    "Is Hearts' McPake": "",
+    "Pocognoli's Scotland": "",
+    "Josh McPake": ""
   },
   "items": [
     {
@@ -1320,13 +1323,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Fifa は Infantino に対する'smear キャンペーンの Uefa を非難します",
-      "summary": "統治体はフィファ大統領以来、爆発を移籍しています Gianni Infantino's スクラップされたプランでステークを売る World Cup 個人投資家の皆様へ",
-      "title_original": "Fifa accuses Uefa of 'smear campaign' against Infantino",
-      "summary_original": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
+      "title": "Is Hearts' McPake ゲートクラッシュにポーズ Pocognoli's Scotland チーム?",
+      "summary": "Josh McPake 入社以来、大幅な影響を受けました。Hearts. Could 彼は今、スコットランドのナショナルチームで同じことをしますか?",
+      "title_original": "Is Hearts' McPake poised to gatecrash Pocognoli's Scotland squad?",
+      "summary_original": "Josh McPake has made a significant impact since joining Hearts. Could he now do the same for the Scotland national team?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 19:01:43 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70l5nrrj02o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 23:40:13 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1362,34 +1365,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "私は笑いとして試合をプレーするために使用 - ディーン",
-      "summary": "過去の投稿プレミアリーグ参考文献 Mike Dean 彼は試合中にできる限りセンターサークルに滞在すると言っています。",
-      "title_original": "I used to play in-match games as a laugh - Dean",
-      "summary_original": "Former Premier League referee Mike Dean says he would stay in the centre circle for as long as he could during a match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjql4w604eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 11:45:09 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "エヴァートン、free agent Vardy - Friday's gossip を獲得候補に",
-      "summary": "エヴァートン移動量を量る Jamie Vardy または Anthony Martial, ウィルフレッド・ザハ参加可能 AC ミラン, Estevao Willian からの移動を考慮するチェルシー.",
-      "title_original": "Everton eye free agent Vardy - Friday's gossip",
-      "summary_original": "Everton weigh up moves for Jamie Vardy or Anthony Martial, Wilfried Zaha could join AC Milan, Estevao Willian considers move from Chelsea.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62jgzxkjypo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 20:54:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "サールはプロセス崩壊の時間を要しますリヴァプールログイン",
       "summary": "クリスタル・パレス獲得イスマイラ・サール提案された移動の崩壊を処理する時間が必要になりますリヴァプール言うイーグルスヘッドコーチ Pierre Sage.",
       "title_original": "Sarr needs time to process collapse of Liverpool move",
@@ -1415,6 +1390,48 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "エヴァートン、free agent Vardy - Friday's gossip を獲得候補に",
+      "summary": "エヴァートン移動量を量る Jamie Vardy または Anthony Martial, ウィルフレッド・ザハ参加可能 AC ミラン, Estevao Willian からの移動を考慮するチェルシー.",
+      "title_original": "Everton eye free agent Vardy - Friday's gossip",
+      "summary_original": "Everton weigh up moves for Jamie Vardy or Anthony Martial, Wilfried Zaha could join AC Milan, Estevao Willian considers move from Chelsea.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62jgzxkjypo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 20:54:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Fifa は Infantino に対する'smear キャンペーンの Uefa を非難します",
+      "summary": "統治体はフィファ大統領以来、爆発を移籍しています Gianni Infantino's スクラップされたプランでステークを売る World Cup 個人投資家の皆様へ",
+      "title_original": "Fifa accuses Uefa of 'smear campaign' against Infantino",
+      "summary_original": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 19:01:43 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "私は笑いとして試合をプレーするために使用 - ディーン",
+      "summary": "過去の投稿プレミアリーグ参考文献 Mike Dean 彼は試合中にできる限りセンターサークルに滞在すると言っています。",
+      "title_original": "I used to play in-match games as a laugh - Dean",
+      "summary_original": "Former Premier League referee Mike Dean says he would stay in the centre circle for as long as he could during a match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjql4w604eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 11:45:09 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1572,20 +1589,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Football Daily",
-      "summary": "John Bennett 見てみる移籍市場の への影響リーグ・アン.",
-      "title_original": "Football Daily",
-      "summary_original": "John Bennett looks at the transfer window's impact on Ligue 1.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p7x2v4?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 22:52:00 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ほとんどのゲーム変更移籍をランキングプレミアリーグ歴史・歴史",
       "summary": "いくつかの移籍は、ベッドに時間がかかります, 他の人は、インスタントゲームチェンジャーを証明 - ここでは、トップです 10 の獲得プレミアリーグ針を動かす時代。",
       "title_original": "Ranking the most game-changing transfers in Premier League history",
@@ -1611,6 +1614,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フォローする方法プレミアリーグ今週末 BBC で",
+      "summary": "Our Ask Me Anything チームは、週3 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
+      "title_original": "How to follow the Premier League on the BBC this weekend",
+      "summary_original": "Our Ask Me Anything team explains how to follow matches from week three of the Premier League season on the BBC this weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 14:48:11 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1705,20 +1722,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cy4zmlrrpxxo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 22:37:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "できますチェルシーバックで3 人でリーグを勝ち取る? 評決の決定",
-      "summary": "デイパンディットの試合・ギヴンアワードチェルシーの フライング ウィング バックシャビ・アロンソの の側面は勝ちますプレミアリーグタイトルは3 つのシステムを使用して。",
-      "title_original": "Can Chelsea win the league with three at the back? Given's verdict",
-      "summary_original": "Match of the Day pundit Shay Given praises Chelsea's flying wing-backs, backing Xabi Alonso's side to win the Premier League title using a three-at-the-back system.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyz17d1vy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 22:59:49 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
