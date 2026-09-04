@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T13:25:57.372767+00:00",
+  "updated_at": "2026-09-04T13:38:43.979953+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1386,7 +1386,12 @@
     "Email Niall The": "",
     "Emotional Arrow": "",
     "South Sydney Rabbitohs": "サウス・シドニー・ラビトーズ",
-    "Jai Arrow": ""
+    "Jai Arrow": "",
+    "Several Manchester City": "",
+    "Ellie Carpenter. Mine": "",
+    "Mary Fowler. Who": "",
+    "Both. Who": "",
+    "Motor Neurone Disease": "筋萎縮性側索硬化症"
   },
   "items": [
     {
@@ -1446,6 +1451,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "いくつかの選手が欲しかったフェルナンデス更新プログラム - Maresca",
+      "summary": "複数マンチェスター・シティプレイヤーは、プレイヤーが知ってもらいたいエンソ・フェルナンデス最終日にご参加ください移籍市場マネージャーは言う Enzo Maresca.",
+      "title_original": "Several players wanted Fernandez updates - Maresca",
+      "summary_original": "Several Manchester City players wanted to know if Enzo Fernandez would join in the last days of the transfer window, says manager Enzo Maresca.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y4ge76jx8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 13:35:28 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナルフェイスバルセロナ & リヨン女性のチャンピオンズリーグ",
       "summary": "アーセナルフェイスホルダーバルセロナ受賞者の記録リヨン女性のチャンピオンズリーグ, しばらくチェルシー旅行するリヨンそして、マンチェスター・シティ獲得を問い合わせバイエルン・ミュンヘン.",
       "title_original": "Arsenal to face Barca & Lyon in Women's Champions League",
@@ -1485,20 +1504,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Atletico's Alvarez'learning experience' - Simeone の後に戻る",
-      "summary": "フリアン・アルバレスに戻るアトレティコ・マドリードの チームラ・リーガゲームアスレティック・ビルバオ彼がクラブを離れようとしなかったにもかかわらず、マネージャーは言うディエゴ・シメオネ.",
-      "title_original": "Atletico's Alvarez will return after 'learning experience' - Simeone",
-      "summary_original": "Julian Alvarez will return to Atletico Madrid's squad for the La Liga game at Athletic Club despite his failed attempt to leave the club, says manager Diego Simeone.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cje8wne0qy8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:43:13 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1544,6 +1549,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "エヴァートン、free agent Vardy - Friday's gossip を獲得候補に",
+      "summary": "エヴァートン移動量を量る Jamie Vardy または Anthony Martial, ウィルフレッド・ザハ参加可能 AC ミラン, Estevao Willian からの移動を考慮するチェルシー.",
+      "title_original": "Everton eye free agent Vardy - Friday's gossip",
+      "summary_original": "Everton weigh up moves for Jamie Vardy or Anthony Martial, Wilfried Zaha could join AC Milan, Estevao Willian considers move from Chelsea.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62jgzxkjypo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 20:54:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Fourth-choice Ramsdale'サポートチーム' - Eckert",
       "summary": "ナンプトンボス Tonda Eckert コメントアーロン・ラムズデール引き続き、第4 位のキーパーになるにもかかわらず、「チームをサポート」の役割があります。",
       "title_original": "Fourth-choice Ramsdale will 'support team' - Eckert",
@@ -1554,6 +1573,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Atletico's Alvarez'learning experience' - Simeone の後に戻る",
+      "summary": "フリアン・アルバレスに戻るアトレティコ・マドリードの チームラ・リーガゲームアスレティック・ビルバオ彼がクラブを離れようとしなかったにもかかわらず、マネージャーは言うディエゴ・シメオネ.",
+      "title_original": "Atletico's Alvarez will return after 'learning experience' - Simeone",
+      "summary_original": "Julian Alvarez will return to Atletico Madrid's squad for the La Liga game at Athletic Club despite his failed attempt to leave the club, says manager Diego Simeone.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cje8wne0qy8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 11:43:13 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1586,20 +1619,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "エヴァートン、free agent Vardy - Friday's gossip を獲得候補に",
-      "summary": "エヴァートン移動量を量る Jamie Vardy または Anthony Martial, ウィルフレッド・ザハ参加可能 AC ミラン, Estevao Willian からの移動を考慮するチェルシー.",
-      "title_original": "Everton eye free agent Vardy - Friday's gossip",
-      "summary_original": "Everton weigh up moves for Jamie Vardy or Anthony Martial, Wilfried Zaha could join AC Milan, Estevao Willian considers move from Chelsea.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62jgzxkjypo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 20:54:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "新しい WSL シーズンについて知る必要がある方",
       "summary": "BBC Sport's Ask Me 新しい WSL シーズンの前に知っておく必要があるすべてのチームに教えてください。",
       "title_original": "All you need to know about the new WSL season",
@@ -1607,20 +1626,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c17j5e0ky9jo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 04 Sep 2026 11:39:16 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "私は誰ですか?Guess WSL 星なし 1",
-      "summary": "今日の身元を身につける Women's Super League できるだけ少ない試みでプレイヤーをプレイできます。",
-      "title_original": "Who am I? Guess WSL star No 1",
-      "summary_original": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0qvxvp220jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:42:11 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1653,6 +1658,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "私は誰ですか?Guess WSL 星なし 1",
+      "summary": "今日の身元を身につける Women's Super League できるだけ少ない試みでプレイヤーをプレイできます。",
+      "title_original": "Who am I? Guess WSL star No 1",
+      "summary_original": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0qvxvp220jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 11:42:11 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1709,20 +1728,6 @@
       "type": "bundesliga",
       "label": "ブンデス",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Chiesa & Endo 左からリヴァプール獲得を問い合わせチャンピオンズリーグスチーム",
-      "summary": "リヴァプールふりがな Federico Chiesa そして、遠藤航リーグフェーズの25 人チームのうちチャンピオンズリーグ.",
-      "title_original": "Chiesa & Endo left out of Liverpool's Champions League squad",
-      "summary_original": "Liverpool leave Federico Chiesa and Wataru Endo out of their 25-man squad for the league phase of the Champions League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr4vnzpw57lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 22:13:22 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1816,7 +1821,7 @@
       "summary_original": "• All the latest news and previews before the weekend • Premier League: 10 things to watch for | Email Niall The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women’s sport. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live",
-      "published": "Fri, 04 Sep 2026 13:04:57 GMT",
+      "published": "Fri, 04 Sep 2026 13:24:16 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1825,12 +1830,12 @@
     },
     {
       "title": "Women’s Super LeagueQ&A:サッカーライターSuzanne Wrack 今すぐ質問に答える",
-      "summary": "The WSL 季節は夜にキックオフとガーディアンの女性のサッカーライターSuzanne Wrack 今、あなたの質問に答えています - 何から期待するロンドン・シティ・ライオネス獲得が誰にでもこだわる後マンチェスター・シティ戻りに戻ることができます。質問:ログインまたはサインアップしてください。Challengingviews は尋ねます:このシーズンの競争力の実際のテストは、クラブが4 から9 番目のトップ3 に対して結果を得ることができますか? 長年の都市とチェルシーそして、アーセナル r だけを持っている",
+      "summary": "The WSL 季節は夜にキックオフし、ガーディアンの女性のサッカー作家 Suzanne Wrack 今、あなたの質問に答えています - から期待するものロンドン・シティ・ライオネス獲得が誰にでもこだわった後マンチェスター・シティ戻りに戻ることができます。質問:ログインまたはサインアップ Weekender73 求める相手: 娘のお気に入りプレーヤー:Ellie Carpenter. Mine: Mary Fowler. Who 正しいですか? スーザンヌ:Both. Who 自分の好きなプレイヤーが誰であるかと言うのは? それは個人であり、鉱山はプロです",
       "title_original": "Women’s Super League Q&A: football writer Suzanne Wrack answers your questions now",
-      "summary_original": "The WSL season kicks off tonight and the Guardian’s women’s football writer Suzanne Wrack is here now answering your questions – from what to expect from London City Lionesses after their signing spree to whether Manchester City can go back to back. Ask a question: log in or sign up here . Challengingviews asks: Would the real test of competitiveness this season be if the clubs from fourth to ninth can get results against the top three? For too many years City and Chelsea and Arsenal have only r",
+      "summary_original": "The WSL season kicks off tonight and the Guardian’s women’s football writer Suzanne Wrack is here now answering your questions – from what to expect from London City Lionesses after their signing spree to whether Manchester City can go back to back. Ask a question: log in or sign up here . Weekender73 asks: Daughter’s favourite player: Ellie Carpenter. Mine: Mary Fowler. Who is right? Suzanne: Both. Who am I to say who an individual’s favourite player should be? It’s personal, and mine would pro",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/sport/live/2026/sep/04/wsl-womens-football-expert-suzanne-wrack-reader-questions",
-      "published": "Fri, 04 Sep 2026 13:08:33 GMT",
+      "published": "Fri, 04 Sep 2026 13:22:26 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2230,6 +2235,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "矢印は、MND 診断後、感情的な farewell 100th Rabbitohs の開始を取得します",
+      "summary": "Jai Arrow 感情的な 100 番目の NRL 外観のためのサウス・シドニー・ラビトーズスポーツから彼のファーウェルをマークするために、彼の次の筋萎縮性側索硬化症診断。",
+      "title_original": "Arrow gets emotional farewell 100th Rabbitohs start after MND diagnoss",
+      "summary_original": "Jai Arrow made an emotional 100th NRL appearance for the South Sydney Rabbitohs to mark his farewell from the sport, following his Motor Neurone Disease diagnosis.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13581304/jai-arrow-gets-emotional-farewell-100th-nrl-appearance-for-south-sydney-rabbitohs-after-motor-neurone-disease-diagnosis",
+      "published": "Fri, 04 Sep 2026 13:41:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "チェルシー最新: Alonso 'happy' と スカッド にもかかわらずカマラ移籍崩壊",
       "summary": "",
       "title_original": "Chelsea latest: Alonso 'happy' with squad despite Camara deal collapse",
@@ -2489,20 +2508,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13581160/jonny-wilkinson-pulls-off-incredible-trick-shot",
       "published": "Fri, 04 Sep 2026 08:57:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ガフが大きなテストを克服した後、Zverev は2.15am 仕上げで怖い生き残ります",
-      "summary": "Coco Gauff スタントテストを対決 Spain's Paula 最終的に 6-4 7-6 (7-5) の勝利を確保する前に Badosa。",
-      "title_original": "Zverev survives scare in 2.15am finish after Gauff overcomes big test",
-      "summary_original": "Coco Gauff was given a stern test against Spain's Paula ‌Badosa before ultimately securing a 6-4 7-6 (7-5) victory.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13581088/us-open-coco-gauff-overcomes-paula-badosa-as-learner-tien-brings-curtain-down-on-gael-monfils-grand-slam-career",
-      "published": "Fri, 04 Sep 2026 07:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
