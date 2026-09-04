@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T20:06:05.807425+00:00",
+  "updated_at": "2026-09-04T20:25:02.755725+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1449,7 +1449,9 @@
     "Matteo Guendouzi": "マテオ・ゲンドゥージ",
     "London City's": "",
     "Thriston Lawrence": "",
-    "Seve Ballesteros": "セベ・バレステロス"
+    "Seve Ballesteros": "セベ・バレステロス",
+    "PDC's European Tour": "",
+    "Star-studded London City": ""
   },
   "items": [
     {
@@ -1879,7 +1881,7 @@
       "summary_original": "Premier League updates from the 8pm BST kick-off Live scoreboard | Read Football Daily | Email Scott The teams are out! Ipswich in blue, Liverpool in red. A wonderful start-of-the-weekend, possibly-a-few-pints-to-the-good atmosphere under the lights at Portman Road! Not long now. In the meantime, here’s Dave Estherby with some pre-match words of encouragement for Liverpool : “Not really sure what’s going on upstairs at Anfield. Another summer where they’ve spaffed money up the wall for unproven ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
-      "published": "Fri, 04 Sep 2026 19:47:30 GMT",
+      "published": "Fri, 04 Sep 2026 20:09:02 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2293,6 +2295,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Greaves は、勝利でより多くの歴史を作る Czech Darts Open",
+      "summary": "Beau Greaves 彼女は最初の女性になったので、よりダーティングな歴史を作り、試合に勝つ PDC's European Tour- 彼女の2 ラウンドの衝突を固定する偉人 Luke Humphries 獲得を問い合わせ Czech Darts Open.",
+      "title_original": "Greaves makes more history with win at Czech Darts Open",
+      "summary_original": "Beau Greaves made more darting history as she became the first woman to win a match on the PDC's European Tour - a feat that secured her a second-round clash with Luke Humphries at the Czech Darts Open.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/news/12040/13581507/beau-greaves-becomes-first-woman-to-win-a-match-on-pdc-european-tour-plays-luke-humphries-next-at-czech-darts-open",
+      "published": "Fri, 04 Sep 2026 20:55:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "インフルエンサーの使い方 US Open テニスのエチケットのテスト境界",
+      "summary": "テニスエチケットの周りの巨大な議論は、スパークリングされています全米オープンコンテンツ作成者やインフルエンサーの増加による混乱によるフラッシング・メドウズ・コロナ・パーク.",
+      "title_original": "How influencers at US Open are testing boundaries of tennis etiquette",
+      "summary_original": "A huge discussion around tennis etiquette has been sparked at the US Open due to the disruption caused by a growing number of content creators and influencers at Flushing Meadows.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13581380/us-open-how-influencers-have-sparked-debate-at-flushing-meadows-as-naomi-osaka-coco-gauff-and-jessica-pegula-have-their-say",
+      "published": "Fri, 04 Sep 2026 20:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ローレンスは、彼はバレエをエミュレートすることを目指し、スイスのハーフウェイステージでリード",
       "summary": "防衛王者 Thriston Lawrence 列に6 つの鳥類を巻き戻し、その後、バンカーから優れたパーセーブを行い、ハーフウェイステージでリードを固定します。Omega European Masters 彼が遅く、素晴らしいエミュレートするように見えるようにセベ・バレステロス.",
       "title_original": "Lawrence leads at halfway stage in Switzerland as he aims to emulate Ballesteros",
@@ -2307,31 +2337,45 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "London City 土地の入り口の夜は勝ちますマンチェスター・ユナイテッドライブ!",
+      "title": "London City 土地の開口夜勝利 - それが起こったように",
       "summary": "",
-      "title_original": "London City land opening night win over Man Utd LIVE!",
+      "title_original": "London City land opening night win - as it happened",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/live/575755",
-      "published": "Fri, 04 Sep 2026 18:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "NINE 分と NINE 分間の二重の点で点心イプスウィッチスカイでライブ!",
-      "summary": "",
-      "title_original": "Isak at the double inside NINE minutes vs Ipswich LIVE on Sky!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/ipswich-town-vs-liverpool/live/559470",
       "published": "Fri, 04 Sep 2026 18:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Star-studded London City クルーズで勝つマンチェスター・ユナイテッド",
+      "summary": "ロンドン・シティ・ライオネス星をかき立てた時代と新シーズンが始まり、心地良い2-1 勝負マンチェスター・ユナイテッド.",
+      "title_original": "Star-studded London City cruise to win over Man Utd",
+      "summary_original": "London City Lionesses started their star-studded era and the new season with a comfortable 2-1 win over Manchester United.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/report/575755",
+      "published": "Fri, 04 Sep 2026 21:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプールまだリードイプスウィッチスカイでイサクダブル LIVE!",
+      "summary": "",
+      "title_original": "Liverpool still lead at Ipswich through Isak double LIVE on Sky!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/ipswich-town-vs-liverpool/live/559470",
+      "published": "Fri, 04 Sep 2026 18:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2433,9 +2477,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "St Helens ハーフタイムでのリークに対する背後にあるハル KR 鉛ハダースフィールド",
+      "title": "St HelensLeigh に対する背後にあるハル KR 鉛ハダースフィールド",
       "summary": "",
-      "title_original": "St Helens behind against Leigh at half-time, as Hull KR lead Huddersfield",
+      "title_original": "St Helens behind against Leigh, Hull KR lead Huddersfield",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13580338/super-league-live-updates-videos-scores-commentary-analysis-as-leigh-leopards-host-st-helens-hull-kr-face-huddersfield-giants",
@@ -2524,48 +2568,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/news/12040/13581304/jai-arrow-gets-emotional-farewell-100th-nrl-appearance-for-south-sydney-rabbitohs-after-motor-neurone-disease-diagnosis",
       "published": "Fri, 04 Sep 2026 13:41:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシー最新: Alonso 'happy' と スカッド にもかかわらずカマラ移籍崩壊",
-      "summary": "",
-      "title_original": "Chelsea latest: Alonso 'happy' with squad despite Camara deal collapse",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Fri, 04 Sep 2026 14:12:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "O'Neill に満足しましたセルティックサイン | マクインンズレンジャーズスクワット 彼 craved",
-      "summary": "マーティン・オニール自分を幸せに宣言セルティックの 移籍事業中 Derek McInnes 主張する彼は今、彼が望むドレッシングルームの種類を持っていますレンジャーズ.",
-      "title_original": "O'Neill satisfied with Celtic signings | McInnes has Rangers squad he craved",
-      "summary_original": "Martin O'Neill declared himself happy with Celtic's transfer business while Derek McInnes insists he now has the type of dressing room he desires at Rangers.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13581374/old-firm-celtic-manager-martin-oneill-satisfied-with-signings-derek-mcinnes-believes-he-has-rangers-squad-he-craved",
-      "published": "Fri, 04 Sep 2026 16:00:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "より多くのスコットランドの若者を再生するためのインセンティブを提供するクラブ",
-      "summary": "ザ・オブ・ザ・スコットランドサッカー協会より多くの若い家庭栽培のサッカー選手を再生するためにクラブのための金融インセンティブを提案しています。",
-      "title_original": "Clubs to be offered incentives to play more Scottish youngsters",
-      "summary_original": "The Scottish FA is proposing financial incentives for clubs to play more young home-grown footballers.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13581358/scottish-fa-summit-spfl-clubs-to-be-offered-incentives-to-play-more-home-grown-youth-players",
-      "published": "Fri, 04 Sep 2026 14:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
