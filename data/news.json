@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T19:20:56.514990+00:00",
+  "updated_at": "2026-09-04T19:34:43.805682+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1445,7 +1445,8 @@
     "Dave Estherby": "",
     "Anfield. Another": "",
     "The Gunners": "",
-    "Ipswich LIVE": ""
+    "Ipswich LIVE": "",
+    "Matteo Guendouzi": "マテオ・ゲンドゥージ"
   },
   "items": [
     {
@@ -1501,6 +1502,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Guendouzi と greenwood 禁止 後に brawl",
+      "summary": "フェネルバフチェミッドフィルダーマテオ・ゲンドゥージ4 マッチのヨーロッパの禁止を取得し、その後の喧嘩後 5 万ユーロ罰金チャンピオンズリーグプレーオフの勝利でリヨン.",
+      "title_original": "Guendouzi and Greenwood banned after brawl",
+      "summary_original": "Fenerbahce midfielder Matteo Guendouzi gets a four-match European ban and is fined 50,000 euros after a brawl following the Champions League play-off win at Lyon.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly7874vxzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 19:24:48 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1589,34 +1604,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Rashford でプレーするから、同僚や新しいキャリアまで",
-      "summary": "結束してから10 年マーカス・ラッシュフォード獲得を問い合わせマンチェスター・ユナイテッド, Joe RileyBBC について 彼の新しいキャリアについてのスポーツ - そして、彼はフルタイムサッカーを見逃さない理由.",
-      "title_original": "From playing with Rashford to non-league and new career",
-      "summary_original": "Ten years after lining up with Marcus Rashford for Manchester United, Joe Riley tells BBC Sport about his new career - and why he does not miss full-time football.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjdvkn8y5gvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 06:59:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "誰がベストなのかマンチェスター・シティ購入する選手? FPL ゲームウィーク3 ジレンマ",
-      "summary": "BBC Sport FPL エキスパート Gianni ButticeFantasy に直面している最大のジレンマのいくつかを見てみましょうプレミアリーグマネージャーがゲームウィーク3 に向かいます。",
-      "title_original": "Who are best Man City players to buy? FPL gameweek three dilemmas",
-      "summary_original": "BBC Sport FPL expert Gianni Buttice looks at some of the biggest dilemmas facing Fantasy Premier League managers heading into gameweek three.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp301d314xyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 06:15:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "アーセナルフェイスバルセロナ & リヨン女性のチャンピオンズリーグ",
       "summary": "アーセナルフェイスホルダーバルセロナ受賞者の記録リヨン女性のチャンピオンズリーグ, しばらくチェルシー旅行するリヨンそして、マンチェスター・シティ獲得を問い合わせバイエルン・ミュンヘン.",
       "title_original": "Arsenal to face Barca & Lyon in Women's Champions League",
@@ -1627,6 +1614,20 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Rashford でプレーするから、同僚や新しいキャリアまで",
+      "summary": "結束してから10 年マーカス・ラッシュフォード獲得を問い合わせマンチェスター・ユナイテッド, Joe RileyBBC について 彼の新しいキャリアについてのスポーツ - そして、彼はフルタイムサッカーを見逃さない理由.",
+      "title_original": "From playing with Rashford to non-league and new career",
+      "summary_original": "Ten years after lining up with Marcus Rashford for Manchester United, Joe Riley tells BBC Sport about his new career - and why he does not miss full-time football.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjdvkn8y5gvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 06:59:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1875,7 +1876,7 @@
       "summary_original": "Premier League updates from the 8pm BST kick-off Live scoreboard | Read Football Daily | Email Scott The teams are out! Ipswich in blue, Liverpool in red. A wonderful start-of-the-weekend, possibly-a-few-pints-to-the-good atmosphere under the lights at Portman Road! Not long now. In the meantime, here’s Dave Estherby with some pre-match words of encouragement for Liverpool : “Not really sure what’s going on upstairs at Anfield. Another summer where they’ve spaffed money up the wall for unproven ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
-      "published": "Fri, 04 Sep 2026 19:10:14 GMT",
+      "published": "Fri, 04 Sep 2026 19:19:38 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2289,9 +2290,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "London City ドミネーションマンチェスター・ユナイテッド WSL オープナーLIVE!",
+      "title": "London City 狭いリードオーバーへの保持マンチェスター・ユナイテッドライブ!",
       "summary": "",
-      "title_original": "London City dominating Man Utd in WSL opener LIVE!",
+      "title_original": "London City holding onto narrow lead over Man Utd LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/live/575755",
@@ -2415,9 +2416,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Super League LIVE! Leigh Leopards 対比 St Helens, KR 対 ハダースフィールド クランチ ラウンド",
+      "title": "St Helensconcede 早い試み vs leigh, としてハル KR はリード対ジャイアントをとります",
       "summary": "",
-      "title_original": "Super League LIVE! Leigh Leopards vs St Helens, KR vs Huddersfield in crunch round",
+      "title_original": "St Helens concede early try vs Leigh, as Hull KR take lead vs Giants",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13580338/super-league-live-updates-videos-scores-commentary-analysis-as-leigh-leopards-host-st-helens-hull-kr-face-huddersfield-giants",
