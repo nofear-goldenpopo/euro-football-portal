@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T06:45:34.308975+00:00",
+  "updated_at": "2026-09-04T06:57:50.766676+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1348,13 +1348,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナル'マルティネッリは、6000万ポンド の移動で Al-Hilal に参加",
-      "summary": "アーセナルウィンガーGabriel Martinelli 獲得を問い合わせ Saudi Pro League 側面 6000万ポンド のための Al-Hilal。",
-      "title_original": "Arsenal's Martinelli joins Al-Hilal in £60m move",
-      "summary_original": "Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal for £60m.",
+      "title": "トッテナム omit Richarlison からプレミアリーグスチーム",
+      "summary": "Richarlison が残っているトッテナム獲得を問い合わせプレミアリーグ今シーズンはクラブの計画では見つかりません。",
+      "title_original": "Spurs omit Richarlison from Premier League squad",
+      "summary_original": "Richarlison is left out of Tottenham's Premier League squad as he does not figure in the club's plans this season.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 16:30:43 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 17:46:55 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1373,6 +1373,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アーセナル'マルティネッリは、6000万ポンド の移動で Al-Hilal に参加",
+      "summary": "アーセナルウィンガーGabriel Martinelli 獲得を問い合わせ Saudi Pro League 側面 6000万ポンド のための Al-Hilal。",
+      "title_original": "Arsenal's Martinelli joins Al-Hilal in £60m move",
+      "summary_original": "Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal for £60m.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 16:30:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1397,20 +1411,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c62jgzxkjypo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 03 Sep 2026 20:54:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トッテナム omit Richarlison からプレミアリーグスチーム",
-      "summary": "Richarlison が残っているトッテナム獲得を問い合わせプレミアリーグ今シーズンはクラブの計画では見つかりません。",
-      "title_original": "Spurs omit Richarlison from Premier League squad",
-      "summary_original": "Richarlison is left out of Tottenham's Premier League squad as he does not figure in the club's plans this season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 17:46:55 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
