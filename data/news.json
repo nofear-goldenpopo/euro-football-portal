@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T00:53:29.409184+00:00",
+  "updated_at": "2026-09-04T01:05:40.791700+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1299,7 +1299,8 @@
     "Vanessa Gold’s": "",
     "Arsenal Florian Wirtz": "",
     "Rita Guarino": "",
-    "Michele Kang. The": ""
+    "Michele Kang. The": "",
+    "Nick Kyrgios": "ニック・キリオス"
   },
   "items": [
     {
@@ -2143,6 +2144,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Kyrgios は肯定的なカインのテストの後で1 か月の懸濁液を受け入れます",
+      "summary": "ニック・キリオスカインのために肯定的なテストの後で反ドーピング規則の下の減らされた、1 か月の懸濁液に受け入れられ、与えました ATP ツアーマヨルカのイベント",
+      "title_original": "Kyrgios accepts one-month suspension after positive cocaine test",
+      "summary_original": "Nick Kyrgios has accepted ‌and served a reduced, one-month suspension under anti-doping rules after testing positive ‌for cocaine at an ATP Tour event in ​Mallorca.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13581087/nick-kyrgios-former-wimbledon-finalist-accepts-one-month-suspension-from-international-tennis-integrity-association-for-testing-positive-for-cocaine",
+      "published": "Fri, 04 Sep 2026 02:03:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Carlos Alcaraz「不可能」テニスのスケジュールでより多くの休憩を計画",
       "summary": "Carlos Alcaraz ヘリコプターのテニスカレンダーでスワイプし、彼は今からトーナメントをスキップすると述べています。",
       "title_original": "Carlos Alcaraz planning more breaks in 'impossible' tennis schedule",
@@ -2406,20 +2421,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハミルトンは、イタリアで勝つために最初の黒フェラーリドライバーになるという希望を明らかに",
-      "summary": "Lewis Hamilton 彼は潜在的に最初の黒になったことのの大きさを検討していると言います Ferrari Formula この週末の先にあるチームでホームレースを獲得するドライバー1 名イタリアグランプリ.",
-      "title_original": "Hamilton reveals hope of becoming first black Ferrari driver to win in Italy",
-      "summary_original": "Lewis Hamilton says he has been considering the magnitude of potentially becoming the first black Ferrari Formula 1 driver to win a home race for the team, ahead of this weekend's Italian Grand Prix.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13580792/lewis-hamilton-shares-thoughts-about-possibility-of-becoming-first-black-ferrari-driver-to-win-in-italy-ahead-of-italian-gp",
-      "published": "Thu, 03 Sep 2026 15:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
