@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T20:49:27.338812+00:00",
+  "updated_at": "2026-09-04T21:09:54.865499+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1451,9 +1451,24 @@
     "Thriston Lawrence": "",
     "Seve Ballesteros": "セベ・バレステロス",
     "PDC's European Tour": "",
-    "Star-studded London City": ""
+    "Star-studded London City": "",
+    "Millwall Lionesses": "ミルウォール・ライオネセスLFC"
   },
   "items": [
+    {
+      "title": "サイクは最後で輝きますが、シュルペンは苦しむ -イプスウィッチツイートリヴァプール 選手採点",
+      "summary": "使い方リヴァプールそして、イプスウィッチ・タウン FC's のプレイヤーは、プレミアリーグマッチ。",
+      "title_original": "Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings",
+      "summary_original": "How Liverpool and Ipswich Town's players rated following their Premier League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 20:54:30 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "73 の目標は深部を落とす - 彼がどのようにしたかを破るためにカネに尋ねる",
       "summary": "ハリー・ケイン最後のシーズンはヨーロッパで最高の目標だったが、彼はミッドフィルダーのようにプレー。ゲームを倒すようお願いしております。",
@@ -1581,16 +1596,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "期限日以降、モイズは失望しています",
-      "summary": "エヴァートンマネージャーDavid Moyes 締め切り日により多くの事業をしたいと認めた後、彼は「失望に生きるために」受け入れます。",
-      "title_original": "Moyes lives with disappointment after deadline day",
-      "summary_original": "Everton manager David Moyes accepts he has \"to live with disappointments\" after admitting he wanted to do more business on transfer deadline day.",
+      "title": "アーセナルフェイスバルセロナ & リヨン女性のチャンピオンズリーグ",
+      "summary": "アーセナルフェイスホルダーバルセロナ受賞者の記録リヨン女性のチャンピオンズリーグ, しばらくチェルシー旅行するリヨンそして、マンチェスター・シティ獲得を問い合わせバイエルン・ミュンヘン.",
+      "title_original": "Arsenal to face Barca & Lyon in Women's Champions League",
+      "summary_original": "Arsenal will face holders Barcelona and record winners Lyon in the Women's Champions League, while Chelsea will travel to Lyon and Man City will take on Bayern Munich.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3v49617lzko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 14:03:39 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c05rnv2rq85o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 11:29:33 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1623,20 +1638,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナルフェイスバルセロナ & リヨン女性のチャンピオンズリーグ",
-      "summary": "アーセナルフェイスホルダーバルセロナ受賞者の記録リヨン女性のチャンピオンズリーグ, しばらくチェルシー旅行するリヨンそして、マンチェスター・シティ獲得を問い合わせバイエルン・ミュンヘン.",
-      "title_original": "Arsenal to face Barca & Lyon in Women's Champions League",
-      "summary_original": "Arsenal will face holders Barcelona and record winners Lyon in the Women's Champions League, while Chelsea will travel to Lyon and Man City will take on Bayern Munich.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c05rnv2rq85o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:29:33 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Rashford でプレーするから、同僚や新しいキャリアまで",
       "summary": "結束してから10 年マーカス・ラッシュフォード獲得を問い合わせマンチェスター・ユナイテッド, Joe RileyBBC について 彼の新しいキャリアについてのスポーツ - そして、彼はフルタイムサッカーを見逃さない理由.",
       "title_original": "From playing with Rashford to non-league and new career",
@@ -1647,6 +1648,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "期限日以降、モイズは失望しています",
+      "summary": "エヴァートンマネージャーDavid Moyes 締め切り日により多くの事業をしたいと認めた後、彼は「失望に生きるために」受け入れます。",
+      "title_original": "Moyes lives with disappointment after deadline day",
+      "summary_original": "Everton manager David Moyes accepts he has \"to live with disappointments\" after admitting he wanted to do more business on transfer deadline day.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3v49617lzko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 14:03:39 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1693,20 +1708,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "エヴァートン、free agent Vardy - Friday's gossip を獲得候補に",
-      "summary": "エヴァートン移動量を量る Jamie Vardy または Anthony Martial, ウィルフレッド・ザハ参加可能 AC ミラン, Estevao Willian からの移動を考慮するチェルシー.",
-      "title_original": "Everton eye free agent Vardy - Friday's gossip",
-      "summary_original": "Everton weigh up moves for Jamie Vardy or Anthony Martial, Wilfried Zaha could join AC Milan, Estevao Willian considers move from Chelsea.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62jgzxkjypo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 20:54:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Atletico's Alvarez'learning experience' の後に戻ります - Simeone",
       "summary": "フリアン・アルバレスに戻るアトレティコ・マドリードの チームラ・リーガゲームアスレティック・ビルバオ彼がクラブを離れようとしなかったにもかかわらず、マネージャーは言うディエゴ・シメオネ.",
       "title_original": "Atletico's Alvarez will return after 'learning experience' - Simeone",
@@ -1717,20 +1718,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マザーウェルのブループリントは、セカンド・シーズン症候群を防衛する",
-      "summary": "新しい顔、同じアイデンティティ。マザーウェルのアプローチは、2025-26 のハイスを上回るキャンペーンを夢見ているファンを持っています。",
-      "title_original": "Motherwell's blueprint is defying second-season syndrome",
-      "summary_original": "New faces, same identity. Motherwell's approach has fans dreaming of a campaign that surpasses the highs of 2025-26.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq8j0vg4y7po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 08:19:17 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1881,7 +1868,7 @@
       "summary_original": "Premier League updates from the 8pm BST kick-off Live scoreboard | Read Football Daily | Email Scott The teams are out! Ipswich in blue, Liverpool in red. A wonderful start-of-the-weekend, possibly-a-few-pints-to-the-good atmosphere under the lights at Portman Road! Not long now. In the meantime, here’s Dave Estherby with some pre-match words of encouragement for Liverpool : “Not really sure what’s going on upstairs at Anfield. Another summer where they’ve spaffed money up the wall for unproven ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
-      "published": "Fri, 04 Sep 2026 20:29:36 GMT",
+      "published": "Fri, 04 Sep 2026 20:58:14 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1917,20 +1904,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL トランスファーポイント:データから学んだ3 つのこと",
-      "summary": "アーセナルリーグの残りの部分が、安定性に重点を置いたクラブの支出として最も投資しました The Women’s Super League’s サマー移籍市場2026-27 シーズンのスタート前に閉幕しました。関与する資金は、34億ポンド と比較してマイクロスコピックですプレミアリーグ新しいプレーヤーで過ごしたクラブは、データが3 つのポイントを提供しますインテル est: そのクラブは、安定性に銀行をしているスクワッドに最大の改善をした、とホ",
-      "title_original": "WSL transfer talking points: three things we learned from the data",
-      "summary_original": "Arsenal invested the most as the leading clubs’ spending dwarfed that of the rest of the league but there was a greater emphasis on stability The Women’s Super League’s summer transfer window has closed before the start of the 2026-27 season. The finances involved are microscopic compared with the £3.4bn that Premier League clubs spent on new players but the data provides three key points of interest: which club has made the biggest improvement to their squad, who is banking on stability, and ho",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/less-money-better-planning-what-we-learned-from-the-wsl-transfer-window",
-      "published": "Fri, 04 Sep 2026 14:02:03 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "プレミアリーグニュース:Carrick はすぐに修正を警告しません、Emery は「堅く」Harwood-Bellis のチャットを持っています",
       "summary": "マルエスカは「ウィンター」フェルナンデスを脱いでいますが、彼はキャプテンを作らないでしょう。De Zerbi 守る Richarlison 治療 続きを読みます...",
       "title_original": "Premier League news: Carrick warns no quick fix, Emery has ‘hard’ Harwood-Bellis chat",
@@ -1945,16 +1918,30 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・シティ Miedema カバーのためのスクランブルでスペインのペアを上陸させる失敗",
-      "summary": "Atlético は、Fiamma Benítez のための£500,000 以上の入札を拒否しましたアーセナル難易度が高いチャンピオンズリーグログインアトレティコ・マドリードから£500,000 以上の入札を拒否マンチェスター・シティスペインのミッドフィルダーのため Fiamma Benítez 獲得を問い合わせ Women’s Super League’s 期限日を移すと、ガーディアンは明らかにすることができます。The WSL チャンピオンは、英語の夏のウィンドウが11pm BST で木曜日に閉鎖する前に攻撃中フィールド強化を追加することを試みたことを理解しています。",
-      "title_original": "Manchester City failed to land Spain pair in scramble for Miedema cover",
-      "summary_original": "Atlético rejected £500,000-plus bid for Fiamma Benítez Arsenal handed difficult Champions League draw Atlético Madrid rejected a bid of more than £500,000 from Manchester City for the Spain midfielder Fiamma Benítez on the Women’s Super League’s transfer deadline day, the Guardian can reveal. The WSL champions are understood to have tried hard to add attacking-midfielder reinforcements before the English summer window closed on Thursday at 11pm BST, largely in light of news that their No 10 Vivi",
+      "title": "アレクシア・プテジャス WSL の乗車をとして始めて下さい London City アウトクラスマンチェスター・ユナイテッド",
+      "summary": "以来、いくつかのシナリオがありますミルウォール・ライオネセス LFC ミルウォールから離れ、ロンドン・シティ・ライオネスそれはより多くの surreal をの考えより感じましたアレクシア・プテジャスステートメントの勝利に側面をキャプテンに Women’s Super League7 年後、ブロムリーのシーズンオープナー。獲得を問い合わせ 参照先は、元に使用する必要がありますバルセロナ彼女のカスタムであるように、トースの後、コインを拾うキャプテンスループピング。プレーヤーは、それらを焦点を合わせるためにそれらを過去に見ている目やカメラに慣れなければなりません",
+      "title_original": "Alexia Putellas begins WSL ride as London City outclass Manchester United",
+      "summary_original": "There are few scenarios since Millwall Lionesses broke away from Millwall and became London City Lionesses that would have felt more surreal than the idea of Alexia Putellas captaining the side to a statement win in a Women’s Super League season opener in Bromley just seven years later. Here we are though. Referees have to get used to the former Barcelona captain stooping to pick up the coin after the toss, as is her custom. Players must get used to eyes and cameras looking past them to focus on",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/manchester-city-fiamma-benitez-ornella-vignola-bid-miedema-womens-champions-league-draw",
-      "published": "Fri, 04 Sep 2026 09:09:51 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
+      "url": "https://www.theguardian.com/football/2026/sep/04/london-city-lionesses-manchester-united-wsl-match-report",
+      "published": "Fri, 04 Sep 2026 20:51:57 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "WSL トランスファーポイント:データから学んだ3 つのこと",
+      "summary": "アーセナルリーグの残りの部分が、安定性に重点を置いたクラブの支出として最も投資しました The Women’s Super League’s サマー移籍市場2026-27 シーズンのスタート前に閉幕しました。関与する資金は、34億ポンド と比較してマイクロスコピックですプレミアリーグ新しいプレーヤーで過ごしたクラブは、データが3 つのポイントを提供しますインテル est: そのクラブは、安定性に銀行をしているスクワッドに最大の改善をした、とホ",
+      "title_original": "WSL transfer talking points: three things we learned from the data",
+      "summary_original": "Arsenal invested the most as the leading clubs’ spending dwarfed that of the rest of the league but there was a greater emphasis on stability The Women’s Super League’s summer transfer window has closed before the start of the 2026-27 season. The finances involved are microscopic compared with the £3.4bn that Premier League clubs spent on new players but the data provides three key points of interest: which club has made the biggest improvement to their squad, who is banking on stability, and ho",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/04/less-money-better-planning-what-we-learned-from-the-wsl-transfer-window",
+      "published": "Fri, 04 Sep 2026 14:02:03 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2351,9 +2338,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バルコラ獲得を問い合わせリヴァプールリードとしてデビューイプスウィッチスカイでライブ!",
+      "title": "バルコラメイクリヴァプール優勝でデビューイプスウィッチスカイでライブ!",
       "summary": "",
-      "title_original": "Barcola on for Liverpool debut as they lead Ipswich LIVE on Sky!",
+      "title_original": "Barcola makes Liverpool debut in win at Ipswich LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/ipswich-town-vs-liverpool/live/559470",
@@ -2421,13 +2408,41 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "最悪の仕上げのしわに聖人 Super League 歴史、KR とリーグの勝利",
+      "title": "イラオラアップとランニングリヴァプールイザックネットはダブルイプスウィッチ",
+      "summary": "Andoni Iraola 最初の勝利をそのまま登録リヴァプールヘッドコーチとしてアレクサンデル・イサク9 分以内に2 回獲得イプスウィッチ 2-0.",
+      "title_original": "Iraola up and running at Liverpool as Isak nets double at Ipswich",
+      "summary_original": "Andoni Iraola registered his first win as Liverpool head coach as Alexander Isak scored twice inside nine minutes to beat Ipswich 2-0.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/ipswich-town-vs-liverpool/report/559470",
+      "published": "Fri, 04 Sep 2026 21:49:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "最悪の仕上げのしわに聖人 Super League 歴史、KR と Leigh の双方の勝利",
       "summary": "",
-      "title_original": "Saints on brink of worst finish in Super League history, KR and Leigh winning",
+      "title_original": "Saints on brink of worst finish in Super League history, KR and Leigh both win",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13580338/super-league-live-updates-videos-scores-commentary-analysis-as-leigh-leopards-host-st-helens-hull-kr-face-huddersfield-giants",
       "published": "Fri, 04 Sep 2026 19:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Saints miss アウト 上の play-offs のために 最初の 時間 として Leigh,ハル KR シールトップスイックススポット",
+      "summary": "Leigh Leopards ビート St Helens48-10 見るために 聖人 逃 アウト 上の ザ·Super League 歴史の中で初めてプレーオフ。",
+      "title_original": "Saints miss out on play-offs for first time as Leigh, Hull KR seal top-six spots",
+      "summary_original": "Leigh Leopards beat St Helens 48-10 to see the Saints miss out on the Super League play-offs for the first time in their history.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13580351/super-league-st-helens-miss-out-on-play-offs-for-first-time-after-loss-to-leigh-leopards-hull-kr-beat-huddersfield-giants-to-seal-top-six-spot",
+      "published": "Wed, 02 Sep 2026 09:57:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2505,9 +2520,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! ウィリアムズの妹がダブルスを演じるアクションでアルカラス",
+      "title": "US Open LIVE! アルカラス、サバレンカは、ウィリアムズの妹がダブルスを演じて勝つ",
       "summary": "最新のスコア、アップデート、ニュース、結果を入手全米オープン; からアクションを見る New York- スカイスポーツの専用テニスコートにライブ",
-      "title_original": "US Open LIVE! Alcaraz in action ahead of Williams sisters playing doubles",
+      "title_original": "US Open LIVE! Alcaraz, Sabalenka win ahead of Williams sisters playing doubles",
       "summary_original": "Get the latest scores, updates, news, results at the US Open; watch the action from New York - live on Sky Sports' dedicated tennis channel",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13581049/us-open-live-scores-updates-news-commentary-results-from-new-york-with-carlos-alcaraz-aryna-sabalenka-ben-shelton-serena-and-venus-williams-in-action",
@@ -2544,34 +2559,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "矢印は、MND 診断後の100th ウサギの外観上の感情的な運賃を受け取ります",
-      "summary": "Jai Arrow 感情的な 100 番目の NRL 外観のためのサウス・シドニー・ラビトーズスポーツから彼のファーウェルをマークするために、彼の次の筋萎縮性側索硬化症診断。",
-      "title_original": "Arrow gets emotional farewell on 100th Rabbitohs appearance after MND diagnosis",
-      "summary_original": "Jai Arrow made an emotional 100th NRL appearance for the South Sydney Rabbitohs to mark his farewell from the sport, following his Motor Neurone Disease diagnosis.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13581304/jai-arrow-gets-emotional-farewell-100th-nrl-appearance-for-south-sydney-rabbitohs-after-motor-neurone-disease-diagnosis",
-      "published": "Fri, 04 Sep 2026 13:41:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシー最新: Alonso 'happy' と スカッド にもかかわらずカマラ移籍崩壊",
-      "summary": "",
-      "title_original": "Chelsea latest: Alonso 'happy' with squad despite Camara deal collapse",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Fri, 04 Sep 2026 14:12:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
