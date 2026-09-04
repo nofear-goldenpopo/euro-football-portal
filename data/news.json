@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T04:25:26.790465+00:00",
+  "updated_at": "2026-09-04T04:38:38.573244+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1300,7 +1300,9 @@
     "Arsenal Florian Wirtz": "",
     "Rita Guarino": "",
     "Michele Kang. The": "",
-    "Nick Kyrgios": "ニック・キリオス"
+    "Nick Kyrgios": "ニック・キリオス",
+    "Monfils' Grand Slam": "",
+    "Spain's Paula": ""
   },
   "items": [
     {
@@ -2144,6 +2146,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Monfils の大きいテストを克服する Gauff グランドスラムキャリアは終わりに来ます",
+      "summary": "Coco Gauff スタントテストを対決する Spain's Paula 最終的に 6-4 7-6 (7-5) の勝利を確保する前に Badosa。",
+      "title_original": "Gauff overcomes big test while Monfils' Grand Slam career comes to end",
+      "summary_original": "Coco Gauff was given a stern test against Spain's Paula ‌Badosa before ultimately securing a 6-4 7-6 (7-5) victory.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13581088/us-open-coco-gauff-overcomes-paula-badosa-as-learner-tien-brings-curtain-down-on-gael-monfils-grand-slam-career",
+      "published": "Fri, 04 Sep 2026 05:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Kyrgios は肯定的なカインのテストの後で1 か月の懸濁液を受け入れます",
       "summary": "ニック・キリオスカインのために肯定的なテストの後で反ドーピング規則の下の減らされた、1 か月の懸濁液に受け入れられ、与えました ATP ツアーマヨルカのイベント",
       "title_original": "Kyrgios accepts one-month suspension after positive cocaine test",
@@ -2406,20 +2422,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Martinelli が参加 Al Hilal 獲得を問い合わせアーセナルクラブレコード販売",
-      "summary": "Gabriel Martinelli 獲得を問い合わせ Al Hilal クラブレコードで6000万ポンド 販売アーセナル.",
-      "title_original": "Martinelli joins Al Hilal in Arsenal club-record sale",
-      "summary_original": "Gabriel Martinelli has joined Al Hilal in a club-record £60m sale for Arsenal.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579276/gabriel-martinelli-transfer-news-forward-joins-al-hilal-in-a-club-record-sale-for-arsenal-in-60m-deal",
-      "published": "Thu, 03 Sep 2026 17:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     }
