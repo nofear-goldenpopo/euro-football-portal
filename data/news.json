@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T22:06:08.505309+00:00",
+  "updated_at": "2026-09-04T22:23:22.991038+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1465,7 +1465,13 @@
     "Try AND": "",
     "Josh Charnley": "",
     "Jon Wilkin": "",
-    "Jamie Jones-Buchanan": ""
+    "Jamie Jones-Buchanan": "",
+    "Troy Parrott": "トロイ・パロット",
+    "Valles PSG": "",
+    "Monaco Real Madrid’s": "",
+    "Alvaro Valles": "",
+    "Kylian Mbappé. The": "",
+    "Seville. Parrott": ""
   },
   "items": [
     {
@@ -1480,6 +1486,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "How London Cityhype に生きることができることを証明しました",
+      "summary": "期待があったロンドン・シティ・ライオネスハイプに生き、届ける Women's Super League's 季節のオープナー - 彼らはやった。",
+      "title_original": "How London City proved they can live up to the hype",
+      "summary_original": "There was an expectation on London City Lionesses to live up to the hype and deliver in the Women's Super League's season opener - and they did.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czxz1vnwgz6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 22:02:34 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1777,6 +1797,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "パロット火災レアル・ベティス勝つためにレアル・マドリード",
+      "summary": "トロイ・パロットゲームの唯一の目標とキリアン・エムバペケガタイムのペナルティをそのまま逃しますレアル・ベティスビートレアル・マドリード1-0 インチラ・リーガ.",
+      "title_original": "Parrott fires Real Betis to win over Real Madrid",
+      "summary_original": "Troy Parrott scores the only goal of the game and Kylian Mbappe misses an injury-time penalty as Real Betis beat Real Madrid 1-0 in La Liga.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9v9ewe7kygo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 22:07:56 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "夏のサインは、すでにインパクトを生む - サンガレ、ロジャーズ, エンシソ",
       "summary": "BBC について スポーツは、新しい飛行開始に降り得る夏の新加入選手を見ていきますプレミアリーグ今夏ママドゥ・サンガレ, モーガン・ロジャーズ, フリオ・エンシソ, ゴンサロ・ガルシアそして、ビクトル・ムニョス.",
       "title_original": "The summer signings already making an impact - Sangare, Rogers, Enciso",
@@ -1861,34 +1895,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「彼はそれで史上に - 白は「信じられない」フェルナンデスを賞賛",
-      "summary": "デイパンディットのマッチエレン・ホワイトラベルブルーノ・フェルナンデス\"信じられない\"、ミッドフィルダーの後にハットトリック獲得を問い合わせマンチェスター・ユナイテッド'5-2 コールバックの勝利に対するイプスウィッチ・タウン FC.",
-      "title_original": "'He's on it all the time' - White praises 'unbelievable' Fernandes",
-      "summary_original": "Match of the Day pundit Ellen White labels Bruno Fernandes \"unbelievable\", after the midfielder's hat-trick in Manchester United's 5-2 comeback win against Ipswich Town.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy4zmlrrpxxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 22:37:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "できますチェルシーバックで3 人でリーグを勝ち取る? 評決の決定",
-      "summary": "デイパンディットの試合・ギヴンアワードチェルシーの Flying wing-backs, バックイングシャビ・アロンソの の側面は勝ちますプレミアリーグタイトルには3 つのシステムを使用します。",
-      "title_original": "Can Chelsea win the league with three at the back? Given's verdict",
-      "summary_original": "Match of the Day pundit Shay Given praises Chelsea's flying wing-backs, backing Xabi Alonso's side to win the Premier League title using a three-at-the-back system.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyz17d1vy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 22:59:49 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Isak の急なダブルシンクイプスウィッチ与えるために Andoni Iraola はじめてリヴァプールログイン",
       "summary": "アンドーニ・イラオラの初勝利リヴァプール、最も最近の星の印の導入ブラッドリー・バルコラ金曜日の夜を成功させる。より良いまだ、継続的な兆候アレクサンデル・イサク昨年のモデルは、人生に戻ってきます。その2 つは、三つのポイントを守る初期の目標です。獲得を問い合わせイプスウィッチ' の擁護は水密より少しでした、リヴァプール’ の攻撃者は、速度と発明のフルで、彼らは非常に最後のシーズンの多くのために欠けていました. 続きを読む...",
       "title_original": "Isak’s rapid double sinks Ipswich to give Andoni Iraola first Liverpool win",
@@ -1899,48 +1905,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシーヒットブルズアイとモーガン・ロジャーズとしてアーセナル何が起こっているかを台無しにして下さい",
-      "summary": "The Gunners 以前のヴィラマンがそれらに対して行っているとき、彼らが勝ったことができるものを見てみましょう。シャビ・アロンソチームチェルシー獲得のチャンスがほとんどなかったと思ったモーガン・ロジャーズ夏の始まり。シャビ・アロンソそして、クラブの採用チームはイングランドを持っていたインテル優先目標として国民が、移籍は異様なようです。チェルシー第10 回を終えた後、ヨーロッパサッカーで逃れた時期を逃し、その期待は、",
-      "title_original": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been",
-      "summary_original": "The Gunners will have a look at what they could have won when the former Villa man lines up against them, having made a flying start for Xabi Alonso’s team Chelsea thought they had little chance of signing Morgan Rogers at the start of the summer. Xabi Alonso and the club’s recruitment team had the England international as a priority target but a deal seemed unlikely. Chelsea had endured a disappointing season, missing out on European football after finishing 10th, and their expectation was that",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/blog/2026/sep/04/chelsea-morgan-rogers-arsenal-xabi-alonso-mikel-arteta",
-      "published": "Fri, 04 Sep 2026 19:00:14 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "プレミアリーグニュース: Richarlison は新しい契約を拒否しました, Alonso はミッドフィールドでジェームズを支持します",
-      "summary": "トッテナムマネージャーRoberto De Zerbi 主張する 彼の 欲しい ブラジル人 ストライカー ‘ 決定されたすべて, 私ではなく’ 続きを読む...",
-      "title_original": "Premier League news: Richarlison refused new contract, Alonso backs James in midfield",
-      "summary_original": "Tottenham manager Roberto De Zerbi insists his wantaway Brazilian striker ‘decided everything, not me’ Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
-      "published": "Fri, 04 Sep 2026 21:30:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "モイズは彼が話したことがないことを明らかにしましたエヴァートン所有者が、移籍ブロー後に不満である",
-      "summary": "Friedkin Group 夏の販売モイズは、より弱いスクワッドで「何か特別なもの」を望む David Moyes に話されていないエヴァートン所有者および椅子,Dan Friedkin マネージャーとしてクラブに戻ってから20 ヶ月で。モイズは、金曜日から金曜日までの不当な応答を発行しましたエヴァートン’s のカルミタス エンド へ移籍市場今シーズンは、プレイヤーやファンが「何か特別なもの」を達成できるようなと主張しています。Moyes はクラブでアットニシング ディスコネクトを露出しました。",
-      "title_original": "Moyes reveals he has never spoken to Everton owner but is defiant after transfer blows",
-      "summary_original": "Friedkin Group under scrutiny after summer of sales Moyes hopes for ‘something special’ with weaker squad David Moyes has not spoken to the Everton owner and chair, Dan Friedkin, in the 20 months since he returned to the club as manager. Moyes also issued a defiant response on Friday to Everton’s calamitous end to the transfer window , claiming it could galvanise players and fans to achieve “something special” this season. Moyes exposed an astonishing disconnect at the club when confirming he ha",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/david-moyes-reveals-never-spoken-everton-owner-dan-friedkin-defiant-after-transfer-blows",
-      "published": "Fri, 04 Sep 2026 21:30:17 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1959,13 +1923,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL トランスファーポイント:データから学んだ3 つのこと",
-      "summary": "アーセナルリーグの残りの部分が、安定性に重点を置いたクラブの支出として最も投資しました The Women’s Super League’s サマー移籍市場2026-27 シーズンのスタート前に閉幕しました。関与する資金は、34億ポンド と比較してマイクロスコピックですプレミアリーグ新しいプレーヤーで過ごしたクラブは、データが3 つのポイントを提供しますインテル est: そのクラブは、安定性に銀行をしているスクワッドに最大の改善をした、とホ",
-      "title_original": "WSL transfer talking points: three things we learned from the data",
-      "summary_original": "Arsenal invested the most as the leading clubs’ spending dwarfed that of the rest of the league but there was a greater emphasis on stability The Women’s Super League’s summer transfer window has closed before the start of the 2026-27 season. The finances involved are microscopic compared with the £3.4bn that Premier League clubs spent on new players but the data provides three key points of interest: which club has made the biggest improvement to their squad, who is banking on stability, and ho",
+      "title": "ジョゼ・モウリーニョパーロットとして病気レアル・マドリード日光浴レアル・ベティスアイルランドのスーパーサブ",
+      "summary": "エムバペ Valles によって保存された遅延ペナルティを見るパリ・サンジェルマンリーグリーダーが打ち勝つモナコ レアル・マドリード’ s パーフェクト スタート へ ’ s パーフェクト スタート へ ’ s パーフェクト スタート へ ’ s パーフェクト スタート へ 's 's パーフェクト スタート へ 's 's 's パーフェクト スタート へ 's 's パーフェクト スタート へ 's 's パーフェクト スタート へ 's 's 's 's ラ・リーガ金曜日にシーズンが終了レアル・ベティス1-0 を打ちます。トロイ・パロット時間とゴールキーパーから9 分を刻む Alvaro Vallesstoppage-time を節約するキリアン・エムバペ。衝突は高いテンポで始まりましたが、ペースは後に低下しましたインテル熱中のバル Seville. Parrott, で導入 68 分, でデッドロックを破った 81 st wh",
+      "title_original": "José Mourinho sick as a Parrott as Real Madrid sunk by Real Betis and Irish supersub",
+      "summary_original": "Mbappé sees late penalty saved by Valles PSG are beaten by league leaders Monaco Real Madrid’s perfect start to the La Liga ⁠season ended on Friday when Real Betis beat them 1-0, with the ⁠substitute Troy Parrott ⁠scoring ​nine minutes from time and goalkeeper Alvaro Valles saving a stoppage-time ⁠penalty from Kylian Mbappé. The clash began at a high tempo but the pace ⁠dropped after the interval in the heat in ​Seville. Parrott, introduced ‌in the 68th ‌minute, broke the deadlock in the 81st wh",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/less-money-better-planning-what-we-learned-from-the-wsl-transfer-window",
-      "published": "Fri, 04 Sep 2026 14:02:03 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/04/jose-mourinho-sick-as-a-parrott-as-real-madrid-sunk-by-real-betis-and-irish-supersub",
+      "published": "Fri, 04 Sep 2026 22:11:10 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェルシーヒットブルズアイとモーガン・ロジャーズとしてアーセナル何が起こっているかを台無しにして下さい",
+      "summary": "The Gunners 以前のヴィラマンがそれらに対して行っているとき、彼らが勝ったことができるものを見てみましょう。シャビ・アロンソチームチェルシー獲得のチャンスがほとんどなかったと思ったモーガン・ロジャーズ夏の始まり。シャビ・アロンソそして、クラブの採用チームはイングランドを持っていたインテル優先目標として国民が、移籍は異様なようです。チェルシー第10 回を終えた後、ヨーロッパサッカーで逃れた時期を逃し、その期待は、",
+      "title_original": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been",
+      "summary_original": "The Gunners will have a look at what they could have won when the former Villa man lines up against them, having made a flying start for Xabi Alonso’s team Chelsea thought they had little chance of signing Morgan Rogers at the start of the summer. Xabi Alonso and the club’s recruitment team had the England international as a priority target but a deal seemed unlikely. Chelsea had endured a disappointing season, missing out on European football after finishing 10th, and their expectation was that",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/blog/2026/sep/04/chelsea-morgan-rogers-arsenal-xabi-alonso-mikel-arteta",
+      "published": "Fri, 04 Sep 2026 19:00:14 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1973,16 +1951,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグチームニュース:週末のアクションの予想されるラインナップ",
-      "summary": "Coventry 顔 a daunting 旅行 へマンチェスター・シティ前へチェルシー’s のタイトルの資格情報はテストされますアーセナル獲得を問い合わせ Sunday Saturday 午後12 時30 分 TNT Sports1 会場セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)続きを読む...",
-      "title_original": "Premier League team news: predicted lineups for the weekend action",
-      "summary_original": "Coventry face a daunting trip to Manchester City before Chelsea’s title credentials are tested at Arsenal on Sunday Saturday 12.30pm TNT Sports 1 Venue St James’ Park Continue reading...",
+      "title": "モイズは彼が話したことがないことを明らかにしましたエヴァートン所有者が、移籍ブロー後に不満である",
+      "summary": "Friedkin Group 夏の販売モイズは、より弱いスクワッドで「何か特別なもの」を望む David Moyes に話されていないエヴァートン所有者および椅子,Dan Friedkin マネージャーとしてクラブに戻ってから20 ヶ月で。モイズは、金曜日から金曜日までの不当な応答を発行しましたエヴァートン’s のカルミタス エンド へ移籍市場今シーズンは、プレイヤーやファンが「何か特別なもの」を達成できるようなと主張しています。Moyes はクラブでアットニシング ディスコネクトを露出しました。",
+      "title_original": "Moyes reveals he has never spoken to Everton owner but is defiant after transfer blows",
+      "summary_original": "Friedkin Group under scrutiny after summer of sales Moyes hopes for ‘something special’ with weaker squad David Moyes has not spoken to the Everton owner and chair, Dan Friedkin, in the 20 months since he returned to the club as manager. Moyes also issued a defiant response on Friday to Everton’s calamitous end to the transfer window , claiming it could galvanise players and fans to achieve “something special” this season. Moyes exposed an astonishing disconnect at the club when confirming he ha",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-      "published": "Fri, 04 Sep 2026 17:38:28 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/sep/04/david-moyes-reveals-never-spoken-everton-owner-dan-friedkin-defiant-after-transfer-blows",
+      "published": "Fri, 04 Sep 2026 21:30:17 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2015,17 +1993,31 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグ, イタリアグランプリ、WSL および US Open テニス – 私たちに従ってください",
-      "summary": "ここに私たちのカバレッジと一緒に従う方法があります - 最高級のライティングとアップ・トゥ・ザ・ミン・レポート 続きを読みます...",
-      "title_original": "Premier League, Italian GP, WSL and US Open tennis – follow with us",
-      "summary_original": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
+      "title": "WSL トランスファーポイント:データから学んだ3 つのこと",
+      "summary": "アーセナルリーグの残りの部分が、安定性に重点を置いたクラブの支出として最も投資しました The Women’s Super League’s サマー移籍市場2026-27 シーズンのスタート前に閉幕しました。関与する資金は、34億ポンド と比較してマイクロスコピックですプレミアリーグ新しいプレーヤーで過ごしたクラブは、データが3 つのポイントを提供しますインテル est: そのクラブは、安定性に銀行をしているスクワッドに最大の改善をした、とホ",
+      "title_original": "WSL transfer talking points: three things we learned from the data",
+      "summary_original": "Arsenal invested the most as the leading clubs’ spending dwarfed that of the rest of the league but there was a greater emphasis on stability The Women’s Super League’s summer transfer window has closed before the start of the 2026-27 season. The finances involved are microscopic compared with the £3.4bn that Premier League clubs spent on new players but the data provides three key points of interest: which club has made the biggest improvement to their squad, who is banking on stability, and ho",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/sport/2026/sep/04/premier-league-italian-gp-wsl-and-us-open-tennis-follow-with-us",
-      "published": "Fri, 04 Sep 2026 14:43:02 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/04/less-money-better-planning-what-we-learned-from-the-wsl-transfer-window",
+      "published": "Fri, 04 Sep 2026 14:02:03 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "プレミアリーグニュース: Richarlison は新しい契約を拒否しました, Alonso はミッドフィールドでジェームズを支持します",
+      "summary": "トッテナムマネージャーRoberto De Zerbi 主張する 彼の 欲しい ブラジル人 ストライカー ‘ 決定されたすべて, 私ではなく’ 続きを読む...",
+      "title_original": "Premier League news: Richarlison refused new contract, Alonso backs James in midfield",
+      "summary_original": "Tottenham manager Roberto De Zerbi insists his wantaway Brazilian striker ‘decided everything, not me’ Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
+      "published": "Fri, 04 Sep 2026 21:30:00 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2040,6 +2032,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "プレミアリーグ, イタリアグランプリ、WSL および US Open テニス – 私たちに従ってください",
+      "summary": "ここに私たちのカバレッジと一緒に従う方法があります - 最高級のライティングとアップ・トゥ・ザ・ミン・レポート 続きを読みます...",
+      "title_original": "Premier League, Italian GP, WSL and US Open tennis – follow with us",
+      "summary_original": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/sport/2026/sep/04/premier-league-italian-gp-wsl-and-us-open-tennis-follow-with-us",
+      "published": "Fri, 04 Sep 2026 14:43:02 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2366,9 +2372,9 @@
     },
     {
       "title": "Star-studded London City クルーズで勝つマンチェスター・ユナイテッド",
-      "summary": "ロンドン・シティ・ライオネス星をかき立てた時代と新シーズンが始まり、心地良い2-1 勝負マンチェスター・ユナイテッド.",
+      "summary": "ロンドン・シティ・ライオネス星を刻んだ時代と新しい Women's Super League 快適で快適な2-1 の勝利の季節マンチェスター・ユナイテッド.",
       "title_original": "Star-studded London City cruise to win over Man Utd",
-      "summary_original": "London City Lionesses started their star-studded era and the new season with a comfortable 2-1 win over Manchester United.",
+      "summary_original": "London City Lionesses started their star-studded era and the new Women's Super League season with a comfortable 2-1 win over Manchester United.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/report/575755",
       "published": "Fri, 04 Sep 2026 21:00:00 BST",
@@ -2449,6 +2455,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "イラオラアップとランニングリヴァプールイザックネットはダブルイプスウィッチ",
+      "summary": "Andoni Iraola 最初の勝利をそのまま登録リヴァプールヘッドコーチとしてアレクサンデル・イサク9 分以内に2 回獲得イプスウィッチ 2-0.",
+      "title_original": "Iraola up and running at Liverpool as Isak nets double at Ipswich",
+      "summary_original": "Andoni Iraola registered his first win as Liverpool head coach as Alexander Isak scored twice inside nine minutes to beat Ipswich 2-0.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/ipswich-town-vs-liverpool/report/559470",
+      "published": "Fri, 04 Sep 2026 21:49:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Try AND は、新契約! | チャーンリーがユニークなお祝いをお届け",
       "summary": "Josh Charnley スコアのための Leigh Leopards に対して St Helens お祝いの期間中の契約を作成し、クラブに残るために延長を獲得する前に。",
       "title_original": "Try AND a new deal! | Charnley delivers unique celebration",
@@ -2463,9 +2483,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'The Recruitment's was SHOCKING!' ウィルキン&ジョーンズ・ブチャンガン・オン・サンズの女",
+      "title": "「リクルートの SHOCKING!」 - ウィルキンとジョーンズ・ブチャンガン・オン・サンズの女",
       "summary": "Jon Wilkin そして、Jamie Jones-Buchanan 問題に直面しているを評価する St HelensLeigh で 48-10 敗北すると、それらが見逃してしまう Super League クラブの歴史の中で初めてプレーオフ、採用とスクワッドバランスが崩れる。",
-      "title_original": "'The recruitment's been SHOCKING!' | Wilkin and Jones-Buchanan on Saints' woes",
+      "title_original": "'Recruitment's been SHOCKING!' - Wilkin and Jones-Buchanan on Saints' woes",
       "summary_original": "Jon Wilkin and Jamie Jones-Buchanan assess the problems facing St Helens after their 48-10 defeat at Leigh saw them miss the Super League play-offs for the first time in the club's history, with recruitment and squad balance coming under scrutiny.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13581567/leigh-leopards-v-st-helens-jon-wilkin-and-jamie-jones-buchanan-assess-saints-after-missing-play-offs",
@@ -2498,20 +2518,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13581538/chelsea-transfer-news-blues-offered-chance-to-sign-former-tottenham-midfielder-yves-bissouma-paper-talk",
       "published": "Fri, 04 Sep 2026 22:18:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "イラオラアップとランニングリヴァプールイザックネットはダブルイプスウィッチ",
-      "summary": "Andoni Iraola 最初の勝利をそのまま登録リヴァプールヘッドコーチとしてアレクサンデル・イサク9 分以内に2 回獲得イプスウィッチ 2-0.",
-      "title_original": "Iraola up and running at Liverpool as Isak nets double at Ipswich",
-      "summary_original": "Andoni Iraola registered his first win as Liverpool head coach as Alexander Isak scored twice inside nine minutes to beat Ipswich 2-0.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/ipswich-town-vs-liverpool/report/559470",
-      "published": "Fri, 04 Sep 2026 21:49:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
