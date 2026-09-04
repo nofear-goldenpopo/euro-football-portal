@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T14:52:36.450247+00:00",
+  "updated_at": "2026-09-04T15:06:25.136482+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1402,7 +1402,8 @@
     "Can Korda": "",
     "Angela Stanford’s": "",
     "Brian Madjo": "ブライアン・マジョ",
-    "More Scottish Premiership": ""
+    "More Scottish Premiership": "",
+    "County Championship": "カウンティ・チャンピオンシップ"
   },
   "items": [
     {
@@ -1832,7 +1833,7 @@
       "summary_original": "• All the latest news and previews before the weekend • Premier League: 10 things to watch for | Email Tom The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women’s sport. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live",
-      "published": "Fri, 04 Sep 2026 14:36:49 GMT",
+      "published": "Fri, 04 Sep 2026 14:53:36 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1846,7 +1847,7 @@
       "summary_original": "The WSL season kicks off tonight and the Guardian’s women’s football writer Suzanne Wrack is here now answering your questions – from what to expect from London City Lionesses after their signing spree to whether Manchester City can go back to back. Ask a question: log in or sign up here . Weekender73 asks: Daughter’s favourite player: Ellie Carpenter. Mine: Mary Fowler. Who is right? Suzanne: Both. Who am I to say who an individual’s favourite player should be? It’s personal, and mine would pro",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/sport/live/2026/sep/04/wsl-womens-football-expert-suzanne-wrack-reader-questions",
-      "published": "Fri, 04 Sep 2026 14:37:15 GMT",
+      "published": "Fri, 04 Sep 2026 14:49:56 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2260,9 +2261,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イタリアグランプリ: メルセデスはフェラーリペースに近道の練習 LIVE に反応!",
+      "title": "イタリアグランプリ: メルセデスが練習のフェラーリペースに応答するように最速のラッセル!",
       "summary": "",
-      "title_original": "Italian GP: Mercedes responding to Ferrari pace in close-fought practice LIVE!",
+      "title_original": "Italian GP: Russell fastest as Mercedes respond to Ferrari pace in practice LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13580330/f1-italian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
@@ -2400,6 +2401,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Crocombe と Donald は、イングランドのホワイトボールシリーズのために呼び出されました",
+      "summary": "イングランドは、キャップされていない Sussex シーマーと呼ばれています Henry Crocombe, 取られた人ハットトリック最後の2 でカウンティ・チャンピオンシップ今月の ODIs に対するマッチスリランカスカイスポーツに住んでいます。",
+      "title_original": "Crocombe and Donald called up for England white-ball series",
+      "summary_original": "England have called up uncapped Sussex seamer Henry Crocombe, who has taken hat-tricks in his last two County Championship matches, for this month's ODIs against Sri Lanka, live on Sky Sports.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13581195/england-call-up-henry-crocombe-and-aneurin-donald-for-white-ball-series-against-sri-lanka-as-jamie-overton-returns",
+      "published": "Fri, 04 Sep 2026 16:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Can Korda 経験豊富なガイド Team USA 遠くへ Solheim Cup 成功?",
       "summary": "Team USA 保持する Solheim Cup 獲得を問い合わせオランダ今月, スカイスポーツに住んでいます, と Angela Stanford’s 経験豊かなサイドアイイングが圧倒的に勝ち抜く Team Europe.",
       "title_original": "Can Korda guide experienced Team USA to away Solheim Cup success?",
@@ -2509,20 +2524,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アンドリュース:ブレントフォード頂点で遊ぶ - 天井を破ることができるかどうかを見てみましょう",
-      "summary": "2025/26 シーズンに幕を下ろす2 代目。ブレントフォード彼らが前に行わなかったことを行う機会が金持ちしていた:ヨーロッパのために修飾.",
-      "title_original": "Andrews: Brentford are playing with verve - let's see if we can break the ceiling",
-      "summary_original": "Seconds before the curtain came down on the 2025/26 season, Brentford had a golden chance to do what they had never done before: qualify for Europe.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13580770/keith-andrews-exclusive-brentford-head-coach-on-the-improvements-he-hopes-can-help-break-the-ceiling-and-help-the-bees-reach-europe",
-      "published": "Fri, 04 Sep 2026 09:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
