@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T05:51:09.433972+00:00",
+  "updated_at": "2026-09-04T06:07:56.440114+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1307,7 +1307,9 @@
     "Pocognoli's Scotland": "",
     "Josh McPake": "",
     "Gianni Infantino Attorneys": "",
-    "Fifa US": ""
+    "Fifa US": "",
+    "Smriti Mandhana": "",
+    "Women’s Asia Cup": ""
   },
   "items": [
     {
@@ -2151,6 +2153,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Moonfall は、よりアスコットの富のために戻ります",
+      "summary": "アスコット、Bangor-on-Dee、Worcester からのアクションで金曜日に忙しい一日のレースがあります。Sky Sports Racing.",
+      "title_original": "Moonfall returns for more Ascot riches",
+      "summary_original": "We have a busy day’s racing on Friday with action from Ascot, Bangor-on-Dee and Worcester, live on Sky Sports Racing.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13580489/today-on-sky-sports-racing-ascot-bangor-on-dee-and-worcester",
+      "published": "Fri, 04 Sep 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Monfils の大きいテストを克服する Gauff グランドスラムキャリアは終わりに来ます",
       "summary": "Coco Gauff スタントテストを対決する Spain's Paula 最終的に 6-4 7-6 (7-5) の勝利を確保する前に Badosa。",
       "title_original": "Gauff overcomes big test while Monfils' Grand Slam career comes to end",
@@ -2277,6 +2293,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンダハナブレイクインテル歴史あるインドの世紀の国家記録",
+      "summary": "Smriti Mandhana 女性のオールタイム・リーディング・ラン・スコアになりました。インテルインドの記録的な崩壊の世紀後の国家クリケット Women’s Asia Cup.",
+      "title_original": "Mandhana breaks international scoring records with historic India century",
+      "summary_original": "Smriti Mandhana has become the all-time leading run-score in women’s international cricket after a record-breaking century for India at the Women’s Asia Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13581110/smriti-mandhana-indias-opener-becomes-all-time-highest-run-scorer-in-womens-international-cricket-after-record-century",
+      "published": "Fri, 04 Sep 2026 06:40:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "大阪府知事 US Open テニス「エチケット」を尊重するインフルエンサー",
       "summary": "Naomi Osaka ソーシャルメディアインフルエンサーの増加を促しました全米オープン第2 次勝利に続くスポーツの「エチケット」を尊重しますカテリナ・シ二アコバ.",
       "title_original": "Osaka urges US Open influencers to respect tennis 'etiquette'",
@@ -2400,34 +2430,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Crocombe は2 秒かかりますハットトリック Sussex の8 日間",
-      "summary": "サセックスシーマーHenry Crocombe 第2 弾を取ったハットトリック8 日間で Essex を 177 に非難する オール アウト に 171-3 わずか 26 球前に.",
-      "title_original": "Crocombe takes second hat-trick in eight days for Sussex",
-      "summary_original": "Sussex seamer Henry Crocombe took his second hat-trick in eight days to help condemn Essex to 177 all out having been 171-3 just 26 balls before.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13580972/county-championship-henry-crocombe-takes-hat-tricks-in-successive-games-as-23-wickets-fall-in-surrey-vs-yorkshire-round-up",
-      "published": "Thu, 03 Sep 2026 18:55:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Papers: Everton、shock Vardy move to solve striker problem を獲得候補に",
-      "summary": "金曜日の新聞から噂を移籍するトップストーリー...",
-      "title_original": "Papers: Everton eye shock Vardy move to solve striker problem",
-      "summary_original": "The top stories and transfer rumours from Friday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13581025/everton-transfer-news-toffees-eye-shock-move-for-free-agent-jamie-vardy-after-folarin-balogun-deal-falls-through-paper-talk",
-      "published": "Thu, 03 Sep 2026 22:30:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
