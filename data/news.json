@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T13:52:25.990205+00:00",
+  "updated_at": "2026-09-04T14:06:03.486866+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1392,7 +1392,9 @@
     "Mary Fowler. Who": "",
     "Both. Who": "",
     "Motor Neurone Disease": "筋萎縮性側索硬化症",
-    "Play Super": ""
+    "Play Super": "",
+    "Promoter Eddie Hearn": "",
+    "Wembley Stadium": "ウェンブリー・スタジアム"
   },
   "items": [
     {
@@ -1718,20 +1720,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "私は誰ですか? ログインブンデスリーガ星 2",
-      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
-      "title_original": "Who am I? Guess Bundesliga star No 2",
-      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0req0zjqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:34:04 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "夏のサインは、すでにインパクトを生む - サンガレ、ロジャーズ, エンシソ",
       "summary": "BBC について スポーツは、新しい飛行開始に降り得る夏の新加入選手を見ていきますプレミアリーグ今夏ママドゥ・サンガレ, モーガン・ロジャーズ, フリオ・エンシソ, ゴンサロ・ガルシアそして、ビクトル・ムニョス.",
       "title_original": "The summer signings already making an impact - Sangare, Rogers, Enciso",
@@ -1822,7 +1810,7 @@
       "summary_original": "• All the latest news and previews before the weekend • Premier League: 10 things to watch for | Email Niall The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women’s sport. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live",
-      "published": "Fri, 04 Sep 2026 13:35:57 GMT",
+      "published": "Fri, 04 Sep 2026 13:45:52 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1836,7 +1824,7 @@
       "summary_original": "The WSL season kicks off tonight and the Guardian’s women’s football writer Suzanne Wrack is here now answering your questions – from what to expect from London City Lionesses after their signing spree to whether Manchester City can go back to back. Ask a question: log in or sign up here . Weekender73 asks: Daughter’s favourite player: Ellie Carpenter. Mine: Mary Fowler. Who is right? Suzanne: Both. Who am I to say who an individual’s favourite player should be? It’s personal, and mine would pro",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/sport/live/2026/sep/04/wsl-womens-football-expert-suzanne-wrack-reader-questions",
-      "published": "Fri, 04 Sep 2026 13:37:58 GMT",
+      "published": "Fri, 04 Sep 2026 13:54:42 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2236,9 +2224,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イタリアグランプリ: ライバルは、アップグレードされたフェラーリズのファーストスタート LIVE から戻ってくる!",
+      "title": "イタリアグランプリ: ライバルは、アップグレードされたフェラーリの高速スタート LIVE から戻ってくる!",
       "summary": "",
-      "title_original": "Italian GP: Rivals bid to hit back against upgraded Ferraris fast start LIVE!",
+      "title_original": "Italian GP: Rivals bid to hit back against upgraded Ferrari's fast start LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13580330/f1-italian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
@@ -2257,6 +2245,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories",
       "published": "Fri, 04 Sep 2026 10:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Hearn: Wembley の Fury 対 AJ の「再オープン」を語る",
+      "summary": "Promoter Eddie Hearn ステージに「再開」という話があることが発表されました。タイソン・フューリー対比 Anthony Joshua 戦いでウェンブリー・スタジアム.",
+      "title_original": "Hearn: Talks 'reopened' for Fury vs AJ at Wembley",
+      "summary_original": "Promoter Eddie Hearn has announced that talks have \"reopened\" to stage the Tyson Fury vs Anthony Joshua fight at Wembley Stadium.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13581339/fury-vs-joshua-eddie-hearn-says-talks-have-reopened-to-stage-british-heavyweight-blockbuster-at-wembley-stadium",
+      "published": "Fri, 04 Sep 2026 14:47:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2285,6 +2287,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "published": "Fri, 04 Sep 2026 14:12:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アーセナル絶え間ない防衛は、逃げたものを満たしていますロジャーズ",
+      "summary": "",
+      "title_original": "Arsenal’s ever-improving defence meets one that got away in Rogers",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13581188/arsenals-defence-still-improving-even-without-william-saliba-but-morgan-rogers-and-chelsea-are-tougher-test-the-radar",
+      "published": "Fri, 04 Sep 2026 09:44:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2481,34 +2497,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13581284/omega-european-masters-putter-in-the-bunker-fail-for-thriston-lawrence-before-brilliant-follow-up-shot",
       "published": "Fri, 04 Sep 2026 12:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Moonfall は、よりアスコットの富のために戻ります",
-      "summary": "アスコット、Bangor-on-Dee、Worcester からのアクションで金曜日に忙しい一日のレースがあります。Sky Sports Racing.",
-      "title_original": "Moonfall returns for more Ascot riches",
-      "summary_original": "We have a busy day’s racing on Friday with action from Ascot, Bangor-on-Dee and Worcester, live on Sky Sports Racing.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13580489/today-on-sky-sports-racing-ascot-bangor-on-dee-and-worcester",
-      "published": "Fri, 04 Sep 2026 07:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "McKenna は、Bentley でミドルウェイト統一のショーダウンをセット",
-      "summary": "Aaron McKenna そして、デンゼル・ベントリー今年の世界中級タイトル統一の戦いに合意しました, スカイスポーツは理解しています.",
-      "title_original": "McKenna set for middleweight unification showdown with Bentley",
-      "summary_original": "Aaron McKenna and Denzel Bentley have agreed to a world middleweight title unification fight this year, Sky Sports understands.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13581233/aaron-mckenna-ibf-champion-set-for-world-middleweight-unification-showdown-with-wbo-title-holder-denzel-bentley",
-      "published": "Fri, 04 Sep 2026 12:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
