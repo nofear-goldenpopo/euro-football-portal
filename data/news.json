@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T10:38:09.155364+00:00",
+  "updated_at": "2026-09-04T10:51:59.352438+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1353,7 +1353,12 @@
     "Nottingham Forest’s Liam Delap": "",
     "City Ground": "シティ・グラウンド",
     "Liam Delap": "",
-    "Nottingham Forest’s": ""
+    "Nottingham Forest’s": "",
+    "Yankuba Minteh": "",
+    "Monaco GP": "モナコグランプリ",
+    "Alpine's Pierre Gasly": "",
+    "June's Monaco Grand Prix": "",
+    "Women's CL": ""
   },
   "items": [
     {
@@ -1396,6 +1401,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプール、Minteh can still get dream move - Hurzeler を獲得候補に",
+      "summary": "ブライトンログイン Fabian Hurzeler コメント Yankuba MintehSeagulls がダウンした後、まだ「彼の夢を満たす」未来に移動することができますリヴァプールの はウィンガーのオファーです。",
+      "title_original": "Liverpool target Minteh can still get dream move - Hurzeler",
+      "summary_original": "Brighton boss Fabian Hurzeler says Yankuba Minteh can still \"fulfil his dream\" move in future after the Seagulls turned down Liverpool's offers for the winger.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgk5g2z3kyxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 10:44:37 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1483,20 +1502,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナム omit Richarlison からプレミアリーグスチーム",
-      "summary": "Richarlison が残っているトッテナム獲得を問い合わせプレミアリーグ今シーズンはクラブの計画では見つかりません。",
-      "title_original": "Spurs omit Richarlison from Premier League squad",
-      "summary_original": "Richarlison is left out of Tottenham's Premier League squad as he does not figure in the club's plans this season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 17:46:55 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Is Hearts' McPake ゲートクラッシュにポーズ Pocognoli's Scotland チーム?",
       "summary": "Josh McPake 入社以来、大幅な影響を受けました。Hearts. Could 彼は今、スコットランドのナショナルチームで同じことをしますか?",
       "title_original": "Is Hearts' McPake poised to gatecrash Pocognoli's Scotland squad?",
@@ -1511,6 +1516,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "トッテナム omit Richarlison からプレミアリーグスチーム",
+      "summary": "Richarlison が残っているトッテナム獲得を問い合わせプレミアリーグ今シーズンはクラブの計画では見つかりません。",
+      "title_original": "Spurs omit Richarlison from Premier League squad",
+      "summary_original": "Richarlison is left out of Tottenham's Premier League squad as he does not figure in the club's plans this season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 17:46:55 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナル'マルティネッリは、6000万ポンド の移動で Al-Hilal に参加",
       "summary": "アーセナルウィンガーGabriel Martinelli 獲得を問い合わせ Saudi Pro League 側面 6000万ポンド のための Al-Hilal。",
       "title_original": "Arsenal's Martinelli joins Al-Hilal in £60m move",
@@ -1518,6 +1537,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 03 Sep 2026 16:30:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "エヴァートン、free agent Vardy - Friday's gossip を獲得候補に",
+      "summary": "エヴァートン移動量を量る Jamie Vardy または Anthony Martial, ウィルフレッド・ザハ参加可能 AC ミラン, Estevao Willian からの移動を考慮するチェルシー.",
+      "title_original": "Everton eye free agent Vardy - Friday's gossip",
+      "summary_original": "Everton weigh up moves for Jamie Vardy or Anthony Martial, Wilfried Zaha could join AC Milan, Estevao Willian considers move from Chelsea.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62jgzxkjypo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 20:54:27 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1539,20 +1572,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "エヴァートン、free agent Vardy - Friday's gossip を獲得候補に",
-      "summary": "エヴァートン移動量を量る Jamie Vardy または Anthony Martial, ウィルフレッド・ザハ参加可能 AC ミラン, Estevao Willian からの移動を考慮するチェルシー.",
-      "title_original": "Everton eye free agent Vardy - Friday's gossip",
-      "summary_original": "Everton weigh up moves for Jamie Vardy or Anthony Martial, Wilfried Zaha could join AC Milan, Estevao Willian considers move from Chelsea.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62jgzxkjypo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 20:54:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Asencio クリア 以上 allegedly 共有 explicit ビデオ",
       "summary": "レアル・マドリードディフェンダーRaul Asencio 未成年者を含む性的明示的な動画を配信する際の関与が認められています。",
       "title_original": "Asencio cleared over allegedly sharing explicit video",
@@ -1567,17 +1586,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "サー 'needs 時間' へ プロセスリヴァプール移動崩壊",
-      "summary": "クリスタル・パレス獲得イスマイラ・サール提案された移動の崩壊を処理する時間が必要になりますリヴァプール言うイーグルスヘッドコーチ Pierre Sage.",
-      "title_original": "Sarr 'needs time' to process Liverpool move collapse",
-      "summary_original": "Crystal Palace forward Ismaila Sarr will need time to process the collapse of his proposed move to Liverpool, says Eagles head coach Pierre Sage.",
+      "title": "Fifa は Infantino に対する'smear キャンペーンの Uefa を非難します",
+      "summary": "統治体はフィファ大統領以来、爆発を移籍しています Gianni Infantino's スクラップされたプランでステークを売る World Cup 個人投資家の皆様へ",
+      "title_original": "Fifa accuses Uefa of 'smear campaign' against Infantino",
+      "summary_original": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czdz349nyl7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 15:05:22 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 19:01:43 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1595,17 +1614,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Fifa は Infantino に対する'smear キャンペーンの Uefa を非難します",
-      "summary": "統治体はフィファ大統領以来、爆発を移籍しています Gianni Infantino's スクラップされたプランでステークを売る World Cup 個人投資家の皆様へ",
-      "title_original": "Fifa accuses Uefa of 'smear campaign' against Infantino",
-      "summary_original": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
+      "title": "サー 'needs 時間' へ プロセスリヴァプール移動崩壊",
+      "summary": "クリスタル・パレス獲得イスマイラ・サール提案された移動の崩壊を処理する時間が必要になりますリヴァプール言うイーグルスヘッドコーチ Pierre Sage.",
+      "title_original": "Sarr 'needs time' to process Liverpool move collapse",
+      "summary_original": "Crystal Palace forward Ismaila Sarr will need time to process the collapse of his proposed move to Liverpool, says Eagles head coach Pierre Sage.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 19:01:43 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/czdz349nyl7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 15:05:22 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1679,34 +1698,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Stenhousemuir ボス Bartley に戻る to Livingston - 見る 上の BBC",
-      "summary": "Stenhousemuir マネージャーMarvin Bartley 彼は Livingston のスポーツディレクターに話されていないことを明らかに David Martindale 昨シーズンの終わりにクラブから辞退してから、会席にセットされた側面 Friday's BBC Scotland TV マッチ。",
-      "title_original": "Stenhousemuir boss Bartley returns to Livingston - watch on BBC",
-      "summary_original": "Stenhousemuir manager Marvin Bartley reveals he has not spoken to Livingston sporting director David Martindale since resigning from the club at the end of last season, with the sides set to meet in Friday's BBC Scotland TV match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7903rq5w2qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 07:59:28 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "新しい獲得の危機的虐待 -ハル",
-      "summary": "ハル・シティ AFC 新しい獲得を指示する「アベント・ラシスト・虐待」を批判する Robinio Vaz 獲得が発表されたとき。",
-      "title_original": "Racist abuse of new signing Vaz abhorrent - Hull",
-      "summary_original": "Hull City criticise the \"abhorrent racist abuse\" directed at new signing Robinio Vaz when they announced his signing.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyeq3v7829o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 10:28:25 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "夏のサインは、すでにインパクトを生む - サンガレ、ロジャーズ, エンシソ",
       "summary": "BBC について スポーツは、新しい飛行開始に降り得る夏の新加入選手を見ていきますプレミアリーグ今夏ママドゥ・サンガレ, モーガン・ロジャーズ, フリオ・エンシソ, ゴンサロ・ガルシアそして、ビクトル・ムニョス.",
       "title_original": "The summer signings already making an impact - Sangare, Rogers, Enciso",
@@ -1773,6 +1764,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "MOTD pundits debate 論議オウンゴールを問い合わせマンチェスター・ユナイテッド優勝",
+      "summary": "デイパンディットのマッチエレン・ホワイトそして、シェイ・ギヴン議論論の議論オールド・トラッフォードループホールにより、ハリー・マグワイアハンドボールとして立つ Jacob Greaves オウンゴール.",
+      "title_original": "MOTD pundits debate controversial own goal in Man Utd victory",
+      "summary_original": "Match of the Day pundits Ellen White and Shay Given discuss the refereeing controversy at Old Trafford whereby a loophole allowed a Harry Maguire handball to stand as a Jacob Greaves own goal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cp93xrk5k5xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 22:47:53 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2197,9 +2202,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イタリアグランプリ: フェラーリが初めての練習で新しいエンジンをデビュー!",
+      "title": "ガスリーは失いますモナコグランプリマクラレンの後、再び表彰台,レッドブル勝利魅力",
+      "summary": "Alpine's Pierre Gasly6 月より3 位に負けてしまったモナコレースのペナルティがマクラレンとマクレレンの成功の訴求後に再びグランプリレッドブル.",
+      "title_original": "Gasly loses Monaco GP podium again after McLaren, Red Bull win appeal",
+      "summary_original": "Alpine's Pierre Gasly has lost his third-place finish from June's Monaco Grand Prix again after his penalties from the race were reinstated after a successful appeal by McLaren and Red Bull.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13581163/pierre-gasly-alpine-driver-loses-monaco-gp-podium-for-second-time-after-mclaren-red-bull-win-appeal",
+      "published": "Fri, 04 Sep 2026 11:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "イタリアグランプリ: ノリスは最初の練習で早いペースで設定!",
       "summary": "",
-      "title_original": "Italian GP: Ferrari set to debut new engine in first practice LIVE!",
+      "title_original": "Italian GP: Norris sets early pace in first practice LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13580330/f1-italian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
@@ -2222,6 +2241,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Women's CL 引くこと:アーセナルチャンピオンに直面するバルセロナ",
+      "summary": "アーセナルチャンピオンに直面するバルセロナ2026/27 女子のリーグでチャンピオンズリーグ.",
+      "title_original": "Women's CL draw: Arsenal to face reigning champions Barcelona",
+      "summary_original": "Arsenal will face reigning champions Barcelona in the league phase of the 2026/27 Women's Champions League.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13581187/womens-champions-league-2026-27-draw-x",
+      "published": "Fri, 04 Sep 2026 11:45:00 BST",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2446,34 +2479,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ロンドン・シティ・ライオネス: カウンターカルチャーやタイトルコンテンダー?",
-      "summary": "ロンドン・シティ・ライオネス獲得を問い合わせ Women's Super League's よく知られていない。強烈な予算と野心を持つクラブは、片側が上空12 ヶ月前に昇進するだけのために合理的に考えられるものをはるかに超えています。",
-      "title_original": "London City Lionesses: A counter-culture or title contender?",
-      "summary_original": "London City Lionesses are the Women's Super League's great unknown. A club modest in size, with flashy budgets and ambitions well beyond what would reasonably be considered possible for a side only promoted to the top flight 12 months ago.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579466/london-city-lionesses-explained-michele-kang-alexia-putellas-and-the-pursuit-of-champions-league-football",
-      "published": "Mon, 31 Aug 2026 16:45:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "How Bunny Shaw 太字のシンボルになったマンチェスター・シティジャンル",
-      "summary": "マンチェスター・シティファイナンシャルアーキテクチャをスマッシュして作ることにした時に勇敢だった Bunny Shaw 世界で最高の女性サッカー選手の1 つ。1 人のプレーヤーの周りのペイスケール全体を再構築するには、以前に考えられなかった。ほとんどは、大胆ではないと信じました。",
-      "title_original": "How Bunny Shaw became symbol of bold Man City era",
-      "summary_original": "Manchester City were brave when they decided to smash their financial architecture to make Bunny Shaw one of the highest-paid female footballers in the world. To reshape an entire pay scale around one player was previously unthinkable. Most believed they would not be so bold.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578143/man-city-have-khadija-bunny-shaw-to-thank-for-finally-pushing-out-of-their-comfort-zone-and-becoming-winners",
-      "published": "Fri, 28 Aug 2026 14:36:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
