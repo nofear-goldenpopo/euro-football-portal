@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T10:06:42.085072+00:00",
+  "updated_at": "2026-09-04T10:26:16.865572+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1349,7 +1349,11 @@
     "Fiamma Benítez City": "",
     "Ornella Vignola": "",
     "Everton Atlético Madrid": "",
-    "Fiamma Benítez": ""
+    "Fiamma Benítez": "",
+    "Nottingham Forest’s Liam Delap": "",
+    "City Ground": "シティ・グラウンド",
+    "Liam Delap": "",
+    "Nottingham Forest’s": ""
   },
   "items": [
     {
@@ -1779,7 +1783,21 @@
       "summary_original": "• All the latest news and previews before the weekend • Premier League: 10 things to watch for | Email Tom The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women’s sport. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live",
-      "published": "Fri, 04 Sep 2026 09:53:12 GMT",
+      "published": "Fri, 04 Sep 2026 10:17:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ノッティンガム・フォレスト'ライム・デラップ:'私は恐ろしいことの端で私のベストで再生します'",
+      "summary": "難年明けからチェルシーストライカーは、自分のキャリアを取り戻すことを期待していますシティ・グラウンド「あなたはそれを想像することができます:彼はセンターバック、私はストライカーです」と言います Liam Delap, ノッティンガム・フォレスト’ 4500万ポンド クラブ録音サイン , 彼はシーンを設定して笑顔. 庭で弟、フィン、弟を連れて行くのは彼です。これらの日、彼らはお互いの最大の支持者です - ライムは水曜日に3 番目の層ブルトンの勝利に Finn の勝利を出席しました - しかし、子供たちはフレンドリーな儀式がありました。「プロブがあった」",
+      "title_original": "Nottingham Forest’s Liam Delap: ‘I play at my best on the edge of being horrible’",
+      "summary_original": "After a difficult year at Chelsea the striker hopes to get his career back on track at the City Ground “You can imagine it: he’s a centre-back, I’m a striker,” says Liam Delap, Nottingham Forest’s £45m club-record signing , smiling as he sets the scene. He is reliving taking on his younger brother, Finn, in the garden. These days, they are each other’s biggest supporters – Liam attended Finn’s victory for third-tier Burton on Wednesday – but as kids there was a friendly rivalry. “There were prob",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/04/nottingham-forests-liam-delap-i-play-at-my-best-on-the-edge-of-being-horrible",
+      "published": "Fri, 04 Sep 2026 10:00:05 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1829,20 +1847,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Women’s Super League2026-27 プレビュー番号 14:ウェストハム",
-      "summary": "Rita Guarino 去年のクラブの幸運を回した後、移転市場に戻ってきましたが、懸念は、ガーディアンの作家の予測位置の欠如に残っています。11 位(NB:これは必ずしも必ずしもそうではありません)Suzanne Wrack’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 10th 続きを読む...",
-      "title_original": "Women’s Super League 2026-27 preview No 14: West Ham",
-      "summary_original": "Rita Guarino has been backed in the transfer market after turning around the club’s fortunes last season but concerns remain over a lack of resources Guardian writers’ predicted position: 11th (NB: this is not necessarily Suzanne Wrack’s prediction but the average of our writers’ tips) Last season’s position: 10th Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/womens-super-league-2026-27-preview-no-14-west-ham",
-      "published": "Thu, 03 Sep 2026 23:01:51 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "堅い開始のためのパリ・サンジェルマンしかし、ルイス・エンリケ獲得から「新しいエネルギー」の破烈に信仰を持っている",
       "summary": "パリ・サンジェルマンここまでリーグの試合の両方を描いています。モナコ金曜日にトリッキーなタスクをポーズ “学校にいるような”ルイス・エンリケ記者会見室に入ると、ジャーナリストが彼の心のボンジュールに無毒に反応するのを聞く。彼の備考は、前夜にフィッティングされたパリ・サンジェルマン’ s 季節の最初のホームマッチ, フランスのレンタルレとうまくラインアップ ’ s ’ s ’ s ’ s ’ s ’ s ’ s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s 最初の ホーム s s s s s s マッチ s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s sSeptember. Although の n",
       "title_original": "Tough start for PSG but Luis Enrique has faith in burst of ‘new energy’ from signings",
@@ -1857,6 +1861,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Women’s Super League2026-27 プレビュー番号 14:ウェストハム",
+      "summary": "Rita Guarino 去年のクラブの幸運を回した後、移転市場に戻ってきましたが、懸念は、ガーディアンの作家の予測位置の欠如に残っています。11 位(NB:これは必ずしも必ずしもそうではありません)Suzanne Wrack’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 10th 続きを読む...",
+      "title_original": "Women’s Super League 2026-27 preview No 14: West Ham",
+      "summary_original": "Rita Guarino has been backed in the transfer market after turning around the club’s fortunes last season but concerns remain over a lack of resources Guardian writers’ predicted position: 11th (NB: this is not necessarily Suzanne Wrack’s prediction but the average of our writers’ tips) Last season’s position: 10th Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/04/womens-super-league-2026-27-preview-no-14-west-ham",
+      "published": "Thu, 03 Sep 2026 23:01:51 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "London City 要求のスポンサー契約は、いくつかよりも大きく記録され、プレミアリーグ",
       "summary": "クラブのオーナーは、女性のゲームで最大の合意を述べています カンは、ナイキの移籍を「ハゲ」と「ランドマーク」と記述しています。The Women’s Super League クラブロンドン・シティ・ライオネス’ Nike との新しいフロント・オブ・シャツのスポンサーシップ契約は、彼らのアメリカの所有者によると、女性のゲームの中で最も大きいです,Michele Kang. The 契約の期間と値が開示されていないが、WSL クラブに近いソースは、ゲーム交換の瞬間としてそれをハイリングし、カンは、それがさらに一部の男性を上回ると主張していますプレミアリーグクラブのシャツのお得な情報。",
       "title_original": "London City claim sponsor deal is record and bigger than some in Premier League",
@@ -1867,20 +1885,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フィファは、米国の連邦連邦政府のファイリングで、Uefa の法的脅威を「smear キャンペーン」と呼びます",
-      "summary": "フィファは、Uefa のディスカバリーの要求を反対した行動は、犯罪的なケース V を考慮すると述べた Gianni Infantino Attorneys フィファの代表は、今週より前に米国連邦政府の発見の Uefa の要求に戻ってきています。Uefa の法的努力「Fifa とそのリーダーシップに対する「a」スミアキャンペーンのさらなるサポートにおけるプレスリリースよりも多くを制限し、要求を却下した場合に割り当てられた裁判官を要求した。要求の提出 Fifa US、子会社の busines",
-      "title_original": "Fifa calls Uefa’s legal threat a ‘smear campaign’ in US federal filing",
-      "summary_original": "Fifa filed motion opposing Uefa’s request for discovery Uefa said to be considering criminal case v Gianni Infantino Attorneys representing Fifa have hit back at Uefa’s request for discovery in a US federal filing earlier this week. The lawyers called Uefa’s legal efforts “little more than press releases in further support of [a] smear campaign against Fifa and its leadership” and requested the judge assigned to the case dismiss the request. The filing requests that Fifa US, a subsidiary busines",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion",
-      "published": "Thu, 03 Sep 2026 19:41:54 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2053,6 +2057,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "フィファは、米国の連邦連邦政府のファイリングで、Uefa の法的脅威を「smear キャンペーン」と呼びます",
+      "summary": "フィファは、Uefa のディスカバリーの要求を反対した行動は、犯罪的なケース V を考慮すると述べた Gianni Infantino Attorneys フィファの代表は、今週より前に米国連邦政府の発見の Uefa の要求に戻ってきています。Uefa の法的努力「Fifa とそのリーダーシップに対する「a」スミアキャンペーンのさらなるサポートにおけるプレスリリースよりも多くを制限し、要求を却下した場合に割り当てられた裁判官を要求した。要求の提出 Fifa US、子会社の busines",
+      "title_original": "Fifa calls Uefa’s legal threat a ‘smear campaign’ in US federal filing",
+      "summary_original": "Fifa filed motion opposing Uefa’s request for discovery Uefa said to be considering criminal case v Gianni Infantino Attorneys representing Fifa have hit back at Uefa’s request for discovery in a US federal filing earlier this week. The lawyers called Uefa’s legal efforts “little more than press releases in further support of [a] smear campaign against Fifa and its leadership” and requested the judge assigned to the case dismiss the request. The filing requests that Fifa US, a subsidiary busines",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion",
+      "published": "Thu, 03 Sep 2026 19:41:54 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Daniel Kretinsky 大きくなるウェストハムブローへの株主 Amanda Staveley",
       "summary": "ロイヤルメールオーナーが合意した David Sullivan Staveley クラブでステークを購入するために押し上げられました Daniel Kretinsky 株主として最大の株主になろうウェストハム合意の締結後 David Sullivan、打撃をに扱うこと Amanda Staveley’s チャンピオンシップクラブでステークを購入したい スタベレーはゲストでしたロンドン・スタジアム獲得を問い合わせウェストハム今週初めに Wolves に勝ったのは4-2 で、購入に押し上がっていました Vanessa Gold’s クラブで25.1%の摂取量。The British 以前ビジネスウーマン",
       "title_original": "Daniel Kretinsky to become biggest West Ham shareholder in blow to Amanda Staveley",
@@ -2088,20 +2106,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal",
       "published": "Thu, 03 Sep 2026 17:26:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハル期限日の獲得の「消散」危機的虐待を非難 Robinio Vaz",
-      "summary": "十代のストライカーは、社会的メディアクラブで、責任あるものを見つけるために当局と協力して乱用しましたハル・シティ AFC 彼らの新しい獲得で指示された racist を非難しました Robinio Vaz ソーシャルメディアでは、責任あるものを識別するために、当局と協力していたと述べた。19 歳で活躍したストライカーがプロモートに参加プレミアリーグサイドレンタル移籍でからローマ振込期限日 Vaz’s move はソーシャルメディア投稿で発表され、T シャツのコメントを大量に取り上げました。",
-      "title_original": "Hull condemn ‘disgusting’ racist abuse of deadline-day signing Robinio Vaz",
-      "summary_original": "Teenage striker racially abused on social media Club working with authorities to find those responsible Hull City have condemned racist ⁠abuse directed at their new signing Robinio Vaz on ⁠social media ⁠and ​said they were working with authorities to identify ⁠those responsible. The 19-year-old striker joined the promoted ⁠Premier League side on loan ​from Roma ‌on transfer deadline day. Vaz’s move was announced in a social media post that garnered a high volume of derogatory comments aimed at t",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/03/hull-condemn-racist-abuse-robinio-vaz-social-media",
-      "published": "Thu, 03 Sep 2026 11:09:17 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
