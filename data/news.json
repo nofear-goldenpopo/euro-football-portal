@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T17:35:14.544905+00:00",
+  "updated_at": "2026-09-04T17:49:41.026366+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1419,7 +1419,10 @@
     "Dan Worrall": "",
     "Josh Blake": "",
     "Owner David Clowes": "",
-    "Rams CEO Stephen Pearce": ""
+    "Rams CEO Stephen Pearce": "",
+    "Email Scott Ipswich Town": "",
+    "Gary O’Neil’s": "",
+    "Harlem Globetrotters": "ハーレム・グローブトロッターズ"
   },
   "items": [
     {
@@ -1843,13 +1846,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イプスウィッチツイートリヴァプールカウントダウン;Mike Dean「幻想的な土地で」であることの認定 - ライブ",
-      "summary": "• 週末前の最新ニュースとプレビュー •プレミアリーグ: 10 件の商品がございます。|Email John The 執行役員 Football Association, Rugby Football Union イングランドとイングランド Wales Cricket Board 大手ブロードキャストや YouTube と連携し、プロダクション企業向けの税金クレジットを請求することで、女性のスポーツのテレビ報道をさらに高めることができます。続きを読む...",
-      "title_original": "Ipswich v Liverpool countdown; Mike Dean accused of being ‘in fantasy land’ – live",
-      "summary_original": "• All the latest news and previews before the weekend • Premier League: 10 things to watch for | Email John The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women’s sport. Continue reading...",
+      "title": "イプスウィッチ・タウン FC. .リヴァプール: プレミアリーグ– ライブ",
+      "summary": "プレミアリーグ8pm BST キックオフライブスコアボードからのアップデート |Read Football Daily| メールスコットイプスウィッチ・タウン FC スパンクされた 5-2 でオールド・トラッフォード先週末はバルドの結果が全体の物語を伝えていないにもかかわらず、。Gary O’Neil’s 新しく進められた側面はそれらが得る限りよい与えられましたハーレム・グローブトロッターズセンターバックハリー・マグワイア後、彼らはちょうど彼らの日になるつもりではなかったことを禁忌のために許されることができるペイダートに当たる。つまり、ワン・アンド・ハーフの満足のパフォーマンスを追いかける",
+      "title_original": "Ipswich Town v Liverpool: Premier League – live",
+      "summary_original": "Premier League updates from the 8pm BST kick-off Live scoreboard | Read Football Daily | Email Scott Ipswich Town were spanked 5-2 at Old Trafford last weekend , though the bald result doesn’t tell the whole story. Gary O’Neil’s newly promoted side were giving as good as they got until Harlem Globetrotters centre-back Harry Maguire hit paydirt, after which they could be forgiven for concluding it just wasn’t going to be their day. So chalk up just over one-and-a-half satisfying performances from",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live",
-      "published": "Fri, 04 Sep 2026 17:21:28 GMT",
+      "url": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
+      "published": "Fri, 04 Sep 2026 17:30:13 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2263,6 +2266,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Putellas が起動しますが、Earps に ベンチ のために London City 対比マンチェスター・ユナイテッドライブ!",
+      "summary": "",
+      "title_original": "Putellas starts but Earps on the bench for London City vs Man Utd LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/live/575755",
+      "published": "Fri, 04 Sep 2026 18:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "イプスウィッチ対比リヴァプールスカイでライブ! 獲得を問い合わせバルコラスタート?",
       "summary": "",
       "title_original": "Ipswich vs Liverpool LIVE on Sky! Will Barcola start?",
@@ -2287,20 +2304,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Putellas が起動しますが、Earps に ベンチ のために London City 対比マンチェスター・ユナイテッドライブ!",
-      "summary": "",
-      "title_original": "Putellas starts but Earps on the bench for London City vs Man Utd LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/live/575755",
-      "published": "Fri, 04 Sep 2026 18:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
