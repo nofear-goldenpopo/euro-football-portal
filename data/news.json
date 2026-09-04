@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T14:25:25.648260+00:00",
+  "updated_at": "2026-09-04T14:38:44.136363+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1395,7 +1395,12 @@
     "Play Super": "",
     "Promoter Eddie Hearn": "",
     "Wembley Stadium": "ウェンブリー・スタジアム",
-    "The Women’s Super League’s": ""
+    "The Women’s Super League’s": "",
+    "PSG's Doue": "",
+    "Yann Gboho": "ヤン・グボオ",
+    "Desire Doue": "",
+    "Can Korda": "",
+    "Angela Stanford’s": ""
   },
   "items": [
     {
@@ -1679,20 +1684,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナル'マルティネッリは、6000万ポンド の移動で Al-Hilal に参加",
-      "summary": "アーセナルウィンガーGabriel Martinelli 獲得を問い合わせ Saudi Pro League 側面 6000万ポンド のための Al-Hilal。",
-      "title_original": "Arsenal's Martinelli joins Al-Hilal in £60m move",
-      "summary_original": "Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal for £60m.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 16:30:43 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ブレイクダウンチェルシーの staggering 39 夏終了",
       "summary": "チェルシー39 人の選手を販売またはローンアウトすることにより、この夏に5億ポンド 以上を回復していると考えられています。",
       "title_original": "Breaking down Chelsea's staggering 39 summer exits",
@@ -1718,6 +1709,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "コベントリーサインウィンガーGboho - いとこのこパリ・サンジェルマンドウ",
+      "summary": "コヴェントリー・シティ FC トゥールーズ・ウィンガーの獲得を確認するヤン・グボオ- のいとこパリ・サンジェルマンフランス進出 Desire Doue.",
+      "title_original": "Coventry sign winger Gboho - cousin of PSG's Doue",
+      "summary_original": "Coventry City confirm the signing of Toulouse winger Yann Gboho - the cousin of PSG and France forward Desire Doue.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgypzg4y75o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 14:32:38 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1839,7 +1844,7 @@
       "summary_original": "The WSL season kicks off tonight and the Guardian’s women’s football writer Suzanne Wrack is here now answering your questions – from what to expect from London City Lionesses after their signing spree to whether Manchester City can go back to back. Ask a question: log in or sign up here . Weekender73 asks: Daughter’s favourite player: Ellie Carpenter. Mine: Mary Fowler. Who is right? Suzanne: Both. Who am I to say who an individual’s favourite player should be? It’s personal, and mine would pro",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/sport/live/2026/sep/04/wsl-womens-football-expert-suzanne-wrack-reader-questions",
-      "published": "Fri, 04 Sep 2026 14:07:06 GMT",
+      "published": "Fri, 04 Sep 2026 14:24:37 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2239,9 +2244,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イタリアグランプリ: ライバルは、アップグレードされたフェラーリの高速スタート LIVE から戻ってくる!",
+      "title": "イタリアグランプリ: メルセデスはフェラーリペースに近道の練習 LIVE に反応!",
       "summary": "",
-      "title_original": "Italian GP: Rivals bid to hit back against upgraded Ferrari's fast start LIVE!",
+      "title_original": "Italian GP: Mercedes responding to Ferrari pace in close-fought practice LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13580330/f1-italian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
@@ -2379,6 +2384,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Can Korda 経験豊富なガイド Team USA 遠くへ Solheim Cup 成功?",
+      "summary": "Team USA 保持する Solheim Cup 獲得を問い合わせオランダ今月, スカイスポーツに住んでいます, と Angela Stanford’s 経験豊かなサイドアイイングが圧倒的に勝ち抜く Team Europe.",
+      "title_original": "Can Korda guide experienced Team USA to away Solheim Cup success?",
+      "summary_original": "Team USA look to retain the Solheim Cup in the Netherlands this month, live on Sky Sports, with Angela Stanford’s experienced side eyeing a rare away win over Team Europe.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13581191/solheim-cup-2026-who-is-playing-for-team-usa-angela-stanfords-line-up-to-face-team-europe-and-how-they-qualified",
+      "published": "Fri, 04 Sep 2026 14:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Big Mojofancied へ 戻り Sprint Cup クラウン",
       "summary": "Kate Tracey 参加する Callum Helliwell そして、Declan Rix グループ1 を含むアクションの別の忙しい週末をプレビューするには Sprint Cup ヘイドックから。",
       "title_original": "Big Mojo fancied to return Sprint Cup crown",
@@ -2498,20 +2517,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13581296/celtic-and-rangers-away-fans-barred-from-all-old-firm-premiership-and-league-cup-games-this-season",
       "published": "Fri, 04 Sep 2026 13:23:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リーダーローレンスからの華麗なフォローアップショットの前に二段式 FAIL でパター!",
-      "summary": "Leader Thriston Lawrence プランに行かない二段式でパターを使用する決定 - ウェッジでホリングアウトすることにより、それをフォローする前に Omega European Masters.",
-      "title_original": "Putter in bunker FAIL before brilliant follow-up shot from leader Lawrence!",
-      "summary_original": "Leader Thriston Lawrence decides to use a putter in a bunker - which doesn’t go to plan - before following it up by holing out with a wedge at the Omega European Masters.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13581284/omega-european-masters-putter-in-the-bunker-fail-for-thriston-lawrence-before-brilliant-follow-up-shot",
-      "published": "Fri, 04 Sep 2026 12:50:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
