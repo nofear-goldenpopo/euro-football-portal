@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T18:38:38.400781+00:00",
+  "updated_at": "2026-09-04T18:51:22.641805+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1434,7 +1434,8 @@
     "Ipswich. They’re": "",
     "April. They’ll": "",
     "Alexander Isak’s": "",
-    "Email Scott Gary O’Neil’s": ""
+    "Email Scott Gary O’Neil’s": "",
+    "Email Scott It’s": ""
   },
   "items": [
     {
@@ -1578,20 +1579,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナルフェイスバルセロナ & リヨン女性のチャンピオンズリーグ",
-      "summary": "アーセナルフェイスホルダーバルセロナ受賞者の記録リヨン女性のチャンピオンズリーグ, しばらくチェルシー旅行するリヨンそして、マンチェスター・シティ獲得を問い合わせバイエルン・ミュンヘン.",
-      "title_original": "Arsenal to face Barca & Lyon in Women's Champions League",
-      "summary_original": "Arsenal will face holders Barcelona and record winners Lyon in the Women's Champions League, while Chelsea will travel to Lyon and Man City will take on Bayern Munich.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c05rnv2rq85o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:29:33 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Rashford でプレーするから、同僚や新しいキャリアまで",
       "summary": "結束してから10 年マーカス・ラッシュフォード獲得を問い合わせマンチェスター・ユナイテッド, Joe RileyBBC について 彼の新しいキャリアについてのスポーツ - そして、彼はフルタイムサッカーを見逃さない理由.",
       "title_original": "From playing with Rashford to non-league and new career",
@@ -1620,16 +1607,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バーミンガム relishing マンチェスター・シティ WSL リターンチャレンジ",
-      "summary": "バーミンガム・シティ FC ヘッドコーチ Amy Merricks 彼女の側は「toe-toe-toe-toe-toe-toe」に行くと言います Women's Super League チャンピオンマンチェスター・シティトップフライトに戻る",
-      "title_original": "Birmingham relishing Man City challenge on WSL return",
-      "summary_original": "Birmingham City head coach Amy Merricks says her side will go \"toe-to-toe\" with Women's Super League champions Manchester City on their return to the top flight.",
+      "title": "アーセナルフェイスバルセロナ & リヨン女性のチャンピオンズリーグ",
+      "summary": "アーセナルフェイスホルダーバルセロナ受賞者の記録リヨン女性のチャンピオンズリーグ, しばらくチェルシー旅行するリヨンそして、マンチェスター・シティ獲得を問い合わせバイエルン・ミュンヘン.",
+      "title_original": "Arsenal to face Barca & Lyon in Women's Champions League",
+      "summary_original": "Arsenal will face holders Barcelona and record winners Lyon in the Women's Champions League, while Chelsea will travel to Lyon and Man City will take on Bayern Munich.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgw249w3dgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 15:57:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c05rnv2rq85o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 11:29:33 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1858,13 +1845,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Calvert-Lewin レスキューポイントリーズに対してブレントフォード",
+      "summary": "Dominic Calvert-Lewin 季節を第一に考えるリーズ戦いの背部は1-1 の引くために勝ちますブレントフォード.",
+      "title_original": "Calvert-Lewin rescues point for Leeds against Brentford",
+      "summary_original": "Dominic Calvert-Lewin scores his first goal of the season as Leeds battle back and earn a 1-1 draw against Brentford.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cn0jx60ekk0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 19:00:28 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "イプスウィッチ・タウン FC. .リヴァプール: プレミアリーグ– ライブ",
-      "summary": "プレミアリーグ8pm BST キックオフライブスコアボードからのアップデート |Read Football Daily | Email Scott Gary O’Neil’s スカイスポーツに話せます。「[最初の半分]オールド・トラッフォード] 私達に私達がこのレベルで競争できる大きい信任を与えます... 反対の家の勝利サンダーランド私たちのために巨大だった...我々は本当に結果や結果に焦点を合わせていません, 私たちは、史上、自分自身の最高のバージョンであることにコミットしようと...我々は、ゲームで起こったことのそれから離れました [at]オールド・トラッフォード】...それ",
+      "summary": "プレミアリーグ8pm BST キックオフライブスコアボードからのアップデート |Read Football Daily | Email Scott It’s 深夜に12 番目と13 番目。徹夜勝者はほとんど5 番目の場所で夕方を終了します。ゲームの終了は、イプスウィッチ途中テーブルの上部の半分に、リヴァプール11 位に上がる。みんなで遊ぼう! (通常はシーズン初旬の洞窟が使われますが、その中の害はどこにありますか?) 続きを読む...",
       "title_original": "Ipswich Town v Liverpool: Premier League – live",
-      "summary_original": "Premier League updates from the 8pm BST kick-off Live scoreboard | Read Football Daily | Email Scott Gary O’Neil’s turn to speak to Sky Sports. “[The first half at Old Trafford] gives us a big belief that we can compete at this level … the home win against Sunderland was huge for us … we don’t really focus on outcome or results, we just try to commit to being the best version of ourselves all the time … we drifted away from that because of things that happened in the game [at Old Trafford] … it ",
+      "summary_original": "Premier League updates from the 8pm BST kick-off Live scoreboard | Read Football Daily | Email Scott It’s a proper mid-table clash tonight: 12th versus 13th. Tonight’s winner will almost certainly end the evening in fifth place; should the game end in a draw, Ipswich will make it into the top half of the table, while Liverpool would rise to 11th. All to play for! (The usual po-faced early-season caveats apply, but where’s the harm in it?) Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
-      "published": "Fri, 04 Sep 2026 18:20:12 GMT",
+      "published": "Fri, 04 Sep 2026 18:32:27 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2124,6 +2125,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "堅い開始のためのパリ・サンジェルマンしかし、ルイス・エンリケ獲得から「新しいエネルギー」の破烈に信仰を持っている",
+      "summary": "パリ・サンジェルマンここまでリーグの試合を描いています。モナコ金曜日にトリッキーなタスクをポーズ “学校にいるような”ルイス・エンリケ記者会見室に入ると、ジャーナリストが彼の心のボンジュールに無毒に反応するのを聞く。彼の備考は、前夜にフィッティングされたパリ・サンジェルマン’ s 季節の最初のホームマッチ, フランスのレンタルレとうまくラインアップ ’ s ’ s ’ s ’ s ’ s ’ s ’ s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s 最初の ホーム s s s s s s マッチ s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s sSeptember. Although の n",
+      "title_original": "Tough start for PSG but Luis Enrique has faith in burst of ‘new energy’ from signings",
+      "summary_original": "Paris Saint-Germain have drawn both of their league games so far and Monaco pose a tricky task on Friday “It’s like we’re at school,” Luis Enrique quipped as he entered the press conference room, hearing the journalists respond in unison to his hearty bonjour . His remark was fitting on the eve of Paris Saint-Germain’s first home match of the season, which lines up nicely with France’s rentrée , the term for the nationwide return to school and the office at the start of September. Although the n",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/04/paris-saint-germain-luis-enrique-monaco",
+      "published": "Fri, 04 Sep 2026 07:00:01 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Mike Dean 主張 彼は参照試合中に笑いのための秘密のゲームを再生しました",
       "summary": "旧正式に「センターサークルに滞在しよう」と記者会見のグループは、備考で困っていると考えました 前の投稿プレミアリーグ参考文献 Mike Dean 犯罪中に秘密の課題に取り組むために使用した主張, 限り、可能な限りセンターのサークルに滞在しようなど, 彼は告白として “ちょうど冗談” 試合中に. 英語ゲームの中で最もよく知られている公式の1 つによって作られた備考は、そこにはないと言う公式を参照することによって、音楽と会いました",
       "title_original": "Mike Dean claims he played secret games for a laugh while refereeing matches",
@@ -2173,20 +2188,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/03/andoni-iraola-defends-liverpool-transfer-strategy-turned-down-options",
       "published": "Thu, 03 Sep 2026 21:30:10 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Gabriel Martinelli リーフレットアーセナル獲得を問い合わせサウジアラビア n クラブ Al-Hilal に 6000万ポンド の契約",
-      "summary": "フォワードフォローガブリエウ・ジェズスチャンピオンの外で Richarlison ないでトッテナム獲得を問い合わせプレミアリーグスチームアーセナル確認済み Gabriel Martinelli 参加しましたサウジアラビア n 側面 6000万ポンド のための Al ヒラル。ブラジルの移籍は前方には、販売上の条項が含まれています。参加したマルティネリ、アーセナル2019 年のイチュアノから、エミレーツのピークを下回りました。プレミアリーグタイトル最終シーズン。過去の記録を上回る彼の手数料は、4000万ポンド は、b を受け取った",
-      "title_original": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
-      "summary_original": "Forward follows Gabriel Jesus out of champions Richarlison not in Tottenham’s Premier League squad Arsenal have confirmed Gabriel Martinelli has joined the Saudi Arabian side Al-Hilal for £60m. It is understood the deal for Brazil forward includes a sell-on clause. Martinelli, who joined Arsenal from Ituano in 2019, has fallen down the pecking order at the Emirates despite being part of the squad that won the Premier League title last season. His fee surpasses the previous record £40m received b",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal",
-      "published": "Thu, 03 Sep 2026 17:26:25 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2278,9 +2279,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "London City 早期リードオーバーマンチェスター・ユナイテッドライブ!",
+      "title": "London City ドミネーションマンチェスター・ユナイテッド WSL オープナーLIVE!",
       "summary": "",
-      "title_original": "London City take early lead over Man Utd LIVE!",
+      "title_original": "London City dominating Man Utd in WSL opener LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/live/575755",
