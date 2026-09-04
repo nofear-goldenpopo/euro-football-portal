@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T07:52:17.255096+00:00",
+  "updated_at": "2026-09-04T08:06:45.119204+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1322,7 +1322,12 @@
     "Paris Saint-Germain’s": "",
     "September. Although": "",
     "Women's Super League's": "",
-    "Bunny Shaw": ""
+    "Bunny Shaw": "",
+    "Marvin Bartley": "",
+    "David Martindale": "",
+    "Friday's BBC Scotland TV": "",
+    "Andy McCann": "",
+    "Jonny Wilkinson": "ジョニー・ウィルキンソン"
   },
   "items": [
     {
@@ -1592,6 +1597,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Bartley & Martindale は Livingston のホスト Stenhousemuir として再会のために設定 - BBC で見る",
+      "summary": "Stenhousemuir マネージャーMarvin Bartley 彼は Livingston のスポーツディレクターに話されていないことを明らかに David Martindale 昨シーズンの終わりにクラブから辞退してから、会席にセットされた側面 Friday's BBC Scotland TV マッチ。",
+      "title_original": "Bartley & Martindale set for reunion as Livingston host Stenhousemuir - watch on BBC",
+      "summary_original": "Stenhousemuir manager Marvin Bartley reveals he has not spoken to Livingston sporting director David Martindale since resigning from the club at the end of last season, with the sides set to meet in Friday's BBC Scotland TV match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7903rq5w2qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 07:59:28 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ザ・オブ・ザ・プレミアリーグプレミアムは2000万ポンド - ヨーロッパのクラブを心配する",
       "summary": "英語のプレイヤーがプレミアムに来たという古い広告。今では、すでにプレーヤーに単に適用するように表示されるプレミアリーグ.",
       "title_original": "The Premier League premium is £20m - and that worries European clubs",
@@ -1627,20 +1646,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yep5d6qnno?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 03 Sep 2026 20:30:19 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ほとんどのゲーム変更移籍をランキングプレミアリーグ歴史・歴史",
-      "summary": "いくつかの移籍は、ベッドに時間がかかります, 他の人は、インスタントゲームチェンジャーを証明 - ここでは、トップです 10 の獲得プレミアリーグ針を動かす時代。",
-      "title_original": "Ranking the most game-changing transfers in Premier League history",
-      "summary_original": "Some transfers take time to bed in, others prove instant game-changers - here are the top 10 signings of the Premier League era that moved the needle.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 06:17:38 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2166,6 +2171,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アシスタント・ヘッドテッチャーが1 週間イングランド・マネージャーになろう",
+      "summary": "Andy McCann 作業にのみ返されます。",
+      "title_original": "The assistant headteacher about to become England manager for a week",
+      "summary_original": "Andy McCann has only just returned to work.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13577442/andy-mccann-interview-the-assistant-headteacher-from-liverpool-about-to-become-england-manager-for-a-week",
+      "published": "Fri, 04 Sep 2026 09:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アンドリュース:ブレントフォード頂点で遊ぶ - 天井を破ることができるかどうかを見てみましょう",
+      "summary": "2025/26 シーズンに幕を下ろす2 代目。ブレントフォード彼らが前に行わなかったことを行う機会が金持ちしていた:ヨーロッパのために修飾.",
+      "title_original": "Andrews: Brentford are playing with verve - let's see if we can break the ceiling",
+      "summary_original": "Seconds before the curtain came down on the 2025/26 season, Brentford had a golden chance to do what they had never done before: qualify for Europe.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13580770/keith-andrews-exclusive-brentford-head-coach-on-the-improvements-he-hopes-can-help-break-the-ceiling-and-help-the-bees-reach-europe",
+      "published": "Fri, 04 Sep 2026 09:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Moonfall は、よりアスコットの富のために戻ります",
       "summary": "アスコット、Bangor-on-Dee、Worcester からのアクションで金曜日に忙しい一日のレースがあります。Sky Sports Racing.",
       "title_original": "Moonfall returns for more Ascot riches",
@@ -2173,6 +2206,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13580489/today-on-sky-sports-racing-ascot-bangor-on-dee-and-worcester",
       "published": "Fri, 04 Sep 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "獲得を問い合わせジョニー・ウィルキンソン信じられないほどのトリックショットを抜くとウイルスに行きます!",
+      "summary": "ジョニー・ウィルキンソンこの素晴らしいトリックショットを抜いた後、ファンをチューニングしました!",
+      "title_original": "How?! 🤯 Jonny Wilkinson goes viral after pulling off incredible trick shot!",
+      "summary_original": "Jonny Wilkinson has stunned fans after pulling off this remarkable trick shot!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13581160/jonny-wilkinson-pulls-off-incredible-trick-shot",
+      "published": "Fri, 04 Sep 2026 08:57:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2401,48 +2448,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブラッドフォード スナップ 7 マッチ 負け streak と 勝つ 以上 Castleford",
-      "summary": "ファースト・ハーフ・ディスプレイ Bradford Bulls オーバー32-22 勝利で7 試合負けストリークをスナップ Castleford Tigers.",
-      "title_original": "Bradford snap seven-match losing streak with win over Castleford",
-      "summary_original": "A five-try first half display by Bradford Bulls helped snap a seven-match losing streak with a 32-22 victory over Castleford Tigers.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13581063/super-league-bradford-bulls-produce-five-try-first-half-to-snap-seven-match-losing-streak-with-win-over-castleford-tigers",
-      "published": "Thu, 03 Sep 2026 22:13:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "PL Predictions: More Iraola 問題?リヴァプールスリップにイプスウィッチ",
-      "summary": "私たちのトップのヒント Lewis Jones, 赤坂 Jones Knows 週末に分析とベッティングのインサイトを提供プレミアリーグアクション。",
-      "title_original": "PL Predictions: More Iraola issues? Liverpool to slip at Ipswich",
-      "summary_original": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the weekend Premier League action.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13581012/premier-league-predictions-jones-knows-best-bets-more-andoni-iraola-issues-liverpool-to-slip-at-ipswich",
-      "published": "Thu, 03 Sep 2026 22:50:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Penalised AntonelliRusssell を助けるためにイタリアグランプリ",
-      "summary": "Kimi Antonelli メルセデスチームメイトとタイトルライバルを支援する準備ができている George Russell 予選でイタリアグランプリエンジンのペナルティのために世界選手権のリーダーがグリッドの後ろで始まります。",
-      "title_original": "Penalised Antonelli to help Russell at Italian GP",
-      "summary_original": "Kimi Antonelli is ready to help Mercedes team-mate and title rival George Russell in qualifying at the Italian Grand Prix for a race the world championship leader will start at the back of the grid due to an engine penalty.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13580797/italian-gp-kimi-antonelli-to-help-mercedes-team-mate-george-russell-in-monza-qualifying-due-to-engine-grid-penalty",
-      "published": "Thu, 03 Sep 2026 12:10:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
