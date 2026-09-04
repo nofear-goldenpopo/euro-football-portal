@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T14:38:44.136363+00:00",
+  "updated_at": "2026-09-04T14:52:36.450247+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1400,7 +1400,9 @@
     "Yann Gboho": "ヤン・グボオ",
     "Desire Doue": "",
     "Can Korda": "",
-    "Angela Stanford’s": ""
+    "Angela Stanford’s": "",
+    "Brian Madjo": "ブライアン・マジョ",
+    "More Scottish Premiership": ""
   },
   "items": [
     {
@@ -1474,6 +1476,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Villa Leave Harwood-Bellis アウト のチャンピオンズリーグスチーム",
+      "summary": "アストン・ヴィラ新しい獲得を残す Taylor Harwood-Bellis 十代のストライカーブライアン・マジョリーグステージでチームを抜いたチャンピオンズリーグ.",
+      "title_original": "Villa leave Harwood-Bellis out of Champions League squad",
+      "summary_original": "Aston Villa leave new signing Taylor Harwood-Bellis and teenage striker Brian Madjo out of their squad for the league stage of the Champions League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgypj5j47lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 14:37:09 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "いくつかの選手が欲しかったフェルナンデス更新プログラム - Maresca",
       "summary": "複数マンチェスター・シティプレイヤーは、プレイヤーが知ってもらいたいエンソ・フェルナンデス最終日にご参加ください移籍市場マネージャーは言う Enzo Maresca.",
       "title_original": "Several players wanted Fernandez updates - Maresca",
@@ -1516,20 +1532,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Rashford でプレーするから、同僚や新しいキャリアまで",
-      "summary": "結束してから10 年マーカス・ラッシュフォード獲得を問い合わせマンチェスター・ユナイテッド, Joe RileyBBC について 彼の新しいキャリアについてのスポーツ - そして、彼はフルタイムサッカーを見逃さない理由.",
-      "title_original": "From playing with Rashford to non-league and new career",
-      "summary_original": "Ten years after lining up with Marcus Rashford for Manchester United, Joe Riley tells BBC Sport about his new career - and why he does not miss full-time football.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjdvkn8y5gvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 06:59:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Earps、Man Utd reunion as WSL comeback nears を獲得候補に",
       "summary": "Mary Earps 後ろに Women's Super League そして、元クラブに面し、彼女の戻りをマークする希望マンチェスター・ユナイテッド.",
       "title_original": "Earps eyes Man Utd reunion as WSL comeback nears",
@@ -1569,6 +1571,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Rashford でプレーするから、同僚や新しいキャリアまで",
+      "summary": "結束してから10 年マーカス・ラッシュフォード獲得を問い合わせマンチェスター・ユナイテッド, Joe RileyBBC について 彼の新しいキャリアについてのスポーツ - そして、彼はフルタイムサッカーを見逃さない理由.",
+      "title_original": "From playing with Rashford to non-league and new career",
+      "summary_original": "Ten years after lining up with Marcus Rashford for Manchester United, Joe Riley tells BBC Sport about his new career - and why he does not miss full-time football.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjdvkn8y5gvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 06:59:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1698,20 +1714,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナム omit Richarlison からプレミアリーグスチーム",
-      "summary": "Richarlison が残っているトッテナム獲得を問い合わせプレミアリーグ今シーズンはクラブの計画では見つかりません。",
-      "title_original": "Spurs omit Richarlison from Premier League squad",
-      "summary_original": "Richarlison is left out of Tottenham's Premier League squad as he does not figure in the club's plans this season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 17:46:55 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "コベントリーサインウィンガーGboho - いとこのこパリ・サンジェルマンドウ",
       "summary": "コヴェントリー・シティ FC トゥールーズ・ウィンガーの獲得を確認するヤン・グボオ- のいとこパリ・サンジェルマンフランス進出 Desire Doue.",
       "title_original": "Coventry sign winger Gboho - cousin of PSG's Doue",
@@ -1830,7 +1832,7 @@
       "summary_original": "• All the latest news and previews before the weekend • Premier League: 10 things to watch for | Email Tom The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women’s sport. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live",
-      "published": "Fri, 04 Sep 2026 14:00:28 GMT",
+      "published": "Fri, 04 Sep 2026 14:36:49 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1844,7 +1846,7 @@
       "summary_original": "The WSL season kicks off tonight and the Guardian’s women’s football writer Suzanne Wrack is here now answering your questions – from what to expect from London City Lionesses after their signing spree to whether Manchester City can go back to back. Ask a question: log in or sign up here . Weekender73 asks: Daughter’s favourite player: Ellie Carpenter. Mine: Mary Fowler. Who is right? Suzanne: Both. Who am I to say who an individual’s favourite player should be? It’s personal, and mine would pro",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/sport/live/2026/sep/04/wsl-womens-football-expert-suzanne-wrack-reader-questions",
-      "published": "Fri, 04 Sep 2026 14:24:37 GMT",
+      "published": "Fri, 04 Sep 2026 14:37:15 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2244,6 +2246,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "US Open LIVE! アルカラス、サバレンカ、ウィリアムズの妹の行動",
+      "summary": "最新のスコア、更新、ニュース、結果を入手全米オープン; からアクションを見る New York- スカイスポーツの専用テニスコートにライブ",
+      "title_original": "US Open LIVE! Alcaraz, Sabalenka and the Williams sisters in action",
+      "summary_original": "Get the latest scores, updates, news, results at the US Open; watch the action from New York - live on Sky Sports' dedicated tennis channel",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13581049/us-open-live-scores-updates-news-commentary-results-from-new-york-with-carlos-alcaraz-aryna-sabalenka-ben-shelton-serena-and-venus-williams-in-action",
+      "published": "Fri, 04 Sep 2026 15:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "イタリアグランプリ: メルセデスはフェラーリペースに近道の練習 LIVE に反応!",
       "summary": "",
       "title_original": "Italian GP: Mercedes responding to Ferrari pace in close-fought practice LIVE!",
@@ -2412,13 +2428,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Scot Prem 最新:セルティックストライカー・デュランは、月のプレイヤーを獲得",
+      "title": "More Scottish Premiership スカイスポーツでライブゲーム",
       "summary": "",
-      "title_original": "Scot Prem latest: Celtic striker Duran wins player of month",
+      "title_original": "More Scottish Premiership games live on Sky Sports",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "published": "Fri, 04 Sep 2026 12:00:00 BST",
+      "published": "Fri, 04 Sep 2026 15:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2503,20 +2519,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13580770/keith-andrews-exclusive-brentford-head-coach-on-the-improvements-he-hopes-can-help-break-the-ceiling-and-help-the-bees-reach-europe",
       "published": "Fri, 04 Sep 2026 09:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ファンなしオールドファームプレミアシップと League Cup 今シーズンの試合",
-      "summary": "ファンが許可されていないオールドファームゲーム間のゲームセルティックそして、レンジャーズ今シーズンのプレミアシップで League CupSPFL が発表しました。",
-      "title_original": "No away fans at Old Firm Premiership and League Cup games this season",
-      "summary_original": "There will be no fans allowed at Old Firm games between Celtic and Rangers in this season's Premiership and League Cup, the SPFL has announced.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13581296/celtic-and-rangers-away-fans-barred-from-all-old-firm-premiership-and-league-cup-games-this-season",
-      "published": "Fri, 04 Sep 2026 13:23:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
