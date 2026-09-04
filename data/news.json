@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T19:34:43.805682+00:00",
+  "updated_at": "2026-09-04T19:49:34.998036+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1446,7 +1446,8 @@
     "Anfield. Another": "",
     "The Gunners": "",
     "Ipswich LIVE": "",
-    "Matteo Guendouzi": "マテオ・ゲンドゥージ"
+    "Matteo Guendouzi": "マテオ・ゲンドゥージ",
+    "London City's": ""
   },
   "items": [
     {
@@ -1520,17 +1521,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "期限日以降、モイズは失望しています",
-      "summary": "エヴァートンマネージャーDavid Moyes 締め切り日により多くの事業をしたいと認めた後、彼は「失望に生きるために」受け入れます。",
-      "title_original": "Moyes lives with disappointment after deadline day",
-      "summary_original": "Everton manager David Moyes accepts he has \"to live with disappointments\" after admitting he wanted to do more business on transfer deadline day.",
+      "title": "ルイス・エンリケサインイン新契約拡張するパリ・サンジェルマン宿泊約款",
+      "summary": "パリ・サンジェルマンマネージャールイス・エンリケ3 年合意契約延長2030 年までにクラブで彼を守る。",
+      "title_original": "Luis Enrique signs new deal to extend PSG stay",
+      "summary_original": "Paris St-Germain manager Luis Enrique agrees a three-year contract extension that will keep him at the club until 2030.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3v49617lzko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 14:03:39 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c36l79n02r8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 19:43:26 GMT",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1559,6 +1560,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "期限日以降、モイズは失望しています",
+      "summary": "エヴァートンマネージャーDavid Moyes 締め切り日により多くの事業をしたいと認めた後、彼は「失望に生きるために」受け入れます。",
+      "title_original": "Moyes lives with disappointment after deadline day",
+      "summary_original": "Everton manager David Moyes accepts he has \"to live with disappointments\" after admitting he wanted to do more business on transfer deadline day.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3v49617lzko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 14:03:39 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1685,20 +1700,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マザーウェルのブループリントは、セカンド・シーズン症候群を防衛する",
-      "summary": "新しい顔、同じアイデンティティ。マザーウェルのアプローチは、2025-26 のハイスを上回るキャンペーンを夢見ているファンを持っています。",
-      "title_original": "Motherwell's blueprint is defying second-season syndrome",
-      "summary_original": "New faces, same identity. Motherwell's approach has fans dreaming of a campaign that surpasses the highs of 2025-26.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq8j0vg4y7po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 08:19:17 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1876,7 +1877,7 @@
       "summary_original": "Premier League updates from the 8pm BST kick-off Live scoreboard | Read Football Daily | Email Scott The teams are out! Ipswich in blue, Liverpool in red. A wonderful start-of-the-weekend, possibly-a-few-pints-to-the-good atmosphere under the lights at Portman Road! Not long now. In the meantime, here’s Dave Estherby with some pre-match words of encouragement for Liverpool : “Not really sure what’s going on upstairs at Anfield. Another summer where they’ve spaffed money up the wall for unproven ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
-      "published": "Fri, 04 Sep 2026 19:19:38 GMT",
+      "published": "Fri, 04 Sep 2026 19:44:39 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2290,9 +2291,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "London City 狭いリードオーバーへの保持マンチェスター・ユナイテッドライブ!",
+      "title": "ヴァン ・ デ ・ ドンク ダブルスからスーパーブ フリク London City's リード対マンチェスター・ユナイテッドライブ!",
       "summary": "",
-      "title_original": "London City holding onto narrow lead over Man Utd LIVE!",
+      "title_original": "Superb flick from Van de Donk doubles London City's lead vs Man Utd LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/live/575755",
@@ -2416,9 +2417,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "St Helensconcede 早い試み vs leigh, としてハル KR はリード対ジャイアントをとります",
+      "title": "St HelensLeigh から下へハル KR はリード対ジャイアントをとります",
       "summary": "",
-      "title_original": "St Helens concede early try vs Leigh, as Hull KR take lead vs Giants",
+      "title_original": "St Helens go down against Leigh, as Hull KR take lead vs Giants",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13580338/super-league-live-updates-videos-scores-commentary-analysis-as-leigh-leopards-host-st-helens-hull-kr-face-huddersfield-giants",
