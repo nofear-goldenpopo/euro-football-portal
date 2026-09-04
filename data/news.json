@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T21:09:54.865499+00:00",
+  "updated_at": "2026-09-04T21:23:35.233366+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1452,7 +1452,12 @@
     "Seve Ballesteros": "セベ・バレステロス",
     "PDC's European Tour": "",
     "Star-studded London City": "",
-    "Millwall Lionesses": "ミルウォール・ライオネセスLFC"
+    "Millwall Lionesses": "ミルウォール・ライオネセスLFC",
+    "Yves Bissouma": "イヴ・ビスマ",
+    "Crystal Palace's Adam Wharton": "",
+    "Barcelona's Raphinha": "",
+    "Andoni Iraola’s Liverpool": "",
+    "If Ipswich’s": ""
   },
   "items": [
     {
@@ -1554,16 +1559,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「ユニーク」とはベリンガムで繁栄しているモウリーニョ'システム",
-      "summary": "ジュード・ベリンガムフィットし、彼の上に構築する準備ができている World Cup 彼が最善を尽くすことを目的とする形レアル・マドリードアクセスジョゼ・モウリーニョ.",
-      "title_original": "How 'unique' Bellingham is thriving in Mourinho's system",
-      "summary_original": "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.",
+      "title": "ビスソウマが提供されましたチェルシー - 土曜日の移籍ゴシップ",
+      "summary": "チェルシー提供元-トッテナムミッドフィルダーイヴ・ビスマ, マンチェスター・シティそして、チェルシーお知らせインテル最新記事クリスタル・パレス獲得を問い合わせアダム・ウォートン, アーセナル入居を検討中バルセロナ獲得を問い合わせラフィーニャ, 以上.",
+      "title_original": "Bissouma was offered to Chelsea - Saturday's gossip",
+      "summary_original": "Chelsea were offered ex-Tottenham midfielder Yves Bissouma, Manchester City and Chelsea showed interest in Crystal Palace's Adam Wharton, Arsenal are considering move for Barcelona's Raphinha, plus more.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 08:08:53 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7903g4nvn3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 21:07:33 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1593,6 +1598,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「ユニーク」とはベリンガムで繁栄しているモウリーニョ'システム",
+      "summary": "ジュード・ベリンガムフィットし、彼の上に構築する準備ができている World Cup 彼が最善を尽くすことを目的とする形レアル・マドリードアクセスジョゼ・モウリーニョ.",
+      "title_original": "How 'unique' Bellingham is thriving in Mourinho's system",
+      "summary_original": "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 08:08:53 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1705,20 +1724,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Atletico's Alvarez'learning experience' の後に戻ります - Simeone",
-      "summary": "フリアン・アルバレスに戻るアトレティコ・マドリードの チームラ・リーガゲームアスレティック・ビルバオ彼がクラブを離れようとしなかったにもかかわらず、マネージャーは言うディエゴ・シメオネ.",
-      "title_original": "Atletico's Alvarez will return after 'learning experience' - Simeone",
-      "summary_original": "Julian Alvarez will return to Atletico Madrid's squad for the La Liga game at Athletic Club despite his failed attempt to leave the club, says manager Diego Simeone.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cje8wne0qy8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:43:13 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1862,13 +1867,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イプスウィッチ・タウン FC. .リヴァプール: プレミアリーグ– ライブ",
-      "summary": "プレミアリーグ8pm BST キックオフライブスコアボードからのアップデート |Read Football Daily | Email Scott The チームをクリア!イプスウィッチ青で、リヴァプール赤で。素晴らしいスタート・オブ・ザ・ウィークエンド、おそらくフェーピント・トゥ・ザ・ザ・グッドの雰囲気でライトの下でポートマン・ロード!今は長くない。今回は、Dave Estherby いくつかの事前一致の奨励の言葉でリヴァプール: 「何が起きているのかは本当に確信しない」Anfield. Another 夏は、彼らは未改善のための壁にお金をかけた",
-      "title_original": "Ipswich Town v Liverpool: Premier League – live",
-      "summary_original": "Premier League updates from the 8pm BST kick-off Live scoreboard | Read Football Daily | Email Scott The teams are out! Ipswich in blue, Liverpool in red. A wonderful start-of-the-weekend, possibly-a-few-pints-to-the-good atmosphere under the lights at Portman Road! Not long now. In the meantime, here’s Dave Estherby with some pre-match words of encouragement for Liverpool : “Not really sure what’s going on upstairs at Anfield. Another summer where they’ve spaffed money up the wall for unproven ",
+      "title": "チェルシー7 ゴールで完璧なスタートを維持ブライトンスリラー",
+      "summary": "チェルシー四季折々の旬を彩るシャビ・アロンソ, オフブライトン対決で7 ゴールの出会い4-3 を獲得 Stamford Bridge.",
+      "title_original": "Chelsea maintain perfect start in seven-goal Brighton thriller",
+      "summary_original": "Chelsea maintained their perfect start to the season under Xabi Alonso, holding off a Brighton fightback to win a seven-goal encounter 4-3 at Stamford Bridge.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c7v4e23z7gvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 19:00:20 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Isak の急なダブルシンクイプスウィッチ与えるために Andoni Iraola はじめてリヴァプールログイン",
+      "summary": "アンドーニ・イラオラの初勝利リヴァプール、最も最近の星の印の導入ブラッドリー・バルコラ金曜日の夜を成功させる。より良いまだ、継続的な兆候アレクサンデル・イサク昨年のモデルは、人生に戻ってきます。その2 つは、三つのポイントを守る初期の目標です。獲得を問い合わせイプスウィッチ' の擁護は水密より少しでした、リヴァプール’ の攻撃者は、速度と発明のフルで、彼らは非常に最後のシーズンの多くのために欠けていました. 続きを読む...",
+      "title_original": "Isak’s rapid double sinks Ipswich to give Andoni Iraola first Liverpool win",
+      "summary_original": "A first win for Andoni Iraola’s Liverpool, the introduction of the latest star signing in Bradley Barcola making for a successful Friday night. Better yet, continuing signs that Alexander Isak, last year’s model, is coming back to life, his two, well-taken early goals securing the three points. If Ipswich’s defending was less than watertight, Liverpool’s attackers were full of the speed and invention they sorely lacked for much of last season. Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
-      "published": "Fri, 04 Sep 2026 20:58:14 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/04/ipswich-liverpool-premier-league-match-report",
+      "published": "Fri, 04 Sep 2026 21:07:54 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2366,6 +2385,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "サバレンカは、アルカラスが進行するにつれて、ウィン中に大麻の匂いを訴える",
+      "summary": "Aryna Sabalenka 強烈なカンナビスの匂いについて、彼女の3 ラウンド勝利を延ばしたと訴えました Kamilla Rakhimova 獲得を問い合わせ全米オープン.",
+      "title_original": "Sabalenka complains of cannabis smell during win as Alcaraz progresses",
+      "summary_original": "Aryna Sabalenka complained to the umpire about a strong ​smell of cannabis that was present duing her third-round win over Kamilla Rakhimova at the US Open.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13581383/us-open-aryna-sabalenka-complains-of-cannabis-smell-during-win-over-kamilla-rakhimova-to-reach-fourth-round",
+      "published": "Fri, 04 Sep 2026 16:57:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'It's going to be tight' - Hamilton、'dream' Monza pole を獲得候補に",
       "summary": "Lewis Hamilton「非常に近い」の戦いを予測していますイタリアグランプリモンツァの「ドリーム」のポールポジションだと彼は言うために土曜日に修飾.",
       "title_original": "'It's going to be tight' - Hamilton eyes 'dream' Monza pole",
@@ -2391,20 +2424,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Sabalenka は Rakhimova をビートして 4 ラウンド の US Open",
-      "summary": "Aryna Sabalenka 厳しい試験に反する Kamilla Rakhimova- 特に2 番目のセット - の4 ラウンドに達する全米オープン.",
-      "title_original": "Sabalenka beats Rakhimova to reach fourth round of US Open",
-      "summary_original": "Aryna Sabalenka came through a tough test against Kamilla Rakhimova - particularly in the second set - to reach the fourth round of the US Open.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13581383/us-open-aryna-sabalenka-beats-kamilla-rakhimova-in-straight-sets-to-reach-fourth-round-in-flushing-meadows",
-      "published": "Fri, 04 Sep 2026 16:57:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2520,9 +2539,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! アルカラス、サバレンカは、ウィリアムズの妹がダブルスを演じて勝つ",
+      "title": "US Open: Bublik が出口を苦しむので、Alcaraz と Sabalenka は再び印象づけます",
       "summary": "最新のスコア、アップデート、ニュース、結果を入手全米オープン; からアクションを見る New York- スカイスポーツの専用テニスコートにライブ",
-      "title_original": "US Open LIVE! Alcaraz, Sabalenka win ahead of Williams sisters playing doubles",
+      "title_original": "US Open: Alcaraz and Sabalenka impress again as Bublik suffers exit",
       "summary_original": "Get the latest scores, updates, news, results at the US Open; watch the action from New York - live on Sky Sports' dedicated tennis channel",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13581049/us-open-live-scores-updates-news-commentary-results-from-new-york-with-carlos-alcaraz-aryna-sabalenka-ben-shelton-serena-and-venus-williams-in-action",
