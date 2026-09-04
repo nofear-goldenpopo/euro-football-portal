@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T12:08:05.240481+00:00",
+  "updated_at": "2026-09-04T12:30:52.947525+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1365,7 +1365,11 @@
     "Denzel Bentley": "デンゼル・ベントリー",
     "Atletico's Alvarez": "",
     "Atletico Madrid's": "",
-    "Guess WSL": ""
+    "Guess WSL": "",
+    "Chaotic Crystal Palace": "",
+    "June. Having": "",
+    "Oliver Glasner’s": "",
+    "Leader Thriston Lawrence": ""
   },
   "items": [
     {
@@ -1397,6 +1401,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リヴァプール、Minteh can still get dream move - Hurzeler を獲得候補に",
+      "summary": "ブライトンログイン Fabian Hurzeler コメント Yankuba MintehSeagulls がダウンした後、まだ「彼の夢を満たす」未来に移動することができますリヴァプールの はウィンガーのオファーです。",
+      "title_original": "Liverpool target Minteh can still get dream move - Hurzeler",
+      "summary_original": "Brighton boss Fabian Hurzeler says Yankuba Minteh can still \"fulfil his dream\" move in future after the Seagulls turned down Liverpool's offers for the winger.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgk5g2z3kyxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 10:44:37 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナルフェイスバルセロナ & リヨン女性のチャンピオンズリーグ",
       "summary": "アーセナルフェイスホルダーバルセロナ受賞者の記録リヨン女性のチャンピオンズリーグ, しばらくチェルシー旅行するリヨンそして、マンチェスター・シティ獲得を問い合わせバイエルン・ミュンヘン.",
       "title_original": "Arsenal to face Barca & Lyon in Women's Champions League",
@@ -1407,6 +1425,20 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Rashford でプレーするから、同僚や新しいキャリアまで",
+      "summary": "結束してから10 年マーカス・ラッシュフォード獲得を問い合わせマンチェスター・ユナイテッド, Joe RileyBBC について 彼の新しいキャリアについてのスポーツ - そして、彼はフルタイムサッカーを見逃さない理由.",
+      "title_original": "From playing with Rashford to non-league and new career",
+      "summary_original": "Ten years after lining up with Marcus Rashford for Manchester United, Joe Riley tells BBC Sport about his new career - and why he does not miss full-time football.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjdvkn8y5gvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 06:59:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1425,20 +1457,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプール、Minteh can still get dream move - Hurzeler を獲得候補に",
-      "summary": "ブライトンログイン Fabian Hurzeler コメント Yankuba MintehSeagulls がダウンした後、まだ「彼の夢を満たす」未来に移動することができますリヴァプールの はウィンガーのオファーです。",
-      "title_original": "Liverpool target Minteh can still get dream move - Hurzeler",
-      "summary_original": "Brighton boss Fabian Hurzeler says Yankuba Minteh can still \"fulfil his dream\" move in future after the Seagulls turned down Liverpool's offers for the winger.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk5g2z3kyxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 10:44:37 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Sutton の予測 v Kasabian のフロントマン Serge Pizzorno",
       "summary": "BBC スポーツサッカーの専門家クリス・サットン Kasabian フロントマン Serge Pizzorno この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
       "title_original": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
@@ -1446,34 +1464,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 03 Sep 2026 19:58:10 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Rashford でプレーするから、同僚や新しいキャリアまで",
-      "summary": "結束してから10 年マーカス・ラッシュフォード獲得を問い合わせマンチェスター・ユナイテッド, Joe RileyBBC について 彼の新しいキャリアについてのスポーツ - そして、彼はフルタイムサッカーを見逃さない理由.",
-      "title_original": "From playing with Rashford to non-league and new career",
-      "summary_original": "Ten years after lining up with Marcus Rashford for Manchester United, Joe Riley tells BBC Sport about his new career - and why he does not miss full-time football.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjdvkn8y5gvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 06:59:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "誰がベストなのかマンチェスター・シティ購入する選手? FPL ゲームウィーク3 ジレンマ",
-      "summary": "BBC Sport FPL エキスパート Gianni ButticeFantasy に直面している最大のジレンマのいくつかを見てみましょうプレミアリーグマネージャーがゲームウィーク3 に向かいます。",
-      "title_original": "Who are best Man City players to buy? FPL gameweek three dilemmas",
-      "summary_original": "BBC Sport FPL expert Gianni Buttice looks at some of the biggest dilemmas facing Fantasy Premier League managers heading into gameweek three.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp301d314xyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 06:15:32 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1509,6 +1499,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "誰がベストなのかマンチェスター・シティ購入する選手? FPL ゲームウィーク3 ジレンマ",
+      "summary": "BBC Sport FPL エキスパート Gianni ButticeFantasy に直面している最大のジレンマのいくつかを見てみましょうプレミアリーグマネージャーがゲームウィーク3 に向かいます。",
+      "title_original": "Who are best Man City players to buy? FPL gameweek three dilemmas",
+      "summary_original": "BBC Sport FPL expert Gianni Buttice looks at some of the biggest dilemmas facing Fantasy Premier League managers heading into gameweek three.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp301d314xyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 06:15:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -1523,6 +1527,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "エヴァートン、free agent Vardy - Friday's gossip を獲得候補に",
+      "summary": "エヴァートン移動量を量る Jamie Vardy または Anthony Martial, ウィルフレッド・ザハ参加可能 AC ミラン, Estevao Willian からの移動を考慮するチェルシー.",
+      "title_original": "Everton eye free agent Vardy - Friday's gossip",
+      "summary_original": "Everton weigh up moves for Jamie Vardy or Anthony Martial, Wilfried Zaha could join AC Milan, Estevao Willian considers move from Chelsea.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62jgzxkjypo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 20:54:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "新しい WSL シーズンについて知る必要がある方",
       "summary": "BBC Sport's Ask Me 新しい WSL シーズンの前に知っておく必要があるすべてのチームに教えてください。",
       "title_original": "All you need to know about the new WSL season",
@@ -1534,20 +1552,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブレイクダウンチェルシーの staggering 39 夏終了",
-      "summary": "チェルシー39 人の選手を販売またはローンアウトすることにより、この夏に5億ポンド 以上を回復していると考えられています。",
-      "title_original": "Breaking down Chelsea's staggering 39 summer exits",
-      "summary_original": "Chelsea are believed to have recouped more than £500m this summer by either selling or loaning out a staggering 39 players.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 16:20:42 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1579,17 +1583,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "私は誰ですか? ログインブンデスリーガ星 2",
-      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
-      "title_original": "Who am I? Guess Bundesliga star No 2",
-      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
+      "title": "ブレイクダウンチェルシーの staggering 39 夏終了",
+      "summary": "チェルシー39 人の選手を販売またはローンアウトすることにより、この夏に5億ポンド 以上を回復していると考えられています。",
+      "title_original": "Breaking down Chelsea's staggering 39 summer exits",
+      "summary_original": "Chelsea are believed to have recouped more than £500m this summer by either selling or loaning out a staggering 39 players.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0req0zjqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:34:04 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 16:20:42 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1600,20 +1604,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 03 Sep 2026 17:46:55 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "エヴァートン、free agent Vardy - Friday's gossip を獲得候補に",
-      "summary": "エヴァートン移動量を量る Jamie Vardy または Anthony Martial, ウィルフレッド・ザハ参加可能 AC ミラン, Estevao Willian からの移動を考慮するチェルシー.",
-      "title_original": "Everton eye free agent Vardy - Friday's gossip",
-      "summary_original": "Everton weigh up moves for Jamie Vardy or Anthony Martial, Wilfried Zaha could join AC Milan, Estevao Willian considers move from Chelsea.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62jgzxkjypo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 20:54:27 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1646,6 +1636,20 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "私は誰ですか? ログインブンデスリーガ星 2",
+      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
+      "title_original": "Who am I? Guess Bundesliga star No 2",
+      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0req0zjqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 11:34:04 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1795,7 +1799,35 @@
       "summary_original": "• All the latest news and previews before the weekend • Premier League: 10 things to watch for | Email Tom The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women’s sport. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live",
-      "published": "Fri, 04 Sep 2026 11:38:15 GMT",
+      "published": "Fri, 04 Sep 2026 12:06:56 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Women’s Super LeagueQ&A:サッカーライターSuzanne Wrack 今すぐ質問に答える",
+      "summary": "The WSL 季節は夜にキックオフとガーディアンの女性のサッカーライターSuzanne Wrack 今、あなたの質問に答えています - 何から期待するロンドン・シティ・ライオネス獲得が誰にでもこだわる後マンチェスター・シティ戻りに戻ることができます。質問:ログインまたはサインアップしてください。trinder19 は尋ねます:Miedama の費用を補うために攻撃のミッドフィルダーに獲得するシティの失敗はいくらですか? Benítez は、かなりのカップリングだったし、次の時間のために再び試みるべきです。私の眺めは、",
+      "title_original": "Women’s Super League Q&A: football writer Suzanne Wrack answers your questions now",
+      "summary_original": "The WSL season kicks off tonight and the Guardian’s women’s football writer Suzanne Wrack is here now answering your questions – from what to expect from London City Lionesses after their signing spree to whether Manchester City can go back to back. Ask a question: log in or sign up here . trinder19 asks: How much will City’s failure to sign an attacking midfielder to cover for Miedama cost them? Benítez would have been quite the coup and they should try again for her next time. My view is that ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/sport/live/2026/sep/04/wsl-womens-football-expert-suzanne-wrack-reader-questions",
+      "published": "Fri, 04 Sep 2026 12:21:10 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チャオティッククリスタル・パレス 移籍市場左から Pierre Sage 感情の全域を実行するために",
+      "summary": "マネージャーは、防御的なターゲットを土地にし、戦争の最後の日のマグロを失ったが、彼は彼の最初のポイントを求めるように正当に描画することができます 少なくとも Pierre Sage 入社前の研究クリスタル・パレス獲得を問い合わせ June. Having ステップオリヴァー・グラスナー’ クラブの歴史の中で最も成功した時代の後の靴, それは対比敗北に従事しているフランス語マンのための最も簡単な移行ではなかったエヴァートンそして、マンチェスター・シティ新たなキャンペーンを開始し、未来を取り巻く不確実性の中",
+      "title_original": "Chaotic Crystal Palace transfer window left Pierre Sage to run the gamut of emotions",
+      "summary_original": "Manager was frustrated not to land defensive targets and lost last-day tug of war but can draw on positives as he seeks his first points At least Pierre Sage did his research before joining Crystal Palace in June. Having stepped into Oliver Glasner’s shoes after the most successful era in the club’s history, it has not been the easiest transition for the engaging Frenchman following defeats against Everton and Manchester City to start the new campaign, and amid uncertainty surrounding the future",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/04/pierre-sage-crystal-palace-transfer-window",
+      "published": "Fri, 04 Sep 2026 11:58:29 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1831,17 +1863,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Women’s Super LeagueQ&A:サッカーライターに尋ねる Suzanne Wrack 新しい季節を先取りする質問",
-      "summary": "The WSL 季節は夜にキックオフとガーディアンの女性のサッカーライターSuzanne Wrack1pm BST/8am で質問にお答えします ET. Ask 彼女の何か:スポーツレポーターとしてのキャリアから、新しいシーズンと女性のゲームの未来への彼女の希望への彼女の希望への彼女のキャリアから質問に答える:ログインまたはここにサインアップ.The Women’s Super League 季節は夜にキックオフロンドン・シティ・ライオネスインタビューマンチェスター・ユナイテッド. 2026/27 は 14 チームに拡大する女性のフットボールのための刺激的な新しい時代をマークします",
-      "title_original": "Women’s Super League Q&A: ask football writer Suzanne Wrack a question ahead of the new season",
-      "summary_original": "The WSL season kicks off tonight and the Guardian’s women’s football writer Suzanne Wrack will be here to answer your questions at 1pm BST/8am ET. Ask her anything: from her career as a sports reporter to her hopes for the new season and the future of the women’s game Ask a question: log in or sign up here . The Women’s Super League season kicks off tonight with London City Lionesses versus Manchester United. The 2026/27 marks an exciting new era for women’s football with an expansion to 14 team",
+      "title": "堅い開始のためのパリ・サンジェルマンしかし、ルイス・エンリケ獲得から「新しいエネルギー」の破烈に信仰を持っている",
+      "summary": "パリ・サンジェルマンここまでリーグの試合の両方を描いています。モナコ金曜日にトリッキーなタスクをポーズ “学校にいるような”ルイス・エンリケ記者会見室に入ると、ジャーナリストが彼の心のボンジュールに無毒に反応するのを聞く。彼の備考は、前夜にフィッティングされたパリ・サンジェルマン’ s 季節の最初のホームマッチ, フランスのレンタルレとうまくラインアップ ’ s ’ s ’ s ’ s ’ s ’ s ’ s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s 最初の ホーム s s s s s s マッチ s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s sSeptember. Although の n",
+      "title_original": "Tough start for PSG but Luis Enrique has faith in burst of ‘new energy’ from signings",
+      "summary_original": "Paris Saint-Germain have drawn both of their league games so far and Monaco pose a tricky task on Friday “It’s like we’re at school,” Luis Enrique quipped as he entered the press conference room, hearing the journalists respond in unison to his hearty bonjour . His remark was fitting on the eve of Paris Saint-Germain’s first home match of the season, which lines up nicely with France’s rentrée , the term for the nationwide return to school and the office at the start of September. Although the n",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/sport/live/2026/sep/04/wsl-womens-football-expert-suzanne-wrack-reader-questions",
-      "published": "Fri, 04 Sep 2026 10:20:41 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.theguardian.com/football/2026/sep/04/paris-saint-germain-luis-enrique-monaco",
+      "published": "Fri, 04 Sep 2026 07:00:01 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1859,20 +1891,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "堅い開始のためのパリ・サンジェルマンしかし、ルイス・エンリケ獲得から「新しいエネルギー」の破烈に信仰を持っている",
-      "summary": "パリ・サンジェルマンここまでリーグの試合の両方を描いています。モナコ金曜日にトリッキーなタスクをポーズ “学校にいるような”ルイス・エンリケ記者会見室に入ると、ジャーナリストが彼の心のボンジュールに無毒に反応するのを聞く。彼の備考は、前夜にフィッティングされたパリ・サンジェルマン’ s 季節の最初のホームマッチ, フランスのレンタルレとうまくラインアップ ’ s ’ s ’ s ’ s ’ s ’ s ’ s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s 最初の ホーム s s s s s s マッチ s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s sSeptember. Although の n",
-      "title_original": "Tough start for PSG but Luis Enrique has faith in burst of ‘new energy’ from signings",
-      "summary_original": "Paris Saint-Germain have drawn both of their league games so far and Monaco pose a tricky task on Friday “It’s like we’re at school,” Luis Enrique quipped as he entered the press conference room, hearing the journalists respond in unison to his hearty bonjour . His remark was fitting on the eve of Paris Saint-Germain’s first home match of the season, which lines up nicely with France’s rentrée , the term for the nationwide return to school and the office at the start of September. Although the n",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/paris-saint-germain-luis-enrique-monaco",
-      "published": "Fri, 04 Sep 2026 07:00:01 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Women’s Super League2026-27 プレビュー番号 14:ウェストハム",
       "summary": "Rita Guarino 去年のクラブの幸運を回した後、移転市場に戻ってきましたが、懸念は、ガーディアンの作家の予測位置の欠如に残っています。11 位(NB:これは必ずしも必ずしもそうではありません)Suzanne Wrack’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 10th 続きを読む...",
       "title_original": "Women’s Super League 2026-27 preview No 14: West Ham",
@@ -1884,20 +1902,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "London City 要求のスポンサー契約は、いくつかよりも大きく記録され、プレミアリーグ",
-      "summary": "クラブのオーナーは、女性のゲームで最大の合意を述べています カンは、ナイキの移籍を「ハゲ」と「ランドマーク」と記述しています。The Women’s Super League クラブロンドン・シティ・ライオネス’ Nike との新しいフロント・オブ・シャツのスポンサーシップ契約は、彼らのアメリカの所有者によると、女性のゲームの中で最も大きいです,Michele Kang. The 契約の期間と値が開示されていないが、WSL クラブに近いソースは、ゲーム交換の瞬間としてそれをハイリングし、カンは、それがさらに一部の男性を上回ると主張していますプレミアリーグクラブのシャツのお得な情報。",
-      "title_original": "London City claim sponsor deal is record and bigger than some in Premier League",
-      "summary_original": "Club owner says agreement is largest in women’s game Kang describes Nike deal as ‘huge’ and ‘landmark’ The Women’s Super League club London City Lionesses’ new front-of-shirt sponsorship deal with Nike is the largest in the women’s game, according to their American owner, Michele Kang. The length and value of the deal has not been disclosed but sources close to the WSL club are hailing it as a gamechanging moment and Kang claims that it even exceeds some men’s Premier League clubs’ shirt deals. ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/03/nike-deal-breaks-new-ground-london-city-lionesses-wsl",
-      "published": "Thu, 03 Sep 2026 21:33:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2237,20 +2241,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ガスリーは失いますモナコグランプリマクラレンの後、再び表彰台,レッドブル勝利魅力",
-      "summary": "Alpine's Pierre Gasly6 月より3 位に負けてしまったモナコレースのペナルティがマクラレンとマクレレンの成功の訴求後に再びグランプリレッドブル.",
-      "title_original": "Gasly loses Monaco GP podium again after McLaren, Red Bull win appeal",
-      "summary_original": "Alpine's Pierre Gasly has lost his third-place finish from June's Monaco Grand Prix again after his penalties from the race were reinstated after a successful appeal by McLaren and Red Bull.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13581163/pierre-gasly-alpine-driver-loses-monaco-gp-podium-for-second-time-after-mclaren-red-bull-win-appeal",
-      "published": "Fri, 04 Sep 2026 11:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Fulham 最新:Arbeloa は新しい獲得が速度まで得るので忍耐のための呼び出しを呼び出します",
       "summary": "",
       "title_original": "Fulham latest: Arbeloa calls for patience as new signings get up to speed",
@@ -2261,6 +2251,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ガスリーは失いますモナコグランプリマクラレンの後、再び表彰台,レッドブル勝利魅力",
+      "summary": "Alpine's Pierre Gasly6 月より3 位に負けてしまったモナコレースのペナルティがマクラレンとマクレレンの成功の訴求後に再びグランプリレッドブル.",
+      "title_original": "Gasly loses Monaco GP podium again after McLaren, Red Bull win appeal",
+      "summary_original": "Alpine's Pierre Gasly has lost his third-place finish from June's Monaco Grand Prix again after his penalties from the race were reinstated after a successful appeal by McLaren and Red Bull.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13581163/pierre-gasly-alpine-driver-loses-monaco-gp-podium-for-second-time-after-mclaren-red-bull-win-appeal",
+      "published": "Fri, 04 Sep 2026 11:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2328,6 +2332,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13580489/today-on-sky-sports-racing-ascot-bangor-on-dee-and-worcester",
       "published": "Fri, 04 Sep 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リーダーローレンスからショットを追い抜く前に、バンカーFAIL でパター!",
+      "summary": "Leader Thriston Lawrence それをヘッジでホリングすることによってそれを計画する前に行くつもりはない二段にパターを使用する決定 Omega European Masters.",
+      "title_original": "Putter in bunker FAIL before brilliant follow up shot from leader Lawrence!",
+      "summary_original": "Leader Thriston Lawrence decides to use a putter in a bunker which doesn’t go to plan before following it up by holing it with a wedge at the Omega European Masters.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13581284/omega-european-masters-putter-in-the-bunker-fail-for-thriston-lawrence-before-brilliant-follow-up-shot",
+      "published": "Fri, 04 Sep 2026 12:50:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2468,20 +2486,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13581112/coco-gauff-vs-paula-badosa-us-open-highlights",
       "published": "Fri, 04 Sep 2026 06:29:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'性能はかなり s***だった!' - ラケット変更のための Zverev ブーム",
-      "summary": "Alexander Zverev2 時頃にラケット変更をリクエストするブーム US Open 対比 Quentin Halys 自分の業績をフランクに評価する前に。",
-      "title_original": "'Performance was quite s***!' - Zverev booed for racket change request",
-      "summary_original": "Alexander Zverev was booed for requesting a racket change at around 2am during his US Open match against Quentin Halys before a frank assessment of his own performance.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13581152/us-open-zverev-booed-for-racket-change-request-performance-quite",
-      "published": "Fri, 04 Sep 2026 08:18:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
