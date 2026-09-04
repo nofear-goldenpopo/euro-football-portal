@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T12:47:43.731335+00:00",
+  "updated_at": "2026-09-04T13:05:59.579447+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1380,7 +1380,9 @@
     "Callum Helliwell": "",
     "Declan Rix": "",
     "Old Firm Premiership": "",
-    "Old Firm": "オールドファーム"
+    "Old Firm": "オールドファーム",
+    "Fourth-choice Ramsdale": "",
+    "Aaron Ramsdale": "アーロン・ラムズデール"
   },
   "items": [
     {
@@ -1531,6 +1533,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c39mlwmg9w2o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 04 Sep 2026 06:09:29 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Fourth-choice Ramsdale'サポートチーム' - Eckert",
+      "summary": "ナンプトンボス Tonda Eckert コメントアーロン・ラムズデール引き続き、第4 位のキーパーになるにもかかわらず、「チームをサポート」の役割があります。",
+      "title_original": "Fourth-choice Ramsdale will 'support team' - Eckert",
+      "summary_original": "Southampton boss Tonda Eckert says Aaron Ramsdale still has a role to \"support the team\" despite becoming their fourth-choice keeper.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v9elp98gro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 11:42:24 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1706,20 +1722,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'Adonis' Gibbs-White's チャンスを輝かせる - Tuchel は通知を受ける?",
-      "summary": "Morgan Gibbs-White 左から England's World Cup スクワット - 彼の継続的な良いフォームは不可能になりますトーマス・トゥヘル無視するには?",
-      "title_original": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
-      "summary_original": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 17:07:18 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "夏のサインは、すでにインパクトを生む - サンガレ、ロジャーズ, エンシソ",
       "summary": "BBC について スポーツは、新しい飛行開始に降り得る夏の新加入選手を見ていきますプレミアリーグ今夏ママドゥ・サンガレ, モーガン・ロジャーズ, フリオ・エンシソ, ゴンサロ・ガルシアそして、ビクトル・ムニョス.",
       "title_original": "The summer signings already making an impact - Sangare, Rogers, Enciso",
@@ -1810,7 +1812,7 @@
       "summary_original": "• All the latest news and previews before the weekend • Premier League: 10 things to watch for | Email Tom The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women’s sport. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live",
-      "published": "Fri, 04 Sep 2026 12:39:15 GMT",
+      "published": "Fri, 04 Sep 2026 12:51:50 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1819,15 +1821,15 @@
     },
     {
       "title": "Women’s Super LeagueQ&A:サッカーライターSuzanne Wrack 今すぐ質問に答える",
-      "summary": "The WSL 季節は夜にキックオフし、ガーディアンの女性のサッカー作家 Suzanne Wrack 今、あなたの質問に答えています - から期待するものロンドン・シティ・ライオネス獲得が誰にでもこだわった後マンチェスター・シティ戻りに戻ることができます。質問:ログインまたはサインアップ フランクフルトビュー:The BBC リニアテレビから女性のサッカーショーを削除しました。すでに、それは部屋のカップボードに表示されている, 後で日のマッチよりも...Have BBC 女性の foo で後退",
+      "summary": "The WSL 季節は夜にキックオフとガーディアンの女性のサッカーライターSuzanne Wrack 今、あなたの質問に答えています - 何から期待するロンドン・シティ・ライオネス獲得が誰にでもこだわる後マンチェスター・シティ戻りに戻ることができます。質問:ログインまたはサインアップしてください。Paula2026 氏は尋ねます: ついに WSL を勝ち取った後、あなたは、市はタイトルを保持するだけでなく、真剣に挑戦する能力を築いてきたと思いますチャンピオンズリーグ- そして、あなたが t を行う場所",
       "title_original": "Women’s Super League Q&A: football writer Suzanne Wrack answers your questions now",
-      "summary_original": "The WSL season kicks off tonight and the Guardian’s women’s football writer Suzanne Wrack is here now answering your questions – from what to expect from London City Lionesses after their signing spree to whether Manchester City can go back to back. Ask a question: log in or sign up here . FrankfurtView asks: The BBC have removed their Women’s football show from linear television. Already it was being shown in a broom cupboard, later than Match of the Day … Have BBC gone backwards in women’s foo",
+      "summary_original": "The WSL season kicks off tonight and the Guardian’s women’s football writer Suzanne Wrack is here now answering your questions – from what to expect from London City Lionesses after their signing spree to whether Manchester City can go back to back. Ask a question: log in or sign up here . Paula2026 asks: After finally winning the WSL again last season, do you think City have built a squad capable of not only retaining the title but seriously challenging the Champions League – and where do you t",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/sport/live/2026/sep/04/wsl-womens-football-expert-suzanne-wrack-reader-questions",
-      "published": "Fri, 04 Sep 2026 12:38:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "published": "Fri, 04 Sep 2026 12:54:36 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
