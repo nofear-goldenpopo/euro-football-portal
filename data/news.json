@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T21:36:08.025697+00:00",
+  "updated_at": "2026-09-04T21:54:21.870337+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1457,7 +1457,11 @@
     "Crystal Palace's Adam Wharton": "",
     "Barcelona's Raphinha": "",
     "Andoni Iraola’s Liverpool": "",
-    "If Ipswich’s": ""
+    "If Ipswich’s": "",
+    "Friedkin Group": "",
+    "Dan Friedkin": "",
+    "Great Britain's Amy Hunt": "",
+    "Peters' KR": ""
   },
   "items": [
     {
@@ -1741,6 +1745,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "最初の勝利としてリヴァプールボス「フィール・グッド」 - 伊良良",
+      "summary": "リヴァプールヘッドコーチ Andoni Iraola 彼の側のビートとして充電で彼の最初の勝利を拾うために「良い感じ」と言ったイプスウィッチ2-0 でポートマン・ロード.",
+      "title_original": "First win as Liverpool boss 'feels good' - Iraola",
+      "summary_original": "Liverpool head coach Andoni Iraola said it \"feels good\" to pick up his first victory in charge as his side beat Ipswich 2-0 at Portman Road.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c93enddzn5eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 21:48:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「私は、我々は優秀だったと思った」 - O'Neil 上のリヴァプールバックナンバー",
+      "summary": "イプスウィッチ・タウン FC マネージャーガリー・オニール2-0 敗北にもかかわらず、チームのパフォーマンスを「エクセルレント」と記述リヴァプール獲得を問い合わせポートマン・ロード.",
+      "title_original": "'I thought we were excellent' - O'Neil on Liverpool defeat",
+      "summary_original": "Ipswich Town manager Gary O'Neil describes his team's performance as \"excellent\" despite their 2-0 defeat to Liverpool at Portman Road.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5y4rpj0lx4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 21:47:02 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "夏のサインは、すでにインパクトを生む - サンガレ、ロジャーズ, エンシソ",
       "summary": "BBC について スポーツは、新しい飛行開始に降り得る夏の新加入選手を見ていきますプレミアリーグ今夏ママドゥ・サンガレ, モーガン・ロジャーズ, フリオ・エンシソ, ゴンサロ・ガルシアそして、ビクトル・ムニョス.",
       "title_original": "The summer signings already making an impact - Sangare, Rogers, Enciso",
@@ -1853,34 +1885,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Farke の後半の戦術的なシフトを信用するブレントフォードログイン",
-      "summary": "デイパンディットの試合・カレンダー・ユナイテッド FC'後半戦術シフト後の Dominic Calvert-Lewin 遅刻してサルベージ a 1-1 ドロー とブレントフォード.",
-      "title_original": "Given credits Farke's second-half tactical shift in Brentford draw",
-      "summary_original": "Match of the Day pundit Shay Given commends Leeds United's second-half tactical shift after Dominic Calvert-Lewin struck late to salvage a 1-1 draw with Brentford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c770rlyx817o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 23:09:18 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フェルナンデスハットトリック5 つの目標マンチェスター・ユナイテッド対面するイプスウィッチ",
-      "summary": "ブルーノ・フェルナンデススコアハットトリックとしてマンチェスター・ユナイテッドビートに初期の傷を克服イプスウィッチ・タウン FC5-2 でオールド・トラッフォード.",
-      "title_original": "Fernandes hat-trick inspires five-goal Man Utd comeback against Ipswich",
-      "summary_original": "Bruno Fernandes scores a hat-trick as Manchester United overcome an early scare to beat Ipswich Town 5-2 at Old Trafford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy0z9e5g209o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 19:08:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Isak の急なダブルシンクイプスウィッチ与えるために Andoni Iraola はじめてリヴァプールログイン",
       "summary": "アンドーニ・イラオラの初勝利リヴァプール、最も最近の星の印の導入ブラッドリー・バルコラ金曜日の夜を成功させる。より良いまだ、継続的な兆候アレクサンデル・イサク昨年のモデルは、人生に戻ってきます。その2 つは、三つのポイントを守る初期の目標です。獲得を問い合わせイプスウィッチ' の擁護は水密より少しでした、リヴァプール’ の攻撃者は、速度と発明のフルで、彼らは非常に最後のシーズンの多くのために欠けていました. 続きを読む...",
       "title_original": "Isak’s rapid double sinks Ipswich to give Andoni Iraola first Liverpool win",
@@ -1909,13 +1913,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグチームニュース:週末のアクションの予想されるラインナップ",
-      "summary": "Coventry 顔 a daunting 旅行 へマンチェスター・シティ前へチェルシー’s のタイトルの資格情報はテストされますアーセナル獲得を問い合わせ Sunday Saturday 午後12 時30 分 TNT Sports1 会場セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)続きを読む...",
-      "title_original": "Premier League team news: predicted lineups for the weekend action",
-      "summary_original": "Coventry face a daunting trip to Manchester City before Chelsea’s title credentials are tested at Arsenal on Sunday Saturday 12.30pm TNT Sports 1 Venue St James’ Park Continue reading...",
+      "title": "プレミアリーグニュース: Richarlison は新しい契約を拒否しました, Alonso はミッドフィールドでジェームズを支持します",
+      "summary": "トッテナムマネージャーRoberto De Zerbi 主張する 彼の 欲しい ブラジル人 ストライカー ‘ 決定されたすべて, 私ではなく’ 続きを読む...",
+      "title_original": "Premier League news: Richarlison refused new contract, Alonso backs James in midfield",
+      "summary_original": "Tottenham manager Roberto De Zerbi insists his wantaway Brazilian striker ‘decided everything, not me’ Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-      "published": "Fri, 04 Sep 2026 17:38:28 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
+      "published": "Fri, 04 Sep 2026 21:30:00 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1923,17 +1927,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグニュース:Carrick はすぐに修正を警告しません、Emery は「堅く」Harwood-Bellis のチャットを持っています",
-      "summary": "マルエスカは「ウィンター」フェルナンデスを脱いでいますが、彼はキャプテンを作らないでしょう。De Zerbi 守る Richarlison 治療 続きを読みます...",
-      "title_original": "Premier League news: Carrick warns no quick fix, Emery has ‘hard’ Harwood-Bellis chat",
-      "summary_original": "Maresca hails ‘winner’ Fernández but will not make him captain, and De Zerbi defends Richarlison treatment Continue reading...",
+      "title": "モイズは彼が話したことがないことを明らかにしましたエヴァートン所有者が、移籍ブロー後に不満である",
+      "summary": "Friedkin Group 夏の販売モイズは、より弱いスクワッドで「何か特別なもの」を望む David Moyes に話されていないエヴァートン所有者および椅子,Dan Friedkin マネージャーとしてクラブに戻ってから20 ヶ月で。モイズは、金曜日から金曜日までの不当な応答を発行しましたエヴァートン’s のカルミタス エンド へ移籍市場今シーズンは、プレイヤーやファンが「何か特別なもの」を達成できるようなと主張しています。Moyes はクラブでアットニシング ディスコネクトを露出しました。",
+      "title_original": "Moyes reveals he has never spoken to Everton owner but is defiant after transfer blows",
+      "summary_original": "Friedkin Group under scrutiny after summer of sales Moyes hopes for ‘something special’ with weaker squad David Moyes has not spoken to the Everton owner and chair, Dan Friedkin, in the 20 months since he returned to the club as manager. Moyes also issued a defiant response on Friday to Everton’s calamitous end to the transfer window , claiming it could galvanise players and fans to achieve “something special” this season. Moyes exposed an astonishing disconnect at the club when confirming he ha",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
-      "published": "Fri, 04 Sep 2026 14:58:41 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
+      "url": "https://www.theguardian.com/football/2026/sep/04/david-moyes-reveals-never-spoken-everton-owner-dan-friedkin-defiant-after-transfer-blows",
+      "published": "Fri, 04 Sep 2026 21:30:17 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1965,6 +1969,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "プレミアリーグチームニュース:週末のアクションの予想されるラインナップ",
+      "summary": "Coventry 顔 a daunting 旅行 へマンチェスター・シティ前へチェルシー’s のタイトルの資格情報はテストされますアーセナル獲得を問い合わせ Sunday Saturday 午後12 時30 分 TNT Sports1 会場セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)続きを読む...",
+      "title_original": "Premier League team news: predicted lineups for the weekend action",
+      "summary_original": "Coventry face a daunting trip to Manchester City before Chelsea’s title credentials are tested at Arsenal on Sunday Saturday 12.30pm TNT Sports 1 Venue St James’ Park Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+      "published": "Fri, 04 Sep 2026 17:38:28 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ノッティンガム・フォレスト'ライム・デラップ:'私は恐ろしいことの端で私のベストで再生します'",
       "summary": "難年明けからチェルシーストライカーは、自分のキャリアを取り戻すことを期待していますシティ・グラウンド「あなたはそれを想像することができます:彼はセンターバックです、私はストライカーです」と言います Liam Delap, ノッティンガム・フォレスト’ 4500万ポンド クラブ録音サイン , 彼はシーンを設定して笑顔. 庭で弟、フィン、弟を連れて行くのは彼です。これらの日、彼らはお互いの最大の支持者です - ライムは水曜日に3 番目の層ブルトンの勝利に Finn の勝利を出席しました - しかし、子供たちはフレンドリーな儀式がありました。エルダーブローテ",
       "title_original": "Nottingham Forest’s Liam Delap: ‘I play at my best on the edge of being horrible’",
@@ -1986,20 +2004,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/04/pierre-sage-crystal-palace-transfer-window",
       "published": "Fri, 04 Sep 2026 11:58:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Football Daily| 見えないものプレミアリーグ今週の週末",
-      "summary": "今すぐ登録! 今すぐ登録! 今すぐサインアップ 今すぐ登録! その icy 風 ラット リング rafters は の 冷たい 現実 何 続く の 閉鎖 の移籍市場, 後悔の空腹小胞. 男性の窓に覆われた35億ポンド にもかかわらず、いくつかのものは起こらないプレミアリーグ彼らがいたるとき。いつかアーセナルホストチェルシー日曜日のほとんどのスーパーのために、ヴィニシウス・ジュニオール攻撃では再生されません。Gabriel Martinelli、その長いソーシャルメディアは、",
-      "title_original": "Football Daily | What you won’t see in the Premier League this weekend",
-      "summary_original": "Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Despite £3.5bn shelled out in the men’s window, several things will not be happening in the Premier League when they might have been. When Arsenal host Chelsea for a most super of Sundays, Vinícius Júnior will not be playing in their attack, and neither will Gabriel Martinelli, whose lengthy social media disgrace",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/football-daily-newsletter-premier-league-weekend",
-      "published": "Fri, 04 Sep 2026 14:57:19 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2301,6 +2305,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ハントは、シーズンのベストを実行して3 分の3 を取る Diamond League200m の",
+      "summary": "Great Britain's Amy Hunt 女子200m の季節最高峰を決勝で走る Diamond League ブリュッセルで3 位を取った年のイベント。",
+      "title_original": "Hunt runs season's best to take third in Diamond League 200m",
+      "summary_original": "Great Britain's Amy Hunt ran a season's best in the women's 200m at the final Diamond League event of the year as she took third place in Brussels.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/athletics/news/12040/13581562/amy-hunt-british-sprinter-runs-seasons-best-200m-time-to-take-third-in-diamond-league-athletics-meet-in-brussels",
+      "published": "Fri, 04 Sep 2026 22:20:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Greaves は、勝利でより多くの歴史を作る Czech Darts Open",
       "summary": "Beau Greaves 彼女は最初の女性になったので、よりダーティングな歴史を作り、試合に勝つ PDC's European Tour- 彼女の2 ラウンドの衝突を固定する偉人 Luke Humphries 獲得を問い合わせ Czech Darts Open.",
       "title_original": "Greaves makes more history with win at Czech Darts Open",
@@ -2350,20 +2368,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/report/575755",
       "published": "Fri, 04 Sep 2026 21:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "バルコラメイクリヴァプール優勝でデビューイプスウィッチスカイでライブ!",
-      "summary": "",
-      "title_original": "Barcola makes Liverpool debut in win at Ipswich LIVE on Sky!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/ipswich-town-vs-liverpool/live/559470",
-      "published": "Fri, 04 Sep 2026 18:00:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2427,6 +2431,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Peters' KR 演劇を Saints succumb として7th に作って下さい:「私達は性能に入れました」",
+      "summary": "",
+      "title_original": "Peters' KR make play-offs as Saints succumb to seventh: 'We put in a performance'",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13580338/super-league-live-updates-videos-scores-commentary-analysis-as-leigh-leopards-host-st-helens-hull-kr-face-huddersfield-giants",
+      "published": "Fri, 04 Sep 2026 19:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ペーパー:チェルシービスソウに印を付けるチャンスを提供フェルナンデス交換方法",
       "summary": "土曜日の新聞から噂を移籍するトップストーリー...",
       "title_original": "Papers: Chelsea offered chance to sign Bissouma as Fernandez replacement",
@@ -2452,20 +2470,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Saints succumb へ 最悪 終わり で Super League 歴史、最高6 の KR および Leigh",
-      "summary": "",
-      "title_original": "Saints succumb to worst finish in Super League history, KR and Leigh in top six",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13580338/super-league-live-updates-videos-scores-commentary-analysis-as-leigh-leopards-host-st-helens-hull-kr-face-huddersfield-giants",
-      "published": "Fri, 04 Sep 2026 19:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
