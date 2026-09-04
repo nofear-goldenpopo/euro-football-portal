@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T14:06:03.486866+00:00",
+  "updated_at": "2026-09-04T14:25:25.648260+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1394,7 +1394,8 @@
     "Motor Neurone Disease": "筋萎縮性側索硬化症",
     "Play Super": "",
     "Promoter Eddie Hearn": "",
-    "Wembley Stadium": "ウェンブリー・スタジアム"
+    "Wembley Stadium": "ウェンブリー・スタジアム",
+    "The Women’s Super League’s": ""
   },
   "items": [
     {
@@ -1423,6 +1424,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "期限日以降、モイズは失望しています",
+      "summary": "エヴァートンマネージャーDavid Moyes 締め切り日により多くの事業をしたいと認めた後、彼は「失望に生きるために」受け入れます。",
+      "title_original": "Moyes lives with disappointment after deadline day",
+      "summary_original": "Everton manager David Moyes accepts he has \"to live with disappointments\" after admitting he wanted to do more business on transfer deadline day.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3v49617lzko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 14:03:39 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1524,20 +1539,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "誰がベストなのかマンチェスター・シティ購入する選手? FPL ゲームウィーク3 ジレンマ",
-      "summary": "BBC Sport FPL エキスパート Gianni ButticeFantasy に直面している最大のジレンマのいくつかを見てみましょうプレミアリーグマネージャーがゲームウィーク3 に向かいます。",
-      "title_original": "Who are best Man City players to buy? FPL gameweek three dilemmas",
-      "summary_original": "BBC Sport FPL expert Gianni Buttice looks at some of the biggest dilemmas facing Fantasy Premier League managers heading into gameweek three.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp301d314xyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 06:15:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -1548,6 +1549,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "誰がベストなのかマンチェスター・シティ購入する選手? FPL ゲームウィーク3 ジレンマ",
+      "summary": "BBC Sport FPL エキスパート Gianni ButticeFantasy に直面している最大のジレンマのいくつかを見てみましょうプレミアリーグマネージャーがゲームウィーク3 に向かいます。",
+      "title_original": "Who are best Man City players to buy? FPL gameweek three dilemmas",
+      "summary_original": "BBC Sport FPL expert Gianni Buttice looks at some of the biggest dilemmas facing Fantasy Premier League managers heading into gameweek three.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp301d314xyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 06:15:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1706,20 +1721,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Asencio クリア 以上 allegedly 共有 explicit ビデオ",
-      "summary": "レアル・マドリードディフェンダーRaul Asencio 未成年者を含む性的明示的な動画を配信する際の関与が認められています。",
-      "title_original": "Asencio cleared over allegedly sharing explicit video",
-      "summary_original": "Real Madrid defender Raul Asencio is acquitted of alleged involvement in distributing a sexually explicit video involving a minor.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdr7gy1lz13o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 18:25:29 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "夏のサインは、すでにインパクトを生む - サンガレ、ロジャーズ, エンシソ",
       "summary": "BBC について スポーツは、新しい飛行開始に降り得る夏の新加入選手を見ていきますプレミアリーグ今夏ママドゥ・サンガレ, モーガン・ロジャーズ, フリオ・エンシソ, ゴンサロ・ガルシアそして、ビクトル・ムニョス.",
       "title_original": "The summer signings already making an impact - Sangare, Rogers, Enciso",
@@ -1804,13 +1805,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「彼はそれで史上に - 白は「信じられない」フェルナンデスを賞賛",
+      "summary": "デイパンディットのマッチエレン・ホワイトラベルブルーノ・フェルナンデス\"信じられない\"、ミッドフィルダーの後にハットトリック獲得を問い合わせマンチェスター・ユナイテッド'5-2 コールバックの勝利に対するイプスウィッチ・タウン FC.",
+      "title_original": "'He's on it all the time' - White praises 'unbelievable' Fernandes",
+      "summary_original": "Match of the Day pundit Ellen White labels Bruno Fernandes \"unbelievable\", after the midfielder's hat-trick in Manchester United's 5-2 comeback win against Ipswich Town.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cy4zmlrrpxxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 22:37:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "元参照先の上司は、ディーンの「ファンタシーな土地で」と述べています。Richarlison axed; 離れてファンが禁止オールドファームゲーム – ライブ",
-      "summary": "• 週末前の最新ニュースとプレビュー •プレミアリーグ: 10 件の商品がございます。|Email Niall The 執行役員 Football Association, Rugby Football Union イングランドとイングランド Wales Cricket Board 大手ブロードキャストや YouTube と連携し、プロダクション企業向けの税金クレジットを請求することで、女性のスポーツのテレビ報道をさらに高めることができます。続きを読む...",
+      "summary": "• 週末前の最新ニュースとプレビュー •プレミアリーグ: 10 件の商品がございます。|Email Tom The 執行役員 Football Association, Rugby Football Union イングランドとイングランド Wales Cricket Board 大手ブロードキャストや YouTube と連携し、プロダクション企業向けの税金クレジットを請求することで、女性のスポーツのテレビ報道をさらに高めることができます。続きを読む...",
       "title_original": "Former referees’ boss says Dean ‘in fantasy land’; Richarlison axed; away fans banned from Old Firm games – live",
-      "summary_original": "• All the latest news and previews before the weekend • Premier League: 10 things to watch for | Email Niall The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women’s sport. Continue reading...",
+      "summary_original": "• All the latest news and previews before the weekend • Premier League: 10 things to watch for | Email Tom The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women’s sport. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live",
-      "published": "Fri, 04 Sep 2026 13:45:52 GMT",
+      "published": "Fri, 04 Sep 2026 14:00:28 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1824,7 +1839,7 @@
       "summary_original": "The WSL season kicks off tonight and the Guardian’s women’s football writer Suzanne Wrack is here now answering your questions – from what to expect from London City Lionesses after their signing spree to whether Manchester City can go back to back. Ask a question: log in or sign up here . Weekender73 asks: Daughter’s favourite player: Ellie Carpenter. Mine: Mary Fowler. Who is right? Suzanne: Both. Who am I to say who an individual’s favourite player should be? It’s personal, and mine would pro",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/sport/live/2026/sep/04/wsl-womens-football-expert-suzanne-wrack-reader-questions",
-      "published": "Fri, 04 Sep 2026 13:54:42 GMT",
+      "published": "Fri, 04 Sep 2026 14:07:06 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1860,6 +1875,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "WSL トランスファーポイント:データから学んだ3 つのこと",
+      "summary": "アーセナルリーグの残りの部分が、安定性に重点を置いたクラブの支出として最も投資しました The Women’s Super League’s サマー移籍市場2026-27 シーズンのスタート前に閉幕しました。関与する資金は、34億ポンド と比較してマイクロスコピックですプレミアリーグ新しいプレーヤーで過ごしたクラブは、データが3 つのポイントを提供しますインテル est: そのクラブは、安定性に銀行をしているスクワッドに最大の改善をした、とホ",
+      "title_original": "WSL transfer talking points: three things we learned from the data",
+      "summary_original": "Arsenal invested the most as the leading clubs’ spending dwarfed that of the rest of the league but there was a greater emphasis on stability The Women’s Super League’s summer transfer window has closed before the start of the 2026-27 season. The finances involved are microscopic compared with the £3.4bn that Premier League clubs spent on new players but the data provides three key points of interest: which club has made the biggest improvement to their squad, who is banking on stability, and ho",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/04/less-money-better-planning-what-we-learned-from-the-wsl-transfer-window",
+      "published": "Fri, 04 Sep 2026 14:02:03 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・シティ Miedema カバーのためのスクランブルでスペインのペアを上陸させる失敗",
       "summary": "Atlético は、Fiamma Benítez のための£500,000 以上の入札を拒否しましたアーセナル難易度が高いチャンピオンズリーグログインアトレティコ・マドリードから£500,000 以上の入札を拒否マンチェスター・シティスペインのミッドフィルダーのため Fiamma Benítez 獲得を問い合わせ Women’s Super League’s 期限日を移すと、ガーディアンは明らかにすることができます。The WSL チャンピオンは、英語の夏のウィンドウが11pm BST で木曜日に閉鎖する前に攻撃中フィールド強化を追加することを試みたことを理解しています。",
       "title_original": "Manchester City failed to land Spain pair in scramble for Miedema cover",
@@ -1871,20 +1900,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "堅い開始のためのパリ・サンジェルマンしかし、ルイス・エンリケ獲得から「新しいエネルギー」の破烈に信仰を持っている",
-      "summary": "パリ・サンジェルマンここまでリーグの試合の両方を描いています。モナコ金曜日にトリッキーなタスクをポーズ “学校にいるような”ルイス・エンリケ記者会見室に入ると、ジャーナリストが彼の心のボンジュールに無毒に反応するのを聞く。彼の備考は、前夜にフィッティングされたパリ・サンジェルマン’ s 季節の最初のホームマッチ, フランスのレンタルレとうまくラインアップ ’ s ’ s ’ s ’ s ’ s ’ s ’ s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s 最初の ホーム s s s s s s マッチ s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s sSeptember. Although の n",
-      "title_original": "Tough start for PSG but Luis Enrique has faith in burst of ‘new energy’ from signings",
-      "summary_original": "Paris Saint-Germain have drawn both of their league games so far and Monaco pose a tricky task on Friday “It’s like we’re at school,” Luis Enrique quipped as he entered the press conference room, hearing the journalists respond in unison to his hearty bonjour . His remark was fitting on the eve of Paris Saint-Germain’s first home match of the season, which lines up nicely with France’s rentrée , the term for the nationwide return to school and the office at the start of September. Although the n",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/paris-saint-germain-luis-enrique-monaco",
-      "published": "Fri, 04 Sep 2026 07:00:01 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1902,17 +1917,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Women’s Super League2026-27 プレビュー番号 14:ウェストハム",
-      "summary": "Rita Guarino 去年のクラブの幸運を回した後、移転市場に戻ってきましたが、懸念は、ガーディアンの作家の予測位置の欠如に残っています。11 位(NB:これは必ずしも必ずしもそうではありません)Suzanne Wrack’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 10th 続きを読む...",
-      "title_original": "Women’s Super League 2026-27 preview No 14: West Ham",
-      "summary_original": "Rita Guarino has been backed in the transfer market after turning around the club’s fortunes last season but concerns remain over a lack of resources Guardian writers’ predicted position: 11th (NB: this is not necessarily Suzanne Wrack’s prediction but the average of our writers’ tips) Last season’s position: 10th Continue reading...",
+      "title": "堅い開始のためのパリ・サンジェルマンしかし、ルイス・エンリケ獲得から「新しいエネルギー」の破烈に信仰を持っている",
+      "summary": "パリ・サンジェルマンここまでリーグの試合の両方を描いています。モナコ金曜日にトリッキーなタスクをポーズ “学校にいるような”ルイス・エンリケ記者会見室に入ると、ジャーナリストが彼の心のボンジュールに無毒に反応するのを聞く。彼の備考は、前夜にフィッティングされたパリ・サンジェルマン’ s 季節の最初のホームマッチ, フランスのレンタルレとうまくラインアップ ’ s ’ s ’ s ’ s ’ s ’ s ’ s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s 最初の ホーム s s s s s s マッチ s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s sSeptember. Although の n",
+      "title_original": "Tough start for PSG but Luis Enrique has faith in burst of ‘new energy’ from signings",
+      "summary_original": "Paris Saint-Germain have drawn both of their league games so far and Monaco pose a tricky task on Friday “It’s like we’re at school,” Luis Enrique quipped as he entered the press conference room, hearing the journalists respond in unison to his hearty bonjour . His remark was fitting on the eve of Paris Saint-Germain’s first home match of the season, which lines up nicely with France’s rentrée , the term for the nationwide return to school and the office at the start of September. Although the n",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/womens-super-league-2026-27-preview-no-14-west-ham",
-      "published": "Thu, 03 Sep 2026 23:01:51 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/04/paris-saint-germain-luis-enrique-monaco",
+      "published": "Fri, 04 Sep 2026 07:00:01 GMT",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1958,6 +1973,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Women’s Super League2026-27 プレビュー番号 14:ウェストハム",
+      "summary": "Rita Guarino 去年のクラブの幸運を回した後、移転市場に戻ってきましたが、懸念は、ガーディアンの作家の予測位置の欠如に残っています。11 位(NB:これは必ずしも必ずしもそうではありません)Suzanne Wrack’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 10th 続きを読む...",
+      "title_original": "Women’s Super League 2026-27 preview No 14: West Ham",
+      "summary_original": "Rita Guarino has been backed in the transfer market after turning around the club’s fortunes last season but concerns remain over a lack of resources Guardian writers’ predicted position: 11th (NB: this is not necessarily Suzanne Wrack’s prediction but the average of our writers’ tips) Last season’s position: 10th Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/04/womens-super-league-2026-27-preview-no-14-west-ham",
+      "published": "Thu, 03 Sep 2026 23:01:51 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Women’s Super League2026-27 プレビュー番号 13:トッテナム",
       "summary": "レコードの等しい終わりの後で下で Martin Ho 昨年の季節と、頭を回した夏の募集戦略は、トッテナム押しますトップ4? ガーディアンライターの予測位置:5 位(NB:これは必ずしもない Suzanne Wracks’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 5th 続きを読む...",
       "title_original": "Women’s Super League 2026-27 preview No 13: Tottenham Hotspur",
@@ -1997,20 +2026,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Women’s Super League2026-27 プレビュー番号 10:ロンドン・シティ・ライオネス",
-      "summary": "Ballon d’Or の勝者 Putellas は、非常に最高の Guardian 作家の予測位置へのギャップを橋渡しすることを目指し、独立したクラブでスーパースターの名前のインフルエンザを率いています: 4th (NB: これは必ずしも必ずしもそうではありません)Suzanne Wrack’s 予測しかし、私たちの作家のヒントの平均) 最後の季節の位置: 6th 続きを読む...",
-      "title_original": "Women’s Super League 2026-27 preview No 10: London City Lionesses",
-      "summary_original": "Ballon d’Or winner Putellas leads influx of superstar names at independent club aiming to bridge gap to very best Guardian writers’ predicted position: 4th (NB: this is not necessarily Suzanne Wrack’s prediction but the average of our writers’ tips) Last season’s position: 6th Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/31/womens-super-league-2026-27-preview-no-10-london-city-lionesses",
-      "published": "Sun, 30 Aug 2026 23:01:08 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
