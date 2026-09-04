@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T15:26:26.726520+00:00",
+  "updated_at": "2026-09-04T15:38:39.559564+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1403,7 +1403,8 @@
     "Angela Stanford’s": "",
     "Brian Madjo": "ブライアン・マジョ",
     "More Scottish Premiership": "",
-    "County Championship": "カウンティ・チャンピオンシップ"
+    "County Championship": "カウンティ・チャンピオンシップ",
+    "Email John The": ""
   },
   "items": [
     {
@@ -1432,6 +1433,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Richarlison omission しない 私の決定 -De Zerbi",
+      "summary": "トッテナムマネージャー ロベルト・デ・ツェルビは、クラブの外でリファリソンを残すという彼の決定ではなかったと述べていますプレミアリーグスチーム",
+      "title_original": "Richarlison omission not my decision - De Zerbi",
+      "summary_original": "Tottenham Hotspur manager Roberto de Zerbi says it was not his decision to leave Richarlison out of the club's Premier League squad.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 15:32:22 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1519,20 +1534,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "驚きのペースセッターと回復力走る - EFL で見る5 つのこと",
-      "summary": "週末のチャンピオンシップ前の5 つのポイントをご紹介します。League One そして、League Two アクション。",
-      "title_original": "Surprise pacesetters & resurgent runs - five things to watch in the EFL",
-      "summary_original": "Here are five key talking points before the weekend's Championship, League One and League Two action.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2mxe7g3gyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 13:07:13 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Earps、Man Utd reunion as WSL comeback nears を獲得候補に",
       "summary": "Mary Earps 後ろに Women's Super League そして、元クラブに面し、彼女の戻りをマークする希望マンチェスター・ユナイテッド.",
       "title_original": "Earps eyes Man Utd reunion as WSL comeback nears",
@@ -1554,6 +1555,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c39mlwmg9w2o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 04 Sep 2026 06:09:29 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "驚きのペースセッターと回復力走る - EFL で見る5 つのこと",
+      "summary": "週末のチャンピオンシップ前の5 つのポイントをご紹介します。League One そして、League Two アクション。",
+      "title_original": "Surprise pacesetters & resurgent runs - five things to watch in the EFL",
+      "summary_original": "Here are five key talking points before the weekend's Championship, League One and League Two action.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2mxe7g3gyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 13:07:13 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1603,20 +1618,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "エヴァートン、free agent Vardy - Friday's gossip を獲得候補に",
-      "summary": "エヴァートン移動量を量る Jamie Vardy または Anthony Martial, ウィルフレッド・ザハ参加可能 AC ミラン, Estevao Willian からの移動を考慮するチェルシー.",
-      "title_original": "Everton eye free agent Vardy - Friday's gossip",
-      "summary_original": "Everton weigh up moves for Jamie Vardy or Anthony Martial, Wilfried Zaha could join AC Milan, Estevao Willian considers move from Chelsea.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62jgzxkjypo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 20:54:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Fourth-choice Ramsdale'サポートチーム' - Eckert",
       "summary": "ナンプトンボス Tonda Eckert コメントアーロン・ラムズデール引き続き、第4 位のキーパーになるにもかかわらず、「チームをサポート」の役割があります。",
       "title_original": "Fourth-choice Ramsdale will 'support team' - Eckert",
@@ -1642,6 +1643,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "エヴァートン、free agent Vardy - Friday's gossip を獲得候補に",
+      "summary": "エヴァートン移動量を量る Jamie Vardy または Anthony Martial, ウィルフレッド・ザハ参加可能 AC ミラン, Estevao Willian からの移動を考慮するチェルシー.",
+      "title_original": "Everton eye free agent Vardy - Friday's gossip",
+      "summary_original": "Everton weigh up moves for Jamie Vardy or Anthony Martial, Wilfried Zaha could join AC Milan, Estevao Willian considers move from Chelsea.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62jgzxkjypo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 20:54:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1698,20 +1713,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブレイクダウンチェルシーの staggering 39 夏終了",
-      "summary": "チェルシー39 人の選手を販売またはローンアウトすることにより、この夏に5億ポンド 以上を回復していると考えられています。",
-      "title_original": "Breaking down Chelsea's staggering 39 summer exits",
-      "summary_original": "Chelsea are believed to have recouped more than £500m this summer by either selling or loaning out a staggering 39 players.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 16:20:42 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1827,17 +1828,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "元参照先の上司は、ディーンの「ファンタシーな土地で」と述べています。Richarlison axed; 離れてファンが禁止オールドファームゲーム – ライブ",
-      "summary": "• 週末前の最新ニュースとプレビュー •プレミアリーグ: 10 件の商品がございます。|Email Tom The 執行役員 Football Association, Rugby Football Union イングランドとイングランド Wales Cricket Board 大手ブロードキャストや YouTube と連携し、プロダクション企業向けの税金クレジットを請求することで、女性のスポーツのテレビ報道をさらに高めることができます。続きを読む...",
-      "title_original": "Former referees’ boss says Dean ‘in fantasy land’; Richarlison axed; away fans banned from Old Firm games – live",
-      "summary_original": "• All the latest news and previews before the weekend • Premier League: 10 things to watch for | Email Tom The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women’s sport. Continue reading...",
+      "title": "バルコラ利用できるのためのリヴァプール獲得を問い合わせイプスウィッチ; Dean 'in fantasy 土地'; 離れたファンタシー 禁止オールドファームゲーム – ライブ",
+      "summary": "• 週末前の最新ニュースとプレビュー •プレミアリーグ: 10 件の商品がございます。|Email John The 執行役員 Football Association, Rugby Football Union イングランドとイングランド Wales Cricket Board 大手ブロードキャストや YouTube と連携し、プロダクション企業向けの税金クレジットを請求することで、女性のスポーツのテレビ報道をさらに高めることができます。続きを読む...",
+      "title_original": "Barcola available for Liverpool at Ipswich; Dean ‘in fantasy land’; away fans ban at Old Firm games – live",
+      "summary_original": "• All the latest news and previews before the weekend • Premier League: 10 things to watch for | Email John The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women’s sport. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live",
-      "published": "Fri, 04 Sep 2026 15:10:23 GMT",
+      "published": "Fri, 04 Sep 2026 15:23:55 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1950,6 +1951,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "プレミアリーグ, イタリアグランプリ、WSL および US Open テニス – 私たちに従ってください",
+      "summary": "ここに私たちのカバレッジと一緒に従う方法があります - 最高級のライティングとアップ・トゥ・ザ・ミン・レポート 続きを読みます...",
+      "title_original": "Premier League, Italian GP, WSL and US Open tennis – follow with us",
+      "summary_original": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/sport/2026/sep/04/premier-league-italian-gp-wsl-and-us-open-tennis-follow-with-us",
+      "published": "Fri, 04 Sep 2026 14:43:02 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2229,20 +2244,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "デッドラインデイシャブルの葉エヴァートンそして、David Moyes 再びオッズを戦う",
-      "summary": "アームストロングの入札受付から崩壊までバログン移籍, TFG は、野心の欠如として、同じブラケットに置かれるアマチュアと野心的なアプローチを示しました, リソースの欠如や不快感は、最も長いトロフィーの干ばつに貢献しましたエヴァートン’ の歴史, 特に 20 きらめき新しいスタジアムへの移動と多岐にわたる債務の清算を伴った再点に数か月, かなりの不快感と恥ずかしがりかしがり屋の原因となるはずです The Friedkin Grou",
-      "title_original": "Deadline-day shambles leaves Everton and David Moyes fighting the odds again",
-      "summary_original": "From accepting a bid for Armstrong to collapse of Balogun deal, TFG has shown an amateurish and unambitious approach To be placed in the same bracket as owners whose lack of ambition, lack of resources and/or incompetence has contributed to the longest trophy drought in Everton’s history, particularly 20 months into a reign that has accompanied the move to a glittering new stadium and the clearing of onerous debt, should be cause for considerable discomfort and embarrassment at The Friedkin Grou",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/02/deadline-day-shambles-leaves-everton-and-david-moyes-fighting-the-odds-again",
-      "published": "Wed, 02 Sep 2026 18:02:02 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
