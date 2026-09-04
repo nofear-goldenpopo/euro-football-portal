@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T19:05:40.972051+00:00",
+  "updated_at": "2026-09-04T19:20:56.514990+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1439,7 +1439,13 @@
     "Email Scott Pre-match": "",
     "Bryan Robson": "ブライアン・ロブソン",
     "Juan Sebastian Veron": "",
-    "Katie Taylor's": ""
+    "Katie Taylor's": "",
+    "Email Scott The": "",
+    "Portman Road": "ポートマン・ロード",
+    "Dave Estherby": "",
+    "Anfield. Another": "",
+    "The Gunners": "",
+    "Ipswich LIVE": ""
   },
   "items": [
     {
@@ -1864,30 +1870,30 @@
     },
     {
       "title": "イプスウィッチ・タウン FC. .リヴァプール: プレミアリーグ– ライブ",
-      "summary": "プレミアリーグ8pm BST キックオフライブスコアボードからのアップデート |Read Football Daily | Email Scott Pre-match ポストバッグ。片道のりリヴァプール’ s は、季節への帝国の開始よりも少ない, あなたは今夜提供される上で非常においしいチームシートであることを認めなければなりません - 若々しいの正しいブレンド, 経験, ハンガリーの回答 へブライアン・ロブソンそして、World Cup 公園の真ん中で勝者、ストライカーは、マンチェスター・シティ, a チャンピオンズリーグベンチの勝者とウィルツの私たち自身の Juan Sebastian Veron! – ピード",
+      "summary": "プレミアリーグ8pm BST キックオフライブスコアボードからのアップデート |Read Football Daily | Email Scott The チームをクリア!イプスウィッチ青で、リヴァプール赤で。素晴らしいスタート・オブ・ザ・ウィークエンド、おそらくフェーピント・トゥ・ザ・ザ・グッドの雰囲気でライトの下でポートマン・ロード!今は長くない。今回は、Dave Estherby いくつかの事前一致の奨励の言葉でリヴァプール: 「何が起きているのかは本当に確信しない」Anfield. Another 夏は、彼らは未改善のための壁にお金をかけた",
       "title_original": "Ipswich Town v Liverpool: Premier League – live",
-      "summary_original": "Premier League updates from the 8pm BST kick-off Live scoreboard | Read Football Daily | Email Scott Pre-match postbag. “Leaving aside Liverpool’s less than imperial start to the season, you have to admit that’s a very tasty teamsheet on offer tonight - the right blend of youth, experience, Hungary’s answer to Bryan Robson and a World Cup winner in the middle of the park, a striker coveted by Man City, a Champions League winner on the bench and in Wirtz our very own Juan Sebastian Veron!” – Pead",
+      "summary_original": "Premier League updates from the 8pm BST kick-off Live scoreboard | Read Football Daily | Email Scott The teams are out! Ipswich in blue, Liverpool in red. A wonderful start-of-the-weekend, possibly-a-few-pints-to-the-good atmosphere under the lights at Portman Road! Not long now. In the meantime, here’s Dave Estherby with some pre-match words of encouragement for Liverpool : “Not really sure what’s going on upstairs at Anfield. Another summer where they’ve spaffed money up the wall for unproven ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
-      "published": "Fri, 04 Sep 2026 18:55:00 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
+      "published": "Fri, 04 Sep 2026 19:10:14 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグニュース:Carrick はすぐに修正を警告しません、Emery は「堅く」Harwood-Bellis のチャットを持っています",
-      "summary": "マルエスカは「ウィンター」フェルナンデスを脱いでいますが、彼はキャプテンを作らないでしょう。De Zerbi 守る Richarlison 治療 続きを読みます...",
-      "title_original": "Premier League news: Carrick warns no quick fix, Emery has ‘hard’ Harwood-Bellis chat",
-      "summary_original": "Maresca hails ‘winner’ Fernández but will not make him captain, and De Zerbi defends Richarlison treatment Continue reading...",
+      "title": "チェルシーヒットブルズアイとモーガン・ロジャーズとしてアーセナル何が起こっているかを台無しにして下さい",
+      "summary": "The Gunners 以前のヴィラマンがそれらに対して行っているとき、彼らが勝ったことができるものを見てみましょう。シャビ・アロンソチームチェルシー獲得のチャンスがほとんどなかったと思ったモーガン・ロジャーズ夏の始まり。シャビ・アロンソそして、クラブの採用チームはイングランドを持っていたインテル優先目標として国民が、移籍は異様なようです。チェルシー第10 回を終えた後、ヨーロッパサッカーで逃れた時期を逃し、その期待は、",
+      "title_original": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been",
+      "summary_original": "The Gunners will have a look at what they could have won when the former Villa man lines up against them, having made a flying start for Xabi Alonso’s team Chelsea thought they had little chance of signing Morgan Rogers at the start of the summer. Xabi Alonso and the club’s recruitment team had the England international as a priority target but a deal seemed unlikely. Chelsea had endured a disappointing season, missing out on European football after finishing 10th, and their expectation was that",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
-      "published": "Fri, 04 Sep 2026 14:58:41 GMT",
+      "url": "https://www.theguardian.com/football/blog/2026/sep/04/chelsea-morgan-rogers-arsenal-xabi-alonso-mikel-arteta",
+      "published": "Fri, 04 Sep 2026 19:00:14 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1916,6 +1922,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "プレミアリーグニュース:Carrick はすぐに修正を警告しません、Emery は「堅く」Harwood-Bellis のチャットを持っています",
+      "summary": "マルエスカは「ウィンター」フェルナンデスを脱いでいますが、彼はキャプテンを作らないでしょう。De Zerbi 守る Richarlison 治療 続きを読みます...",
+      "title_original": "Premier League news: Carrick warns no quick fix, Emery has ‘hard’ Harwood-Bellis chat",
+      "summary_original": "Maresca hails ‘winner’ Fernández but will not make him captain, and De Zerbi defends Richarlison treatment Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
+      "published": "Fri, 04 Sep 2026 14:58:41 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1968,20 +1988,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/04/football-daily-newsletter-premier-league-weekend",
       "published": "Fri, 04 Sep 2026 14:57:19 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "プレミアリーグ: 今週の週末を眺める10 の事",
-      "summary": "フロリアン・ヴィルツ輝きを放つチャンスがあり、レッドブルティネサイドとチェルシー顔の litmus テストでアーセナル フロリアン・ヴィルツ四季折々のひとときをリヴァプールまずは忘れられない。約束の兆候がありましたノッティンガム・フォレストそこで、彼は2 番目のイコライザーをセットアップし、ビルドアップのオフサイドでなければ、自分の目標を持っていました。彼が周りの選手の質を与えられた No 10 としてドイツがより影響力になる必要があることは明らかです, especi",
-      "title_original": "Premier League: 10 things to look out for this weekend",
-      "summary_original": "Florian Wirtz has a chance to shine, there’s a Red Bull reunion on Tyneside and Chelsea face litmus test at Arsenal Florian Wirtz is easing himself into his second season at Liverpool after a forgettable first. There were signs of promise against Nottingham Forest , where he set up the second equaliser and would have had a goal of his own if not for an offside in the buildup. It is clear the German needs to become more influential as a No 10 given the quality of players he has around him, especi",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-10-things-to-look-out-for-this-weekend",
-      "published": "Thu, 03 Sep 2026 23:01:51 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2297,17 +2303,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イプスウィッチ対比リヴァプールスカイでライブ!",
+      "title": "NINE 分と NINE 分間の二重の点で点心イプスウィッチスカイでライブ!",
       "summary": "",
-      "title_original": "Ipswich vs Liverpool LIVE on Sky!",
+      "title_original": "Isak at the double inside NINE minutes vs Ipswich LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/ipswich-town-vs-liverpool/live/559470",
       "published": "Fri, 04 Sep 2026 18:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
