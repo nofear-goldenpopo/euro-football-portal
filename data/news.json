@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:24:51.348386+00:00",
+  "updated_at": "2026-09-04T11:37:26.859476+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1358,7 +1358,11 @@
     "Monaco GP": "モナコグランプリ",
     "Alpine's Pierre Gasly": "",
     "June's Monaco Grand Prix": "",
-    "Women's CL": ""
+    "Women's CL": "",
+    "Guess Bundesliga": "",
+    "Fiamma Benítez Arsenal": "",
+    "Aaron McKenna": "",
+    "Denzel Bentley": "デンゼル・ベントリー"
   },
   "items": [
     {
@@ -1386,6 +1390,20 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アーセナルフェイスバルセロナ & リヨン女性のチャンピオンズリーグ",
+      "summary": "アーセナルフェイスホルダーバルセロナ受賞者の記録リヨン女性のチャンピオンズリーグ, しばらくチェルシー旅行するリヨンそして、マンチェスター・シティ獲得を問い合わせバイエルン・ミュンヘン.",
+      "title_original": "Arsenal to face Barca & Lyon in Women's Champions League",
+      "summary_original": "Arsenal will face holders Barcelona and record winners Lyon in the Women's Champions League, while Chelsea will travel to Lyon and Man City will take on Bayern Munich.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c05rnv2rq85o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 11:29:33 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1512,6 +1530,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "私は誰ですか? ログインブンデスリーガ星 2",
+      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
+      "title_original": "Who am I? Guess Bundesliga star No 2",
+      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0req0zjqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 11:34:04 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1670,20 +1702,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "パトコンソーシアムのノーパントン投資承認",
-      "summary": "The Independent Football Regulator ブラジルのコンソーシアムによるコブラーへの投資を承認。",
-      "title_original": "Pato consortium's Northampton investment approved",
-      "summary_original": "The Independent Football Regulator approves investment into the Cobblers by a Brazilian consortium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy7rx799yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 08:42:22 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "夏のサインは、すでにインパクトを生む - サンガレ、ロジャーズ, エンシソ",
       "summary": "BBC について スポーツは、新しい飛行開始に降り得る夏の新加入選手を見ていきますプレミアリーグ今夏ママドゥ・サンガレ, モーガン・ロジャーズ, フリオ・エンシソ, ゴンサロ・ガルシアそして、ビクトル・ムニョス.",
       "title_original": "The summer signings already making an impact - Sangare, Rogers, Enciso",
@@ -1768,27 +1786,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「彼はそれで史上に - 白は「信じられない」フェルナンデスを賞賛",
-      "summary": "デイパンディットのマッチエレン・ホワイトラベルブルーノ・フェルナンデス\"信じられない\"、ミッドフィルダーの後にハットトリック獲得を問い合わせマンチェスター・ユナイテッド'5-2 コールバックの勝利に対するイプスウィッチ・タウン FC.",
-      "title_original": "'He's on it all the time' - White praises 'unbelievable' Fernandes",
-      "summary_original": "Match of the Day pundit Ellen White labels Bruno Fernandes \"unbelievable\", after the midfielder's hat-trick in Manchester United's 5-2 comeback win against Ipswich Town.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy4zmlrrpxxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 22:37:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "前記’ 上司は、ディーン「ファンタシーな土地で」と言う;トッテナム axe Richarlison;リヴァプールヘッドイプスウィッチ: サッカー – ライブ",
       "summary": "• 週末前の最新ニュースとプレビュー •プレミアリーグ: 10 件の商品がございます。|Email Tom The 執行役員 Football Association, Rugby Football Union イングランドとイングランド Wales Cricket Board 大手ブロードキャストや YouTube と連携し、プロダクション企業向けの税金クレジットを請求することで、女性のスポーツのテレビ報道をさらに高めることができます。続きを読む...",
       "title_original": "Former referees’ boss says Dean ‘in fantasy land’; Spurs axe Richarlison; Liverpool head to Ipswich: football – live",
       "summary_original": "• All the latest news and previews before the weekend • Premier League: 10 things to watch for | Email Tom The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women’s sport. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live",
-      "published": "Fri, 04 Sep 2026 11:01:56 GMT",
+      "published": "Fri, 04 Sep 2026 11:22:44 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1811,15 +1815,15 @@
     },
     {
       "title": "マンチェスター・シティ Miedema カバーのためのスクランブルでスペインのペアを上陸させる失敗",
-      "summary": "Atlético は50 万ポンド以上の入札を拒否しました Fiamma Benítez City 繁殖できない Ornella Vignola からエヴァートン アトレティコ・マドリードから£500,000 以上の入札を拒否マンチェスター・シティスペインのミッドフィルダーのため Fiamma Benítez 獲得を問い合わせ Women’s Super League’s 期限日を移すと、ガーディアンは明らかにすることができます。The WSL チャンピオンは、英語の夏のウィンドウが11pm BST で木曜日に閉鎖する前に、攻撃中フィールド強化を追加しようとしたことを理解しています。",
+      "summary": "Atlético は、Fiamma Benítez のための£500,000 以上の入札を拒否しましたアーセナル難易度が高いチャンピオンズリーグログインアトレティコ・マドリードから£500,000 以上の入札を拒否マンチェスター・シティスペインのミッドフィルダーのため Fiamma Benítez 獲得を問い合わせ Women’s Super League’s 期限日を移すと、ガーディアンは明らかにすることができます。The WSL チャンピオンは、英語の夏のウィンドウが11pm BST で木曜日に閉鎖する前に攻撃中フィールド強化を追加することを試みたことを理解しています。",
       "title_original": "Manchester City failed to land Spain pair in scramble for Miedema cover",
-      "summary_original": "Atlético rejected £500,000-plus bid for Fiamma Benítez City also unable to prise Ornella Vignola from Everton Atlético Madrid rejected a bid of more than £500,000 from Manchester City for the Spain midfielder Fiamma Benítez on the Women’s Super League’s transfer deadline day, the Guardian can reveal. The WSL champions are understood to have tried hard to add attacking-midfielder reinforcements before the English summer window closed on Thursday at 11pm BST, largely in light of news that their No",
+      "summary_original": "Atlético rejected £500,000-plus bid for Fiamma Benítez Arsenal handed difficult Champions League draw Atlético Madrid rejected a bid of more than £500,000 from Manchester City for the Spain midfielder Fiamma Benítez on the Women’s Super League’s transfer deadline day, the Guardian can reveal. The WSL champions are understood to have tried hard to add attacking-midfielder reinforcements before the English summer window closed on Thursday at 11pm BST, largely in light of news that their No 10 Vivi",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/04/manchester-city-fiamma-benitez-ornella-vignola-bid-miedema-womens-champions-league-draw",
       "published": "Fri, 04 Sep 2026 09:09:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2202,6 +2206,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Scot Prem 最新:セルティックストライカー・デュランは、月のプレイヤーを獲得",
+      "summary": "",
+      "title_original": "Scot Prem latest: Celtic striker Duran wins player of month",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "published": "Fri, 04 Sep 2026 12:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ガスリーは失いますモナコグランプリマクラレンの後、再び表彰台,レッドブル勝利魅力",
       "summary": "Alpine's Pierre Gasly6 月より3 位に負けてしまったモナコレースのペナルティがマクラレンとマクレレンの成功の訴求後に再びグランプリレッドブル.",
       "title_original": "Gasly loses Monaco GP podium again after McLaren, Red Bull win appeal",
@@ -2293,6 +2311,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13580489/today-on-sky-sports-racing-ascot-bangor-on-dee-and-worcester",
       "published": "Fri, 04 Sep 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "McKenna は、Bentley でミドルウェイト統一のショーダウンをセット",
+      "summary": "Aaron McKenna そして、デンゼル・ベントリー今年の世界中級タイトル統一の戦いに合意しました, スカイスポーツは理解しています.",
+      "title_original": "McKenna set for middleweight unification showdown with Bentley",
+      "summary_original": "Aaron McKenna and Denzel Bentley have agreed to a world middleweight title unification fight this year, Sky Sports understands.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13581233/aaron-mckenna-ibf-champion-set-for-world-middleweight-unification-showdown-with-wbo-title-holder-denzel-bentley",
+      "published": "Fri, 04 Sep 2026 12:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2451,34 +2483,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "WSL ウィンドウの勝者&敗者:静的アーセナルしかし、マンチェスター・シティ & チェルシー獲得を問い合わせ",
-      "summary": "アーセナル最初に勝つために見ている Women's Super League タイトルは、8 つの新しいプレーヤーに獲得した後、2019 年以来、ロンドン・シティ・ライオネス' 夏を大指定 - 購入を含むアレクシア・プテジャス, 「リーグが見てきた最大の獲得」 - タイトルの課題にそれらを導きますか?",
-      "title_original": "WSL window winners & losers: Ecstatic Arsenal but have Man City & Chelsea done enough?",
-      "summary_original": "Arsenal are looking to win their first Women's Super League title since 2019 after signing eight new players, while can London City Lionesses' big-spending summer - including the purchase of Alexia Putellas, \"the biggest signing the league has seen\" - lead them to an unlikely title challenge?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13581035/wsl-2026-27-transfer-window-winners-and-losers-ecstatic-arsenal-but-have-man-city-and-chelsea-done-enough",
-      "published": "Thu, 03 Sep 2026 23:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ダービーの6 ウィケット勝利でシリーズへのイングランドクルーズ",
-      "summary": "ダービーからイングランドがレースしたアクションのベストは、わずか23 のオーバーで166 のターゲットにまでレースされ、シリーズがスペアリングするゲームでアイルランドで勝つために勝つことができます。",
-      "title_original": "England cruise to series win with six-wicket victory in Derby",
-      "summary_original": "The best of the action from Derby as England raced to a target of 166 in just 23 overs to clinch a series win over Ireland with a game to spare.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13580959/england-vs-ireland-second-odi-highlights",
-      "published": "Thu, 03 Sep 2026 18:23:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
