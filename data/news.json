@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T19:49:34.998036+00:00",
+  "updated_at": "2026-09-04T20:06:05.807425+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1447,7 +1447,9 @@
     "The Gunners": "",
     "Ipswich LIVE": "",
     "Matteo Guendouzi": "マテオ・ゲンドゥージ",
-    "London City's": ""
+    "London City's": "",
+    "Thriston Lawrence": "",
+    "Seve Ballesteros": "セベ・バレステロス"
   },
   "items": [
     {
@@ -1877,7 +1879,7 @@
       "summary_original": "Premier League updates from the 8pm BST kick-off Live scoreboard | Read Football Daily | Email Scott The teams are out! Ipswich in blue, Liverpool in red. A wonderful start-of-the-weekend, possibly-a-few-pints-to-the-good atmosphere under the lights at Portman Road! Not long now. In the meantime, here’s Dave Estherby with some pre-match words of encouragement for Liverpool : “Not really sure what’s going on upstairs at Anfield. Another summer where they’ve spaffed money up the wall for unproven ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
-      "published": "Fri, 04 Sep 2026 19:44:39 GMT",
+      "published": "Fri, 04 Sep 2026 19:47:30 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2291,9 +2293,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヴァン ・ デ ・ ドンク ダブルスからスーパーブ フリク London City's リード対マンチェスター・ユナイテッドライブ!",
+      "title": "ローレンスは、彼はバレエをエミュレートすることを目指し、スイスのハーフウェイステージでリード",
+      "summary": "防衛王者 Thriston Lawrence 列に6 つの鳥類を巻き戻し、その後、バンカーから優れたパーセーブを行い、ハーフウェイステージでリードを固定します。Omega European Masters 彼が遅く、素晴らしいエミュレートするように見えるようにセベ・バレステロス.",
+      "title_original": "Lawrence leads at halfway stage in Switzerland as he aims to emulate Ballesteros",
+      "summary_original": "Defending champion Thriston Lawrence reeled off six birdies in a row and then made an excellent par save from a bunker to secure the lead at the halfway stage of the Omega European Masters as he looks to emulate the late, great Seve Ballesteros.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13581485/dp-world-tour-golf-thriston-lawrence-leads-at-halfway-stage-of-omega-european-masters-as-he-aims-to-emulate-seve-ballesteros",
+      "published": "Fri, 04 Sep 2026 20:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "London City 土地の入り口の夜は勝ちますマンチェスター・ユナイテッドライブ!",
       "summary": "",
-      "title_original": "Superb flick from Van de Donk doubles London City's lead vs Man Utd LIVE!",
+      "title_original": "London City land opening night win over Man Utd LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/live/575755",
@@ -2417,9 +2433,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "St HelensLeigh から下へハル KR はリード対ジャイアントをとります",
+      "title": "St Helens ハーフタイムでのリークに対する背後にあるハル KR 鉛ハダースフィールド",
       "summary": "",
-      "title_original": "St Helens go down against Leigh, as Hull KR take lead vs Giants",
+      "title_original": "St Helens behind against Leigh at half-time, as Hull KR lead Huddersfield",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13580338/super-league-live-updates-videos-scores-commentary-analysis-as-leigh-leopards-host-st-helens-hull-kr-face-huddersfield-giants",
@@ -2554,20 +2570,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アーセナル絶え間ない防衛は、逃げたものを満たしていますロジャーズ",
-      "summary": "",
-      "title_original": "Arsenal’s ever-improving defence meets one that got away in Rogers",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13581188/arsenals-defence-still-improving-even-without-william-saliba-but-morgan-rogers-and-chelsea-are-tougher-test-the-radar",
-      "published": "Fri, 04 Sep 2026 09:44:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
