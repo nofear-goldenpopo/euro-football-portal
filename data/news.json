@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T18:51:22.641805+00:00",
+  "updated_at": "2026-09-04T19:05:40.972051+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1435,7 +1435,11 @@
     "April. They’ll": "",
     "Alexander Isak’s": "",
     "Email Scott Gary O’Neil’s": "",
-    "Email Scott It’s": ""
+    "Email Scott It’s": "",
+    "Email Scott Pre-match": "",
+    "Bryan Robson": "ブライアン・ロブソン",
+    "Juan Sebastian Veron": "",
+    "Katie Taylor's": ""
   },
   "items": [
     {
@@ -1860,15 +1864,15 @@
     },
     {
       "title": "イプスウィッチ・タウン FC. .リヴァプール: プレミアリーグ– ライブ",
-      "summary": "プレミアリーグ8pm BST キックオフライブスコアボードからのアップデート |Read Football Daily | Email Scott It’s 深夜に12 番目と13 番目。徹夜勝者はほとんど5 番目の場所で夕方を終了します。ゲームの終了は、イプスウィッチ途中テーブルの上部の半分に、リヴァプール11 位に上がる。みんなで遊ぼう! (通常はシーズン初旬の洞窟が使われますが、その中の害はどこにありますか?) 続きを読む...",
+      "summary": "プレミアリーグ8pm BST キックオフライブスコアボードからのアップデート |Read Football Daily | Email Scott Pre-match ポストバッグ。片道のりリヴァプール’ s は、季節への帝国の開始よりも少ない, あなたは今夜提供される上で非常においしいチームシートであることを認めなければなりません - 若々しいの正しいブレンド, 経験, ハンガリーの回答 へブライアン・ロブソンそして、World Cup 公園の真ん中で勝者、ストライカーは、マンチェスター・シティ, a チャンピオンズリーグベンチの勝者とウィルツの私たち自身の Juan Sebastian Veron! – ピード",
       "title_original": "Ipswich Town v Liverpool: Premier League – live",
-      "summary_original": "Premier League updates from the 8pm BST kick-off Live scoreboard | Read Football Daily | Email Scott It’s a proper mid-table clash tonight: 12th versus 13th. Tonight’s winner will almost certainly end the evening in fifth place; should the game end in a draw, Ipswich will make it into the top half of the table, while Liverpool would rise to 11th. All to play for! (The usual po-faced early-season caveats apply, but where’s the harm in it?) Continue reading...",
+      "summary_original": "Premier League updates from the 8pm BST kick-off Live scoreboard | Read Football Daily | Email Scott Pre-match postbag. “Leaving aside Liverpool’s less than imperial start to the season, you have to admit that’s a very tasty teamsheet on offer tonight - the right blend of youth, experience, Hungary’s answer to Bryan Robson and a World Cup winner in the middle of the park, a striker coveted by Man City, a Champions League winner on the bench and in Wirtz our very own Juan Sebastian Veron!” – Pead",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
-      "published": "Fri, 04 Sep 2026 18:32:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "published": "Fri, 04 Sep 2026 18:55:00 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2293,9 +2297,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イプスウィッチ対比リヴァプールスカイでライブ!バルコラ訪問者のためのベンチ",
+      "title": "イプスウィッチ対比リヴァプールスカイでライブ!",
       "summary": "",
-      "title_original": "Ipswich vs Liverpool LIVE on Sky! Barcola on bench for visitors",
+      "title_original": "Ipswich vs Liverpool LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/ipswich-town-vs-liverpool/live/559470",
@@ -2304,6 +2308,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'dream' の会場でボクシングからテイラー ボウズアウト",
+      "summary": "Katie Taylor's きらめきのボクシングのキャリアは、彼女の「ドリーム会場」で土曜日の夜に近づくと、簡単なメッセージで「もう1 回行く」。",
+      "title_original": "'Let's go one more time' - Taylor bows out from boxing at 'dream' venue",
+      "summary_original": "Katie Taylor's glittering boxing career will draw to a close on Saturday night at her \"dream venue\" and with the message a simple one: \"Let's go one more time\".",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13581455/katie-taylor-ready-to-go-one-more-time-as-glittering-career-ends-at-croke-park-with-dreams-of-being-undisputed-again",
+      "published": "Fri, 04 Sep 2026 19:45:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2391,9 +2409,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Super League LIVE! ビルドアップへ Leigh Leopards 対比 St Helens",
+      "title": "Super League LIVE! Leigh Leopards 対比 St Helens, KR 対 ハダースフィールド クランチ ラウンド",
       "summary": "",
-      "title_original": "Super League LIVE! Build-up to Leigh Leopards vs St Helens",
+      "title_original": "Super League LIVE! Leigh Leopards vs St Helens, KR vs Huddersfield in crunch round",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13580338/super-league-live-updates-videos-scores-commentary-analysis-as-leigh-leopards-host-st-helens-hull-kr-face-huddersfield-giants",
@@ -2541,20 +2559,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トッテナム最新:De ZerbiMudryk の可用性と Richarlison の移籍",
-      "summary": "",
-      "title_original": "Spurs latest: De Zerbi on Mudryk availability and Richarlison transfer",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Thu, 03 Sep 2026 18:00:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v8"
     }
