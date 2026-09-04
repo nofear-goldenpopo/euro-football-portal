@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T17:23:12.628983+00:00",
+  "updated_at": "2026-09-04T17:35:14.544905+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1417,7 +1417,9 @@
     "Mike Hesson": "",
     "Man Utd LIVE": "",
     "Dan Worrall": "",
-    "Josh Blake": ""
+    "Josh Blake": "",
+    "Owner David Clowes": "",
+    "Rams CEO Stephen Pearce": ""
   },
   "items": [
     {
@@ -1519,6 +1521,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "驚きのペースセッターと回復力走る - EFL で見る5 つのこと",
+      "summary": "週末のチャンピオンシップ前の5 つのポイントをご紹介します。League One そして、League Two アクション。",
+      "title_original": "Surprise pacesetters & resurgent runs - five things to watch in the EFL",
+      "summary_original": "Here are five key talking points before the weekend's Championship, League One and League Two action.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2mxe7g3gyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 13:07:13 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リヴァプール、Minteh can still get dream move - Hurzeler を獲得候補に",
       "summary": "ブライトンログイン Fabian Hurzeler コメント Yankuba MintehSeagulls がダウンした後、まだ「彼の夢を満たす」未来に移動することができますリヴァプールの はウィンガーのオファーです。",
       "title_original": "Liverpool target Minteh can still get dream move - Hurzeler",
@@ -1561,20 +1577,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナルフェイスバルセロナ & リヨン女性のチャンピオンズリーグ",
-      "summary": "アーセナルフェイスホルダーバルセロナ受賞者の記録リヨン女性のチャンピオンズリーグ, しばらくチェルシー旅行するリヨンそして、マンチェスター・シティ獲得を問い合わせバイエルン・ミュンヘン.",
-      "title_original": "Arsenal to face Barca & Lyon in Women's Champions League",
-      "summary_original": "Arsenal will face holders Barcelona and record winners Lyon in the Women's Champions League, while Chelsea will travel to Lyon and Man City will take on Bayern Munich.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c05rnv2rq85o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:29:33 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -1589,17 +1591,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "驚きのペースセッターと回復力走る - EFL で見る5 つのこと",
-      "summary": "週末のチャンピオンシップ前の5 つのポイントをご紹介します。League One そして、League Two アクション。",
-      "title_original": "Surprise pacesetters & resurgent runs - five things to watch in the EFL",
-      "summary_original": "Here are five key talking points before the weekend's Championship, League One and League Two action.",
+      "title": "アーセナルフェイスバルセロナ & リヨン女性のチャンピオンズリーグ",
+      "summary": "アーセナルフェイスホルダーバルセロナ受賞者の記録リヨン女性のチャンピオンズリーグ, しばらくチェルシー旅行するリヨンそして、マンチェスター・シティ獲得を問い合わせバイエルン・ミュンヘン.",
+      "title_original": "Arsenal to face Barca & Lyon in Women's Champions League",
+      "summary_original": "Arsenal will face holders Barcelona and record winners Lyon in the Women's Champions League, while Chelsea will travel to Lyon and Man City will take on Bayern Munich.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2mxe7g3gyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 13:07:13 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c05rnv2rq85o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 11:29:33 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1642,6 +1644,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ダービーの帆を巻き出した竹 over 崩壊",
+      "summary": "Owner David Clowes クラブを販売から1 時間離れていたにもかかわらず、ダービーの資金調達にコミットしたまま、言う Rams CEO Stephen Pearce.",
+      "title_original": "Takeover collapse took wind out of Derby's sails",
+      "summary_original": "Owner David Clowes remains committed to financing Derby despite having been an hour away from selling the club, says Rams CEO Stephen Pearce.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yd6rkeqlqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 16:02:33 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1722,20 +1738,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq8j0vg4y7po?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 04 Sep 2026 08:19:17 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "私は誰ですか?Guess WSL 星なし 1",
-      "summary": "今日の身元を身につける Women's Super League できるだけ少ない試みでプレイヤーをプレイできます。",
-      "title_original": "Who am I? Guess WSL star No 1",
-      "summary_original": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0qvxvp220jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:42:11 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1847,7 +1849,7 @@
       "summary_original": "• All the latest news and previews before the weekend • Premier League: 10 things to watch for | Email John The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women’s sport. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live",
-      "published": "Fri, 04 Sep 2026 17:11:12 GMT",
+      "published": "Fri, 04 Sep 2026 17:21:28 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2275,6 +2277,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "'It's going to be tight' - Hamilton、'dream' Monza pole を獲得候補に",
+      "summary": "Lewis Hamilton「非常に近い」の戦いを予測していますイタリアグランプリモンツァの「ドリーム」のポールポジションだと彼は言うために土曜日に修飾.",
+      "title_original": "'It's going to be tight' - Hamilton eyes 'dream' Monza pole",
+      "summary_original": "Lewis Hamilton is predicting a “very close” battle in Italian Grand Prix qualifying on Saturday for what he says would he says would be a “dream” pole position at Monza.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13581165/lewis-hamilton-eyes-dream-italian-gp-pole-position-for-ferrari-after-predicting-very-close-monza-qualifying-battle",
+      "published": "Fri, 04 Sep 2026 18:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Putellas が起動しますが、Earps に ベンチ のために London City 対比マンチェスター・ユナイテッドライブ!",
       "summary": "",
       "title_original": "Putellas starts but Earps on the bench for London City vs Man Utd LIVE!",
@@ -2523,20 +2539,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Hollie Doyle ブログ: 夫のトムがクランチする方法 Sprint Cup タイトル",
-      "summary": "Sky Sports Racing アンバサダーHollie Doyle 土曜日にアスコットで4 つの大きなハンディキャップを拾う, ライブオン Sky Sports Racing ヘイドックとケンプトンの2 つの機能イベント。",
-      "title_original": "Hollie Doyle blog: How my husband Tom can clinch Sprint Cup title",
-      "summary_original": "Sky Sports Racing ambassador Hollie Doyle unpicks four big handicaps at Ascot on Saturday, live on Sky Sports Racing , plus the two feature events at Haydock and Kempton.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13581292/hollie-doyle-blog-ascot-kempton-and-haydock-preview-as-almeraq-headlines-sprint-cup-field-for-husband-tom-marquand",
-      "published": "Fri, 04 Sep 2026 13:05:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
