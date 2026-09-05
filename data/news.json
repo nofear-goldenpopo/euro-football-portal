@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T09:23:07.780312+00:00",
+  "updated_at": "2026-09-05T09:35:52.622804+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1496,7 +1496,9 @@
     "Aston Villa. Continue": "",
     "Kelly Somers": "",
     "Stamp Fairtex": "スタンプ・フェアテックス",
-    "Swansea City": "スウォンジー・シティAFC"
+    "Swansea City": "スウォンジー・シティAFC",
+    "Sky Sports' Harriet Prior": "",
+    "Michael Carrick's": ""
   },
   "items": [
     {
@@ -2340,6 +2342,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Transfer Centre LIVE! Richarlison の最も最近のおよび自由な代理店はまだ利用できます",
+      "summary": "",
+      "title_original": "Transfer Centre LIVE! Richarlison latest and free agents still available",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "published": "Thu, 03 Sep 2026 23:00:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "スカイスポーツとアウディはユニークな「発売」を発表 Flying Lap' トラック ガイド シリーズ",
       "summary": "",
       "title_original": "Sky Sports and Audi launch unique 'Flying Lap' track guide series",
@@ -2448,6 +2464,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「本当に良かった」 | 洗面所の帰りに喜んで Mbeumo",
+      "summary": "Sky Sports' Harriet Prior ヘッドへオールド・トラッフォード誰にでも話せるマイケル・キャリック'メイン男性 -Bryan Mbeumo.",
+      "title_original": "'Really good to have him back' | Mbeumo delighted by return of Rashford",
+      "summary_original": "Sky Sports' Harriet Prior heads to Old Trafford to speak to one of Michael Carrick's main men - Bryan Mbeumo.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13581639/man-utd-latest-bryan-mbeumo-delighted-by-return-of-marcus-rashford",
+      "published": "Sat, 05 Sep 2026 10:12:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2585,34 +2615,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/mma/news/12040/13581627/one-fight-night-47-stamp-fairtex-silences-her-doubts-with-defiant-split-decision-win-over-selina-flores",
       "published": "Sat, 05 Sep 2026 09:07:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'It's going to be tight' - Hamilton、'dream' Monza pole を獲得候補に",
-      "summary": "Lewis Hamilton「非常に近い」の戦いを予測していますイタリアグランプリモンツァの「ドリーム」のポールポジションだと彼は言うために土曜日に修飾.",
-      "title_original": "'It's going to be tight' - Hamilton eyes 'dream' Monza pole",
-      "summary_original": "Lewis Hamilton is predicting a “very close” battle in Italian Grand Prix qualifying on Saturday for what he says would he says would be a “dream” pole position at Monza.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13581165/lewis-hamilton-eyes-dream-italian-gp-pole-position-for-ferrari-after-predicting-very-close-monza-qualifying-battle",
-      "published": "Fri, 04 Sep 2026 18:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "AJ のフルーティ・クラッシュ待ち時間外トレーナー「他人のビジネスじゃない!」",
-      "summary": "Anthony Joshua's 旧トレーナーRobert McCracken 元ユニファイド・ワールド・チャンピオンがヘビー級のスーパーファイトに対抗したいかどうか、それは「他の人のビジネス」ではないと主張していますタイソン・フューリー.",
-      "title_original": "AJ's ex-trainer on wait for Fury clash: 'It's not anybody else's business!'",
-      "summary_original": "Anthony Joshua's former trainer Robert McCracken insists it's not \"anybody else's business\" whether the former unified world champion wants to proceed with a heavyweight super-fight against Tyson Fury.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13581209/anthony-joshua-heavyweights-former-trainer-has-his-say-on-what-happens-next-in-tyson-fury-fight-negotiations",
-      "published": "Sat, 05 Sep 2026 07:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
