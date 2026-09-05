@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T11:35:56.563817+00:00",
+  "updated_at": "2026-09-05T11:49:10.623728+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1513,7 +1513,11 @@
     "Michael Edw": "",
     "Mail David It’s": "",
     "Alex Scott": "",
-    "Aston Villa LIVE": ""
+    "Aston Villa LIVE": "",
+    "Mail David Here": "",
+    "Some August": "",
+    "Glenn Hoddle": "グレン・ホドル",
+    "Verstappen LIVE": ""
   },
   "items": [
     {
@@ -1545,13 +1549,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ついに、ガクポが価値を証明するので到着リヴァプール",
-      "summary": "リアルにアレクサンデル・イサクいよいよ到着リヴァプール自分の2 頭目のディスプレイの後プレミアリーグで勝つイプスウィッチ・タウン FC, チーフサッカーライターに尋ねるフィル・マクナルティ?",
-      "title_original": "Isak finally arrives as Gakpo proves value to Liverpool",
-      "summary_original": "Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?",
+      "title": "ヒュースは以下のようにステップダウンしますリヴァプールスポーツディレクター",
+      "summary": "Richard Hughes スポーティングディレクターとしての地位を下回るリヴァプールサウジアラビア側への参加 Al Hilal.",
+      "title_original": "Hughes steps down as Liverpool sporting director",
+      "summary_original": "Richard Hughes steps down from his position as sporting director of Liverpool and is set to join Saudi side Al Hilal.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 22:37:16 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3d7483rv82o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 11:46:06 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1584,6 +1588,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ついに、ガクポが価値を証明するので到着リヴァプール",
+      "summary": "リアルにアレクサンデル・イサクいよいよ到着リヴァプール自分の2 頭目のディスプレイの後プレミアリーグで勝つイプスウィッチ・タウン FC, チーフサッカーライターに尋ねるフィル・マクナルティ?",
+      "title_original": "Isak finally arrives as Gakpo proves value to Liverpool",
+      "summary_original": "Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 22:37:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1657,20 +1675,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ビスソウマが提供されましたチェルシー - 土曜日の移籍ゴシップ",
-      "summary": "チェルシー提供元-トッテナムミッドフィルダーイヴ・ビスマ, マンチェスター・シティそして、チェルシーお知らせインテル最新記事クリスタル・パレス獲得を問い合わせアダム・ウォートン, アーセナル入居を検討中バルセロナ獲得を問い合わせラフィーニャ, 以上.",
-      "title_original": "Bissouma was offered to Chelsea - Saturday's gossip",
-      "summary_original": "Chelsea were offered ex-Tottenham midfielder Yves Bissouma, Manchester City and Chelsea showed interest in Crystal Palace's Adam Wharton, Arsenal are considering move for Barcelona's Raphinha, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7903g4nvn3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 21:07:33 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "FA がイングランドの選手をキャンバスに World Cup レビュー",
       "summary": "The Football Association's レビューEngland's World Cup キャンペーンは、大会に関与する選手の意見をキャンバスにします。",
       "title_original": "FA to canvass England players in World Cup review",
@@ -1682,6 +1686,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ビスソウマが提供されましたチェルシー - 土曜日の移籍ゴシップ",
+      "summary": "チェルシー提供元-トッテナムミッドフィルダーイヴ・ビスマ, マンチェスター・シティそして、チェルシーお知らせインテル最新記事クリスタル・パレス獲得を問い合わせアダム・ウォートン, アーセナル入居を検討中バルセロナ獲得を問い合わせラフィーニャ, 以上.",
+      "title_original": "Bissouma was offered to Chelsea - Saturday's gossip",
+      "summary_original": "Chelsea were offered ex-Tottenham midfielder Yves Bissouma, Manchester City and Chelsea showed interest in Crystal Palace's Adam Wharton, Arsenal are considering move for Barcelona's Raphinha, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7903g4nvn3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 21:07:33 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1738,20 +1756,6 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "私は誰ですか?Guess WSL 星 2",
-      "summary": "今日の身元を身につける Women's Super League できるだけ少ない試みでプレイヤーをプレイできます。",
-      "title_original": "Who am I? Guess WSL star No 2",
-      "summary_original": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8nmnv8vrvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 07:23:30 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1938,12 +1942,12 @@
     },
     {
       "title": "ニューカッスル v ボーンマス:プレミアリーグ– ライブ",
-      "summary": "更新情報セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)、キックオフ 12.30pm (BST)プレミアリーグ: 10 物事を調べる |Mail David It’s 確かにすべてのケースではないプレミアリーグマネージャーが、Marco RoseBournemouth's でもっと幸せに聞こえる移籍市場. それは主にキーの人の把握を、特にミッドフィルダー保つことが原因であります Alex Scott: 「私たちにとって非常に重要なプレーヤーです。笑顔でローズと言います。表的には、今日の7 番目の v 14 です。獲得を問い合わせハルその最大ポイントギャング! 続きを読む",
+      "summary": "更新情報セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)、キックオフ 12.30pm (BST)プレミアリーグ: 10 物事を調べる |Mail David Here チームに参加!Some August 日差しは、地面の楽観と興奮の感覚に追加します。これらの光線に Giddy,グレン・ホドル3-3 または2-2 の描画のいずれかを予測します。それは確かにすべてのもののケースではありませんプレミアリーグマネージャーが、Marco RoseBournemouth's でもっと幸せに聞こえる移籍市場. それは主にキーの人の把握を、特にミッドフィルダー保つことが原因であります Alex Scott:「ヘレ」",
       "title_original": "Newcastle United v Bournemouth: Premier League – live",
-      "summary_original": "Updates from St James’ Park, kick-off 12.30pm (BST) Premier League: 10 things to look out for | Mail David It’s certainly not the case with all Premier League managers but Marco Rose sounds more than happy with Bournemouth’s transfer window. That’s due mainly to keeping hold of key men, particularly midfielder Alex Scott: “Here’s a very important player for us. Happy to have him,” says Rose with a smile. Table-wise, it’s 7th v 14th today. Look at Hull in that maximum points gang! Continue readin",
+      "summary_original": "Updates from St James’ Park, kick-off 12.30pm (BST) Premier League: 10 things to look out for | Mail David Here come the teams! Some August sunshine adds to the sense of optimism and excitement in the ground. Giddy on those rays, Glenn Hoddle predicts either a 3-3 or 2-2 draw. It’s certainly not the case with all Premier League managers but Marco Rose sounds more than happy with Bournemouth’s transfer window. That’s due mainly to keeping hold of key men, particularly midfielder Alex Scott: “Here",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/newcastle-united-v-bournemouth-premier-league-live",
-      "published": "Sat, 05 Sep 2026 11:19:50 GMT",
+      "published": "Sat, 05 Sep 2026 11:27:25 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2357,9 +2361,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イタリアグランプリ: フェラーリが最終練習を準備するので、ラッセル最速ライブ!",
+      "title": "イタリアグランプリ: Russell は Hamilton の衝突として最終的な練習をとります Verstappen LIVE!",
       "summary": "",
-      "title_original": "Italian GP: Russell fastest as Ferrari prepare for crucial final practice runs LIVE!",
+      "title_original": "Italian GP: Russell tops final practice as Hamilton clashes with Verstappen LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13581626/f1-italian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
@@ -2371,9 +2375,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブラックバーン、ナンプトン、チャールトン、アクション -EFL LIVE 空に!",
+      "title": "Preston リード ブラックバーン; シャルトン & アクションの聖人 -EFL LIVE 空に!",
       "summary": "",
-      "title_original": "Blackburn, Southampton, Charlton in action - EFL LIVE on Sky!",
+      "title_original": "Preston lead Blackburn; Charlton & Saints in action - EFL LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/preston-north-end-vs-blackburn-rovers/live/560551",
@@ -2441,9 +2445,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシー対比アストン・ヴィラライブ!",
+      "title": "チェルシー明るいスタート対アストン・ヴィラライブ!",
       "summary": "",
-      "title_original": "Chelsea vs Aston Villa LIVE!",
+      "title_original": "Chelsea make bright start vs Aston Villa LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-women-vs-aston-villa-women/live/575756",
@@ -2553,9 +2557,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ニューカッスル対比 Bournemouth LIVE!",
+      "title": "Tavernier 与 Bournemouth 早い リード 時ニューカッスルライブ!",
       "summary": "",
-      "title_original": "Newcastle vs Bournemouth LIVE!",
+      "title_original": "Tavernier gives Bournemouth early lead at Newcastle LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/newcastle-united-vs-bournemouth/live/559472",
