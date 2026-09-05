@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T16:49:33.230540+00:00",
+  "updated_at": "2026-09-05T17:06:05.576045+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1612,7 +1612,10 @@
     "Fratton Park": "フラットン・パーク",
     "South Africa's Thriston Lawrence": "",
     "Omega Masters": "",
-    "Test LIVE": ""
+    "Test LIVE": "",
+    "Hoffenheim Elversberg": "",
+    "Jimmy-Jay Morgan's": "",
+    "West Brom's": ""
   },
   "items": [
     {
@@ -1710,6 +1713,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "クロアチアで41 回目の誕生日を過ぎてプレイするモーダルプラン",
+      "summary": "Luke Modric, 41, から退職する準備ができていませんインテル国民のサッカーと今後クロアチアのためにプレーする希望 Nations League イングランドと対戦するゲーム。",
+      "title_original": "Modric plans to play for Croatia past 41st birthday",
+      "summary_original": "Luke Modric, 41, is not ready to retire from international football and hopes to play for Croatia in upcoming Nations League games, including against England.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0xegkegyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 13:45:21 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1910,20 +1927,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "クロアチアで41 回目の誕生日を過ぎてプレイするモーダルプラン",
-      "summary": "Luke Modric, 41, から退職する準備ができていませんインテル国民のサッカーと今後クロアチアのためにプレーする希望 Nations League イングランドと対戦するゲーム。",
-      "title_original": "Modric plans to play for Croatia past 41st birthday",
-      "summary_original": "Luke Modric, 41, is not ready to retire from international football and hopes to play for Croatia in upcoming Nations League games, including against England.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0xegkegyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 13:45:21 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Sutton の予測 v Kasabian のフロントマン Serge Pizzorno",
       "summary": "BBC スポーツサッカーの専門家クリス・サットン Kasabian フロントマン Serge Pizzorno この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
       "title_original": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
@@ -2022,13 +2025,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "title": "SPFL のファンなしオールドファーム季節の試合",
+      "summary": "サポーターがいないセルティックそして、レンジャーズダービーでスコティッシュ・プレミアシップまたは Premier Sports Cup こちらの季節です。",
+      "title_original": "No away fans for SPFL Old Firm matches this season",
+      "summary_original": "There will be no away supporters for Celtic and Rangers derbies in the Scottish Premiership or Premier Sports Cup this season.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz9zpq8lpvqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 06:01:41 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8x2j8kl3do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 12:30:08 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2042,7 +2045,7 @@
       "summary_original": "Updates from 5.30pm BST kick-off at MKM Stadium Live scoreboard | Clockwatch | Mail Billy 4 min: Hull settle into some possession. The place is bouncing. 2 min: Jackson heads wide! Early chance for Villa as Maatsen crosses from the left, Jackson rises between the Hull centre-backs and heads it back beyond the near post. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/hull-city-v-aston-villa-premier-league-live",
-      "published": "Sat, 05 Sep 2026 16:36:34 GMT",
+      "published": "Sat, 05 Sep 2026 16:50:37 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2092,6 +2095,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ヨーロッパのサッカー: Nwaneri 力遅れてオウンゴール劇的なキャップドルトムントカムバック",
+      "summary": "アーセナルローンリーは、3-2 で勝利した目標を遅らせる Hoffenheim Elversberg ビート Mönchengladbach 4-3 スリラーアーセナルローンチイーサン・ヌワネリ遅くなる原因オウンゴールを問い合わせボルシア・ドルトムント’ s お気に入り, 彼の側は 2 ダウンから勝利 3-2 トープシートゥビーでホフェンハイムでブンデスリーガクラッシュ。ホーフェンハイムは、開口時間のためのより良いチームだったが、その方法を失ったドルトムントギアにクリックし、勝利に勝ちました3 ゴール最終30 分 このストーリーは更新されます 続きを読む...",
+      "title_original": "European football: Nwaneri forces late own goal to cap dramatic Dortmund comeback",
+      "summary_original": "Arsenal loanee inspires late goal in 3-2 win at Hoffenheim Elversberg beat Mönchengladbach 4-3 in thriller Arsenal loanee Ethan Nwaneri caused a late own goal in Borussia Dortmund ’s favour, as his side came from two down to win 3-2 at Hoffenheim in a topsy-turvy Bundesliga clash. Hoffenheim were the better team for the opening hour but lost their way as Dortmund clicked into gear and romped to victory with three goals in the final 30 minutes. This story will be updated Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/05/european-football-ethan-nwaneri-dortmund-hoffenheim-athletic-bilbao-atletico-madrid-inter-napoli",
+      "published": "Sat, 05 Sep 2026 16:45:01 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Luka Vuskovic 救助への乗り物ブライトンとしてリーズチャンスを取らない",
       "summary": "何が起きているか。リーズ3 つのゲームをシーズンに残さないが、南海岸を別の勝利で出発しないと、その印象的なスタートに追加するプレミアリーグキャンペーン 彼らは確かにチャンスを持っていた. 時間によってブライトンついに、約30 時間残っている。Bart Verbruggen 地球の目標は、一度に違反していただけだったのか疑問にありました。リーズ’ 優勢で、いじめは彼の側だった. しかし、",
       "title_original": "Luka Vuskovic rides to the rescue for Brighton as Leeds fail to take chances",
@@ -2131,20 +2148,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ジェイコブ・ラムジー風邪から来るニューカッスル peg バックボーンマス",
-      "summary": "獲得を問い合わせ Bournemouth’s Alex Scott ティネによって個人的な遊び場を建てることに成功したように見えました, 別のミッドフィルダーはシャドウから出現し、午後から輝きを除去.Since Matthias Jaissle 成功事例エディ・ハウとしてニューカッスルマネージャージェイコブ・ラムジー余白に大幅急上昇していますが、ホームの代替品は88 分のイコシザーが確保されたスコットと、そのチームメイトがポイントを解決するために必要なことを保証しました。続きを読む...",
-      "title_original": "Jacob Ramsey comes in from the cold as Newcastle peg back Bournemouth",
-      "summary_original": "Just as Bournemouth’s Alex Scott seemed to have succeeded in building a personal playground by the Tyne, another midfielder emerged from the shadows and stripped the shine from his afternoon. Since Matthias Jaissle succeeded Eddie Howe as Newcastle’s manager Jacob Ramsey has been largely shunted to the margins but the home substitute’s superbly executed 88th-minute equaliser ensured Scott and his teammates needed to settle for a point. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/newcastle-bournemouth-premier-league-match-report",
-      "published": "Sat, 05 Sep 2026 13:44:42 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2302,6 +2305,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ジェイコブ・ラムジー風邪から来るニューカッスル peg バックボーンマス",
+      "summary": "獲得を問い合わせ Bournemouth’s Alex Scott ティネによって個人的な遊び場を建てることに成功したように見えました, 別のミッドフィルダーはシャドウから出現し、午後から輝きを除去.Since Matthias Jaissle 成功事例エディ・ハウとしてニューカッスルマネージャージェイコブ・ラムジー余白に大幅急上昇していますが、ホームの代替品は88 分のイコシザーが確保されたスコットと、そのチームメイトがポイントを解決するために必要なことを保証しました。続きを読む...",
+      "title_original": "Jacob Ramsey comes in from the cold as Newcastle peg back Bournemouth",
+      "summary_original": "Just as Bournemouth’s Alex Scott seemed to have succeeded in building a personal playground by the Tyne, another midfielder emerged from the shadows and stripped the shine from his afternoon. Since Matthias Jaissle succeeded Eddie Howe as Newcastle’s manager Jacob Ramsey has been largely shunted to the margins but the home substitute’s superbly executed 88th-minute equaliser ensured Scott and his teammates needed to settle for a point. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/05/newcastle-bournemouth-premier-league-match-report",
+      "published": "Sat, 05 Sep 2026 13:44:42 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Scottish Premiership: ナデリは、レンジャーズ第3 ストレートウィンを獲得",
       "summary": "ダンディー・ユナイテッド FC1-1 で遅いスコア と引く Falkirk KilmarnockAberdeen の stalemate の後の安全な最初のポイントレンジャーズストライカーRyan Naderi マザーウェルに対する唯一の目標を獲得するための贈り物を受け入れました Ibrox. The 早期置換処分 Alex Paulsen マザーウェルのゴールキーパーは、彼のボックスの外にボールをドリブルしようとすると、ドイツは12 分の勝者であることが証明されたものを評価するためにボールをネットに転がす簡単な作業を持っていた。このストーリーは更新されます 続きを読む...",
       "title_original": "Scottish Premiership: Naderi strikes as Rangers earn third straight win",
@@ -2355,20 +2372,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アレクシア・プテジャス WSL の乗車をとして始めて下さい London City アウトクラスマンチェスター・ユナイテッド",
-      "summary": "以来、いくつかのシナリオがありますミルウォール・ライオネセス LFC ミルウォールから離れ、ロンドン・シティ・ライオネスそれはより多くの surreal をの考えより感じましたアレクシア・プテジャス Bromley の WSL シーズンオープナでステートメントの勝利を7 年後に達成する。ここにありますが: 参照者は、以前の talismanic に使用する必要がありますバルセロナ彼女のカスタムであるように、トースの後、コインを拾うキャプテンストープ。プレーヤーは、それらを焦点を合わせるためにそれらを過去に見ている目やカメラに慣れなければならない",
-      "title_original": "Alexia Putellas begins WSL ride as London City outclass Manchester United",
-      "summary_original": "There are few scenarios since Millwall Lionesses broke away from Millwall and became London City Lionesses that would have felt more surreal than the idea of Alexia Putellas captaining the side to a statement win in a WSL season-opener in Bromley just seven years later. Here we are though: referees have to get used to the formerly talismanic Barcelona captain stooping to pick up the coin after the toss, as is her custom; players must get used to eyes and cameras looking past them to focus in on ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/london-city-lionesses-manchester-united-wsl-match-report",
-      "published": "Fri, 04 Sep 2026 20:51:57 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2484,12 +2487,40 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ノーリッチで勝つシェフィールド・ユナイテッド FC",
+      "summary": "ノリッチは、最初の勝利を保証しました EFL チャンピオンシップ3-1 勝で強い性能を持つシーズンシェフィールド・ユナイテッド FC.",
+      "title_original": "Norwich ease to win at Sheff Utd",
+      "summary_original": "Norwich secured a first away victory of the Sky Bet Championship season with a strong performance in a 3-1 win at Sheffield United.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/sheffield-united-vs-norwich-city/report/560553",
+      "published": "Sat, 05 Sep 2026 17:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Portsmouth は カーディフをオフ",
       "summary": "ディフェンダーからゴール Conor Shaughnessy そして、Marezi は、彼らが感情的な午後にカーディフ2-0 を打つように、シーズンの最初のホームウィンをポルツマスを獲得しましたフラットン・パーク.",
       "title_original": "Portsmouth see off Cardiff",
       "summary_original": "Goals from defender Conor Shaughnessy and Marezi earned Portsmouth their first home win of the season as they beat Cardiff 2-0 on an emotional afternoon at Fratton Park.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/portsmouth-vs-cardiff-city/report/560550",
+      "published": "Sat, 05 Sep 2026 17:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "West Brom 端の過去の Watford",
+      "summary": "Jimmy-Jay Morgan's 四季折々の目標 West Brom's チャンピオンシップでワットフォードを上回る1-0 ホームウィンで明るいスタート。",
+      "title_original": "West Brom edge past Watford",
+      "summary_original": "Jimmy-Jay Morgan's fifth goal of the season extended West Brom's bright start with a 1-0 home win over Watford in the Championship.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/west-bromwich-albion-vs-watford/report/560556",
       "published": "Sat, 05 Sep 2026 17:15:00 BST",
       "category": "other",
       "type": "other",
@@ -2666,9 +2697,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "South Africa リード New Zealand 脈動で Test LIVE!",
+      "title": "South Africa 明確な引き New Zealand 脈動で Test LIVE!",
       "summary": "",
-      "title_original": "South Africa lead New Zealand in pulsating Test LIVE!",
+      "title_original": "South Africa pulling clear of New Zealand in pulsating Test LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-union/live-blog/12040/13581796/south-africa-vs-new-zealand-rugby-score-updates-video-and-analysis-from-third-test-in-johannesburg",
@@ -2701,34 +2732,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13581649/italian-gp-big-f3-crash-sends-gerrard-xie-airborne-forcing-yellow-flag",
       "published": "Sat, 05 Sep 2026 11:06:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "US Open LIVE! ガフとフリッツが大阪を先取り、Zverev が一晩",
-      "summary": "",
-      "title_original": "US Open LIVE! Gauff and Fritz in action ahead of Osaka, Zverev overnight",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13581554/us-open-live-scores-updates-news-commentary-results-from-new-york-with-coco-gauff-taylor-fritz-naomi-osaka-and-alexander-zverev-in-action",
-      "published": "Sat, 05 Sep 2026 15:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Constitution Hill 味 平らな敗北 として Pride Of Arras ケンプトンでのスコア",
-      "summary": "Constitution Hill 究極のウェルビーテッド4〜4〜Pride Of Arras 彼の熱心に待っていた3 番目のフラットアウト William Hill September Stakes 獲得を問い合わせ Kempton Park.",
-      "title_original": "Constitution Hill tastes Flat defeat as Pride Of Arras scores at Kempton",
-      "summary_original": "Constitution Hill had to settle for an ultimately well-beaten fourth to Pride Of Arras on his eagerly-awaited third Flat outing in the William Hill September Stakes at Kempton Park.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13581774/kempton-constitution-hill-tastes-flat-defeat-as-pride-of-arras-takes-september-stakes",
-      "published": "Sat, 05 Sep 2026 14:58:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
