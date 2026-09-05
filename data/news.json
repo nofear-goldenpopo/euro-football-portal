@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T19:05:32.525373+00:00",
+  "updated_at": "2026-09-05T19:22:25.842593+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1651,7 +1651,12 @@
     "Sergej Jakirovic’s": "",
     "Late Vuskovic": "",
     "American Express Stadium": "ファルマー・スタジアム",
-    "Saturday's Scottish Premiership": ""
+    "Saturday's Scottish Premiership": "",
+    "Sami Mokbel": "",
+    "La Liga Lautaro Martinez": "",
+    "Matteo Politano": "マッテオ・ポリターノ",
+    "Rasmus Hojlund": "",
+    "Marcus Thuram": ""
   },
   "items": [
     {
@@ -1669,9 +1674,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "森と森トッテナムゴールレスのドローイングでゴールドラマを放つと、無勝無まま",
+      "title": "森と森トッテナムゴールドラマを捨てた後、無敗のまま",
       "summary": "トッテナム初めて待っていますプレミアリーグスクレーピード後のシーズンの勝利ノッティンガム・フォレスト.",
-      "title_original": "Forest and Spurs remain winless after disallowed goal drama in goalless draw",
+      "title_original": "Forest and Spurs remain winless after disallowed goal drama",
       "summary_original": "Tottenham are still waiting for their first Premier League win of the season after a scrappy draw at Nottingham Forest.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c4g589gkdepo?at_medium=RSS&at_campaign=rss",
@@ -1704,6 +1709,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c9w4px54j7yo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 05 Sep 2026 19:00:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アストン・ヴィラスタレメイト後も勝てないハル",
+      "summary": "アストン・ヴィラ3 つのゲームを新しいものに残さないプレミアリーグ新たなプロモートでゴールレス・ドローを開催したシーズンハル・シティ AFC.",
+      "title_original": "Aston Villa still winless after stalemate at Hull",
+      "summary_original": "Aston Villa remain winless three games into the new Premier League season after they were held to a goalless draw by newly promoted Hull City.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9w48xp5g14o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 19:17:00 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1753,6 +1772,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アーセナルショートリストに20 人以上のプレーヤーがタイトルの勝利に加わりました",
+      "summary": "シニアサッカー対応 Sami Mokbel インサイドアーセナルの は、資本金を請求するプレミアリーグタイトルをつけて、この夏のチームを強化します。",
+      "title_original": "Arsenal had more than 20 players on shortlist to capitalise on title win",
+      "summary_original": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 19:08:30 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "グラスナーとウィリアムズの紛争 VAR はフォレストハンドボールの上にコール",
       "summary": "ノッティンガム・フォレストマネージャーオリヴァー・グラスナーそして、Neco WilliamsVAR は、守備者の目標を守らないようにするトッテナム.",
       "title_original": "Glasner and Williams dispute VAR call over Forest handball",
@@ -1781,20 +1814,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'Not Football Manager' - De Zerbi ミスフィリングトッテナム必要性の時間",
-      "summary": "トッテナム自分の開口部3 でスコアが失敗しましたプレミアリーグゲームとマネージャー ロベルト・デ・ツェルビ氏は、チームに高価なチームを組み込む時間がかかります。",
-      "title_original": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-      "summary_original": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 17:56:55 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "誰が運ぶかレンジャーズ「重要な」の後の目標の脅威 シャンクランド傷害か。",
       "summary": "レンジャーズキャプテン Lawrence Shankland「重要な」ハムストリングの怪我をピックアップした後、サイドラインの呪文をセットします Saturday's Scottish Premiership マザーウェルの勝利。",
       "title_original": "Who will carry Rangers' goal threat after 'significant' Shankland injury?",
@@ -1806,6 +1825,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'Not Football Manager' - De Zerbi ミスフィリングトッテナム必要性の時間",
+      "summary": "トッテナム自分の開口部3 でスコアが失敗しましたプレミアリーグゲームとマネージャー ロベルト・デ・ツェルビ氏は、チームに高価なチームを組み込む時間がかかります。",
+      "title_original": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
+      "summary_original": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 17:56:55 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2033,34 +2066,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "私は決して話したことがないエヴァートンオーナーフライドキン - モイズ",
-      "summary": "エヴァートンマネージャーDavid Moyes 彼はクラブの所有者に会ったか、話したことがないと言う Dan Friedkin.",
-      "title_original": "I've never spoken to Everton owner Friedkin - Moyes",
-      "summary_original": "Everton manager David Moyes says he has never met or spoken to the club's owner Dan Friedkin.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 08:40:13 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "WSL でロンドンの側面にガードが変身しましたか?",
-      "summary": "獲得を問い合わせ Women's Super League 季節が始まり、アーセナルより良い位置よりもチェルシータイトルに挑戦するには?",
-      "title_original": "Has there been a changing of guard for London sides in the WSL?",
-      "summary_original": "With the Women's Super League season starting up, are Arsenal in a better position than Chelsea to challenge for the title?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7837gnn4ejo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 07:22:42 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ハイフライングハル保留中のスタートを保ちながらアストン・ヴィラスタレメイト",
       "summary": "それは決して鈍くないハル, これらの部分で行くと言うと, ちょうど3 つのゲームの後、プレミアリーグかなりの乗り物になるように証明されていますハル・シティ AFC サポーター 恥ずかしいマンチェスター・ユナイテッド先週末のコベントリーで優勝したのは、このポイントに値し、クリーンシート補強される Sergej Jakirovic’s 彼の男性は低下を打つことができるという信念。続きを読む...",
       "title_original": "High-flying Hull maintain unbeaten start by holding off Aston Villa in stalemate",
@@ -2146,9 +2151,9 @@
     },
     {
       "title": "ヨーロッパのサッカー: Nwaneri 力遅れてオウンゴール劇的なキャップドルトムントカムバック",
-      "summary": "アーセナルローンリーは、3-2 で勝利した目標を遅らせる Hoffenheim Athletic Bilbao ログインアトレティコ・マドリード3-0 でラ・リーガ アーセナルローンチイーサン・ヌワネリ遅くなる原因オウンゴールを問い合わせボルシア・ドルトムント’ s お気に入り, 彼の側は、2 ダウンから勝利 3-2 トープシートゥビーでホフェンハイムでブンデスリーガクラッシュ。ホーフェンハイムは、開口時間のためのより良いチームだったが、その方法を失ったドルトムント歯車にクリックし、勝利に勝ち抜く3 ゴール最終30 分 このストーリーは更新されます 続きを読む...",
+      "summary": "アーセナルローンリーは、3-2 で勝利した目標を遅らせる Hoffenheim Athletic Bilbao ログインアトレティコ・マドリード3-0 でラ・リーガ ラウタロ・マルティネススコアは91 分インテルから中立2 ゴールダウン へ 確保 a 見事な 3-2 ホームセリエ A 勝上勝利ナポリ, 継続して 100% 自分のタイトルの防衛に始まります.ナポリ勝負のコースで勝ってみるマッテオ・ポリターノそして、Rasmus Hojlund 彼らを置きます 2-0 後に 53 分, しかし、マルティネスの最初の目標は、欠損を中止し、Marcus Thuram 均等化 ei",
       "title_original": "European football: Nwaneri forces late own goal to cap dramatic Dortmund comeback",
-      "summary_original": "Arsenal loanee inspires late goal in 3-2 win at Hoffenheim Athletic Bilbao thump Atlético Madrid 3-0 in La Liga Arsenal loanee Ethan Nwaneri caused a late own goal in Borussia Dortmund ’s favour, as his side came from two down to win 3-2 at Hoffenheim in a topsy-turvy Bundesliga clash. Hoffenheim were the better team for the opening hour but lost their way as Dortmund clicked into gear and romped to victory with three goals in the final 30 minutes. This story will be updated Continue reading...",
+      "summary_original": "Arsenal loanee inspires late goal in 3-2 win at Hoffenheim Athletic Bilbao thump Atlético Madrid 3-0 in La Liga Lautaro Martinez scored in the 91st minute as Inter rallied from two goals down ⁠to secure a stunning 3-2 home Serie A victory over Napoli , continuing their 100% start to their ⁠title defence. Napoli looked ⁠to be ​on course for victory when Matteo Politano and Rasmus Hojlund put them 2-0 up after 53 minutes, but Martinez’s ⁠first goal halved the deficit and Marcus Thuram equalised ei",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/05/european-football-ethan-nwaneri-dortmund-hoffenheim-athletic-bilbao-atletico-madrid-inter-napoli",
       "published": "Sat, 05 Sep 2026 16:45:01 GMT",
@@ -2495,9 +2500,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Super League LIVE! ビルドアップへリーズパンクのトップ・オブ・テーブル・クラッシュでウィガン対",
+      "title": "Super League LIVE! リーズヒットバック対ウィガンのパンクトップオブテーブルクラッシュ",
       "summary": "",
-      "title_original": "Super League LIVE! Build-up to Leeds vs Wigan in crunch top-of-table clash",
+      "title_original": "Super League LIVE! Leeds hit back vs Wigan in crunch top-of-table clash",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13580353/super-league-live-updates-videos-scores-commentary-analysis-as-leeds-rhinos-take-on-wigan-warriors-in-round-26",
@@ -2677,9 +2682,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヴァンデンベルクとロトバのベンチセルティック獲得を問い合わせ St Mirren LIVE!",
+      "title": "セルティック opener のプッシュ St Mirren LIVE!&ハイライト",
       "summary": "",
-      "title_original": "Van den Berg and Lotomba on bench for Celtic at St Mirren LIVE!",
+      "title_original": "Celtic pushing for opener at St Mirren LIVE! & highlights",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/st-mirren-vs-celtic/live/558368",
