@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T08:24:36.843978+00:00",
+  "updated_at": "2026-09-05T08:36:39.062312+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1489,7 +1489,11 @@
     "Flying Lap": "",
     "Ruiz Jr": "",
     "Andy Ruiz Jr": "",
-    "Damian Knyba": ""
+    "Damian Knyba": "",
+    "Superstar-led London City": "",
+    "Tom Garry": "",
+    "Sonia Bompastor": "",
+    "Aston Villa. Continue": ""
   },
   "items": [
     {
@@ -1507,16 +1511,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "How London Cityhype に生きることができることを証明しました",
+      "title": "Superstar-led London City ハイプに生きるマンチェスター・ユナイテッド苦しみ",
       "summary": "期待があったロンドン・シティ・ライオネスハイプに生き、届ける Women's Super League's 季節のオープナー - 彼らはやった。",
-      "title_original": "How London City proved they can live up to the hype",
+      "title_original": "Superstar-led London City live up to hype as Man Utd suffer",
       "summary_original": "There was an expectation on London City Lionesses to live up to the hype and deliver in the Women's Super League's season opener - and they did.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/czxz1vnwgz6o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 04 Sep 2026 22:02:34 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1914,12 +1918,12 @@
     },
     {
       "title": "プレミアリーグビルドアップ、WSL は週末のニュースを開くなど - マッチデイライブ",
-      "summary": "土曜日のゲーム前のビルドアップ、ニュース、ディスカッション 今週の週末の備品 | 想いを込めてお寄せください そして、先にアーセナルツイートチェルシー日曜日のショーダウンはこちら Jacob Steinberg ガンナーではなく、ガンナーのためにライニングできたプレイヤーに Blues. Continue 読書...",
+      "summary": "土曜日のゲーム前のビルドアップ、ニュース、ディスカッション 今週の週末の備品 | 想いを込めて WSL へお寄せください。Tom Garry 朝のメッセージで Sonia Bompastor 彼女は競争を期待すると言う, 開く優勝争いこの季節、彼女は彼女を導くために準備するのでチェルシー彼らの家のオープナーに反対するアストン・ヴィラ. 続きを読む...",
       "title_original": "Premier League buildup, WSL opening weekend news, and more – matchday live",
-      "summary_original": "Buildup, news and discussion before Saturday’s games This weekend’s fixtures | Mail us with your thoughts And ahead of the Arsenal v Chelsea showdown on Sunday , here’s Jacob Steinberg on a player who could been lining up for the Gunners rather than the Blues. Continue reading...",
+      "summary_original": "Buildup, news and discussion before Saturday’s games This weekend’s fixtures | Mail us with your thoughts Back to the WSL and here’s Tom Garry with a morning message. Sonia Bompastor says she expects a competitive, open title race this season, as she prepares to lead her Chelsea side into their home opener against Aston Villa. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/news-buildup-premier-league-newcastle-v-bournemouth-kicks-off-matchday-live",
-      "published": "Sat, 05 Sep 2026 08:18:17 GMT",
+      "published": "Sat, 05 Sep 2026 08:28:06 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
