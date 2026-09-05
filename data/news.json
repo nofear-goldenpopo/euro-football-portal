@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T10:49:29.713301+00:00",
+  "updated_at": "2026-09-05T11:05:50.565452+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1499,7 +1499,11 @@
     "Swansea City": "スウォンジー・シティAFC",
     "Sky Sports' Harriet Prior": "",
     "Michael Carrick's": "",
-    "Steve Clarke": "スティーブ・クラーク"
+    "Steve Clarke": "スティーブ・クラーク",
+    "Mail David": "",
+    "Bournemouth’s Marco Rose": "",
+    "Newcastle’s Matthias Jaissle": "",
+    "Here’s Rose": ""
   },
   "items": [
     {
@@ -1615,20 +1619,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL でロンドンの側面にガードが変身しましたか?",
-      "summary": "獲得を問い合わせ Women's Super League 季節が始まり、アーセナルより良い位置よりもチェルシータイトルに挑戦するには?",
-      "title_original": "Has there been a changing of guard for London sides in the WSL?",
-      "summary_original": "With the Women's Super League season starting up, are Arsenal in a better position than Chelsea to challenge for the title?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7837gnn4ejo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 07:22:42 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Swansea と Wrexham collide として大きな賞を受賞",
       "summary": "スウォンジー・シティ AFC そして、Wrexham は、両方のクラブが目を見ているように高いステークでウエルシュダービーを流すことで会いますプレミアリーグ.",
       "title_original": "Eyes on big prize as Swansea and Wrexham collide",
@@ -1640,6 +1630,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "WSL でロンドンの側面にガードが変身しましたか?",
+      "summary": "獲得を問い合わせ Women's Super League 季節が始まり、アーセナルより良い位置よりもチェルシータイトルに挑戦するには?",
+      "title_original": "Has there been a changing of guard for London sides in the WSL?",
+      "summary_original": "With the Women's Super League season starting up, are Arsenal in a better position than Chelsea to challenge for the title?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7837gnn4ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 07:22:42 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1699,20 +1703,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ディーンは、常に法律を適用したと述べていますが、彼はゲームを再生しましたか?",
-      "summary": "前の証拠はありますか?プレミアリーグ参考文献 Mike Dean 試合中にミニゲームをプレイするのに使われますか? BBC スポーツは証拠を見てみましょう。",
-      "title_original": "Dean says he always applied laws - but which matches did he play games in?",
-      "summary_original": "Is there any evidence that former Premier League referee Mike Dean used to play mini-games during matches? BBC Sport has taken a look at the evidence.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czjzn84wn9wo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 18:33:30 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "クラークは、SFA の「ちょっとしたシューブ」を新しい契約に与えました",
       "summary": "スティーブ・クラーク彼はキャジョールに持っていたと言うスコットランドサッカー協会すぐ前に全国のヘッドコーチとして新しい契約を手渡す World Cup 去る夏は、統治体がベットをヘッジしていたと感じました。",
       "title_original": "Clarke gave SFA 'a little shove' over new contract",
@@ -1738,6 +1728,20 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ディーンは、常に法律を適用したと述べていますが、彼はゲームを再生しましたか?",
+      "summary": "前の証拠はありますか?プレミアリーグ参考文献 Mike Dean 試合中にミニゲームをプレイするのに使われますか? BBC スポーツは証拠を見てみましょう。",
+      "title_original": "Dean says he always applied laws - but which matches did he play games in?",
+      "summary_original": "Is there any evidence that former Premier League referee Mike Dean used to play mini-games during matches? BBC Sport has taken a look at the evidence.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czjzn84wn9wo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 18:33:30 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1923,13 +1927,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ニューカッスル v ボーンマス:プレミアリーグ– ライブ",
+      "summary": "更新情報セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)、キックオフ 12.30pm (BST)プレミアリーグ: 10 物事を調べる |Mail David 質問: ドイツの2 人のマネージャーがお互いを知っていますか?Bournemouth’s Marco Rose(49)11 歳以上ニューカッスル’ マティアス・ジャワッスル (ちょうど 38) しかし, はい, そのパスは交差しています.Here’s Rose: 「私はそこにマネージャーだったので、私はザルツブルクのマティアスを知っているし、彼は私ではなく、私の後、マネージャー、または私の後に成功しました! トレーニング場で古い友人を訪問しました",
+      "title_original": "Newcastle United v Bournemouth: Premier League – live",
+      "summary_original": "Updates from St James’ Park, kick-off 12.30pm (BST) Premier League: 10 things to look out for | Mail David A big question: do the two German managers know each other? Bournemouth’s Marco Rose (49) is 11 years older than Newcastle’s Matthias Jaissle (just 38) but, yes, their paths have crossed. Here’s Rose: “I know Matthias from Salzburg because I was the manager there and he succeeded, not me, but the manager after me, or after the manager after me! I visited old friends at the training ground a",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/05/newcastle-united-v-bournemouth-premier-league-live",
+      "published": "Sat, 05 Sep 2026 10:47:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "プレミアリーグビルドアップ、WSL は週末のニュースを開くなど - マッチデイライブ",
       "summary": "土曜日のゲーム前のビルドアップ、ニュース、ディスカッション 今週の週末の備品 | 想いを込めて WSL へお寄せください。Tom Garry 朝のメッセージで Sonia Bompastor 彼女は競争を期待すると言う, 開く優勝争いこの季節、彼女は彼女を導くために準備するのでチェルシー彼らの家のオープナーに反対するアストン・ヴィラ. 続きを読む...",
       "title_original": "Premier League buildup, WSL opening weekend news, and more – matchday live",
       "summary_original": "Buildup, news and discussion before Saturday’s games This weekend’s fixtures | Mail us with your thoughts Back to the WSL and here’s Tom Garry with a morning message. Sonia Bompastor says she expects a competitive, open title race this season, as she prepares to lead her Chelsea side into their home opener against Aston Villa. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/news-buildup-premier-league-newcastle-v-bournemouth-kicks-off-matchday-live",
-      "published": "Sat, 05 Sep 2026 10:34:55 GMT",
+      "published": "Sat, 05 Sep 2026 10:46:55 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2021,20 +2039,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ノッティンガム・フォレスト'ライム・デラップ:'私は恐ろしいことの端で私のベストで再生します'",
-      "summary": "難年明けからチェルシーストライカーは、自分のキャリアを取り戻すことを期待していますシティ・グラウンド「あなたはそれを想像することができます:彼はセンターバックです、私はストライカーです」と言います Liam Delap, ノッティンガム・フォレスト’ 4500万ポンド クラブ録音サイン , 彼はシーンを設定して笑顔. 庭で弟、フィン、弟を連れて行くのは彼です。これらの日、彼らはお互いの最大の支持者です - ライムは水曜日に3 番目の層ブルトンの勝利に Finn の勝利を出席しました - しかし、子供たちはフレンドリーな儀式がありました。エルダーブローテ",
-      "title_original": "Nottingham Forest’s Liam Delap: ‘I play at my best on the edge of being horrible’",
-      "summary_original": "After a difficult year at Chelsea the striker hopes to get his career back on track at the City Ground “You can imagine it: he’s a centre-back, I’m a striker,” says Liam Delap, Nottingham Forest’s £45m club-record signing , smiling as he sets the scene. He is reliving taking on his younger brother, Finn, in the garden. These days, they are each other’s biggest supporters – Liam attended Finn’s victory for third-tier Burton on Wednesday – but as kids there was a friendly rivalry. The elder brothe",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/nottingham-forests-liam-delap-i-play-at-my-best-on-the-edge-of-being-horrible",
-      "published": "Fri, 04 Sep 2026 10:00:05 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ノイズは信じられない」:メキシコ v イングランドのレフリーのビューWorld Cup",
       "summary": "イングランドのマネージャートーマス・トゥヘル fiery last-16 tie で「ちょうど十分ではない」の受取と呼ばれる。Now Alireza Faghani 彼のイベントのバージョンを与える 7 月5 日午後6 時メキシコシティと Alireza Faghani、48 歳オーストラリアイランのロッカールームに眠っていた、いびき。アシスタントは音楽を下げました。コンクリート壁を通した90,000 近くのファンのマフラーにはなかった Estadio Azteca 翌朝まで眠れる。ファガニは",
       "title_original": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
@@ -2049,13 +2053,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシーヒットブルズアイとモーガン・ロジャーズとしてアーセナル何が起こっているかを台無しにして下さい",
-      "summary": "The Gunners 以前のヴィラマンがそれらに対して行っているとき、彼らが勝ったことができるものを見てみましょう。シャビ・アロンソチームチェルシー獲得のチャンスがほとんどなかったと思ったモーガン・ロジャーズ夏の始まり。シャビ・アロンソそして、クラブの採用チームはイングランドを持っていたインテル優先目標として国民が、移籍は異様なようです。チェルシー第10 回を終えた後、ヨーロッパサッカーで逃れた時期を逃し、その期待は、",
-      "title_original": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been",
-      "summary_original": "The Gunners will have a look at what they could have won when the former Villa man lines up against them, having made a flying start for Xabi Alonso’s team Chelsea thought they had little chance of signing Morgan Rogers at the start of the summer. Xabi Alonso and the club’s recruitment team had the England international as a priority target but a deal seemed unlikely. Chelsea had endured a disappointing season, missing out on European football after finishing 10th, and their expectation was that",
+      "title": "ノッティンガム・フォレスト'ライム・デラップ:'私は恐ろしいことの端で私のベストで再生します'",
+      "summary": "難年明けからチェルシーストライカーは、自分のキャリアを取り戻すことを期待していますシティ・グラウンド「あなたはそれを想像することができます:彼はセンターバックです、私はストライカーです」と言います Liam Delap, ノッティンガム・フォレスト’ 4500万ポンド クラブ録音サイン , 彼はシーンを設定して笑顔. 庭で弟、フィン、弟を連れて行くのは彼です。これらの日、彼らはお互いの最大の支持者です - ライムは水曜日に3 番目の層ブルトンの勝利に Finn の勝利を出席しました - しかし、子供たちはフレンドリーな儀式がありました。エルダーブローテ",
+      "title_original": "Nottingham Forest’s Liam Delap: ‘I play at my best on the edge of being horrible’",
+      "summary_original": "After a difficult year at Chelsea the striker hopes to get his career back on track at the City Ground “You can imagine it: he’s a centre-back, I’m a striker,” says Liam Delap, Nottingham Forest’s £45m club-record signing , smiling as he sets the scene. He is reliving taking on his younger brother, Finn, in the garden. These days, they are each other’s biggest supporters – Liam attended Finn’s victory for third-tier Burton on Wednesday – but as kids there was a friendly rivalry. The elder brothe",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/blog/2026/sep/04/chelsea-morgan-rogers-arsenal-xabi-alonso-mikel-arteta",
-      "published": "Fri, 04 Sep 2026 19:00:14 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/04/nottingham-forests-liam-delap-i-play-at-my-best-on-the-edge-of-being-horrible",
+      "published": "Fri, 04 Sep 2026 10:00:05 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2273,6 +2277,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チェルシーヒットブルズアイとモーガン・ロジャーズとしてアーセナル何が起こっているかを台無しにして下さい",
+      "summary": "The Gunners 以前のヴィラマンがそれらに対して行っているとき、彼らが勝ったことができるものを見てみましょう。シャビ・アロンソチームチェルシー獲得のチャンスがほとんどなかったと思ったモーガン・ロジャーズ夏の始まり。シャビ・アロンソそして、クラブの採用チームはイングランドを持っていたインテル優先目標として国民が、移籍は異様なようです。チェルシー第10 回を終えた後、ヨーロッパサッカーで逃れた時期を逃し、その期待は、",
+      "title_original": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been",
+      "summary_original": "The Gunners will have a look at what they could have won when the former Villa man lines up against them, having made a flying start for Xabi Alonso’s team Chelsea thought they had little chance of signing Morgan Rogers at the start of the summer. Xabi Alonso and the club’s recruitment team had the England international as a priority target but a deal seemed unlikely. Chelsea had endured a disappointing season, missing out on European football after finishing 10th, and their expectation was that",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/blog/2026/sep/04/chelsea-morgan-rogers-arsenal-xabi-alonso-mikel-arteta",
+      "published": "Fri, 04 Sep 2026 19:00:14 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "プレミアリーグ paradox: ミッドフィルダーは、より高価で、さらにはより高価です。Jonathan Liew",
       "summary": "エンソ・フェルナンデスそして、Sandro Tonali 大きなお金の夏が動きましたが、キャンドルを握ることはできますか? 現代のミッドフィールドの役割について本当に知っておく必要がある唯一のことは、Enzo Maresca リコーノス Marc Guéhi それよりも良い再生することができます Mateo Kovacic. Guéhi, 現実にセンターバック, のためのミッドフィールドでシーズンを開始マンチェスター・シティ, Kovacic の先, 今出発 Nico González と Matheus Nunes. In この文脈都市の購買エンソ・フェルナンデスクラブレコードの場合 1億2500万ポンド することができます",
       "title_original": "Premier League paradox: midfielders are more and more expensive, yet more and more mediocre | Jonathan Liew",
@@ -2297,20 +2315,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "デッドラインデイシャブルの葉エヴァートンそして、David Moyes 再びオッズを戦う",
-      "summary": "アームストロングの入札受付から崩壊までバログン移籍, TFG は、野心の欠如として、同じブラケットに置かれるアマチュアと野心的なアプローチを示しました, リソースの欠如や不快感は、最も長いトロフィーの干ばつに貢献しましたエヴァートン’ の歴史, 特に 20 きらめき新しいスタジアムへの移動と多岐にわたる債務の清算を伴った再点に数か月, かなりの不快感と恥ずかしがりかしがり屋の原因となるはずです The Friedkin Grou",
-      "title_original": "Deadline-day shambles leaves Everton and David Moyes fighting the odds again",
-      "summary_original": "From accepting a bid for Armstrong to collapse of Balogun deal, TFG has shown an amateurish and unambitious approach To be placed in the same bracket as owners whose lack of ambition, lack of resources and/or incompetence has contributed to the longest trophy drought in Everton’s history, particularly 20 months into a reign that has accompanied the move to a glittering new stadium and the clearing of onerous debt, should be cause for considerable discomfort and embarrassment at The Friedkin Grou",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/02/deadline-day-shambles-leaves-everton-and-david-moyes-fighting-the-odds-again",
-      "published": "Wed, 02 Sep 2026 18:02:02 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2396,6 +2400,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェルシー対比アストン・ヴィラチームニュース LIVE!",
+      "summary": "",
+      "title_original": "Chelsea vs Aston Villa team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-aston-villa-women/live/575756",
+      "published": "Sat, 05 Sep 2026 12:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2606,20 +2624,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Star-studded London City クルーズで勝つマンチェスター・ユナイテッド",
-      "summary": "ロンドン・シティ・ライオネス星を刻んだ時代と新しい Women's Super League 快適で快適な2-1 の勝利の季節マンチェスター・ユナイテッド.",
-      "title_original": "Star-studded London City cruise to win over Man Utd",
-      "summary_original": "London City Lionesses started their star-studded era and the new Women's Super League season with a comfortable 2-1 win over Manchester United.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/report/575755",
-      "published": "Fri, 04 Sep 2026 21:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
