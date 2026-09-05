@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T13:05:29.738405+00:00",
+  "updated_at": "2026-09-05T13:22:35.607120+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1522,7 +1522,15 @@
     "Luke Polselli": "",
     "Justin Devenny": "",
     "Tottenham LIVE": "",
-    "Palace LIVE": ""
+    "Palace LIVE": "",
+    "Fulham Leno": "",
+    "Garcia. Subs": "",
+    "Rodrigo Muniz": "",
+    "Smith Rowe. Continue": "",
+    "Motherwell LIVE": "",
+    "Timber LIVE": "",
+    "Qualifying LIVE": "",
+    "Stamford Bridge LIVE": ""
   },
   "items": [
     {
@@ -1624,34 +1632,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "73 の目標は深部を落とす - 彼がどのようにしたかを破るためにカネに尋ねる",
-      "summary": "ハリー・ケイン最後のシーズンはヨーロッパで最高の目標だったが、彼はミッドフィルダーのようにプレー。ゲームを倒すようお願いしております。",
-      "title_original": "73 goals from dropping deep - we ask Kane to break down how he did it",
-      "summary_original": "Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask him to break down his game.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 09:31:21 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "サイクは最後で輝きますが、シュルペンは苦しむ -イプスウィッチツイートリヴァプール 選手採点",
-      "summary": "使い方リヴァプールそして、イプスウィッチ・タウン FC's のプレイヤーは、プレミアリーグマッチ。",
-      "title_original": "Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings",
-      "summary_original": "How Liverpool and Ipswich Town's players rated following their Premier League match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 20:54:30 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "WSL でロンドンの側面にガードが変身しましたか?",
       "summary": "獲得を問い合わせ Women's Super League 季節が始まり、アーセナルより良い位置よりもチェルシータイトルに挑戦するには?",
       "title_original": "Has there been a changing of guard for London sides in the WSL?",
@@ -1676,6 +1656,34 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "73 の目標は深部を落とす - 彼がどのようにしたかを破るためにカネに尋ねる",
+      "summary": "ハリー・ケイン最後のシーズンはヨーロッパで最高の目標だったが、彼はミッドフィルダーのようにプレー。ゲームを倒すようお願いしております。",
+      "title_original": "73 goals from dropping deep - we ask Kane to break down how he did it",
+      "summary_original": "Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask him to break down his game.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 09:31:21 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "サイクは最後で輝きますが、シュルペンは苦しむ -イプスウィッチツイートリヴァプール 選手採点",
+      "summary": "使い方リヴァプールそして、イプスウィッチ・タウン FC's のプレイヤーは、プレミアリーグマッチ。",
+      "title_original": "Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings",
+      "summary_original": "How Liverpool and Ipswich Town's players rated following their Premier League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 20:54:30 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1708,20 +1716,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Swansea と Wrexham collide として大きな賞を受賞",
-      "summary": "スウォンジー・シティ AFC そして、Wrexham は、両方のクラブが目を見ているように高いステークでウエルシュダービーを流すことで会いますプレミアリーグ.",
-      "title_original": "Eyes on big prize as Swansea and Wrexham collide",
-      "summary_original": "Swansea City and Wrexham meet in a mouthwatering Welsh derby with stakes high as both clubs eye the Premier League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn1v34ddo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 09:03:04 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "クラークは、SFA の「ちょっとしたシューブ」を新しい契約に与えました",
       "summary": "スティーブ・クラーク彼はキャジョールに持っていたと言うスコットランドサッカー協会すぐ前に全国のヘッドコーチとして新しい契約を手渡す World Cup 去る夏は、統治体がベットをヘッジしていたと感じました。",
       "title_original": "Clarke gave SFA 'a little shove' over new contract",
@@ -1747,20 +1741,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「ユニーク」とはベリンガムで繁栄しているモウリーニョ'システム",
-      "summary": "ジュード・ベリンガムフィットし、彼の上に構築する準備ができている World Cup 彼が最善を尽くすことを目的とする形レアル・マドリードアクセスジョゼ・モウリーニョ.",
-      "title_original": "How 'unique' Bellingham is thriving in Mourinho's system",
-      "summary_original": "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 08:08:53 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1946,13 +1926,41 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「ユニーク」とはベリンガムで繁栄しているモウリーニョ'システム",
+      "summary": "ジュード・ベリンガムフィットし、彼の上に構築する準備ができている World Cup 彼が最善を尽くすことを目的とする形レアル・マドリードアクセスジョゼ・モウリーニョ.",
+      "title_original": "How 'unique' Bellingham is thriving in Mourinho's system",
+      "summary_original": "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 08:08:53 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Swansea と Wrexham collide として大きな賞を受賞",
+      "summary": "スウォンジー・シティ AFC そして、Wrexham は、両方のクラブが目を見ているように高いステークでウエルシュダービーを流すことで会いますプレミアリーグ.",
+      "title_original": "Eyes on big prize as Swansea and Wrexham collide",
+      "summary_original": "Swansea City and Wrexham meet in a mouthwatering Welsh derby with stakes high as both clubs eye the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn1v34ddo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 09:03:04 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ニューカッスル v ボーンマス:プレミアリーグ– ライブ",
       "summary": "更新情報セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)、キックオフ 12.30pm (BST)プレミアリーグ: 10 物事を調べる |Mail David Here チームに参加!Some August 日差しは、地面の楽観と興奮の感覚に追加します。これらの光線に Giddy,グレン・ホドル3-3 または2-2 の描画のいずれかを予測します。それは確かにすべてのもののケースではありませんプレミアリーグマネージャーが、Marco RoseBournemouth's でもっと幸せに聞こえる移籍市場. それは主にキーの人の把握を、特にミッドフィルダー保つことが原因であります Alex Scott:「ヘレ」",
       "title_original": "Newcastle United v Bournemouth: Premier League – live",
       "summary_original": "Updates from St James’ Park, kick-off 12.30pm (BST) Premier League: 10 things to look out for | Mail David Here come the teams! Some August sunshine adds to the sense of optimism and excitement in the ground. Giddy on those rays, Glenn Hoddle predicts either a 3-3 or 2-2 draw. It’s certainly not the case with all Premier League managers but Marco Rose sounds more than happy with Bournemouth’s transfer window. That’s due mainly to keeping hold of key men, particularly midfielder Alex Scott: “Here",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/newcastle-united-v-bournemouth-premier-league-live",
-      "published": "Sat, 05 Sep 2026 12:50:06 GMT",
+      "published": "Sat, 05 Sep 2026 13:05:04 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1961,12 +1969,12 @@
     },
     {
       "title": "マンチェスター・シティ v のコベントリー,ノッティンガム・フォレスト. .トッテナムもっと: サッカー時計 - ライブ",
-      "summary": "今日のゲームからのアップデートプレミアリーグ, EFL とライブスコアを超えて |ニューカッスル V ボーンマス最新 EFL 選手権の初期キックオフの最新の Plenty,League One そして、League Two. You ライブスコアのページのすべての詳細を見ることができます。最も目を引くスコアラインは Stoke の鉛 Charlton 4-0 のスタフォードシャーにあります。続きを読む...",
+      "summary": "今日のゲームからのアップデートプレミアリーグ, EFL とライブスコアを超えて |ニューカッスル v ボーンマス最新 Fulham Leno, Castagne, Andersen, Bassey, Robinson, Charles, Iwobi, Bobb, King, パラシオス,Garcia. Subs: レコンテ、Rodrigo Muniz, Kevin, Larsson, Berge, エンジェル, Affengruber, Sessegnon,Smith Rowe. Continue 読書...",
       "title_original": "Manchester City v Coventry, Nottingham Forest v Tottenham and more: football clockwatch – live",
-      "summary_original": "Updates from today’s games in the Premier League, EFL and beyond Live scores | Newcastle v Bournemouth latest EFL latest Plenty of early kick-offs across the Championship, League One and League Two. You can see all the details on our live scores page . The most eyecatching scoreline is in Staffordshire, where Stoke lead Charlton 4-0. Continue reading...",
+      "summary_original": "Updates from today’s games in the Premier League, EFL and beyond Live scores | Newcastle v Bournemouth latest Fulham Leno, Castagne, Andersen, Bassey, Robinson, Charles, Iwobi, Bobb, King, Palacios, Garcia. Subs: Lecomte, Rodrigo Muniz, Kevin, Larsson, Berge, Angel, Affengruber, Sessegnon, Smith Rowe. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/premier-league-manchester-city-coventry-nottingham-forest-v-tottenham-efl-clockwatch-live",
-      "published": "Sat, 05 Sep 2026 12:42:20 GMT",
+      "published": "Sat, 05 Sep 2026 13:01:19 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2366,6 +2374,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "レンジャーズ対比 Motherwell LIVE!",
+      "summary": "",
+      "title_original": "Rangers vs Motherwell LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/rangers-vs-motherwell/live/558366",
+      "published": "Thu, 03 Sep 2026 12:26:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Russell は Monza の Hamilton を qualifying に先立ちます",
       "summary": "George Russell 先に好まれる棒の位置として自身を確立して下さいイタリアグランプリメルセデスの運転者として修飾される Ferrari's Lewis Hamilton 最終的な練習で。",
       "title_original": "Russell tops Hamilton at Monza ahead of qualifying",
@@ -2380,9 +2402,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チャールズハンドフルハムデビュー対クリスタル・パレスライブ!",
+      "title": "チャールズ・ハンド・フルハムデビュークリスタル・パレス開始の Disasi 及び Timber LIVE!",
       "summary": "",
-      "title_original": "Charles handed Fulham debut vs Palace LIVE!",
+      "title_original": "Charles handed Fulham debut as Palace start Disasi & Timber LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/fulham-vs-crystal-palace/live/559468",
@@ -2394,13 +2416,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イタリアグランプリ: Russell は Hamilton の衝突として最終的な練習をとります Verstappen LIVE!",
+      "title": "イタリアグランプリ: フェラーリと戦うラッセルセット Qualifying LIVE!",
       "summary": "",
-      "title_original": "Italian GP: Russell tops final practice as Hamilton clashes with Verstappen LIVE!",
+      "title_original": "Italian GP: Russell set to fight Ferraris in Qualifying LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13581626/f1-italian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
-      "published": "Sat, 05 Sep 2026 11:08:00 BST",
+      "published": "Sat, 05 Sep 2026 14:07:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2464,9 +2486,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "シャールトンのストーク、プレストン、サンズリード -EFL LIVE スカイに!",
+      "title": "Stoke, Preston リード; リンカーン peg バック 聖人 -EFL LIVE 空に!",
       "summary": "",
-      "title_original": "Stoke thrashing Charlton; Preston, Saints lead - EFL LIVE on Sky!",
+      "title_original": "Stoke, Preston lead; Lincoln peg back Saints - EFL LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/preston-north-end-vs-blackburn-rovers/live/560551",
@@ -2548,9 +2570,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Crossbar は ヴィラをと救いますチェルシー第2 回 LIVE を応援!",
+      "title": "悪質なイコイズが遅くなるチェルシー獲得を問い合わせ Stamford Bridge LIVE!",
       "summary": "",
-      "title_original": "Crossbar saves Villa with Chelsea pushing for second LIVE!",
+      "title_original": "Villa equalise late on against Chelsea at Stamford Bridge LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-women-vs-aston-villa-women/live/575756",
@@ -2629,20 +2651,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "St Helens リーグの敗北後に問われる「クリアアウト」",
-      "summary": "Jamie Jones-Buchanan 信じる St Helens 大きな再建が必要 Eamon O’Carroll’s サイド ミス アウト に メイキング Super League クラブの歴史の中で初めてプレーオフ。",
-      "title_original": "St Helens 'need a clear out' as recruitment questioned after Leigh defeat",
-      "summary_original": "Jamie Jones-Buchanan believes St Helens need a big rebuild as Eamon O’Carroll’s side missed out on making the Super League play-offs for the first time in the club's history.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13581438/super-league-st-helens-need-a-big-clear-out-as-teams-recruitment-questioned-after-missing-play-offs",
-      "published": "Sat, 05 Sep 2026 07:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
