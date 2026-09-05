@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T15:35:48.934847+00:00",
+  "updated_at": "2026-09-05T15:49:18.515634+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1564,7 +1564,8 @@
     "Chelsea' Katie McCabe": "",
     "Aston Villa. So": "",
     "Pierre Gasly": "ピエール・ガスリー",
-    "South Africa LIVE": ""
+    "South Africa LIVE": "",
+    "All Blacks Test LIVE": ""
   },
   "items": [
     {
@@ -1994,7 +1995,7 @@
       "summary_original": "Updates from Premier League, EFL and beyond Live scores | Newcastle 2-2 Bournemouth Iliman Ndiaye starts for City after joining from Everton in the week. Phil Foden drops out and will be joined on the bench by City’s other big signing, Enzo Fernandez. Coventry bring in Ethan Pinnock and Frank Onyeka for Caleb Yirenki and Loum Tchaouna. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/premier-league-manchester-city-coventry-nottingham-forest-v-tottenham-efl-clockwatch-live",
-      "published": "Sat, 05 Sep 2026 15:19:45 GMT",
+      "published": "Sat, 05 Sep 2026 15:35:17 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2002,10 +2003,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ラムジーキャップニューカッスル Bournemouth concede として引くための戦いのバック",
-      "summary": "獲得を問い合わせ Bournemouth’s Alex Scott ティネによって個人的な遊び場を建てることに成功したように見えました, 別のミッドフィルダーはシャドウから出現し、午後を台無しに.Since Matthias Jaissle 成功事例エディ・ハウとしてニューカッスルマネージャージェイコブ・ラムジー余白に大幅急いでいますが、代替品の極端に実行された88 分のイコライザーは、スコットと彼のチームメイトがポイントのために解決しなければならないことを保証しました。続きを読む...",
-      "title_original": "Ramsey caps Newcastle fightback for draw as Bournemouth concede late again",
-      "summary_original": "Just as Bournemouth’s Alex Scott seemed to have succeeded in building a personal playground by the Tyne, another midfielder emerged from the shadows and ruined his afternoon. Since Matthias Jaissle succeeded Eddie Howe as Newcastle’s manager, Jacob Ramsey has been largely shunted to the margins, but substitute’s superbly executed 88th-minute equaliser ensured Scott and his teammates had to settle for a point. Continue reading...",
+      "title": "ジェイコブ・ラムジー風邪から来るニューカッスル peg バックボーンマス",
+      "summary": "獲得を問い合わせ Bournemouth’s Alex Scott ティネによって個人的な遊び場を建てることに成功したように見えました, 別のミッドフィルダーはシャドウから出現し、午後から輝きを除去.Since Matthias Jaissle 成功事例エディ・ハウとしてニューカッスルマネージャージェイコブ・ラムジー余白に大幅急上昇していますが、ホームの代替品は88 分のイコシザーが確保されたスコットと、そのチームメイトがポイントを解決するために必要なことを保証しました。続きを読む...",
+      "title_original": "Jacob Ramsey comes in from the cold as Newcastle peg back Bournemouth",
+      "summary_original": "Just as Bournemouth’s Alex Scott seemed to have succeeded in building a personal playground by the Tyne, another midfielder emerged from the shadows and stripped the shine from his afternoon. Since Matthias Jaissle succeeded Eddie Howe as Newcastle’s manager Jacob Ramsey has been largely shunted to the margins but the home substitute’s superbly executed 88th-minute equaliser ensured Scott and his teammates needed to settle for a point. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/05/newcastle-bournemouth-premier-league-match-report",
       "published": "Sat, 05 Sep 2026 13:44:42 GMT",
@@ -2436,9 +2437,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ラグビーニュージーランド代表14 人に対してストライキ South Africa LIVE!",
+      "title": "Springboks ストライク バック に pulsating ラグビーニュージーランド代表ライブテスト!",
       "summary": "",
-      "title_original": "All Blacks strike against 14-man South Africa LIVE!",
+      "title_original": "Springboks strike back in pulsating All Blacks Test LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-union/live-blog/12040/13581796/south-africa-vs-new-zealand-rugby-score-updates-video-and-analysis-from-third-test-in-johannesburg",
@@ -2534,6 +2535,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "クリスタル・パレス後方から現在に至る Fulham LIVE!",
+      "summary": "",
+      "title_original": "Palace come from behind to now lead at Fulham LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/fulham-vs-crystal-palace/live/559468",
+      "published": "Tue, 11 Aug 2026 14:21:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "イタリアグランプリ: ガスリー・スタンダーとして初の F1 ポール LIVE でタイトルコンテンダーとして反応!",
       "summary": "",
       "title_original": "Italian GP: Reaction as Gasly stuns title contenders with first F1 pole LIVE!",
@@ -2604,20 +2619,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ミッチェルは、クリスタル・パレス再びレベル Fulham LIVE!",
-      "summary": "",
-      "title_original": "Mitchell brings Palace level again at Fulham LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/fulham-vs-crystal-palace/live/559468",
-      "published": "Tue, 11 Aug 2026 14:21:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ウィリアムズの目標は、VAR 対決によって除外トッテナムライブ!",
       "summary": "",
       "title_original": "Williams goal ruled out by VAR vs Spurs LIVE!",
@@ -2674,13 +2675,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スカイでライブ!バーミンガム・シティ FC ボルフ対",
+      "title": "ブレントフォード対決する2 番目の目標を持っているサンダーランドライブ!",
       "summary": "",
-      "title_original": "Live on Sky! Birmingham City vs Wolves",
+      "title_original": "Brentford have second goal ruled out against Sunderland LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/birmingham-city-vs-wolverhampton-wanderers/live/560546",
-      "published": "Sat, 05 Sep 2026 12:14:00 BST",
+      "url": "https://www.skysports.com/football/brentford-vs-sunderland/live/559465",
+      "published": "Sat, 05 Sep 2026 13:08:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
