@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T12:52:37.062693+00:00",
+  "updated_at": "2026-09-05T13:05:29.738405+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1521,7 +1521,8 @@
     "Ferrari's Lewis Hamilton": "",
     "Luke Polselli": "",
     "Justin Devenny": "",
-    "Tottenham LIVE": ""
+    "Tottenham LIVE": "",
+    "Palace LIVE": ""
   },
   "items": [
     {
@@ -1559,7 +1560,7 @@
       "summary_original": "Richard Hughes steps down from his position as sporting director of Liverpool and is set to join Saudi side Al-Hilal.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3d7483rv82o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 11:46:06 GMT",
+      "published": "Sat, 05 Sep 2026 12:52:56 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1951,7 +1952,7 @@
       "summary_original": "Updates from St James’ Park, kick-off 12.30pm (BST) Premier League: 10 things to look out for | Mail David Here come the teams! Some August sunshine adds to the sense of optimism and excitement in the ground. Giddy on those rays, Glenn Hoddle predicts either a 3-3 or 2-2 draw. It’s certainly not the case with all Premier League managers but Marco Rose sounds more than happy with Bournemouth’s transfer window. That’s due mainly to keeping hold of key men, particularly midfielder Alex Scott: “Here",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/newcastle-united-v-bournemouth-premier-league-live",
-      "published": "Sat, 05 Sep 2026 12:34:49 GMT",
+      "published": "Sat, 05 Sep 2026 12:50:06 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1960,12 +1961,12 @@
     },
     {
       "title": "マンチェスター・シティ v のコベントリー,ノッティンガム・フォレスト. .トッテナムもっと: サッカー時計 - ライブ",
-      "summary": "今日のゲームからのアップデートプレミアリーグ, EFL とライブスコアを超えて |ニューカッスル V ボーンマス最新 EFL 選手権の初期キックオフの最新の Plenty,League One そして、League Two. You ライブスコアのページのすべての詳細を見ることができます。最も目を引くスコアラインは Stoke の鉛 Charlton 4-0 のスタフォードシャーにあります。Justin Devenny から獲得した人クリスタル・パレス今週はデビューですハットトリック. 続きを読む...",
+      "summary": "今日のゲームからのアップデートプレミアリーグ, EFL とライブスコアを超えて |ニューカッスル V ボーンマス最新 EFL 選手権の初期キックオフの最新の Plenty,League One そして、League Two. You ライブスコアのページのすべての詳細を見ることができます。最も目を引くスコアラインは Stoke の鉛 Charlton 4-0 のスタフォードシャーにあります。続きを読む...",
       "title_original": "Manchester City v Coventry, Nottingham Forest v Tottenham and more: football clockwatch – live",
-      "summary_original": "Updates from today’s games in the Premier League, EFL and beyond Live scores | Newcastle v Bournemouth latest EFL latest Plenty of early kick-offs across the Championship, League One and League Two. You can see all the details on our live scores page . The most eyecatching scoreline is in Staffordshire, where Stoke lead Charlton 4-0. Justin Devenny, who signed from Crystal Palace in the week, is on a debut hat-trick. Continue reading...",
+      "summary_original": "Updates from today’s games in the Premier League, EFL and beyond Live scores | Newcastle v Bournemouth latest EFL latest Plenty of early kick-offs across the Championship, League One and League Two. You can see all the details on our live scores page . The most eyecatching scoreline is in Staffordshire, where Stoke lead Charlton 4-0. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/premier-league-manchester-city-coventry-nottingham-forest-v-tottenham-efl-clockwatch-live",
-      "published": "Sat, 05 Sep 2026 12:32:24 GMT",
+      "published": "Sat, 05 Sep 2026 12:42:20 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2379,16 +2380,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フラハム対クリスタル・パレスチームニュース LIVE!",
+      "title": "チャールズハンドフルハムデビュー対クリスタル・パレスライブ!",
       "summary": "",
-      "title_original": "Fulham vs Crystal Palace team news LIVE!",
+      "title_original": "Charles handed Fulham debut vs Palace LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/fulham-vs-crystal-palace/live/559468",
       "published": "Tue, 11 Aug 2026 14:21:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2449,9 +2450,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Delap は最初のフォレストスタート対トッテナムライブ!",
+      "title": "Delap は最初の森林の開始、Sevio のために戻りますトッテナムライブ!",
       "summary": "",
-      "title_original": "Delap makes first Forest start vs Tottenham LIVE!",
+      "title_original": "Delap makes first Forest start, Savio back for Tottenham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/nottingham-forest-vs-tottenham-hotspur/live/559473",
@@ -2533,9 +2534,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブレントフォード対比サンダーランドチームニュース LIVE!",
+      "title": "ダンソメイクサンダーランドベンチ対 Fofana でデビューブレントフォードライブ!",
       "summary": "",
-      "title_original": "Brentford vs Sunderland team news LIVE!",
+      "title_original": "Danso makes Sunderland debut and Fofana on the bench vs Brentford LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brentford-vs-sunderland/live/559465",
@@ -2547,9 +2548,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシージェームズの初期のオープナ対の後秒間押し Villa LIVE!",
+      "title": "Crossbar は ヴィラをと救いますチェルシー第2 回 LIVE を応援!",
       "summary": "",
-      "title_original": "Chelsea pushing for second after James' early opener vs Villa LIVE!",
+      "title_original": "Crossbar saves Villa with Chelsea pushing for second LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-women-vs-aston-villa-women/live/575756",
@@ -2561,9 +2562,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・シティ Coventry チームニュース LIVE!",
+      "title": "エンディアイエセットマンチェスター・シティデビュー対決 Coventry LIVE!",
       "summary": "",
-      "title_original": "Man City vs Coventry team news LIVE!",
+      "title_original": "Ndiaye set for Man City debut vs Coventry LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-city-vs-coventry-city/live/559471",
@@ -2589,9 +2590,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブライトン対比リーズチームニュース LIVE!",
+      "title": "バホヤ にリーズベンチしかし、Rutter 無しのためのブライトンライブ!",
       "summary": "",
-      "title_original": "Brighton vs Leeds team news LIVE!",
+      "title_original": "Bahoya on Leeds bench but no Rutter for Brighton LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-leeds-united/live/559466",
