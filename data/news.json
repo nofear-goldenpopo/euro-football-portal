@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T14:23:33.481100+00:00",
+  "updated_at": "2026-09-05T14:35:08.169410+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1552,7 +1552,8 @@
     "Blackburn Mikkel Ladefoged": "",
     "ProAmpac Stadium": "",
     "Sonia Bompastor's": "",
-    "Immediate Palace": ""
+    "Immediate Palace": "",
+    "Spurs LIVE": ""
   },
   "items": [
     {
@@ -1982,7 +1983,7 @@
       "summary_original": "Updates from Premier League, EFL and beyond Live scores | Newcastle 2-2 Bournemouth – reaction Iliman Ndiaye starts for City after joining from Everton in the week. Phil Foden drops out and will be joined on the bench by City’s other big signing, Enzo Fernandez. Coventry bring in Ethan Pinnock and Frank Onyeka for Caleb Yirenki and Loum Tchaouna. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/premier-league-manchester-city-coventry-nottingham-forest-v-tottenham-efl-clockwatch-live",
-      "published": "Sat, 05 Sep 2026 14:05:12 GMT",
+      "published": "Sat, 05 Sep 2026 14:20:09 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2536,17 +2537,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ノッティンガム・フォレスト対比トッテナムライブ!",
+      "title": "森林は、オープナー対のためのチャンスを渡すトッテナムライブ!",
       "summary": "",
-      "title_original": "Nottingham Forest vs Tottenham LIVE!",
+      "title_original": "Forest pass up chances for opener vs Spurs LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/nottingham-forest-vs-tottenham-hotspur/live/559473",
       "published": "Sat, 05 Sep 2026 12:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2648,9 +2649,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ボールスコアリーズ「最初の目標は、ブライトン14 年ぶりに LIVE!",
+      "title": "獲得を問い合わせリーズ第二の目標は、ブライトンライブ!",
       "summary": "",
-      "title_original": "Bogle scores Leeds' first goal away at Brighton in 14 years LIVE!",
+      "title_original": "How have Leeds not scored a second goal at Brighton? LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-leeds-united/live/559466",
@@ -2662,9 +2663,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "サンダーランド VAR 対決によるオープナーブレントフォードライブ!",
+      "title": "サンダーランド opener に対してプッシュするブレントフォードライブ!",
       "summary": "",
-      "title_original": "Sunderland opener ruled out by VAR vs Brentford LIVE!",
+      "title_original": "Sunderland pushing for opener against Brentford LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brentford-vs-sunderland/live/559465",
