@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T14:49:28.240193+00:00",
+  "updated_at": "2026-09-05T15:05:39.635946+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1557,7 +1557,9 @@
     "Bournemouth Iliman Ndiaye": "",
     "Johannesburg LIVE": "",
     "Pride Of Arras": "",
-    "Hamilton JUST": ""
+    "Hamilton JUST": "",
+    "Newcastle. Bournemouth": "",
+    "Russell LIVE": ""
   },
   "items": [
     {
@@ -1743,6 +1745,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チェリーとしてチームの「自信」を誇りに思うローズは、リードスリップ",
+      "summary": "ボーンマスマネージャーMarco Rose チームを監視しているにもかかわらず、彼の側面の「自信」を賞賛しました。ドラマティック 2-2 で描くニューカッスル. ボーンマスマネージャーMarco Rose チームを監視しているにもかかわらず、彼の側面の「自信」を賞賛しました。ドラマティック 2-2 で描くニューカッスル.",
+      "title_original": "Rose proud of team 'confidence' as Cherries let lead slip",
+      "summary_original": "Bournemouth manager Marco Rose praised his side's \"confidence\" despite seeing his team surrender a two-goal lead in a dramatic 2-2 draw at Newcastle. Bournemouth manager Marco Rose praised his side's \"confidence\" despite seeing his team surrender a two-goal lead in a dramatic 2-2 draw at Newcastle.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cew9knre1pxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 14:49:50 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "チェルシー点をに対して低下して下さいアストン・ヴィラ WSL で初めての方へ",
       "summary": "アストン・ヴィラプレイの実行に対してレイトイコライザーをスコアし、混乱チェルシーの の先頭へ Women's Super League キャンペーン",
       "title_original": "Chelsea drop points against Aston Villa for the first time in WSL",
@@ -1911,20 +1927,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「彼はそれで史上に - 白は「信じられない」フェルナンデスを賞賛",
-      "summary": "デイパンディットのマッチエレン・ホワイトラベルブルーノ・フェルナンデス\"信じられない\"、ミッドフィルダーの後にハットトリック獲得を問い合わせマンチェスター・ユナイテッド'5-2 コールバックの勝利に対するイプスウィッチ・タウン FC.",
-      "title_original": "'He's on it all the time' - White praises 'unbelievable' Fernandes",
-      "summary_original": "Match of the Day pundit Ellen White labels Bruno Fernandes \"unbelievable\", after the midfielder's hat-trick in Manchester United's 5-2 comeback win against Ipswich Town.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy4zmlrrpxxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 22:37:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "サイクは最後で輝きますが、シュルペンは苦しむ -イプスウィッチツイートリヴァプール 選手採点",
       "summary": "使い方リヴァプールそして、イプスウィッチ・タウン FC's のプレイヤーは、プレミアリーグマッチ。",
       "title_original": "Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings",
@@ -1987,7 +1989,7 @@
       "summary_original": "Updates from Premier League, EFL and beyond Live scores | Newcastle 2-2 Bournemouth Iliman Ndiaye starts for City after joining from Everton in the week. Phil Foden drops out and will be joined on the bench by City’s other big signing, Enzo Fernandez. Coventry bring in Ethan Pinnock and Frank Onyeka for Caleb Yirenki and Loum Tchaouna. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/premier-league-manchester-city-coventry-nottingham-forest-v-tottenham-efl-clockwatch-live",
-      "published": "Sat, 05 Sep 2026 14:33:25 GMT",
+      "published": "Sat, 05 Sep 2026 14:48:55 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2401,6 +2403,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "US Open LIVE! ガフとフリッツが大阪を先取り、Zverev が一晩",
+      "summary": "",
+      "title_original": "US Open LIVE! Gauff and Fritz in action ahead of Osaka, Zverev overnight",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13581554/us-open-live-scores-updates-news-commentary-results-from-new-york-with-coco-gauff-taylor-fritz-naomi-osaka-and-alexander-zverev-in-action",
+      "published": "Sat, 05 Sep 2026 15:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "South Africa ホスト New Zealand 第三テストで Johannesburg LIVE!",
       "summary": "",
       "title_original": "South Africa host New Zealand in third Test in Johannesburg LIVE!",
@@ -2499,9 +2515,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イタリアグランプリ: Hamilton JUST フェラーリ・ストラグリング・LIVE で Q3 まで!",
+      "title": "イタリアグランプリ: ガスリーはモンツァの先に驚くべき衝撃の棒を取ります Russell LIVE!",
       "summary": "",
-      "title_original": "Italian GP: Hamilton JUST through to Q3 with Ferrari struggling LIVE!",
+      "title_original": "Italian GP: Gasly takes stunning shock pole at Monza ahead of Russell LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13581626/f1-italian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
@@ -2660,20 +2676,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13537118/sky-sports-and-audi-launch-flying-lap-series-in-unique-storytelling-experience-from-f1-race-tracks",
       "published": "Sat, 02 May 2026 16:21:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "EFL 最新: 土曜日の夜にスカイに住んでいるスワンシーの顔としてオール・ウェールズの雰囲気!",
-      "summary": "",
-      "title_original": "EFL latest: All-Welsh affair as Swansea face Wrexham live on Sky on Saturday night!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "published": "Sat, 05 Sep 2026 08:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
