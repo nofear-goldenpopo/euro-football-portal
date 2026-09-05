@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T18:39:00.983841+00:00",
+  "updated_at": "2026-09-05T18:51:58.945061+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1646,7 +1646,9 @@
     "Wigan Warriors Women": "",
     "Leeds Rhinos Women": "",
     "MT Headingley Stadium": "",
-    "Super Fours": ""
+    "Super Fours": "",
+    "High-flying Hull": "",
+    "Sergej Jakirovic’s": ""
   },
   "items": [
     {
@@ -1759,20 +1761,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "私は決して話したことがないエヴァートンオーナーフライドキン - モイズ",
-      "summary": "エヴァートンマネージャーDavid Moyes 彼はクラブの所有者に会ったか、話したことがないと言う Dan Friedkin.",
-      "title_original": "I've never spoken to Everton owner Friedkin - Moyes",
-      "summary_original": "Everton manager David Moyes says he has never met or spoken to the club's owner Dan Friedkin.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 08:40:13 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1944,6 +1932,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "私は決して話したことがないエヴァートンオーナーフライドキン - モイズ",
+      "summary": "エヴァートンマネージャーDavid Moyes 彼はクラブの所有者に会ったか、話したことがないと言う Dan Friedkin.",
+      "title_original": "I've never spoken to Everton owner Friedkin - Moyes",
+      "summary_original": "Everton manager David Moyes says he has never met or spoken to the club's owner Dan Friedkin.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 08:40:13 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "WSL でロンドンの側面にガードが変身しましたか?",
       "summary": "獲得を問い合わせ Women's Super League 季節が始まり、アーセナルより良い位置よりもチェルシータイトルに挑戦するには?",
       "title_original": "Has there been a changing of guard for London sides in the WSL?",
@@ -2070,17 +2072,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ハル・シティ AFC. .アストン・ヴィラ: プレミアリーグ– ライブ",
-      "summary": "5.30pm BST キックオフからのアップデート KC スタジアムライブスコアボード | クロックウォッチ |Mail Billy4 分:ハルいくつかの所持品に落ち着きます。配置は跳ね上がります。2 分:ジャクソンヘッドワイド! 左からマトセンが交差するヴィラとしての初期のチャンス、ジャクソンはその間に上昇しますハル中央の裏側を背負って、近くのポストに向かいます。続きを読む...",
-      "title_original": "Hull City v Aston Villa: Premier League – live",
-      "summary_original": "Updates from 5.30pm BST kick-off at MKM Stadium Live scoreboard | Clockwatch | Mail Billy 4 min: Hull settle into some possession. The place is bouncing. 2 min: Jackson heads wide! Early chance for Villa as Maatsen crosses from the left, Jackson rises between the Hull centre-backs and heads it back beyond the near post. Continue reading...",
+      "title": "ハイフライングハル保留中のスタートを保ちながらアストン・ヴィラスタレメイト",
+      "summary": "それは決して鈍くないハル, これらの部分で行くと言うと, ちょうど3 つのゲームの後、プレミアリーグかなりの乗り物になるように証明されていますハル・シティ AFC サポーター 恥ずかしいマンチェスター・ユナイテッド先週末のコベントリーで優勝したのは、このポイントに値し、クリーンシート補強される Sergej Jakirovic’s 彼の男性は低下を打つことができるという信念。続きを読む...",
+      "title_original": "High-flying Hull maintain unbeaten start by holding off Aston Villa in stalemate",
+      "summary_original": "It’s never dull in Hull, as the saying goes in these parts, and after just three games the Premier League is proving to be quite some ride for Hull City supporters. Having embarrassed Manchester United here on the opening day and won at Coventry last weekend, this deserved point and clean sheet will have reinforced Sergej Jakirovic’s belief that his men can beat the drop. Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/05/hull-city-v-aston-villa-premier-league-live",
-      "published": "Sat, 05 Sep 2026 18:19:41 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/05/hull-city-aston-villa-premier-league-match-report",
+      "published": "Sat, 05 Sep 2026 18:28:55 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2112,10 +2114,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チルウェルシールクリスタル・パレス Fulham で Mitchell Double の後にコクバックウィン",
-      "summary": "管理者は変更されることがありますが、結果は同じままです。ロンドン西のこの部分への4 番目の成功旅行のために、クリスタル・パレス川の上を3 点ずつ戻す Pierre Sage ドラマティックなスタイルでマークを脱いだ。彼らのヒーローは Ben Chilwell, 助けを借りた後、ストラスブールから期限日に獲得された元イングランドの左バッククリスタル・パレス勝つために FA Cup 去年、彼は勝利者をボレーの家にベンチを降りた後。ファルハムの新しいマナギのために取るために少し打撃だった",
+      "title": "チルウェルシールクリスタル・パレス Fulham の Mitchell の二重の後のコブ・ウィン",
+      "summary": "管理者は変更されることがありますが、結果は同じままです。ロンドン西のこの部分への4 番目の成功旅行のために、クリスタル・パレス川の上を戻し、勝利を勝ち取る Pierre Sage ドラマティックなスタイルでマークを脱いだ。彼らのヒーローは Ben Chilwell, ストラスブールから期限日に獲得された元イングランドの左戻り – 今回は永続的に, 彼は助けた融資呪文の後クリスタル・パレス勝つ FA Cup– 彼が勝利者を家に帰った後、彼はベンチをオフにした. 苦い打撃だった",
       "title_original": "Chilwell seals Crystal Palace comeback win after Mitchell double at Fulham",
-      "summary_original": "The managers may have changed but the result stays the same. For the fourth successive trip to this part of west London, Crystal Palace returned over the river with three points as Pierre Sage got his reign off the mark in dramatic style. Their hero was Ben Chilwell, the former England left-back who was signed on deadline day from Strasbourg after helping Palace to win the FA Cup last year, after he came off the bench to volley home the winner. It was a bitter blow to take for Fulham’s new manag",
+      "summary_original": "The managers may have changed but the result stays the same. For the fourth successive trip to this part of west London, Crystal Palace returned over the river with a win as Pierre Sage got his reign off the mark in dramatic style. Their hero was Ben Chilwell, the former England left-back who was signed on deadline day from Strasbourg – this time permanently, after a loan spell in which he helped Palace win the FA Cup – after he came off the bench to volley home the winner. It was a bitter blow ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/05/fulham-crystal-palace-premier-league-match-report",
       "published": "Sat, 05 Sep 2026 16:13:47 GMT",
