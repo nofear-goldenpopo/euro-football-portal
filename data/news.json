@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T15:23:13.864889+00:00",
+  "updated_at": "2026-09-05T15:35:48.934847+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1561,9 +1561,26 @@
     "Newcastle. Bournemouth": "",
     "Russell LIVE": "",
     "St. James' Park": "セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)",
-    "Chelsea' Katie McCabe": ""
+    "Chelsea' Katie McCabe": "",
+    "Aston Villa. So": "",
+    "Pierre Gasly": "ピエール・ガスリー",
+    "South Africa LIVE": ""
   },
   "items": [
+    {
+      "title": "新しい季節、同じ欠陥 -チェルシータイトルは、すでにスクルーティニの下で希望",
+      "summary": "残り11 分チェルシー彼らの WSL オープナーで勝利にクルージングする登場アストン・ヴィラ. だから、彼らはそれを捨てたのですか?",
+      "title_original": "New season, same flaw - Chelsea title hopes already under scrutiny",
+      "summary_original": "With 11 minutes remaining, Chelsea appeared to be cruising to victory in their WSL opener against Aston Villa. So how did they throw it away?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crr4704xvgpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 15:27:55 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "スコット・シャイン、デディクトの闘争 -ニューカッスル v ボーンマス選手採点",
       "summary": "使い方ニューカッスル Bournemouth のプレイヤーが評価されているプレミアリーグマッチ。",
@@ -1730,20 +1747,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "クラークは、SFA の「ちょっとしたシューブ」を新しい契約に与えました",
-      "summary": "スティーブ・クラーク彼はキャジョールに持っていたと言うスコットランドサッカー協会すぐ前に全国のヘッドコーチとして新しい契約を手渡す World Cup 去る夏は、統治体がベットをヘッジしていたと感じました。",
-      "title_original": "Clarke gave SFA 'a little shove' over new contract",
-      "summary_original": "Steve Clarke says he had to cajole the Scottish FA into handing him a new contract as national head coach shortly before the World Cup finals this summer because he felt the governing body was hedging its bets.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 10:14:28 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1929,17 +1932,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "サイクは最後で輝きますが、シュルペンは苦しむ -イプスウィッチツイートリヴァプール 選手採点",
-      "summary": "使い方リヴァプールそして、イプスウィッチ・タウン FC's のプレイヤーは、プレミアリーグマッチ。",
-      "title_original": "Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings",
-      "summary_original": "How Liverpool and Ipswich Town's players rated following their Premier League match.",
+      "title": "クラークは、SFA の「ちょっとしたシューブ」を新しい契約に与えました",
+      "summary": "スティーブ・クラーク彼はキャジョールに持っていたと言うスコットランドサッカー協会すぐ前に全国のヘッドコーチとして新しい契約を手渡す World Cup 去る夏は、統治体がベットをヘッジしていたと感じました。",
+      "title_original": "Clarke gave SFA 'a little shove' over new contract",
+      "summary_original": "Steve Clarke says he had to cajole the Scottish FA into handing him a new contract as national head coach shortly before the World Cup finals this summer because he felt the governing body was hedging its bets.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 20:54:30 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 10:14:28 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1991,7 +1994,7 @@
       "summary_original": "Updates from Premier League, EFL and beyond Live scores | Newcastle 2-2 Bournemouth Iliman Ndiaye starts for City after joining from Everton in the week. Phil Foden drops out and will be joined on the bench by City’s other big signing, Enzo Fernandez. Coventry bring in Ethan Pinnock and Frank Onyeka for Caleb Yirenki and Loum Tchaouna. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/premier-league-manchester-city-coventry-nottingham-forest-v-tottenham-efl-clockwatch-live",
-      "published": "Sat, 05 Sep 2026 15:04:25 GMT",
+      "published": "Sat, 05 Sep 2026 15:19:45 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2405,6 +2408,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ガスリークレームショックファースト F1 キャリアポールイタリアグランプリ",
+      "summary": "ピエール・ガスリーアルパインドライバーがグリッドの通常のフロントランナーをチューニングしたため、F1 で最初のキャリアポールポジションを主張するために、センセーショナルなパフォーマンスを提供イタリアグランプリ.",
+      "title_original": "Gasly claims shock first F1 career pole at Italian GP",
+      "summary_original": "Pierre Gasly delivered a sensational performance to claim his first career pole position in F1 as the Alpine driver stunned the grid's usual frontrunners at the Italian Grand Prix.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13581632/italian-gp-qualifying-pierre-gasly-claims-shock-first-pole-position-to-beat-george-russell-to-head-of-monza-grid-for-alpine",
+      "published": "Sat, 05 Sep 2026 16:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "US Open LIVE! ガフとフリッツが大阪を先取り、Zverev が一晩",
       "summary": "",
       "title_original": "US Open LIVE! Gauff and Fritz in action ahead of Osaka, Zverev overnight",
@@ -2419,9 +2436,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "South Africa ホスト New Zealand 第三テストで Johannesburg LIVE!",
+      "title": "ラグビーニュージーランド代表14 人に対してストライキ South Africa LIVE!",
       "summary": "",
-      "title_original": "South Africa host New Zealand in third Test in Johannesburg LIVE!",
+      "title_original": "All Blacks strike against 14-man South Africa LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-union/live-blog/12040/13581796/south-africa-vs-new-zealand-rugby-score-updates-video-and-analysis-from-third-test-in-johannesburg",
@@ -2517,9 +2534,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イタリアグランプリ: ガスリーはモンツァの先に驚くべき衝撃の棒を取ります Russell LIVE!",
+      "title": "イタリアグランプリ: ガスリー・スタンダーとして初の F1 ポール LIVE でタイトルコンテンダーとして反応!",
       "summary": "",
-      "title_original": "Italian GP: Gasly takes stunning shock pole at Monza ahead of Russell LIVE!",
+      "title_original": "Italian GP: Reaction as Gasly stuns title contenders with first F1 pole LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13581626/f1-italian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
@@ -2559,9 +2576,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウェストハム, ボルオリード; レスタートレイルオックスフォード -EFL LIVE!",
+      "title": "ウェストハム, ボルオリード; オステルはオックスフォードによって覆われている -EFL LIVE!",
       "summary": "",
-      "title_original": "West Ham, Boro lead; Leicester trail Oxford - EFL LIVE!",
+      "title_original": "West Ham, Boro lead; Leicester being thrashed by Oxford - EFL LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/west-ham-united-vs-derby-county/live/560557",
@@ -2573,23 +2590,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ハル・シティ AFC 対比アストン・ヴィラチームニュース LIVE!",
+      "title": "Deadline Day ベンチ上の獲得ハル対比 Villa LIVE!",
       "summary": "",
-      "title_original": "Hull City vs Aston Villa team news LIVE!",
+      "title_original": "Deadline Day signings on the bench for Hull vs Villa LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/hull-city-vs-aston-villa/live/559469",
       "published": "Sat, 05 Sep 2026 16:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ミッチェルは、クリスタル・パレスレベル Fulham LIVE!",
+      "title": "ミッチェルは、クリスタル・パレス再びレベル Fulham LIVE!",
       "summary": "",
-      "title_original": "Mitchell brings Palace level at Fulham LIVE!",
+      "title_original": "Mitchell brings Palace level again at Fulham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/fulham-vs-crystal-palace/live/559468",
@@ -2601,9 +2618,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Spurs yet to have a shot on、at Forest LIVE!を獲得候補に",
+      "title": "ウィリアムズの目標は、VAR 対決によって除外トッテナムライブ!",
       "summary": "",
-      "title_original": "Spurs yet to have a shot on target at Forest LIVE!",
+      "title_original": "Williams goal ruled out by VAR vs Spurs LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/nottingham-forest-vs-tottenham-hotspur/live/559473",
@@ -2668,20 +2685,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Transfer Centre LIVE! Richarlison の最も最近のおよび自由な代理店はまだ利用できます",
-      "summary": "",
-      "title_original": "Transfer Centre LIVE! Richarlison latest and free agents still available",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "published": "Thu, 03 Sep 2026 23:00:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
