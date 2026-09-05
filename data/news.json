@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T17:34:44.740025+00:00",
+  "updated_at": "2026-09-05T17:49:28.275767+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1621,7 +1621,12 @@
     "Derby Middlesbrough": "",
     "Turf Moor. The Clarets": "",
     "Aaron Ramsey": "アーロン・ラムジー",
-    "Wrexham LIVE": ""
+    "Wrexham LIVE": "",
+    "Amex Stadium": "ファルマー・スタジアム",
+    "Jayden Bogle’s": "",
+    "From Monaco": "",
+    "Toto Wolff": "",
+    "Rugby's Greatest Rivalry": ""
   },
   "items": [
     {
@@ -1734,6 +1739,20 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Swansea と Wrexham collide の大きな賞品の目",
+      "summary": "スウォンジー・シティ AFC そして、Wrexham は、両方のクラブが目を見ているように高いステークでウエルシュダービーを流すことで会いますプレミアリーグ.",
+      "title_original": "Eyes on big prize as Swansea and Wrexham collide",
+      "summary_original": "Swansea City and Wrexham meet in a mouthwatering Welsh derby with stakes high as both clubs eye the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn1v34ddo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 09:03:04 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1905,20 +1924,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Swansea と Wrexham collide の大きな賞品の目",
-      "summary": "スウォンジー・シティ AFC そして、Wrexham は、両方のクラブが目を見ているように高いステークでウエルシュダービーを流すことで会いますプレミアリーグ.",
-      "title_original": "Eyes on big prize as Swansea and Wrexham collide",
-      "summary_original": "Swansea City and Wrexham meet in a mouthwatering Welsh derby with stakes high as both clubs eye the Premier League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn1v34ddo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 09:03:04 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Sutton の予測 v Kasabian のフロントマン Serge Pizzorno",
       "summary": "BBC スポーツサッカーの専門家クリス・サットン Kasabian フロントマン Serge Pizzorno この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
       "title_original": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
@@ -2051,7 +2056,7 @@
       "summary_original": "Updates from 5.30pm BST kick-off at MKM Stadium Live scoreboard | Clockwatch | Mail Billy 4 min: Hull settle into some possession. The place is bouncing. 2 min: Jackson heads wide! Early chance for Villa as Maatsen crosses from the left, Jackson rises between the Hull centre-backs and heads it back beyond the near post. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/hull-city-v-aston-villa-premier-league-live",
-      "published": "Sat, 05 Sep 2026 17:19:36 GMT",
+      "published": "Sat, 05 Sep 2026 17:35:49 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2101,6 +2106,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Enzo Le Féepenalty redemption 救助 ポイント のために のためのサンダーランド獲得を問い合わせブレントフォード",
+      "summary": "真の贖いは、おそらく、パンデンカとスコアを上げるためにありましたが、Enzo Le Fée チャツパはなかなか持っていませんでした。彼の duffed dink で ザ· 汚い で ザ·ブレントフォード1 月は1 つのポイントの低いポイントでしたサンダーランド’s 2 季節最悪のパフォーマンス, しかし、彼は残りの 8 分のスポットから変換し、2 つの物理的に積極的なチームとよく訓練されたチームの戦いを獲得し、他の場所で混乱を見て、トップハーフフィニッシュの再び考えなければならない. と思われた",
+      "title_original": "Enzo Le Fée penalty redemption rescues point for Sunderland at Brentford",
+      "summary_original": "True redemption, perhaps, would have been to score with a Panenka, but Enzo Le Fée didn’t quite have the chutzpah for that. His duffed dink at Brentford in January was the low point of one of Sunderland’s two worst performances of the season, but he converted from the spot with eight minutes remaining to earn a draw in a battle of two physically aggressive and well-drilled teams who must both look at the chaos elsewhere and be thinking again of top-half finishes. It had seemed that it would be a",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/05/brentford-sunderland-premier-league-match-report",
+      "published": "Sat, 05 Sep 2026 16:14:24 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Luka Vuskovic 救助への乗り物ブライトンとしてリーズチャンスを取らない",
+      "summary": "何が起きているか。この見知らぬものの終わりまでに、enthralling は2 つの排気されたチームを捨てましたファルマー・スタジアム彼らが勝てなかった方法を疑問に思います。両側の ruminations は完全に正当化されました。リーズ, 誰がシーズンに3 つのゲームを無縁に残っている, 前にゲームをベッドに長く置かなかったブライトン彼らを思い出したとしても、攻撃することができました。によって導かれること Jayden Bogle’s 早いタップイン、訪問者はホの最高の部分のために突然優勢だった",
+      "title_original": "Luka Vuskovic rides to the rescue for Brighton as Leeds fail to take chances",
+      "summary_original": "What might have been; what should have been. By the end of this strange, enthralling match two exhausted teams trudged off the Amex Stadium turf wondering how they had not won it. Both sides’ ruminations were entirely legitimate. Leeds, who remain unbeaten three games into the season, rued not putting the game to bed long before Brighton even remembered they, too, were allowed to attack. Having led through Jayden Bogle’s early tap-in, the visitors were utterly dominant for the best part of an ho",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/05/brighton-leeds-premier-league-match-report",
+      "published": "Sat, 05 Sep 2026 16:03:32 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ヨーロッパのサッカー: Nwaneri 力遅れてオウンゴール劇的なキャップドルトムントカムバック",
       "summary": "アーセナルローンリーは、3-2 で勝利した目標を遅らせる Hoffenheim Athletic Bilbao ログインアトレティコ・マドリード3-0 でラ・リーガ アーセナルローンチイーサン・ヌワネリ遅くなる原因オウンゴールを問い合わせボルシア・ドルトムント’ s お気に入り, 彼の側は、2 ダウンから勝利 3-2 トープシートゥビーでホフェンハイムでブンデスリーガクラッシュ。ホーフェンハイムは、開口時間のためのより良いチームだったが、その方法を失ったドルトムント歯車にクリックし、勝利に勝ち抜く3 ゴール最終30 分 このストーリーは更新されます 続きを読む...",
       "title_original": "European football: Nwaneri forces late own goal to cap dramatic Dortmund comeback",
@@ -2112,34 +2145,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Luka Vuskovic 救助への乗り物ブライトンとしてリーズチャンスを取らない",
-      "summary": "何が起きているか。リーズ3 つのゲームをシーズンに残さないが、南海岸を別の勝利で出発しないと、その印象的なスタートに追加するプレミアリーグキャンペーン 彼らは確かにチャンスを持っていた. 時間によってブライトンついに、約30 時間残っている。Bart Verbruggen 地球の目標は、一度に違反していただけだったのか疑問にありました。リーズ’ 優勢で、いじめは彼の側だった. しかし、",
-      "title_original": "Luka Vuskovic rides to the rescue for Brighton as Leeds fail to take chances",
-      "summary_original": "What might have been; what should have been. Leeds remain unbeaten three games into the season, but they will rue not departing the south coast with another win to add to their impressive start to the Premier League campaign. They certainly had chances. By the time Brighton finally woke up with around half an hour remaining, Bart Verbruggen would have been wondering how on earth his goal had only once been breached, so great was Leeds’ dominance and so bullied had his side been. Yet, aside from ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/brighton-leeds-premier-league-match-report",
-      "published": "Sat, 05 Sep 2026 16:03:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Enzo Le Féepenalty redemption 救助 ポイント のために のためのサンダーランド獲得を問い合わせブレントフォード",
-      "summary": "真の償還, 多分, パンネカとスコアをなしてきただろう , しかし、Enzo Le Fée チャツパはなかなか持っていませんでした。彼の duffed dink で ザ· 汚い で ザ·ブレントフォード1 月は1 つのポイントの低いポイントでしたサンダーランド’s 2 季節最悪のパフォーマンス, しかし、彼は残りの 8 分のスポットから変換し、2 つの物理的に積極的なチームとよく訓練されたチームの戦いを獲得し、他の場所で混乱を見て、トップハーフフィニッシュの再び考えなければならない. そうなると、",
-      "title_original": "Enzo Le Fée penalty redemption rescues point for Sunderland at Brentford",
-      "summary_original": "True redemption, perhaps, would have been to score with a Panenka , but Enzo Le Fée didn’t quite have the chutzpah for that. His duffed dink at Brentford in January was the low point of one of Sunderland’s two worst performances of the season, but he converted from the spot with eight minutes remaining to earn a draw in a battle of two physically aggressive and well-drilled teams who must both look at the chaos elsewhere and be thinking again of top-half finishes. It had seemed that it would be ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/brentford-sunderland-premier-league-match-report",
-      "published": "Sat, 05 Sep 2026 16:14:24 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2311,20 +2316,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ジェイコブ・ラムジー風邪から来るニューカッスル peg バックボーンマス",
-      "summary": "獲得を問い合わせ Bournemouth’s Alex Scott ティネによって個人的な遊び場を建てることに成功したように見えました, 別のミッドフィルダーはシャドウから出現し、午後から輝きを除去.Since Matthias Jaissle 成功事例エディ・ハウとしてニューカッスルマネージャージェイコブ・ラムジー余白に大幅急上昇していますが、ホームの代替品は88 分のイコシザーが確保されたスコットと、そのチームメイトがポイントを解決するために必要なことを保証しました。続きを読む...",
-      "title_original": "Jacob Ramsey comes in from the cold as Newcastle peg back Bournemouth",
-      "summary_original": "Just as Bournemouth’s Alex Scott seemed to have succeeded in building a personal playground by the Tyne, another midfielder emerged from the shadows and stripped the shine from his afternoon. Since Matthias Jaissle succeeded Eddie Howe as Newcastle’s manager Jacob Ramsey has been largely shunted to the margins but the home substitute’s superbly executed 88th-minute equaliser ensured Scott and his teammates needed to settle for a point. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/newcastle-bournemouth-premier-league-match-report",
-      "published": "Sat, 05 Sep 2026 13:44:42 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Scottish Premiership: ナデリは、レンジャーズ第3 ストレートウィンを獲得",
       "summary": "ダンディー・ユナイテッド FC1-1 で遅いスコア と引く Falkirk KilmarnockAberdeen の stalemate の後の安全な最初のポイントレンジャーズストライカーRyan Naderi マザーウェルに対する唯一の目標を獲得するための贈り物を受け入れました Ibrox. The 早期置換処分 Alex Paulsen マザーウェルのゴールキーパーは、彼のボックスの外にボールをドリブルしようとすると、ドイツは12 分の勝者であることが証明されたものを評価するためにボールをネットに転がす簡単な作業を持っていた。このストーリーは更新されます 続きを読む...",
       "title_original": "Scottish Premiership: Naderi strikes as Rangers earn third straight win",
@@ -2353,17 +2344,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプール後に新しいスポーツディレクターを見る Richard Hughes 正式な葉",
-      "summary": "サウジクラブで同様の役割を担っている Al-Hilal FSG 代表取締役社長 Mike Gordon 成功者のためのリード検索リヴァプール確認後4 年目のスポーツディレクターを検索しています Richard Hughes 役割からステップダウンしました。ヒューズの出発が予想されると、ラインの47 歳で同様の位置を取ることが予想される Saudi Pro League クラブ Al-Hilal. He インフォメーションリヴァプール今年初頭に立ち去り、友人の出発後 Michael Edw",
-      "title_original": "Liverpool look for new sporting director after Richard Hughes formally leaves",
-      "summary_original": "Hughes in line for similar role at Saudi club Al-Hilal FSG president Mike Gordon leads search for successor Liverpool are searching for a fourth sporting director in four years after confirming that Richard Hughes has stepped down from the role. Hughes’s departure has been long expected, with the 47-year-old in line to take up a similar position with the Saudi Pro League club Al-Hilal. He informed Liverpool of his intentions to leave early this year, after the departure of his friend Michael Edw",
+      "title": "ジェイコブ・ラムジー風邪から来るニューカッスル peg バックボーンマス",
+      "summary": "獲得を問い合わせ Bournemouth’s Alex Scott ティネによって個人的な遊び場を建てることに成功したように見えました, 別のミッドフィルダーはシャドウから出現し、午後から輝きを除去.Since Matthias Jaissle 成功事例エディ・ハウとしてニューカッスルマネージャージェイコブ・ラムジー余白に大幅急上昇していますが、ホームの代替品は88 分のイコシザーが確保されたスコットと、そのチームメイトがポイントを解決するために必要なことを保証しました。続きを読む...",
+      "title_original": "Jacob Ramsey comes in from the cold as Newcastle peg back Bournemouth",
+      "summary_original": "Just as Bournemouth’s Alex Scott seemed to have succeeded in building a personal playground by the Tyne, another midfielder emerged from the shadows and stripped the shine from his afternoon. Since Matthias Jaissle succeeded Eddie Howe as Newcastle’s manager Jacob Ramsey has been largely shunted to the margins but the home substitute’s superbly executed 88th-minute equaliser ensured Scott and his teammates needed to settle for a point. Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/liverpool-new-sporting-director-after-richard-hughes-leaves-fsg",
-      "published": "Sat, 05 Sep 2026 11:00:36 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/05/newcastle-bournemouth-premier-league-match-report",
+      "published": "Sat, 05 Sep 2026 13:44:42 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2378,6 +2369,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプール後に新しいスポーツディレクターを見る Richard Hughes 正式な葉",
+      "summary": "サウジクラブで同様の役割を担っている Al-Hilal FSG 代表取締役社長 Mike Gordon 成功者のためのリード検索リヴァプール確認後4 年目のスポーツディレクターを検索しています Richard Hughes 役割からステップダウンしました。ヒューズの出発が予想されると、ラインの47 歳で同様の位置を取ることが予想される Saudi Pro League クラブ Al-Hilal. He インフォメーションリヴァプール今年初頭に立ち去り、友人の出発後 Michael Edw",
+      "title_original": "Liverpool look for new sporting director after Richard Hughes formally leaves",
+      "summary_original": "Hughes in line for similar role at Saudi club Al-Hilal FSG president Mike Gordon leads search for successor Liverpool are searching for a fourth sporting director in four years after confirming that Richard Hughes has stepped down from the role. Hughes’s departure has been long expected, with the 47-year-old in line to take up a similar position with the Saudi Pro League club Al-Hilal. He informed Liverpool of his intentions to leave early this year, after the departure of his friend Michael Edw",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/05/liverpool-new-sporting-director-after-richard-hughes-leaves-fsg",
+      "published": "Sat, 05 Sep 2026 11:00:36 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2462,6 +2467,34 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "詳しくはこちらモナコ衝撃棒に「強盗」 - しかし、ガスリー勝つことができますイタリアグランプリ?",
+      "summary": "ピエール・ガスリー6 月から表彰台を失った後、金曜日に「強盗」を感じましたモナコグランプリは、ポールポジションで最も注目のファッションで、イタリアグランプリ.",
+      "title_original": "From Monaco 'robbery' to shock pole - but can Gasly win Italian GP?",
+      "summary_original": "Pierre Gasly felt he was \"robbed\" on Friday after losing his podium from June's Monaco Grand Prix but turned it around in the most remarkable fashion with pole position for the Italian Grand Prix.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13581634/italian-gp-can-pierre-gasly-win-monza-race-for-alpine-just-days-after-losing-monaco-podium",
+      "published": "Sat, 05 Sep 2026 18:45:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「彼はマックスによって終わってしまった」 - ウルフ・ブラムス・ヴェルスタッペン、ルッセル・ロッス・ポール",
+      "summary": "メルセデス上司 Toto Wolff と主張している George Russell 棒の位置で逃されたイタリアグランプリ彼が「取り消してしまった」からマックス・フェルスタッペン Monza で修飾する終了段階の間。",
+      "title_original": "'He got done over by Max' - Wolff blames Verstappen for Russell losing pole",
+      "summary_original": "Mercedes boss Toto Wolff has claimed that George Russell missed out on pole position for the Italian Grand Prix because he \"got done over\" by Max Verstappen during the closing stages of qualifying at Monza.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13581636/mercedes-boss-toto-wolff-blames-max-verstappen-for-george-russell-missing-out-on-italian-gp-pole-to-pierre-gasly",
+      "published": "Sat, 05 Sep 2026 18:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2591,6 +2624,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Springboks エッジ スリラー へ 取る 2-1 リード にラグビーニュージーランド代表シリーズ",
+      "summary": "South Africa 後ろから端まで来た New Zealand29-24 彼らの 2-1 を先に動かした ferocious 第三テストで 'Rugby's Greatest Rivalry'1 つのゲームが残っているシリーズ。",
+      "title_original": "Springboks edge thriller to take 2-1 lead in All Blacks series",
+      "summary_original": "South Africa came from behind to edge New Zealand 29-24 in a ferocious third Test that moved them 2-1 ahead in the 'Rugby's Greatest Rivalry' series with one game remaining.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13582037/south-africa-29-24-new-zealand-springboks-edge-thriller-to-take-2-1-series-lead-in-soweto",
+      "published": "Sat, 05 Sep 2026 18:25:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ミルウォール thump 4 過去のボルトン",
       "summary": "Lyndon Dykes 初めてのスコア2 ゴール彼らが勝ち抜く方法に返したように、ケガヒットミルウォールのために EFL チャンピオンシップボルトンで4-0 勝利を勝ち取ったスタイルニュー・デン・スタジアム.",
       "title_original": "Millwall thump four past Bolton",
@@ -2699,48 +2746,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハーランド新しいレコードをヒットし、フェルナンデス輝きとしてマンチェスター・シティビート・コベントリー",
-      "summary": "アーリング・ハーランドコベントリーの勝利1-0 勝利で勝者をスコアリングすることにより、新たに推進された側面と戦うのが大好きなことを示すマンチェスター・シティの レコードの下 Enzo Maresca パーフェクト。",
-      "title_original": "Haaland hits new record and Fernandez shines as Man City beat Coventry",
-      "summary_original": "Erling Haaland showed how much he loves playing against newly promoted sides by scoring the winner in a nervy 1-0 victory over Coventry to keep Manchester City's record under Enzo Maresca perfect.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-city-vs-coventry-city/report/559471",
-      "published": "Sat, 05 Sep 2026 17:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ボロウィンで再びランクシャースコア",
-      "summary": "Will Lankshear's 多くの試合で7 位の目標は、以前に行われた QPR に対するミドルスラフ1-0 の勝利を与えた。",
-      "title_original": "Lankshear scores again in Boro win",
-      "summary_original": "Will Lankshear's seventh goal in as many matches gave Middlesbrough a 1-0 victory against previously-unbeaten QPR.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/queens-park-rangers-vs-middlesbrough/report/560552",
-      "published": "Sat, 05 Sep 2026 17:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "South Africa シリーズの制御を分けて下さい New Zealand 優勝 LIVE!",
-      "summary": "",
-      "title_original": "South Africa seize control of series with New Zealand victory LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13581796/south-africa-vs-new-zealand-rugby-score-updates-video-and-analysis-from-third-test-in-johannesburg",
-      "published": "Sat, 05 Sep 2026 15:11:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
