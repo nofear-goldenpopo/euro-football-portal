@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T17:22:17.230852+00:00",
+  "updated_at": "2026-09-05T17:34:44.740025+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1620,7 +1620,8 @@
     "La Liga Arsenal": "",
     "Derby Middlesbrough": "",
     "Turf Moor. The Clarets": "",
-    "Aaron Ramsey": "アーロン・ラムジー"
+    "Aaron Ramsey": "アーロン・ラムジー",
+    "Wrexham LIVE": ""
   },
   "items": [
     {
@@ -2492,6 +2493,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Swansea 対 Wrexham LIVE 夜空に!",
+      "summary": "",
+      "title_original": "Swansea vs Wrexham LIVE on Sky tonight!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/swansea-city-vs-wrexham/live/560555",
+      "published": "Fri, 04 Sep 2026 12:04:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ウォーカーカップインタビュー GB&I プレーヤーは、パットが強制される前にボールをスクープ",
       "summary": "GB および I's Niall Sheils Donegan 彼の短いパットが conceded 前にボールをスクーピングの間違いをしました Team USA 獲得を問い合わせウォーカーカップ.",
       "title_original": "Walker Cup controversy! GB&I player scoops up ball before putt is conceded",
@@ -2723,20 +2738,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-union/live-blog/12040/13581796/south-africa-vs-new-zealand-rugby-score-updates-video-and-analysis-from-third-test-in-johannesburg",
       "published": "Sat, 05 Sep 2026 15:11:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Verstappen と Hamilton がモンツァ P3 でほぼコライド!",
-      "summary": "Lewis Hamilton そして、マックス・フェルスタッペン P3 中のホイール対ホイールイタリアグランプリモンツァ",
-      "title_original": "'He caused that!' | Verstappen and Hamilton almost collide during Monza P3!",
-      "summary_original": "Lewis Hamilton and Max Verstappen fought wheel-to-wheel during P3 of the Italian Grand Prix at Monza.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13581664/italian-gp-max-verstappen-and-lewis-hamilton-almost-collide-in-p3-at-monza",
-      "published": "Sat, 05 Sep 2026 12:36:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
