@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T15:49:18.515634+00:00",
+  "updated_at": "2026-09-05T16:06:18.573569+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1565,7 +1565,14 @@
     "Aston Villa. So": "",
     "Pierre Gasly": "ピエール・ガスリー",
     "South Africa LIVE": "",
-    "All Blacks Test LIVE": ""
+    "All Blacks Test LIVE": "",
+    "MKM Stadium Herrington": "",
+    "Mail Billy Hull": "",
+    "Lucas Gourna-Douath": "リュカ・グルナ＝ドゥアト",
+    "Birmingham. There": "",
+    "Stroud Subs": "",
+    "Akane Okuma": "",
+    "DIY Kitchens Stadium": ""
   },
   "items": [
     {
@@ -1611,20 +1618,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヒュースは以下のようにステップダウンしますリヴァプールスポーツディレクター",
-      "summary": "Richard Hughes スポーティング・ディレクターとしての地位を下回るリヴァプールサウジアラビア側 Al-Hilal にご参加ください。",
-      "title_original": "Hughes steps down as Liverpool sporting director",
-      "summary_original": "Richard Hughes steps down from his position as sporting director of Liverpool and is set to join Saudi side Al-Hilal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3d7483rv82o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 12:52:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マンチェスター・ユナイテッドミッドフィールドの採用夏の優先順位を上げました - 今何が起こるか?",
       "summary": "マイケル・キャリックコメントマンチェスター・ユナイテッド1億5000万ポンド の夏の募集キャンペーンに続くミッドフィールドでの残高を持っている - 誰が再生する?",
       "title_original": "Man Utd made midfield recruitment summer priority - what happens now?",
@@ -1632,6 +1625,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gq2v5m5gpo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 05 Sep 2026 05:56:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ヒュースは以下のようにステップダウンしますリヴァプールスポーツディレクター",
+      "summary": "Richard Hughes スポーティング・ディレクターとしての地位を下回るリヴァプールサウジアラビア側 Al-Hilal にご参加ください。",
+      "title_original": "Hughes steps down as Liverpool sporting director",
+      "summary_original": "Richard Hughes steps down from his position as sporting director of Liverpool and is set to join Saudi side Al-Hilal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3d7483rv82o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 12:52:56 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1650,20 +1657,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Sutton の予測 v Kasabian のフロントマン Serge Pizzorno",
-      "summary": "BBC スポーツサッカーの専門家クリス・サットン Kasabian フロントマン Serge Pizzorno この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
-      "title_original": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
-      "summary_original": "BBC Sport football expert Chris Sutton takes on Kasabian frontman Serge Pizzorno, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 19:58:10 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1733,20 +1726,6 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ついに、ガクポが価値を証明するので到着リヴァプール",
-      "summary": "リアルにアレクサンデル・イサクいよいよ到着リヴァプール自分の2 頭目のディスプレイの後プレミアリーグで勝つイプスウィッチ・タウン FC, チーフサッカーライターに尋ねるフィル・マクナルティ?",
-      "title_original": "Isak finally arrives as Gakpo proves value to Liverpool",
-      "summary_original": "Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 22:37:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1933,6 +1912,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ついに、ガクポが価値を証明するので到着リヴァプール",
+      "summary": "リアルにアレクサンデル・イサクいよいよ到着リヴァプール自分の2 頭目のディスプレイの後プレミアリーグで勝つイプスウィッチ・タウン FC, チーフサッカーライターに尋ねるフィル・マクナルティ?",
+      "title_original": "Isak finally arrives as Gakpo proves value to Liverpool",
+      "summary_original": "Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 22:37:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "クラークは、SFA の「ちょっとしたシューブ」を新しい契約に与えました",
       "summary": "スティーブ・クラーク彼はキャジョールに持っていたと言うスコットランドサッカー協会すぐ前に全国のヘッドコーチとして新しい契約を手渡す World Cup 去る夏は、統治体がベットをヘッジしていたと感じました。",
       "title_original": "Clarke gave SFA 'a little shove' over new contract",
@@ -1943,6 +1936,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Sutton の予測 v Kasabian のフロントマン Serge Pizzorno",
+      "summary": "BBC スポーツサッカーの専門家クリス・サットン Kasabian フロントマン Serge Pizzorno この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
+      "title_original": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
+      "summary_original": "BBC Sport football expert Chris Sutton takes on Kasabian frontman Serge Pizzorno, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 19:58:10 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1995,11 +2002,25 @@
       "summary_original": "Updates from Premier League, EFL and beyond Live scores | Newcastle 2-2 Bournemouth Iliman Ndiaye starts for City after joining from Everton in the week. Phil Foden drops out and will be joined on the bench by City’s other big signing, Enzo Fernandez. Coventry bring in Ethan Pinnock and Frank Onyeka for Caleb Yirenki and Loum Tchaouna. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/premier-league-manchester-city-coventry-nottingham-forest-v-tottenham-efl-clockwatch-live",
-      "published": "Sat, 05 Sep 2026 15:35:17 GMT",
+      "published": "Sat, 05 Sep 2026 15:52:19 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハル・シティ AFC. .アストン・ヴィラ: プレミアリーグ– ライブ",
+      "summary": "5.30pm BST キックオフからのアップデート KC スタジアム「クレイジー」の上昇にヘリントン | クロックウォッチ | メール・ビリーハル最終土曜日にコベントリーに対して1-0 の勝利から1 つの変化をリュカ・グルナ＝ドゥアト交換する Hidemasa Morita ミッドフィールドで。Coventry の勝者のスコアラー、Liam Millar 入社以来 Birmingham. There ベンチに4 つの期限日獲得があります。ハル(3-4-3): Tzolakis; Ajayi、Egan、Mendy; Coyle、Slater、Gourna-Douath、Gilles; Belloumi、McBurnie、Stroud Subs: フィリップス, トーマス, Hjer",
+      "title_original": "Hull City v Aston Villa: Premier League – live",
+      "summary_original": "Updates from 5.30pm BST kick-off at MKM Stadium Herrington on ‘crazy’ rise | Clockwatch | Mail Billy Hull make one change from their 1-0 win against Coventry last Saturday as Lucas Gourna-Douath replaces Hidemasa Morita in midfield. The scorer of the winner at Coventry, Liam Millar, has since joined Birmingham. There are four deadline-day signings on the bench. Hull (3-4-3): Tzolakis; Ajayi, Egan, Mendy; Coyle, Slater, Gourna-Douath, Giles; Belloumi, McBurnie, Stroud Subs: Phillips, Thomas, Hjer",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/05/hull-city-v-aston-villa-premier-league-live",
+      "published": "Sat, 05 Sep 2026 15:43:58 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2017,10 +2038,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Veerle Buurman’s オウンゴール収益アストン・ヴィラ無駄な WSL の引くことチェルシー",
-      "summary": "ツイート Veerle Buurman オウンゴール罰された有資格者チェルシー獲得を問い合わせ Stamford Bridge、ポイントの確保アストン・ヴィラ WSL のタイトルの押しへのイライラの開始で。How Villa64%の所持を争いし、わずか7 枚のショットを占有するポイントを離れて来たチェルシー’s 32 と 5 は、自宅のチームの 57 へのオポジショニングボックスに触発され、かなり安価です。続きを読む...",
-      "title_original": "Veerle Buurman’s own goal earns Aston Villa WSL draw at wasteful Chelsea",
-      "summary_original": "A Veerle Buurman own goal punished a profligate Chelsea at Stamford Bridge, securing a point for Aston Villa in a frustrating start to their WSL title push. How Villa came away with a point having conceded 64% possession and having amassed just seven shots to Chelsea’s 32 and five touches in the opposition box to the home team’s 57 is somewhat inexplicable. Continue reading...",
+      "title": "オウンゴールそして、キーパーからデビューした Akane Okuma ヴィラポイントを獲得チェルシー",
+      "summary": "ツイート Veerle Buurman オウンゴール罰された有資格者チェルシー獲得を問い合わせ Stamford Bridge、ポイントの確保アストン・ヴィラ WSL のタイトルを戻すためにホストのプッシュへのイライラ開始で。How Villa65%の所持を争い、わずか7 枚のショットを思い浮かべるポイントを離れました。チェルシー’s 34 と 5 は、自宅のチームの 57 に反対のボックスに触発します。続きを読む...",
+      "title_original": "Own goal and inspired debut from keeper Akane Okuma earn Villa point at Chelsea",
+      "summary_original": "A Veerle Buurman own goal punished a profligate Chelsea at Stamford Bridge, securing a point for Aston Villa in a frustrating start to the hosts’ push to win back the WSL title. How Villa came away with a point having conceded 65% possession and having amassed just seven shots to Chelsea’s 34 and five touches in the opposition box to the home team’s 57 is somewhat inexplicable. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/05/chelsea-aston-villa-wsl-match-report",
       "published": "Sat, 05 Sep 2026 13:45:01 GMT",
@@ -2098,20 +2119,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「ノイズは信じられない」:メキシコ v イングランドのレフリーのビューWorld Cup",
-      "summary": "イングランドのマネージャートーマス・トゥヘル fiery last-16 tie で「ちょうど十分ではない」の受取と呼ばれる。Now Alireza Faghani 彼のイベントのバージョンを与える 7 月5 日午後6 時メキシコシティと Alireza Faghani、48 歳オーストラリアイランのロッカールームに眠っていた、いびき。アシスタントは音楽を下げました。コンクリート壁を通した90,000 近くのファンのマフラーにはなかった Estadio Azteca 翌朝まで眠れる。ファガニは",
-      "title_original": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
-      "summary_original": "England’s manager Thomas Tuchel called the officiating ‘just not good enough’ in the fiery last-16 tie. Now Alireza Faghani gives his version of events It was 6pm on 5 July in Mexico City, and Alireza Faghani, a 48-year-old Australian-Iranian, was asleep in the locker room, snoring. His assistants had turned the music down. Had it not been for the muffled roar of nearly 90,000 fans through the concrete walls of the Estadio Azteca, he could have slept until the following morning. Faghani was the ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/world-cup-alireza-faghani-england-mexico-azteca",
-      "published": "Sat, 05 Sep 2026 05:00:29 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2409,10 +2416,24 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リーズ見逃しのチャンスをそのままにブライトンドローに戻って戦う",
+      "summary": "リーズ数え切れないチャンスを払うために作られましたブライトン白人が南海岸で苦しんでいるように、ポイントを主張するために戻ってきました。",
+      "title_original": "Leeds made to pay for missed chances as Brighton fight back to draw",
+      "summary_original": "Leeds were made to pay for countless missed chances as Brighton fought back to claim a point - as the Whites' struggles down at the south coast continue.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-leeds-united/report/559466",
+      "published": "Sat, 05 Sep 2026 17:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ガスリークレームショックファースト F1 キャリアポールイタリアグランプリ",
-      "summary": "ピエール・ガスリーアルパインドライバーがグリッドの通常のフロントランナーをチューニングしたため、F1 で最初のキャリアポールポジションを主張するために、センセーショナルなパフォーマンスを提供イタリアグランプリ.",
+      "summary": "ピエール・ガスリーアルパインドライバーがグリッドの通常のフロントランナーをチューニングしたため、F1 で最初のキャリアポールポジションを主張する感覚的なパフォーマンスを生み出しました。イタリアグランプリ.",
       "title_original": "Gasly claims shock first F1 career pole at Italian GP",
-      "summary_original": "Pierre Gasly delivered a sensational performance to claim his first career pole position in F1 as the Alpine driver stunned the grid's usual frontrunners at the Italian Grand Prix.",
+      "summary_original": "Pierre Gasly produced a sensational performance to claim his first career pole position in F1 as the Alpine driver stunned the grid's usual frontrunners at the Italian Grand Prix.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13581632/italian-gp-qualifying-pierre-gasly-claims-shock-first-pole-position-to-beat-george-russell-to-head-of-monza-grid-for-alpine",
       "published": "Sat, 05 Sep 2026 16:00:00 BST",
@@ -2437,9 +2458,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Springboks ストライク バック に pulsating ラグビーニュージーランド代表ライブテスト!",
+      "title": "South Africa そして、New ZealandAlmighty tussle LIVE でレベルアップ!",
       "summary": "",
-      "title_original": "Springboks strike back in pulsating All Blacks Test LIVE!",
+      "title_original": "South Africa and New Zealand level in almighty tussle LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-union/live-blog/12040/13581796/south-africa-vs-new-zealand-rugby-score-updates-video-and-analysis-from-third-test-in-johannesburg",
@@ -2479,9 +2500,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Naderi 持っているレンジャーズ先の対面 Motherwell LIVE!",
+      "title": "レンジャーズマザーウェルを打つが、シャンクランドを怪我に失う LIVE!",
       "summary": "",
-      "title_original": "Naderi has Rangers ahead vs Motherwell LIVE!",
+      "title_original": "Rangers beat Motherwell but lose Shankland to injury LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/rangers-vs-motherwell/live/558366",
@@ -2535,9 +2556,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "クリスタル・パレス後方から現在に至る Fulham LIVE!",
+      "title": "ウェイクフィールドシールは、第3 スポットロールの戦いとして Warrington 上の勝ち",
+      "summary": "Wakefield Trinity25-18 勝利に勝ち抜いた Warrington Wolves 貫通のラウンドで Super League 季節限定 DIY Kitchens Stadium.",
+      "title_original": "Wakefield seal win over Warrington as battle for third spot rolls on",
+      "summary_original": "Wakefield Trinity battled to a 25-18 victory over Warrington Wolves in the penultimate round of the Super League season at the DIY Kitchens Stadium.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13580357/super-league-wakefield-trinity-secure-25-18-victory-over-warrington-wolves-as-battle-for-third-spot-rolls-on",
+      "published": "Sat, 05 Sep 2026 16:45:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "クリスタル・パレス後ろからウインレスで勝つ Fulham LIVE!",
       "summary": "",
-      "title_original": "Palace come from behind to now lead at Fulham LIVE!",
+      "title_original": "Palace come from behind to win at winless Fulham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/fulham-vs-crystal-palace/live/559468",
@@ -2577,13 +2612,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "過去10 人のチャールトンを Stoke romp",
-      "summary": "エマティック 4-0 へのストーククルーズ EFL チャンピオンシップ10 人で勝つチャールトン・アスレティック FCruthless ホームパフォーマンス。",
-      "title_original": "Stoke romp past 10-man Charlton",
-      "summary_original": "Stoke cruised to an emphatic 4-0 Sky Bet Championship win by dismantling 10-man Charlton Athletic with a ruthless home performance.",
+      "title": "ウェストハム勝つ;バーンリー失い & 家庭で洗礼者 -EFL LIVE!",
+      "summary": "",
+      "title_original": "West Ham win; Burnley lose & Leicester thrashed at home - EFL LIVE!",
+      "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/stoke-city-vs-charlton-athletic/report/560554",
-      "published": "Sat, 05 Sep 2026 14:35:00 BST",
+      "url": "https://www.skysports.com/football/west-ham-united-vs-derby-county/live/560557",
+      "published": "Fri, 04 Sep 2026 14:49:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2591,13 +2626,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウェストハム, ボルオリード; オステルはオックスフォードによって覆われている -EFL LIVE!",
-      "summary": "",
-      "title_original": "West Ham, Boro lead; Leicester being thrashed by Oxford - EFL LIVE!",
-      "summary_original": "",
+      "title": "過去10 人のチャールトンを Stoke romp",
+      "summary": "エマティック 4-0 へのストーククルーズ EFL チャンピオンシップ10 人で勝つチャールトン・アスレティック FCruthless ホームパフォーマンス。",
+      "title_original": "Stoke romp past 10-man Charlton",
+      "summary_original": "Stoke cruised to an emphatic 4-0 Sky Bet Championship win by dismantling 10-man Charlton Athletic with a ruthless home performance.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/west-ham-united-vs-derby-county/live/560557",
-      "published": "Fri, 04 Sep 2026 14:49:00 BST",
+      "url": "https://www.skysports.com/football/stoke-city-vs-charlton-athletic/report/560554",
+      "published": "Sat, 05 Sep 2026 14:35:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2619,9 +2654,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウィリアムズの目標は、VAR 対決によって除外トッテナムライブ!",
+      "title": "トッテナム森の勝者が LIVE を除外した後、シーズン初!",
       "summary": "",
-      "title_original": "Williams goal ruled out by VAR vs Spurs LIVE!",
+      "title_original": "Spurs take first point of season after Forest winner ruled out LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/nottingham-forest-vs-tottenham-hotspur/live/559473",
@@ -2654,34 +2689,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13581552/hull-kr-v-huddersfield-giants-super-league-highlights-as-robins-win-36-6-to-seal-play-off-spot",
       "published": "Sat, 05 Sep 2026 00:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'季節コンテンダーのトリー!' - Polselli は始まり、見事なトゥールーズの試みを終了します",
-      "summary": "Luke Polselli5 メートルラインの内側から攻撃を開始します。Toulouse Olympique 故障に対するハル FC は、シーズンのコンテンダーとしてハイリングされた努力で。",
-      "title_original": "'Try of the season contender!' - Polselli starts AND finishes stunning Toulouse try",
-      "summary_original": "Luke Polselli starts the attack from inside his own five-metre line before finishing off a stunning Toulouse Olympique breakaway against Hull FC, with the effort hailed as a try-of-the-season contender.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13581440/toulouse-olympique-v-hull-fc-luke-polselli-scores-stunning-try-of-the-season-contender",
-      "published": "Sat, 05 Sep 2026 00:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブレントフォード対決する2 番目の目標を持っているサンダーランドライブ!",
-      "summary": "",
-      "title_original": "Brentford have second goal ruled out against Sunderland LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/brentford-vs-sunderland/live/559465",
-      "published": "Sat, 05 Sep 2026 13:08:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
