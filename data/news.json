@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T10:35:01.943779+00:00",
+  "updated_at": "2026-09-05T10:49:29.713301+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1498,7 +1498,8 @@
     "Stamp Fairtex": "スタンプ・フェアテックス",
     "Swansea City": "スウォンジー・シティAFC",
     "Sky Sports' Harriet Prior": "",
-    "Michael Carrick's": ""
+    "Michael Carrick's": "",
+    "Steve Clarke": "スティーブ・クラーク"
   },
   "items": [
     {
@@ -1712,16 +1713,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "私は誰ですか?Guess WSL 星 2",
-      "summary": "今日の身元を身につける Women's Super League できるだけ少ない試みでプレイヤーをプレイできます。",
-      "title_original": "Who am I? Guess WSL star No 2",
-      "summary_original": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
+      "title": "クラークは、SFA の「ちょっとしたシューブ」を新しい契約に与えました",
+      "summary": "スティーブ・クラーク彼はキャジョールに持っていたと言うスコットランドサッカー協会すぐ前に全国のヘッドコーチとして新しい契約を手渡す World Cup 去る夏は、統治体がベットをヘッジしていたと感じました。",
+      "title_original": "Clarke gave SFA 'a little shove' over new contract",
+      "summary_original": "Steve Clarke says he had to cajole the Scottish FA into handing him a new contract as national head coach shortly before the World Cup finals this summer because he felt the governing body was hedging its bets.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8nmnv8vrvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 07:23:30 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 10:14:28 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1737,6 +1738,20 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "私は誰ですか?Guess WSL 星 2",
+      "summary": "今日の身元を身につける Women's Super League できるだけ少ない試みでプレイヤーをプレイできます。",
+      "title_original": "Who am I? Guess WSL star No 2",
+      "summary_original": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8nmnv8vrvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 07:23:30 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1775,20 +1790,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9v9elp98gro?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 04 Sep 2026 11:42:24 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "驚きのペースセッターと回復力走る - EFL で見る5 つのこと",
-      "summary": "週末のチャンピオンシップ前の5 つのポイントをご紹介します。League One そして、League Two アクション。",
-      "title_original": "Surprise pacesetters & resurgent runs - five things to watch in the EFL",
-      "summary_original": "Here are five key talking points before the weekend's Championship, League One and League Two action.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2mxe7g3gyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 13:07:13 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1928,7 +1929,7 @@
       "summary_original": "Buildup, news and discussion before Saturday’s games This weekend’s fixtures | Mail us with your thoughts Back to the WSL and here’s Tom Garry with a morning message. Sonia Bompastor says she expects a competitive, open title race this season, as she prepares to lead her Chelsea side into their home opener against Aston Villa. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/news-buildup-premier-league-newcastle-v-bournemouth-kicks-off-matchday-live",
-      "published": "Sat, 05 Sep 2026 10:07:56 GMT",
+      "published": "Sat, 05 Sep 2026 10:34:55 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
