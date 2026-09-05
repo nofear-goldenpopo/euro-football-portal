@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T08:06:35.517862+00:00",
+  "updated_at": "2026-09-05T08:24:36.843978+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1484,7 +1484,12 @@
     "Now Alireza Faghani": "",
     "Mexico City": "メキシコシティ",
     "Alireza Faghani": "",
-    "Estadio Azteca": ""
+    "Estadio Azteca": "",
+    "Blues. Continue": "",
+    "Flying Lap": "",
+    "Ruiz Jr": "",
+    "Andy Ruiz Jr": "",
+    "Damian Knyba": ""
   },
   "items": [
     {
@@ -1909,12 +1914,12 @@
     },
     {
       "title": "プレミアリーグビルドアップ、WSL は週末のニュースを開くなど - マッチデイライブ",
-      "summary": "土曜日のゲーム前のビルドアップ、ニュース、ディスカッション 今週の週末の備品 | 想いを込めてお寄せください 7 つのマッチをご紹介します。プレミアリーグプログラム Saturday. All 時間 BST. 12:30 ニューカッスル v ボーンマス 15:00 ブレントフォード. .サンダーランド 15:00 ブライトン. .リーズ15:00 フラハム v クリスタル・パレス 15:00 マンチェスター・シティ v コンベンション 15:00 ノッティンガム・フォレスト. .トッテナム 17:30 ハル. .アストン・ヴィラ続きを読む...",
+      "summary": "土曜日のゲーム前のビルドアップ、ニュース、ディスカッション 今週の週末の備品 | 想いを込めてお寄せください そして、先にアーセナルツイートチェルシー日曜日のショーダウンはこちら Jacob Steinberg ガンナーではなく、ガンナーのためにライニングできたプレイヤーに Blues. Continue 読書...",
       "title_original": "Premier League buildup, WSL opening weekend news, and more – matchday live",
-      "summary_original": "Buildup, news and discussion before Saturday’s games This weekend’s fixtures | Mail us with your thoughts Here’s the seven-match Premier League programme for Saturday. All times BST. 12:30 Newcastle United v Bournemouth 15:00 Brentford v Sunderland 15:00 Brighton v Leeds 15:00 Fulham v Crystal Palace 15:00 Manchester City v Coventry 15:00 Nottingham Forest v Tottenham 17:30 Hull v Aston Villa Continue reading...",
+      "summary_original": "Buildup, news and discussion before Saturday’s games This weekend’s fixtures | Mail us with your thoughts And ahead of the Arsenal v Chelsea showdown on Sunday , here’s Jacob Steinberg on a player who could been lining up for the Gunners rather than the Blues. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/news-buildup-premier-league-newcastle-v-bournemouth-kicks-off-matchday-live",
-      "published": "Sat, 05 Sep 2026 07:52:41 GMT",
+      "published": "Sat, 05 Sep 2026 08:18:17 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2328,6 +2333,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スカイスポーツとアウディはユニークな「発売」を発表 Flying Lap' トラック ガイド シリーズ",
+      "summary": "",
+      "title_original": "Sky Sports and Audi launch unique 'Flying Lap' track guide series",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13537118/sky-sports-and-audi-launch-flying-lap-series-in-unique-storytelling-experience-from-f1-race-tracks",
+      "published": "Sat, 02 May 2026 16:21:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "EFL 最新:SEVEN ゲームは12.30pm でスカイにライブ",
       "summary": "",
       "title_original": "EFL latest: SEVEN games live on Sky at 12.30pm",
@@ -2433,6 +2452,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13581587/us-open-serena-and-venus-williams-suffer-agonising-defeat-to-maya-joint-and-chan-hao-ching-in-a-womens-doubles-first-round-epic",
       "published": "Sat, 05 Sep 2026 03:20:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Ruiz Jr カムバックの戦いで敗北したが、再び戦うために誓う",
+      "summary": "Andy Ruiz Jr 相手の衝撃的な勝利で彼のカムバックの試合で殴られた Damian Knyba.",
+      "title_original": "Ruiz Jr defeated in comeback fight but vows to 'fight again'",
+      "summary_original": "Andy Ruiz Jr was beaten in his comeback bout in a shock victory for his opponent Damian Knyba.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13581616/andy-ruiz-jr-loses-comeback-fight-by-unanimous-decision-but-pledges-to-fight-again",
+      "published": "Sat, 05 Sep 2026 08:07:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2576,34 +2609,6 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Leigh Seal play-off スポット として Saints miss out のために 初めて",
-      "summary": "Leigh Leopards しっかりした Super League48-10 勝利でプレーオフの場所 St Helens クラブの歴史の中で初めてプレーオフを逃した人。",
-      "title_original": "Leigh seal play-off spot as Saints miss out for first time",
-      "summary_original": "Leigh Leopards secured their Super League play-off place with a 48-10 victory over St Helens, who missed the play-offs for the first time in the club's history.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13581546/hull-kr-v-huddersfield-giants-super-league-highlights-as-robins-win-36-6-to-seal-play-off-spot",
-      "published": "Fri, 04 Sep 2026 21:58:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "イラオラアップとランニングリヴァプールイザックネットはダブルイプスウィッチ",
-      "summary": "Andoni Iraola 最初の勝利をそのまま登録リヴァプールヘッドコーチとしてアレクサンデル・イサク9 分以内に2 回獲得イプスウィッチ 2-0.",
-      "title_original": "Iraola up and running at Liverpool as Isak nets double at Ipswich",
-      "summary_original": "Andoni Iraola registered his first win as Liverpool head coach as Alexander Isak scored twice inside nine minutes to beat Ipswich 2-0.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/ipswich-town-vs-liverpool/report/559470",
-      "published": "Fri, 04 Sep 2026 21:49:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     }
