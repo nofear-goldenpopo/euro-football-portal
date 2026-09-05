@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T14:06:03.852204+00:00",
+  "updated_at": "2026-09-05T14:23:33.481100+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1541,7 +1541,18 @@
     "Callum Lang": "",
     "Jacob Ramsey's": "",
     "St James' Park": "セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)",
-    "Jamie Vardy’s Having": ""
+    "Jamie Vardy’s Having": "",
+    "Bournemouth’s Alex Scott": "",
+    "Since Matthias Jaissle": "",
+    "Jacob Ramsey": "ジェイコブ・ラムジー",
+    "Veerle Buurman’s": "",
+    "Aston Villa WSL": "",
+    "Veerle Buurman": "",
+    "Charlton Preston": "",
+    "Blackburn Mikkel Ladefoged": "",
+    "ProAmpac Stadium": "",
+    "Sonia Bompastor's": "",
+    "Immediate Palace": ""
   },
   "items": [
     {
@@ -1643,6 +1654,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "WSL でロンドンの側面にガードが変身しましたか?",
+      "summary": "獲得を問い合わせ Women's Super League 季節が始まり、アーセナルより良い位置よりもチェルシータイトルに挑戦するには?",
+      "title_original": "Has there been a changing of guard for London sides in the WSL?",
+      "summary_original": "With the Women's Super League season starting up, are Arsenal in a better position than Chelsea to challenge for the title?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7837gnn4ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 07:22:42 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -1671,20 +1696,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL でロンドンの側面にガードが変身しましたか?",
-      "summary": "獲得を問い合わせ Women's Super League 季節が始まり、アーセナルより良い位置よりもチェルシータイトルに挑戦するには?",
-      "title_original": "Has there been a changing of guard for London sides in the WSL?",
-      "summary_original": "With the Women's Super League season starting up, are Arsenal in a better position than Chelsea to challenge for the title?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7837gnn4ejo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 07:22:42 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Guendouzi と greenwood 禁止 後に brawl",
       "summary": "フェネルバフチェミッドフィルダーマテオ・ゲンドゥージ4 マッチのヨーロッパの禁止を取得し、その後の喧嘩後 5 万ユーロ罰金チャンピオンズリーグプレーオフの勝利でリヨン.",
       "title_original": "Guendouzi and Greenwood banned after brawl",
@@ -1710,6 +1721,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "クラークは、SFA の「ちょっとしたシューブ」を新しい契約に与えました",
+      "summary": "スティーブ・クラーク彼はキャジョールに持っていたと言うスコットランドサッカー協会すぐ前に全国のヘッドコーチとして新しい契約を手渡す World Cup 去る夏は、統治体がベットをヘッジしていたと感じました。",
+      "title_original": "Clarke gave SFA 'a little shove' over new contract",
+      "summary_original": "Steve Clarke says he had to cajole the Scottish FA into handing him a new contract as national head coach shortly before the World Cup finals this summer because he felt the governing body was hedging its bets.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 10:14:28 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1951,13 +1976,55 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "クラークは、SFA の「ちょっとしたシューブ」を新しい契約に与えました",
-      "summary": "スティーブ・クラーク彼はキャジョールに持っていたと言うスコットランドサッカー協会すぐ前に全国のヘッドコーチとして新しい契約を手渡す World Cup 去る夏は、統治体がベットをヘッジしていたと感じました。",
-      "title_original": "Clarke gave SFA 'a little shove' over new contract",
-      "summary_original": "Steve Clarke says he had to cajole the Scottish FA into handing him a new contract as national head coach shortly before the World Cup finals this summer because he felt the governing body was hedging its bets.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 10:14:28 GMT",
+      "title": "マンチェスター・シティ v のコベントリー,ノッティンガム・フォレスト. .トッテナムもっと: サッカー時計 - ライブ",
+      "summary": "更新情報プレミアリーグ, EFL とライブスコアを超えて |ニューカッスル2-2 ボーンマス - 反応イリマン・エンディアイエ入社後、市街地へエヴァートン週中。フィル・フォーデン都市の他の大きな獲得によってベンチにドロップアウトし、結合されます,エンソ・フェルナンデス. コベントリーは持って来ますイーサン・ピノックそして、Frank Onyeka 獲得を問い合わせ Caleb Yirenki そして、Loum Tchaouna. Continue 読書...",
+      "title_original": "Manchester City v Coventry, Nottingham Forest v Tottenham and more: football clockwatch – live",
+      "summary_original": "Updates from Premier League, EFL and beyond Live scores | Newcastle 2-2 Bournemouth – reaction Iliman Ndiaye starts for City after joining from Everton in the week. Phil Foden drops out and will be joined on the bench by City’s other big signing, Enzo Fernandez. Coventry bring in Ethan Pinnock and Frank Onyeka for Caleb Yirenki and Loum Tchaouna. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/05/premier-league-manchester-city-coventry-nottingham-forest-v-tottenham-efl-clockwatch-live",
+      "published": "Sat, 05 Sep 2026 14:05:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ラムジーキャップニューカッスル Bournemouth concede として引くための戦いのバック",
+      "summary": "獲得を問い合わせ Bournemouth’s Alex Scott ティネによって個人的な遊び場を建てることに成功したように見えました, 別のミッドフィルダーはシャドウから出現し、午後を台無しに.Since Matthias Jaissle 成功事例エディ・ハウとしてニューカッスルマネージャージェイコブ・ラムジー主にマージンに急いでいますが、ホームの代替品は、第88 分のイコライザーは、スコットと彼のチームメイトがポイントのために解決しなければならないことを保証しました。続きを読む...",
+      "title_original": "Ramsey caps Newcastle fightback for draw as Bournemouth concede late again",
+      "summary_original": "Just as Bournemouth’s Alex Scott seemed to have succeeded in building a personal playground by the Tyne, another midfielder emerged from the shadows and ruined his afternoon. Since Matthias Jaissle succeeded Eddie Howe as Newcastle’s manager, Jacob Ramsey has been largely shunted to the margins, but the home substitute’s superbly executed 88th minute equaliser ensured Scott and his team-mates had to settle for a point. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/05/newcastle-bournemouth-premier-league-match-report",
+      "published": "Sat, 05 Sep 2026 13:44:42 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Veerle Buurman’s オウンゴール収益アストン・ヴィラ無駄な WSL の引くことチェルシー",
+      "summary": "ツイート Veerle Buurman オウンゴール罰された有資格者チェルシー獲得を問い合わせ Stamford Bridge、ポイントの確保アストン・ヴィラ WSL のタイトルの押しへのイライラの開始で。How Villa64%の所持を争いし、わずか7 枚のショットを占有するポイントを離れて来たチェルシー’s 32 と 5 は、自宅のチームの 57 へのオポジショニングボックスに触発され、かなり安価です。続きを読む...",
+      "title_original": "Veerle Buurman’s own goal earns Aston Villa WSL draw at wasteful Chelsea",
+      "summary_original": "A Veerle Buurman own goal punished a profligate Chelsea at Stamford Bridge, securing a point for Aston Villa in a frustrating start to their WSL title push. How Villa came away with a point having conceded 64% possession and having amassed just seven shots to Chelsea’s 32 and five touches in the opposition box to the home team’s 57 is somewhat inexplicable. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/05/chelsea-aston-villa-wsl-match-report",
+      "published": "Sat, 05 Sep 2026 13:45:01 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "選手権のラウンドアップ: リンカーンは、南港、Stoke rout Charlton に対して後半の描画を獲得",
+      "summary": "リンカーン 1-1 サンプトン, トーク 4-0Charlton Preston 勝利を勝ち取る Blackburn Mikkel Ladefoged リンカーンを安全にするために、英語のサッカーで最初の目標を獲得したのは、南 ampton に値するレイトポイントを獲得し、彼らは1-1 に戦い、チャンピオンシッププロモーションのお気に入りの一つで描画します。ウェリントンは、ハーフタイムのストロークで聖人のための彼の最初の目標を獲得し、彼の雷門は、その点で十分である可能性が高い見ました ProAmpac Stadium インプスの記録獲得の前に",
+      "title_original": "Championship roundup: Lincoln earn late draw against Southampton, Stoke rout Charlton",
+      "summary_original": "Lincoln 1-1 Southampton, Stoke 4-0 Charlton Preston get first win with victory over Blackburn Mikkel Ladefoged scored his first goal in English football to secure Lincoln a deserved late point against Southampton as they battled to a 1-1 draw with one of the Championship promotion favourites. Welington had also scored his first goal for the Saints on the stroke of half-time and his thunderbolt looked likely to be good enough for the points at the ProAmpac Stadium before the Imps’ record signing ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/05/championship-roundup-southampton-lincoln-burnley-west-ham-wrexham",
+      "published": "Sat, 05 Sep 2026 13:51:26 GMT",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
@@ -1965,31 +2032,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ニューカッスル2-2 ボーンマス:プレミアリーグ– ライブ反応",
-      "summary": "更新情報セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)、キックオフ 12.30pm (BST)プレミアリーグ: 10 物事を調べる |Mail David Here チームに参加!Some August 日差しは、地面の楽観と興奮の感覚に追加します。これらの光線に Giddy,グレン・ホドル3-3 または2-2 の描画のいずれかを予測します。それは確かにすべてのもののケースではありませんプレミアリーグマネージャーが、Marco RoseBournemouth's でもっと幸せに聞こえる移籍市場. それは主にキーの人の把握を、特にミッドフィルダー保つことが原因であります Alex Scott:「ヘレ」",
-      "title_original": "Newcastle United 2-2 Bournemouth: Premier League – live reaction",
-      "summary_original": "Updates from St James’ Park, kick-off 12.30pm (BST) Premier League: 10 things to look out for | Mail David Here come the teams! Some August sunshine adds to the sense of optimism and excitement in the ground. Giddy on those rays, Glenn Hoddle predicts either a 3-3 or 2-2 draw. It’s certainly not the case with all Premier League managers but Marco Rose sounds more than happy with Bournemouth’s transfer window. That’s due mainly to keeping hold of key men, particularly midfielder Alex Scott: “Here",
+      "title": "Uefa 法的なケースは、トランプのサポートとして Infantino の端から始まるかもしれません |Barney Ronay",
+      "summary": "Fifa の失敗した計画に関連する発見の順序は、販売する World Cup アメリカ大統領は、犯人にとって悪く終わる傾向にある状況を心配します。Tell Mike ちょうどビジネスでした。私はいつも彼が好きでした。続きを読む...",
+      "title_original": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
+      "summary_original": "The order of discovery related to Fifa’s failed plan to sell the World Cup will worry the American president, a situation that tends to end badly for the culprit “Tell Mike it was just business. I always liked him.” “He understands.” Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/05/newcastle-united-v-bournemouth-premier-league-live",
-      "published": "Sat, 05 Sep 2026 13:50:13 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・シティ v のコベントリー,ノッティンガム・フォレスト. .トッテナムもっと: サッカー時計 - ライブ",
-      "summary": "更新情報プレミアリーグ, EFL とライブスコアを超えて |ニューカッスル2-2 ボーンマス - 反応イリマン・エンディアイエ入社後、市街地へエヴァートン週中。フィル・フォーデン都市の他の大きな獲得によってベンチにドロップアウトし、結合されます,エンソ・フェルナンデス. コベントリーは持って来ますイーサン・ピノックそして、Frank Onyeka 獲得を問い合わせ Caleb Yirenki そして、Loum Tchaouna. Continue 読書...",
-      "title_original": "Manchester City v Coventry, Nottingham Forest v Tottenham and more: football clockwatch – live",
-      "summary_original": "Updates from Premier League, EFL and beyond Live scores | Newcastle 2-2 Bournemouth – reaction Iliman Ndiaye starts for City after joining from Everton in the week. Phil Foden drops out and will be joined on the bench by City’s other big signing, Enzo Fernandez. Coventry bring in Ethan Pinnock and Frank Onyeka for Caleb Yirenki and Loum Tchaouna. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/05/premier-league-manchester-city-coventry-nottingham-forest-v-tottenham-efl-clockwatch-live",
-      "published": "Sat, 05 Sep 2026 13:47:03 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
+      "published": "Sat, 05 Sep 2026 07:00:29 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2021,20 +2074,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Uefa 法的なケースは、トランプのサポートとして Infantino の端から始まるかもしれません |Barney Ronay",
-      "summary": "Fifa の失敗した計画に関連する発見の順序は、販売する World Cup アメリカ大統領は、犯人にとって悪く終わる傾向にある状況を心配します。Tell Mike ちょうどビジネスでした。私はいつも彼が好きでした。続きを読む...",
-      "title_original": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
-      "summary_original": "The order of discovery related to Fifa’s failed plan to sell the World Cup will worry the American president, a situation that tends to end badly for the culprit “Tell Mike it was just business. I always liked him.” “He understands.” Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
-      "published": "Sat, 05 Sep 2026 07:00:29 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「逆のバケツのリスト」:アルテタチャネルの防御のウェンガーアーセナルウィンドウ",
       "summary": "チャンピオンズのマネージャーは、彼の慎重な前任者と、期限日の到着の欠如で不満を抱いて、より大きな写真を見るために多くの人が接続してアーセナル古い行を記憶する時間だった Arsène Wenger. 「私たちは「ニュース」の社会に住んでいます」と、クラブの元マネージャーは言いました。そして、彼は新しいことを意味しました。クラブが新しい顔を追加しなければならないとき、移籍市場でより明らかな執りではありません。今日は、",
       "title_original": "‘Reverse bucket list’: Arteta channels Wenger in defence of Arsenal window",
@@ -2042,20 +2081,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/05/premier-league-arsenal-transfers-reverse-bucket-list-mikel-arteta-channels-arsene-wenger-defence-window",
       "published": "Sat, 05 Sep 2026 07:00:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Isak の急なダブルシンクイプスウィッチ与えるために Andoni Iraola はじめてリヴァプールログイン",
-      "summary": "アンドーニ・イラオラの初勝利リヴァプール、最新の星の獲得の導入ブラッドリー・バルコラ金曜日の夜を成功させる。より良いまだ、継続的な兆候アレクサンデル・イサク昨年のモデルは、人生に戻ってきます。その2 つは、三つのポイントを守る初期の目標です。獲得を問い合わせコーディ・ガクポ、Isak の製造者は、ありましたマンチェスター・シティまたはトッテナム移籍が正しく実行され、さらに更新の感覚に追加されました。リヴァプールの の攻撃者は速度と i のフルでした",
-      "title_original": "Isak’s rapid double sinks Ipswich to give Andoni Iraola first Liverpool win",
-      "summary_original": "A first win for Andoni Iraola’s Liverpool, the introduction of the latest star signing in Bradley Barcola making for a successful Friday night. Better yet, continuing signs that Alexander Isak, last year’s model, is coming back to life, his two, well-taken early goals securing the three points. That Cody Gakpo, Isak’s supplier, might have been at Manchester City or Tottenham had the transfer runes been right, added further to a sense of renewal. Liverpool’s attackers were full of the speed and i",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/ipswich-liverpool-premier-league-match-report",
-      "published": "Fri, 04 Sep 2026 21:07:54 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2074,20 +2099,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アレクシア・プテジャス WSL の乗車をとして始めて下さい London City アウトクラスマンチェスター・ユナイテッド",
-      "summary": "以来、いくつかのシナリオがありますミルウォール・ライオネセス LFC ミルウォールから離れ、ロンドン・シティ・ライオネスそれはより多くの surreal をの考えより感じましたアレクシア・プテジャス Bromley の WSL シーズンオープナでステートメントの勝利を7 年後に達成する。ここにありますが: 参照者は、以前の talismanic に使用する必要がありますバルセロナ彼女のカスタムであるように、トースの後、コインを拾うキャプテンストープ。プレーヤーは、それらを焦点を合わせるためにそれらを過去に見ている目やカメラに慣れなければならない",
-      "title_original": "Alexia Putellas begins WSL ride as London City outclass Manchester United",
-      "summary_original": "There are few scenarios since Millwall Lionesses broke away from Millwall and became London City Lionesses that would have felt more surreal than the idea of Alexia Putellas captaining the side to a statement win in a WSL season-opener in Bromley just seven years later. Here we are though: referees have to get used to the formerly talismanic Barcelona captain stooping to pick up the coin after the toss, as is her custom; players must get used to eyes and cameras looking past them to focus in on ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/london-city-lionesses-manchester-united-wsl-match-report",
-      "published": "Fri, 04 Sep 2026 20:51:57 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2231,6 +2242,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アレクシア・プテジャス WSL の乗車をとして始めて下さい London City アウトクラスマンチェスター・ユナイテッド",
+      "summary": "以来、いくつかのシナリオがありますミルウォール・ライオネセス LFC ミルウォールから離れ、ロンドン・シティ・ライオネスそれはより多くの surreal をの考えより感じましたアレクシア・プテジャス Bromley の WSL シーズンオープナでステートメントの勝利を7 年後に達成する。ここにありますが: 参照者は、以前の talismanic に使用する必要がありますバルセロナ彼女のカスタムであるように、トースの後、コインを拾うキャプテンストープ。プレーヤーは、それらを焦点を合わせるためにそれらを過去に見ている目やカメラに慣れなければならない",
+      "title_original": "Alexia Putellas begins WSL ride as London City outclass Manchester United",
+      "summary_original": "There are few scenarios since Millwall Lionesses broke away from Millwall and became London City Lionesses that would have felt more surreal than the idea of Alexia Putellas captaining the side to a statement win in a WSL season-opener in Bromley just seven years later. Here we are though: referees have to get used to the formerly talismanic Barcelona captain stooping to pick up the coin after the toss, as is her custom; players must get used to eyes and cameras looking past them to focus in on ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/04/london-city-lionesses-manchester-united-wsl-match-report",
+      "published": "Fri, 04 Sep 2026 20:51:57 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Isak の急なダブルシンクイプスウィッチ与えるために Andoni Iraola はじめてリヴァプールログイン",
+      "summary": "アンドーニ・イラオラの初勝利リヴァプール、最新の星の獲得の導入ブラッドリー・バルコラ金曜日の夜を成功させる。より良いまだ、継続的な兆候アレクサンデル・イサク昨年のモデルは、人生に戻ってきます。その2 つは、三つのポイントを守る初期の目標です。獲得を問い合わせコーディ・ガクポ、Isak の製造者は、ありましたマンチェスター・シティまたはトッテナム移籍が正しく実行され、さらに更新の感覚に追加されました。リヴァプールの の攻撃者は速度と i のフルでした",
+      "title_original": "Isak’s rapid double sinks Ipswich to give Andoni Iraola first Liverpool win",
+      "summary_original": "A first win for Andoni Iraola’s Liverpool, the introduction of the latest star signing in Bradley Barcola making for a successful Friday night. Better yet, continuing signs that Alexander Isak, last year’s model, is coming back to life, his two, well-taken early goals securing the three points. That Cody Gakpo, Isak’s supplier, might have been at Manchester City or Tottenham had the transfer runes been right, added further to a sense of renewal. Liverpool’s attackers were full of the speed and i",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/04/ipswich-liverpool-premier-league-match-report",
+      "published": "Fri, 04 Sep 2026 21:07:54 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ジョゼ・モウリーニョパーロットとして病気レアル・マドリード日光浴レアル・ベティスアイルランドのスーパーサブ",
       "summary": "エムバペ Valles によって保存された遅延ペナルティを見るパリ・サンジェルマンリーグリーダーが打ち勝つモナコ レアル・マドリード'完璧なスタートラ・リーガ金曜日に終わるレアル・ベティス1-0 を打ちます。トロイ・パロット時間とゴールキーパーから9 分を刻むアルバロ・バジェス stoppage-time を節約するキリアン・エムバペ。衝突は高いテンポで始まりましたが、ペースは後に低下しましたインテル熱中のバル Seville. The Republic アイルランドのスターパロット、68 分に導入され、デッドルを破った",
       "title_original": "José Mourinho sick as a Parrott as Real Madrid sunk by Real Betis and Irish supersub",
@@ -2266,34 +2305,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
       "published": "Fri, 04 Sep 2026 21:30:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "堅い開始のためのパリ・サンジェルマンしかし、ルイス・エンリケ獲得から「新しいエネルギー」の破烈に信仰を持っている",
-      "summary": "パリ・サンジェルマンここまでリーグの試合を描いています。モナコ金曜日にトリッキーなタスクをポーズ “学校にいるような”ルイス・エンリケ記者会見室に入ると、ジャーナリストが彼の心のボンジュールに無毒に反応するのを聞く。彼の備考は、前夜にフィッティングされたパリ・サンジェルマン’ s 季節の最初のホームマッチ, フランスのレンタルレとうまくラインアップ ’ s ’ s ’ s ’ s ’ s ’ s ’ s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s 最初の ホーム s s s s s s マッチ s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s sSeptember. Although の n",
-      "title_original": "Tough start for PSG but Luis Enrique has faith in burst of ‘new energy’ from signings",
-      "summary_original": "Paris Saint-Germain have drawn both of their league games so far and Monaco pose a tricky task on Friday “It’s like we’re at school,” Luis Enrique quipped as he entered the press conference room, hearing the journalists respond in unison to his hearty bonjour . His remark was fitting on the eve of Paris Saint-Germain’s first home match of the season, which lines up nicely with France’s rentrée , the term for the nationwide return to school and the office at the start of September. Although the n",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/paris-saint-germain-luis-enrique-monaco",
-      "published": "Fri, 04 Sep 2026 07:00:01 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チャオティッククリスタル・パレス 移籍市場リーフレット Pierre Sage 感情の全域を実行するために",
-      "summary": "マネージャーは、防御的なターゲットを土地にし、戦争の最後の日のマグロを失ったが、彼は彼の最初のポイントを求めるので、ポジティブに描画することができます 少なくとも Pierre Sage 入社前の研究クリスタル・パレス獲得を問い合わせ June. Having にステップオリヴァー・グラスナー’ クラブの歴史の中で最も成功した時代の後、靴は、次の敗北に従ったフレンチマンのための最も簡単な移行ではなかったエヴァートンそして、マンチェスター・シティ新たなキャンペーンを開始し、未来を取り巻く不確実性の中",
-      "title_original": "Chaotic Crystal Palace transfer window leaves Pierre Sage to run the gamut of emotions",
-      "summary_original": "Manager was frustrated not to land defensive targets and lost last-day tug of war but can draw on positives as he seeks his first points At least Pierre Sage did his research before joining Crystal Palace in June. Having stepped into Oliver Glasner’s shoes after the most successful era in the club’s history, it has not been the easiest transition for the engaging Frenchman following defeats against Everton and Manchester City to start the new campaign, and amid uncertainty surrounding the future",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/04/pierre-sage-crystal-palace-transfer-window",
-      "published": "Fri, 04 Sep 2026 11:58:29 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2385,9 +2396,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スターリングとニールバックレンジャーズ訪問のための側面 Motherwell LIVE!",
+      "title": "ファースト WSL ポイントを獲得するためのヴィラホールドチェルシー",
+      "summary": "アストン・ヴィラ後ろから1〜1 のドローを獲得チェルシー獲得を問い合わせ Stamford Bridge として Sonia Bompastor's 側は勝利の始まりを彼らのために否定しました Women's Super League キャンペーン",
+      "title_original": "Villa hold on to earn first WSL point against Chelsea",
+      "summary_original": "Aston Villa came from behind to earn a 1-1 draw against Chelsea at Stamford Bridge as Sonia Bompastor's side were denied a winning start to their Women's Super League campaign.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-aston-villa-women/report/575756",
+      "published": "Sat, 05 Sep 2026 14:20:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ナデリ火災レンジャーズシャンクランド後のマザーウェルが LIVE を強制終了!",
       "summary": "",
-      "title_original": "Sterling and Neil back in Rangers side for visit of Motherwell LIVE!",
+      "title_original": "Naderi fires Rangers vs Motherwell after Shankland forced off LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/rangers-vs-motherwell/live/558366",
@@ -2427,9 +2452,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イタリアグランプリ: 予選は、ポールライブのフェラーリと戦うためにルーセルセットで始まります!",
+      "title": "Ramsey 救助 引く のためにニューカッスルボーンマスから",
+      "summary": "ニューカッスルバックから2 ゴールダウンとして Jacob Ramsey's 遅いストライキは、ボーンマスに対して2-2 を救助しましたセント・ジェームズ・パーク (ニューカッスル・アポン・タイン).",
+      "title_original": "Ramsey rescues draw for Newcastle against Bournemouth",
+      "summary_original": "Newcastle fought back from two goals down as Jacob Ramsey's late strike rescued a 2-2 against Bournemouth at St James' Park.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/newcastle-united-vs-bournemouth/report/559472",
+      "published": "Sat, 05 Sep 2026 14:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "イタリアグランプリ: ガスリーセットは、ステージの大きなヒッターに予選の早いペースで驚きます!",
       "summary": "",
-      "title_original": "Italian GP: Qualifying begins with Russell set to fight Ferraris for pole LIVE!",
+      "title_original": "Italian GP: Gasly sets surprise early pace in Qualifying to upstage big hitters LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13581626/f1-italian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
@@ -2469,9 +2508,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フラハム対クリスタル・パレスライブ!",
+      "title": "ウェストハム, ボルオリード; レスタートレイルオックスフォード -EFL LIVE!",
       "summary": "",
-      "title_original": "Fulham vs Palace LIVE!",
+      "title_original": "West Ham, Boro lead; Leicester trail Oxford - EFL LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/west-ham-united-vs-derby-county/live/560557",
+      "published": "Fri, 04 Sep 2026 14:49:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "インフォメーションクリスタル・パレスエキサイザーは、Fulham がまだライブをリードとして除外!",
+      "summary": "",
+      "title_original": "Immediate Palace equaliser ruled out as Fulham still lead LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/fulham-vs-crystal-palace/live/559468",
@@ -2494,20 +2547,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Ramsey 救助 引く のためにニューカッスルボーンマスから",
-      "summary": "ニューカッスルバックから2 ゴールダウンとして Jacob Ramsey's 遅いストライキは、ボーンマスに対して2-2 を救助しましたセント・ジェームズ・パーク (ニューカッスル・アポン・タイン).",
-      "title_original": "Ramsey rescues draw for Newcastle against Bournemouth",
-      "summary_original": "Newcastle fought back from two goals down as Jacob Ramsey's late strike rescued a 2-2 against Bournemouth at St James' Park.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/newcastle-united-vs-bournemouth/report/559472",
-      "published": "Sat, 05 Sep 2026 14:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2546,20 +2585,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13581440/toulouse-olympique-v-hull-fc-luke-polselli-scores-stunning-try-of-the-season-contender",
       "published": "Sat, 05 Sep 2026 00:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウェストハム, プレストン&ストーク後のアクションで QPR -EFL LIVE!",
-      "summary": "",
-      "title_original": "West Ham, QPR in action after Preston & Stoke win - EFL LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/west-ham-united-vs-derby-county/live/560557",
-      "published": "Fri, 04 Sep 2026 14:49:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2623,9 +2648,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブライトン対比リーズライブ!",
+      "title": "ボールスコアリーズ「最初の目標は、ブライトン14 年ぶりに LIVE!",
       "summary": "",
-      "title_original": "Brighton vs Leeds LIVE!",
+      "title_original": "Bogle scores Leeds' first goal away at Brighton in 14 years LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-leeds-united/live/559466",
@@ -2637,9 +2662,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブレントフォード対比サンダーランドライブ!",
+      "title": "サンダーランド VAR 対決によるオープナーブレントフォードライブ!",
       "summary": "",
-      "title_original": "Brentford vs Sunderland LIVE!",
+      "title_original": "Sunderland opener ruled out by VAR vs Brentford LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brentford-vs-sunderland/live/559465",
@@ -2648,20 +2673,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ファースト WSL ポイントを獲得するためのヴィラホールドチェルシーライブ!",
-      "summary": "",
-      "title_original": "Villa hold on to earn first WSL point against Chelsea LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-women-vs-aston-villa-women/live/575756",
-      "published": "Sat, 05 Sep 2026 12:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
