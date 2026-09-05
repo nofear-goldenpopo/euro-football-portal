@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T06:51:50.850972+00:00",
+  "updated_at": "2026-09-05T07:05:59.268333+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1475,7 +1475,8 @@
     "That Cody Gakpo": "",
     "Álvaro Valles": "アルバロ・バジェス",
     "Seville. The Republic": "",
-    "Robert McCracken": ""
+    "Robert McCracken": "",
+    "Eamon O’Carroll’s": ""
   },
   "items": [
     {
@@ -2333,6 +2334,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "St Helens リーグの敗北後に問われる「クリアアウト」",
+      "summary": "Jamie Jones-Buchanan 信じる St Helens 大きな再建が必要 Eamon O’Carroll’s サイド ミス アウト に メイキング Super League クラブの歴史の中で初めてプレーオフ。",
+      "title_original": "St Helens 'need a clear out' as recruitment questioned after Leigh defeat",
+      "summary_original": "Jamie Jones-Buchanan believes St Helens need a big rebuild as Eamon O’Carroll’s side missed out on making the Super League play-offs for the first time in the club's history.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13581438/super-league-st-helens-need-a-big-clear-out-as-teams-recruitment-questioned-after-missing-play-offs",
+      "published": "Sat, 05 Sep 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "US Open スコア: Fritz, Gauff, Swiatek アクションで 4pm",
       "summary": "",
       "title_original": "US Open scores: Fritz, Gauff, Swiatek in action from 4pm",
@@ -2362,9 +2377,9 @@
     },
     {
       "title": "セレナとビーナス・ウィリアムズ苦しむアゴナイジング US Open ダブルス 敗北",
-      "summary": "セレナとビーナス・ウィリアムズ敗北に陥った Maya Joint そして、詹皓晴心臓の破壊 US Open 女性のダブルスラッシュ。",
+      "summary": "セレナとビーナス・ウィリアムズ敗北に陥った Maya Joint そして、詹皓晴心臓発作 US Open 女性のダブルスラッシュ。",
       "title_original": "Serena and Venus Williams suffer agonising US Open doubles defeat",
-      "summary_original": "Serena and Venus Williams fell to defeat to Maya Joint and Chan Hao-Ching in a heart breaking US Open women's doubles first-round clash.",
+      "summary_original": "Serena and Venus Williams fell to defeat to Maya Joint and Chan Hao-Ching in a heart-breaking US Open women's doubles first-round clash.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13581587/us-open-serena-and-venus-williams-suffer-agonising-defeat-to-maya-joint-and-chan-hao-ching-in-a-womens-doubles-first-round-epic",
       "published": "Sat, 05 Sep 2026 03:20:00 BST",
@@ -2582,20 +2597,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ペーパー:チェルシービスソウに印を付けるチャンスを提供フェルナンデス交換方法",
-      "summary": "土曜日の新聞から噂を移籍するトップストーリー...",
-      "title_original": "Papers: Chelsea offered chance to sign Bissouma as Fernandez replacement",
-      "summary_original": "The top stories and transfer rumours from Saturday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13581538/chelsea-transfer-news-blues-offered-chance-to-sign-former-tottenham-midfielder-yves-bissouma-paper-talk",
-      "published": "Fri, 04 Sep 2026 22:18:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
