@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T11:49:10.623728+00:00",
+  "updated_at": "2026-09-05T12:07:09.675648+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1517,7 +1517,8 @@
     "Mail David Here": "",
     "Some August": "",
     "Glenn Hoddle": "グレン・ホドル",
-    "Verstappen LIVE": ""
+    "Verstappen LIVE": "",
+    "Ferrari's Lewis Hamilton": ""
   },
   "items": [
     {
@@ -1947,7 +1948,7 @@
       "summary_original": "Updates from St James’ Park, kick-off 12.30pm (BST) Premier League: 10 things to look out for | Mail David Here come the teams! Some August sunshine adds to the sense of optimism and excitement in the ground. Giddy on those rays, Glenn Hoddle predicts either a 3-3 or 2-2 draw. It’s certainly not the case with all Premier League managers but Marco Rose sounds more than happy with Bournemouth’s transfer window. That’s due mainly to keeping hold of key men, particularly midfielder Alex Scott: “Here",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/newcastle-united-v-bournemouth-premier-league-live",
-      "published": "Sat, 05 Sep 2026 11:27:25 GMT",
+      "published": "Sat, 05 Sep 2026 11:50:28 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2361,6 +2362,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Russell は Monza の Hamilton を qualifying に先立ちます",
+      "summary": "George Russell 先に好まれる棒の位置として自身を確立して下さいイタリアグランプリメルセデスの運転者として修飾される Ferrari's Lewis Hamilton 最終的な練習で。",
+      "title_original": "Russell tops Hamilton at Monza ahead of qualifying",
+      "summary_original": "George Russell established himself as pole position favourite ahead of Italian Grand Prix qualifying as the Mercedes driver topped Ferrari's Lewis Hamilton in final practice.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13581629/italian-gp-george-russell-tops-lewis-hamilton-in-final-practice-as-mercedes-appear-to-establish-edge-over-ferrari",
+      "published": "Sat, 05 Sep 2026 12:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フラハム対クリスタル・パレスチームニュース LIVE!",
+      "summary": "",
+      "title_original": "Fulham vs Crystal Palace team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/fulham-vs-crystal-palace/live/559468",
+      "published": "Tue, 11 Aug 2026 14:21:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "イタリアグランプリ: Russell は Hamilton の衝突として最終的な練習をとります Verstappen LIVE!",
       "summary": "",
       "title_original": "Italian GP: Russell tops final practice as Hamilton clashes with Verstappen LIVE!",
@@ -2375,9 +2404,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Preston リード ブラックバーン; シャルトン & アクションの聖人 -EFL LIVE 空に!",
+      "title": "プレスストン、ストークリード、リンカーン州セントスレベル -EFL LIVE スカイに!",
       "summary": "",
-      "title_original": "Preston lead Blackburn; Charlton & Saints in action - EFL LIVE on Sky!",
+      "title_original": "Preston, Stoke lead; Saints level at Lincoln - EFL LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/preston-north-end-vs-blackburn-rovers/live/560551",
@@ -2445,9 +2474,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシー明るいスタート対アストン・ヴィラライブ!",
+      "title": "ジェームズ火災チェルシー正面から Villa LIVE!",
       "summary": "",
-      "title_original": "Chelsea make bright start vs Aston Villa LIVE!",
+      "title_original": "James fires Chelsea in front against Villa LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-women-vs-aston-villa-women/live/575756",
@@ -2466,6 +2495,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-union/news/12040/13580305/south-africa-vs-new-zealand-rassie-erasmus-and-dave-rennies-war-of-words-escalates-with-series-finely-poised",
       "published": "Wed, 02 Sep 2026 10:39:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ブライトン対比リーズチームニュース LIVE!",
+      "summary": "",
+      "title_original": "Brighton vs Leeds team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-leeds-united/live/559466",
+      "published": "Sat, 05 Sep 2026 13:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2592,48 +2635,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13581587/us-open-serena-and-venus-williams-suffer-agonising-defeat-to-maya-joint-and-chan-hao-ching-in-a-womens-doubles-first-round-epic",
       "published": "Sat, 05 Sep 2026 03:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Ruiz Jr カムバックの戦いで敗北したが、再び戦うために誓う",
-      "summary": "Andy Ruiz Jr 相手の衝撃的な勝利で彼のカムバックの試合で殴られた Damian Knyba.",
-      "title_original": "Ruiz Jr defeated in comeback fight but vows to 'fight again'",
-      "summary_original": "Andy Ruiz Jr was beaten in his comeback bout in a shock victory for his opponent Damian Knyba.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13581616/andy-ruiz-jr-loses-comeback-fight-by-unanimous-decision-but-pledges-to-fight-again",
-      "published": "Sat, 05 Sep 2026 08:07:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Greaves は、勝利でより多くの歴史を作る Czech Darts Open",
-      "summary": "Beau Greaves 彼女は最初の女性になったので、よりダーティングな歴史を作り、試合に勝つ PDC's European Tour- 彼女の2 ラウンドの衝突を固定する偉人 Luke Humphries 獲得を問い合わせ Czech Darts Open.",
-      "title_original": "Greaves makes more history with win at Czech Darts Open",
-      "summary_original": "Beau Greaves made more darting history as she became the first woman to win a match on the PDC's European Tour - a feat that secured her a second-round clash with Luke Humphries at the Czech Darts Open.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13581507/beau-greaves-becomes-first-woman-to-win-a-match-on-pdc-european-tour-plays-luke-humphries-next-at-czech-darts-open",
-      "published": "Fri, 04 Sep 2026 20:55:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハントは、シーズンのベストを実行して3 分の3 を取る Diamond League200m の",
-      "summary": "Great Britain's Amy Hunt 女子200m の季節最高峰を決勝で走る Diamond League ブリュッセルで3 位を取った年のイベント。",
-      "title_original": "Hunt runs season's best to take third in Diamond League 200m",
-      "summary_original": "Great Britain's Amy Hunt ran a season's best in the women's 200m at the final Diamond League event of the year as she took third place in Brussels.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/athletics/news/12040/13581562/amy-hunt-british-sprinter-runs-seasons-best-200m-time-to-take-third-in-diamond-league-athletics-meet-in-brussels",
-      "published": "Fri, 04 Sep 2026 22:20:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
