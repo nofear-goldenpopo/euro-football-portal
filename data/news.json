@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T20:05:59.511141+00:00",
+  "updated_at": "2026-09-05T20:24:17.302401+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1658,7 +1658,8 @@
     "Rasmus Hojlund": "",
     "Marcus Thuram": "",
     "Dortmund Lautaro Martínez": "",
-    "Rasmus Højlund": "ラスムス・ホイルンド"
+    "Rasmus Højlund": "ラスムス・ホイルンド",
+    "Swansea LIVE": ""
   },
   "items": [
     {
@@ -2096,6 +2097,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ヨーロッパのサッカー: マルティネズ シール スリリングなコバック のための unbeaten インテル",
+      "summary": "セリエ A チャンピオンラリーを打つナポリ追加された時間 シャーク 0-0 バイエルン・ミュンヘン;ホフェンハイム2-3 ドルトムント ラウタロ・マルティネススコアは91 分インテルから中立2 ゴールダウン へ 確保 a 見事な 3-2 ホーム 勝ち 以上ナポリ, 続行する 100% 彼らの開始セリエ A タイトルの防衛。ナポリ勝負のコースで勝ってみるマッテオ・ポリターノそして、ラスムス・ホイルンドそれらを置きます 2-0 後に 53 分, しかし、マルティネスの第一の目標は、欠損を中止し、Marcus Thuram 同等性8 分",
+      "title_original": "European football: Martínez seals thrilling comeback for unbeaten Inter",
+      "summary_original": "Serie A champions rally to beat Napoli in added time Schalke 0-0 Bayern Munich; Hoffenheim 2-3 Dortmund Lautaro Martínez scored in the 91st minute as Inter rallied from two goals down ⁠to secure a stunning 3-2 home victory over Napoli , continuing their 100% start to their ⁠Serie A title defence. Napoli looked ⁠to be ​on course for victory when Matteo Politano and Rasmus Højlund put them 2-0 up after 53 minutes, but Martínez’s ⁠first goal halved the deficit and Marcus Thuram equalised eight minu",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/05/european-football-ethan-nwaneri-dortmund-hoffenheim-athletic-bilbao-atletico-madrid-inter-napoli",
+      "published": "Sat, 05 Sep 2026 19:50:21 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "グランスナーの主張 VAR はフォレストが反対に勝者を否定した後「主張」だったトッテナム",
       "summary": "オリヴァー・グラスナー偽りなく、不十分な証拠があった Neco Williams’s ゴール対トッテナム、ビデオアシスタントレフリーを accusingPeter Bankes 推測するノッティンガム・フォレストディフェンダーは、それが公式の権威を弱めると取り扱われ、言った。ウィリアムズは、ウィリアムズがゴールラインで頭に頭に頭を向け、後半を貫く途中 Sandro Tonali ボールをクリアにしてから、Morgan Gibbs-White’s ネットに向かってボブルされた努力を抜いた。少なくとも1 つの角度で押されたグラスナー",
       "title_original": "Glasner claims VAR was ‘guessing’ after Forest are denied winner against Spurs",
@@ -2149,20 +2164,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ヨーロッパのフットボール: マルティネス シール スリリングなコバック のための unbeaten インテル",
-      "summary": "セリエ A チャンピオンは勝つために回復しますナポリ獲得を問い合わせアディショナルタイムシャーク 0-0 バイエルン・ミュンヘン;ホフェンハイム2-3 ドルトムント ラウタロ・マルティネス91 分でスコアインテルから中立2 ゴールダウン へ 確保 a 見事な 3-2 ホーム 勝ち 以上ナポリ, 続行する 100% 彼らの開始セリエ A タイトルの防衛。ナポリ勝負のコースで勝ってみるマッテオ・ポリターノそして、ラスムス・ホイルンドそれらを置きます 2-0 後に 53 分, しかし、マルティネスの最初の目標は、逸脱を中止し、Marcus Thuram 同等性8",
-      "title_original": "European football: Martinez seals thrilling comeback for unbeaten Inter",
-      "summary_original": "Serie A champions recover to beat Napoli in stoppage time Schalke 0-0 Bayern Munich; Hoffenheim 2-3 Dortmund Lautaro Martínez scored in the 91st minute as Inter rallied from two goals down ⁠to secure a stunning 3-2 home victory over Napoli , continuing their 100% start to their ⁠Serie A title defence. Napoli looked ⁠to be ​on course for victory when Matteo Politano and Rasmus Højlund put them 2-0 up after 53 minutes, but Martínez’s ⁠first goal halved the deficit and Marcus Thuram equalised eight",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/european-football-ethan-nwaneri-dortmund-hoffenheim-athletic-bilbao-atletico-madrid-inter-napoli",
-      "published": "Sat, 05 Sep 2026 19:50:21 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2488,16 +2489,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヴィラは最初のポイントを取るが、ルーはチャンスを逃しましたハルスタレメイト",
-      "summary": "アストン・ヴィラ最初にピックアッププレミアリーグシーズンのポイントは残っていたが、0〜0 のチャンスを見逃してしまった。ハル・シティ AFC.",
-      "title_original": "Villa take first point but rue missed chances in Hull stalemate",
-      "summary_original": "Aston Villa picked up their first Premier League point of the season, but were left to rue missed chances in their 0-0 draw against Hull City.",
+      "title": "キャリアの最終戦いでテイラーフェイスピリ!",
+      "summary": "",
+      "title_original": "Taylor faces Pili in final fight of career LIVE!",
+      "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13571937/hull-0-0-aston-villa-tigers-remain-unbeaten-as-unai-emerys-200th-game-in-charge-fails-to-bring-much-needed-goal",
-      "published": "Sat, 05 Sep 2026 19:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.skysports.com/boxing/live-blog/12040/13582083/taylor-vs-pili-live-updates-and-result-as-katie-taylor-faces-flora-pili-in-final-fight-of-career-at-croke-park",
+      "published": "Sat, 05 Sep 2026 21:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2516,9 +2517,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ゲームと対をコントロールするスワンシーWrexham LIVE 空に!",
+      "title": "ヴィラは最初のポイントを取るが、ルーはチャンスを逃しましたハルスタレメイト",
+      "summary": "アストン・ヴィラ最初にピックアッププレミアリーグシーズンのポイントは残っていたが、0〜0 のチャンスを見逃してしまった。ハル・シティ AFC.",
+      "title_original": "Villa take first point but rue missed chances in Hull stalemate",
+      "summary_original": "Aston Villa picked up their first Premier League point of the season, but were left to rue missed chances in their 0-0 draw against Hull City.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13571937/hull-0-0-aston-villa-tigers-remain-unbeaten-as-unai-emerys-200th-game-in-charge-fails-to-bring-much-needed-goal",
+      "published": "Sat, 05 Sep 2026 19:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Wrexham は opener 対 Swansea LIVE スカイに!",
       "summary": "",
-      "title_original": "Swansea controlling the game vs Wrexham LIVE on Sky!",
+      "title_original": "Wrexham go close to opener vs Swansea LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/swansea-city-vs-wrexham/live/560555",
@@ -2698,9 +2713,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "VAR ルールセルティック Agrafiotis の後の努力は与えます St Mirren リードライブ! & ハイライト",
+      "title": "ハンドボールがレベルアップするためのスケールアローンセルティック獲得を問い合わせ St Mirren リードライブ! & ハイライト",
       "summary": "",
-      "title_original": "VAR rules out Celtic effort after Agrafiotis gives St Mirren lead LIVE! & highlights",
+      "title_original": "Scales atones for handball to level for Celtic at St Mirren lead LIVE! & highlights",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/st-mirren-vs-celtic/live/558368",
@@ -2750,20 +2765,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Springboks エッジラグビーニュージーランド代表シリーズリードを取るスリラー",
-      "summary": "South Africa 後ろから端まで New Zealand29-24 彼らの 2-1 を先に動かした ferocious 第三テストで 'Rugby's Greatest Rivalry'1 つのゲームが残っているシリーズ。",
-      "title_original": "Springboks edge All Blacks in thriller to take series lead",
-      "summary_original": "South Africa came from behind to edge New Zealand 29-24 in a ferocious third Test that moved them 2-1 ahead in the 'Rugby's Greatest Rivalry' series with one game remaining.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13582037/south-africa-29-24-new-zealand-springboks-edge-thriller-to-take-2-1-series-lead-in-soweto",
-      "published": "Sat, 05 Sep 2026 18:25:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
