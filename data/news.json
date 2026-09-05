@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T22:34:48.781919+00:00",
+  "updated_at": "2026-09-05T22:49:35.877011+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1684,7 +1684,9 @@
     "Omar Berrada": "",
     "Under Brad Arthur": "",
     "Bevan French": "",
-    "Harry Smith’s": ""
+    "Harry Smith’s": "",
+    "The Wrexham": "",
+    "Callum O'Hare": ""
   },
   "items": [
     {
@@ -1754,6 +1756,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Wrexham 上司 Parkinson 言う Swansea captain 持っている 見 レッド",
+      "summary": "The Wrexham ボスはウェールズを主張インテル国民の挑戦 Callum O'Hare'leg-breaker' だった",
+      "title_original": "Wrexham boss Parkinson says Swansea captain should have seen red",
+      "summary_original": "The Wrexham boss claimed the Wales international's challenge on Callum O'Hare was a 'leg-breaker'",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3eq5pl3y41o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 22:18:56 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2077,20 +2093,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'それはではないですチェルシー'標準' - 'frustrating' の McCabe に対して描画アストン・ヴィラ",
-      "summary": "チェルシー' カティ・マッカベは、その結果について説明アストン・ヴィラ2026-27 WSL シーズンは、まだ初期に「パニックする必要はありません」というのも「イライラ」として。",
-      "title_original": "'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa",
-      "summary_original": "Chelsea' Katie McCabe describes their result against Aston Villa as 'frustrating' but also that there's 'no need to panic' as its still early days for the 2026-27 WSL season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62e99y152go?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 15:12:58 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2528,6 +2530,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Aberdeen と Kilmarnock 終了 負け streaks と ドロー",
+      "summary": "Aberdeen と10man Kilmarnock は、両サイドの Pittodrie で Tetchy 0-0 Premiership のドローを引き出すことで、失ったストリークを終端に引き起こしました。",
+      "title_original": "Aberdeen and Kilmarnock end losing streaks with draw",
+      "summary_original": "Aberdeen and 10-man Kilmarnock battled out a tetchy 0-0 Premiership draw at Pittodrie as both sides brought their losing streaks to an end.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/aberdeen-vs-kilmarnock/report/558363",
+      "published": "Sat, 05 Sep 2026 16:50:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ヴィラは最初のポイントを取るが、ルーはチャンスを逃しましたハルスタレメイト",
       "summary": "アストン・ヴィラ最初にピックアッププレミアリーグシーズンのポイントは残っていたが、0〜0 のチャンスを見逃してしまった。ハル・シティ AFC.",
       "title_original": "Villa take first point but rue missed chances in Hull stalemate",
@@ -2598,9 +2614,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "今まで最高の雰囲気をボクシング?クローク・パークアイコンに別れ テイラー",
+      "title": "最高のボクシングの雰囲気は今まで?クローク・パークアイコンに別れ テイラー",
       "summary": "",
-      "title_original": "Boxing greatest atmosphere ever? Croke Park says goodbye to icon Taylor",
+      "title_original": "Greatest boxing atmosphere ever? Croke Park says goodbye to icon Taylor",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/boxing/live-blog/12040/13582083/taylor-vs-pili-live-updates-and-result-as-katie-taylor-faces-flora-pili-in-final-fight-of-career-at-croke-park",
@@ -2776,20 +2792,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Le Fee ペナルティ救助はのために引くサンダーランド獲得を問い合わせブレントフォード",
-      "summary": "Enzo Le Fee 救われたポイントのためのサンダーランド後半のペナルティをディスパッチした後、1-1 のドローを確保ブレントフォード.",
-      "title_original": "Le Fee penalty rescues draw for Sunderland at Brentford",
-      "summary_original": "Enzo Le Fee rescued a point for Sunderland after dispatching his late penalty to secure a 1-1 draw at Brentford.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/brentford-vs-sunderland/report/559465",
-      "published": "Sat, 05 Sep 2026 17:00:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
