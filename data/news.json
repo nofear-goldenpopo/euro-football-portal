@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T21:34:31.541634+00:00",
+  "updated_at": "2026-09-05T21:49:16.390209+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1667,7 +1667,19 @@
     "Thomas Carty": "",
     "Super League's": "",
     "Derby Swansea": "",
-    "Wrexham Nicky Hayen": ""
+    "Wrexham Nicky Hayen": "",
+    "Celtic’s Yang": "",
+    "St Mirren Rangers": "",
+    "Yang Hyun-jun": "",
+    "Nikolas Agrafiotis": "",
+    "Liam Scales": "",
+    "And Yang": "",
+    "Taylor Fritz": "",
+    "Amanda Anisimova": "",
+    "Madison Keys": "マディソン・キーズ",
+    "Flora Pili": "",
+    "Oliver Partington": "",
+    "Leeds Leopards": ""
   },
   "items": [
     {
@@ -2343,13 +2355,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Scottish Premiership: Naderi ストライキレンジャーズ新鮮なシャンクランドの傷害の打撃の後の勝利",
-      "summary": "ダンディー・ユナイテッド FC1-1 で遅いスコア と引く Falkirk KilmarnockAberdeen の stalemate の後の安全な最初のポイントレンジャーズストライカーRyan NaderiIbrox で Motherwell に対する唯一の目標をスコアするギフトを受け入れましたが、彼らはキャプテンを恐れています Lawrence Shankland ハムストリングの怪我がゲームの初期に苦しんでいる後、サイドラインの長い呪文に直面します。ナデリ、8 分にシャンクランドに来た人、処分 Alex Paulsen マザーウェルのゴールキーパーが外にボールを貼り付けようと試みたように",
-      "title_original": "Scottish Premiership: Naderi strikes for Rangers win after fresh Shankland injury blow",
-      "summary_original": "Dundee United score late in 1-1 draw with Falkirk Kilmarnock secure first point after Aberdeen stalemate Rangers striker Ryan Naderi accepted a gift to score the only goal against Motherwell at Ibrox, but they fear their captain Lawrence Shankland faces a lengthy spell on the sidelines after a hamstring injury suffered early on in the game. Naderi, who came on for Shankland in the eighth minute, dispossessed Alex Paulsen as the Motherwell goalkeeper attempted to dribble the ball past him outside",
+      "title": "Scottish Premiership: セルティック'ヤンは、オフを見るために戦いを完了します St Mirren",
+      "summary": "セルティック St Mirren で2-1 を獲得するために後ろから来たレンジャーズビートマザーウェル 1-0 しかし、怪我にシャンクランドを失う Yang Hyun-jun 勝者を勝者として獲得セルティック後ろから来て、印象的なビート St Mirren 側 2-1.St Mirren プレミアシップのトップへ向かった Nikolas Agrafiotis スポットの途中から最初の半分を貫く。Liam Scales ハンドボールでペナルティを隠したが、休憩の6 分後に家を向いたとき、修正した。And Yang カウンタータック・ミッドウェイ・スローオフ",
+      "title_original": "Scottish Premiership: Celtic’s Yang completes fightback to see off St Mirren",
+      "summary_original": "Celtic come from behind to win 2-1 at St Mirren Rangers beat Motherwell 1-0 but lose Shankland to injury Yang Hyun-jun scored the winner as Celtic came from behind to beat an impressive St Mirren side 2-1. St Mirren were heading for the top of the Premiership when Nikolas Agrafiotis netted from the spot midway through the first half. Liam Scales conceded the penalty with a handball but made amends when he headed home six minutes after the break. And Yang finished off a counterattack midway throu",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/05/scottish-premiership-rangers-motherwell-aberdeen-celtic",
-      "published": "Sat, 05 Sep 2026 17:59:53 GMT",
+      "published": "Sat, 05 Sep 2026 21:36:26 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2497,6 +2509,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ガフが進行中 US Open, compatriots Fritz, Anisimova, Keys ノックアウト",
+      "summary": "Coco Gauff 見ているアメリカ人の公共がチェイアに何かを持っていたことを確実に全米オープン一日中4 ラウンドに進んだように Taylor Fritz, Amanda Anisimova そして、マディソン・キーズ苦しんでいる衝撃は敗北します。",
+      "title_original": "Gauff progresses at US Open, compatriots Fritz, Anisimova, Keys knocked out",
+      "summary_original": "Coco Gauff ensured the watching American public had something to cheer at the US Open as she progressed to the fourth round on a day when Taylor Fritz, Amanda Anisimova and Madison Keys suffered shock defeats.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13582102/us-open-coco-gauff-progresses-to-fourth-round-while-compatriots-taylor-fritz-amanda-anisimova-madison-keys-knocked-out",
+      "published": "Sat, 05 Sep 2026 20:29:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ヴィラは最初のポイントを取るが、ルーはチャンスを逃しましたハルスタレメイト",
       "summary": "アストン・ヴィラ最初にピックアッププレミアリーグシーズンのポイントは残っていたが、0〜0 のチャンスを見逃してしまった。ハル・シティ AFC.",
       "title_original": "Villa take first point but rue missed chances in Hull stalemate",
@@ -2511,9 +2537,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ハイライト: ウィガン・スラッシュリーズシールドレースの制御を取るため",
+      "title": "ウィガン・スラッシュリーズシールドレースの制御を取るため",
       "summary": "Wigan Warriors スラッシュリーズ見出しで Rhinos 40-8 を 2 つのポイントをクリアする 2 つのポイントを上に移動 Super League 通常の季節限定ゲームで残ります。",
-      "title_original": "Highlights: Wigan thrash Leeds to take control of Shield race",
+      "title_original": "Wigan thrash Leeds to take control of Shield race",
       "summary_original": "Wigan Warriors thrashed Leeds Rhinos 40-8 at Headingley to move two points clear at the top of Super League with one regular-season game remaining.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13582137/leeds-rhinos-v-wigan-warriors-wigan-hit-40-to-take-control-of-league-leaders-shield-race",
@@ -2553,9 +2579,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Super League LIVE! ウィガンからトップスポットを取るリーズ1 つの円形の左を使って",
+      "title": "Partington: ウィガンは片手を持っています League Leaders' Shield",
       "summary": "",
-      "title_original": "Super League LIVE! Wigan take top spot from Leeds with one round left",
+      "title_original": "Partington: Wigan have one hand on League Leaders' Shield",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13580353/super-league-live-updates-videos-scores-commentary-analysis-as-leeds-rhinos-take-on-wigan-warriors-in-round-26",
@@ -2567,9 +2593,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "テイラーはパックでキャリアの最終的な戦いで Pili に直面しますクローク・パークライブ!",
+      "title": "テイラーは公正な運賃で Pili を打ち負かすクローク・パークファンライブ!",
       "summary": "",
-      "title_original": "Taylor faces Pili in final fight of career at packed Croke Park LIVE!",
+      "title_original": "Taylor beats Pili in fairytale farewell in front of adoring Croke Park fans LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/boxing/live-blog/12040/13582083/taylor-vs-pili-live-updates-and-result-as-katie-taylor-faces-flora-pili-in-final-fight-of-career-at-croke-park",
@@ -2588,6 +2614,34 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13581444/cody-gakpo-outshines-new-liverpool-signing-bradley-barcola-as-elliot-anderson-gives-his-best-rodri-impression-pl-hits-and-misses",
       "published": "Sat, 05 Sep 2026 20:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "テイラーはキャリアの最終的な戦いで Pili を支配しますクローク・パーク",
+      "summary": "Katie Taylor アイルランドのアイコンが支配するようにボクシングに感情的な運賃を入札 Flora Pili パックアウトで彼女の厳格なキャリアの最後の戦いでクローク・パーク土曜日に。",
+      "title_original": "Taylor dominates Pili in final fight of career at Croke Park",
+      "summary_original": "Katie Taylor bid an emotional farewell to boxing as the Irish icon dominated Flora Pili in the final fight of her storied career at a packed out Croke Park on Saturday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13582040/katie-taylor-wins-final-fight-of-boxing-career-after-beating-flora-pili-on-emotional-night-at-dublins-croke-park",
+      "published": "Sat, 05 Sep 2026 22:44:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'我々はそれで1 つの手を得ました!' - PartingtonSuper League タイトルチャンス",
+      "summary": "Oliver Partington 後に話します Wigan Warriors'大勝利オーバーリーズ勝つために彼らの追求のヒョウ League Leaders' Shield.",
+      "title_original": "'We've got one hand on it!' - Partington on Super League title chances",
+      "summary_original": "Oliver Partington speaks after Wigan Warriors' huge win over Leeds Leopards in their pursuit to win the League Leaders' Shield.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13582159/leeds-leopards-vs-wigan-warriors-oliver-partington-fancies-wigans-chances-to-win-the-league-leaders-shield-after-emphatic-win-over-leeds",
+      "published": "Sat, 05 Sep 2026 22:41:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2728,48 +2782,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13581684/walker-cup-niall-shiels-donegan-scoops-up-ball-before-hole-is-conceded",
       "published": "Sat, 05 Sep 2026 13:10:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ノーリッチで勝つシェフィールド・ユナイテッド FC",
-      "summary": "ノリッチは、最初の勝利を保証しました EFL チャンピオンシップ3-1 勝で強い性能を持つシーズンシェフィールド・ユナイテッド FC.",
-      "title_original": "Norwich ease to win at Sheff Utd",
-      "summary_original": "Norwich secured a first away victory of the Sky Bet Championship season with a strong performance in a 3-1 win at Sheffield United.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/sheffield-united-vs-norwich-city/report/560553",
-      "published": "Sat, 05 Sep 2026 17:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Portsmouth は カーディフをオフ",
-      "summary": "ディフェンダーからゴール Conor Shaughnessy そして、Marezi は、彼らが感情的な午後にカーディフ2-0 を打つように、シーズンの最初のホームウィンをポルツマスを獲得しましたフラットン・パーク.",
-      "title_original": "Portsmouth see off Cardiff",
-      "summary_original": "Goals from defender Conor Shaughnessy and Marezi earned Portsmouth their first home win of the season as they beat Cardiff 2-0 on an emotional afternoon at Fratton Park.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/portsmouth-vs-cardiff-city/report/560550",
-      "published": "Sat, 05 Sep 2026 17:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "West Brom 端の過去の Watford",
-      "summary": "Jimmy-Jay Morgan's 四季折々の目標 West Brom's チャンピオンシップでワットフォードを上回る1-0 ホームウィンで明るいスタート。",
-      "title_original": "West Brom edge past Watford",
-      "summary_original": "Jimmy-Jay Morgan's fifth goal of the season extended West Brom's bright start with a 1-0 home win over Watford in the Championship.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/west-bromwich-albion-vs-watford/report/560556",
-      "published": "Sat, 05 Sep 2026 17:15:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
