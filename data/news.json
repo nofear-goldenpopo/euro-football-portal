@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T20:49:36.785465+00:00",
+  "updated_at": "2026-09-05T21:05:56.574342+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1662,7 +1662,10 @@
     "Swansea LIVE": "",
     "Aaron McLean's EFL": "",
     "Croke Park LIVE": "",
-    "Tottenham's Richarlison": ""
+    "Tottenham's Richarlison": "",
+    "Dave Allen's": "",
+    "Thomas Carty": "",
+    "Super League's": ""
   },
   "items": [
     {
@@ -1775,6 +1778,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "3 つのゲームから7 つのポイントハル回復を避けるためにトラックで?",
+      "summary": "生存的な話を解決するのは早いかもしれませんが、新しく進めるハル・シティ AFC ビルドするのに最適なプラットフォームを自分で与えられていますプレミアリーグ.",
+      "title_original": "Seven points from three games - are Hull on track to avoid relegation?",
+      "summary_original": "It might be too early to settle survival talk, but newly promoted Hull City have given themselves the perfect platform to build on in the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8zd574yzyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 20:56:25 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2051,20 +2068,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cgmr1z492k9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 04 Sep 2026 21:31:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Putellas デビュー として London City ビートマンチェスター・ユナイテッドオープン",
-      "summary": "アレクシア・プテジャス彼女のロンドン・シティ・ライオネス自宅側のビートとしてデビューマンチェスター・ユナイテッド2-1 第一試合で Women's Super League 季節限定",
-      "title_original": "Putellas debut as London City beat Man Utd in opener",
-      "summary_original": "Alexia Putellas makes her London City Lionesses debut as the home side beat Manchester United 2-1 in the first game of the Women's Super League season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cn74v6krpvno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 05:28:16 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2506,6 +2509,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "タイヤが丸1 のロープを通って落ちるので、奇妙なファッションで同盟の戦いの端",
+      "summary": "Dave Allen's ヘビー級クラッシュと Thomas Carty 獲得を問い合わせクローク・パークアイルランドのお気に入りが最初のラウンド中にリングから落ちた後、奇妙なコンテストで終了しました。",
+      "title_original": "Allen fight ends in bizarre fashion as Carty falls through ropes in round one",
+      "summary_original": "Dave Allen's heavyweight clash with Thomas Carty at Croke Park ended in a bizarre no contest after the Irish favourite fell out of the ring during the first round.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13582130/david-allen-fight-ends-in-bizarre-fashion-as-thomas-carty-falls-through-ropes-in-round-one-on-katie-taylor-undercard",
+      "published": "Sat, 05 Sep 2026 21:50:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Super League LIVE! ウィガンからトップスポットを取るリーズ1 つの円形の左を使って",
+      "summary": "",
+      "title_original": "Super League LIVE! Wigan take top spot from Leeds with one round left",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13580353/super-league-live-updates-videos-scores-commentary-analysis-as-leeds-rhinos-take-on-wigan-warriors-in-round-26",
+      "published": "Sat, 05 Sep 2026 19:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "テイラーはパックでキャリアの最終的な戦いで Pili に直面しますクローク・パークライブ!",
       "summary": "",
       "title_original": "Taylor faces Pili in final fight of career at packed Croke Park LIVE!",
@@ -2520,23 +2551,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Super League LIVE!トップスポットで閉鎖するウィガンリーズ",
+      "title": "Wrexham と Swansea シェア ポイント で stalemate LIVE 上の スカイ!",
       "summary": "",
-      "title_original": "Super League LIVE! Wigan closing in on top spot against Leeds",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13580353/super-league-live-updates-videos-scores-commentary-analysis-as-leeds-rhinos-take-on-wigan-warriors-in-round-26",
-      "published": "Sat, 05 Sep 2026 19:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Wrexham と Swansea を探して 遅く 勝者 LIVE に スカイ!",
-      "summary": "",
-      "title_original": "Wrexham and Swansea looking for late winner LIVE on Sky!",
+      "title_original": "Wrexham and Swansea share points in stalemate LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/swansea-city-vs-wrexham/live/560555",
@@ -2614,6 +2631,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウィガンは、国内のダブルで、ステートメントが勝つリーズ",
+      "summary": "Wigan Warriors 敗北後、国内ダブルの1 勝以内に移動リーズ Rhinos 40-8 の戦いで Super League's トップ2。",
+      "title_original": "Wigan close in on domestic double with statement win over Leeds",
+      "summary_original": "Wigan Warriors moved within one win of a domestic double after defeating Leeds Rhinos 40-8 in a battle of Super League's top two.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13580363/leeds-rhinos-8-40-wigan-warriors-matt-peets-side-close-in-on-domestic-double-with-statement-win-over-leeds",
+      "published": "Wed, 02 Sep 2026 13:15:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2737,34 +2768,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/st-mirren-vs-celtic/live/558368",
       "published": "Sat, 05 Sep 2026 18:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Late Forbes イコライザーが稼ぐダンディー・ユナイテッド FCFalkirk で描く",
-      "summary": "ダンディー・ユナイテッド FC そして、Falkirk は、Tannadice で干ばつ1-1 ドロー後にスピルスの株式を解決する必要がありました。",
-      "title_original": "Late Forbes equaliser earns Dundee United draw with Falkirk",
-      "summary_original": "Dundee United and Falkirk had to settle for a share of the spoils after a hard-fought 1-1 draw at Tannadice.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/dundee-united-vs-falkirk/report/558364",
-      "published": "Sat, 05 Sep 2026 16:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'あなたたちは今行くことができる' 水からの失敗の試みの後で不満の苛立ち",
-      "summary": "South Africa's Thriston Lawrence 彼が彼のボールを水ハザードから遊ばせるのに失敗したので、不満に見える Omega Masters.",
-      "title_original": "'You guys can go now' | Lawrence frustrated after failed attempt from water",
-      "summary_original": "South Africa's Thriston Lawrence looks frustrated as he fails to play his ball out of a water hazard at the Omega Masters.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13581942/thriston-lawrence-fails-with-attempt-from-water-at-omega-masters",
-      "published": "Sat, 05 Sep 2026 17:23:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
