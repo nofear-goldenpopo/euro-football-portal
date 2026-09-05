@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T09:06:08.204927+00:00",
+  "updated_at": "2026-09-05T09:23:07.780312+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1495,7 +1495,8 @@
     "Sonia Bompastor": "",
     "Aston Villa. Continue": "",
     "Kelly Somers": "",
-    "Stamp Fairtex": "スタンプ・フェアテックス"
+    "Stamp Fairtex": "スタンプ・フェアテックス",
+    "Swansea City": "スウォンジー・シティAFC"
   },
   "items": [
     {
@@ -1597,6 +1598,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Sutton の予測 v Kasabian のフロントマン Serge Pizzorno",
+      "summary": "BBC スポーツサッカーの専門家クリス・サットン Kasabian フロントマン Serge Pizzorno この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
+      "title_original": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
+      "summary_original": "BBC Sport football expert Chris Sutton takes on Kasabian frontman Serge Pizzorno, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 19:58:10 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "WSL でロンドンの側面にガードが変身しましたか?",
       "summary": "獲得を問い合わせ Women's Super League 季節が始まり、アーセナルより良い位置よりもチェルシータイトルに挑戦するには?",
       "title_original": "Has there been a changing of guard for London sides in the WSL?",
@@ -1621,6 +1636,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Swansea と Wrexham collide として大きな賞を受賞",
+      "summary": "スウォンジー・シティ AFC そして、Wrexham は、両方のクラブが目を見ているように高いステークでウエルシュダービーを流すことで会いますプレミアリーグ.",
+      "title_original": "Eyes on big prize as Swansea and Wrexham collide",
+      "summary_original": "Swansea City and Wrexham meet in a mouthwatering Welsh derby with stakes high as both clubs eye the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn1v34ddo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 09:03:04 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1709,20 +1738,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Sutton の予測 v Kasabian のフロントマン Serge Pizzorno",
-      "summary": "BBC スポーツサッカーの専門家クリス・サットン Kasabian フロントマン Serge Pizzorno この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
-      "title_original": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
-      "summary_original": "BBC Sport football expert Chris Sutton takes on Kasabian frontman Serge Pizzorno, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 19:58:10 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ユニーク」とはベリンガムで繁栄しているモウリーニョ'システム",
       "summary": "ジュード・ベリンガムフィットし、彼の上に構築する準備ができている World Cup 彼が最善を尽くすことを目的とする形レアル・マドリードアクセスジョゼ・モウリーニョ.",
       "title_original": "How 'unique' Bellingham is thriving in Mourinho's system",
@@ -1789,20 +1804,6 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リヴァプール、Minteh can still get dream move - Hurzeler を獲得候補に",
-      "summary": "ブライトンログイン Fabian Hurzeler コメント Yankuba MintehSeagulls がダウンした後、まだ「彼の夢を満たす」未来に移動することができますリヴァプールの はウィンガーのオファーです。",
-      "title_original": "Liverpool target Minteh can still get dream move - Hurzeler",
-      "summary_original": "Brighton boss Fabian Hurzeler says Yankuba Minteh can still \"fulfil his dream\" move in future after the Seagulls turned down Liverpool's offers for the winger.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk5g2z3kyxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 10:44:37 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1925,7 +1926,7 @@
       "summary_original": "Buildup, news and discussion before Saturday’s games This weekend’s fixtures | Mail us with your thoughts Back to the WSL and here’s Tom Garry with a morning message. Sonia Bompastor says she expects a competitive, open title race this season, as she prepares to lead her Chelsea side into their home opener against Aston Villa. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/news-buildup-premier-league-newcastle-v-bournemouth-kicks-off-matchday-live",
-      "published": "Sat, 05 Sep 2026 08:50:15 GMT",
+      "published": "Sat, 05 Sep 2026 09:05:49 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
