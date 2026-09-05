@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T08:49:54.597895+00:00",
+  "updated_at": "2026-09-05T09:06:08.204927+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1493,7 +1493,9 @@
     "Superstar-led London City": "",
     "Tom Garry": "",
     "Sonia Bompastor": "",
-    "Aston Villa. Continue": ""
+    "Aston Villa. Continue": "",
+    "Kelly Somers": "",
+    "Stamp Fairtex": "スタンプ・フェアテックス"
   },
   "items": [
     {
@@ -1651,6 +1653,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Football Daily",
+      "summary": "Kelly Somers 獲得を問い合わせブレントフォードヘッドコーチ Keith Andrews.",
+      "title_original": "Football Daily",
+      "summary_original": "Kelly Somers speaks to Brentford head coach Keith Andrews.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p81k5b?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 09:00:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ディーンは、常に法律を適用したと述べていますが、彼はゲームを再生しましたか?",
       "summary": "前の証拠はありますか?プレミアリーグ参考文献 Mike Dean 試合中にミニゲームをプレイするのに使われますか? BBC スポーツは証拠を見てみましょう。",
       "title_original": "Dean says he always applied laws - but which matches did he play games in?",
@@ -1707,20 +1723,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Richarlison omission しない 私の決定 -De Zerbi",
-      "summary": "トッテナムマネージャー ロベルト・デ・ツェルビは、クラブの外でリファリソンを残すという彼の決定ではなかったと述べていますプレミアリーグスチーム",
-      "title_original": "Richarlison omission not my decision - De Zerbi",
-      "summary_original": "Tottenham Hotspur manager Roberto de Zerbi says it was not his decision to leave Richarlison out of the club's Premier League squad.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 22:33:13 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ユニーク」とはベリンガムで繁栄しているモウリーニョ'システム",
       "summary": "ジュード・ベリンガムフィットし、彼の上に構築する準備ができている World Cup 彼が最善を尽くすことを目的とする形レアル・マドリードアクセスジョゼ・モウリーニョ.",
       "title_original": "How 'unique' Bellingham is thriving in Mourinho's system",
@@ -1731,6 +1733,20 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Richarlison omission しない 私の決定 -De Zerbi",
+      "summary": "トッテナムマネージャー ロベルト・デ・ツェルビは、クラブの外でリファリソンを残すという彼の決定ではなかったと述べていますプレミアリーグスチーム",
+      "title_original": "Richarlison omission not my decision - De Zerbi",
+      "summary_original": "Tottenham Hotspur manager Roberto de Zerbi says it was not his decision to leave Richarlison out of the club's Premier League squad.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 22:33:13 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1788,20 +1804,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ルイス・エンリケサインイン新契約拡張するパリ・サンジェルマン宿泊約款",
-      "summary": "パリ・サンジェルマンマネージャールイス・エンリケ3 年合意契約延長2030 年までにクラブで彼を守る。",
-      "title_original": "Luis Enrique signs new deal to extend PSG stay",
-      "summary_original": "Paris St-Germain manager Luis Enrique agrees a three-year contract extension that will keep him at the club until 2030.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c36l79n02r8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 19:43:26 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1923,7 +1925,7 @@
       "summary_original": "Buildup, news and discussion before Saturday’s games This weekend’s fixtures | Mail us with your thoughts Back to the WSL and here’s Tom Garry with a morning message. Sonia Bompastor says she expects a competitive, open title race this season, as she prepares to lead her Chelsea side into their home opener against Aston Villa. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/05/news-buildup-premier-league-newcastle-v-bournemouth-kicks-off-matchday-live",
-      "published": "Sat, 05 Sep 2026 08:37:12 GMT",
+      "published": "Sat, 05 Sep 2026 08:50:15 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2575,6 +2577,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "フェアテックスは、Fores 上で分割決定勝利を獲得",
+      "summary": "スタンプ・フェアテックス獲得を問い合わせ",
+      "title_original": "Fairtex earns split-decision win over Fores",
+      "summary_original": "Stamp Fairtex got her answer.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/mma/news/12040/13581627/one-fight-night-47-stamp-fairtex-silences-her-doubts-with-defiant-split-decision-win-over-selina-flores",
+      "published": "Sat, 05 Sep 2026 09:07:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'It's going to be tight' - Hamilton、'dream' Monza pole を獲得候補に",
       "summary": "Lewis Hamilton「非常に近い」の戦いを予測していますイタリアグランプリモンツァの「ドリーム」のポールポジションだと彼は言うために土曜日に修飾.",
       "title_original": "'It's going to be tight' - Hamilton eyes 'dream' Monza pole",
@@ -2600,20 +2616,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アルパインが表彰台を失う後の「侮辱」ブライエーテルの主張でステラフューム",
-      "summary": "Andrea Stella アルパインチーフの認定を受けているフラビオ・ブリアトーレ再興コンストラクタのチャンピオンと FIA の裁判官との関係を疑って「侮辱」マクラーレンのインテル国民の控訴裁判所。",
-      "title_original": "Stella fumes at 'insulting' Briatore allegations after Alpine lose podium",
-      "summary_original": "Andrea Stella has accused Alpine chief Flavio Briatore of \"insulting\" McLaren by questioning the relationship between the reigning constructors' champions and a judge at the FIA's International Court of Appeal.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13581166/andrea-stella-says-allegations-from-alpine-chief-flavio-briatore-are-insulting-for-mclaren-after-court-rules-on-monaco-podium",
-      "published": "Fri, 04 Sep 2026 16:30:00 BST",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
