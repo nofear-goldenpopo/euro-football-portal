@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T20:24:17.302401+00:00",
+  "updated_at": "2026-09-05T20:36:15.453265+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1659,7 +1659,9 @@
     "Marcus Thuram": "",
     "Dortmund Lautaro Martínez": "",
     "Rasmus Højlund": "ラスムス・ホイルンド",
-    "Swansea LIVE": ""
+    "Swansea LIVE": "",
+    "Aaron McLean's EFL": "",
+    "Croke Park LIVE": ""
   },
   "items": [
     {
@@ -1786,6 +1788,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フォックスの痛みとバーンリー苦しむハンガー -Aaron McLean's EFL テイクアウト",
+      "summary": "Leicester、Millwall、Swindon、Stoke およびバーンリーこの週末の EFL の試合から話しているポイントの中にあります。",
+      "title_original": "Foxes pain and Burnley suffer hangover - Aaron McLean's EFL takeaways",
+      "summary_original": "Leicester, Millwall, Swindon, Stoke and Burnley are among the talking points from this weekend's EFL matches.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czxzyyvk24po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 20:23:01 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2055,24 +2071,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「私は、我々は優秀だったと思った」 - O'Neil 上のリヴァプールバックナンバー",
-      "summary": "イプスウィッチ・タウン FC マネージャーガリー・オニール2-0 敗北にもかかわらず、チームのパフォーマンスを「エクセルレント」と記述リヴァプール獲得を問い合わせポートマン・ロード.",
-      "title_original": "'I thought we were excellent' - O'Neil on Liverpool defeat",
-      "summary_original": "Ipswich Town manager Gary O'Neil describes his team's performance as \"excellent\" despite their 2-0 defeat to Liverpool at Portman Road.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5y4rpj0lx4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 21:47:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハイフライングハル保留中のスタートを保ちながらアストン・ヴィラスタレメイト",
-      "summary": "それは決して鈍くないハル, これらの部分で行くと言うと, ちょうど3 つのゲームの後、プレミアリーグかなりの乗り物になるように証明されていますハル・シティ AFC サポーター 恥ずかしいマンチェスター・ユナイテッド先週末のコベントリーで優勝したのは、このポイントに値し、クリーンシート補強される Sergej Jakirovic’s 彼の男性は低下を打つことができるという信念。続きを読む...",
-      "title_original": "High-flying Hull maintain unbeaten start by holding off Aston Villa in stalemate",
-      "summary_original": "It’s never dull in Hull, as the saying goes in these parts, and after just three games the Premier League is proving to be quite some ride for Hull City supporters. Having embarrassed Manchester United here on the opening day and won at Coventry last weekend, this deserved point and clean sheet will have reinforced Sergej Jakirovic’s belief that his men can beat the drop. Continue reading...",
+      "title": "ハイフライングハル離脱を保ちながらアストン・ヴィラスタレメイト",
+      "summary": "それは決して鈍くないハル, これらの部分で行くと言うと, ちょうど3 つのゲームの後、プレミアリーグかなりの乗り物になるように証明されていますハル・シティ AFC サポーター 恥ずかしいマンチェスター・ユナイテッドここの開始日と Coventry の最後の週末で勝ちました、これは価値があるポイントおよび3 分の成功クリーンシート単に補強される Sergej Jakirovic’s 彼の男性は低下を打つことができるという信念。続きを読む...",
+      "title_original": "High-flying Hull stay unbeaten by holding off Aston Villa in stalemate",
+      "summary_original": "It’s never dull in Hull, as the saying goes in these parts, and after just three games the Premier League is proving to be quite some ride for Hull City supporters. Having embarrassed Manchester United here on the opening day and won at Coventry last weekend , this deserved point and third successive clean sheet merely reinforced Sergej Jakirovic’s belief that his men can beat the drop. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/05/hull-city-aston-villa-premier-league-match-report",
       "published": "Sat, 05 Sep 2026 18:28:55 GMT",
@@ -2489,9 +2491,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "キャリアの最終戦いでテイラーフェイスピリ!",
+      "title": "ヴィラは最初のポイントを取るが、ルーはチャンスを逃しましたハルスタレメイト",
+      "summary": "アストン・ヴィラ最初にピックアッププレミアリーグシーズンのポイントは残っていたが、0〜0 のチャンスを見逃してしまった。ハル・シティ AFC.",
+      "title_original": "Villa take first point but rue missed chances in Hull stalemate",
+      "summary_original": "Aston Villa picked up their first Premier League point of the season, but were left to rue missed chances in their 0-0 draw against Hull City.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/hull-city-vs-aston-villa/report/559469",
+      "published": "Sat, 05 Sep 2026 19:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "テイラーはパックでキャリアの最終的な戦いで Pili に直面しますクローク・パークライブ!",
       "summary": "",
-      "title_original": "Taylor faces Pili in final fight of career LIVE!",
+      "title_original": "Taylor faces Pili in final fight of career at packed Croke Park LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/boxing/live-blog/12040/13582083/taylor-vs-pili-live-updates-and-result-as-katie-taylor-faces-flora-pili-in-final-fight-of-career-at-croke-park",
@@ -2503,9 +2519,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Super League LIVE! リーズと wigan 打破 に crunch 最 の テーブル 衝突",
+      "title": "Super League LIVE!トップスポットで閉鎖するウィガンリーズ",
       "summary": "",
-      "title_original": "Super League LIVE! Leeds and Wigan battling in crunch top-of-table clash",
+      "title_original": "Super League LIVE! Wigan closing in on top spot against Leeds",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13580353/super-league-live-updates-videos-scores-commentary-analysis-as-leeds-rhinos-take-on-wigan-warriors-in-round-26",
@@ -2513,20 +2529,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ヴィラは最初のポイントを取るが、ルーはチャンスを逃しましたハルスタレメイト",
-      "summary": "アストン・ヴィラ最初にピックアッププレミアリーグシーズンのポイントは残っていたが、0〜0 のチャンスを見逃してしまった。ハル・シティ AFC.",
-      "title_original": "Villa take first point but rue missed chances in Hull stalemate",
-      "summary_original": "Aston Villa picked up their first Premier League point of the season, but were left to rue missed chances in their 0-0 draw against Hull City.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13571937/hull-0-0-aston-villa-tigers-remain-unbeaten-as-unai-emerys-200th-game-in-charge-fails-to-bring-much-needed-goal",
-      "published": "Sat, 05 Sep 2026 19:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2713,9 +2715,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ハンドボールがレベルアップするためのスケールアローンセルティック獲得を問い合わせ St Mirren リードライブ! & ハイライト",
+      "title": "ヤン・ストライキセルティック後ろからリードに来る St Mirren LIVE!&ハイライト",
       "summary": "",
-      "title_original": "Scales atones for handball to level for Celtic at St Mirren lead LIVE! & highlights",
+      "title_original": "Yang strikes as Celtic come from behind to lead St Mirren LIVE! & highlights",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/st-mirren-vs-celtic/live/558368",
