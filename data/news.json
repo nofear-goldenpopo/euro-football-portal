@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T16:07:06.602314+00:00",
+  "updated_at": "2026-09-06T16:24:55.778418+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1792,7 +1792,11 @@
     "Monday. But": "",
     "Manchester United. Michael Carrick": "",
     "Late SCENES": "",
-    "Hill Dickinson": ""
+    "Hill Dickinson": "",
+    "Kai Havertz": "",
+    "Maro Itoje": "",
+    "Courtney Lawes": "コートニー・ローズ",
+    "Joe Marchant": ""
   },
   "items": [
     {
@@ -1849,20 +1853,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "なぜ?トッテナム' アンダーザレーダー購入は、夏の最もスマートな移籍かもしれません",
-      "summary": "Kirsty Hanson スワップアストン・ヴィラ獲得を問い合わせトッテナム信じる理由がありますトッテナム採用マスターストロークを脱いで、デビューを脱いで Brisbane Road.",
-      "title_original": "Why Spurs' under-the-radar buy might be summer's smartest deal",
-      "summary_original": "Kirsty Hanson swapped Aston Villa for Tottenham and there is reason to believe Spurs have pulled off a recruitment masterstroke, based off her debut at Brisbane Road.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3d1ky2642o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 13:48:58 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1961,6 +1951,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "なぜ?トッテナム' アンダーザレーダー購入は、夏の最もスマートな移籍かもしれません",
+      "summary": "Kirsty Hanson スワップアストン・ヴィラ獲得を問い合わせトッテナム信じる理由がありますトッテナム採用マスターストロークを脱いで、デビューを脱いで Brisbane Road.",
+      "title_original": "Why Spurs' under-the-radar buy might be summer's smartest deal",
+      "summary_original": "Kirsty Hanson swapped Aston Villa for Tottenham and there is reason to believe Spurs have pulled off a recruitment masterstroke, based off her debut at Brisbane Road.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3d1ky2642o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 13:48:58 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2076,24 +2080,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フェルナンデスそして、エンディアイエ約束の兆候を示すマンチェスター・シティデビュー",
-      "summary": "マンチェスター・シティ期限日の才能の1億8500万ポンド を与えましたプレミアリーグ Coventry の勝利でデビュー - マネージャーEnzo Maresca 彼が見たことを楽しんだ。",
-      "title_original": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-      "summary_original": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 18:04:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Carrick 'disappointed' さんマンチェスター・ユナイテッドゲームが見えない",
-      "summary": "マンチェスター・ユナイテッドログインマイケル・キャリック彼の側面は、ゲームをより困難にした決定をしたと言うエヴァートン怪我タイムイコライザーでポイントを救助 Hill Dickinson Stadium.",
-      "title_original": "Carrick 'disappointed' that Man Utd couldn't see game out",
-      "summary_original": "Manchester United boss Michael Carrick says his side made decisions that made the game more difficult as Everton rescued a point with an injury-time equaliser at the Hill Dickinson Stadium.",
+      "title": "カーリック「失望」マンチェスター・ユナイテッドゲームが見えない",
+      "summary": "マンチェスター・ユナイテッドログインマイケル・キャリック彼の側面は、ゲームをより困難にした決定をしたと言うエヴァートンストップページタイムイコライザーでポイントを救助 Hill Dickinson Stadium.",
+      "title_original": "Carrick 'disappointed' that Man Utd could not see game out",
+      "summary_original": "Manchester United boss Michael Carrick says his side made decisions that made the game more difficult as Everton rescued a point with a stoppage-time equaliser at Hill Dickinson Stadium.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c5ye5178e62o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 16:02:19 GMT",
@@ -2216,13 +2206,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Isak の初期のダブルは、リヴァプール勝上勝利イプスウィッチ",
+      "summary": "アレクサンデル・イサク開口部10 分に2 回スコアリヴァプール優勝を勝ち抜くと、優勝は2-0 勝。イプスウィッチ.",
+      "title_original": "Isak's early double gives Liverpool victory over Ipswich",
+      "summary_original": "Alexander Isak scores twice in the opening ten minutes as Liverpool pick up their first win of the season with a 2-0 victory at Ipswich.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cgmr1z492k9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 21:31:56 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナル. .チェルシー: プレミアリーグ– ライブ",
       "summary": "エミレーツスタジアムでのアクションから数分の更新アーセナルウィンドウが閉じた後の継続上の銀行 そして今、第三の目標... 第二の目標は、Hill Dickinson Stadium. Clickity クリックをクリック! 続きを読む...",
       "title_original": "Arsenal v Chelsea: Premier League – live",
       "summary_original": "Minute-by-minute updates from the action at the Emirates Stadium Arsenal bank on continuity after window closes And now a third goal… There’s been a second goal at Hill Dickinson Stadium. Clickity click click click! Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
-      "published": "Sun, 06 Sep 2026 15:59:38 GMT",
+      "published": "Sun, 06 Sep 2026 16:14:19 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2650,6 +2654,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Dunkley ヒット トン として イングランド clinch ODI シリーズ sweep の アイルランド",
+      "summary": "イングランドは3〜3 日連続で優勝したアイルランドの3〜3 スイープを確保インテル日曜日に Worcester で114 ランによるシリーズの全国。",
+      "title_original": "Dunkley hits ton as England clinch ODI series sweep of Ireland",
+      "summary_original": "England secured a 3-0 sweep of Ireland as they won the third and final one-day international of the series by 114 runs in Worcester on Sunday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13582326/england-clinch-odi-series-sweep-of-ireland-as-sophia-dunkley-hits-second-international-century-in-114-run-win",
+      "published": "Sun, 06 Sep 2026 14:35:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "第19 回 優勝! Antonelli センセーショナル 勝つ スリリングイタリアグランプリ",
       "summary": "Kimi Antonelli 自分の家を勝つために驚くべきコクバックを完了イタリアグランプリメルセデス・チームメイトとの戦後19 位から George Russell.",
       "title_original": "19th to victory! Antonelli sensationally wins thrilling Italian GP",
@@ -2661,6 +2679,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Neto が投稿をヒットアーセナルそして、チェルシースリル満点のダービーLIVE! & ハイライト",
+      "summary": "",
+      "title_original": "Neto hits the post with Arsenal and Chelsea level in thrilling derby LIVE! & highlights",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/arsenal-vs-chelsea/live/559464",
+      "published": "Sun, 06 Sep 2026 14:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2689,20 +2721,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハヴェルツは持って来ますアーセナルレベル対レベルチェルシースリル満点のダービーLIVE! & ハイライト",
-      "summary": "",
-      "title_original": "Havertz brings Arsenal level vs Chelsea in thrilling derby LIVE! & highlights",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-vs-chelsea/live/559464",
-      "published": "Sun, 06 Sep 2026 14:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2762,6 +2780,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ガンナーの「ハヴェルツ」レベル",
+      "summary": "Kai Havertz 近い投稿とレベルでギャップを見つけるアーセナル対比チェルシー.",
+      "title_original": "'Utter precision' as Havertz levels for Gunners",
+      "summary_original": "Kai Havertz finds a gap at the near post and levels for Arsenal vs Chelsea.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13582433/goal-k-havertz-25-arsenal-1-1-chelsea",
+      "published": "Sun, 06 Sep 2026 17:02:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "テイラー ecstatic とクローク・パークスワンソン",
       "summary": "Katie Taylor 先代の戦いで3 回無争世界チャンピオンになったと宣言クローク・パーク装飾されたキャリアの最も特別な瞬間として。",
       "title_original": "Taylor ecstatic with Croke Park swansong",
@@ -2773,6 +2805,34 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Itoje バック に イングランド スクワッド しかし 法律 と マルタン 作られて 待つ",
+      "summary": "Maro Itoje 夏のツアー以来イングランド初のスクワッドに名付けられましたが、コートニー・ローズそして、Joe Marchant 呼ばれる前に販売のために自身を証明しなければなりません。",
+      "title_original": "Itoje back in England squad but Lawes and Marchant made to wait",
+      "summary_original": "Maro Itoje has been named in England's first squad since the summer tour but Courtney Lawes and Joe Marchant must prove themselves for Sale before being recalled.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13582424/england-rugby-squad-captain-maro-itoje-returns-but-courtney-lawes-and-joe-marchant-made-to-wait-after-prem-returns",
+      "published": "Sun, 06 Sep 2026 16:50:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "90+5! Maitland-Niles stuns マンチェスター・ユナイテッドとしてエヴァートンサルベージ 劇的な ドロー",
+      "summary": "マンチェスター・ユナイテッド脈動2-2 のドローイングに開催されましたエヴァートン獲得を問い合わせ Hill Dickinson 先導的な2 倍だが、外航海95 分のレベラーに進むエインズリー・メイトランド＝ナイルズ Toffees デビュー。",
+      "title_original": "90+5! Maitland-Niles stuns Man Utd as Everton salvage dramatic draw",
+      "summary_original": "Manchester United were held to a pulsating 2-2 draw with Everton at the Hill Dickinson after leading twice but conceding to an outrageous 95th-minute leveller from Ainsley Maitland-Niles on his Toffees debut.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/everton-vs-manchester-united/report/559467",
+      "published": "Sun, 06 Sep 2026 16:15:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2818,20 +2878,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "90+5! Maitland-Niles stuns マンチェスター・ユナイテッド獲得するエヴァートン劇的なドローイング",
-      "summary": "マンチェスター・ユナイテッド脈動2-2 のドローイングに開催されましたエヴァートン獲得を問い合わせ Hill Dickinson 先導的な2 倍だが、外航海95 分のレベラーに進むエインズリー・メイトランド＝ナイルズ Toffees デビュー。",
-      "title_original": "90+5! Maitland-Niles stuns Man Utd to earn Everton dramatic draw",
-      "summary_original": "Manchester United were held to a pulsating 2-2 draw with Everton at the Hill Dickinson after leading twice but conceding to an outrageous 95th-minute leveller from Ainsley Maitland-Niles on his Toffees debut.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/everton-vs-manchester-united/report/559467",
-      "published": "Sun, 06 Sep 2026 16:15:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "'That's OUTRAGEOUS!' - Maitland-Niles のオーダシーなストライクレベルエヴァートンデビュー",
       "summary": "エインズリー・メイトランド＝ナイルズポイントをスナッチする最後の分スタンナーをスコアエヴァートン彼らのプレミアリーグクラッシュとマンチェスター・ユナイテッド.",
       "title_original": "'That's OUTRAGEOUS!' - Maitland-Niles' audacious strike levels for Everton on debut",
@@ -2867,48 +2913,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13582370/goal-t-george-83-everton-1-1-manchester-utd",
       "published": "Sun, 06 Sep 2026 15:48:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "WSL:新しい獲得バウムの輝きのためのアーセナルとしてマンチェスター・シティ勝利で防衛を開始します",
-      "summary": "日曜日のアクションを横断するスカイスポーツのラウンドアップ Women's Super League 新しい獲得としてアーセナルそして、トッテナム双方のクラブのために勝つために輝きます。",
-      "title_original": "WSL: New signing Baum shines for Arsenal as Man City start defence with win",
-      "summary_original": "Sky Sports' round-up of Sunday's action across the Women's Super League as new signings for Arsenal and Tottenham shine to secure wins for both clubs.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13581388/womens-super-league-round-up-lisa-baum-shines-on-arsenal-debut-to-beat-brighton-and-tottenham-dominate-west-ham",
-      "published": "Sun, 06 Sep 2026 14:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "FIFA 社長として再選挙に立ち向かうインファンティーノ",
-      "summary": "Gianni Infantino 来年3 月、FIFA 社長として再編を予定",
-      "title_original": "Infantino to stand for re-election as FIFA president",
-      "summary_original": "Gianni Infantino will stand for re-election as FIFA president next March.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582278/gianni-infantino-fifa-president-confirms-he-will-stand-for-re-election-in-march",
-      "published": "Sun, 06 Sep 2026 12:56:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スタートから後半まで! Mbeumo は HT の直後にデッドロックを壊します",
-      "summary": "Bryan Mbeumo ハーフタイム後にデッドロックを右折マンチェスター・ユナイテッド獲得を問い合わせプレミアリーグクラッシュとエヴァートン.",
-      "title_original": "What a start to second half! Mbeumo breaks deadlock right after HT",
-      "summary_original": "Bryan Mbeumo broke the deadlock right after half-time in Manchester United's Premier League clash with Everton.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582349/goal-b-mbeumo-46-everton-0-1-manchester-utd",
-      "published": "Sun, 06 Sep 2026 15:10:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
