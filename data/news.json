@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T12:07:07.985481+00:00",
+  "updated_at": "2026-09-06T12:28:19.921104+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1741,9 +1741,26 @@
     "Olivia Smith": "",
     "Mail Tim Michael Carrick": "",
     "So Matheus Cunha": "",
-    "Benjamin Sesko": "ベンヤミン・シェシュコ"
+    "Benjamin Sesko": "ベンヤミン・シェシュコ",
+    "Mail Tim The": "",
+    "Joshua Keeling": "",
+    "Everton. Feels": ""
   },
   "items": [
+    {
+      "title": "フィファ・プレジデント・インファンティーノが再選挙に立ちます",
+      "summary": "フィファ会長 Gianni Infantino3 月に再編を予定し、世界統治体が確認されています。",
+      "title_original": "Fifa president Infantino will stand for re-election",
+      "summary_original": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 12:26:44 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "アーセナルショートリストに20 人以上のプレーヤーがタイトルの勝利に加わりました",
       "summary": "シニアサッカー対応 Sami Mokbel インサイドアーセナルの は、資本金を請求するプレミアリーグ今年の夏にチームを組んだタイトルと強化。",
@@ -1801,6 +1818,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リヴァプール1 月1 日はサールで動くかもしれません -日曜日の移籍ゴシップ",
+      "summary": "リヴァプール別の動きを作るかもしれないクリスタル・パレスウィンガーイスマイラ・サール1 月1 日トッテナムの Richarlison は、サウジ スイッチを探すことができます。",
+      "title_original": "Liverpool may make January move for Sarr - Sunday's gossip",
+      "summary_original": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 20:24:26 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "使い方マンチェスター・ユナイテッド大規模なライバルとトップで競争する計画",
       "summary": "マネージャーマイケル・キャリック執行役員 Omar Berrada 自分の視点で統一されているマンチェスター・ユナイテッドクラブの比較的低い夏の過ごしにもかかわらず、成功することができます。",
       "title_original": "How Man Utd plan to compete at top with big-spending rivals",
@@ -1829,20 +1860,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "グラスナーとウィリアムズの紛争 VAR はフォレストハンドボールの上にコール",
-      "summary": "ノッティンガム・フォレストマネージャーオリヴァー・グラスナーそして、Neco WilliamsVAR は、守備者の目標を守らないようにするトッテナム.",
-      "title_original": "Glasner and Williams dispute VAR call over Forest handball",
-      "summary_original": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 18:36:28 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ロビンソンにふさわしいファンが、アバディーンで何が間違っているのか?",
       "summary": "4 つ目の直後に Scottish Premiership ゴールのないゲームと、ちょうど1 人のリーグがこのシーズンに勝つ、アバディーンと何が間違っている?",
       "title_original": "Fans furious with Robinson, but what is going wrong at Aberdeen?",
@@ -1850,20 +1867,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ced7257g7l0o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 10:57:44 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フォックスの痛みとバーンリー苦しむハンガー -Aaron McLean's EFL テイクアウト",
-      "summary": "Leicester、Millwall、Swindon、Stoke およびバーンリーこの週末の EFL の試合から話しているポイントの中にあります。",
-      "title_original": "Foxes pain and Burnley suffer hangover - Aaron McLean's EFL takeaways",
-      "summary_original": "Leicester, Millwall, Swindon, Stoke and Burnley are among the talking points from this weekend's EFL matches.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czxzyyvk24po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 20:23:01 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1969,6 +1972,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "フォックスの痛みとバーンリー苦しむハンガー -Aaron McLean's EFL テイクアウト",
+      "summary": "Leicester、Millwall、Swindon、Stoke およびバーンリーこの週末の EFL の試合から話しているポイントの中にあります。",
+      "title_original": "Foxes pain and Burnley suffer hangover - Aaron McLean's EFL takeaways",
+      "summary_original": "Leicester, Millwall, Swindon, Stoke and Burnley are among the talking points from this weekend's EFL matches.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czxzyyvk24po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 20:23:01 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "グラスナーとウィリアムズの紛争 VAR はフォレストハンドボールの上にコール",
+      "summary": "ノッティンガム・フォレストマネージャーオリヴァー・グラスナーそして、Neco WilliamsVAR は、守備者の目標を守らないようにするトッテナム.",
+      "title_original": "Glasner and Williams dispute VAR call over Forest handball",
+      "summary_original": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 18:36:28 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Wrexham 上司 Parkinson 言う Swansea captain 持っている 見 レッド",
       "summary": "The Wrexham ボスはウェールズを主張インテル国民の挑戦 Callum O'Hare'leg-breaker' だった",
       "title_original": "Wrexham boss Parkinson says Swansea captain should have seen red",
@@ -1980,20 +2011,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Fulham booed オフ 後に 第三 敗北 に 行",
-      "summary": "Fulham は 3-2 に続く一部のサポーターによって起動されます。プレミアリーグで敗北クリスタル・パレス獲得を問い合わせクレイヴン・コテージ.",
-      "title_original": "Fulham booed off after third defeat in a row",
-      "summary_original": "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zqp52pr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 18:28:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2025,17 +2042,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプール1 月1 日はサールで動くかもしれません -日曜日の移籍ゴシップ",
-      "summary": "リヴァプール別の動きを作るかもしれないクリスタル・パレスウィンガーイスマイラ・サール1 月1 日トッテナムの Richarlison は、サウジ スイッチを探すことができます。",
-      "title_original": "Liverpool may make January move for Sarr - Sunday's gossip",
-      "summary_original": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
+      "title": "Fulham booed オフ 後に 第三 敗北 に 行",
+      "summary": "Fulham は 3-2 に続く一部のサポーターによって起動されます。プレミアリーグで敗北クリスタル・パレス獲得を問い合わせクレイヴン・コテージ.",
+      "title_original": "Fulham booed off after third defeat in a row",
+      "summary_original": "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 20:24:26 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zqp52pr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 18:28:00 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2151,27 +2168,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「私たちの最高の最初の半分の1」 -Le Bris 獲得を問い合わせブレントフォードログイン",
-      "summary": "サンダーランドマネージャーRegis Le Bris 自分の側面が「自分の最高の半分の1」を果たしていると主張するプレミアリーグ, しかし、その1-1 の描画に従ったすべての3 つのポイントを取る機会を rued ブレントフォード.",
-      "title_original": "'One of our best first halves' - Le Bris pleased despite Brentford draw",
-      "summary_original": "Sunderland manager Regis Le Bris claims his side played \"one of their best halves\" in the Premier League, but rued the opportunity to take all three points following their 1-1 draw at Brentford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckgxzygyd3ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 18:04:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ブライトン. .アーセナル: Women’s Super League– ライブ",
       "summary": "12pm(BST)のキックオフ WSL 移籍ポイントから数分の更新 |Email Rob1 分:アーセナルオフから静かにボールを渡す。Lisa Baum そして、Olivia SmithRusso の上の翼のエーテルの側面をパトロールしています。ピープピープピープ そして、私たちはオフです。ブライトン青で。アーセナルイエローシャツと青のショートパンツ。続きを読む...",
       "title_original": "Brighton v Arsenal: Women’s Super League – live",
       "summary_original": "Minute-by-minute updates from 12pm (BST) kick-off WSL transfer talking points | Email Rob 1 min: Arsenal pass the ball around serenely from the off. Lisa Baum and Olivia Smith are patrolling the wings ether side of Russo up top. Peep peep! And we’re off. Brighton in blue. Arsenal in yellow shirts and blue shorts. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/06/brighton-v-arsenal-womens-super-league-live",
-      "published": "Sun, 06 Sep 2026 11:48:29 GMT",
+      "published": "Sun, 06 Sep 2026 12:14:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2180,12 +2183,12 @@
     },
     {
       "title": "エヴァートン. .マンチェスター・ユナイテッド: プレミアリーグ– ライブ",
-      "summary": "アクションから数分の更新 Hill Dickinson Stadium Transfer 障害は残しますエヴァートンスクランブル | メールティムマイケル・キャリック, モーゼスの下でプレーした人 で 彼の 季節 にオールド・トラッフォード物事を着実に保ち、変更されていないチーム名を名付けます。So Matheus Cunha 偽 9 のように続くマーカス・ラッシュフォード後から9 番目で11 番目として2 番目連続スタート。ベンヤミン・シェシュコ, 唯一の目標を獲得した人エヴァートン2 月は、ベンチに残っています。David Moyesth から 1 つの変更を作る必要があります。",
+      "summary": "アクションから数分の更新 Hill Dickinson Stadium Transfer 障害は残しますエヴァートンスクランブル |Mail Tim The 最初のメールは、Joshua Keeling. 「ここのユナイテッドファン」と彼は言います。「3 つの結果がすべてできると同意する」 決して簡単ではありません。エヴァートン. ユナイテッドは、次の週のダービーの先を勝ち取る必要があるように感じます。はい... 彼らはおそらく長い前に5 試合のこのミニシーズンで1 敗北しか余裕がないかもしれませんインテル国民の休憩、そして彼らは最初のオポポでそれを使用しました",
       "title_original": "Everton v Manchester United: Premier League – live",
-      "summary_original": "Minute-by-minute updates from the action at Hill Dickinson Stadium Transfer failures leave Everton scrambling | Mail Tim Michael Carrick, who played under Moyes in his season at Old Trafford, keeps things steady too and names an unchanged team. So Matheus Cunha continues as the false 9, Marcus Rashford gets a second successive start as the 11 with a 9 on his back, and Benjamin Sesko, who scored the only goal at Everton in February, remains on the bench. David Moyes had to make one change from th",
+      "summary_original": "Minute-by-minute updates from the action at Hill Dickinson Stadium Transfer failures leave Everton scrambling | Mail Tim The first email comes in from Joshua Keeling. “United fan here,” he says. “Agree that all three results are possible. It’s never easy, going to Everton. Feels like United need to win today ahead of the derby next week.” Yes … they could probably only afford one defeat in this mini-season of five matches before the long international break, and they used it up at the first oppo",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/06/everton-v-manchester-united-premier-league-live",
-      "published": "Sun, 06 Sep 2026 11:56:39 GMT",
+      "published": "Sun, 06 Sep 2026 12:09:53 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2599,9 +2602,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Dunkley departs for 119 as England、big total vs Ireland LIVE!を獲得候補に",
+      "title": "イングランド 7 ダウンが大きな合計対を目指す Ireland LIVE!",
       "summary": "",
-      "title_original": "Dunkley departs for 119 as England eye big total vs Ireland LIVE!",
+      "title_original": "England seven down but eyeing big total vs Ireland LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13581569/england-vs-ireland-third-womens-odi-live-cricket-score-updates-video-and-analysis-from-final-match-of-series-in-worcester",
@@ -2662,6 +2665,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13582169/us-open-naomi-osaka-takes-care-of-business-against-elise-mertens-while-iva-jovic-edges-out-good-friend-alex-eala-in-thriller",
       "published": "Sun, 06 Sep 2026 04:50:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "FIFA 社長として再選挙に立ち向かうインファンティーノ",
+      "summary": "Gianni Infantino 来年3 月、FIFA 社長として再編を予定",
+      "title_original": "Infantino to stand for re-election as FIFA president",
+      "summary_original": "Gianni Infantino will stand for re-election as FIFA president next March.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13582278/gianni-infantino-fifa-president-confirms-he-will-stand-for-re-election-in-march",
+      "published": "Sun, 06 Sep 2026 12:56:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2848,20 +2865,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "最高のボクシングの雰囲気は今まで?クローク・パークアイコンに別れ テイラー",
-      "summary": "",
-      "title_original": "Greatest boxing atmosphere ever? Croke Park says goodbye to icon Taylor",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/live-blog/12040/13582083/taylor-vs-pili-live-updates-and-result-as-katie-taylor-faces-flora-pili-in-final-fight-of-career-at-croke-park",
-      "published": "Sat, 05 Sep 2026 21:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
