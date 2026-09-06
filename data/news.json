@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T10:06:11.971568+00:00",
+  "updated_at": "2026-09-06T10:24:07.556071+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1714,7 +1714,13 @@
     "Scott Bain": "",
     "Russell Martin": "",
     "Worcester. Watch": "",
-    "Sky Sports Cricket": "Sky Sports"
+    "Sky Sports Cricket": "Sky Sports",
+    "Email Rob Brighton Nnadozie": "",
+    "Haley. Subs": "",
+    "Murphy. Arsenal Misa": "",
+    "Russo. Subs": "",
+    "Cooney-Cross. Continue": "",
+    "WSL LIVE": ""
   },
   "items": [
     {
@@ -2144,7 +2150,21 @@
       "summary_original": "Buildup, news and discussion before Sunday’s games This weekend’s fixtures | Mail us with your thoughts Dave Estherby gets in touch: “Not sure about the pile-on for Russell Martin - it takes a very select set of skills to make three teams in succession worse. Love to know the odds on him being the next Tottenham manager.” Trouble at Fulham? Crystal Palace made it three defeats in three in the Premier League. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-host-chelsea-and-manchester-united-travel-to-everton-matchday-live",
-      "published": "Sun, 06 Sep 2026 09:57:21 GMT",
+      "published": "Sun, 06 Sep 2026 10:16:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ブライトン. .アーセナル: Women’s Super League– ライブ",
+      "summary": "12pm(BST)のキックオフ WSL 移籍ポイントから数分の更新 | 電子メールロブブライトン Nnadozie, Rule, Hayes, Minami, ヴァネガ, ワリ, Symonds, Seike, Kirby, Olislagers,Haley. Subs: Loeck, Heeps, George, Joramo, Rayner, Tvedten, Garcia, Peskett, Murphy.アーセナル Misa、Batlle、ウィリアムソン、キャリー、フォックス、リトル、スタンウェイ、バウム、カルデンシー、スミス、Russo. Subs: Borbe、Wubben-Moy、Foord、Maanum、ケリー、ヒンディーズ、Blackstenius、ホルムベルク、Cooney-Cross. Continue 読書...",
+      "title_original": "Brighton v Arsenal: Women’s Super League – live",
+      "summary_original": "Minute-by-minute updates from 12pm (BST) kick-off WSL transfer talking points | Email Rob Brighton Nnadozie, Rule, Hayes, Minami, Vanegas, Walti, Symonds, Seike, Kirby, Olislagers, Haley. Subs: Loeck, Heeps, George, Joramo, Rayner, Tvedten, Garcia, Peskett, Murphy. Arsenal Misa, Batlle, Williamson, Catley, Fox, Little, Stanway, Baum, Caldentey, Smith, Russo. Subs: Borbe, Wubben-Moy, Foord, Maanum, Kelly, Hinds, Blackstenius, Holmberg, Cooney-Cross. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/06/brighton-v-arsenal-womens-super-league-live",
+      "published": "Sun, 06 Sep 2026 10:16:25 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2233,20 +2253,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "オウンゴールそして、キーパーからデビューした Akane Okuma ヴィラポイントを獲得チェルシー",
-      "summary": "ツイート Veerle Buurman オウンゴール罰された有資格者チェルシー獲得を問い合わせ Stamford Bridge、ポイントの確保アストン・ヴィラ WSL のタイトルを戻すためにホストのプッシュへのイライラ開始で。How Villa65%の所持を争い、わずか7 枚のショットを思い浮かべるポイントを離れました。チェルシー’s 34 と 5 は、自宅のチームの 57 に反対のボックスに触発します。続きを読む...",
-      "title_original": "Own goal and inspired debut from keeper Akane Okuma earn Villa point at Chelsea",
-      "summary_original": "A Veerle Buurman own goal punished a profligate Chelsea at Stamford Bridge, securing a point for Aston Villa in a frustrating start to the hosts’ push to win back the WSL title. How Villa came away with a point having conceded 65% possession and having amassed just seven shots to Chelsea’s 34 and five touches in the opposition box to the home team’s 57 is somewhat inexplicable. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/chelsea-aston-villa-wsl-match-report",
-      "published": "Sat, 05 Sep 2026 13:45:01 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2558,9 +2564,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Ireland bowl first as England、ODI series sweep LIVE!を獲得候補に",
+      "title": "ブチアーはイギリスが ODI 対に強いスタートをしてから出発します Ireland LIVE!",
       "summary": "",
-      "title_original": "Ireland bowl first as England eye ODI series sweep LIVE!",
+      "title_original": "Bouchier departs after England make strong start to ODI vs Ireland LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13581569/england-vs-ireland-third-womens-odi-live-cricket-score-updates-video-and-analysis-from-final-match-of-series-in-worcester",
@@ -2625,6 +2631,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "WSL LIVE 空に!ブライトン対比アーセナルヘッドライン早期キックオフ",
+      "summary": "",
+      "title_original": "WSL LIVE on Sky! Brighton vs Arsenal headlines early kick-offs",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-women-vs-arsenal-women/live/575757",
+      "published": "Sun, 06 Sep 2026 11:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2754,6 +2774,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "シャルトン: チャレンジした元発電所アーセナル WSL に戻ってきます",
+      "summary": "90 年代から00 年代にかけて、シャールトンは女子サッカーのパワーハウスでした。定期的な競争アーセナルそして、複数のカップ決勝では、イングランドのトップフライトに戻るために19 年を連れて行った。",
+      "title_original": "Charlton: The former powerhouse that challenged Arsenal is back in the WSL",
+      "summary_original": "In the 90s and 00s, Charlton were a powerhouse in women's football. Regularly competing with Arsenal and in multiple cup finals, it has taken them 19 years to return to the top flight in England.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13576629/charlton-women-how-former-powerhouse-that-challenged-arsenal-and-won-the-fa-cup-is-back-in-the-wsl",
+      "published": "Wed, 02 Sep 2026 12:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "最高のボクシングの雰囲気は今まで?クローク・パークアイコンに別れ テイラー",
       "summary": "",
       "title_original": "Greatest boxing atmosphere ever? Croke Park says goodbye to icon Taylor",
@@ -2803,34 +2837,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/news/12040/13582148/super-league-proving-difference-between-champions-and-challengers-wigan-warriors-show-leeds-rhinos-how-it-is-done",
       "published": "Sat, 05 Sep 2026 22:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Van Dam: Europe Junior Solheim Cup チームは勝つために最後のパットと戦う",
-      "summary": "Team Europe's PING Junior Solheim Cup キャプテン Anne Van Dam 彼女の側はトロフィーを戻すのに非常に良いチャンスを持っていると信じています Team USA 獲得を問い合わせ Bernardus Golf 今週は、彼女の選手を追加して「最後のパットに戦う」勝利を確保します。",
-      "title_original": "Van Dam: Europe Junior Solheim Cup team will fight to last putt to win",
-      "summary_original": "Team Europe's PING Junior Solheim Cup captain Anne Van Dam believes her side have a very good chance of winning back the trophy from Team USA at Bernardus Golf this week, adding her players will \"fight to the last putt\" to secure victory.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13581656/ping-junior-solheim-cup-europe-captain-anne-van-dam-says-her-side-will-fight-to-last-putt-to-win",
-      "published": "Sun, 06 Sep 2026 07:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Czech Darts Open: ハルモリは、リトルマーチとしてグレブをノックアウト",
-      "summary": "防衛王者 Luke Humphries 終了いたしました。Beau Greaves' 歴史的なランニング Czech Darts Open 土曜日の夜に6-2 勝利で。",
-      "title_original": "Czech Darts Open: Humphries knocks out Greaves as Littler marches on",
-      "summary_original": "Defending champion Luke Humphries ended Beau Greaves' historic run at the Czech Darts Open with a 6-2 victory on Saturday night.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13581713/czech-darts-open-luke-humphries-knocks-out-beau-greaves-as-luke-littler-and-michael-van-gerwen-also-win",
-      "published": "Sat, 05 Sep 2026 13:55:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
