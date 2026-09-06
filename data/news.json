@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T08:06:40.660544+00:00",
+  "updated_at": "2026-09-06T08:25:57.731368+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1708,7 +1708,10 @@
     "Ipswich. With": "",
     "Russell Martin’s": "",
     "The Foxes": "",
-    "Mark Harris": ""
+    "Mark Harris": "",
+    "Is Bain": "",
+    "With Sebastien Pocognoli": "",
+    "Scott Bain": ""
   },
   "items": [
     {
@@ -1768,20 +1771,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Wrexham 上司 Parkinson 言う Swansea captain 持っている 見 レッド",
-      "summary": "The Wrexham ボスはウェールズを主張インテル国民の挑戦 Callum O'Hare'leg-breaker' だった",
-      "title_original": "Wrexham boss Parkinson says Swansea captain should have seen red",
-      "summary_original": "The Wrexham boss claimed the Wales international's challenge on Callum O'Hare was a 'leg-breaker'",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3eq5pl3y41o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 22:18:56 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "フェルナンデスそして、エンディアイエ約束の兆候を示すマンチェスター・シティデビュー",
       "summary": "マンチェスター・シティ期限日の才能の1億8500万ポンド を与えましたプレミアリーグ Coventry の勝利でデビュー - マネージャーEnzo Maresca 彼が見たことを楽しんだ。",
       "title_original": "Fernandez and Ndiaye show signs of promise on Man City debuts",
@@ -1793,20 +1782,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "誰が運ぶかレンジャーズ「重要な」の後の目標の脅威 シャンクランド傷害か。",
-      "summary": "レンジャーズキャプテン Lawrence Shankland「重要な」ハムストリングの怪我をピックアップした後、サイドラインの呪文をセットします Saturday's Scottish Premiership マザーウェルの勝利。",
-      "title_original": "Who will carry Rangers' goal threat after 'significant' Shankland injury?",
-      "summary_original": "Rangers captain Lawrence Shankland is set for a spell on the sidelines after picking up a \"significant\" hamstring injury in Saturday's Scottish Premiership victory over Motherwell.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3640rrp1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 18:49:30 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1824,6 +1799,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Is Bain スコットランドのナンバーワン?",
+      "summary": "With Sebastien Pocognoli スコットランドの遊び方を変えるために、Scott Bain 目標管理の問題に対する答えは?",
+      "title_original": "Is Bain on course to be Scotland's number one?",
+      "summary_original": "With Sebastien Pocognoli looking to change the way Scotland play, might Scott Bain be the answer to his goalkeeping problems?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62jn6n0rvlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 07:56:52 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フォックスの痛みとバーンリー苦しむハンガー -Aaron McLean's EFL テイクアウト",
       "summary": "Leicester、Millwall、Swindon、Stoke およびバーンリーこの週末の EFL の試合から話しているポイントの中にあります。",
       "title_original": "Foxes pain and Burnley suffer hangover - Aaron McLean's EFL takeaways",
@@ -1835,6 +1824,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Wrexham 上司 Parkinson 言う Swansea captain 持っている 見 レッド",
+      "summary": "The Wrexham ボスはウェールズを主張インテル国民の挑戦 Callum O'Hare'leg-breaker' だった",
+      "title_original": "Wrexham boss Parkinson says Swansea captain should have seen red",
+      "summary_original": "The Wrexham boss claimed the Wales international's challenge on Callum O'Hare was a 'leg-breaker'",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3eq5pl3y41o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 22:18:56 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1964,6 +1967,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "誰が運ぶかレンジャーズ「重要な」の後の目標の脅威 シャンクランド傷害か。",
+      "summary": "レンジャーズキャプテン Lawrence Shankland「重要な」ハムストリングの怪我をピックアップした後、サイドラインの呪文をセットします Saturday's Scottish Premiership マザーウェルの勝利。",
+      "title_original": "Who will carry Rangers' goal threat after 'significant' Shankland injury?",
+      "summary_original": "Rangers captain Lawrence Shankland is set for a spell on the sidelines after picking up a \"significant\" hamstring injury in Saturday's Scottish Premiership victory over Motherwell.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3640rrp1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 18:49:30 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Leicester の Martin の次は「かなりのパフォーマンス」ですか?",
       "summary": "フォーチュン、フォックス、上司のターンアラウンドは、第3 層で偽装し続けています。",
       "title_original": "'That's a sackable performance' - what next for Martin at Leicester?",
@@ -2031,20 +2048,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッドミッドフィールドの採用夏の優先順位を上げました - 今何が起こるか?",
-      "summary": "マイケル・キャリックコメントマンチェスター・ユナイテッド1億5000万ポンド の夏の募集キャンペーンに続くミッドフィールドでの残高を持っている - 誰が再生する?",
-      "title_original": "Man Utd made midfield recruitment summer priority - what happens now?",
-      "summary_original": "Michael Carrick says Manchester United have balance in their midfield following a £150m summer recruitment campaign - so who plays?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gq2v5m5gpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 05:56:59 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
