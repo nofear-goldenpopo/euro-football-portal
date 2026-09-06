@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T11:05:52.092392+00:00",
+  "updated_at": "2026-09-06T11:23:22.027337+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1734,7 +1734,11 @@
     "England. With Little": "",
     "For Brighton": "",
     "Email Rob Peep": "",
-    "Broadfield Stadium": ""
+    "Broadfield Stadium": "",
+    "Asian Games-bound Yang": "",
+    "Asian Games": "アジア競技大会",
+    "Email Rob": "",
+    "Olivia Smith": ""
   },
   "items": [
     {
@@ -1780,6 +1784,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "いくらになるかセルティック獲得を問い合わせアジア競技大会- ヤンゴン?",
+      "summary": "Yang Hyun-jun 自分の重要性を示すセルティック重要な目標に反する St Mirren 頭を切る前にアジア競技大会.",
+      "title_original": "How much will Celtic miss Asian Games-bound Yang?",
+      "summary_original": "Yang Hyun-jun illustrated his importance to Celtic with a vital goal against St Mirren before heading off for the Asian Games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zr7jjpero?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 11:02:04 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "使い方マンチェスター・ユナイテッド大規模なライバルとトップで競争する計画",
       "summary": "マネージャーマイケル・キャリック執行役員 Omar Berrada 自分の視点で統一されているマンチェスター・ユナイテッドクラブの比較的低い夏の過ごしにもかかわらず、成功することができます。",
       "title_original": "How Man Utd plan to compete at top with big-spending rivals",
@@ -1822,13 +1840,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Is Bain スコットランドのナンバーワン?",
-      "summary": "With Sebastien Pocognoli スコットランドの遊び方を変えるために、Scott Bain 目標管理の問題に対する答えは?",
-      "title_original": "Is Bain on course to be Scotland's number one?",
-      "summary_original": "With Sebastien Pocognoli looking to change the way Scotland play, might Scott Bain be the answer to his goalkeeping problems?",
+      "title": "ロビンソンにふさわしいファンが、アバディーンで何が間違っているのか?",
+      "summary": "4 つ目の直後に Scottish Premiership ゴールのないゲームと、ちょうど1 人のリーグがこのシーズンに勝つ、アバディーンと何が間違っている?",
+      "title_original": "Fans furious with Robinson, but what is going wrong at Aberdeen?",
+      "summary_original": "After a fourth straight Scottish Premiership game without a goal and just one league win this season, what is wrong with Aberdeen?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62jn6n0rvlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 07:56:52 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ced7257g7l0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 10:57:44 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1860,6 +1878,34 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "森と森トッテナムドローイングでゴールドラマを捨てた後、無敗のまま",
+      "summary": "トッテナム初めて待っていますプレミアリーグスクレーピード後のシーズンの勝利ノッティンガム・フォレスト.",
+      "title_original": "Forest and Spurs remain winless after disallowed goal drama in draw",
+      "summary_original": "Tottenham are still waiting for their first Premier League win of the season after a scrappy draw at Nottingham Forest.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4g589gkdepo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 19:00:36 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハーランドヘッダは完璧な勝利の始まりを維持しますマンチェスター・シティ",
+      "summary": "マンチェスター・シティ3 の後の 100% の勝利の記録を維持することによって彼らの初期のシーズンの資格情報を強調表示プレミアリーグゲーム, しかし、新しく推進されたコベントリーはまだキャンペーンの彼らの最初のポイントを検索するために残すために主張する必要がありました.",
+      "title_original": "Haaland header maintains perfect winning start for Man City",
+      "summary_original": "Manchester City highlighted their early season credentials by maintaining their 100% winning record after three Premier League games, but had to cling on to leave newly promoted Coventry still searching for their first point of the campaign.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2zg0zl0nyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 19:00:39 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -1962,13 +2008,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "誰が運ぶかレンジャーズ「重要な」の後の目標の脅威 シャンクランド傷害か。",
-      "summary": "レンジャーズキャプテン Lawrence Shankland「重要な」ハムストリングの怪我をピックアップした後、サイドラインの呪文をセットします Saturday's Scottish Premiership マザーウェルの勝利。",
-      "title_original": "Who will carry Rangers' goal threat after 'significant' Shankland injury?",
-      "summary_original": "Rangers captain Lawrence Shankland is set for a spell on the sidelines after picking up a \"significant\" hamstring injury in Saturday's Scottish Premiership victory over Motherwell.",
+      "title": "Is Bain スコットランドのナンバーワン?",
+      "summary": "With Sebastien Pocognoli スコットランドの遊び方を変えるために、Scott Bain 目標管理の問題に対する答えは?",
+      "title_original": "Is Bain on course to be Scotland's number one?",
+      "summary_original": "With Sebastien Pocognoli looking to change the way Scotland play, might Scott Bain be the answer to his goalkeeping problems?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3640rrp1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 18:49:30 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62jn6n0rvlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 07:56:52 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1976,13 +2022,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Leicester の Martin の次は「かなりのパフォーマンス」ですか?",
-      "summary": "フォーチュン、フォックス、上司のターンアラウンドは、第3 層で偽装し続けています。",
-      "title_original": "'That's a sackable performance' - what next for Martin at Leicester?",
-      "summary_original": "Tipped for a turnaround in fortunes, the Foxes and their boss continue to falter in the third tier.",
+      "title": "誰が運ぶかレンジャーズ「重要な」の後の目標の脅威 シャンクランド傷害か。",
+      "summary": "レンジャーズキャプテン Lawrence Shankland「重要な」ハムストリングの怪我をピックアップした後、サイドラインの呪文をセットします Saturday's Scottish Premiership マザーウェルの勝利。",
+      "title_original": "Who will carry Rangers' goal threat after 'significant' Shankland injury?",
+      "summary_original": "Rangers captain Lawrence Shankland is set for a spell on the sidelines after picking up a \"significant\" hamstring injury in Saturday's Scottish Premiership victory over Motherwell.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyqvjjq923o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 19:17:29 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3640rrp1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 18:49:30 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2029,6 +2075,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Leicester の Martin の次は「かなりのパフォーマンス」ですか?",
+      "summary": "フォーチュン、フォックス、上司のターンアラウンドは、第3 層で偽装し続けています。",
+      "title_original": "'That's a sackable performance' - what next for Martin at Leicester?",
+      "summary_original": "Tipped for a turnaround in fortunes, the Foxes and their boss continue to falter in the third tier.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyqvjjq923o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 19:17:29 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2102,69 +2162,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「私たちの最高の最初の半分の1」 -Le Bris 獲得を問い合わせブレントフォードログイン",
-      "summary": "サンダーランドマネージャーRegis Le Bris 自分の側面が「自分の最高の半分の1」を果たしていると主張するプレミアリーグ, しかし、その1-1 の描画に従ったすべての3 つのポイントを取る機会を rued ブレントフォード.",
-      "title_original": "'One of our best first halves' - Le Bris pleased despite Brentford draw",
-      "summary_original": "Sunderland manager Regis Le Bris claims his side played \"one of their best halves\" in the Premier League, but rued the opportunity to take all three points following their 1-1 draw at Brentford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckgxzygyd3ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 18:04:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Jaissle fumes 時 'slapstick' 目標 としてニューカッスル救助のボーンマスの引くこと",
-      "summary": "ニューカッスルマネージャーMatthias Jaissle 後半2-2 の「混合感情」を Bournemouth に引き寄せ、自分の側で強制された目標を記述セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)「スラップスティック」として。",
-      "title_original": "Jaissle fumes at 'slapstick' goals as Newcastle rescue Bournemouth draw",
-      "summary_original": "Newcastle United manager Matthias Jaissle shares his \"mixed feelings\" on their late 2-2 draw against Bournemouth, describing the goals conceded by his side at St. James' Park as \"slapstick\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvgy1nvm5jko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 15:13:39 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェリーとしてチームの「自信」を誇りに思うローズは、リードスリップ",
-      "summary": "ボーンマスマネージャーMarco Rose チームを監視しているにもかかわらず、彼の側面の「自信」を賞賛しました。ドラマティック 2-2 で描くニューカッスル. ボーンマスマネージャーMarco Rose チームを監視しているにもかかわらず、彼の側面の「自信」を賞賛しました。ドラマティック 2-2 で描くニューカッスル.",
-      "title_original": "Rose proud of team 'confidence' as Cherries let lead slip",
-      "summary_original": "Bournemouth manager Marco Rose praised his side's \"confidence\" despite seeing his team surrender a two-goal lead in a dramatic 2-2 draw at Newcastle. Bournemouth manager Marco Rose praised his side's \"confidence\" despite seeing his team surrender a two-goal lead in a dramatic 2-2 draw at Newcastle.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cew9knre1pxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 14:49:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'それはではないですチェルシー'標準' - 'frustrating' の McCabe に対して描画アストン・ヴィラ",
-      "summary": "チェルシー' カティ・マッカベは、その結果について説明アストン・ヴィラ2026-27 WSL シーズンは、まだ初期に「パニックする必要はありません」というのも「イライラ」として。",
-      "title_original": "'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa",
-      "summary_original": "Chelsea' Katie McCabe describes their result against Aston Villa as 'frustrating' but also that there's 'no need to panic' as its still early days for the 2026-27 WSL season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62e99y152go?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 15:12:58 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ブライトン. .アーセナル: Women’s Super League– ライブ",
-      "summary": "12pm(BST)のキックオフ WSL 移籍ポイントから数分の更新 |Email Rob Peep 獲得を問い合わせ そして、私たちはオフです。ブライトン青で。アーセナルイエローシャツと青のショートパンツ。キックオフから10 分 Broadfield StadiumCrawley では、これらの2 つのチームで私たちの華麗なプレシーズンプレビューをチェックするより良い時間を過ごします。こちらのゲーム内でのご意見は、こちらから獲得を問い合わせください。続きを読む...",
+      "summary": "12pm(BST)のキックオフ WSL 移籍ポイントから数分の更新 |Email Rob1 分:アーセナルオフから静かにボールを渡す。Lisa Baum そして、Olivia SmithRusso の上の翼のエーテルの側面をパトロールしています。ピープピープピープ そして、私たちはオフです。ブライトン青で。アーセナルイエローシャツと青のショートパンツ。続きを読む...",
       "title_original": "Brighton v Arsenal: Women’s Super League – live",
-      "summary_original": "Minute-by-minute updates from 12pm (BST) kick-off WSL transfer talking points | Email Rob Peep peep! And we’re off. Brighton in blue. Arsenal in yellow shirts and blue shorts. We’re 10 minutes from kick-off at the Broadfield Stadium in Crawley so what better time that to check out our brilliant pre-season preview on these two teams. Please email me with your thoughts during the game right here . Continue reading...",
+      "summary_original": "Minute-by-minute updates from 12pm (BST) kick-off WSL transfer talking points | Email Rob 1 min: Arsenal pass the ball around serenely from the off. Lisa Baum and Olivia Smith are patrolling the wings ether side of Russo up top. Peep peep! And we’re off. Brighton in blue. Arsenal in yellow shirts and blue shorts. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/06/brighton-v-arsenal-womens-super-league-live",
-      "published": "Sun, 06 Sep 2026 11:00:37 GMT",
+      "published": "Sun, 06 Sep 2026 11:03:40 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2578,9 +2582,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブチアーはイギリスが ODI 対に強いスタートをしてから出発します Ireland LIVE!",
+      "title": "Dunkley はイギリスが ODI 対に強いスタートを作るために100 を増加させます Ireland LIVE!",
       "summary": "",
-      "title_original": "Bouchier departs after England make strong start to ODI vs Ireland LIVE!",
+      "title_original": "Dunkley brings up 100 as England make strong start to ODI vs Ireland LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13581569/england-vs-ireland-third-womens-odi-live-cricket-score-updates-video-and-analysis-from-final-match-of-series-in-worcester",
@@ -2648,9 +2652,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL LIVE 空に!ブライトン対比アーセナルとしてトッテナムホストウェストハム",
+      "title": "WSL LIVE 空に!アーセナルリードブライトンとしてトッテナムホストウェストハム",
       "summary": "",
-      "title_original": "WSL LIVE on Sky! Brighton vs Arsenal as Spurs host West Ham",
+      "title_original": "WSL LIVE on Sky! Arsenal lead Brighton as Spurs host West Ham",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brighton-and-hove-albion-women-vs-arsenal-women/live/575757",
