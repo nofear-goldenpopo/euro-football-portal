@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T20:24:28.699747+00:00",
+  "updated_at": "2026-09-06T20:37:05.121985+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1846,6 +1846,20 @@
   },
   "items": [
     {
+      "title": "新しいストライカー、心配なし - Havertz と Odegaard トーメントチェルシー",
+      "summary": "3 つのゲームから9 ポイント、1 つの目標は、ステップアップし、大きな選手 - ありますアーセナルレースの残りの部分にまだ先立ちプレミアリーグタイトル?",
+      "title_original": "No new striker, no worries - Havertz and Odegaard torment Chelsea",
+      "summary_original": "Nine points from three games, one goal conceded and big players stepping up - are Arsenal still ahead of the rest in the race for the Premier League title?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 20:25:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ミッドフィールドの2 つの右端 - はチェルシー3億4900万ポンド が費やしたにもかかわらずショート?",
       "summary": "チェルシー日曜日 2-1 勝者による敗北アーセナルミッドフィールドで互いに2 つの右端を並べて - 彼らはどのようにここに取得しましたか?",
       "title_original": "Two right-backs in midfield - are Chelsea short despite £349m spent?",
@@ -1926,20 +1940,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "時計:ブンデスリーガハイライト",
-      "summary": "マッチデイ2 のハイライトを見るブンデスリーガ.",
-      "title_original": "Watch: Bundesliga highlights",
-      "summary_original": "Watch highlights from matchday two of the Bundesliga.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/iplayer/episode/l0058t4t?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 19:13:56 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2154,16 +2154,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "3 つのゲームから7 つのポイントハル回復を避けるためにトラックで?",
-      "summary": "生存的な話を解決するのは早いかもしれませんが、新しく進めるハル・シティ AFC ビルドするのに最適なプラットフォームを自分で与えられていますプレミアリーグ.",
-      "title_original": "Seven points from three games - are Hull on track to avoid relegation?",
-      "summary_original": "It might be too early to settle survival talk, but newly promoted Hull City have given themselves the perfect platform to build on in the Premier League.",
+      "title": "Is Bain スコットランドのナンバーワン?",
+      "summary": "With Sebastien Pocognoli スコットランドの遊び方を変えるために、Scott Bain 目標管理の問題に対する答えは?",
+      "title_original": "Is Bain on course to be Scotland's number one?",
+      "summary_original": "With Sebastien Pocognoli looking to change the way Scotland play, might Scott Bain be the answer to his goalkeeping problems?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8zd574yzyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 20:56:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62jn6n0rvlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 07:56:52 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
