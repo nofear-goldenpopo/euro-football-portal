@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T17:22:38.937110+00:00",
+  "updated_at": "2026-09-06T17:34:53.363058+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1813,9 +1813,38 @@
     "Qatar Prix Vermeille": "",
     "Sabah Kerjota": "",
     "Qatar Prix": "",
-    "Barcelona DOMINATE": ""
+    "Barcelona DOMINATE": "",
+    "US Open-style": ""
   },
   "items": [
+    {
+      "title": "Odegaard と坂星 -選手採点獲得を問い合わせアーセナル. .チェルシー",
+      "summary": "使い方アーセナルそして、チェルシーの のプレイヤーは、プレミアリーグマッチ。",
+      "title_original": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
+      "summary_original": "How Arsenal and Chelsea's players rated following their Premier League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gr71gygg8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 17:31:56 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・ユナイテッドプラスにもかかわらず、より多くのドロップポイントを無視することはできません",
+      "summary": "マンチェスター・ユナイテッドログインマイケル・キャリック彼の側が別の2 ポイントをドロップしても楽観的ですエヴァートン.",
+      "title_original": "Man Utd can't ignore more dropped points despite positives",
+      "summary_original": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 17:18:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "Ex-Leicester ストライカーVardy 参加バーンリー",
       "summary": "Former Leicester City イングランドストライカーJamie Vardy 参加するバーンリー季節の終わりまで。",
@@ -1838,34 +1867,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5ym8mx573yo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 12:22:31 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "どのサブが最大のインパクトを持っていたか?エヴァートン. .マンチェスター・ユナイテッド 選手採点",
-      "summary": "使い方エヴァートンそして、マンチェスター・ユナイテッドの のプレーヤーは評価しました Hill Dickinson Stadium.",
-      "title_original": "Which sub had biggest impact? Everton v Man Utd player ratings",
-      "summary_original": "How Everton and Manchester United's players rated at Hill Dickinson Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c78070053wvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 15:11:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フィファ・プレジデント・インファンティーノが再選挙に立ちます",
-      "summary": "フィファ会長 Gianni Infantino3 月に再編を予定し、世界統治体が確認されています。",
-      "title_original": "Fifa president Infantino will stand for re-election",
-      "summary_original": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 13:01:17 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1971,6 +1972,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "どのサブが最大のインパクトを持っていたか?エヴァートン. .マンチェスター・ユナイテッド 選手採点",
+      "summary": "使い方エヴァートンそして、マンチェスター・ユナイテッドの のプレーヤーは評価しました Hill Dickinson Stadium.",
+      "title_original": "Which sub had biggest impact? Everton v Man Utd player ratings",
+      "summary_original": "How Everton and Manchester United's players rated at Hill Dickinson Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78070053wvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 15:11:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フィファ・プレジデント・インファンティーノが再選挙に立ちます",
+      "summary": "フィファ会長 Gianni Infantino3 月に再編を予定し、世界統治体が確認されています。",
+      "title_original": "Fifa president Infantino will stand for re-election",
+      "summary_original": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 13:01:17 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "なぜ?トッテナム' アンダーザレーダー購入は、夏の最もスマートな移籍かもしれません",
       "summary": "Kirsty Hanson スワップアストン・ヴィラ獲得を問い合わせトッテナム信じる理由がありますトッテナム採用マスターストロークを脱いで、デビューを脱いで Brisbane Road.",
       "title_original": "Why Spurs' under-the-radar buy might be summer's smartest deal",
@@ -1978,6 +2007,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj3d1ky2642o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 13:48:58 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプール1 月1 日はサールで動くかもしれません -日曜日の移籍ゴシップ",
+      "summary": "リヴァプール別の動きを作るかもしれないクリスタル・パレスウィンガーイスマイラ・サール1 月1 日トッテナムの Richarlison は、サウジ スイッチを探すことができます。",
+      "title_original": "Liverpool may make January move for Sarr - Sunday's gossip",
+      "summary_original": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 20:24:26 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1996,20 +2039,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リヴァプール1 月1 日はサールで動くかもしれません -日曜日の移籍ゴシップ",
-      "summary": "リヴァプール別の動きを作るかもしれないクリスタル・パレスウィンガーイスマイラ・サール1 月1 日トッテナムの Richarlison は、サウジ スイッチを探すことができます。",
-      "title_original": "Liverpool may make January move for Sarr - Sunday's gossip",
-      "summary_original": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 20:24:26 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2080,34 +2109,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "使い方マンチェスター・ユナイテッド大規模なライバルとトップで競争する計画",
-      "summary": "マネージャーマイケル・キャリック執行役員 Omar Berrada 自分の視点で統一されているマンチェスター・ユナイテッドクラブの比較的低い夏の過ごしにもかかわらず、成功することができます。",
-      "title_original": "How Man Utd plan to compete at top with big-spending rivals",
-      "summary_original": "Manager Michael Carrick and chief executive Omar Berrada are united in their viewthat Manchester United can be successful despite the club's relatively low summer spending.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg49v57rxvgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 21:57:48 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "グラスナーとウィリアムズの紛争 VAR はフォレストハンドボールを乗り越える",
-      "summary": "ノッティンガム・フォレストマネージャーオリヴァー・グラスナーそして、Neco WilliamsVAR は、守備者の目標を守らないようにするトッテナム.",
-      "title_original": "Glasner and Williams dispute VAR call over Forest handball",
-      "summary_original": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 18:36:28 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2755,6 +2756,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アーセナル後ろからビートに来るチェルシー息をのむようなダービーライブ!",
+      "summary": "",
+      "title_original": "Arsenal come from behind to beat Chelsea in breathless derby LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/arsenal-vs-chelsea/live/559464",
+      "published": "Sun, 06 Sep 2026 14:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Dunkley ヒット トン として イングランド clinch ODI シリーズ sweep の アイルランド",
       "summary": "イングランドは3〜3 日連続で優勝したアイルランドの3〜3 スイープを確保インテル日曜日に Worcester で114 ランによるシリーズの全国。",
       "title_original": "Dunkley hits ton as England clinch ODI series sweep of Ireland",
@@ -2766,6 +2781,20 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Wimbledon は立場から取ります US Open-style インフルエンサーインフルエンザ",
+      "summary": "",
+      "title_original": "Wimbledon set to take stand against US Open-style influencer influx",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13576448/us-open-tennis-news-draw-schedule-results-and-updates-from-flushing-meadows-in-new-york",
+      "published": "Sun, 06 Sep 2026 18:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2783,23 +2812,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナルリードに戻るチェルシー息をのむようなダービーライブ! & ハイライト",
-      "summary": "",
-      "title_original": "Arsenal hit back to lead Chelsea in breathless derby LIVE! & highlights",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-vs-chelsea/live/559464",
-      "published": "Sun, 06 Sep 2026 14:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "バルセロナバレンシアの過去をクルーズする FIVE の目標に着手!",
+      "title": "バルセロナバレンシアで FIVE の目標に支配人",
       "summary": "ハイライトラ・リーガバレンシアとバルセロナ.",
-      "title_original": "Barcelona DOMINATE with FIVE goals to cruise past Valencia!",
+      "title_original": "Barcelona dominate with FIVE goals at Valencia",
       "summary_original": "Highlights of the La Liga match between Valencia and Barcelona.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13582483/valencia-0-5-barcelona-la-liga-highlights",
@@ -2919,20 +2934,6 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'Saka NEEDS レベルアップ - Nev、Wright、Carra、Sturridge の議論アーセナルの攻撃",
-      "summary": "イアン・ライト, Jamie Carragher, ガリー・ネヴィルそして、Daniel Sturridge どのように議論アーセナルの の攻撃形状と、ブカヨ・サカガンナーの別のレベルまでステップアップする必要があります。",
-      "title_original": "'Saka NEEDS to level up' - Nev, Wright, Carra & Sturridge debate Arsenal's attack",
-      "summary_original": "Ian Wright, Jamie Carragher, Gary Neville and Daniel Sturridge debate how Arsenal's attack shapes up and whether Bukayo Saka needs to step up to another level for the Gunners.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582290/carragher-wright-neville-and-sturridge-debate-whether-saka-needs-to-step-up-more-for-arsenal",
-      "published": "Sun, 06 Sep 2026 13:28:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     }
