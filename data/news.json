@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T15:06:09.853487+00:00",
+  "updated_at": "2026-09-06T15:24:02.196574+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1782,7 +1782,13 @@
     "Hill Dickinson Stadium. Clickity": "",
     "Benjamin Sesko's": "",
     "Tyrique George": "タイリーク・ジョージ",
-    "Late Maitland-Niles": ""
+    "Late Maitland-Niles": "",
+    "Hill Dickinson Stadium": "",
+    "Railway End": "",
+    "Championship. Instead Armstrong": "",
+    "Cremonese Plans": "",
+    "That's OUTRAGEOUS": "",
+    "Ainsley Maitland-Niles": "エインズリー・メイトランド＝ナイルズ"
   },
   "items": [
     {
@@ -1814,6 +1820,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "どのサブが最大のインパクトを持っていたか?エヴァートン. .マンチェスター・ユナイテッド 選手採点",
+      "summary": "使い方エヴァートンそして、マンチェスター・ユナイテッドの のプレーヤーは評価しました Hill Dickinson Stadium.",
+      "title_original": "Which sub had biggest impact? Everton v Man Utd player ratings",
+      "summary_original": "How Everton and Manchester United's players rated at Hill Dickinson Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78070053wvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 15:11:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フィファ・プレジデント・インファンティーノが再選挙に立ちます",
       "summary": "フィファ会長 Gianni Infantino3 月に再編を予定し、世界統治体が確認されています。",
       "title_original": "Fifa president Infantino will stand for re-election",
@@ -1839,34 +1859,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リヴァプール1 月1 日はサールで動くかもしれません -日曜日の移籍ゴシップ",
-      "summary": "リヴァプール別の動きを作るかもしれないクリスタル・パレスウィンガーイスマイラ・サール1 月1 日トッテナムの Richarlison は、サウジ スイッチを探すことができます。",
-      "title_original": "Liverpool may make January move for Sarr - Sunday's gossip",
-      "summary_original": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 20:24:26 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "いくらになるかセルティック獲得を問い合わせアジア競技大会- ヤンゴン?",
-      "summary": "Yang Hyun-jun 自分の重要性を示すセルティック重要な目標に反する St Mirren 頭を切る前にアジア競技大会.",
-      "title_original": "How much will Celtic miss Asian Games-bound Yang?",
-      "summary_original": "Yang Hyun-jun illustrated his importance to Celtic with a vital goal against St Mirren before heading off for the Asian Games.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zr7jjpero?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 11:02:04 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1968,6 +1960,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "いくらになるかセルティック獲得を問い合わせアジア競技大会- ヤンゴン?",
+      "summary": "Yang Hyun-jun 自分の重要性を示すセルティック重要な目標に反する St Mirren 頭を切る前にアジア競技大会.",
+      "title_original": "How much will Celtic miss Asian Games-bound Yang?",
+      "summary_original": "Yang Hyun-jun illustrated his importance to Celtic with a vital goal against St Mirren before heading off for the Asian Games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zr7jjpero?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 11:02:04 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプール1 月1 日はサールで動くかもしれません -日曜日の移籍ゴシップ",
+      "summary": "リヴァプール別の動きを作るかもしれないクリスタル・パレスウィンガーイスマイラ・サール1 月1 日トッテナムの Richarlison は、サウジ スイッチを探すことができます。",
+      "title_original": "Liverpool may make January move for Sarr - Sunday's gossip",
+      "summary_original": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 20:24:26 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナルショートリストに20 人以上のプレーヤーがタイトルの勝利に加わりました",
       "summary": "シニアサッカー対応 Sami Mokbel インサイドアーセナルの は、資本金を請求するプレミアリーグ今年の夏にチームを組んだタイトルと強化。",
       "title_original": "Arsenal had more than 20 players on shortlist to capitalise on title win",
@@ -2010,20 +2030,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "使い方マンチェスター・ユナイテッド大規模なライバルとトップで競争する計画",
-      "summary": "マネージャーマイケル・キャリック執行役員 Omar Berrada 自分の視点で統一されているマンチェスター・ユナイテッドクラブの比較的低い夏の過ごしにもかかわらず、成功することができます。",
-      "title_original": "How Man Utd plan to compete at top with big-spending rivals",
-      "summary_original": "Manager Michael Carrick and chief executive Omar Berrada are united in their viewthat Manchester United can be successful despite the club's relatively low summer spending.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg49v57rxvgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 21:57:48 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -2035,6 +2041,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "使い方マンチェスター・ユナイテッド大規模なライバルとトップで競争する計画",
+      "summary": "マネージャーマイケル・キャリック執行役員 Omar Berrada 自分の視点で統一されているマンチェスター・ユナイテッドクラブの比較的低い夏の過ごしにもかかわらず、成功することができます。",
+      "title_original": "How Man Utd plan to compete at top with big-spending rivals",
+      "summary_original": "Manager Michael Carrick and chief executive Omar Berrada are united in their viewthat Manchester United can be successful despite the club's relatively low summer spending.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg49v57rxvgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 21:57:48 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2076,20 +2096,6 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フェルナンデスそして、エンディアイエ約束の兆候を示すマンチェスター・シティデビュー",
-      "summary": "マンチェスター・シティ期限日の才能の1億8500万ポンド を与えましたプレミアリーグ Coventry の勝利でデビュー - マネージャーEnzo Maresca 彼が見たことを楽しんだ。",
-      "title_original": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-      "summary_original": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 18:04:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2212,7 +2218,7 @@
       "summary_original": "Minute-by-minute updates from the action at the Emirates Stadium Arsenal bank on continuity after window closes And now a third goal… There’s been a second goal at Hill Dickinson Stadium. Clickity click click click! Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
-      "published": "Sun, 06 Sep 2026 14:58:35 GMT",
+      "published": "Sun, 06 Sep 2026 15:16:11 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2226,7 +2232,7 @@
       "summary_original": "Minute-by-minute updates from the action at Hill Dickinson Stadium Transfer failures leave Everton scrambling | Mail Tim “Selected scuttlebut,” says Ian Copestake, promisingly, “from Everton fans on the train from Birkenhead to the game is that the fans have been lied to. Promises made by the new owners (shiny new stadium not mentioned) have not been fulfilled. Mutiny is round the corner (probably at Sandhills).” An unexpected proposal from John Stedman. “I like the new(ish) Dining Across the Di",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/06/everton-v-manchester-united-premier-league-live",
-      "published": "Sun, 06 Sep 2026 14:59:12 GMT",
+      "published": "Sun, 06 Sep 2026 15:14:36 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2249,9 +2255,9 @@
     },
     {
       "title": "アームストロングはダービーをバーミンガムとウルフズのドローとして勝つために黄金のチャンスを浄化します",
-      "summary": "獲得を問い合わせ Adam Armstrong、Wolves のストライカーは、そのチームメイトと同じスタイルで終了した3 分の金チャンスで提示しましたジャクソン・チャチュア季節の最も記憶に残る1 つを刻むときオウンゴール sbefore ハーフタイム, その後 César Peixoto’s チームは確かに2 位に座っている Championship. Instead, アームストロングは、オープンゴールとバーミンガムで彼のショットを持ち上げて、彼らは Tchatchoua の howler に資本を積んだとして、リーグのシーズンに彼らの不当なスタートを拡張するために値しました",
+      "summary": "獲得を問い合わせ Adam Armstrong, ウルフスストライカーは87 分の黄金のチャンスで提示しました, ネットの同じコーナーに撮影しました Railway End チームメイトジャクソン・チャチュア最も記憶に残るものの1 つを刻むときありましたオウンゴール最初の半分の端に s、それから César Peixoto’s チームでは、確かに今では2 つ目になります Championship. Instead Armstrong の 1 つ Football League’sFer L でプレーした10 ヤードのオープンゴールを追い越した最も実績のあるゴールコーラー",
       "title_original": "Armstrong spurns golden chance to win derby as Birmingham and Wolves draw",
-      "summary_original": "If only Adam Armstrong, the Wolves striker presented with a golden chance three minutes from time, had finished with the same style as his teammate Jackson Tchatchoua when scoring one of the season’s most memorable own goalsbefore half-time, then César Peixoto’s team would surely be sitting in second place in the Championship. Instead, Armstrong lifted his shot over an open goal and Birmingham deserved to extend their unbeaten start to the league season as they capitalised on Tchatchoua’s howler",
+      "summary_original": "If only Adam Armstrong, the Wolves striker presented with a golden chance in the 87th minute, had shot into the same corner of the net at the Railway End that his teammate Jackson Tchatchoua had located when scoring one of the most memorable own goals at the end of the first half, then César Peixoto’s team would surely now be second in the Championship. Instead Armstrong, one of the Football League’s most proven goalscorers, lifted his shot over an open goal from 10 yards when played in by Fer L",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/06/birmingham-wolves-championship-match-report",
       "published": "Sun, 06 Sep 2026 13:40:19 GMT",
@@ -2273,6 +2279,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Jamie Vardy パーティに参加するバーンリーチャンピオンシップの闘争に獲得した後",
+      "summary": "出発後のフリーエージェント Cremonese Plans ブルゲンメディアのキャリアにもかかわらず、再生するには Jamie Vardy 獲得後に英語サッカーに戻りましたバーンリー無料のエージェントとして選手権で. ヴァルディは、1 月に40 人になるだろう、シーズンの終わりまで契約を結び、イタリアのクレモネゼで最後のシーズンを過ごしました。彼が13 年を過ごし、13 歳になったレスターに戻るプレミアリーグ2016 年のチャンピオンと FA Cup2021 年の受賞者は、夏にモットされ、Vardy から ru まで",
+      "title_original": "Jamie Vardy takes party to Burnley after signing deal with Championship strugglers",
+      "summary_original": "Vardy a free agent after departing Cremonese Plans to play on despite burgeoning media career Jamie Vardy has returned to English football after signing for Burnley in the Championship as a free agent. Vardy, who will be 40 in January, has signed a contract until the end of the season, having spent last season at Cremonese in Italy. A return to Leicester, where he spent 13 years and was a Premier League champion in 2016 and an FA Cup winner in 2021, was mooted in the summer, only for Vardy to ru",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/jamie-vardy-signs-for-burnley-championship-football",
+      "published": "Sun, 06 Sep 2026 15:16:08 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2315,20 +2335,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Scottish Premiership: セルティック'ヤンは、オフを見るために戦いを完了します St Mirren",
-      "summary": "セルティック St Mirren で2-1 を獲得するために後ろから来たレンジャーズビートマザーウェル 1-0 しかし、怪我にシャンクランドを失う Yang Hyun-jun 勝者を勝者として獲得セルティック後ろから来て、印象的なビート St Mirren 側 2-1.St Mirren プレミアシップのトップへ向かった Nikolas Agrafiotis スポットの途中から最初の半分を貫く。Liam Scales ハンドボールでペナルティを隠したが、休憩の6 分後に家を向いたとき、修正した。And Yang カウンタータック・ミッドウェイ・スローオフ",
-      "title_original": "Scottish Premiership: Celtic’s Yang completes fightback to see off St Mirren",
-      "summary_original": "Celtic come from behind to win 2-1 at St Mirren Rangers beat Motherwell 1-0 but lose Shankland to injury Yang Hyun-jun scored the winner as Celtic came from behind to beat an impressive St Mirren side 2-1. St Mirren were heading for the top of the Premiership when Nikolas Agrafiotis netted from the spot midway through the first half. Liam Scales conceded the penalty with a handball but made amends when he headed home six minutes after the break. And Yang finished off a counterattack midway throu",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/scottish-premiership-rangers-motherwell-aberdeen-celtic",
-      "published": "Sat, 05 Sep 2026 21:36:26 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2472,6 +2478,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Scottish Premiership: セルティック'ヤンは、オフを見るために戦いを完了します St Mirren",
+      "summary": "セルティック St Mirren で2-1 を獲得するために後ろから来たレンジャーズビートマザーウェル 1-0 しかし、怪我にシャンクランドを失う Yang Hyun-jun 勝者を勝者として獲得セルティック後ろから来て、印象的なビート St Mirren 側 2-1.St Mirren プレミアシップのトップへ向かった Nikolas Agrafiotis スポットの途中から最初の半分を貫く。Liam Scales ハンドボールでペナルティを隠したが、休憩の6 分後に家を向いたとき、修正した。And Yang カウンタータック・ミッドウェイ・スローオフ",
+      "title_original": "Scottish Premiership: Celtic’s Yang completes fightback to see off St Mirren",
+      "summary_original": "Celtic come from behind to win 2-1 at St Mirren Rangers beat Motherwell 1-0 but lose Shankland to injury Yang Hyun-jun scored the winner as Celtic came from behind to beat an impressive St Mirren side 2-1. St Mirren were heading for the top of the Premiership when Nikolas Agrafiotis netted from the spot midway through the first half. Liam Scales conceded the penalty with a handball but made amends when he headed home six minutes after the break. And Yang finished off a counterattack midway throu",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/05/scottish-premiership-rangers-motherwell-aberdeen-celtic",
+      "published": "Sat, 05 Sep 2026 21:36:26 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Enzo Le Féepenalty redemption 救助 ポイント のために のためのサンダーランド獲得を問い合わせブレントフォード",
       "summary": "真の贖いは、おそらく、パンデンカとスコアを上げるためにありましたが、Enzo Le Fée チャツパはなかなか持っていませんでした。彼の duffed dink で ザ· 汚い で ザ·ブレントフォード1 月は1 つのポイントの低いポイントでしたサンダーランド’s 2 季節最悪のパフォーマンス, しかし、彼は残りの 8 分のスポットから変換し、2 つの物理的に積極的なチームとよく訓練されたチームの戦いを獲得し、他の場所で混乱を見て、トップハーフフィニッシュの再び考えなければならない. と思われた",
       "title_original": "Enzo Le Fée penalty redemption rescues point for Sunderland at Brentford",
@@ -2525,20 +2545,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "選手権のラウンドアップ:ブリストル・シティ FC 追加するバーンリー’s woes,ウェストハムビートダービー",
-      "summary": "バーンリー 1-2 ブリストル・シティ FC, ウェストハム 3-0 Derby Swansea 逆に立派にもかかわらず、まだトップ Wrexham Nicky Hayen 火下がり火下を告げたバーンリー2-1 敗北後、深く掘り下げる必要があるプレイヤーは、自宅で敗北した後に「本当に難しい状況」を乗り越えるブリストル・シティ FC 左のロックボトム Championship. The Turf Moor 群衆は彼らの怒りを発明しました - 所有者に向かって最も熱心に、Alan Pace- 後にアーロン・ラムジー’ 56 分の Clarets のオープナーが 82 分のヘッダーから上回りました Rob Dic",
-      "title_original": "Championship roundup: Bristol City add to Burnley’s woes, West Ham beat Derby",
-      "summary_original": "Burnley 1-2 Bristol City, West Ham 3-0 Derby Swansea still top despite stalemate against Wrexham Nicky Hayen has told his under-fire Burnley players they need to dig deep to come through “a really difficult situation” after a 2-1 defeat at home by Bristol City left them rock bottom of the Championship. The Turf Moor crowd vented their anger – most vehemently towards the owner, Alan Pace – after Aaron Ramsey’s 56th-minute opener for the Clarets was overturned by an 82nd-minute header from Rob Dic",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/championship-roundup-southampton-lincoln-burnley-west-ham-wrexham",
-      "published": "Sat, 05 Sep 2026 17:01:04 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2640,9 +2646,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランドは、アイルランドのチェイス292 として初期のウィケットを服用し、第三に勝つ ODI LIVE!",
+      "title": "ウィケット・タンブル・LIVE としてアイルランドのシリーズスイープでイングランドクローズ!",
       "summary": "",
-      "title_original": "England take early wickets as Ireland chase 292 to win third ODI LIVE!",
+      "title_original": "England closing in on series sweep of Ireland as wickets tumble LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13581569/england-vs-ireland-third-womens-odi-live-cricket-score-updates-video-and-analysis-from-final-match-of-series-in-worcester",
@@ -2654,9 +2660,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イタリアグランプリ: Antonelli は、センセーショナルドライブ LIVE の後、19 日からホームレースを獲得!",
+      "title": "イタリアグランプリ: Antonelli の著名な勝利への反応優勝争い",
       "summary": "",
-      "title_original": "Italian GP: Antonelli wins home race from 19th after sensational drive LIVE!",
+      "title_original": "Italian GP: Reaction to Antonelli's remarkable win on big day in title race",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13581630/f1-italian-gp-live-race-updates-results-stream-highlights-from-13th-round-of-2026-formula-1-season-at-hungaroring-at-monza",
@@ -2668,9 +2674,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Konsa がスタートアーセナル, カリスドアウトチェルシースカイでライブ!",
+      "title": "アーセナル対比チェルシーライブ! & ハイライト",
       "summary": "",
-      "title_original": "Konsa starts for Arsenal, Caicedo out for Chelsea LIVE on Sky!",
+      "title_original": "Arsenal vs Chelsea LIVE! & highlights",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/arsenal-vs-chelsea/live/559464",
@@ -2752,6 +2758,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "'That's OUTRAGEOUS!' - Maitland-Niles のオーダシーなストライクレベルエヴァートンデビュー",
+      "summary": "エインズリー・メイトランド＝ナイルズポイントをスナッチする最後の分スタンナーをスコアエヴァートン彼らのプレミアリーグクラッシュとマンチェスター・ユナイテッド.",
+      "title_original": "'That's OUTRAGEOUS!' - Maitland-Niles' audacious strike levels for Everton on debut",
+      "summary_original": "Ainsley Maitland-Niles score a last-minute stunner to snatch a point for Everton in their Premier League clash with Manchester United.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13582384/goal-a-maitland-niles-906-everton-2-2-manchester-utd",
+      "published": "Sun, 06 Sep 2026 16:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ベンチからもっとヒロニクス! Sesko の頭部のためのマンチェスター・ユナイテッド遅くなる",
       "summary": "ベンヤミン・シェシュコの ヘッダはマンチェスター・ユナイテッド自分のペースで遅れてプレミアリーグクラッシュとエヴァートン.",
       "title_original": "More heroics from the bench! Sesko heads in for Man Utd late on",
@@ -2822,9 +2842,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL LIVE 空に! 防衛のチャンプ都市リード後アーセナル, トッテナムログイン",
+      "title": "WSL LIVE 空に! 防衛チャンプ市,アーセナルそして、トッテナムすべての勝利",
       "summary": "",
-      "title_original": "WSL LIVE on Sky! Defending champs City lead after Arsenal, Spurs win",
+      "title_original": "WSL LIVE on Sky! Defending champs City, Arsenal and Spurs all win",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-city-women-vs-birmingham-city-women/live/575760",
@@ -2888,20 +2908,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Late Maitland-Nilesstunner を見るエヴァートンホールドマンチェスター・ユナイテッドライブ! & ハイライト",
-      "summary": "",
-      "title_original": "Late Maitland-Niles stunner sees Everton hold Man Utd LIVE! & highlights",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/everton-vs-manchester-united/live/559467",
-      "published": "Tue, 28 Jul 2026 10:31:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
