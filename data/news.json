@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T18:07:05.389059+00:00",
+  "updated_at": "2026-09-06T18:25:42.911641+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1821,7 +1821,9 @@
     "Senne Lammens’s": "",
     "Did Mercedes": "",
     "Russell Monza": "",
-    "Francis-Henri Graffard": "フランシスアンリ・グラファール"
+    "Francis-Henri Graffard": "フランシスアンリ・グラファール",
+    "Rashford Tunnel": "",
+    "Marcus Ras": ""
   },
   "items": [
     {
@@ -1888,6 +1890,48 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c78070053wvo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 15:11:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フィファ・プレジデント・インファンティーノが再選挙に立ちます",
+      "summary": "フィファ会長 Gianni Infantino3 月に再編を予定し、世界統治体が確認されています。",
+      "title_original": "Fifa president Infantino will stand for re-election",
+      "summary_original": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 13:01:17 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "なぜ?トッテナム' アンダーザレーダー購入は、夏の最もスマートな移籍かもしれません",
+      "summary": "Kirsty Hanson スワップアストン・ヴィラ獲得を問い合わせトッテナム信じる理由がありますトッテナム採用マスターストロークを脱いで、デビューを脱いで Brisbane Road.",
+      "title_original": "Why Spurs' under-the-radar buy might be summer's smartest deal",
+      "summary_original": "Kirsty Hanson swapped Aston Villa for Tottenham and there is reason to believe Spurs have pulled off a recruitment masterstroke, based off her debut at Brisbane Road.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3d1ky2642o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 13:48:58 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプール1 月1 日はサールで動くかもしれません -日曜日の移籍ゴシップ",
+      "summary": "リヴァプール別の動きを作るかもしれないクリスタル・パレスウィンガーイスマイラ・サール1 月1 日トッテナムの Richarlison は、サウジ スイッチを探すことができます。",
+      "title_original": "Liverpool may make January move for Sarr - Sunday's gossip",
+      "summary_original": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 20:24:26 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1990,48 +2034,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フィファ・プレジデント・インファンティーノが再選挙に立ちます",
-      "summary": "フィファ会長 Gianni Infantino3 月に再編を予定し、世界統治体が確認されています。",
-      "title_original": "Fifa president Infantino will stand for re-election",
-      "summary_original": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 13:01:17 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "なぜ?トッテナム' アンダーザレーダー購入は、夏の最もスマートな移籍かもしれません",
-      "summary": "Kirsty Hanson スワップアストン・ヴィラ獲得を問い合わせトッテナム信じる理由がありますトッテナム採用マスターストロークを脱いで、デビューを脱いで Brisbane Road.",
-      "title_original": "Why Spurs' under-the-radar buy might be summer's smartest deal",
-      "summary_original": "Kirsty Hanson swapped Aston Villa for Tottenham and there is reason to believe Spurs have pulled off a recruitment masterstroke, based off her debut at Brisbane Road.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3d1ky2642o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 13:48:58 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リヴァプール1 月1 日はサールで動くかもしれません -日曜日の移籍ゴシップ",
-      "summary": "リヴァプール別の動きを作るかもしれないクリスタル・パレスウィンガーイスマイラ・サール1 月1 日トッテナムの Richarlison は、サウジ スイッチを探すことができます。",
-      "title_original": "Liverpool may make January move for Sarr - Sunday's gossip",
-      "summary_original": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 20:24:26 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2371,6 +2373,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・ユナイテッド’s フロント 4 ショーは点滅しますが、ファンタスティックになるにはより多くの時間が必要です |Will Unwin",
+      "summary": "Mbeumo の目標は、ソロのインスピレーションの瞬間だったが、マイケル・キャリック Fernandes、Cunha、Rashford Tunnel ビジョン許可 Bryan Mbeumo 焦点の秒, 彼の周りに赤ですべての人を無視, 青の人々は名誉のガードを提供しながら、. チームゲームでは、自尊の行動でしたが、時には最も満足している行動でした。マンチェスター・ユナイテッドボールがネットの内側をさざすとき、シングルマインドネスを祝いました。これは、後にユナイテッドのための新しいフロント4 です Marcus Ras",
+      "title_original": "Manchester United’s front four show flashes but need more time to become fantastic | Will Unwin",
+      "summary_original": "Mbeumo’s goal was a moment of solo inspiration but Michael Carrick will want more from Fernandes, Cunha and Rashford Tunnel vision allowed Bryan Mbeumo seconds of focus, ignoring everyone in red around him, while those in blue provided a guard of honour. In a team game, it was an act of selfishness but sometimes they are the most satisfying, and Manchester United celebrated the single-mindedness when the ball rippled the inside of the netting. This is a new front four for United after Marcus Ras",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/manchester-uniteds-front-four-show-flashes-but-need-more-time-to-become-fantastic",
+      "published": "Sun, 06 Sep 2026 18:00:11 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Uefa 法的なケースは、トランプのサポートとして Infantino の端から始まるかもしれません |Barney Ronay",
       "summary": "Fifa の失敗した計画に関連する発見の順序は、販売する World Cup アメリカ大統領は、犯人にとって悪く終わる傾向にある状況を心配します。Tell Mike ちょうどビジネスでした。私はいつも彼が好きでした。続きを読む...",
       "title_original": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
@@ -2378,20 +2394,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
       "published": "Sat, 05 Sep 2026 07:00:29 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「ノイズは信じられない」:メキシコ v イングランドのレフリーのビューWorld Cup",
-      "summary": "イングランドのマネージャートーマス・トゥヘル fiery last-16 tie で「ちょうど十分ではない」の受取と呼ばれる。Now Alireza Faghani 彼のイベントのバージョンを与える 7 月5 日午後6 時メキシコシティと Alireza Faghani、48 歳オーストラリアイランのロッカールームで眠っていた、いびき。アシスタントは音楽を下げました。コンクリート壁を通した90,000 近くのファンのマフラーにはなかった Estadio Azteca 翌朝まで眠れる。ファガニは",
-      "title_original": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
-      "summary_original": "England’s manager Thomas Tuchel called the officiating ‘just not good enough’ in the fiery last-16 tie. Now Alireza Faghani gives his version of events It was 6pm on 5 July in Mexico City, and Alireza Faghani, a 48-year-old Australian-Iranian, was asleep in the locker room, snoring. His assistants had turned the music down. Had it not been for the muffled roar of nearly 90,000 fans through the concrete walls of the Estadio Azteca, he could have slept until the following morning. Faghani was the ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/world-cup-alireza-faghani-england-mexico-azteca",
-      "published": "Sat, 05 Sep 2026 05:00:29 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
