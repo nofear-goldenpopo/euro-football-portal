@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T23:05:48.112569+00:00",
+  "updated_at": "2026-09-06T23:22:39.043375+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1854,7 +1854,14 @@
     "Ex Man-Utd": "",
     "Brilliant Dunkley": "",
     "Alice Capsey": "",
-    "Rosberg DEBATE": ""
+    "Rosberg DEBATE": "",
+    "Rick Edwards": "",
+    "Luke Edwards": "",
+    "Clinton Morrison": "",
+    "Wayne Rooney": "ウェイン・ルーニー",
+    "Chelsea's Emi Martinez": "",
+    "Ashley Young": "",
+    "Luke Shaw's": ""
   },
   "items": [
     {
@@ -2166,6 +2173,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Football Daily",
+      "summary": "Rick Edwards, Luke Edwards そして、Clinton Morrison ディスカッションプレミアリーグ週末。",
+      "title_original": "Football Daily",
+      "summary_original": "Rick Edwards, Luke Edwards and Clinton Morrison discuss the Premier League weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 21:07:00 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "どのサブが最大のインパクトを持っていたか?エヴァートン. .マンチェスター・ユナイテッド 選手採点",
       "summary": "使い方エヴァートンそして、マンチェスター・ユナイテッドの のプレーヤーは評価しました Hill Dickinson Stadium.",
       "title_original": "Which sub had biggest impact? Everton v Man Utd player ratings",
@@ -2194,6 +2215,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ガブリエルは赤を避けるために「非常にラッキー」だった - Rooney",
+      "summary": "デイパンディットのマッチウェイン・ルーニーガブリエルは、彼の挑戦の後にピッチに滞在する「信じられないほどラッキー」だったと言うチェルシー獲得を問い合わせエミリアーノ・マルティネス.",
+      "title_original": "Gabriel was 'extremely lucky' to avoid red - Rooney",
+      "summary_original": "Match of the Day pundit Wayne Rooney says Gabriel was 'extremely lucky' to stay on the pitch after his challenge on Chelsea's Emi Martinez.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cgk531g8gr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 22:50:22 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ショーダブルリードマンチェスター・シティバーミンガムの勝利へ",
       "summary": "マンチェスター・シティ彼らの防衛 Women's Super League タイトルは、新しく宣伝された上で勝利で完璧なスタートにオフ取得バーミンガム・シティ FC.",
       "title_original": "Shaw double leads Man City to victory over Birmingham",
@@ -2208,41 +2243,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バウムのスコアはデビューとしてアーセナルエッジブライトン",
-      "summary": "Lisa Baum 彼女のスコアアーセナルガンナーズのビートとしてデビューブライトン1-0 で Women's Super League.",
-      "title_original": "Baum scores on debut as Arsenal edge Brighton",
-      "summary_original": "Lisa Baum scores on her Arsenal debut as the Gunners beat Brighton 1-0 in the Women's Super League.",
+      "title": "若々しい賞品 Rashford と Shaw chem",
+      "summary": "デイパンディットのマッチ Ashley Young 獲得を問い合わせマーカス・ラッシュフォードそして、Luke Shaw's 左側の接続マンチェスター・ユナイテッドの 2-2 に対して引くエヴァートン.at で Hill Dickinson Stadium.",
+      "title_original": "Young praises Rashford and Shaw chemistry",
+      "summary_original": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left in Manchester United's 2-2 draw against Everton.at the Hill Dickinson Stadium.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/czxz0j29eg2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 16:42:05 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシーで敗北アーセナル痛む - アロンソ",
-      "summary": "チェルシーマネージャーシャビ・アロンソライバルで2-1 敗北に反応アーセナルスリリングなロンドンダービーでエミレーツ・スタジアム.",
-      "title_original": "Chelsea defeat by Arsenal hurts - Alonso",
-      "summary_original": "Chelsea manager Xabi Alonso reacts to their 2-1 defeat by rivals Arsenal in a thrilling London derby at the Emirates Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4gj7y52393o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 18:35:26 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リヴァプール新しくプロモーションされたシャルトン 4-0 を破る",
-      "summary": "Grace Fisk スコアは2 回としてリヴァプールチャルトンを新たに推進 Women's Super League 獲得を問い合わせ The Valley.",
-      "title_original": "Liverpool beat newly-promoted Charlton 4-0",
-      "summary_original": "Grace Fisk scores twice as Liverpool beat newly promoted Charlton in the Women's Super League at The Valley.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckgvx2y657go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 18:53:52 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpwlqre0qy9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 23:07:31 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
