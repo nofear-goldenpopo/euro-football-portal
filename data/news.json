@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T22:24:03.596018+00:00",
+  "updated_at": "2026-09-06T22:35:49.527444+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2039,6 +2039,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "フィファ・プレジデント・インファンティーノが再選挙に立ちます",
+      "summary": "フィファ会長 Gianni Infantino3 月に再編を予定し、世界統治体が確認されています。",
+      "title_original": "Fifa president Infantino will stand for re-election",
+      "summary_original": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 13:01:17 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "森と森トッテナムドローイングでゴールドラマを捨てた後、無敗のまま",
       "summary": "トッテナム初めて待っていますプレミアリーグスクレーピード後のシーズンの勝利ノッティンガム・フォレスト.",
       "title_original": "Forest and Spurs remain winless after disallowed goal drama in draw",
@@ -2133,20 +2147,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フィファ・プレジデント・インファンティーノが再選挙に立ちます",
-      "summary": "フィファ会長 Gianni Infantino3 月に再編を予定し、世界統治体が確認されています。",
-      "title_original": "Fifa president Infantino will stand for re-election",
-      "summary_original": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 13:01:17 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
