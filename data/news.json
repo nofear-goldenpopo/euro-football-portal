@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T21:06:17.997863+00:00",
+  "updated_at": "2026-09-06T21:23:16.970934+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1844,7 +1844,8 @@
     "Friday. Fermín López": "",
     "Hansi Flick’s": "",
     "Dundee Yang Hyun-jun": "",
-    "Christopher Nkunku": "クリストファー・エンクンク"
+    "Christopher Nkunku": "クリストファー・エンクンク",
+    "Clinical Carlos Alcaraz": ""
   },
   "items": [
     {
@@ -2800,16 +2801,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Sabalenka エッジ Townsend へ リーチ US Open 四半期および保持 1 点",
-      "summary": "Aryna Sabalenka とりあえず US Open タイトルと世界 No.1 のスポットが無敵に勝つ Taylor Townsend.",
-      "title_original": "Sabalenka edges Townsend to reach US Open quarters and retain No 1 spot",
-      "summary_original": "Aryna Sabalenka is clinging on to her US Open title and the world No 1 spot after an unconvincing win over Taylor Townsend.",
+      "title": "Defending champs Alcaraz と Sabalenka リーチ US Open 準決勝",
+      "summary": "Clinical Carlos Alcaraz クルージング後により多くのテニスの歴史を作るために一歩近づく全米オープンクォーターフィナーズ。",
+      "title_original": "Defending champs Alcaraz and Sabalenka reach US Open quarter-finals",
+      "summary_original": "Clinical Carlos Alcaraz moved a step closer to making more tennis history after cruising into the US Open quarter-finals.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13582495/us-open-2026-aryna-sabalenka-beats-taylor-townsend-to-reach-quarter-finals-and-retain-world-no-1-spot",
       "published": "Sun, 06 Sep 2026 18:18:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
