@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T19:22:03.342182+00:00",
+  "updated_at": "2026-09-06T19:34:44.542036+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1839,7 +1839,8 @@
     "Ainsley Maitland-Niles’s": "",
     "James Garner": "ジェームズ・ガーナー",
     "Goalkeeper Koeman Jr": "",
-    "Eredivisie Lamine Yamal": ""
+    "Eredivisie Lamine Yamal": "",
+    "Carrick's Man Utd": ""
   },
   "items": [
     {
@@ -1913,16 +1914,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Ex-Leicester ストライカーVardy 参加バーンリー",
-      "summary": "Former Leicester City イングランドストライカーJamie Vardy 参加するバーンリー季節の終わりまで。",
-      "title_original": "Ex-Leicester striker Vardy joins Burnley",
-      "summary_original": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
+      "title": "時計:ブンデスリーガハイライト",
+      "summary": "マッチデイ2 のハイライトを見るブンデスリーガ.",
+      "title_original": "Watch: Bundesliga highlights",
+      "summary_original": "Watch highlights from matchday two of the Bundesliga.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 14:01:54 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "url": "https://www.bbc.co.uk/iplayer/episode/l0058t4t?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 19:13:56 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -1955,6 +1956,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Ex-Leicester ストライカーVardy 参加バーンリー",
+      "summary": "Former Leicester City イングランドストライカーJamie Vardy 参加するバーンリー季節の終わりまで。",
+      "title_original": "Ex-Leicester striker Vardy joins Burnley",
+      "summary_original": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 14:01:54 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "どのサブが最大のインパクトを持っていたか?エヴァートン. .マンチェスター・ユナイテッド 選手採点",
       "summary": "使い方エヴァートンそして、マンチェスター・ユナイテッドの のプレーヤーは評価しました Hill Dickinson Stadium.",
       "title_original": "Which sub had biggest impact? Everton v Man Utd player ratings",
@@ -1980,20 +1995,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "なぜ?トッテナム' アンダーザレーダー購入は、夏の最もスマートな移籍かもしれません",
-      "summary": "Kirsty Hanson スワップアストン・ヴィラ獲得を問い合わせトッテナム信じる理由がありますトッテナム採用マスターストロークを脱いで、デビューを脱いで Brisbane Road.",
-      "title_original": "Why Spurs' under-the-radar buy might be summer's smartest deal",
-      "summary_original": "Kirsty Hanson swapped Aston Villa for Tottenham and there is reason to believe Spurs have pulled off a recruitment masterstroke, based off her debut at Brisbane Road.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3d1ky2642o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 13:48:58 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2095,6 +2096,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "なぜ?トッテナム' アンダーザレーダー購入は、夏の最もスマートな移籍かもしれません",
+      "summary": "Kirsty Hanson スワップアストン・ヴィラ獲得を問い合わせトッテナム信じる理由がありますトッテナム採用マスターストロークを脱いで、デビューを脱いで Brisbane Road.",
+      "title_original": "Why Spurs' under-the-radar buy might be summer's smartest deal",
+      "summary_original": "Kirsty Hanson swapped Aston Villa for Tottenham and there is reason to believe Spurs have pulled off a recruitment masterstroke, based off her debut at Brisbane Road.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3d1ky2642o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 13:48:58 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リヴァプール1 月1 日はサールで動くかもしれません -日曜日の移籍ゴシップ",
       "summary": "リヴァプール別の動きを作るかもしれないクリスタル・パレスウィンガーイスマイラ・サール1 月1 日トッテナムの Richarlison は、サウジ スイッチを探すことができます。",
       "title_original": "Liverpool may make January move for Sarr - Sunday's gossip",
@@ -2134,20 +2149,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'Not Football Manager' - De Zerbi ミスフィリングトッテナム必要性の時間",
-      "summary": "トッテナム自分の開口部3 でスコアが失敗しましたプレミアリーグゲームとマネージャー ロベルト・デ・ツェルビ氏は、チームに高価なチームを組み込む時間がかかります。",
-      "title_original": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-      "summary_original": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 17:56:55 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2655,6 +2656,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Great Britain そしてアイルランドは歴史的勝利を主張しますウォーカーカップスリラー",
+      "summary": "Great Britain そしてアイルランドは勝ちましたウォーカーカップ2015 年以降、神経収縮後遅れのカムバックは、131⁄2-121⁄2 スコアラインでアメリカを打つのを見た。",
+      "title_original": "Great Britain and Ireland claim historic win in Walker Cup thriller",
+      "summary_original": "Great Britain and Ireland won the Walker Cup for the first time since 2015 after a nerve-shredding late comeback saw them beat the USA by a 13½-12½ scoreline.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13582280/walker-cup-great-britain-and-ireland-produce-stunning-late-comeback-to-beat-usa-13-5-12-5-in-thrilling-contest",
+      "published": "Sun, 06 Sep 2026 20:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'ここにルールはありません' - ハミルトンは、Leclerc クラッシュ後のフェラーリを批判",
       "summary": "Lewis Hamilton チームメイトと衝突した後に「ルールなし」を持つフェラーリを認定しました Charles Leclerc 途中でイタリアグランプリ.",
       "title_original": "'There are no rules here' - Hamilton criticises Ferrari after Leclerc clash",
@@ -2767,9 +2782,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Czech Darts Open LIVE! リトル、ハフレーション、Van Gerwen セミ",
+      "title": "Czech Darts Open LIVE! リトルまたは Van Gerwen 決勝でハフトリーを直面する",
       "summary": "",
-      "title_original": "Czech Darts Open LIVE! Littler, Humphries and Van Gerwen in semis",
+      "title_original": "Czech Darts Open LIVE! Littler or Van Gerwen to face Humphries in final",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/live-blog/12040/13582276/czech-darts-open-live-scores-updates-commentary-from-third-round-as-luke-littler-and-luke-humphries-in-action-in-prague",
@@ -2778,6 +2793,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "カーリックのマンチェスター・ユナイテッドコナーサが輝きを放つような輝きアーセナル",
+      "summary": "",
+      "title_original": "Carrick's Man Utd missing spark as Konsa shines for Arsenal",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13582506/man-utd-miss-attacking-spark-against-everton-as-ezri-konsa-for-arsenal-premier-league-hits-and-misses",
+      "published": "Sun, 06 Sep 2026 20:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2900,34 +2929,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13582466/erdenali-shines-at-top-table-to-claim-prix-du-moulin-honours",
       "published": "Sun, 06 Sep 2026 17:40:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Dunkley ヒット トン として イングランド clinch ODI シリーズ sweep の アイルランド",
-      "summary": "イングランドは3〜3 日連続で優勝したアイルランドの3〜3 スイープを確保インテル日曜日に Worcester で114 ランによるシリーズの全国。",
-      "title_original": "Dunkley hits ton as England clinch ODI series sweep of Ireland",
-      "summary_original": "England secured a 3-0 sweep of Ireland as they won the third and final one-day international of the series by 114 runs in Worcester on Sunday.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13582326/england-clinch-odi-series-sweep-of-ireland-as-sophia-dunkley-hits-second-international-century-in-114-run-win",
-      "published": "Sun, 06 Sep 2026 14:35:00 BST",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Wimbledon は立場から取ります US Open-style インフルエンサーインフルエンザ",
-      "summary": "",
-      "title_original": "Wimbledon set to take stand against US Open-style influencer influx",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13576448/us-open-tennis-news-draw-schedule-results-and-updates-from-flushing-meadows-in-new-york",
-      "published": "Sun, 06 Sep 2026 18:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
