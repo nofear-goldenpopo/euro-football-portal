@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T18:25:42.911641+00:00",
+  "updated_at": "2026-09-06T18:38:16.271297+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1823,7 +1823,8 @@
     "Russell Monza": "",
     "Francis-Henri Graffard": "フランシスアンリ・グラファール",
     "Rashford Tunnel": "",
-    "Marcus Ras": ""
+    "Marcus Ras": "",
+    "Emirates Stadium": "エミレーツ・スタジアム"
   },
   "items": [
     {
@@ -1880,6 +1881,34 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "バウムのスコアはデビューとしてアーセナルエッジブライトン",
+      "summary": "Lisa Baum 彼女のスコアアーセナルガンナーズのビートとしてデビューブライトン1-0 で Women's Super League.",
+      "title_original": "Baum scores on debut as Arsenal edge Brighton",
+      "summary_original": "Lisa Baum scores on her Arsenal debut as the Gunners beat Brighton 1-0 in the Women's Super League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/czxz0j29eg2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 16:42:05 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェルシー敗北へアーセナル痛む - アロンソ",
+      "summary": "チェルシーマネージャーシャビ・アロンソ2-1 敗北をライバルに反応するアーセナルスリリングなロンドンダービーでエミレーツ・スタジアム.",
+      "title_original": "Chelsea defeat to Arsenal hurts - Alonso",
+      "summary_original": "Chelsea manager Xabi Alonso reacts to their 2-1 defeat to rivals Arsenal in a thrilling London derby at the Emirates Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gj7y52393o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 18:35:26 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2107,20 +2136,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バウムのスコアはデビューとしてアーセナルエッジブライトン",
-      "summary": "Lisa Baum 彼女のスコアアーセナルガンナーズのビートとしてデビューブライトン1-0 で Women's Super League.",
-      "title_original": "Baum scores on debut as Arsenal edge Brighton",
-      "summary_original": "Lisa Baum scores on her Arsenal debut as the Gunners beat Brighton 1-0 in the Women's Super League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/czxz0j29eg2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 16:42:05 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "カーリック「失望」マンチェスター・ユナイテッドゲームが見えない",
       "summary": "マンチェスター・ユナイテッドログインマイケル・キャリック彼の側面は、ゲームをより困難にした決定をしたと言うエヴァートンストップページタイムイコライザーでポイントを救助 Hill Dickinson Stadium.",
       "title_original": "Carrick 'disappointed' that Man Utd could not see game out",
@@ -2226,20 +2241,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/ckgxzygyd3ro?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 05 Sep 2026 18:04:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Jaissle fumes 時 'slapstick' 目標 としてニューカッスル救助のボーンマスの引くこと",
-      "summary": "ニューカッスルマネージャーMatthias Jaissle 後半2-2 の「混合感情」を Bournemouth に引き寄せ、彼の側で強制された目標を記述セント・ジェームズ・パーク (ニューカッスル・アポン・タイン)「スラップスティック」として。",
-      "title_original": "Jaissle fumes at 'slapstick' goals as Newcastle rescue Bournemouth draw",
-      "summary_original": "Newcastle United manager Matthias Jaissle shares his \"mixed feelings\" on their late 2-2 draw against Bournemouth, describing the goals conceded by his side at St. James' Park as \"slapstick\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvgy1nvm5jko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 15:13:39 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
