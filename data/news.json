@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T16:24:55.778418+00:00",
+  "updated_at": "2026-09-06T16:37:08.487770+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1796,7 +1796,8 @@
     "Kai Havertz": "",
     "Maro Itoje": "",
     "Courtney Lawes": "コートニー・ローズ",
-    "Joe Marchant": ""
+    "Joe Marchant": "",
+    "Josh Fowler's": ""
   },
   "items": [
     {
@@ -2226,7 +2227,7 @@
       "summary_original": "Minute-by-minute updates from the action at the Emirates Stadium Arsenal bank on continuity after window closes And now a third goal… There’s been a second goal at Hill Dickinson Stadium. Clickity click click click! Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
-      "published": "Sun, 06 Sep 2026 16:14:19 GMT",
+      "published": "Sun, 06 Sep 2026 16:25:40 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2640,6 +2641,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "二重のフローラーSt Johnstone ハイブを打つ",
+      "summary": "Josh Fowler's ファーストハーフダブルセキュア St Johnstone2-1 は Hibernian で勝ち、テーブルの相手の上にそれらを移動しました。",
+      "title_original": "Fowler at the double as St Johnstone beat Hibs",
+      "summary_original": "Josh Fowler's first-half double secured St Johnstone a 2-1 win over Hibernian and moved them above their opponents in the table.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/st-johnstone-vs-hibernian/report/558367",
+      "published": "Sun, 06 Sep 2026 16:50:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "エヴァートン最新:ジョージは問題でしたマンチェスター・ユナイテッド, 彼はあまりにも良くなるだろう, モイエは言う",
       "summary": "",
       "title_original": "Everton latest: George was problem for Man Utd, he'll get better too, says Moyes",
@@ -2682,9 +2697,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Neto が投稿をヒットアーセナルそして、チェルシースリル満点のダービーLIVE! & ハイライト",
+      "title": "Neto が投稿をヒットアーセナルそして、チェルシースリル満点のダービーLIVE!",
       "summary": "",
-      "title_original": "Neto hits the post with Arsenal and Chelsea level in thrilling derby LIVE! & highlights",
+      "title_original": "Neto hits the post with Arsenal and Chelsea level in thrilling derby LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/arsenal-vs-chelsea/live/559464",
@@ -2724,9 +2739,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランドのクランチ 3-0 ODI シリーズが114 ランの勝利 LIVE でアイルランドの広がり!",
+      "title": "イングランドのクランチ 3-0 ODI シリーズは、114 ランの勝利でアイルランドの広がり-それが起こったように",
       "summary": "",
-      "title_original": "England clinch 3-0 ODI series sweep of Ireland with 114-run win LIVE!",
+      "title_original": "England clinch 3-0 ODI series sweep of Ireland with 114-run win- as it happened",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13581569/england-vs-ireland-third-womens-odi-live-cricket-score-updates-video-and-analysis-from-final-match-of-series-in-worcester",
@@ -2763,6 +2778,20 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "後悔する不当な遺物は、ローレンス・スナッチとして、European Masters タイトル",
+      "summary": "Paul Casey 驚くべきことに勝つために一連のパットを逃しました Omega European Masters 防衛王者を失う前に Thriston Lawrence4 つのプレーオフホール。",
+      "title_original": "Casey left to regret missed putts as Lawrence snatches European Masters title",
+      "summary_original": "Paul Casey astonishingly missed a series of putts to win the Omega European Masters before losing to defending champion Thriston Lawrence at the fourth play-off hole.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13582287/dp-world-tour-paul-casey-misses-crucial-putts-at-omega-european-masters-as-thriston-lawrence-claims-third-title",
+      "published": "Sat, 05 Sep 2026 17:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2885,34 +2914,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13582384/goal-a-maitland-niles-906-everton-2-2-manchester-utd",
       "published": "Sun, 06 Sep 2026 16:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ベンチからもっとヒロニクス! Sesko の頭部のためのマンチェスター・ユナイテッド遅くなる",
-      "summary": "ベンヤミン・シェシュコの ヘッダはマンチェスター・ユナイテッド自分のペースで遅れてプレミアリーグクラッシュとエヴァートン.",
-      "title_original": "More heroics from the bench! Sesko heads in for Man Utd late on",
-      "summary_original": "Benjamin Sesko's header puts Manchester United back in front late on in their Premier League clash with Everton.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582376/goal-b-sesko-88-everton-1-2-manchester-utd",
-      "published": "Sun, 06 Sep 2026 15:52:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "あなたの開き方エヴァートン獲得を問い合わせ ジョージ・スコアスチュナー 後半に",
-      "summary": "タイリーク・ジョージ遅いスチュナーを獲得エヴァートン獲得を問い合わせプレミアリーグクラッシュとマンチェスター・ユナイテッド.",
-      "title_original": "What a way to open your Everton account! George scores STUNNER late on",
-      "summary_original": "Tyrique George scored a late stunner in Everton's Premier League clash with Manchester United.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582370/goal-t-george-83-everton-1-1-manchester-utd",
-      "published": "Sun, 06 Sep 2026 15:48:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
