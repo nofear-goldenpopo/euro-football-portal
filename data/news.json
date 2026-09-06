@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T13:35:45.384559+00:00",
+  "updated_at": "2026-09-06T13:49:23.963236+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1751,9 +1751,28 @@
     "Ian Copestake": "",
     "John Stedman": "",
     "Dining Across": "",
-    "Jackson Tchatchoua's": ""
+    "Jackson Tchatchoua's": "",
+    "Former Leicester City": "",
+    "Lisa Baum’s": "",
+    "Saka NEEDS": "",
+    "Ian Wright": "イアン・ライト",
+    "Daniel Sturridge": ""
   },
   "items": [
+    {
+      "title": "Ex-Leicester ストライカーVardy 参加バーンリー",
+      "summary": "Former Leicester City イングランドストライカーJamie Vardy 参加するバーンリー季節の終わりまで。",
+      "title_original": "Ex-Leicester striker Vardy joins Burnley",
+      "summary_original": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 13:47:10 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "警察はポートズマスで Bielik ファンの衝突を調査します",
       "summary": "警察はカーディフ・ディフェンダー間の事件を調査していますクリスティアン・ビエリク土曜日にポンペイの2-0 ホームウィン中のポートスマスサポーター。",
@@ -1783,20 +1802,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナルショートリストに20 人以上のプレーヤーがタイトルの勝利に加わりました",
-      "summary": "シニアサッカー対応 Sami Mokbel インサイドアーセナルの は、資本金を請求するプレミアリーグ今年の夏にチームを組んだタイトルと強化。",
-      "title_original": "Arsenal had more than 20 players on shortlist to capitalise on title win",
-      "summary_original": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 19:08:30 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "リヴァプール1 月1 日はサールで動くかもしれません -日曜日の移籍ゴシップ",
       "summary": "リヴァプール別の動きを作るかもしれないクリスタル・パレスウィンガーイスマイラ・サール1 月1 日トッテナムの Richarlison は、サウジ スイッチを探すことができます。",
       "title_original": "Liverpool may make January move for Sarr - Sunday's gossip",
@@ -1808,20 +1813,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "3 つのゲームから7 つのポイントハル回復を避けるためにトラックで?",
-      "summary": "生存的な話を解決するのは早いかもしれませんが、新しく進めるハル・シティ AFC ビルドするのに最適なプラットフォームを自分で与えられていますプレミアリーグ.",
-      "title_original": "Seven points from three games - are Hull on track to avoid relegation?",
-      "summary_original": "It might be too early to settle survival talk, but newly promoted Hull City have given themselves the perfect platform to build on in the Premier League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8zd574yzyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 20:56:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1937,6 +1928,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アーセナルショートリストに20 人以上のプレーヤーがタイトルの勝利に加わりました",
+      "summary": "シニアサッカー対応 Sami Mokbel インサイドアーセナルの は、資本金を請求するプレミアリーグ今年の夏にチームを組んだタイトルと強化。",
+      "title_original": "Arsenal had more than 20 players on shortlist to capitalise on title win",
+      "summary_original": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 19:08:30 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "3 つのゲームから7 つのポイントハル回復を避けるためにトラックで?",
+      "summary": "生存的な話を解決するのは早いかもしれませんが、新しく進めるハル・シティ AFC ビルドするのに最適なプラットフォームを自分で与えられていますプレミアリーグ.",
+      "title_original": "Seven points from three games - are Hull on track to avoid relegation?",
+      "summary_original": "It might be too early to settle survival talk, but newly promoted Hull City have given themselves the perfect platform to build on in the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8zd574yzyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 20:56:25 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmrgl3zerpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 06:02:35 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'Not Football Manager' - De Zerbi ミスフィリングトッテナム必要性の時間",
       "summary": "トッテナム自分の開口部3 でスコアが失敗しましたプレミアリーグゲームとマネージャー ロベルト・デ・ツェルビ氏は、チームに高価なチームを組み込む時間がかかります。",
       "title_original": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
@@ -1993,34 +2026,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フォックスの痛みとバーンリー苦しむハンガー -Aaron McLean's EFL テイクアウト",
-      "summary": "Leicester、Millwall、Swindon、Stoke およびバーンリーこの週末の EFL の試合から話しているポイントの中にあります。",
-      "title_original": "Foxes pain and Burnley suffer hangover - Aaron McLean's EFL takeaways",
-      "summary_original": "Leicester, Millwall, Swindon, Stoke and Burnley are among the talking points from this weekend's EFL matches.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czxzyyvk24po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 20:23:01 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmrgl3zerpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 06:02:35 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "グラスナーとウィリアムズの紛争 VAR はフォレストハンドボールの上にコール",
       "summary": "ノッティンガム・フォレストマネージャーオリヴァー・グラスナーそして、Neco WilliamsVAR は、守備者の目標を守らないようにするトッテナム.",
       "title_original": "Glasner and Williams dispute VAR call over Forest handball",
@@ -2032,6 +2037,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フォックスの痛みとバーンリー苦しむハンガー -Aaron McLean's EFL テイクアウト",
+      "summary": "Leicester、Millwall、Swindon、Stoke およびバーンリーこの週末の EFL の試合から話しているポイントの中にあります。",
+      "title_original": "Foxes pain and Burnley suffer hangover - Aaron McLean's EFL takeaways",
+      "summary_original": "Leicester, Millwall, Swindon, Stoke and Burnley are among the talking points from this weekend's EFL matches.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czxzyyvk24po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 20:23:01 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2161,27 +2180,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェリーとしてチームの「自信」を誇りに思うローズは、リードスリップ",
-      "summary": "ボーンマスマネージャーMarco Rose チームを監視しているにもかかわらず、彼の側面の「自信」を賞賛しました。ドラマティック 2-2 で描くニューカッスル. ボーンマスマネージャーMarco Rose チームを監視しているにもかかわらず、彼の側面の「自信」を賞賛しました。ドラマティック 2-2 で描くニューカッスル.",
-      "title_original": "Rose proud of team 'confidence' as Cherries let lead slip",
-      "summary_original": "Bournemouth manager Marco Rose praised his side's \"confidence\" despite seeing his team surrender a two-goal lead in a dramatic 2-2 draw at Newcastle. Bournemouth manager Marco Rose praised his side's \"confidence\" despite seeing his team surrender a two-goal lead in a dramatic 2-2 draw at Newcastle.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cew9knre1pxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 14:49:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "エヴァートン. .マンチェスター・ユナイテッド: プレミアリーグ– ライブ",
       "summary": "アクションから数分の更新 Hill Dickinson Stadium Transfer 障害は残しますエヴァートンスクランブル |Mail Tim「選択されたスキュートブ」は言う Ian Copestake, 有望に, 「からエヴァートン Birkenhead からゲームへの列車のファンは、ファンが嘘をついていたことです。新しいオーナーが作った約束(真新しいスタジアムは記載されていない)は満たしていません。Mutiny は角を丸く(砂丘でおそらく)。予期しない提案から John Stedman. 「わたしは新しいものが好き」Dining Across ディジ",
       "title_original": "Everton v Manchester United: Premier League – live",
       "summary_original": "Minute-by-minute updates from the action at Hill Dickinson Stadium Transfer failures leave Everton scrambling | Mail Tim “Selected scuttlebut,” says Ian Copestake, promisingly, “from Everton fans on the train from Birkenhead to the game is that the fans have been lied to. Promises made by the new owners (shiny new stadium not mentioned) have not been fulfilled. Mutiny is round the corner (probably at Sandhills).” An unexpected proposal from John Stedman. “I like the new(ish) Dining Across the Di",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/06/everton-v-manchester-united-premier-league-live",
-      "published": "Sun, 06 Sep 2026 13:19:28 GMT",
+      "published": "Sun, 06 Sep 2026 13:39:52 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2189,13 +2194,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブライトン 0-1 アーセナル: Women’s Super League– ライブ反応",
-      "summary": "12pm(BST)のキックオフ WSL 移籍ポイントから数分の更新 |Email Rob1 分:アーセナルオフから静かにボールを渡す。Lisa Baum そして、Olivia SmithRusso の上の翼のエーテルの側面をパトロールしています。ピープピープピープ そして、私たちはオフです。ブライトン青で。アーセナルイエローシャツと青のショートパンツ。続きを読む...",
-      "title_original": "Brighton 0-1 Arsenal: Women’s Super League – live reaction",
-      "summary_original": "Minute-by-minute updates from 12pm (BST) kick-off WSL transfer talking points | Email Rob 1 min: Arsenal pass the ball around serenely from the off. Lisa Baum and Olivia Smith are patrolling the wings ether side of Russo up top. Peep peep! And we’re off. Brighton in blue. Arsenal in yellow shirts and blue shorts. Continue reading...",
+      "title": "ブライトン 0-1 アーセナル: Women’s Super League- それが起こったように",
+      "summary": "Lisa Baum’s 素晴らしいソロゴール獲得アーセナル狭い勝利ですが、Arturo Ruiz 第一試合から希望を申し込むブライトン1 分:アーセナルオフから静かにボールを渡す。Lisa Baum そして、Olivia SmithRusso の上の翼のエーテルの側面をパトロールしています。ピープピープピープ そして、私たちはオフです。ブライトン青で。アーセナルイエローシャツと青のショートパンツ。続きを読む...",
+      "title_original": "Brighton 0-1 Arsenal: Women’s Super League – as it happened",
+      "summary_original": "Lisa Baum’s superb solo goal earned Arsenal a narrow win but Arturo Ruiz will take hope from his first game in charge of Brighton 1 min: Arsenal pass the ball around serenely from the off. Lisa Baum and Olivia Smith are patrolling the wings ether side of Russo up top. Peep peep! And we’re off. Brighton in blue. Arsenal in yellow shirts and blue shorts. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/06/brighton-v-arsenal-womens-super-league-live",
-      "published": "Sun, 06 Sep 2026 13:16:26 GMT",
+      "published": "Sun, 06 Sep 2026 13:21:42 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2595,9 +2600,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イタリアグランプリ: レースは、ルーセルのリードライブとして巨大なレクルクのクラッシュの後に停止!",
+      "title": "イタリアグランプリ: Russell は巨大な Leclerc クラッシュ LIVE の後、リードのためにガスリーを戦います!",
       "summary": "",
-      "title_original": "Italian GP: Race stopped after huge Leclerc crash as Russell leads LIVE!",
+      "title_original": "Italian GP: Russell battles Gasly for lead after huge Leclerc crash LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13581630/f1-italian-gp-live-race-updates-results-stream-highlights-from-13th-round-of-2026-formula-1-season-at-hungaroring-at-monza",
@@ -2609,9 +2614,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "England set Ireland、of 292 to win LIVE!を獲得候補に",
+      "title": "イングランドは、アイルランドのチェイス292 として初期ウィケットを服用し、第三に勝つ ODI LIVE!",
       "summary": "",
-      "title_original": "England set Ireland target of 292 to win LIVE!",
+      "title_original": "England take early wicket as Ireland chase 292 to win third ODI LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13581569/england-vs-ireland-third-womens-odi-live-cricket-score-updates-video-and-analysis-from-final-match-of-series-in-worcester",
@@ -2647,6 +2652,20 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'Saka NEEDS レベルアップ - Nev、Wright、Carra、Sturridge の議論アーセナルの攻撃",
+      "summary": "イアン・ライト, Jamie Carragher, ガリー・ネヴィルそして、Daniel Sturridge どのように議論アーセナルの の攻撃形状と、ブカヨ・サカガンナーの別のレベルまでステップアップする必要があります。",
+      "title_original": "'Saka NEEDS to level up' - Nev, Wright, Carra & Sturridge debate Arsenal's attack",
+      "summary_original": "Ian Wright, Jamie Carragher, Gary Neville and Daniel Sturridge debate how Arsenal's attack shapes up and whether Bukayo Saka needs to step up to another level for the Gunners.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13582290/carragher-wright-neville-and-sturridge-debate-whether-saka-needs-to-step-up-more-for-arsenal",
+      "published": "Sun, 06 Sep 2026 13:28:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2805,20 +2824,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Fernandes ヒット 棒 と ユナイテッド に トップ アットエヴァートンライブ! & ハイライト",
-      "summary": "",
-      "title_original": "Fernandes hits the bar with United on top at Everton LIVE! & highlights",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/everton-vs-manchester-united/live/559467",
-      "published": "Tue, 28 Jul 2026 10:31:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "クレイジーオウンゴール見る Birmingham ホールド Wolves",
       "summary": "Birmingham と Wolves が chaotic 2-2 として描く Jackson Tchatchoua's オウンゴール共有スピルを見た。",
       "title_original": "Crazy own goal sees Birmingham hold Wolves",
@@ -2829,6 +2834,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "バリーは大きいチャンスをとりますエヴァートンフラストレーションマンチェスター・ユナイテッドライブ! & ハイライト",
+      "summary": "",
+      "title_original": "Barry spurns big chance with Everton frustrating Man Utd LIVE! & highlights",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/everton-vs-manchester-united/live/559467",
+      "published": "Tue, 28 Jul 2026 10:31:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2854,20 +2873,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13581945/wakefield-trinity-25-18-warrington-wolves-super-league-highlights",
       "published": "Sun, 06 Sep 2026 00:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "タイヤが丸1 のロープを通って落ちるので、奇妙なファッションで同盟の戦いの端",
-      "summary": "Dave Allen's ヘビー級クラッシュと Thomas Carty 獲得を問い合わせクローク・パークアイルランドのお気に入りが最初のラウンド中にリングから落ちた後、奇妙なコンテストで終了しました。",
-      "title_original": "Allen fight ends in bizarre fashion as Carty falls through ropes in round one",
-      "summary_original": "Dave Allen's heavyweight clash with Thomas Carty at Croke Park ended in a bizarre no contest after the Irish favourite fell out of the ring during the first round.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13582130/david-allen-fight-ends-in-bizarre-fashion-as-thomas-carty-falls-through-ropes-in-round-one-on-katie-taylor-undercard",
-      "published": "Sat, 05 Sep 2026 21:50:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
