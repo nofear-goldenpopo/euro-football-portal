@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T09:36:48.654965+00:00",
+  "updated_at": "2026-09-06T09:49:21.470220+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1712,7 +1712,9 @@
     "Is Bain": "",
     "With Sebastien Pocognoli": "",
     "Scott Bain": "",
-    "Russell Martin": ""
+    "Russell Martin": "",
+    "Worcester. Watch": "",
+    "Sky Sports Cricket": "Sky Sports"
   },
   "items": [
     {
@@ -2570,6 +2572,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スコアカード:イングランド対アイルランド、第三女性 ODI",
+      "summary": "3 日目から最終日までの最新スコアインテルイングランドとアイルランドの国 Worcester. Watch 獲得を問い合わせ Sky Sports.",
+      "title_original": "Scorecard: England vs Ireland, third women's ODI",
+      "summary_original": "Latest score from the third and final one-day international between England and Ireland in Worcester. Watch on Sky Sports Cricket.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/england-women-v-ireland-women/scorecard/2bcda366-f5e0-50a1-9e3e-d68c0f6994ca",
+      "published": "Sun, 06 Sep 2026 10:18:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「キャリア全体のハイライト」 - テイラー ecstatic とクローク・パークスワンソン",
       "summary": "Katie Taylor 先代の戦いで3 回無争世界チャンピオンになったと宣言クローク・パーク装飾されたキャリアの最も特別な瞬間として。",
       "title_original": "'The highlight of my whole career' - Taylor ecstatic with Croke Park swansong",
@@ -2815,20 +2831,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13581713/czech-darts-open-luke-humphries-knocks-out-beau-greaves-as-luke-littler-and-michael-van-gerwen-also-win",
       "published": "Sat, 05 Sep 2026 13:55:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "セルティック後ろから St Mirren 勝ち始めを維持するため",
-      "summary": "セルティック彼らの勝利の始まりに彼らの勝利のスタートを握るために後ろから来た Scottish Premiership タイトルの防衛として St Mirren 季節の最初の敗北に苦しむ。",
-      "title_original": "Celtic come from behind at St Mirren to maintain winning start",
-      "summary_original": "Celtic came from behind to hold onto their winning start to their Scottish Premiership title defence as St Mirren suffered their first defeat of the season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/st-mirren-vs-celtic/report/558368",
-      "published": "Sat, 05 Sep 2026 21:50:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
