@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T13:49:23.963236+00:00",
+  "updated_at": "2026-09-06T14:06:16.674308+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1756,7 +1756,18 @@
     "Lisa Baum’s": "",
     "Saka NEEDS": "",
     "Ian Wright": "イアン・ライト",
-    "Daniel Sturridge": ""
+    "Daniel Sturridge": "",
+    "Kirsty Hanson": "",
+    "Brisbane Road": "",
+    "Emirates Stadium Arsenal": "",
+    "Mail Rob Half": "",
+    "Man Utd It’s": "",
+    "Hill Dickinson Stadium. Here’s": "",
+    "Adam Armstrong": "",
+    "Jackson Tchatchoua": "ジャクソン・チャチュア",
+    "César Peixoto’s": "",
+    "Championship. Instead": "",
+    "Thierno Barry": ""
   },
   "items": [
     {
@@ -1766,7 +1777,7 @@
       "summary_original": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 13:47:10 GMT",
+      "published": "Sun, 06 Sep 2026 14:01:54 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -1799,6 +1810,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "なぜ?トッテナム' アンダーザレーダー購入は、夏の最もスマートな移籍かもしれません",
+      "summary": "Kirsty Hanson スワップアストン・ヴィラ獲得を問い合わせトッテナム信じる理由がありますトッテナム採用マスターストロークを脱いで、デビューを脱いで Brisbane Road.",
+      "title_original": "Why Spurs' under-the-radar buy might be summer's smartest deal",
+      "summary_original": "Kirsty Hanson swapped Aston Villa for Tottenham and there is reason to believe Spurs have pulled off a recruitment masterstroke, based off her debut at Brisbane Road.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3d1ky2642o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 13:48:58 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1984,20 +2009,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フェルナンデスそして、エンディアイエ約束の兆候を示すマンチェスター・シティデビュー",
-      "summary": "マンチェスター・シティ期限日の才能の1億8500万ポンド を与えましたプレミアリーグ Coventry の勝利でデビュー - マネージャーEnzo Maresca 彼が見たことを楽しんだ。",
-      "title_original": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-      "summary_original": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 18:04:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "使い方マンチェスター・ユナイテッド大規模なライバルとトップで競争する計画",
       "summary": "マネージャーマイケル・キャリック執行役員 Omar Berrada 自分の視点で統一されているマンチェスター・ユナイテッドクラブの比較的低い夏の過ごしにもかかわらず、成功することができます。",
       "title_original": "How Man Utd plan to compete at top with big-spending rivals",
@@ -2068,6 +2079,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "フェルナンデスそして、エンディアイエ約束の兆候を示すマンチェスター・シティデビュー",
+      "summary": "マンチェスター・シティ期限日の才能の1億8500万ポンド を与えましたプレミアリーグ Coventry の勝利でデビュー - マネージャーEnzo Maresca 彼が見たことを楽しんだ。",
+      "title_original": "Fernandez and Ndiaye show signs of promise on Man City debuts",
+      "summary_original": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 18:04:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Fulham booed オフ 後に 第三 敗北 に 行",
       "summary": "Fulham は 3-2 に続く一部のサポーターによって起動されます。プレミアリーグで敗北クリスタル・パレス獲得を問い合わせクレイヴン・コテージ.",
       "title_original": "Fulham booed off after third defeat in a row",
@@ -2078,20 +2103,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "誰が運ぶかレンジャーズ「重要な」の後の目標の脅威 シャンクランド傷害か。",
-      "summary": "レンジャーズキャプテン Lawrence Shankland「重要な」ハムストリングの怪我をピックアップした後、サイドラインの呪文をセットします Saturday's Scottish Premiership マザーウェルの勝利。",
-      "title_original": "Who will carry Rangers' goal threat after 'significant' Shankland injury?",
-      "summary_original": "Rangers captain Lawrence Shankland is set for a spell on the sidelines after picking up a \"significant\" hamstring injury in Saturday's Scottish Premiership victory over Motherwell.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3640rrp1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 18:49:30 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2186,7 +2197,21 @@
       "summary_original": "Minute-by-minute updates from the action at Hill Dickinson Stadium Transfer failures leave Everton scrambling | Mail Tim “Selected scuttlebut,” says Ian Copestake, promisingly, “from Everton fans on the train from Birkenhead to the game is that the fans have been lied to. Promises made by the new owners (shiny new stadium not mentioned) have not been fulfilled. Mutiny is round the corner (probably at Sandhills).” An unexpected proposal from John Stedman. “I like the new(ish) Dining Across the Di",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/06/everton-v-manchester-united-premier-league-live",
-      "published": "Sun, 06 Sep 2026 13:39:52 GMT",
+      "published": "Sun, 06 Sep 2026 13:59:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アーセナル. .チェルシー: プレミアリーグ– ライブ",
+      "summary": "エミレーツスタジアムでのアクションから数分の更新アーセナルウィンドウを閉じた後の継続上の銀行 |Mail Rob Half 時間:エヴァートン 0-0 マンチェスター・ユナイテッド早い段階でゴールレスですプレミアリーグゲーム Hill Dickinson Stadium. Here’s 偉大なティム・デ・リスルが最初の半分を要約する方法: ゴールなし、スリルなし、吸収性のある出会い。それは1-1 でなければなりません: クンハは、ユナイテッドとバリーのためにスコアを持っている必要がありますエヴァートン, 両方の試みは、タタでそれらを取得しやすく見えるとき、バーを上に行くために",
+      "title_original": "Arsenal v Chelsea: Premier League – live",
+      "summary_original": "Minute-by-minute updates from the action at the Emirates Stadium Arsenal bank on continuity after window closes | Mail Rob Half time: Everton 0-0 Man Utd It’s goalless in the early Premier League game at Hill Dickinson Stadium. Here’s how the great Tim de Lisle summarised the first half: No goals, no thrills, but an absorbing encounter. It ought to be 1-1: Cunha should have scored for United and Barry for Everton , only for both attempts to go over the bar when it looked easier to get them on ta",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
+      "published": "Sun, 06 Sep 2026 14:02:28 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2208,16 +2233,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アルテタ v アロンソ、パート1:カオスの背後にある制御と理論の欲求 |Jonathan Wilson",
-      "summary": "ミケル・アルテタそして、シャビ・アロンソ初めての有利な戦術的な戦いの準備プレミアリーグ古い友人同士のミーティング コントロール v カオス. 一方、秩序の力、委任され、精密なパターンで再生し、他では、より暗く、より視覚的、人間の魂の不完全性を認識する方法、すべてのランダム性でサッカーの無知性;より良い、第二の方法は、それが活用されるかもしれないと信じるよりも fury に乗るしようとすると言います。はじめに",
-      "title_original": "Arteta v Alonso, part one: a desire for control and the theory behind the chaos | Jonathan Wilson",
-      "summary_original": "Mikel Arteta and Xabi Alonso prepare for an intriguing tactical battle in the first Premier League meeting between old friends Control v chaos. On the one hand, the forces of order, regimented, playing in precise patterns and, on the other, something darker, more visceral, a method that acknowledges the imperfection of the human soul, the unknowability of football in all its randomness; better, that second way says, to attempt to ride the fury than to believe it might be harnessed. When it began",
+      "title": "アームストロングはダービーをバーミンガムとウルフズのドローとして勝つために黄金のチャンスを浄化します",
+      "summary": "獲得を問い合わせ Adam Armstrong、Wolves のストライカーは、そのチームメイトと同じスタイルで終了した3 分の金チャンスで提示しましたジャクソン・チャチュア季節の最も記憶に残る1 つを刻むときオウンゴール sbefore ハーフタイム, その後 César Peixoto’s チームは確かに2 位に座っている Championship. Instead, アームストロングは、オープンゴールとバーミンガムで彼のショットを持ち上げて、彼らは Tchatchoua の howler に資本を積んだとして、リーグのシーズンに彼らの不当なスタートを拡張するために値しました",
+      "title_original": "Armstrong spurns golden chance to win derby as Birmingham and Wolves draw",
+      "summary_original": "If only Adam Armstrong, the Wolves striker presented with a golden chance three minutes from time, had finished with the same style as his teammate Jackson Tchatchoua when scoring one of the season’s most memorable own goalsbefore half-time, then César Peixoto’s team would surely be sitting in second place in the Championship. Instead, Armstrong lifted his shot over an open goal and Birmingham deserved to extend their unbeaten start to the league season as they capitalised on Tchatchoua’s howler",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/mikel-arteta-xabi-alonso-chelsea-arsenal",
-      "published": "Sat, 05 Sep 2026 19:00:44 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/sep/06/birmingham-wolves-championship-match-report",
+      "published": "Sun, 06 Sep 2026 13:40:19 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2292,16 +2317,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チルウェルシールクリスタル・パレス Fulham の Mitchell の二重の後のコブ・ウィン",
-      "summary": "管理者は変更されることがありますが、結果は同じままです。ロンドン西のこの部分への4 番目の成功旅行のために、クリスタル・パレス川の上を戻し、勝利を勝ち取る Pierre Sage ドラマティックなスタイルでマークを脱いだ。彼らのヒーローは Ben Chilwell, ストラスブールから期限日に獲得された元イングランドの左戻り – 今回は永続的に, 彼は助けた融資呪文の後クリスタル・パレス勝つ FA Cup– 彼が勝利者を家に帰った後、彼はベンチをオフにした. 苦い打撃だった",
-      "title_original": "Chilwell seals Crystal Palace comeback win after Mitchell double at Fulham",
-      "summary_original": "The managers may have changed but the result stays the same. For the fourth successive trip to this part of west London, Crystal Palace returned over the river with a win as Pierre Sage got his reign off the mark in dramatic style. Their hero was Ben Chilwell, the former England left-back who was signed on deadline day from Strasbourg – this time permanently, after a loan spell in which he helped Palace win the FA Cup – after he came off the bench to volley home the winner. It was a bitter blow ",
+      "title": "Uefa 法的なケースは、トランプのサポートとして Infantino の端から始まるかもしれません |Barney Ronay",
+      "summary": "Fifa の失敗した計画に関連する発見の順序は、販売する World Cup アメリカ大統領は、犯人にとって悪く終わる傾向にある状況を心配します。Tell Mike ちょうどビジネスでした。私はいつも彼が好きでした。続きを読む...",
+      "title_original": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
+      "summary_original": "The order of discovery related to Fifa’s failed plan to sell the World Cup will worry the American president, a situation that tends to end badly for the culprit “Tell Mike it was just business. I always liked him.” “He understands.” Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/fulham-crystal-palace-premier-league-match-report",
-      "published": "Sat, 05 Sep 2026 16:13:47 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
+      "published": "Sat, 05 Sep 2026 07:00:29 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2446,6 +2471,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チルウェルシールクリスタル・パレス Fulham の Mitchell の二重の後のコブ・ウィン",
+      "summary": "管理者は変更されることがありますが、結果は同じままです。ロンドン西のこの部分への4 番目の成功旅行のために、クリスタル・パレス川の上を戻し、勝利を勝ち取る Pierre Sage ドラマティックなスタイルでマークを脱いだ。彼らのヒーローは Ben Chilwell, ストラスブールから期限日に獲得された元イングランドの左戻り – 今回は永続的に, 彼は助けた融資呪文の後クリスタル・パレス勝つ FA Cup– 彼が勝利者を家に帰った後、彼はベンチをオフにした. 苦い打撃だった",
+      "title_original": "Chilwell seals Crystal Palace comeback win after Mitchell double at Fulham",
+      "summary_original": "The managers may have changed but the result stays the same. For the fourth successive trip to this part of west London, Crystal Palace returned over the river with a win as Pierre Sage got his reign off the mark in dramatic style. Their hero was Ben Chilwell, the former England left-back who was signed on deadline day from Strasbourg – this time permanently, after a loan spell in which he helped Palace win the FA Cup – after he came off the bench to volley home the winner. It was a bitter blow ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/05/fulham-crystal-palace-premier-league-match-report",
+      "published": "Sat, 05 Sep 2026 16:13:47 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Luka Vuskovic 救助への乗り物ブライトンとしてリーズチャンスを取らない",
       "summary": "何が起きているか。この見知らぬものの終わりまでに、enthralling は2 つの排気されたチームを捨てましたファルマー・スタジアム彼らが勝てなかった方法を疑問に思います。両側の ruminations は完全に正当化されました。リーズ, 誰がシーズンに3 つのゲームを無縁に残っている, 前にゲームをベッドに長く置かなかったブライトン彼らを思い出したとしても、攻撃することができました。によって導かれること Jayden Bogle’s 早いタップイン、訪問者はホの最高の部分のために突然優勢だった",
       "title_original": "Luka Vuskovic rides to the rescue for Brighton as Leeds fail to take chances",
@@ -2484,20 +2523,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Mike Dean 主張する彼は Podcast の主張の後で「properly そして専門的に」参照しました",
-      "summary": "旧正式な「レガレット」論争コメント 彼が「アンダーマイン」しようとするつもりはないと主張した 前者紹介 Mike Dean 今週のポッドキャストで彼の論争のコメントを後悔します, しかし、彼は常に彼の仕事をしたと主張します。25 年間のキャリア. 彼が主張したときに鹿はサッカーを通して衝撃波を送りました Jamie Vardy’s Having パーティーのポッドキャストは、試合中に「ジョーク」し、彼が彼の笛を吹くか、中心の ci を残しずに行くことができるどのくらいの時間が表示されます",
-      "title_original": "Mike Dean insists he refereed ‘properly and professionally’ after podcast claims",
-      "summary_original": "Former official ‘regrets’ controversial comments He claims he did not intend to ‘undermine’ others The former referee Mike Dean regrets his controversial comments on a podcast this week, but insists he always did his job “properly and professionally” during his 25-year career. Dean sent shockwaves through football when he claimed on the Jamie Vardy’s Having a Party podcast he would “joke about” during matches and would see how long he could go without blowing his whistle or leaving the centre ci",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/mike-dean-referee-podcast-claims-premier-league",
-      "published": "Sat, 05 Sep 2026 13:37:51 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2586,23 +2611,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Barcelona breeze past Rayo but all、in Spain remain on Julián Álvarez を獲得候補に",
-      "summary": "ハンジ・フリック獲得を問い合わせガブリエウ・ジェズス獲得を問い合わせバルセロナ– しかし、フリアン・アルバレス究極の賞品を残す場合ラフィーニャメイクシフト No9 として再生についての間違いはありませんバルセロナ、彼はそれを隠すのに良い仕事をしています。フリアン・アルバレススペイン語のチャンピオンに触発されたブラジルの2 つのきちんとしたフィニッシュを5〜2 勝利に誇りに思いますラージョ・バジェカーノ月曜日の夜、振替休日の24 時間前。ラミン・ヤマル演奏会で自分の2 つの素晴らしい目標を獲得しました",
-      "title_original": "Barcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
-      "summary_original": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona – but Julián Álvarez remains the ultimate prize If Raphinha has any misgivings about playing as a makeshift No 9 for Barcelona, he is doing a good job of hiding it. Julián Álvarez would have been proud of the Brazilian’s two neat finishes that inspired the Spanish champions to a 5-2 victory against Rayo Vallecano on Monday night, 24 hours before the transfer deadline. Lamine Yamal scored two wonderful goals of his own in a performan",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarez",
-      "published": "Tue, 01 Sep 2026 09:42:25 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "イタリアグランプリ: Russell は巨大な Leclerc クラッシュ LIVE の後、リードのためにガスリーを戦います!",
+      "title": "イタリアグランプリ: 巨大な Leclerc クラッシュ LIVE の後にリードのための Verstappen のバトリングラッセル!",
       "summary": "",
-      "title_original": "Italian GP: Russell battles Gasly for lead after huge Leclerc crash LIVE!",
+      "title_original": "Italian GP: Verstappen battling Russell for lead after huge Leclerc crash LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13581630/f1-italian-gp-live-race-updates-results-stream-highlights-from-13th-round-of-2026-formula-1-season-at-hungaroring-at-monza",
@@ -2726,6 +2737,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ビッグチャンスエヴァートン! HT 前のバリーヘッド",
+      "summary": "Thierno Barry のために頭を付けられたエヴァートン彼らのプレミアリーグクラッシュとマンチェスター・ユナイテッド.",
+      "title_original": "Big chance for Everton! Barry heads over before HT",
+      "summary_original": "Thierno Barry headed over for Everton in their Premier League clash with Manchester United.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13582337/header-t-barry-43-everton-0-0-manchester-utd",
+      "published": "Sun, 06 Sep 2026 14:56:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "WSL LIVE 空に!マンチェスター・シティタイトルの防衛を開始した後アーセナル, トッテナムログイン",
       "summary": "",
       "title_original": "WSL LIVE on Sky! Man City begin title defence after Arsenal, Spurs win",
@@ -2779,6 +2804,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "バリーは大きいチャンスをとりますエヴァートンフラストレーションマンチェスター・ユナイテッドライブ! & ハイライト",
+      "summary": "",
+      "title_original": "Barry spurns big chance with Everton frustrating Man Utd LIVE! & highlights",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/everton-vs-manchester-united/live/559467",
+      "published": "Tue, 28 Jul 2026 10:31:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2838,20 +2877,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バリーは大きいチャンスをとりますエヴァートンフラストレーションマンチェスター・ユナイテッドライブ! & ハイライト",
-      "summary": "",
-      "title_original": "Barry spurns big chance with Everton frustrating Man Utd LIVE! & highlights",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/everton-vs-manchester-united/live/559467",
-      "published": "Tue, 28 Jul 2026 10:31:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Wrexham ドローで 3 つのポイントクリアに行くチャンスを逃します",
       "summary": "チャンピオンシップリーダーのスワンシーと訪問者の Wrexham は、熱心なオールウェルシュアフェアで0-0 のドローを買いました。",
       "title_original": "Swansea miss chance to go three points clear with Wrexham draw",
@@ -2859,20 +2884,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/swansea-city-vs-wrexham/report/560555",
       "published": "Sat, 05 Sep 2026 22:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウェイクフィールドエッジワーリントン 25-18",
-      "summary": "ハイライトから Super League ウェイクフィールドとワーリントンの間の衝突。",
-      "title_original": "Wakefield edge Warrington 25-18",
-      "summary_original": "Highlights from the Super League clash between Wakefield and Warrington.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13581945/wakefield-trinity-25-18-warrington-wolves-super-league-highlights",
-      "published": "Sun, 06 Sep 2026 00:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
