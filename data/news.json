@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T17:34:53.363058+00:00",
+  "updated_at": "2026-09-06T17:49:23.522558+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1814,7 +1814,8 @@
     "Sabah Kerjota": "",
     "Qatar Prix": "",
     "Barcelona DOMINATE": "",
-    "US Open-style": ""
+    "US Open-style": "",
+    "Taylor Townsend": ""
   },
   "items": [
     {
@@ -1834,7 +1835,7 @@
     {
       "title": "マンチェスター・ユナイテッドプラスにもかかわらず、より多くのドロップポイントを無視することはできません",
       "summary": "マンチェスター・ユナイテッドログインマイケル・キャリック彼の側が別の2 ポイントをドロップしても楽観的ですエヴァートン.",
-      "title_original": "Man Utd can't ignore more dropped points despite positives",
+      "title_original": "Man Utd cannot ignore more dropped points despite positives",
       "summary_original": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
@@ -2238,13 +2239,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナル. .チェルシー: プレミアリーグ– ライブ",
+      "title": "アーセナル 2-1 チェルシー: プレミアリーグ– ライブ反応",
       "summary": "エミレーツスタジアムでのアクションから数分の更新アーセナルウィンドウが閉じた後の継続上の銀行 そして今、第三の目標... 第二の目標は、Hill Dickinson Stadium. Clickity クリックをクリック! 続きを読む...",
-      "title_original": "Arsenal v Chelsea: Premier League – live",
+      "title_original": "Arsenal 2-1 Chelsea: Premier League – live reaction",
       "summary_original": "Minute-by-minute updates from the action at the Emirates Stadium Arsenal bank on continuity after window closes And now a third goal… There’s been a second goal at Hill Dickinson Stadium. Clickity click click click! Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
-      "published": "Sun, 06 Sep 2026 17:14:09 GMT",
+      "published": "Sun, 06 Sep 2026 17:28:13 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2658,6 +2659,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Sabalenka エッジ Townsend へ リーチ US Open 四半期および保持 1 点",
+      "summary": "Aryna Sabalenka とりあえず US Open タイトルと世界 No.1 のスポットが無敵に勝つ Taylor Townsend.",
+      "title_original": "Sabalenka edges Townsend to reach US Open quarters and retain No 1 spot",
+      "summary_original": "Aryna Sabalenka is clinging on to her US Open title and the world No 1 spot after an unconvincing win over Taylor Townsend.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13582495/us-open-2026-aryna-sabalenka-beats-taylor-townsend-to-reach-quarter-finals-and-retain-world-no-1-spot",
+      "published": "Sun, 06 Sep 2026 18:18:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アーセナルエッジアウトチェルシーロンドンダービーを貫く",
+      "summary": "アーセナル後ろからビートに来たチェルシー2-1 第一次長調プレミアリーグ新しいキャンペーンのヘビー級クラッシュ - 季節のゲームのための初期のコンテンダーで。",
+      "title_original": "Arsenal edge out Chelsea in pulsating London derby",
+      "summary_original": "Arsenal came from behind to beat Chelsea 2-1 in the first real major Premier League heavyweight clash of the new campaign - in an early contender for game of the season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/arsenal-vs-chelsea/report/559464",
+      "published": "Sun, 06 Sep 2026 18:15:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "イエスのデビューとゴードンは5 つ星として支援バルセロナ thrash バレンシア",
       "summary": "",
       "title_original": "Jesus debuts and Gordon assists as five-star Barcelona thrash Valencia",
@@ -2756,9 +2785,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナル後ろからビートに来るチェルシー息をのむようなダービーライブ!",
+      "title": "反応するアーセナルの 勝つチェルシーそしてあなたの言うことを持って下さい優勝争いライブ!",
       "summary": "",
-      "title_original": "Arsenal come from behind to beat Chelsea in breathless derby LIVE!",
+      "title_original": "Reaction to Arsenal's win over Chelsea and have your say on the title race LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/arsenal-vs-chelsea/live/559464",
@@ -2907,34 +2936,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "イタリアグランプリ: Antonelli の著名な勝利への反応優勝争い",
-      "summary": "",
-      "title_original": "Italian GP: Reaction to Antonelli's remarkable win on big day in title race",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13581630/f1-italian-gp-live-race-updates-results-stream-highlights-from-13th-round-of-2026-formula-1-season-at-hungaroring-at-monza",
-      "published": "Sun, 06 Sep 2026 12:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スコアカード:イングランド対アイルランド、第三女性 ODI",
-      "summary": "3 日目から最終日までの最新スコアインテルイングランドとアイルランドの国 Worcester. Watch 獲得を問い合わせ Sky Sports.",
-      "title_original": "Scorecard: England vs Ireland, third women's ODI",
-      "summary_original": "Latest score from the third and final one-day international between England and Ireland in Worcester. Watch on Sky Sports Cricket.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/england-women-v-ireland-women/scorecard/2bcda366-f5e0-50a1-9e3e-d68c0f6994ca",
-      "published": "Sun, 06 Sep 2026 10:18:00 BST",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
