@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T21:50:09.493942+00:00",
+  "updated_at": "2026-09-06T22:06:01.336979+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1849,7 +1849,9 @@
     "Sunday. Arteta’s": "",
     "Anfield Martinelli": "",
     "Al-Hilal Richard Hughes": "",
-    "Jürgen Klopp’s": ""
+    "Jürgen Klopp’s": "",
+    "Milan Goalkeeper Koeman Jr": "",
+    "Ex Man-Utd": ""
   },
   "items": [
     {
@@ -2274,9 +2276,9 @@
     },
     {
       "title": "ヨーロッパのフットボール:ラミン・ヤマルダブルパワーバルセロナバレンシアから",
-      "summary": "フェムドム,ラフィーニャそして、ペドリスコア 5-0 ラ・リーガログイン Goalkeeper Koeman Jr スコア 2 ペナルティ でエールディヴィジ ラミン・ヤマルのために2 回ひっくり返して下さいバルセロナ彼らは日曜日にバレンシア5-0 を解体し、100%の開始を維持するためにラ・リーガ. 再興のチャンピオンは上で3 ポイントクリアを動かしましたラ・リーガアフタージョゼ・モウリーニョ獲得を問い合わせレアル・マドリード失われた 1-0 でレアル・ベティス獲得を問い合わせ Friday. Fermín López, ラフィーニャそして、ペドリターゲットにもあったハンジ・フリックスペインの東の熱い午後に観光客を誇っています",
+      "summary": "Gatti の停止時ヘッダーは、Juve を攻撃します Milan Goalkeeper Koeman Jr スコア 2 ペナルティ でエールディヴィジ ラミン・ヤマルのために2 回ひっくり返して下さいバルセロナ彼らは日曜日にバレンシア5-0 を解体し、100%の開始を維持するためにラ・リーガ. 再興のチャンピオンは上で3 ポイントクリアを動かしましたラ・リーガアフタージョゼ・モウリーニョ獲得を問い合わせレアル・マドリード失われた 1-0 でレアル・ベティス獲得を問い合わせ Friday. Fermín López, ラフィーニャそして、ペドリターゲットにもあったハンジ・フリックスペインの東部のホットアフタヌーンで賑やかな訪問者",
       "title_original": "European football: Lamine Yamal’s double powers Barcelona to rout of Valencia",
-      "summary_original": "Fermín, Raphinha and Pedri also score in 5-0 La Liga win Goalkeeper Koeman Jr scores two penalties in Eredivisie Lamine Yamal struck twice for Barcelona as they demolished Valencia 5-0 on Sunday to maintain their 100% start in La Liga. The reigning champions moved three points clear at the top of La Liga after Jose Mourinho’s Real Madrid lost 1-0 at Real Betis on Friday. Fermín López, Raphinha and Pedri were also on target for Hansi Flick’s swaggering visitors on a hot afternoon on Spain’s east ",
+      "summary_original": "Gatti’s stoppage-time header rescues Juve against Milan Goalkeeper Koeman Jr scores two penalties in Eredivisie Lamine Yamal struck twice for Barcelona as they demolished Valencia 5-0 on Sunday to maintain their 100% start in La Liga. The reigning champions moved three points clear at the top of La Liga after Jose Mourinho’s Real Madrid lost 1-0 at Real Betis on Friday. Fermín López, Raphinha and Pedri were also on target for Hansi Flick’s swaggering visitors on a hot afternoon on Spain’s east c",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/06/european-football-lamine-yamal-double-barcelona-valencia-juventus-milan",
       "published": "Sun, 06 Sep 2026 21:25:17 GMT",
@@ -2665,6 +2667,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ペーパー:Ex Man-Utd 美しいウィンガー サンチョセットボルシア・ドルトムントフィードバック",
+      "summary": "月曜日の新聞から噂を移籍するトップストーリー...",
+      "title_original": "Papers: Ex Man-Utd winger Sancho set for stunning Borussia Dortmund return",
+      "summary_original": "The top stories and transfer rumours from Monday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13582586/transfer-news-former-manchester-united-and-england-winger-jadon-sancho-lined-up-for-stunning-borussia-dortmund-return-paper-talk",
+      "published": "Sun, 06 Sep 2026 22:41:00 BST",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「私はバングで戻ってきた」 - プラハで栄光を取るために小さなトッププルの避難所",
       "summary": "Luke Littler ビートライバル Luke Humphries 戻りに勝つために European Tour 獲得を問い合わせ Czech Darts Open プラハで。",
       "title_original": "'I'm back with a bang' - Littler topple Humphries to take glory in Prague",
@@ -2679,20 +2695,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'Just unheard of! - Antonelli の奇跡の勝利は「水の上を歩く」ために好みました",
-      "summary": "モンツァの週末には、すでに1 つの不可分な結果が評価され、イタリアの新しい若い星 Kimi Antonelli 日曜日のスリリングなレースで、フォーミュラ1 の歴史書で有名な場所を確保。",
-      "title_original": "'Just unheard of! - Antonelli's miracle win likened to 'walking on water'",
-      "summary_original": "On a Monza weekend that had already produced one implausible result in qualifying, Italy's new young star Kimi Antonelli delivered a second in Sunday's thrilling race to ensure its own prominent place in Formula 1's history books.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13582221/kimi-antonelli-mercedes-driver-hailed-by-pundits-and-toto-wolff-after-remarkable-19th-to-first-italian-gp-comeback-win",
-      "published": "Sun, 06 Sep 2026 21:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Great Britain そしてアイルランドは歴史的勝利を主張しますウォーカーカップスリラー",
       "summary": "Great Britain そしてアイルランドは勝ちましたウォーカーカップ2015 年以降、神経収縮後遅れのカムバックは、131⁄2-121⁄2 スコアラインでアメリカを打つのを見た。",
       "title_original": "Great Britain and Ireland claim historic win in Walker Cup thriller",
@@ -2700,6 +2702,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13582280/walker-cup-great-britain-and-ireland-produce-stunning-late-comeback-to-beat-usa-13-5-12-5-in-thrilling-contest",
       "published": "Sun, 06 Sep 2026 20:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'Just unheard of! - Antonelli の奇跡の勝利は「水の上を歩く」ために好みました",
+      "summary": "モンツァの週末には、すでに1 つの不可分な結果が評価され、イタリアの新しい若い星 Kimi Antonelli 日曜日のスリリングなレースで、フォーミュラ1 の歴史書で有名な場所を確保。",
+      "title_original": "'Just unheard of! - Antonelli's miracle win likened to 'walking on water'",
+      "summary_original": "On a Monza weekend that had already produced one implausible result in qualifying, Italy's new young star Kimi Antonelli delivered a second in Sunday's thrilling race to ensure its own prominent place in Formula 1's history books.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13582221/kimi-antonelli-mercedes-driver-hailed-by-pundits-and-toto-wolff-after-remarkable-19th-to-first-italian-gp-comeback-win",
+      "published": "Sun, 06 Sep 2026 21:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2928,20 +2944,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "イエスのデビューとゴードンは5 つ星として支援バルセロナ thrash バレンシア",
-      "summary": "",
-      "title_original": "Jesus debuts and Gordon assists as five-star Barcelona thrash Valencia",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "published": "Sun, 06 Sep 2026 18:14:00 BST",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
