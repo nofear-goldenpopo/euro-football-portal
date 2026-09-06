@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T13:05:50.731405+00:00",
+  "updated_at": "2026-09-06T13:23:43.312854+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1750,7 +1750,8 @@
     "Mary Waltz": "",
     "Ian Copestake": "",
     "John Stedman": "",
-    "Dining Across": ""
+    "Dining Across": "",
+    "Jackson Tchatchoua's": ""
   },
   "items": [
     {
@@ -1796,6 +1797,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リヴァプール1 月1 日はサールで動くかもしれません -日曜日の移籍ゴシップ",
+      "summary": "リヴァプール別の動きを作るかもしれないクリスタル・パレスウィンガーイスマイラ・サール1 月1 日トッテナムの Richarlison は、サウジ スイッチを探すことができます。",
+      "title_original": "Liverpool may make January move for Sarr - Sunday's gossip",
+      "summary_original": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 20:24:26 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "3 つのゲームから7 つのポイントハル回復を避けるためにトラックで?",
       "summary": "生存的な話を解決するのは早いかもしれませんが、新しく進めるハル・シティ AFC ビルドするのに最適なプラットフォームを自分で与えられていますプレミアリーグ.",
       "title_original": "Seven points from three games - are Hull on track to avoid relegation?",
@@ -1810,20 +1825,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'Not Football Manager' - De Zerbi ミスフィリングトッテナム必要性の時間",
-      "summary": "トッテナム自分の開口部3 でスコアが失敗しましたプレミアリーグゲームとマネージャー ロベルト・デ・ツェルビ氏は、チームに高価なチームを組み込む時間がかかります。",
-      "title_original": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-      "summary_original": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 17:56:55 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "いくらになるかセルティック獲得を問い合わせアジア競技大会- ヤンゴン?",
       "summary": "Yang Hyun-jun 自分の重要性を示すセルティック重要な目標に反する St Mirren 頭を切る前にアジア競技大会.",
       "title_original": "How much will Celtic miss Asian Games-bound Yang?",
@@ -1835,20 +1836,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リヴァプール1 月1 日はサールで動くかもしれません -日曜日の移籍ゴシップ",
-      "summary": "リヴァプール別の動きを作るかもしれないクリスタル・パレスウィンガーイスマイラ・サール1 月1 日トッテナムの Richarlison は、サウジ スイッチを探すことができます。",
-      "title_original": "Liverpool may make January move for Sarr - Sunday's gossip",
-      "summary_original": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 20:24:26 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -1950,6 +1937,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "'Not Football Manager' - De Zerbi ミスフィリングトッテナム必要性の時間",
+      "summary": "トッテナム自分の開口部3 でスコアが失敗しましたプレミアリーグゲームとマネージャー ロベルト・デ・ツェルビ氏は、チームに高価なチームを組み込む時間がかかります。",
+      "title_original": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
+      "summary_original": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 17:56:55 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フェルナンデスそして、エンディアイエ約束の兆候を示すマンチェスター・シティデビュー",
       "summary": "マンチェスター・シティ期限日の才能の1億8500万ポンド を与えましたプレミアリーグ Coventry の勝利でデビュー - マネージャーEnzo Maresca 彼が見たことを楽しんだ。",
       "title_original": "Fernandez and Ndiaye show signs of promise on Man City debuts",
@@ -2006,20 +2007,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "グラスナーとウィリアムズの紛争 VAR はフォレストハンドボールの上にコール",
-      "summary": "ノッティンガム・フォレストマネージャーオリヴァー・グラスナーそして、Neco WilliamsVAR は、守備者の目標を守らないようにするトッテナム.",
-      "title_original": "Glasner and Williams dispute VAR call over Forest handball",
-      "summary_original": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 18:36:28 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -2031,6 +2018,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "グラスナーとウィリアムズの紛争 VAR はフォレストハンドボールの上にコール",
+      "summary": "ノッティンガム・フォレストマネージャーオリヴァー・グラスナーそして、Neco WilliamsVAR は、守備者の目標を守らないようにするトッテナム.",
+      "title_original": "Glasner and Williams dispute VAR call over Forest handball",
+      "summary_original": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 18:36:28 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2069,20 +2070,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8e3640rrp1o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 05 Sep 2026 18:49:30 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Is Bain スコットランドのナンバーワン?",
-      "summary": "With Sebastien Pocognoli スコットランドの遊び方を変えるために、Scott Bain 目標管理の問題に対する答えは?",
-      "title_original": "Is Bain on course to be Scotland's number one?",
-      "summary_original": "With Sebastien Pocognoli looking to change the way Scotland play, might Scott Bain be the answer to his goalkeeping problems?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62jn6n0rvlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 07:56:52 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2174,13 +2161,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チェリーとしてチームの「自信」を誇りに思うローズは、リードスリップ",
+      "summary": "ボーンマスマネージャーMarco Rose チームを監視しているにもかかわらず、彼の側面の「自信」を賞賛しました。ドラマティック 2-2 で描くニューカッスル. ボーンマスマネージャーMarco Rose チームを監視しているにもかかわらず、彼の側面の「自信」を賞賛しました。ドラマティック 2-2 で描くニューカッスル.",
+      "title_original": "Rose proud of team 'confidence' as Cherries let lead slip",
+      "summary_original": "Bournemouth manager Marco Rose praised his side's \"confidence\" despite seeing his team surrender a two-goal lead in a dramatic 2-2 draw at Newcastle. Bournemouth manager Marco Rose praised his side's \"confidence\" despite seeing his team surrender a two-goal lead in a dramatic 2-2 draw at Newcastle.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cew9knre1pxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 14:49:50 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "エヴァートン. .マンチェスター・ユナイテッド: プレミアリーグ– ライブ",
       "summary": "アクションから数分の更新 Hill Dickinson Stadium Transfer 障害は残しますエヴァートンスクランブル |Mail Tim「選択されたスキュートブ」は言う Ian Copestake, 有望に, 「からエヴァートン Birkenhead からゲームへの列車のファンは、ファンが嘘をついていたことです。新しいオーナーが作った約束(真新しいスタジアムは記載されていない)は満たしていません。Mutiny は角を丸く(砂丘でおそらく)。予期しない提案から John Stedman. 「わたしは新しいものが好き」Dining Across ディジ",
       "title_original": "Everton v Manchester United: Premier League – live",
       "summary_original": "Minute-by-minute updates from the action at Hill Dickinson Stadium Transfer failures leave Everton scrambling | Mail Tim “Selected scuttlebut,” says Ian Copestake, promisingly, “from Everton fans on the train from Birkenhead to the game is that the fans have been lied to. Promises made by the new owners (shiny new stadium not mentioned) have not been fulfilled. Mutiny is round the corner (probably at Sandhills).” An unexpected proposal from John Stedman. “I like the new(ish) Dining Across the Di",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/06/everton-v-manchester-united-premier-league-live",
-      "published": "Sun, 06 Sep 2026 12:59:06 GMT",
+      "published": "Sun, 06 Sep 2026 13:14:55 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2194,7 +2195,7 @@
       "summary_original": "Minute-by-minute updates from 12pm (BST) kick-off WSL transfer talking points | Email Rob 1 min: Arsenal pass the ball around serenely from the off. Lisa Baum and Olivia Smith are patrolling the wings ether side of Russo up top. Peep peep! And we’re off. Brighton in blue. Arsenal in yellow shirts and blue shorts. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/06/brighton-v-arsenal-womens-super-league-live",
-      "published": "Sun, 06 Sep 2026 12:59:16 GMT",
+      "published": "Sun, 06 Sep 2026 13:11:51 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2594,9 +2595,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イタリアグランプリ: バック LIVE でアントネリとラッセルからポールにガスリー!",
+      "title": "イタリアグランプリ: レースは、ルーセルのリードライブとして巨大なレクルクのクラッシュの後に停止!",
       "summary": "",
-      "title_original": "Italian GP: Gasly on pole from Russell with Antonelli at the back LIVE!",
+      "title_original": "Italian GP: Race stopped after huge Leclerc crash as Russell leads LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13581630/f1-italian-gp-live-race-updates-results-stream-highlights-from-13th-round-of-2026-formula-1-season-at-hungaroring-at-monza",
@@ -2692,12 +2693,12 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL LIVE 空に!マンチェスター・シティタイトルの防衛を開始した後アーセナル, トッテナムログイン",
+      "title": "WSL LIVE スカイに!マンチェスター・シティタイトルの防衛を開始した後アーセナル, トッテナムログイン",
       "summary": "",
       "title_original": "WSL LIVE on Sky! Man City begin title defence after Arsenal, Spurs win",
       "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/brighton-and-hove-albion-women-vs-arsenal-women/live/575757",
+      "url": "https://www.skysports.com/football/charlton-athletic-women-vs-liverpool-women/live/575758",
       "published": "Sun, 06 Sep 2026 11:00:00 BST",
       "category": "epl",
       "type": "epl",
@@ -2717,6 +2718,34 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "WSL ラウンドアップ:バウムとハンソンの安全な勝利のための新しい獲得アーセナルそして、トッテナム",
+      "summary": "日曜日のアクションを横断するスカイスポーツのラウンドアップ Women's Super League 新しい獲得としてアーセナルそして、トッテナム双方のクラブのために勝つために輝きます。",
+      "title_original": "WSL round-up: New signings Baum and Hanson secure wins for Arsenal and Spurs",
+      "summary_original": "Sky Sports' round-up of Sunday's action across the Women's Super League as new signings for Arsenal and Tottenham shine to secure wins for both clubs.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13581388/womens-super-league-round-up-lisa-baum-shines-on-arsenal-debut-to-beat-brighton-and-tottenham-dominate-west-ham",
+      "published": "Sun, 06 Sep 2026 14:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "クロスバーオフ! ブルノは早めに終了しますマンチェスター・ユナイテッド",
+      "summary": "ブルーノ・フェルナンデス初期のクロスバーに当たるマンチェスター・ユナイテッド獲得を問い合わせプレミアリーグクラッシュとエヴァートン",
+      "title_original": "Off the crossbar! Bruno comes close early on for Man Utd",
+      "summary_original": "Bruno Fernandes hits the crossbar early in Manchester United's Premier League clash with Everton",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13582311/post-b-fernandes-8-everton-0-0-manchester-utd",
+      "published": "Sun, 06 Sep 2026 14:13:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2762,16 +2791,30 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "エヴァートン対比マンチェスター・ユナイテッドライブ! & ハイライト",
+      "title": "フェルナンデスは、バーを早めに打ちますエヴァートンライブ! & ハイライト",
       "summary": "",
-      "title_original": "Everton vs Man Utd LIVE! & highlights",
+      "title_original": "Fernandes hits the bar early on at Everton LIVE! & highlights",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/everton-vs-manchester-united/live/559467",
       "published": "Tue, 28 Jul 2026 10:31:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "クレイジーオウンゴール見る Birmingham ホールド Wolves",
+      "summary": "Birmingham と Wolves が chaotic 2-2 として描く Jackson Tchatchoua's オウンゴール共有スピルを見た。",
+      "title_original": "Crazy own goal sees Birmingham hold Wolves",
+      "summary_original": "Birmingham and Wolves played out a chaotic 2-2 draw as Jackson Tchatchoua's own goal saw the spoils shared.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/birmingham-city-vs-wolverhampton-wanderers/report/560546",
+      "published": "Sun, 06 Sep 2026 14:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2829,48 +2872,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Partington: ウィガンは片手を持っています League Leaders' Shield",
-      "summary": "",
-      "title_original": "Partington: Wigan have one hand on League Leaders' Shield",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13580353/super-league-live-updates-videos-scores-commentary-analysis-as-leeds-rhinos-take-on-wigan-warriors-in-round-26",
-      "published": "Sat, 05 Sep 2026 19:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "オーストラリアは、アルゼンチンとフェスティリドした後、シリーズを獲得",
-      "summary": "オーストラリアは、土曜日の夜に28-28 の描画で終わる第2 テストを終えた後、アルゼンチンに対してシリーズを獲得しました。",
-      "title_original": "Australia win series after feisty draw with Argentina",
-      "summary_original": "Australia won their series against Argentina after the second Test finished in a 28-28 draw on Saturday night.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13582166/argentina-28-28-australia-wallabies-claim-series-win-after-draw-in-ill-disciplined-final-test-in-mendoza",
-      "published": "Sat, 05 Sep 2026 23:41:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "シャルトン: チャレンジした元発電所アーセナル WSL に戻ってきます",
-      "summary": "90 年代から00 年代にかけて、シャールトンは女子サッカーのパワーハウスでした。定期的な競争アーセナルそして、複数のカップ決勝では、イングランドのトップフライトに戻るために19 年を連れて行った。",
-      "title_original": "Charlton: The former powerhouse that challenged Arsenal is back in the WSL",
-      "summary_original": "In the 90s and 00s, Charlton were a powerhouse in women's football. Regularly competing with Arsenal and in multiple cup finals, it has taken them 19 years to return to the top flight in England.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13576629/charlton-women-how-former-powerhouse-that-challenged-arsenal-and-won-the-fa-cup-is-back-in-the-wsl",
-      "published": "Wed, 02 Sep 2026 12:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
