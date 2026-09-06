@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T22:06:01.336979+00:00",
+  "updated_at": "2026-09-06T22:24:03.596018+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1851,7 +1851,9 @@
     "Al-Hilal Richard Hughes": "",
     "Jürgen Klopp’s": "",
     "Milan Goalkeeper Koeman Jr": "",
-    "Ex Man-Utd": ""
+    "Ex Man-Utd": "",
+    "Brilliant Dunkley": "",
+    "Alice Capsey": ""
   },
   "items": [
     {
@@ -1908,6 +1910,20 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "トロイさんを作った人プレミアリーグ週のチーム?",
+      "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
+      "title_original": "Who has made Troy's Premier League team of the week?",
+      "summary_original": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 22:06:40 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2023,20 +2039,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フィファ・プレジデント・インファンティーノが再選挙に立ちます",
-      "summary": "フィファ会長 Gianni Infantino3 月に再編を予定し、世界統治体が確認されています。",
-      "title_original": "Fifa president Infantino will stand for re-election",
-      "summary_original": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 13:01:17 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "森と森トッテナムドローイングでゴールドラマを捨てた後、無敗のまま",
       "summary": "トッテナム初めて待っていますプレミアリーグスクレーピード後のシーズンの勝利ノッティンガム・フォレスト.",
       "title_original": "Forest and Spurs remain winless after disallowed goal drama in draw",
@@ -2135,6 +2137,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "フィファ・プレジデント・インファンティーノが再選挙に立ちます",
+      "summary": "フィファ会長 Gianni Infantino3 月に再編を予定し、世界統治体が確認されています。",
+      "title_original": "Fifa president Infantino will stand for re-election",
+      "summary_original": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 13:01:17 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "WSL の調査の後でクリスタル・パレス置換規則を破る",
       "summary": "The Women's Super League 調査が進行中であると言うクリスタル・パレス勝つ上で4 つの置換ウィンドウを使用するエヴァートン.",
       "title_original": "WSL investigating after Palace break substitution rules",
@@ -2226,20 +2242,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/ckgvx2y657go?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 18:53:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "カーリック「失望」マンチェスター・ユナイテッドゲームが見えない",
-      "summary": "マンチェスター・ユナイテッドログインマイケル・キャリック彼の側面は、ゲームをより困難にした決定をしたと言うエヴァートンストップページタイムイコライザーでポイントを救助 Hill Dickinson Stadium.",
-      "title_original": "Carrick 'disappointed' that Man Utd could not see game out",
-      "summary_original": "Manchester United boss Michael Carrick says his side made decisions that made the game more difficult as Everton rescued a point with a stoppage-time equaliser at Hill Dickinson Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5ye5178e62o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 16:02:19 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2387,13 +2389,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Uefa 法的なケースは、トランプのサポートとして Infantino の端から始まるかもしれません |Barney Ronay",
-      "summary": "Fifa の失敗した計画に関連する発見の順序は、販売する World Cup アメリカ大統領は、犯人にとって悪く終わる傾向にある状況を心配します。Tell Mike ちょうどビジネスでした。私はいつも彼が好きでした。続きを読む...",
-      "title_original": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
-      "summary_original": "The order of discovery related to Fifa’s failed plan to sell the World Cup will worry the American president, a situation that tends to end badly for the culprit “Tell Mike it was just business. I always liked him.” “He understands.” Continue reading...",
+      "title": "「ノイズは信じられない」:メキシコ v イングランドのレフリーのビューWorld Cup",
+      "summary": "イングランドのマネージャートーマス・トゥヘル fiery last-16 tie で「ちょうど十分ではない」の受取と呼ばれる。Now Alireza Faghani 彼のイベントのバージョンを与える 7 月5 日午後6 時メキシコシティと Alireza Faghani、48 歳オーストラリアイランのロッカールームに眠っていた、いびき。アシスタントは音楽を下げました。コンクリート壁を通した90,000 近くのファンのマフラーにはなかった Estadio Azteca 翌朝まで眠れる。ファガニは",
+      "title_original": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
+      "summary_original": "England’s manager Thomas Tuchel called the officiating ‘just not good enough’ in the fiery last-16 tie. Now Alireza Faghani gives his version of events It was 6pm on 5 July in Mexico City, and Alireza Faghani, a 48-year-old Australian-Iranian, was asleep in the locker room, snoring. His assistants had turned the music down. Had it not been for the muffled roar of nearly 90,000 fans through the concrete walls of the Estadio Azteca, he could have slept until the following morning. Faghani was the ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
-      "published": "Sat, 05 Sep 2026 07:00:29 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/05/world-cup-alireza-faghani-england-mexico-azteca",
+      "published": "Sat, 05 Sep 2026 05:00:29 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2583,13 +2585,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「ノイズは信じられない」:メキシコ v イングランドのレフリーのビューWorld Cup",
-      "summary": "イングランドのマネージャートーマス・トゥヘル fiery last-16 tie で「ちょうど十分ではない」の受取と呼ばれる。Now Alireza Faghani 彼のイベントのバージョンを与える 7 月5 日午後6 時メキシコシティと Alireza Faghani、48 歳オーストラリアイランのロッカールームに眠っていた、いびき。アシスタントは音楽を下げました。コンクリート壁を通した90,000 近くのファンのマフラーにはなかった Estadio Azteca 翌朝まで眠れる。ファガニは",
-      "title_original": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
-      "summary_original": "England’s manager Thomas Tuchel called the officiating ‘just not good enough’ in the fiery last-16 tie. Now Alireza Faghani gives his version of events It was 6pm on 5 July in Mexico City, and Alireza Faghani, a 48-year-old Australian-Iranian, was asleep in the locker room, snoring. His assistants had turned the music down. Had it not been for the muffled roar of nearly 90,000 fans through the concrete walls of the Estadio Azteca, he could have slept until the following morning. Faghani was the ",
+      "title": "Uefa 法的なケースは、トランプのサポートとして Infantino の端から始まるかもしれません |Barney Ronay",
+      "summary": "Fifa の失敗した計画に関連する発見の順序は、販売する World Cup アメリカ大統領は、犯人にとって悪く終わる傾向にある状況を心配します。Tell Mike ちょうどビジネスでした。私はいつも彼が好きでした。続きを読む...",
+      "title_original": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
+      "summary_original": "The order of discovery related to Fifa’s failed plan to sell the World Cup will worry the American president, a situation that tends to end badly for the culprit “Tell Mike it was just business. I always liked him.” “He understands.” Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/world-cup-alireza-faghani-england-mexico-azteca",
-      "published": "Sat, 05 Sep 2026 05:00:29 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
+      "published": "Sat, 05 Sep 2026 07:00:29 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2667,6 +2669,62 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・シティ最新:エンディアイエ「常に都市に行きたい」次の動きは言う",
+      "summary": "",
+      "title_original": "Man City latest: Ndiaye says next move 'was always going to be City'",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Sun, 06 Sep 2026 23:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リトルは、主張するためにハフトリーをオフ見た瞬間 Czech Darts Open",
+      "summary": "Luke Littler クレーム Czech Darts Open 勝つ Luke Humphries.",
+      "title_original": "The moment Littler saw off Humphries to claim Czech Darts Open",
+      "summary_original": "Luke Littler claims the Czech Darts Open win over Luke Humphries.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13582588/luke-littler-edges-luke-humphries-to-claim-czech-darts-open-in-thriller-match",
+      "published": "Sun, 06 Sep 2026 22:43:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Brilliant Dunkley 世紀はイングランドをシリーズの白い洗濯に刺激します",
+      "summary": "Worcester のイングランドとアイルランドの3 つのマッチシリーズで3 番目の ODI のハイライト。",
+      "title_original": "Brilliant Dunkley century inspires England to series whitewash",
+      "summary_original": "Highlights from the third ODI in the three match series between England and Ireland at Worcester.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13582449/england-vs-ireland-third-odi-highlights",
+      "published": "Sun, 06 Sep 2026 17:22:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "仕事で学ぶ! Capsey は2 つのスマートな stumpings を取ります",
+      "summary": "ルーキーウィケットキーパーカーAlice Capsey アイルランドから3 番目の ODI で2 つの切り株を服用することによって、彼女は速く学習している示した。",
+      "title_original": "Learning on the job! Capsey takes two smart stumpings",
+      "summary_original": "Rookie wicket keeper Alice Capsey showed she is learning fast by taking two stumpings in the third ODI against Ireland.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13582412/learning-on-the-job-alice-capsey-takes-two-smart-stumpings",
+      "published": "Sun, 06 Sep 2026 16:38:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ペーパー:Ex Man-Utd 美しいウィンガー サンチョセットボルシア・ドルトムントフィードバック",
       "summary": "月曜日の新聞から噂を移籍するトップストーリー...",
       "title_original": "Papers: Ex Man-Utd winger Sancho set for stunning Borussia Dortmund return",
@@ -2681,9 +2739,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「私はバングで戻ってきた」 - プラハで栄光を取るために小さなトッププルの避難所",
+      "title": "「私はバングで戻っています」 - プラハで栄光を取るために小さなトッププルの避難所",
       "summary": "Luke Littler ビートライバル Luke Humphries 戻りに勝つために European Tour 獲得を問い合わせ Czech Darts Open プラハで。",
-      "title_original": "'I'm back with a bang' - Littler topple Humphries to take glory in Prague",
+      "title_original": "'I'm back with a bang' - Littler topples Humphries to take glory in Prague",
       "summary_original": "Luke Littler beat rival Luke Humphries to win on his return to the European Tour at the Czech Darts Open in Prague.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13582269/czech-darts-open-luke-littler-topples-luke-humphries-8-6-in-final-on-return-to-european-tour-in-prague",
@@ -2888,62 +2946,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Czech Darts Open LIVE! リトルは、タイトルを取るために最終でハフトリーを打ち負かす",
-      "summary": "",
-      "title_original": "Czech Darts Open LIVE! Littler beats Humphries in final to take title",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/live-blog/12040/13582276/czech-darts-open-live-scores-updates-commentary-from-third-round-as-luke-littler-and-luke-humphries-in-action-in-prague",
-      "published": "Sun, 06 Sep 2026 12:46:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "カーリックのマンチェスター・ユナイテッドコナーサが輝きを放つような輝きアーセナル",
-      "summary": "",
-      "title_original": "Carrick's Man Utd missing spark as Konsa shines for Arsenal",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582506/man-utd-miss-attacking-spark-against-everton-as-ezri-konsa-for-arsenal-premier-league-hits-and-misses",
-      "published": "Sun, 06 Sep 2026 20:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アーセナルエッジアウトチェルシーロンドンダービーを貫く",
-      "summary": "アーセナル後ろからビートに来たチェルシー2-1 第一次長調プレミアリーグ新しいキャンペーンのヘビー級クラッシュ - 季節のゲームのための初期のコンテンダーで。",
-      "title_original": "Arsenal edge out Chelsea in pulsating London derby",
-      "summary_original": "Arsenal came from behind to beat Chelsea 2-1 in the first real major Premier League heavyweight clash of the new campaign - in an early contender for game of the season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-vs-chelsea/report/559464",
-      "published": "Sun, 06 Sep 2026 18:15:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Monza クラッシュ後のビジョンの問題後に追加のチェックを受ける Leclerc",
-      "summary": "",
-      "title_original": "Leclerc to undergo additional checks after vision issues following Monza crash",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13581630/f1-italian-gp-live-race-updates-results-stream-highlights-from-13th-round-of-2026-formula-1-season-at-hungaroring-at-monza",
-      "published": "Sun, 06 Sep 2026 18:55:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
