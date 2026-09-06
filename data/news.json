@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T04:50:34.066385+00:00",
+  "updated_at": "2026-09-06T05:05:51.123402+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1688,7 +1688,10 @@
     "The Wrexham": "",
     "Callum O'Hare": "",
     "Eala Mania": "",
-    "Elise Mertens": "エリーズ・メルテンス"
+    "Elise Mertens": "エリーズ・メルテンス",
+    "Opera Ballo": "",
+    "Arc Trials Day": "",
+    "Benvenuto Cellini": "ベンヴェヌート・チェッリーニ"
   },
   "items": [
     {
@@ -2532,6 +2535,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Daryz、Gstaad および Opera Ballostellar の特徴 Arc Trials Day",
+      "summary": "Daryz、Gstaad、Opera Ballo そして、ベンヴェヌート・チェッリーニあらゆるラインアップ Arc Trials DayParisLongchamp から日曜日にかけて。",
+      "title_original": "Daryz, Gstaad and Opera Ballo feature on stellar Arc Trials Day",
+      "summary_original": "Daryz, Gstaad, Opera Ballo and Benvenuto Cellini all line up on an outstanding Arc Trials Day from ParisLongchamp on Sunday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13581619/today-on-sky-sports-racing-daryz-gstaad-and-opera-ballo-feature-on-stellar-arc-trials-day-from-parislongchamp",
+      "published": "Sun, 06 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "大阪市は、Jovic 終了時に業務を遂行します Eala Mania 獲得を問い合わせ US Open スリラー",
       "summary": "Naomi Osaka 別の新しい外観で裁判所を踏むと、彼女は最終的にビジネスに対して世話をしましたエリーズ・メルテンス3 セットの勝利で4 ラウンドに達する全米オープン.",
       "title_original": "Osaka takes care of business while Jovic ends Eala Mania in US Open thriller",
@@ -2794,20 +2811,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「どこの真ん中で出て」 - ハミルトンルーズフェラーリの修飾の処理",
-      "summary": "Lewis Hamilton フェラーリの最終段階の実行を感じたイタリアグランプリ土曜日のポールポジションにチャレンジできるという希望は、ホームチームの「プレティ・悪い」でした。",
-      "title_original": "'Out in the middle of nowhere' - Hamilton rues Ferrari's handling of qualifying",
-      "summary_original": "Lewis Hamilton felt Ferrari’s execution of the final stage of Italian Grand Prix qualifying had been \"pretty bad\" after the home team’s hopes of being able to challenge for pole position on Saturday fell flat.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13581635/lewis-hamilton-ferrari-driver-says-teams-execution-of-italian-gp-qualifying-could-have-been-better-after-very-tough-session",
-      "published": "Sat, 05 Sep 2026 17:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
