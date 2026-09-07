@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T14:06:57.951887+00:00",
+  "updated_at": "2026-09-07T14:26:51.251672+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1928,7 +1928,11 @@
     "Chelsea Rate": "",
     "Apple Podcasts": "Apple Podcast",
     "Shrewsbury Town's": "",
-    "Liam Farrell": ""
+    "Liam Farrell": "",
+    "Bellamy's Wales": "",
+    "Alan Sheehan": "",
+    "Craig Bellamy's": "",
+    "Leicester City": "レスター・シティFC"
   },
   "items": [
     {
@@ -2120,7 +2124,7 @@
       "summary_original": "Shrewsbury Town's long-running takeover saga is set to end after an American consortium is granted approval to buy the club.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cdx05qpn0kvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 13:26:39 GMT",
+      "published": "Mon, 07 Sep 2026 14:09:30 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2170,17 +2174,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "なぜ?サンダーランド対比アーセナル土曜日は午後8 時ですか?",
-      "summary": "BBC Sport's Ask Me 土曜日の理由を説明するチームプレミアリーグフィクスチャー間のサンダーランドそして、アーセナル8pm でキックオフ",
-      "title_original": "Why is Sunderland vs Arsenal at 8pm on Saturday?",
-      "summary_original": "BBC Sport's Ask Me Anything team explains why Saturday's Premier League fixture between Sunderland and Arsenal is kicking off at 8pm",
+      "title": "ウィリアムズとシェハン参加 Bellamy's Wales スタッフ",
+      "summary": "Ex-Wales キャプテン Ashley Williams そして元 Swansea の上司 Alan Sheehan 参加申し込み Craig Bellamy's 奥の部屋スタッフ前 Wales' Nations League キャンペーン",
+      "title_original": "Williams and Sheehan join Bellamy's Wales staff",
+      "summary_original": "Ex-Wales captain Ashley Williams and former Swansea boss Alan Sheehan join Craig Bellamy's backroom staff before Wales' Nations League campaign.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly4ll5qlvgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 09:54:22 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq63mm9vzedo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 14:00:09 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2310,6 +2314,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "なぜ?サンダーランド対比アーセナル土曜日は午後8 時ですか?",
+      "summary": "BBC Sport's Ask Me 土曜日の理由を説明するチームプレミアリーグフィクスチャー間のサンダーランドそして、アーセナル8pm でキックオフ",
+      "title_original": "Why is Sunderland vs Arsenal at 8pm on Saturday?",
+      "summary_original": "BBC Sport's Ask Me Anything team explains why Saturday's Premier League fixture between Sunderland and Arsenal is kicking off at 8pm",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly4ll5qlvgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 09:54:22 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "送金後、エヴァートン全く新しいヒーローを持っている",
       "summary": "でもエインズリー・メイトランド＝ナイルズ想像してもらえるプレミアリーグ戻り値エヴァートンやったようにプレーしました。",
       "title_original": "After transfer worries, Everton have an unlikely new hero",
@@ -2321,20 +2339,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "警察はポートズマスで Bielik ファンの衝突を調査します",
-      "summary": "警察はカーディフ・ディフェンダー間の事件を調査していますクリスティアン・ビエリク土曜日にポンペイの2-0 ホームウィン中のポートスマスサポーター。",
-      "title_original": "Police investigate Bielik fan clash at Portsmouth",
-      "summary_original": "Police are investigating an incident between Cardiff defender Krystian Bielik and a Portsmouth supporter during Pompey's 2-0 home win on Saturday.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ym8mx573yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 12:22:31 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2758,6 +2762,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "レスターは、マーティンの下で新しい低速にサンクを持っていますが、彼はそれを回すことができますか?",
+      "summary": "10 年前 で 9 月 2016,レスター・シティ FC プレイの準備ができましたチャンピオンズリーグ.",
+      "title_original": "Leicester have sunk to new low under Martin but can he turn it around?",
+      "summary_original": "A decade ago in September 2016, Leicester City were getting ready to play in the Champions League.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13582797/leicester-city-sink-to-new-low-in-league-one-but-can-russell-martin-turn-it-around",
+      "published": "Mon, 07 Sep 2026 13:41:00 BST",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "退職、フォンドの思い出、そしてウィガンとの次のステップについてのファーレル",
       "summary": "Wigan Warriors キャプテン Liam Farrell 彼は2026 の最後に退役すると発表した後、彼は再びクラブのために再生する場合、彼は確信していないと言う Super League 季節限定",
       "title_original": "Farrell on retirement, fond memories, and next steps with Wigan",
@@ -3021,20 +3039,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ポートマスでファンと Bielik 事件を調査",
-      "summary": "Hampshire Police カーディフの事件を調査しているクリスティアン・ビエリク Portsmouth の 2-0 勝ち時にホームサポーターフラットン・パーク土曜日に。",
-      "title_original": "Police investigating Bielik incident with fan at Portsmouth",
-      "summary_original": "Hampshire Police are investigating an incident between Cardiff's Krystian Bielik and a home supporter during Portsmouth's 2-0 win at Fratton Park on Saturday.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582657/krystian-bielik-hampshire-police-investigating-incident-between-cardiff-midfielder-and-portsmouth-supporter",
-      "published": "Mon, 07 Sep 2026 09:10:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
