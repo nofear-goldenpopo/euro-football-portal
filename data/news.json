@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T10:39:30.503601+00:00",
+  "updated_at": "2026-09-07T10:52:24.928735+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1900,23 +1900,10 @@
     "Belgian FA": "",
     "Belgium's FA": "",
     "Paul Merson": "ポール・マーソン",
-    "Roberto De Zerbi's": ""
+    "Roberto De Zerbi's": "",
+    "Rangers' Shankland": ""
   },
   "items": [
-    {
-      "title": "新しいストライカー、心配なし - Havertz と Odegaard トーメントチェルシー",
-      "summary": "3 つのゲームから9 ポイント、1 つの目標は、ステップアップし、大きな選手 - ありますアーセナルレースの残りの部分にまだ先立ちプレミアリーグタイトル?",
-      "title_original": "No new striker, no worries - Havertz and Odegaard torment Chelsea",
-      "summary_original": "Nine points from three games, one goal conceded and big players stepping up - are Arsenal still ahead of the rest in the race for the Premier League title?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 20:25:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
     {
       "title": "£725 ゲームショーがキックスタートする方法チャンピオンズリーグコーチのキャリア",
       "summary": "リトアニアのコーチ Valdas Dambrauskas 自分の歯を英語のサッカーで切って、今度は戻りますチャンピオンズリーグサバと共に。",
@@ -1928,6 +1915,20 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "新しいストライカー、心配なし - Havertz と Odegaard トーメントチェルシー",
+      "summary": "3 つのゲームから9 ポイント、1 つの目標は、ステップアップし、大きな選手 - ありますアーセナルレースの残りの部分にまだ先立ちプレミアリーグタイトル?",
+      "title_original": "No new striker, no worries - Havertz and Odegaard torment Chelsea",
+      "summary_original": "Nine points from three games, one goal conceded and big players stepping up - are Arsenal still ahead of the rest in the race for the Premier League title?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 20:25:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2842,6 +2843,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "レンジャーズ'シャンクランドの打撃、セルティックすでに圧力下でヤン&マネージャーを失う",
+      "summary": "傷害の打撃,インテル THREE マネージャーの国家損失と圧力マウント。",
+      "title_original": "Rangers' Shankland blow, Celtic lose Yang & managers already under pressure",
+      "summary_original": "Injury blows, international losses and pressure mounting on THREE managers.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13582658/scottish-premiership-rangers-lawrence-shankland-blow-celtic-lose-hyun-jun-yang-is-pressure-on-at-hibs-aberdeen-kilmarnock",
+      "published": "Mon, 07 Sep 2026 09:00:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Hampshire PolicePortsmouth で Bielik インシデントを調査",
       "summary": "Hampshire Police カーディフの事件を調査しているクリスティアン・ビエリク Portsmouth の 2-0 勝ち時にホームサポーターフラットン・パーク土曜日に。",
       "title_original": "Hampshire Police investigating Bielik incident at Portsmouth",
@@ -2978,20 +2993,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "キットの汚れに対する補償を考慮したミドルスラフ Turf Moor",
-      "summary": "ミドルスラフはキットの汚れに対する補償を検討しています Turf Moor.",
-      "title_original": "Middlesbrough considering compensation for kit staining at Turf Moor",
-      "summary_original": "Middlesbrough are considering compensation for kit staining at Turf Moor.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582656/middlesbrough-considering-compensation-for-kit-staining-at-turf-moor",
-      "published": "Mon, 07 Sep 2026 08:41:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
