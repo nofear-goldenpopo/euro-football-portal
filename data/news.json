@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T06:56:30.412370+00:00",
+  "updated_at": "2026-09-07T07:08:39.732681+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1867,7 +1867,8 @@
     "Super Bowl": "",
     "Jayden Daniels. The": "",
     "David Allen": "",
-    "Mike Ofo": ""
+    "Mike Ofo": "",
+    "Milo Beimers": ""
   },
   "items": [
     {
@@ -1892,6 +1893,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyegw2re82o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 19:31:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チャンピオンズアーセナル後ろからビートに来るチェルシー",
+      "summary": "チャンピオン獲得アーセナル後ろから来て大衆を倒すチェルシープリズムで ロンドン ダービー アットエミレーツ・スタジアム.",
+      "title_original": "Champions Arsenal come from behind to beat Chelsea",
+      "summary_original": "Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 18:58:27 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -1927,34 +1942,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トロイさんを作った人プレミアリーグ週のチーム?",
-      "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
-      "title_original": "Who has made Troy's Premier League team of the week?",
-      "summary_original": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 22:06:40 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チャンピオンズアーセナル後ろからビートに来るチェルシー",
-      "summary": "チャンピオン獲得アーセナル後ろから来て大衆を倒すチェルシープリズムで ロンドン ダービー アットエミレーツ・スタジアム.",
-      "title_original": "Champions Arsenal come from behind to beat Chelsea",
-      "summary_original": "Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 18:58:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Last-gasp Maitland-Nilesstunner 救助ポイントのためのエヴァートン",
       "summary": "エインズリー・メイトランド＝ナイルズ著名なストップページタイムイコライザーを弾力性としてスクーリングすることにより、英語のサッカーに戻りましたエヴァートン後ろから2 回引っ越しマンチェスター・ユナイテッド獲得を問い合わせプレミアリーグ.",
       "title_original": "Last-gasp Maitland-Niles stunner rescues point for Everton",
@@ -1966,6 +1953,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "トロイさんを作った人プレミアリーグ週のチーム?",
+      "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
+      "title_original": "Who has made Troy's Premier League team of the week?",
+      "summary_original": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 22:06:40 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2025,6 +2026,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ゴールキーパーのバントリップが新しいクラブで終わる方法",
+      "summary": "新たなクラブ、ゴールキーパーを見つけるために、ヴァン・ジャーニーを舞台に Milo Beimers イタリアのビテルベスに予期しないターンで獲得しました。",
+      "title_original": "How a goalkeeper's van trip ended with a new club",
+      "summary_original": "After setting out on a van journey to find a new club, goalkeeper Milo Beimers has signed for Viterbese in Italy in an unexpected turn.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgqd2wwwyk5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 06:56:29 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "警察はポートズマスで Bielik ファンの衝突を調査します",
       "summary": "警察はカーディフ・ディフェンダー間の事件を調査していますクリスティアン・ビエリク土曜日にポンペイの2-0 ホームウィン中のポートスマスサポーター。",
       "title_original": "Police investigate Bielik fan clash at Portsmouth",
@@ -2050,20 +2065,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Odegaard と坂星 -選手採点獲得を問い合わせアーセナル. .チェルシー",
-      "summary": "使い方アーセナルそして、チェルシーの のプレイヤーは、プレミアリーグマッチ。",
-      "title_original": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
-      "summary_original": "How Arsenal and Chelsea's players rated following their Premier League match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gr71gygg8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 17:31:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2179,6 +2180,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Odegaard と坂星 -選手採点獲得を問い合わせアーセナル. .チェルシー",
+      "summary": "使い方アーセナルそして、チェルシーの のプレイヤーは、プレミアリーグマッチ。",
+      "title_original": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
+      "summary_original": "How Arsenal and Chelsea's players rated following their Premier League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gr71gygg8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 17:31:56 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "WSL の調査の後でクリスタル・パレス置換規則を破る",
       "summary": "The Women's Super League 調査が進行中であると言うクリスタル・パレス勝つ上で4 つの置換ウィンドウを使用するエヴァートン.",
       "title_original": "WSL investigating after Palace break substitution rules",
@@ -2204,20 +2219,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "どのサブが最大のインパクトを持っていたか?エヴァートン. .マンチェスター・ユナイテッド 選手採点",
-      "summary": "使い方エヴァートンそして、マンチェスター・ユナイテッドの のプレーヤーは評価しました Hill Dickinson Stadium.",
-      "title_original": "Which sub had biggest impact? Everton v Man Utd player ratings",
-      "summary_original": "How Everton and Manchester United's players rated at Hill Dickinson Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c78070053wvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 15:11:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
