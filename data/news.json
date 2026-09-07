@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T09:28:28.354666+00:00",
+  "updated_at": "2026-09-07T09:42:06.357212+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1889,7 +1889,9 @@
     "Spanish GP": "スペイングランプリ",
     "Spanish Grand Prix": "スペイングランプリ",
     "Micah Richards": "",
-    "CBS Sports": "CBSスポーツ"
+    "CBS Sports": "CBSスポーツ",
+    "Harry Souttar": "",
+    "Grand Prix": "グランプリ"
   },
   "items": [
     {
@@ -1977,6 +1979,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c046pxeeqe6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 05:05:20 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Last-gasp Maitland-Nilesstunner 救助ポイントのためのエヴァートン",
       "summary": "エインズリー・メイトランド＝ナイルズ著名なストップページタイムイコライザーを弾力性としてスクーリングすることにより、英語のサッカーに戻りましたエヴァートン後ろから2 回引っ越しマンチェスター・ユナイテッド獲得を問い合わせプレミアリーグ.",
       "title_original": "Last-gasp Maitland-Niles stunner rescues point for Everton",
@@ -2012,20 +2028,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/czxzwd417x0o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 07:23:20 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c046pxeeqe6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 05:05:20 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2072,6 +2074,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Leicester が Oxford の発疹の最低を生産できなかった - Souttar",
+      "summary": "レスター選手は、オックスフォードによる土曜日の重い敗北のために「最低賃金」と「責任を取るために得た」を生成できなかった、キャプテンは言う Harry Souttar.",
+      "title_original": "Leicester failed to produce bare minimum in Oxford thrashing - Souttar",
+      "summary_original": "Leicester players failed to produce the \"bare minimum\" and \"have got to take responsibility\" for Saturday's heavy defeat by Oxford, says captain Harry Souttar.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78340y18lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 09:29:44 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2268,20 +2284,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Kerjota が Dunadee に対するハートの96 分の勝者を獲得",
-      "summary": "クラウディオブラガ「ペナルティ」Sabah Kerjota's 華麗な低ドライブは劇的なハートを獲得 Scottish PremiershipDundee で勝利し、すべての競争で8 つの試合にアンベイトされたランを拡張します。",
-      "title_original": "Kerjota scores 96th-minute winner for Hearts against Dundee",
-      "summary_original": "Claudio Braga's penalty and Sabah Kerjota's brilliant low drive earn Hearts a dramatic Scottish Premiership victory over Dundee, extending their unbeaten run in all competitions to eight matches.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/videos/c790qe5gr2po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 07:40:46 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2789,6 +2791,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "F1 2026 チームメイトヘッドツーヘッドイタリアグランプリ",
+      "summary": "2026 フォーミュラ 1 最新予選、スプリント、すべてのヘッドツーヘッドグランプリ11 チーム各チームで得点",
+      "title_original": "F1 2026 team-mate head-to-heads after Italian GP",
+      "summary_original": "The 2026 Formula 1 head-to-heads with all of the latest Qualifying, Sprint and Grand Prix scores in each of the 11 teams.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13516662/f1-team-mate-2026-head-to-head-qualifying-race-sprint-latest-scores-results-from-formula-1-season",
+      "published": "Mon, 07 Sep 2026 10:25:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Hampshire PolicePortsmouth で Bielik インシデントを調査",
       "summary": "Hampshire Police カーディフの事件を調査しているクリスティアン・ビエリク Portsmouth の 2-0 勝ち時にホームサポーターフラットン・パーク土曜日に。",
       "title_original": "Hampshire Police investigating Bielik incident at Portsmouth",
@@ -2964,20 +2980,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13582280/walker-cup-great-britain-and-ireland-produce-stunning-late-comeback-to-beat-usa-13-5-12-5-in-thrilling-contest",
       "published": "Sun, 06 Sep 2026 20:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "カルティは、ダブリンドラマの後、アレン失格を期待",
-      "summary": "Thomas Carty とりあえず David Allen, 誰が彼らの戦いに終わる奇妙な後に失格されているべき, アイルランド人のマネージャーは言う Mike Ofo.",
-      "title_original": "Carty expects Allen disqualification after Dublin drama",
-      "summary_original": "Thomas Carty was 'blatantly' fouled by David Allen, who should have been disqualified after the bizarre ending to their fight, says the Irishman's manager Mike Ofo.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13582537/thomas-carty-expects-david-allen-disqualification-after-bizarre-end-to-fight-on-katie-taylor-undercard",
-      "published": "Mon, 07 Sep 2026 07:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
