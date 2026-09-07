@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T08:07:18.722943+00:00",
+  "updated_at": "2026-09-07T08:28:26.108557+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1878,7 +1878,14 @@
     "Michael Owen": "マイケル・オーウェン",
     "David Gray": "デヴィッド・グレイ",
     "Claudio Braga's": "",
-    "Sabah Kerjota's": ""
+    "Sabah Kerjota's": "",
+    "Valdas Dambrauskas": "",
+    "England Women's": "",
+    "Lydia Greenway": "",
+    "Hampshire Police": "",
+    "Cardiff's Krystian Bielik": "",
+    "Carlota Ciganda": "",
+    "Lexi Thompson": "レクシー・トンプソン"
   },
   "items": [
     {
@@ -1892,6 +1899,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ゲームショーからチャンピオンズリーグ- サバコーチは信じられないほどの物語を語っています",
+      "summary": "リトアニアのコーチ Valdas Dambrauskas 自分の歯を英語のサッカーで切って、今度は戻りますチャンピオンズリーグサバと共に。",
+      "title_original": "From game show to Champions League - Sabah coach tells his incredible story",
+      "summary_original": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 08:04:12 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2008,20 +2029,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "どのように十代のセーターのバン旅行ヨーロッパは新しいクラブで終わって",
-      "summary": "新たなクラブ、ゴールキーパーを見つけるために、ヴァン・ジャーニーを舞台に Milo Beimers イタリアのビテルベスに予期しないターンで獲得しました。",
-      "title_original": "How teenage keeper's van trip around Europe ended with new club",
-      "summary_original": "After setting out on a van journey to find a new club, goalkeeper Milo Beimers has signed for Viterbese in Italy in an unexpected turn.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgqd2wwwyk5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 06:56:29 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "トロイさんを作った人プレミアリーグ週のチーム?",
       "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
       "title_original": "Who has made Troy's Premier League team of the week?",
@@ -2032,6 +2039,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "どのように十代のセーターのバン旅行ヨーロッパは新しいクラブで終わって",
+      "summary": "新たなクラブ、ゴールキーパーを見つけるために、ヴァン・ジャーニーを舞台に Milo Beimers イタリアのビテルベスに予期しないターンで獲得しました。",
+      "title_original": "How teenage keeper's van trip around Europe ended with new club",
+      "summary_original": "After setting out on a van journey to find a new club, goalkeeper Milo Beimers has signed for Viterbese in Italy in an unexpected turn.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgqd2wwwyk5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 06:56:29 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2680,6 +2701,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "オーストラリアのギャップを閉じる「世界クラスの」オールランダーのためのイングランドのプッシュ",
+      "summary": "England Women's 国民のセレクターLydia Greenway 世界のベスト、オーストラリアのギャップを閉じる側に計画を立て、戦略の中心に「世界クラスの」アラウンドワーをプッシュします。",
+      "title_original": "England's push for 'world-class' all-rounders to close gap on Australia",
+      "summary_original": "England Women's national selector Lydia Greenway laid out her plan for the side to close the gap on the world's best, Australia, with a push for 'world-class' allrounders at the heart of their strategy.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13582651/england-vs-ireland-alice-capsey-trial-as-wicketkeeper-in-keeping-with-englands-push-for-world-class-all-rounders",
+      "published": "Mon, 07 Sep 2026 08:28:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "NFL 獲得を問い合わせ レースへ Super Bowl61 件はこちらから",
       "summary": "285 ゲーム. 8 カ国 4 つの大陸。6 つのタイムゾーン。22 週間。32 チーム ワンチャンピオン。そして5 つの金リング-oops、残念 Jayden Daniels. The2026 NFL シーズンはこちら",
       "title_original": "The NFL is back! The race to Super Bowl 61 starts here",
@@ -2736,6 +2771,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Hampshire PolicePortsmouth で Bielik インシデントを調査",
+      "summary": "Hampshire Police カーディフの事件を調査しているクリスティアン・ビエリク Portsmouth の 2-0 勝ち時にホームサポーターフラットン・パーク土曜日に。",
+      "title_original": "Hampshire Police investigating Bielik incident at Portsmouth",
+      "summary_original": "Hampshire Police are investigating an incident between Cardiff's Krystian Bielik and a home supporter during Portsmouth's 2-0 win at Fratton Park on Saturday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13582657/krystian-bielik-hampshire-police-investigating-incident-between-cardiff-midfielder-and-portsmouth-supporter",
+      "published": "Mon, 07 Sep 2026 09:10:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リトルは、主張するためにハフトリーをオフ見た瞬間 Czech Darts Open",
       "summary": "Luke Littler クレーム Czech Darts Open 勝つ Luke Humphries.",
       "title_original": "The moment Littler saw off Humphries to claim Czech Darts Open",
@@ -2771,6 +2820,34 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13582412/learning-on-the-job-alice-capsey-takes-two-smart-stumpings",
       "published": "Sun, 06 Sep 2026 16:38:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Solheim Cup| 史上最高のショット",
+      "summary": "最高のショットの選択をご覧ください Solheim Cup 歴史を含む Carlota Ciganda, レクシー・トンプソンそして、Team Europe キャプテン Anna Nordqvist.",
+      "title_original": "Solheim Cup | Greatest ever shots",
+      "summary_original": "Watch a selection of the best shots from Solheim Cup history including Carlota Ciganda, Lexi Thompson and Team Europe captain Anna Nordqvist.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13568169/solheim-cup-greatest-ever-shots",
+      "published": "Sun, 02 Aug 2026 15:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Solheim Cup: 最高の勝利の瞬間!",
+      "summary": "いくつかの古典的な勝利の瞬間を見てみましょう Solheim Cup!",
+      "title_original": "Solheim Cup: Best winning moments!",
+      "summary_original": "Take a look back at some classic winning moments at the Solheim Cup!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13581433/solheim-cup-best-winning-moments",
+      "published": "Fri, 04 Sep 2026 18:24:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2901,62 +2978,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "インテンスシーン! Casey misses FOUR putts へ 負け 時 Omega European Masters!",
-      "summary": "ここまで近い!Paul Casey 勝ちを主張する4 つの機会を逃します Omega European Masters.",
-      "title_original": "INTENSE scenes! Casey misses FOUR putts to lose at Omega European Masters!",
-      "summary_original": "So close yet so far! Paul Casey misses four opportunities to claim the win at the Omega European Masters.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582471/paul-casey-misses-four-putts-to-lose-at-the-omega-european-masters",
-      "published": "Sun, 06 Sep 2026 17:48:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'ここにルールはありません' - ハミルトンは、Leclerc クラッシュ後のフェラーリを批判",
-      "summary": "Lewis Hamilton チームメイトと衝突した後に「ルールなし」を持つフェラーリを認定しました Charles Leclerc 途中でイタリアグランプリ.",
-      "title_original": "'There are no rules here' - Hamilton criticises Ferrari after Leclerc clash",
-      "summary_original": "Lewis Hamilton has accused Ferrari of having \"no rules\" after a clash with his team-mate Charles Leclerc during the Italian Grand Prix.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13582222/lewis-hamilton-claims-there-are-no-rules-at-ferrari-after-clash-with-team-mate-charles-leclerc-during-italian-gp",
-      "published": "Sun, 06 Sep 2026 19:40:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "不幸か不公平か。Did Mercedes 戦略コスト Russell Monza 勝つ?",
-      "summary": "George Russell メルセデスは失うにもかかわらず、戦略を分割するために正しい感じ Kimi Antonelli スリル満点イタリアグランプリ.",
-      "title_original": "Unlucky or unfair? Did Mercedes strategy cost Russell Monza win?",
-      "summary_original": "George Russell feels Mercedes were correct to split strategies despite losing out to Kimi Antonelli in a thrilling Italian Grand Prix.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13582219/italian-gp-did-mercedes-strategy-cost-george-russell-win-at-monza-against-kimi-antonelli",
-      "published": "Sun, 06 Sep 2026 18:55:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブロックブスター獲得なしアーセナル攻撃はまだ別のレベルを見つける",
-      "summary": "途中で2 番目の半分を下るエミレーツ・スタジアム, マルティン・ウーデゴールボールを内側の右の位置でピックアップし、パスに向かってネジ Kai Havertz, 明滅は、突進を許可したブカヨ・サカテストへ Emiliano Martinez.",
-      "title_original": "No blockbuster signing but Arsenal's attack still finding another level",
-      "summary_original": "Midway through the second half at the Emirates Stadium, Martin Odegaard picked up the ball in an inside-right position and threaded a pass towards Kai Havertz, whose flick allowed the onrushing Bukayo Saka to test Emiliano Martinez.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582329/martin-odegaard-kai-havertz-and-bukayo-saka-show-arsenal-can-level-up-their-attack-even-without-the-blockbuster-signing-they-craved",
-      "published": "Sun, 06 Sep 2026 19:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
