@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T08:28:26.108557+00:00",
+  "updated_at": "2026-09-07T08:42:32.553682+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1885,7 +1885,9 @@
     "Hampshire Police": "",
     "Cardiff's Krystian Bielik": "",
     "Carlota Ciganda": "",
-    "Lexi Thompson": "レクシー・トンプソン"
+    "Lexi Thompson": "レクシー・トンプソン",
+    "Spanish GP": "スペイングランプリ",
+    "Spanish Grand Prix": "スペイングランプリ"
   },
   "items": [
     {
@@ -2729,6 +2731,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スペイングランプリ: スケジュールと新しいマドリードのレースを見る方法",
+      "summary": "フォーミュラ1 はマドリッドの新通りのサーキットに向かいますスペイングランプリ- 季節の最後のヨーロッパのレース。",
+      "title_original": "Spanish GP: Schedule and how to watch new Madrid race",
+      "summary_original": "Formula 1 heads to a brand-new street circuit in Madrid for the Spanish Grand Prix - the final European race of the season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13582249/spanish-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-madrid-live-on-sky-sports",
+      "published": "Mon, 07 Sep 2026 09:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "先日は大歓迎! 見る方法 Solheim Cup スカイスポーツ",
       "summary": "Team Europe 返還の目的 Solheim Cup 彼らがホストするときに家土の上に Team USA 獲得を問い合わせオランダ今週は、英国とアイルランドのスカイスポーツにのみ住んでいます。",
       "title_original": "Huge week ahead! How to watch the Solheim Cup live on Sky Sports",
@@ -2960,20 +2976,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/boxing/news/12040/13582537/thomas-carty-expects-david-allen-disqualification-after-bizarre-end-to-fight-on-katie-taylor-undercard",
       "published": "Mon, 07 Sep 2026 07:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'Just unheard of! - Antonelli の奇跡の勝利は「水の上を歩く」ために好みました",
-      "summary": "モンツァの週末には、すでに1 つの不可分な結果が評価され、イタリアの新しい若い星 Kimi Antonelli 日曜日のスリリングなレースで、フォーミュラ1 の歴史書で有名な場所を確保。",
-      "title_original": "'Just unheard of! - Antonelli's miracle win likened to 'walking on water'",
-      "summary_original": "On a Monza weekend that had already produced one implausible result in qualifying, Italy's new young star Kimi Antonelli delivered a second in Sunday's thrilling race to ensure its own prominent place in Formula 1's history books.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13582221/kimi-antonelli-mercedes-driver-hailed-by-pundits-and-toto-wolff-after-remarkable-19th-to-first-italian-gp-comeback-win",
-      "published": "Sun, 06 Sep 2026 21:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
