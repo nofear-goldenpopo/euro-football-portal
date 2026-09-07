@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T13:28:02.397782+00:00",
+  "updated_at": "2026-09-07T13:41:26.704770+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1926,7 +1926,9 @@
     "John Mitchell": "ジョン・ミッチェル",
     "Jordan Jarrett-Bryan": "",
     "Chelsea Rate": "",
-    "Apple Podcasts": "Apple Podcast"
+    "Apple Podcasts": "Apple Podcast",
+    "Shrewsbury Town's": "",
+    "Liam Farrell": ""
   },
   "items": [
     {
@@ -2112,6 +2114,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アメリカンコンソーシアムは、Shrewsbury を購入するのをクリア",
+      "summary": "Shrewsbury Town's 長期にわたる買収サガは、アメリカンコンソーシアムがクラブを購入する承認を付与した後に終了するように設定されています。",
+      "title_original": "American consortium cleared to buy Shrewsbury",
+      "summary_original": "Shrewsbury Town's long-running takeover saga is set to end after an American consortium is granted approval to buy the club.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx05qpn0kvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 13:26:39 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トロイさんを作った人プレミアリーグ週のチーム?",
       "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
       "title_original": "Who has made Troy's Premier League team of the week?",
@@ -2151,20 +2167,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "送金後、エヴァートン全く新しいヒーローを持っている",
-      "summary": "でもエインズリー・メイトランド＝ナイルズ想像してもらえるプレミアリーグ戻り値エヴァートンやったようにプレーしました。",
-      "title_original": "After transfer worries, Everton have an unlikely new hero",
-      "summary_original": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 19:09:59 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2308,6 +2310,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "送金後、エヴァートン全く新しいヒーローを持っている",
+      "summary": "でもエインズリー・メイトランド＝ナイルズ想像してもらえるプレミアリーグ戻り値エヴァートンやったようにプレーしました。",
+      "title_original": "After transfer worries, Everton have an unlikely new hero",
+      "summary_original": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 19:09:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "警察はポートズマスで Bielik ファンの衝突を調査します",
       "summary": "警察はカーディフ・ディフェンダー間の事件を調査していますクリスティアン・ビエリク土曜日にポンペイの2-0 ホームウィン中のポートスマスサポーター。",
       "title_original": "Police investigate Bielik fan clash at Portsmouth",
@@ -2318,20 +2334,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "WSL で新しいコンテンダーが出現する - しかしマンチェスター・シティ強いスタート",
-      "summary": "The Women’s Super League この週末に戻って、新しい獲得、改善されたスクワットと予期しない結果のホストと一緒に。",
-      "title_original": "New contenders emerge on WSL return - but Man City start strong",
-      "summary_original": "The Women’s Super League returned this weekend and with it a host of new signings, improved squads and unexpected results.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj9x3wlg11po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 18:34:54 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2756,6 +2758,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "退職、フォンドの思い出、そしてウィガンとの次のステップについてのファーレル",
+      "summary": "Wigan Warriors キャプテン Liam Farrell 彼は2026 の最後に退役すると発表した後、彼は再びクラブのために再生する場合、彼は確信していないと言う Super League 季節限定",
+      "title_original": "Farrell on retirement, fond memories, and next steps with Wigan",
+      "summary_original": "Wigan Warriors captain Liam Farrell says he is not sure if he will play for the club again after he announced he will retireat the end of the 2026 Super League season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13582772/liam-farrell-wigan-warriors-captain-on-retirement-fond-memories-and-next-steps-after-super-league-career-to-remember",
+      "published": "Mon, 07 Sep 2026 12:39:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "翼の折り返し:How St Helens 成功は停滞する",
       "summary": "ほこりは事実に解決しました St Helens プレーオフのラグビーで7 位のフィニッシュを初めて見逃しました Super League.",
       "title_original": "The flap of a wing: How St Helens let success become stagnation",
@@ -3015,20 +3031,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13582657/krystian-bielik-hampshire-police-investigating-incident-between-cardiff-midfielder-and-portsmouth-supporter",
       "published": "Mon, 07 Sep 2026 09:10:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "イングランドの appoint Pietersen は、ホワイトボールチームのためのスペシャリストメンターとして",
-      "summary": "Kevin Pietersen イングランドの男子ホワイトボールチームに来年のビルドアップのスペシャリストメンターとして参加するクリケット・W 杯アフリカ",
-      "title_original": "England appoint Pietersen as specialist mentor for white-ball teams",
-      "summary_original": "Kevin Pietersen is to join the England men's white-ball teams as a specialist mentor in the build-up to next year's Cricket World Cup in Africa.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13582723/kevin-pietersen-england-appoint-former-captain-as-specialist-mentor-for-white-ball-teams",
-      "published": "Mon, 07 Sep 2026 11:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
