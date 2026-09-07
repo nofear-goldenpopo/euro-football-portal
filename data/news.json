@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T09:06:52.917029+00:00",
+  "updated_at": "2026-09-07T09:28:28.354666+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1887,7 +1887,9 @@
     "Carlota Ciganda": "",
     "Lexi Thompson": "レクシー・トンプソン",
     "Spanish GP": "スペイングランプリ",
-    "Spanish Grand Prix": "スペイングランプリ"
+    "Spanish Grand Prix": "スペイングランプリ",
+    "Micah Richards": "",
+    "CBS Sports": "CBSスポーツ"
   },
   "items": [
     {
@@ -2003,9 +2005,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「ギャンブルと推測」 - 灰色はハイブ危機に直面します",
+      "title": "「ギャンブル&推測」 - グレーはハイブススラムプに直面",
       "summary": "Hibernian ヘッドコーチデヴィッド・グレイ drab 敗北後の圧力が上昇している St Johnstone 日曜日、しかし、最近の週に何が間違っていたのですか?",
-      "title_original": "'Gambling & guessing' - Gray faces up to Hibs crisis",
+      "title_original": "'Gambling & guessing' - Gray faces up to Hibs slump",
       "summary_original": "Hibernian head coach David Gray is under increasing pressure after a drab defeat at St Johnstone on Sunday, but what has gone wrong in recent weeks?",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/czxzwd417x0o?at_medium=RSS&at_campaign=rss",
@@ -2339,6 +2341,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "CBS のチャンピオンズリーグスタジオパネルは、お互いを刺激する準備ができています",
+      "summary": "Kate Scott, Thierry Henry, Jamie Carragher そして、Micah Richards 米国の聴衆のためのサッカーをカバーするための彼らの int-viral アプローチについて議論 フィールド上でアクションをアウトシャインするためにスポーツ放送のために何か特別なものを取ります. しかし、それはしばしば何が起こるか CBS スポーツ、場所チャンピオンズリーグスタジオショーは、視聴者と珍しいコードを打たれ、ほとんどの場合、ストリーミングブランチ Paramount +で放送しています。通常のグループ(Kate Scott, Jamie Carragher, Thierry Henry と Micah Richards)、据え付け品になりました",
+      "title_original": "CBS’s Champions League studio panel are back and ready to irritate each other",
+      "summary_original": "Kate Scott, Thierry Henry, Jamie Carragher and Micah Richards discuss their oft-viral approach to covering soccer for a US audience It takes something special for a sports broadcast to outshine the action on the field. Yet that is often what happens on CBS Sports, where the Champions League studio show has struck a rare chord with viewers, most often broadcast on streaming branch Paramount+. The usual group (Kate Scott, Jamie Carragher, Thierry Henry, and Micah Richards), have become fixtures on",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/cbss-champions-league-studio-panel-are-back-and-ready-to-irritate-each-other",
+      "published": "Mon, 07 Sep 2026 09:00:30 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ヨーロッパのフットボール:ラミン・ヤマルダブルパワーバルセロナバレンシアから",
       "summary": "Gatti の停止時ヘッダーは、Juve を攻撃します Milan Goalkeeper Koeman Jr スコア 2 ペナルティ でエールディヴィジ ラミン・ヤマルのために2 回ひっくり返して下さいバルセロナ彼らは日曜日にバレンシア5-0 を解体し、100%の開始を維持するためにラ・リーガ. 再興のチャンピオンは上で3 ポイントクリアを動かしましたラ・リーガアフタージョゼ・モウリーニョ獲得を問い合わせレアル・マドリード失われた 1-0 でレアル・ベティス獲得を問い合わせ Friday. Fermín López, ラフィーニャそして、ペドリターゲットにもあったハンジ・フリックスペインの東部のホットアフタヌーンで賑やかな訪問者",
       "title_original": "European football: Lamine Yamal’s double powers Barcelona to rout of Valencia",
@@ -2364,20 +2380,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Embattled Fifa 社長のインファンティーノは、再選挙のために立ち向かう意思を宣言",
-      "summary": "Infantino は、販売オフプランの後に再獲得する圧力下にある Uefa は、社長がキルトにコールを導いた The Fifa 代表取締役社長 Gianni Infantino, 彼のリーダーシップを取り巻く継続論争にもかかわらず、来年再選挙のために立たせたいという彼の願望を再評価しました. Infantino は、レポーターから質問をしたときに、将来の質問に答えることを拒否しました Women’s Under-20 World Cup ポーランド Saturday. The56 歳のスイスは、Fifa 大会でステークを販売しようとすると再獲得する厳しい圧力下にあります",
-      "title_original": "Embattled Fifa president Infantino declares intention to stand for re-election",
-      "summary_original": "Infantino is under pressure to resign after sell-off plan Uefa has led calls for president to quit The Fifa president, Gianni Infantino, has reiterated his desire to stand for re-election next year despite the continuing controversy surrounding his leadership. Infantino refused to answer questions about his future when asked by reporters at the Women’s Under-20 World Cup in Poland on Saturday. The 56-year-old Swiss is under severe pressure to resign after trying to sell stakes in Fifa tournament",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
-      "published": "Sun, 06 Sep 2026 14:03:17 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2549,6 +2551,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Embattled Fifa 社長のインファンティーノは、再選挙のために立ち向かう意思を宣言",
+      "summary": "Infantino は、販売オフプランの後に再獲得する圧力下にある Uefa は、社長がキルトにコールを導いた The Fifa 代表取締役社長 Gianni Infantino, 彼のリーダーシップを取り巻く継続論争にもかかわらず、来年再選挙のために立たせたいという彼の願望を再評価しました. Infantino は、レポーターから質問をしたときに、将来の質問に答えることを拒否しました Women’s Under-20 World Cup ポーランド Saturday. The56 歳のスイスは、Fifa 大会でステークを販売しようとすると再獲得する厳しい圧力下にあります",
+      "title_original": "Embattled Fifa president Infantino declares intention to stand for re-election",
+      "summary_original": "Infantino is under pressure to resign after sell-off plan Uefa has led calls for president to quit The Fifa president, Gianni Infantino, has reiterated his desire to stand for re-election next year despite the continuing controversy surrounding his leadership. Infantino refused to answer questions about his future when asked by reporters at the Women’s Under-20 World Cup in Poland on Saturday. The 56-year-old Swiss is under severe pressure to resign after trying to sell stakes in Fifa tournament",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
+      "published": "Sun, 06 Sep 2026 14:03:17 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Richard HughesAl-Hilal スポーツディレクターとして確認リヴァプール出発日",
       "summary": "ヒューズは2 年後にサウジアラビアのエクオダスに参加 Anfield Martinelli、サマービルおよびワトキンスはにあります Al-Hilal Richard HughesAl-Hilal のスポーツディレクターに就任 Saudi Pro League 日曜日にクラブが確認され、次のハイス出発からリヴァプール. ヒュース, 47, 参加リヴァプール2024 年にボーンマスから。獲得を問い合わせアルネ・スロットとして Jürgen Klopp’s 頭のコーチとしての後継者、レッドが主張したように即時配当を支払った副決定プレミアリーグ2024-25 のタイトル。スロットスロット",
       "title_original": "Richard Hughes confirmed as Al-Hilal sporting director after Liverpool departure",
@@ -2602,20 +2618,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハーランドエッジマンチェスター・シティ過去のコベントリーとしてフェルナンデスはデビューに輝きます",
-      "summary": "エンソ・フェルナンデススタートマンチェスター・シティアフターNico O’Reilly’s ウォームアップとスパークリング中に戻って怪我をし、クラブがミッドフィルダーのために英国レコード式1億2500万ポンド を支払った理由を示す。受賞者の礼儀式が届きましたアーリング・ハーランド’ s 300th ゴール で クラブ フットボール と フェルナンデス は 重要な 部分, 供給 Antoine Semenyo 右から十字架を切って帰宅した。後半のコベントリーは逃げましたが、最初のトップフライトのゴールを待ちます。Mustapha Hadji’sAst の3-2 敗北で2 番目に",
-      "title_original": "Haaland edges Manchester City past Coventry as Fernández sparkles on debut",
-      "summary_original": "Enzo Fernández started for Manchester City after Nico O’Reilly’s back injury during the warm-up and sparkled, showing why the club paid a British-record-equalling £125m for the midfielder. The winner came courtesy of Erling Haaland’s 300th goal in club football and Fernández had a key part, feeding Antoine Semenyo, whose cross from the right was crashed home. In the second half Coventry hammered away, but their wait for a first top-flight goal since Mustapha Hadji’s second in a 3-2 defeat at Ast",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/manchester-city-coventry-city-premier-league-match-report",
-      "published": "Sat, 05 Sep 2026 16:02:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
