@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T20:25:48.150081+00:00",
+  "updated_at": "2026-09-07T20:38:38.367924+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1969,6 +1969,20 @@
   },
   "items": [
     {
+      "title": "チャンピオンズリーグ誰がお気に入りですか?プレイヤーは誰ですか?",
+      "summary": "ザ・オブ・ザ・チャンピオンズリーグバックと BBC スポーツは、お気に入りが専門家からタイトルプラス予測を獲得するかどうかを見てみましょう。",
+      "title_original": "Champions League returns - who are favourites and players to watch?",
+      "summary_original": "The Champions League is back and BBC Sport take a look at who the favourites are to win the title plus predictions from the experts.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 20:30:53 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Can Kane バックの歴史と勝利 Ballon D'Or?",
       "summary": "歴史は、最近サッカーの最大のトロフィーの1 を持ち上げている人から Ballon d'Or の勝者が来ることを示唆しています。できますハリー・ケインまれな例外になる?",
       "title_original": "Can Kane buck history and win Ballon d'Or?",
@@ -2179,20 +2193,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Kerjota が Dunadee に対するハートの96 分の勝者を獲得",
-      "summary": "クラウディオブラガ「ペナルティ」Sabah Kerjota's 華麗な低ドライブは劇的なハートを獲得 Scottish PremiershipDundee で勝利し、すべての競争で8 つの試合にアンベイトされたランを拡張します。",
-      "title_original": "Kerjota scores 96th-minute winner for Hearts against Dundee",
-      "summary_original": "Claudio Braga's penalty and Sabah Kerjota's brilliant low drive earn Hearts a dramatic Scottish Premiership victory over Dundee, extending their unbeaten run in all competitions to eight matches.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/videos/c790qe5gr2po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 07:40:46 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -2347,6 +2347,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Kerjota が Dunadee に対するハートの96 分の勝者を獲得",
+      "summary": "クラウディオブラガ「ペナルティ」Sabah Kerjota's 華麗な低ドライブは劇的なハートを獲得 Scottish PremiershipDundee で勝利し、すべての競争で8 つの試合にアンベイトされたランを拡張します。",
+      "title_original": "Kerjota scores 96th-minute winner for Hearts against Dundee",
+      "summary_original": "Claudio Braga's penalty and Sabah Kerjota's brilliant low drive earn Hearts a dramatic Scottish Premiership victory over Dundee, extending their unbeaten run in all competitions to eight matches.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/videos/c790qe5gr2po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 07:40:46 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "チャンピオンズアーセナル後ろからビートに来るチェルシー",
       "summary": "チャンピオン獲得アーセナル後ろから来て大衆を倒すチェルシープリズムで ロンドン ダービー アットエミレーツ・スタジアム.",
       "title_original": "Champions Arsenal come from behind to beat Chelsea",
@@ -2368,20 +2382,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 18:58:33 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ショーダブルリードマンチェスター・シティバーミンガムの勝利へ",
-      "summary": "マンチェスター・シティ彼らの防衛 Women's Super League タイトルは、新しく宣伝された上で勝利で完璧なスタートにオフ取得バーミンガム・シティ FC.",
-      "title_original": "Shaw double leads Man City to victory over Birmingham",
-      "summary_original": "Manchester City's defence of their Women's Super League title gets off to the perfect start with victory over newly promoted Birmingham City.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9v9e0e1pvro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 18:47:15 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2851,9 +2851,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Osaka's outfit catches the、again as she takes on Rybakina を獲得候補に",
+      "title": "US Open LIVE! Rybakina が大阪を片面1 セットで支配する",
       "summary": "",
-      "title_original": "US Open LIVE! Osaka's outfit catches the eye again as she takes on Rybakina",
+      "title_original": "US Open LIVE! Rybakina dominating Osaka in one-sided first set",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13582595/us-open-live-scores-updates-news-and-results-from-new-york-with-naomi-osaka-iga-swiatek-coco-gauff-and-alexander-zverev-in-action",
