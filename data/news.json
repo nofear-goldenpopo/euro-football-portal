@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T15:06:29.271227+00:00",
+  "updated_at": "2026-09-07T15:26:21.806235+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1935,7 +1935,13 @@
     "Leicester City": "レスター・シティFC",
     "Mikel Arteta’s": "",
     "For Arsenal": "",
-    "Mimi Rhodes": ""
+    "Mimi Rhodes": "",
+    "Filipe Luís": "",
+    "Team GB": "",
+    "Ian Poulter": "イアン・ポールター",
+    "Ireland Walker Cup-winning": "",
+    "Solheim Cup LIVE": "",
+    "Following Great Britain": ""
   },
   "items": [
     {
@@ -2023,17 +2029,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "新しいカメラの角度はウィリアムズの危険な目標ヒットアームを示しています",
-      "summary": "新しいビデオ映像は、ボールが降りてくることを示します Neco Williams' 腕前に彼の危険な目標のためにノッティンガム・フォレスト0-0 はに対して引くトッテナム.",
-      "title_original": "New camera angle shows Williams' disallowed goal hit arm",
-      "summary_original": "New video footage shows the ball coming off Neco Williams' arm before his disallowed goal for Nottingham Forest in the 0-0 draw against Tottenham.",
+      "title": "WSL のオープン週末からのすべての目標",
+      "summary": "開幕の週末からすべての目標を見る Women's Super League2026-27 シーズン",
+      "title_original": "All the goals from the opening weekend of the WSL",
+      "summary_original": "Watch every goal from the opening weekend of the Women's Super League 2026-27 season.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckg8jjq5d05o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 11:31:43 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/videos/cn4k1lwl2zxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 15:21:29 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2079,13 +2085,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チャンピオンズアーセナル後ろからビートに来るチェルシー",
-      "summary": "チャンピオン獲得アーセナル後ろから来て大衆を倒すチェルシープリズムで ロンドン ダービー アットエミレーツ・スタジアム.",
-      "title_original": "Champions Arsenal come from behind to beat Chelsea",
-      "summary_original": "Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.",
+      "title": "新しいカメラの角度はウィリアムズの危険な目標ヒットアームを示しています",
+      "summary": "新しいビデオ映像は、ボールが降りてくることを示します Neco Williams' 腕前に彼の危険な目標のためにノッティンガム・フォレスト0-0 はに対して引くトッテナム.",
+      "title_original": "New camera angle shows Williams' disallowed goal hit arm",
+      "summary_original": "New video footage shows the ball coming off Neco Williams' arm before his disallowed goal for Nottingham Forest in the 0-0 draw against Tottenham.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 18:58:27 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckg8jjq5d05o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 11:31:43 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2188,6 +2194,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チャンピオンズアーセナル後ろからビートに来るチェルシー",
+      "summary": "チャンピオン獲得アーセナル後ろから来て大衆を倒すチェルシープリズムで ロンドン ダービー アットエミレーツ・スタジアム.",
+      "title_original": "Champions Arsenal come from behind to beat Chelsea",
+      "summary_original": "Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 18:58:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2401,10 +2421,24 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Aubameyang は、再考した「Super Dépor' に戻るラ・リーガスタイル |Billy Munday",
-      "summary": "Deportivo A Coruña Leave Gabonese ストライカーと1 つのクラブレコードと別の目指すための2 つのアシストと勝者 Pierre-Emerick Aubameyang 土曜日の夜に Deportivo A Coruña の勝者をスコアするために走ったとき、彼はピッチですでに最高の選手でした。確かにそうではない Ilias Akhomach, ,ビジャレアル途中のパスが不変に Aubameyang を貫通し、また Sergi Cardona, そのパスの意図されていないターゲット. 89 分後、2 人の援助の後、37 歳",
+      "title": "モナコ最高のプレーヤーを保ち、トップリーグ・アン– しかし、何の費用で?",
+      "summary": "思うかもしれませんモナコ特に2-1 の勝利の後について応援するためにたくさん持っているパリ・サンジェルマン、しかしそれは複雑です By Get French Football News When 管理者は「プレイヤーがクラブよりも重要でない」と述べています。プレイヤーは移動のために動揺していると述べています。Filipe Luís 参照フォラリン・バログン, 移籍期限の日にかなり反対をした人, で滞在することを選ぶモナコ参加ではなくエヴァートン、クラブ間の合意にもかかわらず。あなたのトップスコークスを保持していると思う",
+      "title_original": "Monaco kept their best players and are top of Ligue 1 – but at what cost?",
+      "summary_original": "You might think Monaco have plenty to cheer about, especially after their 2-1 win at PSG, but it’s complicated By Get French Football News When a manager says that “no player is more important than the club”, it is usually because said player is agitating for a move. Filipe Luís was referring to Folarin Balogun, who did quite the opposite on transfer deadline day, opting to stay at Monaco rather than joining Everton, despite an agreement between the clubs. You’d think that retaining your top sco",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/monaco-best-players-top-ligue-1-psg",
+      "published": "Mon, 07 Sep 2026 14:59:41 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Aubameyang は「刷新」として去年のロールスロイスを転がします Super Dépor' に戻るラ・リーガスタイル |Billy Munday",
+      "summary": "Deportivo A Coruña の2 人の助けそして勝者は1 つのクラブ レコードが付いている Gabonese のストライカーを去り、別のクラブ レコードを目見ます Pierre-Emerick Aubameyang 土曜日の夜に Deportivo A Coruña の勝者をスコアするために走ったとき、彼はピッチですでに最高の選手でした。確かにそうではない Ilias Akhomach, ,ビジャレアル途中のパスが不変に Aubameyang を貫通し、また Sergi Cardona, そのパスの目的のターゲット. 89 分後、2 人の援助の後、37 歳の Aubameyang",
       "title_original": "Aubameyang rolls back years as revamped ‘Super Dépor’ return to La Liga in style | Billy Munday",
-      "summary_original": "Two assists and the winner for Deportivo A Coruña leave Gabonese striker with one club record and eyeing another Pierre-Emerick Aubameyang was already the best player on the pitch when he ran through to score Deportivo A Coruña’s winner on Saturday night. It was certainly not Ilias Akhomach, the Villarreal substitute whose pass on halfway had inadvertently played Aubameyang through, nor Sergi Cardona, the unassuming intended target of that pass. After 89 minutes and two assists, the 37-year-old ",
+      "summary_original": "Two assists and the winner for Deportivo A Coruña leave Gabonese striker with one club record and eyeing another Pierre-Emerick Aubameyang was already the best player on the pitch when he ran through to score Deportivo A Coruña’s winner on Saturday night. It was certainly not Ilias Akhomach, the Villarreal substitute whose pass on halfway had inadvertently played Aubameyang through, nor Sergi Cardona, the intended target of that pass. After 89 minutes and two assists, the 37-year-old Aubameyang ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/07/pierre-emerick-aubameyang-deportivo-a-coruna-la-liga",
       "published": "Mon, 07 Sep 2026 12:03:13 GMT",
@@ -2429,34 +2463,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Kim Milton Nielsen’s1998 年の思い出:「ねえ、あなたはベッカムを離れる男です」",
-      "summary": "新しい本から抽出物で、デンマークの元リーキーは、彼の有名なキックのためにイングランドのミッドフィルダーを離れて送信するリコールディエゴ・シメオネ1998 年6 月30 日(水)正午 Kim Milton Nielsen 変化する部屋にステップアップ Geoffroy-Guichard Stadium 獲得を問い合わせ Saint-Étienne. The ぬれたタオルのエア・レック。彼は彼のアシスタントを抱いた。サッカーの最下半端に過ぎ去ったばかりの選手達は、その恩恵を受けました。アルゼンチン vEngland. World Cup16 ラウンド。マイケル・オーウェンブリスタインとアルゼンチンをテロした",
-      "title_original": "Kim Milton Nielsen’s 1998 memories: ‘Hey, you are the man who sent off Beckham’",
-      "summary_original": "In an extract from a new book, the Danish former referee recalls sending off the England midfielder for his infamous kick on Diego Simeone At half-time on 30 June 1998, Kim Milton Nielsen stepped into the changing room at the Geoffroy-Guichard Stadium in Saint-Étienne. The air reeked of wet towels. He hugged his assistants. They’d just taken charge of the best half of football they’d ever officiated. Argentina v England. World Cup round of 16. Michael Owen had terrorised Argentina with blisterin",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/07/david-beckham-kim-milton-nielsen-red-card-1998-world-cup-argentina-diego-simeone",
-      "published": "Mon, 07 Sep 2026 07:00:28 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "モーエスは、移動トラブルが痛くないと言いますエヴァートンユナイテッド・ドローの後",
-      "summary": "マネージャーは、後半のイコライザーの後にチームのレジリエンスを賞賛 “誰もがそれが仕事をする方法を見つける必要があります。”David Moyes 賞賛されたエヴァートン後ろから2 回帰った後、トラブルの週に対する弾力的な反応は、反対にポイントを救いますマンチェスター・ユナイテッドコースエインズリー・メイトランド＝ナイルズ'ロングレンジストライキ。期限日獲得、77 分後に導入された人ジェームズ・ガーナーけいれん、保存されたエヴァートン’s unbeaten は、96 分の 25 ヤードの努力で、シーズンに始まります。",
-      "title_original": "‘No excuses’: Moyes says transfer troubles will not hurt Everton after United draw",
-      "summary_original": "Manager praises team’s resilience after late equaliser ‘Everyone has to find a way of making it work’ David Moyes praised Everton’s resilient response to a troubled week after his side twice came from behind to salvage a point against Manchester United through Ainsley Maitland-Niles’s long-range strike. The deadline-day signing, who was introduced in the 77th minute after James Garner pulled up with cramp, preserved Everton’s unbeaten start to the season with a 25-yard effort in the 96th minute.",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/06/david-moyes-ainsley-maitland-niles-everton-manchester-united-premier-league",
-      "published": "Sun, 06 Sep 2026 18:49:39 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "CBS のチャンピオンズリーグスタジオパネルは、お互いを刺激する準備ができています",
       "summary": "Kate Scott, Thierry Henry, Jamie Carragher そして、Micah Richards 米国の聴衆のためのサッカーをカバーするための彼らの int-viral アプローチについて議論 フィールド上でアクションをアウトシャインするためにスポーツ放送のために何か特別なものを取ります. しかし、それはしばしば何が起こるか CBS スポーツ、場所チャンピオンズリーグスタジオショーは、視聴者と珍しいコードを打たれ、ほとんどの場合、ストリーミングブランチ Paramount +で放送しています。通常のグループ(Kate Scott, Jamie Carragher, Thierry Henry と Micah Richards)、据え付け品になりました",
       "title_original": "CBS’s Champions League studio panel are back and ready to irritate each other",
@@ -2468,6 +2474,20 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Kim Milton Nielsen’s1998 年の思い出:「ねえ、あなたはベッカムを離れる男です」",
+      "summary": "新しい本から抽出物で、デンマークの元リーキーは、彼の有名なキックのためにイングランドのミッドフィルダーを離れて送信するリコールディエゴ・シメオネ1998 年6 月30 日(水)正午 Kim Milton Nielsen 変化する部屋にステップアップ Geoffroy-Guichard Stadium 獲得を問い合わせ Saint-Étienne. The ぬれたタオルのエア・レック。彼は彼のアシスタントを抱いた。サッカーの最下半端に過ぎ去ったばかりの選手達は、その恩恵を受けました。アルゼンチン vEngland. World Cup16 ラウンド。マイケル・オーウェンブリスタインとアルゼンチンをテロした",
+      "title_original": "Kim Milton Nielsen’s 1998 memories: ‘Hey, you are the man who sent off Beckham’",
+      "summary_original": "In an extract from a new book, the Danish former referee recalls sending off the England midfielder for his infamous kick on Diego Simeone At half-time on 30 June 1998, Kim Milton Nielsen stepped into the changing room at the Geoffroy-Guichard Stadium in Saint-Étienne. The air reeked of wet towels. He hugged his assistants. They’d just taken charge of the best half of football they’d ever officiated. Argentina v England. World Cup round of 16. Michael Owen had terrorised Argentina with blisterin",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/david-beckham-kim-milton-nielsen-red-card-1998-world-cup-argentina-diego-simeone",
+      "published": "Mon, 07 Sep 2026 07:00:28 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2611,6 +2631,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "モーエスは、移動トラブルが痛くないと言いますエヴァートンユナイテッド・ドローの後",
+      "summary": "マネージャーは、後半のイコライザーの後にチームのレジリエンスを賞賛 “誰もがそれが仕事をする方法を見つける必要があります。”David Moyes 賞賛されたエヴァートン後ろから2 回帰った後、トラブルの週に対する弾力的な反応は、反対にポイントを救いますマンチェスター・ユナイテッドコースエインズリー・メイトランド＝ナイルズ'ロングレンジストライキ。期限日獲得、77 分後に導入された人ジェームズ・ガーナーけいれん、保存されたエヴァートン’s unbeaten は、96 分の 25 ヤードの努力で、シーズンに始まります。",
+      "title_original": "‘No excuses’: Moyes says transfer troubles will not hurt Everton after United draw",
+      "summary_original": "Manager praises team’s resilience after late equaliser ‘Everyone has to find a way of making it work’ David Moyes praised Everton’s resilient response to a troubled week after his side twice came from behind to salvage a point against Manchester United through Ainsley Maitland-Niles’s long-range strike. The deadline-day signing, who was introduced in the 77th minute after James Garner pulled up with cramp, preserved Everton’s unbeaten start to the season with a 25-yard effort in the 96th minute.",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/david-moyes-ainsley-maitland-niles-everton-manchester-united-premier-league",
+      "published": "Sun, 06 Sep 2026 18:49:39 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Jamie Vardy パーティに参加するバーンリーチャンピオンシップの闘争に獲得した後",
       "summary": "出発後のフリーエージェント Cremonese Plans ブルゲンメディアのキャリアにもかかわらず、再生するには Jamie Vardy 獲得後に英語サッカーに戻りましたバーンリー無料のエージェントとして選手権で. ヴァルディは、1 月に40 人になるだろう、シーズンの終わりまで契約を結び、イタリアのクレモネゼで最後のシーズンを過ごしました。彼が13 年を過ごし、13 歳になったレスターに戻るプレミアリーグ2016 年のチャンピオンと FA Cup2021 年の受賞者は、夏にモットされ、Vardy から ru まで",
       "title_original": "Jamie Vardy takes party to Burnley after signing deal with Championship strugglers",
@@ -2664,20 +2698,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Richard HughesAl-Hilal スポーツディレクターとして確認リヴァプール出発日",
-      "summary": "ヒューズは2 年後にサウジアラビアのエクオダスに参加 Anfield Martinelli、サマービルおよびワトキンスはにあります Al-Hilal Richard HughesAl-Hilal のスポーツディレクターに就任 Saudi Pro League 日曜日にクラブが確認され、次のハイス出発からリヴァプール. ヒュース, 47, 参加リヴァプール2024 年にボーンマスから。獲得を問い合わせアルネ・スロットとして Jürgen Klopp’s 頭のコーチとしての後継者、レッドが主張したように即時配当を支払った副決定プレミアリーグ2024-25 のタイトル。スロットスロット",
-      "title_original": "Richard Hughes confirmed as Al-Hilal sporting director after Liverpool departure",
-      "summary_original": "Hughes joins Saudi exodus after two years at Anfield Martinelli, Summerville and Watkins are at Al-Hilal Richard Hughes has been appointed as the sporting director ⁠of Al-Hilal, the Saudi Pro League club confirmed on ⁠Sunday, following ⁠his ​ departure from Liverpool . Hughes, 47, joined Liverpool in 2024 from Bournemouth. ⁠He appointed Arne Slot as Jürgen Klopp’s successor as head coach, ⁠a decision that paid immediate dividends ​as the Reds ‌claimed the ‌Premier League title in 2024-25. Slot ‌",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/06/richard-hughes-confirmed-as-al-hilal-sporting-director-after-liverpool-departure",
-      "published": "Sun, 06 Sep 2026 21:15:14 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2891,6 +2911,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "家禽のリード Team GB 後にパブでの&I お祝いウォーカーカップトリムフ!",
+      "summary": "イアン・ポールターリード Great Britain アイルランドウォーカーカップ- 彼の息子のルークが2015 年以来、彼らの最初の勝利にそれらを助けた後、チームのお祝いを獲得しました。",
+      "title_original": "Poulter leads Team GB&I celebrations in the pub after Walker Cup triumph!",
+      "summary_original": "Ian Poulter leads the Great Britain & Ireland Walker Cup-winning team's celebrations after his son Luke helped them to their first victory since 2015.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13582818/poulter-leads-the-gb-i-walker-cup-winning-team-in-a-chorus-of-ol201",
+      "published": "Mon, 07 Sep 2026 14:41:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Solheim Cup LIVE! 最新のアップデートから Bernardus Golf そして私達のクイズに取ります",
+      "summary": "",
+      "title_original": "Solheim Cup LIVE! Latest updates from Bernardus Golf and take on our quiz",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13582746/solheim-cup-live-latest-news-build-up-highlights-as-anna-nordqvists-team-europe-host-team-usa-at-bernardus-golf",
+      "published": "Mon, 07 Sep 2026 16:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ワンダーウォールのお祝い再建!Team GB 後に BIG に行くウォーカーカップトリムフ!",
+      "summary": "Following Great Britain そしてアイルランドは勝ちましたウォーカーカップ2015 年以降、Wonderwall の再建を行なったチームです。",
+      "title_original": "Celebratory rendition of Wonderwall! Team GB&I go BIG after Walker Cup triumph!",
+      "summary_original": "Following Great Britain and Ireland winning the Walker Cup for the first time since 2015, the team went on to give their rendition of Wonderwall.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13582839/team-gbi-go-big-with-wonderwall-rendition-after-walker-cup-triumph",
+      "published": "Mon, 07 Sep 2026 15:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "聴衆に訴えるイタリアグランプリ津野田事故後の中絶開始",
       "summary": "",
       "title_original": "Audi to appeal Italian GP aborted start after Tsunoda incident",
@@ -2999,48 +3061,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "先日は大歓迎! 見る方法 Solheim Cup スカイスポーツ",
-      "summary": "Team Europe 返還の目的 Solheim Cup 彼らがホストするときに家土の上に Team USA 獲得を問い合わせオランダ今週は、英国とアイルランドのスカイスポーツにのみ住んでいます。",
-      "title_original": "Huge week ahead! How to watch the Solheim Cup live on Sky Sports",
-      "summary_original": "Team Europe aim to reclaim the Solheim Cup on home soil when they host Team USA in the Netherlands this week, exclusively live in the UK and Ireland on Sky Sports.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13580703/solheim-cup-2026-tv-times-how-to-watch-or-stream-live-coverage-on-sky-sports-as-europe-host-team-usa-at-bernardus-golf",
-      "published": "Mon, 07 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "今日更新 Sky Sports Racing: Raaheeb が Windor で進行を再開することを目指しています",
-      "summary": "The Shadwell-owned Raaheeb 月曜日の午後にレーストラックに戻る, ライブオン Sky Sports Racing.",
-      "title_original": "Today on Sky Sports Racing: Raaheeb aims to resume progression at Windsor",
-      "summary_original": "The Shadwell-owned Raaheeb returns to the racetrack on Monday afternoon, live on Sky Sports Racing.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13581963/today-on-sky-sports-racing-raaheeb-aims-to-resume-his-progression-at-windsor",
-      "published": "Mon, 07 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・シティ最新:Numnes が返すようにトレーニングから O'Reilly absent",
-      "summary": "",
-      "title_original": "Man City latest: O'Reilly absent from training as Nunes returns",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Mon, 07 Sep 2026 13:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
