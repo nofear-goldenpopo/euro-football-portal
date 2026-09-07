@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T10:26:35.005337+00:00",
+  "updated_at": "2026-09-07T10:39:30.503601+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1896,7 +1896,11 @@
     "Oleksandr Usyk": "",
     "Gypsy King": "",
     "Kevin Pietersen": "",
-    "Cricket World Cup": "クリケット・ワールドカップ"
+    "Cricket World Cup": "クリケット・ワールドカップ",
+    "Belgian FA": "",
+    "Belgium's FA": "",
+    "Paul Merson": "ポール・マーソン",
+    "Roberto De Zerbi's": ""
   },
   "items": [
     {
@@ -1914,9 +1918,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "クイズショーがキックスタートのコーチのキャリアを獲得する方法 - とオールド・トラッフォード次へ",
+      "title": "£725 ゲームショーがキックスタートする方法チャンピオンズリーグコーチのキャリア",
       "summary": "リトアニアのコーチ Valdas Dambrauskas 自分の歯を英語のサッカーで切って、今度は戻りますチャンピオンズリーグサバと共に。",
-      "title_original": "How quiz-show winnings kick-started coach's career - with Old Trafford next",
+      "title_original": "How £725 game-show winnings kick-started Champions League coach's career",
       "summary_original": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
@@ -1925,6 +1929,20 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Belgian FA まだ欲しいバログン禁止回答",
+      "summary": "Belgium's FA それがまだ理由についての答えを望んでいると言うフォラリン・バログン彼らと対戦することができました World Cup.",
+      "title_original": "Belgian FA still wants Balogun ban answers",
+      "summary_original": "Belgium's FA says it still wants answers about why Folarin Balogun was allowed to play against them at the World Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z03nnmnko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 10:32:29 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2026,20 +2044,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「ギャンブル&推測」 - グレーはハイブススラムプに直面",
-      "summary": "Hibernian ヘッドコーチデヴィッド・グレイ drab 敗北後の圧力が上昇している St Johnstone 日曜日、しかし、最近の週に何が間違っていたのですか?",
-      "title_original": "'Gambling & guessing' - Gray faces up to Hibs slump",
-      "summary_original": "Hibernian head coach David Gray is under increasing pressure after a drab defeat at St Johnstone on Sunday, but what has gone wrong in recent weeks?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czxzwd417x0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 07:23:20 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "トロイさんを作った人プレミアリーグ週のチーム?",
       "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
       "title_original": "Who has made Troy's Premier League team of the week?",
@@ -2050,6 +2054,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「ギャンブル&推測」 - グレーはハイブススラムプに直面",
+      "summary": "Hibernian ヘッドコーチデヴィッド・グレイ drab 敗北後の圧力が上昇している St Johnstone 日曜日、しかし、最近の週に何が間違っていたのですか?",
+      "title_original": "'Gambling & guessing' - Gray faces up to Hibs slump",
+      "summary_original": "Hibernian head coach David Gray is under increasing pressure after a drab defeat at St Johnstone on Sunday, but what has gone wrong in recent weeks?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czxzwd417x0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 07:23:20 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2261,20 +2279,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Odegaard と坂星 -選手採点獲得を問い合わせアーセナル. .チェルシー",
-      "summary": "使い方アーセナルそして、チェルシーの のプレイヤーは、プレミアリーグマッチ。",
-      "title_original": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
-      "summary_original": "How Arsenal and Chelsea's players rated following their Premier League match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gr71gygg8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 17:31:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2712,6 +2716,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マース:私は心配します De Zerbi 批判的トッテナム移籍とメディカルチェックスタッフ",
+      "summary": "最新のスカイスポーツコラムで、ポール・マーソン彼は心配するだろうと言う Roberto De Zerbi's ポストマッチコメント批判トッテナム' プレイヤーを移籍するメディカルチェックスタッフ",
+      "title_original": "Merse: I worry about De Zerbi criticising Spurs forwards and medical staff",
+      "summary_original": "In his latest Sky Sports column, Paul Merson says he would be worried by Roberto De Zerbi's post-match comments criticising Spurs' forward players and medical staff.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13582716/tottenham-roberto-de-zerbis-criticism-of-spurs-forwards-and-medical-staff-worrying-says-paul-merson",
+      "published": "Mon, 07 Sep 2026 11:32:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "オーストラリアのギャップを閉じる「世界クラスの」オールランダーのためのイングランドのプッシュ",
       "summary": "England Women's 国民のセレクターLydia Greenway 世界のベスト、オーストラリアのギャップを閉じる側に計画を立て、戦略の中心に「世界クラスの」アラウンドワーをプッシュします。",
       "title_original": "England's push for 'world-class' all-rounders to close gap on Australia",
@@ -2971,20 +2989,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13582656/middlesbrough-considering-compensation-for-kit-staining-at-turf-moor",
       "published": "Mon, 07 Sep 2026 08:41:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "モンツァのポジウムにラッセルのステップとしてブームとクラウド噴火!",
-      "summary": "ブームを狙った群衆 George Russell モンツァ・ポジウムを踏んだ。",
-      "title_original": "Crowd erupts with boos as Russell steps onto Monza podium!",
-      "summary_original": "The crowd erupted with boos aimed at George Russell as he stepped on Monza podium.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582410/italian-gp-crowd-erupts-with-boos-aimed-at-george-russell-as-he-steps-on-monza-podium",
-      "published": "Sun, 06 Sep 2026 16:33:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
