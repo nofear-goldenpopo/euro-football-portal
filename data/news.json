@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T13:07:41.606466+00:00",
+  "updated_at": "2026-09-07T13:28:02.397782+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1944,20 +1944,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "£725 ゲームショーがキックスタートする方法チャンピオンズリーグコーチのキャリア",
-      "summary": "リトアニアのコーチ Valdas Dambrauskas 自分の歯を英語のサッカーで切って、今度は戻りますチャンピオンズリーグサバと共に。",
-      "title_original": "How £725 game-show winnings kick-started Champions League coach's career",
-      "summary_original": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 08:04:12 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "これは、私がバロン D'Or を獲得する年かもしれない、と言うエムバペ",
       "summary": "レアル・マドリード獲得キリアン・エムバペ彼が初めて Ballon d'Or を勝つために良い年かもしれないと言う。",
       "title_original": "This could be year I win Ballon d'Or, says Mbappe",
@@ -1968,6 +1954,20 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "£725 ゲームショーがキックスタートする方法チャンピオンズリーグコーチのキャリア",
+      "summary": "リトアニアのコーチ Valdas Dambrauskas 自分の歯を英語のサッカーで切って、今度は戻りますチャンピオンズリーグサバと共に。",
+      "title_original": "How £725 game-show winnings kick-started Champions League coach's career",
+      "summary_original": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 08:04:12 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2084,20 +2084,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッドプラスにもかかわらず、より多くのドロップポイントを無視することはできません",
-      "summary": "マンチェスター・ユナイテッドログインマイケル・キャリック彼の側が別の2 ポイントをドロップしても楽観的ですエヴァートン.",
-      "title_original": "Man Utd cannot ignore more dropped points despite positives",
-      "summary_original": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 17:18:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "いつかマンチェスター・シティ何も言わない呼び出し -エンディアイエ",
       "summary": "ニュー 6000万ポンド マンチェスター・シティサインインイリマン・エンディアイエで再生と言うチャンピオンズリーグ彼が所属する場所です。",
       "title_original": "When Man City call you don't say no - Ndiaye",
@@ -2108,6 +2094,20 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・ユナイテッドプラスにもかかわらず、より多くのドロップポイントを無視することはできません",
+      "summary": "マンチェスター・ユナイテッドログインマイケル・キャリック彼の側が別の2 ポイントをドロップしても楽観的ですエヴァートン.",
+      "title_original": "Man Utd cannot ignore more dropped points despite positives",
+      "summary_original": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 17:18:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2151,6 +2151,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "送金後、エヴァートン全く新しいヒーローを持っている",
+      "summary": "でもエインズリー・メイトランド＝ナイルズ想像してもらえるプレミアリーグ戻り値エヴァートンやったようにプレーしました。",
+      "title_original": "After transfer worries, Everton have an unlikely new hero",
+      "summary_original": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 19:09:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2291,20 +2305,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "送金後、エヴァートン全く新しいヒーローを持っている",
-      "summary": "でもエインズリー・メイトランド＝ナイルズ想像してもらえるプレミアリーグ戻り値エヴァートンやったようにプレーしました。",
-      "title_original": "After transfer worries, Everton have an unlikely new hero",
-      "summary_original": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 19:09:59 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
