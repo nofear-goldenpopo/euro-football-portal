@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T16:26:18.909896+00:00",
+  "updated_at": "2026-09-07T16:39:26.615550+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1951,7 +1951,8 @@
     "Ferrari's Charles Leclerc's": "",
     "The Tsunoda": "",
     "Yuki Tsunoda": "角田裕毅",
-    "Fulham's Sander Berge": ""
+    "Fulham's Sander Berge": "",
+    "The Pakistan Cricket Board": ""
   },
   "items": [
     {
@@ -2795,13 +2796,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Swiatek dominating Zheng in first set as she、quarter-final spot を獲得候補に",
+      "title": "US Open LIVE! Zheng は、最初のセットで優れた戦闘バック対スイアテックスを発表",
       "summary": "",
-      "title_original": "US Open LIVE! Swiatek dominating Zheng in first set as she eyes quarter-final spot",
+      "title_original": "US Open LIVE! Zheng launches superb fightback vs Swiatek in first set",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13582595/us-open-live-scores-updates-news-and-results-from-new-york-with-naomi-osaka-iga-swiatek-coco-gauff-and-alexander-zverev-in-action",
       "published": "Mon, 07 Sep 2026 15:50:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "パキスタンが危機ツアーで最新のツイストで「規律と行動」を調査",
+      "summary": "The Pakistan Cricket Board イングランドのチームの危機ツアーの中で「規律と行動に関するメディアレポート」への調査を開始しました。",
+      "title_original": "Pakistan investigating 'discipline and conduct' in latest twist on crisis tour",
+      "summary_original": "The Pakistan Cricket Board has launched an investigation into \"media reports concerning discipline and conduct\" amid the team's crisis tour of England.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13582865/pakistan-cricket-board-investigating-discipline-and-conduct-of-team-in-latest-twist-on-crisis-tour-of-england",
+      "published": "Mon, 07 Sep 2026 17:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3057,20 +3072,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "オーストラリアのギャップを閉じる「世界クラスの」オールランダーのためのイングランドのプッシュ",
-      "summary": "England Women's 国民のセレクターLydia Greenway 世界のベスト、オーストラリアのギャップを閉じる側に計画を立て、戦略の中心に「世界クラスの」アラウンドワーをプッシュします。",
-      "title_original": "England's push for 'world-class' all-rounders to close gap on Australia",
-      "summary_original": "England Women's national selector Lydia Greenway laid out her plan for the side to close the gap on the world's best, Australia, with a push for 'world-class' allrounders at the heart of their strategy.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13582651/england-vs-ireland-alice-capsey-trial-as-wicketkeeper-in-keeping-with-englands-push-for-world-class-all-rounders",
-      "published": "Mon, 07 Sep 2026 08:28:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
