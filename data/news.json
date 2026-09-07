@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T06:08:19.060635+00:00",
+  "updated_at": "2026-09-07T06:33:25.141131+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2697,10 +2697,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Raaheeb は Windor で彼の進行状況を再開することを目指しています",
-      "summary": "The Shadwell-owned Raaheeb 午後のレーストラックに戻る, ライブオン Sky Sports Racing.",
-      "title_original": "Raaheeb aims to resume his progression at Windsor",
-      "summary_original": "The Shadwell-owned Raaheeb returns to the racetrack this afternoon, live on Sky Sports Racing.",
+      "title": "今日更新 Sky Sports Racing: Raaheeb が Windor で進行を再開することを目指しています",
+      "summary": "The Shadwell-owned Raaheeb 月曜日の午後にレーストラックに戻る, ライブオン Sky Sports Racing.",
+      "title_original": "Today on Sky Sports Racing: Raaheeb aims to resume progression at Windsor",
+      "summary_original": "The Shadwell-owned Raaheeb returns to the racetrack on Monday afternoon, live on Sky Sports Racing.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13581963/today-on-sky-sports-racing-raaheeb-aims-to-resume-his-progression-at-windsor",
       "published": "Mon, 07 Sep 2026 06:00:00 BST",
@@ -2781,16 +2781,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ペーパー:Ex Man-Utd 美しいウィンガー サンチョセットボルシア・ドルトムントフィードバック",
+      "title": "ペーパー:Ex Man-Utd 美しいウィンガー サンチョセットドルトムントフィードバック",
       "summary": "月曜日の新聞から噂を移籍するトップストーリー...",
-      "title_original": "Papers: Ex Man-Utd winger Sancho set for stunning Borussia Dortmund return",
+      "title_original": "Papers: Ex Man-Utd winger Sancho set for stunning Dortmund return",
       "summary_original": "The top stories and transfer rumours from Monday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13582586/transfer-news-former-manchester-united-and-england-winger-jadon-sancho-lined-up-for-stunning-borussia-dortmund-return-paper-talk",
       "published": "Sun, 06 Sep 2026 22:41:00 BST",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
