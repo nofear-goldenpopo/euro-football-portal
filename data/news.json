@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T14:53:53.127038+00:00",
+  "updated_at": "2026-09-07T15:06:29.271227+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1934,7 +1934,8 @@
     "Craig Bellamy's": "",
     "Leicester City": "レスター・シティFC",
     "Mikel Arteta’s": "",
-    "For Arsenal": ""
+    "For Arsenal": "",
+    "Mimi Rhodes": ""
   },
   "items": [
     {
@@ -2876,6 +2877,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「ドリーム」ヨーロッパデビュー準備:「ソルハイムホームを持参しよう!」",
+      "summary": "Mimi Rhodes 子供の頃の夢を叶えるチャンスは、Solheim Cup そして裏付けです Anna Nordqvist リード Team Europe 勝つためにオランダ.",
+      "title_original": "Rhodes ready for 'dream' Europe debut: 'We're going to bring Solheim home!'",
+      "summary_original": "Mimi Rhodes is relishing the chance to fulfil a childhood dream at the Solheim Cup and is backing Anna Nordqvist to lead Team Europe to victory in the Netherlands.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13580864/solheim-cup-mimi-rhodes-ready-to-fulfil-childhood-dream-for-team-europe-and-backs-anna-nordqvists-side-for-home-win",
+      "published": "Mon, 07 Sep 2026 16:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "聴衆に訴えるイタリアグランプリ津野田事故後の中絶開始",
       "summary": "",
       "title_original": "Audi to appeal Italian GP aborted start after Tsunoda incident",
@@ -3026,20 +3041,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "F1 2026 チームメイトヘッドツーヘッドイタリアグランプリ",
-      "summary": "2026 フォーミュラ 1 最新予選、スプリント、すべてのヘッドツーヘッドグランプリ11 チーム各チームで得点",
-      "title_original": "F1 2026 team-mate head-to-heads after Italian GP",
-      "summary_original": "The 2026 Formula 1 head-to-heads with all of the latest Qualifying, Sprint and Grand Prix scores in each of the 11 teams.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13516662/f1-team-mate-2026-head-to-head-qualifying-race-sprint-latest-scores-results-from-formula-1-season",
-      "published": "Mon, 07 Sep 2026 10:25:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
