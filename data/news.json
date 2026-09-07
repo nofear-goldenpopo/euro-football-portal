@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:37:52.920527+00:00",
+  "updated_at": "2026-09-07T21:51:13.973775+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1967,7 +1967,8 @@
     "Oleksandr Usyk's": "",
     "Tyson Fury's": "",
     "John McGinn": "ジョン・マッギン",
-    "Junior Solheim Cup": ""
+    "Junior Solheim Cup": "",
+    "Elena Rybakina": "エレーナ・リバキナ"
   },
   "items": [
     {
@@ -2125,6 +2126,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c046pxeeqe6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 05:05:20 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "WSL のオープン週末からのすべての目標",
       "summary": "開幕の週末からすべての目標を見る Women's Super League2026-27 シーズン",
       "title_original": "All the goals from the opening weekend of the WSL",
@@ -2192,20 +2207,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c046pxeeqe6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 05:05:20 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2825,13 +2826,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ユーシークのキャンプは、ホシュアの戦いのための「バックアップ計画」であることがファーリーの申し出を却下",
-      "summary": "Oleksandr Usyk's マネージャーは却下しましたタイソン・フューリー' ウクライナと3 分の1 の戦いのための呼び出しは、すべての British ヘビー級のショーダウンに引き続き疑問を抱いていました Anthony Joshua.",
-      "title_original": "Usyk's camp dismiss Fury's offer to be 'backup plan' for Joshua fight",
-      "summary_original": "Oleksandr Usyk's manager has dismissed Tyson Fury's call for a third fight with the Ukrainian amid continued doubt over an all-British heavyweight showdown with Anthony Joshua.",
+      "title": "Rybakina も 強い のために 大阪 後に Zheng カムバック stuns wiatek 時 US Open",
+      "summary": "エレーナ・リバキナクルーズ全米オープンストレートセットの勝利で準決勝 Naomi Osaka 世界 No1 スポットのプッシュを維持します。",
+      "title_original": "Rybakina too strong for Osaka after Zheng comeback stuns Swiatek at US Open",
+      "summary_original": "Elena Rybakina cruised into the US Open quarter-finals with a straight-sets victory over Naomi Osaka to maintain her push for the world No 1 spot.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13582661/oleksandr-usyks-manager-dismisses-tyson-furys-offer-to-be-backup-plan-for-anthony-joshua-fight-amid-doubt-over-heavyweight-clash",
-      "published": "Mon, 07 Sep 2026 20:40:00 BST",
+      "url": "https://www.skysports.com/tennis/news/12040/13582890/us-open-2026-qinwen-zheng-stages-epic-comeback-to-stun-iga-swiatek-and-reach-quarter-finals",
+      "published": "Mon, 07 Sep 2026 19:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2839,13 +2840,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Zheng ステージ epic のコールバック到達 US Open スイエンテクインロード後の四半期",
-      "summary": "Qinwen Zheng 第2 回叙事詩のコールバックを舞台に全米オープン数日で元チャンピオンをチューニングイガ・シフィオンテク第3 回四半期決算発表会の場を予約する。",
-      "title_original": "Zheng stages epic comeback to reach US Open quarters after Swiatek implodes",
-      "summary_original": "Qinwen Zheng staged a second epic comeback at the US Open in as many days to stun former champion Iga Swiatek and book her place in the quarter-finals for the third time.",
+      "title": "ユーシークのキャンプは、ホシュアの戦いのための「バックアップ計画」であることがファーリーの申し出を却下",
+      "summary": "Oleksandr Usyk's マネージャーは却下しましたタイソン・フューリー' ウクライナと3 分の1 の戦いのための呼び出しは、すべての British ヘビー級のショーダウンに引き続き疑問を抱いていました Anthony Joshua.",
+      "title_original": "Usyk's camp dismiss Fury's offer to be 'backup plan' for Joshua fight",
+      "summary_original": "Oleksandr Usyk's manager has dismissed Tyson Fury's call for a third fight with the Ukrainian amid continued doubt over an all-British heavyweight showdown with Anthony Joshua.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13582890/us-open-2026-qinwen-zheng-stages-epic-comeback-to-stun-iga-swiatek-and-reach-quarter-finals",
-      "published": "Mon, 07 Sep 2026 19:00:00 BST",
+      "url": "https://www.skysports.com/boxing/news/12040/13582661/oleksandr-usyks-manager-dismisses-tyson-furys-offer-to-be-backup-plan-for-anthony-joshua-fight-amid-doubt-over-heavyweight-clash",
+      "published": "Mon, 07 Sep 2026 20:40:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2867,9 +2868,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Rybakina thumps 大阪 6-1 片面開放セット",
+      "title": "US Open LIVE! Rybakina は、大阪を片側で四準決勝進出",
       "summary": "",
-      "title_original": "US Open LIVE! Rybakina thumps Osaka 6-1 in one-sided opening set",
+      "title_original": "US Open LIVE! Rybakina swats Osaka aside to reach quarter-finals",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13582595/us-open-live-scores-updates-news-and-results-from-new-york-with-naomi-osaka-iga-swiatek-coco-gauff-and-alexander-zverev-in-action",
