@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T16:39:26.615550+00:00",
+  "updated_at": "2026-09-07T16:52:33.947620+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1952,7 +1952,10 @@
     "The Tsunoda": "",
     "Yuki Tsunoda": "角田裕毅",
     "Fulham's Sander Berge": "",
-    "The Pakistan Cricket Board": ""
+    "The Pakistan Cricket Board": "",
+    "Joey Barton": "ジョーイ・バートン",
+    "Kevin Lynch": "",
+    "March. But": ""
   },
   "items": [
     {
@@ -2009,6 +2012,20 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Edu の葉ノッティンガム・フォレスト七面鳥の呪文の後",
+      "summary": "サッカーの Edu の葉のグローバルヘッドノッティンガム・フォレスト年を過ぎてからシティ・グラウンド.",
+      "title_original": "Edu leaves Nottingham Forest after turbulent spell",
+      "summary_original": "Global head of football Edu leaves Nottingham Forest after just over a year at the City Ground.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj06m1e3e75o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 16:45:43 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2079,20 +2096,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシースコットの初期移動をプロット - 月曜日のゴシップ",
-      "summary": "チェルシーボーンマスミッドフィルダーの初期移動をプロット Alex Scott, チェルシーウィンガーペドロ・ネトアトラクションインテル est、およびマンチェスター・ユナイテッドそして、ニューカッスル獲得を問い合わせクリストファー・エンクンク.",
-      "title_original": "Chelsea plot early move for Scott - Monday's gossip",
-      "summary_original": "Chelsea plot early move for Bournemouth midfielder Alex Scott, Chelsea winger Pedro Neto attracts interest, and Manchester United and Newcastle United inquire about Christopher Nkunku.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3dj6djrd3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 20:54:40 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2191,6 +2194,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェルシースコットの初期移動をプロット - 月曜日のゴシップ",
+      "summary": "チェルシーボーンマスミッドフィルダーの初期移動をプロット Alex Scott, チェルシーウィンガーペドロ・ネトアトラクションインテル est、およびマンチェスター・ユナイテッドそして、ニューカッスル獲得を問い合わせクリストファー・エンクンク.",
+      "title_original": "Chelsea plot early move for Scott - Monday's gossip",
+      "summary_original": "Chelsea plot early move for Bournemouth midfielder Alex Scott, Chelsea winger Pedro Neto attracts interest, and Manchester United and Newcastle United inquire about Christopher Nkunku.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3dj6djrd3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 20:54:40 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2334,20 +2351,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "なぜ?サンダーランド対比アーセナル土曜日は午後8 時ですか?",
-      "summary": "BBC Sport's Ask Me 土曜日の理由を説明するチームプレミアリーグフィクスチャー間のサンダーランドそして、アーセナル8pm でキックオフ",
-      "title_original": "Why is Sunderland vs Arsenal at 8pm on Saturday?",
-      "summary_original": "BBC Sport's Ask Me Anything team explains why Saturday's Premier League fixture between Sunderland and Arsenal is kicking off at 8pm",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly4ll5qlvgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 09:54:22 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "チャンピオンズアーセナル後ろからビートに来るチェルシー",
       "summary": "チャンピオン獲得アーセナル後ろから来て大衆を倒すチェルシープリズムで ロンドン ダービー アットエミレーツ・スタジアム.",
       "title_original": "Champions Arsenal come from behind to beat Chelsea",
@@ -2474,16 +2477,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "セリエ A’s hierarchy は、ミラノで野生の夜を形作り、トリノでフラットドローイングをしています |Nicky Bandini",
-      "summary": "インテル’ s の勝利オーバーナポリ感じてもらいました優勝争い古典, しばらくユヴェントスミラノは、言葉が話されているように、すでに夏の過ごしているにもかかわらず、親しみやすい欠点を露出しました。クリスティアン・キヴブリッスルを始め 「Scontri diretti」は「頭から頭まで衝突する」に変換します。用語は、一般的には、テーブルで緊密に仕上げることを期待しているチームの間で、それらのハイステークゲームのための短い手として、サッカーのコンテキストで展開されます。インテル s は英語ゲームで ログイン",
-      "title_original": "Serie A’s hierarchy takes shape with wild night in Milan and flat draw in Turin | Nicky Bandini",
-      "summary_original": "Inter’s victory over Napoli had the feel of a title race classic, while Juventus and Milan exposed familiar shortcomings despite their summer spending Already as the words were being spoken, Cristian Chivu started to bristle. “ Scontri diretti ” translates to “head-to-head clashes”. The term is commonly deployed in a football context as a shorthand for those high-stakes games between teams who are expected to finish close together in the table – much like “six-pointers” in the English game. Chiv",
+      "title": "ジョーイ・バートン bail アプリケーションがダウンした後の試用まで、custody に残しておく",
+      "summary": "元サッカー選手がゴルフクラブの外での攻撃を認めた 来年3 月まで試行錯誤してきた元サッカー選手ジョーイ・バートン失敗申請が拒否された翌年以降、試用期間が経過するまでは廃棄されます。スタンドトライアルで44 歳が行われたリヴァプール先週の王冠の裁判所は、悲しみの身体に害を及ぼすことを意図して非難 Kevin Lynch, 51, フェアウェイで, ヒュートン, 上の 8March. But 翌年3 月までは、水曜に同封され、翌年3 月に戻りました。続きを読む...",
+      "title_original": "Joey Barton to remain in custody until trial after bail application turned down",
+      "summary_original": "Former footballer accused of attack outside golf club His trial has been pushed back to March next year The former footballer Joey Barton will remain in custody until his trial next year after a bail application was refused. The 44-year-old had been due to stand trial at Liverpool crown court last week accused of causing grievous bodily harm with intent to Kevin Lynch, 51, at Fairway, Huyton, on 8 March. But on Wednesday the case was adjourned and put back to March next year. Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/07/inter-napoli-juventus-milan-serie-a-hierarchy",
-      "published": "Mon, 07 Sep 2026 12:03:40 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
+      "url": "https://www.theguardian.com/football/2026/sep/07/joey-barton-to-remain-in-custody-until-trial-after-bail-application-turned-down",
+      "published": "Mon, 07 Sep 2026 16:36:25 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2712,6 +2715,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "セリエ A’s hierarchy は、ミラノで野生の夜を形作り、トリノでフラットドローイングをしています |Nicky Bandini",
+      "summary": "インテル’ s の勝利オーバーナポリ感じてもらいました優勝争い古典, しばらくユヴェントスミラノは、言葉が話されているように、すでに夏の過ごしているにもかかわらず、親しみやすい欠点を露出しました。クリスティアン・キヴブリッスルを始め 「Scontri diretti」は「頭から頭まで衝突する」に変換します。用語は、一般的には、テーブルで緊密に仕上げることを期待しているチームの間で、それらのハイステークゲームのための短い手として、サッカーのコンテキストで展開されます。インテル s は英語ゲームで ログイン",
+      "title_original": "Serie A’s hierarchy takes shape with wild night in Milan and flat draw in Turin | Nicky Bandini",
+      "summary_original": "Inter’s victory over Napoli had the feel of a title race classic, while Juventus and Milan exposed familiar shortcomings despite their summer spending Already as the words were being spoken, Cristian Chivu started to bristle. “ Scontri diretti ” translates to “head-to-head clashes”. The term is commonly deployed in a football context as a shorthand for those high-stakes games between teams who are expected to finish close together in the table – much like “six-pointers” in the English game. Chiv",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/inter-napoli-juventus-milan-serie-a-hierarchy",
+      "published": "Mon, 07 Sep 2026 12:03:40 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ワイルドオープンサルボ対チェルシー刺激的な時間にヒントアーセナルファン |Barney Ronay",
       "summary": "家の側面の応答チェルシー’ s の初期の目標は、息をのむような攻撃のサッカーを再生することだった 帰ってきた、赤ちゃん。ですから。まあ、大丈夫、正確に戻っていません。しかし、少なくともしばらくの間、少なくとも、パウダーブルーの午後のように、タイムトンネルをバックダウンエミレーツ・スタジアム, アーセナルそして、チェルシー2000 年代初頭のバークレイスにスローバックのように感じた開口部半時間。その時代に、これは本当に古典的にツイストのように感じた:ミッドフィールドの殺人ボールの呪文、ストレッチ、フルバクをフラスト",
       "title_original": "Wild opening salvo against Chelsea hints at exciting times for Arsenal fans | Barney Ronay",
@@ -2768,20 +2785,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「逆のバケツのリスト」:アルテタチャネルの防御のウェンガーアーセナルウィンドウ",
-      "summary": "チャンピオンズのマネージャーは、彼の慎重な前任者と、期限日の到着の欠如で不満を抱いて、より大きな写真を見るために多くの人が接続してアーセナル古い行を記憶する時間だった Arsène Wenger. 「私たちは「ニュース」の社会に住んでいます」と、クラブの元マネージャーは言いました。そして、彼は新しいことを意味しました。クラブが新しい顔を追加しなければならないとき、移籍市場でより明らかな執りではありません。今日は、",
-      "title_original": "‘Reverse bucket list’: Arteta channels Wenger in defence of Arsenal window",
-      "summary_original": "The champions’ manager echoed his illustrious predecessor and urged fans unhappy at the lack of a deadline-day arrival to see the bigger picture For many people connected to Arsenal, it has been a time to remember the old line from Arsène Wenger. “We live in a society of ‘news’,” the club’s former manager once said, and by that he meant new things – the shinier the better. Nowhere is the obsession more obvious than in the transfer market, when a club simply has to add new faces. These days, it f",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/premier-league-arsenal-transfers-reverse-bucket-list-mikel-arteta-channels-arsene-wenger-defence-window",
-      "published": "Sat, 05 Sep 2026 07:00:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ノッティンガム・フォレスト'ライム・デラップ:'私は恐ろしいことの端で私のベストで再生します'",
       "summary": "難年明けからチェルシーストライカーは、自分のキャリアを取り戻すことを期待していますシティ・グラウンド「あなたはそれを想像することができます:彼はセンターバックです、私はストライカーです」と言います Liam Delap, ノッティンガム・フォレスト’ 4500万ポンド クラブ録音サイン , 彼はシーンを設定して笑顔. 庭で弟、フィン、弟を連れて行くのは彼です。これらの日、彼らはお互いの最大の支持者です - ライムは水曜日に3 番目の層ブルトンの勝利に Finn の勝利を出席しました - しかし、子供たちはフレンドリーな儀式がありました。エルダーブローテ",
       "title_original": "Nottingham Forest’s Liam Delap: ‘I play at my best on the edge of being horrible’",
@@ -2796,9 +2799,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Zheng は、最初のセットで優れた戦闘バック対スイアテックスを発表",
+      "title": "US Open LIVE! Zheng は 5-0 から最初のセットを Swiatek のパンブルとして勝ちます",
       "summary": "",
-      "title_original": "US Open LIVE! Zheng launches superb fightback vs Swiatek in first set",
+      "title_original": "US Open LIVE! Zheng wins first set from 5-0 down as Swiatek crumbles",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13582595/us-open-live-scores-updates-news-and-results-from-new-york-with-naomi-osaka-iga-swiatek-coco-gauff-and-alexander-zverev-in-action",
@@ -2807,6 +2810,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプール最新:アイザック感「良い」とレッドは押し続けなければならないと述べています",
+      "summary": "",
+      "title_original": "Liverpool latest: Isak feeling 'good' and says Reds must keep pushing",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Mon, 07 Sep 2026 17:35:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3058,20 +3075,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マース:私は心配します De Zerbi 批判的トッテナム移籍とメディカルチェックスタッフ",
-      "summary": "最新のスカイスポーツコラムで、ポール・マーソン彼は心配するだろうと言う Roberto De Zerbi's ポストマッチコメント批判トッテナム' プレイヤーを移籍するメディカルチェックスタッフ",
-      "title_original": "Merse: I worry about De Zerbi criticising Spurs forwards and medical staff",
-      "summary_original": "In his latest Sky Sports column, Paul Merson says he would be worried by Roberto De Zerbi's post-match comments criticising Spurs' forward players and medical staff.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582716/tottenham-roberto-de-zerbis-criticism-of-spurs-forwards-and-medical-staff-worrying-says-paul-merson",
-      "published": "Mon, 07 Sep 2026 11:32:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
