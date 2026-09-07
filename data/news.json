@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T12:32:17.649825+00:00",
+  "updated_at": "2026-09-07T12:55:09.234180+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1920,7 +1920,10 @@
     "Sergi Cardona": "",
     "Serie A’s": "",
     "Cristian Chivu": "クリスティアン・キヴ",
-    "Laura Hunter": ""
+    "Laura Hunter": "",
+    "Red Roses": "",
+    "WXV Global Series": "",
+    "John Mitchell": "ジョン・ミッチェル"
   },
   "items": [
     {
@@ -1948,6 +1951,20 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "これは、私がバロン D'Or を獲得する年かもしれない、と言うエムバペ",
+      "summary": "レアル・マドリード獲得キリアン・エムバペ彼が初めて Ballon d'Or を勝つために良い年かもしれないと言う。",
+      "title_original": "This could be year I win Ballon d'Or, says Mbappe",
+      "summary_original": "Real Madrid forward Kylian Mbappe says this could be a good year for him to win the Ballon d'Or for the first time.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ydplykdxno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 12:42:03 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2022,20 +2039,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッドプラスにもかかわらず、より多くのドロップポイントを無視することはできません",
-      "summary": "マンチェスター・ユナイテッドログインマイケル・キャリック彼の側が別の2 ポイントをドロップしても楽観的ですエヴァートン.",
-      "title_original": "Man Utd cannot ignore more dropped points despite positives",
-      "summary_original": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 17:18:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "チェルシースコットの初期移動をプロット - 月曜日のゴシップ",
       "summary": "チェルシーボーンマスミッドフィルダーの初期移動をプロット Alex Scott, チェルシーウィンガーペドロ・ネトアトラクションインテル est、およびマンチェスター・ユナイテッドそして、ニューカッスル獲得を問い合わせクリストファー・エンクンク.",
       "title_original": "Chelsea plot early move for Scott - Monday's gossip",
@@ -2071,6 +2074,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 18:58:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・ユナイテッドプラスにもかかわらず、より多くのドロップポイントを無視することはできません",
+      "summary": "マンチェスター・ユナイテッドログインマイケル・キャリック彼の側が別の2 ポイントをドロップしても楽観的ですエヴァートン.",
+      "title_original": "Man Utd cannot ignore more dropped points despite positives",
+      "summary_original": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 17:18:32 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2131,20 +2148,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "送金後、エヴァートン全く新しいヒーローを持っている",
-      "summary": "でもエインズリー・メイトランド＝ナイルズ想像してもらえるプレミアリーグ戻り値エヴァートンやったようにプレーしました。",
-      "title_original": "After transfer worries, Everton have an unlikely new hero",
-      "summary_original": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 19:09:59 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2288,6 +2291,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "送金後、エヴァートン全く新しいヒーローを持っている",
+      "summary": "でもエインズリー・メイトランド＝ナイルズ想像してもらえるプレミアリーグ戻り値エヴァートンやったようにプレーしました。",
+      "title_original": "After transfer worries, Everton have an unlikely new hero",
+      "summary_original": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 19:09:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "警察はポートズマスで Bielik ファンの衝突を調査します",
       "summary": "警察はカーディフ・ディフェンダー間の事件を調査していますクリスティアン・ビエリク土曜日にポンペイの2-0 ホームウィン中のポートスマスサポーター。",
       "title_original": "Police investigate Bielik fan clash at Portsmouth",
@@ -2312,20 +2329,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Ex-Leicester ストライカーVardy 参加バーンリー",
-      "summary": "Former Leicester City イングランドストライカーJamie Vardy 参加するバーンリー季節の終わりまで。",
-      "title_original": "Ex-Leicester striker Vardy joins Burnley",
-      "summary_original": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 14:01:54 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2750,6 +2753,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "翼の折り返し:How St Helens 成功は停滞する",
+      "summary": "ほこりは事実に解決しました St Helens プレーオフのラグビーで7 位のフィニッシュを初めて見逃しました Super League.",
+      "title_original": "The flap of a wing: How St Helens let success become stagnation",
+      "summary_original": "The dust has settled on the fact that St Helens have missed out on play-off rugby for the first time after their seventh-placed finish in Super League.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13582671/how-st-helens-let-super-league-success-become-long-term-stagnation-the-flap-of-a-wing",
+      "published": "Mon, 07 Sep 2026 13:20:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "カスカリーノがデビューしてパテラスアウトシュオーネがスピン London City's 成功事例",
       "summary": "スカイスポーツコラムニスト Laura Hunter 最初のラウンドから大きなポイントを分析 Women's Super League 女性の試合の心臓部で重要なストーリーに近づくマッチ。",
       "title_original": "Putellas outshone by Cascarino on debut but is spine of London City's success",
@@ -2757,6 +2774,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13582679/womens-super-league-alexia-putellas-debut-for-london-city-analysed-with-more-on-man-city-and-chelsea",
       "published": "Mon, 07 Sep 2026 13:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Red Roses 名前 家の足のためのベテラン スクワッド WXV Global Series",
+      "summary": "Red Roses ヘッドコーチジョン・ミッチェル経験豊富な 36 人のプレーヤーは、家の足のためにスクワット WXV Global Series と 25World Cup 入賞者を含む。",
+      "title_original": "Red Roses name experienced squad for home leg of WXV Global Series",
+      "summary_original": "Red Roses head coach John Mitchell has named an experienced 36-player squad for the home leg of the WXV Global Series, with 25 World Cup winners included.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13582740/red-roses-name-25-world-cup-winners-in-36-player-squad-for-home-leg-of-wxv-global-series",
+      "published": "Mon, 07 Sep 2026 11:21:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2788,6 +2819,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "聴衆に訴えるイタリアグランプリ津野田事故後の中絶開始",
+      "summary": "",
+      "title_original": "Audi to appeal Italian GP aborted start after Tsunoda incident",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "published": "Mon, 07 Sep 2026 13:49:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2981,48 +3026,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13582723/kevin-pietersen-england-appoint-former-captain-as-specialist-mentor-for-white-ball-teams",
       "published": "Mon, 07 Sep 2026 11:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リトルは、主張するためにハフトリーをオフ見た瞬間 Czech Darts Open",
-      "summary": "Luke Littler クレーム Czech Darts Open 勝つ Luke Humphries.",
-      "title_original": "The moment Littler saw off Humphries to claim Czech Darts Open",
-      "summary_original": "Luke Littler claims the Czech Darts Open win over Luke Humphries.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582588/luke-littler-edges-luke-humphries-to-claim-czech-darts-open-in-thriller-match",
-      "published": "Sun, 06 Sep 2026 22:43:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Brilliant Dunkley 世紀はイングランドをシリーズの白い洗濯に刺激します",
-      "summary": "Worcester のイングランドとアイルランドの3 つのマッチシリーズで3 番目の ODI のハイライト。",
-      "title_original": "Brilliant Dunkley century inspires England to series whitewash",
-      "summary_original": "Highlights from the third ODI in the three match series between England and Ireland at Worcester.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582449/england-vs-ireland-third-odi-highlights",
-      "published": "Sun, 06 Sep 2026 17:22:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "仕事で学ぶ! Capsey は2 つのスマートな stumpings を取ります",
-      "summary": "ルーキーウィケットキーパーカーAlice Capsey アイルランドから3 番目の ODI で2 つの切り株を服用することによって、彼女は速く学習している示した。",
-      "title_original": "Learning on the job! Capsey takes two smart stumpings",
-      "summary_original": "Rookie wicket keeper Alice Capsey showed she is learning fast by taking two stumpings in the third ODI against Ireland.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582412/learning-on-the-job-alice-capsey-takes-two-smart-stumpings",
-      "published": "Sun, 06 Sep 2026 16:38:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
