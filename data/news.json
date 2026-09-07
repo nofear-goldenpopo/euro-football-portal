@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T07:53:49.119788+00:00",
+  "updated_at": "2026-09-07T08:07:18.722943+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1876,7 +1876,9 @@
     "Saint-Étienne. The": "",
     "England. World Cup": "",
     "Michael Owen": "マイケル・オーウェン",
-    "David Gray": "デヴィッド・グレイ"
+    "David Gray": "デヴィッド・グレイ",
+    "Claudio Braga's": "",
+    "Sabah Kerjota's": ""
   },
   "items": [
     {
@@ -2244,31 +2246,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ショーダブルリードマンチェスター・シティバーミンガムの勝利へ",
-      "summary": "マンチェスター・シティ彼らの防衛 Women's Super League タイトルは、新しく宣伝された上で勝利で完璧なスタートにオフ取得バーミンガム・シティ FC.",
-      "title_original": "Shaw double leads Man City to victory over Birmingham",
-      "summary_original": "Manchester City's defence of their Women's Super League title gets off to the perfect start with victory over newly promoted Birmingham City.",
+      "title": "Kerjota が Dunadee に対するハートの96 分の勝者を獲得",
+      "summary": "クラウディオブラガ「ペナルティ」Sabah Kerjota's 華麗な低ドライブは劇的なハートを獲得 Scottish PremiershipDundee で勝利し、すべての競争で8 つの試合にアンベイトされたランを拡張します。",
+      "title_original": "Kerjota scores 96th-minute winner for Hearts against Dundee",
+      "summary_original": "Claudio Braga's penalty and Sabah Kerjota's brilliant low drive earn Hearts a dramatic Scottish Premiership victory over Dundee, extending their unbeaten run in all competitions to eight matches.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9v9e0e1pvro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 18:47:15 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "若々しい賞品 Rashford と Shaw chem",
-      "summary": "デイパンディットのマッチ Ashley Young 獲得を問い合わせマーカス・ラッシュフォードそして、Luke Shaw's 左側の接続マンチェスター・ユナイテッドの 2-2 に対して引くエヴァートン.at で Hill Dickinson Stadium.",
-      "title_original": "Young praises Rashford and Shaw chemistry",
-      "summary_original": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left in Manchester United's 2-2 draw against Everton.at the Hill Dickinson Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpwlqre0qy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 23:07:31 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/videos/c790qe5gr2po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 07:40:46 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2818,6 +2806,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Euro Debrief: Parrott ノック マドリード オフ 彼らの perch としてバルセロナショーの輝き",
+      "summary": "",
+      "title_original": "Euro Debrief: Parrott knocks Madrid off their perch as Barca show brilliance",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13580730/troy-parrott-stuns-old-boss-jose-mourinho-as-kylian-mbappe-costs-real-madrid-plus-lots-more-in-the-euro-debrief",
+      "published": "Mon, 07 Sep 2026 09:00:00 BST",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "キットの汚れに対する補償を考慮したミドルスラフ Turf Moor",
+      "summary": "ミドルスラフはキットの汚れに対する補償を検討しています Turf Moor.",
+      "title_original": "Middlesbrough considering compensation for kit staining at Turf Moor",
+      "summary_original": "Middlesbrough are considering compensation for kit staining at Turf Moor.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13582656/middlesbrough-considering-compensation-for-kit-staining-at-turf-moor",
+      "published": "Mon, 07 Sep 2026 08:41:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "モンツァのポジウムにラッセルのステップとしてブームとクラウド噴火!",
       "summary": "ブームを狙った群衆 George Russell モンツァ・ポジウムを踏んだ。",
       "title_original": "Crowd erupts with boos as Russell steps onto Monza podium!",
@@ -2941,34 +2957,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アーセナル後ろからビートに来るチェルシースリリングなダービー",
-      "summary": "FREE TO WATCH: ハイライトからプレミアリーグ間のマッチアーセナルそして、チェルシー.",
-      "title_original": "Arsenal come from behind to beat Chelsea in thrilling derby",
-      "summary_original": "FREE TO WATCH: Highlights from the Premier League match between Arsenal and Chelsea.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582508/arsenal-2-1-chelsea-premier-league-highlights",
-      "published": "Sun, 06 Sep 2026 18:43:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "INCREDIBLE SCENES! | GB & I 初請求ウォーカーカップ最終的な穴の2015 年以来の勝利",
-      "summary": "Josh Hill クレームウォーカーカップ獲得を問い合わせ Great Britain2015 年以降、最終ホールでアイルランドを初めて開催。",
-      "title_original": "INCREDIBLE SCENES! | GB & I claim first Walker Cup win since 2015 on final hole",
-      "summary_original": "Josh Hill claims the Walker Cup for Great Britain & Ireland for the first time since 2015 on the final hole.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582521/great-britain-ireland-claim-first-walker-cup-win-since-2015-on-final-hole",
-      "published": "Sun, 06 Sep 2026 19:16:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
