@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T17:37:15.580616+00:00",
+  "updated_at": "2026-09-07T17:51:22.093331+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1955,7 +1955,10 @@
     "The Pakistan Cricket Board": "",
     "Joey Barton": "ジョーイ・バートン",
     "Kevin Lynch": "",
-    "March. But": ""
+    "March. But": "",
+    "Mauricio Pochettino": "",
+    "LA Olympics": "ロサンゼルスオリンピック",
+    "Red Bull's Hadjar": ""
   },
   "items": [
     {
@@ -2645,6 +2648,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Mauricio Pochettino アメリカがサッカーの最も強力な国の一つになることを望んでいます",
+      "summary": "今後の準備をするインテル国民の窓、米国のヘッド コーチはについて話しましたフォラリン・バログン, ,ロサンゼルスオリンピックそして二重国民のプレーヤー 米国の男性のナショナルチームがクラッシュしてから2 ヶ月経ちました World Cup ファッション、ヘッドコーチ、Mauricio Pochettino、仕事で戻ります。前の投稿トッテナムそして、パリ・サンジェルマンマネージャーは、2024 年に米国に入社した際の短期雇用として大きく見られましたが、最初の家庭でチームを率いてもらうよう支援しました。World Cup もっと見る tha",
+      "title_original": "Mauricio Pochettino wants the US to become ‘one of the most powerful countries in soccer’",
+      "summary_original": "As he prepares for the upcoming international window, the US head coach spoke about Folarin Balogun, the LA Olympics and dual national players It’s been two months since the US men’s national team crashed out of the World Cup in disappointing fashion, and their head coach, Mauricio Pochettino, is back at work. The former Tottenham and PSG manager was largely viewed as a short-term hire when he joined the US in 2024, brought on to help the team capitalize on their first home World Cup in more tha",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/mauricio-pochettino-usmnt-soccer-head-coach",
+      "published": "Mon, 07 Sep 2026 17:44:09 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "モーエスは、移動トラブルが痛くないと言いますエヴァートンユナイテッド・ドローの後",
       "summary": "マネージャーは、後半のイコライザーの後にチームのレジリエンスを賞賛 “誰もがそれが仕事をする方法を見つける必要があります。”David Moyes 賞賛されたエヴァートン後ろから2 回帰った後、トラブルの週に対する弾力的な反応は、反対にポイントを救いますマンチェスター・ユナイテッドコースエインズリー・メイトランド＝ナイルズ'ロングレンジストライキ。期限日獲得、77 分後に導入された人ジェームズ・ガーナーけいれん、保存されたエヴァートン’s unbeaten は、96 分の 25 ヤードの努力で、シーズンに始まります。",
       "title_original": "‘No excuses’: Moyes says transfer troubles will not hurt Everton after United draw",
@@ -2698,20 +2715,6 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Embattled Fifa 社長のインファンティーノは、再選挙のために立ち向かう意思を宣言",
-      "summary": "Infantino は、販売オフプランの後に再獲得する圧力下にある Uefa は、社長がキルトにコールを導いた The Fifa 代表取締役社長 Gianni Infantino, 彼のリーダーシップを取り巻く継続論争にもかかわらず、来年再選挙のために立たせたいという彼の願望を再評価しました. Infantino は、レポーターから質問をしたときに、将来の質問に答えることを拒否しました Women’s Under-20 World Cup ポーランド Saturday. The56 歳のスイスは、Fifa 大会でステークを販売しようとすると再獲得する厳しい圧力下にあります",
-      "title_original": "Embattled Fifa president Infantino declares intention to stand for re-election",
-      "summary_original": "Infantino is under pressure to resign after sell-off plan Uefa has led calls for president to quit The Fifa president, Gianni Infantino, has reiterated his desire to stand for re-election next year despite the continuing controversy surrounding his leadership. Infantino refused to answer questions about his future when asked by reporters at the Women’s Under-20 World Cup in Poland on Saturday. The 56-year-old Swiss is under severe pressure to resign after trying to sell stakes in Fifa tournament",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
-      "published": "Sun, 06 Sep 2026 14:03:17 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2799,9 +2802,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ローソンはこれからも継続してレッドブルマドリードでハドジャーが負傷したまま",
+      "title": "レッドブルの Hadjar へ ミススペイングランプリ怪我の不在が続くように",
       "summary": "Isack Hadjar 今週末はお見逃しなく!スペイングランプリマドリッドでは、彼は事実上の手首から回復し続けています。",
-      "title_original": "Lawson to continue for Red Bull in Madrid as Hadjar remains injured",
+      "title_original": "Red Bull's Hadjar to miss Spanish GP as injury absence continue",
       "summary_original": "Isack Hadjar will miss this weekend's Spanish Grand Prix in Madrid as he continues to recover from a fractured wrist.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13582838/isack-hadjar-to-miss-spanish-grand-prix-in-madrid-due-to-wrist-injury-as-liam-lawson-continues-at-red-bull",
