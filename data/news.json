@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T11:26:14.328419+00:00",
+  "updated_at": "2026-09-07T11:39:42.042590+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1901,7 +1901,12 @@
     "Belgium's FA": "",
     "Paul Merson": "ポール・マーソン",
     "Roberto De Zerbi's": "",
-    "Rangers' Shankland": ""
+    "Rangers' Shankland": "",
+    "Red Star": "赤い星",
+    "Ratko Mladic": "",
+    "Partizan Belgrade": "",
+    "Gunners Kirsty Howat’s": "",
+    "Jo Potter": ""
   },
   "items": [
     {
@@ -1947,6 +1952,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "赤い星ファンは、ダービーの前に戦争犯罪マデリックの tifo を発表",
+      "summary": "レッドスター・ベオグラードファンは戦争の犯罪者を明らかに Ratko Mladic ダービーが勝つ前に Partizan Belgrade 日曜日",
+      "title_original": "Red Star fans unveil tifo of war criminal Mladic before derby",
+      "summary_original": "Red Star Belgrade fans unveil a tifo of war criminal Ratko Mladic before their derby win over Partizan Belgrade on Sunday.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c209n1y58neo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 11:35:38 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "新しいカメラの角度はウィリアムズの危険な目標ヒットアームを示しています",
+      "summary": "新しいビデオ映像は、ボールが降りてくることを示します Neco Williams' 腕前に彼の危険な目標のためにノッティンガム・フォレスト0-0 はに対して引くトッテナム.",
+      "title_original": "New camera angle shows Williams' disallowed goal hit arm",
+      "summary_original": "New video footage shows the ball coming off Neco Williams' arm before his disallowed goal for Nottingham Forest in the 0-0 draw against Tottenham.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckg8jjq5d05o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 11:31:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Belgian FA まだ欲しいバログン禁止回答",
       "summary": "Belgium's FA それがまだ理由についての答えを望んでいると言うフォラリン・バログン彼らと対戦することができました World Cup.",
       "title_original": "Belgian FA still wants Balogun ban answers",
@@ -1968,20 +2001,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyegw2re82o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 19:31:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チャンピオンズアーセナル後ろからビートに来るチェルシー",
-      "summary": "チャンピオン獲得アーセナル後ろから来て大衆を倒すチェルシープリズムで ロンドン ダービー アットエミレーツ・スタジアム.",
-      "title_original": "Champions Arsenal come from behind to beat Chelsea",
-      "summary_original": "Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 18:58:27 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2031,13 +2050,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Last-gasp Maitland-Nilesstunner 救助ポイントのためのエヴァートン",
-      "summary": "エインズリー・メイトランド＝ナイルズ著名なストップページタイムイコライザーを弾力性としてスクーリングすることにより、英語のサッカーに戻りましたエヴァートン後ろから2 回引っ越しマンチェスター・ユナイテッド獲得を問い合わせプレミアリーグ.",
-      "title_original": "Last-gasp Maitland-Niles stunner rescues point for Everton",
-      "summary_original": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
+      "title": "チャンピオンズアーセナル後ろからビートに来るチェルシー",
+      "summary": "チャンピオン獲得アーセナル後ろから来て大衆を倒すチェルシープリズムで ロンドン ダービー アットエミレーツ・スタジアム.",
+      "title_original": "Champions Arsenal come from behind to beat Chelsea",
+      "summary_original": "Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 18:58:33 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 18:58:27 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2115,20 +2134,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Leicester が Oxford の発疹の最低を生産できなかった - Souttar",
-      "summary": "レスター選手は、オックスフォードによる土曜日の重い敗北のために「最低賃金」と「責任を取るために得た」を生成できなかった、キャプテンは言う Harry Souttar.",
-      "title_original": "Leicester failed to produce bare minimum in Oxford thrashing - Souttar",
-      "summary_original": "Leicester players failed to produce the \"bare minimum\" and \"have got to take responsibility\" for Saturday's heavy defeat by Oxford, says captain Harry Souttar.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c78340y18lgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 09:29:44 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "なぜ?サンダーランド対比アーセナル土曜日は午後8 時ですか?",
       "summary": "BBC Sport's Ask Me 土曜日の理由を説明するチームプレミアリーグフィクスチャー間のサンダーランドそして、アーセナル8pm でキックオフ",
       "title_original": "Why is Sunderland vs Arsenal at 8pm on Saturday?",
@@ -2136,6 +2141,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cly4ll5qlvgo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 09:54:22 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Last-gasp Maitland-Nilesstunner 救助ポイントのためのエヴァートン",
+      "summary": "エインズリー・メイトランド＝ナイルズ著名なストップページタイムイコライザーを弾力性としてスクーリングすることにより、英語のサッカーに戻りましたエヴァートン後ろから2 回引っ越しマンチェスター・ユナイテッド獲得を問い合わせプレミアリーグ.",
+      "title_original": "Last-gasp Maitland-Niles stunner rescues point for Everton",
+      "summary_original": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 18:58:33 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2241,6 +2260,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Leicester が Oxford の発疹の最低を生産できなかった - Souttar",
+      "summary": "レスター選手は、オックスフォードによる土曜日の重い敗北のために「最低賃金」と「責任を取るために得た」を生成できなかった、キャプテンは言う Harry Souttar.",
+      "title_original": "Leicester failed to produce bare minimum in Oxford thrashing - Souttar",
+      "summary_original": "Leicester players failed to produce the \"bare minimum\" and \"have got to take responsibility\" for Saturday's heavy defeat by Oxford, says captain Harry Souttar.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78340y18lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 09:29:44 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "警察はポートズマスで Bielik ファンの衝突を調査します",
       "summary": "警察はカーディフ・ディフェンダー間の事件を調査していますクリスティアン・ビエリク土曜日にポンペイの2-0 ホームウィン中のポートスマスサポーター。",
       "title_original": "Police investigate Bielik fan clash at Portsmouth",
@@ -2276,20 +2309,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 14:01:54 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フィファ・プレジデント・インファンティーノが再選挙に立ちます",
-      "summary": "フィファ会長 Gianni Infantino3 月に再編を予定し、世界統治体が確認されています。",
-      "title_original": "Fifa president Infantino will stand for re-election",
-      "summary_original": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 13:01:17 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2339,6 +2358,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "WSL の話ポイント:クリスタル・パレス置換の nightmare の後に疑わしい結果,アーセナルサイン輝き",
+      "summary": "プロモートされたサイドのスリリングな勝利は、4 つの置換窓を使用していた後に上回ることができますジョージア・スタンウェイ方法を示す Gunners Kirsty Howat’s 深みのある60 秒のカキオアディショナルタイム思い出に残る一日だったものを台無しにできるクリスタル・パレストップフライトに戻る 圧倒的な1-0 勝利エヴァートン祝われました。Jo Potter そして、彼女の選手は、その喜びは、もはや心配と不満に置き換えられただろう。On Sunday 夕方 夕方 WSL Football 明らかにされた th",
+      "title_original": "WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine",
+      "summary_original": "Promoted side’s thrilling win may be overturned after they used four substitutions windows while Georgia Stanway show the way for Gunners Kirsty Howat’s 60-second cameo deep into injury time could ruin what was a memorable day for Crystal Palace on their return to the top flight. An impressive 1-0 victory over Everton was celebrated emphatically by Jo Potter and her players but that joy would have been replaced by concern and frustration not long after. On Sunday evening WSL Football revealed th",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/wsl-talking-points-palace-result-in-doubt-after-substitution-nightmare-arsenal-signings-shine",
+      "published": "Mon, 07 Sep 2026 11:20:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Kim Milton Nielsen’s1998 年の思い出:「ねえ、あなたはベッカムを離れる男です」",
       "summary": "新しい本から抽出物で、デンマークの元リーキーは、彼の有名なキックのためにイングランドのミッドフィルダーを離れて送信するリコールディエゴ・シメオネ1998 年6 月30 日(水)正午 Kim Milton Nielsen 変化する部屋にステップアップ Geoffroy-Guichard Stadium 獲得を問い合わせ Saint-Étienne. The ぬれたタオルのエア・レック。彼は彼のアシスタントを抱いた。サッカーの最下半端に過ぎ去ったばかりの選手達は、その恩恵を受けました。アルゼンチン vEngland. World Cup16 ラウンド。マイケル・オーウェンブリスタインとアルゼンチンをテロした",
       "title_original": "Kim Milton Nielsen’s 1998 memories: ‘Hey, you are the man who sent off Beckham’",
@@ -2377,20 +2410,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Women’s Super League: ショーは与えるために倍増しますマンチェスター・シティ賞金スタート",
-      "summary": "ストライカーはバーミンガムを洗うために2 回スコアアーセナル, クリスタル・パレス, トッテナムそして、リヴァプール必然に感じているだけある事を勝って下さい。一部のストライカーは避けられない感じです。新しいシーズンにもかかわらず、新鮮なスタートと新しい対戦相手、それはまだ同じストーリーラインですマンチェスター・シティ : Khadija Shaw ゲームに勝つ。ジョン・A・マクドナルドストライカーは、彼女が前のリーグシーズンを終えた正確にキャンペーンを開始しました, と2 ゴール、クラブが最終的に新しい契約に獲得するために彼女を説得し、それが非常に重要だった理由を実証しました",
-      "title_original": "Women’s Super League: Shaw doubles up to give Manchester City winning start",
-      "summary_original": "Striker scores twice to sink Birmingham Arsenal, Palace, Spurs and Liverpool win Some things just feel inevitable. Some strikers just feel inevitable. Despite a new season, a fresh start and new opponents, it is still the same storyline for Manchester City : Khadija Shaw wins them the game. The Jamaica striker began the campaign exactly how she finished the previous league season, with two goals, and demonstrated why it was so crucial that the club eventually persuaded her to sign a new contract",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/06/womens-super-league-wsl-roundup-khadija-shaw-manchester-city-birmingham",
-      "published": "Sun, 06 Sep 2026 18:35:01 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2563,6 +2582,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Women’s Super League: ショーは与えるために倍増しますマンチェスター・シティ賞金スタート",
+      "summary": "ストライカーはバーミンガムを洗うために2 回スコアアーセナル, クリスタル・パレス, トッテナムそして、リヴァプール必然に感じているだけある事を勝って下さい。一部のストライカーは避けられない感じです。新しいシーズンにもかかわらず、新鮮なスタートと新しい対戦相手、それはまだ同じストーリーラインですマンチェスター・シティ : Khadija Shaw ゲームに勝つ。ジョン・A・マクドナルドストライカーは、彼女が前のリーグシーズンを終えた正確にキャンペーンを開始しました, と2 ゴール、クラブが最終的に新しい契約に獲得するために彼女を説得し、それが非常に重要だった理由を実証しました",
+      "title_original": "Women’s Super League: Shaw doubles up to give Manchester City winning start",
+      "summary_original": "Striker scores twice to sink Birmingham Arsenal, Palace, Spurs and Liverpool win Some things just feel inevitable. Some strikers just feel inevitable. Despite a new season, a fresh start and new opponents, it is still the same storyline for Manchester City : Khadija Shaw wins them the game. The Jamaica striker began the campaign exactly how she finished the previous league season, with two goals, and demonstrated why it was so crucial that the club eventually persuaded her to sign a new contract",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/womens-super-league-wsl-roundup-khadija-shaw-manchester-city-birmingham",
+      "published": "Sun, 06 Sep 2026 18:35:01 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Embattled Fifa 社長のインファンティーノは、再選挙のために立ち向かう意思を宣言",
       "summary": "Infantino は、販売オフプランの後に再獲得する圧力下にある Uefa は、社長がキルトにコールを導いた The Fifa 代表取締役社長 Gianni Infantino, 彼のリーダーシップを取り巻く継続論争にもかかわらず、来年再選挙のために立たせたいという彼の願望を再評価しました. Infantino は、レポーターから質問をしたときに、将来の質問に答えることを拒否しました Women’s Under-20 World Cup ポーランド Saturday. The56 歳のスイスは、Fifa 大会でステークを販売しようとすると再獲得する厳しい圧力下にあります",
       "title_original": "Embattled Fifa president Infantino declares intention to stand for re-election",
@@ -2612,20 +2645,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/05/scottish-premiership-rangers-motherwell-aberdeen-celtic",
       "published": "Sun, 06 Sep 2026 20:25:40 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "16 歳 Cavan Sullivan 獲得を問い合わせレブロン・ジェームズスコアリングの後のフィリップスへの: MLS のラウンドアップ",
-      "summary": "Teenager 歓迎 LeBron へ 76ersVincent Janssen スコア Timbers 初の MLS ハットトリックエンボロスコア,メッシ有料の試合を支援 Philadelphia Union ミッドフィルダーCavan SullivanMLS 史上最年少の選手となり、五大のゴールコントリビューションを披露 Saturday. At16 歳と 342 歳、Sullivan は、ユニオンの 2-0 勝利の 75 分に高まるとき、土曜日に彼の第 3 回連続 MLS 試合で得点 CF Montreal. He 獲得を問い合わせ3 ゴールそして three は duri を助けます",
-      "title_original": "16-year-old Cavan Sullivan welcomes LeBron James to Philly after scoring: MLS roundup",
-      "summary_original": "Teenager welcomes LeBron to 76ers Vincent Janssen scores Timbers’ first MLS hat-trick Embolo scores, Messi assists in charged match Philadelphia Union midfielder Cavan Sullivan became the youngest player in MLS history ⁠to record a five-match goal contribution streak on Saturday. At 16 years and 342 ⁠days old, ⁠Sullivan ​scored in his third consecutive MLS match on Saturday when he tallied in the ⁠75th minute of the Union’s 2-0 victory over CF Montreal. He has three goals and ⁠three assists duri",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/06/cavan-sullivan-lebron-james-celebration-mls",
-      "published": "Sun, 06 Sep 2026 17:35:56 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2871,9 +2890,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Hampshire PolicePortsmouth で Bielik インシデントを調査",
+      "title": "ポートマスでファンと Bielik 事件を調査",
       "summary": "Hampshire Police カーディフの事件を調査しているクリスティアン・ビエリク Portsmouth の 2-0 勝ち時にホームサポーターフラットン・パーク土曜日に。",
-      "title_original": "Hampshire Police investigating Bielik incident at Portsmouth",
+      "title_original": "Police investigating Bielik incident with fan at Portsmouth",
       "summary_original": "Hampshire Police are investigating an incident between Cardiff's Krystian Bielik and a home supporter during Portsmouth's 2-0 win at Fratton Park on Saturday.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13582657/krystian-bielik-hampshire-police-investigating-incident-between-cardiff-midfielder-and-portsmouth-supporter",
