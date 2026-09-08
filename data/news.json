@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T14:43:30.952265+00:00",
+  "updated_at": "2026-09-08T14:55:51.025487+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2013,9 +2013,27 @@
     "William Hill": "",
     "Wednesday. The Argentina": "",
     "Alessia Russo": "",
-    "Alex Greenwood": ""
+    "Alex Greenwood": "",
+    "Manager Martin O'Neill": "",
+    "Kasper Hogh": "",
+    "Kieran Tierney": "キーラン・ティアニー",
+    "Wednesday's Scottish Premiership": ""
   },
   "items": [
+    {
+      "title": "Russo と greenwood nominated のために Ballon d'Or",
+      "summary": "イングランドの星 Alessia Russo そして、Alex Greenwood 女子のボールン・ドールにノミネートされた選手は30 名。",
+      "title_original": "Russo and Greenwood nominated for Ballon d'Or",
+      "summary_original": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 14:40:01 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "Mac Allister'sad' なしリヴァプール契約オファー",
       "summary": "リヴァプールミッドフィルダーアレクシス・マック・アリスター彼は提供されていない「非常に悲しい」と言っています新契約夏に休むには、クラブが「オプション」を持っていました。",
@@ -2041,20 +2059,6 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Russo と greenwood nominated のために Ballon d'Or",
-      "summary": "イングランドの星 Alessia Russo そして、Alex Greenwood 女子のボールン・ドールにノミネートされた選手は30 名。",
-      "title_original": "Russo and Greenwood nominated for Ballon d'Or",
-      "summary_original": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 14:40:01 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2115,6 +2119,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Hogh と Tierney クローズ のために 戻りますセルティック",
+      "summary": "マネージャーマーティン・オニール確認セルティックデュオ Kasper Hogh そして、キーラン・ティアニーパートをプレイできる Wednesday's Scottish Premiership マッチで St Johnstone.",
+      "title_original": "Hogh and Tierney close to returns for Celtic",
+      "summary_original": "Manager Martin O'Neill confirms Celtic duo Kasper Hogh and Kieran Tierney could play a part in Wednesday's Scottish Premiership match at St Johnstone.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0zy4jdlz1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 14:32:55 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "古き良きファンに席をあげるコモチーフチャンピオンズリーグデビュー",
       "summary": "コモ社長 Mirwan Suwarso クラブのチケットは、複数のディレクターが配布しています。チャンピオンズリーグ高齢者サポーターが出席できるようにデビュー。",
       "title_original": "Como chiefs giving up seats to older fans for Champions League debut",
@@ -2136,20 +2154,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gqd5l72j8o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 08 Sep 2026 07:47:50 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ノンリーグへチャンピオンズリーグ: ザ・ポルト上司 へ stun マンチェスター・シティ",
-      "summary": "ポルトログイン Francesco Farioli 最も高く評価されている若いマネージャーの1 つであり、火曜日に彼は充電しますチャンピオンズリーグ初めての方へ",
-      "title_original": "Non-league to Champions League: The Porto boss out to stun Man City",
-      "summary_original": "Porto boss Francesco Farioli is one of the most highly regarded young managers and on Tuesday he takes charge in the Champions League for the first time.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c072j1r4e2do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 06:32:51 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -2241,6 +2245,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ノンリーグへチャンピオンズリーグ: ザ・ポルト上司 へ stun マンチェスター・シティ",
+      "summary": "ポルトログイン Francesco Farioli 最も高く評価されている若いマネージャーの1 つであり、火曜日に彼は充電しますチャンピオンズリーグ初めての方へ",
+      "title_original": "Non-league to Champions League: The Porto boss out to stun Man City",
+      "summary_original": "Porto boss Francesco Farioli is one of the most highly regarded young managers and on Tuesday he takes charge in the Champions League for the first time.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c072j1r4e2do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 06:32:51 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "目標はありませんが、Emery は ヴィラの前進の必要性時間を知っている",
       "summary": "アストン・ヴィラ開口部3 にスコアがなかったプレミアリーグゲーム - マネージャーの意志 Unai Emery 攻撃エッジを見つける?",
       "title_original": "No goals but Emery knows Villa's forwards need time",
@@ -2283,20 +2301,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「可能性はより深く走る」 - レスター危機のコアドイ",
-      "summary": "過去の投稿レスター・シティ FC ディフェンダーConor Coady マネージャーや選手よりも古いクラブで「深く走るようになった」という問題は言う。",
-      "title_original": "'Problems run deeper' - Coady on Leicester crisis",
-      "summary_original": "Former Leicester City defender Conor Coady says the problems at his old club \"have got to run deeper\" than the manager and players.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zgd2913yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 08:42:28 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "チエサは去るかもしれないリヴァプール- 火曜日のゴシップ",
       "summary": "Federico Chiesa's 未来へリヴァプール間違いなく、ジェイドン・サンチョに戻るかもしれないプレミアリーグ, レアル・マドリードの Endrick は、インテルイタリア、その他",
       "title_original": "Chiesa might leave Liverpool - Tuesday's gossip",
@@ -2308,6 +2312,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「可能性はより深く走る」 - レスター危機のコアドイ",
+      "summary": "過去の投稿レスター・シティ FC ディフェンダーConor Coady マネージャーや選手よりも古いクラブで「深く走るようになった」という問題は言う。",
+      "title_original": "'Problems run deeper' - Coady on Leicester crisis",
+      "summary_original": "Former Leicester City defender Conor Coady says the problems at his old club \"have got to run deeper\" than the manager and players.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zgd2913yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 08:42:28 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2392,20 +2410,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "これは、私がバロン D'Or を獲得する年かもしれない、と言うエムバペ",
-      "summary": "レアル・マドリード獲得キリアン・エムバペ彼が初めて Ballon d'Or を勝つために良い年かもしれないと言う。",
-      "title_original": "This could be year I win Ballon d'Or, says Mbappe",
-      "summary_original": "Real Madrid forward Kylian Mbappe says this could be a good year for him to win the Ballon d'Or for the first time.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ydplykdxno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 12:42:03 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
