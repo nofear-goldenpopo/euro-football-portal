@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T14:28:18.021471+00:00",
+  "updated_at": "2026-09-08T14:43:30.952265+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2011,7 +2011,9 @@
     "Alexis Mac Allister": "アレクシス・マック・アリスター",
     "Frederic Vasseur": "",
     "William Hill": "",
-    "Wednesday. The Argentina": ""
+    "Wednesday. The Argentina": "",
+    "Alessia Russo": "",
+    "Alex Greenwood": ""
   },
   "items": [
     {
@@ -2039,6 +2041,20 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Russo と greenwood nominated のために Ballon d'Or",
+      "summary": "イングランドの星 Alessia Russo そして、Alex Greenwood 女子のボールン・ドールにノミネートされた選手は30 名。",
+      "title_original": "Russo and Greenwood nominated for Ballon d'Or",
+      "summary_original": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 14:40:01 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2141,20 +2157,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "目標はありませんが、Emery は ヴィラの前進の必要性時間を知っている",
-      "summary": "アストン・ヴィラ開口部3 にスコアがなかったプレミアリーグゲーム - マネージャーの意志 Unai Emery 攻撃エッジを見つける?",
-      "title_original": "No goals but Emery knows Villa's forwards need time",
-      "summary_original": "Aston Villa have not scored in their opening three Premier League games - how will manager Unai Emery find their attacking edge?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yegg8zz6no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 05:28:19 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -2236,6 +2238,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "目標はありませんが、Emery は ヴィラの前進の必要性時間を知っている",
+      "summary": "アストン・ヴィラ開口部3 にスコアがなかったプレミアリーグゲーム - マネージャーの意志 Unai Emery 攻撃エッジを見つける?",
+      "title_original": "No goals but Emery knows Villa's forwards need time",
+      "summary_original": "Aston Villa have not scored in their opening three Premier League games - how will manager Unai Emery find their attacking edge?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yegg8zz6no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 05:28:19 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2372,20 +2388,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/news/articles/c780nz2669do?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 14:43:32 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Belgian FA まだ欲しいバログン禁止回答",
-      "summary": "Belgium's FA それがまだ理由についての答えを望んでいると言うフォラリン・バログン彼らと対戦することができました World Cup.",
-      "title_original": "Belgian FA still wants Balogun ban answers",
-      "summary_original": "Belgium's FA says it still wants answers about why Folarin Balogun was allowed to play against them at the World Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z03nnmnko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 10:32:29 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
