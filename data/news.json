@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T19:24:48.171257+00:00",
+  "updated_at": "2026-09-08T19:36:51.143721+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2094,7 +2094,8 @@
     "The Belgian": "",
     "FC Porto LIVE": "",
     "Marchant’s England": "",
-    "Sale Sharks": "セール・シャークス"
+    "Sale Sharks": "セール・シャークス",
+    "FIVE PL": ""
   },
   "items": [
     {
@@ -2524,7 +2525,7 @@
       "summary_original": "Champions League: Lille v Betis, Dortmund v Villarreal Carabao Cup: Palace v Middlesbrough, Sunderland v Hull Live scores | Read Football Daily | And email Daniel Inter, meanwhile, look solid. They’ve won three from three in Serie A, and will, I think, look to clutter the centre of the pitch. That’s another reason I’d like to have seen Diomande on from the start, but Mourinho has – unusually for him – done without a defensively-minded midfielder. I’m looking forward to seeing how Curtis Jones do",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
-      "published": "Tue, 08 Sep 2026 19:09:31 GMT",
+      "published": "Tue, 08 Sep 2026 19:24:50 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -2538,7 +2539,7 @@
       "summary_original": "⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scores | Real Madrid v Inter and more | Email Niall Jamie Jackson has noticed something strange on Uefa’s official team sheet … It’s also finished AEK Athens 1-0 LASK Linz in the battle of the acronyms* – you can follow all the other Champions League and Carabao Cup action with Daniel Harris. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
-      "published": "Tue, 08 Sep 2026 19:09:58 GMT",
+      "published": "Tue, 08 Sep 2026 19:23:35 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -2966,23 +2967,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "EFL カップスカイでライブ! ボーンマス前,ニューカッスル, クリスタル・パレス, サンダーランドアクション",
+      "title": "EFL カップスカイでライブ! ボーンマス,クリスタル・パレス獲得を問い合わせ FIVE PL アクションにおけるチーム",
       "summary": "",
-      "title_original": "Carabao Cup LIVE on Sky! Bournemouth ahead, Newcastle, Palace, Sunderland in action",
+      "title_original": "Carabao Cup LIVE on Sky! Bournemouth, Palace ahead - FIVE PL teams in action",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13582785/carabao-cup-third-round-live-scores-updates-and-free-match-highlights-with-newcastle-sunderland-crystal-palace-in-action",
       "published": "Tue, 08 Sep 2026 19:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バーンリー、聖人の鉛;ボルトンのペグの背部ウェストハム- チャンピオンシップ Sky LIVE!",
+      "title": "ウェストハムボルトンで戻ってヒット;バーンリー, 聖人前 - チャンピオンシップオン Sky LIVE!",
       "summary": "",
-      "title_original": "Burnley, Saints lead; Bolton peg back West Ham - Championship on Sky LIVE!",
+      "title_original": "West Ham hit back at Bolton; Burnley, Saints ahead - Championship on Sky LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/live/560559",
@@ -2994,9 +2995,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・シティ忍耐強い開始をで作って下さいポルトライブ!",
+      "title": "ハーランド否定されるようにマンチェスター・シティギアをアップポルトライブ!",
       "summary": "",
-      "title_original": "Man City make patient start at FC Porto LIVE!",
+      "title_original": "Haaland denied as Man City up the gears at FC Porto LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/fc-porto-vs-manchester-city/live/577600",
@@ -3106,9 +3107,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Michelsen a set up 対 Tiafoe 後に savalenka wins epic",
+      "title": "US Open LIVE! ミッシェルセンは、オールアメリカン・クォーターフィナールでチフエでセットアップ",
       "summary": "",
-      "title_original": "US Open LIVE! Michelsen a set up vs Tiafoe after Sabalenka wins epic",
+      "title_original": "US Open LIVE! Michelsen a set up on Tiafoe in all-American quarter-final",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13583196/us-open-live-scores-updates-news-results-and-video-with-aryna-sabalenka-and-frances-tiafoe-in-action-in-new-york",
