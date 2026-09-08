@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T09:43:34.912182+00:00",
+  "updated_at": "2026-09-08T09:54:01.496762+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1996,7 +1996,9 @@
     "Alex Morris": "",
     "Man City-bound": "",
     "The Philadelphia Union": "",
-    "United States U-": ""
+    "United States U-": "",
+    "Oracle Red Bull Racing": "",
+    "Madrid Metro": "マドリード地下鉄"
   },
   "items": [
     {
@@ -2966,6 +2968,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "次回はマドリッドをストップ!レッドブルメトロへ向かうのは、ファーストオブイズのスタント",
+      "summary": "オラクルレッドブル競争は地下のアスファルトを交換しました、象徴的な RB8 がトラックに取られたので、マドリード地下鉄ファースト・オブ・ザ・ワン・スタント",
+      "title_original": "Next stop Madrid! Red Bull take to the Metro in epic first-of-its-kind stunt",
+      "summary_original": "Oracle Red Bull Racing swapped the asphalt for the underground, as the iconic RB8 took to the tracks of the Madrid Metro in a first-of-its-kind stunt.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13583079/madrid-grand-prix-next-stop-madrid-red-bull-take-to-the-metro-in-epic-first-of-its-kind-stunt",
+      "published": "Tue, 08 Sep 2026 10:27:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ユーシークのキャンプは、ホシュアの戦いのための「バックアップ計画」であることがファーリーの申し出を却下",
       "summary": "Oleksandr Usyk's マネージャーは却下しましたタイソン・フューリー' ウクライナと3 分の1 の戦いのための呼び出しは、すべての British ヘビー級のショーダウンに引き続き疑問を抱いていました Anthony Joshua.",
       "title_original": "Usyk's camp dismiss Fury's offer to be 'backup plan' for Joshua fight",
@@ -3103,20 +3119,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "退職、フォンドの思い出、そしてウィガンとの次のステップについてのファーレル",
-      "summary": "Wigan Warriors キャプテン Liam Farrell 彼は2026 の最後に退役すると発表した後、彼は再びクラブのために再生する場合、彼は確信していないと言う Super League 季節限定",
-      "title_original": "Farrell on retirement, fond memories, and next steps with Wigan",
-      "summary_original": "Wigan Warriors captain Liam Farrell says he is not sure if he will play for the club again after he announced he will retireat the end of the 2026 Super League season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13582772/liam-farrell-wigan-warriors-captain-on-retirement-fond-memories-and-next-steps-after-super-league-career-to-remember",
-      "published": "Mon, 07 Sep 2026 12:39:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
