@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T05:52:41.200553+00:00",
+  "updated_at": "2026-09-08T06:07:22.617700+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1977,7 +1977,10 @@
     "Patrick Mahomes": "",
     "Los Angeles": "ロサンゼルス",
     "Joe Worall": "",
-    "Zan Vipotnik": "ジャン・ヴィポトニク"
+    "Zan Vipotnik": "ジャン・ヴィポトニク",
+    "Ross Wilson": "",
+    "Eddie Howe's": "",
+    "Iva Jovic": "イバ・ヨビッチ"
   },
   "items": [
     {
@@ -2016,6 +2019,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yegg8zz6no?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 08 Sep 2026 05:28:19 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ニューカッスル毎月の「出発の準備」だった",
+      "summary": "ニューカッスルスポーツディレクターRoss Wilson クラブが元ヘッドコーチの準備をしていたと言うエディ・ハウ'9 ヶ月までの出発。",
+      "title_original": "Newcastle were 'preparing for months' for Howe departure",
+      "summary_original": "Newcastle United sporting director Ross Wilson says the club were preparing for former head coach Eddie Howe's departure for up to nine months.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 05:52:48 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2135,20 +2152,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Belgian FA まだ欲しいバログン禁止回答",
-      "summary": "Belgium's FA それがまだ理由についての答えを望んでいると言うフォラリン・バログン彼らと対戦することができました World Cup.",
-      "title_original": "Belgian FA still wants Balogun ban answers",
-      "summary_original": "Belgium's FA says it still wants answers about why Folarin Balogun was allowed to play against them at the World Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z03nnmnko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 10:32:29 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "WSL のオープン週末からのすべての目標",
       "summary": "開幕の週末からすべての目標を見る Women's Super League2026-27 シーズン",
       "title_original": "All the goals from the opening weekend of the WSL",
@@ -2216,6 +2219,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Belgian FA まだ欲しいバログン禁止回答",
+      "summary": "Belgium's FA それがまだ理由についての答えを望んでいると言うフォラリン・バログン彼らと対戦することができました World Cup.",
+      "title_original": "Belgian FA still wants Balogun ban answers",
+      "summary_original": "Belgium's FA says it still wants answers about why Folarin Balogun was allowed to play against them at the World Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z03nnmnko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 10:32:29 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2380,20 +2397,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 18:58:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Last-gasp Maitland-Nilesstunner 救助ポイントのためのエヴァートン",
-      "summary": "エインズリー・メイトランド＝ナイルズ著名なストップページタイムイコライザーを弾力性としてスクーリングすることにより、英語のサッカーに戻りましたエヴァートン後ろから2 回引っ越しマンチェスター・ユナイテッド獲得を問い合わせプレミアリーグ.",
-      "title_original": "Last-gasp Maitland-Niles stunner rescues point for Everton",
-      "summary_original": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 18:58:33 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2961,6 +2964,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Gauff は、すべてのアメリカ人のショーダウンを獲得し、リーチ US Open クォーターズ",
+      "summary": "Coco Gauff ティーンエイジャーに対するオールアメリカンのショーダウンを獲得イバ・ヨビッチリーチする全米オープンクォーターフィナーズ。",
+      "title_original": "Gauff wins all-American showdown to reach US Open quarters",
+      "summary_original": "Coco Gauff won the all-American showdown against teenager Iva Jovic to reach the US Open quarter-finals.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13583017/us-open-2026-home-favourite-coco-gauff-wins-all-american-showdown-with-iva-jovic-to-reach-quarter-finals",
+      "published": "Tue, 08 Sep 2026 06:17:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "別のタイト Solheim Cup? How Team Europe 家の利点の計算を作ることができます",
       "summary": "分離するのはほとんどありません Team Europe そして、Team USA 最近のエディション Solheim Cup 今週のコンテストが異なることを示唆するものではありません。",
       "title_original": "Another tight Solheim Cup? How Team Europe can make home advantage count",
@@ -3080,20 +3097,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/news/12040/13582670/super-league-frantic-friday-wigan-warriors-and-leeds-rhinos-go-for-league-leaders-shield-wakefield-trinity-and-warrington-wolves-battle-for-third",
       "published": "Mon, 07 Sep 2026 12:55:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "NFL2026 年の最大のストーリー展開 - ラムススーパーチームワーク?",
-      "summary": "獲得を問い合わせロサンゼルス・ラムズスーパーチームによる返還 Patrick Mahomes2026 年の NFL シーズンに続く最大のストーリー展開をご案内します。Super Bowl61 インチロサンゼルス.",
-      "title_original": "The NFL's biggest storylines in 2026 - will Rams super-team work?",
-      "summary_original": "From a Los Angeles Rams super-team to the return of Patrick Mahomes, we guide you through some of the biggest storylines heading into the 2026 NFL season on the road to Super Bowl 61 in Los Angeles.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nfl/news/12040/13580731/myles-garrett-patrick-mahomes-and-jesse-minter-the-nfls-biggest-storylines-on-road-to-super-bowl-61-in-los-angeles",
-      "published": "Tue, 08 Sep 2026 06:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
