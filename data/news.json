@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T09:07:28.043073+00:00",
+  "updated_at": "2026-09-08T09:27:08.959403+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1989,14 +1989,21 @@
     "Roberta Picchi": "",
     "Riccardo Calafiori": "リッカルド・カラフィオーリ",
     "Cesc Fabregas": "セスク・ファブレガス",
-    "Bernabeu. Will": ""
+    "Bernabeu. Will": "",
+    "Conor Coady": "",
+    "Wycombe Wanderers": "ウィコム・ワンダラーズFC",
+    "Michael Duff": "",
+    "Alex Morris": "",
+    "Man City-bound": "",
+    "The Philadelphia Union": "",
+    "United States U-": ""
   },
   "items": [
     {
       "title": "チャンピオンズリーグ誰がお気に入りですか?プレイヤーは誰ですか?",
       "summary": "ザ・オブ・ザ・チャンピオンズリーグバックと BBC スポーツは、お気に入りが専門家からタイトルプラス予測を獲得するかどうかを見てみましょう。",
       "title_original": "Champions League returns - who are favourites and players to watch?",
-      "summary_original": "The Champions League is back and BBC Sport take a look at who the favourites are to win the title plus predictions from the experts.",
+      "summary_original": "The Champions League is back and BBC Sport takes a look at who the favourites are to win the title plus predictions from the experts.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 20:30:53 GMT",
@@ -2231,6 +2238,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「可能性はより深く走る」 - レスター危機のコアドイ",
+      "summary": "過去の投稿レスター・シティ FC ディフェンダーConor Coady マネージャーや選手よりも古いクラブで「深く走るようになった」という問題は言う。",
+      "title_original": "'Problems run deeper' - Coady on Leicester crisis",
+      "summary_original": "Former Leicester City defender Conor Coady says the problems at his old club \"have got to run deeper\" than the manager and players.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zgd2913yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 08:42:28 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Wycombe sack ボス Duff 後に winless スタート",
+      "summary": "ウィコム・ワンダラーズ FC サック Michael Duff アシスタント Alex Morris ちょうど5 つのゲームに League One 季節限定",
+      "title_original": "Wycombe sack boss Duff after winless start",
+      "summary_original": "Wycombe Wanderers sack Michael Duff and his assistant Alex Morris just five games into the League One season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4vwgydyvpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 09:14:02 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "新しいビデオはウィリアムズハンドボールを示していますが、VAR の行を終了しません",
       "summary": "新しいカメラの角度は、ボールが降りてくることを示していますノッティンガム・フォレストディフェンダーNeco Williams' 腕は、彼は彼の不快な目標をスコアするトッテナム.",
       "title_original": "New video shows Williams handball - but won't end VAR row",
@@ -2238,6 +2273,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0lr4401rw0o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 11:13:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェルシーフラム・ミッドフィルダー・ベルゲの探検",
+      "summary": "チェルシー遅くなるインテル最新記事 Fulham's Sander Berge ミッドフィールドオプションを強化しようとすると、エンソ・フェルナンデス「出発」",
+      "title_original": "Chelsea explored move for Fulham midfielder Berge",
+      "summary_original": "Chelsea showed late interest in Fulham's Sander Berge as they attempted to strengthen their midfield options before Enzo Fernandez's departure.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgrvx1jxrv0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 16:03:52 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2284,20 +2333,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシーフラム・ミッドフィルダー・ベルゲの探検",
-      "summary": "チェルシー遅くなるインテル最新記事 Fulham's Sander Berge ミッドフィールドオプションを強化しようとすると、エンソ・フェルナンデス「出発」",
-      "title_original": "Chelsea explored move for Fulham midfielder Berge",
-      "summary_original": "Chelsea showed late interest in Fulham's Sander Berge as they attempted to strengthen their midfield options before Enzo Fernandez's departure.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgrvx1jxrv0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 16:03:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2367,34 +2402,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Swansea の黄金のブーツの勝者はまだキックスタートシーズン",
-      "summary": "ジャン・ヴィポトニクフォームへの返送スウォンジー・シティ AFC ですが、ストライカーはまだスタート側に戻ることが保証されていません。",
-      "title_original": "Swansea's golden boot winner yet to kick-start season",
-      "summary_original": "Zan Vipotnik is backed to return to form for Swansea City, even though the striker is still not guaranteed to return to the starting side.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8xzejr2d5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 04:20:16 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アメリカンコンソーシアムは、Shrewsbury を購入するのをクリア",
-      "summary": "Shrewsbury Town's 長期にわたる買収サガは、アメリカンコンソーシアムがクラブを購入する承認を付与した後に終了するように設定されています。",
-      "title_original": "American consortium cleared to buy Shrewsbury",
-      "summary_original": "Shrewsbury Town's long-running takeover saga is set to end after an American consortium is granted approval to buy the club.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx05qpn0kvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 15:43:08 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2539,6 +2546,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・シティ-bound 16 歳 Cavan SullivanMLS のチャオティック・レベレーション",
+      "summary": "The Philadelphia Union ミッドフィルダーは、プロを回し、データがタンタライズされているので、ゲームの時間の最も長い走りを続けてきました ビデオからアメリカ合衆国 U-15 キャンプ 3 年前、頭を紡ぐ 一方、頭の短く、1 年または2 歳以外の男の子のための定期的なトレーニングセッションです。男の子は緊張していますか? 彼はそうではありません。パスは箱に浮き出し、彼は彼の実行をチェックし、余分な取得しようとします",
+      "title_original": "Man City-bound 16-year-old Cavan Sullivan is MLS’s chaotic revelation",
+      "summary_original": "The Philadelphia Union midfielder has gotten his longest run of game time since turning pro, and the data is tantalizing There’s a video from a United States U-15 camp three years ago that will make your head spin. It’s a routine training session for the boys on the pitch except one, a head shorter and a year or two younger than the others, who’s practicing with the national team for the first time. Is the boy nervous? He is not. A pass floats into the box and he checks his run, tries to get und",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/08/cavan-sullivan-analyisis-mls-philadelphia-union",
+      "published": "Tue, 08 Sep 2026 09:00:53 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
       "summary": "Fulham は勝利を必要とし、トッテナムいくつかの精神を表示し、Jack Grealish オファーエヴァートンはるかに必要なエネルギー 25 分から行くとマンチェスター・ユナイテッド, ,エヴァートンサポーターは、次のように笑う何かを持っていた Jack Grealish 再接合後の返還レンタル移籍で。攻撃ミッドフィルダーは、到着秒以内に危険な状況を作成することによって、ホストを楽しませたいという彼の欲求のおかげで、普遍的に人気が残っています。エヴァートン最終第3 期の期間に限られた",
       "title_original": "Premier League: 10 talking points from the weekend’s action",
@@ -2546,20 +2567,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/07/premier-league-10-talking-points-from-the-weekends-action",
       "published": "Mon, 07 Sep 2026 07:00:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "WSL の話ポイント:クリスタル・パレス置換の nightmare の後に疑わしい結果,アーセナルサイン輝き",
-      "summary": "プロモートされたサイドのスリリングな勝利は、4 つの置換窓を使用していた後に上回ることができますジョージア・スタンウェイ方法を示す Gunners Kirsty Howat’s 深みのある60 秒のカキオアディショナルタイム思い出に残る一日だったものを台無しにできるクリスタル・パレストップフライトに戻る 圧倒的な1-0 勝利エヴァートン祝われました。Jo Potter そして、彼女の選手は、その喜びは、もはや心配と不満に置き換えられただろう。On Sunday 夕方 夕方 WSL Football 明らかにされた th",
-      "title_original": "WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine",
-      "summary_original": "Promoted side’s thrilling win may be overturned after they used four substitutions windows while Georgia Stanway show the way for Gunners Kirsty Howat’s 60-second cameo deep into injury time could ruin what was a memorable day for Crystal Palace on their return to the top flight. An impressive 1-0 victory over Everton was celebrated emphatically by Jo Potter and her players but that joy would have been replaced by concern and frustration not long after. On Sunday evening WSL Football revealed th",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/07/wsl-talking-points-palace-result-in-doubt-after-substitution-nightmare-arsenal-signings-shine",
-      "published": "Mon, 07 Sep 2026 11:20:32 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2763,6 +2770,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "WSL の話ポイント:クリスタル・パレス置換の nightmare の後に疑わしい結果,アーセナルサイン輝き",
+      "summary": "プロモートされたサイドのスリリングな勝利は、4 つの置換窓を使用していた後に上回ることができますジョージア・スタンウェイ方法を示す Gunners Kirsty Howat’s 深みのある60 秒のカキオアディショナルタイム思い出に残る一日だったものを台無しにできるクリスタル・パレストップフライトに戻る 圧倒的な1-0 勝利エヴァートン祝われました。Jo Potter そして、彼女の選手は、その喜びは、もはや心配と不満に置き換えられただろう。On Sunday 夕方 夕方 WSL Football 明らかにされた th",
+      "title_original": "WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine",
+      "summary_original": "Promoted side’s thrilling win may be overturned after they used four substitutions windows while Georgia Stanway show the way for Gunners Kirsty Howat’s 60-second cameo deep into injury time could ruin what was a memorable day for Crystal Palace on their return to the top flight. An impressive 1-0 victory over Everton was celebrated emphatically by Jo Potter and her players but that joy would have been replaced by concern and frustration not long after. On Sunday evening WSL Football revealed th",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/wsl-talking-points-palace-result-in-doubt-after-substitution-nightmare-arsenal-signings-shine",
+      "published": "Mon, 07 Sep 2026 11:20:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Aubameyang は、再考した「Super Dépor' に戻るラ・リーガスタイル |Billy Munday",
       "summary": "Deportivo A Coruña Leave Gabonese ストライカーと1 つのクラブレコードと別の目指すための2 つのアシストと勝者 Pierre-Emerick Aubameyang 土曜日の夜に Deportivo A Coruña の勝者をスコアするために走ったとき、彼はピッチですでに最高の選手でした。確かにそうではない Ilias Akhomach, ,ビジャレアル途中のパスが不変に Aubameyang を貫通し、また Sergi Cardona, そのパスの目的のターゲット. 89 分後、2 人の援助の後、37 歳の Aubameyang",
       "title_original": "Aubameyang rolls back years as revamped ‘Super Dépor’ return to La Liga in style | Billy Munday",
@@ -2788,20 +2809,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ワイルドオープンサルボ対チェルシー刺激的な時間にヒントアーセナルファン |Barney Ronay",
-      "summary": "家の側面の応答チェルシー’ s の初期の目標は、息をのむような攻撃のサッカーを再生することだった 帰ってきた、赤ちゃん。ですから。まあ、大丈夫、正確に戻っていません。しかし、少なくともしばらくの間、少なくとも、パウダーブルーの午後のように、タイムトンネルをバックダウンエミレーツ・スタジアム, アーセナルそして、チェルシー2000 年代初頭のバークレイスにスローバックのように感じた開口部半時間。その時代に、これは本当に古典的にツイストのように感じた:ミッドフィールドの殺人ボールの呪文、ストレッチ、フルバクをフラスト",
-      "title_original": "Wild opening salvo against Chelsea hints at exciting times for Arsenal fans | Barney Ronay",
-      "summary_original": "The home side’s response to Chelsea’s early goal was to play breathless attacking football We’re back, baby. So, so back. Well, OK, not exactly back. But back down the time tunnel, for a while at least, as on a powder blue afternoon at the Emirates Stadium, Arsenal and Chelsea produced an opening half-hour that felt like a throwback to prime Barclays of the early 2000s. In that period this really did feel like a twist on a classic: spells of midfield murder-ball, stretched and flustered full‑bac",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-2026",
-      "published": "Sun, 06 Sep 2026 21:08:19 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3015,9 +3022,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプール最新: 次回シーズンから新メインシャツスポンサーが発表されました...",
+      "title": "リヴァプール最新: 次のシーズンから新しい3億ポンド メインシャツスポンサー",
       "summary": "",
-      "title_original": "Liverpool latest: New main shirt sponsor from next season announced...",
+      "title_original": "Liverpool latest: New £300m main shirt sponsor from next season",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
