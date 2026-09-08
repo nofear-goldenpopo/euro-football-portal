@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T20:25:34.480995+00:00",
+  "updated_at": "2026-09-08T20:39:10.544971+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2095,9 +2095,24 @@
     "FC Porto LIVE": "",
     "Marchant’s England": "",
     "Sale Sharks": "セール・シャークス",
-    "FIVE PL": ""
+    "FIVE PL": "",
+    "Championship LIVE": ""
   },
   "items": [
+    {
+      "title": "ショットシャイから目撃まで - ヴィラは勝つ方法を見つけます",
+      "summary": "アストン・ヴィラついにシューティングブーツを見つけた3 ゴール獲得を問い合わせクラブ・ブルッヘ- しかし、彼らの勝利はまっすぐではありませんでした。",
+      "title_original": "From shot-shy to shoot on sight - Villa find a way to win",
+      "summary_original": "Aston Villa finally found their shooting boots with three goals at Club Brugge - but their win was not straightforward.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62j655pe81o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 20:32:44 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "Favourite KaneBallon d'Or ショートリストを作る",
       "summary": "バイエルン・ミュンヘンストライカーハリー・ケイン2026 ボールン d'Or と一緒にノミネートされた 3 つのイングランドの選手の 1 つジュード・ベリンガムそして、デクラン・ライス.",
@@ -2134,62 +2149,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c86x0q008e5o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 08 Sep 2026 17:03:35 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Mac Allister'sad' なしリヴァプール契約オファー",
-      "summary": "リヴァプールミッドフィルダーアレクシス・マック・アリスター彼は提供されていない「非常に悲しい」と言っています新契約夏に休むには、クラブが「オプション」を持っていました。",
-      "title_original": "Mac Allister 'sad' at no Liverpool contract offer",
-      "summary_original": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered a new deal by the club and had \"options\" to leave in the summer.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 13:01:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Fifa に対する法的行動には、女性のゲームに対する「行動」が含まれています",
-      "summary": "フィファに対するトップヨーロッパリーグとグローバルプレイヤーのユニオンフィフプロによる法的行動は、女性のゲームに対する身体の「虐待行為」を支配する世界を含むために拡張されます。",
-      "title_original": "Legal action against Fifa includes 'abusive conduct' towards women's game",
-      "summary_original": "Legal action from the top European leagues and global players' union Fifpro against Fifa is extended to include the world governing body's \"abusive conduct\" towards the women's game.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy4z0l1erzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 13:30:30 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "McTominay の心臓の手順「完全な成功」",
-      "summary": "ナポリ獲得を問い合わせ Scott McTominay's 心臓手術は「完全な成功を呼びます」と、今月のトレーニングを再開するためにスコットランドのミッドフィルダーを期待します。",
-      "title_original": "McTominay's heart procedure 'a complete success'",
-      "summary_original": "Napoli say Scott McTominay's heart surgery \"was a complete success\" and expect the Scotland midfielder to resume training this month.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 12:28:16 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Hogh と Tierney クローズ のために 戻りますセルティック",
-      "summary": "マネージャーマーティン・オニール確認セルティックデュオ Kasper Hogh そして、キーラン・ティアニーパートをプレイできる Wednesday's Scottish Premiership マッチで St Johnstone.",
-      "title_original": "Hogh and Tierney close to returns for Celtic",
-      "summary_original": "Manager Martin O'Neill confirms Celtic duo Kasper Hogh and Kieran Tierney could play a part in Wednesday's Scottish Premiership match at St Johnstone.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz0zy4jdlz1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 14:32:55 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2267,17 +2226,59 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Odegaard 'desire' でチェルシー勝つ感動ロオニー",
-      "summary": "デイパンディットのマッチウェイン・ルーニー分析方法マルティン・ウーデゴールゲームをそのまま制御アーセナルフェイスチェルシー獲得を問い合わせエミレーツ・スタジアム.",
-      "title_original": "Odegaard 'desire' in Chelsea win impresses Rooney",
-      "summary_original": "Match of the Day pundit Wayne Rooney analyses how Martin Odegaard took control of the game as Arsenal faced Chelsea at the Emirates Stadium.",
+      "title": "Mac Allister'sad' なしリヴァプール契約オファー",
+      "summary": "リヴァプールミッドフィルダーアレクシス・マック・アリスター彼は提供されていない「非常に悲しい」と言っています新契約夏に休むには、クラブが「オプション」を持っていました。",
+      "title_original": "Mac Allister 'sad' at no Liverpool contract offer",
+      "summary_original": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered a new deal by the club and had \"options\" to leave in the summer.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8e34k1r3j9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 22:32:06 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 13:01:12 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Fifa に対する法的行動には、女性のゲームに対する「行動」が含まれています",
+      "summary": "フィファに対するトップヨーロッパリーグとグローバルプレイヤーのユニオンフィフプロによる法的行動は、女性のゲームに対する身体の「虐待行為」を支配する世界を含むために拡張されます。",
+      "title_original": "Legal action against Fifa includes 'abusive conduct' towards women's game",
+      "summary_original": "Legal action from the top European leagues and global players' union Fifpro against Fifa is extended to include the world governing body's \"abusive conduct\" towards the women's game.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4z0l1erzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 13:30:30 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "McTominay の心臓の手順「完全な成功」",
+      "summary": "ナポリ獲得を問い合わせ Scott McTominay's 心臓手術は「完全な成功を呼びます」と、今月のトレーニングを再開するためにスコットランドのミッドフィルダーを期待します。",
+      "title_original": "McTominay's heart procedure 'a complete success'",
+      "summary_original": "Napoli say Scott McTominay's heart surgery \"was a complete success\" and expect the Scotland midfielder to resume training this month.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 12:28:16 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Hogh と Tierney クローズ のために 戻りますセルティック",
+      "summary": "マネージャーマーティン・オニール確認セルティックデュオ Kasper Hogh そして、キーラン・ティアニーパートをプレイできる Wednesday's Scottish Premiership マッチで St Johnstone.",
+      "title_original": "Hogh and Tierney close to returns for Celtic",
+      "summary_original": "Manager Martin O'Neill confirms Celtic duo Kasper Hogh and Kieran Tierney could play a part in Wednesday's Scottish Premiership match at St Johnstone.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0zy4jdlz1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 14:32:55 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2337,34 +2338,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チエサは去るかもしれないリヴァプール- 火曜日のゴシップ",
-      "summary": "Federico Chiesa's 未来へリヴァプール間違いなく、ジェイドン・サンチョに戻るかもしれないプレミアリーグ, レアル・マドリードの Endrick は、インテルイタリア、その他",
-      "title_original": "Chiesa might leave Liverpool - Tuesday's gossip",
-      "summary_original": "Federico Chiesa's future at Liverpool is in doubt, Jadon Sancho might return to the Premier League, Real Madrid's Endrick is attracting interest from Italy, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy87d2lj9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 22:05:37 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Ballon d'Or の勝者が決定した方法は?",
-      "summary": "バロン d'Or の投票は、長年にわたっていくつかの重要な変更を受けています。",
-      "title_original": "How is the Ballon d'Or winner decided?",
-      "summary_original": "Voting for the Ballon d'Or has undergone some significant change over the years.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g7jynnydlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 15:47:15 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "いつか EFL カップ4 ラウンドドロー?",
       "summary": "第4 ラウンドのドローEFL カップ9 月16 日(水)",
       "title_original": "When is the EFL Cup fourth-round draw?",
@@ -2393,20 +2366,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フォローする方法チャンピオンズリーグ BBC について",
-      "summary": "ザ・オブ・ザ・チャンピオンズリーグ今週、BBC のアクションのベストのハイライトを聞き、視聴することができます。",
-      "title_original": "How to follow the Champions League on the BBC",
-      "summary_original": "The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 13:50:27 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "がん診断後のストライカーの契約を更新",
       "summary": "イタリアンクラブコモが契約を刷新 Roberta Picchi 膀胱がんと診断された後。",
       "title_original": "Como renew striker's contract after cancer diagnosis",
@@ -2418,6 +2377,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Odegaard 'desire' でチェルシー勝つ感動ロオニー",
+      "summary": "デイパンディットのマッチウェイン・ルーニー分析方法マルティン・ウーデゴールゲームをそのまま制御アーセナルフェイスチェルシー獲得を問い合わせエミレーツ・スタジアム.",
+      "title_original": "Odegaard 'desire' in Chelsea win impresses Rooney",
+      "summary_original": "Match of the Day pundit Wayne Rooney analyses how Martin Odegaard took control of the game as Arsenal faced Chelsea at the Emirates Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8e34k1r3j9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 22:32:06 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2519,13 +2492,41 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リヴァプール新しくプロモーションされたシャルトン 4-0 を破る",
+      "summary": "Grace Fisk スコアは2 回としてリヴァプールチャルトンを新たに推進 Women's Super League 獲得を問い合わせ The Valley.",
+      "title_original": "Liverpool beat newly-promoted Charlton 4-0",
+      "summary_original": "Grace Fisk scores twice as Liverpool beat newly promoted Charlton in the Women's Super League at The Valley.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckgvx2y657go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 18:53:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フォローする方法チャンピオンズリーグ BBC について",
+      "summary": "ザ・オブ・ザ・チャンピオンズリーグ今週、BBC のアクションのベストのハイライトを聞き、視聴することができます。",
+      "title_original": "How to follow the Champions League on the BBC",
+      "summary_original": "The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 13:50:27 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "レアル・マドリード. .インテル, ミルウォール v ニューカッスル: チャンピオンズリーグそして、EFL カップ– ライブ",
       "summary": "チャンピオンズリーグ: リール v Betis,ドルトムント. .ビジャレアル EFL カップ: クリスタル・パレス v ミドルスラフ,サンダーランド. .ハルライブスコア |Read Football Daily| ダニエルメールインテル、その間、固体を見て下さい。彼らは3 から3 を獲得しましたセリエ A と意志は、ピッチの中心を乱すように見えると思います。スタートから Diomande を見たい別の理由ですが、モウリーニョ彼のために – 明らかに – 守備中ミッドフィルダーなしで行われます. 楽しみにしています。Curtis Jones 獲得を問い合わせ",
       "title_original": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
       "summary_original": "Champions League: Lille v Betis, Dortmund v Villarreal Carabao Cup: Palace v Middlesbrough, Sunderland v Hull Live scores | Read Football Daily | And email Daniel Inter, meanwhile, look solid. They’ve won three from three in Serie A, and will, I think, look to clutter the centre of the pitch. That’s another reason I’d like to have seen Diomande on from the start, but Mourinho has – unusually for him – done without a defensively-minded midfielder. I’m looking forward to seeing how Curtis Jones do",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
-      "published": "Tue, 08 Sep 2026 20:08:38 GMT",
+      "published": "Tue, 08 Sep 2026 20:25:16 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -2539,7 +2540,7 @@
       "summary_original": "⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scores | Real Madrid v Inter and more | Email Niall Jamie Jackson has noticed something strange on Uefa’s official team sheet … It’s also finished AEK Athens 1-0 LASK Linz in the battle of the acronyms* – you can follow all the other Champions League and Carabao Cup action with Daniel Harris. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
-      "published": "Tue, 08 Sep 2026 20:09:31 GMT",
+      "published": "Tue, 08 Sep 2026 20:24:46 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -2548,9 +2549,9 @@
     },
     {
       "title": "ファーストハーフトトレブルパワーアストン・ヴィラ獲得を問い合わせチャンピオンズリーグで勝つクラブ・ブルッヘ",
-      "summary": "アストン・ヴィラ43 分後3〜3 分が経ちましたが、シーズンの最初の勝利のために汗をかくために作られました。チャンピオンズリーグに対するオープナークラブ・ブルッヘ. ジョン・マッギン, 誰が Villa belatedly が彼らの季節を上り、去った9 月から実行したときに唯一の目標を打ったボローニャ, ゴールの前のスコアリングを開く Emi Buendía 初めての方へ Nicolas Jackson 半ばにヴィラを外すように見えました。The Belgian 側はヴィラの帰り以来の馴染みの葉になりました",
+      "summary": "アストン・ヴィラ43 分後3〜3 分が経ちましたが、シーズンの最初の勝利のために汗をかくために作られました。チャンピオンズリーグオープンクラブ・ブルッヘ. ジョン・マッギン, 誰が Villa belatedly が彼らの季節を上り、去った9 月から実行したときに唯一の目標を打ったボローニャ、前にスコアリングを開けて下さい Emi Buendía 初めての目標 Nicolas Jackson クラレットと青は、半時間にヴィラを視界から出して登場しました。The Belgian 側面は VIE 以来の馴染みの葉になりました",
       "title_original": "First-half treble powers Aston Villa to Champions League win at Club Brugge",
-      "summary_original": "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, emerging victorious from an entertaining Champions League opener against Club Brugge. John McGinn, who struck the only goal when Villa belatedly got their season up and running last September against Bologna , opened the scoring before goals from Emi Buendía and a first for Nicolas Jackson appeared to put Villa out of sight at half-time. The Belgian side have become familiar foes since Villa return",
+      "summary_original": "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, emerging victorious from an entertaining Champions League opener with Club Brugge. John McGinn, who struck the only goal when Villa belatedly got their season up and running last September against Bologna , opened the scoring before Emi Buendía and a first goal for Nicolas Jackson in claret and blue appeared to put Villa out of sight at half-time. The Belgian side have become familiar foes since Vi",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/08/club-brugge-aston-villa-champions-league-match-report",
       "published": "Tue, 08 Sep 2026 18:54:02 GMT",
@@ -2617,9 +2618,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アレクシス・マック・アリスター「悲しい」リヴァプール新しい契約を提供しなかった",
+      "title": "アレクシス・マック・アリスター「悲しい」リヴァプール新しい契約を提供していない",
       "summary": "ミッドフィルダーは、夏のクラブを離れるチャンスを拒絶した「私は最後の日まで100%与えます」と27 歳アレクシス・マック・アリスター彼が「悲しい」と感じていると言いました。リヴァプール新規契約を解除し、この夏を離れるチャンスを却下した。Mac Allister 契約状況を前から明らかにしたリヴァプール獲得を問い合わせチャンピオンズリーグに対するオープナーアトレティコ・マドリード獲得を問い合わせ Wednesday. The Argentina ミッドフィルダーは、彼の移籍に2 年残っていて、彼は効果があると信じています",
-      "title_original": "Alexis Mac Allister ‘very sad’ Liverpool did not offer him a new contract",
+      "title_original": "Alexis Mac Allister ‘very sad’ Liverpool have not offered him a new contract",
       "summary_original": "Midfielder rejected chance to leave the club in summer ‘ I will give 100% until my last day’ says 27-year-old Alexis Mac Allister has said he feels “very sad” after Liverpool declined to offer him a new contract and admitted he rejected the chance to leave this summer. Mac Allister revealed unhappiness over his contract situation before Liverpool’s Champions League opener against Atlético Madrid on Wednesday. The Argentina midfielder has two years remaining on his deal and believes he is effecti",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/08/alexis-mac-allister-sad-liverpool-did-not-offer-new-contract",
@@ -2939,6 +2940,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アーセナル最新:アルテタ'tough' よりも高い自信を言うナポリショーダウン",
+      "summary": "",
+      "title_original": "Arsenal latest: Arteta says confidence high ahead of 'tough' Napoli showdown",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Tue, 08 Sep 2026 21:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アストン・ヴィラ攻撃はスリリングな勝利でクリックしますクラブ・ブルッヘ",
       "summary": "アストン・ヴィラスコアリングの心配を終わらせ、開始するためにすばらしい攻撃表示を作り出して下さいチャンピオンズリーグスリリングでキャンペーン 3-2 勝つクラブ・ブルッヘ.",
       "title_original": "Aston Villa attack clicks in thrilling win over Club Brugge",
@@ -2981,6 +2996,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ボウンパットウェストハム前回; 聖人の勝利 -Championship LIVE!",
+      "summary": "",
+      "title_original": "Bowen puts West Ham ahead again; Saints win - Championship LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/live/560559",
+      "published": "Tue, 08 Sep 2026 19:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "EFL カップスカイでライブ! ボーンマス,クリスタル・パレスクルージング -FIVE PL アクションにおけるチーム",
       "summary": "",
       "title_original": "Carabao Cup LIVE on Sky! Bournemouth, Palace both cruising - FIVE PL teams in action",
@@ -2995,23 +3024,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウェストハムボルトンで戻ってヒット;シェフィールド・ユナイテッド FC, 聖人前 - チャンピオンシップオン Sky LIVE!",
+      "title": "マンチェスター・シティ勝ちますが、説得力がないポルトライブ!",
       "summary": "",
-      "title_original": "West Ham hit back at Bolton; Sheff Utd, Saints ahead - Championship on Sky LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/live/560559",
-      "published": "Tue, 08 Sep 2026 19:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "誰?ハーランドプレゼントマンチェスター・シティリードポルトライブ!",
-      "summary": "",
-      "title_original": "Guess who? Haaland gives Man City lead in Porto LIVE!",
+      "title_original": "Man City winning but not being convincing in Porto LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/fc-porto-vs-manchester-city/live/577600",
@@ -3201,20 +3216,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ボサとキルトは、メルボルンのオープナーで49 人のために戻ります",
-      "summary": "",
-      "title_original": "Bosa and Kittle return for 49ers in Melbourne opener",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nfl/live-blog/12040/13572639/nfl-news-trades-injuries-and-rumours-latest-updates-and-highlights-from-2026-pre-season-regular-season-playoffs-and-super-bowl",
-      "published": "Tue, 08 Sep 2026 08:13:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
