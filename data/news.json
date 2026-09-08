@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T06:31:02.236395+00:00",
+  "updated_at": "2026-09-08T06:48:50.120720+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1983,7 +1983,10 @@
     "Iva Jovic": "イバ・ヨビッチ",
     "Eddie Howe’s": "",
     "July Sporting": "",
-    "Bruno Guimarães Newcastle’s": ""
+    "Bruno Guimarães Newcastle’s": "",
+    "The Porto": "",
+    "Francesco Farioli": "",
+    "Roberta Picchi": ""
   },
   "items": [
     {
@@ -2015,6 +2018,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ノンリーグへチャンピオンズリーグ: ザ・ポルト上司 へ stun マンチェスター・シティ",
+      "summary": "ポルトログイン Francesco Farioli 最も高く評価されている若いマネージャーの1 つであり、火曜日に彼は充電しますチャンピオンズリーグ初めての方へ",
+      "title_original": "Non-league to Champions League: The Porto boss out to stun Man City",
+      "summary_original": "Porto boss Francesco Farioli is one of the most highly regarded young managers and on Tuesday he takes charge in the Champions League for the first time.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c072j1r4e2do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 06:32:51 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "目標はありませんが、Emery は ヴィラの前進の必要性時間を知っている",
       "summary": "アストン・ヴィラ開口部3 にスコアがなかったプレミアリーグゲーム - マネージャーの意志 Unai Emery 攻撃エッジを見つける?",
       "title_original": "No goals but Emery knows Villa's forwards need time",
@@ -2039,6 +2056,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "がん診断後のストライカーの契約を更新",
+      "summary": "イタリアンクラブコモが契約を刷新 Roberta Picchi 膀胱がんと診断された後。",
+      "title_original": "Como renew striker's contract after cancer diagnosis",
+      "summary_original": "Italian club Como renew the contract of forward Roberta Picchi after she is diagnosed with breast cancer.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5zw6k9630o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 06:43:20 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2071,20 +2102,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "誰が新しいかリヴァプールスポーツディレクター - そして、彼らが直面する問題は何ですか?",
-      "summary": "成功できる人材 Richard Hughes- 複数のタスクに直面してリヴァプール次のスポーツディレクター。",
-      "title_original": "Who will be new Liverpool sporting director - and what issues do they face?",
-      "summary_original": "The possible candidates to succeed Richard Hughes - plus the numerous tasks facing Liverpool's next sporting director.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yw73ppwd1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 15:52:04 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "チエサは去るかもしれないリヴァプール- 火曜日のゴシップ",
       "summary": "Federico Chiesa's 未来へリヴァプール間違いなく、ジェイドン・サンチョに戻るかもしれないプレミアリーグ, レアル・マドリードの Endrick は、インテルイタリア、その他",
       "title_original": "Chiesa might leave Liverpool - Tuesday's gossip",
@@ -2109,20 +2126,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "£725 ゲームショーがキックスタートする方法チャンピオンズリーグコーチのキャリア",
-      "summary": "リトアニアのコーチ Valdas Dambrauskas 自分の歯を英語のサッカーで切って、今度は戻りますチャンピオンズリーグサバと共に。",
-      "title_original": "How £725 game-show winnings kick-started Champions League coach's career",
-      "summary_original": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 08:04:12 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2221,6 +2224,34 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "誰が新しいかリヴァプールスポーツディレクター - そして、彼らが直面する問題は何ですか?",
+      "summary": "成功できる人材 Richard Hughes- 複数のタスクに直面してリヴァプール次のスポーツディレクター。",
+      "title_original": "Who will be new Liverpool sporting director - and what issues do they face?",
+      "summary_original": "The possible candidates to succeed Richard Hughes - plus the numerous tasks facing Liverpool's next sporting director.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yw73ppwd1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 15:52:04 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "£725 ゲームショーがキックスタートする方法チャンピオンズリーグコーチのキャリア",
+      "summary": "リトアニアのコーチ Valdas Dambrauskas 自分の歯を英語のサッカーで切って、今度は戻りますチャンピオンズリーグサバと共に。",
+      "title_original": "How £725 game-show winnings kick-started Champions League coach's career",
+      "summary_original": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 08:04:12 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2344,34 +2375,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cdx05qpn0kvo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 15:43:08 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウィリアムズとシェハン参加 Bellamy's Wales スタッフ",
-      "summary": "Ex-Wales キャプテン Ashley Williams そして元 Swansea の上司 Alan Sheehan 参加申し込み Craig Bellamy's 奥の部屋スタッフ前 Wales' Nations League キャンペーン",
-      "title_original": "Williams and Sheehan join Bellamy's Wales staff",
-      "summary_original": "Ex-Wales captain Ashley Williams and former Swansea boss Alan Sheehan join Craig Bellamy's backroom staff before Wales' Nations League campaign.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq63mm9vzedo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 14:00:09 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「ギャンブル&推測」 - グレーはハイブススラムプに直面",
-      "summary": "Hibernian ヘッドコーチデヴィッド・グレイ drab 敗北後の圧力が上昇している St Johnstone 日曜日、しかし、最近の週に何が間違っていたのですか?",
-      "title_original": "'Gambling & guessing' - Gray faces up to Hibs slump",
-      "summary_original": "Hibernian head coach David Gray is under increasing pressure after a drab defeat at St Johnstone on Sunday, but what has gone wrong in recent weeks?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czxzwd417x0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 07:23:20 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
