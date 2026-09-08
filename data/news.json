@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T22:37:32.191496+00:00",
+  "updated_at": "2026-09-08T22:50:33.755977+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2121,7 +2121,10 @@
     "Ayyoub Bouaddi": "アイユーブ・ブアディ",
     "Carabao Cup. Joe Willock": "",
     "Ethan Erhahon’s": "",
-    "Osaka's US Open": ""
+    "Osaka's US Open": "",
+    "José Mourinho’s": "",
+    "Real Madrid. Just": "",
+    "Henrikh Mkhitaryan": "ヘンリク・ムヒタリアン"
   },
   "items": [
     {
@@ -2149,6 +2152,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウェストハムチャンピオンシップのトップ - 彼らは後ろに残って準備ができていますか?",
+      "summary": "列で3 勝、テーブルの上、クラブで統一 - ありますウェストハム過去を後ろに残してピッチを外す準備はできましたか?",
+      "title_original": "West Ham go top of Championship - are they ready to leave past behind?",
+      "summary_original": "Three wins in a row, top of the table, unity at the club - are West Ham ready to leave the past behind on and off the pitch?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp80znxj2dmo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 22:38:58 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2293,34 +2310,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "McTominay の心臓の手順「完全な成功」",
-      "summary": "ナポリ獲得を問い合わせ Scott McTominay's 心臓手術は「完全な成功を呼びます」と、今月のトレーニングを再開するためにスコットランドのミッドフィルダーを期待します。",
-      "title_original": "McTominay's heart procedure 'a complete success'",
-      "summary_original": "Napoli say Scott McTominay's heart surgery \"was a complete success\" and expect the Scotland midfielder to resume training this month.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 12:28:16 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レンジャーズシャンクランドを最大4 ヶ月失う",
-      "summary": "レンジャーズキャプテン Lawrence Shankland ハムストの涙とスコットランドが進むと手術が取れるので、最大4 ヶ月かかります。",
-      "title_original": "Rangers lose Shankland for up to four months",
-      "summary_original": "Rangers captain Lawrence Shankland will be out for up to four months because of a hamstring tear and the Scotland forward may have surgery.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 13:30:33 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Odegaard 'desire' でチェルシー勝つ感動ロオニー",
       "summary": "デイパンディットのマッチウェイン・ルーニー分析方法マルティン・ウーデゴールゲームをそのまま制御アーセナルフェイスチェルシー獲得を問い合わせエミレーツ・スタジアム.",
       "title_original": "Odegaard 'desire' in Chelsea win impresses Rooney",
@@ -2447,6 +2436,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "レンジャーズシャンクランドを最大4 ヶ月失う",
+      "summary": "レンジャーズキャプテン Lawrence Shankland ハムストの涙とスコットランドが進むと手術が取れるので、最大4 ヶ月かかります。",
+      "title_original": "Rangers lose Shankland for up to four months",
+      "summary_original": "Rangers captain Lawrence Shankland will be out for up to four months because of a hamstring tear and the Scotland forward may have surgery.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 13:30:33 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "McTominay の心臓の手順「完全な成功」",
+      "summary": "ナポリ獲得を問い合わせ Scott McTominay's 心臓手術は「完全な成功を呼びます」と、今月のトレーニングを再開するためにスコットランドのミッドフィルダーを期待します。",
+      "title_original": "McTominay's heart procedure 'a complete success'",
+      "summary_original": "Napoli say Scott McTominay's heart surgery \"was a complete success\" and expect the Scotland midfielder to resume training this month.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 12:28:16 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "古き良きファンに席をあげるコモチーフチャンピオンズリーグデビュー",
       "summary": "コモ社長 Mirwan Suwarso クラブのチケットは、複数のディレクターが配布しています。チャンピオンズリーグ高齢者サポーターが出席できるようにデビュー。",
       "title_original": "Como chiefs giving up seats to older fans for Champions League debut",
@@ -2517,38 +2534,24 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "がん診断後のストライカーの契約を更新",
-      "summary": "イタリアンクラブコモが契約を刷新 Roberta Picchi 膀胱がんと診断された後。",
-      "title_original": "Como renew striker's contract after cancer diagnosis",
-      "summary_original": "Italian club Como renew the contract of forward Roberta Picchi after she is diagnosed with breast cancer.",
+      "title": "フォローする方法チャンピオンズリーグ BBC について",
+      "summary": "ザ・オブ・ザ・チャンピオンズリーグ今週、BBC のアクションのベストのハイライトを聞き、視聴することができます。",
+      "title_original": "How to follow the Champions League on the BBC",
+      "summary_original": "The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5zw6k9630o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 06:43:20 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 13:50:27 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Wycombe sack ボス Duff 後に winless スタート",
-      "summary": "ウィコム・ワンダラーズ FC サック Michael Duff アシスタント Alex Morris ちょうど5 つのゲームに League One 季節限定",
-      "title_original": "Wycombe sack boss Duff after winless start",
-      "summary_original": "Wycombe Wanderers sack Michael Duff and his assistant Alex Morris just five games into the League One season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr4vwgydyvpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 15:16:25 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レアル・マドリード打ち勝つためにインテル獲得を問い合わせモウリーニョ’s ビッグチャンピオンズリーグディナー",
-      "summary": "時々、サッカーは愚かで、時にはそれがより楽しいです。37 ショットとゴールキーパーズの共有サーテンは、それらの間で保存され、そのうちのいくつかは、ジョゼ・モウリーニョ獲得を問い合わせレアル・マドリード前のチームを打つ方法を見つけましたインテル最初からチャンピオンズリーグ2 番目の呪文の夜。正確に質問しないでください。おそらくダニを避けるティボー・クルトワ, その驚異の保存 に 89 分 それらが最初半分の目標からそれら与えられた利点に保持されている見ましたキリアン・エムバペ",
-      "title_original": "Real Madrid cling on to beat Inter on Mourinho’s big Champions League night",
-      "summary_original": "Sometimes football is silly and sometimes it is more fun for it. On a night when there were 37 shots and the goalkeepers shared thirteen saves between them, some of them absurd, José Mourinho’s Real Madrid found a way to beat his former team Inter in his first Champions League night of his second spell. Just don’t ask exactly how. Except perhaps to cite Thibaut Courtois, whose astonishing save in the 89th minute saw them hold on to the advantage given them by first-half goals from Kylian Mbappé ",
+      "title": "レアル・マドリード打ち負かす方法インテル獲得を問い合わせモウリーニョビッグナイト",
+      "summary": "時々、サッカーは愚かで、時々それはあまり意味をしない、そして時々それはそれのために楽しいです。37 枚のショットとゴールキーパーズのシェアは、時折それらの間で保存されます。ジョゼ・モウリーニョ’s の現在の側面は彼の元のチームを打ちますインテル獲得を問い合わせチャンピオンズリーグに戻るレアル・マドリード. 正確には尋ねません。おそらくダニを避けるティボー・クルトワから89 分停止を驚かせている、ヘンリク・ムヒタリアン多く説明し、それらを許可, ちょうど, 2 に保持するために",
+      "title_original": "Real Madrid somehow cling on to beat Inter on Mourinho’s big night",
+      "summary_original": "Sometimes football is silly, sometimes it doesn’t make much sense, and sometimes it’s fun for it. On a night when there were 37 shots and the goalkeepers shared thirteen occasionally absurd saves between them, José Mourinho’s current side beat his former team Inter on his Champions League return to Real Madrid. Just don’t ask exactly how. Except perhaps to cite Thibaut Courtois, whose astonishing 89th-minute stop from Henrikh Mkhitaryan explained much and allowed them, just, to hold on to the 2-",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report",
       "published": "Tue, 08 Sep 2026 21:18:12 GMT",
