@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T09:54:01.496762+00:00",
+  "updated_at": "2026-09-08T10:06:30.474615+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1998,13 +1998,15 @@
     "The Philadelphia Union": "",
     "United States U-": "",
     "Oracle Red Bull Racing": "",
-    "Madrid Metro": "マドリード地下鉄"
+    "Madrid Metro": "マドリード地下鉄",
+    "Turkish Airlines": "ターキッシュ エアラインズ",
+    "Standard Chartered": ""
   },
   "items": [
     {
-      "title": "チャンピオンズリーグ誰がお気に入りですか?プレイヤーは誰ですか?",
+      "title": "2026-27 で見たい人やプレイヤーがいる人チャンピオンズリーグ?",
       "summary": "ザ・オブ・ザ・チャンピオンズリーグバックと BBC スポーツは、お気に入りが専門家からタイトルプラス予測を獲得するかどうかを見てみましょう。",
-      "title_original": "Champions League returns - who are favourites and players to watch?",
+      "title_original": "Who are favourites and players to watch in 2026-27 Champions League?",
       "summary_original": "The Champions League is back and BBC Sport takes a look at who the favourites are to win the title plus predictions from the experts.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss",
@@ -2128,20 +2130,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "2027 年の試用前のクラストに残るバートン",
-      "summary": "ゴルフクラブでアサルトを認めた元サッカー選手は、ベールを拒否しました。",
-      "title_original": "Barton to remain in custody before 2027 trial",
-      "summary_original": "The former footballer, who is accused of an assault at a golf club, has been refused bail.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/c780nz2669do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 14:43:32 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "チエサは去るかもしれないリヴァプール- 火曜日のゴシップ",
       "summary": "Federico Chiesa's 未来へリヴァプール間違いなく、ジェイドン・サンチョに戻るかもしれないプレミアリーグ, レアル・マドリードの Endrick は、インテルイタリア、その他",
       "title_original": "Chiesa might leave Liverpool - Tuesday's gossip",
@@ -2254,13 +2242,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "2027 年の試用前のクラストに残るバートン",
+      "summary": "ゴルフクラブでアサルトを認めた元サッカー選手は、ベールを拒否しました。",
+      "title_original": "Barton to remain in custody before 2027 trial",
+      "summary_original": "The former footballer, who is accused of an assault at a golf club, has been refused bail.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/c780nz2669do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 14:43:32 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Wycombe sack ボス Duff 後に winless スタート",
       "summary": "ウィコム・ワンダラーズ FC サック Michael Duff アシスタント Alex Morris ちょうど5 つのゲームに League One 季節限定",
       "title_original": "Wycombe sack boss Duff after winless start",
       "summary_original": "Wycombe Wanderers sack Michael Duff and his assistant Alex Morris just five games into the League One season.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr4vwgydyvpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 09:27:34 GMT",
+      "published": "Tue, 08 Sep 2026 09:58:55 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2324,20 +2326,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Belgian FA まだ欲しいバログン禁止回答",
-      "summary": "Belgium's FA それがまだ理由についての答えを望んでいると言うフォラリン・バログン彼らと対戦することができました World Cup.",
-      "title_original": "Belgian FA still wants Balogun ban answers",
-      "summary_original": "Belgium's FA says it still wants answers about why Folarin Balogun was allowed to play against them at the World Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z03nnmnko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 10:32:29 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "新しいストライカー、心配なし - Havertz と Odegaard トーメントチェルシー",
       "summary": "3 つのゲームから9 ポイント、1 つの目標は、ステップアップし、大きな選手 - ありますアーセナルレースの残りの部分にまだ先立ちプレミアリーグタイトル?",
       "title_original": "No new striker, no worries - Havertz and Odegaard torment Chelsea",
@@ -2349,6 +2337,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Belgian FA まだ欲しいバログン禁止回答",
+      "summary": "Belgium's FA それがまだ理由についての答えを望んでいると言うフォラリン・バログン彼らと対戦することができました World Cup.",
+      "title_original": "Belgian FA still wants Balogun ban answers",
+      "summary_original": "Belgium's FA says it still wants answers about why Folarin Balogun was allowed to play against them at the World Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z03nnmnko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 10:32:29 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2376,20 +2378,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ミッドフィールドの2 つの右端 - はチェルシー3億4900万ポンド が費やしたにもかかわらずショート?",
-      "summary": "チェルシー日曜日 2-1 勝者による敗北アーセナルミッドフィールドで互いに2 つの右端を並べて - 彼らはどのようにここに取得しましたか?",
-      "title_original": "Two right-backs in midfield - are Chelsea short despite £349m spent?",
-      "summary_original": "Chelsea ended Sunday's 2-1 defeat by champions Arsenal with two right-backs alongside each other in midfield - how did they get here?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyegw2re82o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 19:31:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2422,6 +2410,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チャンピオンズアーセナル後ろからビートに来るチェルシー",
+      "summary": "チャンピオン獲得アーセナル後ろから来て大衆を倒すチェルシープリズムで ロンドン ダービー アットエミレーツ・スタジアム.",
+      "title_original": "Champions Arsenal come from behind to beat Chelsea",
+      "summary_original": "Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 18:58:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "David Squires 獲得を問い合わせリオネル・メッシアルゼンチンの退職後、彼の本当の情熱を楽しむ",
       "summary": "私たちの漫画家は、彼の時間に呼び出した時間後にサッカーが素晴らしいかもしれないことを想像していますインテル国民のキャリア 漫画を買う | デビッドのお気に入りの作品の一部 そして、彼の最新の本、箱のチャオス: 今それを得る 続きを読みます...",
       "title_original": "David Squires on … Lionel Messi enjoying his true passion after Argentina retirement",
@@ -2436,16 +2438,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チャンピオンズリーグ新しいマネージャーのための肥沃な地面です - しかし、ノウハウは後で重要であることができます",
-      "summary": "ルイス・エンリケ, ヴァンサン・コンパニそして、ミケル・アルテタ彼らの側面を勝利に導くためにお気に入りの中にありますが、最近の予定は、A delve をカウントしないようにしてくださいチャンピオンズリーグマネージャーがクラブで最初のシーズンで勝つことができること、そしてその経験が重要であることを示しています。それを作るインテル esting は、新たに任命されたコーチから15 年間で1 つまで、2026〜27 の作物の範囲の Tenures を与えられた。いくつかは、C で100 以上のマッチを管理しています",
-      "title_original": "Champions League is fertile ground for new managers – but knowhow could be key later on",
-      "summary_original": "Luis Enrique, Vincent Kompany and Mikel Arteta are among the favourites to lead their sides to victory, but more recent appointments should not be counted out A delve into the history of the Champions League shows that managers can and do win in their first season at a club, but also that experience matters. Which makes it interesting, given that tenures for the 2026‑27 crop range from newly appointed coaches to one with almost 15 years in charge. Some have managed more than 100 matches in the c",
+      "title": "リヴァプール同意する 6000万ポンド-a-year シャツのスポンサーシップ契約ターキッシュ エアラインズ",
+      "summary": "ターキッシュ エアラインズ交換する Standard Chartered から 2027 ディールは最も有利であるかもしれないプレミアリーグ歴史・歴史リヴァプール新しいシャツのスポンサーシップ契約を発表したターキッシュ エアラインズクラブに年間6000万ポンド を超える価値があります。5 年間の移籍は3億ポンド 以上を生成しますリヴァプール2027-28 シーズンのスタートから効果が出ます。ターキッシュ エアラインズ交換する Standard Chartered, リヴァプール’ s のメイン クラブ パートナー 以来 2010, 男性の前, 女性とアカデミー マット",
+      "title_original": "Liverpool agree £60m-a-year shirt sponsorship deal with Turkish Airlines",
+      "summary_original": "Turkish Airlines to replace Standard Chartered from 2027 Deal may be most lucrative in Premier League history Liverpool have announced a new shirt sponsorship deal with Turkish Airlines worth in excess of £60m a year to the club. The five-year deal will generate more than £300m for Liverpool when it comes into effect from the start of the 2027-28 season. Turkish Airlines will replace Standard Chartered, Liverpool’s main club partner since 2010, on the front of the men’s, women’s and academy matc",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/champions-league-managers-luis-enrique-vincent-kompany-mikel-arteta-jose-mouriinho",
-      "published": "Tue, 08 Sep 2026 07:00:30 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
+      "url": "https://www.theguardian.com/football/2026/sep/08/liverpool-agree-shirt-sponsorship-deal-turkish-airlines",
+      "published": "Tue, 08 Sep 2026 09:41:41 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2464,6 +2466,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チャンピオンズリーグ新しいマネージャーのための肥沃な地面です - しかし、ノウハウは後で重要であることができます",
+      "summary": "ルイス・エンリケ, ヴァンサン・コンパニそして、ミケル・アルテタ彼らの側面を勝利に導くためにお気に入りの中にありますが、最近の予定は、A delve をカウントしないようにしてくださいチャンピオンズリーグマネージャーがクラブで最初のシーズンで勝つことができること、そしてその経験が重要であることを示しています。それを作るインテル esting は、新たに任命されたコーチから15 年間で1 つまで、2026〜27 の作物の範囲の Tenures を与えられた。いくつかは、C で100 以上のマッチを管理しています",
+      "title_original": "Champions League is fertile ground for new managers – but knowhow could be key later on",
+      "summary_original": "Luis Enrique, Vincent Kompany and Mikel Arteta are among the favourites to lead their sides to victory, but more recent appointments should not be counted out A delve into the history of the Champions League shows that managers can and do win in their first season at a club, but also that experience matters. Which makes it interesting, given that tenures for the 2026‑27 crop range from newly appointed coaches to one with almost 15 years in charge. Some have managed more than 100 matches in the c",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/08/champions-league-managers-luis-enrique-vincent-kompany-mikel-arteta-jose-mouriinho",
+      "published": "Tue, 08 Sep 2026 07:00:30 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "点火する準備ができて Emery アストン・ヴィラの Season at's シーズンクラブ・ブルッヘ馴染みの遅い開始の後で",
       "summary": "マネージャーは1 つのポイントを取っているにもかかわらず、落ち着いて落ち着いて3 を開くのに目標を絞らないままプレミアリーグゲーム Unai Emery パンクしない。タッチラインですべてのボールを蹴るが、閉じたドアの後ろに、アストン・ヴィラ’ の選手は、彼は部屋の中で最も落ち着きのある人であることに使われます, 敗北よりも勝利の後に定期的により要求.ジョン・マッギンヴィラマネージャーが今のところ4 年半ぶりに亡くなり、キャラクターを壊し、ハーフタイムで冷静に失った話を語るインテル val ない o",
       "title_original": "Emery ready to ignite Aston Villa’s season at Club Brugge after familiar slow start",
@@ -2471,20 +2487,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/07/emery-ready-to-ignite-aston-villas-season-at-club-brugge-after-familiar-slow-start",
       "published": "Mon, 07 Sep 2026 20:35:03 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「安全・安心・サービス」:警察の舞台裏アーセナル. .チェルシー",
-      "summary": "エミレーツでの操作の一部を顔認識し、ダースインシデントと2 つの逮捕を関与させる コースは、深いときにサイレントですエミレーツ・スタジアム’s ボウール,Chief Inspector Pete Dearden’s 説明会が始まります。アーセナル'4.30pm キックオフ対チェルシーしかし、フィクスチャーはロンドンのダービーとして意義を持ち、プレミアリーグチャンピオンは現実的な挑戦者をホスティングしています。Dearden は、首都の警察の公序良俗命令の上級役員です",
-      "title_original": "‘Safety, security and service’: behind the scenes with police at Arsenal v Chelsea",
-      "summary_original": "Facial recognition and spotters part of operation at Emirates that involved a dozen incidents and two arrests The concourses are silent when, deep in the Emirates Stadium’s bowels, Chief Inspector Pete Dearden’s briefing begins. Arsenal’s 4.30pm kick-off against Chelsea is still hours away but the fixture carries significance as a London derby and because the Premier League champions are hosting a realistic challenger. Dearden is a senior officer in the Metropolitan police’s public order command",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/07/safety-security-and-service-behind-the-scenes-with-police-at-arsenal-v-chelsea",
-      "published": "Mon, 07 Sep 2026 18:00:14 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2503,6 +2505,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「安全・安心・サービス」:警察の舞台裏アーセナル. .チェルシー",
+      "summary": "エミレーツでの操作の一部を顔認識し、ダースインシデントと2 つの逮捕を関与させる コースは、深いときにサイレントですエミレーツ・スタジアム’s ボウール,Chief Inspector Pete Dearden’s 説明会が始まります。アーセナル'4.30pm キックオフ対チェルシーしかし、フィクスチャーはロンドンのダービーとして意義を持ち、プレミアリーグチャンピオンは現実的な挑戦者をホスティングしています。Dearden は、首都の警察の公序良俗命令の上級役員です",
+      "title_original": "‘Safety, security and service’: behind the scenes with police at Arsenal v Chelsea",
+      "summary_original": "Facial recognition and spotters part of operation at Emirates that involved a dozen incidents and two arrests The concourses are silent when, deep in the Emirates Stadium’s bowels, Chief Inspector Pete Dearden’s briefing begins. Arsenal’s 4.30pm kick-off against Chelsea is still hours away but the fixture carries significance as a London derby and because the Premier League champions are hosting a realistic challenger. Dearden is a senior officer in the Metropolitan police’s public order command",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/safety-security-and-service-behind-the-scenes-with-police-at-arsenal-v-chelsea",
+      "published": "Mon, 07 Sep 2026 18:00:14 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2527,20 +2543,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/07/chelseas-midfield-a-headache-for-alonso-after-arsenal-press-advantage",
       "published": "Mon, 07 Sep 2026 15:41:54 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Fitter、happier、より生産的:アーセナル始めるのが難しい |Jonathan Wilson",
-      "summary": "まだまだ早いですが、ミケル・アルテタ’ s 側は、前シーズンにそれらを除外する権威と新鮮さで再生しています ここに私たちの無料のニュースレターにサインアップ 3 つのリーグゲームがプレーし、3 つのゲームが勝ちました。獲得を問い合わせアーセナルこの季節は、いつまでも良く始まったばかりです。マンチェスター・シティ, 自分の2 つの最も深刻な挑戦者の一つであるように見える人, ポイントをドロップしました. しかし、それはちょうど結果についてではありません:アーセナルこれらの3 つのゲームのそれぞれに、より快適に、より良い側面を",
-      "title_original": "Fitter, happier, more productive: Arsenal could hardly have started better | Jonathan Wilson",
-      "summary_original": "It’s still very early but Mikel Arteta’s side are playing with an authority and freshness that eluded them at times last season Sign up for our free newsletter here Three league games played, three games won . For Arsenal this season could only have started better if Manchester City, who look like being one of their two most serious challengers, had dropped points. But it’s not just about results: Arsenal have been comfortably the better side in each of those three games, approaching each of the",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/07/arsenals-season-could-hardly-have-started-better",
-      "published": "Mon, 07 Sep 2026 14:34:31 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2758,6 +2760,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Fitter、happier、より生産的:アーセナル始めるのが難しい |Jonathan Wilson",
+      "summary": "まだまだ早いですが、ミケル・アルテタ’ s 側は、前シーズンにそれらを除外する権威と新鮮さで再生しています ここに私たちの無料のニュースレターにサインアップ 3 つのリーグゲームがプレーし、3 つのゲームが勝ちました。獲得を問い合わせアーセナルこの季節は、いつまでも良く始まったばかりです。マンチェスター・シティ, 自分の2 つの最も深刻な挑戦者の一つであるように見える人, ポイントをドロップしました. しかし、それはちょうど結果についてではありません:アーセナルこれらの3 つのゲームのそれぞれに、より快適に、より良い側面を",
+      "title_original": "Fitter, happier, more productive: Arsenal could hardly have started better | Jonathan Wilson",
+      "summary_original": "It’s still very early but Mikel Arteta’s side are playing with an authority and freshness that eluded them at times last season Sign up for our free newsletter here Three league games played, three games won . For Arsenal this season could only have started better if Manchester City, who look like being one of their two most serious challengers, had dropped points. But it’s not just about results: Arsenal have been comfortably the better side in each of those three games, approaching each of the",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/arsenals-season-could-hardly-have-started-better",
+      "published": "Mon, 07 Sep 2026 14:34:31 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "WSL の話ポイント:クリスタル・パレス置換の nightmare の後に疑わしい結果,アーセナルサイン輝き",
       "summary": "プロモートされたサイドのスリリングな勝利は、4 つの置換窓を使用していた後に上回ることができますジョージア・スタンウェイ方法を示す Gunners Kirsty Howat’s 深みのある60 秒のカキオアディショナルタイム思い出に残る一日だったものを台無しにできるクリスタル・パレストップフライトに戻る 圧倒的な1-0 勝利エヴァートン祝われました。Jo Potter そして、彼女の選手は、その喜びは、もはや心配と不満に置き換えられただろう。On Sunday 夕方 夕方 WSL Football 明らかにされた th",
       "title_original": "WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine",
@@ -2797,20 +2813,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「ノイズは信じられない」:メキシコ v イングランドのレフリーのビューWorld Cup",
-      "summary": "イングランドのマネージャートーマス・トゥヘル fiery last-16 tie で「ちょうど十分ではない」の受取と呼ばれる。Now Alireza Faghani 彼のイベントのバージョンを与える 7 月5 日午後6 時メキシコシティと Alireza Faghani、48 歳オーストラリアイランのロッカールームに眠っていた、いびき。アシスタントは音楽を下げました。コンクリート壁を通した90,000 近くのファンのマフラーにはなかった Estadio Azteca 翌朝まで眠れる。ファガニは",
-      "title_original": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
-      "summary_original": "England’s manager Thomas Tuchel called the officiating ‘just not good enough’ in the fiery last-16 tie. Now Alireza Faghani gives his version of events It was 6pm on 5 July in Mexico City, and Alireza Faghani, a 48-year-old Australian-Iranian, was asleep in the locker room, snoring. His assistants had turned the music down. Had it not been for the muffled roar of nearly 90,000 fans through the concrete walls of the Estadio Azteca, he could have slept until the following morning. Faghani was the ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/world-cup-alireza-faghani-england-mexico-azteca",
-      "published": "Sat, 05 Sep 2026 05:00:29 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
