@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T23:06:11.174801+00:00",
+  "updated_at": "2026-09-08T23:24:02.405497+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2124,9 +2124,25 @@
     "Osaka's US Open": "",
     "José Mourinho’s": "",
     "Real Madrid. Just": "",
-    "Henrikh Mkhitaryan": "ヘンリク・ムヒタリアン"
+    "Henrikh Mkhitaryan": "ヘンリク・ムヒタリアン",
+    "Trent Alexander-Arnold": "トレント・アレクサンダー＝アーノルド",
+    "Real Madrid's": ""
   },
   "items": [
+    {
+      "title": "途中で再び - しかしモウリーニョアレクサンダー・アーノルドは「ミッドフィルダーではない」と言う",
+      "summary": "トレント・アレクサンダー＝アーノルドミッドフィールドでスタートレアル・マドリードの 勝つインテル- しかし、ジョゼ・モウリーニョそれは彼の最高の位置ではないと言う.",
+      "title_original": "In the middle again - but Mourinho says Alexander-Arnold 'not a midfielder'",
+      "summary_original": "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c980lgdrlzno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 23:14:36 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "ブーディは最初のスタートに感動 - 持っているマンチェスター・シティ'a gem' を見つけましたか?",
       "summary": "アイユーブ・ブアディ成熟して彼の年齢チャンピオンズリーグ初めてのパフォーマンスマンチェスター・シティ18 歳に獲得してクラブがとても気に入った理由を披露し始めます。",
@@ -2142,20 +2158,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ショットシャイから目撃まで - ヴィラは勝つ方法を見つけます",
-      "summary": "アストン・ヴィラついにシューティングブーツを見つけた3 ゴール獲得を問い合わせクラブ・ブルッヘ- しかし、彼らの勝利はまっすぐではありませんでした。",
-      "title_original": "From shot-shy to shoot on sight - Villa find a way to win",
-      "summary_original": "Aston Villa finally found their shooting boots with three goals at Club Brugge - but their win was not straightforward.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62j655pe81o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 20:55:18 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ウェストハムチャンピオンシップのトップ - 彼らは後ろに残って準備ができていますか?",
       "summary": "列で3 勝、テーブルの上、クラブで統一 - ありますウェストハム過去を後ろに残してピッチを外す準備はできましたか?",
       "title_original": "West Ham go top of Championship - are they ready to leave past behind?",
@@ -2166,6 +2168,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ショットシャイから目撃まで - ヴィラは勝つ方法を見つけます",
+      "summary": "アストン・ヴィラついにシューティングブーツを見つけた3 ゴール獲得を問い合わせクラブ・ブルッヘ- しかし、彼らの勝利はまっすぐではありませんでした。",
+      "title_original": "From shot-shy to shoot on sight - Villa find a way to win",
+      "summary_original": "Aston Villa finally found their shooting boots with three goals at Club Brugge - but their win was not straightforward.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62j655pe81o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 20:55:18 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2289,20 +2305,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cpwlqre0qy9o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 23:07:31 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Mac Allister'sad' なしリヴァプール契約オファー",
-      "summary": "リヴァプールミッドフィルダーアレクシス・マック・アリスター彼は提供されていない「非常に悲しい」と言っています新契約夏に休むには、クラブが「オプション」を持っていました。",
-      "title_original": "Mac Allister 'sad' at no Liverpool contract offer",
-      "summary_original": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered a new deal by the club and had \"options\" to leave in the summer.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 13:01:12 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2436,6 +2438,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Mac Allister'sad' なしリヴァプール契約オファー",
+      "summary": "リヴァプールミッドフィルダーアレクシス・マック・アリスター彼は提供されていない「非常に悲しい」と言っています新契約夏に休むには、クラブが「オプション」を持っていました。",
+      "title_original": "Mac Allister 'sad' at no Liverpool contract offer",
+      "summary_original": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered a new deal by the club and had \"options\" to leave in the summer.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 13:01:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "レンジャーズシャンクランドを最大4 ヶ月失う",
       "summary": "レンジャーズキャプテン Lawrence Shankland ハムストの涙とスコットランドが進むと手術が取れるので、最大4 ヶ月かかります。",
       "title_original": "Rangers lose Shankland for up to four months",
@@ -2531,20 +2547,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フォローする方法チャンピオンズリーグ BBC について",
-      "summary": "ザ・オブ・ザ・チャンピオンズリーグ今週、BBC のアクションのベストのハイライトを聞き、視聴することができます。",
-      "title_original": "How to follow the Champions League on the BBC",
-      "summary_original": "The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 13:50:27 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
