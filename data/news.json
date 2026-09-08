@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T16:28:52.388044+00:00",
+  "updated_at": "2026-09-08T16:42:42.314720+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2042,7 +2042,12 @@
     "Buffalo Bills": "バッファロー・ビルズ",
     "Joe Brady": "",
     "Josh Allen's": "",
-    "Sky Sports' Phoebe Schecter": ""
+    "Sky Sports' Phoebe Schecter": "",
+    "Charles Antaki": "",
+    "Pshaw. Whoever": "",
+    "Johnny Nelson": "ジョニー・ネルソン",
+    "Angela Stanford": "",
+    "Angel Yin": ""
   },
   "items": [
     {
@@ -2467,12 +2472,12 @@
     },
     {
       "title": "クラブ・ブルッヘ. .アストン・ヴィラ: チャンピオンズリーグ– ライブ",
-      "summary": "⚽ チャンピオンズリーグ BST キックオフライブスコア5.45pm からのお知らせ | Instagram でフォローしてください |Read Football Daily Villa’s フォローチャンピオンズリーグキャンペーン2 年前には旅行のカップルが含まれている Bruges. They リーグステージで1-0 を失った - 覚えている Tyrone Mings’ 奇妙なハンドボール – と 3-1 ラウンド 16. 歴史を掘り起こすチャンピオンズリーグマネージャーがクラブで最初のシーズンで勝つことができること、そしてその経験が重要であることを示しています。それを作るインテル esting, 与えられた",
+      "summary": "⚽ チャンピオンズリーグ BST キックオフライブスコア5.45pm からのお知らせ | Instagram でフォローしてください |Read Football Daily「ロブ、私はフラミングだ」と言います Charles Antaki、ポイントを補強するために、偶然に渡る septuagenarian を chinning。「絶対にフラミング」 何もしないクラブ・ブルッヘまたは古いアストン・ヴィラ– 方法によってそれらに幸運と、より良いチームが勝つかもしれない – いいえ、私のヤギを得たのは、私はメモを離れているように見えることです Gianni Infantino. 100,000 の表記だけか。Pshaw. Whoever だった",
       "title_original": "Club Brugge v Aston Villa: Champions League – live",
-      "summary_original": "⚽ Champions League news from the 5.45pm BST kick-off ⚽ Live scores | Follow us on Instagram | Read Football Daily Villa’s last Champions League campaign two years ago included a couple of trips to Bruges. They lost 1-0 in the league stage – remember Tyrone Mings’ strange handball – and won 3-1 in the round of 16. A delve into the history of the Champions League shows that managers can and do win in their first season at a club, but also that experience matters. Which makes it interesting, given ",
+      "summary_original": "⚽ Champions League news from the 5.45pm BST kick-off ⚽ Live scores | Follow us on Instagram | Read Football Daily “Rob, I’m fuming,” says Charles Antaki, casually chinning a passing septuagenarian to reinforce the point. “Absolutely fuming. Nothing to do with Club Brugge or dear old Aston Villa – good luck to them both by the way and may the better team win – no, what’s got my goat is that I seem to have been left off the memo about Gianni Infantino . Only 100,000 signatories? Pshaw. Whoever was",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
-      "published": "Tue, 08 Sep 2026 16:19:50 GMT",
+      "published": "Tue, 08 Sep 2026 16:35:12 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -2928,6 +2933,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ネルソン:毛皮対ホシュアは少ない可能性",
+      "summary": "Anthony Joshua 交渉で自分の地面に立ち向かう理由は、タイソン・フューリー戦い, 見ている「可能性が低い」, スカイスポーツの専門家は言うジョニー・ネルソン.",
+      "title_original": "Nelson: Fury vs Joshua is less and less likely",
+      "summary_original": "Anthony Joshua has 'every reason' to stand his ground in negotiations for the Tyson Fury fight, which is looking 'less and less likely', says Sky Sports expert Johnny Nelson.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13583203/tyson-fury-vs-anthony-joshua-is-less-and-less-likely-to-happen-says-johnny-nelson",
+      "published": "Tue, 08 Sep 2026 16:01:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "キャッシュ・アベントアストン・ヴィラ3 つの変更を対決するクラブ・ブルッヘライブ!",
       "summary": "",
       "title_original": "Cash absent as Aston Villa make three changes vs Club Brugge LIVE!",
@@ -2942,9 +2961,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! サバレンカは、四半期金融におけるタイトル防衛対ノスコバを継続",
+      "title": "US Open LIVE! 四半期フィナーズのノスコバにセットアップされたサバレンカ",
       "summary": "",
-      "title_original": "US Open LIVE! Sabalenka continues title defence vs Noskova in quarter-finals",
+      "title_original": "US Open LIVE! Sabalenka a set up on Noskova in quarter-finals",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13583196/us-open-live-scores-updates-news-results-and-video-with-aryna-sabalenka-and-frances-tiafoe-in-action-in-new-york",
@@ -2995,6 +3014,20 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Team USA 怪我の恐れを再生し、'tough'ヨーロッパを取る準備ができて",
+      "summary": "Team USA キャプテン Angela Stanford ログイン Angel Yin 対の特徴に合います Team Europe 今週は、Solheim Cup そして、彼女の側に戻って勝利を主張するオランダ.",
+      "title_original": "Team USA play down injury fears and ready to take down 'tough' Europe",
+      "summary_original": "Team USA captain Angela Stanford insists Angel Yin will be fit to feature against Team Europe this week at the Solheim Cup and has backed her side to claim away victory in the Netherlands.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13583024/solheim-cup-2026-team-usa-play-down-fitness-concern-over-angel-yin-and-relish-chance-to-take-down-tough-team-europe",
+      "published": "Tue, 08 Sep 2026 17:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3131,34 +3164,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13582746/solheim-cup-live-latest-news-build-up-highlights-as-anna-nordqvists-team-europe-host-team-usa-at-bernardus-golf",
       "published": "Tue, 08 Sep 2026 13:22:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "米国は、エッジに叙事詩欧州のカムバックを離れて保持 Junior Solheim Cup スリラー",
-      "summary": "Team USA 驚くべき最終日の戦いから開催 Team Europe 首尾よく保持するために Junior Solheim Cup 狭い13-11 で勝ちますオランダ.",
-      "title_original": "USA hold off epic Europe comeback to edge Junior Solheim Cup thriller",
-      "summary_original": "Team USA held off a remarkable final-day fightback from Team Europe to successfully retain the Junior Solheim Cup with a narrow 13-11 win in the Netherlands.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13583027/junior-solheim-cup-team-europe-produce-epic-singles-comeback-before-team-usa-close-out-13-11-win-at-bernardus-golf",
-      "published": "Tue, 08 Sep 2026 13:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Rybakina も 大阪 として 鄭 stuns wiatek 時 US Open",
-      "summary": "エレーナ・リバキナクルーズ全米オープンストレートセットの勝利で準決勝 Naomi Osaka 世界 No1 ランキングをトラックに押し続ける",
-      "title_original": "Rybakina too strong for Osaka as Zheng stuns Swiatek at US Open",
-      "summary_original": "Elena Rybakina cruised into the US Open quarter-finals with a straight-sets victory over Naomi Osaka to keep her push for the world No 1 ranking on track.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13582890/us-open-2026-qinwen-zheng-stages-epic-comeback-to-stun-iga-swiatek-and-reach-quarter-finals",
-      "published": "Mon, 07 Sep 2026 19:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
