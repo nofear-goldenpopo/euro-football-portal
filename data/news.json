@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T04:53:39.394253+00:00",
+  "updated_at": "2026-09-08T05:06:04.699373+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -1971,7 +1971,11 @@
     "Elena Rybakina": "エレーナ・リバキナ",
     "Manchester City No": "",
     "Federico Chiesa's": "",
-    "Real Madrid's Endrick": ""
+    "Real Madrid's Endrick": "",
+    "Kimi Antonelli's": "",
+    "The NFL's": "",
+    "Patrick Mahomes": "",
+    "Los Angeles": "ロサンゼルス"
   },
   "items": [
     {
@@ -2815,6 +2819,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "今日更新 Sky Sports Racing: Roadlesstravelled が chase デビュー で Bangor",
+      "summary": "Bangor-on-Dee 機能からアクションをジャンプ Sky Sports Racing 毎週火曜日",
+      "title_original": "Today on Sky Sports Racing: Roadlesstravelled makes chase debut at Bangor",
+      "summary_original": "Jumps action from Bangor-on-Dee features live on Sky Sports Racing on Tuesday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13582709/today-on-sky-sports-racing-jumps-action-from-bangor-on-dee-features-live-on-tuesday",
+      "published": "Tue, 08 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "なぜ F1 なのか優勝争いまだまだ...",
+      "summary": "Kimi Antonelli's 素晴らしいイタリアグランプリ優勝は、19 歳から勝利を収めた彼のタイトルライバルに心理的な打撃を上陸させたので、今年のチャンピオンシップで重要な瞬間のように感じました。",
+      "title_original": "Why the F1 title race is not over yet...",
+      "summary_original": "Kimi Antonelli's stunning Italian Grand Prix victory felt like a key moment in this year's championship as he landed a psychological blow on his title rivals by winning from 19th.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13582715/f1-title-race-why-championship-is-not-over-despite-spectacular-kimi-antonelli-win-at-italian-grand-prix",
+      "published": "Tue, 08 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ペーパー:マンチェスター・ユナイテッドモニタリングドルトムント星の Nmecha",
       "summary": "火曜日の新聞から噂を移籍するトップストーリー...",
       "title_original": "Papers: Man Utd monitoring Dortmund star Nmecha",
@@ -3025,6 +3057,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "NFL2026 年の最大のストーリー展開 - ラムススーパーチームワーク?",
+      "summary": "獲得を問い合わせロサンゼルス・ラムズスーパーチームによる返還 Patrick Mahomes2026 年の NFL シーズンに続く最大のストーリー展開をご案内します。Super Bowl61 インチロサンゼルス.",
+      "title_original": "The NFL's biggest storylines in 2026 - will Rams super-team work?",
+      "summary_original": "From a Los Angeles Rams super-team to the return of Patrick Mahomes, we guide you through some of the biggest storylines heading into the 2026 NFL season on the road to Super Bowl 61 in Los Angeles.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13580731/myles-garrett-patrick-mahomes-and-jesse-minter-the-nfls-biggest-storylines-on-road-to-super-bowl-61-in-los-angeles",
+      "published": "Tue, 08 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ブルンドルの評論家、アントネリ・フェアリーテール、ブルワーズ・ラッセル、フェラーリ「スキミッシュ」",
       "summary": "2026 フォーミュラ 1 車についてのあなたの感じが何であれ、それは割れていましたイタリアグランプリ、私が30 年にコメントするのに十分幸運だった非常に最高の1 つ。",
       "title_original": "Brundle's verdict on Antonelli fairytale, 'bruised' Russell and Ferrari 'skirmish'",
@@ -3046,48 +3092,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13580864/solheim-cup-mimi-rhodes-ready-to-fulfil-childhood-dream-for-team-europe-and-backs-anna-nordqvists-side-for-home-win",
       "published": "Mon, 07 Sep 2026 16:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "UNSEEN ANGLES! | 360 オンボードの Leclerc のクラッシュでイタリアグランプリ!",
-      "summary": "360 度の角度を振り返る Ferrari's Charles Leclerc's クラッシュでイタリアグランプリ.",
-      "title_original": "UNSEEN ANGLES! | 360 onboards of Leclerc's crash at Italian Grand Prix!",
-      "summary_original": "Watch back the 360-degree angle of Ferrari's Charles Leclerc's crash at the Italian Grand Prix.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582732/italian-gp-360-onboards-of-charles-leclercs-crash-at-the-italian-grand-prix",
-      "published": "Mon, 07 Sep 2026 11:12:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "19th〜1st | モンツァが勝つために、Antonelli が SHIFT に入れる方法を見る!",
-      "summary": "方法を見る Kimi Antonelli 第19 回から第1 回へ転換。イタリアグランプリ.",
-      "title_original": "19th to 1st | Watch how Antonelli put in a SHIFT for Monza win!",
-      "summary_original": "Watch how Kimi Antonelli converted 19th to 1st to take a sensational victory at the Italian Grand Prix.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582768/italian-gp-19th-to-1st-watch-how-kimi-antonelli-put-a-shift-in-for-monza-win",
-      "published": "Mon, 07 Sep 2026 12:22:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "The Tsunoda アウディが「魅力へのこだわり」を宿る原因となった事件",
-      "summary": "アウディは、後に「魅力へのこだわり」を宿しました角田裕毅この事件に対する罰則をエスケープイタリアグランプリ再起動します。",
-      "title_original": "The Tsunoda incident that's caused Audi to lodge an 'intention to appeal'",
-      "summary_original": "Audi has lodged an 'intention to appeal' after Yuki Tsunoda escaped a penalty for this incident at the Italian Grand Prix restart.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582794/italian-grand-prix-the-yuki-tsunoda-incident-thats-caused-audi-to-lodge-an-intention-to-appeal",
-      "published": "Mon, 07 Sep 2026 13:38:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
