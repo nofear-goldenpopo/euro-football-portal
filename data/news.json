@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T12:08:13.462774+00:00",
+  "updated_at": "2026-09-08T12:32:23.145076+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2005,7 +2005,8 @@
     "South Korea’s": "",
     "Ji So-yun": "池笑然",
     "Donald Trump": "ドナルド・トランプ",
-    "Donald Trump. The Reboot": ""
+    "Donald Trump. The Reboot": "",
+    "Mirwan Suwarso": ""
   },
   "items": [
     {
@@ -2093,17 +2094,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "がん診断後のストライカーの契約を更新",
-      "summary": "イタリアンクラブコモが契約を刷新 Roberta Picchi 膀胱がんと診断された後。",
-      "title_original": "Como renew striker's contract after cancer diagnosis",
-      "summary_original": "Italian club Como renew the contract of forward Roberta Picchi after she is diagnosed with breast cancer.",
+      "title": "古き良きファンに席をあげるコモチーフチャンピオンズリーグデビュー",
+      "summary": "コモ社長 Mirwan Suwarso クラブのチケットは、複数のディレクターが配布しています。チャンピオンズリーグ高齢者サポーターが出席できるようにデビュー。",
+      "title_original": "Como chiefs giving up seats to older fans for Champions League debut",
+      "summary_original": "Como president Mirwan Suwarso and several directors are giving up their tickets for the club's Champions League debut to allow elderly supporters to attend.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5zw6k9630o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 06:43:20 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg7kj9r7vzro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 12:22:44 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2114,6 +2115,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm2gee75vz7o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 16:03:24 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z03re41ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 05:19:15 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2146,20 +2161,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z03re41ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 05:19:15 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2247,6 +2248,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "がん診断後のストライカーの契約を更新",
+      "summary": "イタリアンクラブコモが契約を刷新 Roberta Picchi 膀胱がんと診断された後。",
+      "title_original": "Como renew striker's contract after cancer diagnosis",
+      "summary_original": "Italian club Como renew the contract of forward Roberta Picchi after she is diagnosed with breast cancer.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5zw6k9630o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 06:43:20 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "2027 年の試用前のクラストに残るバートン",
       "summary": "ゴルフクラブでアサルトを認めた元サッカー選手は、ベールを拒否しました。",
       "title_original": "Barton to remain in custody before 2027 trial",
@@ -2272,20 +2287,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "新しいビデオはウィリアムズハンドボールを示していますが、VAR の行を終了しません",
-      "summary": "新しいカメラの角度は、ボールが降りてくることを示していますノッティンガム・フォレストディフェンダーNeco Williams' 腕は、彼は彼の不快な目標をスコアするトッテナム.",
-      "title_original": "New video shows Williams handball - but won't end VAR row",
-      "summary_original": "A new camera angle shows the ball coming off Nottingham Forest defender Neco Williams' arms as he scores his disallowed goal against Tottenham.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0lr4401rw0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 11:13:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2317,6 +2318,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "新しいビデオはウィリアムズハンドボールを示していますが、VAR の行を終了しません",
+      "summary": "新しいカメラの角度は、ボールが降りてくることを示していますノッティンガム・フォレストディフェンダーNeco Williams' 腕は、彼は彼の不快な目標をスコアするトッテナム.",
+      "title_original": "New video shows Williams handball - but won't end VAR row",
+      "summary_original": "A new camera angle shows the ball coming off Nottingham Forest defender Neco Williams' arms as he scores his disallowed goal against Tottenham.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0lr4401rw0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 11:13:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "£725 ゲームショーがキックスタートする方法チャンピオンズリーグコーチのキャリア",
       "summary": "リトアニアのコーチ Valdas Dambrauskas 自分の歯を英語のサッカーで切って、今度は戻りますチャンピオンズリーグサバと共に。",
       "title_original": "How £725 game-show winnings kick-started Champions League coach's career",
@@ -2327,20 +2342,6 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "新しいストライカー、心配なし - Havertz と Odegaard トーメントチェルシー",
-      "summary": "3 つのゲームから9 ポイント、1 つの目標は、ステップアップし、大きな選手 - ありますアーセナルレースの残りの部分にまだ先立ちプレミアリーグタイトル?",
-      "title_original": "No new striker, no worries - Havertz and Odegaard torment Chelsea",
-      "summary_original": "Nine points from three games, one goal conceded and big players stepping up - are Arsenal still ahead of the rest in the race for the Premier League title?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 20:25:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2807,10 +2808,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL の話ポイント:クリスタル・パレス置換の nightmare の後に疑わしい結果,アーセナルサイン輝き",
-      "summary": "プロモートされたサイドのスリリングな勝利は、4 つの置換窓を使用していた後に上回ることができますジョージア・スタンウェイ方法を示す Gunners Kirsty Howat’s 深みのある60 秒のカキオアディショナルタイム思い出に残る一日だったものを台無しにできるクリスタル・パレストップフライトに戻る 圧倒的な1-0 勝利エヴァートン祝われました。Jo Potter そして、彼女の選手は、その喜びは、もはや心配と不満に置き換えられただろう。On Sunday 夕方 夕方 WSL Football 明らかにされた th",
-      "title_original": "WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine",
-      "summary_original": "Promoted side’s thrilling win may be overturned after they used four substitutions windows while Georgia Stanway show the way for Gunners Kirsty Howat’s 60-second cameo deep into injury time could ruin what was a memorable day for Crystal Palace on their return to the top flight. An impressive 1-0 victory over Everton was celebrated emphatically by Jo Potter and her players but that joy would have been replaced by concern and frustration not long after. On Sunday evening WSL Football revealed th",
+      "title": "WSL の話ポイント:クリスタル・パレス置換の悪夢の後に疑わしい結果、しばらくアーセナルサイン輝き",
+      "summary": "プロモートされた側面のスリリングな勝利は、4 つの置換窓を使用していた後、上回るかもしれませんが、ジョージア・スタンウェイ方法を示す Gunners Kirsty Howat’s 深みのある60 秒のカキオアディショナルタイム思い出に残る一日だったものを台無しにできるクリスタル・パレストップフライトに戻る 印象的な1-0 勝利に対するエヴァートン祝われました。Jo Potter そして、彼女の選手は、その喜びは、もはや心配と不満に置き換えられただろう。On Sunday 夕方 夕方 WSL Football リリース",
+      "title_original": "WSL talking points: Palace result in doubt after substitution nightmare, while Arsenal signings shine",
+      "summary_original": "Promoted side’s thrilling win may be overturned after they used four substitution windows, while Georgia Stanway shows the way for Gunners Kirsty Howat’s 60-second cameo deep into injury time could ruin what was a memorable day for Crystal Palace on their return to the top flight. An impressive 1-0 victory against Everton was celebrated emphatically by Jo Potter and her players but that joy would have been replaced by concern and frustration not long after. On Sunday evening WSL Football reveale",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/07/wsl-talking-points-palace-result-in-doubt-after-substitution-nightmare-arsenal-signings-shine",
       "published": "Mon, 07 Sep 2026 11:20:32 GMT",
@@ -2947,13 +2948,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Solheim Cup LIVE! Team Europe ジュニアイベントへの練習と叙事詩の仕上げ",
+      "title": "Solheim Cup LIVE! キャプテンのプレスカンファレンスと Team Europe 最新情報",
       "summary": "",
-      "title_original": "Solheim Cup LIVE! Team Europe practice and epic finish to junior event",
+      "title_original": "Solheim Cup LIVE! Captain's press conferences and Team Europe latest",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13582746/solheim-cup-live-latest-news-build-up-highlights-as-anna-nordqvists-team-europe-host-team-usa-at-bernardus-golf",
-      "published": "Tue, 08 Sep 2026 11:49:00 BST",
+      "published": "Tue, 08 Sep 2026 13:22:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2982,6 +2983,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13583079/madrid-grand-prix-next-stop-madrid-red-bull-take-to-the-metro-in-epic-first-of-its-kind-stunt",
       "published": "Tue, 08 Sep 2026 10:27:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Root は、第3 テストの先にある「disrespectul'パキスタンコメントを拒否します",
+      "summary": "Joe Root パキスタンは、イングランドに対するテストシリーズで「戦いなし」を示し、両方の衣装に「不敬」と表記しました。",
+      "title_original": "Root rejects 'disrespectul' Pakistan comments ahead of third Test",
+      "summary_original": "Joe Root hit back at the idea Pakistan have showed \"no fight\" in their Test series against England and described the notion as \"disrespectful\" to both outfits.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13583044/england-vs-pakistan-joe-root-hits-back-at-disrespectful-notion-opposition-have-shown-no-fight-ahead-of-third-test",
+      "published": "Tue, 08 Sep 2026 08:14:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3112,20 +3127,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レスターは、マーティンの下で新しい低速にサンクを持っていますが、彼はそれを回すことができますか?",
-      "summary": "10 年前 で 9 月 2016,レスター・シティ FC プレイの準備ができましたチャンピオンズリーグ.",
-      "title_original": "Leicester have sunk to new low under Martin but can he turn it around?",
-      "summary_original": "A decade ago in September 2016, Leicester City were getting ready to play in the Champions League.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582797/leicester-city-sink-to-new-low-in-league-one-but-can-russell-martin-turn-it-around",
-      "published": "Mon, 07 Sep 2026 13:41:00 BST",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
