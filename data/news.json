@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T21:36:41.980936+00:00",
+  "updated_at": "2026-09-08T21:50:44.924057+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2109,7 +2109,13 @@
     "Ryan Christie": "ライアン・クリスティー",
     "Delightful Talbi": "",
     "Chemsdine Talbi's": "",
-    "LIV Golf": "LIVゴルフ"
+    "LIV Golf": "LIVゴルフ",
+    "Malick Thiaw": "",
+    "Calvin Bassey": "",
+    "James Rodriguez": "ハメス・ロドリゲス",
+    "UK. Mikel Arteta": "",
+    "Joe Willock's": "",
+    "Will Arteta": ""
   },
   "items": [
     {
@@ -2239,6 +2245,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リヴァプール Thiaw -水曜日のゴシップを監視",
+      "summary": "ドイツ ディフェンダーMalick Thiaw 見てみるリヴァプール, マンチェスター・ユナイテッド、フルハムはロックダウンしたい Calvin Bassey そして、ハメス・ロドリゲス Serie B の話です。",
+      "title_original": "Liverpool monitoring Thiaw -Wednesday's gossip",
+      "summary_original": "Germany defender Malick Thiaw is being looked at by Liverpool, Manchester United, Fulham want to lock down Calvin Bassey and James Rodriguez is in Serie B talks.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0jrdvxnvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 20:45:07 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Mac Allister'sad' なしリヴァプール契約オファー",
       "summary": "リヴァプールミッドフィルダーアレクシス・マック・アリスター彼は提供されていない「非常に悲しい」と言っています新契約夏に休むには、クラブが「オプション」を持っていました。",
       "title_original": "Mac Allister 'sad' at no Liverpool contract offer",
@@ -2263,20 +2283,6 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Fifa に対する法的行動には、女性のゲームに対する「行動」が含まれています",
-      "summary": "フィファに対するトップヨーロッパリーグとグローバルプレイヤーのユニオンフィフプロによる法的行動は、女性のゲームに対する身体の「虐待行為」を支配する世界を含むために拡張されます。",
-      "title_original": "Legal action against Fifa includes 'abusive conduct' towards women's game",
-      "summary_original": "Legal action from the top European leagues and global players' union Fifpro against Fifa is extended to include the world governing body's \"abusive conduct\" towards the women's game.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy4z0l1erzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 13:30:30 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2449,6 +2455,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Fifa に対する法的行動には、女性のゲームに対する「行動」が含まれています",
+      "summary": "フィファに対するトップヨーロッパリーグとグローバルプレイヤーのユニオンフィフプロによる法的行動は、女性のゲームに対する身体の「虐待行為」を支配する世界を含むために拡張されます。",
+      "title_original": "Legal action against Fifa includes 'abusive conduct' towards women's game",
+      "summary_original": "Legal action from the top European leagues and global players' union Fifpro against Fifa is extended to include the world governing body's \"abusive conduct\" towards the women's game.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4z0l1erzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 13:30:30 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ニューカッスル毎月の「出発の準備」だった",
       "summary": "ニューカッスルスポーツディレクターRoss Wilson クラブが元ヘッドコーチの準備をしていたと言うエディ・ハウ'9 ヶ月までの出発。",
       "title_original": "Newcastle were 'preparing for months' for Howe departure",
@@ -2487,20 +2507,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Hogh と Tierney クローズ のために 戻りますセルティック",
-      "summary": "マネージャーマーティン・オニール確認セルティックデュオ Kasper Hogh そして、キーラン・ティアニーパートをプレイできる Wednesday's Scottish Premiership マッチで St Johnstone.",
-      "title_original": "Hogh and Tierney close to returns for Celtic",
-      "summary_original": "Manager Martin O'Neill confirms Celtic duo Kasper Hogh and Kieran Tierney could play a part in Wednesday's Scottish Premiership match at St Johnstone.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz0zy4jdlz1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 14:32:55 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2590,9 +2596,9 @@
     },
     {
       "title": "航空交通混乱遅延アーセナルナポリへのフライトチャンピオンズリーグ",
-      "summary": "南部のホテルで遅く到着 Italy Jurriën Timber5 月初旬にスクワットアーセナル開口部の準備チャンピオンズリーグゲーム対ナポリ彼らは英国を渡る空港に影響を受けた旅行混乱に巻き込まれた後、混乱しています。ミケル・アルテタプレマッチプレス会議をキャンセルする余儀なくされたスタディオ・ディエゴ・アルマンド・マラドーナ火曜日以降アーセナルフライトは、エア・トラフィック・コントロールの問題によって厳しく遅れていました。アーセナルスタッフ",
+      "summary": "南部のホテルで遅く到着 Italy Jurriën Timber5 月初旬にスクワットアーセナル開口部の準備チャンピオンズリーグゲーム対ナポリ彼らは英国を渡る空港に影響を受けた旅行カオスに巻き込まれた後、混乱してきました。ミケル・アルテタプレマッチプレス会議をキャンセルする余儀なくされたスタディオ・ディエゴ・アルマンド・マラドーナ火曜日以降アーセナルフライトは、エア・トラフィック・コントロールの問題によって厳しく遅れていました。アーセナルマネージャーとマネージャー",
       "title_original": "Air traffic chaos delays Arsenal flight to Naples for Champions League",
-      "summary_original": "Team arriving late at their hotel in southern Italy Jurriën Timber in squad for first time since May Arsenal’s preparations for their opening Champions League game against Napoli have been disrupted after they were caught up in the travel chaos that affected airports across the United Kingdom. Mikel Arteta was forced to cancel his pre-match press conference at the Stadio Diego Armando Maradona on Tuesday after Arsenal’s flight was severely delayed by an air-traffic control issue. The Arsenal man",
+      "summary_original": "Team arriving late at their hotel in southern Italy Jurriën Timber in squad for first time since May Arsenal’s preparations for their opening Champions League game against Napoli have been disrupted after they were caught up in the travel chaos that affected airports across the UK. Mikel Arteta was forced to cancel his pre-match press conference at the Stadio Diego Armando Maradona on Tuesday after Arsenal’s flight was severely delayed by an air-traffic control issue. The Arsenal manager and his",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/08/air-traffic-chaos-delays-arsenal-flight-to-naples-for-champions-league",
       "published": "Tue, 08 Sep 2026 18:38:24 GMT",
@@ -2953,6 +2959,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウィロックは遅刻の目標をとしてつかみますニューカッスルエッジミルウォール",
+      "summary": "Joe Willock's 遅れた目標は緩和されたニューカッスル4 ラウンドに EFL カップとしてプレミアリーグ側面は1-0 勝利にスクレイピング EFL チャンピオンシップウェア・ミルウォール。",
+      "title_original": "Willock grabs late goal as Newcastle edge Millwall",
+      "summary_original": "Joe Willock's late goal sent a relieved Newcastle into the fourth round of the Carabao Cup as the Premier League side scraped to a 1-0 victory at Sky Bet Championship outfit Millwall.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/millwall-vs-newcastle-united/report/577582",
+      "published": "Tue, 08 Sep 2026 22:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハーランド勝上で2 回スコアポルトしかし、マンチェスター・シティ感動への奮闘",
+      "summary": "アーリング・ハーランドダブル獲得マンチェスター・シティ a 2-0 勝ちポルト- しかし、それは別のゲームだった Enzo Maresca's 面は勝ちましたが、説得力のある。",
+      "title_original": "Haaland scores twice in win over Porto but Man City struggle to impress",
+      "summary_original": "Erling Haaland's double earned Manchester City a 2-0 win at FC Porto - but it was another game where Enzo Maresca's side won but struggled to convince.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/fc-porto-vs-manchester-city/report/577600",
+      "published": "Tue, 08 Sep 2026 22:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ダブルでボウンウェストハムチャンピオンシップトップへ",
       "summary": "Captain Jarrod Bowen スコアは2 回としてウェストハムの 3-2 は、Born の上で勝ちました EFL チャンピオンシップ目標差で、初めて勝利を獲得 Toughsheet Community Stadium.",
       "title_original": "Bowen at the double as West Ham climb top of the Championship",
@@ -2964,20 +2998,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハーランド勝上で2 回スコアポルトしかし、マンチェスター・シティ印象に失敗する",
-      "summary": "アーリング・ハーランドダブル獲得マンチェスター・シティ a 2-0 勝ちポルト- しかし、それは別のゲームだった Enzo Maresca's 側は勝ちましたが、納得できませんでした。",
-      "title_original": "Haaland scores twice in win over Porto but Man City fail to impress",
-      "summary_original": "Erling Haaland's double earned Manchester City a 2-0 win at FC Porto - but it was another game where Enzo Maresca's side won but failed to convince.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/fc-porto-vs-manchester-city/report/577600",
-      "published": "Tue, 08 Sep 2026 22:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3037,9 +3057,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ワトフォード・カムバック・コンデム Heckingbottom's Preston6 で5 番目の敗北に",
-      "summary": "ワットフォードは、6 リーグの試合で5 番目の敗北を苦しんだプレストンで2-1 勝利をつかむために、恐ろしい最初のハーフディスプレイを撃墜しました。",
-      "title_original": "Watford comeback condemns Heckingbottom's Preston to fifth defeat in six",
+      "title": "ワトフォードのカムバックは、6 で6 番目の敗北にプレストンを非難",
+      "summary": "ワットフォードは、6 リーグゲームで5 番目の敗北を苦しんだプレストンで2-1 の勝利をつかむために、厄介なファーストハーフディスプレイをオフに撮影しました。",
+      "title_original": "Watford comeback condemns Preston to fifth defeat in six",
       "summary_original": "Watford shook off an awful first-half display to grab a 2-1 victory over Preston, who suffered their fifth defeat in six league games.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/watford-vs-preston-north-end/report/560564",
@@ -3065,9 +3085,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナル最新:アルテタ'tough' よりも高い自信を言うナポリショーダウン",
+      "title": "アーセナル最新: 意志アルテタ回転対ナポリ据え付け品のスケジュールが積むように?",
       "summary": "",
-      "title_original": "Arsenal latest: Arteta says confidence high ahead of 'tough' Napoli showdown",
+      "title_original": "Arsenal latest: Will Arteta rotate vs Napoli as fixture schedule piles up?",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -3149,9 +3169,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "LIV ゴルフ破産保護のためのリーグファイルが2027 の計画を明らかに",
-      "summary": "LIV ゴルフ破産保護のために提出されているアメリカ合衆国しかし、来年からリーグの新しいバージョンを立ち上げるつもりです。",
-      "title_original": "LIV Golf League files for bankruptcy protection but reveals 2027 plans",
+      "title": "LIV ゴルフ破産保護のためのファイルしかし、2027 の計画を明らかに",
+      "summary": "LIV ゴルフ破産保護のために提出されているアメリカ合衆国しかし、来年よりリーグの新バージョンを立ち上げる予定です。",
+      "title_original": "LIV Golf files for bankruptcy protection but reveals 2027 plans",
       "summary_original": "LIV Golf has filed for bankruptcy protection in the United States but still intends to launch a new version of the league from next year.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13583306/liv-golf-league-files-for-bankruptcy-protection-in-united-states-but-reveals-2027-plans-as-players-face-uncertain-future",
@@ -3211,20 +3231,6 @@
       "summary_original": "Bradford made their way into the fourth round of the Carabao Cup by disposing of Leyton Orient 3-1.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/leyton-orient-vs-bradford-city/report/577578",
-      "published": "Tue, 08 Sep 2026 21:35:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Delightful Talbi シンクシーズサンダーランド過去の投稿ハル",
-      "summary": "Chemsdine Talbi's 目標は、サンダーランド1-0 勝つハル第三ラウンドで EFL カップ.",
-      "title_original": "Delightful Talbi dink sees Sunderland past Hull",
-      "summary_original": "Chemsdine Talbi's goal was the difference as Sunderland claimed a 1-0 win over Hull in the third round of the Carabao Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/sunderland-vs-hull-city/report/577585",
       "published": "Tue, 08 Sep 2026 21:35:00 BST",
       "category": "other",
       "type": "other",
