@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T18:58:16.976115+00:00",
+  "updated_at": "2026-09-08T19:08:58.970820+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2931,6 +2931,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アストン・ヴィラ攻撃はスリリングな勝利でクリックしますクラブ・ブルッヘ",
+      "summary": "アストン・ヴィラスコアリングの心配を終わらせ、開始するためにすばらしい攻撃表示を作り出して下さいチャンピオンズリーグスリリングでキャンペーン 3-2 勝つクラブ・ブルッヘ.",
+      "title_original": "Aston Villa attack clicks in thrilling win over Club Brugge",
+      "summary_original": "Aston Villa produced a superb attacking display to end their scoring concerns and begin their Champions League campaign with a thrilling 3-2 win over Club Brugge.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/club-brugge-vs-aston-villa/report/577599",
+      "published": "Tue, 08 Sep 2026 19:45:00 BST",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "サバレンカはノスコバの戦いを生き生き残って、US Open3 ピース入札生きている",
       "summary": "Aryna Sabalenka 第三次成功の彼女の希望を維持 US OpenWimbledon のチャンピオンを越える 3 組の勝利のタイトル Linda Noskova クォーターフィナルを吸収する - 少なくとも1 日のために世界 No 1 として彼女の状態を保持する結果。",
       "title_original": "Sabalenka survives Noskova battle to keep US Open three-peat bid alive",
@@ -2952,6 +2966,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13582785/carabao-cup-third-round-live-scores-updates-and-free-match-highlights-with-newcastle-sunderland-crystal-palace-in-action",
       "published": "Tue, 08 Sep 2026 19:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ポルト対比マンチェスター・シティライブ!",
+      "summary": "",
+      "title_original": "FC Porto vs Man City LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/fc-porto-vs-manchester-city/live/577600",
+      "published": "Tue, 08 Sep 2026 18:30:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2984,20 +3012,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Bouaddi は、最初にマンチェスター・シティスタートポルトライブ!",
-      "summary": "",
-      "title_original": "Bouaddi makes first Man City start in Porto LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/fc-porto-vs-manchester-city/live/577600",
-      "published": "Tue, 08 Sep 2026 18:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3194,20 +3208,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "How Calafiori ここまでリーグの一番左端になろう",
-      "summary": "リッカルド・カラフィオーリイタリアに戻るアーセナル今週 - そして、彼は2 年前イングランドに出発した人と比較して非常に異なるプレーヤーです。",
-      "title_original": "How Calafiori has become 'the best left-back in the league by far'",
-      "summary_original": "Riccardo Calafiori returns to Italy with Arsenal this week - and he's a very different player compared to the one who departed for England two years ago.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582771/riccardo-calafiori-how-arsenals-defender-has-emerged-as-one-of-the-premier-leagues-best-left-backs",
-      "published": "Tue, 08 Sep 2026 08:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
