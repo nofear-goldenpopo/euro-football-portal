@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T21:50:44.924057+00:00",
+  "updated_at": "2026-09-08T22:06:53.400592+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2115,7 +2115,9 @@
     "James Rodriguez": "ハメス・ロドリゲス",
     "UK. Mikel Arteta": "",
     "Joe Willock's": "",
-    "Will Arteta": ""
+    "Will Arteta": "",
+    "Preston Captain Jarrod Bowen": "",
+    "The England": ""
   },
   "items": [
     {
@@ -2172,6 +2174,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプール Thiaw -水曜日のゴシップを監視",
+      "summary": "ドイツ ディフェンダーMalick Thiaw 見てみるリヴァプール, マンチェスター・ユナイテッド、フルハムはロックダウンしたい Calvin Bassey そして、ハメス・ロドリゲス Serie B の話です。",
+      "title_original": "Liverpool monitoring Thiaw -Wednesday's gossip",
+      "summary_original": "Germany defender Malick Thiaw is being looked at by Liverpool, Manchester United, Fulham want to lock down Calvin Bassey and James Rodriguez is in Serie B talks.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0jrdvxnvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 20:45:07 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2238,20 +2254,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cpwlqre0qy9o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 23:07:31 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リヴァプール Thiaw -水曜日のゴシップを監視",
-      "summary": "ドイツ ディフェンダーMalick Thiaw 見てみるリヴァプール, マンチェスター・ユナイテッド、フルハムはロックダウンしたい Calvin Bassey そして、ハメス・ロドリゲス Serie B の話です。",
-      "title_original": "Liverpool monitoring Thiaw -Wednesday's gossip",
-      "summary_original": "Germany defender Malick Thiaw is being looked at by Liverpool, Manchester United, Fulham want to lock down Calvin Bassey and James Rodriguez is in Serie B talks.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0jrdvxnvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 20:45:07 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2539,9 +2541,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "エムバペバルブド火災レアル・マドリード獲得を問い合わせチャンピオンズリーグ対決インテル",
-      "summary": "時々、サッカーは愚かで、時にはそれがより楽しいです。37 ショットとゴールキーパーズの共有サーテンは、それらの間で保存され、そのうちのいくつかは、ジョゼ・モウリーニョ獲得を問い合わせレアル・マドリード前のチームを打つ方法を見つけましたインテル最初からチャンピオンズリーグ2 番目の呪文の夜。正確に質問しないでください。おそらくダニを避けるティボー・クルトワ89 分の驚異的な保存は、それらがから目標によって与えられた2-0 第1 半鉛に握られるのを見たキリアン・エムバペそして、",
-      "title_original": "Mbappé and Valverde fire Real Madrid to Champions League win against Inter",
+      "title": "レアル・マドリード打ち勝つためにインテル獲得を問い合わせモウリーニョ’s ビッグチャンピオンズリーグディナー",
+      "summary": "時々、サッカーは愚かで、時にはそれがより楽しいです。37 枚のショットとゴールキーパーズの共有サーテンは、それらの間で保存され、そのうちのいくつかは、ジョゼ・モウリーニョ獲得を問い合わせレアル・マドリード前のチームを打つ方法を見つけましたインテル最初からチャンピオンズリーグ2 番目の呪文の夜。正確に質問しないでください。おそらくダニを避けるティボー・クルトワ, その驚異の保存 に 89 分 彼ら 保持 に 2-0 最初の半分 鉛 与えられた から 目標 からキリアン・エムバペそして、",
+      "title_original": "Real Madrid cling on to beat Inter on Mourinho’s big Champions League night",
       "summary_original": "Sometimes football is silly and sometimes it is more fun for it. On a night when there were 37 shots and the goalkeepers shared thirteen saves between them, some of them absurd, José Mourinho’s Real Madrid found a way to beat his former team Inter in his first Champions League night of his second spell. Just don’t ask exactly how. Except perhaps to cite Thibaut Courtois, whose astonishing save in the 89th minute saw them hold on to a 2-0 first-half lead given then by goals from Kylian Mbappé and",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report",
@@ -2595,6 +2597,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "選手権のラウンドアップ:ウェストハムボウンダブルシンクボルトの後にトップに行く",
+      "summary": "イングランドのフォワードスコアは2 回 3-2 勝 ナンプトン 3-1 スワンシー; ワトフォード 2-1Preston Captain Jarrod Bowen スコアは2 回としてウェストハム’s 3-2 は、Bolton で優勝し、ゴールの差で優勝しました。The England インテル国民は13 分後にスコアリングを開き、最後のシーズンを獲得しましたプレミアリーグボルトンで初めて勝利したのは、31 年ぶりに13 分。続きを読む...",
+      "title_original": "Championship roundup: West Ham go top after Bowen double sinks Bolton",
+      "summary_original": "England forward scores twice in 3-2 victory Southampton 3-1 Swansea; Watford 2-1 Preston Captain Jarrod Bowen scored twice as West Ham ’s 3-2 win over Bolton took them top of the Championship on goal difference. The England international opened the scoring after 13 minutes and earned last season’s Premier League outfit a first win at Bolton for 31 years with his second 13 minutes from time. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/08/championship-roundup-west-ham-go-top-after-bowen-double-sinks-bolton",
+      "published": "Tue, 08 Sep 2026 21:40:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "航空交通混乱遅延アーセナルナポリへのフライトチャンピオンズリーグ",
       "summary": "南部のホテルで遅く到着 Italy Jurriën Timber5 月初旬にスクワットアーセナル開口部の準備チャンピオンズリーグゲーム対ナポリ彼らは英国を渡る空港に影響を受けた旅行カオスに巻き込まれた後、混乱してきました。ミケル・アルテタプレマッチプレス会議をキャンセルする余儀なくされたスタディオ・ディエゴ・アルマンド・マラドーナ火曜日以降アーセナルフライトは、エア・トラフィック・コントロールの問題によって厳しく遅れていました。アーセナルマネージャーとマネージャー",
       "title_original": "Air traffic chaos delays Arsenal flight to Naples for Champions League",
@@ -2605,20 +2621,6 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "100,000 人以上が名前を追加して、苦情を申し立てる Gianni Infantino",
-      "summary": "手紙はフィファ大統領は「彼の力を乱用している」と主張しますドナルド・トランプ異議の中でリンクと FFE のスキャンダル 100,000 人以上が彼らの名前を苦情に対して追加しました Gianni Infantino フィファ大統領の主張は、「最小限に、彼の力を乱用し、政治的ニュートラルティの彼の義務を侵害し、彼の忠誠の義務を侵害しました」 彼のインテルアクションドナルド・トランプ. Reboot Fifa キャンペーンは、以前に開始されました World Cup「最大の不満の Fifa は ev を持っている」を配信することを目的としています",
-      "title_original": "More than 100,000 people add names to complaint against Gianni Infantino",
-      "summary_original": "Letter alleges Fifa president ‘has abused his power’ Donald Trump links and FFE scandal among objections More than 100,000 people have added their names to a complaint against Gianni Infantino, alleging the Fifa president has “at a minimum, abused his power, violated his duty of political neutrality, and violated his duty of loyalty” through his interactions with Donald Trump. The Reboot Fifa campaign was launched before the World Cup with the aim of delivering “the biggest complaint Fifa has ev",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/gianni-infantino-fifa-complaint-donald-trump-folarin-balogun",
-      "published": "Tue, 08 Sep 2026 11:00:02 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2637,6 +2639,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "100,000 人以上が名前を追加して、苦情を申し立てる Gianni Infantino",
+      "summary": "手紙はフィファ大統領は「彼の力を乱用している」と主張しますドナルド・トランプ異議の中でリンクと FFE のスキャンダル 100,000 人以上が彼らの名前を苦情に対して追加しました Gianni Infantino フィファ大統領の主張は、「最小限に、彼の力を乱用し、政治的ニュートラルティの彼の義務を侵害し、彼の忠誠の義務を侵害しました」 彼のインテルアクションドナルド・トランプ. Reboot Fifa キャンペーンは、以前に開始されました World Cup「最大の不満の Fifa は ev を持っている」を配信することを目的としています",
+      "title_original": "More than 100,000 people add names to complaint against Gianni Infantino",
+      "summary_original": "Letter alleges Fifa president ‘has abused his power’ Donald Trump links and FFE scandal among objections More than 100,000 people have added their names to a complaint against Gianni Infantino, alleging the Fifa president has “at a minimum, abused his power, violated his duty of political neutrality, and violated his duty of loyalty” through his interactions with Donald Trump. The Reboot Fifa campaign was launched before the World Cup with the aim of delivering “the biggest complaint Fifa has ev",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/08/gianni-infantino-fifa-complaint-donald-trump-folarin-balogun",
+      "published": "Tue, 08 Sep 2026 11:00:02 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アレクシス・マック・アリスター「悲しい」リヴァプール新しい契約を提供していない",
       "summary": "ミッドフィルダーは、夏のクラブを離れるチャンスを拒絶した「私は最後の日まで100%与えます」と27 歳アレクシス・マック・アリスター彼が「悲しい」と感じていると言いました。リヴァプール新規契約を解除し、この夏を離れるチャンスを却下した。Mac Allister 契約状況を前から明らかにしたリヴァプール獲得を問い合わせチャンピオンズリーグに対するオープナーアトレティコ・マドリード獲得を問い合わせ Wednesday. The Argentina ミッドフィルダーは、彼の移籍に2 年残っていて、彼は効果があると信じています",
       "title_original": "Alexis Mac Allister ‘very sad’ Liverpool have not offered him a new contract",
@@ -2648,20 +2664,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "半分のプレミアリーグ禁止されていないギャンブル会社が禁止されている場合、クラブは有利なスポンサーを失うに直面しています",
-      "summary": "10 クラブは、翌年ラドブロークの所有者が PM の立場を強調するポンドの十億ポンドを失う可能性がありますエヴァートンファンの半分のプレミアリーグ’20 クラブは、政府が開発する計画の下で違法な来年することができ、ライセンスされていないギャンブル会社とスポンサーシップまたは広告移籍を持っています。水曜日に英国でライセンスされていないギャンブル会社からスポンサーシップを禁止する提案に関する8 週間の協議, Ladbrokes などのライセンス事業者と William Hill 投稿されたアガ",
-      "title_original": "Half of Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned",
-      "summary_original": "Ten clubs could lose tens of millions of pounds next year Ladbrokes owner highlights PM’s position as Everton fan Half of the Premier League’s 20 clubs have sponsorship or advertising deals with unlicensed gambling companies that could be illegal next year under plans being developed by the government. An eight-week consultation on proposals to ban sponsorship from gambling companies not licensed in the UK closes on Wednesday, with licensed operators such as Ladbrokes and William Hill pitted aga",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government",
-      "published": "Tue, 08 Sep 2026 14:15:44 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2749,6 +2751,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "半分のプレミアリーグ禁止されていないギャンブル会社が禁止されている場合、クラブは有利なスポンサーを失うに直面しています",
+      "summary": "10 クラブは、翌年ラドブロークの所有者が PM の立場を強調するポンドの十億ポンドを失う可能性がありますエヴァートンファンの半分のプレミアリーグ’20 クラブは、政府が開発する計画の下で違法な来年することができ、ライセンスされていないギャンブル会社とスポンサーシップまたは広告移籍を持っています。水曜日に英国でライセンスされていないギャンブル会社からスポンサーシップを禁止する提案に関する8 週間の協議, Ladbrokes などのライセンス事業者と William Hill 投稿されたアガ",
+      "title_original": "Half of Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned",
+      "summary_original": "Ten clubs could lose tens of millions of pounds next year Ladbrokes owner highlights PM’s position as Everton fan Half of the Premier League’s 20 clubs have sponsorship or advertising deals with unlicensed gambling companies that could be illegal next year under plans being developed by the government. An eight-week consultation on proposals to ban sponsorship from gambling companies not licensed in the UK closes on Wednesday, with licensed operators such as Ladbrokes and William Hill pitted aga",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government",
+      "published": "Tue, 08 Sep 2026 14:15:44 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ニューカッスル計画を始めるエディ・ハウ’s の出口は年から始まります",
       "summary": "ブルノ・ギマレスを失うスポーツ・ディレクターマンチェスター・ユナイテッドターゲット Lewis Hall 新しい獲得で合意ニューカッスルスポーツディレクターRoss Wilson 今年初めに計画を始めたことを明らかにしたエディ・ハウ出発 . 7 月下旬にマネジャーとしてステップダウンし、クラブが Matthias Jaissle, 好ましい成功者として識別された人. 続きを読む...",
       "title_original": "Newcastle admit they started planning for Eddie Howe’s exit at start of year",
@@ -2798,20 +2814,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/07/david-raya-arsenal-confidence-premier-league-relief",
       "published": "Mon, 07 Sep 2026 11:00:49 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Richard HughesAl-Hilal スポーツディレクターとして確認リヴァプール出発日",
-      "summary": "ヒューズは2 年後にサウジアラビアのエクオダスに参加 Anfield Martinelli、サマービルおよびワトキンスはにあります Al-Hilal Richard HughesAl-Hilal のスポーツディレクターに就任 Saudi Pro League 日曜日にクラブが確認され、次のハイス出発からリヴァプール. ヒュース, 47, 参加リヴァプール2024 年にボーンマスから。獲得を問い合わせアルネ・スロットとして Jürgen Klopp’s 頭のコーチとしての後継者、レッドが主張したように即時配当を支払った副決定プレミアリーグ2024-25 のタイトル。スロットスロット",
-      "title_original": "Richard Hughes confirmed as Al-Hilal sporting director after Liverpool departure",
-      "summary_original": "Hughes joins Saudi exodus after two years at Anfield Martinelli, Summerville and Watkins are at Al-Hilal Richard Hughes has been appointed as the sporting director ⁠of Al-Hilal, the Saudi Pro League club confirmed on ⁠Sunday, following ⁠his ​ departure from Liverpool . Hughes, 47, joined Liverpool in 2024 from Bournemouth. ⁠He appointed Arne Slot as Jürgen Klopp’s successor as head coach, ⁠a decision that paid immediate dividends ​as the Reds ‌claimed the ‌Premier League title in 2024-25. Slot ‌",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/06/richard-hughes-confirmed-as-al-hilal-sporting-director-after-liverpool-departure",
-      "published": "Sun, 06 Sep 2026 21:15:14 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2959,6 +2961,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Mbappe and Valverde on、as Real Madrid beat Inter Milan を獲得候補に",
+      "summary": "",
+      "title_original": "Mbappe and Valverde on target as Real Madrid beat Inter Milan",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "published": "Tue, 08 Sep 2026 22:42:00 BST",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ダブルでボウンウェストハムチャンピオンシップトップへ",
+      "summary": "Captain Jarrod Bowen スコアは2 回としてウェストハムの 3-2 は、Born の上で勝ちました EFL チャンピオンシップ目標差で、初めて勝利を獲得 Toughsheet Community Stadium.",
+      "title_original": "Bowen at the double as West Ham climb top of the Championship",
+      "summary_original": "Captain Jarrod Bowen scored twice as West Ham's 3-2 win over Bolton took them top of the Sky Bet Championship on goal difference and earned a first ever win at the Toughsheet Community Stadium.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/report/560559",
+      "published": "Tue, 08 Sep 2026 22:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ウィロックは遅刻の目標をとしてつかみますニューカッスルエッジミルウォール",
       "summary": "Joe Willock's 遅れた目標は緩和されたニューカッスル4 ラウンドに EFL カップとしてプレミアリーグ側面は1-0 勝利にスクレイピング EFL チャンピオンシップウェア・ミルウォール。",
       "title_original": "Willock grabs late goal as Newcastle edge Millwall",
@@ -2987,20 +3017,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ダブルでボウンウェストハムチャンピオンシップトップへ",
-      "summary": "Captain Jarrod Bowen スコアは2 回としてウェストハムの 3-2 は、Born の上で勝ちました EFL チャンピオンシップ目標差で、初めて勝利を獲得 Toughsheet Community Stadium.",
-      "title_original": "Bowen at the double as West Ham climb top of the Championship",
-      "summary_original": "Captain Jarrod Bowen scored twice as West Ham's 3-2 win over Bolton took them top of the Sky Bet Championship on goal difference and earned a first ever win at the Toughsheet Community Stadium.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/report/560559",
-      "published": "Tue, 08 Sep 2026 22:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "クリスティーネットハットトリックボーンマス・ブリッツ Championship Lincoln",
       "summary": "ライアン・クリスティースコアハットトリック与えるために Marco Rose 彼の最初の勝利として Bournemouth マネージャー として Cherries swept asideEFL チャンピオンシップ側面 リンカーン4-0.",
       "title_original": "Christie nets hat-trick as Bournemouth blitz Championship Lincoln",
@@ -3015,12 +3031,12 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バーンリーまだ Wrexham で描画した後に勝らず",
-      "summary": "Wrexham のホームウィンの待ち時間は、ウィンレスで1-1 ドローに開催された後ですバーンリー誰が1 つの場所を離れる EFL チャンピオンシップ.",
-      "title_original": "Burnley still without a win after draw at Wrexham",
-      "summary_original": "Wrexham's wait for a home win goes on after they were held to a 1-1 draw by winless Burnley who sit one place off the bottom of the Sky Bet Championship.",
+      "title": "ナンプトンノック・スワンシーオフ選手権トップスポット",
+      "summary": "Cyle Larin シーズンの第5 の目標は、サウスパントンがスワンシー3-1 を打ち負かし、第二のホームマッチのためのテーブルトップパーを1 列で humble しました。",
+      "title_original": "Southampton knock Swansea off Championship top spot",
+      "summary_original": "Cyle Larin scored his fifth goal of the season as Southampton beat Swansea 3-1 to humble a table-topper for the second home match in a row.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/wrexham-vs-burnley/report/560569",
+      "url": "https://www.skysports.com/football/southampton-vs-swansea-city/report/560563",
       "published": "Tue, 08 Sep 2026 21:30:00 BST",
       "category": "other",
       "type": "other",
@@ -3043,12 +3059,12 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ナンプトンノック・スワンシーオフ選手権トップスポット",
-      "summary": "Cyle Larin シーズンの第5 の目標は、サウスパントンがスワンシー3-1 を打ち負かし、第二のホームマッチのためのテーブルトップパーを1 列で humble しました。",
-      "title_original": "Southampton knock Swansea off Championship top spot",
-      "summary_original": "Cyle Larin scored his fifth goal of the season as Southampton beat Swansea 3-1 to humble a table-topper for the second home match in a row.",
+      "title": "バーンリーまだ Wrexham で描画した後に勝らず",
+      "summary": "Wrexham のホームウィンの待ち時間は、ウィンレスで1-1 ドローに開催された後ですバーンリー誰が1 つの場所を離れる EFL チャンピオンシップ.",
+      "title_original": "Burnley still without a win after draw at Wrexham",
+      "summary_original": "Wrexham's wait for a home win goes on after they were held to a 1-1 draw by winless Burnley who sit one place off the bottom of the Sky Bet Championship.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/southampton-vs-swansea-city/report/560563",
+      "url": "https://www.skysports.com/football/wrexham-vs-burnley/report/560569",
       "published": "Tue, 08 Sep 2026 21:30:00 BST",
       "category": "other",
       "type": "other",
@@ -3197,26 +3213,12 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「圧力が最も大きい」NFL' 最後に勝つためにアレンの時間 Super Bowl?",
-      "summary": "バッファロー・ビルズヘッドコーチ Joe Brady 圧力が最も高い NFL リードを求める Josh Allen's'bridesmaid から bride' まで、Sky Sports' Phoebe Schecter.",
-      "title_original": "'Most pressure in the NFL' Finally Allen's time to win Super Bowl?",
-      "summary_original": "Buffalo Bills head coach Joe Brady is under the most pressure in the NFL as he seeks to lead Josh Allen's side from 'bridesmaid to bride', says Sky Sports' Phoebe Schecter.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nfl/news/12040/13583197/buffalo-bills-joe-brady-under-pressure-to-lead-josh-allen-to-super-bowl-says-phoebe-schecter",
-      "published": "Tue, 08 Sep 2026 17:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "週数百万!Play Super6 ポンド 100万ポンド",
+      "title": "US Open LIVE! Tiafoe 力 5 番目のセット対 Michelsen 後 epic ターンアラウンド",
       "summary": "",
-      "title_original": "Midweek millions! Play Super 6 to win £1m",
+      "title_original": "US Open LIVE! Tiafoe forces fifth set vs Michelsen after epic turnaround",
       "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13583196/us-open-live-scores-updates-news-results-and-video-with-aryna-sabalenka-and-frances-tiafoe-in-action-in-new-york",
       "published": "Tue, 08 Sep 2026 16:00:00 BST",
       "category": "other",
       "type": "other",
@@ -3225,13 +3227,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Bradford は Orient を離れる EFL カップ夢を生きる",
-      "summary": "ブラッドフォードは4 ラウンドに彼らの道を作った EFL カップ処分によるレイトン・オリエント FC 3-1.",
-      "title_original": "Bradford see off Orient to keep Carabao Cup dreams alive",
-      "summary_original": "Bradford made their way into the fourth round of the Carabao Cup by disposing of Leyton Orient 3-1.",
+      "title": "「圧力が最も大きい」NFL' 最後に勝つためにアレンの時間 Super Bowl?",
+      "summary": "バッファロー・ビルズヘッドコーチ Joe Brady 圧力が最も高い NFL リードを求める Josh Allen's'bridesmaid から bride' まで、Sky Sports' Phoebe Schecter.",
+      "title_original": "'Most pressure in the NFL' Finally Allen's time to win Super Bowl?",
+      "summary_original": "Buffalo Bills head coach Joe Brady is under the most pressure in the NFL as he seeks to lead Josh Allen's side from 'bridesmaid to bride', says Sky Sports' Phoebe Schecter.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/leyton-orient-vs-bradford-city/report/577578",
-      "published": "Tue, 08 Sep 2026 21:35:00 BST",
+      "url": "https://www.skysports.com/nfl/news/12040/13583197/buffalo-bills-joe-brady-under-pressure-to-lead-josh-allen-to-super-bowl-says-phoebe-schecter",
+      "published": "Tue, 08 Sep 2026 17:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
