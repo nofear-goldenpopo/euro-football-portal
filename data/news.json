@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T12:55:51.537631+00:00",
+  "updated_at": "2026-09-09T13:07:20.196300+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2164,7 +2164,9 @@
     "Saturday’s WBC": "",
     "Las Vegas": "ラスベガス",
     "Aldershot Town": "オールダーショット・タウンFC",
-    "Ollie Harfield": ""
+    "Ollie Harfield": "",
+    "Karun Chandhok": "カルン・チャンドック",
+    "Edgbaston LIVE": ""
   },
   "items": [
     {
@@ -3022,6 +3024,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チャンドホーク:フェラーリのために運転していないとアントネリオフ圧力を取った",
+      "summary": "スカイスポーツ F1's カルン・チャンドック信じる Kimi Antonelli フェラーリではなくメルセデスのために運転し、イタリアの圧力を払っていました。",
+      "title_original": "Chandhok: Not driving for Ferrari has taken pressure off Antonelli",
+      "summary_original": "Sky Sports F1's Karun Chandhok believes Kimi Antonelli driving for Mercedes, rather than Ferrari, has taken some pressure off the Italian.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13583240/kimi-antonelli-driving-for-mercedes-rather-than-ferrari-has-taken-pressure-off-italian-says-karun-chandhok",
+      "published": "Wed, 09 Sep 2026 14:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Solheim Cup LIVE! ハル家の 'pressure' をのためのハンドルする準備ができました Team Europe",
       "summary": "",
       "title_original": "Solheim Cup LIVE! Hull ready to handle home 'pressure' for Team Europe",
@@ -3050,9 +3066,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "パキスタンが100-7 に落ちるのは、イングランドの朝の素晴らしいランチ!",
+      "title": "パキスタンは101-8 に優れたイングランドに対して崩壊 Edgbaston LIVE!",
       "summary": "",
-      "title_original": "Pakistan fall to 100-7 at lunch after excellent England morning LIVE!",
+      "title_original": "Pakistan collapse to 101-8 against excellent England at Edgbaston LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583439/england-vs-pakistan-third-test-day-one-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3270,20 +3286,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウィロックは遅刻の目標をとしてつかみますニューカッスルエッジミルウォール",
-      "summary": "Joe Willock's 遅れた目標は緩和されたニューカッスル4 ラウンドに EFL カップとしてプレミアリーグ側面は1-0 勝利にスクレイピング EFL チャンピオンシップウェア・ミルウォール。",
-      "title_original": "Willock grabs late goal as Newcastle edge Millwall",
-      "summary_original": "Joe Willock's late goal sent a relieved Newcastle into the fourth round of the Carabao Cup as the Premier League side scraped to a 1-0 victory at Sky Bet Championship outfit Millwall.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/millwall-vs-newcastle-united/report/577582",
-      "published": "Tue, 08 Sep 2026 22:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
