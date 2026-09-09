@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T22:24:10.172460+00:00",
+  "updated_at": "2026-09-09T22:37:04.096900+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2332,7 +2332,7 @@
       "summary_original": "Lewis Hall could still leave Newcastle despite new contract, Yasin Ayari close to committing to Brighton but Kaoru Mitoma set for exit, and Chelsea to go back for Manu Kone in midfielder search.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgy303wwpno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:24:14 GMT",
+      "published": "Wed, 09 Sep 2026 22:32:51 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2438,6 +2438,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "How Mac Allister「彼の足が話している」 - ウォノック",
+      "summary": "デイパンディットのマッチ Stephen Warnock「例外」を讃えるアレクシス・マック・アリスターアルゼンチンのミッドフィルダーが素晴らしい勝者をスコアとしてリヴァプールの 2-1 チャンピオンズリーグ勝つアトレティコ・マドリードアンフィールド",
+      "title_original": "How Mac Allister 'let his feet do the talking' - Warnock",
+      "summary_original": "Match of the Day pundit Stephen Warnock praises an \"exceptional\" Alexis Mac Allister as the Argentinian midfielder scores a brilliant winner in Liverpool's 2-1 Champions League win over Atletico Madrid at Anfield.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/videos/c1mvpvk5jryo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 22:21:42 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "エムバペ弁当の殴打としてレアル・マドリードエッジインテル",
       "summary": "キリアン・エムバペそして、フェデリコ・バルベルデスコアシートは、レアル・マドリードオープンチャンピオンズリーグ2-1 勝負キャンペーンインテル.",
       "title_original": "Mbappe and Valverde strike as Real Madrid edge Inter Milan",
@@ -2459,20 +2473,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c36l7y21rr2o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 21:00:27 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マリンのフリーキック輝きが LASK で AEK 勝利を獲得",
-      "summary": "Razvan Marin's 素晴らしいフリーキック獲得 AEK Athens1-0 が LASK で勝利し、最初のものを安全にチャンピオンズリーグ季節のポイント。",
-      "title_original": "Marin's free-kick brilliance earns AEK victory over LASK",
-      "summary_original": "Razvan Marin's stunning free-kick earns AEK Athens a 1-0 win over LASK, securing their first Champions League points of the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/czez19xnd54o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:00:42 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -2550,6 +2550,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "'This Is Anfield' マークフェッチ £115k オークションで",
+      "summary": "オリジナルサインからリヴァプール'スタジアムトンネルは、推定ガイド価格の8 倍に達しました。",
+      "title_original": "'This Is Anfield' sign fetches £115k at auction",
+      "summary_original": "The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/c87ve5vw953o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 16:00:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "717 日以降、9 人の「介護者オーバー」診断後、プレイヤーは「実質的」リターンをします",
       "summary": "オールダーショット・タウン FC ディフェンダーOllie Harfield 深刻な膝の傷害の後で行為への彼のリターンについての話。",
       "title_original": "After 717 days and nine 'career over' diagnoses, player makes 'surreal' return",
@@ -2561,6 +2575,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マリンのフリーキック輝きが LASK で AEK 勝利を獲得",
+      "summary": "Razvan Marin's 素晴らしいフリーキック獲得 AEK Athens1-0 が LASK で勝利し、最初のものを安全にチャンピオンズリーグ季節のポイント。",
+      "title_original": "Marin's free-kick brilliance earns AEK victory over LASK",
+      "summary_original": "Razvan Marin's stunning free-kick earns AEK Athens a 1-0 win over LASK, securing their first Champions League points of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/czez19xnd54o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 21:00:42 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2659,34 +2687,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Odegaard 'desire' でチェルシー勝つ感動ロオニー",
-      "summary": "デイパンディットのマッチウェイン・ルーニー分析方法マルティン・ウーデゴールゲームをそのまま制御アーセナルフェイスチェルシー獲得を問い合わせエミレーツ・スタジアム.",
-      "title_original": "Odegaard 'desire' in Chelsea win impresses Rooney",
-      "summary_original": "Match of the Day pundit Wayne Rooney analyses how Martin Odegaard took control of the game as Arsenal faced Chelsea at the Emirates Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8e34k1r3j9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 22:32:06 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Kerjota が Dunadee に対するハートの96 分の勝者を獲得",
-      "summary": "クラウディオブラガ「ペナルティ」Sabah Kerjota's 華麗な低ドライブは劇的なハートを獲得 Scottish PremiershipDundee で勝利し、すべての競争で8 つの試合にアンベイトされたランを拡張します。",
-      "title_original": "Kerjota scores 96th-minute winner for Hearts against Dundee",
-      "summary_original": "Claudio Braga's penalty and Sabah Kerjota's brilliant low drive earn Hearts a dramatic Scottish Premiership victory over Dundee, extending their unbeaten run in all competitions to eight matches.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/videos/c790qe5gr2po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 07:40:46 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3110,6 +3110,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チェルシーヒット SIX 後半の目標 オフを見るリーズ獲得を問い合わせ EFL カップクラシック",
+      "summary": "信じられないほどのセカンドハーフのカムバックには、41 分で6 つの目標が含まれていますチェルシー最後に吹き飛ばすリーズ6-3 オールタイム EFL カップクラシック Stamford Bridge.",
+      "title_original": "Chelsea hit SIX second-half goals to see off Leeds in Carabao Cup classic",
+      "summary_original": "An incredible second-half comeback including six goals in 41 minutes saw Chelsea finally blow away Leeds 6-3 in one of the all-time Carabao Cup classics at Stamford Bridge.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/577586",
+      "published": "Wed, 09 Sep 2026 22:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "West Brom ダービーで10 人の男性と勝利して、チャンピオンシップを上に移動",
       "summary": "West BromDerby で思い出に残る1-0 勝利を祝った Pride Park10 人の男性と1 時間以上プレイした後。",
       "title_original": "West Brom win with 10 men at Derby to move top of Championship",
@@ -3135,20 +3149,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシーヒット SIX 後半の目標 オフを見るリーズ獲得を問い合わせ EFL カップクラシック",
-      "summary": "信じられないほどのセカンドハーフのカムバックには、41 分で6 つの目標が含まれていますチェルシー最後に吹き飛ばすリーズ6-3 オールタイム EFL カップクラシック Stamford Bridge.",
-      "title_original": "Chelsea hit SIX second-half goals to see off Leeds in Carabao Cup classic",
-      "summary_original": "An incredible second-half comeback including six goals in 41 minutes saw Chelsea finally blow away Leeds 6-3 in one of the all-time Carabao Cup classics at Stamford Bridge.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/577586",
-      "published": "Wed, 09 Sep 2026 22:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
