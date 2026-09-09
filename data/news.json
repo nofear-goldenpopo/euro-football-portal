@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T22:37:04.096900+00:00",
+  "updated_at": "2026-09-09T22:50:18.443923+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2266,9 +2266,27 @@
     "Camp Nou Torres": "",
     "Slovan Bratislava Raphinha": "",
     "New York City": "ニューヨーク",
-    "Arthur Ashe Stadium": ""
+    "Arthur Ashe Stadium": "",
+    "Another Arsenal": "",
+    "Nedum Onuoha": "ネダム・オヌオハ",
+    "Jarred Gillett": "",
+    "Carabao Cup. Gillett": ""
   },
   "items": [
+    {
+      "title": "アーセナルあらゆるテストを通過しています - そして、Odegaard は彼の人生の形態です",
+      "summary": "その他アーセナル勝つ, 別のマルティン・ウーデゴールゴール - ガンナーのキャプテンは、彼のベストに戻ります、書き込みフィル・マクナルティ.",
+      "title_original": "Arsenal are passing every test - and Odegaard is in form of his life",
+      "summary_original": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 22:35:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "リヴァプール後ろからビートに来るアトレティコ・マドリード",
       "summary": "アレクシス・マック・アリスターemphatic の勝者をとして得て下さいリヴァプールスタートチャンピオンズリーグ勝ち抜いたキャンペーンアトレティコ・マドリードアンフィールド",
@@ -2424,6 +2442,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Odegaard は「この辺のアーティスト」です。",
+      "summary": "デイパンディットのマッチネダム・オヌオハそして、Rory Smith ディスカッションマルティン・ウーデゴールのパフォーマンスアーセナル獲得を問い合わせチャンピオンズリーグ対比ナポリ四季折々の展望と、",
+      "title_original": "Odegaard is an 'artist for this whole side' - Onuoha",
+      "summary_original": "Match of the Day pundits Nedum Onuoha and Rory Smith discuss Martin Odegaard's performance in Arsenal's Champions League match against Napoli as well as his prospects for the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3eqzqkp3k1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 22:40:37 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ハーランドとして2 回打つことマンチェスター・シティ安全な勝利でポルト",
       "summary": "アーリング・ハーランドスコアは2 回としてマンチェスター・シティ開いてみるチャンピオンズリーグ快適で快適な2-0 勝利でキャンペーンポルト.",
       "title_original": "Haaland strikes twice as Manchester City secure win at Porto",
@@ -2459,20 +2491,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c0j3zyy32e4o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 21:00:06 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アストン・ヴィラ五大スリラーのイグナイトシーズンクラブ・ブルッヘ",
-      "summary": "アストン・ヴィラリリースチャンピオンズリーグ3-2 勝負キャンペーンクラブ・ブルッヘベルギーで、初旬の目標が干ばつになった。",
-      "title_original": "Aston Villa ignite season in five-goal thriller against Club Brugge",
-      "summary_original": "Aston Villa launch their Champions League campaign with a 3-2 victory over Club Brugge in Belgium, ending their early-season goal drought.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c36l7y21rr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:00:27 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -2564,17 +2582,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "717 日以降、9 人の「介護者オーバー」診断後、プレイヤーは「実質的」リターンをします",
-      "summary": "オールダーショット・タウン FC ディフェンダーOllie Harfield 深刻な膝の傷害の後で行為への彼のリターンについての話。",
-      "title_original": "After 717 days and nine 'career over' diagnoses, player makes 'surreal' return",
-      "summary_original": "Aldershot Town defender Ollie Harfield talks about his return to action after a serious knee injury.",
+      "title": "アストン・ヴィラ五大スリラーのイグナイトシーズンクラブ・ブルッヘ",
+      "summary": "アストン・ヴィラリリースチャンピオンズリーグ3-2 勝負キャンペーンクラブ・ブルッヘベルギーで、初旬の目標が干ばつになった。",
+      "title_original": "Aston Villa ignite season in five-goal thriller against Club Brugge",
+      "summary_original": "Aston Villa launch their Champions League campaign with a 3-2 victory over Club Brugge in Belgium, ending their early-season goal drought.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c93e9vn9vgvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 11:42:10 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/videos/c36l7y21rr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 21:00:27 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2676,24 +2694,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "若々しい賞品 Rashford と Shaw chem",
-      "summary": "デイパンディットのマッチ Ashley Young 獲得を問い合わせマーカス・ラッシュフォードそして、Luke Shaw's 左側の接続マンチェスター・ユナイテッドの 2-2 に対して引くエヴァートン.at で Hill Dickinson Stadium.",
-      "title_original": "Young praises Rashford and Shaw chemistry",
-      "summary_original": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left in Manchester United's 2-2 draw against Everton.at the Hill Dickinson Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpwlqre0qy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 23:07:31 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "アレクシス・マック・アリスター彼のポイントをリヴァプール Atlético を倒すために戻って戦う",
-      "summary": "時間と場所だったアレクシス・マック・アリスターピッチと disgruntled で話そうリヴァプールミッドフィルダーは失望しなかった。「甘い悲しい」リヴァプール彼に提供する拒否契約延長, しばらく Dominik Szoboszlai そして、Ryan Gravenberch 彼らの取得だった,Mac AllisterAnfield を非常に満足させるマッチ勝利の表示に対してアトレティコ・マドリード. アルゼンチンインテル国民、5 人の1World Cup ファイナリストは、罰金を科された、吸収コンテストに関与し、彼のフラットを発明しました",
+      "summary": "時間と場所だったアレクシス・マック・アリスターピッチと disgruntled で話そうリヴァプールミッドフィルダーはキューに配信されました。「甘い悲しい」リヴァプール一方、彼は新しい契約を提供するための拒否 Dominik Szoboszlai そして、Ryan Gravenberch 彼らの取得だった,Mac AllisterAnfield を非常に満足させるマッチ勝利の表示に対してアトレティコ・マドリード. アルゼンチンインテル国民、5 人の1World Cup 吸収、繊細にポーズされたコンテストに関与するファイナリストは、彼の不満を発明しました",
       "title_original": "Alexis Mac Allister makes his point as Liverpool fight back to defeat Atlético",
-      "summary_original": "It was the time and place for Alexis Mac Allister to do his talking on the pitch and the disgruntled Liverpool midfielder did not disappoint. “Very sad” over Liverpool’s refusal to offer him a contract extension , while Dominik Szoboszlai and Ryan Gravenberch were getting theirs, Mac Allister made Anfield very happy with a match-winning display against Atlético Madrid. The Argentina international, one of five World Cup finalists involved in a finely-poised, absorbing contest, vented his frustrat",
+      "summary_original": "It was the time and place for Alexis Mac Allister to do his talking on the pitch and the disgruntled Liverpool midfielder delivered on cue. “Very sad” over Liverpool’s refusal to offer him a new contract, while Dominik Szoboszlai and Ryan Gravenberch were getting theirs, Mac Allister made Anfield very happy with a match-winning display against Atlético Madrid. The Argentina international, one of five World Cup finalists involved in an absorbing, delicately-poised contest, vented his frustrations",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/09/liverpool-atletico-madrid-champions-league-match-report",
       "published": "Wed, 09 Sep 2026 21:04:17 GMT",
@@ -2705,9 +2709,9 @@
     },
     {
       "title": "Ødegaard の tuns ナポリとしてアーセナル勝ち始めるチャンピオンズリーグ",
-      "summary": "過去1 年ぶりの記録破砕後チャンピオンズリーグ, アーセナル獲得を問い合わせ しかし、火曜日に旅行カオスによって何百人もの旅行サポーターと一緒に遅れている、ミケル・アルテタの 側は、自分の時間に対抗しなければならないナポリまでマルティン・ウーデゴール重要なストライキで新しいキャンペーンを開始するために、目標の豊かな静脈を続け. おそらく、彼らが初めて赤いショートパンツを着用することを余儀なくされたという事実だったプレミアリーグ U による2022 年の Watford に対するゲーム",
+      "summary": "過去1 年ぶりの記録破砕後チャンピオンズリーグ, アーセナル獲得を問い合わせ しかし、火曜日に旅行カオスによって何百人もの旅行サポーターと一緒に遅れている、ミケル・アルテタの 側は、自分の時間に対抗しなければならないナポリまでマルティン・ウーデゴールゴールの豊富な静脈をフルタイムから15 分強めで続けました。Uefa の主張で、彼らは初めて赤いショートパンツを着用することを余儀なくされたという事実だったプレミアリーグゲーム agai",
       "title_original": "Ødegaard stuns Napoli as Arsenal make winning start in Champions League",
-      "summary_original": "After their record-breaking feats last year in the Champions League, Arsenal are at it again. But having been delayed along with hundreds of travelling supporters by travel chaos on Tuesday, Mikel Arteta’s side had to bide their time against Napoli until Martin Ødegaard continued his rich vein of goalscoring to start the new campaign with the crucial strike. Perhaps it was the fact they were forced to wear red shorts for the first time since a Premier League game against Watford in 2022 due to U",
+      "summary_original": "After their record-breaking feats last year in the Champions League, Arsenal are at it again. But having been delayed along with hundreds of travelling supporters by travel chaos on Tuesday, Mikel Arteta’s side had to bide their time against Napoli until Martin Ødegaard continued his rich vein of goalscoring with the crucial strike 15 minutes from full time. Perhaps it was the fact that, at Uefa’s insistence, they were forced to wear red shorts for the first time since a Premier League game agai",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report",
       "published": "Wed, 09 Sep 2026 21:02:33 GMT",
@@ -2719,9 +2723,9 @@
     },
     {
       "title": "コール・パーマーパワーチェルシーカムバック勝つためにリーズ nine-goal の叙事詩",
-      "summary": "楽にやってみてはいかがですか?チェルシーチャオティックのままで、ほぼそのまま下がったシャビ・アロンソ’ s は、受け継がれから最初の偽造. ザ・オブ・ザ・EFL カップ重要事項チェルシーヨーロッパのサッカーの欠如を与えられたが、Alonso はあまりにも多くの回転し、四倍の半時間の置換がバインドから彼のチームを得た後、それをエスケープしました。リーズから目標のおかげで2-0 を上回った後、行くために登場 Tarik Muharemovic そして、Brenden Aaronson. Instead 第14 回第3 ラウンドで終了",
+      "summary": "楽にやってみてはいかがですか?チェルシーバックでチャオティックのままですが、相手を恐ろしい場所にドラッグすることができます。あなたを助けます, あなた, 紹介からいくつかの援助を持っているために.Jarred Gillett そして、コール・パーマー? 彼らはキラーコンビネーションのために作られたチェルシー刺繍と処理 Stamford Bridge 人生の1 つの希少性:第3 ラウンドの古典 EFL カップ. ギレット, 彼はキーコールを作るとき、常に推測するように見えるレフリー, リーとしてビランだった",
       "title_original": "Cole Palmer powers Chelsea to comeback win over Leeds in nine-goal epic",
-      "summary_original": "Where’s the fun in doing it the easy way? Chelsea remain chaotic and this almost went down as Xabi Alonso’s first misjudgment since taking over. The Carabao Cup matters for Chelsea given their lack of European football, but Alonso rotated too much and escaped it after a quadruple half-time substitution got his team out of a bind. Leeds appeared to be going through after going 2-0 up thanks to goals from Tarik Muharemovic and Brenden Aaronson. Instead they exited in the third round for the 14th t",
+      "summary_original": "Where’s the fun in doing it the easy way? Chelsea remain chaotic at the back but can drag their opponents into horrible places. It helps, mind you, to have some assistance from the referee. Jarred Gillett and Cole Palmer? They made for a killer ­combination as Chelsea swerved embarrassment and treated Stamford Bridge to one of life’s rarities: a classic in the third round of the Carabao Cup. Gillett, a referee who always seems to be guessing when he makes key calls, was the villain as far as Lee",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/09/chelsea-leeds-carabao-cup-third-round-match-report",
       "published": "Wed, 09 Sep 2026 21:18:55 GMT",
@@ -3292,9 +3296,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Gauff がスリラーを獲得した後、Khachanov 対 Blockx からアップデート",
+      "title": "「世界で数少ない勝利はできる」 -How Gauffstunned Andreeva へ 到達 セミ",
       "summary": "",
-      "title_original": "US Open LIVE! Updates from Khachanov vs Blockx after Gauff wins thriller",
+      "title_original": "'A victory few in the world are capable of' - How Gauff stunned Andreeva to reach semis",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13583384/us-open-live-scores-updates-news-commentary-results-from-new-york-with-elena-rybakina-coco-gauff-and-mirra-andreeva-all-in-action",
