@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T20:51:07.417763+00:00",
+  "updated_at": "2026-09-09T21:06:03.733193+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2225,7 +2225,10 @@
     "Atletico Madrid LIVE": "",
     "Wasteful Arsenal": "",
     "Late Miovski": "",
-    "St Johnstone LIVE": ""
+    "St Johnstone LIVE": "",
+    "Camp Nou Demirovic": "",
+    "Viking Raphinha": "",
+    "Camp Nou. The": ""
   },
   "items": [
     {
@@ -2655,7 +2658,7 @@
       "summary_original": "⚽ Champions League and Carabao Cup match updates ⚽ Live scoreboard | Read Football Daily | And mail Daniel In Barcelona, by the way, Shaqueel van Persie has come on for Feyenoord, making his European debut . Any idea who his old fella is? On which point, have you seen Liam van Nistelrooy’s running gait? Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
-      "published": "Wed, 09 Sep 2026 20:36:19 GMT",
+      "published": "Wed, 09 Sep 2026 20:49:23 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -2669,7 +2672,7 @@
       "summary_original": "⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scoreboard | Read Football Daily | And email Scott 2 min: Arsenal are wearing red shorts. Full marks for considering those with colour blindness, and acting with compassion. It doesn’t look good, mind. It’s just not Arsenal. After a moment to remember the victims of the devastating floods in Nepal, Arsenal get the ball rolling. A blistering atmosphere at the Stadio Diego Armando Maradona; did anyone expect anything else? Continue readin",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
-      "published": "Wed, 09 Sep 2026 20:34:40 GMT",
+      "published": "Wed, 09 Sep 2026 20:49:09 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -2701,6 +2704,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チャンピオンズリーグラウンドアップ:ラフィーニャ輝きとしてバルセロナスラッシュフェイエノールト",
+      "summary": "ブラジルのスコアは、5-1 で2 回を獲得 Camp Nou Demirovic スコアハットトリックとしてシュトゥットガルトビートバイキングラフィーニャボールン・ド・オル・ショートリストから省略された後、彼の目標は、次のように2 回窒息させますバルセロナ5-1 勝つために容易フェイエノールト獲得を問い合わせチャンピオンズリーグ. ブラジルは、名誉ある賞のための候補者の今週の30strong リストからの驚きの権限だったが、雨に浸された彼の初期のシーズンの暑さを続行するために脇に任意の失望をブラシをかけた Camp Nou. The",
+      "title_original": "Champions League roundup: Raphinha shines as Barcelona thrash Feyenoord",
+      "summary_original": "Brazilian scores twice in 5-1 victory at the Camp Nou Demirovic scores hat-trick as Stuttgart beat Viking Raphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist, striking twice as Barcelona eased to a 5-1 win over Feyenoord in the Champions League. The Brazilian was a surprise omission from this week’s 30-strong list of candidates for the prestigious award but brushed any disappointment aside to continue his early season hot streak at a rain-soaked Camp Nou. The",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain",
+      "published": "Wed, 09 Sep 2026 20:06:05 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3055,20 +3072,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "MLS の移籍市場そして、立ち上がり続ける支出ライン",
-      "summary": "リーグの30 部を越える夏の過ごし方がバルーンです。リーグの3 つのテイクアウトをご紹介します移籍市場2026 年の影で World Cup リーグとルールの変更の潜在的なセットをぶら下げ、Major League Soccer’s サマー移籍市場不確実性、多様な戦略、記録的な支出によって定義されたものでした。4 位だった移籍市場 MLS はクラブが伝統的なクラブで他のクラブからプレイヤーを購入することを許可しているため移籍金一般的な配分ではなく",
-      "title_original": "MLS’s transfer window and the spending line that keeps going up",
-      "summary_original": "Summer spending across the league’s 30 clubs has ballooned. Here are three takeaways from the league’s transfer window With the shadow of the 2026 World Cup hanging over the league and a potential set of rule changes looming, Major League Soccer’s summer transfer window was one defined by uncertainty, diverse strategies and record spending. It was the fourth transfer window since MLS allowed clubs to purchase players from other clubs using traditional transfer fees rather than general allocation",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/mls-transfer-window-spending",
-      "published": "Tue, 08 Sep 2026 17:00:44 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "エヴァートン最新:キーポジションでショート? コストのコスト移籍市場評価される",
       "summary": "",
       "title_original": "Everton latest: Short in key positions? The cost of the transfer window assessed",
@@ -3083,9 +3086,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "獲得を問い合わせ 12 分で4 つの目標チェルシーコントロール対リーズライブ!",
+      "title": "MADNESS としてチェルシー5-3 上に行くリーズライブ!",
       "summary": "",
-      "title_original": "INCREDIBLE! Four goals in 12 minutes put Chelsea in control vs Leeds LIVE!",
+      "title_original": "MADNESS as Chelsea go 5-3 up on Leeds LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/live/577586",
@@ -3097,9 +3100,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Mac Allister ブラストリヴァプール正面から Atletico LIVE!",
+      "title": "Mac Allister ブラストリヴァプール勝つために Atletico LIVE!",
       "summary": "",
-      "title_original": "Mac Allister blasts Liverpool in front against Atletico LIVE!",
+      "title_original": "Mac Allister blasts Liverpool to victory over Atletico LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-atletico-madrid/live/577604",
@@ -3139,9 +3142,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Odegaard はブレークスルーを作るアーセナルに対してナポリライブ!",
+      "title": "Odegaard は優勢のために勝ちますアーセナルに対してナポリライブ!",
       "summary": "",
-      "title_original": "Odegaard makes breakthrough for Arsenal against Napoli LIVE!",
+      "title_original": "Odegaard clinches win for dominant Arsenal against Napoli LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/napoli-vs-arsenal/live/577605",
@@ -3153,9 +3156,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! ガフに直面して Andreeva 脈動の四半期ファイナル",
+      "title": "US Open LIVE! ガフとして反応は、脈動四半期フィナールでアンドレバを倒します",
       "summary": "",
-      "title_original": "US Open LIVE! Gauff facing Andreeva in pulsating quarter-final",
+      "title_original": "US Open LIVE! Reaction as Gauff defeats Andreeva in pulsating quarter-final",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13583384/us-open-live-scores-updates-news-commentary-results-from-new-york-with-elena-rybakina-coco-gauff-and-mirra-andreeva-all-in-action",
@@ -3181,9 +3184,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "West Brom& Norwich の勝利、QPR の Charlton のレベル-Championship LIVE スカイに!",
+      "title": "West Brom& Norwich の勝利、QPR と Charlton の引く -Championship LIVE 空に!",
       "summary": "",
-      "title_original": "West Brom & Norwich win, Charlton level with QPR - Championship LIVE on Sky!",
+      "title_original": "West Brom & Norwich win, Charlton draw with QPR - Championship LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/norwich-city-vs-birmingham-city/live/560568",
@@ -3293,9 +3296,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Late Miovski ゴールシーズレンジャーズビート St Mirren としてセルティックリード St Johnstone LIVE!",
+      "title": "Late Miovski ゴールシーズレンジャーズビート St Mirren としてセルティックで勝つ St Johnstone LIVE!",
       "summary": "",
-      "title_original": "Late Miovski goal sees Rangers beat St Mirren as Celtic lead St Johnstone LIVE!",
+      "title_original": "Late Miovski goal sees Rangers beat St Mirren as Celtic win at St Johnstone LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/st-johnstone-vs-celtic/live/558350",
