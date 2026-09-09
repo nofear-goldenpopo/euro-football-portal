@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T13:53:59.497056+00:00",
+  "updated_at": "2026-09-09T14:06:34.076656+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2168,7 +2168,12 @@
     "Karun Chandhok": "カルン・チャンドック",
     "Edgbaston LIVE": "",
     "Ranking Europe's": "",
-    "Men’s Ballon": ""
+    "Men’s Ballon": "",
+    "Boston Independent Supporters’ Association": "",
+    "The Boston ISA": "",
+    "Gillette Stadium": "ジレット・スタジアム",
+    "Archie Rhind-Tutt": "",
+    "Edgbaston. Watch": ""
   },
   "items": [
     {
@@ -2690,30 +2695,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ファーストハーフトトレブルパワーアストン・ヴィラ獲得を問い合わせチャンピオンズリーグで勝つクラブ・ブルッヘ",
-      "summary": "アストン・ヴィラ43 分後3〜3 分が経ちましたが、シーズンの最初の勝利のために汗をかくために作られました。チャンピオンズリーグオープンクラブ・ブルッヘ. ジョン・マッギン, 誰が Villa belatedly が彼らの季節を上り、去った9 月から実行したときに唯一の目標を打ったボローニャ、前にスコアリングを開けて下さい Emi Buendía 初めての目標 Nicolas Jackson クラレットと青は、半時間にヴィラを視界から出して登場しました。The Belgian 側面は VIE 以来の馴染みの葉になりました",
-      "title_original": "First-half treble powers Aston Villa to Champions League win at Club Brugge",
-      "summary_original": "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, emerging victorious from an entertaining Champions League opener with Club Brugge. John McGinn, who struck the only goal when Villa belatedly got their season up and running last September against Bologna , opened the scoring before Emi Buendía and a first goal for Nicolas Jackson in claret and blue appeared to put Villa out of sight at half-time. The Belgian side have become familiar foes since Vi",
+      "title": "「ゲームデーのハートビート」:ボストンの NWSL ファンが地上から文化を築いた方法",
+      "summary": "1 つのフランチャイズの喪失を通して、名前の議論やスタジアムの変更を通じて、レガシーサポーターズはアドボカシーの環境を作成しており、2 年以上の作業がこの瞬間に主導しました Boston Independent Supporters’ Association(ISA). ボストンの新しい NWSL チームに名前、マスコット、またはロスターがありましたが、ファンの組織化、準備が整え、待ち合わせがありました。2 ゴールフランチャイズ。2026 年3 月14 日、ついに支払いました。The Boston ISA 会員が参加するジレット・スタジアム脚用",
+      "title_original": "‘The heartbeat of game day’: how NWSL fans in Boston built culture from the ground up",
+      "summary_original": "Through the loss of one franchise, name controversies and stadium changes, Legacy supporters have created an environment of advocacy and belonging More than two years of work had led to this moment for the Boston Independent Supporters’ Association (ISA). Even before Boston’s new NWSL team had a name, a mascot or a roster, there were fans organizing, ready and waiting to embrace the franchise. On 14 March 2026, it finally paid off. The Boston ISA members marched into Gillette Stadium for the Leg",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/club-brugge-aston-villa-champions-league-match-report",
-      "published": "Tue, 08 Sep 2026 18:54:02 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ニューカッスル進歩として Joe Willock レイト レイト オフ ravaged Millwall",
-      "summary": "ニューカッスルサウス・イースト・ロンドンで、次のラウンドに進みました EFL カップ. ジョー・ウィロックは、骨の下にある骨のように、骨の骨にそれほど下がっていなかった精神的なミルウォールチームに対して、この自治、楽しい、わずかに漠然としたカップタイの唯一の目標を獲得しました。最後はファンのセットがもっとも満足していなかった感じでした。パフォーマンスとパフォーマンスの活力のためのミルウォールニューカッスル結果について、クリーンシートと t の夜明けの初期の進行の兆候",
-      "title_original": "Newcastle progress as Joe Willock strikes late to see off ravaged Millwall",
-      "summary_original": "Newcastle did just enough in south-east London to progress to the next round of the Carabao Cup. Joe Willock scored the only goal of this boisterous, fun, slightly vague cup tie against a spirited Millwall team that was not so much down to the bare bones, as the bones beneath the bones. By the end there was a sense both sets of fans were more or less happy. Millwall for the vigour of the performance and Newcastle for the result, the clean sheet and any signs of early progress in the dawning of t",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/millwall-newcastle-carabao-cup-third-round-match-report",
-      "published": "Tue, 08 Sep 2026 21:07:57 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/sep/09/boston-legacy-nwsl-fans",
+      "published": "Wed, 09 Sep 2026 13:45:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2802,6 +2793,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ニューカッスル進歩として Joe Willock レイト レイト オフ ravaged Millwall",
+      "summary": "ニューカッスルサウス・イースト・ロンドンで、次のラウンドに進みました EFL カップ. ジョー・ウィロックは、骨の下にある骨のように、骨の骨にそれほど下がっていなかった精神的なミルウォールチームに対して、この自治、楽しい、わずかに漠然としたカップタイの唯一の目標を獲得しました。最後はファンのセットがもっとも満足していなかった感じでした。パフォーマンスとパフォーマンスの活力のためのミルウォールニューカッスル結果について、クリーンシートと t の夜明けの初期の進行の兆候",
+      "title_original": "Newcastle progress as Joe Willock strikes late to see off ravaged Millwall",
+      "summary_original": "Newcastle did just enough in south-east London to progress to the next round of the Carabao Cup. Joe Willock scored the only goal of this boisterous, fun, slightly vague cup tie against a spirited Millwall team that was not so much down to the bare bones, as the bones beneath the bones. By the end there was a sense both sets of fans were more or less happy. Millwall for the vigour of the performance and Newcastle for the result, the clean sheet and any signs of early progress in the dawning of t",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/08/millwall-newcastle-carabao-cup-third-round-match-report",
+      "published": "Tue, 08 Sep 2026 21:07:57 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ファーストハーフトトレブルパワーアストン・ヴィラ獲得を問い合わせチャンピオンズリーグで勝つクラブ・ブルッヘ",
+      "summary": "アストン・ヴィラ43 分後3〜3 分が経ちましたが、シーズンの最初の勝利のために汗をかくために作られました。チャンピオンズリーグオープンクラブ・ブルッヘ. ジョン・マッギン, 誰が Villa belatedly が彼らの季節を上り、去った9 月から実行したときに唯一の目標を打ったボローニャ、前にスコアリングを開けて下さい Emi Buendía 初めての目標 Nicolas Jackson クラレットと青は、半時間にヴィラを視界から出して登場しました。The Belgian 側面は VIE 以来の馴染みの葉になりました",
+      "title_original": "First-half treble powers Aston Villa to Champions League win at Club Brugge",
+      "summary_original": "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, emerging victorious from an entertaining Champions League opener with Club Brugge. John McGinn, who struck the only goal when Villa belatedly got their season up and running last September against Bologna , opened the scoring before Emi Buendía and a first goal for Nicolas Jackson in claret and blue appeared to put Villa out of sight at half-time. The Belgian side have become familiar foes since Vi",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/08/club-brugge-aston-villa-champions-league-match-report",
+      "published": "Tue, 08 Sep 2026 18:54:02 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "選手権のラウンドアップ:ウェストハムボウンダブルシンクボルトの後にトップに行く",
       "summary": "イングランドのフォワードスコアは2 回 3-2 勝 ナンプトン 3-1 スワンシー; ワトフォード 2-1Preston Captain Jarrod Bowen スコアは2 回としてウェストハム’s 3-2 は、Bolton で優勝し、ゴールの差で優勝しました。The England インテル国家は13 分後にスコアリングを開いて、その側は31 年間ボルトンで勝利し、13 分から13 分を獲得しました。間に, ワンダー, 4 成功のアウトのために打ち負, ミッドフィールドワーダーを介して等しい Ethan Erhahon’s クラブのためのメイドのゴール",
       "title_original": "Championship roundup: West Ham go top after Bowen double sinks Bolton",
@@ -2841,34 +2860,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "航空交通混乱遅延アーセナルナポリへのフライトチャンピオンズリーグ",
-      "summary": "南部のホテルで遅く到着 Italy Jurriën Timber5 月初旬にスクワットアーセナル開口部の準備チャンピオンズリーグゲーム対ナポリ彼らは英国を渡る空港に影響を受けた旅行カオスに巻き込まれた後、混乱してきました。ミケル・アルテタプレマッチプレス会議をキャンセルする余儀なくされたスタディオ・ディエゴ・アルマンド・マラドーナ火曜日以降アーセナルフライトは、エア・トラフィック・コントロールの問題によって厳しく遅れていました。アーセナルマネージャーとマネージャー",
-      "title_original": "Air traffic chaos delays Arsenal flight to Naples for Champions League",
-      "summary_original": "Team arriving late at their hotel in southern Italy Jurriën Timber in squad for first time since May Arsenal’s preparations for their opening Champions League game against Napoli have been disrupted after they were caught up in the travel chaos that affected airports across the UK. Mikel Arteta was forced to cancel his pre-match press conference at the Stadio Diego Armando Maradona on Tuesday after Arsenal’s flight was severely delayed by an air-traffic control issue. The Arsenal manager and his",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/air-traffic-chaos-delays-arsenal-flight-to-naples-for-champions-league",
-      "published": "Tue, 08 Sep 2026 18:38:24 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "半分のプレミアリーグ禁止されていないギャンブル会社が禁止されている場合、クラブは有利なスポンサーを失うに直面しています",
-      "summary": "10 クラブは、翌年ラドブロークの所有者が PM の立場を強調するポンドの十億ポンドを失う可能性がありますエヴァートンファンの半分のプレミアリーグ’20 クラブは、政府が開発する計画の下で違法な来年することができ、ライセンスされていないギャンブル会社とスポンサーシップまたは広告移籍を持っています。水曜日に英国でライセンスされていないギャンブル会社からスポンサーシップを禁止する提案に関する8 週間の協議, Ladbrokes などのライセンス事業者と William Hill 投稿されたアガ",
-      "title_original": "Half of Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned",
-      "summary_original": "Ten clubs could lose tens of millions of pounds next year Ladbrokes owner highlights PM’s position as Everton fan Half of the Premier League’s 20 clubs have sponsorship or advertising deals with unlicensed gambling companies that could be illegal next year under plans being developed by the government. An eight-week consultation on proposals to ban sponsorship from gambling companies not licensed in the UK closes on Wednesday, with licensed operators such as Ladbrokes and William Hill pitted aga",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government",
-      "published": "Tue, 08 Sep 2026 14:15:44 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3009,6 +3000,34 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハーランド二重でとしてチャンピオンズリーグリターン |Football Weekly– ビデオ",
+      "summary": "Max Rushden 参加する Barry Glendenning , Nicky Bandini そして、Archie Rhind-Tutt 戻りの議論チャンピオンズリーグ続きを読む...",
+      "title_original": "Haaland at the double as Champions League returns | Football Weekly – video",
+      "summary_original": "Max Rushden is joined by Barry Glendenning , Nicky Bandini and Archie Rhind-Tutt to discuss the return of the Champions League Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/sep/09/haaland-at-the-double-as-champions-league-returns-football-weekly-video-podcast",
+      "published": "Wed, 09 Sep 2026 12:09:07 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "スコアカード:イングランド対パキスタン、第3 テスト",
+      "summary": "イングランドとパキスタン間の3 分の最終テストマッチからの最新スコア Edgbaston. Watch ライブ Sky Sports.",
+      "title_original": "Scorecard: England vs Pakistan, third Test",
+      "summary_original": "Latest score from the third and final Test match between England and Pakistan at Edgbaston. Watch live on Sky Sports Cricket.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/england-v-pakistan/scorecard/c2f248cf-f4cf-5338-8bf2-475060a6a70f",
+      "published": "Wed, 09 Sep 2026 14:47:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3271,20 +3290,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/report/560559",
       "published": "Tue, 08 Sep 2026 22:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Can Carrick マンチェスターダービーの前に回転する余裕はありますか?",
-      "summary": "「少しの圧力をかけます United. They've 今週はシティとヨーロッパのゲームが始まります。",
-      "title_original": "Can Carrick afford to rotate before Manchester derby?",
-      "summary_original": "\"It puts a bit of pressure on United. They've got City next week and European games starting in midweek.\"",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582686/manchester-uniteds-squad-depth-analysed-as-gary-neville-claims-michael-carrick-is-under-pressure-ahead-of-champions-league-return",
-      "published": "Wed, 09 Sep 2026 09:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
