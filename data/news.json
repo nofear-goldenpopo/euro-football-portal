@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T22:06:31.702016+00:00",
+  "updated_at": "2026-09-09T22:24:10.172460+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2262,7 +2262,11 @@
     "Ibrox. Back": "",
     "St Mirren’s Australian": "",
     "Jacob Chapman": "",
-    "Pride Park": ""
+    "Pride Park": "",
+    "Camp Nou Torres": "",
+    "Slovan Bratislava Raphinha": "",
+    "New York City": "ニューヨーク",
+    "Arthur Ashe Stadium": ""
   },
   "items": [
     {
@@ -2714,9 +2718,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "コール・パーマーパワーチェルシー対面に勝つためにリーズ nine-goal の叙事詩",
+      "title": "コール・パーマーパワーチェルシーカムバック勝つためにリーズ nine-goal の叙事詩",
       "summary": "楽にやってみてはいかがですか?チェルシーチャオティックのままで、ほぼそのまま下がったシャビ・アロンソ’ s は、受け継がれから最初の偽造. ザ・オブ・ザ・EFL カップ重要事項チェルシーヨーロッパのサッカーの欠如を与えられたが、Alonso はあまりにも多くの回転し、四倍の半時間の置換がバインドから彼のチームを得た後、それをエスケープしました。リーズから目標のおかげで2-0 を上回った後、行くために登場 Tarik Muharemovic そして、Brenden Aaronson. Instead 第14 回第3 ラウンドで終了",
-      "title_original": "Cole Palmer powers Chelsea to comeback win against Leeds in nine-goal epic",
+      "title_original": "Cole Palmer powers Chelsea to comeback win over Leeds in nine-goal epic",
       "summary_original": "Where’s the fun in doing it the easy way? Chelsea remain chaotic and this almost went down as Xabi Alonso’s first misjudgment since taking over. The Carabao Cup matters for Chelsea given their lack of European football, but Alonso rotated too much and escaped it after a quadruple half-time substitution got his team out of a bind. Leeds appeared to be going through after going 2-0 up thanks to goals from Tarik Muharemovic and Brenden Aaronson. Instead they exited in the third round for the 14th t",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/09/chelsea-leeds-carabao-cup-third-round-match-report",
@@ -2757,12 +2761,12 @@
     },
     {
       "title": "チャンピオンズリーグラウンドアップ:ラフィーニャ輝きとしてバルセロナスラッシュフェイエノールト",
-      "summary": "ブラジルのスコアは、5-1 で2 回を獲得カンプ・ノウフェラントーレススコアハットトリックとしてパリ・サンジェルマン thump ブラチスラヴァラフィーニャボールン・ド・オル・ショートリストから省略された後、彼の目標は、次のように2 回窒息させますバルセロナ5-1 勝つために容易フェイエノールト獲得を問い合わせチャンピオンズリーグ. ブラジルは、名誉ある賞のための候補者の今週の30strong リストからの驚きの権限だったが、雨に浸された彼の初期のシーズンの暑さを続行するために脇に任意の失望をブラシをかけたカンプ・ノウ.",
+      "summary": "ブラジルのスコアは、5-1 で2 回を獲得カンプ・ノウトーレススコアハットトリックとしてパリ・サンジェルマンログインスロヴァン・ブラチスラヴァ ラフィーニャボールン・ド・オル・ショートリストから省略された後、彼の目標は、次のように2 回窒息させますバルセロナ5-1 勝つために容易フェイエノールト獲得を問い合わせチャンピオンズリーグ. ブラジルは、名誉ある賞のための候補者の今週の30strong リストからの驚きの権限だったが、雨に浸された彼の初期のシーズンの暑さを続行するために脇に任意の失望をブラシをかけたカンプ・ノウ. ザ・",
       "title_original": "Champions League roundup: Raphinha shines as Barcelona thrash Feyenoord",
-      "summary_original": "Brazilian scores twice in 5-1 victory at the Camp Nou Ferran Torres scores hat-trick as PSG thump Bratislava Raphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist, striking twice as Barcelona eased to a 5-1 win over Feyenoord in the Champions League. The Brazilian was a surprise omission from this week’s 30-strong list of candidates for the prestigious award but brushed any disappointment aside to continue his early season hot streak at a rain-soaked Camp Nou. ",
+      "summary_original": "Brazilian scores twice in 5-1 victory at Camp Nou Torres scores hat-trick as PSG thump Slovan Bratislava Raphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist, striking twice as Barcelona eased to a 5-1 win over Feyenoord in the Champions League. The Brazilian was a surprise omission from this week’s 30-strong list of candidates for the prestigious award but brushed any disappointment aside to continue his early season hot streak at a rain-soaked Camp Nou. The ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain",
-      "published": "Wed, 09 Sep 2026 20:06:05 GMT",
+      "published": "Wed, 09 Sep 2026 22:08:45 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -3106,20 +3110,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシーヒット SIX 後半の目標 オフを見るリーズ獲得を問い合わせ EFL カップクラシック",
-      "summary": "信じられないほどのセカンドハーフのカムバックには、41 分で6 つの目標が含まれていますチェルシー最後に吹き飛ばすリーズ6-3 オールタイム EFL カップクラシック Stamford Bridge.",
-      "title_original": "Chelsea hit SIX second-half goals to see off Leeds in Carabao Cup classic",
-      "summary_original": "An incredible second-half comeback including six goals in 41 minutes saw Chelsea finally blow away Leeds 6-3 in one of the all-time Carabao Cup classics at Stamford Bridge.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/577586",
-      "published": "Wed, 09 Sep 2026 22:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "West Brom ダービーで10 人の男性と勝利して、チャンピオンシップを上に移動",
       "summary": "West BromDerby で思い出に残る1-0 勝利を祝った Pride Park10 人の男性と1 時間以上プレイした後。",
       "title_original": "West Brom win with 10 men at Derby to move top of Championship",
@@ -3131,6 +3121,34 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アルカラスに対するシェルトンの初期仕上げ後の変更は必要ですか?",
+      "summary": "時計は3.33am ローカル時間に刻まれていますニューヨークいつかベン・シェルトンビート Carlos Alcaraz 数千ものデリラシーなテニスファンが中を楽しもうアーサー・アッシュスタジアム、しかし、これらの早期終了を止めるために何かしなければならない?",
+      "title_original": "Is change needed after Shelton's early-morning finish against Alcaraz?",
+      "summary_original": "The clock ticked to 3.33am local time in New York City when Ben Shelton beat Carlos Alcaraz with a clean ace to the delight of thousands of delirious tennis fans still inside Arthur Ashe Stadium, but does something have to be done to stop these early-morning finishes?",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13583739/us-open-3-33am-local-time-and-another-early-morning-finish-as-ben-shelton-beat-carlos-alcaraz-so-does-something-have-to-change",
+      "published": "Wed, 09 Sep 2026 23:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェルシーヒット SIX 後半の目標 オフを見るリーズ獲得を問い合わせ EFL カップクラシック",
+      "summary": "信じられないほどのセカンドハーフのカムバックには、41 分で6 つの目標が含まれていますチェルシー最後に吹き飛ばすリーズ6-3 オールタイム EFL カップクラシック Stamford Bridge.",
+      "title_original": "Chelsea hit SIX second-half goals to see off Leeds in Carabao Cup classic",
+      "summary_original": "An incredible second-half comeback including six goals in 41 minutes saw Chelsea finally blow away Leeds 6-3 in one of the all-time Carabao Cup classics at Stamford Bridge.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/577586",
+      "published": "Wed, 09 Sep 2026 22:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3149,9 +3167,9 @@
     },
     {
       "title": "信じられないほどのコールバック後、セミで新しい世界を直面する Gauff No 1 Rybakina",
-      "summary": "Coco Gauff 十代の3 セット勝利に彼女の方法で2 つのマッチポイントを保存全仏オープン受賞者 Mirra Andreeva 新規所有の世界 No1 でセミファイナルのショーダウンを設定エレーナ・リバキナ.",
+      "summary": "Coco Gauff 十代の3 セット勝利に彼女の方法で2 つのマッチポイントを保存全仏オープン受賞者 Mirra Andreeva 新しく戴冠した世界とセミファイナルのショーダウンを1 台セットアップエレーナ・リバキナ.",
       "title_original": "Gauff to face new world No 1 Rybakina in semis after incredible comeback",
-      "summary_original": "Coco Gauff saved two match points on her way to a three-set victory over teenage French Open winner Mirra Andreeva which set up a semi-final showdown with newly-crowned world No 1 Elena Rybakina.",
+      "summary_original": "Coco Gauff saved two match points on her way to a three-set victory over teenage French Open winner Mirra Andreeva which set up a semi-final showdown with newly crowned world No 1 Elena Rybakina.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13583707/us-open-2026-coco-gauff-mounts-stunning-comeback-to-set-up-elena-rybakina-semi-final",
       "published": "Wed, 09 Sep 2026 19:41:00 BST",
@@ -3218,6 +3236,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "QPR は、ゴールレス・ドロー後にシャルトンで上を移動するチャンスを逃します",
+      "summary": "QPR は、チャルトンで0〜0 の引くために、チャンピオンシップテーブルのトップに行くチャンスを逃しました。",
+      "title_original": "QPR miss chance to move top after goalless draw at Charlton",
+      "summary_original": "QPR missed the chance to go top of the Championship table as they were held to a 0-0 draw at Charlton.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/charlton-athletic-vs-queens-park-rangers/report/560566",
+      "published": "Wed, 09 Sep 2026 21:45:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ナポリ 0-1 アーセナル解説と反応",
       "summary": "",
       "title_original": "Napoli 0-1 Arsenal commentary and reaction",
@@ -3256,20 +3288,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "QPR は、ゴールレス・ドロー後にシャルトンで上を移動するチャンスを逃します",
-      "summary": "QPR は、チャルトンで0〜0 の引くために、チャンピオンシップテーブルのトップに行くチャンスを逃しました。",
-      "title_original": "QPR miss chance to move top after goalless draw at Charlton",
-      "summary_original": "QPR missed the chance to go top of the Championship table as they were held to a 0-0 draw at Charlton.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/charlton-athletic-vs-queens-park-rangers/report/560566",
-      "published": "Wed, 09 Sep 2026 21:45:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3316,13 +3334,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'Chickens は PCB の roost'に「dismal」のバッキングコストパキスタンとして家を着ています",
-      "summary": "パキスタンは、イングランドに対して3 つのマッチシリーズの3 つ目のテストにダーククラウドを組み入れたと言っても不当ではありません。オフフィールドの問題は、フィールドのアンダーワーミング・オン・フィールド・ディスプレイと相まって、完璧な嵐を作成するために組み合わせています。",
-      "title_original": "'Chickens come home to roost' for PCB as 'dismal' batting costs Pakistan",
-      "summary_original": "It is not unreasonable to say that Pakistan entered the third Test of their three-match series against England with a dark cloud over them - off-field issues, coupled with the underwhelming on-field displays, combining to create the perfect storm.",
+      "title": "EFL 最新: 'Sick of it!' - ジョーンズ・スラムの決定は、Charlton のゴール対 QPR を支配します",
+      "summary": "",
+      "title_original": "EFL latest: 'Sick of it!' - Jones slams decision to rule out Charlton goal vs QPR",
+      "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13583609/england-vs-pakistan-chickens-come-home-to-roost-for-pcb-as-dismal-batting-sees-tourists-bowled-out-within-34-overs-in-final-test",
-      "published": "Wed, 09 Sep 2026 15:08:00 BST",
+      "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "published": "Wed, 09 Sep 2026 23:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3330,13 +3348,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "EFL 最新:Three Championship スカイナイトでライブ!",
-      "summary": "",
-      "title_original": "EFL latest: Three Championship games live on Sky tonight!",
-      "summary_original": "",
+      "title": "'Chickens は PCB の roost'に「dismal」のバッキングコストパキスタンとして家を着ています",
+      "summary": "パキスタンは、イングランドに対して3 つのマッチシリーズの3 つ目のテストにダーククラウドを組み入れたと言っても不当ではありません。オフフィールドの問題は、フィールドのアンダーワーミング・オン・フィールド・ディスプレイと相まって、完璧な嵐を作成するために組み合わせています。",
+      "title_original": "'Chickens come home to roost' for PCB as 'dismal' batting costs Pakistan",
+      "summary_original": "It is not unreasonable to say that Pakistan entered the third Test of their three-match series against England with a dark cloud over them - off-field issues, coupled with the underwhelming on-field displays, combining to create the perfect storm.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "published": "Tue, 08 Sep 2026 23:13:00 BST",
+      "url": "https://www.skysports.com/cricket/news/12040/13583609/england-vs-pakistan-chickens-come-home-to-roost-for-pcb-as-dismal-batting-sees-tourists-bowled-out-within-34-overs-in-final-test",
+      "published": "Wed, 09 Sep 2026 15:08:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3369,20 +3387,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チャンドホーク:フェラーリのために運転していないとアントネリオフ圧力を取った",
-      "summary": "スカイスポーツ F1's カルン・チャンドック信じる Kimi Antonelli フェラーリではなくメルセデスのために運転し、イタリアの圧力を払っていました。",
-      "title_original": "Chandhok: Not driving for Ferrari has taken pressure off Antonelli",
-      "summary_original": "Sky Sports F1's Karun Chandhok believes Kimi Antonelli driving for Mercedes, rather than Ferrari, has taken some pressure off the Italian.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13583240/kimi-antonelli-driving-for-mercedes-rather-than-ferrari-has-taken-pressure-off-italian-says-karun-chandhok",
-      "published": "Wed, 09 Sep 2026 14:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
