@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T14:42:19.696140+00:00",
+  "updated_at": "2026-09-09T14:54:10.018575+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2175,7 +2175,12 @@
     "Archie Rhind-Tutt": "",
     "Edgbaston. Watch": "",
     "Three Championship": "",
-    "Sky Sports NFL": "Sky Sports"
+    "Sky Sports NFL": "Sky Sports",
+    "Alan Irvine": "",
+    "Sebastien Pocognoli": "セバスチャン・ポコニョーリ",
+    "Alf Inge": "",
+    "Pablo Rosario": "",
+    "Tuesday. The": ""
   },
   "items": [
     {
@@ -2218,6 +2223,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "イルバインは Pocognoli がスコットランドのスタッフをリフレッシュするように滞在",
+      "summary": "エヴァートンアシスタント Alan Irvine 引き続き、新しい上司の下でリフレッシュスコットランドのコーチングスタッフの一環としてセバスチャン・ポコニョーリ.",
+      "title_original": "Irvine stays as Pocognoli refreshes Scotland staff",
+      "summary_original": "Everton assistant Alan Irvine will continue as part of a refreshed Scotland coaching staff under new boss Sebastien Pocognoli.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cyvzn5d97y3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 14:39:26 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2305,20 +2324,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Russo と greenwood nominated のために Ballon d'Or",
-      "summary": "イングランドの星 Alessia Russo そして、Alex Greenwood 女子のボールン・ドールにノミネートされた選手は30 名。",
-      "title_original": "Russo and Greenwood nominated for Ballon d'Or",
-      "summary_original": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 14:40:01 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "717 日以降、9 人の「介護者オーバー」診断後、プレイヤーは「実質的」リターンをします",
       "summary": "オールダーショット・タウン FC ディフェンダーOllie Harfield 深刻な膝の傷害の後で行為への彼のリターンについての話。",
       "title_original": "After 717 days and nine 'career over' diagnoses, player makes 'surreal' return",
@@ -2326,6 +2331,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c93e9vn9vgvo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 11:42:10 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Russo と greenwood nominated のために Ballon d'Or",
+      "summary": "イングランドの星 Alessia Russo そして、Alex Greenwood 女子のボールン・ドールにノミネートされた選手は30 名。",
+      "title_original": "Russo and Greenwood nominated for Ballon d'Or",
+      "summary_original": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 14:40:01 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2585,24 +2604,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプール新しくプロモーションされたシャルトン 4-0 を破る",
-      "summary": "Grace Fisk スコアは2 回としてリヴァプールチャルトンを新たに推進 Women's Super League 獲得を問い合わせ The Valley.",
-      "title_original": "Liverpool beat newly-promoted Charlton 4-0",
-      "summary_original": "Grace Fisk scores twice as Liverpool beat newly promoted Charlton in the Women's Super League at The Valley.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckgvx2y657go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 18:53:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Men’s Ballond’Or 2026 パワーランキング:25 年ぶりに英語の勝者はありますか?",
-      "summary": "10 月1 日(水)より、当選者賞のショートリストに出場する選手の順位を評価します。ハリー・ケイン(イングランド/バイエルン・ミュンヘン) 目標 drunken のために調節してもブンデスリーガ, 彼の 61 の目標 51 のためのマッチバイエルン最後のシーズンは、彼のプレーメイキングとホールドアップスキルを考慮して、彼のオールラウンドインパクトを発揮します。Kane はイングランドのあとでゲームを予定していた World Cup, しかし、彼は最後から止まりませんでした-16 彼のキャリアの最高の年を閉じるために. なし",
+      "summary": "10 月1 日(水)より、当選者賞のショートリストに出場する選手の順位を評価します。ハリー・ケイン(イングランド/バイエルン・ミュンヘン) 目標 drunken のために調節してもブンデスリーガ, 彼の 61 の目標 51 のためのマッチバイエルン最後のシーズンは、彼のプレーメイキングとホールドアップスキルを考慮して、彼のオールラウンドインパクトを発揮します。Kane はイングランドのあとでゲームを予定していた World Cup, しかし、彼は最後の 16 日までに彼のキャリアの最高の年を閉じるために停止することができませんでした. なし",
       "title_original": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
-      "summary_original": "We assess the standing of the players on the shortlist for the award before the winner is announced in October 1) Harry Kane (England/Bayern Munich) Even adjusting for the goal-drunken Bundesliga, his 61 goals in 51 matches for Bayern last season undersells his all-around impact, considering his playmaking and hold-up skills. Kane was gameplanned out of England’s later games at the World Cup, but he was unstoppable through the last-16 to close out the finest year of his career to date. If not no",
+      "summary_original": "We assess the standing of the players on the shortlist for the award before the winner is announced in October 1) Harry Kane (England/Bayern Munich) Even adjusting for the goal-drunken Bundesliga, his 61 goals in 51 matches for Bayern last season undersells his all-around impact, considering his playmaking and hold-up skills. Kane was gameplanned out of England’s later games at the World Cup, but he was unstoppable through the last 16 to close out the finest year of his career to date. If not no",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe",
       "published": "Wed, 09 Sep 2026 13:04:35 GMT",
@@ -2669,6 +2674,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ロサリオ「私の底を刻む」間にマンチェスター・シティの で勝つポルト, 請求ハーランド",
+      "summary": "フォワードは、事件は「少しだった」と述べましたインテルエステー 見出し練習と Alf Inge オープンアの助けを借りてアーリング・ハーランドクレーム Pablo Rosario「私の底を刻む」マンチェスター・シティ’s 2-0 で勝つポルト獲得を問い合わせ Tuesday. The 第92 分に発生した事故ハーランドシティーの目標を獲得しました。フォワードとミッドフィルダーは、地面に行き、分離した後に予約されました。「私は本当に気にしていたハットトリックそして、彼がとても熱心だったように見えました。ハーランド獲得を問い合わせ",
+      "title_original": "Rosario ‘grabbed my bottom’ during Manchester City’s win at Porto, claims Haaland",
+      "summary_original": "Forward says incident was ‘a little interesting’ Heading practice with Alf Inge helped with opener Erling Haaland has claimed Pablo Rosario “grabbed my bottom” during Manchester City’s 2-0 win at Porto on Tuesday. The incident occurred in the 92nd minute, with Haaland having scored City’s goals. The forward and midfielder grappled, went to ground and were booked after being separated. “I was really keen on a hat-trick and it seemed like he was very eager to stop me from getting it,” Haaland told",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/09/erling-haaland-pablo-rosario-manchester-city-porto-champions-league",
+      "published": "Wed, 09 Sep 2026 14:42:55 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "レアル・マドリード打ち負かす方法インテル獲得を問い合わせジョゼ・モウリーニョビッグナイト",
       "summary": "時々、サッカーは愚かで、時々それはあまり意味をしない、そして時々それはそれのために楽しいです。37 枚のショットとゴールキーパーが13 枚の時折保存した夜、ジョゼ・モウリーニョ’s の現在の側面は彼の元のチームを打ちますインテル獲得を問い合わせチャンピオンズリーグに戻るレアル・マドリード. 正確には尋ねません。おそらくダニを避けるティボー・クルトワから89 分停止を驚かせている、ヘンリク・ムヒタリアン多く説明し、それらを許可, ちょうど, 最初に保持するために",
       "title_original": "Real Madrid somehow cling on to beat Inter on José Mourinho’s big night",
@@ -2676,20 +2695,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report",
       "published": "Tue, 08 Sep 2026 21:18:12 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハーランドダブル プレゼントマンチェスター・シティおすすめチャンピオンズリーグスタートポルト",
-      "summary": "Enzo Maresca ビルドアップでハウスミュージックの「boom-boom」のライクをこの試合に迎え、彼の悲劇的なパフォーマンスを追い越した勝利の甘いノートを楽しんだマンチェスター・シティ雨が降る。市は、競争の中で過去9 のゲームの6 を失い、2021 年に敗北しましたチャンピオンズリーグこの会場で最後まで打ち勝つポルト3 つのポイントを主張すると、マネージャーの nascent プロジェクトに埋め立てられます。続きを読む...",
-      "title_original": "Haaland double gives Manchester City ideal Champions League start in Porto",
-      "summary_original": "Enzo Maresca admitted a liking for the “boom-boom” of house music in the buildup to this match, then enjoyed the sweet notes of victory having overseen a gritty performance from his Manchester City side in incessant rain. City had lost six of their past nine away games in the competition, and been beaten in the 2021 Champions League final at this venue, so to beat Porto and claim three points is a fillip for the manager’s nascent project. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/porto-manchester-city-champions-league-match-report",
-      "published": "Tue, 08 Sep 2026 21:08:19 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -3019,6 +3024,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "US Open LIVE! Rybakina は、Gauff 対 Andreeva と世界 No 1 のために行く",
+      "summary": "",
+      "title_original": "US Open LIVE! Rybakina goes for world No 1 with Gauff vs Andreeva to come",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13583384/us-open-live-scores-updates-news-commentary-results-from-new-york-with-elena-rybakina-coco-gauff-and-mirra-andreeva-all-in-action",
+      "published": "Wed, 09 Sep 2026 15:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "EFL 最新:Three Championship スカイナイトでライブ!",
       "summary": "",
       "title_original": "EFL latest: Three Championship games live on Sky tonight!",
@@ -3278,20 +3297,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
       "published": "Wed, 09 Sep 2026 13:10:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Angel Yin チェックイン Solheim Cup とはいえ、どうやってプレイするの?",
-      "summary": "Geraint Hughes 最新情報 Angel Yin 彼女は到着するように Solheim Cup 深刻な病気の後に、彼女はどのくらい再生しますか?",
-      "title_original": "Angel Yin arrives at Solheim Cup, but how much will she play?",
-      "summary_original": "Geraint Hughes updates us on Angel Yin as she arrives at Solheim Cup after a serious illness but how much she play?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13583459/angel-yin-arrives-at-solhiem-cup-but-how-much-she-play",
-      "published": "Wed, 09 Sep 2026 09:26:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
