@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T04:52:56.859177+00:00",
+  "updated_at": "2026-09-09T05:05:50.948006+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2126,7 +2126,9 @@
     "Real Madrid. Just": "",
     "Henrikh Mkhitaryan": "ヘンリク・ムヒタリアン",
     "Trent Alexander-Arnold": "トレント・アレクサンダー＝アーノルド",
-    "Real Madrid's": ""
+    "Real Madrid's": "",
+    "Mike Macdonald": "",
+    "Chicago Bulls": "シカゴ・ブルズ"
   },
   "items": [
     {
@@ -2970,6 +2972,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "今日更新 Sky Sports Racing: Loriko は Sedgefield で勝ち続ける",
+      "summary": "Sedgefield の機能からアクションをジャンプ Sky Sports Racing 水曜日",
+      "title_original": "Today on Sky Sports Racing: Loriko looks to continue winning run at Sedgefield",
+      "summary_original": "Jumps action from Sedgefield features live on Sky Sports Racing on Wednesday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13582883/today-on-sky-sports-racing-jumps-action-from-sedgefield-features-live-on-wednesday",
+      "published": "Wed, 09 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "F1 のタフなストリートトラックは今まで? なぜ新しい Madring が原因となるのかスペイングランプリカオス",
+      "summary": "フォーミュラ1 は、この週末を楽しみにするための新しいトラックを持っており、予想はカーネーションであり、ドライバーはマドリングで真剣にテストされます。",
+      "title_original": "F1's toughest street track ever? Why new Madring could cause Spanish GP chaos",
+      "summary_original": "Formula 1 has a brand-new track to look forward to this weekend and the expectation is there will be carnage and the drivers will be seriously tested at the Madring.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13583094/spanish-gp-what-to-expect-from-new-madring-track-in-madrid-with-carlos-sainz-predicting-safety-cars-and-red-flags",
+      "published": "Wed, 09 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハネムーンビジョンから Super Bowl- シーホークは再び勝つことができますか?",
+      "summary": "ハネムーンは、真の愛を祝い、将来の NFL ヘッドコーチがプロットする新婚者のためのものです Super Bowl 栄光。少なくとも場合の Mike Macdonald, 誰が今になっていたシカゴ・ブルズ繰り返しのレシピ参照として。",
+      "title_original": "From honeymoon vision to the Super Bowl - can Seahawks win it all again?",
+      "summary_original": "Honeymoons are for newlyweds celebrating true love and for future NFL head coaches plotting Super Bowl glory. At least in the case of Mike Macdonald, who has now turned to the Chicago Bulls as his recipe reference for a repeat.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13583048/seattle-seahawks-jaxon-smith-njigbas-nfl-warning-mike-macdonalds-honeymoon-vision-and-the-super-bowl-champions-quest-for-repeat",
+      "published": "Wed, 09 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Papers: Blow for Man Utd as top、agrees new contract を獲得候補に",
       "summary": "火曜日の新聞から噂を移籍するトップストーリー...",
       "title_original": "Papers: Blow for Man Utd as top target agrees new contract",
@@ -3075,6 +3119,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bournemouth-vs-lincoln-city/report/577572",
       "published": "Tue, 08 Sep 2026 21:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハル'buzzing' は Team Europe 戻り値 | 'She em'2 ゴールソルハイム!",
+      "summary": "Anna Nordqvist シャルリーは言うハル「バズ」は、Solheim Cup 今週はイングリッシュウーマンのエミを見て喜んでいます2 ゴール彼女の成長する役割のための Team Europe.",
+      "title_original": "Hull 'buzzing' for Team Europe return | 'She embraces the Solheim!'",
+      "summary_original": "Anna Nordqvist says Charley Hull is \"buzzing\" to tee it at the Solheim Cup this week and is pleased to see the Englishwoman embrace her growing role for Team Europe.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13583026/solheim-cup-2026-charley-hull-buzzing-for-team-europe-return-as-anna-nordqvist-explains-practice-tee-time-mistake",
+      "published": "Wed, 09 Sep 2026 06:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3191,62 +3249,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Putellas, Russo, Greenwood, Shaw 間に 11 WSL プレイヤー で Ballon d'Or ランニング",
-      "summary": "",
-      "title_original": "Putellas, Russo, Greenwood, Shaw among 11 WSL players in Ballon d'Or running",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-      "published": "Tue, 08 Sep 2026 20:47:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "サバレンカは US Open 隣のペグラで生きた3 ピース入札",
-      "summary": "Aryna Sabalenka 第三次成功の彼女の希望を維持 US Open ウィブルドンのチャンピオンを越える3 セットの勝利とのタイトル Linda Noskova クォーターフィナルを吸収する - 少なくとも1 日のために世界 No 1 として彼女の状態を保持する結果。",
-      "title_original": "Sabalenka keeps US Open three-peat bid alive with Pegula up next",
-      "summary_original": "Aryna Sabalenka maintained her hopes of a third successive US Open title with a battling three-set win over Wimbledon champion Linda Noskova in an absorbing quarter-final - a result that retains her status as world No 1 for at least one more day.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13583242/us-open-2026-aryna-sabalenka-edges-into-semi-finals-with-three-set-win-over-linda-noskova-in-thriller",
-      "published": "Tue, 08 Sep 2026 19:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ボウン火災ウェストハムトップ; サウスプトンウィン - チャンピオンシップハイライト",
-      "summary": "",
-      "title_original": "Bowen fires West Ham top; Southampton win - Championship highlights",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13582850/championship-live-scores-match-updates-and-free-highlights-with-wrexham-west-ham-sheffield-united-in-action",
-      "published": "Tue, 08 Sep 2026 19:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "EFL カップハイライト! ボーンマス,クリスタル・パレス, ニューカッスルすべてを通して",
-      "summary": "",
-      "title_original": "Carabao Cup highlights! Bournemouth, Palace, Newcastle all through",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13582785/carabao-cup-third-round-live-scores-updates-and-free-match-highlights-with-newcastle-sunderland-crystal-palace-in-action",
-      "published": "Tue, 08 Sep 2026 19:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
