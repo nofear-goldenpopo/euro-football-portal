@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T12:07:36.943426+00:00",
+  "updated_at": "2026-09-09T12:32:00.751524+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2162,7 +2162,9 @@
     "Conor Benn": "",
     "Ryan Garcia": "",
     "Saturday’s WBC": "",
-    "Las Vegas": "ラスベガス"
+    "Las Vegas": "ラスベガス",
+    "Aldershot Town": "オールダーショット・タウンFC",
+    "Ollie Harfield": ""
   },
   "items": [
     {
@@ -2306,6 +2308,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "717 日以降、9 人の「介護者オーバー」診断後、プレイヤーは「実質的」リターンをします",
+      "summary": "オールダーショット・タウン FC ディフェンダーOllie Harfield 深刻な膝の傷害の後で行為への彼のリターンについての話。",
+      "title_original": "After 717 days and nine 'career over' diagnoses, player makes 'surreal' return",
+      "summary_original": "Aldershot Town defender Ollie Harfield talks about his return to action after a serious knee injury.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c93e9vn9vgvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 11:42:10 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ショットシャイから目撃まで - ヴィラは勝つ方法を見つけます",
       "summary": "アストン・ヴィラついにシューティングブーツを見つけた3 ゴール獲得を問い合わせクラブ・ブルッヘ- しかし、彼らの勝利はまっすぐではありませんでした。",
       "title_original": "From shot-shy to shoot on sight - Villa find a way to win",
@@ -2316,20 +2332,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5zy1z6y4eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 05:19:23 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2415,6 +2417,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5zy1z6y4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 05:19:23 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2569,20 +2585,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レンジャーズシャンクランドを最大4 ヶ月失う",
-      "summary": "レンジャーズキャプテン Lawrence Shankland ハムストの涙とスコットランドが進むと手術が取れるので、最大4 ヶ月かかります。",
-      "title_original": "Rangers lose Shankland for up to four months",
-      "summary_original": "Rangers captain Lawrence Shankland will be out for up to four months because of a hamstring tear and the Scotland forward may have surgery.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 13:30:33 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3034,9 +3036,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランドが朝の LIVE で SEVEN を浴びるパキスタンのクランブル!",
+      "title": "パキスタンが100-7 に落ちるのは、イングランドの朝の素晴らしいランチ!",
       "summary": "",
-      "title_original": "Pakistan crumbling as England take SEVEN on first morning LIVE!",
+      "title_original": "Pakistan fall to 100-7 at lunch after excellent England morning LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583439/england-vs-pakistan-third-test-day-one-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3174,17 +3176,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Mbappe and Valverde on、as Real Madrid beat Inter Milan を獲得候補に",
+      "title": "メッシ LaLiga 2 チームを購入する",
       "summary": "",
-      "title_original": "Mbappe and Valverde on target as Real Madrid beat Inter Milan",
+      "title_original": "Messi set to buy LaLiga 2 team",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "published": "Tue, 08 Sep 2026 22:42:00 BST",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
+      "published": "Wed, 09 Sep 2026 13:10:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
