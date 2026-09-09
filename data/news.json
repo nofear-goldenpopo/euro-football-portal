@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T14:26:27.801341+00:00",
+  "updated_at": "2026-09-09T14:42:19.696140+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2173,7 +2173,9 @@
     "The Boston ISA": "",
     "Gillette Stadium": "ジレット・スタジアム",
     "Archie Rhind-Tutt": "",
-    "Edgbaston. Watch": ""
+    "Edgbaston. Watch": "",
+    "Three Championship": "",
+    "Sky Sports NFL": "Sky Sports"
   },
   "items": [
     {
@@ -3017,6 +3019,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "EFL 最新:Three Championship スカイナイトでライブ!",
+      "summary": "",
+      "title_original": "EFL latest: Three Championship games live on Sky tonight!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "published": "Tue, 08 Sep 2026 23:13:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "スコアカード:イングランド対パキスタン、第3 テスト",
       "summary": "イングランドとパキスタン間の3 分の最終テストマッチからの最新スコア Edgbaston. Watch ライブ Sky Sports.",
       "title_original": "Scorecard: England vs Pakistan, third Test",
@@ -3126,6 +3142,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "NFL 2026 予測:Super Bowl、MVP および多く",
+      "summary": "予測時間です! 2026 年 NFL シーズンが抜けるにつれて、Sky SportsMVP のお気に入りから自分のピックアップをチームに Super Bowl マッチアップ...",
+      "title_original": "NFL 2026 predictions: Super Bowl, MVP and more",
+      "summary_original": "It's prediction time! As the 2026 NFL season gets under way, the Sky Sports NFL team make their picks - from their MVP favourites to their Super Bowl matchups...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13583402/nfl-2026-predictions-super-bowl-mvp-offensive-and-defensive-player-of-the-year-best-offseason-addition-and-more",
+      "published": "Wed, 09 Sep 2026 14:20:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3265,34 +3295,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Latest Solheim Cup スコア、ペアリング、フルスケジュール",
-      "summary": "最新スコア、結果、ペアリング、ティータイム 20 位 Solheim Cup, として Team Europe ホスト Team USA 獲得を問い合わせ Bernardus Golf 獲得を問い合わせオランダ.",
-      "title_original": "Latest Solheim Cup scores, pairings and full schedule",
-      "summary_original": "Latest scores, results, pairings and tee times for the 20th Solheim Cup, as Team Europe host Team USA at Bernardus Golf in the Netherlands.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13583025/solheim-cup-2026-latest-scores-tee-times-pairings-schedule-leaderboard-as-europe-host-team-usa-at-bernardus-golf",
-      "published": "Wed, 09 Sep 2026 09:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ニューカッスル最新: ホール・ヘイルズ・ジャッスル リフト用 'ネガティビティ'",
-      "summary": "",
-      "title_original": "Newcastle latest: Hall hails Jaissle for lifting 'negativity'",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Tue, 08 Sep 2026 20:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
