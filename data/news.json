@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T19:35:58.202308+00:00",
+  "updated_at": "2026-09-09T19:49:25.776636+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2226,6 +2226,20 @@
   },
   "items": [
     {
+      "title": "スコットランドのクラブは厳しいヨーロッパリーグコース",
+      "summary": "Uefa は、予選ラウンドの変更を行いましたヨーロッパリーグ次の季節から。",
+      "title_original": "Scottish clubs face tougher Europa League route",
+      "summary_original": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99dm80e2r0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 19:30:57 GMT",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "レアル・マドリード? アヤックス? リヴァプール? Ranking Europe's 最高のサッカーの専門性",
       "summary": "パリ・サンジェルマン第三次成功を見ているチャンピオンズリーグ王冠, しかし、彼らはヨーロッパで最も優勢クラブにランク付けする場所?",
       "title_original": "Real Madrid? Ajax? Liverpool? Ranking Europe's greatest football dynasties",
@@ -2296,20 +2310,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "途中で再び - しかしモウリーニョアレクサンダー・アーノルドは「ミッドフィルダーではない」と言う",
-      "summary": "トレント・アレクサンダー＝アーノルドミッドフィールドでスタートレアル・マドリードの 勝つインテル- しかし、ジョゼ・モウリーニョそれは彼の最高の位置ではないと言う.",
-      "title_original": "In the middle again - but Mourinho says Alexander-Arnold 'not a midfielder'",
-      "summary_original": "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c980lgdrlzno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 23:14:36 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "The Rwandan アイニングチャンピオンズリーグ歴史対比マンチェスター・ユナイテッド",
       "summary": "ルワンダフォワード Joy-Lance Mickels 助けられた Azerbaijan's Sabah 到達するチャンピオンズリーグ競争デビューにふさわしいと、チームを応援してもらいたい。",
       "title_original": "The Rwandan eyeing Champions League history against Man Utd",
@@ -2320,6 +2320,20 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "途中で再び - しかしモウリーニョアレクサンダー・アーノルドは「ミッドフィルダーではない」と言う",
+      "summary": "トレント・アレクサンダー＝アーノルドミッドフィールドでスタートレアル・マドリードの 勝つインテル- しかし、ジョゼ・モウリーニョそれは彼の最高の位置ではないと言う.",
+      "title_original": "In the middle again - but Mourinho says Alexander-Arnold 'not a midfielder'",
+      "summary_original": "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c980lgdrlzno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 23:14:36 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2394,20 +2408,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Favourite KaneBallon d'Or ショートリストを作る",
-      "summary": "バイエルン・ミュンヘンストライカーハリー・ケイン2026 ボールン d'Or と一緒にノミネートされた 3 つのイングランドの選手の 1 つジュード・ベリンガムそして、デクラン・ライス.",
-      "title_original": "Favourite Kane makes Ballon d'Or shortlist",
-      "summary_original": "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 15:27:09 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ヨーロッパの次の素晴らしいコーチ?How Fabregas 導かれた Como にチャンピオンズリーグ",
       "summary": "BBC スポーツは、クラブのコーチのビジョンと哲学を発見するためにコモを訪問します,セスク・ファブレガスチームの驚くべき上昇を上回っている人チャンピオンズリーグ.",
       "title_original": "Europe's next great coach? How Fabregas led Como into Champions League",
@@ -2474,6 +2474,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Favourite KaneBallon d'Or ショートリストを作る",
+      "summary": "バイエルン・ミュンヘンストライカーハリー・ケイン2026 ボールン d'Or と一緒にノミネートされた 3 つのイングランドの選手の 1 つジュード・ベリンガムそして、デクラン・ライス.",
+      "title_original": "Favourite Kane makes Ballon d'Or shortlist",
+      "summary_original": "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 15:27:09 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2632,27 +2646,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バウムのスコアはデビューとしてアーセナルエッジブライトン",
-      "summary": "Lisa Baum 彼女のスコアアーセナルガンナーズのビートとしてデビューブライトン1-0 で Women's Super League.",
-      "title_original": "Baum scores on debut as Arsenal edge Brighton",
-      "summary_original": "Lisa Baum scores on her Arsenal debut as the Gunners beat Brighton 1-0 in the Women's Super League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/czxz0j29eg2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 16:42:05 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ナポリツイートアーセナル: チャンピオンズリーグ– ライブ",
       "summary": "⚽ チャンピオンズリーグ8pm BST キックオフライブスコアボードからのアップデート |Read Football Daily| スコット 2 分:アーセナル赤いショートパンツを着ています。色の目隠しを意識し、思いやりのある行動をする。見栄えが良くない。それだけではありませんアーセナル. ネパールの洪水被害者を思い出させる瞬間の後、アーセナル球の圧延を得て下さい。自慢の空間スタディオ・ディエゴ・アルマンド・マラドーナ; 誰が何か他のことを期待しましたか? 続きを読む",
       "title_original": "Napoli v Arsenal: Champions League – live",
       "summary_original": "⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scoreboard | Read Football Daily | And email Scott 2 min: Arsenal are wearing red shorts. Full marks for considering those with colour blindness, and acting with compassion. It doesn’t look good, mind. It’s just not Arsenal. After a moment to remember the victims of the devastating floods in Nepal, Arsenal get the ball rolling. A blistering atmosphere at the Stadio Diego Armando Maradona; did anyone expect anything else? Continue readin",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
-      "published": "Wed, 09 Sep 2026 19:20:07 GMT",
+      "published": "Wed, 09 Sep 2026 19:34:38 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -2666,7 +2666,7 @@
       "summary_original": "⚽ Champions League and Carabao Cup match updates ⚽ Live scoreboard | Read Football Daily | And mail Daniel In Barcelona, by the way, Shaqueel van Persie has come on for Feyenoord, making his European debut . Any idea who his old fella is? On which point, have you seen Liam van Nistelrooy’s running gait? Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
-      "published": "Wed, 09 Sep 2026 19:18:42 GMT",
+      "published": "Wed, 09 Sep 2026 19:34:07 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -3080,9 +3080,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシー閉じる. 早期オープナー対リーズスカイでライブ!",
+      "title": "リーズ獲得を問い合わせチェルシー獲得を問い合わせ EFL カップスカイでライブ!",
       "summary": "",
-      "title_original": "Chelsea go close. to early opener vs Leeds LIVE! on Sky",
+      "title_original": "Leeds ahead at Chelsea in Carabao Cup LIVE! on Sky",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/live/577586",
@@ -3094,9 +3094,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプールアトレティコの背後にある Anfield LIVE!",
+      "title": "Szoboszlai レベルリヴァプールに対して Atletico LIVE!",
       "summary": "",
-      "title_original": "Liverpool behind to Atletico at Anfield LIVE!",
+      "title_original": "Szoboszlai levels for Liverpool against Atletico LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-atletico-madrid/live/577604",
@@ -3150,9 +3150,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! ガフ対アンドレバの間の Bartoli と Q&A",
+      "title": "US Open LIVE! Andreeva にセットダウン 脈動の四半期ファイナル",
       "summary": "",
-      "title_original": "US Open LIVE! Q&A with Bartoli during Gauff vs Andreeva",
+      "title_original": "US Open LIVE! Gauff a set down to Andreeva in pulsating quarter-final",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13583384/us-open-live-scores-updates-news-commentary-results-from-new-york-with-elena-rybakina-coco-gauff-and-mirra-andreeva-all-in-action",
@@ -3290,9 +3290,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズオープナ対押し St Mirren として St Johnstone 否定された対セルティックライブ!",
+      "title": "St Johnstone 否定された対セルティック, レンジャーズゴールレス St Mirren LIVE!",
       "summary": "",
-      "title_original": "Rangers pushing for opener vs St Mirren as St Johnstone denied vs Celtic LIVE!",
+      "title_original": "St Johnstone denied vs Celtic, Rangers goalless against St Mirren LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/st-johnstone-vs-celtic/live/558350",
