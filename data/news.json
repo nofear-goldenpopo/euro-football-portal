@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T07:52:38.683608+00:00",
+  "updated_at": "2026-09-09T08:07:01.507727+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2142,7 +2142,10 @@
     "Logan Dunachie": "",
     "Jamie Wills. At Knowledge": "",
     "Six Nations": "",
-    "Steve Borthwick": "スティーブ・ボーズウィック"
+    "Steve Borthwick": "スティーブ・ボーズウィック",
+    "Ben Shelton": "ベン・シェルトン",
+    "Can Carrick": "",
+    "United. They've": ""
   },
   "items": [
     {
@@ -2986,6 +2989,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Shelton が3.33am で Alcaraz を打つ New York エピック",
+      "summary": "ベン・シェルトン彼は防衛王者を敗北させたので、彼のキャリアの最大の勝利を明らかに Carlos Alcaraz5 セットの叙事詩で深く伸びる New York 夜の半ファイナルまで全米オープン.",
+      "title_original": "Shelton beats Alcaraz at 3.33am in New York epic",
+      "summary_original": "Ben Shelton clinched the biggest win of his career as he defeated defending champion Carlos Alcaraz in a five-set epic stretching deep into the New York night to reach the semi-finals of the US Open.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13583380/us-open-ben-shelton-beats-carlos-alcaraz-in-five-set-thriller-in-latest-ever-finish-to-us-open-match-at-3-33am",
+      "published": "Wed, 09 Sep 2026 08:55:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "F1 のタフなストリートトラックは今まで? なぜ新しい Madring が原因となるのかスペイングランプリカオス",
       "summary": "フォーミュラ1 は、この週末を楽しみにするための新しいトラックを持っており、予想はカーネーションであり、ドライバーはマドリングで真剣にテストされます。",
       "title_original": "F1's toughest street track ever? Why new Madring could cause Spanish GP chaos",
@@ -3091,6 +3108,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/report/560559",
       "published": "Tue, 08 Sep 2026 22:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Can Carrick マンチェスターダービーの前に回転する余裕はありますか?",
+      "summary": "「少しの圧力をかけます United. They've 今週はシティとヨーロッパのゲームが始まります。",
+      "title_original": "Can Carrick afford to rotate before Manchester derby?",
+      "summary_original": "\"It puts a bit of pressure on United. They've got City next week and European games starting in midweek.\"",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13582686/manchester-uniteds-squad-depth-analysed-as-gary-neville-claims-michael-carrick-is-under-pressure-ahead-of-champions-league-return",
+      "published": "Wed, 09 Sep 2026 09:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3234,34 +3265,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ワーウィックシャーは、ソマセットとノッティンガムに圧力をかけ、グラモーガン19 年初",
-      "summary": "ウォリックシャーは、ロテーゼの入札を上げましたカウンティ・チャンピオンシップ担当部署 彼らがカルディフで69 のためにグラモルガンをロールしたように1 つのタイトル。",
-      "title_original": "Warwickshire put pressure on Somerset and Nottingham with Glamorgan 19-year first",
-      "summary_original": "Warwickshire ramped up their bid for the Rothesay County Championship Division One title as they rolled Glamorgan for 69 all out in Cardiff.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13583334/warwickshire-turn-up-the-heat-on-somerset-and-nottingham-in-county-championship-as-they-inflict-glamorgan-19-year-first",
-      "published": "Tue, 08 Sep 2026 21:59:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "シェフィールド・ユナイテッド FC ブラックバーンの勝利方法に戻る",
-      "summary": "シェフィールド・ユナイテッド FCruthless 仕上げの表示が Blackburn で2-1 の勝利をしっかり止めた後に勝ちました。",
-      "title_original": "Sheff Utd return to winning ways at Blackburn",
-      "summary_original": "Sheffield United returned to winning ways after a display of ruthless finishing secured a 2-1 win at Blackburn.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/blackburn-rovers-vs-sheffield-united/report/560558",
-      "published": "Tue, 08 Sep 2026 21:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
