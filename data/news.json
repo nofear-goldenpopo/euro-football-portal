@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T08:27:21.018440+00:00",
+  "updated_at": "2026-09-09T08:42:41.928326+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2145,7 +2145,8 @@
     "Steve Borthwick": "スティーブ・ボーズウィック",
     "Ben Shelton": "ベン・シェルトン",
     "Can Carrick": "",
-    "United. They've": ""
+    "United. They've": "",
+    "Wednesday's Premiership": ""
   },
   "items": [
     {
@@ -2229,6 +2230,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンジャーズ、second place as Celtic set pace を獲得候補に",
+      "summary": "レンジャーズホスト St Mirren, しばらくセルティックパースに旅行して St Johnstone 獲得を問い合わせ Wednesday's Premiership アクション。",
+      "title_original": "Rangers eye second place as Celtic set pace",
+      "summary_original": "Rangers host St Mirren, while Celtic travel to Perth to take on St Johnstone in Wednesday's Premiership action.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8xz4322wlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 08:31:35 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2552,20 +2567,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Fifa に対する法的行動には、女性のゲームに対する「行動」が含まれています",
-      "summary": "フィファに対するトップヨーロッパリーグとグローバルプレイヤーのユニオンフィフプロによる法的行動は、女性のゲームに対する身体の「虐待行為」を支配する世界を含むために拡張されます。",
-      "title_original": "Legal action against Fifa includes 'abusive conduct' towards women's game",
-      "summary_original": "Legal action from the top European leagues and global players' union Fifpro against Fifa is extended to include the world governing body's \"abusive conduct\" towards the women's game.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy4z0l1erzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 13:30:30 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
