@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T10:53:21.901331+00:00",
+  "updated_at": "2026-09-09T11:06:10.574739+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2153,7 +2153,8 @@
     "Geraint Hughes": "",
     "Latest Solheim Cup": "",
     "KMI Panel": "",
-    "New-look Pakistan": ""
+    "New-look Pakistan": "",
+    "Fifteen-year-old JJ Gabriel": ""
   },
   "items": [
     {
@@ -2195,6 +2196,20 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ガブリエルが15 歳になるマンチェスター・ユナイテッド'最も若いプレーヤー?",
+      "summary": "Fifteen-year-old JJ Gabriel2 つの壮大な目標を獲得しましたプレミアリーグのための2 つの出現マンチェスター・ユナイテッド- 彼は彼のシニアデビューを作る準備ができています",
+      "title_original": "Is 15-year-old Gabriel set to become Man Utd's youngest ever player?",
+      "summary_original": "Fifteen-year-old JJ Gabriel has scored two magnificent goals in two Premier League 2 appearances for Manchester United - is he ready to make his senior debut",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7706zz7mylo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 10:58:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2560,20 +2575,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "古き良きファンに席をあげるコモチーフチャンピオンズリーグデビュー",
-      "summary": "コモ社長 Mirwan Suwarso クラブのチケットは、複数のディレクターが配布しています。チャンピオンズリーグ高齢者サポーターが出席できるようにデビュー。",
-      "title_original": "Como chiefs giving up seats to older fans for Champions League debut",
-      "summary_original": "Como president Mirwan Suwarso and several directors are giving up their tickets for the club's Champions League debut to allow elderly supporters to attend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg7kj9r7vzro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 12:22:44 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3025,9 +3026,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "パキスタンのトップオーダー パンブル イングランドは最初の朝の LIVE で3 を取る!",
+      "title": "パキスタンのトップオーダーのパンブルは、イングランドが最初の朝の LIVE で4 を取る!",
       "summary": "",
-      "title_original": "Pakistan top-order tumble as England take three on first morning LIVE!",
+      "title_original": "Pakistan top-order tumble as England take four on first morning LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583439/england-vs-pakistan-third-test-day-one-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
