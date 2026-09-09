@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T22:50:18.443923+00:00",
+  "updated_at": "2026-09-09T23:05:56.356999+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2270,7 +2270,9 @@
     "Another Arsenal": "",
     "Nedum Onuoha": "ネダム・オヌオハ",
     "Jarred Gillett": "",
-    "Carabao Cup. Gillett": ""
+    "Carabao Cup. Gillett": "",
+    "Prince William": "ウィリアム (プリンス・オブ・ウェールズ)",
+    "On Your Side": ""
   },
   "items": [
     {
@@ -2330,17 +2332,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スコットランドのクラブは厳しいヨーロッパリーグコース",
-      "summary": "Uefa は、予選ラウンドの変更を行いましたヨーロッパリーグ次の季節から。",
-      "title_original": "Scottish clubs face tougher Europa League route",
-      "summary_original": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
+      "title": "ウィリアム (プリンス・オブ・ウェールズ)スポーツ精神健康ツールキットを発売",
+      "summary": "ウィリアム (プリンス・オブ・ウェールズ)全国のツールキットが呼び出す新しいツールキットを通じて、その文化の自殺防止部分を作るために、あらゆるレベルでスポーツを促します On Your Side.",
+      "title_original": "Prince William launches sport mental health toolkit",
+      "summary_original": "Prince William urges sport at every level to make suicide prevention part of its culture through a new nationwide toolkit called On Your Side.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99dm80e2r0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 19:30:57 GMT",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp84m835vm2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 23:01:49 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2354,6 +2356,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "スコットランドのクラブは厳しいヨーロッパリーグコース",
+      "summary": "Uefa は、予選ラウンドの変更を行いましたヨーロッパリーグ次の季節から。",
+      "title_original": "Scottish clubs face tougher Europa League route",
+      "summary_original": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99dm80e2r0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 19:30:57 GMT",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2673,20 +2689,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/ckg8jjq5d05o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 11:31:43 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ガブリエルは赤を避けるために「非常にラッキー」だった - Rooney",
-      "summary": "デイパンディットのマッチウェイン・ルーニーガブリエルは、彼の挑戦の後にピッチに滞在する「信じられないほどラッキー」だったと言うチェルシー獲得を問い合わせエミリアーノ・マルティネス.",
-      "title_original": "Gabriel was 'extremely lucky' to avoid red - Rooney",
-      "summary_original": "Match of the Day pundit Wayne Rooney says Gabriel was 'extremely lucky' to stay on the pitch after his challenge on Chelsea's Emi Martinez.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cgk531g8gr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 22:50:22 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3114,6 +3116,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アルテタ Odegaard を変換するための新しい役割を説明します",
+      "summary": "マルティン・ウーデゴール今シーズンのスタートでプレイヤーが変身アーセナルログインミケル・アルテタ自分のキャプテンの印象的なフォームをフィットネスと新しいポジショニングに置きます。",
+      "title_original": "Arteta explains new role for transformed Odegaard",
+      "summary_original": "Martin Odegaard is a player transformed at the start of this season - and Arsenal boss Mikel Arteta puts his captain's impressive form down to fitness and new positioning.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13583797/arsenal-martin-odegaard-new-role-explained-by-mikel-arteta-after-captains-champions-league-winner-at-napoli",
+      "published": "Wed, 09 Sep 2026 23:05:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "チェルシーヒット SIX 後半の目標 オフを見るリーズ獲得を問い合わせ EFL カップクラシック",
       "summary": "信じられないほどのセカンドハーフのカムバックには、41 分で6 つの目標が含まれていますチェルシー最後に吹き飛ばすリーズ6-3 オールタイム EFL カップクラシック Stamford Bridge.",
       "title_original": "Chelsea hit SIX second-half goals to see off Leeds in Carabao Cup classic",
@@ -3240,6 +3256,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウィリアム (プリンス・オブ・ウェールズ)スポーツ用殺虫防止ツールキット発売",
+      "summary": "ウィリアム (プリンス・オブ・ウェールズ)毎週木曜日にスポーツから主要なフィギュアを集めて、組織が警告標識を認識し、危険でそれらをサポートするように設計された新しい一種の自殺防止ツールキットを発売します。",
+      "title_original": "Prince William launches suicide prevention toolkit for sport",
+      "summary_original": "Prince William will bring together leading figures from across sport on Thursday to launch a new first-of-its-kind suicide prevention toolkit designed to help organisations recognise warning signs and support those at risk.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13583611/prince-william-launches-landmark-suicide-prevention-toolkit-for-sport-on-world-suicide-prevention-day",
+      "published": "Thu, 10 Sep 2026 00:01:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Papers: Liverpool、January swoop for Chelsea and Man Utd midfield target を獲得候補に",
+      "summary": "木曜日の新聞から噂を移籍するトップストーリー...",
+      "title_original": "Papers: Liverpool eye January swoop for Chelsea and Man Utd midfield target",
+      "summary_original": "The top stories and transfer rumours from Thursday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13583799/liverpool-transfer-news-as-roma-midfielder-manu-kone-on-anfield-radar-ahaed-of-january-transfer-window-paper-talk",
+      "published": "Wed, 09 Sep 2026 23:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "QPR は、ゴールレス・ドロー後にシャルトンで上を移動するチャンスを逃します",
       "summary": "QPR は、チャルトンで0〜0 の引くために、チャンピオンシップテーブルのトップに行くチャンスを逃しました。",
       "title_original": "QPR miss chance to move top after goalless draw at Charlton",
@@ -3349,48 +3393,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'Chickens は PCB の roost'に「dismal」のバッキングコストパキスタンとして家を着ています",
-      "summary": "パキスタンは、イングランドに対して3 つのマッチシリーズの3 つ目のテストにダーククラウドを組み入れたと言っても不当ではありません。オフフィールドの問題は、フィールドのアンダーワーミング・オン・フィールド・ディスプレイと相まって、完璧な嵐を作成するために組み合わせています。",
-      "title_original": "'Chickens come home to roost' for PCB as 'dismal' batting costs Pakistan",
-      "summary_original": "It is not unreasonable to say that Pakistan entered the third Test of their three-match series against England with a dark cloud over them - off-field issues, coupled with the underwhelming on-field displays, combining to create the perfect storm.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13583609/england-vs-pakistan-chickens-come-home-to-roost-for-pcb-as-dismal-batting-sees-tourists-bowled-out-within-34-overs-in-final-test",
-      "published": "Wed, 09 Sep 2026 15:08:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スコアカード:イングランド対パキスタン、第3 テスト",
-      "summary": "イングランドとパキスタン間の3 分の最終テストマッチからの最新スコア Edgbaston. Watch ライブ Sky Sports.",
-      "title_original": "Scorecard: England vs Pakistan, third Test",
-      "summary_original": "Latest score from the third and final Test match between England and Pakistan at Edgbaston. Watch live on Sky Sports Cricket.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/england-v-pakistan/scorecard/c2f248cf-f4cf-5338-8bf2-475060a6a70f",
-      "published": "Wed, 09 Sep 2026 14:47:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "メルソン:アーセナル勝つために X ファクターの獲得を作りませんでしたチャンピオンズリーグ",
-      "summary": "アーセナル昨年のレコードは素晴らしいですねチャンピオンズリーグそして、彼らはそこにいるか、またそれについて行くつもりです。しかし、彼らは X 要因が次のレベルにそれらを取るために獲得を買ったとは思いません。",
-      "title_original": "Merson: Arsenal didn't make X-factor signing to win Champions League",
-      "summary_original": "Arsenal's record last year was amazing in the Champions League and they're going to be there or thereabouts again – but I don't think they bought that X factor signing to take them to that next level.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583541/arsenal-didnt-make-x-factor-signing-like-vinicius-junior-or-julian-alvarez-to-win-champions-league-says-paul-merson",
-      "published": "Wed, 09 Sep 2026 12:43:00 BST",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
