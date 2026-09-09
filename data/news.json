@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T18:44:10.683869+00:00",
+  "updated_at": "2026-09-09T18:53:52.852140+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2217,7 +2217,11 @@
     "Daniel Nope": "",
     "Scott Fancy": "",
     "Riccardo Cal": "",
-    "Daniel In Barcelona": ""
+    "Daniel In Barcelona": "",
+    "Scott Pre-match": "",
+    "Zach Neeley": "",
+    "Although Kai": "",
+    "World Series Finals": ""
   },
   "items": [
     {
@@ -2305,34 +2309,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "717 日以降、9 人の「介護者オーバー」診断後、プレイヤーは「実質的」リターンをします",
-      "summary": "オールダーショット・タウン FC ディフェンダーOllie Harfield 深刻な膝の傷害の後で行為への彼のリターンについての話。",
-      "title_original": "After 717 days and nine 'career over' diagnoses, player makes 'surreal' return",
-      "summary_original": "Aldershot Town defender Ollie Harfield talks about his return to action after a serious knee injury.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c93e9vn9vgvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 11:42:10 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Where Estevao に合いますチェルシー'オールスター攻撃",
-      "summary": "どこを見てみる Estevao Willian のための特徴できますチェルシーこの季節は、彼の紀尾から彼の品質のリマインダーの後アーセナル.",
-      "title_original": "Where Estevao fits into Chelsea's all-star attack",
-      "summary_original": "A look at where Estevao Willian could feature for Chelsea this season after the reminder of his quality in his cameo against Arsenal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2mlk4p4x5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 07:00:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "The Rwandan アイニングチャンピオンズリーグ歴史対比マンチェスター・ユナイテッド",
       "summary": "ルワンダフォワード Joy-Lance Mickels 助けられた Azerbaijan's Sabah 到達するチャンピオンズリーグ競争デビューにふさわしいと、チームを応援してもらいたい。",
       "title_original": "The Rwandan eyeing Champions League history against Man Utd",
@@ -2375,17 +2351,45 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズ、second place as Celtic set pace を獲得候補に",
-      "summary": "レンジャーズホスト St Mirren, しばらくセルティックパースに旅行して St Johnstone 獲得を問い合わせ Wednesday's Premiership アクション。",
-      "title_original": "Rangers eye second place as Celtic set pace",
-      "summary_original": "Rangers host St Mirren, while Celtic travel to Perth to take on St Johnstone in Wednesday's Premiership action.",
+      "title": "717 日以降、9 人の「介護者オーバー」診断後、プレイヤーは「実質的」リターンをします",
+      "summary": "オールダーショット・タウン FC ディフェンダーOllie Harfield 深刻な膝の傷害の後で行為への彼のリターンについての話。",
+      "title_original": "After 717 days and nine 'career over' diagnoses, player makes 'surreal' return",
+      "summary_original": "Aldershot Town defender Ollie Harfield talks about his return to action after a serious knee injury.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8xz4322wlo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 08:31:35 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c93e9vn9vgvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 11:42:10 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Where Estevao に合いますチェルシー'オールスター攻撃",
+      "summary": "どこを見てみる Estevao Willian のための特徴できますチェルシーこの季節は、彼の紀尾から彼の品質のリマインダーの後アーセナル.",
+      "title_original": "Where Estevao fits into Chelsea's all-star attack",
+      "summary_original": "A look at where Estevao Willian could feature for Chelsea this season after the reminder of his quality in his cameo against Arsenal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2mlk4p4x5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 07:00:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'This Is Anfield' マークフェッチ £115k オークションで",
+      "summary": "オリジナルサインからリヴァプール'スタジアムトンネルは、推定ガイド価格の8 倍に達しました。",
+      "title_original": "'This Is Anfield' sign fetches £115k at auction",
+      "summary_original": "The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/c87ve5vw953o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 16:00:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2400,20 +2404,6 @@
       "type": "bundesliga",
       "label": "ブンデス",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Russo と greenwood nominated のために Ballon d'Or",
-      "summary": "イングランドの星 Alessia Russo そして、Alex Greenwood 女子のボールン・ドールにノミネートされた選手は30 名。",
-      "title_original": "Russo and Greenwood nominated for Ballon d'Or",
-      "summary_original": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 14:40:01 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2501,6 +2491,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "レンジャーズ、second place as Celtic set pace を獲得候補に",
+      "summary": "レンジャーズホスト St Mirren, しばらくセルティックパースに旅行して St Johnstone 獲得を問い合わせ Wednesday's Premiership アクション。",
+      "title_original": "Rangers eye second place as Celtic set pace",
+      "summary_original": "Rangers host St Mirren, while Celtic travel to Perth to take on St Johnstone in Wednesday's Premiership action.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8xz4322wlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 08:31:35 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Russo と greenwood nominated のために Ballon d'Or",
+      "summary": "イングランドの星 Alessia Russo そして、Alex Greenwood 女子のボールン・ドールにノミネートされた選手は30 名。",
+      "title_original": "Russo and Greenwood nominated for Ballon d'Or",
+      "summary_original": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 14:40:01 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ショットシャイから目撃まで - ヴィラは勝つ方法を見つけます",
       "summary": "アストン・ヴィラついにシューティングブーツを見つけた3 ゴール獲得を問い合わせクラブ・ブルッヘ- しかし、彼らの勝利はまっすぐではありませんでした。",
       "title_original": "From shot-shy to shoot on sight - Villa find a way to win",
@@ -2515,20 +2533,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'This Is Anfield' マークフェッチ £115k オークションで",
-      "summary": "オリジナルサインからリヴァプール'スタジアムトンネルは、推定ガイド価格の8 倍に達しました。",
-      "title_original": "'This Is Anfield' sign fetches £115k at auction",
-      "summary_original": "The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/c87ve5vw953o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 16:00:46 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -2540,20 +2544,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "誰がレコードなのかチャンピオンズリーグゴールコア",
-      "summary": "Our Ask Me Anything チームは、どのプレイヤーが最も多くの目標を獲得しているかを見てチャンピオンズリーグ.",
-      "title_original": "Who are the record Champions League goalscorers?",
-      "summary_original": "Our Ask Me Anything team looks at which players have scored the most goals in the Champions League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk0yyepkxjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 12:02:30 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2641,13 +2631,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ナポリツイートアーセナル: チャンピオンズリーグ– ライブ",
-      "summary": "⚽ チャンピオンズリーグ8pm BST キックオフライブスコアボードからのアップデート |Read Football Daily| 電子メール Scott Fancy より深いダイビングナポリ’ s 刺激的な敗北 へインテル最終週末?Nicky Bandini すべての詳細を持っています。アーセナル4 つの変更を先発メンバー2-1 以上の勝利に続くチェルシー. 典型的に、ちょうど大きい映像を掲示しました Kai Havertz, 彼は4 人の選手の一人だ, とともに Myles Lewis-Skelly, Christos Tzolis そしてますます影響力 Riccardo Cal",
+      "title": "バウムのスコアはデビューとしてアーセナルエッジブライトン",
+      "summary": "Lisa Baum 彼女のスコアアーセナルガンナーズのビートとしてデビューブライトン1-0 で Women's Super League.",
+      "title_original": "Baum scores on debut as Arsenal edge Brighton",
+      "summary_original": "Lisa Baum scores on her Arsenal debut as the Gunners beat Brighton 1-0 in the Women's Super League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/czxz0j29eg2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 16:42:05 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ナポリ. .アーセナル: チャンピオンズリーグ– ライブ",
+      "summary": "⚽ チャンピオンズリーグ8pm BST キックオフライブスコアボードからのアップデート |Read Football Daily| 電子メール Scott Pre-match ポストバッグ。「さかを作らず、ご飯を休むことができないと、こんなに積み重ねられたスクワッドはいるの? 季節初旬の事実は、その夏は余分な仕事の束だったので、本当に機能しません。Zach Neeley “Although Kai 初心者の間で機能しません, あなたの選ばれた写真は、思考のためにたくさんの食品を提供していません, 専門家の考慮が消えているか疑問に1 を促す",
       "title_original": "Napoli v Arsenal: Champions League – live",
-      "summary_original": "⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scoreboard | Read Football Daily | And email Scott Fancy a deeper dive into Napoli’s dispiriting defeat to Inter last weekend? Nicky Bandini has all the details. Arsenal make four changes to their starting XI following the 2-1 victory over Chelsea. Typically, having just posted a large picture of Kai Havertz, he’s one of four players stood down, along with Myles Lewis-Skelly, Christos Tzolis and the increasingly influential Riccardo Cal",
+      "summary_original": "⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scoreboard | Read Football Daily | And email Scott Pre-match postbag. “Why have such a stacked squad if you can’t make Saka and Rice the ones rested? The fact that it’s early in the season doesn’t really work because their summer was a bunch of extra work” – Zach Neeley “Although Kai won’t feature among the starters, your chosen pic does offer plenty of food for thought, prompting one to wonder how much expert consideration has gone int",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
-      "published": "Wed, 09 Sep 2026 18:24:21 GMT",
+      "published": "Wed, 09 Sep 2026 18:38:40 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -2661,7 +2665,7 @@
       "summary_original": "⚽ Champions League and Carabao Cup match updates ⚽ Live scoreboard | Read Football Daily | And mail Daniel In Barcelona, by the way, Shaqueel van Persie has come on for Feyenoord, making his European debut . Any idea who his old fella is? On which point, have you seen Liam van Nistelrooy’s running gait? Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
-      "published": "Wed, 09 Sep 2026 18:34:52 GMT",
+      "published": "Wed, 09 Sep 2026 18:43:18 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -3075,17 +3079,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Alonso は 16 歳 ワトソン デビュー 対リーズ獲得を問い合わせ EFL カップスカイでライブ!",
+      "title": "キックオフ遅延チェルシー16 歳のワトソンデビュー対を与えるリーズスカイでライブ!",
       "summary": "",
-      "title_original": "Alonso gives 16-year-old Watson debut vs Leeds in Carabao Cup LIVE! on Sky",
+      "title_original": "Kick-off delayed as Chelsea give 16-year-old Watson debut vs Leeds LIVE! on Sky",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/live/577586",
       "published": "Wed, 09 Sep 2026 18:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3103,9 +3107,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "グルニーは、World Series ビザの問題による出金後のダーツ",
+      "title": "グルニーは、World Series Finals ビザの問題による出金後",
       "summary": "Daryl Gurney で再生するために呼び出されている World Series インフォメーション Darts Finals アムステルダムでビザの問題がフィリピンの選手の撤退につながりました Lourence Ilagan そして、Alexis Toylo9 月17 日～20 日のイベント",
-      "title_original": "Gurney called up to World Series of Darts after withdrawals due to visa issues",
+      "title_original": "Gurney called up to World Series Finals after withdrawals due to visa issues",
       "summary_original": "Daryl Gurney has been called up to play at the World Series of Darts Finals in Amsterdam after visa issues led to the withdrawal of Philippines players Lourence Ilagan and Alexis Toylo from the September 17-20 event.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13583670/world-series-of-darts-finals-2026-schedule-and-results-with-luke-littler-luke-humphries-michael-van-gerwen-gian-van-veen-in-action",
@@ -3145,9 +3149,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Rybakina が 1 になるように Gauff と Andreeva の間に Bartoli と Q&A は 1 になります",
+      "title": "US Open LIVE! ガフ対アンドレバの間の Bartoli と Q&A",
       "summary": "",
-      "title_original": "US Open LIVE! Q&A with Bartoli during Gauff vs Andreeva as Rybakina becomes No 1",
+      "title_original": "US Open LIVE! Q&A with Bartoli during Gauff vs Andreeva",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13583384/us-open-live-scores-updates-news-commentary-results-from-new-york-with-elena-rybakina-coco-gauff-and-mirra-andreeva-all-in-action",
