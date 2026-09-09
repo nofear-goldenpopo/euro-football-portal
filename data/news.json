@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T05:51:45.727028+00:00",
+  "updated_at": "2026-09-09T06:07:34.416488+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2132,7 +2132,9 @@
     "Cristian Volpato’s Socceroos": "",
     "Cristian Volpato’s": "",
     "NSW Police": "",
-    "Sydney’s Anzac Bridge": ""
+    "Sydney’s Anzac Bridge": "",
+    "I's Walker Cup": "",
+    "Stuart Grehan": ""
   },
   "items": [
     {
@@ -3102,6 +3104,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "グレハンは GB&I のソースを明らかにウォーカーカップカムバック",
+      "summary": "ウォーカーカップ受賞者 Stuart Grehan リードに責任を感じたと認めた Great Britain そして、彼は彼の側の歴史的なコクバックの背後にあるトリガーを詳述するようにトーナメントを通してアイルランド.",
+      "title_original": "Grehan reveals source of GB&I's Walker Cup comeback",
+      "summary_original": "Walker Cup winner Stuart Grehan has admitted he felt responsibility to lead Great Britain and Ireland through the tournament as he detailed the trigger behind his side's historic comeback.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13583281/stuart-grehan-reveals-walker-cup-responsibility-and-source-of-great-britain-and-irelands-historic-comeback",
+      "published": "Wed, 09 Sep 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ハーランド勝上で2 回スコアポルトしかし、マンチェスター・シティ感動への奮闘",
       "summary": "アーリング・ハーランドダブル獲得マンチェスター・シティ a 2-0 勝ちポルト- しかし、それは別のゲームだった Enzo Maresca's 面は勝ちましたが、説得力のある。",
       "title_original": "Haaland scores twice in win over Porto but Man City struggle to impress",
@@ -3238,20 +3254,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アストン・ヴィラ攻撃はスリリングな勝利でクリックしますクラブ・ブルッヘ",
-      "summary": "アストン・ヴィラスコアリングの心配を終わらせ、開始するためにすばらしい攻撃表示を作り出して下さいチャンピオンズリーグスリリングでキャンペーン 3-2 勝つクラブ・ブルッヘ.",
-      "title_original": "Aston Villa attack clicks in thrilling win over Club Brugge",
-      "summary_original": "Aston Villa produced a superb attacking display to end their scoring concerns and begin their Champions League campaign with a thrilling 3-2 win over Club Brugge.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/club-brugge-vs-aston-villa/report/577599",
-      "published": "Tue, 08 Sep 2026 19:45:00 BST",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     }
