@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T15:06:12.646420+00:00",
+  "updated_at": "2026-09-09T15:26:45.434356+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2187,7 +2187,13 @@
     "This Is Anfield": "",
     "The Republic": "リパブリック",
     "Lachie Miller": "",
-    "Brad Arthur": ""
+    "Brad Arthur": "",
+    "Pat Nevin": "",
+    "Park Hill": "",
+    "Town Moor": "",
+    "May Hill": "",
+    "Sales Race": "",
+    "Nelly Korda": "ネリー・コルダ"
   },
   "items": [
     {
@@ -2201,6 +2207,20 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'Spoke 華やかに'リヴァプールファンは、オンオフ Mac Allister 契約コメント",
+      "summary": "アレクシス・マック・アリスター契約に関する彼の公開コメントに関する意見を分割リヴァプールファンと BBC スポーツのパンディットとして、Pat Nevin 意見を共有する",
+      "title_original": "'Spoke brilliantly' but Liverpool fans torn on Mac Allister contract comments",
+      "summary_original": "Alexis Mac Allister splits opinion on his public comments regarding his contract at Liverpool, as fans and BBC Sport pundit Pat Nevin share opinions.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4379d4ylo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 15:07:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2317,20 +2337,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Favourite KaneBallon d'Or ショートリストを作る",
-      "summary": "バイエルン・ミュンヘンストライカーハリー・ケイン2026 ボールン d'Or と一緒にノミネートされた 3 つのイングランドの選手の 1 つジュード・ベリンガムそして、デクラン・ライス.",
-      "title_original": "Favourite Kane makes Ballon d'Or shortlist",
-      "summary_original": "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 15:27:09 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "717 日以降、9 人の「介護者オーバー」診断後、プレイヤーは「実質的」リターンをします",
       "summary": "オールダーショット・タウン FC ディフェンダーOllie Harfield 深刻な膝の傷害の後で行為への彼のリターンについての話。",
       "title_original": "After 717 days and nine 'career over' diagnoses, player makes 'surreal' return",
@@ -2342,6 +2348,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Favourite KaneBallon d'Or ショートリストを作る",
+      "summary": "バイエルン・ミュンヘンストライカーハリー・ケイン2026 ボールン d'Or と一緒にノミネートされた 3 つのイングランドの選手の 1 つジュード・ベリンガムそして、デクラン・ライス.",
+      "title_original": "Favourite Kane makes Ballon d'Or shortlist",
+      "summary_original": "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 15:27:09 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2510,20 +2530,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ロンドンのアマチュアゴールキーパーは、Ugandan throne のラインで次のことができます",
-      "summary": "アマチュアチームのゴールキーパーSouth East London いとこの死の後にウガンダ地方の王になる可能性があります。",
-      "title_original": "London amateur goalkeeper could be next in line for Ugandan throne",
-      "summary_original": "A goalkeeper from an amateur team in South East London could become king of a Ugandan region after the death of his cousin.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c86x0q008e5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 17:03:35 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3045,6 +3051,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Doyle: Waardah でビートする人 Park Hill",
+      "summary": "私たちの大使 Hollie Doyle アクションから彼女の頂点を与える Town Moor, 彼女のテイク・オン・ザ・Park Hill, May Hill そして、Sales Race.",
+      "title_original": "Doyle: Waardah the one to beat in the Park Hill",
+      "summary_original": "Our ambassador Hollie Doyle gives her verdict on the action from Town Moor, providing her take on the Park Hill, May Hill and Sales Race.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13583627/hollie-doyle-owen-burrows-filly-can-claim-park-hill-success",
+      "published": "Wed, 09 Sep 2026 15:47:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "EFL 最新:Three Championship スカイナイトでライブ!",
       "summary": "",
       "title_original": "EFL latest: Three Championship games live on Sky tonight!",
@@ -3101,13 +3121,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Solheim Cup LIVE! ハル家の 'pressure' をのためのハンドルする準備ができました Team Europe",
+      "title": "'fresher' から 'new の動的' を見るのに興奮している Team Europe",
       "summary": "",
-      "title_original": "Solheim Cup LIVE! Hull ready to handle home 'pressure' for Team Europe",
+      "title_original": "Maguire excited to see 'new dynamic' from 'fresher' Team Europe",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13582746/solheim-cup-live-latest-news-build-up-highlights-as-anna-nordqvists-team-europe-host-team-usa-at-bernardus-golf",
-      "published": "Wed, 09 Sep 2026 12:25:00 BST",
+      "published": "Wed, 09 Sep 2026 16:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3143,9 +3163,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Duckett と Cox が 133 LIVE で パキスタンの試合直後にイングランドのバットとして初登場!",
+      "title": "Korda plays down 'intimidation factor' as Hull、rematch with world No 1 を獲得候補に",
+      "summary": "シャレーハル彼女は他の人を喜ばせると言った Solheim Cup ショーダウンとネリー・コルダ, 誰が \"intimidation 要因\" をもたらすために再生しました Team Europe.",
+      "title_original": "Korda plays down 'intimidation factor' as Hull eyes rematch with world No 1",
+      "summary_original": "Charley Hull said she would relish another Solheim Cup showdown with Nelly Korda, who played down bringing an \"intimidation factor\" to Team Europe.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13583450/solheim-cup-2026-nelly-korda-plays-down-intimidation-factor-to-team-europe-as-charley-hull-eyes-rematch-with-world-no-1",
+      "published": "Wed, 09 Sep 2026 16:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ルートは、パキスタンが133 LIVE でオールアウトした後、イングランドのバットとして落ちます!",
       "summary": "",
-      "title_original": "Duckett and Cox go early as England bat after Pakistan all out for 133 LIVE!",
+      "title_original": "Root falls as England bat after Pakistan all out for 133 LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583439/england-vs-pakistan-third-test-day-one-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3276,34 +3310,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/nfl/news/12040/13583048/seattle-seahawks-jaxon-smith-njigbas-nfl-warning-mike-macdonalds-honeymoon-vision-and-the-super-bowl-champions-quest-for-repeat",
       "published": "Wed, 09 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Papers: Blow for Man Utd as top、agrees new contract を獲得候補に",
-      "summary": "火曜日の新聞から噂を移籍するトップストーリー...",
-      "title_original": "Papers: Blow for Man Utd as top target agrees new contract",
-      "summary_original": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583358/transfer-news-manchester-united-suffer-hammer-blow-after-top-target-lewis-hall-agrees-five-year-newcastle-deal-paper-talk",
-      "published": "Tue, 08 Sep 2026 23:15:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "大阪の防衛 US Open 服装 - 「気にしない」",
-      "summary": "Naomi Osaka 照明の後に彼女の象徴的なファッションの選択肢の批判に戻ってヒットしました全米オープン文具のメニューで。",
-      "title_original": "Osaka's defence of US Open outfits - 'I don't care if you don't like me'",
-      "summary_original": "Naomi Osaka has hit back at critics of her iconic fashion choices after lighting up the US Open with her menu of statement outfits.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13583246/us-open-naomi-osakas-fashion-ensemble-in-new-york-which-outfit-was-your-favourite",
-      "published": "Tue, 08 Sep 2026 23:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
