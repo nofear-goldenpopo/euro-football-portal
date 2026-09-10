@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T14:26:06.911245+00:00",
+  "updated_at": "2026-09-10T14:40:41.264284+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2315,7 +2315,9 @@
     "Sky Sports' Big Weekend": "",
     "Can Rose": "",
     "Does Mauricio Pochettino": "",
-    "Boxing Day": "ボクシング・デー"
+    "Boxing Day": "ボクシング・デー",
+    "Noah Okafor": "",
+    "Murat Yakin": "ムラト・ヤキン"
   },
   "items": [
     {
@@ -2403,16 +2405,30 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナルあらゆるテストを通過しています - そして、Odegaard は彼の人生の形態です",
-      "summary": "その他アーセナル勝つ, 別のマルティン・ウーデゴールゴール - ガンナーのキャプテンは、彼のベストに戻ります、書き込みフィル・マクナルティ.",
-      "title_original": "Arsenal are passing every test - and Odegaard is in form of his life",
-      "summary_original": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
+      "title": "リーズスイスのナショナルチームからオカフォーへ",
+      "summary": "リーズ・ユナイテッド FC 獲得 Noah Okafor 彼が再びスイスのために再生しないと言うムラト・ヤキンヘッドコーチとして残っています。",
+      "title_original": "Leeds forward Okafor steps back from Swiss national team",
+      "summary_original": "Leeds United forward Noah Okafor says he will not play for Switzerland again while Murat Yakin remains as head coach.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 22:35:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74e0kvm03ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 14:35:31 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプール後ろからビートに来るアトレティコ・マドリード",
+      "summary": "アレクシス・マック・アリスターemphatic の勝者をとして得て下さいリヴァプールスタートチャンピオンズリーグ勝ち抜いたキャンペーンアトレティコ・マドリードアンフィールド",
+      "title_original": "Liverpool come from behind to beat Atletico Madrid",
+      "summary_original": "Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ce874m9ld2mo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 21:07:13 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2431,16 +2447,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプール後ろからビートに来るアトレティコ・マドリード",
-      "summary": "アレクシス・マック・アリスターemphatic の勝者をとして得て下さいリヴァプールスタートチャンピオンズリーグ勝ち抜いたキャンペーンアトレティコ・マドリードアンフィールド",
-      "title_original": "Liverpool come from behind to beat Atletico Madrid",
-      "summary_original": "Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.",
+      "title": "アーセナルあらゆるテストを通過しています - そして、Odegaard は彼の人生の形態です",
+      "summary": "その他アーセナル勝つ, 別のマルティン・ウーデゴールゴール - ガンナーのキャプテンは、彼のベストに戻ります、書き込みフィル・マクナルティ.",
+      "title_original": "Arsenal are passing every test - and Odegaard is in form of his life",
+      "summary_original": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ce874m9ld2mo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:07:13 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 22:35:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2452,20 +2468,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/czxze02qw0jo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 21:34:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "星の潜水救助チェルシーAlonso 'takes blame' として",
-      "summary": "チェルシーより良いものを得るリーズカップスリラーですが、ブルースボスシャビ・アロンソ星の代替品から救助行動を必要とすると考えた食品を持っています。",
-      "title_original": "Star subs rescue Chelsea as Alonso 'takes blame'",
-      "summary_original": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 23:25:38 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2721,20 +2723,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アストン・ヴィラ五大スリラーのイグナイトシーズンクラブ・ブルッヘ",
-      "summary": "アストン・ヴィラリリースチャンピオンズリーグ3-2 勝負キャンペーンクラブ・ブルッヘベルギーで、初旬の目標が干ばつになった。",
-      "title_original": "Aston Villa ignite season in five-goal thriller against Club Brugge",
-      "summary_original": "Aston Villa launch their Champions League campaign with a 3-2 victory over Club Brugge in Belgium, ending their early-season goal drought.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c36l7y21rr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:00:27 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3271,9 +3259,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランドは、300 対近くのリードとして9 ダウン Pakistan LIVE!",
+      "title": "リードパス300 対イングランドの尾の饗宴 Pakistan LIVE!",
       "summary": "",
-      "title_original": "England nine down as lead nears 300 vs Pakistan LIVE!",
+      "title_original": "England's tail feasts as lead passes 300 vs Pakistan LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583869/england-vs-pakistan-third-test-day-two-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
