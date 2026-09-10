@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T15:26:41.053694+00:00",
+  "updated_at": "2026-09-10T15:39:39.303698+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2325,7 +2325,10 @@
     "US Soccer Hall": "",
     "Pablo Iglesias Maurer": "",
     "The Englishman": "",
-    "Toyota Stadium": "トヨタ・スタジアム"
+    "Toyota Stadium": "トヨタ・スタジアム",
+    "Anthony Gordon's": "",
+    "Hansi Flick's": "",
+    "Marcus Rashford's": ""
   },
   "items": [
     {
@@ -2396,6 +2399,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ゴードン より良いフィットのためにバルセロナ Rashford よりも - デコ",
+      "summary": "バルセロナスポーティングディレクターDeco 氏は述べています Anthony Gordon's スタイルはよりよく合うハンジ・フリックの 側よりもマーカス・ラッシュフォード今年の夏にクラブがチームを組んだようにしました。",
+      "title_original": "Gordon a better fit for Barca than Rashford - Deco",
+      "summary_original": "Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad this summer.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyl7njnk46o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 15:30:53 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2539,20 +2556,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdr7jm864pmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 05:42:43 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "トッテナム2016-17 のタイトルを獲得する必要があります - Pochettino",
       "summary": "Mauricio Pochettino 信じるチェルシー除去されるべきであるプレミアリーグタイトル: 2016-17 トッテナムチーム終了ランナーアップ。",
       "title_original": "Spurs should be awarded 2016-17 title - Pochettino",
@@ -2693,6 +2696,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdr7jm864pmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 05:42:43 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "なぜそこにいるのかチャンピオンズリーグ木曜日にゲーム?",
       "summary": "Our Ask Me Anything チームがなぜあるのかを見るチャンピオンズリーグゲームは木曜日に行われる。",
       "title_original": "Why are there Champions League games on Thursday?",
@@ -2728,20 +2745,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c20l7z07zz7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 10:10:05 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウィリアム (プリンス・オブ・ウェールズ)スポーツ精神健康ツールキットを発売",
-      "summary": "ウィリアム (プリンス・オブ・ウェールズ)全国のツールキットが呼び出す新しいツールキットを通じて、その文化の自殺防止部分を作るために、あらゆるレベルでスポーツを促します On Your Side.",
-      "title_original": "Prince William launches sport mental health toolkit",
-      "summary_original": "Prince William urges sport at every level to make suicide prevention part of its culture through a new nationwide toolkit called On Your Side.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp84m835vm2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 23:01:49 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3295,6 +3298,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「私は本当に彼女を信頼しています」 |ハルアワード Team Europe キャプテン Nordqvist",
+      "summary": "シャレーハルアワード Team Europe キャプテン Anna Nordqvist そして彼女の8H に先を向けて Solheim Cup.",
+      "title_original": "'I really trust her' | Hull praises Team Europe captain Nordqvist",
+      "summary_original": "Charley Hull praises Team Europe captain Anna Nordqvist and looks ahead to her eighth Solheim Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13583987/solheim-cup-charley-hull-praises-team-europe-captain-anna-nordqvist",
+      "published": "Thu, 10 Sep 2026 14:08:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "観る方法 Sky Sports' Big Weekend",
       "summary": "サッカー、F1、クリケット、ゴルフ、テニス、NFL は1 つの週末にすべて - すべて Sky Sports. Here's アクションの分を逃さないので、あなたが知る必要があるすべて。",
       "title_original": "How to watch Sky Sports' Big Weekend",
@@ -3428,20 +3445,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13583084/spanish-grand-prix-first-tease-of-madrid-f3-drivers-test-f1s-new-madring-track",
       "published": "Tue, 08 Sep 2026 10:53:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「友情に影響を与える!」 獲得を問い合わせ Solheim Cup 再び論争?",
-      "summary": "Geraint Hughes そして、Sophie Walker2015 年で論争を説明する Solheim Cup 今年のイベントでは、別のコンテンツの瞬間を見ることができるかどうかについて話し合います。",
-      "title_original": "'It can affect friendships!' Could we see Solheim Cup controversy again?",
-      "summary_original": "Geraint Hughes and Sophie Walker explain the controversy at the 2015 Solheim Cup and discuss whether we could see another contentious moment at this year's event.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13583895/solheim-cup-what-controversy-happened-in-the-2015-solheim-cup",
-      "published": "Thu, 10 Sep 2026 09:46:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
