@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T07:26:59.053095+00:00",
+  "updated_at": "2026-09-10T07:39:50.674179+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2292,7 +2292,8 @@
     "Tottenham. In": "",
     "Championship. Seriously": "",
     "Rookie Eli Raridon": "",
-    "Eli Raridon's": ""
+    "Eli Raridon's": "",
+    "Barca's Rodri": ""
   },
   "items": [
     {
@@ -2324,16 +2325,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "星の潜水救助チェルシーAlonso 'takes blame' として",
-      "summary": "チェルシーより良いものを得るリーズカップスリラーですが、ブルースボスシャビ・アロンソ星の代替品から救助行動を必要とすると考えた食品を持っています。",
-      "title_original": "Star subs rescue Chelsea as Alonso 'takes blame'",
-      "summary_original": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
+      "title": "バルセロナの Rodri apologises 以上 バレンシア 'weak' コメント",
+      "summary": "バルセロナミッドフィルダー・ロドリは、彼はテレビカメラが彼に説明をキャッチするために登場した後、バレンシアのスクワッド全体に報じていると言いますラ・リーガ「非常に弱い」と闘争者。",
+      "title_original": "Barca's Rodri apologises over Valencia 'weak' comments",
+      "summary_original": "Barcelona midfielder Rodri says he has apologised to the entire Valencia squad after television cameras appeared to catch him describing the La Liga strugglers as \"very weak\".",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 23:25:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyrx8gd71o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 07:27:34 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2348,6 +2349,20 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "星の潜水救助チェルシーAlonso 'takes blame' として",
+      "summary": "チェルシーより良いものを得るリーズカップスリラーですが、ブルースボスシャビ・アロンソ星の代替品から救助行動を必要とすると考えた食品を持っています。",
+      "title_original": "Star subs rescue Chelsea as Alonso 'takes blame'",
+      "summary_original": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 23:25:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2601,20 +2616,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "The Rwandan アイニングチャンピオンズリーグ歴史対比マンチェスター・ユナイテッド",
-      "summary": "ルワンダフォワード Joy-Lance Mickels 助けられた Azerbaijan's Sabah 到達するチャンピオンズリーグ競争デビューにふさわしいと、チームを応援してもらいたい。",
-      "title_original": "The Rwandan eyeing Champions League history against Man Utd",
-      "summary_original": "Rwanda forward Joy-Lance Mickels has helped Azerbaijan's Sabah reach the Champions League proper on their competition debut, and is now looking to down the team he supports.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g7zxezj9lo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 14:41:38 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
