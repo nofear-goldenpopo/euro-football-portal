@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T16:06:59.428963+00:00",
+  "updated_at": "2026-09-10T16:25:37.574677+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2336,7 +2336,9 @@
     "Flying Childers": "",
     "Flying Scotsman": "",
     "FIRST LOOK": "",
-    "Grace Road": ""
+    "Grace Road": "",
+    "Clara Luvanga": "",
+    "Sunday's Old Firm": ""
   },
   "items": [
     {
@@ -2522,6 +2524,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ワシントン・スピリット Luvanga に獲得 - しかし、それはレコード移籍ですか?",
+      "summary": "タンザニア・ストライカーClara Luvanga 獲得を問い合わせワシントン・スピリット女性のサッカーの歴史の中で最も高価なものと信じられている契約の Al-Nassr から - おそらく世界記録を設定する1。",
+      "title_original": "Washington Spirit sign Luvanga - but is it a record deal?",
+      "summary_original": "Tanzanian striker Clara Luvanga has joined Washington Spirit from Al-Nassr in a deal believed to be one of the most costly in the history of women's football - and possibly one that sets a world record.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8xkrjkw1y0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 16:10:00 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "バルセロナの Rodri apologises 以上 バレンシア 'weak' コメント",
       "summary": "バルセロナミッドフィルダー・ロドリは、彼はテレビカメラが彼に説明をキャッチするために登場した後、バレンシアのスクワッド全体に報じていると言いますラ・リーガ「非常に弱い」と闘争者。",
       "title_original": "Barca's Rodri apologises over Valencia 'weak' comments",
@@ -2547,20 +2563,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アーセナルあらゆるテストを通過しています - そして、Odegaard は彼の人生の形態です",
-      "summary": "その他アーセナル勝つ, 別のマルティン・ウーデゴールゴール - ガンナーのキャプテンは、彼のベストに戻ります、書き込みフィル・マクナルティ.",
-      "title_original": "Arsenal are passing every test - and Odegaard is in form of his life",
-      "summary_original": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 22:35:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2746,17 +2748,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "目標を保ち続けるレンジャーズトラックでオールドファームダブルヘッダー",
-      "summary": "レンジャーズストップページタイムのストライキを反してワイルドに祝われた St Mirren ライバルで2 つのゲームに入る勢いを維持セルティック.",
-      "title_original": "Late goal keeps Rangers on track for Old Firm double-header",
-      "summary_original": "Rangers celebrated wildly after a stoppage-time strike against St Mirren maintains momentum going into two games with rivals Celtic.",
+      "title": "アーセナルあらゆるテストを通過しています - そして、Odegaard は彼の人生の形態です",
+      "summary": "その他アーセナル勝つ, 別のマルティン・ウーデゴールゴール - ガンナーのキャプテンは、彼のベストに戻ります、書き込みフィル・マクナルティ.",
+      "title_original": "Arsenal are passing every test - and Odegaard is in form of his life",
+      "summary_original": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g7z7jyyndo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 07:55:36 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 22:35:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3180,6 +3182,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・シティ最新: ブーディはロドリを褒め、彼は彼を置き換えようとします",
+      "summary": "",
+      "title_original": "Man City latest: Bouaddi praises Rodri as he seeks to replace him",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Wed, 09 Sep 2026 12:35:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Musical Times6/1 のための 1000 の Guineas の後で May Hill ドンカスターでスタンプ",
       "summary": "Musical Times 翌年のクラシック・ピクチャーに、ワイドマージンの勝利を勝ち取る Betfred May Hill Stakes ドンカスター",
       "title_original": "Musical Times 6/1 for 1000 Guineas after May Hill romp at Doncaster",
@@ -3292,6 +3308,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マクインンズ:レンジャーズサイドでファンを獲得する必要がありますオールドファームカップクラッシュ",
+      "summary": "Derek McInnes 獲得を問い合わせレンジャーズ日曜日の「私たちと群衆を結ぶ」へオールドファーム Ibrox で衝突します。",
+      "title_original": "McInnes: Rangers must get fans on side in Old Firm cup clash",
+      "summary_original": "Derek McInnes wants Rangers to \"bring the crowd with us\" in Sunday's Old Firm clash at Ibrox.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13584014/derek-mcinnes-says-rangers-must-get-fans-on-side-against-celtic-in-league-cup-and-sets-target-to-become-relevant-again",
+      "published": "Thu, 10 Sep 2026 16:17:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "FIRST LOOK! F1 の新しいマドリッドトラックのオンボードラップ",
       "summary": "安全車が新しいマドリード F1 トラックの周りのラップを完了すると、その全体のマドリング回路を参照してください。",
       "title_original": "FIRST LOOK! Onboard lap of F1's new Madrid track",
@@ -3390,9 +3420,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "雨は、悪夢が始まるとパキスタン46-2 で再生を停止します England LIVE!",
+      "title": "雨は、悪夢が始まるとパキスタンの再構築で再生を停止します。England LIVE!",
       "summary": "",
-      "title_original": "Rain stops play with Pakistan 46-2 after nightmare start vs England LIVE!",
+      "title_original": "Rain stops play with Pakistan rebuilding after nightmare start vs England LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583869/england-vs-pakistan-third-test-day-two-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3425,34 +3455,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13583850/solheim-cup-2026-charley-hull-and-lottie-woad-to-face-team-usa-star-nelly-korda-as-friday-foursomes-line-up-revealed",
       "published": "Thu, 10 Sep 2026 16:40:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「私は本当に彼女を信頼しています」 |ハルアワード Team Europe キャプテン Nordqvist",
-      "summary": "シャレーハルアワード Team Europe キャプテン Anna Nordqvist そして彼女の8H に先を向けて Solheim Cup.",
-      "title_original": "'I really trust her' | Hull praises Team Europe captain Nordqvist",
-      "summary_original": "Charley Hull praises Team Europe captain Anna Nordqvist and looks ahead to her eighth Solheim Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13583987/solheim-cup-charley-hull-praises-team-europe-captain-anna-nordqvist",
-      "published": "Thu, 10 Sep 2026 14:08:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "観る方法 Sky Sports' Big Weekend",
-      "summary": "サッカー、F1、クリケット、ゴルフ、テニス、NFL は1 つの週末にすべて - すべて Sky Sports. Here's アクションの分を逃さないので、あなたが知る必要があるすべて。",
-      "title_original": "How to watch Sky Sports' Big Weekend",
-      "summary_original": "Football, F1, cricket, golf, tennis and NFL all on one weekend - and all on Sky Sports. Here's everything you need to know so you don't miss a minute of the action.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583497/how-to-watch-premier-league-wsl-spanish-grand-prix-us-open-finals-solheim-cup-and-nfl-with-sky-sports-and-now",
-      "published": "Thu, 10 Sep 2026 10:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
