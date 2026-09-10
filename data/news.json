@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T16:25:37.574677+00:00",
+  "updated_at": "2026-09-10T16:38:04.082176+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2338,7 +2338,13 @@
     "FIRST LOOK": "",
     "Grace Road": "",
     "Clara Luvanga": "",
-    "Sunday's Old Firm": ""
+    "Sunday's Old Firm": "",
+    "Doncaster Rovers": "",
+    "Grant McCann": "",
+    "Sir Billy Boston": "",
+    "Philadelphia Eagles": "フィラデルフィア・イーグルス",
+    "Jalen Hurts": "",
+    "Sky Sports NFL's Neil": ""
   },
   "items": [
     {
@@ -2734,6 +2740,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ドンキャスター上司マカンは皮膚がんの治療を明らかに",
+      "summary": "Doncaster Rovers ログイン Grant McCann 昨年皮膚がんと診断されたが「今は大丈夫」と明らかにした。",
+      "title_original": "Doncaster boss McCann reveals skin cancer treatment",
+      "summary_original": "Doncaster Rovers boss Grant McCann reveals he was diagnosed with skin cancer last year but is \"ok now\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2l8xzpkl02o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 16:08:22 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -2745,20 +2765,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アーセナルあらゆるテストを通過しています - そして、Odegaard は彼の人生の形態です",
-      "summary": "その他アーセナル勝つ, 別のマルティン・ウーデゴールゴール - ガンナーのキャプテンは、彼のベストに戻ります、書き込みフィル・マクナルティ.",
-      "title_original": "Arsenal are passing every test - and Odegaard is in form of his life",
-      "summary_original": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 22:35:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3182,6 +3188,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "群衆は Wigan の通りをラインアップし、Sir Billy Boston",
+      "summary": "",
+      "title_original": "Crowds line the streets of Wigan to say farewell to Sir Billy Boston",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights",
+      "published": "Mon, 17 Aug 2026 18:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「偏光」ハルトは、イーグルス評論よりも勝つことができますか?",
+      "summary": "フィラデルフィア・イーグルスクォーターバック Jalen Hurts2026 NFL シーズンは、これまで以上に多くの疑問点に直面しています。Sky Sports「ニール・レイノルズ」",
+      "title_original": "Can 'polarising' Hurts win over Eagles critics?",
+      "summary_original": "Philadelphia Eagles quarterback Jalen Hurts enters the 2026 NFL season facing more question marks than ever before, believes Sky Sports NFL's Neil Reynolds.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13584023/jalen-hurts-and-jayden-daniels-with-questions-to-answer-in-nfl-opener-as-philadelphia-eagles-roll-out-new-offense",
+      "published": "Thu, 10 Sep 2026 17:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・シティ最新: ブーディはロドリを褒め、彼は彼を置き換えようとします",
       "summary": "",
       "title_original": "Man City latest: Bouaddi praises Rodri as he seeks to replace him",
@@ -3420,41 +3454,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "雨は、悪夢が始まるとパキスタンの再構築で再生を停止します。England LIVE!",
+      "title": "雨の端はパキスタン52-2 で早くプレーし、イングランドを走る 268 LIVE!",
       "summary": "",
-      "title_original": "Rain stops play with Pakistan rebuilding after nightmare start vs England LIVE!",
+      "title_original": "Rain ends play early with Pakistan 52-2, trailing England by 268 runs LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583869/england-vs-pakistan-third-test-day-two-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
       "published": "Thu, 10 Sep 2026 09:55:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "セントレジャーステークス: Mike Cattermole's ビッグレースランナーズガイド",
-      "summary": "ようこそアメリカ合衆国アメリカは創業250 周年を迎えるので、世界最古のクラシックレースをしています。長いスポーツイベントはいくつ続きますか? とても少ないです。",
-      "title_original": "St Leger: Mike Cattermole's big race runner-by-runner guide",
-      "summary_original": "As the United States Of America celebrates its 250th anniversary, so does the world’s oldest Classic race. How many sporting events last this long? Very few.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13583923/st-leger-mike-cattermoles-big-race-runners-guide",
-      "published": "Thu, 10 Sep 2026 11:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハルそして Woad は Korda の showdown を渡しました Solheim Cup フォーサムズ",
-      "summary": "シャレーハル世界 No1 の別のブロックブスターの showdown を渡しましたネリー・コルダ今年の開幕戦では Solheim Cup 獲得を問い合わせオランダ.",
-      "title_original": "Hull and Woad handed Korda showdown in Solheim Cup foursomes",
-      "summary_original": "Charley Hull has been handed another blockbuster showdown with world No 1 Nelly Korda in the opening match of this year's Solheim Cup in the Netherlands.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13583850/solheim-cup-2026-charley-hull-and-lottie-woad-to-face-team-usa-star-nelly-korda-as-friday-foursomes-line-up-revealed",
-      "published": "Thu, 10 Sep 2026 16:40:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
