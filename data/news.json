@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T13:38:38.412249+00:00",
+  "updated_at": "2026-09-10T13:52:57.762196+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2312,7 +2312,8 @@
     "During Covid": "",
     "Darren Gough": "",
     "The Red Roses": "ラグビー女子イングランド代表",
-    "Sky Sports' Big Weekend": ""
+    "Sky Sports' Big Weekend": "",
+    "Can Rose": ""
   },
   "items": [
     {
@@ -3156,6 +3157,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ボーンマス最新:Can Rose マイルストーンで50 回を祝いますか?",
+      "summary": "",
+      "title_original": "Bournemouth latest: Can Rose celebrate turning 50 with milestone win?",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "published": "Thu, 10 Sep 2026 14:27:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Red Roses 傷害から返されたオーストラリアの衝突のために後押しされる",
       "summary": "ラグビー女子イングランド代表土曜日にオーストラリアに直面するために、家の足の最初の一致で名前を付けました WXV Global Series.",
       "title_original": "Red Roses boosted for Australia clash by returns from injury",
@@ -3240,9 +3255,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スミスは、リードパス200 対としてイングランド7 ダウンとフィフティノッチ Pakistan LIVE!",
+      "title": "イングランドと69 をスミッシュアウトし、約250 対 Pakistan LIVE!",
       "summary": "",
-      "title_original": "Smith notches fifty with England seven down as lead passes 200 vs Pakistan LIVE!",
+      "title_original": "Smith out on 69 with England eight down as lead nears 250 vs Pakistan LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583869/england-vs-pakistan-third-test-day-two-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3275,6 +3290,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13583212/today-on-sky-sports-racing-leger-meeting-at-doncaster-kicks-off-with-park-hill-and-may-hill-clashes",
       "published": "Thu, 10 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "誰が勝つか Solheim Cup? パンディット予測とあなたの言う!",
+      "summary": "今週のタイトなコンテストが予想されます Solheim Cup, しかし、誰がトロフィーを持ち上げて終了し、プレーヤーが印象づけるために設定されている Bernardus Golf?",
+      "title_original": "Who will win the Solheim Cup? Pundit predictions and have your say!",
+      "summary_original": "Another tight contest is expected at this week’s Solheim Cup, but who will end up lifting the trophy and which players are set to impress at Bernardus Golf?",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13583849/solheim-cup-predictions-who-will-win-sky-sports-pundits-predict-winning-score-europes-top-scorer-and-ones-to-watch",
+      "published": "Thu, 10 Sep 2026 14:20:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3405,34 +3434,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Odegaard 与える dominant アーセナル勝つナポリ",
-      "summary": "マルティン・ウーデゴールの の優れたストライキは与えましたアーセナル1-0 勝負ナポリ彼らのチャンピオンズリーグオープン",
-      "title_original": "Odegaard gives dominant Arsenal win over Napoli",
-      "summary_original": "Martin Odegaard's superb strike gave Arsenal a deserved 1-0 victory over Napoli in their Champions League opener.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/napoli-vs-arsenal/report/577605",
-      "published": "Wed, 09 Sep 2026 22:07:00 BST",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "NINE-goal スリラー! フェノメンタルターンアラウンド 見るチェルシー過去の予定リーズ!",
-      "summary": "ハイライトから EFL カップ間のマッチチェルシーそして、リーズ.",
-      "title_original": "NINE-goal thriller! Phenomenal turnaround sees Chelsea advance past Leeds!",
-      "summary_original": "Highlights from the Carabao Cup match between Chelsea and Leeds.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13583792/chelsea-6-3-leeds-carabao-cup-highlights",
-      "published": "Wed, 09 Sep 2026 22:45:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
