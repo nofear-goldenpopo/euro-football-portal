@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T00:08:28.263193+00:00",
+  "updated_at": "2026-09-10T00:32:59.772287+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2272,7 +2272,9 @@
     "Jarred Gillett": "",
     "Carabao Cup. Gillett": "",
     "Prince William": "ウィリアム (プリンス・オブ・ウェールズ)",
-    "On Your Side": ""
+    "On Your Side": "",
+    "Jessica Pegula": "",
+    "Sky Sports Tennis": "Sky Sports"
   },
   "items": [
     {
@@ -3116,6 +3118,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "トップ4 世界一の舞台で US Open 女性の準決勝ショーダウン",
+      "summary": "2 回防衛王者 Aryna Sabalenka 一歩一歩一歩一歩一歩一歩一歩一歩一歩一歩一歩一歩を踏み出す US Open 彼女は馴染みのフォアに直面しているときのタイトル Jessica Pegula, しばらくエレーナ・リバキナお持ち帰りいただけます。Coco Gauff 深夜から木曜日に準決勝 - ライブ Sky Sports.",
+      "title_original": "Top four in the world set for US Open women's semi-final showdown",
+      "summary_original": "Two-time defending champion Aryna Sabalenka will bid to move one step closer to a third straight US Open title when she faces familiar foe ‌Jessica Pegula, while Elena Rybakina will take on home favourite Coco Gauff in the semi-finals on Thursday from midnight - live on Sky Sports Tennis.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13583805/us-open-top-seeded-quartet-set-for-womens-semi-final-showdown-with-aryna-sabalenka-and-coco-gauff-in-action",
+      "published": "Thu, 10 Sep 2026 01:15:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アルテタ Odegaard を変換するための新しい役割を説明します",
       "summary": "マルティン・ウーデゴール今シーズンのスタートでプレイヤーが変身アーセナルログインミケル・アルテタ自分のキャプテンの印象的なフォームをフィットネスと新しいポジショニングに置きます。",
       "title_original": "Arteta explains new role for transformed Odegaard",
@@ -3375,20 +3391,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/norwich-city-vs-birmingham-city/report/560568",
       "published": "Wed, 09 Sep 2026 22:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "EFL 最新: 'Sick of it!' - ジョーンズ・スラムの決定は、Charlton のゴール対 QPR を支配します",
-      "summary": "",
-      "title_original": "EFL latest: 'Sick of it!' - Jones slams decision to rule out Charlton goal vs QPR",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "published": "Wed, 09 Sep 2026 23:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
