@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T22:06:03.305033+00:00",
+  "updated_at": "2026-09-10T22:25:17.337287+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2396,7 +2396,8 @@
     "LNER Community Stadium": "ヨーク・コミュニティ・スタジアム",
     "Paul Vaughan": "",
     "Michael Olise": "",
-    "Stadio Giuseppe Sinigaglia": "スタディオ・ジュゼッペ・シニガーリャ"
+    "Stadio Giuseppe Sinigaglia": "スタディオ・ジュゼッペ・シニガーリャ",
+    "Fortuna Arena": "シノー・ティップ・アレナ"
   },
   "items": [
     {
@@ -2624,9 +2625,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チャンピオンズリーグ新しい男の子 Como 優勢 Leipzig",
+      "title": "チャンピオンズリーグ新しい男の子コモ dominate Leipzig",
       "summary": "コモは印象的になりましたチャンピオンズリーグ来場者を倒すことでデビューRB ライプツィヒ4-1 開口部のリーグフェーズアウトスタディオ・ジュゼッペ・シニガーリャ.",
-      "title_original": "Champions League new boys Como dominant Leipzig",
+      "title_original": "Champions League new boys Como dominate Leipzig",
       "summary_original": "Como made an impressive Champions League debut by defeating visitors RB Leipzig 4-1 in their opening league-phase outing at Stadio Giuseppe Sinigaglia.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/czxzwwdz19zo?at_medium=RSS&at_campaign=rss",
@@ -2649,6 +2650,20 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンズの戦いとしてドラマを憎む 10 人スラヴィア・プラハ",
+      "summary": "レンズのスコア2 ゴール獲得を問い合わせアディショナルタイム後ろから2 回から10 人まで来るようにスラヴィア・プラハ獲得を問い合わせシノー・ティップ・アレナ.",
+      "title_original": "Late drama as Lens fight back to beat 10-man Slavia Prague",
+      "summary_original": "Lens score two goals in stoppage time as they come from behind twice to beat 10-man Slavia Prague at the Fortuna Arena.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cly4ll2wwz5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 22:07:09 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2722,20 +2737,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Raphinha on、again as Barcelona put five past Feyenoord を獲得候補に",
-      "summary": "ラフィーニャ目標を続け、別のダブルでシーズンをスタートバルセロナスタイルをオンにするフェイエノールト獲得を問い合わせチャンピオンズリーグ.",
-      "title_original": "Raphinha on target again as Barcelona put five past Feyenoord",
-      "summary_original": "Raphinha continued his remarkable goalscoring start to the season with another double as Barcelona turn on the style against Feyenoord in the Champions League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyznkd209xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 20:59:56 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "フランスは Infantino サポートを撤退した後、Fifa を変換したい",
       "summary": "フランスのサッカーの指導者は、国のサッカーの体が最新になった後に Fifa がどのように動くかを変換する方法を求めることを提案しました Gianni Infantino's 前提条件。",
       "title_original": "France wants to transform Fifa after withdrawing Infantino support",
@@ -2792,6 +2793,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Raphinha on、again as Barcelona put five past Feyenoord を獲得候補に",
+      "summary": "ラフィーニャ目標を続け、別のダブルでシーズンをスタートバルセロナスタイルをオンにするフェイエノールト獲得を問い合わせチャンピオンズリーグ.",
+      "title_original": "Raphinha on target again as Barcelona put five past Feyenoord",
+      "summary_original": "Raphinha continued his remarkable goalscoring start to the season with another double as Barcelona turn on the style against Feyenoord in the Champions League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwyznkd209xo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 20:59:56 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Mac Allister's 華麗な終わりは置きますリヴァプール獲得を問い合わせ",
       "summary": "ボールが落ちるアレクシス・マック・アリスター過去に初めてヒットした箱の端に Jan Oblak 与えるためにリヴァプールリード。",
       "title_original": "Mac Allister's brilliant finish puts Liverpool ahead",
@@ -2799,20 +2814,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c9qry93558po?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 20:59:20 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Szoboszlai イコライズリヴァプール素晴らしい Araujo ヘルプの後",
-      "summary": "Dominik Szoboszlai のためのイコライズリヴァプールに対してアトレティコ・マドリードからの素晴らしい援助の後 Ronald Araujo.",
-      "title_original": "Szoboszlai equalises for Liverpool after fantastic Araujo assist",
-      "summary_original": "Dominik Szoboszlai equalises for Liverpool against Atletico Madrid after a brilliant assist from Ronald Araujo.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c7v4lgmyl30o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 20:46:31 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3240,6 +3241,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ペーパー: Zubimendi は去るために押しますアーセナル",
+      "summary": "金曜日の新聞から噂を移籍するトップストーリー...",
+      "title_original": "Papers: Zubimendi may push to leave Arsenal",
+      "summary_original": "The top stories and transfer rumours from Friday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13584130/arsenal-transfer-news-martin-zubimendi-may-push-to-leave-premier-league-champions-paper-talk",
+      "published": "Thu, 10 Sep 2026 23:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「素晴らしいスポーツチケット」 -US Open 昼、夜のセッションフォーマットを維持するためのチーフ誓い",
       "summary": "US Open スタッフ Craig Tiley 獲得を問い合わせ Sky Sports 昼と夜に2 試合を2 回開催する予定フラッシング・メドウズ・コロナ・パークで 2027.",
       "title_original": "'A great sporting ticket' - US Open chief vows to keep day, night session format",
@@ -3502,20 +3517,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Musical Times6/1 のための 1000 の Guineas の後で May Hill ドンカスターでスタンプ",
-      "summary": "Musical Times 翌年のクラシック・ピクチャーに、ワイドマージンの勝利を勝ち取る Betfred May Hill Stakes ドンカスター",
-      "title_original": "Musical Times 6/1 for 1000 Guineas after May Hill romp at Doncaster",
-      "summary_original": "Musical Times burst into the next year's Classic picture with a wide-margin victory in the Betfred May Hill Stakes at Doncaster.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13584038/leger-festival-musical-times-6-1-for-1000-guineas-after-may-hill-stakes-romp-at-doncaster",
-      "published": "Thu, 10 Sep 2026 16:13:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
