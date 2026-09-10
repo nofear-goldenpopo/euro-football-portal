@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T20:06:15.853497+00:00",
+  "updated_at": "2026-09-10T20:23:59.099007+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2377,7 +2377,10 @@
     "Marc White": "",
     "Irish Open": "",
     "Amgen Irish Open": "アイリッシュ・オープン",
-    "Ireland's Shane Lowry": ""
+    "Ireland's Shane Lowry": "",
+    "Arsenal's Zubimendi": "",
+    "Martin Zubimendi": "",
+    "Mauro Icardi": "マウロ・イカルディ"
   },
   "items": [
     {
@@ -2410,9 +2413,9 @@
     },
     {
       "title": "ゴードン より良いフィットのためにバルセロナ Rashford よりも - デコ",
-      "summary": "バルセロナスポーティングディレクターDeco 氏は述べています Anthony Gordon's スタイルはよりよく合うハンジ・フリックの 側よりもマーカス・ラッシュフォード今年の夏にクラブがチームを組んだようにしました。",
+      "summary": "バルセロナスポーティングディレクターDeco 氏は述べています Anthony Gordon's スタイルはよりよく合うハンジ・フリックの 側よりもマーカス・ラッシュフォード夏はクラブがチームを強めるように。",
       "title_original": "Gordon a better fit for Barca than Rashford - Deco",
-      "summary_original": "Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad this summer.",
+      "summary_original": "Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad in the summer.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyl7njnk46o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 15:30:53 GMT",
@@ -2504,6 +2507,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェルシーそして、レアル・マドリードログインアーセナル'Zubimendi - 金曜日のゴシップ",
+      "summary": "Martin Zubimendi 退去を求めるアーセナル1 月1 日マウロ・イカルディオープン予定エヴァートン Toffees が動く間移動 Anthony Martial.",
+      "title_original": "Chelsea and Real Madrid keen on Arsenal's Zubimendi - Friday's gossip",
+      "summary_original": "Martin Zubimendi may seek to leave Arsenal in January, Mauro Icardi open to Everton move while Toffees play down move for Anthony Martial.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd68352z4vjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 20:13:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2773,20 +2790,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ニューカッスルまだホールセールにオープン - 木曜日のゴシップ",
-      "summary": "Lewis Hall 残留できるニューカッスル新しい契約にもかかわらず、Yasin Ayari コミットを閉じるブライトンしかし、Kaoru Mitoma 出口のために置き、チェルシー戻るマヌ・コネミッドフィールド検索で.",
-      "title_original": "Newcastle still open to Hall sale - Thursday's gossip",
-      "summary_original": "Lewis Hall could still leave Newcastle despite new contract, Yasin Ayari close to committing to Brighton but Kaoru Mitoma set for exit, and Chelsea to go back for Manu Kone in midfielder search.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy303wwpno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 22:32:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "アーセナルあらゆるテストを通過しています - そして、Odegaard は彼の人生の形態です",
       "summary": "その他アーセナル勝つ, 別のマルティン・ウーデゴールゴール - ガンナーのキャプテンは、彼のベストに戻ります、書き込みフィル・マクナルティ.",
       "title_original": "Arsenal are passing every test - and Odegaard is in form of his life",
@@ -2807,7 +2810,7 @@
       "summary_original": "⚽️ Champions League updates from the 8pm BST kick-off ⚽️ Live scoreboard | Read Football Daily | And mail Daniel It’s also worth noting that Patrick Dorgu starts at left-back tonight, for the first time under Carrick. Bought for Ruben Amorim, really he’s a specialist wing-back – not a defender because his awareness isn’t great, nor his ability to pass the ball out from the back, nor a winger because he lacks finesse and one-on-one ability – he starts at the back tonight mainly because Shaw is re",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
-      "published": "Thu, 10 Sep 2026 19:52:43 GMT",
+      "published": "Thu, 10 Sep 2026 20:09:33 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -3235,6 +3238,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Erasmus 衝動 South Africa フィナーレでリスクを増大させる New Zealand ボルチモア",
+      "summary": "平らな始まりの後で、South Africa ついにテストシリーズに翼を広げる New Zealand テスト2 と3 で、ヘッドコーチラシー・エラスムス米国土のフィナーレで高く飛んでほしい。",
+      "title_original": "Erasmus urges South Africa to risk more in finale with New Zealand in Baltimore",
+      "summary_original": "After a flat beginning, South Africa finally spread their wings in the Test series against New Zealand in Tests two and three, and head coach Rassie Erasmus wants his side to fly high in the finale on US soil.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13583078/south-africa-vs-new-zealand-rassie-erasmus-urges-springboks-to-risk-more-as-all-blacks-series-finale-looms-in-baltimore",
+      "published": "Tue, 08 Sep 2026 10:26:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ルーツのポンドの闘争と世紀の干ばつ - ナスザーは、ポストサッカーのバッキングを評価します",
       "summary": "Joe Root'slbw とイングランドの変換が何世紀にもわたって失敗する感受性は、改善されたポスト・フットボールのバッティングの表示の唯一の打撃であり、Nasser Hussain.",
       "title_original": "Root's lbw struggles and century drought - Nasser assesses post-Bazball batting",
@@ -3480,20 +3497,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13583956/england-vs-pakistan-third-test-day-two-highlights",
       "published": "Thu, 10 Sep 2026 13:10:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "『NOOO!』 ボールを叩くと、ボールを叩くのが悪くない!",
-      "summary": "Dan Lawrence ボールを倒した後、自分の刺激を隠すことができませんでした。",
-      "title_original": "‘NOOO!’ Lawrence furious as he knocks ball onto the stumps!",
-      "summary_original": "Dan Lawrence couldn't hide his fury after knocking the ball onto his own stumps.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13583955/england-vs-pakistan-dan-lawrence-furious-as-he-knocks-ball-on-to-the-stumps",
-      "published": "Thu, 10 Sep 2026 13:08:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
