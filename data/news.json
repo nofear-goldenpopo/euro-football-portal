@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T11:06:14.594583+00:00",
+  "updated_at": "2026-09-10T11:25:55.383987+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2299,7 +2299,12 @@
     "Chicago Stars": "シカゴ・スターズFC",
     "Bea Franklin": "",
     "Pioneer Saloon": "",
-    "Sophie Walker": ""
+    "Sophie Walker": "",
+    "Gainsborough Trinity": "",
+    "World Cup. Rice": "",
+    "December. It": "",
+    "St Leger": "セントレジャーステークス",
+    "United States Of America": ""
   },
   "items": [
     {
@@ -2313,6 +2318,34 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「人生を手に入れる」 - ノンリーグクラブは男の偽装マネージャを非難",
+      "summary": "Gainsborough Trinity 自分のマネージャーであることを偽りなく主張しながら、プレーヤーに近づいてきた人が非難しました。",
+      "title_original": "'Get a life' - non-league club condemn man impersonating manager",
+      "summary_original": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 11:06:31 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ゲームショーで勝利£725 から直面するマンチェスター・ユナイテッドヨーロッパ",
+      "summary": "リトアニアのコーチ Valdas Dambrauskas 自分の歯を英語のサッカーで切って、今度は戻りますチャンピオンズリーグサバと共に。",
+      "title_original": "From winning £725 on a game show to facing Man Utd in Europe",
+      "summary_original": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 09:40:39 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2369,20 +2402,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ゲームショーで勝利£725 から直面するマンチェスター・ユナイテッドヨーロッパ",
-      "summary": "リトアニアのコーチ Valdas Dambrauskas 自分の歯を英語のサッカーで切って、今度は戻りますチャンピオンズリーグサバと共に。",
-      "title_original": "From winning £725 on a game show to facing Man Utd in Europe",
-      "summary_original": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 09:40:39 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2709,20 +2728,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Betis は後ろから来る2 回、劇的な勝利をシールリール",
-      "summary": "リパブリックアイルランドのトロイ・パロット勝った目標を勝ち抜くレアル・ベティス後ろから戻ってマークするチャンピオンズリーグスリリングな勝利を勝ち取るリール.",
-      "title_original": "Betis twice come from behind to seal dramatic win over Lille",
-      "summary_original": "The Republic of Ireland's Troy Parrott scores the winning goal as Real Betis fought back from behind to mark their Champions League return with a thrilling victory at Lille.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvgy3dm0r62o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:00:15 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "チェルシー’s 2016-17 のニュースプレミアリーグタイトルは、トッテナム、Pochettino と言う",
       "summary": "元マネージャー 言うチェルシータイトルを省略する必要があります。“タイトルは、第2 だったチームのためにする必要があります。”Mauricio Pochettino コメントチェルシー自分の2016-17 を除去する必要がありますプレミアリーグ金融規則違反のタイトルと名誉の遡及的に授与されるトッテナム彼がその季節に第二の場所につながった人。チェルシーによって罰金が科された£10mFootball Association7 月との間のルールの複数の違反のための中断された 2 ウィンドウの移籍禁止を与えられたローマ n Abramovich 時代。彼ら w",
       "title_original": "Chelsea’s 2016-17 Premier League title should be given to Spurs, says Pochettino",
@@ -2730,6 +2735,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/10/chelsea-2016-17-premier-league-title-tottenham-mauricio-pochettino",
       "published": "Thu, 10 Sep 2026 06:00:18 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "デクラン・ライスシュラグオフアーセナル季節が持続可能である60 試合を懸念し、言う",
+      "summary": "アーセナルモニタリング中フィールドワーカーのワークロード米は、昨年シーズンに痛みを伴う注射を受けたデクラン・ライス彼の体は、60 以上の外観を再び維持することができます主張しているにもかかわらず、今シーズンアーセナル痛みを伴った後の悩み World Cup. Rice ラック アップ 69 外観 最後の季節 のためにアーセナルイングランドが認める World Cup 神経の背部およびハムストの苦痛をハムストの傷害管理するために痛みのキルトにする注入を受けました December. It アーセナは理解しています",
+      "title_original": "Declan Rice shrugs off Arsenal concerns and says 60 games a season is sustainable",
+      "summary_original": "Arsenal are monitoring midfielder’s workload Rice received painkilling injections last season Declan Rice has insisted his body can sustain more than 60 appearances again this season, despite Arsenal’s concerns after he played through pain at the World Cup. Rice racked up 69 appearances last season for Arsenal and England but admitted during the World Cup he had been receiving pain-killing injections to manage neural back and hamstring pain a hamstring injury in December. It is understood Arsena",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/declan-rice-arsenal-workload-concerns-sustainable",
+      "published": "Thu, 10 Sep 2026 11:00:22 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2761,20 +2780,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Ødegaard の端の喜びアルテタとしてアーセナル安全な狭い勝利ナポリ",
-      "summary": "過去1 年ぶりの記録破裂の偉業チャンピオンズリーグ, アーセナル獲得を問い合わせ しかし、火曜日に旅行カオスによって何百人もの旅行サポーターと一緒に遅れている、ミケル・アルテタの 側は、自分の時間に対抗しなければならないナポリまでマルティン・ウーデゴールゴールの豊富な静脈をフルタイムから15 分強めで続けました。Uefa の主張で、彼らは初めて赤のショートパンツを着用することを余儀なくされたという事実だったプレミアリーグゲーム アガイ",
-      "title_original": "Ødegaard ‘edge’ delights Arteta as Arsenal secure narrow win at Napoli",
-      "summary_original": "After their record-breaking feats last year in the Champions League, Arsenal are at it again. But having been delayed along with hundreds of travelling supporters by travel chaos on Tuesday, Mikel Arteta’s side had to bide their time against Napoli until Martin Ødegaard continued his rich vein of goalscoring with the crucial strike 15 minutes from full time. Perhaps it was the fact that, at Uefa’s insistence, they were forced to wear red shorts for the first time since a Premier League game agai",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report",
-      "published": "Wed, 09 Sep 2026 21:02:33 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2933,20 +2938,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ロサリオ「私の底を刻む」間にマンチェスター・シティの で勝つポルト, 請求ハーランド",
-      "summary": "フォワードは、事件は「少しだった」と述べましたインテルエステー 見出し練習と Alf Inge オープンアの助けを借りてアーリング・ハーランドクレーム Pablo Rosario「私の底を刻む」マンチェスター・シティ’s 2-0 で勝つポルト獲得を問い合わせ Tuesday. The 第92 分に発生した事故ハーランドシティーの目標を獲得しました。フォワードとミッドフィルダーは、地面に行き、分離した後に予約されました。「私は本当に気にしていたハットトリックそして、彼がとても熱心だったように見えました。ハーランド獲得を問い合わせ",
-      "title_original": "Rosario ‘grabbed my bottom’ during Manchester City’s win at Porto, claims Haaland",
-      "summary_original": "Forward says incident was ‘a little interesting’ Heading practice with Alf Inge helped with opener Erling Haaland has claimed Pablo Rosario “grabbed my bottom” during Manchester City’s 2-0 win at Porto on Tuesday. The incident occurred in the 92nd minute, with Haaland having scored City’s goals. The forward and midfielder grappled, went to ground and were booked after being separated. “I was really keen on a hat-trick and it seemed like he was very eager to stop me from getting it,” Haaland told",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/erling-haaland-pablo-rosario-manchester-city-porto-champions-league",
-      "published": "Wed, 09 Sep 2026 14:42:55 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「魔法」のキャリックアップチャンピオンズリーグしかし、ダービーのタイミングは「理想ではない」",
       "summary": "ユナイテッド プレイ サバ, その後マンチェスター・シティ日曜日「勝つためにチャンピオンズリーグ究極のものだったマイケル・キャリックリードに興奮していますマンチェスター・ユナイテッド「魔法」に戻るチャンピオンズリーグしかし、木曜日の夜にプレイを認めたのは、ダービーと「理想的ではない」でした Sunday. United ようこそサバへオールド・トラッフォード2 年以降チャンピオンズリーグ不在。The Azerbaijani 欧州のエリートで10 年以内に存在していたクラブがデビュー。続きを読む...",
       "title_original": "Carrick up for ‘magical’ Champions League but derby timing ‘not ideal’",
@@ -2957,6 +2948,34 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Ødegaard の端の喜びアルテタとしてアーセナル安全な狭い勝利ナポリ",
+      "summary": "過去1 年ぶりの記録破裂の偉業チャンピオンズリーグ, アーセナル獲得を問い合わせ しかし、火曜日に旅行カオスによって何百人もの旅行サポーターと一緒に遅れている、ミケル・アルテタの 側は、自分の時間に対抗しなければならないナポリまでマルティン・ウーデゴールゴールの豊富な静脈をフルタイムから15 分強めで続けました。Uefa の主張で、彼らは初めて赤のショートパンツを着用することを余儀なくされたという事実だったプレミアリーグゲーム アガイ",
+      "title_original": "Ødegaard ‘edge’ delights Arteta as Arsenal secure narrow win at Napoli",
+      "summary_original": "After their record-breaking feats last year in the Champions League, Arsenal are at it again. But having been delayed along with hundreds of travelling supporters by travel chaos on Tuesday, Mikel Arteta’s side had to bide their time against Napoli until Martin Ødegaard continued his rich vein of goalscoring with the crucial strike 15 minutes from full time. Perhaps it was the fact that, at Uefa’s insistence, they were forced to wear red shorts for the first time since a Premier League game agai",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report",
+      "published": "Wed, 09 Sep 2026 21:02:33 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ロサリオ「私の底を刻む」間にマンチェスター・シティの で勝つポルト, 請求ハーランド",
+      "summary": "フォワードは、事件は「少しだった」と述べましたインテルエステー 見出し練習と Alf Inge オープンアの助けを借りてアーリング・ハーランドクレーム Pablo Rosario「私の底を刻む」マンチェスター・シティ’s 2-0 で勝つポルト獲得を問い合わせ Tuesday. The 第92 分に発生した事故ハーランドシティーの目標を獲得しました。フォワードとミッドフィルダーは、地面に行き、分離した後に予約されました。「私は本当に気にしていたハットトリックそして、彼がとても熱心だったように見えました。ハーランド獲得を問い合わせ",
+      "title_original": "Rosario ‘grabbed my bottom’ during Manchester City’s win at Porto, claims Haaland",
+      "summary_original": "Forward says incident was ‘a little interesting’ Heading practice with Alf Inge helped with opener Erling Haaland has claimed Pablo Rosario “grabbed my bottom” during Manchester City’s 2-0 win at Porto on Tuesday. The incident occurred in the 92nd minute, with Haaland having scored City’s goals. The forward and midfielder grappled, went to ground and were booked after being separated. “I was really keen on a hat-trick and it seemed like he was very eager to stop me from getting it,” Haaland told",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/09/erling-haaland-pablo-rosario-manchester-city-porto-champions-league",
+      "published": "Wed, 09 Sep 2026 14:42:55 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2986,20 +3005,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ニューカッスル進歩として Joe Willock レイト レイト オフ ravaged Millwall",
-      "summary": "ニューカッスルサウス・イースト・ロンドンで、次のラウンドに進みました EFL カップ. ジョー・ウィロックは、骨の下にある骨のように、骨の骨にそれほど下がっていなかった精神的なミルウォールチームに対して、この自治、楽しい、わずかに漠然としたカップタイの唯一の目標を獲得しました。最後はファンのセットがもっとも満足していなかった感じでした。パフォーマンスとパフォーマンスの活力のためのミルウォールニューカッスル結果について、クリーンシートと t の夜明けの初期の進行の兆候",
-      "title_original": "Newcastle progress as Joe Willock strikes late to see off ravaged Millwall",
-      "summary_original": "Newcastle did just enough in south-east London to progress to the next round of the Carabao Cup. Joe Willock scored the only goal of this boisterous, fun, slightly vague cup tie against a spirited Millwall team that was not so much down to the bare bones, as the bones beneath the bones. By the end there was a sense both sets of fans were more or less happy. Millwall for the vigour of the performance and Newcastle for the result, the clean sheet and any signs of early progress in the dawning of t",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/millwall-newcastle-carabao-cup-third-round-match-report",
-      "published": "Tue, 08 Sep 2026 21:07:57 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3154,6 +3159,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "セントレジャーステークス: ビッグレースランナーズガイド",
+      "summary": "ようこそアメリカ合衆国アメリカは創業250 周年を迎えるので、世界最古のクラシックレースをしています。長いスポーツイベントはいくつ続きますか? とても少ないです。",
+      "title_original": "St Leger: Big race runners guide",
+      "summary_original": "As the United States Of America celebrates its 250th anniversary, so does the world’s oldest Classic race. How many sporting events last this long? Very few.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13583923/st-leger-mike-cattermoles-big-race-runners-guide",
+      "published": "Thu, 10 Sep 2026 11:20:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3406,20 +3425,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "シーホークは NFL オープナーでパトリオッツを打つが、ダーノルドの打撃を苦しむ",
-      "summary": "バックアップ四半期バック Drew Lock 導かれた2 つの遅れのスコアリング ドライブとして Seattle Seahawks インテルコンセプト Drake Maye4 四半期に3 回、早期怪我を克服サム・ダーノルドそしてビートニューイングランド・ペイトリオッツ水曜日の夜に13-10 がオープン Super Bowl リマッチ。",
-      "title_original": "Seahawks beat Patriots in NFL opener but suffer Darnold blow",
-      "summary_original": "Backup quarterback Drew Lock led two late scoring drives as the Seattle Seahawks intercepted Drake Maye three times in the fourth quarter to overcome an early injury to Sam Darnold and beat the New England Patriots 13-10 in Wednesday night's season-opening Super Bowl rematch.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nfl/news/12040/13583822/seattle-seahawks-beat-new-england-patriots-after-drake-mayes-three-interceptions-and-sam-darnold-injury-in-nfl-season-opener",
-      "published": "Thu, 10 Sep 2026 05:18:00 BST",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
