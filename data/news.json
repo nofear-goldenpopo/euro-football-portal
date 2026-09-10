@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T14:07:08.390140+00:00",
+  "updated_at": "2026-09-10T14:26:06.911245+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2319,6 +2319,20 @@
   },
   "items": [
     {
+      "title": "アーセナル新しい契約を最終決定するクローズアルテタ",
+      "summary": "ミケル・アルテタ新規契約の最終決定に近づいていると考えられているプレミアリーグチャンピオンアーセナル.",
+      "title_original": "Arsenal close to finalising new contract for Arteta",
+      "summary_original": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 14:16:06 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ケースを作ることができます。チェルシー2016-17 タイトルのストライプされていますか?",
       "summary": "Does Mauricio Pochettino ケースを持っているトッテナム後ろ向きに王冠されるべきですプレミアリーグチャンピオン?",
       "title_original": "Can you make a case for Chelsea being stripped of 2016-17 title?",
@@ -2459,20 +2473,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "O'Neill ' は ' は ' は ' は ' は ' は ' は ' は ' は ' は ' は ' は ' は ' は 'セルティック問題は?",
-      "summary": "マネージャーマーティン・オニール獲得を問い合わせセルティック変化の激しい側が狭い1-0 の勝利を獲得した後、St Johnstone?",
-      "title_original": "O'Neill 'not sure what to make of' Celtic, so what are the issues?",
-      "summary_original": "What did manager Martin O'Neill learn about his Celtic squad after a much-changed side earned a narrow 1-0 victory away to St Johnstone?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cevw23z7l03o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 07:39:05 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ニューカッスルまだホールセールにオープン - 木曜日のゴシップ",
       "summary": "Lewis Hall 残留できるニューカッスル新しい契約にもかかわらず、Yasin Ayari コミットを閉じるブライトンしかし、Kaoru Mitoma 出口のために置き、チェルシー戻るマヌ・コネミッドフィールド検索で.",
       "title_original": "Newcastle still open to Hall sale - Thursday's gossip",
@@ -2484,6 +2484,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "O'Neill ' は ' は ' は ' は ' は ' は ' は ' は ' は ' は ' は ' は ' は ' は 'セルティック問題は?",
+      "summary": "マネージャーマーティン・オニール獲得を問い合わせセルティック変化の激しい側が狭い1-0 の勝利を獲得した後、St Johnstone?",
+      "title_original": "O'Neill 'not sure what to make of' Celtic, so what are the issues?",
+      "summary_original": "What did manager Martin O'Neill learn about his Celtic squad after a much-changed side earned a narrow 1-0 victory away to St Johnstone?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cevw23z7l03o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 07:39:05 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2707,20 +2721,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スコットランドのクラブは厳しいヨーロッパリーグコース",
-      "summary": "Uefa は、予選ラウンドの変更を行いましたヨーロッパリーグ次の季節から。",
-      "title_original": "Scottish clubs face tougher Europa League route",
-      "summary_original": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99dm80e2r0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 19:30:57 GMT",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3271,9 +3271,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リードパスとしてイングランド8 ダウンで69 をスモープ 250 対 Pakistan LIVE!",
+      "title": "イングランドは、300 対近くのリードとして9 ダウン Pakistan LIVE!",
       "summary": "",
-      "title_original": "Smith out on 69 with England eight down as lead passes 250 vs Pakistan LIVE!",
+      "title_original": "England nine down as lead nears 300 vs Pakistan LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583869/england-vs-pakistan-third-test-day-two-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
