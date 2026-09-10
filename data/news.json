@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T11:51:49.268385+00:00",
+  "updated_at": "2026-09-10T12:08:33.866867+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2305,7 +2305,10 @@
     "December. It": "",
     "St Leger": "セントレジャーステークス",
     "United States Of America": "",
-    "Gemma Darvill": ""
+    "Gemma Darvill": "",
+    "Flanders Darts Trophy": "",
+    "Van Veen": "",
+    "World Grand Prix": "ワールドグランプリ"
   },
   "items": [
     {
@@ -3149,6 +3152,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Flanders Darts Trophy: グレーヴ、MVG、Van Veen アクション",
+      "summary": "レースの予選ワールドグランプリ9 月末にスカイスポーツに着きます。Flanders Darts Trophy 今週末はアントワープで。",
+      "title_original": "Flanders Darts Trophy: Draw and schedule with Greaves, MVG, Van Veen in action",
+      "summary_original": "The race to qualify for the World Grand Prix at the end of September live on Sky Sports concludes at the Flanders Darts Trophy in Antwerp this weekend.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/news/12040/13583943/flanders-darts-trophy-latest-draw-schedule-results-as-michael-van-gerwen-gian-van-veen-beau-greaves-feature-in-antwerp",
+      "published": "Thu, 10 Sep 2026 12:06:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "チェルシー最新:パルマーは、アロンソの下で人生を楽しむ攻撃者を言います",
       "summary": "",
       "title_original": "Chelsea latest: Palmer says attackers enjoying life under Alonso",
@@ -3205,9 +3222,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブルックはトンを逃しますが、イングランドの建物のサイズのリード対 Pakistan LIVE!",
+      "title": "ブルック&ローレンスはトンを逃すが、イングランドは大きなリード対をビルド Pakistan LIVE!",
       "summary": "",
-      "title_original": "Brook misses out on ton but England building sizeable lead vs Pakistan LIVE!",
+      "title_original": "Brook & Lawrence miss out on tons but England build big lead vs Pakistan LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583869/england-vs-pakistan-third-test-day-two-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3408,20 +3425,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13583739/us-open-3-33am-local-time-and-another-early-morning-finish-as-ben-shelton-beat-carlos-alcaraz-so-does-something-have-to-change",
       "published": "Wed, 09 Sep 2026 23:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "信じられないほどのコールバック後、セミで新しい世界を直面する Gauff No 1 Rybakina",
-      "summary": "Coco Gauff 十代の3 セット勝利に彼女の方法で2 つのマッチポイントを保存全仏オープン受賞者 Mirra Andreeva 新しく戴冠した世界とセミファイナルのショーダウンを1 台セットアップエレーナ・リバキナ.",
-      "title_original": "Gauff to face new world No 1 Rybakina in semis after incredible comeback",
-      "summary_original": "Coco Gauff saved two match points on her way to a three-set victory over teenage French Open winner Mirra Andreeva which set up a semi-final showdown with newly crowned world No 1 Elena Rybakina.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13583707/us-open-2026-coco-gauff-mounts-stunning-comeback-to-set-up-elena-rybakina-semi-final",
-      "published": "Wed, 09 Sep 2026 19:41:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
