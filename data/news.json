@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T08:54:56.872871+00:00",
+  "updated_at": "2026-09-10T09:06:24.235985+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2293,7 +2293,9 @@
     "Championship. Seriously": "",
     "Rookie Eli Raridon": "",
     "Eli Raridon's": "",
-    "Barca's Rodri": ""
+    "Barca's Rodri": "",
+    "Sky Sport's Big Weekend": "",
+    "Sky Sports. Here's": ""
   },
   "items": [
     {
@@ -2465,20 +2467,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スコットランドのクラブは厳しいヨーロッパリーグコース",
-      "summary": "Uefa は、予選ラウンドの変更を行いましたヨーロッパリーグ次の季節から。",
-      "title_original": "Scottish clubs face tougher Europa League route",
-      "summary_original": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99dm80e2r0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 19:30:57 GMT",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "トーレスハットトリック火災パリ・サンジェルマン Bratislava に対する優勢な勝利への",
       "summary": "Ferran Torres スコアハットトリックとしてパリ・サンジェルマン獲得を問い合わせチャンピオンズリーグタイトルは勝ち始めに消えますスロヴァン・ブラチスラヴァ.",
       "title_original": "Torres hat-trick fires Paris Saint-Germain to dominant win against Bratislava",
@@ -2615,6 +2603,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "スコットランドのクラブは厳しいヨーロッパリーグコース",
+      "summary": "Uefa は、予選ラウンドの変更を行いましたヨーロッパリーグ次の季節から。",
+      "title_original": "Scottish clubs face tougher Europa League route",
+      "summary_original": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99dm80e2r0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 19:30:57 GMT",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3137,6 +3139,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "観る方法 Sky Sport's Big Weekend",
+      "summary": "サッカー、F1、クリケット、ゴルフ、テニス、NFL は1 つの週末にすべて - そして、すべて Sky Sports. Here's アクションの分を逃さないので、あなたが知る必要があるすべて。",
+      "title_original": "How to watch Sky Sport's Big Weekend",
+      "summary_original": "Football, F1, cricket, golf, tennis and NFL all on one weekend - and all on Sky Sports. Here's everything you need to know so you don't miss a minute of the action.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13583497/how-to-watch-premier-league-wsl-spanish-grand-prix-us-open-finals-solheim-cup-and-nfl-with-sky-sports-and-now",
+      "published": "Thu, 10 Sep 2026 10:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "イングランドは、ランチ LIVE でナイザーQ&A でパキスタンをリードして構築しています!",
+      "summary": "",
+      "title_original": "England look to build on lead over Pakistan, with Nasser Q&A at lunch LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13583869/england-vs-pakistan-third-test-day-two-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
+      "published": "Thu, 10 Sep 2026 09:55:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ガルシアは、彼がベンと顔をスヌーブした理由を明らかに",
+      "summary": "Ryan Garcia 火曜日の顔オフを欠落させるための謝罪はありません Conor Benn, それを追加すると、英国の戦闘機は、彼のお父さんに対して平方オフに先行するを参照してくださいに「おもしろい」だった, Nigel.",
+      "title_original": "Garcia reveals why he snubbed face-off with Benn",
+      "summary_original": "Ryan Garcia offered no apologies for missing Tuesday's face-off with Conor Benn, adding it was \"funny\" to see the British fighter pretending to square off against his dad, Nigel.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13583873/ryan-garcia-vs-conor-benn-american-reveals-why-he-snubbed-face-off-as-brit-says-he-went-through-hell-to-make-weight",
+      "published": "Thu, 10 Sep 2026 08:50:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Park Hill そして、May Hill レガー会議が Doncaster で始まるように衝突機能",
       "summary": "Doncaster's St Leger 会議は木曜日に道で取得します, すべてのライブ Sky Sports Racing, 組の classyGroup Two センターステージでのコンテスト。",
       "title_original": "Park Hill and May Hill clashes feature as Leger meeting begins at Doncaster",
@@ -3372,48 +3416,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "グルニーは、World Series Finals ビザの問題による出金後",
-      "summary": "Daryl Gurney で再生するために呼び出されている World Series インフォメーション Darts Finals アムステルダムでビザの問題がフィリピンの選手の撤退につながりました Lourence Ilagan そして、Alexis Toylo9 月17 日～20 日のイベント",
-      "title_original": "Gurney called up to World Series Finals after withdrawals due to visa issues",
-      "summary_original": "Daryl Gurney has been called up to play at the World Series of Darts Finals in Amsterdam after visa issues led to the withdrawal of Philippines players Lourence Ilagan and Alexis Toylo from the September 17-20 event.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13583670/world-series-of-darts-finals-2026-schedule-and-results-with-luke-littler-luke-humphries-michael-van-gerwen-gian-van-veen-in-action",
-      "published": "Wed, 09 Sep 2026 17:27:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "英国が1 日にリードを獲得したので、残念なパキスタンによる舌涙",
-      "summary": "イングランドは、エドグバストンで3 番目のテストの1 日目に、まだ再びパキスタンを残念に見立て、156-4 で閉鎖する前に、観光客をボーリングし、23 ランリードで。",
-      "title_original": "Tongue tears through sorry Pakistan as England earn lead on day one",
-      "summary_original": "England dominated a sorry-looking Pakistan yet again on day one of the third Test at Edgbaston, bowling the tourists out for 133 before closing on 156-4, with a 23-run lead.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13583562/england-bowl-pakistan-out-for-133-as-josh-tongue-and-harry-brook-secure-lead-on-day-one-of-final-test-at-edgbaston",
-      "published": "Wed, 09 Sep 2026 13:21:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウィリアム (プリンス・オブ・ウェールズ)スポーツ用殺虫防止ツールキット発売",
-      "summary": "ウィリアム (プリンス・オブ・ウェールズ)毎週木曜日にスポーツから主要なフィギュアを集めて、組織が警告標識を認識し、危険でそれらをサポートするように設計された新しい一種の自殺防止ツールキットを発売します。",
-      "title_original": "Prince William launches suicide prevention toolkit for sport",
-      "summary_original": "Prince William will bring together leading figures from across sport on Thursday to launch a new first-of-its-kind suicide prevention toolkit designed to help organisations recognise warning signs and support those at risk.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583611/prince-william-launches-landmark-suicide-prevention-toolkit-for-sport-on-world-suicide-prevention-day",
-      "published": "Thu, 10 Sep 2026 00:01:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
