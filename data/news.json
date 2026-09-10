@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T04:53:03.173794+00:00",
+  "updated_at": "2026-09-10T05:06:19.593614+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2276,7 +2276,9 @@
     "Jessica Pegula": "",
     "Sky Sports Tennis": "Sky Sports",
     "Zverev's US Open": "",
-    "Dutchman Botic": ""
+    "Dutchman Botic": "",
+    "Doncaster's St Leger": "",
+    "Group Two": ""
   },
   "items": [
     {
@@ -3120,6 +3122,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Park Hill そして、May Hill レガー会議が Doncaster で始まるように衝突機能",
+      "summary": "Doncaster's St Leger 会議は木曜日に道で取得します, すべてのライブ Sky Sports Racing, 組の classyGroup Two センターステージでのコンテスト。",
+      "title_original": "Park Hill and May Hill clashes feature as Leger meeting begins at Doncaster",
+      "summary_original": "Doncaster's St Leger meeting gets under way on Thursday, all live on Sky Sports Racing , with a pair of classy Group Two contests taking centre stage.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13583212/today-on-sky-sports-racing-leger-meeting-at-doncaster-kicks-off-with-park-hill-and-may-hill-clashes",
+      "published": "Thu, 10 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Zverev's US Open 半ファイナルへのスムーズな航行に岩道が変わる",
       "summary": "Alexander Zverev 別の大きな一歩を踏み出すグランドスラムビートによるタイトル Dutchman Botic バン・デ・ザンズチュル 6-2 7-5 6-1 到達する全米オープンセミファイナル",
       "title_original": "Zverev's US Open rocky road turns into smooth sailing to the semi-finals",
@@ -3379,20 +3395,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13583384/us-open-live-scores-updates-news-commentary-results-from-new-york-with-elena-rybakina-coco-gauff-and-mirra-andreeva-all-in-action",
       "published": "Wed, 09 Sep 2026 15:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Doyle: Waardah でビートする人 Park Hill",
-      "summary": "私たちの大使 Hollie Doyle アクションから彼女の頂点を与える Town Moor, 彼女のテイク・オン・ザ・Park Hill, May Hill そして、Sales Race.",
-      "title_original": "Doyle: Waardah the one to beat in the Park Hill",
-      "summary_original": "Our ambassador Hollie Doyle gives her verdict on the action from Town Moor, providing her take on the Park Hill, May Hill and Sales Race.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13583627/hollie-doyle-owen-burrows-filly-can-claim-park-hill-success",
-      "published": "Wed, 09 Sep 2026 15:47:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
