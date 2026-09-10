@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T10:06:04.215712+00:00",
+  "updated_at": "2026-09-10T10:26:35.620607+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2295,7 +2295,10 @@
     "Eli Raridon's": "",
     "Barca's Rodri": "",
     "Sky Sport's Big Weekend": "",
-    "Sky Sports. Here's": ""
+    "Sky Sports. Here's": "",
+    "Chicago Stars": "シカゴ・スターズFC",
+    "Bea Franklin": "",
+    "Pioneer Saloon": ""
   },
   "items": [
     {
@@ -2607,6 +2610,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "なぜそこにいるのかチャンピオンズリーグ木曜日にゲーム?",
+      "summary": "Our Ask Me Anything チームがなぜあるのかを見るチャンピオンズリーグゲームは木曜日に行われる。",
+      "title_original": "Why are there Champions League games on Thursday?",
+      "summary_original": "Our Ask Me Anything team look at why some Champions League games are taking place on Thursday.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7847dy555zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 10:21:26 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ガブリエルが15 歳になるマンチェスター・ユナイテッド'最も若いプレーヤー?",
       "summary": "Fifteen-year-old JJ Gabriel2 つの壮大な目標を獲得しましたプレミアリーグのための2 つの出現マンチェスター・ユナイテッド- 彼は彼のシニアデビューを作る準備ができています",
       "title_original": "Is 15-year-old Gabriel set to become Man Utd's youngest ever player?",
@@ -2705,20 +2722,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL のオープン週末からのすべての目標",
-      "summary": "開幕の週末からすべての目標を見る Women's Super League2026-27 シーズン",
-      "title_original": "All the goals from the opening weekend of the WSL",
-      "summary_original": "Watch every goal from the opening weekend of the Women's Super League 2026-27 season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cn4k1lwl2zxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 15:21:29 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "チェルシー’s 2016-17 のニュースプレミアリーグタイトルは、トッテナム、Pochettino と言う",
       "summary": "元マネージャー 言うチェルシータイトルを省略する必要があります。“タイトルは、第2 だったチームのためにする必要があります。”Mauricio Pochettino コメントチェルシー自分の2016-17 を除去する必要がありますプレミアリーグ金融規則違反のタイトルと名誉の遡及的に授与されるトッテナム彼がその季節に第二の場所につながった人。チェルシーによって罰金が科された£10mFootball Association7 月との間のルールの複数の違反のための中断された 2 ウィンドウの移籍禁止を与えられたローマ n Abramovich 時代。彼ら w",
       "title_original": "Chelsea’s 2016-17 Premier League title should be given to Spurs, says Pochettino",
@@ -2790,9 +2793,9 @@
     },
     {
       "title": "コール・パーマーパワーチェルシーカムバック勝つためにリーズ nine-goal の叙事詩",
-      "summary": "楽にやってみてはいかがですか?チェルシーバックでチャオティックのままですが、相手を恐ろしい場所にドラッグすることができます。あなたを助けます, あなた, 紹介からいくつかの援助を持っているために.Jarred Gillett そして、コール・パーマー? 彼らはキラーコンビネーションのために作られたチェルシー刺繍と処理 Stamford Bridge 人生の1 つの希少性:第3 ラウンドの古典 EFL カップ. ギレット, 彼はキーコールを作るとき、常に推測するように見えるレフリー, リーとしてビランだった",
+      "summary": "楽にやってみてはいかがですか?チェルシーバックでチャオティックのままですが、相手を恐ろしい場所にドラッグすることができます。あなたを助けます, あなた, 紹介からいくつかの援助を持っているために.Jarred Gillett そして、コール・パーマー? 彼らはキラーの組み合わせのために作られたチェルシー刺繍と処理 Stamford Bridge 人生の1 つの希少性:第3 ラウンドの古典 EFL カップ. ギレット, 彼はキーコールをしたときに常に推測するように見えるレフリー, リードとしてビランだった",
       "title_original": "Cole Palmer powers Chelsea to comeback win over Leeds in nine-goal epic",
-      "summary_original": "Where’s the fun in doing it the easy way? Chelsea remain chaotic at the back but can drag their opponents into horrible places. It helps, mind you, to have some assistance from the referee. Jarred Gillett and Cole Palmer? They made for a killer ­combination as Chelsea swerved embarrassment and treated Stamford Bridge to one of life’s rarities: a classic in the third round of the Carabao Cup. Gillett, a referee who always seems to be guessing when he makes key calls, was the villain as far as Lee",
+      "summary_original": "Where’s the fun in doing it the easy way? Chelsea remain chaotic at the back but can drag their opponents into horrible places. It helps, mind you, to have some assistance from the referee. Jarred Gillett and Cole Palmer? They made for a killer combination as Chelsea swerved embarrassment and treated Stamford Bridge to one of life’s rarities: a classic in the third round of the Carabao Cup. Gillett, a referee who always seems to be guessing when he makes key calls, was the villain as far as Leed",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/09/chelsea-leeds-carabao-cup-third-round-match-report",
       "published": "Wed, 09 Sep 2026 21:18:55 GMT",
@@ -3055,6 +3058,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "サルーン、スクール、スペシャリティコーヒー:NWSL プレイヤーは、サイドハストルの新しい時代を楽しんでいます",
+      "summary": "5 年前、リーグの星はアマゾンボックスを詰めたか、またはドアダッシュのために運転し、エンドはミージャーの給料で会います。新しい CBA は、オフフィールドの追求のための扉を開けました。冷たい w インテル Ketchum、Idaho の夜、シカゴ・スターズ FC ミッドフィルダーBea Franklin 普段はサッカーのフィールドで何をしているかよりも、さまざまな種類の物理的な feat を引っ張っていた。タクシーで遊んでいる動物の目の下に Pioneer Saloon, 彼女 deftly バランスの取れた martinis として カクテル ウエートレス, 身に着けている カウガール bo",
+      "title_original": "Saloons, school and specialty coffee: NWSL players enjoy new era of side hustles",
+      "summary_original": "Five years ago, stars in the league packed Amazon boxes or drove for DoorDash to make ends meet on meager salaries. A new CBA opened doors for off-field pursuits in line with their passions On a cold winter night in Ketchum, Idaho, Chicago Stars midfielder Bea Franklin was pulling off a different sort of physical feat than what she usually does on the soccer field. Under the eyes of taxidermied animals at the Pioneer Saloon, she deftly balanced martinis as a cocktail waitress, wearing cowgirl bo",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/nwsl-players-side-hustles",
+      "published": "Thu, 10 Sep 2026 10:00:24 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "サッカーの最も有害なレッドカード s: 崩壊とターンアラウンドの簡単な歴史 |The Knowledge",
       "summary": "プラス: 複数の£100 メートルの選手とクラブ 自分の本とより多くのトロフィー・ラデンのサッカー選手 私達にあなたのすべての質問と答えてメール “The Saturday 最後に、Clyde は 3-0 を獲得しました。The Spartans 時間の経過後 Logan Dunachie 送信されました。20 分後、スコアは3-3 だった。ゲームの最大のターンアラウンドは、次のゲームでレッドカードプレイヤーで投げられることができる/most 量的責務は、オフに送られてもらえますか?Jamie Wills. At Knowledge タワー、私達は通常受けます",
       "title_original": "Football’s most damaging red cards: a brief history of collapses and turnarounds | The Knowledge",
@@ -3125,20 +3142,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「少女の日」論争は女性がどのように扱われているかについて議論する South Korean サッカー",
-      "summary": "レフリーは、プレーヤーの治療に関する懸念を回復した月経を参照して注目を浴びていると主張しています 紹介者によるコメントは、WK League 最大の論争の一つとなったマッチ South Korean 女子サッカー オンフィールドの紛争として始まったこと South Korea’s オールタイムトップゴールコーラー,池笑然, 以来、より広い議論に発展しました, からの応答を促す Korea Football Association 治療に関する質問を調達する",
-      "title_original": "‘Girl’s day’ controversy reignites debate over how women are treated in South Korean football",
-      "summary_original": "A referee is alleged to have made a remark referring to menstruation that has revived concerns about treatment of players It was a comment allegedly made by a referee during a WK League match that became one of the biggest controversies in South Korean women’s football. What began as an on-field dispute involving South Korea’s all-time top goalscorer, Ji So-yun, has since developed into a wider debate, prompting a response from the Korea Football Association and raising questions about the treat",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/girls-day-controversy-debate-womens-football-south-korea",
-      "published": "Tue, 08 Sep 2026 10:00:01 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "観る方法 Sky Sport's Big Weekend",
       "summary": "サッカー、F1、クリケット、ゴルフ、テニス、NFL は1 つの週末にすべて - そして、すべて Sky Sports. Here's アクションの分を逃さないので、あなたが知る必要があるすべて。",
       "title_original": "How to watch Sky Sport's Big Weekend",
@@ -3153,9 +3156,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランドは、ランチ LIVE でナイザーQ&A でパキスタンをリードして構築しています!",
+      "title": "ランチ LIVE でナイザーQ&A でパキスタンをリードするイングランドビル!",
       "summary": "",
-      "title_original": "England look to build on lead over Pakistan, with Nasser Q&A at lunch LIVE!",
+      "title_original": "England building on lead over Pakistan, with Nasser Q&A at lunch LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583869/england-vs-pakistan-third-test-day-two-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
