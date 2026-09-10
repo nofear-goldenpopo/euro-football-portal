@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T05:06:19.593614+00:00",
+  "updated_at": "2026-09-10T05:25:20.853760+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2278,7 +2278,12 @@
     "Zverev's US Open": "",
     "Dutchman Botic": "",
     "Doncaster's St Leger": "",
-    "Group Two": ""
+    "Group Two": "",
+    "Can Team USA": "",
+    "Solheim Cups": "",
+    "Drew Lock": "",
+    "Drake Maye": "",
+    "Sam Darnold": "サム・ダーノルド"
   },
   "items": [
     {
@@ -2758,9 +2763,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スコットランドのラウンドアップ: Miovski ヒット 最後のガソリンレンジャーズ勝者およびセルティック100%の記録を保って下さい",
-      "summary": "レンジャーズビート St MirrenIbrox の1-0 セルティックまた、狭い勝者でも St Johnstone 代用から劇的な最後のガソリンストライキ Bojan Miovski フィードバックレンジャーズ1-0 プレミアシップが勝つ St Mirren 獲得を問い合わせ Ibrox. Back2 ゲームタッチラインサスペンション後の技術領域では、Derek McInnes ウォッチ St Mirren’s Australian ゴールキーパーJacob Chapman 保存の文字列で最初の半分に湾に家側を維持します。, 脂肪は、いくつかの悪い仕上げによって助け. 続きを読む...",
-      "title_original": "Scottish roundup: Miovski hits last-gasp Rangers winner and Celtic keep 100% record",
+      "title": "Scottish Premiership: Miovski ヒット 最後の gasp レンジャーズ勝者とセルティック100%の記録を保って下さい",
+      "summary": "レンジャーズビート St MirrenIbrox の1-0 セルティックまた、狭い勝者でも St Johnstone 代用から劇的な最後のガソリンストライキ Bojan Miovski フィードバックレンジャーズ1-0 プレミアシップが勝つ St Mirren 獲得を問い合わせ Ibrox. Back2 ゲームタッチラインサスペンション後の技術領域では、Derek McInnes ウォッチ St Mirren’s Australian ゴールキーパーJacob Chapman 保存の文字列で最初の半分に湾に家側を維持します。, いくつかの悪い仕上げの助け. 続きを読む...",
+      "title_original": "Scottish Premiership: Miovski hits last-gasp Rangers winner and Celtic keep 100% record",
       "summary_original": "Rangers beat St Mirren 1-0 at Ibrox Celtic also narrow winners at St Johnstone A dramatic last-gasp strike from substitute Bojan Miovski gave Rangers a 1-0 Premiership win over St Mirren at Ibrox. Back in the technical area after a two-game touchline suspension, Derek McInnes watched St Mirren’s Australian goalkeeper Jacob Chapman keep the home side at bay in the first half with a string of saves, albeit helped by some poor finishing. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/09/scottish-roundup-miovski-rangers-celtic-st-mirren-st-johnstone",
@@ -3248,6 +3253,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Can Team USA ソリューション Solheim Cup ヨーロッパでタイトルを保持する「ハートブレイク」?",
+      "summary": "Team USA 離れて「心臓破壊」を克服するために決定されます Solheim Cups 今週、欧州の土壌でトロフィーを保持し、スカイスポーツに住んでいます。",
+      "title_original": "Can Team USA overcome Solheim Cup 'heartbreak' to retain title in Europe?",
+      "summary_original": "Team USA are determined to overcome ‘heart-breaking’ near-misses in away Solheim Cups and successfully retain their trophy on European soil this week, live on Sky Sports.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13583452/solheim-cup-2026-how-team-usa-look-to-overcome-heart-breaking-near-misses-against-team-europe-and-retain-trophy",
+      "published": "Thu, 10 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "シーホークは NFL オープナーでパトリオッツを打つが、ダーノルドの打撃を苦しむ",
+      "summary": "バックアップ四半期バック Drew Lock 導かれた2 つの遅れのスコアリング ドライブとして Seattle Seahawks インテルコンセプト Drake Maye4 四半期に3 回、早期怪我を克服サム・ダーノルドそしてビートニューイングランド・ペイトリオッツ水曜日の夜に13-10 がオープン Super Bowl リマッチ。",
+      "title_original": "Seahawks beat Patriots in NFL opener but suffer Darnold blow",
+      "summary_original": "Backup quarterback Drew Lock led two late scoring drives as the Seattle Seahawks intercepted Drake Maye three times in the fourth quarter to overcome an early injury to Sam Darnold and beat the New England Patriots 13-10 in Wednesday night's season-opening Super Bowl rematch.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13583822/seattle-seahawks-beat-new-england-patriots-after-drake-mayes-three-interceptions-and-sam-darnold-injury-in-nfl-season-opener",
+      "published": "Thu, 10 Sep 2026 05:18:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Mac Allister 勝つためにリヴァプールアトレティコに対してバルコラ'イベントフルデビュー",
       "summary": "アレクシス・マック・アリスターの 優れたストライキのこぎりリヴァプール後ろからビートに来るアトレティコ・マドリード2-1 アンフィールドでブラッドリー・バルコライベントフルホームデビューで「クランプ」で降りました。",
       "title_original": "Mac Allister wins it for Liverpool against Atletico on Barcola's eventful full debut",
@@ -3367,34 +3400,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/st-johnstone-vs-celtic/report/558350",
       "published": "Wed, 09 Sep 2026 21:55:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レンジャーズ snatch 遅い 勝ち 以上 St Mirren サブ Miovski が勝利の実行を拡張",
-      "summary": "Bojan Miovski's かわいい dink でアディショナルタイム劇的な1-0 勝利を封印レンジャーズオーバーオーバーSt Mirren4 つのゲームに勝ったランニングを拡張スコティッシュ・プレミアシップ.",
-      "title_original": "Rangers snatch late win over St Mirren as sub Miovski extends winning run",
-      "summary_original": "Bojan Miovski's cute dink in stoppage time sealed a dramatic 1-0 victory for Rangers over St Mirren and extended their winning run to four games in the Scottish Premiership.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/rangers-vs-st-mirren/report/558349",
-      "published": "Wed, 09 Sep 2026 21:35:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「世界で数少ない勝利はできる」 -How Gauffstunned Andreeva へ 到達 セミ",
-      "summary": "",
-      "title_original": "'A victory few in the world are capable of' - How Gauff stunned Andreeva to reach semis",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13583384/us-open-live-scores-updates-news-commentary-results-from-new-york-with-elena-rybakina-coco-gauff-and-mirra-andreeva-all-in-action",
-      "published": "Wed, 09 Sep 2026 15:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
