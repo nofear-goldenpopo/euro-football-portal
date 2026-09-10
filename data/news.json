@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T10:39:43.187313+00:00",
+  "updated_at": "2026-09-10T10:52:42.643083+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2298,7 +2298,8 @@
     "Sky Sports. Here's": "",
     "Chicago Stars": "シカゴ・スターズFC",
     "Bea Franklin": "",
-    "Pioneer Saloon": ""
+    "Pioneer Saloon": "",
+    "Sophie Walker": ""
   },
   "items": [
     {
@@ -3156,9 +3157,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ランチライブでナイザーQ&A と100 近くのパキスタンをリード!",
+      "title": "ローレンスは、ランチ LIVE でナイザーQ&A とイングランド対パキスタンのための迅速な50 フィートをノッチ!",
       "summary": "",
-      "title_original": "England lead over Pakistan nears 100 with Nasser Q&A at lunch LIVE!",
+      "title_original": "Lawrence notches quick fifty for England vs Pakistan with Nasser Q&A at lunch LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583869/england-vs-pakistan-third-test-day-two-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3261,6 +3262,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13583084/spanish-grand-prix-first-tease-of-madrid-f3-drivers-test-f1s-new-madring-track",
       "published": "Tue, 08 Sep 2026 10:53:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「友情にふさわしい!」 獲得を問い合わせ Solheim Cup 再び論争?",
+      "summary": "Geraint Hughes そして、Sophie Walker2015 年で論争を説明する Solheim Cup 今年のイベントでは、別のコンテンツの瞬間を見ることができるかどうかについて話し合います。",
+      "title_original": "'It can effect friendships!' Could we see Solheim Cup controversy again?",
+      "summary_original": "Geraint Hughes and Sophie Walker explain the controversy at the 2015 Solheim Cup and discuss whether we could see another contentious moment at this year's event.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13583895/solheim-cup-what-controversy-happened-in-the-2015-solheim-cup",
+      "published": "Thu, 10 Sep 2026 09:46:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3404,20 +3419,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "エヴァートン最新:キーポジションでショート? コストのコスト移籍市場評価される",
-      "summary": "",
-      "title_original": "Everton latest: Short in key positions? The cost of the transfer window assessed",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Mon, 07 Sep 2026 15:15:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v8"
     }
