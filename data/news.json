@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T18:50:45.698321+00:00",
+  "updated_at": "2026-09-10T18:53:54.104604+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2372,7 +2372,9 @@
     "Slumdog Millionaire": "スラムドッグ$ミリオネア",
     "Daniel It’s": "",
     "Carrick. Bought": "",
-    "Sabah LIVE": ""
+    "Sabah LIVE": "",
+    "Dorking Wanderers": "ドーキング・ワンダラーズFC",
+    "Marc White": ""
   },
   "items": [
     {
@@ -2460,6 +2462,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Sutton の予測 v ドーキング・ワンダラーズ FC マネージャーMarc White",
+      "summary": "BBC スポーツサッカーの専門家クリス・サットン獲得を問い合わせドーキング・ワンダラーズ FC マネージャーMarc White この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
+      "title_original": "Sutton's predictions v Dorking Wanderers manager Marc White",
+      "summary_original": "BBC Sport football expert Chris Sutton takes on Dorking Wanderers manager Marc White, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1dlnq215zeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 18:47:34 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ライバルマネージャーと比較して Jaissle の質問予約",
       "summary": "ニューカッスルヘッドコーチ Matthias Jaissle 彼が他のアニメーションマネージャーがいないと感じた後、彼は彼のタッチラインの行動のために予約した理由を疑問に思っていました。",
       "title_original": "Jaissle questions booking compared to rival managers",
@@ -2488,20 +2504,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フランスは Infantino サポートを撤退した後、Fifa を変換したい",
-      "summary": "フランスのサッカーの指導者は、国のサッカーの体が最新になった後に Fifa がどのように動くかを変換する方法を求めることを提案しました Gianni Infantino's 前提条件。",
-      "title_original": "France wants to transform Fifa after withdrawing Infantino support",
-      "summary_original": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 13:04:31 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ゲームショーで勝利£725 から直面するマンチェスター・ユナイテッドヨーロッパ",
       "summary": "リトアニアのコーチ Valdas Dambrauskas 自分の歯を英語のサッカーで切って、今度は戻りますチャンピオンズリーグサバと共に。",
       "title_original": "From winning £725 on a game show to facing Man Utd in Europe",
@@ -2523,6 +2525,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cevw23z7l03o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 07:39:05 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フランスは Infantino サポートを撤退した後、Fifa を変換したい",
+      "summary": "フランスのサッカーの指導者は、国のサッカーの体が最新になった後に Fifa がどのように動くかを変換する方法を求めることを提案しました Gianni Infantino's 前提条件。",
+      "title_original": "France wants to transform Fifa after withdrawing Infantino support",
+      "summary_original": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 13:04:31 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2569,20 +2585,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "バルセロナの Rodri apologises 以上 バレンシア 'weak' コメント",
-      "summary": "バルセロナミッドフィルダー・ロドリは、彼はテレビカメラが彼に説明をキャッチするために登場した後、バレンシアのスクワッド全体に報じていると言いますラ・リーガ「非常に弱い」と闘争者。",
-      "title_original": "Barca's Rodri apologises over Valencia 'weak' comments",
-      "summary_original": "Barcelona midfielder Rodri says he has apologised to the entire Valencia squad after television cameras appeared to catch him describing the La Liga strugglers as \"very weak\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyrx8gd71o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 07:27:34 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2726,16 +2728,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "星の潜水救助チェルシーAlonso 'takes blame' として",
-      "summary": "チェルシーより良いものを得るリーズカップスリラーですが、ブルースボスシャビ・アロンソ星の代替品から救助行動を必要とすると考えた食品を持っています。",
-      "title_original": "Star subs rescue Chelsea as Alonso 'takes blame'",
-      "summary_original": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
+      "title": "バルセロナの Rodri apologises 以上 バレンシア 'weak' コメント",
+      "summary": "バルセロナミッドフィルダー・ロドリは、彼はテレビカメラが彼に説明をキャッチするために登場した後、バレンシアのスクワッド全体に報じていると言いますラ・リーガ「非常に弱い」と闘争者。",
+      "title_original": "Barca's Rodri apologises over Valencia 'weak' comments",
+      "summary_original": "Barcelona midfielder Rodri says he has apologised to the entire Valencia squad after television cameras appeared to catch him describing the La Liga strugglers as \"very weak\".",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 23:25:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyrx8gd71o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 07:27:34 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
