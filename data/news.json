@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T21:36:29.115522+00:00",
+  "updated_at": "2026-09-10T21:50:42.219920+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2390,7 +2390,11 @@
     "Englishman Archie Brown": "",
     "Clearlake Capital": "",
     "Todd Boehly": "トッド・ベーリー",
-    "Mark Walter": ""
+    "Mark Walter": "",
+    "Ismail Kartal": "",
+    "Craig Tiley": "",
+    "LNER Community Stadium": "ヨーク・コミュニティ・スタジアム",
+    "Paul Vaughan": ""
   },
   "items": [
     {
@@ -2460,6 +2464,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フェネルバフチェボス stuns クラブ による quitting 後にローマログイン",
+      "summary": "Ismail Kartal リサインとしてフェネルバフチェの ヘッドコーチは、トルコ側の 1-1 の後にわずか数分で引きますローマ獲得を問い合わせチャンピオンズリーグ.",
+      "title_original": "Fenerbahce boss stuns club by quitting after Roma draw",
+      "summary_original": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8r6vyjpye2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 21:42:26 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2688,6 +2706,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "トッテナム2016-17 のタイトルを獲得する必要があります - Pochettino",
+      "summary": "Mauricio Pochettino 信じるチェルシー除去されるべきであるプレミアリーグタイトル: 2016-17 トッテナムチーム終了ランナーアップ。",
+      "title_original": "Spurs should be awarded 2016-17 title - Pochettino",
+      "summary_original": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 08:08:21 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フランスは Infantino サポートを撤退した後、Fifa を変換したい",
       "summary": "フランスのサッカーの指導者は、国のサッカーの体が最新になった後に Fifa がどのように動くかを変換する方法を求めることを提案しました Gianni Infantino's 前提条件。",
       "title_original": "France wants to transform Fifa after withdrawing Infantino support",
@@ -2716,20 +2748,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ライバルマネージャーと比較して Jaissle の質問予約",
-      "summary": "ニューカッスルヘッドコーチ Matthias Jaissle 彼が他のアニメーションマネージャーがいないと感じた後、彼は彼のタッチラインの行動のために予約した理由を疑問に思っていました。",
-      "title_original": "Jaissle questions booking compared to rival managers",
-      "summary_original": "Newcastle United head coach Matthias Jaissle has questioned why he was booked for his touchline behaviour after he felt some other animated managers were not.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp80j2x85xyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 15:38:44 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "なぜそこにいるのかプレミアリーグクリスマスフィクスチャーの早期発表?",
       "summary": "BBC Sport's Ask Me 今シーズンのクリスマスフィクスチャーが予定よりも1 か月以上前に発表された理由を説明するチーム",
       "title_original": "Why have the Premier League announced Christmas fixtures early?",
@@ -2741,20 +2759,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トッテナム2016-17 のタイトルを獲得する必要があります - Pochettino",
-      "summary": "Mauricio Pochettino 信じるチェルシー除去されるべきであるプレミアリーグタイトル: 2016-17 トッテナムチーム終了ランナーアップ。",
-      "title_original": "Spurs should be awarded 2016-17 title - Pochettino",
-      "summary_original": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 08:08:21 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3234,6 +3238,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「素晴らしいスポーツチケット」 -US Open 昼、夜のセッションフォーマットを維持するためのチーフ誓い",
+      "summary": "US Open スタッフ Craig Tiley 獲得を問い合わせ Sky Sports 昼と夜に2 試合を2 回開催する予定フラッシング・メドウズ・コロナ・パークで 2027.",
+      "title_original": "'A great sporting ticket' - US Open chief vows to keep day, night session format",
+      "summary_original": "US Open chief Craig Tiley has told Sky Sports Tennis he plans on keeping two matches during the day and two at night at Flushing Meadows in 2027.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13583815/us-open-chief-craig-tiley-tells-sky-sports-tennis-he-plans-on-keeping-day-and-night-format-at-flushing-meadows-in-2027",
+      "published": "Thu, 10 Sep 2026 22:26:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ユーロ最新: Kane スコア としてバイエルンスラッシュボド",
+      "summary": "",
+      "title_original": "Euro latest: Kane scores as Bayern thrash Bodo",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "published": "Wed, 09 Sep 2026 22:00:00 BST",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Is US OpenZverev の正式性を勝ち取るか、家の希望は長い干ばつを壊すことができるか?",
       "summary": "ベン・シェルトンそして、Frances Tiafoe 初めてのアメリカ人男性になるために彼らの探求を続けていきますグランドスラムチャンピオンシップ Andy Roddick's2003 年 トライアンフフラッシング・メドウズ・コロナ・パークとして全米オープンセミファイナルステージに到達。",
       "title_original": "Is US Open win a formality for Zverev or could home hope break long drought?",
@@ -3241,6 +3273,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13583808/us-open-is-mens-singles-victory-a-formality-for-alexander-zverev-or-will-ben-shelton-frances-tiafoe-or-karen-khachanov-trouble-him",
       "published": "Thu, 10 Sep 2026 21:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "York Knights 終わり 乙女 Super League ブラッドフォードのスラッシュでシーズン",
+      "summary": "ヨークは、通常の最終試合でボトムクラブブラッドフォード35-16 を見ました Super League キャンペーンヨーク・コミュニティ・スタジアム, どこ Paul Vaughan 退職前に、彼の farewell 外観に遅れたドロップゴールの上に細断された。",
+      "title_original": "York Knights finish maiden Super League season with thrashing of Bradford",
+      "summary_original": "York saw off bottom club Bradford 35-16 in their final match of the regular Super League campaign at the LNER Community Stadium, where Paul Vaughan slotted over a late drop goal on his farewell appearance before retirement.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/york-vs-bradford/report/63342",
+      "published": "Thu, 10 Sep 2026 16:11:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3402,17 +3448,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッドヒット 4 簡単な勝利でチャンピオンズリーグライブを戻す!",
+      "title": "マンチェスター・ユナイテッド4-0 サバの解説と反応",
       "summary": "",
-      "title_original": "Man Utd hit four in easy win on Champions League return LIVE!",
+      "title_original": "Man Utd 4-0 Sabah commentary and reaction",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-united-vs-sabah/live/577612",
       "published": "Mon, 07 Sep 2026 16:02:00 BST",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3465,48 +3511,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13584038/leger-festival-musical-times-6-1-for-1000-guineas-after-may-hill-stakes-romp-at-doncaster",
       "published": "Thu, 10 Sep 2026 16:13:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "De Zerbi'キー' - フェルナンデストッテナムスイッチとトロフィーの野心",
-      "summary": "トッテナム最初の3 つのいずれかを獲得できない可能性がありますプレミアリーグこの季節をゲームするが、夏の新加入選手マテウス・フェルナンデス・シケイラ彼はトロフィーのために戦うために開始するためにスクワットセットに参加したと確信しています。",
-      "title_original": "De Zerbi 'was the key' - Fernandes on his Spurs switch and trophy ambitions",
-      "summary_original": "Spurs may have failed to win any of their first three Premier League games this season, but summer signing Matheus Fernandes is convinced he has joined a squad set to start fighting for trophies.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584072/matheus-fernandes-interview-spurs-midfielder-on-the-passion-of-head-coach-roberto-de-zerbi-and-trophy-ambitions",
-      "published": "Thu, 10 Sep 2026 17:11:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "パーフェクトスタート! ロビンソンが TWO ウィケットをオープン!",
-      "summary": "Ollie Robinson イングランドに対する第3 回テストでパキスタンの第2 回インニングの開口部に2 つのウィケットがなかった。",
-      "title_original": "‘Perfect start!’ Robinson takes TWO wickets in opening over!",
-      "summary_original": "Ollie Robinson took two wickets for no runs in the opening over of Pakistan’s second innings in the third Test against England.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584045/england-vs-pakistan-ollie-robinson-gets-two-wickets-for-no-runs-in-opening-over",
-      "published": "Thu, 10 Sep 2026 16:25:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ドイル: クイーンズタウンでビートにドンカスターカップ",
-      "summary": "私たちの大使 Hollie Doyle アクションから彼女の頂点を与える Town Moor, 彼女のテイク・オン・ザ・ドンカスターカップ, Flying Childers そして、Flying Scotsman.",
-      "title_original": "Doyle: Queenstown the one to beat in Doncaster Cup",
-      "summary_original": "Our ambassador Hollie Doyle gives her verdict on the action from Town Moor, providing her take on the Doncaster Cup, Flying Childers and Flying Scotsman.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13584049/hollie-doyle-doncaster-cup-can-go-to-ballydoyle-for-first-time-since-2008",
-      "published": "Thu, 10 Sep 2026 16:23:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
