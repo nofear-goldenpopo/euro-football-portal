@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T13:52:57.762196+00:00",
+  "updated_at": "2026-09-10T14:07:08.390140+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2313,17 +2313,19 @@
     "Darren Gough": "",
     "The Red Roses": "ラグビー女子イングランド代表",
     "Sky Sports' Big Weekend": "",
-    "Can Rose": ""
+    "Can Rose": "",
+    "Does Mauricio Pochettino": "",
+    "Boxing Day": "ボクシング・デー"
   },
   "items": [
     {
-      "title": "トッテナム2016-17 のタイトルを獲得する必要があります - Pochettino",
-      "summary": "Mauricio Pochettino 信じるチェルシー除去されるべきであるプレミアリーグタイトル: 2016-17 トッテナムチーム終了ランナーアップ。",
-      "title_original": "Spurs should be awarded 2016-17 title - Pochettino",
-      "summary_original": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
+      "title": "ケースを作ることができます。チェルシー2016-17 タイトルのストライプされていますか?",
+      "summary": "Does Mauricio Pochettino ケースを持っているトッテナム後ろ向きに王冠されるべきですプレミアリーグチャンピオン?",
+      "title_original": "Can you make a case for Chelsea being stripped of 2016-17 title?",
+      "summary_original": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 08:08:21 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 13:55:43 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2471,6 +2473,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ニューカッスルまだホールセールにオープン - 木曜日のゴシップ",
+      "summary": "Lewis Hall 残留できるニューカッスル新しい契約にもかかわらず、Yasin Ayari コミットを閉じるブライトンしかし、Kaoru Mitoma 出口のために置き、チェルシー戻るマヌ・コネミッドフィールド検索で.",
+      "title_original": "Newcastle still open to Hall sale - Thursday's gossip",
+      "summary_original": "Lewis Hall could still leave Newcastle despite new contract, Yasin Ayari close to committing to Brighton but Kaoru Mitoma set for exit, and Chelsea to go back for Manu Kone in midfielder search.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy303wwpno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 22:32:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdr7jm864pmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 05:42:43 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "目標を保ち続けるレンジャーズトラックでオールドファームダブルヘッダー",
       "summary": "レンジャーズストップページタイムのストライキを反してワイルドに祝われた St Mirren ライバルで2 つのゲームに入る勢いを維持セルティック.",
       "title_original": "Late goal keeps Rangers on track for Old Firm double-header",
@@ -2499,45 +2529,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "title": "トッテナム2016-17 のタイトルを獲得する必要があります - Pochettino",
+      "summary": "Mauricio Pochettino 信じるチェルシー除去されるべきであるプレミアリーグタイトル: 2016-17 トッテナムチーム終了ランナーアップ。",
+      "title_original": "Spurs should be awarded 2016-17 title - Pochettino",
+      "summary_original": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdr7jm864pmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 05:42:43 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ニューカッスルまだホールセールにオープン - 木曜日のゴシップ",
-      "summary": "Lewis Hall 残留できるニューカッスル新しい契約にもかかわらず、Yasin Ayari コミットを閉じるブライトンしかし、Kaoru Mitoma 出口のために置き、チェルシー戻るマヌ・コネミッドフィールド検索で.",
-      "title_original": "Newcastle still open to Hall sale - Thursday's gossip",
-      "summary_original": "Lewis Hall could still leave Newcastle despite new contract, Yasin Ayari close to committing to Brighton but Kaoru Mitoma set for exit, and Chelsea to go back for Manu Kone in midfielder search.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy303wwpno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 22:32:51 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 08:08:21 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウィリアム (プリンス・オブ・ウェールズ)スポーツ精神健康ツールキットを発売",
-      "summary": "ウィリアム (プリンス・オブ・ウェールズ)全国のツールキットが呼び出す新しいツールキットを通じて、その文化の自殺防止部分を作るために、あらゆるレベルでスポーツを促します On Your Side.",
-      "title_original": "Prince William launches sport mental health toolkit",
-      "summary_original": "Prince William urges sport at every level to make suicide prevention part of its culture through a new nationwide toolkit called On Your Side.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp84m835vm2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 23:01:49 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2681,6 +2683,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウィリアム (プリンス・オブ・ウェールズ)スポーツ精神健康ツールキットを発売",
+      "summary": "ウィリアム (プリンス・オブ・ウェールズ)全国のツールキットが呼び出す新しいツールキットを通じて、その文化の自殺防止部分を作るために、あらゆるレベルでスポーツを促します On Your Side.",
+      "title_original": "Prince William launches sport mental health toolkit",
+      "summary_original": "Prince William urges sport at every level to make suicide prevention part of its culture through a new nationwide toolkit called On Your Side.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp84m835vm2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 23:01:49 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ガブリエルが15 歳になるマンチェスター・ユナイテッド'最も若いプレーヤー?",
       "summary": "Fifteen-year-old JJ Gabriel2 つの壮大な目標を獲得しましたプレミアリーグのための2 つの出現マンチェスター・ユナイテッド- 彼は彼のシニアデビューを作る準備ができています",
       "title_original": "Is 15-year-old Gabriel set to become Man Utd's youngest ever player?",
@@ -2716,20 +2732,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c36l7y21rr2o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 21:00:27 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マリンのフリーキック輝きが LASK で AEK 勝利を獲得",
-      "summary": "Razvan Marin's 素晴らしいフリーキック獲得 AEK Athens1-0 が LASK で勝利し、最初のものを安全にチャンピオンズリーグ季節のポイント。",
-      "title_original": "Marin's free-kick brilliance earns AEK victory over LASK",
-      "summary_original": "Razvan Marin's stunning free-kick earns AEK Athens a 1-0 win over LASK, securing their first Champions League points of the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/czez19xnd54o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:00:42 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -3157,6 +3159,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "プレミアリーグ備品:バンパーお祝い期間発表",
+      "summary": "ザ・オブ・ザ・プレミアリーグの お祝い備品は、この季節に発表されました - と 29 利用可能な試合 Sky Sports 間にボクシング・デー1 月7 日",
+      "title_original": "Premier League fixtures: Bumper festive period announced",
+      "summary_original": "The Premier League's festive fixtures have been announced for this season - with 29 matches available to watch live on Sky Sports between Boxing Day and January 7.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13583921/premier-league-christmas-fixtures-boxing-day-and-festive-schedule-announced-as-29-matches-shown-live-on-sky-sports",
+      "published": "Thu, 10 Sep 2026 15:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ボーンマス最新:Can Rose マイルストーンで50 回を祝いますか?",
       "summary": "",
       "title_original": "Bournemouth latest: Can Rose celebrate turning 50 with milestone win?",
@@ -3255,9 +3271,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランドと69 をスミッシュアウトし、約250 対 Pakistan LIVE!",
+      "title": "リードパスとしてイングランド8 ダウンで69 をスモープ 250 対 Pakistan LIVE!",
       "summary": "",
-      "title_original": "Smith out on 69 with England eight down as lead nears 250 vs Pakistan LIVE!",
+      "title_original": "Smith out on 69 with England eight down as lead passes 250 vs Pakistan LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583869/england-vs-pakistan-third-test-day-two-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3420,20 +3436,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "West Brom ダービーで10 人の男性と勝利して、チャンピオンシップを上に移動",
-      "summary": "West BromDerby で思い出に残る1-0 勝利を祝った Pride Park10 人の男性と1 時間以上プレイした後。",
-      "title_original": "West Brom win with 10 men at Derby to move top of Championship",
-      "summary_original": "West Brom celebrated a memorable 1-0 victory over Derby at Pride Park after playing for more than an hour with 10 men.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/derby-county-vs-west-bromwich-albion/report/560567",
-      "published": "Wed, 09 Sep 2026 22:00:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
