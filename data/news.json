@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T07:07:53.804362+00:00",
+  "updated_at": "2026-09-10T07:26:59.053095+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2290,7 +2290,9 @@
     "Emil Jannings": "",
     "Charlie Chaplin. Which": "",
     "Tottenham. In": "",
-    "Championship. Seriously": ""
+    "Championship. Seriously": "",
+    "Rookie Eli Raridon": "",
+    "Eli Raridon's": ""
   },
   "items": [
     {
@@ -3162,6 +3164,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ようこそ!NFL! Rookie Eli Raridon スコアシーズン開始 TD",
+      "summary": "Eli Raridon's 対2 ヤードのタッチダウン Seattle Seahawks 新しい NFL シーズンを乗り越えよう!",
+      "title_original": "Welcome to the NFL! Rookie Eli Raridon scores season opening TD",
+      "summary_original": "Eli Raridon's 2-yard touchdown against Seattle Seahawks gets the new NFL season underway!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13583848/eli-raridon-scores-the-first-touchdown-of-the-nfl-season",
+      "published": "Thu, 10 Sep 2026 07:32:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ポーク: 戻りたいプレミアリーグ未来へ",
       "summary": "Mauricio Pochettino 常に良い会社です - 暖かく、魅力的で親切です。スポットライトからリセットする数週間を経ち、熱心な抱擁は、Sky Sports News 夏のストーリーを盛り込んだチームです。しかし、私たちよりも、より忙しかったです。",
       "title_original": "Poch: I hope to return to Premier League in future",
@@ -3243,6 +3259,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "NINE-goal スリラー! フェノメンタルターンアラウンド 見るチェルシー過去の予定リーズ!",
+      "summary": "ハイライトから EFL カップ間のマッチチェルシーそして、リーズ.",
+      "title_original": "NINE-goal thriller! Phenomenal turnaround sees Chelsea advance past Leeds!",
+      "summary_original": "Highlights from the Carabao Cup match between Chelsea and Leeds.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13583792/chelsea-6-3-leeds-carabao-cup-highlights",
+      "published": "Wed, 09 Sep 2026 22:45:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3379,34 +3409,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13583611/prince-william-launches-landmark-suicide-prevention-toolkit-for-sport-on-world-suicide-prevention-day",
       "published": "Thu, 10 Sep 2026 00:01:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Papers: Liverpool、January swoop for Chelsea and Man Utd midfield target を獲得候補に",
-      "summary": "木曜日の新聞から噂を移籍するトップストーリー...",
-      "title_original": "Papers: Liverpool eye January swoop for Chelsea and Man Utd midfield target",
-      "summary_original": "The top stories and transfer rumours from Thursday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583799/liverpool-transfer-news-as-roma-midfielder-manu-kone-on-anfield-radar-ahaed-of-january-transfer-window-paper-talk",
-      "published": "Wed, 09 Sep 2026 23:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "QPR は、ゴールレス・ドロー後にシャルトンで上を移動するチャンスを逃します",
-      "summary": "QPR は、チャルトンで0〜0 の引くために、チャンピオンシップテーブルのトップに行くチャンスを逃しました。",
-      "title_original": "QPR miss chance to move top after goalless draw at Charlton",
-      "summary_original": "QPR missed the chance to go top of the Championship table as they were held to a 0-0 draw at Charlton.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/charlton-athletic-vs-queens-park-rangers/report/560566",
-      "published": "Wed, 09 Sep 2026 21:45:00 BST",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
