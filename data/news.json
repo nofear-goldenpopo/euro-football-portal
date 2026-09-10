@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T13:06:45.322564+00:00",
+  "updated_at": "2026-09-10T13:25:03.974793+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2308,7 +2308,11 @@
     "Gemma Darvill": "",
     "Flanders Darts Trophy": "",
     "Van Veen": "",
-    "World Grand Prix": "ワールドグランプリ"
+    "World Grand Prix": "ワールドグランプリ",
+    "During Covid": "",
+    "Darren Gough": "",
+    "The Red Roses": "ラグビー女子イングランド代表",
+    "Sky Sports' Big Weekend": ""
   },
   "items": [
     {
@@ -2333,6 +2337,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 11:06:31 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フランスは Infantino サポートを撤退した後、Fifa を変換したい",
+      "summary": "フランスのサッカーの指導者は、国のサッカーの体が最新になった後に Fifa がどのように動くかを変換する方法を求めることを提案しました Gianni Infantino's 前提条件。",
+      "title_original": "France wants to transform Fifa after withdrawing Infantino support",
+      "summary_original": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 13:04:31 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2396,20 +2414,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "星の潜水救助チェルシーAlonso 'takes blame' として",
-      "summary": "チェルシーより良いものを得るリーズカップスリラーですが、ブルースボスシャビ・アロンソ星の代替品から救助行動を必要とすると考えた食品を持っています。",
-      "title_original": "Star subs rescue Chelsea as Alonso 'takes blame'",
-      "summary_original": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 23:25:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "リヴァプール後ろからビートに来るアトレティコ・マドリード",
       "summary": "アレクシス・マック・アリスターemphatic の勝者をとして得て下さいリヴァプールスタートチャンピオンズリーグ勝ち抜いたキャンペーンアトレティコ・マドリードアンフィールド",
       "title_original": "Liverpool come from behind to beat Atletico Madrid",
@@ -2438,17 +2442,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Mousinho 'furious' が Bielik インシデントのアカウントに",
-      "summary": "ポートマスボス John Mousinho 彼がカルディフの関与する事件の上に置いたと言う位置に「絶対に激しく」ですクリスティアン・ビエリクそしてファン。",
-      "title_original": "Mousinho 'furious' over account of Bielik incident",
-      "summary_original": "Portsmouth boss John Mousinho is \"absolutely furious\" at the position he says he was put in over an incident involving Cardiff's Krystian Bielik and a fan.",
+      "title": "星の潜水救助チェルシーAlonso 'takes blame' として",
+      "summary": "チェルシーより良いものを得るリーズカップスリラーですが、ブルースボスシャビ・アロンソ星の代替品から救助行動を必要とすると考えた食品を持っています。",
+      "title_original": "Star subs rescue Chelsea as Alonso 'takes blame'",
+      "summary_original": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20l7z07zz7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 10:10:05 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 23:25:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2473,6 +2477,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4g7z7jyyndo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 07:55:36 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Mousinho 'furious' が Bielik インシデントのアカウントに",
+      "summary": "ポートマスボス John Mousinho 彼がカルディフの関与する事件の上に置いたと言う位置に「絶対に激しく」ですクリスティアン・ビエリクそしてファン。",
+      "title_original": "Mousinho 'furious' over account of Bielik incident",
+      "summary_original": "Portsmouth boss John Mousinho is \"absolutely furious\" at the position he says he was put in over an incident involving Cardiff's Krystian Bielik and a fan.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20l7z07zz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 10:10:05 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2718,17 +2736,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ギラシー ダブルと後半オウンゴールシール フランティックドルトムントログイン",
-      "summary": "ボルシア・ドルトムント'Serhou Guirassy は、すべての 3 つのポイントを対抗するために 2 番目の半分の 2 倍をスコアします。ビジャレアル, 後続ネットにもかかわらずオウンゴール緊張した仕上がりをセットアップする Signal Iduna Park.",
-      "title_original": "Guirassy double and late own goal seals frantic Dortmund win",
-      "summary_original": "Borussia Dortmund's Serhou Guirassy scores a second-half double to secure all three points against Villarreal, despite the forward netting a late own goal to set up a nervous finish at Signal Iduna Park.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9v9e23xgeeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:00:19 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": false,
+      "title": "Why Kai Havertz’s ダミーは、おそらくより喜ばしいだったリオネル・メッシワルツ |Max Rushden",
+      "summary": "アーセナルストライカーは、私たちの恵みを思い出させました ノンストップのサッカーのペースで、彼の不随意な騒音改善作用で存在することができます During Covid, スポーツが戻っていたが、閉鎖したドアの背後にあるとき, 私は実際の生活の空隙を埋めるために、いくつかの奇妙なオンラインショーをホストしました. ハイライトはチャットでした Darren Gough ズームコールで45 分から15 小箱までのライフサイズのブロンズリノセロスについて。誰が誰だったのか、そして、リノセロがどこから来たのかは思い出しません。しかし、それは彼の庭にいるかもしれません。死に終える",
+      "title_original": "Why Kai Havertz’s dummy was perhaps more pleasing than a Lionel Messi waltz | Max Rushden",
+      "summary_original": "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind closed doors, I hosted a number of strange online shows to fill the void of real life. The highlight was chatting to Darren Gough about a lifesize bronze rhinoceros for 45 minutes to 15 small boxes on a Zoom call. I don’t recall who it was for and where the rhinoceros came from – but it might be in his garden. I ended up doing virt",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/kai-havertz-arsenal-max-rushden-comment",
+      "published": "Thu, 10 Sep 2026 13:00:36 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2739,20 +2757,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/10/chelsea-2016-17-premier-league-title-tottenham-mauricio-pochettino",
       "published": "Thu, 10 Sep 2026 06:00:18 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "デクラン・ライスシュラグオフアーセナル季節が持続可能である60 試合を懸念し、言う",
-      "summary": "アーセナルモニタリング中フィールドワーカーのワークロード米は、昨年シーズンに痛みを伴う注射を受けたデクラン・ライス彼の体は、60 以上の外観を再び維持することができます主張しているにもかかわらず、今シーズンアーセナル痛みを伴った後の悩み World Cup. Rice ラック アップ 69 外観 最後の季節 のためにアーセナルそしてイングランドは、中に明らかにした World Cup 彼はニューラルバックとハムストの痛みを管理していた、彼は痛みのキリン注射を受けたことが理解されているために、ハムストリング i の後",
-      "title_original": "Declan Rice shrugs off Arsenal concerns and says 60 games a season is sustainable",
-      "summary_original": "Arsenal are monitoring midfielder’s workload Rice received painkilling injections last season Declan Rice has insisted his body can sustain more than 60 appearances again this season, despite Arsenal’s concerns after he played through pain at the World Cup. Rice racked up 69 appearances last season for Arsenal and England but revealed during the World Cup he had been managing neural back and hamstring pain, for which he is understood to have received a pain-killing injection, after a hamstring i",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/declan-rice-arsenal-workload-concerns-sustainable",
-      "published": "Thu, 10 Sep 2026 11:00:22 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3152,6 +3156,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Red Roses 傷害から返されたオーストラリアの衝突のために後押しされる",
+      "summary": "ラグビー女子イングランド代表土曜日にオーストラリアに直面するために、家の足の最初の一致で名前を付けました WXV Global Series.",
+      "title_original": "Red Roses boosted for Australia clash by returns from injury",
+      "summary_original": "The Red Roses have named their side to face Australia on Saturday in the first match of the home leg of the WXV Global Series.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13583904/red-roses-vs-australia-england-name-team-for-opening-wxv-global-series-home-match-with-tatyana-heard-natasha-hunt-back-from-injury",
+      "published": "Thu, 10 Sep 2026 10:22:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Flanders Darts Trophy: グレーヴ、MVG、Van Veen アクション",
       "summary": "レースの予選ワールドグランプリ9 月末にスカイスポーツに着きます。Flanders Darts Trophy 今週末はアントワープで。",
       "title_original": "Flanders Darts Trophy: Draw and schedule with Greaves, MVG, Van Veen in action",
@@ -3194,9 +3212,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "観る方法 Sky Sport's Big Weekend",
-      "summary": "サッカー、F1、クリケット、ゴルフ、テニス、NFL は1 つの週末にすべて - そして、すべて Sky Sports. Here's アクションの分を逃さないので、あなたが知る必要があるすべて。",
-      "title_original": "How to watch Sky Sport's Big Weekend",
+      "title": "観る方法 Sky Sports' Big Weekend",
+      "summary": "サッカー、F1、クリケット、ゴルフ、テニス、NFL は1 つの週末にすべて - すべて Sky Sports. Here's アクションの分を逃さないので、あなたが知る必要があるすべて。",
+      "title_original": "How to watch Sky Sports' Big Weekend",
       "summary_original": "Football, F1, cricket, golf, tennis and NFL all on one weekend - and all on Sky Sports. Here's everything you need to know so you don't miss a minute of the action.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13583497/how-to-watch-premier-league-wsl-spanish-grand-prix-us-open-finals-solheim-cup-and-nfl-with-sky-sports-and-now",
@@ -3222,9 +3240,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イギリスのリードパス150 対パキスタンのランチライブの後、スミスノッチクイックフィフティ!",
+      "title": "スミスは、リードパス200 対としてイングランド7 ダウンとフィフティノッチ Pakistan LIVE!",
       "summary": "",
-      "title_original": "Smith notches quick fifty as England lead passes 150 vs Pakistan after lunch LIVE!",
+      "title_original": "Smith notches fifty with England seven down as lead passes 200 vs Pakistan LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583869/england-vs-pakistan-third-test-day-two-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3415,20 +3433,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アルカラスに対するシェルトンの初期仕上げ後の変更は必要ですか?",
-      "summary": "時計は3.33am ローカル時間に刻まれていますニューヨークいつかベン・シェルトンビート Carlos Alcaraz 数千ものデリラシーなテニスファンが中を楽しもうアーサー・アッシュスタジアム、しかし、これらの早期終了を止めるために何かしなければならない?",
-      "title_original": "Is change needed after Shelton's early-morning finish against Alcaraz?",
-      "summary_original": "The clock ticked to 3.33am local time in New York City when Ben Shelton beat Carlos Alcaraz with a clean ace to the delight of thousands of delirious tennis fans still inside Arthur Ashe Stadium, but does something have to be done to stop these early-morning finishes?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13583739/us-open-3-33am-local-time-and-another-early-morning-finish-as-ben-shelton-beat-carlos-alcaraz-so-does-something-have-to-change",
-      "published": "Wed, 09 Sep 2026 23:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
