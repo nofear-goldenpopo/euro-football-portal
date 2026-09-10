@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T19:35:01.291707+00:00",
+  "updated_at": "2026-09-10T19:49:30.752908+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2374,7 +2374,10 @@
     "Carrick. Bought": "",
     "Sabah LIVE": "",
     "Dorking Wanderers": "ドーキング・ワンダラーズFC",
-    "Marc White": ""
+    "Marc White": "",
+    "Irish Open": "",
+    "Amgen Irish Open": "アイリッシュ・オープン",
+    "Ireland's Shane Lowry": ""
   },
   "items": [
     {
@@ -2804,7 +2807,7 @@
       "summary_original": "⚽️ Champions League updates from the 8pm BST kick-off ⚽️ Live scoreboard | Read Football Daily | And mail Daniel It’s also worth noting that Patrick Dorgu starts at left-back tonight, for the first time under Carrick. Bought for Ruben Amorim, really he’s a specialist wing-back – not a defender because his awareness isn’t great, nor his ability to pass the ball out from the back, nor a winger because he lacks finesse and one-on-one ability – he starts at the back tonight mainly because Shaw is re",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
-      "published": "Thu, 10 Sep 2026 19:28:00 GMT",
+      "published": "Thu, 10 Sep 2026 19:40:04 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -3218,6 +3221,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "McIlroy 4 オフ Irish Open トップ付近のローリーで厳しい条件をリード",
+      "summary": "ローリー・マキロイテストのブランタの状態に対して戦いましたアイリッシュ・オープンクラブハウスのリードから4 ショットを1 アンダーパー開口部を離れて座るように、Ireland's Shane Lowry 上から2 オフ。",
+      "title_original": "McIlroy four off Irish Open lead in tough conditions with Lowry near top",
+      "summary_original": "Rory McIlroy battled on against testing blustery conditions at the Amgen Irish Open to sit four shots off the clubhouse lead following a one-under par opening round, with Ireland's Shane Lowry two off the top.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13583854/irish-open-rory-mcilroy-four-off-lead-in-tough-conditions-with-shane-lowry-two-off-top",
+      "published": "Thu, 10 Sep 2026 07:39:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ルーツのポンドの闘争と世紀の干ばつ - ナスザーは、ポストサッカーのバッキングを評価します",
       "summary": "Joe Root'slbw とイングランドの変換が何世紀にもわたって失敗する感受性は、改善されたポスト・フットボールのバッティングの表示の唯一の打撃であり、Nasser Hussain.",
       "title_original": "Root's lbw struggles and century drought - Nasser assesses post-Bazball batting",
@@ -3316,9 +3333,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Cunha スロットマンチェスター・ユナイテッド正面から Sabah LIVE!",
+      "title": "フェルナンデスダブルスマンチェスター・ユナイテッドの に対するリード Sabah LIVE!",
       "summary": "",
-      "title_original": "Cunha slots Man Utd in front against Sabah LIVE!",
+      "title_original": "Fernandes doubles Man Utd's lead against Sabah LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-united-vs-sabah/live/577612",
@@ -3477,20 +3494,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13583955/england-vs-pakistan-dan-lawrence-furious-as-he-knocks-ball-on-to-the-stumps",
       "published": "Thu, 10 Sep 2026 13:08:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "涙、ギミー、引数! |Solheim Cup's 最も歴史ある瞬間!",
-      "summary": "過去の最も顕著な瞬間を見る Solheim Cups.",
-      "title_original": "Tears, gimmies and arguments! | Solheim Cup's most controversial moments!",
-      "summary_original": "Watch the most controversial moments from previous Solheim Cups.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13583998/tears-gimmies-and-arguments-solheim-cups-most-controversial-moments",
-      "published": "Thu, 10 Sep 2026 14:53:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
