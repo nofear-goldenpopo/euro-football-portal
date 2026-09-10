@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T22:36:54.108636+00:00",
+  "updated_at": "2026-09-10T22:50:07.681455+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2402,20 +2402,21 @@
     "Julien Laurens": "",
     "Leipzig Lens": "",
     "Norway’s Bodo": "",
-    "The Fenerbahce": ""
+    "The Fenerbahce": "",
+    "The Ballon D'or": ""
   },
   "items": [
     {
-      "title": "UEFA チャンピオンズリーグ",
-      "summary": "試合の開始ラウンドからのハイライト UEFA チャンピオンズリーググループステージ",
-      "title_original": "UEFA Champions League",
-      "summary_original": "Highlights from the opening round of matches in the UEFA Champions League group stage.",
+      "title": "2 ゴール2 つのゲームで - Sesko は与えますマンチェスター・ユナイテッド異なる脅威",
+      "summary": "ベンヤミン・シェシュコの に戻るマンチェスター・ユナイテッドの start line-up は日曜日の先頭によく使われますプレミアリーグ出会い系マンチェスター・シティ",
+      "title_original": "Two goals in two games - Sesko gives Man Utd a different threat",
+      "summary_original": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 22:41:15 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 22:41:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2434,16 +2435,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナル新しい契約を最終決定するクローズアルテタ",
-      "summary": "ミケル・アルテタ新規契約の最終決定に近づいていると考えられているプレミアリーグチャンピオンアーセナル.",
-      "title_original": "Arsenal close to finalising new contract for Arteta",
-      "summary_original": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
+      "title": "フェネルバフチェボス stuns クラブ による quitting 後にローマログイン",
+      "summary": "Ismail Kartal リサインとしてフェネルバフチェの ヘッドコーチは、トルコ側の 1-1 の後にわずか数分で引きますローマ獲得を問い合わせチャンピオンズリーグ.",
+      "title_original": "Fenerbahce boss stuns club by quitting after Roma draw",
+      "summary_original": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 14:16:06 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8r6vyjpye2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 21:42:26 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2462,16 +2463,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フェネルバフチェボス stuns クラブ による quitting 後にローマログイン",
-      "summary": "Ismail Kartal リサインとしてフェネルバフチェの ヘッドコーチは、トルコ側の 1-1 の後にわずか数分で引きますローマ獲得を問い合わせチャンピオンズリーグ.",
-      "title_original": "Fenerbahce boss stuns club by quitting after Roma draw",
-      "summary_original": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
+      "title": "アーセナル新しい契約を最終決定するクローズアルテタ",
+      "summary": "ミケル・アルテタ新規契約の最終決定に近づいていると考えられているプレミアリーグチャンピオンアーセナル.",
+      "title_original": "Arsenal close to finalising new contract for Arteta",
+      "summary_original": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8r6vyjpye2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 21:42:26 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 14:16:06 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2546,6 +2547,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Ballon d'Or のショートリストおよび衝撃の辞任",
+      "summary": "The Ballon D'or ショートリスト、スペイン語のコーチとショック辞任の優位性",
+      "title_original": "Ballon d'Or shortlist and a shock resignation",
+      "summary_original": "The Ballon D'or shortlist, the dominance of Spanish coaches and a shock resignation",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p9273l?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 22:25:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トッテナム2016-17 のタイトルを獲得する必要があります - Pochettino",
       "summary": "Mauricio Pochettino 信じるチェルシー除去されるべきであるプレミアリーグタイトル: 2016-17 トッテナムチーム終了ランナーアップ。",
       "title_original": "Spurs should be awarded 2016-17 title - Pochettino",
@@ -2584,20 +2599,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「人生を手に入れる」 - ノンリーグクラブは男の偽装マネージャを非難",
-      "summary": "Gainsborough Trinity 自分のマネージャーであることを偽りなく主張しながら、プレーヤーに近づいてきた人が非難しました。",
-      "title_original": "'Get a life' - non-league club condemn man impersonating manager",
-      "summary_original": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 15:22:16 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2742,6 +2743,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「人生を手に入れる」 - ノンリーグクラブは男の偽装マネージャを非難",
+      "summary": "Gainsborough Trinity 自分のマネージャーであることを偽りなく主張しながら、プレーヤーに近づいてきた人が非難しました。",
+      "title_original": "'Get a life' - non-league club condemn man impersonating manager",
+      "summary_original": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 15:22:16 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フランスは Infantino サポートを撤退した後、Fifa を変換したい",
       "summary": "フランスのサッカーの指導者は、国のサッカーの体が最新になった後に Fifa がどのように動くかを変換する方法を求めることを提案しました Gianni Infantino's 前提条件。",
       "title_original": "France wants to transform Fifa after withdrawing Infantino support",
@@ -2781,20 +2796,6 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "なぜそこにいるのかプレミアリーグクリスマスフィクスチャーの早期発表?",
-      "summary": "BBC Sport's Ask Me 今シーズンのクリスマスフィクスチャーが予定よりも1 か月以上前に発表された理由を説明するチーム",
-      "title_original": "Why have the Premier League announced Christmas fixtures early?",
-      "summary_original": "BBC Sport's Ask Me Anything team explain why this season's Christmas fixtures have been announced more than a month earlier than scheduled",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy4wg703go?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 15:30:57 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2896,13 +2897,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Why Kai Havertz’s ダミーは、おそらくより喜ばしいだったリオネル・メッシワルツ |Max Rushden",
-      "summary": "アーセナルストライカーは、私たちの恵みを思い出させました ノンストップのサッカーのペースで、彼の不随意な騒音改善作用で存在することができます During Covid, スポーツが戻っていたが、閉鎖したドアの背後にあるとき, 私は実際の生活の空隙を埋めるために、いくつかの奇妙なオンラインショーをホストしました. ハイライトはチャットでした Darren Gough ズームコールで45 分から15 小箱までのライフサイズのブロンズリノセロスについて。誰が誰だったのか、そして、リノセロがどこから来たのかは思い出しません。しかし、それは彼の庭にいるかもしれません。死に終える",
-      "title_original": "Why Kai Havertz’s dummy was perhaps more pleasing than a Lionel Messi waltz | Max Rushden",
-      "summary_original": "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind closed doors, I hosted a number of strange online shows to fill the void of real life. The highlight was chatting to Darren Gough about a lifesize bronze rhinoceros for 45 minutes to 15 small boxes on a Zoom call. I don’t recall who it was for and where the rhinoceros came from – but it might be in his garden. I ended up doing virt",
+      "title": "Mauricio Pochettino: 「私はいつも助けるために開いていますトッテナム. どんな部門で’",
+      "summary": "マネージャーは、新しい米国移籍で興奮していますが、トッテナム星が整列し、イングランドの仕事を1 日取らなかった場合 物事が異なる働いた場合、Mauricio Pochettino 彼の最愛に戻って行くだろうトッテナム夏に。彼らは呼び出しに置き、彼をかき混ぜた。何も彼を脱ぐつもりだった - ない可能性のクラブの内にある Championship. Seriously, モーリシオ? アフターWorld Cup キャンペーンアメリカ合衆国チェルシーでトップの仕事",
+      "title_original": "Mauricio Pochettino: ‘I am always open to help Tottenham. In whatever division’",
+      "summary_original": "Manager is excited by new US deal but might have returned to Spurs if the stars had aligned and does not rule out taking England job one day If things had worked out differently, Mauricio Pochettino would have gone back to his beloved Tottenham over the summer. They had put in the call and it stirred him. Nothing was going to put him off – not even the possibility of the club being in the Championship. Seriously, Mauricio? After a World Cup campaign with the United States and top jobs with Chels",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/kai-havertz-arsenal-max-rushden-comment",
-      "published": "Thu, 10 Sep 2026 13:00:36 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/10/mauricio-pochettino-tottenham-united-states-world-cup-england",
+      "published": "Thu, 10 Sep 2026 06:00:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2924,17 +2925,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Football Daily | Mauricio Pochettino, トッテナム’ スロットルとレトロスペクティブアクションのゲーム",
-      "summary": "今すぐ登録! 今すぐ登録! 今すぐサインアップ 今すぐ登録! 配偶者と同盟の国家制裁執行(Henry VIII)、マリアンの迫害(Mary I)、および失業(失業)の喪失およびブランディングエドワード6 世 (イングランド王))。15 世紀と16 世紀の間に、Tudor の家からのソートされた僧侶は、その主題にドレッドとテロの終端を訪れる責任を負いましたが、それは彼らのより現代的な反対の1 の44 日統治ですトッテナム地元の被写体は本当に許されないことがわかりました。エントリー",
-      "title_original": "Football Daily | Mauricio Pochettino, Tottenham’s game of thrones and retrospective action",
-      "summary_original": "Sign up now! Sign up now! Sign up now? Sign up now! State-sanctioned execution of spouses and allies (Henry VIII), the Marian persecutions (Mary I), and enslavement and branding of the unemployed (Edward VI). During the 15th and 16th centuries, assorted monarchs from the House of Tudor were responsible for visiting no end of dread and terror on their subjects but it is the 44-day reign of one of their more contemporary counterparts at Tottenham that local subjects found truly unforgivable. Enthr",
+      "title": "Why David Beckham 投票する US Soccer Hall ファム |Pablo Iglesias Maurer",
+      "summary": "The Englishman 認識の不足はなく、アメリカンゲームへの彼の貢献は、次の春、私たちの無料のニュースレターにサインアップする正式なタイトルに値する US Soccer HallFame では、最新のクラスを歓迎しています。角に座るホールトヨタ・スタジアムの家の Major League Soccer’s FC ダラスは、enshrineds のシグネチャーレッドジャケットを特徴とします。選手やコーチ、ミディ・アイド・リフレシオの挨拶やスピーチなど",
+      "title_original": "Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
+      "summary_original": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next spring, when the US Soccer Hall of Fame welcomes its newest class, there will be pomp and circumstance. The hall, which sits in a corner of Toyota Stadium, home of Major League Soccer’s FC Dallas, will feature the enshrineds’ signature red jackets. There will be glad-handing and speeches from players and coaches, misty-eyed reflectio",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/football-daily-email-mauricio-pochettino-tottenham",
-      "published": "Thu, 10 Sep 2026 13:27:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.theguardian.com/football/2026/sep/10/david-beckham-us-soccer",
+      "published": "Thu, 10 Sep 2026 14:54:07 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2952,13 +2953,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Mauricio Pochettino: 「私はいつも助けるために開いていますトッテナム. どんな部門で’",
-      "summary": "マネージャーは、新しい米国移籍で興奮していますが、トッテナム星が整列し、イングランドの仕事を1 日取らなかった場合 物事が異なる働いた場合、Mauricio Pochettino 彼の最愛に戻って行くだろうトッテナム夏に。彼らは呼び出しに置き、彼をかき混ぜた。何も彼を脱ぐつもりだった - ない可能性のクラブの内にある Championship. Seriously, モーリシオ? アフターWorld Cup キャンペーンアメリカ合衆国チェルシーでトップの仕事",
-      "title_original": "Mauricio Pochettino: ‘I am always open to help Tottenham. In whatever division’",
-      "summary_original": "Manager is excited by new US deal but might have returned to Spurs if the stars had aligned and does not rule out taking England job one day If things had worked out differently, Mauricio Pochettino would have gone back to his beloved Tottenham over the summer. They had put in the call and it stirred him. Nothing was going to put him off – not even the possibility of the club being in the Championship. Seriously, Mauricio? After a World Cup campaign with the United States and top jobs with Chels",
+      "title": "Why Kai Havertz’s ダミーは、おそらくより喜ばしいだったリオネル・メッシワルツ |Max Rushden",
+      "summary": "アーセナルストライカーは、私たちの恵みを思い出させました ノンストップのサッカーのペースで、彼の不随意な騒音改善作用で存在することができます During Covid, スポーツが戻っていたが、閉鎖したドアの背後にあるとき, 私は実際の生活の空隙を埋めるために、いくつかの奇妙なオンラインショーをホストしました. ハイライトはチャットでした Darren Gough ズームコールで45 分から15 小箱までのライフサイズのブロンズリノセロスについて。誰が誰だったのか、そして、リノセロがどこから来たのかは思い出しません。しかし、それは彼の庭にいるかもしれません。死に終える",
+      "title_original": "Why Kai Havertz’s dummy was perhaps more pleasing than a Lionel Messi waltz | Max Rushden",
+      "summary_original": "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind closed doors, I hosted a number of strange online shows to fill the void of real life. The highlight was chatting to Darren Gough about a lifesize bronze rhinoceros for 45 minutes to 15 small boxes on a Zoom call. I don’t recall who it was for and where the rhinoceros came from – but it might be in his garden. I ended up doing virt",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/mauricio-pochettino-tottenham-united-states-world-cup-england",
-      "published": "Thu, 10 Sep 2026 06:00:18 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/10/kai-havertz-arsenal-max-rushden-comment",
+      "published": "Thu, 10 Sep 2026 13:00:36 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2966,17 +2967,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Why David Beckham 投票する US Soccer Hall ファム |Pablo Iglesias Maurer",
-      "summary": "The Englishman 認識の不足はなく、アメリカンゲームへの彼の貢献は、次の春、私たちの無料のニュースレターにサインアップする正式なタイトルに値する US Soccer HallFame では、最新のクラスを歓迎しています。角に座るホールトヨタ・スタジアムの家の Major League Soccer’s FC ダラスは、enshrineds のシグネチャーレッドジャケットを特徴とします。選手やコーチ、ミディ・アイド・リフレシオの挨拶やスピーチなど",
-      "title_original": "Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
-      "summary_original": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next spring, when the US Soccer Hall of Fame welcomes its newest class, there will be pomp and circumstance. The hall, which sits in a corner of Toyota Stadium, home of Major League Soccer’s FC Dallas, will feature the enshrineds’ signature red jackets. There will be glad-handing and speeches from players and coaches, misty-eyed reflectio",
+      "title": "サルーン、スクール、スペシャリティコーヒー:NWSL プレイヤーは、サイドハストルの新しい時代を楽しんでいます",
+      "summary": "5 年前、リーグの星はアマゾンボックスを詰めたか、またはドアダッシュのために運転し、エンドはミージャーの給料で会います。新しい CBA は、オフフィールドの追求のための扉を開けました。冷たい w インテル Ketchum、Idaho の夜、シカゴ・スターズ FC ミッドフィルダーBea Franklin 普段はサッカーのフィールドで何をしているかよりも、さまざまな種類の物理的な feat を引っ張っていた。タクシーで遊んでいる動物の目の下に Pioneer Saloon, 彼女 deftly バランスの取れた martinis として カクテル ウエートレス, 身に着けている カウガール bo",
+      "title_original": "Saloons, school and specialty coffee: NWSL players enjoy new era of side hustles",
+      "summary_original": "Five years ago, stars in the league packed Amazon boxes or drove for DoorDash to make ends meet on meager salaries. A new CBA opened doors for off-field pursuits in line with their passions On a cold winter night in Ketchum, Idaho, Chicago Stars midfielder Bea Franklin was pulling off a different sort of physical feat than what she usually does on the soccer field. Under the eyes of taxidermied animals at the Pioneer Saloon, she deftly balanced martinis as a cocktail waitress, wearing cowgirl bo",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/david-beckham-us-soccer",
-      "published": "Thu, 10 Sep 2026 14:54:07 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.theguardian.com/football/2026/sep/10/nwsl-players-side-hustles",
+      "published": "Thu, 10 Sep 2026 10:00:24 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3050,6 +3051,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アレクシス・マック・アリスター彼のポイントをリヴァプール Atlético を倒すために戻って戦う",
+      "summary": "時間と場所だったアレクシス・マック・アリスターピッチと disgruntled で話そうリヴァプールミッドフィルダーはキューに配信されました。「甘い悲しい」リヴァプール一方、彼は新しい契約を提供するための拒否 Dominik Szoboszlai そして、Ryan Gravenberch 彼らの取得だった,Mac AllisterAnfield を非常に満足させるマッチ勝利の表示に対してアトレティコ・マドリード. アルゼンチンインテル国民、5 人の1World Cup 吸収、繊細にポーズされたコンテストに関与するファイナリストは、彼の不満を発明しました",
+      "title_original": "Alexis Mac Allister makes his point as Liverpool fight back to defeat Atlético",
+      "summary_original": "It was the time and place for Alexis Mac Allister to do his talking on the pitch and the disgruntled Liverpool midfielder delivered on cue. “Very sad” over Liverpool’s refusal to offer him a new contract, while Dominik Szoboszlai and Ryan Gravenberch were getting theirs, Mac Allister made Anfield very happy with a match-winning display against Atlético Madrid. The Argentina international, one of five World Cup finalists involved in an absorbing, delicately-poised contest, vented his frustrations",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/09/liverpool-atletico-madrid-champions-league-match-report",
+      "published": "Wed, 09 Sep 2026 21:04:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Scottish Premiership: Miovski ヒット 最後の gasp レンジャーズ勝者とセルティック100%の記録を保って下さい",
       "summary": "レンジャーズビート St MirrenIbrox の1-0 セルティックまた、狭い勝者でも St Johnstone 代用から劇的な最後のガソリンストライキ Bojan Miovski フィードバックレンジャーズ1-0 プレミアシップが勝つ St Mirren 獲得を問い合わせ Ibrox. Back2 ゲームタッチラインサスペンション後の技術領域では、Derek McInnes ウォッチ St Mirren’s Australian ゴールキーパーJacob Chapman 保存の文字列で最初の半分に湾に家側を維持します。, いくつかの悪い仕上げの助け. 続きを読む...",
       "title_original": "Scottish Premiership: Miovski hits last-gasp Rangers winner and Celtic keep 100% record",
@@ -3088,20 +3103,6 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ロサリオ「私の底を刻む」間にマンチェスター・シティの で勝つポルト, 請求ハーランド",
-      "summary": "フォワードは、事件は「少しだった」と述べましたインテルエステー 見出し練習と Alf Inge オープンアの助けを借りてアーリング・ハーランドクレーム Pablo Rosario「私の底を刻む」マンチェスター・シティ’s 2-0 で勝つポルト獲得を問い合わせ Tuesday. The 第92 分に発生した事故ハーランドシティーの目標を獲得しました。フォワードとミッドフィルダーは、地面に行き、分離した後に予約されました。「私は本当に気にしていたハットトリックそして、彼がとても熱心だったように見えました。ハーランド獲得を問い合わせ",
-      "title_original": "Rosario ‘grabbed my bottom’ during Manchester City’s win at Porto, claims Haaland",
-      "summary_original": "Forward says incident was ‘a little interesting’ Heading practice with Alf Inge helped with opener Erling Haaland has claimed Pablo Rosario “grabbed my bottom” during Manchester City’s 2-0 win at Porto on Tuesday. The incident occurred in the 92nd minute, with Haaland having scored City’s goals. The forward and midfielder grappled, went to ground and were booked after being separated. “I was really keen on a hat-trick and it seemed like he was very eager to stop me from getting it,” Haaland told",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/erling-haaland-pablo-rosario-manchester-city-porto-champions-league",
-      "published": "Wed, 09 Sep 2026 14:42:55 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3176,20 +3177,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "サルーン、スクール、スペシャリティコーヒー:NWSL プレイヤーは、サイドハストルの新しい時代を楽しんでいます",
-      "summary": "5 年前、リーグの星はアマゾンボックスを詰めたか、またはドアダッシュのために運転し、エンドはミージャーの給料で会います。新しい CBA は、オフフィールドの追求のための扉を開けました。冷たい w インテル Ketchum、Idaho の夜、シカゴ・スターズ FC ミッドフィルダーBea Franklin 普段はサッカーのフィールドで何をしているかよりも、さまざまな種類の物理的な feat を引っ張っていた。タクシーで遊んでいる動物の目の下に Pioneer Saloon, 彼女 deftly バランスの取れた martinis として カクテル ウエートレス, 身に着けている カウガール bo",
-      "title_original": "Saloons, school and specialty coffee: NWSL players enjoy new era of side hustles",
-      "summary_original": "Five years ago, stars in the league packed Amazon boxes or drove for DoorDash to make ends meet on meager salaries. A new CBA opened doors for off-field pursuits in line with their passions On a cold winter night in Ketchum, Idaho, Chicago Stars midfielder Bea Franklin was pulling off a different sort of physical feat than what she usually does on the soccer field. Under the eyes of taxidermied animals at the Pioneer Saloon, she deftly balanced martinis as a cocktail waitress, wearing cowgirl bo",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/nwsl-players-side-hustles",
-      "published": "Thu, 10 Sep 2026 10:00:24 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "サッカーの最も有害なレッドカード s: 崩壊とターンアラウンドの簡単な歴史 |The Knowledge",
       "summary": "プラス: 複数の£100 メートルの選手とクラブ 自分の本とより多くのトロフィー・ラデンのサッカー選手 私達にあなたのすべての質問と答えてメール “The Saturday 最後に、Clyde は 3-0 を獲得しました。The Spartans 時間の経過後 Logan Dunachie 送信されました。20 分後、スコアは3-3 だった。ゲームの最大のターンアラウンドは、次のゲームでレッドカードプレイヤーで投げられることができる/most 量的責務は、オフに送られてもらえますか?Jamie Wills. At Knowledge タワー、私達は通常受けます",
       "title_original": "Football’s most damaging red cards: a brief history of collapses and turnarounds | The Knowledge",
@@ -3243,6 +3230,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハーランド二重でとしてチャンピオンズリーグリターン |Football Weekly– ビデオ",
+      "summary": "Max Rushden 参加する Barry Glendenning , Nicky Bandini そして、Archie Rhind-Tutt 戻りの議論チャンピオンズリーグ続きを読む...",
+      "title_original": "Haaland at the double as Champions League returns | Football Weekly – video",
+      "summary_original": "Max Rushden is joined by Barry Glendenning , Nicky Bandini and Archie Rhind-Tutt to discuss the return of the Champions League Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/sep/09/haaland-at-the-double-as-champions-league-returns-football-weekly-video-podcast",
+      "published": "Wed, 09 Sep 2026 12:09:07 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
