@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T16:51:54.392106+00:00",
+  "updated_at": "2026-09-10T17:06:06.177998+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2347,7 +2347,8 @@
     "Sky Sports NFL's Neil": "",
     "Solheim Cup's": "",
     "Emotional Stanford": "",
-    "Angela Standford": ""
+    "Angela Standford": "",
+    "Matheus Fernandes": "マテウス・フェルナンデス・シケイラ"
   },
   "items": [
     {
@@ -3205,6 +3206,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・ユナイテッドサバチームニュース LIVE!",
+      "summary": "",
+      "title_original": "Man Utd vs Sabah team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-united-vs-sabah/live/577612",
+      "published": "Mon, 07 Sep 2026 16:02:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "群衆は Wigan の通りをラインアップし、Sir Billy Boston",
       "summary": "",
       "title_original": "Crowds line the streets of Wigan to say farewell to Sir Billy Boston",
@@ -3261,9 +3276,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「イングランドのパーフェクトスタート!」 ロビンソンが TWO ウィケットをオープン!",
+      "title": "De Zerbi'キー' - フェルナンデストッテナムスイッチとトロフィーの野心",
+      "summary": "トッテナム最初の3 つのいずれかを獲得できない可能性がありますプレミアリーグこの季節をゲームするが、夏の新加入選手マテウス・フェルナンデス・シケイラ彼はトロフィーのために戦うために開始するためにスクワットセットに参加したと確信しています。",
+      "title_original": "De Zerbi 'was the key' - Fernandes on his Spurs switch and trophy ambitions",
+      "summary_original": "Spurs may have failed to win any of their first three Premier League games this season, but summer signing Matheus Fernandes is convinced he has joined a squad set to start fighting for trophies.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13584072/matheus-fernandes-interview-spurs-midfielder-on-the-passion-of-head-coach-roberto-de-zerbi-and-trophy-ambitions",
+      "published": "Thu, 10 Sep 2026 17:11:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "パーフェクトスタート! ロビンソンが TWO ウィケットをオープン!",
       "summary": "Ollie Robinson イングランドに対する第3 回テストでパキスタンの第2 回インニングの開口部に2 つのウィケットがなかった。",
-      "title_original": "‘Perfect start for England!’ Robinson takes TWO wickets in opening over!",
+      "title_original": "‘Perfect start!’ Robinson takes TWO wickets in opening over!",
       "summary_original": "Ollie Robinson took two wickets for no runs in the opening over of Pakistan’s second innings in the third Test against England.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13584045/england-vs-pakistan-ollie-robinson-gets-two-wickets-for-no-runs-in-opening-over",
@@ -3436,34 +3465,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "published": "Thu, 10 Sep 2026 14:27:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Waardah が印象に Park Hill ログイン",
-      "summary": "初めてのヘッドギアは、オラクルのために働いた Owen Burrows’ Waardah 誰が究極の印象的な勝者を勝ち取ったか Betfred Park Hill Stakes ドンカスター",
-      "title_original": "Waardah impresses with Park Hill win",
-      "summary_original": "First-time headgear worked the oracle for Owen Burrows’ Waardah who ran out an ultimately impressive winner of the Betfred Park Hill Stakes at Doncaster.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13583981/doncaster-waardah-impresses-with-park-hill-fillies-stakes-win",
-      "published": "Thu, 10 Sep 2026 13:57:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Red Roses 傷害から返されたオーストラリアの衝突のために後押しされる",
-      "summary": "ラグビー女子イングランド代表土曜日にオーストラリアに直面するために、家の足の最初の一致で名前を付けました WXV Global Series.",
-      "title_original": "Red Roses boosted for Australia clash by returns from injury",
-      "summary_original": "The Red Roses have named their side to face Australia on Saturday in the first match of the home leg of the WXV Global Series.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13583904/red-roses-vs-australia-england-name-team-for-opening-wxv-global-series-home-match-with-tatyana-heard-natasha-hunt-back-from-injury",
-      "published": "Thu, 10 Sep 2026 10:22:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
