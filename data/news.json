@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T03:06:14.429440+00:00",
+  "updated_at": "2026-09-10T03:26:13.175835+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2274,7 +2274,9 @@
     "Prince William": "ウィリアム (プリンス・オブ・ウェールズ)",
     "On Your Side": "",
     "Jessica Pegula": "",
-    "Sky Sports Tennis": "Sky Sports"
+    "Sky Sports Tennis": "Sky Sports",
+    "Zverev's US Open": "",
+    "Dutchman Botic": ""
   },
   "items": [
     {
@@ -3118,6 +3120,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Zverev's US Open 半ファイナルへのスムーズな航行に岩道が変わる",
+      "summary": "Alexander Zverev 別の大きな一歩を踏み出すグランドスラムビートによるタイトル Dutchman Botic バン・デ・ザンズチュル 6-2 7-5 6-1 到達する全米オープンセミファイナル",
+      "title_original": "Zverev's US Open rocky road turns into smooth sailing to the semi-finals",
+      "summary_original": "Alexander Zverev ‌took another big step towards a second Grand Slam ‌title by beating Dutchman Botic van de ​Zandschulp 6-2 7-5 6-1 to reach the US Open semi-finals.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13583806/us-open-alexander-zverev-passes-botic-van-de-8203zandschulp-test-to-set-up-semi-final-date-with-karen-khachanov",
+      "published": "Thu, 10 Sep 2026 04:09:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トップ4 世界一の舞台で US Open 女性の準決勝ショーダウン",
       "summary": "2 回防衛王者 Aryna Sabalenka 一歩一歩一歩一歩一歩一歩一歩一歩一歩一歩一歩一歩を踏み出す US Open 彼女は馴染みのフォアに直面しているときのタイトル Jessica Pegula, しばらくエレーナ・リバキナお持ち帰りいただけます。Coco Gauff 深夜から木曜日に準決勝 - ライブ Sky Sports.",
       "title_original": "Top four in the world set for US Open women's semi-final showdown",
@@ -3377,20 +3393,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13583627/hollie-doyle-owen-burrows-filly-can-claim-park-hill-success",
       "published": "Wed, 09 Sep 2026 15:47:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ノリッチはバーミンガムを打ち負かす Carrow Road",
-      "summary": "ノリッチは急上昇を続けた EFL チャンピオンシップ過去の訪問者バーミンガム2-1 が4 リーグゲームで3 勝を作るようにテーブル。",
-      "title_original": "Norwich hold on to beat Birmingham at Carrow Road",
-      "summary_original": "Norwich continued their rapid climb up the Sky Bet Championship table as they edged past visitors Birmingham 2-1 to make it three wins in four league games.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/norwich-city-vs-birmingham-city/report/560568",
-      "published": "Wed, 09 Sep 2026 22:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
