@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T22:50:07.681455+00:00",
+  "updated_at": "2026-09-10T23:05:37.413498+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2403,7 +2403,10 @@
     "Leipzig Lens": "",
     "Norway’s Bodo": "",
     "The Fenerbahce": "",
-    "The Ballon D'or": ""
+    "The Ballon D'or": "",
+    "Jamie Jackson": "",
+    "Matheus Cunha’s": "",
+    "Kaheem Parris": ""
   },
   "items": [
     {
@@ -2459,6 +2462,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "オリズスコアは2 回として得ますバイエルンスラッシュボデ/グリムト",
+      "summary": "イギリスのキャプテンハリー・ケインスコア 55 位チャンピオンズリーグ目標と目標 Michael Olise として2 回打つことバイエルン・ミュンヘン着心地のよいビートでキャンペーンを開始ボデ/グリムト.",
+      "title_original": "Olise scores twice as Bayern thrash Bodo/Glimt",
+      "summary_original": "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1mvzgmdje5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 21:50:13 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2519,20 +2536,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシーそして、レアル・マドリードログインアーセナル'Zubimendi - 金曜日のゴシップ",
-      "summary": "Martin Zubimendi 退去を求めるアーセナル1 月1 日マウロ・イカルディオープン予定エヴァートン Toffees が動く間移動 Anthony Martial.",
-      "title_original": "Chelsea and Real Madrid keen on Arsenal's Zubimendi - Friday's gossip",
-      "summary_original": "Martin Zubimendi may seek to leave Arsenal in January, Mauro Icardi open to Everton move while Toffees play down move for Anthony Martial.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd68352z4vjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 20:13:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "セブンプレミアリーグ予定されているゲームボクシング・デー",
       "summary": "ザ・オブ・ザ・プレミアリーグステージ7 試合ボクシング・デー今年 - 昨年の大きな増加。",
       "title_original": "Seven Premier League games scheduled for Boxing Day",
@@ -2544,6 +2547,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェルシーそして、レアル・マドリードログインアーセナル'Zubimendi - 金曜日のゴシップ",
+      "summary": "Martin Zubimendi 退去を求めるアーセナル1 月1 日マウロ・イカルディオープン予定エヴァートン Toffees が動く間移動 Anthony Martial.",
+      "title_original": "Chelsea and Real Madrid keen on Arsenal's Zubimendi - Friday's gossip",
+      "summary_original": "Martin Zubimendi may seek to leave Arsenal in January, Mauro Icardi open to Everton move while Toffees play down move for Anthony Martial.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd68352z4vjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 20:13:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2575,20 +2592,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リーズ「オカフォルは、ヤキンの下で再びスイスのために再生しないと言う",
-      "summary": "リーズ・ユナイテッド FC 獲得 Noah Okafor 彼が再びスイスのために再生しないと言うムラト・ヤキンヘッドコーチとして残っています。",
-      "title_original": "Leeds' Okafor says he won't play for Swiss again under Yakin",
-      "summary_original": "Leeds United forward Noah Okafor says he will not play for Switzerland again while Murat Yakin remains as head coach.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74e0kvm03ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 14:35:31 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ワシントン・スピリット Luvanga に獲得 - しかし、それはレコード移籍ですか?",
       "summary": "タンザニア・ストライカーClara Luvanga 獲得を問い合わせワシントン・スピリット女性のサッカーの歴史の中で最も高価なものと信じられている契約の Al-Nassr から - おそらく世界記録を設定する1。",
       "title_original": "Washington Spirit sign Luvanga - but is it a record deal?",
@@ -2600,20 +2603,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "オリズスコアは2 回として得ますバイエルンスラッシュボデ/グリムト",
-      "summary": "イギリスのキャプテンハリー・ケインスコア 55 位チャンピオンズリーグ目標と目標 Michael Olise として2 回打つことバイエルン・ミュンヘン着心地のよいビートでキャンペーンを開始ボデ/グリムト.",
-      "title_original": "Olise scores twice as Bayern thrash Bodo/Glimt",
-      "summary_original": "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1mvzgmdje5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 21:50:13 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2743,6 +2732,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ヨーロッパの次の素晴らしいコーチ?How Fabregas 導かれた Como にチャンピオンズリーグ",
+      "summary": "BBC スポーツは、クラブのコーチのビジョンと哲学を発見するためにコモを訪問します,セスク・ファブレガスチームの驚くべき上昇を上回っている人チャンピオンズリーグ.",
+      "title_original": "Europe's next great coach? How Fabregas led Como into Champions League",
+      "summary_original": "BBC Sport visits Como to discover the vision and philosophy of the club's coach, Cesc Fabregas, who has overseen the team's remarkable rise to the Champions League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 07:35:25 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リーズ「オカフォルは、ヤキンの下で再びスイスのために再生しないと言う",
+      "summary": "リーズ・ユナイテッド FC 獲得 Noah Okafor 彼が再びスイスのために再生しないと言うムラト・ヤキンヘッドコーチとして残っています。",
+      "title_original": "Leeds' Okafor says he won't play for Swiss again under Yakin",
+      "summary_original": "Leeds United forward Noah Okafor says he will not play for Switzerland again while Murat Yakin remains as head coach.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74e0kvm03ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 14:35:31 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「人生を手に入れる」 - ノンリーグクラブは男の偽装マネージャを非難",
       "summary": "Gainsborough Trinity 自分のマネージャーであることを偽りなく主張しながら、プレーヤーに近づいてきた人が非難しました。",
       "title_original": "'Get a life' - non-league club condemn man impersonating manager",
@@ -2799,20 +2816,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヨーロッパの次の素晴らしいコーチ?How Fabregas 導かれた Como にチャンピオンズリーグ",
-      "summary": "BBC スポーツは、クラブのコーチのビジョンと哲学を発見するためにコモを訪問します,セスク・ファブレガスチームの驚くべき上昇を上回っている人チャンピオンズリーグ.",
-      "title_original": "Europe's next great coach? How Fabregas led Como into Champions League",
-      "summary_original": "BBC Sport visits Como to discover the vision and philosophy of the club's coach, Cesc Fabregas, who has overseen the team's remarkable rise to the Champions League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 07:35:25 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Raphinha on、again as Barcelona put five past Feyenoord を獲得候補に",
       "summary": "ラフィーニャ目標を続け、別のダブルでシーズンをスタートバルセロナスタイルをオンにするフェイエノールト獲得を問い合わせチャンピオンズリーグ.",
       "title_original": "Raphinha on target again as Barcelona put five past Feyenoord",
@@ -2855,20 +2858,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "French FAaccuses Infantino の ‘深刻な損害’ サッカー それはサポートを撤回として",
-      "summary": "影響を受けたゲームの「イメージと団結」FFF 社長は言う 前回の Fifa 公式に切符をつけて相談します Kevin Lamour The French Football Federation’s 代表取締役社長 Philippe Diallo, 言った Gianni Infantino フィファ大統領の選挙に対するフランスの支持の最後に発表したので、「イメージとサッカーの団結を真剣に傷つけました。The FFF’s 執行委員会は、木曜日に公正に投票し、その裏付けを撤回しました。June. Diallo\"events durin\" 参照",
-      "title_original": "French FA accuses Infantino of ‘seriously damaging’ football as it withdraws support",
-      "summary_original": "‘Image and unity’ of game affected, FFF president says It will consult sacked former Fifa official Kevin Lamour The French Football Federation’s president, Philippe Diallo, said Gianni Infantino had “seriously damaged the image and the unity of football” as he announced the end of France’s support for the Fifa president’s re-election. The FFF’s executive committee unanimously voted on Thursday to withdraw its backing, which had been formalised at the end of June. Diallo referred to “events durin",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/gianni-infantino-accused-seriously-damaging-football-french-fa-withdraws-support-fifa",
-      "published": "Thu, 10 Sep 2026 17:03:47 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "チャンピオンズリーグ: バイエルンブレイクダウンボデ/グリムト, Como を置く 4 過去の Leipzig",
       "summary": "バイエルン・ミュンヘン 5-0 ボデ/グリムト, コモ 4-1Leipzig Lens 勝 3-2 でスラヴィア・プラハ最後のガソリン ダブルバイエルン・ミュンヘンオープンチャンピオンズリーグノルウェーの5-0 発のキャンペーンボデ/グリムト獲得を問い合わせ ハーフタイム前までに6 回勝者が不満ボデ/グリムトしかし、一度クルーズジャマル・ムシアラ開口部に2 分マッシュし、第2 期に水門が開通しました。続きを読む...",
       "title_original": "Champions League: Bayern break down Bodø/Glimt, Como put four past Leipzig",
@@ -2880,6 +2869,20 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "French FAaccuses Infantino の ‘深刻な損害’ サッカー それはサポートを撤回として",
+      "summary": "影響を受けたゲームの「イメージと団結」FFF 社長は言う 前回の Fifa 公式に切符をつけて相談します Kevin Lamour The French Football Federation’s 代表取締役社長 Philippe Diallo, 言った Gianni Infantino フィファ大統領の選挙に対するフランスの支持の最後に発表したので、「イメージとサッカーの団結を真剣に傷つけました。The FFF’s 執行委員会は、木曜日に公正に投票し、その裏付けを撤回しました。June. Diallo\"events durin\" 参照",
+      "title_original": "French FA accuses Infantino of ‘seriously damaging’ football as it withdraws support",
+      "summary_original": "‘Image and unity’ of game affected, FFF president says It will consult sacked former Fifa official Kevin Lamour The French Football Federation’s president, Philippe Diallo, said Gianni Infantino had “seriously damaged the image and the unity of football” as he announced the end of France’s support for the Fifa president’s re-election. The FFF’s executive committee unanimously voted on Thursday to withdraw its backing, which had been formalised at the end of June. Diallo referred to “events durin",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/gianni-infantino-accused-seriously-damaging-football-french-fa-withdraws-support-fifa",
+      "published": "Thu, 10 Sep 2026 17:03:47 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2925,20 +2928,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Why David Beckham 投票する US Soccer Hall ファム |Pablo Iglesias Maurer",
-      "summary": "The Englishman 認識の不足はなく、アメリカンゲームへの彼の貢献は、次の春、私たちの無料のニュースレターにサインアップする正式なタイトルに値する US Soccer HallFame では、最新のクラスを歓迎しています。角に座るホールトヨタ・スタジアムの家の Major League Soccer’s FC ダラスは、enshrineds のシグネチャーレッドジャケットを特徴とします。選手やコーチ、ミディ・アイド・リフレシオの挨拶やスピーチなど",
-      "title_original": "Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
-      "summary_original": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next spring, when the US Soccer Hall of Fame welcomes its newest class, there will be pomp and circumstance. The hall, which sits in a corner of Toyota Stadium, home of Major League Soccer’s FC Dallas, will feature the enshrineds’ signature red jackets. There will be glad-handing and speeches from players and coaches, misty-eyed reflectio",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/david-beckham-us-soccer",
-      "published": "Thu, 10 Sep 2026 14:54:07 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「Football はお父さんの生活を保存」:イングランドの女性のパーキンソンのチームのコーチを満たします",
       "summary": "彼の診断後に彼女のお父さんを歩くサッカーに取得し始めました – 今 Gemma Darvill ツアーに全国のチームを連れて行く Canada When Gemma Darvill’s お父さん、レは、58 歳のパーキンソン病と診断され、ウォーキングフットボールチームに参加して、彼自身を自分の家に閉じて、彼女はゲームが彼の人生を救ったと信じていた。彼が予見したことがなかったことは、8 年後、彼女は最初のイングランドの女性のパーキンソンのチームをコーチングし、変換を支援します",
       "title_original": "‘Football saved Dad’s life’: meet the coach of the England women’s Parkinson’s team",
@@ -2953,6 +2942,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Mickels は、サバのオデッセイの終端で最新のストップとしてターンポイントを見逃してしまう |Jamie Jackson",
+      "summary": "フォワードの洗練された機会は、試合が証明された決定を強調するチャンピオンズリーグ新規参入者の損失マンチェスター・ユナイテッドサッカー – 人生の多くのような – 何がされているかの物語することができます, そして 39 分 Joy-Lance Mickels センター・フォワードとサバのスライディング・ドアの瞬間だった経験があり、長い間待っていた。アゼルバイジャンのチャンピオンは、Matheus Cunha’s 開いているとき Kaheem Parris ボールを遠くまでスパイラルアップマンチェスター・ユナイテッドゴール。ルアー",
+      "title_original": "Mickels miss a turning point as latest stop in Sabah’s odyssey ends with regret | Jamie Jackson",
+      "summary_original": "Forward’s spurned opportunity to level the match proved decisive in the Champions League newcomers’ loss to Manchester United Football – like much of life – can be a story of what might have been, and on 39 minutes Joy-Lance Mickels had an experience that was a sliding doors moment for the centre-forward and Sabah that may haunt a long time. Azerbaijan’s champions were trailing to Matheus Cunha’s opener when Kaheem Parris spiralled the ball up to the far post of Manchester United’s goal. The lur",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-european-odyssey-champions-league-analysis",
+      "published": "Thu, 10 Sep 2026 22:56:27 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Why Kai Havertz’s ダミーは、おそらくより喜ばしいだったリオネル・メッシワルツ |Max Rushden",
       "summary": "アーセナルストライカーは、私たちの恵みを思い出させました ノンストップのサッカーのペースで、彼の不随意な騒音改善作用で存在することができます During Covid, スポーツが戻っていたが、閉鎖したドアの背後にあるとき, 私は実際の生活の空隙を埋めるために、いくつかの奇妙なオンラインショーをホストしました. ハイライトはチャットでした Darren Gough ズームコールで45 分から15 小箱までのライフサイズのブロンズリノセロスについて。誰が誰だったのか、そして、リノセロがどこから来たのかは思い出しません。しかし、それは彼の庭にいるかもしれません。死に終える",
       "title_original": "Why Kai Havertz’s dummy was perhaps more pleasing than a Lionel Messi waltz | Max Rushden",
@@ -2963,20 +2966,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "サルーン、スクール、スペシャリティコーヒー:NWSL プレイヤーは、サイドハストルの新しい時代を楽しんでいます",
-      "summary": "5 年前、リーグの星はアマゾンボックスを詰めたか、またはドアダッシュのために運転し、エンドはミージャーの給料で会います。新しい CBA は、オフフィールドの追求のための扉を開けました。冷たい w インテル Ketchum、Idaho の夜、シカゴ・スターズ FC ミッドフィルダーBea Franklin 普段はサッカーのフィールドで何をしているかよりも、さまざまな種類の物理的な feat を引っ張っていた。タクシーで遊んでいる動物の目の下に Pioneer Saloon, 彼女 deftly バランスの取れた martinis として カクテル ウエートレス, 身に着けている カウガール bo",
-      "title_original": "Saloons, school and specialty coffee: NWSL players enjoy new era of side hustles",
-      "summary_original": "Five years ago, stars in the league packed Amazon boxes or drove for DoorDash to make ends meet on meager salaries. A new CBA opened doors for off-field pursuits in line with their passions On a cold winter night in Ketchum, Idaho, Chicago Stars midfielder Bea Franklin was pulling off a different sort of physical feat than what she usually does on the soccer field. Under the eyes of taxidermied animals at the Pioneer Saloon, she deftly balanced martinis as a cocktail waitress, wearing cowgirl bo",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/nwsl-players-side-hustles",
-      "published": "Thu, 10 Sep 2026 10:00:24 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3163,6 +3152,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Why David Beckham 投票する US Soccer Hall ファム |Pablo Iglesias Maurer",
+      "summary": "The Englishman 認識の不足はなく、アメリカンゲームへの彼の貢献は、次の春、私たちの無料のニュースレターにサインアップする正式なタイトルに値する US Soccer HallFame では、最新のクラスを歓迎しています。角に座るホールトヨタ・スタジアムの家の Major League Soccer’s FC ダラスは、enshrineds のシグネチャーレッドジャケットを特徴とします。選手やコーチ、ミディ・アイド・リフレシオの挨拶やスピーチなど",
+      "title_original": "Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
+      "summary_original": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next spring, when the US Soccer Hall of Fame welcomes its newest class, there will be pomp and circumstance. The hall, which sits in a corner of Toyota Stadium, home of Major League Soccer’s FC Dallas, will feature the enshrineds’ signature red jackets. There will be glad-handing and speeches from players and coaches, misty-eyed reflectio",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/david-beckham-us-soccer",
+      "published": "Thu, 10 Sep 2026 14:54:07 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「夢が叶う」:舞台裏で Wolves Women 新しい時代に入る",
       "summary": "ガーディアンは、完全に専門的側面として、最初のシーズンの始まりに Wolves に加わりました。彼らはプッシュオーバーのないショーに決定しました。突然、バストリング教室の後ろに Guru Nanak Satsang Sikh グルドワはほぼサイレントに落ち、すべての目がオンです Dan McNamara. The Wolves ヘッドコーチ、レスリングレッスンを経験し、緊張したタクソールに従事しています。相手の頂上、部屋の噴火で、ツイスト、パッティング、ヘービング、最終的には終わる。McNamara の課題をいくつか比較",
       "title_original": "‘A dream come true’: behind the scenes with Wolves Women as they enter new era",
@@ -3174,6 +3177,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "サルーン、スクール、スペシャリティコーヒー:NWSL プレイヤーは、サイドハストルの新しい時代を楽しんでいます",
+      "summary": "5 年前、リーグの星はアマゾンボックスを詰めたか、またはドアダッシュのために運転し、エンドはミージャーの給料で会います。新しい CBA は、オフフィールドの追求のための扉を開けました。冷たい w インテル Ketchum、Idaho の夜、シカゴ・スターズ FC ミッドフィルダーBea Franklin 普段はサッカーのフィールドで何をしているかよりも、さまざまな種類の物理的な feat を引っ張っていた。タクシーで遊んでいる動物の目の下に Pioneer Saloon, 彼女 deftly バランスの取れた martinis として カクテル ウエートレス, 身に着けている カウガール bo",
+      "title_original": "Saloons, school and specialty coffee: NWSL players enjoy new era of side hustles",
+      "summary_original": "Five years ago, stars in the league packed Amazon boxes or drove for DoorDash to make ends meet on meager salaries. A new CBA opened doors for off-field pursuits in line with their passions On a cold winter night in Ketchum, Idaho, Chicago Stars midfielder Bea Franklin was pulling off a different sort of physical feat than what she usually does on the soccer field. Under the eyes of taxidermied animals at the Pioneer Saloon, she deftly balanced martinis as a cocktail waitress, wearing cowgirl bo",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/nwsl-players-side-hustles",
+      "published": "Thu, 10 Sep 2026 10:00:24 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3205,31 +3222,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Aubameyang は、再考した「Super Dépor' に戻るラ・リーガスタイル |Billy Munday",
-      "summary": "Deportivo A Coruña Leave Gabonese ストライカーと1 つのクラブレコードと別の目指すための2 つのアシストと勝者 Pierre-Emerick Aubameyang 土曜日の夜に Deportivo A Coruña の勝者をスコアするために走ったとき、彼はピッチですでに最高の選手でした。確かにそうではない Ilias Akhomach, ,ビジャレアル途中のパスが不変に Aubameyang を貫通し、また Sergi Cardona, そのパスの目的のターゲット. 89 分後、2 人の援助の後、37 歳の Aubameyang",
-      "title_original": "Aubameyang rolls back years as revamped ‘Super Dépor’ return to La Liga in style | Billy Munday",
-      "summary_original": "Two assists and the winner for Deportivo A Coruña leave Gabonese striker with one club record and eyeing another Pierre-Emerick Aubameyang was already the best player on the pitch when he ran through to score Deportivo A Coruña’s winner on Saturday night. It was certainly not Ilias Akhomach, the Villarreal substitute whose pass on halfway had inadvertently played Aubameyang through, nor Sergi Cardona, the intended target of that pass. After 89 minutes and two assists, the 37-year-old Aubameyang ",
+      "title": "Men’s Ballond’Or 2026 パワーランキング:25 年ぶりに英語の勝者はありますか?",
+      "summary": "10 月1 日(水)より、当選者賞のショートリストに出場する選手の順位を評価します。ハリー・ケイン(イングランド/バイエルン・ミュンヘン) 目標 drunken のために調節してもブンデスリーガ, 彼の 61 の目標 51 のためのマッチバイエルン最後のシーズンは、彼のプレーメイキングとホールドアップスキルを考慮して、彼のオールラウンドインパクトを発揮します。Kane はイングランドのあとでゲームを予定していた World Cup, しかし、彼は最後の 16 日までに彼のキャリアの最高の年を閉じるために停止することができませんでした. なし",
+      "title_original": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
+      "summary_original": "We assess the standing of the players on the shortlist for the award before the winner is announced in October 1) Harry Kane (England/Bayern Munich) Even adjusting for the goal-drunken Bundesliga, his 61 goals in 51 matches for Bayern last season undersells his all-around impact, considering his playmaking and hold-up skills. Kane was gameplanned out of England’s later games at the World Cup, but he was unstoppable through the last 16 to close out the finest year of his career to date. If not no",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/07/pierre-emerick-aubameyang-deportivo-a-coruna-la-liga",
-      "published": "Mon, 07 Sep 2026 12:03:13 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・シティ-bound 16 歳 Cavan SullivanMLS のチャオティック・レベレーション",
-      "summary": "The Philadelphia Union ミッドフィルダーは、プロを回し、データがタンタライズされているので、ゲームの時間の最も長い走りを続けてきました ビデオからアメリカ合衆国 U-15 キャンプ 3 年前、頭を紡ぐ 一方、頭の短く、1 年または2 歳以外の男の子のための定期的なトレーニングセッションです。男の子は緊張していますか? 彼はそうではありません。パスは箱に浮き出し、彼は彼の実行をチェックし、余分な取得しようとします",
-      "title_original": "Man City-bound 16-year-old Cavan Sullivan is MLS’s chaotic revelation",
-      "summary_original": "The Philadelphia Union midfielder has gotten his longest run of game time since turning pro, and the data is tantalizing There’s a video from a United States U-15 camp three years ago that will make your head spin. It’s a routine training session for the boys on the pitch except one, a head shorter and a year or two younger than the others, who’s practicing with the national team for the first time. Is the boy nervous? He is not. A pass floats into the box and he checks his run, tries to get und",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/cavan-sullivan-analyisis-mls-philadelphia-union",
-      "published": "Tue, 08 Sep 2026 09:00:53 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
+      "url": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe",
+      "published": "Wed, 09 Sep 2026 13:04:35 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
