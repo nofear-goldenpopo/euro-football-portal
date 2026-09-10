@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T14:40:41.264284+00:00",
+  "updated_at": "2026-09-10T14:54:04.541109+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2317,7 +2317,10 @@
     "Does Mauricio Pochettino": "",
     "Boxing Day": "ボクシング・デー",
     "Noah Okafor": "",
-    "Murat Yakin": "ムラト・ヤキン"
+    "Murat Yakin": "ムラト・ヤキン",
+    "Leeds' Okafor": "",
+    "Owen Burrows’ Waardah": "",
+    "Betfred Park Hill Stakes": ""
   },
   "items": [
     {
@@ -2363,6 +2366,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リヴァプール後ろからビートに来るアトレティコ・マドリード",
+      "summary": "アレクシス・マック・アリスターemphatic の勝者をとして得て下さいリヴァプールスタートチャンピオンズリーグ勝ち抜いたキャンペーンアトレティコ・マドリードアンフィールド",
+      "title_original": "Liverpool come from behind to beat Atletico Madrid",
+      "summary_original": "Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ce874m9ld2mo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 21:07:13 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フランスは Infantino サポートを撤退した後、Fifa を変換したい",
       "summary": "フランスのサッカーの指導者は、国のサッカーの体が最新になった後に Fifa がどのように動くかを変換する方法を求めることを提案しました Gianni Infantino's 前提条件。",
       "title_original": "France wants to transform Fifa after withdrawing Infantino support",
@@ -2391,6 +2408,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "セブンプレミアリーグ予定されているゲームボクシング・デー",
+      "summary": "ザ・オブ・ザ・プレミアリーグステージ7 試合ボクシング・デー今年 - 昨年の大きな増加。",
+      "title_original": "Seven Premier League games scheduled for Boxing Day",
+      "summary_original": "The Premier League will stage seven matches on Boxing Day this year - a significant increase on last year.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd94y2vx8gno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 14:40:25 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Odegaard ストライキが獲得アーセナル狭い勝利でナポリ",
+      "summary": "マルティン・ウーデゴール季節の始まりが続くアーセナルキャプテンは、試合に対する唯一の目標をスコアナポリナポリ",
+      "title_original": "Odegaard strike earns Arsenal narrow victory at Napoli",
+      "summary_original": "Martin Odegaard's excellent start to the season continues as the Arsenal captain scores the only goal of the match against Napoli in Naples.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/czxze02qw0jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 21:34:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リヴァプール報酬を受け取る Mac Allister 彼のサッカーが話せるかどうか",
       "summary": "契約オファーの欠如で「非常に悲しい」と言っていた後リヴァプール, アレクシス・マック・アリスター自分の価値を証明アトレティコ・マドリード.",
       "title_original": "Liverpool will reward Mac Allister if he lets his football do talking",
@@ -2405,9 +2450,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リーズスイスのナショナルチームからオカフォーへ",
+      "title": "リーズ「オカフォルは、ヤキンの下で再びスイスのために再生しないと言う",
       "summary": "リーズ・ユナイテッド FC 獲得 Noah Okafor 彼が再びスイスのために再生しないと言うムラト・ヤキンヘッドコーチとして残っています。",
-      "title_original": "Leeds forward Okafor steps back from Swiss national team",
+      "title_original": "Leeds' Okafor says he won't play for Swiss again under Yakin",
       "summary_original": "Leeds United forward Noah Okafor says he will not play for Switzerland again while Murat Yakin remains as head coach.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c74e0kvm03ro?at_medium=RSS&at_campaign=rss",
@@ -2416,20 +2461,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リヴァプール後ろからビートに来るアトレティコ・マドリード",
-      "summary": "アレクシス・マック・アリスターemphatic の勝者をとして得て下さいリヴァプールスタートチャンピオンズリーグ勝ち抜いたキャンペーンアトレティコ・マドリードアンフィールド",
-      "title_original": "Liverpool come from behind to beat Atletico Madrid",
-      "summary_original": "Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ce874m9ld2mo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:07:13 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2443,34 +2474,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アーセナルあらゆるテストを通過しています - そして、Odegaard は彼の人生の形態です",
-      "summary": "その他アーセナル勝つ, 別のマルティン・ウーデゴールゴール - ガンナーのキャプテンは、彼のベストに戻ります、書き込みフィル・マクナルティ.",
-      "title_original": "Arsenal are passing every test - and Odegaard is in form of his life",
-      "summary_original": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 22:35:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Odegaard ストライキが獲得アーセナル狭い勝利でナポリ",
-      "summary": "マルティン・ウーデゴール季節の始まりが続くアーセナルキャプテンは、試合に対する唯一の目標をスコアナポリナポリ",
-      "title_original": "Odegaard strike earns Arsenal narrow victory at Napoli",
-      "summary_original": "Martin Odegaard's excellent start to the season continues as the Arsenal captain scores the only goal of the match against Napoli in Naples.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/czxze02qw0jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:34:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2503,6 +2506,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アーセナルあらゆるテストを通過しています - そして、Odegaard は彼の人生の形態です",
+      "summary": "その他アーセナル勝つ, 別のマルティン・ウーデゴールゴール - ガンナーのキャプテンは、彼のベストに戻ります、書き込みフィル・マクナルティ.",
+      "title_original": "Arsenal are passing every test - and Odegaard is in form of his life",
+      "summary_original": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 22:35:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "星の潜水救助チェルシーAlonso 'takes blame' として",
+      "summary": "チェルシーより良いものを得るリーズカップスリラーですが、ブルースボスシャビ・アロンソ星の代替品から救助行動を必要とすると考えた食品を持っています。",
+      "title_original": "Star subs rescue Chelsea as Alonso 'takes blame'",
+      "summary_original": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 23:25:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -2510,34 +2541,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cdr7jm864pmo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 05:42:43 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "目標を保ち続けるレンジャーズトラックでオールドファームダブルヘッダー",
-      "summary": "レンジャーズストップページタイムのストライキを反してワイルドに祝われた St Mirren ライバルで2 つのゲームに入る勢いを維持セルティック.",
-      "title_original": "Late goal keeps Rangers on track for Old Firm double-header",
-      "summary_original": "Rangers celebrated wildly after a stoppage-time strike against St Mirren maintains momentum going into two games with rivals Celtic.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g7z7jyyndo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 07:55:36 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Mousinho 'furious' が Bielik インシデントのアカウントに",
-      "summary": "ポートマスボス John Mousinho 彼がカルディフの関与する事件の上に置いたと言う位置に「絶対に激しく」ですクリスティアン・ビエリクそしてファン。",
-      "title_original": "Mousinho 'furious' over account of Bielik incident",
-      "summary_original": "Portsmouth boss John Mousinho is \"absolutely furious\" at the position he says he was put in over an incident involving Cardiff's Krystian Bielik and a fan.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20l7z07zz7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 10:10:05 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2699,6 +2702,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "目標を保ち続けるレンジャーズトラックでオールドファームダブルヘッダー",
+      "summary": "レンジャーズストップページタイムのストライキを反してワイルドに祝われた St Mirren ライバルで2 つのゲームに入る勢いを維持セルティック.",
+      "title_original": "Late goal keeps Rangers on track for Old Firm double-header",
+      "summary_original": "Rangers celebrated wildly after a stoppage-time strike against St Mirren maintains momentum going into two games with rivals Celtic.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g7z7jyyndo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 07:55:36 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Mousinho 'furious' が Bielik インシデントのアカウントに",
+      "summary": "ポートマスボス John Mousinho 彼がカルディフの関与する事件の上に置いたと言う位置に「絶対に激しく」ですクリスティアン・ビエリクそしてファン。",
+      "title_original": "Mousinho 'furious' over account of Bielik incident",
+      "summary_original": "Portsmouth boss John Mousinho is \"absolutely furious\" at the position he says he was put in over an incident involving Cardiff's Krystian Bielik and a fan.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20l7z07zz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 10:10:05 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ウィリアム (プリンス・オブ・ウェールズ)スポーツ精神健康ツールキットを発売",
       "summary": "ウィリアム (プリンス・オブ・ウェールズ)全国のツールキットが呼び出す新しいツールキットを通じて、その文化の自殺防止部分を作るために、あらゆるレベルでスポーツを促します On Your Side.",
       "title_original": "Prince William launches sport mental health toolkit",
@@ -2710,20 +2741,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ガブリエルが15 歳になるマンチェスター・ユナイテッド'最も若いプレーヤー?",
-      "summary": "Fifteen-year-old JJ Gabriel2 つの壮大な目標を獲得しましたプレミアリーグのための2 つの出現マンチェスター・ユナイテッド- 彼は彼のシニアデビューを作る準備ができています",
-      "title_original": "Is 15-year-old Gabriel set to become Man Utd's youngest ever player?",
-      "summary_original": "Fifteen-year-old JJ Gabriel has scored two magnificent goals in two Premier League 2 appearances for Manchester United - is he ready to make his senior debut",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7706zz7mylo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 10:58:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3175,6 +3192,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Waardah が印象に Park Hill ログイン",
+      "summary": "初めてのヘッドギアは、オラクルのために働いた Owen Burrows’ Waardah 誰が究極の印象的な勝者を勝ち取ったか Betfred Park Hill Stakes ドンカスター",
+      "title_original": "Waardah impresses with Park Hill win",
+      "summary_original": "First-time headgear worked the oracle for Owen Burrows’ Waardah who ran out an ultimately impressive winner of the Betfred Park Hill Stakes at Doncaster.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13583981/doncaster-waardah-impresses-with-park-hill-fillies-stakes-win",
+      "published": "Thu, 10 Sep 2026 13:57:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Red Roses 傷害から返されたオーストラリアの衝突のために後押しされる",
       "summary": "ラグビー女子イングランド代表土曜日にオーストラリアに直面するために、家の足の最初の一致で名前を付けました WXV Global Series.",
       "title_original": "Red Roses boosted for Australia clash by returns from injury",
@@ -3259,9 +3290,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リードパス300 対イングランドの尾の饗宴 Pakistan LIVE!",
+      "title": "イングランドは453 年、第2 回インニングズ LIVE より320 年までにパキスタンをリード!",
       "summary": "",
-      "title_original": "England's tail feasts as lead passes 300 vs Pakistan LIVE!",
+      "title_original": "England all out for 453, lead Pakistan by 320 ahead of second innings LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13583869/england-vs-pakistan-third-test-day-two-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3406,20 +3437,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13583797/arsenal-martin-odegaard-new-role-explained-by-mikel-arteta-after-captains-champions-league-winner-at-napoli",
       "published": "Wed, 09 Sep 2026 23:05:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシーヒット SIX 後半の目標 オフを見るリーズ獲得を問い合わせ EFL カップクラシック",
-      "summary": "信じられないほどのセカンドハーフのカムバックには、41 分で6 つの目標が含まれていますチェルシー最後に吹き飛ばすリーズ6-3 オールタイム EFL カップクラシック Stamford Bridge.",
-      "title_original": "Chelsea hit SIX second-half goals to see off Leeds in Carabao Cup classic",
-      "summary_original": "An incredible second-half comeback including six goals in 41 minutes saw Chelsea finally blow away Leeds 6-3 in one of the all-time Carabao Cup classics at Stamford Bridge.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/577586",
-      "published": "Wed, 09 Sep 2026 22:00:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
