@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T15:25:40.944711+00:00",
+  "updated_at": "2026-09-11T15:39:22.631752+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2473,7 +2473,9 @@
     "Alan Shearer": "アラン・シアラー",
     "Prime Video's": "",
     "Shane Lowry": "シェーン・ローリー",
-    "Ex-West Ham": ""
+    "Ex-West Ham": "",
+    "Nathan Collins": "ネイサン・コリンズ",
+    "Hamilton LIVE": ""
   },
   "items": [
     {
@@ -2631,6 +2633,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Gray has no issue with flak as Hibs、semi-final を獲得候補に",
+      "summary": "デヴィッド・グレイハイベリニアンが彼の最初の準決勝に自分の視点を設定したので、シーズンに失望した後、彼は不満の批判に占有されていないと主張しています。",
+      "title_original": "Gray has no issue with flak as Hibs eye semi-final",
+      "summary_original": "David Gray insists he is not preoccupied by rumbling criticism after a disappointing start to the season as Hibernian set their sights on the first semi-final of his reign.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w4d04xx49o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 15:24:19 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ウェストハム'Alvarez denies 誘拐 accusation",
       "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
       "title_original": "West Ham's Alvarez denies kidnapping accusation",
@@ -2645,17 +2661,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "2 ゴール2 つのゲームで - Sesko は与えますマンチェスター・ユナイテッド異なる脅威",
-      "summary": "ベンヤミン・シェシュコの に戻るマンチェスター・ユナイテッドの start line-up は日曜日の先頭によく使われますプレミアリーグ出会い系マンチェスター・シティ",
-      "title_original": "Two goals in two games - Sesko gives Man Utd a different threat",
-      "summary_original": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
+      "title": "コリンズは、カーフケガでアイルランド共和国の疑い",
+      "summary": "アイルランドのキャプテンネイサン・コリンズこれからの始まりは間違いです Nations League 子牛の怪我を拾った後のキャンペーン。",
+      "title_original": "Collins a doubt for Republic of Ireland with calf injury",
+      "summary_original": "Republic of Ireland captain Nathan Collins is a doubt for the start of the upcoming Nations League campaign after picking up a calf injury.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 22:41:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c36lkl4xp0yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 15:26:54 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2680,20 +2696,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 05:52:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トリプルチェルシー攻撃は価値がありますか? FPL ゲームウィーク4 ジレンマ",
-      "summary": "BBC Sport FPL エキスパート Holly ShandFPL マネージャーがゲームウィーク 4 に向かい合っている最大のジレンマのいくつかを見てみましょう。アーリング・ハーランドまたはチェルシープレイヤー。",
-      "title_original": "Is triple Chelsea attack worth it? FPL gameweek four dilemmas",
-      "summary_original": "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL managers heading into gameweek four, including whether to captain Erling Haaland or a Chelsea player.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmrz1kdm93o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 06:28:38 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2855,31 +2857,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド685 ファンアカウントをトウト後の禁止",
-      "summary": "マンチェスター・ユナイテッド685 ファンアカウントを禁止します。チケットのトウト調査とイノセントファンは罰されていません。",
-      "title_original": "Man Utd ban 685 fan accounts after touting probe",
-      "summary_original": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans have not been punished.",
+      "title": "トリプルチェルシー攻撃は価値がありますか? FPL ゲームウィーク4 ジレンマ",
+      "summary": "BBC Sport FPL エキスパート Holly ShandFPL マネージャーがゲームウィーク 4 に向かい合っている最大のジレンマのいくつかを見てみましょう。アーリング・ハーランドまたはチェルシープレイヤー。",
+      "title_original": "Is triple Chelsea attack worth it? FPL gameweek four dilemmas",
+      "summary_original": "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL managers heading into gameweek four, including whether to captain Erling Haaland or a Chelsea player.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4zydzk2zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 11:33:17 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmrz1kdm93o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 06:28:38 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マーティンは批判が「本当に個人的」になったと述べています",
-      "summary": "レスター・シティ FC ログイン Russell Martin 彼が「多くの人を集める」と批判が「個人的に来る」と言った理由はわかりません。",
-      "title_original": "Martin says criticism has become 'really personal'",
-      "summary_original": "Leicester City boss Russell Martin does not know why he \"upsets so many people\" and says criticism has \"become personal\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ydqvvlqk3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 14:54:09 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2897,13 +2885,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "2 ゴール2 つのゲームで - Sesko は与えますマンチェスター・ユナイテッド異なる脅威",
+      "summary": "ベンヤミン・シェシュコの に戻るマンチェスター・ユナイテッドの start line-up は日曜日の先頭によく使われますプレミアリーグ出会い系マンチェスター・シティ",
+      "title_original": "Two goals in two games - Sesko gives Man Utd a different threat",
+      "summary_original": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 22:41:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・ユナイテッド禁止 685 四季折々のチケットホルダー オーバートゥット; ワトフォード サイン アントニオ: サッカーのニュース – ライブ",
       "summary": "大会レポート 週末のサッカーの試合前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail John Matthias Jaissle 夏の新加入選手が明らかにされたマティアス・フェルナンデス＝パルド始めに近づくニューカッスル獲得を問い合わせ 21 歳からタイネサイドへ到着リール期限日には、代替として特集されているニューカッスル最後の2 つのマッチ。月曜日のツルツルに先立ち、リーズ Jaissle 氏は次のように述べています。ロード m でスマートにする必要があると言いました",
       "title_original": "Manchester United ban 685 season-ticket holders over touting; Watford sign Antonio: football news – live",
       "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail John Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Speaking ahead of Monday’s clash with Leeds, Jaissle said: “Yeah, he’s getting closer. I said that we need to be smart with his load m",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 15:09:39 GMT",
+      "published": "Fri, 11 Sep 2026 15:26:52 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3345,9 +3347,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スペイングランプリ: 近戦の第2 練習でメルセデスに挑戦するライバル!",
+      "title": "スペイングランプリ: ノリスは Antonelli を先の Antonelli との第2 練習で並んでいます Hamilton LIVE!",
       "summary": "",
-      "title_original": "Spanish GP: Rivals challenging Mercedes in close-fought second practice LIVE!",
+      "title_original": "Spanish GP: Norris sidelined in second practice with Antonelli ahead of Hamilton LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13583697/f1-spanish-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-at-new-madring-circuit-in-madrid",
