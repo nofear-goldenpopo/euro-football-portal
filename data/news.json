@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T08:06:43.291568+00:00",
+  "updated_at": "2026-09-11T08:27:38.055282+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2421,7 +2421,8 @@
     "Holly Shand": "",
     "USA Solheim Cup": "",
     "Lauren Coughlin": "",
-    "Teofimo Lopez": "テオフィモ・ロペス"
+    "Teofimo Lopez": "テオフィモ・ロペス",
+    "Norway’s Bodø": ""
   },
   "items": [
     {
@@ -2467,6 +2468,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Sutton の予測 v ドーキング・ワンダラーズ FC マネージャーMarc White",
+      "summary": "BBC スポーツサッカーの専門家クリス・サットン獲得を問い合わせドーキング・ワンダラーズ FC マネージャーMarc White この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
+      "title_original": "Sutton's predictions v Dorking Wanderers manager Marc White",
+      "summary_original": "BBC Sport football expert Chris Sutton takes on Dorking Wanderers manager Marc White, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1dlnq215zeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 18:47:34 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・ユナイテッド過去のサバを4 つ入れるチャンピオンズリーグフィードバック",
       "summary": "マンチェスター・ユナイテッド最大の記録チャンピオンズリーグ彼らが掃引するように2020 年以来の勝利 Sabah FK 獲得を問い合わせオールド・トラッフォード.",
       "title_original": "Man Utd put four past Sabah on Champions League return",
@@ -2506,20 +2521,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Sutton の予測 v ドーキング・ワンダラーズ FC マネージャーMarc White",
-      "summary": "BBC スポーツサッカーの専門家クリス・サットン獲得を問い合わせドーキング・ワンダラーズ FC マネージャーMarc White この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
-      "title_original": "Sutton's predictions v Dorking Wanderers manager Marc White",
-      "summary_original": "BBC Sport football expert Chris Sutton takes on Dorking Wanderers manager Marc White, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1dlnq215zeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 18:47:34 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2628,20 +2629,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 18:48:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アーセナル新しい契約を最終決定するクローズアルテタ",
-      "summary": "ミケル・アルテタ新規契約の最終決定に近づいていると考えられているプレミアリーグチャンピオンアーセナル.",
-      "title_original": "Arsenal close to finalising new contract for Arteta",
-      "summary_original": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 14:16:06 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2789,6 +2776,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アーセナル新しい契約を最終決定するクローズアルテタ",
+      "summary": "ミケル・アルテタ新規契約の最終決定に近づいていると考えられているプレミアリーグチャンピオンアーセナル.",
+      "title_original": "Arsenal close to finalising new contract for Arteta",
+      "summary_original": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 14:16:06 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "セブンプレミアリーグ予定されているゲームボクシング・デー",
       "summary": "ザ・オブ・ザ・プレミアリーグステージ7 試合ボクシング・デー今年 - 昨年の大きな増加。",
       "title_original": "Seven Premier League games scheduled for Boxing Day",
@@ -2846,9 +2847,9 @@
     },
     {
       "title": "プレミアリーグ: 今週の週末を眺める10 の事",
-      "summary": "Nicolas Jackson 感動する準備ができています、トッテナム scrambled と 199th Manchester derby はオールド・トラッフォード プレミアリーグトップスコアラー2026-27:黄金のブーツのための一流のレースは誰ですか? すでに今シーズンの3 つのゲームで10 のトップフライトのゴール貢献で、チェルシートリオのモーガン・ロジャーズ, ジョアン・ペドロそして、コール・パーマー早いペースセッターです。プレミアリーグ'最も有利、流体および高オクタン攻撃ユニット。しかし、彼の100 の機会にプレミアリーグは、",
+      "summary": "Nicolas Jackson 感動する準備ができています、トッテナム scrambled と 199th Manchester derby はオールド・トラッフォード プレミアリーグトップスコアラー2026-27:黄金のブーツのための一流のレースは誰ですか? 今シーズンはすでに3 つのゲーム間で10 のトップフライトのゴール貢献で、チェルシートリオのモーガン・ロジャーズ, ジョアン・ペドロそして、コール・パーマー早いペースセッターです。プレミアリーグ'最も有利、流体および高オクタン攻撃ユニット。しかし、彼の100 の機会にプレミアリーグは、",
       "title_original": "Premier League: 10 things to look out for this weekend",
-      "summary_original": "Nicolas Jackson is ready to impress, Spurs are scrambled and the 199th Manchester derby takes place at Old Trafford Premier League top scorers 2026-27: who is leading race for the golden boot? With 10 top-flight goal contributions between them across three games already this season, the Chelsea trio of Morgan Rogers, João Pedro and Cole Palmer are the early pace-setters for the Premier League’s most prolific, fluid and high octane attacking unit. But on the occasion of his 100th Premier League a",
+      "summary_original": "Nicolas Jackson is ready to impress, Spurs are scrambled and the 199th Manchester derby takes place at Old Trafford Premier League top scorers 2026-27: who is leading race for the golden boot? With 10 top-flight goal contributions between them across three games already this season, the Chelsea trio of Morgan Rogers, João Pedro and Cole Palmer are the early pace-setters for the Premier League’s most prolific, fluid and high-octane attacking unit. But on the occasion of his 100th Premier League a",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend",
       "published": "Thu, 10 Sep 2026 23:01:48 GMT",
@@ -2890,7 +2891,7 @@
       "title": "チャンピオンズリーグ: バイエルンブレイクダウンボデ/グリムト, Como を置く 4 過去の Leipzig",
       "summary": "バイエルン・ミュンヘン 5-0 ボデ/グリムト, コモ 4-1Leipzig Lens 勝 3-2 でスラヴィア・プラハ最後のガソリン ダブルバイエルン・ミュンヘンオープンチャンピオンズリーグノルウェーの5-0 発のキャンペーンボデ/グリムト獲得を問い合わせ ハーフタイム前までに6 回勝者が不満ボデ/グリムトしかし、一度クルーズジャマル・ムシアラ開口部に2 分マッシュし、第2 期に水門が開通しました。続きを読む...",
       "title_original": "Champions League: Bayern break down Bodø/Glimt, Como put four past Leipzig",
-      "summary_original": "Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig Lens win 3-2 at Slavia Prague with last-gasp double Bayern Munich opened their Champions League campaign with a 5-0 thrashing of Norway’s Bodo/Glimt . The six-times winners were frustrated before half-time by Bodo/Glimt but cruised once Jamal Musiala smashed in the opener two minutes into the second period and the floodgates opened. Continue reading...",
+      "summary_original": "Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig Lens win 3-2 at Slavia Prague with last-gasp double Bayern Munich opened their Champions League campaign with a 5-0 thrashing of Norway’s Bodø/Glimt . The six-times winners were frustrated before half-time by Bodø/Glimt but cruised once Jamal Musiala smashed in the opener two minutes into the second period and the floodgates opened. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig",
       "published": "Thu, 10 Sep 2026 21:57:25 GMT",
@@ -3265,6 +3266,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ホールサイン新契約獲得を問い合わせニューカッスルアフターマンチェスター・ユナイテッド インテルベスト",
+      "summary": "Lewis Hall 長期契約を新規に締結ニューカッスル.",
+      "title_original": "Hall signs new deal at Newcastle after Man Utd interest",
+      "summary_original": "Lewis Hall has signed a new long-term contract at Newcastle United.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13584251/lewis-hall-newcastle-united-left-back-signs-long-term-contract-at-st-james-park",
+      "published": "Fri, 11 Sep 2026 09:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "メルソン:トッテナム, マンチェスター・シティそして、マンチェスター・ユナイテッド今週の週末にゲームを定義している",
       "summary": "最新のスカイスポーツコラムで、ポール・マーソンコメントトッテナム, マンチェスター・シティそして、マンチェスター・ユナイテッド今週末の試合は、シーズン初旬の試合です。",
       "title_original": "Merson: Spurs, Man City and Man Utd have defining games this weekend",
@@ -3321,9 +3336,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "勝負やゴールなし - 心配すべき方法トッテナム PL シーズンが始まりますか?",
+      "title": "勝負やゴールなし - 心配すべき方法トッテナム PL が起動する?",
       "summary": "それは新しいに無事で、ゴールレスなスタートでしたプレミアリーグ四季折々の絶景トッテナム.",
-      "title_original": "No wins and no goals - how concerned should Spurs be to PL season start?",
+      "title_original": "No wins and no goals - how concerned should Spurs be over PL start?",
       "summary_original": "It has been a winless and goalless start to the new Premier League season for big-spending Tottenham.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13583499/how-concerned-should-big-spending-tottenham-be-after-winless-and-goalless-start-to-premier-league-season",
@@ -3461,9 +3476,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "PL Predictions: ハルの run は継続できませんチェルシー獲得を問い合わせ なるほど、",
+      "title": "PL Predictions: ハルの run は継続できませんチェルシー獲得を問い合わせ 獲得を問い合わせ",
       "summary": "私たちのトップのヒント Lewis Jones, 赤坂 Jones Knows 週末に分析とベッティングのインサイトを提供プレミアリーグアクション。",
-      "title_original": "PL Predictions: Hull's run can't continue at Chelsea, can it? Oh, it can",
+      "title_original": "PL Predictions: Hull's run can't continue at Chelsea, can it? It can!",
       "summary_original": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the weekend Premier League action.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13583782/premier-league-predictions-jones-knows-best-bets-hulls-run-cant-continue-at-chelsea-can-it-oh-it-can",
@@ -3524,20 +3539,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13583854/irish-open-rory-mcilroy-four-off-lead-in-tough-conditions-with-shane-lowry-two-off-top",
       "published": "Thu, 10 Sep 2026 07:39:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Erasmus 衝動 South Africa フィナーレでリスクを増大させる New Zealand ボルチモア",
-      "summary": "平らな始まりの後で、South Africa ついにテストシリーズに翼を広げる New Zealand テスト2 と3 で、ヘッドコーチラシー・エラスムス米国土のフィナーレで高く飛んでほしい。",
-      "title_original": "Erasmus urges South Africa to risk more in finale with New Zealand in Baltimore",
-      "summary_original": "After a flat beginning, South Africa finally spread their wings in the Test series against New Zealand in Tests two and three, and head coach Rassie Erasmus wants his side to fly high in the finale on US soil.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13583078/south-africa-vs-new-zealand-rassie-erasmus-urges-springboks-to-risk-more-as-all-blacks-series-finale-looms-in-baltimore",
-      "published": "Tue, 08 Sep 2026 10:26:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
