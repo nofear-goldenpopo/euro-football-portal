@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T22:36:39.386688+00:00",
+  "updated_at": "2026-09-11T22:49:41.385605+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2512,7 +2512,8 @@
     "Philippe Coutinho": "フィリペ・コウチーニョ・コレイア",
     "Adrien Truffert": "",
     "Jonny Lomax": "",
-    "ANOTHER Grand Slam": ""
+    "ANOTHER Grand Slam": "",
+    "Karen Khachanov": "カレン・ハチャノフ"
   },
   "items": [
     {
@@ -2965,9 +2966,9 @@
     },
     {
       "title": "ウェストハム Wrexham を 6 にヒットし、チャンピオンシップのトップへ",
-      "summary": "ウェストハム第4 回リーグ優勝を1 列に固定し、決勝戦のトップに勝利し、6-0 の勝利を Wrexham で勝利ロンドン・スタジアム. それはからサッカーを攻撃する巨大な表示だったヌーノ・エスピーリト・サント’ 側, 余裕と 6 つの異なるスコアラーと部屋で勝利に誓います。.Jarrod Bowen28 分後にボールが転がり、ヨエル・ピロー壊れる前に2 つ、それから Konstantinos Mavropanos, Taty Castellanos, Mohamadou Kantéそして、Manor Solomon すべてのスコア i",
+      "summary": "ウェストハム第4 回リーグ優勝を1 列に固定し、決勝戦のトップに勝利し、6-0 の勝利を Wrexham で勝利ロンドン・スタジアム. それはからサッカーを攻撃する巨大な表示だったヌーノ・エスピーリト・サントの 側, 余裕と 6 つの異なるスコアラーに部屋と勝利に誓います。.Jarrod Bowen28 分後にボールが転がり、ヨエル・ピロー壊れる前に2 つ、それから Konstantinos Mavropanos, Taty Castellanos, Mohamadou Kantéそして、Manor Solomon すべてのスコア",
       "title_original": "West Ham cut loose to hit Wrexham for six and go top of Championship",
-      "summary_original": "West Ham secured their fourth league win in a row as they returned to the top of the Championship with a thumping 6-0 win over Wrexham at the London Stadium. It was a marvellous display of attacking football from Nuno Espírito Santo’s side, who swept to victory with room to spare and with six different scorers. Jarrod Bowen got the ball rolling after 28 minutes, Joël Piroe made it two before the break, then Konstantinos Mavropanos, Taty Castellanos, Mohamadou Kanté and Manor Solomon all scored i",
+      "summary_original": "West Ham secured their fourth league win in a row as they returned to the top of the Championship with a thumping 6-0 win over Wrexham at the London Stadium. It was a marvellous display of attacking football from Nuno Espírito Santo’s side, who swept to victory with room to spare and six different scorers. Jarrod Bowen got the ball rolling after 28 minutes, Joël Piroe made it two before the break, then Konstantinos Mavropanos, Taty Castellanos, Mohamadou Kanté and Manor Solomon all scored in the",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/11/west-ham-wrexham-championship-match-report",
       "published": "Fri, 11 Sep 2026 21:24:21 GMT",
@@ -3356,6 +3357,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "紙:アモリムはスワイプを取りますマンチェスター・ユナイテッドプレイヤー・ターン・罰",
+      "summary": "土曜日の新聞から噂を移籍するトップストーリー...",
+      "title_original": "Papers: Amorim takes swipe at Man Utd players-turned-pundits",
+      "summary_original": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13584647/manchester-united-news-ruben-amorim-takes-a-swipe-at-the-clubs-former-players-now-working-in-the-media-paper-talk",
+      "published": "Fri, 11 Sep 2026 23:16:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Wigan thrash Catalans へ 勝つ League Leaders' Shield",
+      "summary": "Wigan Warriors スラッシュ Catalans Dragons50-12 の上の終わりに Super League テーブルは勝ち、勝ちます League Leaders' Shield. Wigan トップスポットを保証するために最終的なラウンドで必要な勝利。",
+      "title_original": "Wigan thrash Catalans to win League Leaders' Shield",
+      "summary_original": "Wigan Warriors thrashed Catalans Dragons 50-12 to finish top of the Super League table and win the League Leaders' Shield. Wigan needed victory in the final round to guarantee top spot.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584631/wigan-warriors-v-catalans-dragons-super-league-highlights",
+      "published": "Fri, 11 Sep 2026 22:11:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Zverev は 3 番目の連続に達しますグランドスラムまっすぐなセットの半勝利との最終的な",
+      "summary": "ハイライト全米オープンセミファイナル間 Alexander Zverev そして、カレン・ハチャノフ.",
+      "title_original": "Zverev reaches third consecutive Grand Slam final with straight sets semi win",
+      "summary_original": "Highlights of the US Open semi-final between Alexander Zverev and Karen Khachanov.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584669/alexander-zverev-vs-karen-khachanov-us-open-highlights",
+      "published": "Fri, 11 Sep 2026 23:33:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナル最新:アルテタ世界最高のクラブを創る",
       "summary": "",
       "title_original": "Arsenal latest: Arteta striving to 'build the best club in the world'",
@@ -3367,6 +3410,34 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハル FC エッジリーズ18-12 で Headingley",
+      "summary": "ハル FC ビートリーズ Rhinos 18-12 最終ラウンドのヘディングリーで Super League 定番の季節",
+      "title_original": "Hull FC edge Leeds 18-12 at Headingley",
+      "summary_original": "Hull FC beat Leeds Rhinos 18-12 at Headingley in the final round of the Super League regular season",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584643/leeds-rhinos-v-hull-fc-super-league-highlights",
+      "published": "Fri, 11 Sep 2026 22:40:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "St Helens ビートハル KR as Lomax と Percival の弓 スタイルで",
+      "summary": "St Helens ビートハル KR 36-12 の最終試合で Super League 季節限定 Jonny Lomax そして、Mark Percival 聖人のための彼らの遠い外観を作った.",
+      "title_original": "St Helens beat Hull KR as Lomax and Percival bow out in style",
+      "summary_original": "St Helens beat Hull KR 36-12 in their final game of the Super League season as Jonny Lomax and Mark Percival made their farewell appearances for Saints.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584654/st-helens-v-hull-kr-super-league-highlights",
+      "published": "Fri, 11 Sep 2026 23:14:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3563,76 +3634,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'6 ストップレース!' - Russell は、新しいマドリードトラックでタイヤの摩耗上の恐怖を明らかに",
-      "summary": "George Russell 日曜日のタイヤの着用を恐れていたスペイングランプリ初日のマドリングで走った後。",
-      "title_original": "'A six-stop race!' - Russell reveals fears over tyre wear at new Madrid track",
-      "summary_original": "George Russell has revealed fears over tyre wear for Sunday's Spanish Grand Prix after the first day's running at the new Madring.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13584262/spanish-gp-george-russell-reveals-fears-over-tyre-wear-at-new-madring-track-in-madrid-for-sundays-race",
-      "published": "Fri, 11 Sep 2026 18:45:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Antonelli は、Dinblad が挑戦的な Madring で最初の F1 クラッシュに苦しむようにペースを設定します",
-      "summary": "世界選手権リーダーKimi Antonelli フォーミュラ1 の初日に最速だったスペイングランプリマドリングの巨大な挑戦的な性質として「新しいマドリード回路は、英国のルーキーのための大きなクラッシュによって展示されましたアービッド・リンドブラッド.",
-      "title_original": "Antonelli sets pace as Lindblad suffers first F1 crash at challenging Madring",
-      "summary_original": "World championship leader Kimi Antonelli was fastest on Formula 1's first day of running at the Spanish Grand Prix's new Madrid circuit as the hugely challenging nature of the Madring was exhibited by a big crash for British rookie Arvid Lindblad.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13584259/spanish-gp-kimi-antonelli-edges-ferrari-in-madrid-practice-as-arvid-lindblad-suffers-first-f1-crash-at-challenging-madring-circuit",
-      "published": "Fri, 11 Sep 2026 17:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トップフライトで振り返るカウンティ・チャンピオンシップダーラムの安全な昇進として",
-      "summary": "ダーラム クランチング プロモーション へ Division One ロテシーのカウンティ・チャンピオンシップ Chester-le-Street で Middlesex を上回る 93-run 勝ち。",
-      "title_original": "Stokes back in top flight of County Championship as Durham secure promotion",
-      "summary_original": "Durham clinched promotion to Division One of the Rothesay County Championship with a 93-run victory over Middlesex at Chester-le-Street.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13584501/county-championship-ben-stokes-back-in-top-flight-as-durham-promoted-after-victory-over-middlesex",
-      "published": "Fri, 11 Sep 2026 16:37:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハイライト: ローリーは、リーダーボードのトップをサージするように新しいコースレコードを設定",
-      "summary": "2 日目のハイライトアイリッシュ・オープン.",
-      "title_original": "Highlights: Lowry sets new course record as he surges top of the leaderboard",
-      "summary_original": "Highlights from day two of the Amgen Irish Open.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584584/amgen-irish-open-day-two-highlights",
-      "published": "Fri, 11 Sep 2026 20:31:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスターの王様:ユナイテッドとシティクラッシュの時、誰が関係しますか?",
-      "summary": "マンチェスター・シティ「マンチェスターの王様」が誕生しました。",
-      "title_original": "Kings of Manchester: Who will reign when United and City clash?",
-      "summary_original": "Manchester City have been \"the Kings of Manchester\".",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584470/man-utd-vs-man-city-kings-of-manchester-hotly-debated-ahead-of-old-trafford-derby-showdown",
-      "published": "Fri, 11 Sep 2026 17:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
