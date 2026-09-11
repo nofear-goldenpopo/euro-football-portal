@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T22:24:12.706131+00:00",
+  "updated_at": "2026-09-11T22:36:39.386688+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2511,7 +2511,8 @@
     "Manor Solomon": "",
     "Philippe Coutinho": "フィリペ・コウチーニョ・コレイア",
     "Adrien Truffert": "",
-    "Jonny Lomax": ""
+    "Jonny Lomax": "",
+    "ANOTHER Grand Slam": ""
   },
   "items": [
     {
@@ -3467,9 +3468,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE!トップシード Zverev を3 分の成功までグランドスラムファイナル",
+      "title": "US Open: トップシード Zverev が ANOTHER に到達グランドスラムファイナル",
       "summary": "",
-      "title_original": "US Open LIVE! Top seed Zverev through to third successive Grand Slam final",
+      "title_original": "US Open: Top seed Zverev reaches ANOTHER Grand Slam final",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13584187/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-ben-shelton-and-frances-tiafoe-all-in-action",
@@ -3488,6 +3489,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13584630/wigan-warriors-lift-sixth-league-leaders-shield-in-rugby-super-league",
       "published": "Fri, 11 Sep 2026 22:10:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アーサーは、再生オフラグビーの先の Rhinos から「erratic、貧しい」パフォーマンスを爆破",
+      "summary": "リーズ Rhinos は大半を費やしました Super League 季節は高く飛んでいます。彼らはトップスポットでそれの大部分を費やしました。パンクタイムに見出し、彼らは2 つの sobering 敗北の後ろに第二を終えました。",
+      "title_original": "Arthur blasts 'erratic, poor' performance from Rhinos ahead of play-off rugby",
+      "summary_original": "Leeds Rhinos have spent the majority of the Super League season flying high. They have spent the majority of it in top spot. Heading into crunch time, they finished second on the back of two sobering defeats.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13584502/leeds-rhinos-head-coach-brad-arthur-blasts-erratic-poor-performance-as-side-fall-to-defeat-ahead-of-play-offs",
+      "published": "Fri, 11 Sep 2026 16:13:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3618,20 +3633,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Caballo De Mar フォームにバックバウンスドンカスターカップ",
-      "summary": "Caballo De Mar 失望の努力からバウンスバック Royal AscotBetfred Howards Wright を獲得するヨークドンカスターカップ.",
-      "title_original": "Caballo De Mar bounces back to form in Doncaster Cup",
-      "summary_original": "Caballo De Mar bounced back from disappointing efforts at Royal Ascot and York to win the Betfred Howards Wright Doncaster Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13584439/doncaster-cup-george-scotts-caballo-de-mar-bounces-back-to-form-in-town-moor-group-2",
-      "published": "Fri, 11 Sep 2026 14:19:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
