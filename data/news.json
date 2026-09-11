@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T17:37:10.723172+00:00",
+  "updated_at": "2026-09-11T17:49:59.842613+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2484,7 +2484,10 @@
     "Division One": "",
     "Backing Pierre Bonnard": "",
     "VAR Review": "",
-    "Venue Villa Park Continue": ""
+    "Venue Villa Park Continue": "",
+    "Super League's Frantic Friday": "",
+    "Late Ciganda": "",
+    "Team Europe’s": ""
   },
   "items": [
     {
@@ -3328,6 +3331,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Super League's Frantic Friday ライブ! スカイで5 つのゲーム League Leaders' Shield ライン",
+      "summary": "",
+      "title_original": "Super League's Frantic Friday LIVE! Five games on Sky with League Leaders' Shield on line",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13582812/super-leagues-frantic-friday-live-updates-commentary-videos-scores-as-wigan-warriors-and-leeds-rhinos-go-for-league-leaders-shield",
+      "published": "Fri, 11 Sep 2026 18:45:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Antonelli は、Dinblad が挑戦的な Madring で最初の F1 クラッシュに苦しむようにペースを設定します",
       "summary": "世界選手権リーダーKimi Antonelli フォーミュラ1 の初日に最速だったスペイングランプリマドリングの巨大な挑戦的な性質として「新しいマドリード回路は、英国のルーキーのための大きなクラッシュによって展示されましたアービッド・リンドブラッド.",
       "title_original": "Antonelli sets pace as Lindblad suffers first F1 crash at challenging Madring",
@@ -3447,6 +3464,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
       "published": "Fri, 11 Sep 2026 15:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Late Ciganda 魔法は米国とロックされたヨーロッパを米国で保ちます Solheim Cup",
+      "summary": "Carlota Ciganda 最終的な穴の魔法をのための渡しました Team Europe それらを残すために tied 4-4 と Team USA 劇的な開幕の日を過ぎて Solheim Cup, チャレーハルそして、Lottie Woad 大きい鉛のスリップをとして聞かせて下さい Team Europe’s 星のペア。",
+      "title_original": "Late Ciganda magic keeps Europe locked with USA at Solheim Cup",
+      "summary_original": "Carlota Ciganda delivered final-hole magic for Team Europe to leave them tied 4-4 with Team USA after a dramatic opening day at the Solheim Cup, where Charley Hull and Lottie Woad let a big lead slip as Team Europe’s star pair.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13584202/solheim-cup-2026-team-europe-and-team-usa-tied-4-4-after-tight-opening-day-and-carlota-cigandas-dramatic-finish",
+      "published": "Fri, 11 Sep 2026 18:15:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3576,34 +3607,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・シティ'ミッドフィールドオプションは、すべての後に Rodri が置換可能であることを証明します",
-      "summary": "By Enzo Maresca's 入学式マンチェスター・シティ\"complicated\" 2-0 勝つポルト獲得を問い合わせチャンピオンズリーグ獲得を問い合わせ Tuesday. The 性能のパッチ性は導かれたを導きましたアラン・シアラーマーエスカの側面「弱い」を呼び出します Prime Video's 獲得を問い合わせ",
-      "title_original": "Man City's midfield options prove Rodri is replaceable after all",
-      "summary_original": "By Enzo Maresca's own admission, Manchester City \"complicated\" their 2-0 win over Porto in the Champions League on Tuesday. The patchiness of their performance led Alan Shearer to call Maresca's side \"weak\" on Prime Video's co-commentary.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584237/man-utd-vs-man-city-ayyoub-bouaddi-elliot-anderson-and-enzo-fernandez-are-the-perfect-answer-to-rodris-summer-exit",
-      "published": "Fri, 11 Sep 2026 15:00:00 BST",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "VAR Review: セルティック目標は、Ibrox のハンドボール、ハイブスペナルティ中 & より多くの分析",
-      "summary": "",
-      "title_original": "VAR Review: Celtic goal amid handball, Hibs penalty at Ibrox & more analysed",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13429187/scottish-football-var-review-scottish-premiership-league-cup-scottish-cup-decisions-analysed",
-      "published": "Fri, 11 Sep 2026 18:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
