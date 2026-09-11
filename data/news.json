@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T04:52:24.910268+00:00",
+  "updated_at": "2026-09-11T05:06:10.119487+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2408,7 +2408,8 @@
     "Matheus Cunha’s": "",
     "Kaheem Parris": "",
     "João Pedro": "ジョアン・ペドロ",
-    "Britain's Skupski": ""
+    "Britain's Skupski": "",
+    "Caballo De Mar": ""
   },
   "items": [
     {
@@ -3252,10 +3253,24 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Caballo De Mar クイーンズタウンに面ドンカスターカップ",
+      "summary": "Caballo De Mar クイーンズタウンでホーンを締めるドンカスターカップ- ライブ Sky Sports Racing.",
+      "title_original": "Caballo De Mar faces Queenstown in Doncaster Cup",
+      "summary_original": "Caballo De Mar locks horns with Queenstown in the Doncaster Cup - live on Sky Sports Racing.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13583527/today-on-sky-sports-racing-caballo-de-mar-faces-queenstown-in-doncaster-cup",
+      "published": "Fri, 11 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Rybakina denies Gauff へ セットアップ blockbusterUS Open サバレンカと最終",
-      "summary": "エレーナ・リバキナサイレンス Coco Gauff そして、New York ブロックブスターを設定するクラウド US Open 最終的な反対 Aryna Sabalenka 敗北した人 Jessica Pegula3 番目のストレートタイトルから勝利を離れるフラッシング・メドウズ・コロナ・パーク.",
+      "summary": "アメリカの心は、エレーナ・リバキナサイレンス Coco Gauff そして、New York ブロックブスターを設定するクラウド US Open 最終的な反対 Aryna Sabalenka 敗北した人 Jessica Pegula3 番目のストレートタイトルから勝利を離れるフラッシング・メドウズ・コロナ・パーク.",
       "title_original": "Rybakina denies Gauff to set up blockbuster US Open final with Sabalenka",
-      "summary_original": "Elena Rybakina silenced Coco Gauff and the New York crowd to set up a blockbuster US Open final against Aryna Sabalenka who defeated Jessica Pegula to move a win away from her third straight title at Flushing Meadows.",
+      "summary_original": "American hearts were broken as Elena Rybakina silenced Coco Gauff and the New York crowd to set up a blockbuster US Open final against Aryna Sabalenka, who defeated Jessica Pegula to move a win away from her third straight title at Flushing Meadows.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13584185/us-open-elena-rybakina-defeats-coco-gauff-to-silence-new-york-crowd-and-set-up-blockbuster-final-with-aryna-sabalenka",
       "published": "Fri, 11 Sep 2026 04:25:00 BST",
@@ -3514,20 +3529,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド4-0 サバの解説と反応",
-      "summary": "",
-      "title_original": "Man Utd 4-0 Sabah commentary and reaction",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-united-vs-sabah/live/577612",
-      "published": "Mon, 07 Sep 2026 16:02:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
