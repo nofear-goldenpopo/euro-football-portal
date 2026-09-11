@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T22:06:14.666239+00:00",
+  "updated_at": "2026-09-11T22:24:12.706131+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2508,7 +2508,10 @@
     "Konstantinos Mavropanos": "",
     "Taty Castellanos": "",
     "Mohamadou Kanté": "",
-    "Manor Solomon": ""
+    "Manor Solomon": "",
+    "Philippe Coutinho": "フィリペ・コウチーニョ・コレイア",
+    "Adrien Truffert": "",
+    "Jonny Lomax": ""
   },
   "items": [
     {
@@ -2652,6 +2655,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Richarlison はまだ残ることができますトッテナム - 土曜日の移籍ゴシップ",
+      "summary": "インテル Richarlison で一番、フィリペ・コウチーニョ・コレイアサントスの移籍に同意し、マンチェスター・ユナイテッドモニタリング Adrien Truffert.",
+      "title_original": "Richarlison could still leave Spurs - Saturday's gossip",
+      "summary_original": "Interest in Richarlison, Philippe Coutinho agrees Santos deal and Manchester United monitoring Adrien Truffert.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn0jrn8n7pjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 22:18:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ディクテーターメメムは人間の意識の欠如を示しています -エムバペ",
       "summary": "キリアン・エムバペ「政治と人間の意識の欠如」と述べ、ディクターの体に彼の顔を上回るウイルスのメムを批判する。",
       "title_original": "Dictator meme shows lack of human awareness - Mbappe",
@@ -2718,20 +2735,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "カルタルはまだフェネルバフチェ再獲得にもかかわらず、上司",
-      "summary": "Ismail Kartal ヘッドコーチとして残っているフェネルバフチェ木曜日の辞退にもかかわらずチャンピオンズリーグゲームとローマ.",
-      "title_original": "Kartal still Fenerbahce boss despite resigning",
-      "summary_original": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game with Roma.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 19:51:32 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2890,6 +2893,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "カルタルはまだフェネルバフチェ再獲得にもかかわらず、上司",
+      "summary": "Ismail Kartal ヘッドコーチとして残っているフェネルバフチェ木曜日の辞退にもかかわらずチャンピオンズリーグゲームとローマ.",
+      "title_original": "Kartal still Fenerbahce boss despite resigning",
+      "summary_original": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game with Roma.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 19:51:32 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Gray has no issue with flak as Hibs、semi-final を獲得候補に",
       "summary": "デヴィッド・グレイハイベリニアンが彼の最初の準決勝に自分の視点を設定したので、シーズンに失望した後、彼は不満の批判に占有されていないと主張しています。",
       "title_original": "Gray has no issue with flak as Hibs eye semi-final",
@@ -2914,20 +2931,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リーズ欲しい ボス Farke に 'long-term'",
-      "summary": "リーズ・ユナイテッド FC ディレクターRobbie Evans クラブと上司は言うダニエル・ファルケ新規契約を承諾してみると「同じページ」になります。",
-      "title_original": "Leeds want boss Farke to stay 'long-term'",
-      "summary_original": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on the same page\" as they look to agree a new contract.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd08728rz0xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 06:00:35 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3352,6 +3355,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アーセナル最新:アルテタ世界最高のクラブを創る",
+      "summary": "",
+      "title_original": "Arsenal latest: Arteta striving to 'build the best club in the world'",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Fri, 11 Sep 2026 22:42:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「低い維持、高性能」: Peet hails retiring Wigan 素晴らしい Farrell",
+      "summary": "",
+      "title_original": "'Low maintenance, high performance': Peet hails retiring Wigan great Farrell",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13582812/super-leagues-frantic-friday-live-updates-commentary-videos-scores-as-wigan-warriors-and-leeds-rhinos-go-for-league-leaders-shield",
+      "published": "Fri, 11 Sep 2026 23:10:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ウェストハムレースレックスハムは、チャンピオンシップのトップに行く",
       "summary": "ウェストハム Wrexham の6-0 の勝利で簡単な作業をロンドン・スタジアム行に4 つを作り、チャンピオンシップのトップへ。",
       "title_original": "West Ham thrash Wrexham to go top of the Championship",
@@ -3436,13 +3467,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Super League's Frantic Friday ライブ! ウィガン・ドミネートとしての反応 League Leaders' Shield レース",
+      "title": "US Open LIVE!トップシード Zverev を3 分の成功までグランドスラムファイナル",
       "summary": "",
-      "title_original": "Super League's Frantic Friday LIVE! Reaction as Wigan dominate League Leaders' Shield race",
+      "title_original": "US Open LIVE! Top seed Zverev through to third successive Grand Slam final",
       "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13582812/super-leagues-frantic-friday-live-updates-commentary-videos-scores-as-wigan-warriors-and-leeds-rhinos-go-for-league-leaders-shield",
-      "published": "Fri, 11 Sep 2026 18:45:00 BST",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13584187/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-ben-shelton-and-frances-tiafoe-all-in-action",
+      "published": "Fri, 11 Sep 2026 18:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3450,13 +3481,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE!トップシード Zverev は、最終のスポットから離れて設定",
-      "summary": "",
-      "title_original": "US Open LIVE! Top seed Zverev one set away from spot in final",
-      "summary_original": "",
+      "title": "Wigan Warriors リフト SIXTH League Leaders' Shield",
+      "summary": "Wigan Warriors 第6 回優勝 League Leaders' Shield トロフィーを一度アジャイアン持ち上げて.",
+      "title_original": "Wigan Warriors lift SIXTH League Leaders' Shield",
+      "summary_original": "Wigan Warriors win their sixth League Leaders' Shield and lift the trophy once agian.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13584187/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-ben-shelton-and-frances-tiafoe-all-in-action",
-      "published": "Fri, 11 Sep 2026 18:30:00 BST",
+      "url": "https://www.skysports.com/watch/video/13584630/wigan-warriors-lift-sixth-league-leaders-shield-in-rugby-super-league",
+      "published": "Fri, 11 Sep 2026 22:10:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "退会後、プレイヤーが表彰するカーニバルとロマックス",
+      "summary": "Jonny Lomax そして、Mark Percival 最後の名誉のガードに導かれました Rugby Super League ログイン",
+      "title_original": "Percival and Lomax honoured by players after announcing retirement",
+      "summary_original": "Jonny Lomax and Mark Percival were led out to a guard of honour in their final Rugby Super League match",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584595/st-helens-vs-hull-kr-jonny-lomax-scores-first-try-of-the-season-after-being-led-out-to-guard-of-honour-with-mark-percival",
+      "published": "Fri, 11 Sep 2026 21:02:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3583,48 +3628,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13584439/doncaster-cup-george-scotts-caballo-de-mar-bounces-back-to-form-in-town-moor-group-2",
       "published": "Fri, 11 Sep 2026 14:19:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Hollie Doyle ブログ:Backing Pierre BonnardO'Brien のための10 番目のレガーを袋に入れる",
-      "summary": "Sky Sports Racing アンバサダーHollie Doyle カードを250 分のマークセントレジャーステークス土曜日に Doncaster で星のアンダーカード - ライブオン Sky Sports Racing– レオパードスタウンを見渡す",
-      "title_original": "Hollie Doyle blog: Backing Pierre Bonnard to bag 10th Leger for O'Brien",
-      "summary_original": "Sky Sports Racing ambassador Hollie Doyle marks your card for the 250th St Leger and a stellar undercard at Doncaster on Saturday - live on Sky Sports Racing – and has a look at Leopardstown.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13584477/hollie-doyle-blog-backing-pierre-bonnard-to-bag-10th-leger-for-aidan-obrien-at-doncaster",
-      "published": "Fri, 11 Sep 2026 15:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "シガンダは4-4 で結ばれる日の終わりとしてヨーロッパの赤面を保存します",
-      "summary": "金曜日の4 ボールのハイライト Solheim Cup 獲得を問い合わせ Bernardus Golf, でオランダ.",
-      "title_original": "Ciganda saves Europe blushes as day ends tied at 4-4",
-      "summary_original": "Highlights of the Friday fourballs from the Solheim Cup at Bernardus Golf, in the Netherlands.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584550/solheim-cup-8211-friday-fourballs-highlights",
-      "published": "Fri, 11 Sep 2026 18:52:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「地球はどうしたの?」Ciganda SOMEHOW タイの最終的な穴",
-      "summary": "Carlota Ciganda2 つの方法のショットから何らかの方法で回復し、ヨーロッパの最終的な穴を結びます Solheim Cup Friday4 ボール。",
-      "title_original": "‘How on Earth did you do that!?’ Ciganda SOMEHOW ties final hole",
-      "summary_original": "Carlota Ciganda recovered from two wayward shots to somehow tie the final hole for Europe in the Solheim Cup Friday fourballs.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584547/solheim-cup-carlota-ciganda-somehow-ties-final-hole",
-      "published": "Fri, 11 Sep 2026 18:40:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
