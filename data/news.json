@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T09:25:54.210108+00:00",
+  "updated_at": "2026-09-11T09:38:56.856822+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2437,7 +2437,10 @@
     "Mail Tom The French": "",
     "The US": "アメリカ合衆国",
     "Tottenham Hotspur. The": "",
-    "Linn Grant": ""
+    "Linn Grant": "",
+    "Mail Tom In": "",
+    "The Verdict": "評決",
+    "Danyal Khan": ""
   },
   "items": [
     {
@@ -2862,15 +2865,15 @@
     },
     {
       "title": "Lewis Hall 長期的な合意ニューカッスル移籍,チェルシーサッカーニュース - ライブ",
-      "summary": "大会レポート 週末のサッカーアクションの前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail Tom The French Football Federation’s 代表取締役社長 Philippe Diallo, 言った Gianni Infantino フィファ大統領の選挙に対するフランスの支持の最後に発表したので、「イメージとサッカーの団結を真剣に傷つけました。続きを読む...",
+      "summary": "大会レポート 週末のサッカーアクションの前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail Tom In 完全に通常のトルコのサッカーのニュース...フェネルバフチェヘッドコーチ,Ismail Kartal 入社後、木曜の辞典を自宅に1−1 を退社ローマ獲得を問い合わせチャンピオンズリーグ- しかし、分は、クラブの大統領はカルタルが仕事に滞在すると述べた。カルタルは、彼が渇望していたと主張することによって、ポストマッチプレス会議を衝撃しましたフェネルバフチェ「戻りたい」 65 歳〜",
       "title_original": "Lewis Hall agrees long-term Newcastle deal, Chelsea buy-out close: football news – live",
-      "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail Tom The French Football Federation’s president, Philippe Diallo, said Gianni Infantino had “seriously damaged the image and the unity of football” as he announced the end of France’s support for the Fifa president’s re-election. Continue reading...",
+      "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail Tom In totally normal Turkish football news… the Fenerbahce head coach, Ismail Kartal, announced his resignation on Thursday after ⁠his team drew 1-1 at home to Roma in the Champions League – but minutes ⁠later, the club ⁠president ​said Kartal would stay in the job. Kartal shocked the post-match press conference by claiming he was ⁠leaving Fenerbahce “never to return”. The 65-year-old a",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 09:02:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "published": "Fri, 11 Sep 2026 09:27:10 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3407,6 +3410,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ユナイテッドの4-0 からサバに学んだ3 つのこと |評決",
+      "summary": "Danyal Khan 私たちに彼の評決を与えるマンチェスター・ユナイテッドの 4-0 勝つ オーバー サバー に のチャンピオンズリーグ.",
+      "title_original": "Three things we learnt from United's 4-0 over Sabah | The Verdict",
+      "summary_original": "Danyal Khan gives us his verdict on Manchester United's 4-0 victory over Sabah in the Champions League.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584307/three-things-we-learnt-from-uniteds-4-0-over-sabah",
+      "published": "Fri, 11 Sep 2026 10:18:00 BST",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ペーパー: Zubimendi は去るために押しますアーセナル",
       "summary": "金曜日の新聞から噂を移籍するトップストーリー...",
       "title_original": "Papers: Zubimendi may push to leave Arsenal",
@@ -3544,20 +3561,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "PL Predictions: ハルの run は継続できませんチェルシー獲得を問い合わせ 獲得を問い合わせ",
-      "summary": "私たちのトップのヒント Lewis Jones, 赤坂 Jones Knows 週末に分析とベッティングのインサイトを提供プレミアリーグアクション。",
-      "title_original": "PL Predictions: Hull's run can't continue at Chelsea, can it? It can!",
-      "summary_original": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the weekend Premier League action.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583782/premier-league-predictions-jones-knows-best-bets-hulls-run-cant-continue-at-chelsea-can-it-oh-it-can",
-      "published": "Thu, 10 Sep 2026 18:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
