@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T21:34:53.098137+00:00",
+  "updated_at": "2026-09-11T21:49:19.076106+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2501,7 +2501,14 @@
     "Like Benzema": "",
     "Karim Benzema": "カリム・ベンゼマ",
     "Manchester City's Erling Haaland": "",
-    "Benzema-like Joao Pedro": ""
+    "Benzema-like Joao Pedro": "",
+    "London Stadium. It": "",
+    "Nuno Espírito Santo’s": "",
+    "Joël Piroe": "ヨエル・ピロー",
+    "Konstantinos Mavropanos": "",
+    "Taty Castellanos": "",
+    "Mohamadou Kanté": "",
+    "Manor Solomon": ""
   },
   "items": [
     {
@@ -2603,13 +2610,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Bergvall サイン新契約- しかし、Richarlison のニュースはありません",
-      "summary": "Lucas Bergvall 新規契約締結トッテナム退去したいクラブに伝えた後、リハーリソンの未来にアップデートはありません。",
-      "title_original": "Bergvall signs new deal - but no news on Richarlison",
-      "summary_original": "Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to leave, but there is no update on Richarlison's future",
+      "title": "Bergvall サイン 新しいトッテナム不確実な未来の後の契約",
+      "summary": "Lucas Bergvall 新規契約締結トッテナム夏に放置したいクラブを伝えた後。",
+      "title_original": "Bergvall signs new Spurs deal after uncertain future",
+      "summary_original": "Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to leave in the summer.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c99dg2gzdl4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 15:40:50 GMT",
+      "published": "Fri, 11 Sep 2026 21:40:56 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2627,6 +2634,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ホールサイン新規契約ニューカッスルまで 2031",
+      "summary": "ニューカッスルディフェンダーLewis Hall2031 年まで走るクラブで新しい契約を締結。",
+      "title_original": "Hall signs new contract with Newcastle until 2031",
+      "summary_original": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 08:00:07 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2656,20 +2677,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ホールサイン新規契約ニューカッスルまで 2031",
-      "summary": "ニューカッスルディフェンダーLewis Hall2031 年まで走るクラブで新しい契約を締結。",
-      "title_original": "Hall signs new contract with Newcastle until 2031",
-      "summary_original": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 08:00:07 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2711,6 +2718,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "カルタルはまだフェネルバフチェ再獲得にもかかわらず、上司",
+      "summary": "Ismail Kartal ヘッドコーチとして残っているフェネルバフチェ木曜日の辞退にもかかわらずチャンピオンズリーグゲームとローマ.",
+      "title_original": "Kartal still Fenerbahce boss despite resigning",
+      "summary_original": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game with Roma.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 19:51:32 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2869,20 +2890,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "カルタルはまだフェネルバフチェ再獲得にもかかわらず、上司",
-      "summary": "Ismail Kartal ヘッドコーチとして残っているフェネルバフチェ木曜日の辞退にもかかわらずチャンピオンズリーグゲームとローマ.",
-      "title_original": "Kartal still Fenerbahce boss despite resigning",
-      "summary_original": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game with Roma.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 19:51:32 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Gray has no issue with flak as Hibs、semi-final を獲得候補に",
       "summary": "デヴィッド・グレイハイベリニアンが彼の最初の準決勝に自分の視点を設定したので、シーズンに失望した後、彼は不満の批判に占有されていないと主張しています。",
       "title_original": "Gray has no issue with flak as Hibs eye semi-final",
@@ -2953,6 +2960,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウェストハム Wrexham を 6 にヒットし、チャンピオンシップのトップへ",
+      "summary": "ウェストハム第4 回リーグ優勝を1 列に固定し、決勝戦のトップに勝利し、6-0 の勝利を Wrexham で勝利ロンドン・スタジアム. それはからサッカーを攻撃する巨大な表示だったヌーノ・エスピーリト・サント’ 側, 余裕と 6 つの異なるスコアラーと部屋で勝利に誓います。.Jarrod Bowen28 分後にボールが転がり、ヨエル・ピロー壊れる前に2 つ、それから Konstantinos Mavropanos, Taty Castellanos, Mohamadou Kantéそして、Manor Solomon すべてのスコア i",
+      "title_original": "West Ham cut loose to hit Wrexham for six and go top of Championship",
+      "summary_original": "West Ham secured their fourth league win in a row as they returned to the top of the Championship with a thumping 6-0 win over Wrexham at the London Stadium. It was a marvellous display of attacking football from Nuno Espírito Santo’s side, who swept to victory with room to spare and with six different scorers. Jarrod Bowen got the ball rolling after 28 minutes, Joël Piroe made it two before the break, then Konstantinos Mavropanos, Taty Castellanos, Mohamadou Kanté and Manor Solomon all scored i",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/11/west-ham-wrexham-championship-match-report",
+      "published": "Fri, 11 Sep 2026 21:24:21 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "プレミアリーグニュース: ウィラオラは、ウィルツの仕事の倫理を値します。モーイズは「シニア市民」の祝祭を支持します",
+      "summary": "リヴァプールマネージャーは、数字ではなく、彼の影響によって判断されるべきであるミッドフィルダーを主張します 続きを読みます...",
+      "title_original": "Premier League news: Iraola values Wirtz’s work ethic; Moyes backs ‘senior citizen’ Grealish",
+      "summary_original": "Liverpool manager insists midfielder should be judged by his influence rather than numbers Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/11/premier-league-news-iraola-values-wirtzs-work-ethic-moyes-backs-senior-citizen-grealish",
+      "published": "Fri, 11 Sep 2026 21:30:15 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "キアナン・デューズバリー＝ホール: 「私はすべてのメルトダウンを見て、それは私を迷惑にしました」",
       "summary": "後、ネガティブを上回るミッドフィルダーエヴァートン’ s の闘争移籍市場, ドレッシングルームのリーダーになり、可能なイングランドのコールアップ移籍期限の日は「みんなの励まし」かもしれません, としてキアナン・デューズバリー＝ホールそれを置くが、その移籍期限日の彼の経験は、エヴァートンすべての感情の同じ群れを通して彼を憎むエヴァートンログイン 窓の終端がミッドフィルダーの抜粋を去る前に、励起が改善されましたが、完全に拡散するために",
       "title_original": "Kiernan Dewsbury-Hall: ‘I’ve seen all of the meltdowns and it annoyed me’",
@@ -3005,34 +3040,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "プレミアリーグチームニュース:週末のアクションの予想されるラインナップ",
-      "summary": "マンチェスター・シティ旅行へマンチェスター・ユナイテッド日曜日の日曜日の日曜日に興味深いダービーのためサンダーランドホストアーセナル土曜日午後3 時ヴィラ・パーク続きを読む...",
-      "title_original": "Premier League team news: predicted lineups for the weekend action",
-      "summary_original": "Manchester City travel to Manchester United for an intriguing derby on Sunday after Sunderland host Arsenal Saturday 3pm Venue Villa Park Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/11/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-      "published": "Fri, 11 Sep 2026 17:16:43 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フェネルバフチェドロー後のコーチ辞任ローマ– しかし、大統領は彼が滞在すると主張します",
-      "summary": "Ismail Kartal 報告者に「戻りにくれない」クラブ・プレジデントを残します:「私は彼のシニアです、私は彼を続けて言った」 ザ・オブ・ザ・フェネルバフチェヘッドコーチ,Ismail Kartal 入社後、木曜の辞典を自宅に1−1 を退社ローマ獲得を問い合わせチャンピオンズリーグ- しかし、分は、クラブの大統領はカルタルが仕事に滞在すると述べた。カルタルは、彼が渇望していたと主張することによって、ポストマッチプレス会議を衝撃しましたフェネルバフチェ「戻りたい」 65 歳が入るのに、彼は劇的をとっていた",
-      "title_original": "Fenerbahce coach resigns after draw with Roma – but president insists he will stay",
-      "summary_original": "Ismail Kartal tells reporters he will leave ‘never to return’ Club president: ‘I am his senior, I told him to continue’ The Fenerbahce head coach, Ismail Kartal, announced his resignation on Thursday after ⁠his team drew 1-1 at home to Roma in the Champions League – but minutes ⁠later, the club ⁠president ​said Kartal would stay in the job. Kartal shocked the post-match press conference by claiming he was ⁠leaving Fenerbahce “never to return”. The 65-year-old added that he was taking the drastic",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/fenerbahce-coach-resigns-ismail-kartal-roma-champions-league",
-      "published": "Thu, 10 Sep 2026 22:20:11 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3149,6 +3156,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "プレミアリーグチームニュース:週末のアクションの予想されるラインナップ",
+      "summary": "マンチェスター・シティ旅行へマンチェスター・ユナイテッド日曜日の日曜日の日曜日に興味深いダービーのためサンダーランドホストアーセナル土曜日午後3 時ヴィラ・パーク続きを読む...",
+      "title_original": "Premier League team news: predicted lineups for the weekend action",
+      "summary_original": "Manchester City travel to Manchester United for an intriguing derby on Sunday after Sunderland host Arsenal Saturday 3pm Venue Villa Park Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/11/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+      "published": "Fri, 11 Sep 2026 17:16:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フェネルバフチェドロー後のコーチ辞任ローマ– しかし、大統領は彼が滞在すると主張します",
+      "summary": "Ismail Kartal 報告者に「戻りにくれない」クラブ・プレジデントを残します:「私は彼のシニアです、私は彼を続けて言った」 ザ・オブ・ザ・フェネルバフチェヘッドコーチ,Ismail Kartal 入社後、木曜の辞典を自宅に1−1 を退社ローマ獲得を問い合わせチャンピオンズリーグ- しかし、分は、クラブの大統領はカルタルが仕事に滞在すると述べた。カルタルは、彼が渇望していたと主張することによって、ポストマッチプレス会議を衝撃しましたフェネルバフチェ「戻りたい」 65 歳が入るのに、彼は劇的をとっていた",
+      "title_original": "Fenerbahce coach resigns after draw with Roma – but president insists he will stay",
+      "summary_original": "Ismail Kartal tells reporters he will leave ‘never to return’ Club president: ‘I am his senior, I told him to continue’ The Fenerbahce head coach, Ismail Kartal, announced his resignation on Thursday after ⁠his team drew 1-1 at home to Roma in the Champions League – but minutes ⁠later, the club ⁠president ​said Kartal would stay in the job. Kartal shocked the post-match press conference by claiming he was ⁠leaving Fenerbahce “never to return”. The 65-year-old added that he was taking the drastic",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/fenerbahce-coach-resigns-ismail-kartal-roma-champions-league",
+      "published": "Thu, 10 Sep 2026 22:20:11 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Sesko soars としてマンチェスター・ユナイテッドサージ 過去 サバー にチャンピオンズリーグフィードバック",
       "summary": "夜だったローマサバが彼らに連れて行った驚くべき物語を与えられたのでオールド・トラッフォード獲得を問い合わせチャンピオンズリーグデビュー。10 年前にも存在しなかったクラブで、Azerbaijan のタイトルにボルトを誰も見ていないのは、最後のシーズンです。2024-25 で、彼らは41 ポイントを上から終わっていた。マネージャーの仕事,Valdas Dambrauskas 昨年の夏を過ぎてからやってきたのは無事です。寒く、硬い現実の夜もありました。マンチェスター・ユナイテッドは、",
       "title_original": "Sesko soars as Manchester United surge past Sabah on Champions League return",
@@ -3187,20 +3222,6 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシー’s 2016-17 のニュースプレミアリーグタイトルは、トッテナム、Pochettino と言う",
-      "summary": "元マネージャー 言うチェルシータイトルを省略する必要があります。“タイトルは、第2 だったチームのためにする必要があります。”Mauricio Pochettino コメントチェルシー自分の2016-17 を除去する必要がありますプレミアリーグ金融規則違反のタイトルと名誉の遡及的に授与されるトッテナム彼がその季節に第二の場所につながった人。チェルシーによって罰金が科された£10mFootball Association7 月との間のルールの複数の違反のための中断された 2 ウィンドウの移籍禁止を与えられたローマ n Abramovich 時代。彼ら w",
-      "title_original": "Chelsea’s 2016-17 Premier League title should be given to Spurs, says Pochettino",
-      "summary_original": "Former manager says Chelsea should be stripped of title ‘The title should be for the team that was second’ Mauricio Pochettino says Chelsea should be stripped of their 2016-17 Premier League title for financial rule breaches and the honour retrospectively awarded to Tottenham, who he led to second place that season. Chelsea were fined £10m by the Football Association in July and given a suspended two-window transfer ban for multiple violations of the rules during the Roman Abramovich era. They w",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/chelsea-2016-17-premier-league-title-tottenham-mauricio-pochettino",
-      "published": "Thu, 10 Sep 2026 06:00:18 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3331,20 +3352,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「夢が叶う」:舞台裏で Wolves Women 新しい時代に入る",
-      "summary": "ガーディアンは、完全に専門的側面として、最初のシーズンの始まりに Wolves に加わりました。彼らはプッシュオーバーのないショーに決定しました。突然、バストリング教室の後ろに Guru Nanak Satsang Sikh グルドワはほぼサイレントに落ち、すべての目がオンです Dan McNamara. The Wolves ヘッドコーチ、レスリングレッスンを経験し、緊張したタクソールに従事しています。相手の頂上、部屋の噴火で、ツイスト、パッティング、ヘービング、最終的には終わる。McNamara の課題をいくつか比較",
-      "title_original": "‘A dream come true’: behind the scenes with Wolves Women as they enter new era",
-      "summary_original": "The Guardian joined Wolves at the start of their first season as a fully professional side, determined to show they’re no pushovers Suddenly the bustling classroom at the back of the Guru Nanak Satsang Sikh Gurdwara falls almost silent and all eyes are on Dan McNamara. The Wolves head coach, experiencing a wrestling lesson, is engaged in a tense tussle. He twists, panting and heaving, eventually ends up on top of his opponent, and the room erupts. Compared with some of the challenges McNamara an",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/wolves-women-professional-footballers-wsl2-super-league-two",
-      "published": "Wed, 09 Sep 2026 11:00:06 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ウェストハムレースレックスハムは、チャンピオンシップのトップに行く",
       "summary": "ウェストハム Wrexham の6-0 の勝利で簡単な作業をロンドン・スタジアム行に4 つを作り、チャンピオンシップのトップへ。",
       "title_original": "West Ham thrash Wrexham to go top of the Championship",
@@ -3471,6 +3478,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウェイクフィールドのビートリーグは、Warrington フィニッシュ3 分の再生オフのマッチを設定",
+      "summary": "Wakefield Trinity ホームプレイオフのリマッチを獲得 Leigh Leopards 決勝戦で19-8 勝を勝ち取った後 Super League 季節限定",
+      "title_original": "Wakefield beat Leigh to set up play-offs rematch as Warrington finish third",
+      "summary_original": "Wakefield Trinity earned a home play-offs rematch with Leigh Leopards after a 19-8 victory over them in the final round of the Super League season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13584499/super-league-wakefield-trinity-beat-leigh-leopards-to-earn-play-offs-rematch-as-warrington-wolves-set-up-hull-kr-clash",
+      "published": "Fri, 11 Sep 2026 22:42:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Super League プレーオフ:ウィガン、リーズ, ウェイクフィールド, リーク, ワーリントン,ハル KR は戦いをします",
+      "summary": "通常の最終ラウンド Super League 季節が終わると、6 つまでの競争を抑え、セミファイナルで誰と戦うかを正確に知っています。",
+      "title_original": "Super League play-offs: Wigan, Leeds, Wakefield, Leigh, Warrington, Hull KR do battle",
+      "summary_original": "The final round of the regular Super League season is over, we have whittled the competition down to six, and we now know exactly who will fight who for a place in the semi-finals.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13584504/super-league-play-offs-dates-format-schedule-as-wigan-leeds-wakefield-leigh-warrington-hull-kr-vie-for-spot-in-grand-final-at-old-trafford",
+      "published": "Fri, 11 Sep 2026 16:14:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'6 ストップレース!' - Russell は、新しいマドリードトラックでタイヤの摩耗上の恐怖を明らかに",
       "summary": "George Russell 日曜日のタイヤの着用を恐れていたスペイングランプリ初日のマドリングで走った後。",
       "title_original": "'A six-stop race!' - Russell reveals fears over tyre wear at new Madrid track",
@@ -3590,34 +3625,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13584547/solheim-cup-carlota-ciganda-somehow-ties-final-hole",
       "published": "Fri, 11 Sep 2026 18:40:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "EFL 最新:Watford のアントニオサイン",
-      "summary": "",
-      "title_original": "EFL latest: Antonio signs for Watford",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "published": "Fri, 11 Sep 2026 09:05:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スペイングランプリ: Leclerc は「興奮」マドリードの予選を予測",
-      "summary": "",
-      "title_original": "Spanish GP: Leclerc predicts 'exciting' Madrid qualifying",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13583697/f1-spanish-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-at-new-madring-circuit-in-madrid",
-      "published": "Fri, 11 Sep 2026 15:40:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
