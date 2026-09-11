@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T11:25:37.916595+00:00",
+  "updated_at": "2026-09-11T11:40:59.305476+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2448,7 +2448,11 @@
     "Sorba Thomas's Land Rover": "",
     "Millhouse Woods Lane": "",
     "Tyson Fury’s": "",
-    "Elliot Anderson’s": ""
+    "Elliot Anderson’s": "",
+    "Hull’s Thomas": "",
+    "Mail John Matthias Jaissle": "",
+    "Olid’s United": "",
+    "London City Lionesses. Simi": ""
   },
   "items": [
     {
@@ -2542,10 +2546,52 @@
       "summary_original": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 11:18:27 GMT",
+      "published": "Fri, 11 Sep 2026 11:33:22 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "オリズスコアは2 回として得ますバイエルンスラッシュボデ/グリムト",
+      "summary": "イギリスのキャプテンハリー・ケインスコア 55 位チャンピオンズリーグ目標と目標 Michael Olise として2 回打つことバイエルン・ミュンヘン着心地のよいビートでキャンペーンを開始ボデ/グリムト.",
+      "title_original": "Olise scores twice as Bayern thrash Bodo/Glimt",
+      "summary_original": "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1mvzgmdje5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 21:50:13 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド685 ファンアカウントをトウト後の禁止",
+      "summary": "マンチェスター・ユナイテッド685 ファンアカウントを禁止します。チケットのトウト調査とイノセントファンは罰されていません。",
+      "title_original": "Man Utd ban 685 fan accounts after touting probe",
+      "summary_original": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans have not been punished.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4zydzk2zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 11:33:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "私は誰ですか? ログインブンデスリーガ星 3",
+      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
+      "title_original": "Who am I? Guess Bundesliga star No 3",
+      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z0d4z750o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 11:31:33 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2564,34 +2610,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トリプルチェルシー攻撃は価値がありますか? FPL ゲームウィーク4 ジレンマ",
-      "summary": "BBC Sport FPL エキスパート Holly ShandFPL マネージャーがゲームウィーク 4 に向かい合っている最大のジレンマのいくつかを見てみましょう。アーリング・ハーランドまたはチェルシープレイヤー。",
-      "title_original": "Is triple Chelsea attack worth it? FPL gameweek four dilemmas",
-      "summary_original": "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL managers heading into gameweek four, including whether to captain Erling Haaland or a Chelsea player.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmrz1kdm93o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 06:28:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "オリズスコアは2 回として得ますバイエルンスラッシュボデ/グリムト",
-      "summary": "イギリスのキャプテンハリー・ケインスコア 55 位チャンピオンズリーグ目標と目標 Michael Olise として2 回打つことバイエルン・ミュンヘン着心地のよいビートでキャンペーンを開始ボデ/グリムト.",
-      "title_original": "Olise scores twice as Bayern thrash Bodo/Glimt",
-      "summary_original": "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1mvzgmdje5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 21:50:13 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識をテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -2603,6 +2621,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "トリプルチェルシー攻撃は価値がありますか? FPL ゲームウィーク4 ジレンマ",
+      "summary": "BBC Sport FPL エキスパート Holly ShandFPL マネージャーがゲームウィーク 4 に向かい合っている最大のジレンマのいくつかを見てみましょう。アーリング・ハーランドまたはチェルシープレイヤー。",
+      "title_original": "Is triple Chelsea attack worth it? FPL gameweek four dilemmas",
+      "summary_original": "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL managers heading into gameweek four, including whether to captain Erling Haaland or a Chelsea player.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmrz1kdm93o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 06:28:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2844,45 +2876,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ゴードン より良いフィットのためにバルセロナ Rashford よりも - デコ",
-      "summary": "バルセロナスポーティングディレクターDeco 氏は述べています Anthony Gordon's スタイルはよりよく合うハンジ・フリックの 側よりもマーカス・ラッシュフォード夏はクラブがチームを強めるように。",
-      "title_original": "Gordon a better fit for Barca than Rashford - Deco",
-      "summary_original": "Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad in the summer.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyl7njnk46o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 15:30:53 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "セブンプレミアリーグ予定されているゲームボクシング・デー",
-      "summary": "ザ・オブ・ザ・プレミアリーグステージ7 試合ボクシング・デー今年 - 昨年の大きな増加。",
-      "title_original": "Seven Premier League games scheduled for Boxing Day",
-      "summary_original": "The Premier League will stage seven matches on Boxing Day this year - a significant increase on last year.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd94y2vx8gno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 14:40:25 GMT",
+      "title": "ホールは長期的に合意ニューカッスル移籍,ハル’ s Thomas unhurt 車のクラッシュ後: サッカーニュース – ライブ",
+      "summary": "大会レポート 週末のサッカーアクションの前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail John Matthias Jaissle 夏の新加入選手を明らかにマティアス・フェルナンデス＝パルド始めに近づくニューカッスル獲得を問い合わせ 21 歳からタイネサイドへ到着リール期限日には、代替として特集されているニューカッスル最後の2 つのマッチ。続きを読む...",
+      "title_original": "Hall agrees long-term Newcastle deal, Hull’s Thomas unhurt after car crash: football news – live",
+      "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail John Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+      "published": "Fri, 11 Sep 2026 11:24:01 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Lewis Hall 長期的な合意ニューカッスル移籍,チェルシーサッカーニュース - ライブ",
-      "summary": "大会レポート 週末のサッカーアクションの前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail Tom Matthias Jaissle 夏の新加入選手を明らかにマティアス・フェルナンデス＝パルド始めに近づくニューカッスル獲得を問い合わせ 21 歳からタイネサイドへ到着リール期限日には、代替として特集されているニューカッスル最後の2 つのマッチ。続きを読む...",
-      "title_original": "Lewis Hall agrees long-term Newcastle deal, Chelsea buy-out close: football news – live",
-      "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail Tom Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 11:04:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2900,16 +2904,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「食事を遅らせる」:ミケル・アルテタ最新のマベリックを明らかにアーセナルメソッド",
-      "summary": "マネージャーは、プレイヤーが間違ったものに対処することを望んでいます 他の戦術には、ドレッシングルームをホットターにするなどミケル・アルテタ試合前の食事の遅延や更衣室温暖化など、プレイヤーの課題を設定したいと明らかにしました。アーセナルイタリアへのフライトチャンピオンズリーグに対するオープナーナポリ今週は5 時間以上遅れていました。アルテタプレマッチプレス会議の盗難をキャンセル",
-      "title_original": "‘Delay the meals’: Mikel Arteta reveals latest maverick Arsenal methods",
-      "summary_original": "Manager wants players to cope with things going wrong Other tactics include making dressing room even hotter Mikel Arteta has revealed that he likes to set players challenges, such as delaying their meals before matches and making the dressing room hotter, to ensure they are fully prepared for any eventuality. Arsenal’s flight to Italy for their Champions League opener against Napoli this week was delayed for more than five hours , with Arteta forced to cancel his pre-match press conference afte",
+      "title": "Olid’s United 遅れた事業と WSL の開始を許さないために徒歩で",
+      "summary": "ヘッドコーチは、彼女が準備するように彼女に厳しいスポットライトを持っていますチェルシー日曜日、しかし彼女は時間と投資に値する 厳しい見守りでしたマンチェスター・ユナイテッド’ のプレーヤーは、飢餓と攻撃的なプレスに対して非効果的に労働ロンドン・シティ・ライオネス。シミ・アフホの後半の慰めの目標は、いくつかのチームが自分のヒールでニッピングをしている側に取り付けの懸念を緩和するために少しした。慌てないでください。それはユナイテッドのメッセージでなければなりません。当然のことながら、チームを落とすのは早いです。ザ・オブ・ザ・",
+      "title_original": "Olid’s United on back foot due to late business and unforgiving WSL start",
+      "summary_original": "Head coach has harsh spotlight on her as she prepares for Chelsea on Sunday, but she deserves time and investment It was tough watching Manchester United’s players labour ineffectively against the hungry and aggressive press of London City Lionesses. Simi Awujo’s late consolation goal did little to ease the mounting concern for a side that have several teams nipping at their heels. Don’t panic; that has to be United’s message. To an extent, it is very early to be writing the team’s obituary. The",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/11/mikel-arteta-maverick-arsenal-methods-player-challenges-delayed-meals",
-      "published": "Fri, 11 Sep 2026 10:04:37 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
+      "url": "https://www.theguardian.com/football/2026/sep/11/eva-olid-manchester-united-wsl",
+      "published": "Fri, 11 Sep 2026 11:18:25 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2924,6 +2928,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「食事を遅らせる」:ミケル・アルテタ最新のマベリックを明らかにアーセナルメソッド",
+      "summary": "マネージャーは、プレイヤーが間違ったものに対処することを望んでいます 他の戦術には、ドレッシングルームをホットターにするなどミケル・アルテタ試合前の食事の遅延や更衣室温暖化など、プレイヤーの課題を設定したいと明らかにしました。アーセナルイタリアへのフライトチャンピオンズリーグに対するオープナーナポリ今週は5 時間以上遅れていました。アルテタプレマッチプレス会議の盗難をキャンセル",
+      "title_original": "‘Delay the meals’: Mikel Arteta reveals latest maverick Arsenal methods",
+      "summary_original": "Manager wants players to cope with things going wrong Other tactics include making dressing room even hotter Mikel Arteta has revealed that he likes to set players challenges, such as delaying their meals before matches and making the dressing room hotter, to ensure they are fully prepared for any eventuality. Arsenal’s flight to Italy for their Champions League opener against Napoli this week was delayed for more than five hours , with Arteta forced to cancel his pre-match press conference afte",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/11/mikel-arteta-maverick-arsenal-methods-player-challenges-delayed-meals",
+      "published": "Fri, 11 Sep 2026 10:04:37 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2956,20 +2974,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チャンピオンズリーグ: バイエルンブレイクダウンボデ/グリムト, Como を置く 4 過去の Leipzig",
-      "summary": "バイエルン・ミュンヘン 5-0 ボデ/グリムト, コモ 4-1Leipzig Lens 勝 3-2 でスラヴィア・プラハ最後のガソリン ダブルバイエルン・ミュンヘンオープンチャンピオンズリーグノルウェーの5-0 発のキャンペーンボデ/グリムト獲得を問い合わせ ハーフタイム前までに6 回勝者が不満ボデ/グリムトしかし、一度クルーズジャマル・ムシアラ開口部に2 分マッシュし、第2 期に水門が開通しました。続きを読む...",
-      "title_original": "Champions League: Bayern break down Bodø/Glimt, Como put four past Leipzig",
-      "summary_original": "Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig Lens win 3-2 at Slavia Prague with last-gasp double Bayern Munich opened their Champions League campaign with a 5-0 thrashing of Norway’s Bodø/Glimt . The six-times winners were frustrated before half-time by Bodø/Glimt but cruised once Jamal Musiala smashed in the opener two minutes into the second period and the floodgates opened. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig",
-      "published": "Thu, 10 Sep 2026 21:57:25 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "フェネルバフチェドロー後のコーチ辞任ローマ– しかし、大統領は彼が滞在すると主張します",
       "summary": "Ismail Kartal 報告者に「永遠に戻ってくる」クラブ・プレジデント:「私は彼のシニアです、私は彼を続けて言った」 ザ・オブ・ザ・フェネルバフチェヘッドコーチ,Ismail Kartal 入社後、木曜の辞典を自宅に drew 1-1 にて発表ローマ獲得を問い合わせチャンピオンズリーグ- しかし、分は、クラブの大統領はカルタルが仕事に滞在すると述べた。カルタルは、彼が渇望していたと主張することによって、ポストマッチのプレス会議を衝撃しましたフェネルバフチェ「戻りたい」 65 歳が入るのに、彼は劇的に取っていた",
       "title_original": "Fenerbahce coach resigns after draw with Roma – but president insists he will stay",
@@ -2984,13 +2988,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "French FAaccuses Infantino の ‘深刻な損害’ サッカー それはサポートを撤回として",
-      "summary": "影響を受けたゲームの「イメージと団結」FFF 社長は言う 前回の Fifa 公式に切符をつけて相談します Kevin Lamour The French Football Federation’s 代表取締役社長 Philippe Diallo, 言った Gianni Infantino フィファ大統領の選挙に対するフランスの支持の最後に発表したので、「イメージとサッカーの団結を真剣に傷つけました。The FFF’s 執行委員会は、木曜日に公正に投票し、その裏付けを撤回しました。June. Diallo\"events durin\" 参照",
-      "title_original": "French FA accuses Infantino of ‘seriously damaging’ football as it withdraws support",
-      "summary_original": "‘Image and unity’ of game affected, FFF president says It will consult sacked former Fifa official Kevin Lamour The French Football Federation’s president, Philippe Diallo, said Gianni Infantino had “seriously damaged the image and the unity of football” as he announced the end of France’s support for the Fifa president’s re-election. The FFF’s executive committee unanimously voted on Thursday to withdraw its backing, which had been formalised at the end of June. Diallo referred to “events durin",
+      "title": "「Football はお父さんの生活を保存」:イングランドの女性のパーキンソンのチームのコーチを満たします",
+      "summary": "彼の診断後に彼女のお父さんを歩くサッカーに取得し始めました – 今 Gemma Darvill ツアーに全国のチームを連れて行く Canada When Gemma Darvill’s お父さん、レは、58 歳のパーキンソン病と診断され、ウォーキングフットボールチームに参加し、彼自身を自分の家に閉じるのを止め、彼女はゲームが彼の人生を救ったと信じていた。彼が予見したことがなかったことは、8 年後、彼女は最初のイングランドの女性のパーキンソンのチームをコーチングし、変換を支援します",
+      "title_original": "‘Football saved Dad’s life’: meet the coach of the England women’s Parkinson’s team",
+      "summary_original": "It began with getting her dad into walking football after his diagnosis – now Gemma Darvill is taking a national team on tour to Canada When Gemma Darvill’s dad, Les, was diagnosed with Parkinson’s disease aged 58, joining a walking football team stopped him from confining himself to his own home, and she believes the game saved his life. What she could never have foreseen was that, eight years later, she would find herself coaching the first England women’s Parkinson’s team , helping transform ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/gianni-infantino-accused-seriously-damaging-football-french-fa-withdraws-support-fifa",
-      "published": "Thu, 10 Sep 2026 17:03:47 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/10/football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team",
+      "published": "Thu, 10 Sep 2026 10:53:38 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3096,6 +3100,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チャンピオンズリーグ: バイエルンブレイクダウンボデ/グリムト, Como を置く 4 過去の Leipzig",
+      "summary": "バイエルン・ミュンヘン 5-0 ボデ/グリムト, コモ 4-1Leipzig Lens 勝 3-2 でスラヴィア・プラハ最後のガソリン ダブルバイエルン・ミュンヘンオープンチャンピオンズリーグノルウェーの5-0 発のキャンペーンボデ/グリムト獲得を問い合わせ ハーフタイム前までに6 回勝者が不満ボデ/グリムトしかし、一度クルーズジャマル・ムシアラ開口部に2 分マッシュし、第2 期に水門が開通しました。続きを読む...",
+      "title_original": "Champions League: Bayern break down Bodø/Glimt, Como put four past Leipzig",
+      "summary_original": "Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig Lens win 3-2 at Slavia Prague with last-gasp double Bayern Munich opened their Champions League campaign with a 5-0 thrashing of Norway’s Bodø/Glimt . The six-times winners were frustrated before half-time by Bodø/Glimt but cruised once Jamal Musiala smashed in the opener two minutes into the second period and the floodgates opened. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig",
+      "published": "Thu, 10 Sep 2026 21:57:25 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "French FAaccuses Infantino の ‘深刻な損害’ サッカー それはサポートを撤回として",
+      "summary": "影響を受けたゲームの「イメージと団結」FFF 社長は言う 前回の Fifa 公式に切符をつけて相談します Kevin Lamour The French Football Federation’s 代表取締役社長 Philippe Diallo, 言った Gianni Infantino フィファ大統領の選挙に対するフランスの支持の最後に発表したので、「イメージとサッカーの団結を真剣に傷つけました。The FFF’s 執行委員会は、木曜日に公正に投票し、その裏付けを撤回しました。June. Diallo\"events durin\" 参照",
+      "title_original": "French FA accuses Infantino of ‘seriously damaging’ football as it withdraws support",
+      "summary_original": "‘Image and unity’ of game affected, FFF president says It will consult sacked former Fifa official Kevin Lamour The French Football Federation’s president, Philippe Diallo, said Gianni Infantino had “seriously damaged the image and the unity of football” as he announced the end of France’s support for the Fifa president’s re-election. The FFF’s executive committee unanimously voted on Thursday to withdraw its backing, which had been formalised at the end of June. Diallo referred to “events durin",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/gianni-infantino-accused-seriously-damaging-football-french-fa-withdraws-support-fifa",
+      "published": "Thu, 10 Sep 2026 17:03:47 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "チェルシー’s 2016-17 のニュースプレミアリーグタイトルは、トッテナム、Pochettino と言う",
       "summary": "元マネージャー 言うチェルシータイトルを省略する必要があります。“タイトルは、第2 だったチームのためにする必要があります。”Mauricio Pochettino コメントチェルシー自分の2016-17 を除去する必要がありますプレミアリーグ金融規則違反のタイトルと名誉の遡及的に授与されるトッテナム彼がその季節に第二の場所につながった人。チェルシーによって罰金が科された£10mFootball Association7 月との間のルールの複数の違反のための中断された 2 ウィンドウの移籍禁止を与えられたローマ n Abramovich 時代。彼ら w",
       "title_original": "Chelsea’s 2016-17 Premier League title should be given to Spurs, says Pochettino",
@@ -3121,34 +3153,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アレクシス・マック・アリスター彼のポイントをリヴァプール Atlético を倒すために戻って戦う",
-      "summary": "時間と場所だったアレクシス・マック・アリスターピッチと disgruntled で話そうリヴァプールミッドフィルダーはキューに配信されました。「甘い悲しい」リヴァプール一方、彼は新しい契約を提供するための拒否 Dominik Szoboszlai そして、Ryan Gravenberch 彼らの取得だった,Mac AllisterAnfield を非常に満足させるマッチ勝利の表示に対してアトレティコ・マドリード. アルゼンチンインテル国民、5 人の1World Cup 吸収、繊細にポーズされたコンテストに関与するファイナリストは、彼の不満を発明しました",
-      "title_original": "Alexis Mac Allister makes his point as Liverpool fight back to defeat Atlético",
-      "summary_original": "It was the time and place for Alexis Mac Allister to do his talking on the pitch and the disgruntled Liverpool midfielder delivered on cue. “Very sad” over Liverpool’s refusal to offer him a new contract, while Dominik Szoboszlai and Ryan Gravenberch were getting theirs, Mac Allister made Anfield very happy with a match-winning display against Atlético Madrid. The Argentina international, one of five World Cup finalists involved in an absorbing, delicately-poised contest, vented his frustrations",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/liverpool-atletico-madrid-champions-league-match-report",
-      "published": "Wed, 09 Sep 2026 21:04:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Scottish Premiership: Miovski ヒット 最後の gasp レンジャーズ勝者とセルティック100%の記録を保って下さい",
-      "summary": "レンジャーズビート St MirrenIbrox の1-0 セルティックまた、狭い勝者でも St Johnstone 代用から劇的な最後のガソリンストライキ Bojan Miovski フィードバックレンジャーズ1-0 プレミアシップが勝つ St Mirren 獲得を問い合わせ Ibrox. Back2 ゲームタッチラインサスペンション後の技術領域では、Derek McInnes ウォッチ St Mirren’s Australian ゴールキーパーJacob Chapman 保存の文字列で最初の半分に湾に家側を維持します。, いくつかの悪い仕上げの助け. 続きを読む...",
-      "title_original": "Scottish Premiership: Miovski hits last-gasp Rangers winner and Celtic keep 100% record",
-      "summary_original": "Rangers beat St Mirren 1-0 at Ibrox Celtic also narrow winners at St Johnstone A dramatic last-gasp strike from substitute Bojan Miovski gave Rangers a 1-0 Premiership win over St Mirren at Ibrox. Back in the technical area after a two-game touchline suspension, Derek McInnes watched St Mirren’s Australian goalkeeper Jacob Chapman keep the home side at bay in the first half with a string of saves, albeit helped by some poor finishing. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/scottish-roundup-miovski-rangers-celtic-st-mirren-st-johnstone",
-      "published": "Wed, 09 Sep 2026 21:38:38 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3320,9 +3324,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナム最新: Bergvall サイン新契約",
+      "title": "トッテナム最新: Bergvall サイン新契約- 退去を求める2 ヶ月",
       "summary": "",
-      "title_original": "Tottenham latest: Bergvall signs new deal",
+      "title_original": "Tottenham latest: Bergvall signs new deal - two months after asking to leave",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -3376,9 +3380,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アルテタ: 私は私たちの旅行計画をサボテージし、プレーヤーは問題に慣れる",
+      "title": "アルテタ: 私は私たちの旅行計画をサボタージするので、プレイヤーは問題に慣れる",
       "summary": "アーセナルマネージャーミケル・アルテタ彼が故意に前シーズンにクラブの旅行計画を sabotaged と言う - 道で困難に使用した選手を取得する。",
-      "title_original": "Arteta: I sabotaged our travel plans so players get used to problems",
+      "title_original": "Arteta: I sabotage our travel plans so players get used to problems",
       "summary_original": "Arsenal manager Mikel Arteta says he deliberately sabotaged the club's travel plans during pre-season - to get his players used to difficulties on the road.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13584290/mikel-arteta-arsenal-manager-says-he-deliberately-sabotaged-his-teams-travel-plans-to-prepare-for-difficulties-on-the-road",
@@ -3390,9 +3394,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "パキスタンは3 日目にスイスのスイープのためのイングランドのプッシュをイライラ!",
+      "title": "Pakistan の不満の後の Lawrence は画期的な作ります England LIVE!",
       "summary": "",
-      "title_original": "Pakistan frustrating England's push for sweries sweep on day three LIVE!",
+      "title_original": "Lawrence makes breakthrough after Pakistan frustrate England LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13584253/england-vs-pakistan-third-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
