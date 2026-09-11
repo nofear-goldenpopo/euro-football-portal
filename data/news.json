@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T14:26:19.427781+00:00",
+  "updated_at": "2026-09-11T14:39:41.167109+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2465,7 +2465,8 @@
     "Vinicius Jr": "ヴィニシウス・ジュニオール",
     "From Olise’s": "",
     "DP World Tour's Amgen": "",
-    "Real Madrid The": ""
+    "Real Madrid The": "",
+    "Police Scotland": ""
   },
   "items": [
     {
@@ -2889,13 +2890,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド禁止 685 四季折々のチケットホルダー オーバートゥット; ホールは、長期的な合意ニューカッスル移籍: サッカーニュース – ライブ",
-      "summary": "大会レポート 週末のサッカーアクションの前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail Tom Matthias Jaissle 夏の新加入選手を明らかにマティアス・フェルナンデス＝パルド始めに近づくニューカッスル獲得を問い合わせ 21 歳からタイネサイドへ到着リール期限日には、代替として特集されているニューカッスル最後の2 つのマッチ。続きを読む...",
+      "title": "マンチェスター・ユナイテッド禁止 685 季節券保有者 オーバートゥット; ホールは、長期的な合意ニューカッスル移籍: サッカーニュース – ライブ",
+      "summary": "大会レポート 週末のサッカーの試合前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail Tom Matthias Jaissle 夏の新加入選手が明らかにされたマティアス・フェルナンデス＝パルド始めに近づくニューカッスル獲得を問い合わせ 21 歳からタイネサイドへ到着リール期限日には、代替として特集されているニューカッスル最後の2 つのマッチ。月曜日のツルツルに先立ち、リーズ Jaissle 氏は次のように述べています。ロードマでスマートにする必要があると言いました",
       "title_original": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
-      "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail Tom Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Continue reading...",
+      "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail Tom Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Speaking ahead of Monday’s clash with Leeds, Jaissle said: “Yeah, he’s getting closer. I said that we need to be smart with his load ma",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 14:11:50 GMT",
+      "published": "Fri, 11 Sep 2026 14:29:55 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3309,6 +3310,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "セルティック警察の先に「致命的な行動」メッセージを与えるオールドファームログイン",
+      "summary": "マーティン・オニール明らかにされたセルティック「一般行動」の警告を与えられた Police Scotland 獲得を問い合わせ Sunday's League Cup 四半期末比に対するレンジャーズ Ibrox で。",
+      "title_original": "Celtic given 'general behaviour' message by police ahead of Old Firm clash",
+      "summary_original": "Martin O'Neill revealed Celtic were given a \"general behaviour\" warning by Police Scotland ahead of Sunday's League Cup quarter-final against Rangers at Ibrox.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13584448/rangers-vs-celtic-martin-oneill-reveals-general-behaviour-message-from-police-ahead-of-old-firm-league-cup-clash",
+      "published": "Fri, 11 Sep 2026 15:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トッテナム最新:De ZerbiKudus と Maddison の可用性対エヴァートン",
       "summary": "",
       "title_original": "Tottenham latest: De Zerbi on Kudus and Maddison availability vs Everton",
@@ -3428,6 +3443,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13584254/doncaster-tips-amelia-earhart-fancied-for-st-leger-upset-at-doncaster",
       "published": "Fri, 11 Sep 2026 13:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「無エネルギー、もう!」 - 温暖な顔オフ中にベン・ハッシュ・ガルシア!",
+      "summary": "Ryan Garcia そして、Conor Benn ブロックブスターのショーダウンの先を熱した顔オフを共有ラスベガス.",
+      "title_original": "‘No energy, no more!’ - Benn hushes Garcia during heated face-off!",
+      "summary_original": "Ryan Garcia and Conor Benn shared a heated face-off ahead of their blockbuster showdown in Las Vegas.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584239/conor-benn-hushes-ryan-garcia-during-heated-face-off",
+      "published": "Fri, 11 Sep 2026 08:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3558,34 +3587,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'She は 1 つの仕事を持っていました!' アナウンサーは、間違った名前の TWICE を言います!",
-      "summary": "アナウンサーの獲得 Nanna Koerstz Madsen's 最初のティーに2 回名前が間違っているので、Team Europe キャプテン Anna Nordqvist 獲得を問い合わせ",
-      "title_original": "'She had one job!' 😂 Announcer says wrong name TWICE!",
-      "summary_original": "The announcer got Nanna Koerstz Madsen's name wrong twice on the first tee, so Team Europe captain Anna Nordqvist had to step in.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584389/solheim-cup-announcer-says-wrong-name-twice",
-      "published": "Fri, 11 Sep 2026 12:32:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ホールサイン新契約獲得を問い合わせニューカッスルアフターマンチェスター・ユナイテッド インテルベスト",
-      "summary": "Lewis Hall 長期契約を新規に締結ニューカッスル.",
-      "title_original": "Hall signs new deal at Newcastle after Man Utd interest",
-      "summary_original": "Lewis Hall has signed a new long-term contract at Newcastle United.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584251/lewis-hall-newcastle-united-left-back-signs-long-term-contract-at-st-james-park",
-      "published": "Fri, 11 Sep 2026 09:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
