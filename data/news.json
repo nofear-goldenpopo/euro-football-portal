@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T18:07:04.736163+00:00",
+  "updated_at": "2026-09-11T18:27:45.754047+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2488,7 +2488,8 @@
     "Super League's Frantic Friday": "",
     "Late Ciganda": "",
     "Team Europe’s": "",
-    "Sunday's Spanish Grand Prix": ""
+    "Sunday's Spanish Grand Prix": "",
+    "Remarkable Razaullah": ""
   },
   "items": [
     {
@@ -2716,20 +2717,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リーズ欲しい ボス Farke に 'long-term'",
-      "summary": "リーズ・ユナイテッド FC ディレクターRobbie Evans クラブと上司は言うダニエル・ファルケ新規契約を承諾してみると「同じページ」になります。",
-      "title_original": "Leeds want boss Farke to stay 'long-term'",
-      "summary_original": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on the same page\" as they look to agree a new contract.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd08728rz0xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 06:00:35 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "オリズスコアは2 回として得ますバイエルンスラッシュボデ/グリムト",
       "summary": "イギリスのキャプテンハリー・ケインスコア 55 位チャンピオンズリーグ目標と目標 Michael Olise として2 回打つことバイエルン・ミュンヘン着心地のよいビートでキャンペーンを開始ボデ/グリムト.",
       "title_original": "Olise scores twice as Bayern thrash Bodo/Glimt",
@@ -2867,6 +2854,20 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リーズ欲しい ボス Farke に 'long-term'",
+      "summary": "リーズ・ユナイテッド FC ディレクターRobbie Evans クラブと上司は言うダニエル・ファルケ新規契約を承諾してみると「同じページ」になります。",
+      "title_original": "Leeds want boss Farke to stay 'long-term'",
+      "summary_original": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on the same page\" as they look to agree a new contract.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd08728rz0xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 06:00:35 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3332,12 +3333,40 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Remarkable Razaullah ノックデニーイングランドシリーズは3 日以内に広がります",
+      "summary": "イングランドは、金曜日に21 歳のラザララララから6 つのヒッティングの驚くべきディスプレイの後、エドグバストンで最終テストの3 日以内にパキスタンのシリーズの広がりを否定しました。",
+      "title_original": "Remarkable Razaullah knock denies England series sweep inside three days",
+      "summary_original": "England were denied a series sweep of Pakistan inside three days of the final Test at Edgbaston after a remarkable display of six-hitting from 21-year-old Razaullah late on Friday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13584462/england-vs-pakistan-razaullah-21-hits-remarkable-81-off-63-balls-featuring-nine-sixes-to-force-final-test-into-fourth-day",
+      "published": "Fri, 11 Sep 2026 19:22:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Super League's Frantic Friday ライブ! スカイで5 つのゲーム League Leaders' Shield ライン",
       "summary": "",
       "title_original": "Super League's Frantic Friday LIVE! Five games on Sky with League Leaders' Shield on line",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13582812/super-leagues-frantic-friday-live-updates-commentary-videos-scores-as-wigan-warriors-and-leeds-rhinos-go-for-league-leaders-shield",
+      "published": "Fri, 11 Sep 2026 18:45:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'6 ストップレース!' - Russell は、新しいマドリードトラックでタイヤの摩耗上の恐怖を明らかに",
+      "summary": "George Russell 日曜日のタイヤの着用を恐れていたスペイングランプリ初日のマドリングで走った後。",
+      "title_original": "'A six-stop race!' - Russell reveals fears over tyre wear at new Madrid track",
+      "summary_original": "George Russell has revealed fears over tyre wear for Sunday's Spanish Grand Prix after the first day's running at the new Madring.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13584262/spanish-gp-george-russell-reveals-fears-over-tyre-wear-at-new-madring-track-in-madrid-for-sundays-race",
       "published": "Fri, 11 Sep 2026 18:45:00 BST",
       "category": "other",
       "type": "other",
@@ -3353,20 +3382,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13584259/spanish-gp-kimi-antonelli-edges-ferrari-in-madrid-practice-as-arvid-lindblad-suffers-first-f1-crash-at-challenging-madring-circuit",
       "published": "Fri, 11 Sep 2026 17:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'6 ストップレース!' - Russell は、新しいマドリードトラックでタイヤの摩耗上の恐怖を明らかに",
-      "summary": "George Russell 日曜日のタイヤの着用を恐れていたスペイングランプリ初日のマドリングで走った後。",
-      "title_original": "'A six-stop race!' - Russell reveals fears over tyre wear at new Madrid track",
-      "summary_original": "George Russell has revealed fears over tyre wear for Sunday's Spanish Grand Prix after the first day's running at the new Madring.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13584262/spanish-gp-george-russell-reveals-fears-over-tyre-wear-at-new-madring-track-in-madrid-for-sundays-race",
-      "published": "Fri, 11 Sep 2026 18:45:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3591,20 +3606,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13584468/shane-lowry-storms-into-irish-open-lead-with-round-of-62",
       "published": "Fri, 11 Sep 2026 15:34:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "エヴァートン最新: 開始する準備が整いましたトッテナム, 言う モイズ",
-      "summary": "",
-      "title_original": "Everton latest: Grealish ready to start at Spurs, says Moyes",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Fri, 11 Sep 2026 13:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
