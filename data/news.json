@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T18:42:03.465333+00:00",
+  "updated_at": "2026-09-11T18:52:19.541565+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2489,7 +2489,9 @@
     "Late Ciganda": "",
     "Team Europe’s": "",
     "Sunday's Spanish Grand Prix": "",
-    "Remarkable Razaullah": ""
+    "Remarkable Razaullah": "",
+    "Ciganda SOMEHOW": "",
+    "Solheim Cup Friday": ""
   },
   "items": [
     {
@@ -3459,6 +3461,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "シガンダは4-4 で結ばれる日の終わりとしてヨーロッパの赤面を保存します",
+      "summary": "金曜日の4 ボールのハイライト Solheim Cup 獲得を問い合わせ Bernardus Golf, でオランダ.",
+      "title_original": "Ciganda saves Europe blushes as day ends tied at 4-4",
+      "summary_original": "Highlights of the Friday fourballs from the Solheim Cup at Bernardus Golf, in the Netherlands.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584550/solheim-cup-8211-friday-fourballs-highlights",
+      "published": "Fri, 11 Sep 2026 18:52:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「地球はどうしたの?」Ciganda SOMEHOW タイの最終的な穴",
+      "summary": "Carlota Ciganda2 つの方法のショットから何らかの方法で回復し、ヨーロッパの最終的な穴を結びます Solheim Cup Friday4 ボール。",
+      "title_original": "‘How on Earth did you do that!?’ Ciganda SOMEHOW ties final hole",
+      "summary_original": "Carlota Ciganda recovered from two wayward shots to somehow tie the final hole for Europe in the Solheim Cup Friday fourballs.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584547/solheim-cup-carlota-ciganda-somehow-ties-final-hole",
+      "published": "Fri, 11 Sep 2026 18:40:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "EFL 最新:Watford のアントニオサイン",
       "summary": "",
       "title_original": "EFL latest: Antonio signs for Watford",
@@ -3581,34 +3611,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レンジャーズ対比セルティック: 最初にポイントを話せるオールドファーム四季の衝突",
-      "summary": "最初ですオールドファーム四季折々のつまみとそこには League Cup ステークのセミファイナル",
-      "title_original": "Rangers vs Celtic: Talking points ahead of first Old Firm clash of season",
-      "summary_original": "It is the first Old Firm clash of the season and there is a League Cup semi-final place at stake.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584331/rangers-vs-celtic-key-talking-points-ahead-of-first-old-firm-clash-of-season-with-league-cup-semi-final-spot-at-stake",
-      "published": "Fri, 11 Sep 2026 15:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "途中でハミルトンで複数のドライバーFUME!",
-      "summary": "いくつかのドライバーは、不満に残っていた Lewis Hamilton 初めての練習中に道に入るためにスペイングランプリ.",
-      "title_original": "Several drivers FUME at Hamilton for getting in the way!",
-      "summary_original": "Several drivers were left frustrated by Lewis Hamilton for getting in the way during first practice of the Spanish Grand Prix.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584401/spanish-grand-prix-arvid-linblad-fumes-at-lewis-hamilton-and-kimi-antonelli-during-first-practice",
-      "published": "Fri, 11 Sep 2026 13:01:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
