@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T13:27:01.830451+00:00",
+  "updated_at": "2026-09-11T13:39:11.428531+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2463,7 +2463,8 @@
     "Xabi Alonso. He": "",
     "Vini Jr": "ヴィニシウス・ジュニオール",
     "Vinicius Jr": "ヴィニシウス・ジュニオール",
-    "From Olise’s": ""
+    "From Olise’s": "",
+    "DP World Tour's Amgen": ""
   },
   "items": [
     {
@@ -2893,7 +2894,7 @@
       "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail John Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 13:10:34 GMT",
+      "published": "Fri, 11 Sep 2026 13:29:27 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3307,6 +3308,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "最新のゴルフスコア:ローリーリードアイリッシュ・オープン McIlroy もアクション",
+      "summary": "世界中から最新のゴルフスコアと結果、ヨーロピアンツアー獲得を問い合わせアイリッシュ・オープン獲得を問い合わせ",
+      "title_original": "Latest golf scores: Lowry leads Amgen Irish Open with McIlroy also in action",
+      "summary_original": "Latest golf scores and results from around the world, including the DP World Tour's Amgen Irish Open and more.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+      "published": "Thu, 10 Sep 2026 00:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "インサイド Solheim Cup: プレイヤーはどのようにエンフォームするか2 ゴール d 'insane' ファーストティー体験",
+      "summary": "Team Europe キャプテン Anna Nordqvist 彼は言った Solheim Cup 最初のティーは「ゴルフ界にいる場所」であり、その前面評価スポットは、女性のゲームで他のものと異なって光景を目撃しました。",
+      "title_original": "Inside the Solheim Cup: How players embraced 'insane' first-tee experience",
+      "summary_original": "Team Europe captain Anna Nordqvist said that the Solheim Cup first tee would be 'the place to be in the golfing world,' with that pre-tournament assessment spot on as she witnessed a spectacle unlike any other in the women's game.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13584203/solheim-cup-how-team-europe-and-team-usa-stars-embraced-first-tee-party-and-insane-atmosphere-at-bernardus-golf",
+      "published": "Fri, 11 Sep 2026 14:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "エヴァートン最新: 開始する準備が整いましたトッテナム, 言う モイズ",
       "summary": "",
       "title_original": "Everton latest: Grealish ready to start at Spurs, says Moyes",
@@ -3391,9 +3420,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「1 セントあたり100 マイル!」 - カーディフは、フューリー対 AJ の潜在的な会場として登場",
+      "title": "'Fight 100 パーセントオン!' - カーディフは、Fury 対 AJ の潜在的な会場として登場",
       "summary": "タイソン・フューリー’s マネージャーが確認しました Anthony Joshua 戦いは、カルディフが潜在的な会場として出現するように「100 パーセントの出来事」です。",
-      "title_original": "‘Fight 100 per cent on!’ - Cardiff emerges as potential venue for Fury vs AJ",
+      "title_original": "'Fight 100 per cent on!' - Cardiff emerges as potential venue for Fury vs AJ",
       "summary_original": "Tyson Fury’s manager has confirmed that the Anthony Joshua fight is \"100 per cent happening\" as Cardiff emerges as a potential venue.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/boxing/news/12040/13584352/tyson-fury-vs-anthony-joshua-fight-is-100-per-cent-happening-says-furys-manager-as-cardiff-emerges-as-potential-venue",
@@ -3458,6 +3487,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "コルダ、コルツ・スラッシュハル, 奇妙な四人組のセッションで歴史を作るためにワッド",
+      "summary": "ネリー・コルダそして、Allisen Corpuz 編集者 Solheim Cup チャーリーを上回る彼らの声明の勝利と歴史ハルそして、Lottie Woad 金曜日の四人組のように、Team Europe そして、Team USA オープニングセッションでスピルスをシェアしました。",
+      "title_original": "Korda, Corpuz thrash Hull, Woad to make history in tied foursomes session",
+      "summary_original": "Nelly Korda and Allisen Corpuz created Solheim Cup history with their statement victory over Charley Hull and Lottie Woad in the Friday foursomes, as Team Europe and Team USA shared the spoils in the opening session.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13584200/solheim-cup-2026-nelly-korda-allisen-corpuz-thrash-charley-hull-lottie-woad-to-make-history-for-team-usa-in-friday-foursomes",
+      "published": "Fri, 11 Sep 2026 11:20:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3538,48 +3581,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13584251/lewis-hall-newcastle-united-left-back-signs-long-term-contract-at-st-james-park",
       "published": "Fri, 11 Sep 2026 09:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Iraola: チームには「それで目標」がありますが、より効率的である必要があります",
-      "summary": "Andoni Iraola 彼の目標があると言うリヴァプールチームではなく、より効率的で、より優れたスタートが必要であることを認めます。",
-      "title_original": "Iraola: Team has 'goals in it' but needs to be more efficient",
-      "summary_original": "Andoni Iraola says there are goals in his Liverpool team but admits they need to be more efficient and make better starts.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584392/liverpool-andoni-iraola-team-has-goals-in-it-but-need-to-be-more-efficient",
-      "published": "Fri, 11 Sep 2026 12:35:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ロジャーズそしてパルマは互いに繁栄を助けます",
-      "summary": "",
-      "title_original": "Rogers and Palmer helping each other thrive",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584004/cole-palmer-and-morgan-rogers-becoming-one-of-premier-leagues-most-dangerous-double-acts-the-radar",
-      "published": "Fri, 11 Sep 2026 08:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "メルソン:トッテナム, マンチェスター・シティそして、マンチェスター・ユナイテッド今週の週末にゲームを定義している",
-      "summary": "最新のスカイスポーツコラムで、ポール・マーソンコメントトッテナム, マンチェスター・シティそして、マンチェスター・ユナイテッド今週末の試合は、シーズン初旬の試合です。",
-      "title_original": "Merson: Spurs, Man City and Man Utd have defining games this weekend",
-      "summary_original": "In his latest Sky Sports column, Paul Merson says Tottenham, Manchester City and Manchester United all have defining matches this weekend, even though it is early in the season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582801/spurs-man-city-and-man-utd-face-defining-premier-league-matches-this-weekend-says-paul-merson",
-      "published": "Fri, 11 Sep 2026 08:00:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
