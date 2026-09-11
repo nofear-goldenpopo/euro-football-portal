@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T00:52:43.826677+00:00",
+  "updated_at": "2026-09-11T01:06:17.924285+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2407,7 +2407,8 @@
     "Jamie Jackson": "",
     "Matheus Cunha’s": "",
     "Kaheem Parris": "",
-    "João Pedro": "ジョアン・ペドロ"
+    "João Pedro": "ジョアン・ペドロ",
+    "Britain's Skupski": ""
   },
   "items": [
     {
@@ -3377,6 +3378,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Britain's Skupski リーチ US Open ダブルス ファイナル",
+      "summary": "",
+      "title_original": "Britain's Skupski reaches US Open doubles final",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13576448/us-open-tennis-news-draw-schedule-results-and-updates-from-flushing-meadows-in-new-york",
+      "published": "Fri, 11 Sep 2026 01:50:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ルーツのポンドの闘争と世紀の干ばつ - ナスザーは、ポストサッカーのバッキングを評価します",
       "summary": "Joe Root'slbw とイングランドの変換が何世紀にもわたって失敗する感受性は、改善されたポスト・フットボールのバッティングの表示の唯一の打撃であり、Nasser Hussain.",
       "title_original": "Root's lbw struggles and century drought - Nasser assesses post-Bazball batting",
@@ -3513,20 +3528,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・シティ最新: ブーディはロドリを褒め、彼は彼を置き換えようとします",
-      "summary": "",
-      "title_original": "Man City latest: Bouaddi praises Rodri as he seeks to replace him",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Wed, 09 Sep 2026 12:35:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
