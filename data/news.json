@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T15:39:22.631752+00:00",
+  "updated_at": "2026-09-11T15:51:55.870075+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2475,7 +2475,8 @@
     "Shane Lowry": "シェーン・ローリー",
     "Ex-West Ham": "",
     "Nathan Collins": "ネイサン・コリンズ",
-    "Hamilton LIVE": ""
+    "Hamilton LIVE": "",
+    "Matt Beard": ""
   },
   "items": [
     {
@@ -2549,30 +2550,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "例-ウェストハムストライカー・アントニオが Watford に参加",
-      "summary": "ワトフォードが元に獲得を発表ウェストハムストライカーMichail Antonio 獲得を問い合わせフリー移籍.",
-      "title_original": "Ex-West Ham striker Antonio joins Watford",
-      "summary_original": "Watford announce the signing of former West Ham United striker Michail Antonio on a free transfer.",
+      "title": "Bergvall サイン新契約- しかし、Richarlison のニュースはありません",
+      "summary": "Lucas Bergvall 新規契約締結トッテナム退去したいクラブに伝えた後、リハーリソンの未来にアップデートはありません。",
+      "title_original": "Bergvall signs new deal - but no news on Richarlison",
+      "summary_original": "Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to leave, but there is no update on Richarlison's future",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 15:04:49 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド過去のサバを4 つ入れるチャンピオンズリーグフィードバック",
-      "summary": "マンチェスター・ユナイテッド最大の記録チャンピオンズリーグ彼らが掃引するように2020 年以来の勝利 Sabah FK 獲得を問い合わせオールド・トラッフォード.",
-      "title_original": "Man Utd put four past Sabah on Champions League return",
-      "summary_original": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 21:01:24 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99dg2gzdl4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 15:40:50 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2591,6 +2578,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・ユナイテッド過去のサバを4 つ入れるチャンピオンズリーグフィードバック",
+      "summary": "マンチェスター・ユナイテッド最大の記録チャンピオンズリーグ彼らが掃引するように2020 年以来の勝利 Sabah FK 獲得を問い合わせオールド・トラッフォード.",
+      "title_original": "Man Utd put four past Sabah on Champions League return",
+      "summary_original": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 21:01:24 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプール元マネジャーベアードの悪霊",
+      "summary": "リヴァプール元女性のチームマネージャーに敬意を表して、彼らの訓練場と外側のアンフィールドで永続的な記念碑を明らかにしました Matt Beard.",
+      "title_original": "Liverpool unveil memorials for former manager Beard",
+      "summary_original": "Liverpool have unveiled permanent memorials at their training ground and outside Anfield in tribute to former women's team manager Matt Beard.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20939pqy78o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 15:32:08 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "例-ウェストハムストライカー・アントニオが Watford に参加",
+      "summary": "ワトフォードが元に獲得を発表ウェストハムストライカーMichail Antonio 獲得を問い合わせフリー移籍.",
+      "title_original": "Ex-West Ham striker Antonio joins Watford",
+      "summary_original": "Watford announce the signing of former West Ham United striker Michail Antonio on a free transfer.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 15:04:49 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "モウリーニョ比較するエムバペそして、ヴィニシウス・ジュニオールブート後の果樹に",
       "summary": "レアル・マドリードログインジョゼ・モウリーニョ星デュオのファン「ワン・ピース」キリアン・エムバペそして、ヴィニシウス・ジュニオール今週はサポーターズが応援してくれました。",
       "title_original": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
@@ -2601,20 +2630,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Bergvall サイントッテナム彼が去りたいと言った後の対処",
-      "summary": "スウェーデンのミッドフィルダーLucas Bergvall 新規契約締結トッテナム放置したいクラブを伝えた後。",
-      "title_original": "Bergvall signs Tottenham deal after saying he wanted to leave",
-      "summary_original": "Sweden midfielder Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to leave.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99dg2gzdl4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 12:01:37 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2686,20 +2701,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「ママのために遊びたい」アーセナルコオニークロス",
-      "summary": "アーセナル「キラ・コオニー・クロス」でプレイする準備が整っていますエミレーツ・スタジアム母親のジェスをがんに失ってから初めて、彼女は彼女の養蜂に直面しているかを説明します。",
-      "title_original": "'I want to play for mum' – Arsenal's Cooney-Cross",
-      "summary_original": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since losing her mum Jess to cancer, and explains how she has been facing up to her bereavement \"one day at a time\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 05:52:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2871,6 +2872,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「ママのために遊びたい」アーセナルコオニークロス",
+      "summary": "アーセナル「キラ・コオニー・クロス」でプレイする準備が整っていますエミレーツ・スタジアム母親のジェスをがんに失ってから初めて、彼女は彼女の養蜂に直面しているかを説明します。",
+      "title_original": "'I want to play for mum' – Arsenal's Cooney-Cross",
+      "summary_original": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since losing her mum Jess to cancer, and explains how she has been facing up to her bereavement \"one day at a time\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 05:52:56 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "彼の子供が不法に虐待された後に話して Saint-Maximin",
       "summary": "過去の投稿ニューカッスルウィンガーアラン・サン＝マクシマン彼が感じたと彼は、彼の子供がメキシコで、今年前に激しく虐待された後に話することが重要だったと述べました.",
       "title_original": "Saint-Maximin on speaking out after his children were racially abused",
@@ -2885,27 +2900,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "2 ゴール2 つのゲームで - Sesko は与えますマンチェスター・ユナイテッド異なる脅威",
-      "summary": "ベンヤミン・シェシュコの に戻るマンチェスター・ユナイテッドの start line-up は日曜日の先頭によく使われますプレミアリーグ出会い系マンチェスター・シティ",
-      "title_original": "Two goals in two games - Sesko gives Man Utd a different threat",
-      "summary_original": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 22:41:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マンチェスター・ユナイテッド禁止 685 四季折々のチケットホルダー オーバートゥット; ワトフォード サイン アントニオ: サッカーのニュース – ライブ",
       "summary": "大会レポート 週末のサッカーの試合前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail John Matthias Jaissle 夏の新加入選手が明らかにされたマティアス・フェルナンデス＝パルド始めに近づくニューカッスル獲得を問い合わせ 21 歳からタイネサイドへ到着リール期限日には、代替として特集されているニューカッスル最後の2 つのマッチ。月曜日のツルツルに先立ち、リーズ Jaissle 氏は次のように述べています。ロード m でスマートにする必要があると言いました",
       "title_original": "Manchester United ban 685 season-ticket holders over touting; Watford sign Antonio: football news – live",
       "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail John Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Speaking ahead of Monday’s clash with Leeds, Jaissle said: “Yeah, he’s getting closer. I said that we need to be smart with his load m",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 15:26:52 GMT",
+      "published": "Fri, 11 Sep 2026 15:41:48 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3347,9 +3348,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スペイングランプリ: ノリスは Antonelli を先の Antonelli との第2 練習で並んでいます Hamilton LIVE!",
+      "title": "スペイングランプリ: セッションは、Lindblad のクラッシュ、Antonelli の設定ペース LIVE の後再開!",
       "summary": "",
-      "title_original": "Spanish GP: Norris sidelined in second practice with Antonelli ahead of Hamilton LIVE!",
+      "title_original": "Spanish GP: Session resumes after Lindblad crashes, Antonelli setting pace LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13583697/f1-spanish-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-at-new-madring-circuit-in-madrid",
