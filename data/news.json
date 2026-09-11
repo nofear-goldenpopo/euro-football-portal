@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T17:49:59.842613+00:00",
+  "updated_at": "2026-09-11T18:07:04.736163+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2487,7 +2487,8 @@
     "Venue Villa Park Continue": "",
     "Super League's Frantic Friday": "",
     "Late Ciganda": "",
-    "Team Europe’s": ""
+    "Team Europe’s": "",
+    "Sunday's Spanish Grand Prix": ""
   },
   "items": [
     {
@@ -3359,6 +3360,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "'6 ストップレース!' - Russell は、新しいマドリードトラックでタイヤの摩耗上の恐怖を明らかに",
+      "summary": "George Russell 日曜日のタイヤの着用を恐れていたスペイングランプリ初日のマドリングで走った後。",
+      "title_original": "'A six-stop race!' - Russell reveals fears over tyre wear at new Madrid track",
+      "summary_original": "George Russell has revealed fears over tyre wear for Sunday's Spanish Grand Prix after the first day's running at the new Madring.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13584262/spanish-gp-george-russell-reveals-fears-over-tyre-wear-at-new-madring-track-in-madrid-for-sundays-race",
+      "published": "Fri, 11 Sep 2026 18:45:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トップフライトで振り返るカウンティ・チャンピオンシップダーラムの安全な昇進として",
       "summary": "ダーラム クランチング プロモーション へ Division One ロテシーのカウンティ・チャンピオンシップ Chester-le-Street で Middlesex を上回る 93-run 勝ち。",
       "title_original": "Stokes back in top flight of County Championship as Durham secure promotion",
@@ -3429,9 +3444,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スペイングランプリ: Antonelli は F1 のデビューを作る Madring 回路としてフェラーリを outpaces",
+      "title": "スペイングランプリ: Leclerc は「興奮」マドリードの予選を予測",
       "summary": "",
-      "title_original": "Spanish GP: Antonelli outpaces Ferraris as Madring circuit makes F1 debut",
+      "title_original": "Spanish GP: Leclerc predicts 'exciting' Madrid qualifying",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13583697/f1-spanish-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-at-new-madring-circuit-in-madrid",
@@ -3593,20 +3608,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スカイスポーツは3 年合意 US Open エクステンション",
-      "summary": "スカイは、その3 年間の拡張を合意しました US Open 移籍, スカイスポーツと NOW は、2030 年末まで、英国とアイルランドのトーナメントの排他的な家を維持します.",
-      "title_original": "Sky Sports agrees three-year US Open extension",
-      "summary_original": "Sky has agreed a three-year extension to its US Open deal, ensuring Sky Sports and NOW remains the exclusive home of the tournament in the UK and Ireland until the end of 2030.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13584343/us-open-sky-sports-agrees-three-year-extension-to-show-the-us-open-until-end-of-2030",
-      "published": "Fri, 11 Sep 2026 14:00:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
