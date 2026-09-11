@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T08:41:01.123489+00:00",
+  "updated_at": "2026-09-11T08:54:05.610351+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2423,7 +2423,13 @@
     "Lauren Coughlin": "",
     "Teofimo Lopez": "テオフィモ・ロペス",
     "Norway’s Bodø": "",
-    "Mail Tom Newcastle United": ""
+    "Mail Tom Newcastle United": "",
+    "West Ham's Alvarez": "",
+    "Edson Alvarez": "エドソン・アルバレス",
+    "Juan Jose Lopez Ordonez": "",
+    "Mail Tom Manchester United": "",
+    "Everton. And": "",
+    "Sunday. They": ""
   },
   "items": [
     {
@@ -2539,6 +2545,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウェストハム'Alvarez denies 誘拐 accusation",
+      "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
+      "title_original": "West Ham's Alvarez denies kidnapping accusation",
+      "summary_original": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the allegation made by film producer Juan Jose Lopez Ordonez.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 08:42:22 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フェネルバフチェボス stuns クラブ による quitting 後にローマログイン",
       "summary": "Ismail Kartal リサインとしてフェネルバフチェの ヘッドコーチは、トルコ側の 1-1 の後にわずか数分で引きますローマ獲得を問い合わせチャンピオンズリーグ.",
       "title_original": "Fenerbahce boss stuns club by quitting after Roma draw",
@@ -2553,20 +2573,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "彼の子供が不法に虐待された後に話して Saint-Maximin",
-      "summary": "過去の投稿ニューカッスルウィンガーアラン・サン＝マクシマン彼が感じたと彼は、彼の子供がメキシコで、今年前に激しく虐待された後に話することが重要だったと述べました.",
-      "title_original": "Saint-Maximin on speaking out after his children were racially abused",
-      "summary_original": "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after his children were racially abused earlier this year in Mexico.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8xzg9e81ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 05:23:22 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識をテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -2577,6 +2583,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "彼の子供が不法に虐待された後に話して Saint-Maximin",
+      "summary": "過去の投稿ニューカッスルウィンガーアラン・サン＝マクシマン彼が感じたと彼は、彼の子供がメキシコで、今年前に激しく虐待された後に話することが重要だったと述べました.",
+      "title_original": "Saint-Maximin on speaking out after his children were racially abused",
+      "summary_original": "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after his children were racially abused earlier this year in Mexico.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8xzg9e81ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 05:23:22 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2619,20 +2639,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トッテナム契約上の紛争に富む",
-      "summary": "トッテナムリファリソンは、契約の残り9 か月にわたって紛争を負います。",
-      "title_original": "Spurs and Richarlison in dispute over contract",
-      "summary_original": "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 18:48:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2777,6 +2783,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "トッテナム契約上の紛争に富む",
+      "summary": "トッテナムリファリソンは、契約の残り9 か月にわたって紛争を負います。",
+      "title_original": "Spurs and Richarlison in dispute over contract",
+      "summary_original": "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 18:48:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナル新しい契約を最終決定するクローズアルテタ",
       "summary": "ミケル・アルテタ新規契約の最終決定に近づいていると考えられているプレミアリーグチャンピオンアーセナル.",
       "title_original": "Arsenal close to finalising new contract for Arteta",
@@ -2833,27 +2853,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Ballon d'Or のショートリストおよび衝撃の辞任",
-      "summary": "The Ballon D'or ショートリスト、スペイン語のコーチとショック辞任の優位性",
-      "title_original": "Ballon d'Or shortlist and a shock resignation",
-      "summary_original": "The Ballon D'or shortlist, the dominance of Spanish coaches and a shock resignation",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p9273l?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 22:25:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Lewis Hall 長期的な合意ニューカッスル移籍,チェルシーサッカーニュース - ライブ",
-      "summary": "大会レポート 週末のサッカーアクションの前のニュースとアップデート 開催報告プレミアリーグ: 10 件中の10 件見つかります | メール トムニューカッスルディフェンダーLewis Hall クラブとの長期契約を新たに締結しました。レポートは、左のバックを示唆しました, 22, まで彼の契約を取る彼の元の移籍に2 年延長合意しました 2031. 続きを読む...",
+      "summary": "大会レポート 週末のサッカーアクションの前のニュースとアップデート 開催報告プレミアリーグ: 10 件中の10 件見つかります | メール トムマンチェスター・ユナイテッド2 年間のハイツの後、ヨーロッパのエリート競争に戻り、最後の日曜日の2 つのポイントを咳で最後のガスプのトラウマの後にそれらを soothe する必要がありましたプレミアリーグドローイングエヴァートン. そして、ダービーの非常に深刻なビジネスの前にここに反対しますマンチェスター・シティ獲得を問い合わせ Sunday. They 最初の半分のパフォーマンスの後ろにそれを得た b",
       "title_original": "Lewis Hall agrees long-term Newcastle deal, Chelsea buy-out close: football news – live",
-      "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail Tom Newcastle United defender Lewis Hall has signed a new long-term contract with the club. Reports suggest the left-back, 22, has agreed a two-year extension to his original deal that would take his contract up to 2031. Continue reading...",
+      "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail Tom Manchester United were back in Europe’s elite competition after a two-year hiatus and in need of something to soothe them after the trauma of their last-gasp coughing up of two points in last Sunday’s Premier League draw at Everton. And before the extremely serious business of the derby here against Manchester City on Sunday. They got it on the back of a first-half performance that b",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 08:22:15 GMT",
+      "published": "Fri, 11 Sep 2026 08:37:34 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
