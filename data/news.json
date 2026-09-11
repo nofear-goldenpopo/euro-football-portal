@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T06:47:23.655004+00:00",
+  "updated_at": "2026-09-11T07:17:42.103641+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2420,7 +2420,8 @@
     "Arsenal's Kyra Cooney-Cross": "",
     "Holly Shand": "",
     "USA Solheim Cup": "",
-    "Lauren Coughlin": ""
+    "Lauren Coughlin": "",
+    "Teofimo Lopez": "テオフィモ・ロペス"
   },
   "items": [
     {
@@ -2620,20 +2621,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "セブンプレミアリーグ予定されているゲームボクシング・デー",
-      "summary": "ザ・オブ・ザ・プレミアリーグステージ7 試合ボクシング・デー今年 - 昨年の大きな増加。",
-      "title_original": "Seven Premier League games scheduled for Boxing Day",
-      "summary_original": "The Premier League will stage seven matches on Boxing Day this year - a significant increase on last year.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd94y2vx8gno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 14:40:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "チェルシーそして、レアル・マドリードログインアーセナル'Zubimendi - 金曜日のゴシップ",
       "summary": "Martin Zubimendi 退去を求めるアーセナル1 月1 日マウロ・イカルディオープン予定エヴァートン Toffees が動く間移動 Anthony Martial.",
       "title_original": "Chelsea and Real Madrid keen on Arsenal's Zubimendi - Friday's gossip",
@@ -2788,6 +2775,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "セブンプレミアリーグ予定されているゲームボクシング・デー",
+      "summary": "ザ・オブ・ザ・プレミアリーグステージ7 試合ボクシング・デー今年 - 昨年の大きな増加。",
+      "title_original": "Seven Premier League games scheduled for Boxing Day",
+      "summary_original": "The Premier League will stage seven matches on Boxing Day this year - a significant increase on last year.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd94y2vx8gno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 14:40:25 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ワシントン・スピリット Luvanga に獲得 - しかし、それはレコード移籍ですか?",
       "summary": "タンザニア・ストライカーClara Luvanga 獲得を問い合わせワシントン・スピリット女性のサッカーの歴史の中で最も高価なものと信じられている契約の Al-Nassr から - おそらく世界記録を設定する1。",
       "title_original": "Washington Spirit sign Luvanga - but is it a record deal?",
@@ -2816,20 +2817,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナム2016-17 のタイトルを獲得する必要があります - Pochettino",
-      "summary": "Mauricio Pochettino 信じるチェルシー除去されるべきであるプレミアリーグタイトル: 2016-17 トッテナムチーム終了ランナーアップ。",
-      "title_original": "Spurs should be awarded 2016-17 title - Pochettino",
-      "summary_original": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 08:08:21 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "リーズ「オカフォルは、ヤキンの下で再びスイスのために再生しないと言う",
       "summary": "リーズ・ユナイテッド FC 獲得 Noah Okafor 彼が再びスイスのために再生しないと言うムラト・ヤキンヘッドコーチとして残っています。",
       "title_original": "Leeds' Okafor says he won't play for Swiss again under Yakin",
@@ -2837,6 +2824,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c74e0kvm03ro?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 14:35:31 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「人生を手に入れる」 - ノンリーグクラブは男の偽装マネージャを非難",
+      "summary": "Gainsborough Trinity 自分のマネージャーであることを偽りなく主張しながら、プレーヤーに近づいてきた人が非難しました。",
+      "title_original": "'Get a life' - non-league club condemn man impersonating manager",
+      "summary_original": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 15:22:16 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3264,6 +3265,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "メルソン:トッテナム, マンチェスター・シティそして、マンチェスター・ユナイテッド今週の週末にゲームを定義している",
+      "summary": "最新のスカイスポーツコラムで、ポール・マーソンコメントトッテナム, マンチェスター・シティそして、マンチェスター・ユナイテッド今週末の試合は、シーズン初旬の試合です。",
+      "title_original": "Merson: Spurs, Man City and Man Utd have defining games this weekend",
+      "summary_original": "In his latest Sky Sports column, Paul Merson says Tottenham, Manchester City and Manchester United all have defining matches this weekend, even though it is early in the season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13582801/spurs-man-city-and-man-utd-face-defining-premier-league-matches-this-weekend-says-paul-merson",
+      "published": "Fri, 11 Sep 2026 08:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ロジャーズそしてパルマは互いに繁栄を助けます",
+      "summary": "",
+      "title_original": "Rogers and Palmer helping each other thrive",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13584004/cole-palmer-and-morgan-rogers-becoming-one-of-premier-leagues-most-dangerous-double-acts-the-radar",
+      "published": "Fri, 11 Sep 2026 08:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "York Knights 仕上げ メイド シーズン と thrashing の Bradford Bulls",
+      "summary": "ハイライトから Super League 間の衝突 York Knights そして、Bradford Bulls.",
+      "title_original": "York Knights finish maiden season with thrashing of Bradford Bulls",
+      "summary_original": "Highlights from the Super League clash between York Knights and Bradford Bulls.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584179/york-knights-35-16-bradford-bulls-super-league-highlights",
+      "published": "Thu, 10 Sep 2026 23:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Rybakina denies Gauff へ セットアップ blockbusterUS Open サバレンカと最終",
       "summary": "アメリカの心は、エレーナ・リバキナサイレンス Coco Gauff そして、New York ブロックブスターを設定するクラウド US Open 最終的な反対 Aryna Sabalenka 敗北した人 Jessica Pegula3 番目のストレートタイトルから勝利を離れるフラッシング・メドウズ・コロナ・パーク.",
       "title_original": "Rybakina denies Gauff to set up blockbuster US Open final with Sabalenka",
@@ -3275,6 +3318,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "勝負やゴールなし - 心配すべき方法トッテナム PL シーズンが始まりますか?",
+      "summary": "それは新しいに無事で、ゴールレスなスタートでしたプレミアリーグ四季折々の絶景トッテナム.",
+      "title_original": "No wins and no goals - how concerned should Spurs be to PL season start?",
+      "summary_original": "It has been a winless and goalless start to the new Premier League season for big-spending Tottenham.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13583499/how-concerned-should-big-spending-tottenham-be-after-winless-and-goalless-start-to-premier-league-season",
+      "published": "Fri, 11 Sep 2026 08:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3376,6 +3433,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Solheim Cup LIVE! Team USA リードハル、ヨーロッパとして Woad は固体開始を作ります",
+      "summary": "",
+      "title_original": "Solheim Cup LIVE! Team USA lead Hull, Woad as Europe make solid start",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13584196/solheim-cup-live-latest-scores-updates-highlights-from-day-one-as-team-europe-host-team-usa-at-bernardus-golf",
+      "published": "Fri, 11 Sep 2026 07:42:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ベンとガルシアは再び衝突します:「私はカドルのためにここにいません」",
+      "summary": "Conor Benn そして、Ryan Garcia 言葉の熱した戦争を再開テオフィモ・ロペス奇妙な最終プレス会議中に偽のひげが付いているレポーターとして置かれるラスベガス毎週木曜日",
+      "title_original": "Benn and Garcia clash again: 'I'm not here for a cuddle'",
+      "summary_original": "Conor Benn and Ryan Garcia resumed their heated war of words while Teofimo Lopez posed as a reporter with a fake beard during a bizarre final press conference in Las Vegas on Thursday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13584223/ryan-garcia-and-conor-benn-in-latest-war-of-words-as-teofimo-lopez-gatecrashes-press-conference-in-disguise",
+      "published": "Fri, 11 Sep 2026 07:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "PL Predictions: ハルの run は継続できませんチェルシー獲得を問い合わせ なるほど、",
       "summary": "私たちのトップのヒント Lewis Jones, 赤坂 Jones Knows 週末に分析とベッティングのインサイトを提供プレミアリーグアクション。",
       "title_original": "PL Predictions: Hull's run can't continue at Chelsea, can it? Oh, it can",
@@ -3446,20 +3531,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ハル、Woad は Korda、コルツに対するヨーロッパをで導きます Solheim Cup LIVE!",
-      "summary": "",
-      "title_original": "Hull, Woad lead out Europe against Korda, Corpuz at Solheim Cup LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13584196/solheim-cup-live-latest-scores-updates-highlights-from-day-one-as-team-europe-host-team-usa-at-bernardus-golf",
-      "published": "Fri, 11 Sep 2026 05:45:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Erasmus 衝動 South Africa フィナーレでリスクを増大させる New Zealand ボルチモア",
       "summary": "平らな始まりの後で、South Africa ついにテストシリーズに翼を広げる New Zealand テスト2 と3 で、ヘッドコーチラシー・エラスムス米国土のフィナーレで高く飛んでほしい。",
       "title_original": "Erasmus urges South Africa to risk more in finale with New Zealand in Baltimore",
@@ -3467,76 +3538,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-union/news/12040/13583078/south-africa-vs-new-zealand-rassie-erasmus-urges-springboks-to-risk-more-as-all-blacks-series-finale-looms-in-baltimore",
       "published": "Tue, 08 Sep 2026 10:26:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Britain's Skupski リーチ US Open ダブルス ファイナル",
-      "summary": "",
-      "title_original": "Britain's Skupski reaches US Open doubles final",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13576448/us-open-tennis-news-draw-schedule-results-and-updates-from-flushing-meadows-in-new-york",
-      "published": "Fri, 11 Sep 2026 01:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ルーツのポンドの闘争と世紀の干ばつ - ナスザーは、ポストサッカーのバッキングを評価します",
-      "summary": "Joe Root'slbw とイングランドの変換が何世紀にもわたって失敗する感受性は、改善されたポスト・フットボールのバッティングの表示の唯一の打撃であり、Nasser Hussain.",
-      "title_original": "Root's lbw struggles and century drought - Nasser assesses post-Bazball batting",
-      "summary_original": "Joe Root's susceptibility to lbw and England's failure to convert starts into centuries are the only blots on an improved post-Bazball batting display, according to Nasser Hussain.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13584099/joe-roots-struggles-and-england-century-drought-against-pakistan-the-only-concerns-from-improved-post-bazball-batting-says-nasser-hussain",
-      "published": "Thu, 10 Sep 2026 18:35:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウェストハム最新:Staveley 'disappointed' は、ハンマーステークの入札に失敗した後",
-      "summary": "",
-      "title_original": "West Ham latest: Staveley 'disappointed' after failed bid for Hammers stake",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "published": "Sat, 05 Sep 2026 18:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Russsell:私は Antonelli のペースに答えています",
-      "summary": "George Russell 主張する彼は「答えを得る」Kimi Antonelli's ペースしかし、彼は彼のメルセデスチームメイトをトップでキャッチするのに良い幸運が必要になります認め Drivers' Championship.",
-      "title_original": "Russell: I have an answer to Antonelli's pace",
-      "summary_original": "George Russell insists he does \"have an answer\" to Kimi Antonelli's pace but admits he will need good fortune to catch his Mercedes team-mate at the top of the Drivers' Championship.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13583903/george-russell-insists-he-has-an-answer-to-kimi-antonellis-pace-amid-his-mercedes-team-mates-dominance-in-title-battle",
-      "published": "Thu, 10 Sep 2026 18:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "致命的な車のクラッシュの Joshua の運転者は試金を調節しました",
-      "summary": "トライアル Adeniyi Mobolaji Kayode, 負傷したボクサーのクラッシュに関与しているドライバーAnthony Joshua チームメンバー2 名を殺し、11 月17 日までに退会しました。",
-      "title_original": "Joshua's driver in fatal car crash has trial adjourned",
-      "summary_original": "The trial of Adeniyi Mobolaji Kayode, the driver involved in the crash that injured boxer Anthony Joshua and killed two members of his team, has been adjourned until November 17.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13584095/anthony-joshua-car-crash",
-      "published": "Thu, 10 Sep 2026 18:19:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
