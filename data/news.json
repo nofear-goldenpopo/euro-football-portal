@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T05:24:27.967757+00:00",
+  "updated_at": "2026-09-11T05:38:23.988935+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2409,7 +2409,9 @@
     "Kaheem Parris": "",
     "João Pedro": "ジョアン・ペドロ",
     "Britain's Skupski": "",
-    "Caballo De Mar": ""
+    "Caballo De Mar": "",
+    "Former Newcastle": "",
+    "Allan Saint-Maximin": "アラン・サン＝マクシマン"
   },
   "items": [
     {
@@ -2441,6 +2443,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Sutton の予測 v ドーキング・ワンダラーズ FC マネージャーMarc White",
+      "summary": "BBC スポーツサッカーの専門家クリス・サットン獲得を問い合わせドーキング・ワンダラーズ FC マネージャーMarc White この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
+      "title_original": "Sutton's predictions v Dorking Wanderers manager Marc White",
+      "summary_original": "BBC Sport football expert Chris Sutton takes on Dorking Wanderers manager Marc White, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1dlnq215zeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 18:47:34 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フェネルバフチェボス stuns クラブ による quitting 後にローマログイン",
       "summary": "Ismail Kartal リサインとしてフェネルバフチェの ヘッドコーチは、トルコ側の 1-1 の後にわずか数分で引きますローマ獲得を問い合わせチャンピオンズリーグ.",
       "title_original": "Fenerbahce boss stuns club by quitting after Roma draw",
@@ -2455,6 +2471,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "彼の子供が不法に虐待された後に話して Saint-Maximin",
+      "summary": "過去の投稿ニューカッスルウィンガーアラン・サン＝マクシマン彼が感じたと彼は、彼の子供がメキシコで、今年前に激しく虐待された後に話することが重要だったと述べました.",
+      "title_original": "Saint-Maximin on speaking out after his children were racially abused",
+      "summary_original": "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after his children were racially abused earlier this year in Mexico.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8xzg9e81ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 05:23:22 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トッテナム契約上の紛争に富む",
       "summary": "トッテナムリファリソンは、契約の残り9 か月にわたって紛争を負います。",
       "title_original": "Spurs and Richarlison in dispute over contract",
@@ -2466,20 +2496,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Sutton の予測 v ドーキング・ワンダラーズ FC マネージャーMarc White",
-      "summary": "BBC スポーツサッカーの専門家クリス・サットン獲得を問い合わせドーキング・ワンダラーズ FC マネージャーMarc White この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
-      "title_original": "Sutton's predictions v Dorking Wanderers manager Marc White",
-      "summary_original": "BBC Sport football expert Chris Sutton takes on Dorking Wanderers manager Marc White, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1dlnq215zeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 18:47:34 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2592,20 +2608,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ワシントン・スピリット Luvanga に獲得 - しかし、それはレコード移籍ですか?",
-      "summary": "タンザニア・ストライカーClara Luvanga 獲得を問い合わせワシントン・スピリット女性のサッカーの歴史の中で最も高価なものと信じられている契約の Al-Nassr から - おそらく世界記録を設定する1。",
-      "title_original": "Washington Spirit sign Luvanga - but is it a record deal?",
-      "summary_original": "Tanzanian striker Clara Luvanga has joined Washington Spirit from Al-Nassr in a deal believed to be one of the most costly in the history of women's football - and possibly one that sets a world record.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8xkrjkw1y0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 16:10:00 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2749,6 +2751,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ワシントン・スピリット Luvanga に獲得 - しかし、それはレコード移籍ですか?",
+      "summary": "タンザニア・ストライカーClara Luvanga 獲得を問い合わせワシントン・スピリット女性のサッカーの歴史の中で最も高価なものと信じられている契約の Al-Nassr から - おそらく世界記録を設定する1。",
+      "title_original": "Washington Spirit sign Luvanga - but is it a record deal?",
+      "summary_original": "Tanzanian striker Clara Luvanga has joined Washington Spirit from Al-Nassr in a deal believed to be one of the most costly in the history of women's football - and possibly one that sets a world record.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8xkrjkw1y0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 16:10:00 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リーズ「オカフォルは、ヤキンの下で再びスイスのために再生しないと言う",
       "summary": "リーズ・ユナイテッド FC 獲得 Noah Okafor 彼が再びスイスのために再生しないと言うムラト・ヤキンヘッドコーチとして残っています。",
       "title_original": "Leeds' Okafor says he won't play for Swiss again under Yakin",
@@ -2802,20 +2818,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "バルセロナの Rodri apologises 以上 バレンシア 'weak' コメント",
-      "summary": "バルセロナミッドフィルダー・ロドリは、彼はテレビカメラが彼を追い出すために現れた後に、バレンシア全体に謝罪したと述べていますラ・リーガ「非常に弱い」と闘争。",
-      "title_original": "Barca's Rodri apologises over Valencia 'weak' comments",
-      "summary_original": "Barcelona midfielder Rodri says he has apologised to the entire Valencia squad after television cameras appeared to catch him describing the La Liga strugglers as \"very weak\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyrx8gd71o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 07:27:34 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
