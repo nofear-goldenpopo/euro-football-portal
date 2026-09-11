@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T10:52:26.320607+00:00",
+  "updated_at": "2026-09-11T11:12:04.723653+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2446,7 +2446,8 @@
     "Melbourne Victory": "メルボルン・ビクトリーFC",
     "Mail Tom Matthias Jaissle": "",
     "Sorba Thomas's Land Rover": "",
-    "Millhouse Woods Lane": ""
+    "Millhouse Woods Lane": "",
+    "Tyson Fury’s": ""
   },
   "items": [
     {
@@ -2461,6 +2462,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チームは備品のスケジューリングに適応する必要があります - マレスカ",
+      "summary": "マンチェスター・シティマネージャーEnzo Maresca「適応する必要性」を日曜日のダービーに彼の側面の頭部として据え付け品のスケジューリングに2 日余分残りのライバルにチームを言うマンチェスター・ユナイテッド.",
+      "title_original": "Teams need to adapt to fixture scheduling - Maresca",
+      "summary_original": "Manchester City manager Enzo Maresca says teams \"need to adapt\" to the fixture scheduling as his side head into Sunday's derby with two days extra rest over rivals Manchester United.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zr11l9j6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 10:55:09 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2576,20 +2591,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウェストハム'Alvarez denies 誘拐 accusation",
-      "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
-      "title_original": "West Ham's Alvarez denies kidnapping accusation",
-      "summary_original": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the allegation made by film producer Juan Jose Lopez Ordonez.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 08:42:22 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識をテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -2597,6 +2598,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/clymlve2v0xo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 05:52:39 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウェストハム'Alvarez denies 誘拐 accusation",
+      "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
+      "title_original": "West Ham's Alvarez denies kidnapping accusation",
+      "summary_original": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the allegation made by film producer Juan Jose Lopez Ordonez.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 08:42:22 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2643,20 +2658,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ケースを作ることができます。チェルシー2016-17 タイトルのストライプされていますか?",
-      "summary": "Does Mauricio Pochettino ケースを持っているトッテナム後ろ向きに王冠されるべきですプレミアリーグチャンピオン?",
-      "title_original": "Can you make a case for Chelsea being stripped of 2016-17 title?",
-      "summary_original": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 13:55:43 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2800,6 +2801,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ケースを作ることができます。チェルシー2016-17 タイトルのストライプされていますか?",
+      "summary": "Does Mauricio Pochettino ケースを持っているトッテナム後ろ向きに王冠されるべきですプレミアリーグチャンピオン?",
+      "title_original": "Can you make a case for Chelsea being stripped of 2016-17 title?",
+      "summary_original": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 13:55:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トッテナム契約上の紛争に富む",
       "summary": "トッテナムリファリソンは、契約の残り9 か月にわたって紛争を負います。",
       "title_original": "Spurs and Richarlison in dispute over contract",
@@ -2856,27 +2871,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシーそして、レアル・マドリードログインアーセナル'Zubimendi - 金曜日のゴシップ",
-      "summary": "Martin Zubimendi 退去を求めるアーセナル1 月1 日マウロ・イカルディオープン予定エヴァートン Toffees が動く間移動 Anthony Martial.",
-      "title_original": "Chelsea and Real Madrid keen on Arsenal's Zubimendi - Friday's gossip",
-      "summary_original": "Martin Zubimendi may seek to leave Arsenal in January, Mauro Icardi open to Everton move while Toffees play down move for Anthony Martial.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd68352z4vjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 20:13:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Lewis Hall 長期的な合意ニューカッスル移籍,チェルシーサッカーニュース - ライブ",
       "summary": "大会レポート 週末のサッカーアクションの前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail Tom Matthias Jaissle 夏の新加入選手を明らかにマティアス・フェルナンデス＝パルド始めに近づくニューカッスル獲得を問い合わせ 21 歳からタイネサイドへ到着リール期限日には、代替として特集されているニューカッスル最後の2 つのマッチ。続きを読む...",
       "title_original": "Lewis Hall agrees long-term Newcastle deal, Chelsea buy-out close: football news – live",
       "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail Tom Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 10:44:37 GMT",
+      "published": "Fri, 11 Sep 2026 10:56:32 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3290,6 +3291,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "トッテナム最新: Bergvall サイン新契約",
+      "summary": "",
+      "title_original": "Tottenham latest: Bergvall signs new deal",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Fri, 11 Sep 2026 12:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプール最新: フラオラは、フルハムゲームの先を語る",
+      "summary": "",
+      "title_original": "Liverpool latest: Iraola speaks ahead of Fulham game",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Fri, 11 Sep 2026 11:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "スペイングランプリ: ドライバーは、初めてのライブで新しいマドリングを受け取ります!",
       "summary": "",
       "title_original": "Spanish GP: Drivers take on new Madring for first time LIVE!",
@@ -3297,6 +3326,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13583697/f1-spanish-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-at-new-madring-circuit-in-madrid",
       "published": "Fri, 11 Sep 2026 11:50:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「1 セントあたり100 マイル!」 - カーディフは、フューリー対 AJ の潜在的な会場として登場",
+      "summary": "タイソン・フューリー’s マネージャーが確認しました Anthony Joshua 戦いは、カルディフが潜在的な会場として出現するように「100 パーセントの出来事」です。",
+      "title_original": "‘Fight 100 per cent on!’ - Cardiff emerges as potential venue for Fury vs AJ",
+      "summary_original": "Tyson Fury’s manager has confirmed that the Anthony Joshua fight is \"100 per cent happening\" as Cardiff emerges as a potential venue.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13584352/tyson-fury-vs-anthony-joshua-fight-is-100-per-cent-happening-says-furys-manager-as-cardiff-emerges-as-potential-venue",
+      "published": "Fri, 11 Sep 2026 10:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3521,48 +3564,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13584261/solheim-cup-thats-how-you-make-a-par-grant-holes-out-from-bunker",
       "published": "Fri, 11 Sep 2026 09:22:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「素晴らしいスポーツチケット」 -US Open 昼、夜のセッションフォーマットを維持するためのチーフ誓い",
-      "summary": "US Open スタッフ Craig Tiley 獲得を問い合わせ Sky Sports 昼と夜に2 試合を2 回開催する予定フラッシング・メドウズ・コロナ・パークで 2027.",
-      "title_original": "'A great sporting ticket' - US Open chief vows to keep day, night session format",
-      "summary_original": "US Open chief Craig Tiley has told Sky Sports Tennis he plans on keeping two matches during the day and two at night at Flushing Meadows in 2027.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13583815/us-open-chief-craig-tiley-tells-sky-sports-tennis-he-plans-on-keeping-day-and-night-format-at-flushing-meadows-in-2027",
-      "published": "Thu, 10 Sep 2026 22:26:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ユーロ最新: Kane スコア としてバイエルンスラッシュボド",
-      "summary": "",
-      "title_original": "Euro latest: Kane scores as Bayern thrash Bodo",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "published": "Wed, 09 Sep 2026 22:00:00 BST",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Is US OpenZverev の正式性を勝ち取るか、家の希望は長い干ばつを壊すことができるか?",
-      "summary": "ベン・シェルトンそして、Frances Tiafoe 初めてのアメリカ人男性になるために彼らの探求を続けていきますグランドスラムチャンピオンシップ Andy Roddick's2003 年 トライアンフフラッシング・メドウズ・コロナ・パークとして全米オープンセミファイナルステージに到達。",
-      "title_original": "Is US Open win a formality for Zverev or could home hope break long drought?",
-      "summary_original": "Ben Shelton and Frances Tiafoe will continue their ⁠quest to become the first American men's Grand Slam champion ⁠since Andy Roddick's 2003 triumph at Flushing Meadows as the US Open reaches its semi-final stage.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13583808/us-open-is-mens-singles-victory-a-formality-for-alexander-zverev-or-will-ben-shelton-frances-tiafoe-or-karen-khachanov-trouble-him",
-      "published": "Thu, 10 Sep 2026 21:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
