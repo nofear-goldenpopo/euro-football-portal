@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T13:09:17.957086+00:00",
+  "updated_at": "2026-09-11T13:27:01.830451+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2460,7 +2460,10 @@
     "St Leger Festival": "",
     "Pedro Neto’s": "",
     "The Portugal": "",
-    "Xabi Alonso. He": ""
+    "Xabi Alonso. He": "",
+    "Vini Jr": "ヴィニシウス・ジュニオール",
+    "Vinicius Jr": "ヴィニシウス・ジュニオール",
+    "From Olise’s": ""
   },
   "items": [
     {
@@ -2520,6 +2523,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・ユナイテッド過去のサバを4 つ入れるチャンピオンズリーグフィードバック",
+      "summary": "マンチェスター・ユナイテッド最大の記録チャンピオンズリーグ彼らが掃引するように2020 年以来の勝利 Sabah FK 獲得を問い合わせオールド・トラッフォード.",
+      "title_original": "Man Utd put four past Sabah on Champions League return",
+      "summary_original": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 21:01:24 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "モウリーニョ比較するエムバペそして、ヴィニシウス・ジュニオールブート後の果樹に",
+      "summary": "レアル・マドリードログインジョゼ・モウリーニョ星デュオのファン「ワン・ピース」キリアン・エムバペそして、ヴィニシウス・ジュニオール今週はサポーターズが応援してくれました。",
+      "title_original": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
+      "summary_original": "Real Madrid boss Jose Mourinho says fans \"want a piece\" of star duo Kylian Mbappe and Vinicius Jr after they were booed by supporters this week.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly41qwpg4do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 13:22:13 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "オリズスコアは2 回として得ますバイエルンスラッシュボデ/グリムト",
+      "summary": "イギリスのキャプテンハリー・ケインスコア 55 位チャンピオンズリーグ目標と目標 Michael Olise として2 回打つことバイエルン・ミュンヘン着心地のよいビートでキャンペーンを開始ボデ/グリムト.",
+      "title_original": "Olise scores twice as Bayern thrash Bodo/Glimt",
+      "summary_original": "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1mvzgmdje5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 21:50:13 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Bergvall サイントッテナム彼が去りたいと言った後の対処",
       "summary": "スウェーデンのミッドフィルダーLucas Bergvall 新規契約締結トッテナム放置したいクラブを伝えた後。",
       "title_original": "Bergvall signs Tottenham deal after saying he wanted to leave",
@@ -2548,34 +2593,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド過去のサバを4 つ入れるチャンピオンズリーグフィードバック",
-      "summary": "マンチェスター・ユナイテッド最大の記録チャンピオンズリーグ彼らが掃引するように2020 年以来の勝利 Sabah FK 獲得を問い合わせオールド・トラッフォード.",
-      "title_original": "Man Utd put four past Sabah on Champions League return",
-      "summary_original": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 21:01:24 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "オリズスコアは2 回として得ますバイエルンスラッシュボデ/グリムト",
-      "summary": "イギリスのキャプテンハリー・ケインスコア 55 位チャンピオンズリーグ目標と目標 Michael Olise として2 回打つことバイエルン・ミュンヘン着心地のよいビートでキャンペーンを開始ボデ/グリムト.",
-      "title_original": "Olise scores twice as Bayern thrash Bodo/Glimt",
-      "summary_original": "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1mvzgmdje5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 21:50:13 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ウェストハム'Alvarez denies 誘拐 accusation",
       "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
       "title_original": "West Ham's Alvarez denies kidnapping accusation",
@@ -2590,20 +2607,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リーズ欲しい ボス Farke に 'long-term'",
-      "summary": "リーズ・ユナイテッド FC ディレクターRobbie Evans クラブと上司は言うダニエル・ファルケ新規契約を承諾してみると「同じページ」になります。",
-      "title_original": "Leeds want boss Farke to stay 'long-term'",
-      "summary_original": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on the same page\" as they look to agree a new contract.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd08728rz0xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 06:00:35 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Sutton の予測 v ドーキング・ワンダラーズ FC マネージャーMarc White",
       "summary": "BBC スポーツサッカーの専門家クリス・サットン獲得を問い合わせドーキング・ワンダラーズ FC マネージャーMarc White この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
       "title_original": "Sutton's predictions v Dorking Wanderers manager Marc White",
@@ -2614,6 +2617,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リーズ欲しい ボス Farke に 'long-term'",
+      "summary": "リーズ・ユナイテッド FC ディレクターRobbie Evans クラブと上司は言うダニエル・ファルケ新規契約を承諾してみると「同じページ」になります。",
+      "title_original": "Leeds want boss Farke to stay 'long-term'",
+      "summary_original": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on the same page\" as they look to agree a new contract.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd08728rz0xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 06:00:35 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2684,20 +2701,6 @@
       "category": "bundesliga",
       "type": "bundesliga",
       "label": "ブンデス",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "自転車に乗るのが好き - EFL で見る5 つのこと",
-      "summary": "BBC スポーツは、週末のチャンピオンシップの前に5 つの重要なポイントを見て、League One そして、League Two アクション。",
-      "title_original": "Just like riding a bike - five things to watch in the EFL",
-      "summary_original": "BBC Sport looks at five key talking points before the weekend's Championship, League One and League Two action.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99dgrj1228o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 07:27:38 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2856,6 +2859,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "自転車に乗るのが好き - EFL で見る5 つのこと",
+      "summary": "BBC スポーツは、週末のチャンピオンシップの前に5 つの重要なポイントを見て、League One そして、League Two アクション。",
+      "title_original": "Just like riding a bike - five things to watch in the EFL",
+      "summary_original": "BBC Sport looks at five key talking points before the weekend's Championship, League One and League Two action.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99dgrj1228o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 07:27:38 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フェネルバフチェボス stuns クラブ による quitting 後にローマログイン",
       "summary": "Ismail Kartal リサインとしてフェネルバフチェの ヘッドコーチは、トルコ側の 1-1 の後にわずか数分で引きますローマ獲得を問い合わせチャンピオンズリーグ.",
       "title_original": "Fenerbahce boss stuns club by quitting after Roma draw",
@@ -2870,13 +2887,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ケースを作ることができます。チェルシー2016-17 タイトルのストライプされていますか?",
-      "summary": "Does Mauricio Pochettino ケースを持っているトッテナム後ろ向きに王冠されるべきですプレミアリーグチャンピオン?",
-      "title_original": "Can you make a case for Chelsea being stripped of 2016-17 title?",
-      "summary_original": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 13:55:43 GMT",
+      "title": "マンチェスター・ユナイテッド禁止 685 季節券保有者 オーバートゥット; ホールは、長期的な合意ニューカッスル移籍: サッカーニュース – ライブ",
+      "summary": "大会レポート 週末のサッカーの試合前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail John Matthias Jaissle 夏の新加入選手が明らかにされたマティアス・フェルナンデス＝パルド始めに近づくニューカッスル獲得を問い合わせ 21 歳からタイネサイドへ到着リール期限日には、代替として特集されているニューカッスル最後の2 つのマッチ。続きを読む...",
+      "title_original": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
+      "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail John Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+      "published": "Fri, 11 Sep 2026 13:10:34 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2884,16 +2901,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド禁止 685 季節券保有者 オーバートゥット; ホールは、長期的な合意ニューカッスル移籍: サッカーニュース – ライブ",
-      "summary": "大会レポート 週末のサッカーの試合前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail John Matthias Jaissle 夏の新加入選手が明らかにされたマティアス・フェルナンデス＝パルド始めに近づくニューカッスル獲得を問い合わせ 21 歳からタイネサイドへ到着リール期限日には、代替として特集されているニューカッスル最後の2 つのマッチ。続きを読む...",
-      "title_original": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
-      "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail John Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Continue reading...",
+      "title": "チャンピオンズリーグレビュー: アイルランドの英雄, 辞任を拒否し、モウリーニョの を返します",
+      "summary": "リーグフェーズが始まりました。From Olise’s サバのパブクリーナーへの輝きは、クイズの参加者がマネージャーを回しました, リーグのフェーズは、次のようにプレビューされていますバルセロナ’ s は、2015 年にリリースされたリューズを再びリリースするための最初のステップです。リオネル・メッシ1 つだけ主張するチャンピオンズリーグ過去10 年ぶりのタイトルカンプ・ノウ星座統計です。プレイヤーは、メッシ成功者、ラミン・ヤマル、既にヨーロッパおよび worl です",
+      "title_original": "Champions League review: Irish heroics, rejected resignations and Mourinho’s return",
+      "summary_original": "The league phase has begun. From Olise’s brilliance to Sabah’s pub cleaner turned quiz contestant turned manager, there was plenty to talk about The league phase has been previewed as Barcelona’s first step toward reclaiming a crown last lifted in 2015, with disappointments aplenty since. Lionel Messi claiming just one Champions League title in the last decade of his time at Camp Nou is the starkest statistic. The player anointed as Messi’s successor, Lamine Yamal, is already a European and worl",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 12:54:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/sep/11/champions-league-review-troy-parrott-jose-mourinho-michael-olise",
+      "published": "Fri, 11 Sep 2026 12:30:04 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2982,20 +2999,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Mickels は、サバのオデッセイの終端で最新のストップとしてターンポイントを見逃してしまう |Jamie Jackson",
-      "summary": "フォワードの洗練された機会は、試合が証明された決定を強調するチャンピオンズリーグ新規参入者の損失マンチェスター・ユナイテッドサッカー – 人生の多くのような – 何がされているかの物語することができます, そして 39 分 Joy-Lance Mickels センター・フォワードとサバのスライディング・ドアの瞬間だった経験があり、長い間待っていた。アゼルバイジャンのチャンピオンは、Matheus Cunha’s 開いているとき Kaheem Parris ボールを遠くまでスパイラルアップマンチェスター・ユナイテッドゴール。ルアー",
-      "title_original": "Mickels miss a turning point as latest stop in Sabah’s odyssey ends with regret | Jamie Jackson",
-      "summary_original": "Forward’s spurned opportunity to level the match proved decisive in the Champions League newcomers’ loss to Manchester United Football – like much of life – can be a story of what might have been, and on 39 minutes Joy-Lance Mickels had an experience that was a sliding doors moment for the centre-forward and Sabah that may haunt a long time. Azerbaijan’s champions were trailing to Matheus Cunha’s opener when Kaheem Parris spiralled the ball up to the far post of Manchester United’s goal. The lur",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-european-odyssey-champions-league-analysis",
-      "published": "Thu, 10 Sep 2026 22:56:27 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「Football はお父さんの生活を保存」:イングランドの女性のパーキンソンのチームのコーチを満たします",
       "summary": "彼の診断後に彼女のお父さんを歩くサッカーに取得し始めました – 今 Gemma Darvill ツアーに全国のチームを連れて行く Canada When Gemma Darvill’s お父さん、レは、58 歳のパーキンソン病と診断され、ウォーキングフットボールチームに参加し、彼自身を自分の家に閉じるのを止め、彼女はゲームが彼の人生を救ったと信じていた。彼が予見したことがなかったことは、8 年後、彼女は最初のイングランドの女性のパーキンソンのチームをコーチングし、変換を支援します",
       "title_original": "‘Football saved Dad’s life’: meet the coach of the England women’s Parkinson’s team",
@@ -3007,20 +3010,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Why Kai Havertz’s ダミーは、おそらくより喜ばしいだったリオネル・メッシワルツ |Max Rushden",
-      "summary": "アーセナルストライカーは、私たちの恵みを思い出させました ノンストップのサッカーのペースで、彼の不随意な騒音改善作用で存在することができます During Covid, スポーツが戻っていたが、閉鎖したドアの背後にあるとき, 私は実際の生活の空隙を埋めるために、いくつかの奇妙なオンラインショーをホストしました. ハイライトはチャットでした Darren Gough ズームコールで45 分から15 小箱までのライフサイズのブロンズリノセロスについて。誰が誰だったのか、そして、リノセロがどこから来たのかは思い出しません。しかし、それは彼の庭にいるかもしれません。死に終える",
-      "title_original": "Why Kai Havertz’s dummy was perhaps more pleasing than a Lionel Messi waltz | Max Rushden",
-      "summary_original": "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind closed doors, I hosted a number of strange online shows to fill the void of real life. The highlight was chatting to Darren Gough about a lifesize bronze rhinoceros for 45 minutes to 15 small boxes on a Zoom call. I don’t recall who it was for and where the rhinoceros came from – but it might be in his garden. I ended up doing virt",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/kai-havertz-arsenal-max-rushden-comment",
-      "published": "Thu, 10 Sep 2026 13:00:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3108,6 +3097,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "フェネルバフチェドロー後のコーチ辞任ローマ– しかし、大統領は彼が滞在すると主張します",
+      "summary": "Ismail Kartal 報告者に「戻りにくれない」クラブ・プレジデントを残します:「私は彼のシニアです、私は彼を続けて言った」 ザ・オブ・ザ・フェネルバフチェヘッドコーチ,Ismail Kartal 入社後、木曜の辞典を自宅に1−1 を退社ローマ獲得を問い合わせチャンピオンズリーグ- しかし、分は、クラブの大統領はカルタルが仕事に滞在すると述べた。カルタルは、彼が渇望していたと主張することによって、ポストマッチプレス会議を衝撃しましたフェネルバフチェ「戻りたい」 65 歳が入るのに、彼は劇的をとっていた",
+      "title_original": "Fenerbahce coach resigns after draw with Roma – but president insists he will stay",
+      "summary_original": "Ismail Kartal tells reporters he will leave ‘never to return’ Club president: ‘I am his senior, I told him to continue’ The Fenerbahce head coach, Ismail Kartal, announced his resignation on Thursday after ⁠his team drew 1-1 at home to Roma in the Champions League – but minutes ⁠later, the club ⁠president ​said Kartal would stay in the job. Kartal shocked the post-match press conference by claiming he was ⁠leaving Fenerbahce “never to return”. The 65-year-old added that he was taking the drastic",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/fenerbahce-coach-resigns-ismail-kartal-roma-champions-league",
+      "published": "Thu, 10 Sep 2026 22:20:11 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "チャンピオンズリーグ: バイエルンブレイクダウンボデ/グリムト, Como を置く 4 過去の Leipzig",
       "summary": "バイエルン・ミュンヘン 5-0 ボデ/グリムト, コモ 4-1Leipzig Lens 勝 3-2 でスラヴィア・プラハ最後のガソリン ダブルバイエルン・ミュンヘンオープンチャンピオンズリーグノルウェーの5-0 発のキャンペーンボデ/グリムト獲得を問い合わせ ハーフタイム前までに6 回勝者が不満ボデ/グリムトしかし、一度クルーズジャマル・ムシアラ開口部に2 分マッシュし、第2 期に水門が開通しました。続きを読む...",
       "title_original": "Champions League: Bayern break down Bodø/Glimt, Como put four past Leipzig",
@@ -3143,20 +3146,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/10/chelsea-2016-17-premier-league-title-tottenham-mauricio-pochettino",
       "published": "Thu, 10 Sep 2026 06:00:18 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "デクラン・ライスシュラグオフアーセナル季節が持続可能である60 試合を懸念し、言う",
-      "summary": "アーセナルモニタリング中フィールドワーカーのワークロード米は、昨年シーズンに痛みを伴う注射を受けたデクラン・ライス彼の体は、60 以上の外観を再び維持することができます主張しているにもかかわらず、今シーズンアーセナル痛みを伴った後の悩み World Cup. Rice ラック アップ 69 外観 最後の季節 のためにアーセナルそしてイングランドは、中に明らかにした World Cup 彼は神経の背中とハムストの痛みを管理していた、彼は痛みのキルティング注射を受けたことが理解されているために、ハムスト i の後",
-      "title_original": "Declan Rice shrugs off Arsenal concerns and says 60 games a season is sustainable",
-      "summary_original": "Arsenal are monitoring midfielder’s workload Rice received painkilling injections last season Declan Rice has insisted his body can sustain more than 60 appearances again this season, despite Arsenal’s concerns after he played through pain at the World Cup. Rice racked up 69 appearances last season for Arsenal and England but revealed during the World Cup he had been managing neural back and hamstring pain, for which he is understood to have received a pain-killing injection, after a hamstring i",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/declan-rice-arsenal-workload-concerns-sustainable",
-      "published": "Thu, 10 Sep 2026 11:00:22 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3234,17 +3223,31 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「夢が叶う」:舞台裏で Wolves Women 新しい時代に入る",
-      "summary": "ガーディアンは、完全に専門的側面として、最初のシーズンの始まりに Wolves に加わりました。彼らはプッシュオーバーのないショーに決定しました。突然、バストリング教室の後ろに Guru Nanak Satsang Sikh グルドワはほぼサイレントに落ち、すべての目がオンです Dan McNamara. The Wolves ヘッドコーチ、レスリングレッスンを経験し、緊張したタクソールに従事しています。相手の頂上、部屋の噴火で、ツイスト、パッティング、ヘービング、最終的には終わる。McNamara の課題をいくつか比較",
-      "title_original": "‘A dream come true’: behind the scenes with Wolves Women as they enter new era",
-      "summary_original": "The Guardian joined Wolves at the start of their first season as a fully professional side, determined to show they’re no pushovers Suddenly the bustling classroom at the back of the Guru Nanak Satsang Sikh Gurdwara falls almost silent and all eyes are on Dan McNamara. The Wolves head coach, experiencing a wrestling lesson, is engaged in a tense tussle. He twists, panting and heaving, eventually ends up on top of his opponent, and the room erupts. Compared with some of the challenges McNamara an",
+      "title": "Mickels は、サバのオデッセイの終端で最新のストップとしてターンポイントを見逃してしまう |Jamie Jackson",
+      "summary": "フォワードの洗練された機会は、試合が証明された決定を強調するチャンピオンズリーグ新規参入者の損失マンチェスター・ユナイテッドサッカー – 人生の多くのような – 何がされているかの物語することができます, そして 39 分 Joy-Lance Mickels センター・フォワードとサバのスライディング・ドアの瞬間だった経験があり、長い間待っていた。アゼルバイジャンのチャンピオンは、Matheus Cunha’s 開いているとき Kaheem Parris ボールを遠くまでスパイラルアップマンチェスター・ユナイテッドゴール。ルアー",
+      "title_original": "Mickels miss a turning point as latest stop in Sabah’s odyssey ends with regret | Jamie Jackson",
+      "summary_original": "Forward’s spurned opportunity to level the match proved decisive in the Champions League newcomers’ loss to Manchester United Football – like much of life – can be a story of what might have been, and on 39 minutes Joy-Lance Mickels had an experience that was a sliding doors moment for the centre-forward and Sabah that may haunt a long time. Azerbaijan’s champions were trailing to Matheus Cunha’s opener when Kaheem Parris spiralled the ball up to the far post of Manchester United’s goal. The lur",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/wolves-women-professional-footballers-wsl2-super-league-two",
-      "published": "Wed, 09 Sep 2026 11:00:06 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-european-odyssey-champions-league-analysis",
+      "published": "Thu, 10 Sep 2026 22:56:27 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Why Kai Havertz’s ダミーは、おそらくより喜ばしいだったリオネル・メッシワルツ |Max Rushden",
+      "summary": "アーセナルストライカーは、私たちの恵みを思い出させました ノンストップのサッカーのペースで、彼の不随意な騒音改善作用で存在することができます During Covid, スポーツが戻っていたが、閉鎖したドアの背後にあるとき, 私は実際の生活の空隙を埋めるために、いくつかの奇妙なオンラインショーをホストしました. ハイライトはチャットでした Darren Gough ズームコールで45 分から15 小箱までのライフサイズのブロンズリノセロスについて。誰が誰だったのか、そして、リノセロがどこから来たのかは思い出しません。しかし、それは彼の庭にいるかもしれません。死に終える",
+      "title_original": "Why Kai Havertz’s dummy was perhaps more pleasing than a Lionel Messi waltz | Max Rushden",
+      "summary_original": "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind closed doors, I hosted a number of strange online shows to fill the void of real life. The highlight was chatting to Darren Gough about a lifesize bronze rhinoceros for 45 minutes to 15 small boxes on a Zoom call. I don’t recall who it was for and where the rhinoceros came from – but it might be in his garden. I ended up doing virt",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/kai-havertz-arsenal-max-rushden-comment",
+      "published": "Thu, 10 Sep 2026 13:00:36 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3276,13 +3279,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Dani Olmo:「勝つ」World Cup 人生を変える",
-      "summary": "の 1 つバルセロナの 8World Cup スペインの勝利は、スペインの勝利が彼らを刺激する方法を反映していますチャンピオンズリーグダニ・オロモは、右腕に向かってノド。「Look: goosebumps」と彼は言います。The Spain ミッドフィルダーは、奥の部屋に座っていますバルセロナジョアン・ガンパーのトレーニング・グラウンドは、彼が世界チャンピオンだったことを知った瞬間をピンポイントしようとしています。「Ferran [Torres] の mum で私の心にイメージがあります。彼女を抱く、涙の中で私たち2 つ」と彼は言います。「あなたの息子が何をしたか...私たちは皆、何をしたか...これは彼の",
-      "title_original": "Dani Olmo: ‘Winning the World Cup changes you, it changes your life’",
-      "summary_original": "One of Barcelona’s eight World Cup winners reflects on how Spain’s triumph is inspiring them in the Champions League Dani Olmo nods towards his right arm. “Look: goosebumps,” he says. The Spain midfielder is sitting in a back room at Barcelona’s Joan Gamper training ground trying to pinpoint the moment he knew he was a world champion. “There’s an image in my mind with Ferran [Torres]’s mum: hugging her, the two of us in tears,” he says. “‘What your son just did … what we all did … this is histor",
+      "title": "「夢が叶う」:舞台裏で Wolves Women 新しい時代に入る",
+      "summary": "ガーディアンは、完全に専門的側面として、最初のシーズンの始まりに Wolves に加わりました。彼らはプッシュオーバーのないショーに決定しました。突然、バストリング教室の後ろに Guru Nanak Satsang Sikh グルドワはほぼサイレントに落ち、すべての目がオンです Dan McNamara. The Wolves ヘッドコーチ、レスリングレッスンを経験し、緊張したタクソールに従事しています。相手の頂上、部屋の噴火で、ツイスト、パッティング、ヘービング、最終的には終わる。McNamara の課題をいくつか比較",
+      "title_original": "‘A dream come true’: behind the scenes with Wolves Women as they enter new era",
+      "summary_original": "The Guardian joined Wolves at the start of their first season as a fully professional side, determined to show they’re no pushovers Suddenly the bustling classroom at the back of the Guru Nanak Satsang Sikh Gurdwara falls almost silent and all eyes are on Dan McNamara. The Wolves head coach, experiencing a wrestling lesson, is engaged in a tense tussle. He twists, panting and heaving, eventually ends up on top of his opponent, and the room erupts. Compared with some of the challenges McNamara an",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/dani-olmo-spain-world-cup-barcelona-champions-league",
-      "published": "Wed, 09 Sep 2026 07:00:02 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/09/wolves-women-professional-footballers-wsl2-super-league-two",
+      "published": "Wed, 09 Sep 2026 11:00:06 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハーランド二重でとしてチャンピオンズリーグリターン |Football Weekly– ビデオ",
+      "summary": "Max Rushden 獲得を問い合わせ Barry Glendenning , Nicky Bandini そして、Archie Rhind-Tutt 戻りの議論チャンピオンズリーグ続きを読む...",
+      "title_original": "Haaland at the double as Champions League returns | Football Weekly – video",
+      "summary_original": "Max Rushden is joined by Barry Glendenning , Nicky Bandini and Archie Rhind-Tutt to discuss the return of the Champions League Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/sep/09/haaland-at-the-double-as-champions-league-returns-football-weekly-video-podcast",
+      "published": "Wed, 09 Sep 2026 12:09:07 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -3290,17 +3307,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Men’s Ballond’Or 2026 パワーランキング:25 年ぶりに英語の勝者はありますか?",
-      "summary": "10 月1 日(水)より、当選者賞のショートリストに出場する選手の順位を評価します。ハリー・ケイン(イングランド/バイエルン・ミュンヘン) 目標 drunken のために調節してもブンデスリーガ, 彼の 61 の目標 51 のためのマッチバイエルン最後のシーズンは、彼のプレーメイキングとホールドアップスキルを考慮して、彼のオールラウンドインパクトを発揮します。Kane はイングランドのあとでゲームを予定していた World Cup, しかし、彼は最後の 16 日までに彼のキャリアの最高の年を閉じるために停止することができませんでした. なし",
-      "title_original": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
-      "summary_original": "We assess the standing of the players on the shortlist for the award before the winner is announced in October 1) Harry Kane (England/Bayern Munich) Even adjusting for the goal-drunken Bundesliga, his 61 goals in 51 matches for Bayern last season undersells his all-around impact, considering his playmaking and hold-up skills. Kane was gameplanned out of England’s later games at the World Cup, but he was unstoppable through the last 16 to close out the finest year of his career to date. If not no",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe",
-      "published": "Wed, 09 Sep 2026 13:04:35 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": true,
+      "title": "エヴァートン最新: 開始する準備が整いましたトッテナム, 言う モイズ",
+      "summary": "",
+      "title_original": "Everton latest: Grealish ready to start at Spurs, says Moyes",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "published": "Fri, 11 Sep 2026 13:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3416,6 +3433,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ヨーロッパのシェアスピルスと Team USA タイトなフォーサムセッション",
+      "summary": "金曜日のフォーサムのハイライト Solheim Cup 獲得を問い合わせ Bernardus Golf, でオランダ.",
+      "title_original": "Europe share spoils with Team USA in tight foursomes session",
+      "summary_original": "Highlights of the Friday foursomes from the Solheim Cup at Bernardus Golf, in the Netherlands.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584421/solheim-cup-8211-friday-foursomes-highlights",
+      "published": "Fri, 11 Sep 2026 13:39:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェルシー最新: キャッシュアウトハルネットサイン新規契約としてのゲーム",
+      "summary": "",
+      "title_original": "Chelsea latest: Caicedo out of Hull game as Neto signs new contract",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Fri, 11 Sep 2026 10:07:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "スペイングランプリ: ドライバーが初めてのライブでマドリングを取るため、ラッセル最速!",
       "summary": "",
       "title_original": "Spanish GP: Russell fastest as drivers take on Madring for first time LIVE!",
@@ -3427,20 +3472,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシー最新:プレスカンファレンス LIVE で Alonso を話そう!",
-      "summary": "",
-      "title_original": "Chelsea latest: Alonso speaking in press conference LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Fri, 11 Sep 2026 10:07:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3472,9 +3503,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "強烈な朝のセッションの後に150 未満のパキスタントレイルイングランド LIVE!",
+      "title": "マクスタン・トレイル・イングランドが150 未満のライブで1 世紀近くでマズード!",
       "summary": "",
-      "title_original": "Pakistan trail England by under 150 after strong morning session LIVE!",
+      "title_original": "Masood nearing century as Pakistan trail England by under 150 LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13584253/england-vs-pakistan-third-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3553,34 +3584,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "York Knights 仕上げ メイド シーズン と thrashing の Bradford Bulls",
-      "summary": "ハイライトから Super League 間の衝突 York Knights そして、Bradford Bulls.",
-      "title_original": "York Knights finish maiden season with thrashing of Bradford Bulls",
-      "summary_original": "Highlights from the Super League clash between York Knights and Bradford Bulls.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584179/york-knights-35-16-bradford-bulls-super-league-highlights",
-      "published": "Thu, 10 Sep 2026 23:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Rybakina denies Gauff へ セットアップ blockbusterUS Open サバレンカと最終",
-      "summary": "アメリカの心は、エレーナ・リバキナサイレンス Coco Gauff そして、New York ブロックブスターを設定するクラウド US Open 最終的な反対 Aryna Sabalenka 敗北した人 Jessica Pegula3 番目のストレートタイトルから勝利を離れるフラッシング・メドウズ・コロナ・パーク.",
-      "title_original": "Rybakina denies Gauff to set up blockbuster US Open final with Sabalenka",
-      "summary_original": "American hearts were broken as Elena Rybakina silenced Coco Gauff and the New York crowd to set up a blockbuster US Open final against Aryna Sabalenka, who defeated Jessica Pegula to move a win away from her third straight title at Flushing Meadows.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13584185/us-open-elena-rybakina-defeats-coco-gauff-to-silence-new-york-crowd-and-set-up-blockbuster-final-with-aryna-sabalenka",
-      "published": "Fri, 11 Sep 2026 04:25:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
