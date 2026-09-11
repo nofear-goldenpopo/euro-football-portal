@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T12:08:06.716380+00:00",
+  "updated_at": "2026-09-11T12:31:05.047659+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2452,7 +2452,8 @@
     "Hull’s Thomas": "",
     "Mail John Matthias Jaissle": "",
     "Olid’s United": "",
-    "London City Lionesses. Simi": ""
+    "London City Lionesses. Simi": "",
+    "Nanna Koerstz Madsen's": ""
   },
   "items": [
     {
@@ -2882,7 +2883,7 @@
       "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail John Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 11:53:56 GMT",
+      "published": "Fri, 11 Sep 2026 12:10:01 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3296,6 +3297,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・ユナイテッド'10億ポンド 再建は最も厳しいテストに直面しています",
+      "summary": "マイケル・キャリックトランスフォームマンチェスター・ユナイテッド1 月の予定の後に「調整」し、1 番目から3 番目までの側面を操り、戻りを締めるチャンピオンズリーグ.",
+      "title_original": "Man Utd's £1bn rebuild faces toughest test",
+      "summary_original": "Michael Carrick transformed Manchester United's fortunes after his appointment in January, steering the side from seventh to third and clinching their return to the Champions League.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13583089/man-utd-have-highest-transfer-net-spend-since-2022-but-champions-league-return-will-test-depth-between-the-lines",
+      "published": "Tue, 08 Sep 2026 15:00:00 BST",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・ユナイテッド最新: 685 シーズン券保有者を牽引調査後禁止",
       "summary": "",
       "title_original": "Man Utd latest: 685 season-ticket holders banned after touting investigation",
@@ -3352,9 +3367,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スペイングランプリ: ハミルトンは、ドライバーが初めてのライブでマドリングを取るようにペースを設定!",
+      "title": "スペイングランプリ: Russell は、ドライバーが初めてのライブでマドリングを取るようにフェラーリに応答!",
       "summary": "",
-      "title_original": "Spanish GP: Hamilton setting pace as drivers take on Madring for first time LIVE!",
+      "title_original": "Spanish GP: Russell responds to Ferrari as drivers take on Madring for first time LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13583697/f1-spanish-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-at-new-madring-circuit-in-madrid",
@@ -3408,13 +3423,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "合法性はパキスタンの不満としてブレークスルーを作ります England LIVE!",
+      "title": "Pakistan は 132 を朝のセッションで 184-3, トレイルイングランド 136 LIVE!",
       "summary": "",
-      "title_original": "Lawrence makes breakthrough as Pakistan frustrate England LIVE!",
+      "title_original": "Pakistan add 132 in morning session to sit 184-3, trail England by 136 LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13584253/england-vs-pakistan-third-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
       "published": "Fri, 11 Sep 2026 10:10:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'She は 1 つの仕事を持っていました!' アナウンサーは、間違った名前の TWICE を言います!",
+      "summary": "アナウンサーの獲得 Nanna Koerstz Madsen's 最初のティーに2 回名前が間違っているので、Team Europe キャプテン Anna Nordqvist 獲得を問い合わせ",
+      "title_original": "'She had one job!' 😂 Announcer says wrong name TWICE!",
+      "summary_original": "The announcer got Nanna Koerstz Madsen's name wrong twice on the first tee, so Team Europe captain Anna Nordqvist had to step in.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584389/solheim-cup-announcer-says-wrong-name-twice",
+      "published": "Fri, 11 Sep 2026 12:32:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3545,34 +3574,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ユナイテッドの4-0 で学んだ3 つのこと サバを上回る |評決",
-      "summary": "Danyal Khan 私たちに彼の評決を与えるマンチェスター・ユナイテッドの 4-0 勝つ オーバー サバー に のチャンピオンズリーグ.",
-      "title_original": "Three things we learned from United's 4-0 win over Sabah | The Verdict",
-      "summary_original": "Danyal Khan gives us his verdict on Manchester United's 4-0 victory over Sabah in the Champions League.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584307/three-things-we-learnt-from-uniteds-4-0-over-sabah",
-      "published": "Fri, 11 Sep 2026 10:18:00 BST",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ペーパー: Zubimendi は去るために押しますアーセナル",
-      "summary": "金曜日の新聞から噂を移籍するトップストーリー...",
-      "title_original": "Papers: Zubimendi may push to leave Arsenal",
-      "summary_original": "The top stories and transfer rumours from Friday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584130/arsenal-transfer-news-martin-zubimendi-may-push-to-leave-premier-league-champions-paper-talk",
-      "published": "Thu, 10 Sep 2026 23:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
