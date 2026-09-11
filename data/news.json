@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T15:06:20.256131+00:00",
+  "updated_at": "2026-09-11T15:25:40.944711+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2472,7 +2472,8 @@
     "By Enzo Maresca's": "",
     "Alan Shearer": "アラン・シアラー",
     "Prime Video's": "",
-    "Shane Lowry": "シェーン・ローリー"
+    "Shane Lowry": "シェーン・ローリー",
+    "Ex-West Ham": ""
   },
   "items": [
     {
@@ -2546,6 +2547,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "例-ウェストハムストライカー・アントニオが Watford に参加",
+      "summary": "ワトフォードが元に獲得を発表ウェストハムストライカーMichail Antonio 獲得を問い合わせフリー移籍.",
+      "title_original": "Ex-West Ham striker Antonio joins Watford",
+      "summary_original": "Watford announce the signing of former West Ham United striker Michail Antonio on a free transfer.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 15:04:49 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・ユナイテッド過去のサバを4 つ入れるチャンピオンズリーグフィードバック",
       "summary": "マンチェスター・ユナイテッド最大の記録チャンピオンズリーグ彼らが掃引するように2020 年以来の勝利 Sabah FK 獲得を問い合わせオールド・トラッフォード.",
       "title_original": "Man Utd put four past Sabah on Champions League return",
@@ -2584,20 +2599,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "オリズスコアは2 回として得ますバイエルンスラッシュボデ/グリムト",
-      "summary": "イギリスのキャプテンハリー・ケインスコア 55 位チャンピオンズリーグ目標と目標 Michael Olise として2 回打つことバイエルン・ミュンヘン着心地のよいビートでキャンペーンを開始ボデ/グリムト.",
-      "title_original": "Olise scores twice as Bayern thrash Bodo/Glimt",
-      "summary_original": "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1mvzgmdje5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 21:50:13 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2711,6 +2712,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "オリズスコアは2 回として得ますバイエルンスラッシュボデ/グリムト",
+      "summary": "イギリスのキャプテンハリー・ケインスコア 55 位チャンピオンズリーグ目標と目標 Michael Olise として2 回打つことバイエルン・ミュンヘン着心地のよいビートでキャンペーンを開始ボデ/グリムト.",
+      "title_original": "Olise scores twice as Bayern thrash Bodo/Glimt",
+      "summary_original": "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1mvzgmdje5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 21:50:13 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2840,20 +2855,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヨーロッパの次の素晴らしいコーチ?How Fabregas 導かれた Como にチャンピオンズリーグ",
-      "summary": "BBC スポーツは、クラブのコーチのビジョンと哲学を発見するためにコモを訪問します,セスク・ファブレガスチームの驚くべき上昇を上回っている人チャンピオンズリーグ.",
-      "title_original": "Europe's next great coach? How Fabregas led Como into Champions League",
-      "summary_original": "BBC Sport visits Como to discover the vision and philosophy of the club's coach, Cesc Fabregas, who has overseen the team's remarkable rise to the Champions League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 07:35:25 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マンチェスター・ユナイテッド685 ファンアカウントをトウト後の禁止",
       "summary": "マンチェスター・ユナイテッド685 ファンアカウントを禁止します。チケットのトウト調査とイノセントファンは罰されていません。",
       "title_original": "Man Utd ban 685 fan accounts after touting probe",
@@ -2865,6 +2866,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マーティンは批判が「本当に個人的」になったと述べています",
+      "summary": "レスター・シティ FC ログイン Russell Martin 彼が「多くの人を集める」と批判が「個人的に来る」と言った理由はわかりません。",
+      "title_original": "Martin says criticism has become 'really personal'",
+      "summary_original": "Leicester City boss Russell Martin does not know why he \"upsets so many people\" and says criticism has \"become personal\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ydqvvlqk3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 14:54:09 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2882,27 +2897,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "私は誰ですか? ログインブンデスリーガ星 3",
-      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
-      "title_original": "Who am I? Guess Bundesliga star No 3",
-      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z0d4z750o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 11:31:33 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド禁止 685 季節券保有者 オーバートゥット; ホールは、長期的な合意ニューカッスル移籍: サッカーニュース – ライブ",
-      "summary": "大会レポート 週末のサッカーの試合前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail Tom Matthias Jaissle 夏の新加入選手が明らかにされたマティアス・フェルナンデス＝パルド始めに近づくニューカッスル獲得を問い合わせ 21 歳からタイネサイドへ到着リール期限日には、代替として特集されているニューカッスル最後の2 つのマッチ。月曜日のツルツルに先立ち、リーズ Jaissle 氏は次のように述べています。ロードマでスマートにする必要があると言いました",
-      "title_original": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
-      "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail Tom Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Speaking ahead of Monday’s clash with Leeds, Jaissle said: “Yeah, he’s getting closer. I said that we need to be smart with his load ma",
+      "title": "マンチェスター・ユナイテッド禁止 685 四季折々のチケットホルダー オーバートゥット; ワトフォード サイン アントニオ: サッカーのニュース – ライブ",
+      "summary": "大会レポート 週末のサッカーの試合前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail John Matthias Jaissle 夏の新加入選手が明らかにされたマティアス・フェルナンデス＝パルド始めに近づくニューカッスル獲得を問い合わせ 21 歳からタイネサイドへ到着リール期限日には、代替として特集されているニューカッスル最後の2 つのマッチ。月曜日のツルツルに先立ち、リーズ Jaissle 氏は次のように述べています。ロード m でスマートにする必要があると言いました",
+      "title_original": "Manchester United ban 685 season-ticket holders over touting; Watford sign Antonio: football news – live",
+      "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail John Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Speaking ahead of Monday’s clash with Leeds, Jaissle said: “Yeah, he’s getting closer. I said that we need to be smart with his load m",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 14:59:18 GMT",
+      "published": "Fri, 11 Sep 2026 15:09:39 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2911,9 +2912,9 @@
     },
     {
       "title": "チャンピオンズリーグデータの開口部は、英語の優位性とあまり少ない衝撃を示しています",
-      "summary": "リーグの第1 ラウンドの数字は、イタリアのチームに苦しむレベルまでインテル敗北に感銘レアル・マドリード2026-27 のチャンピオンズリーグ獲得を問い合わせ ノックアウトフェーズで24 チームが機能するまで、まだ126 の試合がありますが、まだ何も学習していないわけではありません。週1 回から話している重要なデータです。続きを読む...",
+      "summary": "リーグの第1 ラウンドの数字は、イタリアのチームでも苦しむインテル敗北に感銘レアル・マドリード2026-27 のチャンピオンズリーグ獲得を問い合わせ ノックアウトフェーズで24 チームが機能するまで、まだ126 の試合がありますが、まだ何も学習していないわけではありません。週1 回からポイントを話せるキーデータです。続きを読む...",
       "title_original": "Champions League opening data shows English dominance and too few shocks",
-      "summary_original": "The numbers from the first round of the league phase point to Italian teams struggling even if Inter impressed in defeat at Real Madrid The 2026-27 Champions League is under way. There are still 126 matches to play until we know which 24 teams will feature in the knockout phase but that doesn’t mean we haven’t learned anything yet. Here are the key data talking-points from week one. Continue reading...",
+      "summary_original": "The numbers from the first round of the league phase point to Italian teams struggling even if Inter impressed in defeat at Real Madrid The 2026-27 Champions League is under way. There are still 126 matches to play until we know which 24 teams will feature in the knockout phase but that doesn’t mean we haven’t learned anything yet. Here are the key data talking points from week one. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/11/champions-league-opening-data-shows-english-dominance-and-too-few-shocks",
       "published": "Fri, 11 Sep 2026 13:29:16 GMT",
@@ -2924,6 +2925,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Football Daily | ミケル・アルテタ彼のチャンピオンのための新しい心理的な wheeze に当たる",
+      "summary": "今すぐ登録! 今すぐ登録! 今すぐサインアップ 今すぐ登録!アメリカ合衆国 e の 心理的 ストラテジー と ピッチサイド または ロッカー ルーム の sabotage は 長い 採用 サッカー マネージャー しようとしている チーム に エッジ 以上 訪問 ライバル. それはペグを高すぎるか、シートが低すぎるか、壁をピンクの攻撃的な低下の色合いに塗るか、長いスローを防ぐために広告ホアディングを意図的に動かすかどうか、明らかに、彼らは彼らがそうなら、コーチングスタッフを招く石はありません",
+      "title_original": "Football Daily | Mikel Arteta hits upon a new psychological wheeze for his champions",
+      "summary_original": "Sign up now! Sign up now! Sign up now? Sign up now! The use of psychological stratagems and pitchside or locker-room sabotage has long been employed by football managers trying to give their teams an edge over visiting rivals. Whether it’s placing the pegs too high or the seats too low, painting the walls an aggression-lowering shade of pink or deliberately moving the advertising hoardings to prevent long throws, there are apparently no stones conniving coaching staff will leave unturned if they",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/11/football-daily-email-mikel-arteta-arsenal",
+      "published": "Fri, 11 Sep 2026 14:13:06 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "チェルシーハンドペドロ・ネト 新契約自分の拒絶の目覚めにマンチェスター・シティ",
       "summary": "複数のクラブによる夏の追い越し後のウィンガーシンキングチェルシーフェルナンデスを市に売る感じが右手だったチェルシーやりがいのある方ペドロ・ネトウィンガーを新しい契約で手渡すことで、シーズンへの強いスタートとクラブへのコミットメント。The Portugal インテル国民は夏を過ごしましたインテルいくつかから est プレミアリーグクラブを含むマンチェスター・シティ, しかし、滞在し、遊びたいという願望を示したシャビ・アロンソ. 彼は、余分な年の選択と5 年間の契約を結び、支払いの上昇を受け取ることです。アロンソ",
       "title_original": "Chelsea hand Pedro Neto new deal in wake of his rejecting Manchester City",
@@ -2931,6 +2946,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/11/chelsea-pedro-neto-new-contract-xabi-alonso",
       "published": "Fri, 11 Sep 2026 12:55:05 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マーエスカは、ダービークラッシュの前に「マンチェスターの王様」掘り上アンダーソンを支持",
+      "summary": "マーエスカ:「アンダーソンが育ったときの都市優れ」O’Reilly によるリターンが、Doku は怪我の後に収まらない Enzo Maresca バックアップ済み Elliot Anderson’s アセスメントマンチェスター・シティマンチェスターの王様は、クラブの担当で初めてのダービーを準備する。都市旅行オールド・トラッフォード日曜日は、Maresca での生活に完璧なスタートを続け、さらにアンダーソンのポイントを証明しようとする。23 歳のミッドフィルダーは、獲得から彼の主張をしましたノッティンガム・フォレスト要約で1億1600万ポンド のために",
+      "title_original": "Maresca backs Anderson over ‘kings of Manchester’ dig before derby clash",
+      "summary_original": "Maresca: ‘City dominant when Anderson grew up’ O’Reilly due to return but Doku not fit after injury Enzo Maresca has backed Elliot Anderson’s assessment that Manchester City are the “ kings of Manchester ” as he prepares for his first derby in charge of the club. City travel to Old Trafford on Sunday seeking to continue their perfect start to life under Maresca and further prove Anderson’s point. The 23-year-old midfielder made his claim upon signing from Nottingham Forest for £116m in the summe",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/11/maresca-backs-elliot-anderson-kings-of-manchester-derby",
+      "published": "Fri, 11 Sep 2026 11:02:07 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2966,34 +2995,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Football Daily | ミケル・アルテタ彼のチャンピオンのための新しい心理的な wheeze に当たる",
-      "summary": "今すぐ登録! 今すぐ登録! 今すぐサインアップ 今すぐ登録!アメリカ合衆国 e の 心理的 ストラテジー と ピッチサイド または ロッカー ルーム の sabotage は 長い 採用 サッカー マネージャー しようとしている チーム に エッジ 以上 訪問 ライバル. それはペグを高すぎるか、シートが低すぎるか、壁をピンクの攻撃的な低下の色合いに塗るか、長いスローを防ぐために広告ホアディングを意図的に動かすかどうか、明らかに、彼らは彼らがそうなら、コーチングスタッフを招く石はありません",
-      "title_original": "Football Daily | Mikel Arteta hits upon a new psychological wheeze for his champions",
-      "summary_original": "Sign up now! Sign up now! Sign up now? Sign up now! The use of psychological stratagems and pitchside or locker-room sabotage has long been employed by football managers trying to give their teams an edge over visiting rivals. Whether it’s placing the pegs too high or the seats too low, painting the walls an aggression-lowering shade of pink or deliberately moving the advertising hoardings to prevent long throws, there are apparently no stones conniving coaching staff will leave unturned if they",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/11/football-daily-email-mikel-arteta-arsenal",
-      "published": "Fri, 11 Sep 2026 14:13:06 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マーエスカは、ダービークラッシュの前に「マンチェスターの王様」掘り上アンダーソンを支持",
-      "summary": "マーエスカ:「アンダーソンが育ったときの都市優れ」O’Reilly によるリターンが、Doku は怪我の後に収まらない Enzo Maresca バックアップ済み Elliot Anderson’s アセスメントマンチェスター・シティマンチェスターの王様は、クラブの担当で初めてのダービーを準備する。都市旅行オールド・トラッフォード日曜日は、Maresca での生活に完璧なスタートを続け、さらにアンダーソンのポイントを証明しようとする。23 歳のミッドフィルダーは、獲得から彼の主張をしましたノッティンガム・フォレスト要約で1億1600万ポンド のために",
-      "title_original": "Maresca backs Anderson over ‘kings of Manchester’ dig before derby clash",
-      "summary_original": "Maresca: ‘City dominant when Anderson grew up’ O’Reilly due to return but Doku not fit after injury Enzo Maresca has backed Elliot Anderson’s assessment that Manchester City are the “ kings of Manchester ” as he prepares for his first derby in charge of the club. City travel to Old Trafford on Sunday seeking to continue their perfect start to life under Maresca and further prove Anderson’s point. The 23-year-old midfielder made his claim upon signing from Nottingham Forest for £116m in the summe",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/11/maresca-backs-elliot-anderson-kings-of-manchester-derby",
-      "published": "Fri, 11 Sep 2026 11:02:07 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Pochettino の ‘different’ vow to アメリカ合衆国不歓迎の推測を誘います",
       "summary": "アメリカ合衆国マネージャーとマネージャーの関係インテル全国ジョブが全力で変更されました World Cup サイクルは、私は願っています, この生涯で, あなたはあなたを愛している人を見つける Mauricio Pochettino ログイントッテナム. グリップトッテナム彼の心は、文学の古典のもののように感じています。: トラブルの最初の兆候で物事を離れて呼んだ彼の不完全なパートナーは、時々再会の希望を再帰するために彼でチェックしなければなりません。多分極端な, しかし、今週の黙示録 – 彼がレッツ",
       "title_original": "Pochettino’s ‘different’ vow to the US invites unwelcome speculation",
@@ -3004,6 +3005,34 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フェネルバフチェドロー後のコーチ辞任ローマ– しかし、大統領は彼が滞在すると主張します",
+      "summary": "Ismail Kartal 報告者に「戻りにくれない」クラブ・プレジデントを残します:「私は彼のシニアです、私は彼を続けて言った」 ザ・オブ・ザ・フェネルバフチェヘッドコーチ,Ismail Kartal 入社後、木曜の辞典を自宅に1−1 を退社ローマ獲得を問い合わせチャンピオンズリーグ- しかし、分は、クラブの大統領はカルタルが仕事に滞在すると述べた。カルタルは、彼が渇望していたと主張することによって、ポストマッチプレス会議を衝撃しましたフェネルバフチェ「戻りたい」 65 歳が入るのに、彼は劇的をとっていた",
+      "title_original": "Fenerbahce coach resigns after draw with Roma – but president insists he will stay",
+      "summary_original": "Ismail Kartal tells reporters he will leave ‘never to return’ Club president: ‘I am his senior, I told him to continue’ The Fenerbahce head coach, Ismail Kartal, announced his resignation on Thursday after ⁠his team drew 1-1 at home to Roma in the Champions League – but minutes ⁠later, the club ⁠president ​said Kartal would stay in the job. Kartal shocked the post-match press conference by claiming he was ⁠leaving Fenerbahce “never to return”. The 65-year-old added that he was taking the drastic",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/fenerbahce-coach-resigns-ismail-kartal-roma-champions-league",
+      "published": "Thu, 10 Sep 2026 22:20:11 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Mickels は、サバのオデッセイの終端で最新のストップとしてターンポイントを見逃してしまう |Jamie Jackson",
+      "summary": "フォワードの洗練された機会は、試合が証明された決定を強調するチャンピオンズリーグ新規参入者の損失マンチェスター・ユナイテッドサッカー – 人生の多くのような – 何がされているかの物語することができます, そして 39 分 Joy-Lance Mickels センター・フォワードとサバのスライディング・ドアの瞬間だった経験があり、長い間待っていた。アゼルバイジャンのチャンピオンは、Matheus Cunha’s 開いているとき Kaheem Parris ボールを遠くまでスパイラルアップマンチェスター・ユナイテッドゴール。ルアー",
+      "title_original": "Mickels miss a turning point as latest stop in Sabah’s odyssey ends with regret | Jamie Jackson",
+      "summary_original": "Forward’s spurned opportunity to level the match proved decisive in the Champions League newcomers’ loss to Manchester United Football – like much of life – can be a story of what might have been, and on 39 minutes Joy-Lance Mickels had an experience that was a sliding doors moment for the centre-forward and Sabah that may haunt a long time. Azerbaijan’s champions were trailing to Matheus Cunha’s opener when Kaheem Parris spiralled the ball up to the far post of Manchester United’s goal. The lur",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-european-odyssey-champions-league-analysis",
+      "published": "Thu, 10 Sep 2026 22:56:27 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3099,20 +3128,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-champions-league-match-report",
       "published": "Thu, 10 Sep 2026 21:05:24 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フェネルバフチェドロー後のコーチ辞任ローマ– しかし、大統領は彼が滞在すると主張します",
-      "summary": "Ismail Kartal 報告者に「戻りにくれない」クラブ・プレジデントを残します:「私は彼のシニアです、私は彼を続けて言った」 ザ・オブ・ザ・フェネルバフチェヘッドコーチ,Ismail Kartal 入社後、木曜の辞典を自宅に1−1 を退社ローマ獲得を問い合わせチャンピオンズリーグ- しかし、分は、クラブの大統領はカルタルが仕事に滞在すると述べた。カルタルは、彼が渇望していたと主張することによって、ポストマッチプレス会議を衝撃しましたフェネルバフチェ「戻りたい」 65 歳が入るのに、彼は劇的をとっていた",
-      "title_original": "Fenerbahce coach resigns after draw with Roma – but president insists he will stay",
-      "summary_original": "Ismail Kartal tells reporters he will leave ‘never to return’ Club president: ‘I am his senior, I told him to continue’ The Fenerbahce head coach, Ismail Kartal, announced his resignation on Thursday after ⁠his team drew 1-1 at home to Roma in the Champions League – but minutes ⁠later, the club ⁠president ​said Kartal would stay in the job. Kartal shocked the post-match press conference by claiming he was ⁠leaving Fenerbahce “never to return”. The 65-year-old added that he was taking the drastic",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/fenerbahce-coach-resigns-ismail-kartal-roma-champions-league",
-      "published": "Thu, 10 Sep 2026 22:20:11 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -3232,20 +3247,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Mickels は、サバのオデッセイの終端で最新のストップとしてターンポイントを見逃してしまう |Jamie Jackson",
-      "summary": "フォワードの洗練された機会は、試合が証明された決定を強調するチャンピオンズリーグ新規参入者の損失マンチェスター・ユナイテッドサッカー – 人生の多くのような – 何がされているかの物語することができます, そして 39 分 Joy-Lance Mickels センター・フォワードとサバのスライディング・ドアの瞬間だった経験があり、長い間待っていた。アゼルバイジャンのチャンピオンは、Matheus Cunha’s 開いているとき Kaheem Parris ボールを遠くまでスパイラルアップマンチェスター・ユナイテッドゴール。ルアー",
-      "title_original": "Mickels miss a turning point as latest stop in Sabah’s odyssey ends with regret | Jamie Jackson",
-      "summary_original": "Forward’s spurned opportunity to level the match proved decisive in the Champions League newcomers’ loss to Manchester United Football – like much of life – can be a story of what might have been, and on 39 minutes Joy-Lance Mickels had an experience that was a sliding doors moment for the centre-forward and Sabah that may haunt a long time. Azerbaijan’s champions were trailing to Matheus Cunha’s opener when Kaheem Parris spiralled the ball up to the far post of Manchester United’s goal. The lur",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-european-odyssey-champions-league-analysis",
-      "published": "Thu, 10 Sep 2026 22:56:27 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Why Kai Havertz’s ダミーは、おそらくより喜ばしいだったリオネル・メッシワルツ |Max Rushden",
       "summary": "アーセナルストライカーは、私たちの恵みを思い出させました ノンストップのサッカーのペースで、彼の不随意な騒音改善作用で存在することができます During Covid, スポーツが戻っていたが、閉鎖したドアの背後にあるとき, 私は実際の生活の空隙を埋めるために、いくつかの奇妙なオンラインショーをホストしました. ハイライトはチャットでした Darren Gough ズームコールで45 分から15 小箱までのライフサイズのブロンズリノセロスについて。誰が誰だったのか、そして、リノセロがどこから来たのかは思い出しません。しかし、それは彼の庭にいるかもしれません。死に終える",
       "title_original": "Why Kai Havertz’s dummy was perhaps more pleasing than a Lionel Messi waltz | Max Rushden",
@@ -3274,6 +3275,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "サッカーの最も有害なレッドカード s: 崩壊とターンアラウンドの簡単な歴史 |The Knowledge",
+      "summary": "プラス: 自分の本で複数の1億ポンド 選手とより多くのトロフィー・ラデンのサッカー選手とのクラブは、あなたのすべての質問に私たちをメールし、「The Saturday 最後に、Clyde は 3-0 を獲得しました。The Spartans 時間の経過後 Logan Dunachie 送信されました。20 分後、スコアは3-3 だった。ゲームの最大のターンアラウンドは、次のゲームでレッドカードプレイヤーで投げられることができる/most 量的責務は、オフに送られてもらえますか?Jamie Wills. At Knowledge タワー、私達は通常受けます",
+      "title_original": "Football’s most damaging red cards: a brief history of collapses and turnarounds | The Knowledge",
+      "summary_original": "Plus: clubs with multiple £100m players on their books and more trophy-laden footballers Mail us with your all of your questions and answers “The Saturday before last, Clyde were winning 3-0 at The Spartans after an hour when Logan Dunachie was sent off. Twenty-eight minutes later, the score was 3-3. What is the biggest turnaround in a game following a red card/most quantitative blame that can be thrown at a player for getting sent off?” asks Jamie Wills. At Knowledge Towers, we usually receive ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/09/footballs-most-damaging-red-cards-a-brief-history-of-collapses-and-turnarounds",
+      "published": "Wed, 09 Sep 2026 07:00:02 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「夢が叶う」:舞台裏で Wolves Women 新しい時代に入る",
       "summary": "ガーディアンは、完全に専門的側面として、最初のシーズンの始まりに Wolves に加わりました。彼らはプッシュオーバーのないショーに決定しました。突然、バストリング教室の後ろに Guru Nanak Satsang Sikh グルドワはほぼサイレントに落ち、すべての目がオンです Dan McNamara. The Wolves ヘッドコーチ、レスリングレッスンを経験し、緊張したタクソールに従事しています。相手の頂上、部屋の噴火で、ツイスト、パッティング、ヘービング、最終的には終わる。McNamara の課題をいくつか比較",
       "title_original": "‘A dream come true’: behind the scenes with Wolves Women as they enter new era",
@@ -3295,20 +3310,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/video/2026/sep/09/haaland-at-the-double-as-champions-league-returns-football-weekly-video-podcast",
       "published": "Wed, 09 Sep 2026 12:09:07 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チャンピオンズリーグラウンドアップ:ラフィーニャ輝きとしてバルセロナスラッシュフェイエノールト",
-      "summary": "ブラジルのスコアは、5-1 で2 回を獲得カンプ・ノウトーレススコアハットトリックとしてパリ・サンジェルマンログインスロヴァン・ブラチスラヴァ ラフィーニャボールン・ドール・ショートリストから省略された後、彼の目標は2 回窒息するバルセロナ5-1 勝つために容易フェイエノールト獲得を問い合わせチャンピオンズリーグ. ブラジルは、名誉ある賞のための候補者の今週の30strong リストからの驚きの権限だったが、雨に浸された彼の初期のシーズンの暑さを継続するために脇に任意の失望をブラシをかけたカンプ・ノウ. ザ・",
-      "title_original": "Champions League roundup: Raphinha shines as Barcelona thrash Feyenoord",
-      "summary_original": "Brazilian scores twice in 5-1 victory at Camp Nou Torres scores hat-trick as PSG thump Slovan Bratislava Raphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist, striking twice as Barcelona eased to a 5-1 win over Feyenoord in the Champions League. The Brazilian was a surprise omission from this week’s 30-strong list of candidates for the prestigious award but brushed any disappointment aside to continue his early season hot streak at a rain-soaked Camp Nou. The ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain",
-      "published": "Wed, 09 Sep 2026 22:08:45 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -3344,9 +3345,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スペイングランプリ: フェラーリ、マクラーレンは、初期のメルセデスのペースで戦うように見えます!",
+      "title": "スペイングランプリ: 近戦の第2 練習でメルセデスに挑戦するライバル!",
       "summary": "",
-      "title_original": "Spanish GP: Ferrari, McLaren look to fight back against early Mercedes pace LIVE!",
+      "title_original": "Spanish GP: Rivals challenging Mercedes in close-fought second practice LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13583697/f1-spanish-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-at-new-madring-circuit-in-madrid",
@@ -3442,6 +3443,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "レンジャーズ対比セルティック: 最初にポイントを話せるオールドファーム四季の衝突",
+      "summary": "最初ですオールドファーム四季折々のつまみとそこには League Cup ステークのセミファイナル",
+      "title_original": "Rangers vs Celtic: Talking points ahead of first Old Firm clash of season",
+      "summary_original": "It is the first Old Firm clash of the season and there is a League Cup semi-final place at stake.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13584331/rangers-vs-celtic-key-talking-points-ahead-of-first-old-firm-clash-of-season-with-league-cup-semi-final-spot-at-stake",
+      "published": "Fri, 11 Sep 2026 15:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "途中でハミルトンで複数のドライバーFUME!",
+      "summary": "いくつかのドライバーは、不満に残っていた Lewis Hamilton 初めての練習中に道に入るためにスペイングランプリ.",
+      "title_original": "Several drivers FUME at Hamilton for getting in the way!",
+      "summary_original": "Several drivers were left frustrated by Lewis Hamilton for getting in the way during first practice of the Spanish Grand Prix.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584401/spanish-grand-prix-arvid-linblad-fumes-at-lewis-hamilton-and-kimi-antonelli-during-first-practice",
+      "published": "Fri, 11 Sep 2026 13:01:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「完全な性能」 - 低い嵐への Irish Open62 ラウンドのリード",
       "summary": "シェーン・ローリー鉛への嵐への8 の円形の打撃 Irish Open.",
       "title_original": "‘A complete performance’ - Lowry storms into Irish Open lead with round of 62",
@@ -3498,9 +3527,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Russell は、他のドライバをフラスレートするハミルトンとしてマドリードで最初の練習をトップ",
+      "title": "フェラーリショーの約束としてマドリッドで初めての練習を Russell がトップス",
       "summary": "George Russell メルセデスチームメイトから最速だった Kimi Antonelli マドリッドの新しいマドリン回路で最初の練習セッションで。",
-      "title_original": "Russell tops first practice in Madrid as Hamilton frustrates other drivers",
+      "title_original": "Russell tops first practice in Madrid as Ferrari show promise",
       "summary_original": "George Russell was fastest from Mercedes team-mate Kimi Antonelli in the first practice session at the new Madring circuit in Madrid.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13584257/spanish-gp-george-russell-tops-first-practice-at-new-madring-as-lewis-hamilton-frustrates-other-drivers",
@@ -3565,34 +3594,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'Fight 100 パーセントオン!' - カーディフは、Fury 対 AJ の潜在的な会場として登場",
-      "summary": "タイソン・フューリー’s マネージャーが確認しました Anthony Joshua 戦いは、カルディフが潜在的な会場として出現するように「100 パーセントの出来事」です。",
-      "title_original": "'Fight 100 per cent on!' - Cardiff emerges as potential venue for Fury vs AJ",
-      "summary_original": "Tyson Fury’s manager has confirmed that the Anthony Joshua fight is \"100 per cent happening\" as Cardiff emerges as a potential venue.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13584352/tyson-fury-vs-anthony-joshua-fight-is-100-per-cent-happening-says-furys-manager-as-cardiff-emerges-as-potential-venue",
-      "published": "Fri, 11 Sep 2026 10:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リヴァプール最新:バルコラ Fulham では、Iraola と言う",
-      "summary": "",
-      "title_original": "Liverpool latest: Barcola should be available for Fulham, says Iraola",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Fri, 11 Sep 2026 11:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
