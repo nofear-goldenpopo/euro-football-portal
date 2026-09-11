@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T21:23:22.012323+00:00",
+  "updated_at": "2026-09-11T21:34:53.098137+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2497,9 +2497,27 @@
     "Manchester City’s Erling Haaland": "",
     "Urooj Mumtaz": "",
     "Serena Williams": "セリーナ・ウィリアムズ",
-    "Matt Peet's": ""
+    "Matt Peet's": "",
+    "Like Benzema": "",
+    "Karim Benzema": "カリム・ベンゼマ",
+    "Manchester City's Erling Haaland": "",
+    "Benzema-like Joao Pedro": ""
   },
   "items": [
+    {
+      "title": "Like Benzema としてよいハーランド- Alonso に Joao Pedro",
+      "summary": "チェルシーマネージャーシャビ・アロンソストライカーは言う Joao Pedro 彼の元によく似ているレアル・マドリードチームメイトカリム・ベンゼマ比較可能なレベルにあるマンチェスター・シティ獲得を問い合わせアーリング・ハーランド.",
+      "title_original": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
+      "summary_original": "Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and is at a comparable level to Manchester City's Erling Haaland.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 21:30:23 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "ヴァスコ・ダ・ガマへのリッチアリソンの移動は、",
       "summary": "トッテナム Richarlison の提案は、ブラジルの未来に続く不確実性に陥る Vasco da Gama への転向を提案しました。",
@@ -2683,20 +2701,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "カルタルはまだフェネルバフチェ再獲得にもかかわらず、上司",
-      "summary": "Ismail Kartal ヘッドコーチとして残っているフェネルバフチェ木曜日の辞退にもかかわらずチャンピオンズリーグゲームとローマ.",
-      "title_original": "Kartal still Fenerbahce boss despite resigning",
-      "summary_original": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game with Roma.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 19:51:32 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "例-ウェストハムストライカー・アントニオが Watford に参加",
       "summary": "ワトフォードが元に獲得を発表ウェストハムストライカーMichail Antonio 獲得を問い合わせフリー移籍.",
       "title_original": "Ex-West Ham striker Antonio joins Watford",
@@ -2865,6 +2869,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "カルタルはまだフェネルバフチェ再獲得にもかかわらず、上司",
+      "summary": "Ismail Kartal ヘッドコーチとして残っているフェネルバフチェ木曜日の辞退にもかかわらずチャンピオンズリーグゲームとローマ.",
+      "title_original": "Kartal still Fenerbahce boss despite resigning",
+      "summary_original": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game with Roma.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 19:51:32 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Gray has no issue with flak as Hibs、semi-final を獲得候補に",
       "summary": "デヴィッド・グレイハイベリニアンが彼の最初の準決勝に自分の視点を設定したので、シーズンに失望した後、彼は不満の批判に占有されていないと主張しています。",
       "title_original": "Gray has no issue with flak as Hibs eye semi-final",
@@ -2903,20 +2921,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "コリンズは、カーフケガでアイルランド共和国の疑い",
-      "summary": "アイルランドのキャプテンネイサン・コリンズこれからの始まりは間違いです Nations League 子牛の怪我を拾った後のキャンペーン。",
-      "title_original": "Collins a doubt for Republic of Ireland with calf injury",
-      "summary_original": "Republic of Ireland captain Nathan Collins is a doubt for the start of the upcoming Nations League campaign after picking up a calf injury.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c36lkl4xp0yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 15:26:54 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3425,9 +3429,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Super League's Frantic Friday ライブ! ウィガン・ドミナーテ League Leaders' Shield レース",
+      "title": "Super League's Frantic Friday ライブ! ウィガン・ドミネートとしての反応 League Leaders' Shield レース",
       "summary": "",
-      "title_original": "Super League's Frantic Friday LIVE! Wigan dominate League Leaders' Shield race",
+      "title_original": "Super League's Frantic Friday LIVE! Reaction as Wigan dominate League Leaders' Shield race",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13582812/super-leagues-frantic-friday-live-updates-commentary-videos-scores-as-wigan-warriors-and-leeds-rhinos-go-for-league-leaders-shield",
@@ -3450,6 +3454,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アロンソ:Benzema-like Joao Pedro 同じレベルにハーランド",
+      "summary": "シャビ・アロンソ獲得を問い合わせ Joao Pedro 獲得を問い合わせカリム・ベンゼマそして言ったチェルシーストライカーは同じレベルにありますアーリング・ハーランド.",
+      "title_original": "Alonso: Benzema-like Joao Pedro is on same level as Haaland",
+      "summary_original": "Xabi Alonso has likened Joao Pedro to Karim Benzema and said the Chelsea striker is on the same level as Erling Haaland.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13584444/joao-pedro-reminds-me-of-karim-benzema-and-is-on-same-level-as-erling-haaland-says-chelsea-boss-xabi-alonso",
+      "published": "Fri, 11 Sep 2026 22:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3600,20 +3618,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13583697/f1-spanish-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-at-new-madring-circuit-in-madrid",
       "published": "Fri, 11 Sep 2026 15:40:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "セルティック警察の先に「致命的な行動」メッセージを与えるオールドファームログイン",
-      "summary": "マーティン・オニール明らかにされたセルティック「一般行動」の警告を与えられた Police Scotland 獲得を問い合わせ Sunday's League Cup 四半期末比に対するレンジャーズ Ibrox で。",
-      "title_original": "Celtic given 'general behaviour' message by police ahead of Old Firm clash",
-      "summary_original": "Martin O'Neill revealed Celtic were given a \"general behaviour\" warning by Police Scotland ahead of Sunday's League Cup quarter-final against Rangers at Ibrox.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584448/rangers-vs-celtic-martin-oneill-reveals-general-behaviour-message-from-police-ahead-of-old-firm-league-cup-clash",
-      "published": "Fri, 11 Sep 2026 15:15:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
