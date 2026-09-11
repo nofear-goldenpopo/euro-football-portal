@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T12:49:47.423640+00:00",
+  "updated_at": "2026-09-11T13:09:17.957086+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2457,7 +2457,10 @@
     "Simi Awujo’s": "",
     "Amelia Earhart": "アメリア・イアハート",
     "The Weekend Winners": "",
-    "St Leger Festival": ""
+    "St Leger Festival": "",
+    "Pedro Neto’s": "",
+    "The Portugal": "",
+    "Xabi Alonso. He": ""
   },
   "items": [
     {
@@ -2489,20 +2492,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド過去のサバを4 つ入れるチャンピオンズリーグフィードバック",
-      "summary": "マンチェスター・ユナイテッド最大の記録チャンピオンズリーグ彼らが掃引するように2020 年以来の勝利 Sabah FK 獲得を問い合わせオールド・トラッフォード.",
-      "title_original": "Man Utd put four past Sabah on Champions League return",
-      "summary_original": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 21:01:24 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "チームは備品のスケジューリングに適応する必要があります - マレスカ",
       "summary": "マンチェスター・シティマネージャーEnzo Maresca「適応する必要性」を日曜日のダービーに彼の側面の頭部として据え付け品のスケジューリングに2 日余分残りのライバルにチームを言うマンチェスター・ユナイテッド.",
       "title_original": "Teams need to adapt to fixture scheduling - Maresca",
@@ -2510,6 +2499,34 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2zr11l9j6o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 10:55:09 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハル車のクラッシュの後のウィンガートーマスの不急",
+      "summary": "プレミアリーグウィンガーSorba Thomas's Land RoverCottingham のオーバーターン。",
+      "title_original": "Hull winger Thomas unhurt after car crash",
+      "summary_original": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 11:33:22 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Bergvall サイントッテナム彼が去りたいと言った後の対処",
+      "summary": "スウェーデンのミッドフィルダーLucas Bergvall 新規契約締結トッテナム放置したいクラブを伝えた後。",
+      "title_original": "Bergvall signs Tottenham deal after saying he wanted to leave",
+      "summary_original": "Sweden midfielder Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to leave.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99dg2gzdl4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 12:01:37 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2531,6 +2548,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・ユナイテッド過去のサバを4 つ入れるチャンピオンズリーグフィードバック",
+      "summary": "マンチェスター・ユナイテッド最大の記録チャンピオンズリーグ彼らが掃引するように2020 年以来の勝利 Sabah FK 獲得を問い合わせオールド・トラッフォード.",
+      "title_original": "Man Utd put four past Sabah on Champions League return",
+      "summary_original": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 21:01:24 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "オリズスコアは2 回として得ますバイエルンスラッシュボデ/グリムト",
       "summary": "イギリスのキャプテンハリー・ケインスコア 55 位チャンピオンズリーグ目標と目標 Michael Olise として2 回打つことバイエルン・ミュンヘン着心地のよいビートでキャンペーンを開始ボデ/グリムト.",
       "title_original": "Olise scores twice as Bayern thrash Bodo/Glimt",
@@ -2545,17 +2576,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Bergvall サイントッテナム彼が去りたいと言った後の対処",
-      "summary": "スウェーデンのミッドフィルダーLucas Bergvall 新規契約締結トッテナム放置したいクラブを伝えた後。",
-      "title_original": "Bergvall signs Tottenham deal after saying he wanted to leave",
-      "summary_original": "Sweden midfielder Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to leave.",
+      "title": "ウェストハム'Alvarez denies 誘拐 accusation",
+      "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
+      "title_original": "West Ham's Alvarez denies kidnapping accusation",
+      "summary_original": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the allegation made by film producer Juan Jose Lopez Ordonez.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99dg2gzdl4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 12:01:37 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 08:42:22 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2569,20 +2600,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハル車のクラッシュの後のウィンガートーマスの不急",
-      "summary": "プレミアリーグウィンガーSorba Thomas's Land RoverCottingham のオーバーターン。",
-      "title_original": "Hull winger Thomas unhurt after car crash",
-      "summary_original": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 11:33:22 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2608,6 +2625,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 05:52:56 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "トリプルチェルシー攻撃は価値がありますか? FPL ゲームウィーク4 ジレンマ",
+      "summary": "BBC Sport FPL エキスパート Holly ShandFPL マネージャーがゲームウィーク 4 に向かい合っている最大のジレンマのいくつかを見てみましょう。アーリング・ハーランドまたはチェルシープレイヤー。",
+      "title_original": "Is triple Chelsea attack worth it? FPL gameweek four dilemmas",
+      "summary_original": "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL managers heading into gameweek four, including whether to captain Erling Haaland or a Chelsea player.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmrz1kdm93o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 06:28:38 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2653,34 +2684,6 @@
       "category": "bundesliga",
       "type": "bundesliga",
       "label": "ブンデス",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トリプルチェルシー攻撃は価値がありますか? FPL ゲームウィーク4 ジレンマ",
-      "summary": "BBC Sport FPL エキスパート Holly ShandFPL マネージャーがゲームウィーク 4 に向かい合っている最大のジレンマのいくつかを見てみましょう。アーリング・ハーランドまたはチェルシープレイヤー。",
-      "title_original": "Is triple Chelsea attack worth it? FPL gameweek four dilemmas",
-      "summary_original": "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL managers heading into gameweek four, including whether to captain Erling Haaland or a Chelsea player.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmrz1kdm93o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 06:28:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウェストハム'Alvarez denies 誘拐 accusation",
-      "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
-      "title_original": "West Ham's Alvarez denies kidnapping accusation",
-      "summary_original": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the allegation made by film producer Juan Jose Lopez Ordonez.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 08:42:22 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2887,7 +2890,7 @@
       "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail John Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 12:41:45 GMT",
+      "published": "Fri, 11 Sep 2026 12:54:36 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2895,13 +2898,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マーエスカは、ダービークラッシュの前に「マンチェスターの王様」掘り上アンダーソンを支持",
-      "summary": "マーエスカ:「アンダーソンが育ったときの都市優れ」O’Reilly によるリターンが、Doku は怪我の後に収まらない Enzo Maresca バックアップ済み Elliot Anderson’s アセスメントマンチェスター・シティマンチェスターの王様は、クラブの担当で初めてのダービーを準備する。都市旅行オールド・トラッフォード日曜日は、Maresca での生活に完璧なスタートを続け、さらにアンダーソンのポイントを証明しようとする。23 歳のミッドフィルダーは、獲得から彼の主張をしましたノッティンガム・フォレスト要約で1億1600万ポンド のために",
-      "title_original": "Maresca backs Anderson over ‘kings of Manchester’ dig before derby clash",
-      "summary_original": "Maresca: ‘City dominant when Anderson grew up’ O’Reilly due to return but Doku not fit after injury Enzo Maresca has backed Elliot Anderson’s assessment that Manchester City are the “ kings of Manchester ” as he prepares for his first derby in charge of the club. City travel to Old Trafford on Sunday seeking to continue their perfect start to life under Maresca and further prove Anderson’s point. The 23-year-old midfielder made his claim upon signing from Nottingham Forest for £116m in the summe",
+      "title": "チェルシーハンドペドロ・ネト 新契約自分の拒絶の目覚めにマンチェスター・シティ",
+      "summary": "複数のクラブによる夏の追い越し後のウィンガーシンキングチェルシーフェルナンデスを市に売る感じが右手だったチェルシーやりがいのある方ペドロ・ネトウィンガーを新しい契約で手渡すことで、シーズンへの強いスタートとクラブへのコミットメント。The Portugal インテル国民は夏を過ごしましたインテルいくつかから est プレミアリーグクラブを含むマンチェスター・シティ, しかし、滞在し、遊びたいという願望を示したシャビ・アロンソ. 彼は、余分な年の選択と5 年間の契約を結び、支払いの上昇を受け取ることです。アロンソ",
+      "title_original": "Chelsea hand Pedro Neto new deal in wake of his rejecting Manchester City",
+      "summary_original": "Winger shining after summer pursuit by several clubs Chelsea felt selling Fernández to City was right move Chelsea have rewarded Pedro Neto’s strong start to the season and commitment to the club by handing the winger a new contract. The Portugal international had summer interest from several Premier League clubs including Manchester City, but indicated a desire to stay and play for Xabi Alonso. He has signed a five-year deal with the option of an extra year and is to receive a pay rise. Alonso ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/11/maresca-backs-elliot-anderson-kings-of-manchester-derby",
-      "published": "Fri, 11 Sep 2026 11:02:07 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/11/chelsea-pedro-neto-new-contract-xabi-alonso",
+      "published": "Fri, 11 Sep 2026 12:55:05 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2930,6 +2933,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend",
       "published": "Thu, 10 Sep 2026 23:01:48 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マーエスカは、ダービークラッシュの前に「マンチェスターの王様」掘り上アンダーソンを支持",
+      "summary": "マーエスカ:「アンダーソンが育ったときの都市優れ」O’Reilly によるリターンが、Doku は怪我の後に収まらない Enzo Maresca バックアップ済み Elliot Anderson’s アセスメントマンチェスター・シティマンチェスターの王様は、クラブの担当で初めてのダービーを準備する。都市旅行オールド・トラッフォード日曜日は、Maresca での生活に完璧なスタートを続け、さらにアンダーソンのポイントを証明しようとする。23 歳のミッドフィルダーは、獲得から彼の主張をしましたノッティンガム・フォレスト要約で1億1600万ポンド のために",
+      "title_original": "Maresca backs Anderson over ‘kings of Manchester’ dig before derby clash",
+      "summary_original": "Maresca: ‘City dominant when Anderson grew up’ O’Reilly due to return but Doku not fit after injury Enzo Maresca has backed Elliot Anderson’s assessment that Manchester City are the “ kings of Manchester ” as he prepares for his first derby in charge of the club. City travel to Old Trafford on Sunday seeking to continue their perfect start to life under Maresca and further prove Anderson’s point. The 23-year-old midfielder made his claim upon signing from Nottingham Forest for £116m in the summe",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/11/maresca-backs-elliot-anderson-kings-of-manchester-derby",
+      "published": "Fri, 11 Sep 2026 11:02:07 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2972,20 +2989,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-european-odyssey-champions-league-analysis",
       "published": "Thu, 10 Sep 2026 22:56:27 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フェネルバフチェドロー後のコーチ辞任ローマ– しかし、大統領は彼が滞在すると主張します",
-      "summary": "Ismail Kartal 報告者に「永遠に戻ってくる」クラブ・プレジデント:「私は彼のシニアです、私は彼を続けて言った」 ザ・オブ・ザ・フェネルバフチェヘッドコーチ,Ismail Kartal 入社後、木曜の辞典を自宅に drew 1-1 にて発表ローマ獲得を問い合わせチャンピオンズリーグ- しかし、分は、クラブの大統領はカルタルが仕事に滞在すると述べた。カルタルは、彼が渇望していたと主張することによって、ポストマッチのプレス会議を衝撃しましたフェネルバフチェ「戻りたい」 65 歳が入るのに、彼は劇的に取っていた",
-      "title_original": "Fenerbahce coach resigns after draw with Roma – but president insists he will stay",
-      "summary_original": "Ismail Kartal tells reporters he will leave ‘never to return’ Club president: ‘I am his senior, I told him to continue’ The Fenerbahce head coach, Ismail Kartal, announced his resignation on Thursday after ⁠his team drew 1-1 at home to Roma in the Champions League – but minutes ⁠later, the club ⁠president ​said Kartal would stay in the job. Kartal shocked the post-match press conference by claiming he was ⁠leaving Fenerbahce “never to return”. The 65-year-old added that he was taking the drastic",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/fenerbahce-coach-resigns-ismail-kartal-roma-champions-league",
-      "published": "Thu, 10 Sep 2026 22:20:11 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -3301,6 +3304,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スカイスポーツは3 年合意 US Open エクステンション",
+      "summary": "スカイは、その3 年間の拡張を合意しました US Open 移籍, スカイスポーツと NOW は、2030 年末まで、英国とアイルランドのトーナメントの排他的な家を維持します.",
+      "title_original": "Sky Sports agrees three-year US Open extension",
+      "summary_original": "Sky has agreed a three-year extension to its US Open deal, ensuring Sky Sports and NOW remains the exclusive home of the tournament in the UK and Ireland until the end of 2030.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13584343/us-open-sky-sports-agrees-three-year-extension-to-show-the-us-open-until-end-of-2030",
+      "published": "Fri, 11 Sep 2026 14:00:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Russell は、他のドライバをフラスレートするハミルトンとしてマドリードで最初の練習をトップ",
+      "summary": "George Russell メルセデスチームメイトから最速だった Kimi Antonelli マドリッドの新しいマドリン回路で最初の練習セッションで。",
+      "title_original": "Russell tops first practice in Madrid as Hamilton frustrates other drivers",
+      "summary_original": "George Russell was fastest from Mercedes team-mate Kimi Antonelli in the first practice session at the new Madring circuit in Madrid.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13584257/spanish-gp-george-russell-tops-first-practice-at-new-madring-as-lewis-hamilton-frustrates-other-drivers",
+      "published": "Fri, 11 Sep 2026 13:50:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・ユナイテッド'10億ポンド 再建は最も厳しいテストに直面しています",
       "summary": "マイケル・キャリックトランスフォームマンチェスター・ユナイテッド1 月の予定の後に「調整」し、1 番目から3 番目までの側面を操り、戻りを締めるチャンピオンズリーグ.",
       "title_original": "Man Utd's £1bn rebuild faces toughest test",
@@ -3385,9 +3416,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スペイングランプリ: Russell は、ドライバーが初めてのライブでマドリングを取るようにフェラーリに応答!",
+      "title": "スペイングランプリ: ドライバーが初めてのライブでマドリングを取るため、ラッセル最速!",
       "summary": "",
-      "title_original": "Spanish GP: Russell responds to Ferrari as drivers take on Madring for first time LIVE!",
+      "title_original": "Spanish GP: Russell fastest as drivers take on Madring for first time LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13583697/f1-spanish-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-at-new-madring-circuit-in-madrid",
@@ -3399,9 +3430,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシー最新:Joao Pedro 月賞の PL プレーヤーの後に話します",
+      "title": "チェルシー最新:プレスカンファレンス LIVE で Alonso を話そう!",
       "summary": "",
-      "title_original": "Chelsea latest: Joao Pedro speaks after PL player of the month award",
+      "title_original": "Chelsea latest: Alonso speaking in press conference LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -3441,9 +3472,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Pakistan は 132 を朝のセッションで 184-3, トレイルイングランド 136 LIVE!",
+      "title": "強烈な朝のセッションの後に150 未満のパキスタントレイルイングランド LIVE!",
       "summary": "",
-      "title_original": "Pakistan add 132 in morning session to sit 184-3, trail England by 136 LIVE!",
+      "title_original": "Pakistan trail England by under 150 after strong morning session LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13584253/england-vs-pakistan-third-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3550,34 +3581,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "コルダ、コルツ・スラッシュハル, 退屈な四人組のセッションで歴史を作る",
-      "summary": "ネリー・コルダそして、Allisen Corpuz 編集者 Solheim Cup チャーリーを上回る彼らの声明の勝利と歴史ハルそして、Lottie Woad 金曜日の四人組のように、Team Europe そして、Team USA オープニングセッションでスピルスをシェアしました。",
-      "title_original": "Korda, Corpuz thrash Hull, Woad to make history in tied foursomes session",
-      "summary_original": "Nelly Korda and Allisen Corpuz created Solheim Cup history with their statement victory over Charley Hull and Lottie Woad in the Friday foursomes, as Team Europe and Team USA shared the spoils in the opening session.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13584200/solheim-cup-2026-nelly-korda-allisen-corpuz-thrash-charley-hull-lottie-woad-to-make-history-for-team-usa-in-friday-foursomes",
-      "published": "Fri, 11 Sep 2026 11:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "勝負やゴールなし - 心配すべき方法トッテナム PL が起動する?",
-      "summary": "それは新しいに無事で、ゴールレスなスタートでしたプレミアリーグ四季折々の絶景トッテナム.",
-      "title_original": "No wins and no goals - how concerned should Spurs be over PL start?",
-      "summary_original": "It has been a winless and goalless start to the new Premier League season for big-spending Tottenham.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583499/how-concerned-should-big-spending-tottenham-be-after-winless-and-goalless-start-to-premier-league-season",
-      "published": "Fri, 11 Sep 2026 08:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
