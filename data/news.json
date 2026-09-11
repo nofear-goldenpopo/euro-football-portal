@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T13:39:11.428531+00:00",
+  "updated_at": "2026-09-11T13:52:31.324922+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2464,9 +2464,24 @@
     "Vini Jr": "ヴィニシウス・ジュニオール",
     "Vinicius Jr": "ヴィニシウス・ジュニオール",
     "From Olise’s": "",
-    "DP World Tour's Amgen": ""
+    "DP World Tour's Amgen": "",
+    "Real Madrid The": ""
   },
   "items": [
+    {
+      "title": "ハル罰金 £30k & 発行された禁止チェルシーチャント",
+      "summary": "ハル・シティ AFC 彼らの次の3 人の支持者禁止を発行するクラブと差別的な chanting 上£30,000 罰金を科されました FA Cup で敗北チェルシー2 月1 日",
+      "title_original": "Hull fined £30k & bans issued over Chelsea chant",
+      "summary_original": "Hull City have been fined £30,000 over discriminatory chanting with the club issuing three supporter bans following their FA Cup defeat by Chelsea in February.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c624l1v9853o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 13:43:54 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "ホールサイン新規契約ニューカッスルまで 2031",
       "summary": "ニューカッスルディフェンダーLewis Hall2031 年まで走るクラブで新しい契約を締結。",
@@ -2580,20 +2595,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "2 ゴール2 つのゲームで - Sesko は与えますマンチェスター・ユナイテッド異なる脅威",
-      "summary": "ベンヤミン・シェシュコの に戻るマンチェスター・ユナイテッドの start line-up は日曜日の先頭によく使われますプレミアリーグ出会い系マンチェスター・シティ",
-      "title_original": "Two goals in two games - Sesko gives Man Utd a different threat",
-      "summary_original": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 22:41:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ウェストハム'Alvarez denies 誘拐 accusation",
       "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
       "title_original": "West Ham's Alvarez denies kidnapping accusation",
@@ -2619,6 +2620,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "2 ゴール2 つのゲームで - Sesko は与えますマンチェスター・ユナイテッド異なる脅威",
+      "summary": "ベンヤミン・シェシュコの に戻るマンチェスター・ユナイテッドの start line-up は日曜日の先頭によく使われますプレミアリーグ出会い系マンチェスター・シティ",
+      "title_original": "Two goals in two games - Sesko gives Man Utd a different threat",
+      "summary_original": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 22:41:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2689,20 +2704,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "私は誰ですか? ログインブンデスリーガ星 3",
-      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
-      "title_original": "Who am I? Guess Bundesliga star No 3",
-      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z0d4z750o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 11:31:33 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2860,6 +2861,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "私は誰ですか? ログインブンデスリーガ星 3",
+      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
+      "title_original": "Who am I? Guess Bundesliga star No 3",
+      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z0d4z750o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 11:31:33 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "自転車に乗るのが好き - EFL で見る5 つのこと",
       "summary": "BBC スポーツは、週末のチャンピオンシップの前に5 つの重要なポイントを見て、League One そして、League Two アクション。",
       "title_original": "Just like riding a bike - five things to watch in the EFL",
@@ -2874,27 +2889,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フェネルバフチェボス stuns クラブ による quitting 後にローマログイン",
-      "summary": "Ismail Kartal リサインとしてフェネルバフチェの ヘッドコーチは、トルコ側の 1-1 の後にわずか数分で引きますローマ獲得を問い合わせチャンピオンズリーグ.",
-      "title_original": "Fenerbahce boss stuns club by quitting after Roma draw",
-      "summary_original": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8r6vyjpye2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 08:06:08 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マンチェスター・ユナイテッド禁止 685 季節券保有者 オーバートゥット; ホールは、長期的な合意ニューカッスル移籍: サッカーニュース – ライブ",
       "summary": "大会レポート 週末のサッカーの試合前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail John Matthias Jaissle 夏の新加入選手が明らかにされたマティアス・フェルナンデス＝パルド始めに近づくニューカッスル獲得を問い合わせ 21 歳からタイネサイドへ到着リール期限日には、代替として特集されているニューカッスル最後の2 つのマッチ。続きを読む...",
       "title_original": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
       "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail John Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 13:29:27 GMT",
+      "published": "Fri, 11 Sep 2026 13:40:51 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3014,17 +3015,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Why David Beckham 投票する US Soccer Hall ファム |Pablo Iglesias Maurer",
-      "summary": "The Englishman 認識の不足はなく、アメリカンゲームへの彼の貢献は、次の春、私たちの無料のニュースレターにサインアップする正式なタイトルに値する US Soccer HallFame では、最新のクラスを歓迎しています。角に座るホールトヨタ・スタジアムの家の Major League Soccer’s FC ダラスは、enshrineds のシグネチャーレッドジャケットを特徴とします。選手やコーチ、ミディ・アイド・リフレシオの挨拶やスピーチなど",
-      "title_original": "Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
-      "summary_original": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next spring, when the US Soccer Hall of Fame welcomes its newest class, there will be pomp and circumstance. The hall, which sits in a corner of Toyota Stadium, home of Major League Soccer’s FC Dallas, will feature the enshrineds’ signature red jackets. There will be glad-handing and speeches from players and coaches, misty-eyed reflectio",
+      "title": "チャンピオンズリーグデータの開口部は、英語の優位性とあまり少ない衝撃を示しています",
+      "summary": "リーグの第1 ラウンドの数字は、イタリアのチームに苦しむレベルまでインテル敗北に感銘レアル・マドリード2026-27 のチャンピオンズリーグ獲得を問い合わせ ノックアウトフェーズで24 チームが機能するまで、まだ126 の試合がありますが、まだ何も学習していないわけではありません。週1 回から話している重要なデータです。続きを読む...",
+      "title_original": "Champions League opening data shows English dominance and too few shocks",
+      "summary_original": "The numbers from the first round of the league phase point to Italian teams struggling even if Inter impressed in defeat at Real Madrid The 2026-27 Champions League is under way. There are still 126 matches to play until we know which 24 teams will feature in the knockout phase but that doesn’t mean we haven’t learned anything yet. Here are the key data talking-points from week one. Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/david-beckham-us-soccer",
-      "published": "Thu, 10 Sep 2026 14:54:07 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.theguardian.com/football/2026/sep/11/champions-league-opening-data-shows-english-dominance-and-too-few-shocks",
+      "published": "Fri, 11 Sep 2026 13:29:16 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3210,6 +3211,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Why David Beckham 投票する US Soccer Hall ファム |Pablo Iglesias Maurer",
+      "summary": "The Englishman 認識の不足はなく、アメリカンゲームへの彼の貢献は、次の春、私たちの無料のニュースレターにサインアップする正式なタイトルに値する US Soccer HallFame では、最新のクラスを歓迎しています。角に座るホールトヨタ・スタジアムの家の Major League Soccer’s FC ダラスは、enshrineds のシグネチャーレッドジャケットを特徴とします。選手やコーチ、ミディ・アイド・リフレシオの挨拶やスピーチなど",
+      "title_original": "Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
+      "summary_original": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next spring, when the US Soccer Hall of Fame welcomes its newest class, there will be pomp and circumstance. The hall, which sits in a corner of Toyota Stadium, home of Major League Soccer’s FC Dallas, will feature the enshrineds’ signature red jackets. There will be glad-handing and speeches from players and coaches, misty-eyed reflectio",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/david-beckham-us-soccer",
+      "published": "Thu, 10 Sep 2026 14:54:07 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Mauricio Pochettino: 「私はいつも助けるために開いていますトッテナム. どんな部門で’",
       "summary": "マネージャーは、新しい米国移籍で興奮していますが、トッテナム星が整列し、イングランドの仕事を1 日取らなかった場合 物事が異なる働いた場合、Mauricio Pochettino 彼の最愛に戻って行くだろうトッテナム夏に。彼らは呼び出しに置き、彼をかき混ぜた。何も彼を脱ぐつもりだった - ない可能性のクラブの内にある Championship. Seriously, モーリシオ? アフターWorld Cup キャンペーンアメリカ合衆国チェルシーでトップの仕事",
       "title_original": "Mauricio Pochettino: ‘I am always open to help Tottenham. In whatever division’",
@@ -3266,20 +3281,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "サッカーの最も有害なレッドカード s: 崩壊とターンアラウンドの簡単な歴史 |The Knowledge",
-      "summary": "プラス: 複数の£100 メートルの選手とクラブ 自分の本とより多くのトロフィー・ラデンのサッカー選手 私達にあなたのすべての質問と答えてメール “The Saturday 最後に、Clyde は 3-0 を獲得しました。The Spartans 時間の経過後 Logan Dunachie 送信されました。20 分後、スコアは3-3 だった。ゲームの最大のターンアラウンドは、次のゲームでレッドカードプレイヤーで投げられることができる/most 量的責務は、オフに送られてもらえますか?Jamie Wills. At Knowledge タワー、私達は通常受けます",
-      "title_original": "Football’s most damaging red cards: a brief history of collapses and turnarounds | The Knowledge",
-      "summary_original": "Plus: clubs with multiple £100m players on their books and more trophy-laden footballers Mail us with your all of your questions and answers “The Saturday before last, Clyde were winning 3-0 at The Spartans after an hour when Logan Dunachie was sent off. Twenty-eight minutes later, the score was 3-3. What is the biggest turnaround in a game following a red card/most quantitative blame that can be thrown at a player for getting sent off?” asks Jamie Wills. At Knowledge Towers, we usually receive ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/footballs-most-damaging-red-cards-a-brief-history-of-collapses-and-turnarounds",
-      "published": "Wed, 09 Sep 2026 07:00:02 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「夢が叶う」:舞台裏で Wolves Women 新しい時代に入る",
       "summary": "ガーディアンは、完全に専門的側面として、最初のシーズンの始まりに Wolves に加わりました。彼らはプッシュオーバーのないショーに決定しました。突然、バストリング教室の後ろに Guru Nanak Satsang Sikh グルドワはほぼサイレントに落ち、すべての目がオンです Dan McNamara. The Wolves ヘッドコーチ、レスリングレッスンを経験し、緊張したタクソールに従事しています。相手の頂上、部屋の噴火で、ツイスト、パッティング、ヘービング、最終的には終わる。McNamara の課題をいくつか比較",
       "title_original": "‘A dream come true’: behind the scenes with Wolves Women as they enter new era",
@@ -3304,6 +3305,20 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "トッテナム最新:De ZerbiKudus と Maddison の可用性対エヴァートン",
+      "summary": "",
+      "title_original": "Tottenham latest: De Zerbi on Kudus and Maddison availability vs Everton",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Fri, 11 Sep 2026 12:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3448,20 +3463,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナム最新: Bergvall サイン新契約- 退去を求める2 ヶ月",
-      "summary": "",
-      "title_original": "Tottenham latest: Bergvall signs new deal - two months after asking to leave",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Fri, 11 Sep 2026 12:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ヨーロッパのシェアスピルスと Team USA タイトなフォーサムセッション",
       "summary": "金曜日のフォーサムのハイライト Solheim Cup 獲得を問い合わせ Bernardus Golf, でオランダ.",
       "title_original": "Europe share spoils with Team USA in tight foursomes session",
@@ -3546,9 +3547,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マクスタン・トレイル・イングランドが150 未満のライブで1 世紀近くでマズード!",
+      "title": "イギリスの4 位で95 位のマゾドが100 人以下でパキスタンのトレイルに却下!",
       "summary": "",
-      "title_original": "Masood nearing century as Pakistan trail England by under 150 LIVE!",
+      "title_original": "Masood dismissed on 95 for England's fourth as Pakistan trail by under 100 LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13584253/england-vs-pakistan-third-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
