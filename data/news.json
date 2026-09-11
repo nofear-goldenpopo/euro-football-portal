@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T06:30:57.806892+00:00",
+  "updated_at": "2026-09-11T06:47:23.655004+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2417,7 +2417,10 @@
     "San Francisco": "サンフランシスコ",
     "Robbie Evans": "",
     "Arsenal's Cooney-Cross": "",
-    "Arsenal's Kyra Cooney-Cross": ""
+    "Arsenal's Kyra Cooney-Cross": "",
+    "Holly Shand": "",
+    "USA Solheim Cup": "",
+    "Lauren Coughlin": ""
   },
   "items": [
     {
@@ -2470,6 +2473,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 05:52:56 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "トリプルチェルシー攻撃は価値がありますか? FPL ゲームウィーク4 ジレンマ",
+      "summary": "BBC Sport FPL エキスパート Holly ShandFPL マネージャーがゲームウィーク 4 に向かい合っている最大のジレンマのいくつかを見てみましょう。アーリング・ハーランドまたはチェルシープレイヤー。",
+      "title_original": "Is triple Chelsea attack worth it? FPL gameweek four dilemmas",
+      "summary_original": "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL managers heading into gameweek four, including whether to captain Erling Haaland or a Chelsea player.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmrz1kdm93o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 06:28:38 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2820,20 +2837,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c74e0kvm03ro?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 14:35:31 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「人生を手に入れる」 - ノンリーグクラブは男の偽装マネージャを非難",
-      "summary": "Gainsborough Trinity 自分のマネージャーであることを偽りなく主張しながら、プレーヤーに近づいてきた人が非難しました。",
-      "title_original": "'Get a life' - non-league club condemn man impersonating manager",
-      "summary_original": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 15:22:16 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3387,6 +3390,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "'タグを左に!' | 巨大な瞬間 Coughlin は、ジャンパーをラベルオフを取るために忘れます!",
+      "summary": "USA Solheim Cup スタースターLauren Coughlin 彼女のジャンパーのタグを脱いで、幸いにも彼女のキャプテンはそれを指摘し、それをオフにリッピングしました。",
+      "title_original": "'You left the tag in!' | Hilarious moment Coughlin forgets to take label off jumper!",
+      "summary_original": "USA Solheim Cup star Lauren Coughlin forgot to take a tag off of her jumper, luckily her captain spotted it and ripped it off.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584226/you-left-the-tag-in-hilarious-moment-coughlin-forgets-to-take-label-off-jumper",
+      "published": "Fri, 11 Sep 2026 07:04:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "完璧なスタート! | ヨーロッパは、非常に最初の穴に勝つ Solheim Cup!",
+      "summary": "シャレーハルそして、Lottie Woad 別のショット鳥を作ると完璧なスタートに降りました!",
+      "title_original": "The perfect start! | Europe win the very first hole of the Solheim Cup!",
+      "summary_original": "Charley Hull and Lottie Woad got off to the perfect start after making an alternate shot birdie!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584225/the-perfect-start-europe-win-the-very-first-hole-of-the-solheim-cup",
+      "published": "Fri, 11 Sep 2026 06:54:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "49 人が10 万回の出席でラムを打つ NFL Melbourne デビュー",
       "summary": "Brock Purdy3 つのタッチダウンパスを投げるサンフランシスコ49 人が超チームを支配ロサンゼルス・ラムズオーストラリア初の NFL 正規シーズンゲームで27-7。",
       "title_original": "49ers beat Rams as 100,000 attend NFL Melbourne debut",
@@ -3506,34 +3537,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/boxing/news/12040/13584095/anthony-joshua-car-crash",
       "published": "Thu, 10 Sep 2026 18:19:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "パキスタンのエファティックシリーズスイープでイングランド閉鎖",
-      "summary": "イングランドは、訪問者を52-2 に減らした後、パキスタンのシリーズスイープの最もエフェクトに閉鎖されています - まだ268 は、雨が降る前に、エドグバストンで3 番目のテストの1 日目に早期にプレイを終了します。",
-      "title_original": "England closing in on emphatic series sweep of Pakistan",
-      "summary_original": "England are closing in on the most emphatic of series sweeps of Pakistan after reducing the visitors to 52-2 - still 268 runs behind - before rain ended play early on day two of the third Test at Edgbaston.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13584068/england-vs-pakistan-ollie-robinson-strikes-twice-in-first-over-of-second-innings-as-hosts-dominate-day-two-of-third-test-at-edgbaston",
-      "published": "Thu, 10 Sep 2026 16:59:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "オーバートン、リーチは、Leicestershire で勝つクラッシュで Somerset がトップを維持するのに役立ちます",
-      "summary": "Craig Overton そして、Jack LeachLeicestershire で377 ランのスラッシュを注入し、Rothesay の Somerset トップを維持カウンティ・チャンピオンシップ丸みが2 つ以上ある。",
-      "title_original": "Overton, Leach help Somerset remain top with crushing win at Leicestershire",
-      "summary_original": "Craig Overton and Jack Leach combined to inflict a 377-run thrashing on Leicestershire and keep Somerset top of the Rothesay County Championship with only two more rounds to go.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13584039/county-championship-cricket-craig-overton-jack-leach-help-somerset-to-crushing-win-at-leicestershire-to-remain-top",
-      "published": "Thu, 10 Sep 2026 16:15:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
