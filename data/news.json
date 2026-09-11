@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T05:38:23.988935+00:00",
+  "updated_at": "2026-09-11T05:51:41.911930+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2411,7 +2411,10 @@
     "Britain's Skupski": "",
     "Caballo De Mar": "",
     "Former Newcastle": "",
-    "Allan Saint-Maximin": "アラン・サン＝マクシマン"
+    "Allan Saint-Maximin": "アラン・サン＝マクシマン",
+    "NFL Melbourne": "",
+    "Brock Purdy": "",
+    "San Francisco": "サンフランシスコ"
   },
   "items": [
     {
@@ -3255,20 +3258,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Caballo De Mar クイーンズタウンに面ドンカスターカップ",
-      "summary": "Caballo De Mar クイーンズタウンでホーンを締めるドンカスターカップ- ライブ Sky Sports Racing.",
-      "title_original": "Caballo De Mar faces Queenstown in Doncaster Cup",
-      "summary_original": "Caballo De Mar locks horns with Queenstown in the Doncaster Cup - live on Sky Sports Racing.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13583527/today-on-sky-sports-racing-caballo-de-mar-faces-queenstown-in-doncaster-cup",
-      "published": "Fri, 11 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Rybakina denies Gauff へ セットアップ blockbusterUS Open サバレンカと最終",
       "summary": "アメリカの心は、エレーナ・リバキナサイレンス Coco Gauff そして、New York ブロックブスターを設定するクラウド US Open 最終的な反対 Aryna Sabalenka 敗北した人 Jessica Pegula3 番目のストレートタイトルから勝利を離れるフラッシング・メドウズ・コロナ・パーク.",
       "title_original": "Rybakina denies Gauff to set up blockbuster US Open final with Sabalenka",
@@ -3279,6 +3268,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Caballo De Mar クイーンズタウンに面ドンカスターカップ",
+      "summary": "Caballo De Mar クイーンズタウンでホーンを締めるドンカスターカップ- ライブ Sky Sports Racing.",
+      "title_original": "Caballo De Mar faces Queenstown in Doncaster Cup",
+      "summary_original": "Caballo De Mar locks horns with Queenstown in the Doncaster Cup - live on Sky Sports Racing.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13583527/today-on-sky-sports-racing-caballo-de-mar-faces-queenstown-in-doncaster-cup",
+      "published": "Fri, 11 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3378,6 +3381,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "49 人が10 万回の出席でラムを打つ NFL Melbourne デビュー",
+      "summary": "Brock Purdy3 つのタッチダウンパスを投げるサンフランシスコ49 人が超チームを支配ロサンゼルス・ラムズオーストラリア初の NFL 正規シーズンゲームで27-7。",
+      "title_original": "49ers beat Rams as 100,000 attend NFL Melbourne debut",
+      "summary_original": "Brock Purdy threw three touchdown passes as the San Francisco 49ers dominated the super-team Los Angeles Rams 27-7 in the first ever NFL regular-season game in Australia.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13584074/san-francisco-49ers-beat-los-angeles-rams-in-melbourne-as-brock-purdy-throws-three-touchdowns-in-front-of-100000-fans",
+      "published": "Fri, 11 Sep 2026 06:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3514,20 +3531,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13584039/county-championship-cricket-craig-overton-jack-leach-help-somerset-to-crushing-win-at-leicestershire-to-remain-top",
       "published": "Thu, 10 Sep 2026 16:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ヴェルスタッペン:New Madring 回路「おそらく車のキラー」",
-      "summary": "マックス・フェルスタッペン新しい Madring F1 回路は、破壊的を期待するいくつかのドライバで「おそらく車のキラー」であると言うスペイングランプリ週末。",
-      "title_original": "Verstappen: New Madring circuit 'probably a car killer'",
-      "summary_original": "Max Verstappen says the new Madring F1 circuit is \"probably a car killer\" with several drivers expecting a disruptive Spanish Grand Prix weekend.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13583902/spanish-gp-max-verstappen-says-new-madring-f1-circuit-probably-a-car-killer-as-drivers-anticipate-disruptive-weekend",
-      "published": "Thu, 10 Sep 2026 18:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
