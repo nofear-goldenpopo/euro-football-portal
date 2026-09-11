@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T14:39:41.167109+00:00",
+  "updated_at": "2026-09-11T14:53:27.474074+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2466,9 +2466,28 @@
     "From Olise’s": "",
     "DP World Tour's Amgen": "",
     "Real Madrid The": "",
-    "Police Scotland": ""
+    "Police Scotland": "",
+    "Royal Ascot": "",
+    "Betfred Howards Wright Doncaster": "",
+    "By Enzo Maresca's": "",
+    "Alan Shearer": "アラン・シアラー",
+    "Prime Video's": ""
   },
   "items": [
+    {
+      "title": "私は選手を準備するためにシーズン前の旅行計画を混乱させました -アルテタ",
+      "summary": "ミケル・アルテタコメントアーセナル週中は準備が整いましたチャンピオンズリーグフライト遅延 - 彼は意図的に彼らの訓練や旅行計画を準備するために、シーズンの前シーズンに混乱させるので、.",
+      "title_original": "I disrupted pre-season travel plans to prepare players - Arteta",
+      "summary_original": "Mikel Arteta says Arsenal were ready for their midweek Champions League flight delay - because he deliberately disrupted their training and travel plans in pre-season to prepare them.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y48zdxv0ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 12:32:20 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "ハル罰金 £30k & 発行された禁止チェルシーチャント",
       "summary": "ハル・シティ AFC 彼らの次の3 人の支持者禁止を発行するクラブと差別的な chanting 上£30,000 罰金を科されました FA Cup で敗北チェルシー2 月1 日",
@@ -2495,20 +2514,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "私は選手を準備するためにシーズン前の旅行計画を混乱させました -アルテタ",
-      "summary": "ミケル・アルテタコメントアーセナル週中は準備が整いましたチャンピオンズリーグフライト遅延 - 彼は意図的に彼らの訓練や旅行計画を準備するために、シーズンの前シーズンに混乱させるので、.",
-      "title_original": "I disrupted pre-season travel plans to prepare players - Arteta",
-      "summary_original": "Mikel Arteta says Arsenal were ready for their midweek Champions League flight delay - because he deliberately disrupted their training and travel plans in pre-season to prepare them.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y48zdxv0ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 12:32:20 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2554,6 +2559,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "セルティックダービーの前に「時機を得た」警察のリマインダーを与えて下さい",
+      "summary": "セルティックプレイヤーは、Police Scotland 金曜日に「時機を得たリマインダー」を「一般行動」に与える Sunday's Premier Sport Cup 市街地に準じる四分の一本レンジャーズマネージャーマーティン・オニール明らかにする。",
+      "title_original": "Celtic given 'timely' police reminder before derby",
+      "summary_original": "Celtic players had a visit from Police Scotland on Friday to give them \"a timely reminder\" about their \"general behaviour\" in Sunday's Premier Sport Cup quarter-final against city rivals Rangers, manager Martin O'Neill reveals.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz7zrdxj9x0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 14:16:39 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "モウリーニョ比較するエムバペそして、ヴィニシウス・ジュニオールブート後の果樹に",
       "summary": "レアル・マドリードログインジョゼ・モウリーニョ星デュオのファン「ワン・ピース」キリアン・エムバペそして、ヴィニシウス・ジュニオール今週はサポーターズが応援してくれました。",
       "title_original": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
@@ -2596,20 +2615,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウェストハム'Alvarez denies 誘拐 accusation",
-      "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
-      "title_original": "West Ham's Alvarez denies kidnapping accusation",
-      "summary_original": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the allegation made by film producer Juan Jose Lopez Ordonez.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 08:42:22 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Sutton の予測 v ドーキング・ワンダラーズ FC マネージャーMarc White",
       "summary": "BBC スポーツサッカーの専門家クリス・サットン獲得を問い合わせドーキング・ワンダラーズ FC マネージャーMarc White この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
       "title_original": "Sutton's predictions v Dorking Wanderers manager Marc White",
@@ -2620,6 +2625,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウェストハム'Alvarez denies 誘拐 accusation",
+      "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
+      "title_original": "West Ham's Alvarez denies kidnapping accusation",
+      "summary_original": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the allegation made by film producer Juan Jose Lopez Ordonez.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 08:42:22 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2691,20 +2710,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド685 ファンアカウントをトウト後の禁止",
-      "summary": "マンチェスター・ユナイテッド685 ファンアカウントを禁止します。チケットのトウト調査とイノセントファンは罰されていません。",
-      "title_original": "Man Utd ban 685 fan accounts after touting probe",
-      "summary_original": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans have not been punished.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4zydzk2zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 11:33:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2848,6 +2853,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・ユナイテッド685 ファンアカウントをトウト後の禁止",
+      "summary": "マンチェスター・ユナイテッド685 ファンアカウントを禁止します。チケットのトウト調査とイノセントファンは罰されていません。",
+      "title_original": "Man Utd ban 685 fan accounts after touting probe",
+      "summary_original": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans have not been punished.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4zydzk2zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 11:33:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "彼の子供が不法に虐待された後に話して Saint-Maximin",
       "summary": "過去の投稿ニューカッスルウィンガーアラン・サン＝マクシマン彼が感じたと彼は、彼の子供がメキシコで、今年前に激しく虐待された後に話することが重要だったと述べました.",
       "title_original": "Saint-Maximin on speaking out after his children were racially abused",
@@ -2876,27 +2895,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "自転車に乗るのが好き - EFL で見る5 つのこと",
-      "summary": "BBC スポーツは、週末のチャンピオンシップの前に5 つの重要なポイントを見て、League One そして、League Two アクション。",
-      "title_original": "Just like riding a bike - five things to watch in the EFL",
-      "summary_original": "BBC Sport looks at five key talking points before the weekend's Championship, League One and League Two action.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99dgrj1228o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 07:27:38 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マンチェスター・ユナイテッド禁止 685 季節券保有者 オーバートゥット; ホールは、長期的な合意ニューカッスル移籍: サッカーニュース – ライブ",
       "summary": "大会レポート 週末のサッカーの試合前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail Tom Matthias Jaissle 夏の新加入選手が明らかにされたマティアス・フェルナンデス＝パルド始めに近づくニューカッスル獲得を問い合わせ 21 歳からタイネサイドへ到着リール期限日には、代替として特集されているニューカッスル最後の2 つのマッチ。月曜日のツルツルに先立ち、リーズ Jaissle 氏は次のように述べています。ロードマでスマートにする必要があると言いました",
       "title_original": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
       "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail Tom Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Speaking ahead of Monday’s clash with Leeds, Jaissle said: “Yeah, he’s getting closer. I said that we need to be smart with his load ma",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 14:29:55 GMT",
+      "published": "Fri, 11 Sep 2026 14:37:56 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2904,13 +2909,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チャンピオンズリーグレビュー: アイルランドの英雄, 辞任を拒否し、モウリーニョの を返します",
-      "summary": "リーグフェーズが始まりました。From Olise’s サバのパブクリーナーへの輝きは、クイズの参加者がマネージャーを回しました, リーグのフェーズは、次のようにプレビューされていますバルセロナ’ s は、2015 年にリリースされたリューズを再びリリースするための最初のステップです。リオネル・メッシ1 つだけ主張するチャンピオンズリーグ過去10 年ぶりのタイトルカンプ・ノウ星座統計です。プレイヤーは、メッシ成功者、ラミン・ヤマル、既にヨーロッパおよび worl です",
-      "title_original": "Champions League review: Irish heroics, rejected resignations and Mourinho’s return",
-      "summary_original": "The league phase has begun. From Olise’s brilliance to Sabah’s pub cleaner turned quiz contestant turned manager, there was plenty to talk about The league phase has been previewed as Barcelona’s first step toward reclaiming a crown last lifted in 2015, with disappointments aplenty since. Lionel Messi claiming just one Champions League title in the last decade of his time at Camp Nou is the starkest statistic. The player anointed as Messi’s successor, Lamine Yamal, is already a European and worl",
+      "title": "チャンピオンズリーグデータの開口部は、英語の優位性とあまり少ない衝撃を示しています",
+      "summary": "リーグの第1 ラウンドの数字は、イタリアのチームに苦しむレベルまでインテル敗北に感銘レアル・マドリード2026-27 のチャンピオンズリーグ獲得を問い合わせ ノックアウトフェーズで24 チームが機能するまで、まだ126 の試合がありますが、まだ何も学習していないわけではありません。週1 回から話している重要なデータです。続きを読む...",
+      "title_original": "Champions League opening data shows English dominance and too few shocks",
+      "summary_original": "The numbers from the first round of the league phase point to Italian teams struggling even if Inter impressed in defeat at Real Madrid The 2026-27 Champions League is under way. There are still 126 matches to play until we know which 24 teams will feature in the knockout phase but that doesn’t mean we haven’t learned anything yet. Here are the key data talking-points from week one. Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/11/champions-league-review-troy-parrott-jose-mourinho-michael-olise",
-      "published": "Fri, 11 Sep 2026 12:30:04 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/11/champions-league-opening-data-shows-english-dominance-and-too-few-shocks",
+      "published": "Fri, 11 Sep 2026 13:29:16 GMT",
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
@@ -3013,20 +3018,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チャンピオンズリーグデータの開口部は、英語の優位性とあまり少ない衝撃を示しています",
-      "summary": "リーグの第1 ラウンドの数字は、イタリアのチームに苦しむレベルまでインテル敗北に感銘レアル・マドリード2026-27 のチャンピオンズリーグ獲得を問い合わせ ノックアウトフェーズで24 チームが機能するまで、まだ126 の試合がありますが、まだ何も学習していないわけではありません。週1 回から話している重要なデータです。続きを読む...",
-      "title_original": "Champions League opening data shows English dominance and too few shocks",
-      "summary_original": "The numbers from the first round of the league phase point to Italian teams struggling even if Inter impressed in defeat at Real Madrid The 2026-27 Champions League is under way. There are still 126 matches to play until we know which 24 teams will feature in the knockout phase but that doesn’t mean we haven’t learned anything yet. Here are the key data talking-points from week one. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/11/champions-league-opening-data-shows-english-dominance-and-too-few-shocks",
-      "published": "Fri, 11 Sep 2026 13:29:16 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3310,6 +3301,62 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チャンピオンズリーグラウンドアップ:ラフィーニャ輝きとしてバルセロナスラッシュフェイエノールト",
+      "summary": "ブラジルのスコアは、5-1 で2 回を獲得カンプ・ノウトーレススコアハットトリックとしてパリ・サンジェルマンログインスロヴァン・ブラチスラヴァ ラフィーニャボールン・ドール・ショートリストから省略された後、彼の目標は2 回窒息するバルセロナ5-1 勝つために容易フェイエノールト獲得を問い合わせチャンピオンズリーグ. ブラジルは、名誉ある賞のための候補者の今週の30strong リストからの驚きの権限だったが、雨に浸された彼の初期のシーズンの暑さを継続するために脇に任意の失望をブラシをかけたカンプ・ノウ. ザ・",
+      "title_original": "Champions League roundup: Raphinha shines as Barcelona thrash Feyenoord",
+      "summary_original": "Brazilian scores twice in 5-1 victory at Camp Nou Torres scores hat-trick as PSG thump Slovan Bratislava Raphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist, striking twice as Barcelona eased to a 5-1 win over Feyenoord in the Champions League. The Brazilian was a surprise omission from this week’s 30-strong list of candidates for the prestigious award but brushed any disappointment aside to continue his early season hot streak at a rain-soaked Camp Nou. The ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain",
+      "published": "Wed, 09 Sep 2026 22:08:45 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Caballo De Mar フォームにバックバウンスドンカスターカップ",
+      "summary": "Caballo De Mar 失望の努力からバウンスバック Royal AscotBetfred Howards Wright を獲得するヨークドンカスターカップ.",
+      "title_original": "Caballo De Mar bounces back to form in Doncaster Cup",
+      "summary_original": "Caballo De Mar bounced back from disappointing efforts at Royal Ascot and York to win the Betfred Howards Wright Doncaster Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13584439/doncaster-cup-george-scotts-caballo-de-mar-bounces-back-to-form-in-town-moor-group-2",
+      "published": "Fri, 11 Sep 2026 14:19:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "EFL 最新:Watford のアントニオサイン",
+      "summary": "",
+      "title_original": "EFL latest: Antonio signs for Watford",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "published": "Fri, 11 Sep 2026 09:05:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "スペイングランプリ: フェラーリ、マクラーレンは、初期のメルセデスのペースで戦うように見えます!",
+      "summary": "",
+      "title_original": "Spanish GP: Ferrari, McLaren look to fight back against early Mercedes pace LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13583697/f1-spanish-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-at-new-madring-circuit-in-madrid",
+      "published": "Fri, 11 Sep 2026 15:40:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "セルティック警察の先に「致命的な行動」メッセージを与えるオールドファームログイン",
       "summary": "マーティン・オニール明らかにされたセルティック「一般行動」の警告を与えられた Police Scotland 獲得を問い合わせ Sunday's League Cup 四半期末比に対するレンジャーズ Ibrox で。",
       "title_original": "Celtic given 'general behaviour' message by police ahead of Old Firm clash",
@@ -3317,6 +3364,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13584448/rangers-vs-celtic-martin-oneill-reveals-general-behaviour-message-from-police-ahead-of-old-firm-league-cup-clash",
       "published": "Fri, 11 Sep 2026 15:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Scottish Premiership 最新:レンジャーズ取締役 マネーディステップダウン",
+      "summary": "",
+      "title_original": "Scottish Premiership latest: Rangers director Purdy steps down",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "published": "Fri, 11 Sep 2026 15:35:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3391,6 +3452,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・シティ'ミッドフィールドオプションは、すべての後に Rodri が置換可能であることを証明します",
+      "summary": "By Enzo Maresca's 入学式マンチェスター・シティ\"complicated\" 2-0 勝つポルト獲得を問い合わせチャンピオンズリーグ獲得を問い合わせ Tuesday. The 性能のパッチ性は導かれたを導きましたアラン・シアラーマーエスカの側面「弱い」を呼び出します Prime Video's 獲得を問い合わせ",
+      "title_original": "Man City's midfield options prove Rodri is replaceable after all",
+      "summary_original": "By Enzo Maresca's own admission, Manchester City \"complicated\" their 2-0 win over Porto in the Champions League on Tuesday. The patchiness of their performance led Alan Shearer to call Maresca's side \"weak\" on Prime Video's co-commentary.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13584237/man-utd-vs-man-city-ayyoub-bouaddi-elliot-anderson-and-enzo-fernandez-are-the-perfect-answer-to-rodris-summer-exit",
+      "published": "Fri, 11 Sep 2026 15:00:00 BST",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3517,76 +3592,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "コルダ、コルツ・スラッシュハル, 奇妙な四人組のセッションで歴史を作るためにワッド",
-      "summary": "ネリー・コルダそして、Allisen Corpuz 編集者 Solheim Cup チャーリーを上回る彼らの声明の勝利と歴史ハルそして、Lottie Woad 金曜日の四人組のように、Team Europe そして、Team USA オープニングセッションでスピルスをシェアしました。",
-      "title_original": "Korda, Corpuz thrash Hull, Woad to make history in tied foursomes session",
-      "summary_original": "Nelly Korda and Allisen Corpuz created Solheim Cup history with their statement victory over Charley Hull and Lottie Woad in the Friday foursomes, as Team Europe and Team USA shared the spoils in the opening session.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13584200/solheim-cup-2026-nelly-korda-allisen-corpuz-thrash-charley-hull-lottie-woad-to-make-history-for-team-usa-in-friday-foursomes",
-      "published": "Fri, 11 Sep 2026 11:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スペイングランプリ: フェラーリ、マクラーレンは、初期のメルセデスのペースで戦うように見えます!",
-      "summary": "",
-      "title_original": "Spanish GP: Ferrari, McLaren look to fight back against early Mercedes pace LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13583697/f1-spanish-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-at-new-madring-circuit-in-madrid",
-      "published": "Fri, 11 Sep 2026 11:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Fulham 最新:Arbeloa は、スクワット・アンレスト・レポートに応答",
-      "summary": "",
-      "title_original": "Fulham latest: Arbeloa responds to squad unrest reports",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Fri, 11 Sep 2026 10:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アルテタ: 私は私たちの旅行計画をサボタージするので、プレイヤーは問題に慣れる",
-      "summary": "アーセナルマネージャーミケル・アルテタ彼が故意に前シーズンにクラブの旅行計画を sabotaged と言う - 道で困難に使用した選手を取得する。",
-      "title_original": "Arteta: I sabotage our travel plans so players get used to problems",
-      "summary_original": "Arsenal manager Mikel Arteta says he deliberately sabotaged the club's travel plans during pre-season - to get his players used to difficulties on the road.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584290/mikel-arteta-arsenal-manager-says-he-deliberately-sabotaged-his-teams-travel-plans-to-prepare-for-difficulties-on-the-road",
-      "published": "Fri, 11 Sep 2026 10:15:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ローレンス・スチュナーがパキスタン4 ダウンで、イギリスを100 未満の LIVE で走る!",
-      "summary": "",
-      "title_original": "Lawrence stunner has Pakistan four down, trailing England by under 100 LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13584253/england-vs-pakistan-third-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
-      "published": "Fri, 11 Sep 2026 10:10:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
