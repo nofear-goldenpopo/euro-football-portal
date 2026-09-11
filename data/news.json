@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T12:31:05.047659+00:00",
+  "updated_at": "2026-09-11T12:49:47.423640+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2453,7 +2453,11 @@
     "Mail John Matthias Jaissle": "",
     "Olid’s United": "",
     "London City Lionesses. Simi": "",
-    "Nanna Koerstz Madsen's": ""
+    "Nanna Koerstz Madsen's": "",
+    "Simi Awujo’s": "",
+    "Amelia Earhart": "アメリア・イアハート",
+    "The Weekend Winners": "",
+    "St Leger Festival": ""
   },
   "items": [
     {
@@ -2468,6 +2472,34 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "私は選手を準備するためにシーズン前の旅行計画を混乱させました -アルテタ",
+      "summary": "ミケル・アルテタコメントアーセナル週中は準備が整いましたチャンピオンズリーグフライト遅延 - 彼は意図的に彼らの訓練や旅行計画を準備するために、シーズンの前シーズンに混乱させるので、.",
+      "title_original": "I disrupted pre-season travel plans to prepare players - Arteta",
+      "summary_original": "Mikel Arteta says Arsenal were ready for their midweek Champions League flight delay - because he deliberately disrupted their training and travel plans in pre-season to prepare them.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y48zdxv0ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 12:32:20 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド過去のサバを4 つ入れるチャンピオンズリーグフィードバック",
+      "summary": "マンチェスター・ユナイテッド最大の記録チャンピオンズリーグ彼らが掃引するように2020 年以来の勝利 Sabah FK 獲得を問い合わせオールド・トラッフォード.",
+      "title_original": "Man Utd put four past Sabah on Champions League return",
+      "summary_original": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 21:01:24 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2495,6 +2527,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "オリズスコアは2 回として得ますバイエルンスラッシュボデ/グリムト",
+      "summary": "イギリスのキャプテンハリー・ケインスコア 55 位チャンピオンズリーグ目標と目標 Michael Olise として2 回打つことバイエルン・ミュンヘン着心地のよいビートでキャンペーンを開始ボデ/グリムト.",
+      "title_original": "Olise scores twice as Bayern thrash Bodo/Glimt",
+      "summary_original": "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1mvzgmdje5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 21:50:13 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2527,20 +2573,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド過去のサバを4 つ入れるチャンピオンズリーグフィードバック",
-      "summary": "マンチェスター・ユナイテッド最大の記録チャンピオンズリーグ彼らが掃引するように2020 年以来の勝利 Sabah FK 獲得を問い合わせオールド・トラッフォード.",
-      "title_original": "Man Utd put four past Sabah on Champions League return",
-      "summary_original": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 21:01:24 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ハル車のクラッシュの後のウィンガートーマスの不急",
       "summary": "プレミアリーグウィンガーSorba Thomas's Land RoverCottingham のオーバーターン。",
       "title_original": "Hull winger Thomas unhurt after car crash",
@@ -2555,20 +2587,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "オリズスコアは2 回として得ますバイエルンスラッシュボデ/グリムト",
-      "summary": "イギリスのキャプテンハリー・ケインスコア 55 位チャンピオンズリーグ目標と目標 Michael Olise として2 回打つことバイエルン・ミュンヘン着心地のよいビートでキャンペーンを開始ボデ/グリムト.",
-      "title_original": "Olise scores twice as Bayern thrash Bodo/Glimt",
-      "summary_original": "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1mvzgmdje5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 21:50:13 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Sutton の予測 v ドーキング・ワンダラーズ FC マネージャーMarc White",
       "summary": "BBC スポーツサッカーの専門家クリス・サットン獲得を問い合わせドーキング・ワンダラーズ FC マネージャーMarc White この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
       "title_original": "Sutton's predictions v Dorking Wanderers manager Marc White",
@@ -2580,20 +2598,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド685 ファンアカウントをトウト後の禁止",
-      "summary": "マンチェスター・ユナイテッド685 ファンアカウントを禁止します。チケットのトウト調査とイノセントファンは罰されていません。",
-      "title_original": "Man Utd ban 685 fan accounts after touting probe",
-      "summary_original": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans have not been punished.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4zydzk2zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 11:33:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2622,6 +2626,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド685 ファンアカウントをトウト後の禁止",
+      "summary": "マンチェスター・ユナイテッド685 ファンアカウントを禁止します。チケットのトウト調査とイノセントファンは罰されていません。",
+      "title_original": "Man Utd ban 685 fan accounts after touting probe",
+      "summary_original": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans have not been punished.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4zydzk2zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 11:33:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2664,20 +2682,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フェネルバフチェボス stuns クラブ による quitting 後にローマログイン",
-      "summary": "Ismail Kartal リサインとしてフェネルバフチェの ヘッドコーチは、トルコ側の 1-1 の後にわずか数分で引きますローマ獲得を問い合わせチャンピオンズリーグ.",
-      "title_original": "Fenerbahce boss stuns club by quitting after Roma draw",
-      "summary_original": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8r6vyjpye2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 08:06:08 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2849,6 +2853,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "フェネルバフチェボス stuns クラブ による quitting 後にローマログイン",
+      "summary": "Ismail Kartal リサインとしてフェネルバフチェの ヘッドコーチは、トルコ側の 1-1 の後にわずか数分で引きますローマ獲得を問い合わせチャンピオンズリーグ.",
+      "title_original": "Fenerbahce boss stuns club by quitting after Roma draw",
+      "summary_original": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8r6vyjpye2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 08:06:08 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ケースを作ることができます。チェルシー2016-17 タイトルのストライプされていますか?",
       "summary": "Does Mauricio Pochettino ケースを持っているトッテナム後ろ向きに王冠されるべきですプレミアリーグチャンピオン?",
       "title_original": "Can you make a case for Chelsea being stripped of 2016-17 title?",
@@ -2863,27 +2881,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナム契約上の紛争に富む",
-      "summary": "トッテナムリファリソンは、契約の残り9 か月にわたって紛争を負います。",
-      "title_original": "Spurs and Richarlison in dispute over contract",
-      "summary_original": "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 18:48:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マンチェスター・ユナイテッド禁止 685 季節券保有者 オーバートゥット; ホールは、長期的な合意ニューカッスル移籍: サッカーニュース – ライブ",
       "summary": "大会レポート 週末のサッカーの試合前のニュースとアップデート 開催報告プレミアリーグ: 10 回観てみる Mail John Matthias Jaissle 夏の新加入選手が明らかにされたマティアス・フェルナンデス＝パルド始めに近づくニューカッスル獲得を問い合わせ 21 歳からタイネサイドへ到着リール期限日には、代替として特集されているニューカッスル最後の2 つのマッチ。続きを読む...",
       "title_original": "Manchester United ban 685 season-ticket holders over touting; Hall agrees long-term Newcastle deal: football news – live",
       "summary_original": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail John Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle . The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "published": "Fri, 11 Sep 2026 12:10:01 GMT",
+      "published": "Fri, 11 Sep 2026 12:41:45 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2905,10 +2909,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Olid’s United 遅れた事業と WSL の開始を許さないために徒歩で",
-      "summary": "ヘッドコーチは、彼女が準備するように彼女に厳しいスポットライトを持っていますチェルシー日曜日、しかし彼女は時間と投資に値する 厳しい見守りでしたマンチェスター・ユナイテッド’ のプレーヤーは、飢餓と攻撃的なプレスに対して非効果的に労働ロンドン・シティ・ライオネス。シミ・アフホの後半の慰めの目標は、いくつかのチームが自分のヒールでニッピングをしている側に取り付けの懸念を緩和するために少しした。慌てないでください。それはユナイテッドのメッセージでなければなりません。当然のことながら、チームを落とすのは早いです。ザ・オブ・ザ・",
+      "title": "Olid’s United 遅れた事業と WSL の開始を許さないため、バックフット",
+      "summary": "ヘッドコーチは彼女のために準備するので、彼女の上で過酷なスポットライトを持っていますチェルシー日曜日、しかし彼女は時間と投資に値する 厳しい見守りでしたマンチェスター・ユナイテッド’ のプレーヤーは、飢餓と攻撃的なプレスに対して非効果的に労働ロンドン・シティ・ライオネス獲得を問い合わせ Women’s Super League’s オープニングマッチ。Simi Awujo’s 後半のコンサルテーションの目標は、自分のヒールでニッピングいくつかのチームを持っている側面のための土台の懸念を緩和するために少しした. 慌てないでください。それはユナイテッドのメッセージでなければなりません。限り、それは非常にあります",
       "title_original": "Olid’s United on back foot due to late business and unforgiving WSL start",
-      "summary_original": "Head coach has harsh spotlight on her as she prepares for Chelsea on Sunday, but she deserves time and investment It was tough watching Manchester United’s players labour ineffectively against the hungry and aggressive press of London City Lionesses. Simi Awujo’s late consolation goal did little to ease the mounting concern for a side that have several teams nipping at their heels. Don’t panic; that has to be United’s message. To an extent, it is very early to be writing the team’s obituary. The",
+      "summary_original": "Head coach has harsh spotlight on her as she prepares for Chelsea on Sunday, but she deserves time and investment It was tough watching Manchester United’s players labour ineffectively against the hungry and aggressive press of London City Lionesses in the Women’s Super League’s opening match. Simi Awujo’s late consolation goal did little to ease the mounting concern for a side that have several teams nipping at their heels. Don’t panic; that has to be United’s message. To an extent, it is very ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/11/eva-olid-manchester-united-wsl",
       "published": "Fri, 11 Sep 2026 11:18:25 GMT",
@@ -3325,6 +3329,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アメリア・イアハート fancied のためにセントレジャーステークスアップセット",
+      "summary": "The Weekend Winners チームは土曜日のトップのヒントを議論するために戻りますセントレジャーステークス祭り。",
+      "title_original": "Amelia Earhart fancied for St Leger upset",
+      "summary_original": "The Weekend Winners team return to discuss their top tips for Saturday at the St Leger Festival.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13584254/doncaster-tips-amelia-earhart-fancied-for-st-leger-upset-at-doncaster",
+      "published": "Fri, 11 Sep 2026 13:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「1 セントあたり100 マイル!」 - カーディフは、フューリー対 AJ の潜在的な会場として登場",
       "summary": "タイソン・フューリー’s マネージャーが確認しました Anthony Joshua 戦いは、カルディフが潜在的な会場として出現するように「100 パーセントの出来事」です。",
       "title_original": "‘Fight 100 per cent on!’ - Cardiff emerges as potential venue for Fury vs AJ",
@@ -3479,20 +3497,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "メルソン:トッテナム, マンチェスター・シティそして、マンチェスター・ユナイテッド今週の週末にゲームを定義している",
-      "summary": "最新のスカイスポーツコラムで、ポール・マーソンコメントトッテナム, マンチェスター・シティそして、マンチェスター・ユナイテッド今週末の試合は、シーズン初旬の試合です。",
-      "title_original": "Merson: Spurs, Man City and Man Utd have defining games this weekend",
-      "summary_original": "In his latest Sky Sports column, Paul Merson says Tottenham, Manchester City and Manchester United all have defining matches this weekend, even though it is early in the season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582801/spurs-man-city-and-man-utd-face-defining-premier-league-matches-this-weekend-says-paul-merson",
-      "published": "Fri, 11 Sep 2026 08:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ロジャーズそしてパルマは互いに繁栄を助けます",
       "summary": "",
       "title_original": "Rogers and Palmer helping each other thrive",
@@ -3504,6 +3508,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "メルソン:トッテナム, マンチェスター・シティそして、マンチェスター・ユナイテッド今週の週末にゲームを定義している",
+      "summary": "最新のスカイスポーツコラムで、ポール・マーソンコメントトッテナム, マンチェスター・シティそして、マンチェスター・ユナイテッド今週末の試合は、シーズン初旬の試合です。",
+      "title_original": "Merson: Spurs, Man City and Man Utd have defining games this weekend",
+      "summary_original": "In his latest Sky Sports column, Paul Merson says Tottenham, Manchester City and Manchester United all have defining matches this weekend, even though it is early in the season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13582801/spurs-man-city-and-man-utd-face-defining-premier-league-matches-this-weekend-says-paul-merson",
+      "published": "Fri, 11 Sep 2026 08:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3560,20 +3578,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Caballo De Mar クイーンズタウンに面ドンカスターカップ",
-      "summary": "Caballo De Mar クイーンズタウンでホーンを締めるドンカスターカップ- ライブ Sky Sports Racing.",
-      "title_original": "Caballo De Mar faces Queenstown in Doncaster Cup",
-      "summary_original": "Caballo De Mar locks horns with Queenstown in the Doncaster Cup - live on Sky Sports Racing.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13583527/today-on-sky-sports-racing-caballo-de-mar-faces-queenstown-in-doncaster-cup",
-      "published": "Fri, 11 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
