@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T19:49:18.599600+00:00",
+  "updated_at": "2026-09-11T20:06:18.222775+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2494,7 +2494,9 @@
     "Solheim Cup Friday": "",
     "Kobbie Mainoo": "コビー・メイヌー",
     "Manchester United’s Bruno Fernandes": "",
-    "Manchester City’s Erling Haaland": ""
+    "Manchester City’s Erling Haaland": "",
+    "Urooj Mumtaz": "",
+    "Serena Williams": "セリーナ・ウィリアムズ"
   },
   "items": [
     {
@@ -2820,6 +2822,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "カルタルはまだフェネルバフチェ再獲得にもかかわらず、上司",
+      "summary": "Ismail Kartal ヘッドコーチとして残っているフェネルバフチェ木曜日の辞退にもかかわらずチャンピオンズリーグゲームとローマ.",
+      "title_original": "Kartal still Fenerbahce boss despite resigning",
+      "summary_original": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game with Roma.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 19:51:32 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "例-ウェストハムストライカー・アントニオが Watford に参加",
       "summary": "ワトフォードが元に獲得を発表ウェストハムストライカーMichail Antonio 獲得を問い合わせフリー移籍.",
       "title_original": "Ex-West Ham striker Antonio joins Watford",
@@ -2873,20 +2889,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「ママのために遊びたい」アーセナルコオニークロス",
-      "summary": "アーセナル「キラ・コオニー・クロス」でプレイする準備が整っていますエミレーツ・スタジアム母親のジェスをがんに失ってから初めて、彼女は彼女の養蜂に直面しているかを説明します。",
-      "title_original": "'I want to play for mum' – Arsenal's Cooney-Cross",
-      "summary_original": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since losing her mum Jess to cancer, and explains how she has been facing up to her bereavement \"one day at a time\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 05:52:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3338,6 +3340,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Mumtaz: Razaullah は「パーフェクトチャプター」をパキスタンのレベリングに書きました",
+      "summary": "Former Pakistan キャプテン Urooj Mumtaz ラウド・ヤングスター・ラザーラは、「パーフェクト・チャプター」と述べ、エドグバストンで3 日目にイングランドに対して63 球を離れて彼の感覚的な81 の後に彼のリールの側面を復活させました。",
+      "title_original": "Mumtaz: Razaullah wrote 'perfect chapter' to revive reeling Pakistan",
+      "summary_original": "Former Pakistan captain Urooj Mumtaz lauded youngster Razaullah and said he wrote the \"perfect chapter\" to revive his reeling side after his sensational 81 off 63 balls against England on day three at Edgbaston.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13584563/england-vs-pakistan-razaullah-writes-perfect-chapter-to-revive-reeling-pakistan-and-force-england-into-unwanted-day-four",
+      "published": "Fri, 11 Sep 2026 20:57:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "サバレンカの「三重」または乙女になる US Open 新しいナンバー1 Rybakina?",
+      "summary": "2 回防衛王者 Aryna Sabalenka'three-peat' を達成するための最初の女性になるために探しています New York 獲得を問い合わせセリーナ・ウィリアムズ2014 年だが、世界一の出会いに直面するエレーナ・リバキナ獲得を問い合わせ全米オープン最終土曜日",
+      "title_original": "Will it be a Sabalenka 'three-peat' or maiden US Open for new No 1 Rybakina?",
+      "summary_original": "Two-time defending champion Aryna Sabalenka is looking to become the first woman to achieve the 'three-peat' in New York since Serena Williams in 2014 but she faces incoming world No 1 Elena Rybakina in the US Open final on Saturday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13584186/us-open-will-it-be-a-three-peat-for-aryna-sabalenka-or-a-maiden-title-in-new-york-for-new-no-1-elena-rybakina",
+      "published": "Fri, 11 Sep 2026 20:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Remarkable Razaullah ノックデニーイングランドシリーズは3 日以内に広がります",
       "summary": "イングランドは、金曜日に21 歳のラザララララから6 つのヒッティングの驚くべきディスプレイの後、エドグバストンで最終テストの3 日以内にパキスタンのシリーズの広がりを否定しました。",
       "title_original": "Remarkable Razaullah knock denies England series sweep inside three days",
@@ -3366,9 +3396,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Super League's Frantic Friday ライブ! ウィガン・リテーク・リード League Leaders' Shield レース",
+      "title": "Super League's Frantic Friday ライブ! ウィガン制御 League Leaders' Shield レース",
       "summary": "",
-      "title_original": "Super League's Frantic Friday LIVE! Wigan retake lead in League Leaders' Shield race",
+      "title_original": "Super League's Frantic Friday LIVE! Wigan controlling League Leaders' Shield race",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13582812/super-leagues-frantic-friday-live-updates-commentary-videos-scores-as-wigan-warriors-and-leeds-rhinos-go-for-league-leaders-shield",
@@ -3380,9 +3410,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE!トップシード Zverev は、最初のセミファイナルで未確認の Khachanov をとります",
+      "title": "US Open LIVE!トップシード Zverev が最初のセミファイナルで開口部を獲得",
       "summary": "",
-      "title_original": "US Open LIVE! Top seed Zverev takes on unseeded Khachanov in first semi-final",
+      "title_original": "US Open LIVE! Top seed Zverev wins opening set in first semi-final",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13584187/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-ben-shelton-and-frances-tiafoe-all-in-action",
@@ -3436,6 +3466,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ハイライト: ローリーは、リーダーボードのトップをサージするように新しいコースレコードを設定",
+      "summary": "2 日目のハイライトアイリッシュ・オープン.",
+      "title_original": "Highlights: Lowry sets new course record as he surges top of the leaderboard",
+      "summary_original": "Highlights from day two of the Amgen Irish Open.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584584/amgen-irish-open-day-two-highlights",
+      "published": "Fri, 11 Sep 2026 20:31:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスターの王様:ユナイテッドとシティクラッシュの時、誰が関係しますか?",
       "summary": "マンチェスター・シティ「マンチェスターの王様」が誕生しました。",
       "title_original": "Kings of Manchester: Who will reign when United and City clash?",
@@ -3457,20 +3501,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13584439/doncaster-cup-george-scotts-caballo-de-mar-bounces-back-to-form-in-town-moor-group-2",
       "published": "Fri, 11 Sep 2026 14:19:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アイリッシュ・オープン|2 日目ハイライト",
-      "summary": "2 日目のハイライトアイリッシュ・オープン.",
-      "title_original": "Amgen Irish Open | Day two highlights",
-      "summary_original": "Highlights from day two of the Amgen Irish Open.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584584/amgen-irish-open-day-two-highlights",
-      "published": "Fri, 11 Sep 2026 20:31:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3583,34 +3613,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13584202/solheim-cup-2026-team-europe-and-team-usa-tied-4-4-after-tight-opening-day-and-carlota-cigandas-dramatic-finish",
       "published": "Fri, 11 Sep 2026 18:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トッテナム最新:De ZerbiKudus と Maddison の可用性対エヴァートン",
-      "summary": "",
-      "title_original": "Tottenham latest: De Zerbi on Kudus and Maddison availability vs Everton",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Fri, 11 Sep 2026 12:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "最新のゴルフスコア:ローリーリードアイリッシュ・オープン McIlroy もアクション",
-      "summary": "世界中から最新のゴルフスコアと結果、ヨーロピアンツアー獲得を問い合わせアイリッシュ・オープン獲得を問い合わせ",
-      "title_original": "Latest golf scores: Lowry leads Amgen Irish Open with McIlroy also in action",
-      "summary_original": "Latest golf scores and results from around the world, including the DP World Tour's Amgen Irish Open and more.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
-      "published": "Thu, 10 Sep 2026 00:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
