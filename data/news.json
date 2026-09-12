@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T21:06:11.768789+00:00",
+  "updated_at": "2026-09-12T21:24:01.492616+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2670,7 +2670,8 @@
     "Keely Hodgkinson": "",
     "Audrey Werro": "",
     "New Zealand LIVE": "",
-    "Toothless Spurs": ""
+    "Toothless Spurs": "",
+    "Bruno Guimaraes": "ブルーノ・ギマランイス"
   },
   "items": [
     {
@@ -3094,13 +3095,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "サンダーランド. .アーセナル: プレミアリーグ– ライブ",
-      "summary": "⚽️ プレミアリーグ8pm BST キックオフライブスコア | 表 | トップスコア | 電子メールの請求サンダーランドパレードの新しいストライカーJuan Angulo 先週インディペンデント・デル・ヴァルレから獲得された、キックオフの前に Light. That 一つは私に渡されました - そして、私はこのために移籍の数百を書いてすべての夏を費やしました... JD メール...ここでは、非常に競争の EPL の季節のための私の初期予測です。チームが70 ポイントに到達するのに苦労します。75 を得るチームは確実に優勝します。",
-      "title_original": "Sunderland v Arsenal: Premier League – live",
+      "title": "サンダーランド 0-2 アーセナル: ギマレスとサカシンクブラックキャット獲得を問い合わせプレミアリーグ– ライブ",
+      "summary": "⚽️ プレミアリーグ8pm BST キックオフライブスコア | 表 | トップスコア | Billy メールサンダーランドパレードの新しいストライカーJuan Angulo 先週インディペンデント・デル・ヴァルレから獲得された、キックオフの前に Light. That 一つは私に渡されました - そして、私はこのために移籍の数百を書いてすべての夏を費やしました... JD メール...ここでは、非常に競争の EPL シーズンのための私の早期予測です. チームが70 ポイントに到達するのに苦労します。75 を得るチームは確実に優勝します。",
+      "title_original": "Sunderland 0-2 Arsenal: Guimarães and Saka sink Black Cats in Premier League – live",
       "summary_original": "⚽️ Premier League updates from the 8pm BST kick-off ⚽️ Live scores | Tables | Top scorers | And email Billy Sunderland parade new striker Juan Angulo, signed from Independiente del Valle last week, before kick-off at the Stadium of Light. That one had passed me by – and I’ve spent all summer writing down hundreds of transfers for this … JD emails in … Here is my early prediction for very competitive EPL season. Teams will struggle to reach 70 points. The team getting 75 will surely be champions.",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/12/sunderland-v-arsenal-premier-league-live",
-      "published": "Sat, 12 Sep 2026 20:58:10 GMT",
+      "published": "Sat, 12 Sep 2026 21:06:42 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3528,6 +3529,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Guimaraes おばさんサンダーランドとしてアーセナル勝ち始め続ける",
+      "summary": "ブルーノ・ギマランイス獲得した素晴らしいゴール2 分後に David Raya ペナルティをそのまま保存しましたアーセナルビートサンダーランド2-0 上記を移動するマンチェスター・シティ一番上にあるプレミアリーグ.",
+      "title_original": "Guimaraes haunts Sunderland as Arsenal continue winning start",
+      "summary_original": "Bruno Guimaraes scored stunning goal two minutes after David Raya had saved a penalty as Arsenal beat Sunderland 2-0 to move above Manchester City at the top of the Premier League.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/sunderland-vs-arsenal/report/559482",
+      "published": "Sat, 12 Sep 2026 22:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ウェストハム secure first WSL win of season against ロンドン・シティ・ライオネス",
       "summary": "ウェストハム claimed their first Women's Super League win of the season with a 2-1 home victory over ロンドン・シティ・ライオネス.",
       "title_original": "West Ham secure first WSL win of season against London City Lionesses",
@@ -3542,9 +3557,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Rybakina は、最終のサバレンカに対する開放者を獲得",
+      "title": "US Open LIVE! Rybakina に トップ へ 不満の Sabalenka で 最終",
       "summary": "",
-      "title_original": "US Open LIVE! Rybakina wins opener against frustrated Sabalenka in final",
+      "title_original": "US Open LIVE! Rybakina on top against frustrated Sabalenka in final",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13584677/us-open-live-scores-updates-news-commentary-results-from-new-york-with-aryna-sabalenka-takes-on-elena-rybakina-in-the-womens-final",
@@ -3640,9 +3655,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "South Africa 対比 New Zealand LIVE! ボルチモアの第四と最終テスト",
+      "title": "South Africa 対比 New Zealand LIVE! バルチモアの最終テストへの Frantic 開始",
       "summary": "",
-      "title_original": "South Africa vs New Zealand LIVE! Fourth and final Test in Baltimore",
+      "title_original": "South Africa vs New Zealand LIVE! Frantic start to final Test in Baltimore",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-union/live-blog/12040/13584810/south-africa-vs-new-zealand-live-score-updates-video-and-analysis-from-fourth-test-in-baltimore",
@@ -3776,20 +3791,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Swansea 見る オフ struggling バーンリー",
-      "summary": "Swansea は、自動プロモーションの場所に戻り、新しいミステリーを積んだバーンリーログイン Nicky Hayen, その側は、3-1 敗北で選手権の底にスラム.",
-      "title_original": "Swansea see off struggling Burnley",
-      "summary_original": "Swansea moved back into the automatic promotion places as they piled more misery on new Burnley boss Nicky Hayen, whose side slumped to the bottom of the Championship with a 3-1 defeat.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/swansea-city-vs-burnley/report/560578",
-      "published": "Sat, 12 Sep 2026 17:15:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
