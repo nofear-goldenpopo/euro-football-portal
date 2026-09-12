@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T17:22:42.371635+00:00",
+  "updated_at": "2026-09-12T17:35:21.480820+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2629,7 +2629,11 @@
     "Mohamed Touré": "",
     "Sebastian Berhalter": "",
     "Kevin Schade": "ケヴィン・シャーデ",
-    "Jennifer Kupcho": ""
+    "Jennifer Kupcho": "",
+    "Felix Nmecha": "",
+    "Fábio Silva": "",
+    "Bundesliga. Dortmund’s": "",
+    "Serhou Guirassy": "セール・ギラシ"
   },
   "items": [
     {
@@ -2815,6 +2819,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウェストハム Wrexham 上司の「最も低いポイント」の中の rout",
+      "summary": "Manager Phil ParkinsonWrexham が22 年以上にわたって最も重いリーグの敗北に苦しんでいる後ダウンビートですロンドン・スタジアム.",
+      "title_original": "West Ham rout among 'lowest points' for Wrexham boss",
+      "summary_original": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 22:40:40 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -2839,20 +2857,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウェストハム Wrexham 上司の「最も低いポイント」の中の rout",
-      "summary": "Manager Phil ParkinsonWrexham が22 年以上にわたって最も重いリーグの敗北に苦しんでいる後ダウンビートですロンドン・スタジアム.",
-      "title_original": "West Ham rout among 'lowest points' for Wrexham boss",
-      "summary_original": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 22:40:40 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2983,20 +2987,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「ママのために遊びたい」アーセナルコオニークロス",
-      "summary": "アーセナル「キラ・コオニー・クロス」でプレイする準備が整っていますエミレーツ・スタジアム母親のジェスをがんに失ってから初めて、彼女は彼女の養蜂に直面しているかを説明します。",
-      "title_original": "'I want to play for mum' – Arsenal's Cooney-Cross",
-      "summary_original": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since losing her mum Jess to cancer, and explains how she has been facing up to her bereavement \"one day at a time\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 05:52:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ウェストハム'Alvarez denies 誘拐 accusation",
       "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
       "title_original": "West Ham's Alvarez denies kidnapping accusation",
@@ -3008,6 +2998,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「ママのために遊びたい」アーセナルコオニークロス",
+      "summary": "アーセナル「キラ・コオニー・クロス」でプレイする準備が整っていますエミレーツ・スタジアム母親のジェスをがんに失ってから初めて、彼女は彼女の養蜂に直面しているかを説明します。",
+      "title_original": "'I want to play for mum' – Arsenal's Cooney-Cross",
+      "summary_original": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since losing her mum Jess to cancer, and explains how she has been facing up to her bereavement \"one day at a time\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 05:52:56 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3039,13 +3043,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド切符の touting の調査の後で685 ファンの記述を禁止して下さい",
-      "summary": "マンチェスター・ユナイテッド685 ファンアカウントを禁止します。チケットのトウト調査とイノセントファンは罰されていません。",
-      "title_original": "Man Utd ban 685 fan accounts after ticket touting probe",
-      "summary_original": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans have not been punished.",
+      "title": "リヴァプール元マネジャーベアードの悪霊",
+      "summary": "リヴァプール元女性のチームマネージャーに敬意を表して、彼らの訓練場と外側のアンフィールドで永続的な記念碑を明らかにしました Matt Beard.",
+      "title_original": "Liverpool unveil memorials for former manager Beard",
+      "summary_original": "Liverpool have unveiled permanent memorials at their training ground and outside Anfield in tribute to former women's team manager Matt Beard.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4zydzk2zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 11:33:17 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20939pqy78o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 15:32:08 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3059,7 +3063,7 @@
       "summary_original": "⚽️ Premier League updates from the 5.30pm BST kick-off ⚽️ Live scores | Tables | Top scorers | And email James 1min: Spurs have settled early and are pinging the ball around the edge of Everton’s box, the camera finds a couple of young fans in the crowd who hold up a sign: “Please score a goal”. Not sure who they support… Peeeeeep! Everton kick off, let’s go. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/12/tottenham-v-everton-premier-league-live-updates",
-      "published": "Sat, 12 Sep 2026 17:09:37 GMT",
+      "published": "Sat, 12 Sep 2026 17:23:32 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3123,20 +3127,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Schade ダブル denies Bournemouth 最初の リーグ 勝ち としてブレントフォード救助の引くこと",
-      "summary": "苦難のための必要性はまだで Bournemouth. Trust プロセス, しかし、欧州のサッカーのベクオニングの新しいフロンティアでは、ホームフロントに懸念のための地面があります. 性能レベルが下にある場合 Marco Rose 勝ったポジションが4 つに潜んでいるままプレミアリーグマッチ。不要な持ち運び Andoni Iraola’s 悪くなることは許されません。土曜日の訪問者は、パニックが助けないという証拠ポジティブを提供します。ブレントフォード, まだ無縁, 続けて m",
-      "title_original": "Schade double denies Bournemouth first league win as Brentford rescue draw",
-      "summary_original": "No need for distress flares just yet at Bournemouth. Trust the process, though with new frontiers of European football beckoning there are grounds for concern on the home front. If performance levels under Marco Rose remain decent, winning positions have been surrendered in his four Premier League matches. An unwanted carry over from Andoni Iraola’s tenure cannot be allowed to worsen. Saturday’s visitors offer proof positive that panic will not help. Brentford, still unbeaten, continue to be a m",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/bournemouth-brentford-premier-league-match-report",
-      "published": "Sat, 12 Sep 2026 16:26:10 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "フレミングとイプスウィッチフロア10 人クリスタル・パレス90 分優勝",
       "summary": "この勝利は、長い間来た Gary O’Neil. The MillwallBeckenham のサポーターは、彼が祝ったことは不思議ではないので、それはマネージャーとして、南ロンドンのこの部分に彼の前の5 つの旅行に、その孤立的なポイントをピックアップしましたジアン・フレミング旅行と同じガストで90 分の勝利目標イプスウィッチサポーター 見ている topsy-turvy の午後クリスタル・パレスエメソンの前にリードを取ると Leif Davis キャンセル Anan Khalaili’s 初めての目標クリスタル・パレスアクセルの後",
       "title_original": "Flemming and Ipswich floor 10-man Crystal Palace with 90th-minute winner",
@@ -3147,6 +3137,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ヨーロッパのフットボール:ドルトムント再び勝つが、Gladbach rout の後の Freiburg トップ",
+      "summary": "ボルシア・ドルトムントビートパダーボーン 3-0 Freiburg 5-0 勝利後の目標差をリード Felix Nmecha スコアは2 回、Fábio Silva 別のものをとしてつかむボルシア・ドルトムント3-0 を自宅で獲得し、パダーボーンを促進し、完璧なスタートを続けようブンデスリーガ. ドルトムント’ s の勝利は、このキャンペーンのリーグで 3 人から 3 人になった, 彼らのベストスタートで 11 シーズン, 日付 戻るトーマス・トゥヘル獲得を問い合わせ 並んでフロントを立ち上げるセール・ギラシ今シーズン初めてのシルバは、より巧妙なパスを変換",
+      "title_original": "European football: Dortmund win again but Freiburg top after Gladbach rout",
+      "summary_original": "Borussia Dortmund beat Paderborn 3-0 Freiburg lead on goal difference after 5-0 win Felix Nmecha scored twice and Fábio Silva grabbed another as Borussia Dortmund won 3-0 at home to promoted Paderborn to continue their perfect start in the Bundesliga. Dortmund’s win made it three from three in the league this campaign, their best start in 11 seasons, dating back to Thomas Tuchel’s time. Starting up front alongside Serhou Guirassy for the first time this season, Silva converted a clever pass from",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga",
+      "published": "Sat, 12 Sep 2026 17:15:01 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3305,17 +3309,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグチームニュース:週末のアクションの予想されるラインナップ",
-      "summary": "マンチェスター・シティ旅行へマンチェスター・ユナイテッド日曜日の日曜日の日曜日に興味深いダービーのためサンダーランドホストアーセナル土曜日午後3 時ヴィラ・パーク続きを読む...",
-      "title_original": "Premier League team news: predicted lineups for the weekend action",
-      "summary_original": "Manchester City travel to Manchester United for an intriguing derby on Sunday after Sunderland host Arsenal Saturday 3pm Venue Villa Park Continue reading...",
+      "title": "Schade ダブル denies Bournemouth 最初の リーグ 勝ち としてブレントフォード救助の引くこと",
+      "summary": "苦難のための必要性はまだで Bournemouth. Trust プロセス, しかし、欧州のサッカーのベクオニングの新しいフロンティアでは、ホームフロントに懸念のための地面があります. 性能レベルが下にある場合 Marco Rose 勝ったポジションが4 つに潜んでいるままプレミアリーグマッチ。不要な持ち運び Andoni Iraola’s 悪くなることは許されません。土曜日の訪問者は、パニックが助けないという証拠ポジティブを提供します。ブレントフォード, まだ無縁, 続けて m",
+      "title_original": "Schade double denies Bournemouth first league win as Brentford rescue draw",
+      "summary_original": "No need for distress flares just yet at Bournemouth. Trust the process, though with new frontiers of European football beckoning there are grounds for concern on the home front. If performance levels under Marco Rose remain decent, winning positions have been surrendered in his four Premier League matches. An unwanted carry over from Andoni Iraola’s tenure cannot be allowed to worsen. Saturday’s visitors offer proof positive that panic will not help. Brentford, still unbeaten, continue to be a m",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/11/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-      "published": "Fri, 11 Sep 2026 17:16:43 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/12/bournemouth-brentford-premier-league-match-report",
+      "published": "Sat, 12 Sep 2026 16:26:10 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3501,6 +3505,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スペイングランプリ: アントネリは「必然的にゆっくり運転」のために警告",
+      "summary": "",
+      "title_original": "Spanish GP: Antonelli warned for 'driving unnecessarily slowly'",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13584285/f1-spanish-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-madring",
+      "published": "Sat, 12 Sep 2026 14:25:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ボロのストライキは、壮大な出会いでノリッチを打つために遅く",
       "summary": "Ashley Phillips ミドルスラフが7 頭のスリラーをエッジし、ノーウィッチ4〜3 をビートするような、非常に遅くマッチウィンターだった Riverside Stadium.",
       "title_original": "Boro strike late to beat Norwich in epic encounter",
@@ -3641,10 +3659,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'弓を振る!' - クプチョシンクモンスターは、17th で最終試合を結びます",
-      "summary": "Jennifer Kupcho 信じられないほどのロングレンジのパットをパフォー17 で釘付けし、野生のお祝いをスパークします Team USA.",
-      "title_original": "'Take a bow!' - Kupcho sinks MONSTER putt to tie final match on the 17th",
-      "summary_original": "Jennifer Kupcho nailed an incredible long-range putt at the par-four 17th to spark wild celebrations from Team USA.",
+      "title": "Kupcho は TWO の巨大なパットを沈み、マッチを盗む Team USA",
+      "summary": "Jennifer Kupcho 第17 と第18 の穴に2 つの信じられないほどのパットを釘付けし、勝利を盗み、野生のお祝いをスパークします Team USA.",
+      "title_original": "Kupcho sinks TWO huge putts to steal the match for Team USA",
+      "summary_original": "Jennifer Kupcho nailed two incredible putts on the 17th and 18th hole to steal the win and spark wild celebrations from Team USA.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13585085/solheim-cup-jennifer-kupcho-sinks-monster-putt-to-tie-match-on-the-17th",
       "published": "Sat, 12 Sep 2026 17:57:00 BST",
@@ -3736,20 +3754,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'158 マイル?! それだけではありません! - いずれにしても、シェルトンのサービスは UNMATCHED です!",
-      "summary": "ベン・シェルトン彼がヒットしたと思った 158 mph で役立つ全米オープンセミファイナルですが、実はホーク・アイによると印象的な144mph でした。",
-      "title_original": "'158mph?! That's not right!' - Either way, Shelton's serve is UNMATCHED!",
-      "summary_original": "Ben Shelton thought he hit a 158mph serve at the US Open semi-finals, but in fact it was an impressive 144mph according to Hawk-Eye.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584721/us-open-speed-gun-clocks-ben-sheltons-serve-at-158mph",
-      "published": "Sat, 12 Sep 2026 09:28:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
