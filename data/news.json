@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T15:05:50.564265+00:00",
+  "updated_at": "2026-09-12T15:23:38.378859+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2587,7 +2587,11 @@
     "British Classic": "イギリスクラシック三冠",
     "Saffie Osborne": "",
     "Betfred St Leger": "",
-    "Luis Vasquez": ""
+    "Luis Vasquez": "",
+    "Mapi León": "マピ・レオン",
+    "Isa Kardinaal": "",
+    "Eder Maestre’s": "",
+    "Spanish Grand Prix Qualifying": ""
   },
   "items": [
     {
@@ -3017,7 +3021,7 @@
       "summary_original": "⚽️ News and updates from all of Saturday’s football action ⚽️ Live scores | Tables | Top scorers | And email Barry Championship: Standing on the opposition goalline, Birmingham City’s South Korean midfielder Paik Seung-Ho can’t miss as he heads his side in front at Pride Park from a wonderful Liam Millar inswinger of a corner. The visitors lead Derby County 2-1 after 63 minutes. WSL: West Ham haver doubled their lead against London City, with Viviane Asseyi making it 2-0 at Victoria Road after 4",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
-      "published": "Sat, 12 Sep 2026 14:54:22 GMT",
+      "published": "Sat, 12 Sep 2026 15:10:25 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3026,15 +3030,15 @@
     },
     {
       "title": "London City’s スーパースターは WSL 敗北で地球に降り注ぐウェストハム",
-      "summary": "ウェストハム最初の主張 Women’s Super League2-1 ホーム勝利でシーズンの勝利ロンドン・シティ・ライオネス. ケリー・ガゴは21 分後にハンマーを、競争に置きました Seraina Piubel’s ハーフウェイとラウンドの通過 Elene Lete 都市の目標で。続きを読む...",
+      "summary": "ウェストハム最初の主張 Women’s Super League2-1 ホーム勝利でシーズンの勝利ロンドン・シティ・ライオネス. ケリーガゴは、センターバック間のレース、21 分後にハンマーを置くマピ・レオンそして、Isa Kardinaal にラッチに Seraina Piubel’s ハーフウェイとラウンドの通過 Elene Lete 獲得を問い合わせ London City ゴール。誰がから獲得したのかレアル・ソシエダに 2025, 残り Eder Maestre’s 元イングランドのゴールキーパーの到着にもかかわらず、ゴールの最初の選択肢 Mary Earps この要約",
       "title_original": "London City’s superstars brought down to earth in WSL defeat at West Ham",
-      "summary_original": "West Ham claimed their first Women’s Super League win of the season with a 2-1 home victory over London City Lionesses. Kelly Gago put the Hammers ahead after 21 minutes, racing on to Seraina Piubel’s pass from nearly halfway and rounding Elene Lete in the City goal. Continue reading...",
+      "summary_original": "West Ham claimed their first Women’s Super League win of the season with a 2-1 home victory over London City Lionesses. Kelly Gago put the Hammers ahead after 21 minutes, racing between the centre-backs Mapi León and Isa Kardinaal to latch on to Seraina Piubel’s pass from nearly halfway and rounding Elene Lete in the London City goal. Lete, who signed from Real Sociedad in 2025, remains Eder Maestre’s first choice in goal despite the arrival of the former England goalkeeper Mary Earps this summe",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/12/london-city-west-ham-wsl-match-report",
       "published": "Sat, 12 Sep 2026 14:11:24 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3431,6 +3435,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ノリスは Antonelli を驚かせますスペイングランプリポール",
+      "summary": "Lando Norris ビートに素晴らしいラップを生成 Kimi Antonelli フォーミュラ1 の新しいマドリングサーキットで最初のポールポジションへスペイングランプリ予選",
+      "title_original": "Norris beats Antonelli to surprise Spanish GP pole",
+      "summary_original": "Lando Norris produced a stunning lap to beat Kimi Antonelli to the first pole position at Formula 1's all-new Madring circuit in a thrilling Spanish Grand Prix Qualifying.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13584719/spanish-gp-lando-norris-beats-kimi-antonelli-to-first-pole-position-at-madring-after-thrilling-qualifying-finale",
+      "published": "Sat, 12 Sep 2026 16:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "獲得 Osborne 最初の 女性 へ 勝つイギリスクラシック三冠ハイウェーマンの土地の足車として",
       "summary": "Saffie Osborne 彼女は勝つために最初の女性ジョッキーになったので、Doncaster で歴史を作ったイギリスクラシック三冠, ステアリングハイウェイマンは、250th Betfred で勝利セントレジャーステークス.",
       "title_original": "History! Osborne first woman to win British Classic as Highwayman lands Leger",
@@ -3515,9 +3533,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "オーストラリア リード Red Roses 獲得を問い合わせ WXV Global Series オープンア LIVE!",
+      "title": "Red Roses リードオーストラリア WXV Global Series オープンア LIVE!",
       "summary": "",
-      "title_original": "Australia lead Red Roses in WXV Global Series opener LIVE!",
+      "title_original": "Red Roses lead Australia in WXV Global Series opener LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-union/live-blog/12040/13584758/england-vs-australia-live-score-updates-analysis-from-wxv-opener-in-salford",
@@ -3571,17 +3589,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナム対比エヴァートンチームニュース LIVE!",
+      "title": "ソランケが始まりますトッテナム Maitland-Niles ハンドエヴァートンフルデビューLIVE!",
       "summary": "",
-      "title_original": "Tottenham vs Everton team news LIVE!",
+      "title_original": "Solanke starts for Spurs as Maitland-Niles handed Everton full debut LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/tottenham-hotspur-vs-everton/live/559483",
       "published": "Sat, 12 Sep 2026 15:41:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3669,9 +3687,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Kluivert ヒット バック のために Bournemouth 分 後にブレントフォードオープンア LIVE!",
+      "title": "ブレントフォードすぐにレベル Bournemouth LIVE!",
       "summary": "",
-      "title_original": "Kluivert hits back for Bournemouth minutes after Brentford opener LIVE!",
+      "title_original": "Brentford immediately level at Bournemouth LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bournemouth-vs-brentford/live/559475",
@@ -3690,20 +3708,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13584826/spanish-gp-toto-wolff-reveals-mercedes-team-orders-strategy",
       "published": "Sat, 12 Sep 2026 14:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハミルトンはマドリッドで Antonelli トップス決勝練習としてクラッシュ",
-      "summary": "チャンピオンシップリーダーKimi Antonelli 最終練習で最速だったスペイングランプリとして Lewis Hamilton マドリッドで修飾する前に、貴重な追跡時間をクラッシュし、失われた。",
-      "title_original": "Hamilton crashes as Antonelli tops final practice in Madrid",
-      "summary_original": "Championship leader Kimi Antonelli was fastest in final practice at the Spanish Grand Prix as Lewis Hamilton crashed and lost valuable track time ahead of qualifying in Madrid.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13584715/spanish-gp-lewis-hamilton-crashes-at-kimi-antonelli-tops-final-practice-from-charles-leclerc-in-madrid",
-      "published": "Sat, 12 Sep 2026 13:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
