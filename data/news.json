@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T13:05:31.739523+00:00",
+  "updated_at": "2026-09-12T13:22:54.098819+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2563,7 +2563,11 @@
     "No Milenkovic": "",
     "Brentford PL": "",
     "Viviane Asseyi": "",
-    "Jamie Jackson. Cont": ""
+    "Jamie Jackson. Cont": "",
+    "Barry Championship": "",
+    "Birmingham City’s South Korean": "",
+    "Paik Seung-Ho": "",
+    "Derby County": "ダービー・カウンティFC"
   },
   "items": [
     {
@@ -2588,20 +2592,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj4je2eveewo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 12 Sep 2026 07:39:53 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ニュースマンチェスター・シティ勝つために絶望的な獲得 - Dias",
-      "summary": "マンチェスター・シティ「勝つために絶望的」である夏の新加入選手に持ち込まれ、スクワッド全体が新しいマネージャーの「アイデアに喜んでいる」Enzo Maresca, 新しいキャプテンを言うルベン・ディアス.",
-      "title_original": "New Man City signings desperate to win - Dias",
-      "summary_original": "Manchester City have brought in summer signings who are \"desperate to win\" and the whole squad is \"buying into the idea\" of new manager Enzo Maresca, says new captain Ruben Dias.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5zp9llp3ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 05:24:51 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2679,6 +2669,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ニュースマンチェスター・シティ勝つために絶望的な獲得 - Dias",
+      "summary": "マンチェスター・シティ「勝つために絶望的」である夏の新加入選手に持ち込まれ、スクワッド全体が新しいマネージャーの「アイデアに喜んでいる」Enzo Maresca, 新しいキャプテンを言うルベン・ディアス.",
+      "title_original": "New Man City signings desperate to win - Dias",
+      "summary_original": "Manchester City have brought in summer signings who are \"desperate to win\" and the whole squad is \"buying into the idea\" of new manager Enzo Maresca, says new captain Ruben Dias.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5zp9llp3ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 05:24:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "私は選手を準備するためにシーズン前の旅行計画を混乱させました -アルテタ",
       "summary": "ミケル・アルテタコメントアーセナル週中は準備が整いましたチャンピオンズリーグフライト遅延 - 彼は意図的に彼らの訓練や旅行計画を準備するために、シーズンの前シーズンに混乱させるので、.",
       "title_original": "I disrupted pre-season travel plans to prepare players - Arteta",
@@ -2714,20 +2718,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5ydqvvlqk3o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 14:54:09 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "セルティックダービーの前に「時機を得た」警察のリマインダーを与えて下さい",
-      "summary": "セルティックプレイヤーは、Police Scotland 金曜日に「時機を得たリマインダー」を「一般行動」に与える Sunday's Premier Sport Cup 市街地に準じる四分の一本レンジャーズマネージャーマーティン・オニール明らかにする。",
-      "title_original": "Celtic given 'timely' police reminder before derby",
-      "summary_original": "Celtic players had a visit from Police Scotland on Friday to give them \"a timely reminder\" about their \"general behaviour\" in Sunday's Premier Sport Cup quarter-final against city rivals Rangers, manager Martin O'Neill reveals.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz7zrdxj9x0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 14:16:39 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2903,6 +2893,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "セルティックダービーの前に「時機を得た」警察のリマインダーを与えて下さい",
+      "summary": "セルティックプレイヤーは、Police Scotland 金曜日に「時機を得たリマインダー」を「一般行動」に与える Sunday's Premier Sport Cup 市街地に準じる四分の一本レンジャーズマネージャーマーティン・オニール明らかにする。",
+      "title_original": "Celtic given 'timely' police reminder before derby",
+      "summary_original": "Celtic players had a visit from Police Scotland on Friday to give them \"a timely reminder\" about their \"general behaviour\" in Sunday's Premier Sport Cup quarter-final against city rivals Rangers, manager Martin O'Neill reveals.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz7zrdxj9x0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 14:16:39 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Football Daily",
       "summary": "Kelly Somers 獲得を問い合わせマンチェスター・シティディフェンダールベン・ディアス.",
       "title_original": "Football Daily",
@@ -2959,20 +2963,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Richarlison はまだ残ることができますトッテナム - 土曜日の移籍ゴシップ",
-      "summary": "インテル Richarlison で一番、フィリペ・コウチーニョ・コレイアサントスの移籍に同意し、マンチェスター・ユナイテッドモニタリング Adrien Truffert.",
-      "title_original": "Richarlison could still leave Spurs - Saturday's gossip",
-      "summary_original": "Interest in Richarlison, Philippe Coutinho agrees Santos deal and Manchester United monitoring Adrien Truffert.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn0jrn8n7pjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 22:18:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Sutton の予測 v ドーキング・ワンダラーズ FC マネージャーMarc White",
       "summary": "BBC スポーツサッカーの専門家クリス・サットン獲得を問い合わせドーキング・ワンダラーズ FC マネージャーMarc White この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
       "title_original": "Sutton's predictions v Dorking Wanderers manager Marc White",
@@ -2987,13 +2977,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "例-ウェストハムストライカー・アントニオが Watford に参加",
+      "summary": "ワトフォードが元に獲得を発表ウェストハムストライカーMichail Antonio 獲得を問い合わせフリー移籍.",
+      "title_original": "Ex-West Ham striker Antonio joins Watford",
+      "summary_original": "Watford announce the signing of former West Ham United striker Michail Antonio on a free transfer.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 15:04:49 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リヴァプール v フルハム,チェルシー. .ハル・シティ AFC サッカー時計時計 - ライブ",
-      "summary": "大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 電子メール Barry WSL: ウェストハム投資家は彼らのリードを対比倍増しました London City と、Viviane Asseyi2-0 を作る Victoria Road48 分以内マンチェスター・ユナイテッド: Enzo Maresca のときマンチェスター・シティ町を渡る側面モーターオールド・トラッフォード明日、ライヴされたグローバルオーディエンスを描画するローカルスクワブルの第199 版は、ピッチのオンとオフ - としてフェブリルになります。ワード:Jamie Jackson. Cont",
+      "summary": "大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 電子メール Barry Championship: 反対のゴールラインに立つ、バーミンガム・シティ FC'韓国ミッドフィルダーPaik Seung-Ho 正面の側に向いているので、見逃せない Pride Park 素晴らしいから Liam Millar コーナーのインスウィング 訪問者のリードダービー・カウンティ FC63 分後2-1 WSL:ウェストハム投資家は彼らのリードを対比倍増しました London City と、Viviane Asseyi2-0 を作る Victoria Road 後 4",
       "title_original": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch – live",
-      "summary_original": "⚽️ News and updates from all of Saturday’s football action ⚽️ Live scores | Tables | Top scorers | And email Barry WSL: West Ham haver doubled their lead against London City, with Viviane Asseyi making it 2-0 at Victoria Road after 48 minutes. Manchester United: When Enzo Maresca’s Manchester CIty side motor across town to Old Trafford tomorrow, the 199th edition of a local squabble that draws a riveted global audience will be as febrile as ever – on and off the pitch. Words: Jamie Jackson. Cont",
+      "summary_original": "⚽️ News and updates from all of Saturday’s football action ⚽️ Live scores | Tables | Top scorers | And email Barry Championship: Standing on the opposition goalline, Birmingham City’s South Korean midfielder Paik Seung-Ho can’t miss as he heads his side in front at Pride Park from a wonderful Liam Millar inswinger of a corner. The visitors lead Derby County 2-1 after 63 minutes. WSL: West Ham haver doubled their lead against London City, with Viviane Asseyi making it 2-0 at Victoria Road after 4",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
-      "published": "Sat, 12 Sep 2026 12:54:16 GMT",
+      "published": "Sat, 12 Sep 2026 13:09:39 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
