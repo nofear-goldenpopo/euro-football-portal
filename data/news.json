@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T05:23:42.443589+00:00",
+  "updated_at": "2026-09-12T05:37:01.672902+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2525,9 +2525,24 @@
     "U.S. Open": "全米オープン",
     "Ruben Dias": "ルベン・ディアス",
     "BBC Sport's Kelly Somers": "",
-    "Pep Guardiola's": ""
+    "Pep Guardiola's": "",
+    "New Man City": ""
   },
   "items": [
+    {
+      "title": "ニュースマンチェスター・シティ勝つために絶望的な獲得 - Dias",
+      "summary": "マンチェスター・シティ「勝つために絶望的」である夏の新加入選手に持ち込まれ、スクワッド全体が新しいマネージャーの「アイデアに喜んでいる」Enzo Maresca, 新しいキャプテンを言うルベン・ディアス.",
+      "title_original": "New Man City signings desperate to win - Dias",
+      "summary_original": "Manchester City have brought in summer signings who are \"desperate to win\" and the whole squad is \"buying into the idea\" of new manager Enzo Maresca, says new captain Ruben Dias.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5zp9llp3ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 05:24:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "Like Benzema としてよいハーランド- Alonso に Joao Pedro",
       "summary": "チェルシーマネージャーシャビ・アロンソストライカーは言う Joao Pedro 彼の元によく似ているレアル・マドリードチームメイトカリム・ベンゼマ比較可能なレベルにあるマンチェスター・シティ獲得を問い合わせアーリング・ハーランド.",
@@ -2928,20 +2943,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9w4d04xx49o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 15:24:19 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウェストハム'Alvarez denies 誘拐 accusation",
-      "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
-      "title_original": "West Ham's Alvarez denies kidnapping accusation",
-      "summary_original": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the allegation made by film producer Juan Jose Lopez Ordonez.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 08:42:22 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
