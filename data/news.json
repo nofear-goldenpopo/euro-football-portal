@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T13:22:54.098819+00:00",
+  "updated_at": "2026-09-12T13:35:35.089210+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2567,7 +2567,8 @@
     "Barry Championship": "",
     "Birmingham City’s South Korean": "",
     "Paik Seung-Ho": "",
-    "Derby County": "ダービー・カウンティFC"
+    "Derby County": "ダービー・カウンティFC",
+    "Together Against Suicide": ""
   },
   "items": [
     {
@@ -2997,7 +2998,7 @@
       "summary_original": "⚽️ News and updates from all of Saturday’s football action ⚽️ Live scores | Tables | Top scorers | And email Barry Championship: Standing on the opposition goalline, Birmingham City’s South Korean midfielder Paik Seung-Ho can’t miss as he heads his side in front at Pride Park from a wonderful Liam Millar inswinger of a corner. The visitors lead Derby County 2-1 after 63 minutes. WSL: West Ham haver doubled their lead against London City, with Viviane Asseyi making it 2-0 at Victoria Road after 4",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
-      "published": "Sat, 12 Sep 2026 13:09:39 GMT",
+      "published": "Sat, 12 Sep 2026 13:20:53 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3034,9 +3035,9 @@
     },
     {
       "title": "サッカーは、リレーの価値のあるメッセージに声を貸す:男性は自分の痛みについて話すべきです |Barney Ronay",
-      "summary": "プレミアリーグ自殺キャンペーンで一緒にリンクアップするのは、シンプルで退屈な、そして不可欠なメッセージングです 見ると、アメリカのテレビの広告が間に合っている World Cup どんな時間でも1 つのことはちょうど leaping を保ちました。ここは前述しましたが、まだ瓶詰めと大事のようです。その無限の昼間のスクロールの3 分の4 回転、Chicken Megadeth Hyper-Box Family Meal Deal の両側デビッド・ベッカム軽くビールを飲みながら、",
+      "summary": "プレミアリーグ’s link-up とリンクアップ Together Against Suicide キャンペーンは、シンプルで退屈な、そして重要なメッセージングを分散しています 見ると、アメリカのテレビの広告が間に合っている World Cup どんな時間でも1 つのことはちょうど leaping を保ちました。ここは前述しましたが、まだ瓶詰めと大事のようです。その無限の昼間のスクロールの3 分の4 回転、Chicken Megadeth Hyper-Box Family Meal Deal の両側デビッド・ベッカム光ビールを巧みに消費する",
       "title_original": "Football lends voice to message worth relaying: men should talk about their pain | Barney Ronay",
-      "summary_original": "Premier League’s link-up with the Together in Suicide campaign is dispersing simple, blunt and essential messaging If you watched US television adverts during the World Cup for any length of time one thing just kept leaping out. I’ve mentioned this before here , but it still seems both jarring and significant. Every third or fourth rotation in that endless daytime scroll, in between the Chicken Megadeth Hyper-Box Family Meal Deal, either side of David Beckham expertly consuming a light beer, is ",
+      "summary_original": "Premier League’s link-up with the Together Against Suicide campaign is dispersing simple, blunt and essential messaging If you watched US television adverts during the World Cup for any length of time one thing just kept leaping out. I’ve mentioned this before here , but it still seems both jarring and significant. Every third or fourth rotation in that endless daytime scroll, in between the Chicken Megadeth Hyper-Box Family Meal Deal, either side of David Beckham expertly consuming a light beer",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/12/football-men-must-talk-about-pain-together-in-suicide-campaign-premier-league",
       "published": "Sat, 12 Sep 2026 07:00:27 GMT",
@@ -3411,6 +3412,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スペイングランプリ: ハミルトンは、予選前のクラッシュ後の調査を回避!",
+      "summary": "",
+      "title_original": "Spanish GP: Hamilton avoids investigation after crash ahead of qualifying LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13584285/f1-spanish-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-madring",
+      "published": "Sat, 12 Sep 2026 14:25:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ハミルトンはマドリッドで Antonelli トップス決勝練習としてクラッシュ",
       "summary": "チャンピオンシップリーダーKimi Antonelli 最終練習で最速だったスペイングランプリとして Lewis Hamilton マドリッドで修飾する前に、貴重な追跡時間をクラッシュし、失われた。",
       "title_original": "Hamilton crashes as Antonelli tops final practice in Madrid",
@@ -3450,20 +3465,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スペイングランプリ: ハミルトンは、練習クラッシュ LIVE の後に調査を回避!",
-      "summary": "",
-      "title_original": "Spanish GP: Hamilton to avoid investigation after practice crash LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13584285/f1-spanish-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-madring",
-      "published": "Sat, 12 Sep 2026 10:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
