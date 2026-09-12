@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T09:49:23.930888+00:00",
+  "updated_at": "2026-09-12T10:06:15.462554+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2541,7 +2541,8 @@
     "Venue Tottenham Hotspur Stadium": "",
     "Referee Darren England This": "",
     "Manager Phil Parkinson": "",
-    "Jules Boykoff": ""
+    "Jules Boykoff": "",
+    "Pakistan's Abbas": ""
   },
   "items": [
     {
@@ -3385,9 +3386,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イギリスのチェイス130 シリーズはラザラの英雄の後に広がります Pakistan LIVE!",
+      "title": "スペイングランプリ: フェラーリは、最終練習でメルセデスに戻ってヒット!",
       "summary": "",
-      "title_original": "England chase 130 for series sweep after Razaullah heroics for Pakistan LIVE!",
+      "title_original": "Spanish GP: Ferrari look to hit back against Mercedes in final practice LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13584285/f1-spanish-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-madring",
+      "published": "Sat, 12 Sep 2026 10:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Pakistan's Abbas シリーズスイープライブでイングランドのチェイス130 として最初のボールウィケットを!",
+      "summary": "",
+      "title_original": "Pakistan's Abbas takes first-ball wicket as England chase 130 for series sweep LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13584717/england-vs-pakistan-third-test-day-four-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3644,20 +3659,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13584631/wigan-warriors-v-catalans-dragons-super-league-highlights",
       "published": "Fri, 11 Sep 2026 22:11:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Big Lindblad クラッシュは、マドリードで最初の赤い旗を引き出す",
-      "summary": "アービッド・リンドブラッド2 番目の練習中に、この重いクラッシュ後、マドリング トラックで最初の赤の旗を引き出す。",
-      "title_original": "Big Lindblad crash brings out first red flag in Madrid",
-      "summary_original": "Arvid Lindblad brought out the first red flag at the Madring track after this heavy crash on turn 13 during second practice.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584503/spanish-grand-prix-arvid-lindblad-brings-out-first-red-flag-in-madrid-with-big-crash",
-      "published": "Fri, 11 Sep 2026 16:39:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
