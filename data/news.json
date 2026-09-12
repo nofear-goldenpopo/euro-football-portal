@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T13:35:35.089210+00:00",
+  "updated_at": "2026-09-12T13:49:19.775807+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2568,7 +2568,8 @@
     "Birmingham City’s South Korean": "",
     "Paik Seung-Ho": "",
     "Derby County": "ダービー・カウンティFC",
-    "Together Against Suicide": ""
+    "Together Against Suicide": "",
+    "The Hawthorns": "ザ・ホーソンズ"
   },
   "items": [
     {
@@ -2600,20 +2601,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8zrxvpvlyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 05:54:29 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Like Benzema としてよいハーランド- Alonso に Joao Pedro",
       "summary": "チェルシーマネージャーシャビ・アロンソストライカーは言う Joao Pedro 彼の元によく似ているレアル・マドリードチームメイトカリム・ベンゼマ比較可能なレベルにあるマンチェスター・シティ獲得を問い合わせアーリング・ハーランド.",
       "title_original": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
@@ -2628,13 +2615,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウェストハム Wrexham 上司の「最も低いポイント」の中の rout",
-      "summary": "Manager Phil ParkinsonWrexham が22 年以上にわたって最も重いリーグの敗北に苦しんでいる後ダウンビートですロンドン・スタジアム.",
-      "title_original": "West Ham rout among 'lowest points' for Wrexham boss",
-      "summary_original": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 22:40:40 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8zrxvpvlyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 05:54:29 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2653,6 +2640,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウェストハム Wrexham 上司の「最も低いポイント」の中の rout",
+      "summary": "Manager Phil ParkinsonWrexham が22 年以上にわたって最も重いリーグの敗北に苦しんでいる後ダウンビートですロンドン・スタジアム.",
+      "title_original": "West Ham rout among 'lowest points' for Wrexham boss",
+      "summary_original": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 22:40:40 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2695,48 +2696,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハル罰金 £30k & 発行された禁止チェルシーチャント",
-      "summary": "ハル・シティ AFC 彼らの次の3 人の支持者禁止を発行するクラブと差別的な chanting 上£30,000 罰金を科されました FA Cup で敗北チェルシー2 月1 日",
-      "title_original": "Hull fined £30k & bans issued over Chelsea chant",
-      "summary_original": "Hull City have been fined £30,000 over discriminatory chanting with the club issuing three supporter bans following their FA Cup defeat by Chelsea in February.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c624l1v9853o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 13:43:54 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Leicester ボス マーティン 言う criticism は 'really Personal'",
-      "summary": "レスター・シティ FC ログイン Russell Martin 彼が「多くの人を集める」と批判が「個人的に来る」と言った理由はわかりません。",
-      "title_original": "Leicester boss Martin says criticism has become 'really personal'",
-      "summary_original": "Leicester City boss Russell Martin does not know why he \"upsets so many people\" and says criticism has \"become personal\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ydqvvlqk3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 14:54:09 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ロンドン・スタジアム大きい利点のためのウェストハム- ヌーノ",
-      "summary": "ウェストハムヘッドコーチヌーノ・エスピーリト・サントハンマーの家の群衆のサイズは、チャンピオンシップで大きな利点であると信じています。",
-      "title_original": "London Stadium a big advantage for West Ham - Nuno",
-      "summary_original": "West Ham United head coach Nuno Espirito Santo believes the size of the Hammers' home crowds is a big advantage in the Championship.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zpex1w27o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 11:27:15 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2880,6 +2839,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Football Daily",
+      "summary": "Kelly Somers 獲得を問い合わせマンチェスター・シティディフェンダールベン・ディアス.",
+      "title_original": "Football Daily",
+      "summary_original": "Kelly Somers speaks to Manchester City defender Rúben Dias.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p94lt5?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 00:00:00 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Leicester ボス マーティン 言う criticism は 'really Personal'",
+      "summary": "レスター・シティ FC ログイン Russell Martin 彼が「多くの人を集める」と批判が「個人的に来る」と言った理由はわかりません。",
+      "title_original": "Leicester boss Martin says criticism has become 'really personal'",
+      "summary_original": "Leicester City boss Russell Martin does not know why he \"upsets so many people\" and says criticism has \"become personal\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ydqvvlqk3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 14:54:09 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "3 つのマネジャーの姿勢を定義できるカップ週末",
       "summary": "アバディーンヘッドコーチ Stephen Robinson、Hibernian の上司デヴィッド・グレイそして、Kilmarnock’s Neil McCann 暑さを感じている。Could League Cup 四半期最終週末は未来を形作りますか?",
       "title_original": "A cup weekend that could define three managerial tenures",
@@ -2908,31 +2895,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Football Daily",
-      "summary": "Kelly Somers 獲得を問い合わせマンチェスター・シティディフェンダールベン・ディアス.",
-      "title_original": "Football Daily",
-      "summary_original": "Kelly Somers speaks to Manchester City defender Rúben Dias.",
+      "title": "モウリーニョ比較するエムバペそして、ヴィニシウス・ジュニオールブート後の果樹に",
+      "summary": "レアル・マドリードログインジョゼ・モウリーニョ星デュオのファン「ワン・ピース」キリアン・エムバペそして、ヴィニシウス・ジュニオール今週はサポーターズが応援してくれました。",
+      "title_original": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
+      "summary_original": "Real Madrid boss Jose Mourinho says fans \"want a piece\" of star duo Kylian Mbappe and Vinicius Jr after they were booed by supporters this week.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p94lt5?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 00:00:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly41qwpg4do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 13:22:13 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハル車のクラッシュでウィンガー Thomas unhurt",
-      "summary": "プレミアリーグウィンガーSorba Thomas's Land Rover コッティンガムのオーバーターン。",
-      "title_original": "Hull winger Thomas unhurt in car crash",
-      "summary_original": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 11:33:22 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2946,20 +2919,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "モウリーニョ比較するエムバペそして、ヴィニシウス・ジュニオールブート後の果樹に",
-      "summary": "レアル・マドリードログインジョゼ・モウリーニョ星デュオのファン「ワン・ピース」キリアン・エムバペそして、ヴィニシウス・ジュニオール今週はサポーターズが応援してくれました。",
-      "title_original": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
-      "summary_original": "Real Madrid boss Jose Mourinho says fans \"want a piece\" of star duo Kylian Mbappe and Vinicius Jr after they were booed by supporters this week.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly41qwpg4do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 13:22:13 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2978,6 +2937,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ロンドン・スタジアム大きい利点のためのウェストハム- ヌーノ",
+      "summary": "ウェストハムヘッドコーチヌーノ・エスピーリト・サントハンマーの家の群衆のサイズは、チャンピオンシップで大きな利点であると信じています。",
+      "title_original": "London Stadium a big advantage for West Ham - Nuno",
+      "summary_original": "West Ham United head coach Nuno Espirito Santo believes the size of the Hammers' home crowds is a big advantage in the Championship.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zpex1w27o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 11:27:15 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "例-ウェストハムストライカー・アントニオが Watford に参加",
       "summary": "ワトフォードが元に獲得を発表ウェストハムストライカーMichail Antonio 獲得を問い合わせフリー移籍.",
       "title_original": "Ex-West Ham striker Antonio joins Watford",
@@ -2992,13 +2965,41 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウェストハム'Alvarez denies 誘拐 accusation",
+      "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
+      "title_original": "West Ham's Alvarez denies kidnapping accusation",
+      "summary_original": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the allegation made by film producer Juan Jose Lopez Ordonez.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 08:42:22 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハル罰金 £30k & 発行された禁止チェルシーチャント",
+      "summary": "ハル・シティ AFC 彼らの次の3 人の支持者禁止を発行するクラブと差別的な chanting 上£30,000 罰金を科されました FA Cup で敗北チェルシー2 月1 日",
+      "title_original": "Hull fined £30k & bans issued over Chelsea chant",
+      "summary_original": "Hull City have been fined £30,000 over discriminatory chanting with the club issuing three supporter bans following their FA Cup defeat by Chelsea in February.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c624l1v9853o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 13:43:54 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リヴァプール v フルハム,チェルシー. .ハル・シティ AFC サッカー時計時計 - ライブ",
       "summary": "大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 電子メール Barry Championship: 反対のゴールラインに立つ、バーミンガム・シティ FC'韓国ミッドフィルダーPaik Seung-Ho 正面の側に向いているので、見逃せない Pride Park 素晴らしいから Liam Millar コーナーのインスウィング 訪問者のリードダービー・カウンティ FC63 分後2-1 WSL:ウェストハム投資家は彼らのリードを対比倍増しました London City と、Viviane Asseyi2-0 を作る Victoria Road 後 4",
       "title_original": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch – live",
       "summary_original": "⚽️ News and updates from all of Saturday’s football action ⚽️ Live scores | Tables | Top scorers | And email Barry Championship: Standing on the opposition goalline, Birmingham City’s South Korean midfielder Paik Seung-Ho can’t miss as he heads his side in front at Pride Park from a wonderful Liam Millar inswinger of a corner. The visitors lead Derby County 2-1 after 63 minutes. WSL: West Ham haver doubled their lead against London City, with Viviane Asseyi making it 2-0 at Victoria Road after 4",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
-      "published": "Sat, 12 Sep 2026 13:20:53 GMT",
+      "published": "Sat, 12 Sep 2026 13:39:44 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3426,6 +3427,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "West BromQPR を保持するために戻ってヒット",
+      "summary": "カラム・スタイルズ獲得賞金 West Brom 彼らが後ろから来たように、彼らは QPR に対して1-1 を描画する EFL チャンピオンシップ獲得を問い合わせザ・ホーソンズ.",
+      "title_original": "West Brom hit back to hold QPR",
+      "summary_original": "Callum Styles earned West Brom a point as they came from behind to draw 1-1 against QPR in the Sky Bet Championship at The Hawthorns.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/west-bromwich-albion-vs-queens-park-rangers/report/560580",
+      "published": "Sat, 12 Sep 2026 14:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「常にバランスをとって行く」 | Wolff は、メルセデスチームの注文戦略を明らかに",
+      "summary": "Toto Wolff メルセデスのチーム注文戦略を明らかにします。",
+      "title_original": "'It's always going to be balanced' | Wolff reveals Mercedes team orders strategy",
+      "summary_original": "Toto Wolff reveals Mercedes' team orders strategy.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584826/spanish-gp-toto-wolff-reveals-mercedes-team-orders-strategy",
+      "published": "Sat, 12 Sep 2026 14:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Red Roses フェイスオーストラリア で WXV Global Series オープンア LIVE!",
+      "summary": "",
+      "title_original": "Red Roses face Australia in WXV Global Series opener LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13584758/england-vs-australia-live-score-updates-analysis-from-wxv-opener-in-salford",
+      "published": "Sat, 12 Sep 2026 11:44:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ハミルトンはマドリッドで Antonelli トップス決勝練習としてクラッシュ",
       "summary": "チャンピオンシップリーダーKimi Antonelli 最終練習で最速だったスペイングランプリとして Lewis Hamilton マドリッドで修飾する前に、貴重な追跡時間をクラッシュし、失われた。",
       "title_original": "Hamilton crashes as Antonelli tops final practice in Madrid",
@@ -3482,9 +3525,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランドのクラッチ・シリーズとして反応は8 ウィケットの勝利と広がります Pakistan LIVE!",
+      "title": "広い:Cox はイングランドのチームでのための場所に値します South Africa シリーズ",
       "summary": "",
-      "title_original": "Reaction as England clinch series sweep with eight-wicket win over Pakistan LIVE!",
+      "title_original": "Broad: Cox deserves place in England team for South Africa series",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13584717/england-vs-pakistan-third-test-day-four-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3566,9 +3609,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "シューターが作るブレントフォード PL は変化しないでデビューBournemouth LIVE!",
+      "title": "ボーンマス対ブレントフォードライブ!",
       "summary": "",
-      "title_original": "Schuster makes Brentford PL debut at unchanged Bournemouth LIVE!",
+      "title_original": "Bournemouth vs Brentford LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bournemouth-vs-brentford/live/559475",
@@ -3594,9 +3637,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプール Fulham チームニュースバルコラ LIVE スタート!",
+      "title": "リヴァプール対比 Fulham LIVE!",
       "summary": "",
-      "title_original": "Liverpool vs Fulham team news as Barcola starts LIVE!",
+      "title_original": "Liverpool vs Fulham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-fulham/live/559480",
@@ -3643,48 +3686,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13584772/solheim-cup-unbelievable-maja-stark-starts-her-round-off-with-a-hole-out-eagle",
       "published": "Sat, 12 Sep 2026 12:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "欧州に進出 Solheim Cup リードしかしハル, ワッドはフォーサムズで覆われた",
-      "summary": "Maja Stark そして、Linn Grant 終了までネリー・コルダそして、Allisen Corpuz’s 不当なパートナーシップを援助する Team Europe7-5 リードオーバーに移動 Team USA チャレーにもかかわらず、土曜日のフォーサムの後ハルそして、Lottie Woad 記録的な結果的な敗北に苦しむ.",
-      "title_original": "Europe move into Solheim Cup lead but Hull, Woad thrashed in foursomes",
-      "summary_original": "Maja Stark and Linn Grant ended Nelly Korda and Allisen Corpuz’s unbeaten partnership to help Team Europe move into a 7-5 lead over Team USA after the Saturday foursomes, despite Charley Hull and Lottie Woad suffering a record-equalling defeat.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13584688/solheim-cup-2026-team-europe-lead-team-usa-7-5-after-saturday-foursomes-despite-charley-hull-lottie-woads-heavy-loss",
-      "published": "Sat, 12 Sep 2026 11:23:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "イギリスの総ディスレイ! Duckett と ゲイ 落下 で 開始 以上",
-      "summary": "イングランドの始まりから4 日目までは、後から悪化しなくなる可能性があります Mohammad Abbas 削除 Ben Duckett そして、Emilio Gay 最初から",
-      "title_original": "England in total DISARRAY! Duckett and Gay fall in opening over",
-      "summary_original": "England's start to day four could not have gone worse after Mohammad Abbas removed Ben Duckett and Emilio Gay in the first over",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584744/england-in-disarray-at-edgbaston-duckett-and-gay-fall-in-opening-over",
-      "published": "Sat, 12 Sep 2026 11:13:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Razaullah は NINE 6es を等しいテストデビューの記録にマッシュします",
-      "summary": "Razaullah smashed nine 6es へ 等しい Tim Southee’s エドグバストンのイングランドに対する驚くべきインニング中にテストデビューのプレーヤーによって最もレコード.",
-      "title_original": "Razaullah smashes NINE sixes to equal Test-debut record",
-      "summary_original": "Razaullah smashed nine sixes to equal Tim Southee’s record for the most by a player on Test debut during a remarkable innings against England at Edgbaston.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584548/england-v-pakistan-razaullah-smashes-eight-sixes-on-test-debut",
-      "published": "Fri, 11 Sep 2026 18:43:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
