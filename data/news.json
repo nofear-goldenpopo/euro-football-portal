@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T11:49:44.651780+00:00",
+  "updated_at": "2026-09-12T12:07:07.234725+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2550,7 +2550,8 @@
     "Allisen Corpuz’s": "",
     "Stephen Robinson": "",
     "Kilmarnock’s Neil McCann": "",
-    "Febrile Manchester": ""
+    "Febrile Manchester": "",
+    "Rúben Dias": "ルベン・ディアス"
   },
   "items": [
     {
@@ -2904,6 +2905,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Football Daily",
+      "summary": "Kelly Somers 獲得を問い合わせマンチェスター・シティディフェンダールベン・ディアス.",
+      "title_original": "Football Daily",
+      "summary_original": "Kelly Somers speaks to Manchester City defender Rúben Dias.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p94lt5?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 00:00:00 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ハル車のクラッシュでウィンガー Thomas unhurt",
       "summary": "プレミアリーグウィンガーSorba Thomas's Land Rover コッティンガムのオーバーターン。",
       "title_original": "Hull winger Thomas unhurt in car crash",
@@ -2960,27 +2975,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "例-ウェストハムストライカー・アントニオが Watford に参加",
-      "summary": "ワトフォードが元に獲得を発表ウェストハムストライカーMichail Antonio 獲得を問い合わせフリー移籍.",
-      "title_original": "Ex-West Ham striker Antonio joins Watford",
-      "summary_original": "Watford announce the signing of former West Ham United striker Michail Antonio on a free transfer.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 15:04:49 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トッテナムそしてヴィラハントファーストリーグ優勝,アーセナルフェイスサンダーランドテスト、初期チームニュース - マッチデイライブ",
+      "title": "トッテナムそしてヴィラハントファーストリーグ優勝,アーセナルフェイスサンダーランドテスト、キックオフ、チームニュース – マッチデイライブ",
       "summary": "大会の試合前のビルドアップ・ニュース・ディスカッション 開催概要 今週の週末の備品 | 表 | ご感想 土曜日 5.30pm スカイスポーツプレミアリーグ開催場所トッテナムスタジアム Referee Darren England This シーズン G2 Y7 R0 3.50 カード/ゲーム 続きを読む...",
-      "title_original": "Spurs and Villa hunt first league wins, Arsenal face Sunderland test, early team news – matchday live",
+      "title_original": "Spurs and Villa hunt first league wins, Arsenal face Sunderland test, early kick-offs and team news – matchday live",
       "summary_original": "⚽️ Buildup, news and discussion before Saturday’s games ⚽️ This weekend’s fixtures | Tables | Mail us your thoughts Saturday 5.30pm Sky Sports Premier League Venue Tottenham Hotspur Stadium Referee Darren England This season G2 Y7 R0 3.50 cards/game Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/12/matchday-live-tottenham-aston-villa-sunderland-arsenal-liverpool-chelsea-fulham",
-      "published": "Sat, 12 Sep 2026 11:39:43 GMT",
+      "published": "Sat, 12 Sep 2026 11:54:24 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3394,9 +3395,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシー対比ハル・シティ AFC チームニュース LIVE!",
+      "title": "ハミルトンはマドリッドで Antonelli トップス決勝練習としてクラッシュ",
+      "summary": "チャンピオンシップリーダーKimi Antonelli 最終練習で最速だったスペイングランプリとして Lewis Hamilton マドリッドで修飾する前に、貴重な追跡時間をクラッシュし、失われた。",
+      "title_original": "Hamilton crashes as Antonelli tops final practice in Madrid",
+      "summary_original": "Championship leader Kimi Antonelli was fastest in final practice at the Spanish Grand Prix as Lewis Hamilton crashed and lost valuable track time ahead of qualifying in Madrid.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13584715/spanish-gp-lewis-hamilton-crashes-at-kimi-antonelli-tops-final-practice-from-charles-leclerc-in-madrid",
+      "published": "Sat, 12 Sep 2026 13:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェルシー対比ハルチームニュース LIVE!",
       "summary": "",
-      "title_original": "Chelsea vs Hull City team news LIVE!",
+      "title_original": "Chelsea vs Hull team news LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-vs-hull-city/live/559476",
@@ -3408,9 +3423,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スペイングランプリ: 最終練習でハミルトンがクラッシュするとアントネリ最速!",
+      "title": "スペイングランプリ: ハミルトン、ベアマンクラッシュ LIVE として最終練習でアントネリ最速!",
       "summary": "",
-      "title_original": "Spanish GP: Antonelli fastest as Hamilton crashes in final practice LIVE!",
+      "title_original": "Spanish GP: Antonelli fastest in final practice as Hamilton, Bearman crash LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13584285/f1-spanish-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-madring",
@@ -3436,9 +3451,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ルートはパキスタンのダブルストライキの後に落ち着きを回復します, イングランドは、以下が必要になります 50 LIVE!",
+      "title": "ルート50 フィートのガイドイングランドは10 LIVE の下で必要とするパキスタンのシリーズ広がりに!",
       "summary": "",
-      "title_original": "Root restores calm after Pakistan double strike, England need under 50 LIVE!",
+      "title_original": "Root fifty guiding England to series sweep of Pakistan, needing under 10 LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13584717/england-vs-pakistan-third-test-day-four-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3478,6 +3493,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アストン・ヴィラ対比ノッティンガム・フォレストライブ!",
+      "summary": "",
+      "title_original": "Aston Villa vs Nottingham Forest LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/aston-villa-vs-nottingham-forest/live/559474",
+      "published": "Sat, 12 Sep 2026 12:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "お散歩道! Huybrechts は Antwerp でハッカブを作成します",
       "summary": "Kim Huybrechts アントワープの群衆をポンピングし、彼の試合の前に残酷な散歩を Flanders Darts Trophy. Credit: PDC。",
       "title_original": "OUTRAGEOUS walk on! Huybrechts creates havoc in Antwerp",
@@ -3502,6 +3531,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "クリスタル・パレス対比イプスウィッチライブ!",
+      "summary": "",
+      "title_original": "Crystal Palace vs Ipswich LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/crystal-palace-vs-ipswich-town/live/559478",
+      "published": "Sat, 12 Sep 2026 13:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3625,48 +3668,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13584700/solheim-cup-andrea-lee-hypes-up-crowd-before-hitting-horrendous-tee-shot",
       "published": "Sat, 12 Sep 2026 07:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スペイングランプリ| 練習ハイライト",
-      "summary": "金曜日の練習セッションからハイライトスペイングランプリ.",
-      "title_original": "Spanish Grand Prix | Practice highlights",
-      "summary_original": "Highlights from Friday's practice sessions at the Spanish Grand Prix.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584523/spanish-grand-prix-practice-highlights",
-      "published": "Fri, 11 Sep 2026 17:28:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "若年者たちがトゥールーズを倒して3 番目のスポットを確保",
-      "summary": "Warrington Wolves ビート Toulouse Olympique26-14 で Halliwell Jones Stadium で3 分の3 を終える Super League テーブル。",
-      "title_original": "Wolves youngsters beat Toulouse to secure third spot",
-      "summary_original": "Warrington Wolves beat Toulouse Olympique 26-14 at the Halliwell Jones Stadium to finish third in the Super League table.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584672/warrington-wolves-v-toulouse-olympique-super-league-highlights",
-      "published": "Fri, 11 Sep 2026 23:52:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Solheim Cup LIVE! ヨーロッパの鉛米国として驚くべきイーグルのための Stark の穴",
-      "summary": "",
-      "title_original": "Solheim Cup LIVE! Stark holes out for amazing eagle as Europe lead USA",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13584684/solheim-cup-live-latest-scores-updates-highlights-from-day-two-as-team-europe-host-team-usa-at-bernardus-golf",
-      "published": "Sat, 12 Sep 2026 12:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
