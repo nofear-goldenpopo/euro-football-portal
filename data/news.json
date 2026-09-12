@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T08:06:16.012709+00:00",
+  "updated_at": "2026-09-12T08:24:48.221752+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2539,7 +2539,8 @@
     "Venue Villa Park Referee": "",
     "Andy Madley This": "",
     "Venue Tottenham Hotspur Stadium": "",
-    "Referee Darren England This": ""
+    "Referee Darren England This": "",
+    "Manager Phil Parkinson": ""
   },
   "items": [
     {
@@ -2585,20 +2586,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Like Benzema としてよいハーランド- Alonso に Joao Pedro",
-      "summary": "チェルシーマネージャーシャビ・アロンソストライカーは言う Joao Pedro 彼の元によく似ているレアル・マドリードチームメイトカリム・ベンゼマ比較可能なレベルにあるマンチェスター・シティ獲得を問い合わせアーリング・ハーランド.",
-      "title_original": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
-      "summary_original": "Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and is at a comparable level to Manchester City's Erling Haaland.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 21:30:23 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -2610,6 +2597,34 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウェストハム Wrexham 上司の「最も低いポイント」の中の rout",
+      "summary": "Manager Phil ParkinsonWrexham が22 年以上にわたって最も重いリーグの敗北に苦しんでいる後ダウンビートですロンドン・スタジアム.",
+      "title_original": "West Ham rout among 'lowest points' for Wrexham boss",
+      "summary_original": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 22:40:40 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Like Benzema としてよいハーランド- Alonso に Joao Pedro",
+      "summary": "チェルシーマネージャーシャビ・アロンソストライカーは言う Joao Pedro 彼の元によく似ているレアル・マドリードチームメイトカリム・ベンゼマ比較可能なレベルにあるマンチェスター・シティ獲得を問い合わせアーリング・ハーランド.",
+      "title_original": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
+      "summary_original": "Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and is at a comparable level to Manchester City's Erling Haaland.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 21:30:23 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2760,20 +2775,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8jdmdjydp1o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 16:49:50 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "モロッコの公式は、2030 最終約束を作るのを止めるために語った",
-      "summary": "モロッコのプライム・ミニスターは、2030 についての約束を中止するために、国のサッカー連盟の頭を語る World Cup 最終, スペインのフェデレーションの頭がスペインで演奏されるべきであると述べながら、.",
-      "title_original": "Moroccan official told to stop making 2030 final promise",
-      "summary_original": "Morocco's prime minister tells the head of the country's football federation to stop making promises about the 2030 World Cup final, while the head of the Spanish federation says the showpiece should be played in Spain.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gv7n50lnwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 18:58:10 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2935,6 +2936,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "モロッコの公式は、2030 最終約束を作るのを止めるために語った",
+      "summary": "モロッコのプライム・ミニスターは、2030 についての約束を中止するために、国のサッカー連盟の頭を語る World Cup 最終, スペインのフェデレーションの頭がスペインで演奏されるべきであると述べながら、.",
+      "title_original": "Moroccan official told to stop making 2030 final promise",
+      "summary_original": "Morocco's prime minister tells the head of the country's football federation to stop making promises about the 2030 World Cup final, while the head of the Spanish federation says the showpiece should be played in Spain.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gv7n50lnwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 18:58:10 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "モウリーニョ比較するエムバペそして、ヴィニシウス・ジュニオールブート後の果樹に",
       "summary": "レアル・マドリードログインジョゼ・モウリーニョ星デュオのファン「ワン・ピース」キリアン・エムバペそして、ヴィニシウス・ジュニオール今週はサポーターズが応援してくれました。",
       "title_original": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
@@ -2945,20 +2960,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "例-ウェストハムストライカー・アントニオが Watford に参加",
-      "summary": "ワトフォードが元に獲得を発表ウェストハムストライカーMichail Antonio 獲得を問い合わせフリー移籍.",
-      "title_original": "Ex-West Ham striker Antonio joins Watford",
-      "summary_original": "Watford announce the signing of former West Ham United striker Michail Antonio on a free transfer.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 15:04:49 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
