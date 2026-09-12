@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T13:49:19.775807+00:00",
+  "updated_at": "2026-09-12T14:05:50.510015+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2569,7 +2569,10 @@
     "Paik Seung-Ho": "",
     "Derby County": "ダービー・カウンティFC",
     "Together Against Suicide": "",
-    "The Hawthorns": "ザ・ホーソンズ"
+    "The Hawthorns": "ザ・ホーソンズ",
+    "Silver Arrows": "シルバーアロー",
+    "Substitute Thierry Gale": "",
+    "Hull City LIVE": ""
   },
   "items": [
     {
@@ -2999,7 +3002,7 @@
       "summary_original": "⚽️ News and updates from all of Saturday’s football action ⚽️ Live scores | Tables | Top scorers | And email Barry Championship: Standing on the opposition goalline, Birmingham City’s South Korean midfielder Paik Seung-Ho can’t miss as he heads his side in front at Pride Park from a wonderful Liam Millar inswinger of a corner. The visitors lead Derby County 2-1 after 63 minutes. WSL: West Ham haver doubled their lead against London City, with Viviane Asseyi making it 2-0 at Victoria Road after 4",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
-      "published": "Sat, 12 Sep 2026 13:39:44 GMT",
+      "published": "Sat, 12 Sep 2026 13:51:44 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3413,13 +3416,41 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スペイングランプリ: ハミルトンは、予選前のクラッシュ後の調査を回避!",
+      "title": "ウルフ・フュームズ「カウチ・ウォリアーズ」でルッセルのメルセデス治療を疑問に",
+      "summary": "メルセデス・チーフ Toto Wolff「カウチ戦士」の提案を却下したシルバーアロー治療に失敗 George Russell かなりの間イタリアグランプリ.",
+      "title_original": "Wolff fumes at 'couch warriors' questioning Mercedes' treatment of Russell",
+      "summary_original": "Mercedes chief Toto Wolff has dismissed suggestions from \"couch warriors\" that the Silver Arrows failed to treat George Russell fairly during the Italian Grand Prix.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13584723/mercedes-chief-toto-wolff-fumes-at-couch-warriors-questioning-teams-treatment-of-george-russell-in-title-battle-with-kimi-antonelli",
+      "published": "Sat, 12 Sep 2026 14:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "スペイングランプリ: LIVE の途中で新しい Madring 回路で最初に修飾!",
       "summary": "",
-      "title_original": "Spanish GP: Hamilton avoids investigation after crash ahead of qualifying LIVE!",
+      "title_original": "Spanish GP: First qualifying at new Madring circuit under way LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13584285/f1-spanish-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-madring",
       "published": "Sat, 12 Sep 2026 14:25:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ボルトンの端はカーディフに対して遅く勝ちます",
+      "summary": "Substitute Thierry Gale ボルンが終シーズンの勝利1-0 で4 戦連続優勝を勝ち取った90 分優勝 League One ライバル カーディフ.",
+      "title_original": "Bolton edge late win against Cardiff",
+      "summary_original": "Substitute Thierry Gale headed a 90th-minute winner as Bolton ended a run of four successive Championship defeats with a 1-0 victory over last season's League One rivals Cardiff.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/bolton-wanderers-vs-cardiff-city/report/560571",
+      "published": "Sat, 12 Sep 2026 14:35:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3433,6 +3464,20 @@
       "summary_original": "Callum Styles earned West Brom a point as they came from behind to draw 1-1 against QPR in the Sky Bet Championship at The Hawthorns.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/west-bromwich-albion-vs-queens-park-rangers/report/560580",
+      "published": "Sat, 12 Sep 2026 14:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "バーミンガムがダービーで勝つために戻ってヒット",
+      "summary": "Paik Seung-Ho12 月にバーミンガムを Derby で2-1 勝利を与えるために彼の最初の目標を獲得しました Pride Park.",
+      "title_original": "Birmingham hit back to win at Derby",
+      "summary_original": "Paik Seung-Ho scored his first goal since December to give Birmingham a 2-1 victory over Derby at Pride Park.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/derby-county-vs-birmingham-city/report/560573",
       "published": "Sat, 12 Sep 2026 14:35:00 BST",
       "category": "other",
       "type": "other",
@@ -3497,9 +3542,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシーColwill と Gusto と交換されていないハルライブ!",
+      "title": "チェルシー対比ハル・シティ AFC ライブ!",
       "summary": "",
-      "title_original": "Chelsea bring in Colwill & Gusto vs unchanged Hull LIVE!",
+      "title_original": "Chelsea vs Hull City LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-vs-hull-city/live/559476",
@@ -3623,16 +3668,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヘンダーソンにないクリスタル・パレスチーム編成イプスウィッチテスト LIVE!",
+      "title": "クリスタル・パレス対比イプスウィッチライブ!",
       "summary": "",
-      "title_original": "Henderson not in Palace squad for Ipswich test LIVE!",
+      "title_original": "Crystal Palace vs Ipswich LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/crystal-palace-vs-ipswich-town/live/559478",
       "published": "Sat, 12 Sep 2026 13:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3648,48 +3693,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ネルソン: ベンの卒業の日はここにありますが、ガルシアは上記のクラスになる可能性があります",
-      "summary": "Conor Benn 彼がこの週末の戦いで世界レベルで属していることを証明しなければなりません Ryan Garcia, しかし、WBC のチャンピオンは、あまりにも速く、あまりにも鋭く、スカイスポーツの専門家は言うジョニー・ネルソン.",
-      "title_original": "Nelson: Benn's graduation day is here but Garcia could be a class above",
-      "summary_original": "Conor Benn must prove he belongs at world level in this weekend's fight against Ryan Garcia, but the WBC champion might be too fast and too sharp, says Sky Sports expert Johnny Nelson.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13583665/conor-benns-graduation-day160is-here160but-ryan-garcia-could-be-a-class-above-in-las-vegas-clash-says-johnny-nelson",
-      "published": "Sat, 12 Sep 2026 07:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Zverev は 3 番目の連続に達しますグランドスラムストレートセットセミウィンで決勝",
-      "summary": "ハイライト全米オープンセミファイナル間 Alexander Zverev そして、カレン・ハチャノフ.",
-      "title_original": "Zverev reaches third consecutive Grand Slam final with straight-sets semi win",
-      "summary_original": "Highlights of the US Open semi-final between Alexander Zverev and Karen Khachanov.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584669/alexander-zverev-vs-karen-khachanov-us-open-highlights",
-      "published": "Fri, 11 Sep 2026 23:33:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'UNBELIEVABLE!' - スタークはホールアウトイーグルで彼女のラウンドを開始します!",
-      "summary": "Maja Stark 夢は土曜日の4 ボールに始まりました Solheim Cup、最初に公正な道から与えることを望みます Team Europe 初期リード。",
-      "title_original": "'UNBELIEVABLE!' - Stark starts her round with hole-out eagle!",
-      "summary_original": "Maja Stark made the dream start to the Saturday fourballs at the Solheim Cup, holing out from the fairway at the first to give Team Europe an early lead.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584772/solheim-cup-unbelievable-maja-stark-starts-her-round-off-with-a-hole-out-eagle",
-      "published": "Sat, 12 Sep 2026 12:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
