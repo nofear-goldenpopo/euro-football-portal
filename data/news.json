@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T20:40:08.542728+00:00",
+  "updated_at": "2026-09-12T20:53:29.992459+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2669,9 +2669,24 @@
     "President Trump": "ドナルド・トランプ",
     "Keely Hodgkinson": "",
     "Audrey Werro": "",
-    "New Zealand LIVE": ""
+    "New Zealand LIVE": "",
+    "Toothless Spurs": ""
   },
   "items": [
+    {
+      "title": "歯なしトッテナム新しい時代が偽の夜に変わったように再び空白",
+      "summary": "歯なしトッテナム' 再び空白を描き、勇敢な新しい時代が偽の夜に変わるのを見る危険にさらされています, チーフサッカーライターは言うフィル・マクナルティ.",
+      "title_original": "Toothless Spurs blank again as new era turns into a false dawn",
+      "summary_original": "Toothless Spurs' draw a blank again and are now in danger of seeing a brave new era turn into a false dawn, says chief football writer Phil McNulty.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgydkv0yxdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 20:38:33 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "More dropped points at Anfield - is it too early for リヴァプール to worry?",
       "summary": "リヴァプール have failed to win either of their first two プレミアリーグ games at Anfield. But is it too early to worry?",
@@ -2953,20 +2968,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウェストハム Wrexham 上司の「最も低いポイント」の中の rout",
-      "summary": "Manager Phil ParkinsonWrexham が22 年以上にわたって最も重いリーグの敗北に苦しんでいる後ダウンビートですロンドン・スタジアム.",
-      "title_original": "West Ham rout among 'lowest points' for Wrexham boss",
-      "summary_original": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 22:40:40 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Sutton の予測 v ドーキング・ワンダラーズ FC マネージャーMarc White",
       "summary": "BBC スポーツサッカーの専門家クリス・サットン獲得を問い合わせドーキング・ワンダラーズ FC マネージャーMarc White この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
       "title_original": "Sutton's predictions v Dorking Wanderers manager Marc White",
@@ -2992,6 +2993,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウェストハム Wrexham 上司の「最も低いポイント」の中の rout",
+      "summary": "Manager Phil ParkinsonWrexham が22 年以上にわたって最も重いリーグの敗北に苦しんでいる後ダウンビートですロンドン・スタジアム.",
+      "title_original": "West Ham rout among 'lowest points' for Wrexham boss",
+      "summary_original": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 22:40:40 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3051,20 +3066,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "私は選手を準備するためにシーズン前の旅行計画を混乱させました -アルテタ",
-      "summary": "ミケル・アルテタコメントアーセナル週中は準備が整いましたチャンピオンズリーグフライト遅延 - 彼は意図的に彼らの訓練や旅行計画を準備するために、シーズンの前シーズンに混乱させるので、.",
-      "title_original": "I disrupted pre-season travel plans to prepare players - Arteta",
-      "summary_original": "Mikel Arteta says Arsenal were ready for their midweek Champions League flight delay - because he deliberately disrupted their training and travel plans in pre-season to prepare them.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y48zdxv0ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 12:32:20 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "3 つのマネジャーの姿勢を定義できるカップ週末",
       "summary": "アバディーンヘッドコーチ Stephen Robinson、Hibernian の上司デヴィッド・グレイそして、Kilmarnock’s Neil McCann 暑さを感じている。Could League Cup 四半期最終週末は未来を形作りますか?",
       "title_original": "A cup weekend that could define three managerial tenures",
@@ -3079,16 +3080,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヴァスコ・ダ・ガマへのリッチアリソンの移動は、",
-      "summary": "トッテナム Richarlison の提案は、ブラジルの未来に続く不確実性に陥る Vasco da Gama への転向を提案しました。",
-      "title_original": "Richarlison's move to Vasco da Gama falls through",
-      "summary_original": "Tottenham forward Richarlison's proposed move to Vasco da Gama falls through amid ongoing uncertainty over the Brazilian's future.",
+      "title": "私は選手を準備するためにシーズン前の旅行計画を混乱させました -アルテタ",
+      "summary": "ミケル・アルテタコメントアーセナル週中は準備が整いましたチャンピオンズリーグフライト遅延 - 彼は意図的に彼らの訓練や旅行計画を準備するために、シーズンの前シーズンに混乱させるので、.",
+      "title_original": "I disrupted pre-season travel plans to prepare players - Arteta",
+      "summary_original": "Mikel Arteta says Arsenal were ready for their midweek Champions League flight delay - because he deliberately disrupted their training and travel plans in pre-season to prepare them.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr50q58vqggo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 20:49:46 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y48zdxv0ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 12:32:20 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3099,7 +3100,7 @@
       "summary_original": "⚽️ Premier League updates from the 8pm BST kick-off ⚽️ Live scores | Tables | Top scorers | And email Billy Sunderland parade new striker Juan Angulo, signed from Independiente del Valle last week, before kick-off at the Stadium of Light. That one had passed me by – and I’ve spent all summer writing down hundreds of transfers for this … JD emails in … Here is my early prediction for very competitive EPL season. Teams will struggle to reach 70 points. The team getting 75 will surely be champions.",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/12/sunderland-v-arsenal-premier-league-live",
-      "published": "Sat, 12 Sep 2026 20:25:11 GMT",
+      "published": "Sat, 12 Sep 2026 20:39:48 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3219,20 +3220,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チャンピオンシップラウンドアップ: ボロ勝利7 ゴールスリラー;バーンリー再び失う",
-      "summary": "フィリップス・シンクズの優勝者を追加 Norwich Saints ヒット 4;バーンリーBeaten 3-1 で Swansea Ashley Phillips ミドルスラフが7 頭のスリラーをエッジし、ノーウィッチ4〜3 をビートするような、非常に遅くマッチウィンナーだった Riverside Stadium. Norwich バウンスで3 番目の勝利を探して、ストライカー時に時計の50 秒で完璧なスタートをしました Mohamed Touré打たれたが、7 分以内にボロが消えていました。Sebastian Berhalter ウィンガーの前に、彼の最初のミドルスラフの目標に動力を与えられた",
-      "title_original": "Championship roundup: Boro win seven-goal thriller; Burnley lose again",
-      "summary_original": "Added-time winner from Phillips sinks Norwich Saints hit four; Burnley beaten 3-1 at Swansea Ashley Phillips was the unlikely late matchwinner as Middlesbrough edged a seven-goal thriller, beating Norwich 4-3 at Riverside Stadium. Norwich looking for a third win on the bounce, made the perfect start with 50 seconds on the clock when striker Mohamed Touré hammered in, but within seven minutes Boro had gone ahead. Sebastian Berhalter powered in his first Middlesbrough goal to level, before winger ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/championship-roundup-west-brom-qpr-derby-birmingham-middlesbrough-southampton-burnley",
-      "published": "Sat, 12 Sep 2026 16:47:06 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Schade ダブル denies Bournemouth 最初の リーグ 勝ち としてブレントフォード救助の引くこと",
       "summary": "苦難のための必要性はまだで Bournemouth. Trust プロセス, しかし、欧州のサッカーの賭けの新しいフロンティアと, に旅行 2,000 ファンサン・セバスティアン来週は、ホームフロントに不安のある場所があります。勝ちポジションは降伏しています Marco Rose’s4 月4 日プレミアリーグマッチ。不要なキャリーオーバーから Andoni Iraola’s 悪くなることは許されません。「彼らは得点2 ゴールターゲットに2 枚のショットで得点2 ゴールターゲットの10 ショットで、Ross は述べた",
       "title_original": "Schade double denies Bournemouth first league win as Brentford rescue draw",
@@ -3243,6 +3230,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チャンピオンシップラウンドアップ: ボロ勝利7 ゴールスリラー;バーンリー再び失う",
+      "summary": "フィリップス・シンクズの優勝者を追加 Norwich Saints ヒット 4;バーンリーBeaten 3-1 で Swansea Ashley Phillips ミドルスラフが7 頭のスリラーをエッジし、ノーウィッチ4〜3 をビートするような、非常に遅くマッチウィンナーだった Riverside Stadium. Norwich バウンスで3 番目の勝利を探して、ストライカー時に時計の50 秒で完璧なスタートをしました Mohamed Touré打たれたが、7 分以内にボロが消えていました。Sebastian Berhalter ウィンガーの前に、彼の最初のミドルスラフの目標に動力を与えられた",
+      "title_original": "Championship roundup: Boro win seven-goal thriller; Burnley lose again",
+      "summary_original": "Added-time winner from Phillips sinks Norwich Saints hit four; Burnley beaten 3-1 at Swansea Ashley Phillips was the unlikely late matchwinner as Middlesbrough edged a seven-goal thriller, beating Norwich 4-3 at Riverside Stadium. Norwich looking for a third win on the bounce, made the perfect start with 50 seconds on the clock when striker Mohamed Touré hammered in, but within seven minutes Boro had gone ahead. Sebastian Berhalter powered in his first Middlesbrough goal to level, before winger ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/12/championship-roundup-west-brom-qpr-derby-birmingham-middlesbrough-southampton-burnley",
+      "published": "Sat, 12 Sep 2026 16:47:06 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3513,20 +3514,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Nmecha の驚くべき二重助けドルトムントパダーボーンウィンに",
-      "summary": "ハイライトブンデスリーガ間のマッチボルシア・ドルトムントそしてパダーボーン。",
-      "title_original": "Nmecha stunning double helps Dortmund to Paderborn win",
-      "summary_original": "Highlights of the Bundesliga match between Borussia Dortmund and Paderborn.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585183/borussia-dortmund-3-0-paderborn-bundesliga-highlights",
-      "published": "Sat, 12 Sep 2026 21:17:00 BST",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Shelton relishing challenge of first グランドスラム final against Zverev at US Open",
       "summary": "ベン・シェルトン finds himself in unfamiliar territory after reaching his first Grand ‌Slam final at 全米オープン, with the American now ready to \"do it for アメリカ合衆国 A\" when he takes on top seed Alexander Zverev in Sunday's showdown.",
       "title_original": "Shelton relishing challenge of first Grand Slam final against Zverev at US Open",
@@ -3555,9 +3542,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! サバレンカは、ブロックバスター女性の決勝で Rybakina を取る",
+      "title": "US Open LIVE! Rybakina はブロックバスター女性の最終決勝で Sabalenka を率いています",
       "summary": "",
-      "title_original": "US Open LIVE! Sabalenka takes on Rybakina in blockbuster women's final",
+      "title_original": "US Open LIVE! Rybakina leading Sabalenka in blockbuster women's final",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13584677/us-open-live-scores-updates-news-commentary-results-from-new-york-with-aryna-sabalenka-takes-on-elena-rybakina-in-the-womens-final",
@@ -3653,9 +3640,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "South Africa 対比 New Zealand LIVE! ボルチモアの4 番目と最終テストまでのビルドアップ",
+      "title": "South Africa 対比 New Zealand LIVE! ボルチモアの第四と最終テスト",
       "summary": "",
-      "title_original": "South Africa vs New Zealand LIVE! Build-up to fourth and final Test in Baltimore",
+      "title_original": "South Africa vs New Zealand LIVE! Fourth and final Test in Baltimore",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-union/live-blog/12040/13584810/south-africa-vs-new-zealand-live-score-updates-video-and-analysis-from-fourth-test-in-baltimore",
@@ -3789,6 +3776,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Swansea 見る オフ struggling バーンリー",
+      "summary": "Swansea は、自動プロモーションの場所に戻り、新しいミステリーを積んだバーンリーログイン Nicky Hayen, その側は、3-1 敗北で選手権の底にスラム.",
+      "title_original": "Swansea see off struggling Burnley",
+      "summary_original": "Swansea moved back into the automatic promotion places as they piled more misery on new Burnley boss Nicky Hayen, whose side slumped to the bottom of the Championship with a 3-1 defeat.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/swansea-city-vs-burnley/report/560578",
+      "published": "Sat, 12 Sep 2026 17:15:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
