@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T19:06:29.051801+00:00",
+  "updated_at": "2026-09-12T19:21:05.225958+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2660,7 +2660,9 @@
     "Riverside Stadium. Norwich": "",
     "Brits Skupski": "",
     "Alfie Hewett": "",
-    "Neal Skupski": ""
+    "Neal Skupski": "",
+    "In-form Borussia Dortmund": "",
+    "Lazio Felix Nmecha": ""
   },
   "items": [
     {
@@ -2944,20 +2946,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Richarlison はまだ残ることができますトッテナム - 土曜日の移籍ゴシップ",
-      "summary": "インテル Richarlison で一番、フィリペ・コウチーニョ・コレイアサントスの移籍に同意し、マンチェスター・ユナイテッドモニタリング Adrien Truffert.",
-      "title_original": "Richarlison could still leave Spurs - Saturday's gossip",
-      "summary_original": "Interest in Richarlison, Philippe Coutinho agrees Santos deal and Manchester United monitoring Adrien Truffert.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn0jrn8n7pjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 22:18:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ページをオンにしました」 -カマラ獲得を問い合わせチェルシー移籍崩壊",
       "summary": "モナコそして Senegal のミッドフィルダーラミン・カマラ彼は彼の失敗した4710万ポンド から移動していると言うチェルシー.",
       "title_original": "'I've turned the page' - Camara on Chelsea deal collapse",
@@ -2965,20 +2953,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj9x7e40gr2o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 12 Sep 2026 10:07:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「ママのために遊びたい」アーセナルコオニークロス",
-      "summary": "アーセナル「キラ・コオニー・クロス」でプレイする準備が整っていますエミレーツ・スタジアム母親のジェスをがんに失ってから初めて、彼女は彼女の養蜂に直面しているかを説明します。",
-      "title_original": "'I want to play for mum' – Arsenal's Cooney-Cross",
-      "summary_original": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since losing her mum Jess to cancer, and explains how she has been facing up to her bereavement \"one day at a time\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 05:52:56 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2997,6 +2971,34 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Richarlison はまだ残ることができますトッテナム - 土曜日の移籍ゴシップ",
+      "summary": "インテル Richarlison で一番、フィリペ・コウチーニョ・コレイアサントスの移籍に同意し、マンチェスター・ユナイテッドモニタリング Adrien Truffert.",
+      "title_original": "Richarlison could still leave Spurs - Saturday's gossip",
+      "summary_original": "Interest in Richarlison, Philippe Coutinho agrees Santos deal and Manchester United monitoring Adrien Truffert.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn0jrn8n7pjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 22:18:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「ママのために遊びたい」アーセナルコオニークロス",
+      "summary": "アーセナル「キラ・コオニー・クロス」でプレイする準備が整っていますエミレーツ・スタジアム母親のジェスをがんに失ってから初めて、彼女は彼女の養蜂に直面しているかを説明します。",
+      "title_original": "'I want to play for mum' – Arsenal's Cooney-Cross",
+      "summary_original": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since losing her mum Jess to cancer, and explains how she has been facing up to her bereavement \"one day at a time\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 05:52:56 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3042,20 +3044,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウェストハム'Alvarez denies 誘拐 accusation",
-      "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
-      "title_original": "West Ham's Alvarez denies kidnapping accusation",
-      "summary_original": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the allegation made by film producer Juan Jose Lopez Ordonez.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 08:42:22 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ヴァスコ・ダ・ガマへのリッチアリソンの移動は、",
       "summary": "トッテナム Richarlison の提案は、ブラジルの未来に続く不確実性に陥る Vasco da Gama への転向を提案しました。",
       "title_original": "Richarlison's move to Vasco da Gama falls through",
@@ -3070,17 +3058,31 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "モウリーニョ比較するエムバペそして、ヴィニシウス・ジュニオールブート後の果樹に",
-      "summary": "レアル・マドリードログインジョゼ・モウリーニョ星デュオのファン「ワン・ピース」キリアン・エムバペそして、ヴィニシウス・ジュニオール今週はサポーターズが応援してくれました。",
-      "title_original": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
-      "summary_original": "Real Madrid boss Jose Mourinho says fans \"want a piece\" of star duo Kylian Mbappe and Vinicius Jr after they were booed by supporters this week.",
+      "title": "モロッコの公式は、2030 最終約束を作るのを止めるために語った",
+      "summary": "モロッコのプライム・ミニスターは、2030 についての約束を中止するために、国のサッカー連盟の頭を語る World Cup 最終, スペインのフェデレーションの頭がスペインで演奏されるべきであると述べながら、.",
+      "title_original": "Moroccan official told to stop making 2030 final promise",
+      "summary_original": "Morocco's prime minister tells the head of the country's football federation to stop making promises about the 2030 World Cup final, while the head of the Spanish federation says the showpiece should be played in Spain.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly41qwpg4do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 13:22:13 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gv7n50lnwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 18:58:10 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウェストハム'Alvarez denies 誘拐 accusation",
+      "summary": "ウェストハムメキシコミッドフィルダーエドソン・アルバレス映画プロデューサーが制作した疑惑を否定するソーシャルメディアに関する声明を掲載 Juan Jose Lopez Ordonez.",
+      "title_original": "West Ham's Alvarez denies kidnapping accusation",
+      "summary_original": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the allegation made by film producer Juan Jose Lopez Ordonez.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 08:42:22 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3090,7 +3092,7 @@
       "summary_original": "⚽️ Premier League updates from the 8pm BST kick-off ⚽️ Live scores | Tables | Top scorers | And email Billy Sunderland parade new striker Juan Angulo, signed from Independiente del Valle last week, before kick-off at the Stadium of Light. That one had passed me by – and I’ve spent all summer writing down hundreds of transfers for this … JD emails in … Here is my early prediction for very competitive EPL season. Teams will struggle to reach 70 points. The team getting 75 will surely be champions.",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/12/sunderland-v-arsenal-premier-league-live",
-      "published": "Sat, 12 Sep 2026 18:54:47 GMT",
+      "published": "Sat, 12 Sep 2026 19:08:26 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3197,16 +3199,16 @@
     },
     {
       "title": "ヨーロッパのフットボール:ドルトムント再び勝つが、Gladbach rout の後の Freiburg トップ",
-      "summary": "ボルシア・ドルトムントビートパダーボーン 3-0 Freiburg 5-0 勝利後の目標差をリード Felix Nmecha スコアは2 回、Fábio Silva 別のものをとしてつかむボルシア・ドルトムント3-0 を自宅で獲得し、パダーボーンを促進し、完璧なスタートを続けようブンデスリーガ. ドルトムント’ s の勝利は、このキャンペーンのリーグで 3 人から 3 人になった, 彼らのベストスタートで 11 シーズン, 日付 戻るトーマス・トゥヘル獲得を問い合わせ 並んでフロントを立ち上げるセール・ギラシ今シーズン初めてのシルバは、より巧妙なパスを変換",
+      "summary": "インフォームボルシア・ドルトムントビートパダーボーン 3-0 ミラノ 後ろから来る 2-2 ドローイングとラツィオ Felix Nmecha が2 回獲得 Fábio Silva 別のものをとしてつかむボルシア・ドルトムント3-0 を自宅で獲得し、パダーボーンを促進し、完璧なスタートを続けようブンデスリーガ. ドルトムント’ s の勝利は、このキャンペーンのリーグで 3 人から 3 人になった, 彼らのベストスタートで 11 シーズン, 日付 戻るトーマス・トゥヘル獲得を問い合わせ 並んでフロントを立ち上げるセール・ギラシ今シーズン初めて、シルバは賢いパットを変換",
       "title_original": "European football: Dortmund win again but Freiburg top after Gladbach rout",
-      "summary_original": "Borussia Dortmund beat Paderborn 3-0 Freiburg lead on goal difference after 5-0 win Felix Nmecha scored twice and Fábio Silva grabbed another as Borussia Dortmund won 3-0 at home to promoted Paderborn to continue their perfect start in the Bundesliga. Dortmund’s win made it three from three in the league this campaign, their best start in 11 seasons, dating back to Thomas Tuchel’s time. Starting up front alongside Serhou Guirassy for the first time this season, Silva converted a clever pass from",
+      "summary_original": "In-form Borussia Dortmund beat Paderborn 3-0 Milan come from behind in 2-2 draw with Lazio Felix Nmecha scored twice and Fábio Silva grabbed another as Borussia Dortmund won 3-0 at home to promoted Paderborn to continue their perfect start in the Bundesliga. Dortmund’s win made it three from three in the league this campaign, their best start in 11 seasons, dating back to Thomas Tuchel’s time. Starting up front alongside Serhou Guirassy for the first time this season, Silva converted a clever pa",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga",
       "published": "Sat, 12 Sep 2026 17:15:01 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3504,6 +3506,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "US Open LIVE! サバレンカは、ブロックバスター女性の決勝で Rybakina を取る",
+      "summary": "",
+      "title_original": "US Open LIVE! Sabalenka takes on Rybakina in blockbuster women's final",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13584677/us-open-live-scores-updates-news-commentary-results-from-new-york-with-aryna-sabalenka-takes-on-elena-rybakina-in-the-womens-final",
+      "published": "Sat, 12 Sep 2026 19:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'Extraordinary!' | Nmecha スコア 激突オーバーヘッドキック for ドルトムント",
       "summary": "Felix Nmecha 素晴らしい自転車キックを獲得ボルシア・ドルトムント彼らのブンデスリーガパダーボーンに対する衝突。",
       "title_original": "'Extraordinary!' | Nmecha scores outrageous overhead kick for Dortmund",
@@ -3533,9 +3549,9 @@
     },
     {
       "title": "Brits Skupski、Hewett はそれぞれ固まります US Open ダブル、車いすのタイトル",
-      "summary": "イギリスの2 倍の成功を収めました全米オープン土曜日に Alfie Hewett 車いすシングルのタイトルを取り戻し、Neal Skupski ついに男子ダブルスを獲得。",
+      "summary": "イギリスの2 倍の成功を収めました全米オープン土曜日, と Alfie Hewett 車いすシングルのタイトルを取り戻し、Neal Skupski ついに男性のダブルスの王冠を主張する。",
       "title_original": "Brits Skupski, Hewett clinch respective US Open doubles, wheelchair titles",
-      "summary_original": "There was double success for Britain at the US Open on Saturday with Alfie Hewett regaining his wheelchair singles title and Neal Skupski finally winning the men's doubles.",
+      "summary_original": "There was double success for Britain at the US Open on Saturday, with Alfie Hewett regaining his wheelchair singles title and Neal Skupski finally claiming the men’s doubles crown.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13585139/us-open-2026-brits-neal-skupski-alfie-hewett-clinch-respective-doubles-wheelchair-titles-at-flushing-meadows",
       "published": "Sat, 12 Sep 2026 19:12:00 BST",
@@ -3609,6 +3625,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13584719/spanish-gp-lando-norris-beats-kimi-antonelli-to-first-pole-position-at-madring-after-thrilling-qualifying-finale",
       "published": "Sat, 12 Sep 2026 16:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ヒベリニアンクルーズ Ross County リーチする League Cup セミファイナル",
+      "summary": "ヒベリニアンは半決勝に緩和 League Cup 説得力のある後 3-0 勝ち Ross CountyDingwall で。",
+      "title_original": "Hibernian cruise past Ross County to reach League Cup semi-finals",
+      "summary_original": "Hibernian eased into the semi-finals of the League Cup after a convincing 3-0 victory over Ross County in Dingwall.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/ross-county-vs-hibernian/report/577541",
+      "published": "Sat, 12 Sep 2026 17:04:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3748,34 +3778,6 @@
       "summary_original": "Charlton maintained their unbeaten home record this season with a 0-0 draw against Portsmouth.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/charlton-athletic-vs-portsmouth/report/560572",
-      "published": "Sat, 12 Sep 2026 17:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Resurgent Stoke win at Watford",
-      "summary": "Jack McGlynn orchestrated Stoke's first away win since January with a deserved 2-1 success at Watford.",
-      "title_original": "Resurgent Stoke win at Watford",
-      "summary_original": "Jack McGlynn orchestrated Stoke's first away win since January with a deserved 2-1 success at Watford.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/watford-vs-stoke-city/report/560579",
-      "published": "Sat, 12 Sep 2026 17:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リンカーンはプレストンで後半勝利を獲得",
-      "summary": "Freddie Draper プレストンでリンカーンを離れて1-0 の勝利で後半の勝者をネットにベンチをオフにしました。",
-      "title_original": "Lincoln earn late win at Preston",
-      "summary_original": "Freddie Draper came off the bench to net a late winner in a 1-0 win for Lincoln away at Preston.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/preston-north-end-vs-lincoln-city/report/560575",
       "published": "Sat, 12 Sep 2026 17:15:00 BST",
       "category": "other",
       "type": "other",
