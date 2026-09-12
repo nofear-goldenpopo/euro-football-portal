@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T10:06:15.462554+00:00",
+  "updated_at": "2026-09-12T10:23:40.442392+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2542,7 +2542,10 @@
     "Referee Darren England This": "",
     "Manager Phil Parkinson": "",
     "Jules Boykoff": "",
-    "Pakistan's Abbas": ""
+    "Pakistan's Abbas": "",
+    "Mohammad Abbas": "",
+    "Ben Duckett": "",
+    "Emilio Gay": ""
   },
   "items": [
     {
@@ -2602,20 +2605,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウェストハム Wrexham 上司の「最も低いポイント」の中の rout",
-      "summary": "Manager Phil ParkinsonWrexham が22 年以上にわたって最も重いリーグの敗北に苦しんでいる後ダウンビートですロンドン・スタジアム.",
-      "title_original": "West Ham rout among 'lowest points' for Wrexham boss",
-      "summary_original": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 22:40:40 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Like Benzema としてよいハーランド- Alonso に Joao Pedro",
       "summary": "チェルシーマネージャーシャビ・アロンソストライカーは言う Joao Pedro 彼の元によく似ているレアル・マドリードチームメイトカリム・ベンゼマ比較可能なレベルにあるマンチェスター・シティ獲得を問い合わせアーリング・ハーランド.",
       "title_original": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
@@ -2630,6 +2619,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウェストハム Wrexham 上司の「最も低いポイント」の中の rout",
+      "summary": "Manager Phil ParkinsonWrexham が22 年以上にわたって最も重いリーグの敗北に苦しんでいる後ダウンビートですロンドン・スタジアム.",
+      "title_original": "West Ham rout among 'lowest points' for Wrexham boss",
+      "summary_original": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 22:40:40 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ヴァスコ・ダ・ガマへのリッチアリソンの移動は、",
       "summary": "トッテナム Richarlison の提案は、ブラジルの未来に続く不確実性に陥る Vasco da Gama への転向を提案しました。",
       "title_original": "Richarlison's move to Vasco da Gama falls through",
@@ -2637,6 +2640,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr50q58vqggo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 20:49:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「ページをオンにしました」 -カマラ獲得を問い合わせチェルシー移籍崩壊",
+      "summary": "モナコそして Senegal のミッドフィルダーラミン・カマラ彼は彼の失敗した4710万ポンド から移動していると言うチェルシー.",
+      "title_original": "'I've turned the page' - Camara on Chelsea deal collapse",
+      "summary_original": "Monaco and Senegal midfielder Lamine Camara says he is moving on from his failed £47.1m move to Chelsea.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9x7e40gr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 10:07:36 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2767,20 +2784,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ディクテーターメメムは人間の意識の欠如を示しています -エムバペ",
-      "summary": "キリアン・エムバペ「政治と人間の意識の欠如」と述べ、ディクターの体に彼の顔を上回るウイルスのメムを批判する。",
-      "title_original": "Dictator meme shows lack of human awareness - Mbappe",
-      "summary_original": "Kylian Mbappe criticises a viral meme which superimposes his face on the body of a dictator, saying it shows \"a lack of political and human awareness\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8jdmdjydp1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 16:49:50 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2938,6 +2941,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ディクテーターメメムは人間の意識の欠如を示しています -エムバペ",
+      "summary": "キリアン・エムバペ「政治と人間の意識の欠如」と述べ、ディクターの体に彼の顔を上回るウイルスのメムを批判する。",
+      "title_original": "Dictator meme shows lack of human awareness - Mbappe",
+      "summary_original": "Kylian Mbappe criticises a viral meme which superimposes his face on the body of a dictator, saying it shows \"a lack of political and human awareness\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8jdmdjydp1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 16:49:50 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "モロッコの公式は、2030 最終約束を作るのを止めるために語った",
       "summary": "モロッコのプライム・ミニスターは、2030 についての約束を中止するために、国のサッカー連盟の頭を語る World Cup 最終, スペインのフェデレーションの頭がスペインで演奏されるべきであると述べながら、.",
       "title_original": "Moroccan official told to stop making 2030 final promise",
@@ -2952,27 +2969,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "モウリーニョ比較するエムバペそして、ヴィニシウス・ジュニオールブート後の果樹に",
-      "summary": "レアル・マドリードログインジョゼ・モウリーニョ星デュオのファン「ワン・ピース」キリアン・エムバペそして、ヴィニシウス・ジュニオール今週はサポーターズが応援してくれました。",
-      "title_original": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
-      "summary_original": "Real Madrid boss Jose Mourinho says fans \"want a piece\" of star duo Kylian Mbappe and Vinicius Jr after they were booed by supporters this week.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly41qwpg4do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 13:22:13 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "トッテナムそしてヴィラハントファーストリーグ優勝,アーセナルフェイスサンダーランド test – マッチデイライブ",
       "summary": "大会の試合前のビルドアップ・ニュース・ディスカッション 開催概要 今週の週末の備品 | 表 | ご感想 土曜日 5.30pm スカイスポーツプレミアリーグ開催場所トッテナムスタジアム Referee Darren England This シーズン G2 Y7 R0 3.50 カード/ゲーム 続きを読む...",
       "title_original": "Spurs and Villa hunt first league wins, Arsenal face Sunderland test – matchday live",
       "summary_original": "⚽️ Buildup, news and discussion before Saturday’s games ⚽️ This weekend’s fixtures | Tables | Mail us your thoughts Saturday 5.30pm Sky Sports Premier League Venue Tottenham Hotspur Stadium Referee Darren England This season G2 Y7 R0 3.50 cards/game Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/12/matchday-live-tottenham-aston-villa-sunderland-arsenal-liverpool-chelsea-fulham",
-      "published": "Sat, 12 Sep 2026 09:28:46 GMT",
+      "published": "Sat, 12 Sep 2026 10:02:37 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3400,9 +3403,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Pakistan's Abbas シリーズスイープライブでイングランドのチェイス130 として最初のボールウィケットを!",
+      "title": "イングランドは、初めてパキスタンの130 を追いかけてシリーズスイープ LIVE!",
       "summary": "",
-      "title_original": "Pakistan's Abbas takes first-ball wicket as England chase 130 for series sweep LIVE!",
+      "title_original": "England two down after first over chasing Pakistan's 130 for series sweep LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13584717/england-vs-pakistan-third-test-day-four-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
@@ -3512,6 +3515,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "イギリスの総ディスレイ! Duckett と ゲイ 落下 で 開 以上",
+      "summary": "イングランドの始まりは4 日目の始まりは、その後悪化しなくなる Mohammad Abbas 削除 Ben Duckett そして、Emilio Gay 最初の6 球。",
+      "title_original": "England in total DISARRAY! Duckett and Gay fall in opening over",
+      "summary_original": "England's start to day four could not have gone worse after Mohammad Abbas removed Ben Duckett and Emilio Gay in the first six balls.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584744/england-in-disarray-at-edgbaston-duckett-and-gay-fall-in-opening-over",
+      "published": "Sat, 12 Sep 2026 11:13:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Razaullah は NINE 6es を等しいテストデビューの記録にマッシュします",
       "summary": "Razaullah smashed nine 6es へ 等しい Tim Southee’s エドグバストンのイングランドに対する驚くべきインニング中にテストデビューのプレーヤーによって最もレコード.",
       "title_original": "Razaullah smashes NINE sixes to equal Test-debut record",
@@ -3555,11 +3572,11 @@
     },
     {
       "title": "即刻後悔! 獲得を問い合わせ 恐ろしいショットを打つ前に群衆をハイプ!",
-      "summary": "Team USA スタースターAndrea Lee オープニングティーショットを打つ前に群衆を連れて行くが、彼女は木のにショット彼女のティーをスライスしたように笑顔は短い生きていました。",
+      "summary": "Team USA スタースターAndrea Lee オープニングティーショットを打つ前に群衆を連れて行くが、彼女は木にドライブをスライスしたように笑顔は短い生きていました。",
       "title_original": "Instant regret?! | Lee hypes up crowd before hitting horrendous shot!",
-      "summary_original": "Team USA star Andrea Lee got the crowd going before hitting her opening tee shot but the smile was short lived as she sliced her tee shot into a tree.",
+      "summary_original": "Team USA star Andrea Lee got the crowd going before hitting her opening tee shot but the smile was short lived as she sliced the drive into a tree.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584700/instant-regret-andrea-lee-hypes-up-crowd-before-hitting-horrendous-shot",
+      "url": "https://www.skysports.com/watch/video/13584700/solheim-cup-andrea-lee-hypes-up-crowd-before-hitting-horrendous-tee-shot",
       "published": "Sat, 12 Sep 2026 07:20:00 BST",
       "category": "other",
       "type": "other",
@@ -3596,9 +3613,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Solheim Cup LIVE! 欧州はアメリカに先立ち、ハル, ワッドスラッシング",
+      "title": "Solheim Cup LIVE! ヨーロッパは Woad にもかかわらず米国7-5 を導きます、ハルスラッシング",
       "summary": "",
-      "title_original": "Solheim Cup LIVE! Europe edge ahead of USA despite Hull, Woad thrashing",
+      "title_original": "Solheim Cup LIVE! Europe lead USA 7-5 despite Woad, Hull thrashing",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13584684/solheim-cup-live-latest-scores-updates-highlights-from-day-two-as-team-europe-host-team-usa-at-bernardus-golf",
@@ -3645,20 +3662,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/scores-schedule",
       "published": "Sat, 12 Sep 2026 04:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Wigan thrash Catalans へ 勝つ League Leaders' Shield",
-      "summary": "Wigan Warriors スラッシュ Catalans Dragons50-12 の上の終わりに Super League テーブルは勝ち、勝ちます League Leaders' Shield. Wigan トップスポットを保証するために最終的なラウンドで必要な勝利。",
-      "title_original": "Wigan thrash Catalans to win League Leaders' Shield",
-      "summary_original": "Wigan Warriors thrashed Catalans Dragons 50-12 to finish top of the Super League table and win the League Leaders' Shield. Wigan needed victory in the final round to guarantee top spot.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584631/wigan-warriors-v-catalans-dragons-super-league-highlights",
-      "published": "Fri, 11 Sep 2026 22:11:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
