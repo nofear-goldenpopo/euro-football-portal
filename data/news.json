@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T21:36:17.012969+00:00",
+  "updated_at": "2026-09-12T21:48:56.656536+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2678,7 +2678,11 @@
     "Le Fée’s": "",
     "Robin Roefs. Continue": "",
     "Lazio Kylian Mbappé": "",
-    "Damon Heta": ""
+    "Damon Heta": "",
+    "Como's Paz": "",
+    "Nico Paz": "",
+    "Cher Ndour": "シェール・エンドゥール",
+    "Geny Catamo": ""
   },
   "items": [
     {
@@ -2847,6 +2851,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アーセナルモニタリング Como's Paz - 日曜日の移籍ゴシップ",
+      "summary": "アーセナルモニタリング Nico Paz, リヴァプールそして、アストン・ヴィラ追跡シェール・エンドゥールそして、サンダーランド上に与えるために洗練されています Geny Catamo, 以上.",
+      "title_original": "Arsenal monitoring Como's Paz - Sunday's gossip",
+      "summary_original": "Arsenal are monitoring Nico Paz, Liverpool and Aston Villa are tracking Cher Ndour and Sunderland are refusing to give up on Geny Catamo, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2e0mzdwmkko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 21:35:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3057,20 +3075,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Richarlison はまだ残ることができますトッテナム - 土曜日の移籍ゴシップ",
-      "summary": "インテル Richarlison で一番、フィリペ・コウチーニョ・コレイアサントスの移籍に同意し、マンチェスター・ユナイテッドモニタリング Adrien Truffert.",
-      "title_original": "Richarlison could still leave Spurs - Saturday's gossip",
-      "summary_original": "Interest in Richarlison, Philippe Coutinho agrees Santos deal and Manchester United monitoring Adrien Truffert.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn0jrn8n7pjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 22:18:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3578,9 +3582,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Rybakina に トップ へ 不満の Sabalenka で 最終",
+      "title": "US Open LIVE! Rybakina 先が、サバレンカ 戦い 硬い で 決勝",
       "summary": "",
-      "title_original": "US Open LIVE! Rybakina on top against frustrated Sabalenka in final",
+      "title_original": "US Open LIVE! Rybakina ahead but Sabalenka fighting hard in final",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13584677/us-open-live-scores-updates-news-commentary-results-from-new-york-with-aryna-sabalenka-takes-on-elena-rybakina-in-the-womens-final",
@@ -3620,6 +3624,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウィンレストッテナム別の穴が反対に引くの後でゴールレスを保って下さいエヴァートン",
+      "summary": "トッテナム’s winless と ゴールレス スタート へプレミアリーグ季節は、0〜0 度で自宅で無縁に引くエヴァートン.",
+      "title_original": "Winless Spurs remain goalless after another bore draw against Everton",
+      "summary_original": "Tottenham’s winless and goalless start to the Premier League season continued with a 0-0 draw at home to unbeaten Everton.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-everton/report/559483",
+      "published": "Sat, 12 Sep 2026 20:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Brits Skupski、Hewett はそれぞれ固まります US Open ダブル、車いすのタイトル",
       "summary": "イギリスの2 倍の成功を収めました全米オープン土曜日, と Alfie Hewett 車いすシングルのタイトルを取り戻し、Neal Skupski ついに男性のダブルスの王冠を主張する。",
       "title_original": "Brits Skupski, Hewett clinch respective US Open doubles, wheelchair titles",
@@ -3648,13 +3666,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Van Gerwen アントワープのヘタによってノックアウト",
-      "summary": "マイケル・ヴァン・ゲルウェンは、Flanders Darts Trophy アフターDamon HetaAntwerp でタイトな 2 ラウンド クラッシュをエッジ, 両方のプレーヤーは、投げに対して脚を失う.",
-      "title_original": "Van Gerwen knocked out by Heta in Antwerp",
-      "summary_original": "Michael van Gerwen is out of the Flanders Darts Trophy after Damon Heta edged a tight second-round clash in Antwerp, with neither player losing a leg against the throw.",
+      "title": "South Africa 対比 New Zealand LIVE! Springboks の手数料",
+      "summary": "",
+      "title_original": "South Africa vs New Zealand LIVE! Springboks taking charge",
+      "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13585186/flanders-darts-trophy-michael-van-gerwen-knocked-out-by-damon-heta-in-antwerp-as-nathan-aspinall-stars-on-saturday-night",
-      "published": "Sat, 12 Sep 2026 21:20:00 BST",
+      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13584810/south-africa-vs-new-zealand-live-score-updates-video-and-analysis-from-fourth-test-in-baltimore",
+      "published": "Sat, 12 Sep 2026 21:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3662,13 +3680,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "South Africa 対比 New Zealand LIVE! 堅い鉛が付いている Springboks",
-      "summary": "",
-      "title_original": "South Africa vs New Zealand LIVE! Springboks with tight lead",
-      "summary_original": "",
+      "title": "Van Gerwen アントワープのヘタによってノックアウト",
+      "summary": "マイケル・ヴァン・ゲルウェンは、Flanders Darts Trophy アフターDamon HetaAntwerp でタイトな 2 ラウンド クラッシュをエッジ, 両方のプレーヤーは、投げに対して脚を失う.",
+      "title_original": "Van Gerwen knocked out by Heta in Antwerp",
+      "summary_original": "Michael van Gerwen is out of the Flanders Darts Trophy after Damon Heta edged a tight second-round clash in Antwerp, with neither player losing a leg against the throw.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13584810/south-africa-vs-new-zealand-live-score-updates-video-and-analysis-from-fourth-test-in-baltimore",
-      "published": "Sat, 12 Sep 2026 21:30:00 BST",
+      "url": "https://www.skysports.com/darts/news/12040/13585186/flanders-darts-trophy-michael-van-gerwen-knocked-out-by-damon-heta-in-antwerp-as-nathan-aspinall-stars-on-saturday-night",
+      "published": "Sat, 12 Sep 2026 21:20:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3743,20 +3761,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'Tired' リヴァプール, チェルシーの leaky defence and Villa's attacking concerns",
-      "summary": "",
-      "title_original": "'Tired' Liverpool, Chelsea's leaky defence and Villa's attacking concerns",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583460/liverpool-fail-fulham-test-as-chelseas-defensive-problems-continue-to-hamper-their-title-challenge-credentials-premier-league-hits-and-misses",
-      "published": "Sat, 12 Sep 2026 19:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
