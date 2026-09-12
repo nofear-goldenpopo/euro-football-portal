@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:06:16.937250+00:00",
+  "updated_at": "2026-09-12T22:23:17.373673+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2685,7 +2685,9 @@
     "Geny Catamo": "",
     "BBC Scotland": "",
     "Robin Roefs. Yet": "",
-    "Bukayo Saka’s": ""
+    "Bukayo Saka’s": "",
+    "Spine-tingling New Zealand Haka": "",
+    "Codie Taylor": "コーディー・テイラー"
   },
   "items": [
     {
@@ -3165,17 +3167,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "London City’s スーパースターは WSL 敗北で地球に降り注ぐウェストハム",
-      "summary": "ウェストハム最初の主張 Women’s Super League2-1 ホーム勝利でシーズンの勝利ロンドン・シティ・ライオネス. ケリーガゴは、センターバック間のレース、21 分後にハンマーを置くマピ・レオンそして、Isa Kardinaal にラッチに Seraina Piubel’s ハーフウェイとラウンドの通過 Elene Lete 獲得を問い合わせ London City ゴール。Daniëlle van de Donk がイコシザーを否定したとき Constance Picaud-Inconnu 保存された低い、とアレクシア・プテジャス, 別の London City’s 大きい名前の夏の印、上昇",
-      "title_original": "London City’s superstars brought down to earth in WSL defeat at West Ham",
-      "summary_original": "West Ham claimed their first Women’s Super League win of the season with a 2-1 home victory over London City Lionesses. Kelly Gago put the Hammers ahead after 21 minutes, racing between the centre-backs Mapi León and Isa Kardinaal to latch on to Seraina Piubel’s pass from nearly halfway and rounding Elene Lete in the London City goal. Daniëlle van de Donk was denied an equaliser when Constance Picaud-Inconnu saved low, with Alexia Putellas, another of London City’s big-name summer signings, lift",
+      "title": "ヨーロッパのフットボール:ドルトムント再び勝つが、Gladbach rout の後の Freiburg トップ",
+      "summary": "ミラノは2-2 の後ろから来たラツィオ キリアン・エムバペとして2 回打つことレアル・マドリードクルーズ Felix Nmecha スコアは2 回、Fábio Silva 別のものをとしてつかむボルシア・ドルトムント3-0 を自宅で獲得し、パダーボーンを促進し、完璧なスタートを続けようブンデスリーガ. ドルトムント’ s の勝利は、このキャンペーンのリーグで 3 人から 3 人になった, 彼らのベストスタートで 11 シーズン, 日付 戻るトーマス・トゥヘル獲得を問い合わせ 並んでフロントを立ち上げるセール・ギラシ今シーズン初めて、シルバは上昇を変換",
+      "title_original": "European football: Dortmund win again but Freiburg top after Gladbach rout",
+      "summary_original": "Milan come from behind in 2-2 draw with Lazio Kylian Mbappé strikes twice as Real Madrid cruise Felix Nmecha scored twice and Fábio Silva grabbed another as Borussia Dortmund won 3-0 at home to promoted Paderborn to continue their perfect start in the Bundesliga. Dortmund’s win made it three from three in the league this campaign, their best start in 11 seasons, dating back to Thomas Tuchel’s time. Starting up front alongside Serhou Guirassy for the first time this season, Silva converted a clev",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/london-city-west-ham-wsl-match-report",
-      "published": "Sat, 12 Sep 2026 14:11:24 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
+      "url": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga",
+      "published": "Sat, 12 Sep 2026 21:17:49 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3193,6 +3195,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Febrile Manchester ダービーは、ユナイテッドファンとクラブの間で成長しているリフトの中で待っています",
+      "summary": "要塞に向かう都市ですが、ホームサポーターは、チケットトウツに対するクラブのドライブをキックオフする前にテストしますマンチェスター・ユナイテッド10 の9 つの勝利プレミアリーグゲームでオールド・トラッフォードで 2026 要塞として自分のスタジアムをキャストマンチェスター・シティ日曜日にランサックを目指し、参加リーズ今年は3 ポイントで出発します。マイケル・キャリックそのスパンで部門の最高のホームポイントパーゲームリターンを監督しています:2.7, 先のアーセナル’s 2.27 (から 12 試合) と マンチ",
+      "title_original": "Febrile Manchester derby awaits amid growing rift between United fans and club",
+      "summary_original": "City heading to a fortress but home supporters will protest before kick-off over club’s drive against ticket touts Manchester United’s nine victories from 10 Premier League games at Old Trafford in 2026 cast their stadium as a fortress Manchester City aim to ransack on Sunday, to join Leeds in departing with three points during this calendar year. Michael Carrick has overseen the division’s highest home points-per-game return in that span: 2.7, ahead of Arsenal’s 2.27 (from 12 matches) and Manch",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/12/febrile-manchester-derby-awaits-amid-growing-rift-between-united-fans-and-club",
+      "published": "Sat, 12 Sep 2026 11:00:35 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "エメリーは、無事に森林ストライキとして責任を負いますアストン・ヴィラ",
       "summary": "この夏には、パズルの重要な部分がいくつかありましたオリヴァー・グラスナー置くためにノッティンガム・フォレスト. 最初は、ラインをリードするモバイルストライカーだったし、もう一方は、彼の好ましい3-4-3 システムに合う適切な翼のバックだった。Enter Liam Delap そして、Daniel Muñoz といっても、森が初めてグランスナーの勝利で大声を浴びていたんですが、マッチワインダーは昔のブリガデの1 人でした。Igor Jesus. Delap スタイルで最初のフォレストゴール、25 ヤードの強力なショット、ミュニョス w",
       "title_original": "Emery takes responsibility as Forest strike late at winless Aston Villa",
@@ -3204,20 +3220,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ヨーロッパのフットボール:ドルトムント再び勝つが、Gladbach rout の後の Freiburg トップ",
-      "summary": "ミラノは2-2 の後ろから来たラツィオ キリアン・エムバペとして2 回打つことレアル・マドリードクルーズ Felix Nmecha スコアは2 回、Fábio Silva 別のものをとしてつかむボルシア・ドルトムント3-0 を自宅で獲得し、パダーボーンを促進し、完璧なスタートを続けようブンデスリーガ. ドルトムント’ s の勝利は、このキャンペーンのリーグで 3 人から 3 人になった, 彼らのベストスタートで 11 シーズン, 日付 戻るトーマス・トゥヘル獲得を問い合わせ 並んでフロントを立ち上げるセール・ギラシ今シーズン初めて、シルバは上昇を変換",
-      "title_original": "European football: Dortmund win again but Freiburg top after Gladbach rout",
-      "summary_original": "Milan come from behind in 2-2 draw with Lazio Kylian Mbappé strikes twice as Real Madrid cruise Felix Nmecha scored twice and Fábio Silva grabbed another as Borussia Dortmund won 3-0 at home to promoted Paderborn to continue their perfect start in the Bundesliga. Dortmund’s win made it three from three in the league this campaign, their best start in 11 seasons, dating back to Thomas Tuchel’s time. Starting up front alongside Serhou Guirassy for the first time this season, Silva converted a clev",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga",
-      "published": "Sat, 12 Sep 2026 21:17:49 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3245,6 +3247,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "London City’s スーパースターは WSL 敗北で地球に降り注ぐウェストハム",
+      "summary": "ウェストハム最初の主張 Women’s Super League2-1 ホーム勝利でシーズンの勝利ロンドン・シティ・ライオネス. ケリーガゴは、センターバック間のレース、21 分後にハンマーを置くマピ・レオンそして、Isa Kardinaal にラッチに Seraina Piubel’s ハーフウェイとラウンドの通過 Elene Lete 獲得を問い合わせ London City ゴール。Daniëlle van de Donk がイコシザーを否定したとき Constance Picaud-Inconnu 保存された低い、とアレクシア・プテジャス, 別の London City’s 大きい名前の夏の印、上昇",
+      "title_original": "London City’s superstars brought down to earth in WSL defeat at West Ham",
+      "summary_original": "West Ham claimed their first Women’s Super League win of the season with a 2-1 home victory over London City Lionesses. Kelly Gago put the Hammers ahead after 21 minutes, racing between the centre-backs Mapi León and Isa Kardinaal to latch on to Seraina Piubel’s pass from nearly halfway and rounding Elene Lete in the London City goal. Daniëlle van de Donk was denied an equaliser when Constance Picaud-Inconnu saved low, with Alexia Putellas, another of London City’s big-name summer signings, lift",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/12/london-city-west-ham-wsl-match-report",
+      "published": "Sat, 12 Sep 2026 14:11:24 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3515,20 +3531,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バロン d’ ショートリスト表示プレミアリーグの 攻撃の失敗 - しかし、潮は回転する可能性があります",
-      "summary": "英語のトップフライトのフォワードは、セットピースのグラップルのシーズンを反映しているリストには表れていませんが、2026-27 はすでに明るいようですプレミアリーグ今年のバロン d’Or ショートリストで 16 人の攻撃選手になると、表現は低いです。マンチェスター・ユナイテッド獲得を問い合わせブルーノ・フェルナンデスそして、マンチェスター・シティ獲得を問い合わせアーリング・ハーランドありますが、コール・パーマー2025 年にノーマインの1 つが、怪我ヒットの年と、英語のサッカーの体力へのシフトと、最後のシーズンをセットする",
-      "title_original": "Ballon d’Or shortlist shows up Premier League’s attacking failings – but tide could be turning",
-      "summary_original": "English top flight’s forwards are not well represented on the list, reflecting a season of set-piece grapple, but 2026-27 already looks brighter Premier League representation is low when it comes to the 16 attacking players on this year’s Ballon d’Or shortlist . Manchester United’s Bruno Fernandes and Manchester City’s Erling Haaland are there but Cole Palmer, one of the nominees in 2025, is out after an injury-hit year and English football’s shift towards physicality and set pieces last season ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/11/ballon-dor-shortlist-shows-up-premier-leagues-attacking-failings-but-tide-could-be-turning",
-      "published": "Fri, 11 Sep 2026 19:00:13 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Shelton relishing challenge of first グランドスラム final against Zverev at US Open",
       "summary": "ベン・シェルトン finds himself in unfamiliar territory after reaching his first Grand ‌Slam final at 全米オープン, with the American now ready to \"do it for アメリカ合衆国 A\" when he takes on top seed Alexander Zverev in Sunday's showdown.",
       "title_original": "Shelton relishing challenge of first Grand Slam final against Zverev at US Open",
@@ -3536,6 +3538,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13585138/us-open-ben-shelton-is-relishing-the-challenge-of-a-first-grand-slam-final-against-alexander-zverev-in-new-york",
       "published": "Sat, 12 Sep 2026 20:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Spine-tingling New Zealand Haka 米国の混雑が予想される前に!",
+      "summary": "New Zealand キャプテンコーディー・テイラースピンリング Haka を初めて対抗する South Africa.",
+      "title_original": "Spine-tingling New Zealand Haka in front of captivated US crowd!",
+      "summary_original": "New Zealand captain Codie Taylor leads a spine-tingling Haka for the first time against South Africa.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585210/codie-taylor-leads-a-spine-tingling-haka-for-the-first-time-as-captain",
+      "published": "Sat, 12 Sep 2026 22:53:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3571,13 +3587,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウェストハム secure first WSL win of season against ロンドン・シティ・ライオネス",
-      "summary": "ウェストハム claimed their first Women's Super League win of the season with a 2-1 home victory over ロンドン・シティ・ライオネス.",
-      "title_original": "West Ham secure first WSL win of season against London City Lionesses",
-      "summary_original": "West Ham claimed their first Women's Super League win of the season with a 2-1 home victory over London City Lionesses.",
+      "title": "US Open 決勝戦! Rybakina は、セディングセットで初期のサバレンカを破る",
+      "summary": "",
+      "title_original": "US Open final LIVE! Rybakina breaks Sabalenka early in deciding set",
+      "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585167/west-ham-2-1-london-city-lionesses-kelly-gago-and-viviane-asseyi-strike-as-hammers-secure-first-womens-super-league-win-of-season",
-      "published": "Sat, 12 Sep 2026 20:15:00 BST",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13584677/us-open-live-scores-updates-news-commentary-results-from-new-york-with-aryna-sabalenka-takes-on-elena-rybakina-in-the-womens-final",
+      "published": "Sat, 12 Sep 2026 19:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3585,13 +3601,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! サバレンカ対 Rybakina は決定セットに向かう",
-      "summary": "",
-      "title_original": "US Open LIVE! Sabalenka vs Rybakina heading into deciding set",
-      "summary_original": "",
+      "title": "ウェストハム secure first WSL win of season against ロンドン・シティ・ライオネス",
+      "summary": "ウェストハム claimed their first Women's Super League win of the season with a 2-1 home victory over ロンドン・シティ・ライオネス.",
+      "title_original": "West Ham secure first WSL win of season against London City Lionesses",
+      "summary_original": "West Ham claimed their first Women's Super League win of the season with a 2-1 home victory over London City Lionesses.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13584677/us-open-live-scores-updates-news-commentary-results-from-new-york-with-aryna-sabalenka-takes-on-elena-rybakina-in-the-womens-final",
-      "published": "Sat, 12 Sep 2026 19:00:00 BST",
+      "url": "https://www.skysports.com/football/news/12040/13585167/west-ham-2-1-london-city-lionesses-kelly-gago-and-viviane-asseyi-strike-as-hammers-secure-first-womens-super-league-win-of-season",
+      "published": "Sat, 12 Sep 2026 20:15:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3788,20 +3804,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13584719/spanish-gp-lando-norris-beats-kimi-antonelli-to-first-pole-position-at-madring-after-thrilling-qualifying-finale",
       "published": "Sat, 12 Sep 2026 16:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Hibernian と Aberdeen に先立ち League Cup セミファイナル",
-      "summary": "ヒベリニアンは半端に緩和 League Cup 説得力のある後 3-0 勝ち Ross CountyDingwall で。",
-      "title_original": "Hibernian and Aberdeen advance to League Cup semi-finals",
-      "summary_original": "Hibernian eased into the semi-finals of the League Cup after a convincing 3-0 victory over Ross County in Dingwall.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/ross-county-vs-hibernian/report/577541",
-      "published": "Sat, 12 Sep 2026 17:04:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
