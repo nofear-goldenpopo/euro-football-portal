@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T14:49:58.554323+00:00",
+  "updated_at": "2026-09-12T15:05:50.564265+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2583,7 +2583,11 @@
     "Seraina Piubel’s": "",
     "Elene Lete": "",
     "The Hawthorns. It": "",
-    "West Brom’s": ""
+    "West Brom’s": "",
+    "British Classic": "イギリスクラシック三冠",
+    "Saffie Osborne": "",
+    "Betfred St Leger": "",
+    "Luis Vasquez": ""
   },
   "items": [
     {
@@ -3013,7 +3017,7 @@
       "summary_original": "⚽️ News and updates from all of Saturday’s football action ⚽️ Live scores | Tables | Top scorers | And email Barry Championship: Standing on the opposition goalline, Birmingham City’s South Korean midfielder Paik Seung-Ho can’t miss as he heads his side in front at Pride Park from a wonderful Liam Millar inswinger of a corner. The visitors lead Derby County 2-1 after 63 minutes. WSL: West Ham haver doubled their lead against London City, with Viviane Asseyi making it 2-0 at Victoria Road after 4",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
-      "published": "Sat, 12 Sep 2026 14:39:30 GMT",
+      "published": "Sat, 12 Sep 2026 14:54:22 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3427,6 +3431,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "獲得 Osborne 最初の 女性 へ 勝つイギリスクラシック三冠ハイウェーマンの土地の足車として",
+      "summary": "Saffie Osborne 彼女は勝つために最初の女性ジョッキーになったので、Doncaster で歴史を作ったイギリスクラシック三冠, ステアリングハイウェイマンは、250th Betfred で勝利セントレジャーステークス.",
+      "title_original": "History! Osborne first woman to win British Classic as Highwayman lands Leger",
+      "summary_original": "Saffie Osborne made history at Doncaster as she became the first female jockey to win a British Classic, steering Highwayman to victory in the 250th Betfred St Leger.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13584907/betfred-st-leger-saffie-osborne-becomes-first-female-to-win-a-british-classic-as-highwayman-lands-doncaster-feature",
+      "published": "Sat, 12 Sep 2026 15:45:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ウルフ・フュームズ「カウチ・ウォリアーズ」でルッセルのメルセデス治療を疑問に",
       "summary": "メルセデス・チーフ Toto Wolff「カウチ戦士」の提案を却下したシルバーアロー治療に失敗 George Russell かなりの間イタリアグランプリ.",
       "title_original": "Wolff fumes at 'couch warriors' questioning Mercedes' treatment of Russell",
@@ -3511,9 +3529,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スペイングランプリ: バルスタッペンは、ポジショニングにサイネージを盛り込みます!",
+      "title": "スペイングランプリ: ノリスがアントネリを打ち負かし、スリル満点のファイナリスト LIVE でポジショニング!",
       "summary": "",
-      "title_original": "Spanish GP: Verstappen surges into pole contention in tense qualifying LIVE!",
+      "title_original": "Spanish GP: Norris beats Antonelli to pole in thrilling qualifying finale LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13584285/f1-spanish-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-madring",
@@ -3564,6 +3582,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "いいえ、本当に... ここが一番のミスです。",
+      "summary": "Luis VasquezBirmingham と Derby の3 つを作るのは簡単なチャンスで贈られましたが、どういうわけかそれをスキップしました。",
+      "title_original": "No, really... Is this actually the worst miss ever?",
+      "summary_original": "Luis Vasquez was gifted with an easy chance to make it three for Birmingham vs Derby but somehow skied it.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584832/derby-v-birmingham-that-is-an-extraordinary-miss-vazquez-skies-golden-opportunity",
+      "published": "Sat, 12 Sep 2026 14:27:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3672,34 +3704,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13584715/spanish-gp-lewis-hamilton-crashes-at-kimi-antonelli-tops-final-practice-from-charles-leclerc-in-madrid",
       "published": "Sat, 12 Sep 2026 13:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "信じられないほどのターンアラウンド!ハルリードチェルシーライブ!",
-      "summary": "",
-      "title_original": "Unbelievable turnaround! Hull lead Chelsea LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-vs-hull-city/live/559476",
-      "published": "Sat, 12 Sep 2026 12:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Enceladus 取る 上のクリスマスそして、Pienne Bonnard250 インチセントレジャーステークス",
-      "summary": "Enceladus は Ballydoyle duo を 取りますクリスマスそして、Pierre Bonnard 最新更新情報セントレジャーステークス.",
-      "title_original": "Enceladus takes on Christmas Day and Pienne Bonnard in 250th St Leger",
-      "summary_original": "Enceladus takes on Ballydoyle duo Christmas Day and Pierre Bonnard in the latest renewal of the St Leger.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13583974/today-on-sky-sports-racing-enceladus-takes-on-christmas-day-and-pienne-bonnard-in-250th-st-leger-from-doncaster",
-      "published": "Sat, 12 Sep 2026 07:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
