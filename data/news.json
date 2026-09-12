@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T23:23:31.593901+00:00",
+  "updated_at": "2026-09-12T23:35:04.900067+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2692,7 +2692,9 @@
     "Robin Roefs": "ロビン・ローフス",
     "Phenomenal Rybakina": "",
     "Dan Ballard": "",
-    "Furious Arteta": ""
+    "Furious Arteta": "",
+    "Everton Roberto De Zerbi": "",
+    "Extraordinary Rybakina": ""
   },
   "items": [
     {
@@ -3130,13 +3132,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナム waiting for first league goal of season after draw against エヴァートン",
-      "summary": "Is it too early for a トッテナム crisis? To which the answer is surely that it is never too early for a トッテナム crisis. After four プレミアリーグ games, they have yet to score. This kind of run has never happened in their history at the beginning of a league season. At least they mustered a couple of shots on target this time, having failed to do so last weekend in the 0-0 draw at ノッティンガム・フォレスト . The first – from Mateus Fernandes – at the start of the second half was greeted by ironic cheer",
-      "title_original": "Tottenham waiting for first league goal of season after draw against Everton",
-      "summary_original": "Is it too early for a Tottenham crisis? To which the answer is surely that it is never too early for a Tottenham crisis. After four Premier League games, they have yet to score. This kind of run has never happened in their history at the beginning of a league season. At least they mustered a couple of shots on target this time, having failed to do so last weekend in the 0-0 draw at Nottingham Forest . The first – from Mateus Fernandes – at the start of the second half was greeted by ironic cheer",
+      "title": "De Zerbi コメントトッテナムリーグの勝利を待つと「メンタルブロック」を持っている",
+      "summary": "「勝利なし、ゴール獲得なし...プレイヤーにとって厳しい」トッテナム0-0 の後の 17 の場所はに対して引くことエヴァートンロベルト・デ・ツェルビ氏は、トッテナムプレーヤーは、物理的なフィットネスを欠い続けると、「ブロック解除」は、彼らが彼らの最新を撤退した後、心理的な言葉で自分自身をプレミアリーグ自宅で空白 0-0 とエヴァートン獲得を問い合わせ ゴールなしでシーズンの始まり以来、今大会で4 つのゲームですトッテナム; 彼らは2 つのポイントとテーブルに17 番目の座って、不満のファンによってオフにしました。ディー Z",
+      "title_original": "De Zerbi says Spurs have ‘mental block’ after wait for league win continues",
+      "summary_original": "‘No wins, no goals scored … it is tough for the players’ Spurs in 17th place after 0-0 draw against Everton Roberto De Zerbi says his Tottenham players continue to lack physical fitness and must “unblock” themselves in psychological terms after they drew their latest Premier League blank in a home 0-0 with Everton . It is now four games in the competition since the start of the season without a goal for Spurs; they sit 17th in the table with two points and were booed off by frustrated fans. De Z",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/tottenham-everton-premier-league-match-report",
-      "published": "Sat, 12 Sep 2026 18:47:01 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/12/roberto-de-zerbi-tottenham-everton-premier-league",
+      "published": "Sat, 12 Sep 2026 20:36:15 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3620,9 +3622,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open 決勝戦!Phenomenal Rybakina タイトルを獲得するためにサバレンカを打つ",
+      "title": "'Extraordinary Rybakina 全部でできる | サバレンカが何をすべきかわからない!'",
       "summary": "",
-      "title_original": "US Open final LIVE! Phenomenal Rybakina beats Sabalenka to win title",
+      "title_original": "'Extraordinary Rybakina can do it all | Sabalenka didn't know what to do!'",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13584677/us-open-live-scores-updates-news-commentary-results-from-new-york-with-aryna-sabalenka-takes-on-elena-rybakina-in-the-womens-final",
@@ -3676,6 +3678,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "South Africaprevail 以上 New Zealand ボルチモア - 彼らはシリーズを獲得する方法",
+      "summary": "",
+      "title_original": "South Africa prevail over New Zealand in Baltimore - how they won the series",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13584810/south-africa-vs-new-zealand-live-score-updates-video-and-analysis-from-fourth-test-in-baltimore",
+      "published": "Sat, 12 Sep 2026 21:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ウィンレストッテナム別の穴が反対に引くの後でゴールレスを保って下さいエヴァートン",
       "summary": "トッテナム’s winless と ゴールレス スタート へプレミアリーグ季節は、0〜0 度で自宅で無縁に引くエヴァートン.",
       "title_original": "Winless Spurs remain goalless after another bore draw against Everton",
@@ -3697,20 +3713,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13585139/us-open-2026-brits-neal-skupski-alfie-hewett-clinch-respective-doubles-wheelchair-titles-at-flushing-meadows",
       "published": "Sat, 12 Sep 2026 19:12:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "South Africaprevail 以上 New Zealand 獲得を問い合わせ Baltimore LIVE!",
-      "summary": "",
-      "title_original": "South Africa prevail over New Zealand in Baltimore LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13584810/south-africa-vs-new-zealand-live-score-updates-video-and-analysis-from-fourth-test-in-baltimore",
-      "published": "Sat, 12 Sep 2026 21:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
