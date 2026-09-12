@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T05:49:39.296013+00:00",
+  "updated_at": "2026-09-12T06:07:14.556820+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2526,7 +2526,10 @@
     "Ruben Dias": "ルベン・ディアス",
     "BBC Sport's Kelly Somers": "",
     "Pep Guardiola's": "",
-    "New Man City": ""
+    "New Man City": "",
+    "Christmas Day": "クリスマス",
+    "Pienne Bonnard": "",
+    "Pierre Bonnard": ""
   },
   "items": [
     {
@@ -2583,6 +2586,20 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8zrxvpvlyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 05:54:29 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2712,20 +2729,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チームは備品のスケジューリングに適応する必要があります - マレスカ",
-      "summary": "マンチェスター・シティマネージャーEnzo Maresca「適応する必要性」を日曜日のダービーに彼の側面の頭部として据え付け品のスケジューリングに2 日余分残りのライバルにチームを言うマンチェスター・ユナイテッド.",
-      "title_original": "Teams need to adapt to fixture scheduling - Maresca",
-      "summary_original": "Manchester City manager Enzo Maresca says teams \"need to adapt\" to the fixture scheduling as his side head into Sunday's derby with two days extra rest over rivals Manchester United.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zr11l9j6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 10:55:09 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "モロッコの公式は、2030 最終約束を作るのを止めるために語った",
       "summary": "モロッコのプライム・ミニスターは、2030 についての約束を中止するために、国のサッカー連盟の頭を語る World Cup 最終, スペインのフェデレーションの頭がスペインで演奏されるべきであると述べながら、.",
       "title_original": "Moroccan official told to stop making 2030 final promise",
@@ -2778,34 +2781,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "PSV & シャフタール・ドネツクオープンチャンピオンズリーグドローキャンペーン",
-      "summary": "PSV アイントホーフェンそして、シャフタール・ドネツク1-1 のドローをプレイして開こうチャンピオンズリーグキャンペーンフィリップス・スタディオン.",
-      "title_original": "PSV & Shakhtar Donetsk open Champions League campaign with draw",
-      "summary_original": "PSV Eindhoven and Shakhtar Donetsk played out a 1-1 draw to open their Champions League campaign at Philips Stadion.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2z0j25mmjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 21:00:29 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Is Dorgu 左 -back での回答マンチェスター・ユナイテッド?",
-      "summary": "チャンピオンズリーグアナリスト Stephen Warnock 欧州サッカージャーナリスト Julien Laurens パフォーマンスを見る Patrick Dorgu 開催期間マンチェスター・ユナイテッドの 4-0 はサバで勝つオールド・トラッフォード.",
-      "title_original": "Is Dorgu the answer at left -back for Man Utd?",
-      "summary_original": "Champions League analyst Stephen Warnock and European football journalist Julien Laurens look at the performance of Patrick Dorgu during Manchester United's 4-0 win over Sabah at Old Trafford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0lrkkwdj97o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 22:24:15 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -2905,6 +2880,34 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チャンピオンズアーセナル後ろからビートに来るチェルシー",
+      "summary": "チャンピオン獲得アーセナル後ろから来て大衆を倒すチェルシープリズムで ロンドン ダービー アットエミレーツ・スタジアム.",
+      "title_original": "Champions Arsenal come from behind to beat Chelsea",
+      "summary_original": "Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 18:58:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Last-gasp Maitland-Nilesstunner 救助ポイントのためのエヴァートン",
+      "summary": "エインズリー・メイトランド＝ナイルズ著名なストップページタイムイコライザーを弾力性としてスクーリングすることにより、英語のサッカーに戻りましたエヴァートン後ろから2 回引っ越しマンチェスター・ユナイテッド獲得を問い合わせプレミアリーグ.",
+      "title_original": "Last-gasp Maitland-Niles stunner rescues point for Everton",
+      "summary_original": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 18:58:33 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3370,6 +3373,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Enceladus 取る 上のクリスマスそして、Pienne Bonnard250 インチセントレジャーステークス",
+      "summary": "Enceladus は Ballydoyle duo を 取りますクリスマスそして、Pierre Bonnard 最新更新情報セントレジャーステークス.",
+      "title_original": "Enceladus takes on Christmas Day and Pienne Bonnard in 250th St Leger",
+      "summary_original": "Enceladus takes on Ballydoyle duo Christmas Day and Pierre Bonnard in the latest renewal of the St Leger.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13583974/today-on-sky-sports-racing-enceladus-takes-on-christmas-day-and-pienne-bonnard-in-250th-st-leger-from-doncaster",
+      "published": "Sat, 12 Sep 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "獲得を問い合わせアメリカ合衆国 A' - Shelton は Zverev のショーダウンをでセットアップしました US Open ファイナル",
       "summary": "ベン・シェルトン倒れたコンパトリオット Frances Tiafoe 電気で全米オープン金曜日に準決勝でタイトルのショーダウンを固定 Alexander Zverev.",
       "title_original": "'Let's do this for the USA' - Shelton sets up Zverev showdown in US Open final",
@@ -3419,6 +3436,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13584412/england-vs-pakistan-third-test-day-three-morning-session-highlights",
       "published": "Fri, 11 Sep 2026 13:27:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ネルソン: ベンの卒業の日はここにありますが、ガルシアは上記のクラスになる可能性があります",
+      "summary": "Conor Benn 彼がこの週末の戦いで世界レベルで属していることを証明しなければなりません Ryan Garcia, しかし、WBC のチャンピオンは、あまりにも速く、あまりにも鋭く、スカイスポーツの専門家は言うジョニー・ネルソン.",
+      "title_original": "Nelson: Benn's graduation day is here but Garcia could be a class above",
+      "summary_original": "Conor Benn must prove he belongs at world level in this weekend's fight against Ryan Garcia, but the WBC champion might be too fast and too sharp, says Sky Sports expert Johnny Nelson.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13583665/conor-benns-graduation-day160is-here160but-ryan-garcia-could-be-a-class-above-in-las-vegas-clash-says-johnny-nelson",
+      "published": "Sat, 12 Sep 2026 07:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3615,34 +3646,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13582812/super-leagues-frantic-friday-live-updates-commentary-videos-scores-as-wigan-warriors-and-leeds-rhinos-go-for-league-leaders-shield",
       "published": "Fri, 11 Sep 2026 23:10:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「大昔のワックだ!」 | 車が火で上がると、F2 のドライバーが歩く!",
-      "summary": "F2 の Tasanapol Inthraphuvasak 火炎で車が上がると徒歩で!",
-      "title_original": "'That's a big old whack!' | F2 driver walks away after car goes up in flames!",
-      "summary_original": "F2's Tasanapol Inthraphuvasak walks away after his car went up in flames!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584348/spanish-gp-f2s-tasanapol-inthraphuvasak-walks-away-after-car-goes-up-in-flames",
-      "published": "Fri, 11 Sep 2026 11:27:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウェストハムレースレックスハムは、チャンピオンシップのトップに行く",
-      "summary": "ウェストハム Wrexham の6-0 の勝利で簡単な作業をロンドン・スタジアム行に4 つを作り、チャンピオンシップのトップへ。",
-      "title_original": "West Ham thrash Wrexham to go top of the Championship",
-      "summary_original": "West Ham made easy work of Wrexham in a 6-0 victory at the London Stadium to make it four in a row and go top of the Championship.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/west-ham-united-vs-wrexham/report/560581",
-      "published": "Fri, 11 Sep 2026 22:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
