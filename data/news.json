@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T13:35:55.106047+00:00",
+  "updated_at": "2026-09-13T13:49:44.288121+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2757,7 +2757,9 @@
     "Dominant FIVE-star": "",
     "Hampden Park": "ハムデン・パーク",
     "Luckless Norris": "",
-    "It's Derby Day": ""
+    "It's Derby Day": "",
+    "Al-Hilal's Ruben Neves": "",
+    "Diogo Jota's": ""
   },
   "items": [
     {
@@ -2782,6 +2784,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 13:26:08 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Ronaldo は Jota チャントの上に生涯禁止を要求します",
+      "summary": "ソーシャルメディアの映像が表示される Al-Hilal's Ruben NevesAl-Taawoun ファンに反応する Diogo Jota's 自分の中に彼の名前 Saudi Pro League マッチ。",
+      "title_original": "Ronaldo demands lifetime bans over Jota chants",
+      "summary_original": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 13:46:21 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2845,20 +2861,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "私は誰ですか?Guess WSL 星のいいえ 4",
-      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
-      "title_original": "Who am I? Guess WSL star No 4",
-      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c804e74y1jeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 07:24:15 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "アーセナルエネルギーを離れて握って下さいサンダーランド完璧なタイトルの防衛を継続",
       "summary": "アーセナル彼らの100%の始まりを維持プレミアリーグ勝負の季節サンダーランド, 前にポイントのための有望なプッシュをマウントする人ブカヨ・サカの penalty は、疑いを超えて結果を置く.",
       "title_original": "Arsenal hold off energetic Sunderland to continue perfect title defence",
@@ -2873,13 +2875,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "新しいシステム、同じ問題 - Alonso が 'soft' に満足していないチェルシー",
-      "summary": "サブデュース Stamford Bridge アフターチェルシー’s 2-2 新しく進められた引くハル・シティ AFC.",
-      "title_original": "New system, same problems - Alonso not happy with 'soft' Chelsea",
-      "summary_original": "It was subdued at Stamford Bridge after Chelsea's 2-2 draw with newly promoted Hull City.",
+      "title": "トッテナムリーグのゴールを待ち続けるエヴァートンログイン",
+      "summary": "トッテナムの 最初の待ちプレミアリーグロベルト・デ・ツェルビの側面がゴールレス・ホーム・ドローイングに開催された後、このシーズンのゴールと勝利が続くエヴァートン.",
+      "title_original": "Tottenham's wait for league goal continues after Everton draw",
+      "summary_original": "Tottenham's wait for a first Premier League goal and win this season continues after Roberto de Zerbi's side were held to a goalless home draw by Everton.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 18:22:46 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cg49xg625n0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 21:32:43 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2971,13 +2973,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナムリーグのゴールを待ち続けるエヴァートンログイン",
-      "summary": "トッテナムの 最初の待ちプレミアリーグロベルト・デ・ツェルビの側面がゴールレス・ホーム・ドローイングに開催された後、このシーズンのゴールと勝利が続くエヴァートン.",
-      "title_original": "Tottenham's wait for league goal continues after Everton draw",
-      "summary_original": "Tottenham's wait for a first Premier League goal and win this season continues after Roberto de Zerbi's side were held to a goalless home draw by Everton.",
+      "title": "私は誰ですか?Guess WSL 星のいいえ 4",
+      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
+      "title_original": "Who am I? Guess WSL star No 4",
+      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cg49xg625n0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 21:32:43 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c804e74y1jeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 07:24:15 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "新しいシステム、同じ問題 - Alonso が 'soft' に満足していないチェルシー",
+      "summary": "サブデュース Stamford Bridge アフターチェルシー’s 2-2 新しく進められた引くハル・シティ AFC.",
+      "title_original": "New system, same problems - Alonso not happy with 'soft' Chelsea",
+      "summary_original": "It was subdued at Stamford Bridge after Chelsea's 2-2 draw with newly promoted Hull City.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 18:22:46 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2996,20 +3012,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アーセナルモニタリング Como's Paz - 日曜日の移籍ゴシップ",
-      "summary": "アーセナルモニタリング Nico Paz, リヴァプールそして、アストン・ヴィラ追跡シェール・エンドゥールそして、サンダーランド上に与えるために洗練されています Geny Catamo, 以上.",
-      "title_original": "Arsenal monitoring Como's Paz - Sunday's gossip",
-      "summary_original": "Arsenal are monitoring Nico Paz, Liverpool and Aston Villa are tracking Cher Ndour and Sunderland are refusing to give up on Geny Catamo, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2e0mzdwmkko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 21:35:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3153,6 +3155,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アーセナルモニタリング Como's Paz - 日曜日の移籍ゴシップ",
+      "summary": "アーセナルモニタリング Nico Paz, リヴァプールそして、アストン・ヴィラ追跡シェール・エンドゥールそして、サンダーランド上に与えるために洗練されています Geny Catamo, 以上.",
+      "title_original": "Arsenal monitoring Como's Paz - Sunday's gossip",
+      "summary_original": "Arsenal are monitoring Nico Paz, Liverpool and Aston Villa are tracking Cher Ndour and Sunderland are refusing to give up on Geny Catamo, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2e0mzdwmkko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 21:35:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ピックフォード参加プレミアリーグ クリーンシート100 クラブ",
       "summary": "Our Ask Me Anything ゴールキーパーが100 を達成したチームを見るプレミアリーグ クリーンシート獲得を問い合わせ",
       "title_original": "Pickford joins Premier League clean sheet 100 club",
@@ -3167,27 +3183,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Rashford の代わりに、Gordon は価値を証明していますバルセロナ",
-      "summary": "Anthony Gordon's7000万ポンド に移動バルセロナいくつか疑問にありました - しかし、イングランドのウインドガーは、すでに無料のスコアリングスペインの巨人のための彼の価値を証明しています。",
-      "title_original": "Signed instead of Rashford, Gordon is proving worth at Barca",
-      "summary_original": "Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 06:14:51 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド. .チェルシー: Women’s Super League– ライブ",
-      "summary": "12pm BST から WSL の更新 Leigh Sports Village ライブスコアボード | Emillia への想いをメールで送信 チームが出てきます。キックオフは、ほんの少しの瞬間です! 今日の試合の始まりチェルシーヘッドコーチ Sonia Bompastor「自信を保ち、頑張り続ける必要があります。メンタルティ、マインドセットについてヴィラゲームをした後に話しました。箱の中に無傷な部分です。そのゲームは、簡単に3〜3〜3 時間半で、私たちが持っているときにその精神性を持っている必要があります",
-      "title_original": "Manchester United v Chelsea: Women’s Super League – live",
+      "title": "マンチェスター・ユナイテッド 0-5 チェルシー: Women’s Super League– ライブ",
+      "summary": "12pm BST から WSL の更新 Leigh Sports Village ライブスコアボード | Emillia への想いをメールで送信 チームが出てきます。キックオフは、ほんの数時間! 今日の試合の始まりチェルシーヘッドコーチ Sonia Bompastor「自信を保ち、頑張り続ける必要があります。メンタルティ、マインドセットについてヴィラゲームをした後に話しました。箱の中に無数の巨大な部分です。そのゲームは、簡単に3〜3〜3 時間半で、私たちが持っているときにその精神性を持っている必要があります",
+      "title_original": "Manchester United 0-5 Chelsea: Women’s Super League – live",
       "summary_original": "⚽️ WSL updates from 12pm BST at Leigh Sports Village ⚽️ Live scoreboard | Send your thoughts to Emillia via email The teams are out. Kick-off is just a few moments away! Ahead of today’s match, Chelsea head coach Sonia Bompastor said: “We need to keep the confidence and keep working hard. I spoke after the Villa game about the mentality, the mindset. It’s a huge part of being ruthless in the box. That game could have been easily 3-0 half-time, and we need to have that mentality when we have the ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-chelsea-womens-super-league-live",
-      "published": "Sun, 13 Sep 2026 13:11:37 GMT",
+      "published": "Sun, 13 Sep 2026 13:30:27 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3195,13 +3197,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズ. .セルティック: Scottish League Cup 四半期ファイナル - ライブ",
-      "summary": "Ibrox の試合は12pm(BST のすべての回)でキックオフレンジャーズ受賞者,セルティック streak を7 分延長して下さい:セルティックここにちょうどタッチスロッピーを見て、レンジャーズ Penrice がミッドフィールドでボールを獲得するようにリズムを設定します。5 分:ジョンストーンの裏側にある衝撃器で、ボールを真っ直ぐにクリアしてケルシーにクリアし、その中は広いホッケー。セルティック早々に1 人ずつ出ます。続きを読む...",
-      "title_original": "Rangers v Celtic: Scottish League Cup quarter-final – live",
+      "title": "レンジャーズ 3-0 セルティック: Scottish League Cup 四半期ファイナル - ライブ",
+      "summary": "Ibrox の試合は12pm(BST のすべての回)でキックオフレンジャーズ受賞者,セルティック streak を7 分延長して下さい:セルティックここにちょうどタッチスロッピーを見て、レンジャーズ Penrice がミッドフィールドでボールを獲得するようにリズムを設定。5 分:ジョンストーンの裏側にある衝撃器で、ボールを真っ直ぐにクリアしてケルシーにクリアし、その中は広いホッケー。セルティック早々に1 回、お帰りください。続きを読む...",
+      "title_original": "Rangers 3-0 Celtic: Scottish League Cup quarter-final – live",
       "summary_original": "Match at Ibrox kicks off at 12pm (all times BST) Miovski hits late Rangers winner, Celtic extend streak 7 min: Celtic are looking just a touch sloppy here, with Rangers setting the rhythm as Penrice wins the ball in midfield. 5 min: A shocker at the back from Johnstone, clearing the ball straight to Kelsy, inside the area, who hooks it wide. Celtic get away with one early. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/13/rangers-v-celtic-scottish-league-cup-quarter-final-live",
-      "published": "Sun, 13 Sep 2026 13:15:54 GMT",
+      "published": "Sun, 13 Sep 2026 13:33:40 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3615,20 +3617,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ハルまずはフルポイントを勝ち取る | ボードにワンポイントをつけて、残りはフォローできます!",
-      "summary": "シャレーハルビート Megan Khang シングルセッション中の3&2Solheim Cup.",
-      "title_original": "Hull wins first full point | 'Now one point's on the board, the rest can follow!'",
-      "summary_original": "Charley Hull beat Megan Khang 3&2 during the singles session at the Solheim Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585350/solheim-cup-charley-hull-wins-her-first-full-point",
-      "published": "Sun, 13 Sep 2026 13:42:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "スペイングランプリ: Luckless Norris ビッグマドリングのツイスト LIVE でリードを失う!",
       "summary": "",
       "title_original": "Spanish GP: Luckless Norris loses lead in big Madring twist LIVE!",
@@ -3636,6 +3624,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13585122/f1-spanish-gp-live-race-updates-results-stream-highlights-from-14th-round-of-2026-formula-1-season-at-madring",
       "published": "Sun, 13 Sep 2026 12:21:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハルまずはフルポイントを勝ち取る | ボードにワンポイントをつけて、残りはフォローできます!",
+      "summary": "シャレーハルビート Megan Khang シングルセッション中の3&2Solheim Cup.",
+      "title_original": "Hull wins first full point | 'Now one point's on the board, the rest can follow!'",
+      "summary_original": "Charley Hull beat Megan Khang 3&2 during the singles session at the Solheim Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585350/solheim-cup-charley-hull-wins-her-first-full-point",
+      "published": "Sun, 13 Sep 2026 13:42:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3699,9 +3701,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL:バーミンガムリードブライトンアフターチェルシースラッシュマンチェスター・ユナイテッドライブ!",
+      "title": "WSL:トッテナムリードリヴァプール、Birmingham の後でまた先立ってチェルシースラッシュマンチェスター・ユナイテッドライブ!",
       "summary": "",
-      "title_original": "WSL: Birmingham lead Brighton after Chelsea thrash Man Utd LIVE!",
+      "title_original": "WSL: Spurs lead Liverpool, Birmingham also ahead after Chelsea thrash Man Utd LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-women-vs-tottenham-hotspur-women/live/575767",
