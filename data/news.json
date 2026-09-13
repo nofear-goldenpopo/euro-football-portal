@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T20:06:34.706037+00:00",
+  "updated_at": "2026-09-13T20:24:34.747026+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2839,7 +2839,8 @@
     "Chloe Kelly": "クロエ・ケリー",
     "DJ Moore": "",
     "Coventry City's": "",
-    "Frustrated Shelton": ""
+    "Frustrated Shelton": "",
+    "Pro Ref": ""
   },
   "items": [
     {
@@ -3305,13 +3306,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL の円形:アーセナル rue ミス チャンス 後に ドロー とクリスタル・パレス",
-      "summary": "エミレーツで開催されたガンナーズは、目標に30 件の試みにもかかわらずブライトン Birmingham で2-2 ドローを獲得するために戻って戦いますアーセナル残された30 は0〜0 の点を落とした後、チャンスを逃しましたクリスタル・パレス獲得を問い合わせエミレーツ・スタジアム. ガンナーズは、ターゲット9 回に当たると、ほぼ80%の所持を持っていたが、その優位性を目標に変えることができなかった。プロモーションクリスタル・パレスゴールキーパーで、弾力性のあるパフォーマンスを Pauline Peyraud-Magnin から試してみる Alessia Russo, クロエ・ケリーそして海",
-      "title_original": "WSL roundup: Arsenal rue missed chances after draw with Crystal Palace",
-      "summary_original": "Gunners held at Emirates despite 30 attempts on goal Brighton fight back to earn 2-2 draw at Birmingham Arsenal were left to rue 30 missed chances after dropping points in a 0-0 draw against Crystal Palace at the Emirates Stadium. The Gunners hit the target nine times and had almost 80% possession but could not convert their superiority into goals. Promoted Palace put on a resilient performance, with goalkeeper Pauline Peyraud-Magnin batting away attempts from Alessia Russo, Chloe Kelly and Mari",
+      "title": "WSL の円形:アーセナル rue misses でクリスタル・パレスドロー,マンチェスター・シティクラッシュ ヴィラ",
+      "summary": "エミレーツで開催されたガンナーズは、ゴールシティの勝利4 で30 の試みにもかかわらず、アストン・ヴィラ完全な開始を拡張するためにアーセナル残された30 は0〜0 の点を落とした後、チャンスを逃しましたクリスタル・パレス獲得を問い合わせエミレーツ・スタジアム. ガンナーズは、ターゲット9 回に当たると、ほぼ80%の所持を持っていたが、その優位性を目標に変えることができなかった。プロモーションクリスタル・パレスゴールキーパーで、弾力性のあるパフォーマンスを Pauline Peyraud-Magnin から試してみる Alessia Russo, クロエ・ケリーと 3 月",
+      "title_original": "WSL roundup: Arsenal rue misses in Palace draw, Manchester City crush Villa",
+      "summary_original": "Gunners held at Emirates despite 30 attempts on goal City win 4-1 at Aston Villa to extend perfect start Arsenal were left to rue 30 missed chances after dropping points in a 0-0 draw against Crystal Palace at the Emirates Stadium. The Gunners hit the target nine times and had almost 80% possession but could not convert their superiority into goals. Promoted Palace put on a resilient performance, with goalkeeper Pauline Peyraud-Magnin batting away attempts from Alessia Russo, Chloe Kelly and Mar",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/13/wsl-roundup-arsenal-crystal-palace-aston-villa-manchester-city",
-      "published": "Sun, 13 Sep 2026 18:57:14 GMT",
+      "published": "Sun, 13 Sep 2026 19:58:52 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3753,16 +3754,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Frustrated Shelton 最後のトップシード Zverev にセットダウン",
+      "title": "US Open LIVE!トップシード Zverev は、シェルトン上の勝利から1 セットを移動",
       "summary": "",
-      "title_original": "US Open LIVE! Frustrated Shelton a set down to top seed Zverev in final",
+      "title_original": "US Open LIVE! Top seed Zverev moves one set away from victory over Shelton",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13585240/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-taking-on-ben-shelton-in-the-mens-final",
       "published": "Sun, 13 Sep 2026 18:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3802,6 +3803,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13585561/amgen-irish-open-day-four-highlights",
       "published": "Sun, 13 Sep 2026 19:16:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Deja の vu のための Pro Ref? Neville slams 'shocker' VAR 決定を与えるハーランドミッション",
+      "summary": "ガリー・ネヴィル slams VAR の決定を与えるアーリング・ハーランドマンチェスター・ダービーの目標",
+      "title_original": "Deja vu for Pro Ref? Neville slams 'shocker' VAR decision to give Haaland goal",
+      "summary_original": "Gary Neville slams VAR's decision to give Erling Haaland's goal in the Manchester derby.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585582/gary-neville-slams-var-decision-to-give-erling-haalands-goal-in-manchester-derby",
+      "published": "Sun, 13 Sep 2026 19:46:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3946,20 +3961,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "最初に学んだことオールドファーム四季の衝突",
-      "summary": "レンジャーズドミネーションセルティック最初にオールドファーム四季のつまみ - その疑いはありません。",
-      "title_original": "What we learned from first Old Firm clash of season",
-      "summary_original": "Rangers dominated Celtic in the first Old Firm clash of the season - of that there is no doubt.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585456/rangers-3-0-celtic-what-we-learned-from-old-firm-league-cup-clash-ahead-of-first-premiership-meeting-of-season",
-      "published": "Sun, 13 Sep 2026 16:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
