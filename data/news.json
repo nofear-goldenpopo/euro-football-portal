@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T18:52:26.293834+00:00",
+  "updated_at": "2026-09-13T19:05:41.539687+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2830,21 +2830,23 @@
     "SNL UK's Ania Magliano": "",
     "Paddy Young": "",
     "Jeff Goldblum": "ジェフ・ゴールドブラム",
-    "Carlos Alcaraz's": ""
+    "Carlos Alcaraz's": "",
+    "Was Haaland's": "",
+    "Taiwo Awoniyi": "タイウォ・アウォニイ"
   },
   "items": [
     {
-      "title": "ダービーで偽造された - しかし、彼はそれに値しましたか?",
-      "summary": "アフターフィル・フォーデン送信される Sunday's Manchester ダービー、パンディットは反応を与えます。獲得を問い合わせ",
-      "title_original": "Foden dismissed in derby - but did he deserve it?",
-      "summary_original": "After Phil Foden is sent off in Sunday's Manchester derby, pundits give their reaction. What do you think?",
+      "title": "獲得を問い合わせハーランド'VAR エラーの勝者?マンチェスター・ユナイテッド'injustice'の fury",
+      "summary": "マンチェスター・シティ驚くべきダービーの勝利を祝うマンチェスター・ユナイテッドしかし、質問が終わるかどうかアーリング・ハーランドの の勝利の目標は、論争とマッチフキャッチで立っていたはずです。",
+      "title_original": "Was Haaland's winner a VAR error? Man Utd fury at 'injustice'",
+      "summary_original": "Manchester City celebrate a remarkable derby win over Manchester United but questions remain over whether Erling Haaland's winning goal should have stood in a match fraught with controversy.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 16:45:05 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "published": "Sun, 13 Sep 2026 19:01:58 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2859,6 +2861,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハーランドスコアの論争の勝者としてマンチェスター・シティフォデンレッドにもかかわらずダービーを獲得",
+      "summary": "アーリング・ハーランドの の目標は助けますマンチェスター・シティライバルで非常に論争のマンチェスターダービーを獲得マンチェスター・ユナイテッド10 人以上で70 分以上遊んでも。",
+      "title_original": "Haaland scores controversial winner as Man City win derby despite Foden red",
+      "summary_original": "Erling Haaland's goal helps Manchester City win a highly controversial Manchester derby at rivals Manchester United despite playing with 10 men for more than 70 minutes.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 19:00:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2890,6 +2906,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ダンクスコアスクリームとしてブライトン thrash 10 人の Coventry",
+      "summary": "コベントリーの悪いスタートプレミアリーグ季節は、家で5-0 を焼いた後に続くブライトン, 持っている後10 人の男性と2 番目の半分のほとんどを果たしているタイウォ・アウォニイ送信するコヴェントリー・ビルディング・ソサエティ・アリーナ.",
+      "title_original": "Dunk scores screamer as Brighton thrash 10-man Coventry",
+      "summary_original": "Coventry's poor start to the Premier League season continues after they're thrashed 5-0 at home to Brighton, having played most of the second half with ten men after having Taiwo Awoniyi sent off at the CBS Arena.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cly7408jg0go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 19:00:21 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・ユナイテッドダービー前の所有権に対する抗議",
       "summary": "マンチェスター・ユナイテッド内側と外側のファンが証明オールド・トラッフォード日曜日のダービーの前に。",
       "title_original": "Man Utd protest against ownership before derby",
@@ -2904,20 +2934,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ストラグリングプレストン・ノースエンド FCsack ヘッキングボトム",
-      "summary": "プレストン・ノースエンド FC サック Paul Heckingbottom7 リーグの試合で6 敗戦後、リリーホワイトズ2 次決勝戦。",
-      "title_original": "Struggling Preston North End sack Heckingbottom",
-      "summary_original": "Preston North End sack Paul Heckingbottom after six defeats in seven league games left the Lilywhites second bottom of the Championship.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0qxpqvpgdeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 14:10:29 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Did O'Neill チーム選択が間違っているオールドファーム敗北?",
       "summary": "メックの後 Premier Sports Cup ライバルの手に出るレンジャーズ, 行なったセルティックログインマーティン・オニールチーム選択が間違っていますか?",
       "title_original": "Did O'Neill get team selection wrong in Old Firm defeat?",
@@ -2925,6 +2941,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c7v48v2729yo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 17:16:19 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ストラグリングプレストン・ノースエンド FCsack ヘッキングボトム",
+      "summary": "プレストン・ノースエンド FC サック Paul Heckingbottom7 リーグの試合で6 敗戦後、リリーホワイトズ2 次決勝戦。",
+      "title_original": "Struggling Preston North End sack Heckingbottom",
+      "summary_original": "Preston North End sack Paul Heckingbottom after six defeats in seven league games left the Lilywhites second bottom of the Championship.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0qxpqvpgdeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 14:10:29 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2971,6 +3001,34 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "受賞論への決定による Carrick 'baffled'マンチェスター・シティミッション",
+      "summary": "マンチェスター・ユナイテッドマネージャーマイケル・キャリック賞の決定のためのマッチオフィシャルに不満があったアーリング・ハーランドマンチェスター・ダービーの論争の目標。",
+      "title_original": "Carrick 'baffled' by decision to award controversial Man City goal",
+      "summary_original": "Manchester United manager Michael Carrick was unhappy with the match officials for the decision to award Erling Haaland's controversial goal in the Manchester derby.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ceq81nz02ddo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 18:13:04 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Fernandes と Foden が送信されました - Maresca",
+      "summary": "Enzo Maresca 共に信じるフィル・フォーデンそして、ブルーノ・フェルナンデス送信されるべきマンチェスター・シティダービーの勝利に対するマンチェスター・ユナイテッド.",
+      "title_original": "Fernandes and Foden should have been sent off - Maresca",
+      "summary_original": "Enzo Maresca believes both Phil Foden and Bruno Fernandes should have been sent off in Manchester City's derby victory against Manchester United.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj061413lmqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 18:26:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3086,34 +3144,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL のオープン週末からのすべての目標",
-      "summary": "開幕の週末からすべての目標を見る Women's Super League2026-27 シーズン",
-      "title_original": "All the goals from the opening weekend of the WSL",
-      "summary_original": "Watch every goal from the opening weekend of the Women's Super League 2026-27 season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cn4k1lwl2zxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 15:21:29 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "新しいカメラの角度はウィリアムズの危険な目標ヒットアームを示しています",
-      "summary": "新しいビデオ映像は、ボールが降りてくることを示します Neco Williams' 腕前に彼の危険な目標のためにノッティンガム・フォレスト0-0 はに対して引くトッテナム.",
-      "title_original": "New camera angle shows Williams' disallowed goal hit arm",
-      "summary_original": "New video footage shows the ball coming off Neco Williams' arm before his disallowed goal for Nottingham Forest in the 0-0 draw against Tottenham.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckg8jjq5d05o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 11:31:43 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日のテスト Who Am 私は?、ファイブとブレインティーザーの5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -3222,34 +3252,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アーセナルモニタリング Como's Paz - 日曜日の移籍ゴシップ",
-      "summary": "アーセナルモニタリング Nico Paz, リヴァプールそして、アストン・ヴィラ追跡シェール・エンドゥールそして、サンダーランド上に与えるために洗練されています Geny Catamo, 以上.",
-      "title_original": "Arsenal monitoring Como's Paz - Sunday's gossip",
-      "summary_original": "Arsenal are monitoring Nico Paz, Liverpool and Aston Villa are tracking Cher Ndour and Sunderland are refusing to give up on Geny Catamo, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2e0mzdwmkko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 21:35:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウェストハムマーティンのオミナスと救済 -Sam Parkin's EFL テイクアウト",
-      "summary": "BBC Final Score ログイン Sam ParkinEFL の週末の話ポイントを見てください。ウェストハムそして Swansea。",
-      "title_original": "West Ham ominous and relief for Martin - Sam Parkin's EFL takeaways",
-      "summary_original": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including West Ham and Swansea.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c046gg3xnx3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 19:57:08 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3674,6 +3676,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Nordqvist が米国で「dig」に Solheim コースのセットアップでヒット",
+      "summary": "Team Europe キャプテン Anna Nordqvist 提案をシャットダウンする迅速だった Bernardus Golf コースのセットアップは、ホームチームに合わせて調整されました Solheim Cup.",
+      "title_original": "Nordqvist hits back at USA ‘dig’ over Solheim course set-up",
+      "summary_original": "Team Europe captain Anna Nordqvist was quick to shut down suggestions the Bernardus Golf course set-up had been tailored to suit the home team at the Solheim Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13585550/solheim-cup-2026-europe-captain-anna-nordqvist-dismisses-usa-captain-angela-stanfords-dig-at-course-set-up",
+      "published": "Sun, 13 Sep 2026 19:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ノリスは「不公平」マドリードの敗北後の規則的な変更を求める",
       "summary": "Lando Norris フォーミュラ1 の変更を呼び出しましたセーフティカー勝利を失った後のルール Kimi Antonelli 獲得を問い合わせスペイングランプリ.",
       "title_original": "Norris calls for rule changes after 'unfair' Madrid defeat",
@@ -3702,9 +3718,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Zverev は最終の速い開始 vs 家庭有望シェルトンを作ります",
+      "title": "US Open LIVE! Zverev は、最終段階のホーム お気に入り シェルトンと完璧なスタートをします。",
       "summary": "",
-      "title_original": "US Open LIVE! Zverev makes fast start vs home-favourite Shelton in final",
+      "title_original": "US Open LIVE! Zverev makes perfect start vs home-favourite Shelton in final",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13585240/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-taking-on-ben-shelton-in-the-mens-final",
@@ -3842,9 +3858,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Dominant Lowrystorms へ 記録 11 ストローク triumph 時 Irish Open",
-      "summary": "シェーン・ローリー記録11 ショットの勝利に追いつくアイリッシュ・オープン日曜日に7 アンダー63 を撮影するホームクラウドは、パリで23 を驚かせます。",
-      "title_original": "Dominant Lowry storms to record 11-stroke triumph at Irish Open",
+      "title": "トランプは低いと提示します Irish Open レコード11 ストローク勝利後",
+      "summary": "シェーン・ローリーレコード11 ショットの勝利に追いつくアイリッシュ・オープン日曜日に7 アンダー63 を撮影するホームクラウドは、パリで23 を驚かせます。",
+      "title_original": "Trump presents Lowry with Irish Open after record 11-stroke win",
       "summary_original": "Shane Lowry stormed to a record 11-shot victory at the Amgen Irish Open, the home crowd favourite shooting a seven-under 63 on Sunday to finish a staggering 23 under par.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13585479/amgen-irish-open-shane-lowry-secures-record-11-stroke-victory-at-trump-international-links-in-doonbeg",
@@ -3933,20 +3949,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13585287/spanish-gp-kimi-antonelli-wins-first-f1-race-at-madring-to-increase-title-lead-after-lando-norris-misfortune",
       "published": "Sun, 13 Sep 2026 15:45:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ラムスター Garrett 手術を受け、少なくとも 4 週間欠場",
-      "summary": "ロサンゼルス・ラムズスタースターマイルズ・ギャレット手術を要する膝の怪我で負傷後4 週間後に少なくとも次の4 週間後に横に並べられます。",
-      "title_original": "Rams star Garrett to undergo surgery and miss at least four weeks",
-      "summary_original": "Los Angeles Rams star Myles Garrett will be sidelined for at least the next four weeks after being placed on injured reserve with a knee injury that requires surgery.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nfl/news/12040/13585490/myles-garrett-los-angeles-ram-pass-rusher-to-undergo-surgery-and-miss-at-least-four-weeks-after-being-placed-on-injured-reserve",
-      "published": "Sun, 13 Sep 2026 17:04:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
