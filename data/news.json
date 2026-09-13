@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T20:37:44.632553+00:00",
+  "updated_at": "2026-09-13T20:49:34.462872+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2842,7 +2842,11 @@
     "Frustrated Shelton": "",
     "Pro Ref": "",
     "Bournemouth's Brazil": "",
-    "Joshua Palmer": ""
+    "Joshua Palmer": "",
+    "Press Conferences": "",
+    "Enzo Fernández’s": "",
+    "Phil Foden’s": "",
+    "Enzo Fernández. The": ""
   },
   "items": [
     {
@@ -2930,20 +2934,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブンデスリーガ",
-      "summary": "マッチデイ3 のハイライトを見るブンデスリーガ.",
-      "title_original": "Bundesliga",
-      "summary_original": "Watch highlights from matchday three in the Bundesliga.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/iplayer/episode/l0058t4y?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 19:14:17 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ダンクスコアスクリームとしてブライトン thrash 10 人の Coventry",
       "summary": "コベントリーの悪いスタートプレミアリーグ季節は、家で5-0 を焼いた後に続くブライトン, 持っている後10 人の男性と2 番目の半分のほとんどを果たしているタイウォ・アウォニイ送信するコヴェントリー・ビルディング・ソサエティ・アリーナ.",
       "title_original": "Dunk scores screamer as Brighton thrash 10-man Coventry",
@@ -2954,6 +2944,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Ronaldo は Jota チャントの上に生涯禁止を要求します",
+      "summary": "ソーシャルメディアの映像が表示される Al-Hilal's Ruben NevesAl-Taawoun ファンに反応する Diogo Jota's 自分の中に彼の名前 Saudi Pro League マッチ。",
+      "title_original": "Ronaldo demands lifetime bans over Jota chants",
+      "summary_original": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 13:46:21 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -2969,6 +2973,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "バイエルン監視 Wirtz - 月曜日のゴシップ",
+      "summary": "フロリアン・ヴィルツ監視されているバイエルン・ミュンヘン, Bournemouth's Brazil レイアンは、リヴァプール対象の次の夏とボルシア・ドルトムントルールアウト移動ジェイドン・サンチョ.",
+      "title_original": "Bayern monitoring Wirtz - Monday's gossip",
+      "summary_original": "Florian Wirtz is being monitored by Bayern Munich, Bournemouth's Brazil forward Rayan could be a Liverpool target next summer and Borussia Dortmund rule out move for Jadon Sancho.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4v345pdq0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 20:23:02 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2993,20 +3011,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0qxpqvpgdeo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 14:10:29 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Ronaldo は Jota チャントの上に生涯禁止を要求します",
-      "summary": "ソーシャルメディアの映像が表示される Al-Hilal's Ruben NevesAl-Taawoun ファンに反応する Diogo Jota's 自分の中に彼の名前 Saudi Pro League マッチ。",
-      "title_original": "Ronaldo demands lifetime bans over Jota chants",
-      "summary_original": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 13:46:21 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3154,20 +3158,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バイエルン監視 Wirtz - 月曜日のゴシップ",
-      "summary": "フロリアン・ヴィルツ監視されているバイエルン・ミュンヘン, Bournemouth's Brazil レイアンは、リヴァプール対象の次の夏とボルシア・ドルトムントルールアウト移動ジェイドン・サンチョ.",
-      "title_original": "Bayern monitoring Wirtz - Monday's gossip",
-      "summary_original": "Florian Wirtz is being monitored by Bayern Munich, Bournemouth's Brazil forward Rayan could be a Liverpool target next summer and Borussia Dortmund rule out move for Jadon Sancho.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr4v345pdq0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 20:23:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "レンジャーズ v アバディーン&エディンバラ ダービー で League Cup セミ",
       "summary": "レンジャーズセミファイナルでアバディーンに対して描画されている Premier Sports Cup, ミディアンとヒベリニアンの心が他のネクタイで向かいますハムデン・パーク.",
       "title_original": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
@@ -3266,6 +3256,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ピックフォード参加プレミアリーグ クリーンシート100 クラブ",
+      "summary": "Our Ask Me Anything ゴールキーパーが100 を達成したチームを見るプレミアリーグ クリーンシート獲得を問い合わせ",
+      "title_original": "Pickford joins Premier League clean sheet 100 club",
+      "summary_original": "Our Ask Me Anything team look at which goalkeepers have achieved 100 Premier League clean sheets.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg5n27w3rpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 18:36:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・シティ Foden から回復レッドカードとしてハーランドユナイテッドでダービーを獲得",
       "summary": "“Enzo, Enzo, Enzo, in your head” は、あなたの頭の中でどのようにして、マンチェスター・シティファンの法的エンソ・フェルナンデス, 思い出に残る勝利で星の役割の後、誰がインスタントカルトヒーローステータスを持っています. 第199 回ダービーが優勝アーリング・ハーランド’ ninth はフィクスチャーでストライキですが、訪問者のトーテムは彼らの新しいでした 17. 彼は最初はオフサイドのために除外され、フェルナンデスが気づいたときにビデオアシスタントレフリーが上回ったゴールでキーの迷惑でした Lisandro Martínez いつか Josko Gvardiol’s ボールが来た",
       "title_original": "Manchester City recover from Foden red card as Haaland wins derby at United",
@@ -3273,6 +3277,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/13/manchester-united-manchester-city-premier-league-match-report",
       "published": "Sun, 13 Sep 2026 17:32:15 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アルテタログイン2 ゴール自分の作っているゲームの犠牲者を再生するのにぴったりの嵐 |Barney Ronay",
+      "summary": "参照は、マイクロ分析の文化を借りることができない仕事ですアーセナルマネージャーは、デザインだけで、紳士が意図せずに決して失礼にならないよう支援しました。誰が最初にこのことを言ったかは、誰も本当に知っている。しかし、それは簡単にからラインになることができます Elite Football Manager’s Guide 獲得を問い合わせ Press Conferences (プレミアリーグリリース これらの空間の事故で何も起こらないため。広告主で覆われた板の前で話されるすべての単語はメーターで計り、計画されます。マネージャーは決して怒らない、または共同です",
+      "title_original": "Arteta embraces perfect storm to play the victim of game of his own making | Barney Ronay",
+      "summary_original": "Refereeing is now an impossible job owing to the culture of micro-analysis the Arsenal manager has helped to create A gentleman is never rude unintentionally, only by design. Nobody really knows who said this first. But it could easily be a line from the Elite Football Manager’s Guide to Press Conferences (Premier League edition). Because nothing happens by accident in these spaces. Every word spoken in front of the board covered in adverts is metered and planned. A manager is never angry, or co",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/mikel-arteta-arsenal-sunderland-premier-league",
+      "published": "Sun, 13 Sep 2026 20:35:23 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3322,20 +3340,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "クリスティアーノ・ロナウド生涯禁止の呼び出し Saudi Pro League アフターDiogo Jota チャント",
-      "summary": "Al-Hilal’s Rúben Neves チャントの被写体 Al-Taawoun Neves 葬儀でホタとパラーの親友クリスティアーノ・ロナウド彼の元チームメイトを指すために出演したファンは言った Diogo Jota 獲得を問い合わせ Rúben Neves サウジアラビアの期間中 Pro League サッカースタジアムからの生活のために、試合を禁止する必要があります。Al-Taawoun と Neves の側面、Bullaydah の Al-Hilal の間の備品の間に土曜日にチャントが発生した、サウジアラビア. 続きを読む...",
-      "title_original": "Cristiano Ronaldo calls for lifetime bans in Saudi Pro League after Diogo Jota chants",
-      "summary_original": "Al-Hilal’s Rúben Neves subjected to chants at Al-Taawoun Neves was close friend of Jota and pallbearer at funeral Cristiano Ronaldo said that fans who appeared to ⁠make chants referencing his former teammate Diogo Jota at Rúben Neves during a Saudi ⁠Pro League ⁠match ​should be banned for life from football stadiums. The chants occurred on Saturday during ⁠a fixture between Al-Taawoun and Neves’s side, Al-Hilal, in Buraydah, Saudi Arabia. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/cristiano-ronaldo-diogo-jota-ruben-neves-chants-saudi-pro-league",
-      "published": "Sun, 13 Sep 2026 14:52:54 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "レンジャーズレイアウトダウンオールドファーム送信するマーカーセルティックパッキングから Scottish League Cup",
       "summary": "Derek McInnesIbrox での生活に多くの - 精巧なスタートを耐えてきましたが、レンジャーズ管理者は、彼の側が支配人としてここに跳ねる古い地面を得ましたセルティック全青の群衆の前で最初の決定オールドファーム季節の出会い。タンノイからテクノを弾くことのバックドロップを繰り返し、レンジャーズファンは、サムピングで3 つの思い出に残る目標を祝いました League Cup 勝つ。ツイート2 ゴールキャプテンのために、Dan Neil, ブックエンド Kevin Kelsy’s 置くべき秒半分の終わり Martin O’Neill’s 相対的な容易さの側面。",
       "title_original": "Rangers lay down Old Firm marker to send Celtic packing from Scottish League Cup",
@@ -3343,6 +3347,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/13/rangers-celtic-scottish-league-cup-match-report",
       "published": "Sun, 13 Sep 2026 13:38:16 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "クリスティアーノ・ロナウド生涯禁止の呼び出し Saudi Pro League アフターDiogo Jota チャント",
+      "summary": "Al-Hilal’s Rúben Neves チャントの被写体 Al-Taawoun Neves 葬儀でホタとパラーの親友クリスティアーノ・ロナウド彼の元チームメイトを指すために出演したファンは言った Diogo Jota 獲得を問い合わせ Rúben Neves サウジアラビアの期間中 Pro League サッカースタジアムからの生活のために、試合を禁止する必要があります。Al-Taawoun と Neves の側面、Bullaydah の Al-Hilal の間の備品の間に土曜日にチャントが発生した、サウジアラビア. 続きを読む...",
+      "title_original": "Cristiano Ronaldo calls for lifetime bans in Saudi Pro League after Diogo Jota chants",
+      "summary_original": "Al-Hilal’s Rúben Neves subjected to chants at Al-Taawoun Neves was close friend of Jota and pallbearer at funeral Cristiano Ronaldo said that fans who appeared to ⁠make chants referencing his former teammate Diogo Jota at Rúben Neves during a Saudi ⁠Pro League ⁠match ​should be banned for life from football stadiums. The chants occurred on Saturday during ⁠a fixture between Al-Taawoun and Neves’s side, Al-Hilal, in Buraydah, Saudi Arabia. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/cristiano-ronaldo-diogo-jota-ruben-neves-chants-saudi-pro-league",
+      "published": "Sun, 13 Sep 2026 14:52:54 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3360,20 +3378,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ミケル・アルテタ与えられたペナルティを言うサンダーランド「このレベルに受け入れられない」",
-      "summary": "アーセナルマネージャー angry:「これは決して罰せません」 「相手から柔道ロールです。エズリは何もしないミケル・アルテタ’s の喜びアーセナル’s の最新の勝利は、参照と彼の fury によって和らげられました John Brooks チャンピオンとして勝利の勝利 2-0 でサンダーランド土曜日の夜。Before Bruno Guimarães フィードバックアーセナル堅いマッチの鉛 Régis Le Bris’s チームを失うために間違いなく不幸だった、David Raya 華麗な保存を否定する Enzo Le Fée ペンダントスポットから。アルテタ, しかし, 信じられなかった",
-      "title_original": "Mikel Arteta says penalty given to Sunderland ‘unacceptable at this level’",
-      "summary_original": "Arsenal manager angry: ‘This can never be a penalty’ ‘It’s a judo roll from the opponent. Ezri does nothing’ Mikel Arteta’s delight at Arsenal’s latest win was tempered by his fury with the referee John Brooks as the champions triumphed 2-0 at Sunderland on Saturday night. Before Bruno Guimarães gave Arsenal the lead in a tight match that Régis Le Bris’s team were arguably unlucky to lose, David Raya made a brilliant save to deny Enzo Le Fée from the penalty spot. Arteta, however, did not believ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/mikel-arteta-penalty-decision-arsenal-sunderland-unacceptable",
-      "published": "Sat, 12 Sep 2026 22:47:10 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3448,6 +3452,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "エンソ・フェルナンデスの fortitude は、都市再会を明らかにする権利だったマレスカを示しています |Will Unwin",
+      "summary": "1億2500万ポンド の価格タグでいくつかの scoffed, しかし、アルゼンチンは、後に2 つのミッドフィルダーの仕事をしたフィル・フォーデン獲得を問い合わせレッドカード Enzo Maresca 請求書を支払いませんマンチェスター・シティしかし、彼は彼と一緒に再結合されるために1億2500万ポンド を費やした人たちが静的であるエンソ・フェルナンデス. マネージャーとミッドフィルダーが一緒にいたチェルシー、比較的短い時間に強い結束を形成し、イタリア人は彼のマスタープラン内で最終的な作品を提供できると知っていた。The Argentinian マレスカの下で動作するように均等に熱心だった",
+      "title_original": "Enzo Fernández’s fortitude shows Maresca was right to crave City reunion | Will Unwin",
+      "summary_original": "Some scoffed at £125m price tag, but the Argentinian did the work of two midfielders after Phil Foden’s red card Enzo Maresca does not pay the bills at Manchester City but he is ecstatic that those who do spent £125m for him to be reunited with Enzo Fernández. The manager and the midfielder were together at Chelsea, forming a strong bond over a relatively short time, one the Italian knew could provide the final piece within his master plan. The Argentinian was equally eager to work under Maresca",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/enzo-fernandez-enzo-maresca-manchester-city-reunion-united-derby",
+      "published": "Sun, 13 Sep 2026 20:21:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Farke’s blueprint for revitalised リーズ continues upward trajectory",
       "summary": "リーズ manager em2 ゴール s bravery and is encouraging ambition after leading a remarkable turnaround in fortunes Eleven years have passed since ダニエル・ファルケ mounted a magnificent palomino horse and rode round the perimeter of the pitch at Lippstadt, waving farewell to a capacity crowd. It seemed a fun way for the lower-tier German club’s centre-forward turned manager and sporting director to say goodbye. Yet few in the stands knew Farke was scared of horses and hauled himself into the saddle only ou",
       "title_original": "Farke’s blueprint for revitalised Leeds continues upward trajectory",
@@ -3472,20 +3490,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Fifa の権威主義者が Infantino の下に回るのを止めることができるのは何ですか? 外部からの変更 |Jules Boykoff",
-      "summary": "The World Cup フィファは、政府や NGO による独立的な監督を必要とし、人々のゲームの保存に専念していることを明らかにした2026World Cup シンチレーションサッカーの渦巻くことで、diaspora の活力、アンダードッグの豊かさ、スポーツの力について多くの必要な会話を促しました。オンデマンドコンテンツによって支配されるエンターテインメントシステムで浮遊する神秘的な文化的な軸線に沿って世界中は、トーナメントは、おそらく瞬間を提供し、",
-      "title_original": "What can halt Fifa’s authoritarian turn under Infantino? Change from the outside | Jules Boykoff",
-      "summary_original": "The World Cup and its aftermath made clear that Fifa needs independent oversight by governments and NGOs dedicated to preserving the people’s game The 2026 World Cup was a whirling swirl of scintillating soccer that prompted much-needed conversations about the vitality of diaspora, the fortitude of the underdog, the power of sport. In a world fractured along myriad cultural axes floating in an entertainment system dominated by on-demand content, the tournament provided a moment, perhaps unlike a",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/fifa-gianni-infantino-donald-trump-change",
-      "published": "Sat, 12 Sep 2026 09:00:30 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3686,10 +3690,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "受賞の公式の認めたエラーマンチェスター・シティ受賞者マンチェスター・ユナイテッド",
-      "summary": "Pro Ref 受賞に誤りが認められているマンチェスター・シティ受賞者マンチェスター・ユナイテッド彼らの1-0 勝利でオールド・トラッフォード.",
-      "title_original": "Officials admit error in awarding Man City's winner at Man Utd",
-      "summary_original": "Pro Ref has admitted an error in awarding Manchester City's winner at Manchester United in their 1-0 victory at Old Trafford.",
+      "title": "Pro Ref アワードでエラーを認めるマンチェスター・シティ受賞者マンチェスター・ユナイテッド",
+      "summary": "参照ボディ Pro Ref 受賞に誤りが認められているマンチェスター・シティ受賞者マンチェスター・ユナイテッド彼らの1-0 勝利でオールド・トラッフォード.",
+      "title_original": "Pro Ref admits error in awarding Man City's winner at Man Utd",
+      "summary_original": "Refereeing body Pro Ref has admitted an error in awarding Manchester City's winner at Manchester United in their 1-0 victory at Old Trafford.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13585607/erling-haalands-man-city-goal-decision-vs-man-utd-an-error-of-judgement-says-pro-ref",
       "published": "Sun, 13 Sep 2026 21:00:00 BST",
@@ -3784,16 +3788,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE!トップシード Zverev は、シェルトン上の勝利から1 セットを移動",
+      "title": "US Open LIVE! Zverev クローズ オン 勝ち 対 家庭 希望 Shelton",
       "summary": "",
-      "title_original": "US Open LIVE! Top seed Zverev moves one set away from victory over Shelton",
+      "title_original": "US Open LIVE! Zverev closing in on victory against home hope Shelton",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13585240/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-taking-on-ben-shelton-in-the-mens-final",
       "published": "Sun, 13 Sep 2026 18:00:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
