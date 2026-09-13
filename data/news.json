@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T21:24:00.496018+00:00",
+  "updated_at": "2026-09-13T21:36:27.237619+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2850,7 +2850,8 @@
     "Awarding Man City's": "",
     "Josiah Trotter": "",
     "Joe Burrow's": "",
-    "Tampa Bay": "タンパ湾"
+    "Tampa Bay": "タンパ湾",
+    "NFL Week One": ""
   },
   "items": [
     {
@@ -2861,6 +2862,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 20:29:58 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "観戦:日の試合",
+      "summary": "2 つのハイライトプレミアリーグマッチ、マンチェスターダービーを含むオールド・トラッフォード.",
+      "title_original": "Watch: Match of the Day",
+      "summary_original": "Highlights of two Premier League matches, including the Manchester derby at Old Trafford.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 22:21:25 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2952,20 +2967,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Ronaldo は Jota チャントの上に生涯禁止を要求します",
-      "summary": "ソーシャルメディアの映像が表示される Al-Hilal's Ruben NevesAl-Taawoun ファンに反応する Diogo Jota's 自分の中に彼の名前 Saudi Pro League マッチ。",
-      "title_original": "Ronaldo demands lifetime bans over Jota chants",
-      "summary_original": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 13:46:21 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Did O'Neill チーム選択が間違っているオールドファーム敗北?",
       "summary": "メックの後 Premier Sports Cup ライバルの手に出るレンジャーズ, 行なったセルティックログインマーティン・オニールチーム選択が間違っていますか?",
       "title_original": "Did O'Neill get team selection wrong in Old Firm defeat?",
@@ -2973,6 +2974,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c7v48v2729yo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 17:16:19 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Ronaldo は Jota チャントの上に生涯禁止を要求します",
+      "summary": "ソーシャルメディアの映像が表示される Al-Hilal's Ruben NevesAl-Taawoun ファンに反応する Diogo Jota's 自分の中に彼の名前 Saudi Pro League マッチ。",
+      "title_original": "Ronaldo demands lifetime bans over Jota chants",
+      "summary_original": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 13:46:21 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3257,20 +3272,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「死ぬつもりだったと思った」 -バーンリー敗血症のボスは怖い",
-      "summary": "バーンリーマネージャーJackie Bachteler でダグアウトになります Turf Moor 日曜日に初めて - しかし、9 ヶ月前、彼女は彼女の人生のために戦うことができました。",
-      "title_original": "'I thought I was going to die' - Burnley boss on sepsis scare",
-      "summary_original": "Burnley manager Jackie Bachteler will be in the dugout at Turf Moor on Sunday for the first time - but nine months ago she was fighting for her life.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cnvlrpn9dpgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 06:14:58 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3820,6 +3821,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "NFL Week One 結果: クマとパンサーセットのスコアリングレコード",
+      "summary": "",
+      "title_original": "NFL Week One results: Bears and Panthers set scoring record",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/live-blog/12040/13585427/nfl-2026-results-and-highlights-chicago-bears-cincinnati-bengals-and-baltimore-ravens-win-on-wild-sunday",
+      "published": "Sun, 13 Sep 2026 15:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「Antonelli の停止はありません」 - ハミルトンは2026 F1 のタイトル入札は終わっています",
       "summary": "Lewis Hamilton 今年は「止まらない」と述べたように、記録八式1 のタイトルを主張する希望を与えるために登場 Kimi Antonelli チャンピオンシップリーダーの最新勝利をフォロースペイングランプリ.",
       "title_original": "'There's no stopping Antonelli' - Hamilton says 2026 F1 title bid is over",
@@ -3953,20 +3968,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13585479/amgen-irish-open-shane-lowry-secures-record-11-stroke-victory-at-trump-international-links-in-doonbeg",
       "published": "Sun, 13 Sep 2026 16:38:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Nordqvist savours ソルハイムの栄光 | 'No-brainer からシャルレーを最初に送信!'",
-      "summary": "Anna Nordqvist 中に「すべてのシングルプレーヤーで」感銘を受けたと言う Team Europe’s Solheim Cup 勝負と主張し、それはチャーリーを送るために「ノーブレイナー」だったハル日曜日のシングルで最初に出ます。",
-      "title_original": "Nordqvist savours Solheim glory | 'No-brainer to send out Charley first!'",
-      "summary_original": "Anna Nordqvist says she was impressed \"with every single player\" during Team Europe’s Solheim Cup victory and insists it was a 'no-brainer' to send Charley Hull out first in the Sunday singles.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13585334/solheim-cup-2026-anna-nordqvist-savours-team-europe-win-and-explains-no-brainer-call-to-put-charley-hull-out-first",
-      "published": "Sun, 13 Sep 2026 19:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
