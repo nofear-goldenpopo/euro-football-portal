@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T16:24:53.549617+00:00",
+  "updated_at": "2026-09-13T16:37:44.988919+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2798,9 +2798,38 @@
     "Manchester United. Sonia Bompastor": "",
     "Myles Garrett": "マイルズ・ギャレット",
     "Foden SENT OFF": "",
-    "Phil Foden SENT OFF": ""
+    "Phil Foden SENT OFF": "",
+    "Olid's Man Utd": ""
   },
   "items": [
+    {
+      "title": "ダービーで偽造された - しかし、彼はそれに値しましたか?",
+      "summary": "アフターフィル・フォーデン送信される Sunday's Manchester ダービー、パンディットは反応を与えます。獲得を問い合わせ",
+      "title_original": "Foden dismissed in derby - but did he deserve it?",
+      "summary_original": "After Phil Foden is sent off in Sunday's Manchester derby, pundits give their reaction. What do you think?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 16:31:44 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "2 つのゲーム、2 つの敗北 - Olid's ですマンチェスター・ユナイテッドトラブル?",
+      "summary": "新しいマネージャーの下でシーズンに2 つのゲーム Eva Olid, マンチェスター・ユナイテッド最後の季節から側面の影を見てください。",
+      "title_original": "Two games, two defeats - are Olid's Man Utd in trouble?",
+      "summary_original": "Two games into the season under new manager Eva Olid, Manchester United look a shadow of the side from last season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgykg48nxdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 16:19:25 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "マンチェスター・ユナイテッドダービー前の所有権に対する抗議",
       "summary": "マンチェスター・ユナイテッド内側と外側のファンが証明オールド・トラッフォード日曜日のダービーの前に。",
@@ -2823,20 +2852,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0qxpqvpgdeo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 14:10:29 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "バレンシアサック・コルバーンとチーフ・エグゼクティブ",
-      "summary": "バレンシアサックヘッドコーチ Carlos Corberan サッカーの最高経営責任者 Ron Gourlay 四季折々の無縁のスタート。",
-      "title_original": "Valencia sack Corberan and chief executive",
-      "summary_original": "Valencia sack head coach Carlos Corberan and their football chief executive Ron Gourlay after a winless start to the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly43w61lnzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 15:21:18 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2872,27 +2887,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Ronaldo は Jota チャントの上に生涯禁止を要求します",
-      "summary": "ソーシャルメディアの映像が表示される Al-Hilal's Ruben NevesAl-Taawoun ファンに反応する Diogo Jota's 自分の中に彼の名前 Saudi Pro League マッチ。",
-      "title_original": "Ronaldo demands lifetime bans over Jota chants",
-      "summary_original": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
+      "title": "バレンシアサック・コルバーンとチーフ・エグゼクティブ",
+      "summary": "バレンシアサックヘッドコーチ Carlos Corberan サッカーの最高経営責任者 Ron Gourlay 四季折々の無縁のスタート。",
+      "title_original": "Valencia sack Corberan and chief executive",
+      "summary_original": "Valencia sack head coach Carlos Corberan and their football chief executive Ron Gourlay after a winless start to the season.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 13:46:21 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "歯なしトッテナム新しい時代が偽の夜に変わったように再び空白",
-      "summary": "歯なしトッテナム' 再び空白を描き、勇敢な新しい時代が偽の夜に変わるのを見る危険にさらされています, チーフサッカーライターは言うフィル・マクナルティ.",
-      "title_original": "Toothless Spurs blank again as new era turns into a false dawn",
-      "summary_original": "Toothless Spurs' draw a blank again and are now in danger of seeing a brave new era turn into a false dawn, says chief football writer Phil McNulty.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgydkv0yxdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 20:38:33 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly43w61lnzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 15:21:18 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3180,6 +3181,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "歯なしトッテナム新しい時代が偽の夜に変わったように再び空白",
+      "summary": "歯なしトッテナム' 再び空白を描き、勇敢な新しい時代が偽の夜に変わるのを見る危険にさらされています, チーフサッカーライターは言うフィル・マクナルティ.",
+      "title_original": "Toothless Spurs blank again as new era turns into a false dawn",
+      "summary_original": "Toothless Spurs' draw a blank again and are now in danger of seeing a brave new era turn into a false dawn, says chief football writer Phil McNulty.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgydkv0yxdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 20:38:33 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Ronaldo は Jota チャントの上に生涯禁止を要求します",
+      "summary": "ソーシャルメディアの映像が表示される Al-Hilal's Ruben NevesAl-Taawoun ファンに反応する Diogo Jota's 自分の中に彼の名前 Saudi Pro League マッチ。",
+      "title_original": "Ronaldo demands lifetime bans over Jota chants",
+      "summary_original": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 13:46:21 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "More dropped points at Anfield - is it too early for リヴァプール to worry?",
       "summary": "リヴァプール have failed to win either of their first two プレミアリーグ games at Anfield. But is it too early to worry?",
       "title_original": "More dropped points at Anfield - is it too early for Liverpool to worry?",
@@ -3191,34 +3220,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アーセナルモニタリング Como's Paz - 日曜日の移籍ゴシップ",
-      "summary": "アーセナルモニタリング Nico Paz, リヴァプールそして、アストン・ヴィラ追跡シェール・エンドゥールそして、サンダーランド上に与えるために洗練されています Geny Catamo, 以上.",
-      "title_original": "Arsenal monitoring Como's Paz - Sunday's gossip",
-      "summary_original": "Arsenal are monitoring Nico Paz, Liverpool and Aston Villa are tracking Cher Ndour and Sunderland are refusing to give up on Geny Catamo, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2e0mzdwmkko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 21:35:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "別のヴィラロス後に回答を求めて左 Emery",
-      "summary": "アストン・ヴィラ開口部の3 つを失ったプレミアリーグボスを離れるゲーム Unai Emery 回答に苦労します。",
-      "title_original": "Emery left searching for answers after another Villa loss",
-      "summary_original": "Aston Villa have lost three of their opening four Premier League games to leave boss Unai Emery struggling for answers.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clye91zj7l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 18:06:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3656,20 +3657,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ラムスター Garrett 手術を受け、少なくとも 4 週間欠場",
-      "summary": "ロサンゼルス・ラムズスタースターマイルズ・ギャレット手術を要する膝の怪我で負傷後4 週間後に少なくとも次の4 週間後に横に並べられます。",
-      "title_original": "Rams star Garrett to undergo surgery and miss at least four weeks",
-      "summary_original": "Los Angeles Rams star Myles Garrett will be sidelined for at least the next four weeks after being placed on injured reserve with a knee injury that requires surgery.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nfl/news/12040/13585490/myles-garrett-los-angeles-ram-pass-rusher-to-undergo-surgery-and-miss-at-least-four-weeks-after-being-placed-on-injured-reserve",
-      "published": "Sun, 13 Sep 2026 17:04:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Antonelli 勝つスペイングランプリノーリスが敗退した後",
       "summary": "Kimi Antonelli ピットストップの不幸から恩恵を得て、2026 世界選手権を勝ち取るために彼の探求で別のステップを取った Lando Norris 最初に勝つためにスペイングランプリマドリングで。",
       "title_original": "Antonelli wins Spanish GP after luckless Norris loses out",
@@ -3677,6 +3664,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13585287/spanish-gp-kimi-antonelli-wins-first-f1-race-at-madring-to-increase-title-lead-after-lando-norris-misfortune",
       "published": "Sun, 13 Sep 2026 15:45:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ラムスター Garrett 手術を受け、少なくとも 4 週間欠場",
+      "summary": "ロサンゼルス・ラムズスタースターマイルズ・ギャレット手術を要する膝の怪我で負傷後4 週間後に少なくとも次の4 週間後に横に並べられます。",
+      "title_original": "Rams star Garrett to undergo surgery and miss at least four weeks",
+      "summary_original": "Los Angeles Rams star Myles Garrett will be sidelined for at least the next four weeks after being placed on injured reserve with a knee injury that requires surgery.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13585490/myles-garrett-los-angeles-ram-pass-rusher-to-undergo-surgery-and-miss-at-least-four-weeks-after-being-placed-on-injured-reserve",
+      "published": "Sun, 13 Sep 2026 17:04:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
