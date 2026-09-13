@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T19:35:13.049330+00:00",
+  "updated_at": "2026-09-13T19:49:16.805714+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2837,7 +2837,9 @@
     "Promoted Palace": "",
     "Pauline Peyraud-Magnin": "",
     "Chloe Kelly": "クロエ・ケリー",
-    "DJ Moore": ""
+    "DJ Moore": "",
+    "Coventry City's": "",
+    "Frustrated Shelton": ""
   },
   "items": [
     {
@@ -2869,6 +2871,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "待ち時間に20 年 - Coventry's nightmare トップフライトリターン",
+      "summary": "コヴェントリー・シティ FC 夢は、プレミアリーグ4 連続敗北後に解凍し始めている - しかし、缶 Frank Lampard 獲得を問い合わせ",
+      "title_original": "Twenty-five years in the waiting - Coventry's nightmare top-flight return",
+      "summary_original": "Coventry City's dream return to the Premier League is beginning to unravel after a fourth consecutive defeat - but can Frank Lampard turn it around?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g7pezw1mjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 19:32:55 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ハーランドスコアの論争の勝者としてマンチェスター・シティフォデンレッドにもかかわらずダービーを獲得",
       "summary": "アーリング・ハーランドの の目標は助けますマンチェスター・シティライバルで非常に論争のマンチェスターダービーを獲得マンチェスター・ユナイテッド10 人以上で70 分以上遊んでも。",
       "title_original": "Haaland scores controversial winner as Man City win derby despite Foden red",
@@ -2894,6 +2910,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ブンデスリーガ",
+      "summary": "マッチデイ3 のハイライトを見るブンデスリーガ.",
+      "title_original": "Bundesliga",
+      "summary_original": "Watch highlights from matchday three in the Bundesliga.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/iplayer/episode/l0058t4y?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 19:14:17 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2974,20 +3004,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 13:46:21 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レンジャーズ v アバディーン&エディンバラ ダービー で League Cup セミ",
-      "summary": "レンジャーズセミファイナルでアバディーンに対して描画されている Premier Sports Cup, ミディアンとヒベリニアンの心が他のネクタイで向かいますハムデン・パーク.",
-      "title_original": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
-      "summary_original": "Rangers have been drawn against Aberdeen in the semi-finals of the Premier Sports Cup, while rivals Heart of Midlothian and Hibernian will face off in the other tie at Hampden Park.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 13:26:08 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3135,6 +3151,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "レンジャーズ v アバディーン&エディンバラ ダービー で League Cup セミ",
+      "summary": "レンジャーズセミファイナルでアバディーンに対して描画されている Premier Sports Cup, ミディアンとヒベリニアンの心が他のネクタイで向かいますハムデン・パーク.",
+      "title_original": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
+      "summary_original": "Rangers have been drawn against Aberdeen in the semi-finals of the Premier Sports Cup, while rivals Heart of Midlothian and Hibernian will face off in the other tie at Hampden Park.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 13:26:08 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "バレンシアサック・コルバーンとチーフ・エグゼクティブ",
       "summary": "バレンシアサックヘッドコーチ Carlos Corberan サッカーの最高経営責任者 Ron Gourlay 四季折々の無縁のスタート。",
       "title_original": "Valencia sack Corberan and chief executive",
@@ -3156,20 +3186,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5ym4384rezo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 12 Sep 2026 22:57:13 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "新しいシステム、同じ問題 - Alonso が 'soft' に満足していないチェルシー",
-      "summary": "サブデュース Stamford Bridge アフターチェルシー’s 2-2 新進入で描くハル・シティ AFC.",
-      "title_original": "New system, same problems - Alonso not happy with 'soft' Chelsea",
-      "summary_original": "It was subdued at Stamford Bridge after Chelsea's 2-2 draw with newly promoted Hull City.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 18:22:46 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3219,6 +3235,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "新しいシステム、同じ問題 - Alonso が 'soft' に満足していないチェルシー",
+      "summary": "サブデュース Stamford Bridge アフターチェルシー’s 2-2 新進入で描くハル・シティ AFC.",
+      "title_original": "New system, same problems - Alonso not happy with 'soft' Chelsea",
+      "summary_original": "It was subdued at Stamford Bridge after Chelsea's 2-2 draw with newly promoted Hull City.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 18:22:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「死ぬつもりだったと思った」 -バーンリー敗血症のボスは怖い",
       "summary": "バーンリーマネージャーJackie Bachteler でダグアウトになります Turf Moor 日曜日に初めて - しかし、9 ヶ月前、彼女は彼女の人生のために戦うことができました。",
       "title_original": "'I thought I was going to die' - Burnley boss on sepsis scare",
@@ -3233,38 +3263,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ピックフォード参加プレミアリーグ クリーンシート100 クラブ",
-      "summary": "Our Ask Me Anything ゴールキーパーが100 を達成したチームを見るプレミアリーグ クリーンシート獲得を問い合わせ",
-      "title_original": "Pickford joins Premier League clean sheet 100 club",
-      "summary_original": "Our Ask Me Anything team look at which goalkeepers have achieved 100 Premier League clean sheets.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg5n27w3rpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 18:36:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "別のヴィラロス後に回答を求めて左 Emery",
-      "summary": "アストン・ヴィラ開口部の3 つを失ったプレミアリーグボスを離れるゲーム Unai Emery 回答に苦労します。",
-      "title_original": "Emery left searching for answers after another Villa loss",
-      "summary_original": "Aston Villa have lost three of their opening four Premier League games to leave boss Unai Emery struggling for answers.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clye91zj7l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 18:06:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マンチェスター・シティ Foden から回復レッドカードとしてハーランドユナイテッドでダービーを獲得",
-      "summary": "“Enzo, Enzo, Enzo, in your head” は、あなたの頭の中でどのようにして、マンチェスター・シティファンの法的エンソ・フェルナンデス誰が思い出に残る勝利で星の役割の後、確かにインスタントカルトヒーローステータスを持っています。第199 回ダービーが優勝アーリング・ハーランド’ ninth はフィクスチャーでストライキですが、訪問者のトーテムは彼らの新しいでした 17. 彼は最初にオフサイドのために除外され、Fernández を ruling したときにビデオアシスタントレフリーが上回ったゴールでキーの迷惑でした Lisandro Martínez いつか Josko Gvardiol’s ボールがオオフに来た",
+      "summary": "“Enzo, Enzo, Enzo, in your head” は、あなたの頭の中でどのようにして、マンチェスター・シティファンの法的エンソ・フェルナンデス, 思い出に残る勝利で星の役割の後、誰がインスタントカルトヒーローステータスを持っています. 第199 回ダービーが優勝アーリング・ハーランド’ ninth はフィクスチャーでストライキですが、訪問者のトーテムは彼らの新しいでした 17. 彼は最初はオフサイドのために除外され、フェルナンデスが気づいたときにビデオアシスタントレフリーが上回ったゴールでキーの迷惑でした Lisandro Martínez いつか Josko Gvardiol’s ボールが来た",
       "title_original": "Manchester City recover from Foden red card as Haaland wins derby at United",
-      "summary_original": "“Enzo, Enzo, Enzo, in your head” was how delirious Manchester City fans regaled Enzo Fernández who after a star role in a memorable victory surely has instant cult hero status. This 199th derby was won by Erling Haaland’s ninth strike in the fixture but the visitors’ totem was their new No 17. He was the key nuisance in a goal initially ruled out for offside and which video assistant referee overturned when ruling Fernández was not distracting Lisandro Martínez when Josko Gvardiol’s ball came ov",
+      "summary_original": "“Enzo, Enzo, Enzo, in your head” was how delirious Manchester City fans regaled Enzo Fernández, who after a star role in a memorable victory has instant cult hero status. This 199th derby was won by Erling Haaland’s ninth strike in the fixture but the visitors’ totem was their new No 17. He was the key nuisance in a goal ruled out initially for offside and which the video assistant referee overturned when ruling that Fernández was not distracting Lisandro Martínez when Josko Gvardiol’s ball came",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/13/manchester-united-manchester-city-premier-league-match-report",
       "published": "Sun, 13 Sep 2026 17:32:15 GMT",
@@ -3737,20 +3739,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Zverev は、最終段階のホーム お気に入り シェルトンと完璧なスタートをします。",
-      "summary": "",
-      "title_original": "US Open LIVE! Zverev makes perfect start vs home-favourite Shelton in final",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13585240/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-taking-on-ben-shelton-in-the-mens-final",
-      "published": "Sun, 13 Sep 2026 18:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "SNL UK 獲得を問い合わせ Weekly Update US Open スペシャル",
       "summary": "SNL UK's Ania Magliano そして、Paddy Young 獲得を問い合わせ Weekly Update US Open 特別な、からのセグメントを含むジェフ・ゴールドブラムそして、Carlos Alcaraz's ニプル...",
       "title_original": "SNL UK do Weekly Update US Open special",
@@ -3758,6 +3746,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13585559/snl-uk-do-weekly-update-us-open-special",
       "published": "Sun, 13 Sep 2026 19:10:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "US Open LIVE! Frustrated Shelton 最後のトップシード Zverev にセットダウン",
+      "summary": "",
+      "title_original": "US Open LIVE! Frustrated Shelton a set down to top seed Zverev in final",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13585240/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-taking-on-ben-shelton-in-the-mens-final",
+      "published": "Sun, 13 Sep 2026 18:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
