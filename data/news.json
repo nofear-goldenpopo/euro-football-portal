@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T15:23:54.729882+00:00",
+  "updated_at": "2026-09-13T15:37:06.104906+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2780,7 +2780,14 @@
     "Al-Taawoun Neves": "",
     "Rúben Neves": "",
     "Saudi Arabia. Continue": "",
-    "Auston Kim": ""
+    "Auston Kim": "",
+    "Carlos Corberan": "",
+    "Ron Gourlay": "",
+    "Lewis Dunk’s": "",
+    "Frank Lampard. And": "",
+    "Brighton. And": "",
+    "Carlos Sainz": "",
+    "Fernando Alonso": "フェルナンド・アロンソ"
   },
   "items": [
     {
@@ -2798,13 +2805,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズ v アバディーン&エディンバラ ダービー で League Cup セミ",
-      "summary": "レンジャーズセミファイナルでアバディーンに対して描画されている Premier Sports Cup, ミディアンとヒベリニアンの心が他のネクタイで向かいますハムデン・パーク.",
-      "title_original": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
-      "summary_original": "Rangers have been drawn against Aberdeen in the semi-finals of the Premier Sports Cup, while rivals Heart of Midlothian and Hibernian will face off in the other tie at Hampden Park.",
+      "title": "バレンシアサック・コルバーンとチーフ・エグゼクティブ",
+      "summary": "バレンシアサックヘッドコーチ Carlos Corberan サッカーの最高経営責任者 Ron Gourlay 四季折々の無縁のスタート。",
+      "title_original": "Valencia sack Corberan and chief executive",
+      "summary_original": "Valencia sack head coach Carlos Corberan and their football chief executive Ron Gourlay after a winless start to the season.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 13:26:08 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly43w61lnzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 15:21:18 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2812,13 +2819,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Ronaldo は Jota チャントの上に生涯禁止を要求します",
-      "summary": "ソーシャルメディアの映像が表示される Al-Hilal's Ruben NevesAl-Taawoun ファンに反応する Diogo Jota's 自分の中に彼の名前 Saudi Pro League マッチ。",
-      "title_original": "Ronaldo demands lifetime bans over Jota chants",
-      "summary_original": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
+      "title": "レンジャーズ v アバディーン&エディンバラ ダービー で League Cup セミ",
+      "summary": "レンジャーズセミファイナルでアバディーンに対して描画されている Premier Sports Cup, ミディアンとヒベリニアンの心が他のネクタイで向かいますハムデン・パーク.",
+      "title_original": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
+      "summary_original": "Rangers have been drawn against Aberdeen in the semi-finals of the Premier Sports Cup, while rivals Heart of Midlothian and Hibernian will face off in the other tie at Hampden Park.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 13:46:21 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 13:26:08 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2938,6 +2945,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Ronaldo は Jota チャントの上に生涯禁止を要求します",
+      "summary": "ソーシャルメディアの映像が表示される Al-Hilal's Ruben NevesAl-Taawoun ファンに反応する Diogo Jota's 自分の中に彼の名前 Saudi Pro League マッチ。",
+      "title_original": "Ronaldo demands lifetime bans over Jota chants",
+      "summary_original": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 13:46:21 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "歯なしトッテナム新しい時代が偽の夜に変わったように再び空白",
       "summary": "歯なしトッテナム' 再び空白を描き、勇敢な新しい時代が偽の夜に変わるのを見る危険にさらされています, チーフサッカーライターは言うフィル・マクナルティ.",
       "title_original": "Toothless Spurs blank again as new era turns into a false dawn",
@@ -3005,20 +3026,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "新しいシステム、同じ問題 - Alonso が 'soft' に満足していないチェルシー",
-      "summary": "サブデュース Stamford Bridge アフターチェルシー’s 2-2 新しく進められた引くハル・シティ AFC.",
-      "title_original": "New system, same problems - Alonso not happy with 'soft' Chelsea",
-      "summary_original": "It was subdued at Stamford Bridge after Chelsea's 2-2 draw with newly promoted Hull City.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 18:22:46 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3162,6 +3169,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "新しいシステム、同じ問題 - Alonso が 'soft' に満足していないチェルシー",
+      "summary": "サブデュース Stamford Bridge アフターチェルシー’s 2-2 新しく進められた引くハル・シティ AFC.",
+      "title_original": "New system, same problems - Alonso not happy with 'soft' Chelsea",
+      "summary_original": "It was subdued at Stamford Bridge after Chelsea's 2-2 draw with newly promoted Hull City.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 18:22:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナルモニタリング Como's Paz - 日曜日の移籍ゴシップ",
       "summary": "アーセナルモニタリング Nico Paz, リヴァプールそして、アストン・ヴィラ追跡シェール・エンドゥールそして、サンダーランド上に与えるために洗練されています Geny Catamo, 以上.",
       "title_original": "Arsenal monitoring Como's Paz - Sunday's gossip",
@@ -3190,31 +3211,31 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ピックフォード参加プレミアリーグ クリーンシート100 クラブ",
-      "summary": "Our Ask Me Anything ゴールキーパーが100 を達成したチームを見るプレミアリーグ クリーンシート獲得を問い合わせ",
-      "title_original": "Pickford joins Premier League clean sheet 100 club",
-      "summary_original": "Our Ask Me Anything team look at which goalkeepers have achieved 100 Premier League clean sheets.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg5n27w3rpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 18:36:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マンチェスター・ユナイテッドツイートマンチェスター・シティ: プレミアリーグ– ライブ",
       "summary": "マンチェスター ダービー からの更新します。4.30pm BST ゴール️ Febrile derby awaits amid rift 間に ユナイテッド ファン と クラブ 人気の高い評価 Drop Rob 電子メールブライトン’4 の目標は、叫び手だったからルイス・ダンク, すべての人々, ステーヴ・ブラッドフィールドからこのメールを促す. です。ブライトン'4 月目標のためのスラムダンクの目標? 続きを読む...",
       "title_original": "Manchester United v Manchester City: Premier League – live",
       "summary_original": "⚽️ Manchester derby updates from 4.30pm BST ⚽️ Febrile derby awaits amid rift between United fans and club ⚽️ Today’s scores | Drop Rob an email Brighton’s fourth goal was a screamer from Lewis Dunk , of all people, prompting this email from Steve Bradfield. Is Brighton’s fourth goal a slam Dunk for goal of month? Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
-      "published": "Sun, 13 Sep 2026 15:00:08 GMT",
+      "published": "Sun, 13 Sep 2026 15:21:59 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ルイス・ダンクの showtopper は 5 つ星ホテルブライトン10 人のコベントリーを破るために",
+      "summary": "ベア統計は弱い:コヴェントリー・シティ FC2 番目のチームのみプレミアリーグ歴史は、それらのいずれかでスコアリングすることなく、シーズンの最初の4 つのゲームを失う。「そしてまだ...」は、メッセージの末尾に Frank Lampard. And しかし、彼らは反対側のチームに問題を引き起こしています – までポイントで 10 男性 ここに対ブライトン. しかし、彼らはすでにトップフライトのヨーロッパ大陸の3 に直面しています。それでも、悪く遊んでいません。しかし、彼らは単に p を見つけることができません",
+      "title_original": "Lewis Dunk’s showstopper helps five-star Brighton to rout 10-man Coventry",
+      "summary_original": "The bare statistic is bleak: Coventry City are only the second team in Premier League history to lose their first four games of the season without scoring in any of them. “And yet …” will be the enduring message from Frank Lampard. And yet they have caused problems for opposition teams – even at points when down to 10 men here against Brighton. And yet they have already faced three of the top flight’s European contingent. And yet they are not playing that badly. But they simply cannot find the p",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/coventry-brighton-premier-league-match-report",
+      "published": "Sun, 13 Sep 2026 15:10:47 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3232,10 +3253,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズレイアウトダウンオールドファームマーカーとしてセルティック送信されたパッキングから Scottish League Cup",
-      "summary": "Derek McInnesIbrox で生活を始めてから終えてきたが、新しいレンジャーズマネージャーは、彼の側が支配人としてここに跳ねる古い地面を持っていましたセルティック全青の群衆の前で最初の決定オールドファーム季節の出会い。タンノイからテクノを弾くことのバックドロップを繰り返し、レンジャーズファンは、サムピングで3 つの思い出に残る目標を祝いました League Cup 勝つ。ツイート2 ゴールキャプテンのために、Dan Neil, ケビン ・ ケルシーのセカンド ・ ハーフ フィニッシュを置きます Martin O’Neill’s 相対的な側面",
-      "title_original": "Rangers lay down Old Firm marker as Celtic sent packing from Scottish League Cup",
-      "summary_original": "Derek McInnes has endured a much‑scrutinised start to life at Ibrox but the new Rangers manager got the old ground bouncing here as his side dominated Celtic in front of an all-blue crowd to decide the first Old Firm encounter of the season. Against a backdrop of bouncing techno from the tannoy, Rangers fans celebrated three memorable goals in a thumping League Cup win. A brace for the captain, Dan Neil, bookended Kevin ­Kelsy’s second‑half finish to put Martin O’Neill’s side down with relative ",
+      "title": "レンジャーズレイアウトダウンオールドファーム送信するマーカーセルティックパッキングから Scottish League Cup",
+      "summary": "Derek McInnesIbrox での生活に多くの - 精巧なスタートを耐えてきましたが、レンジャーズ管理者は、彼の側が支配人としてここに跳ねる古い地面を得ましたセルティック全青の群衆の前で最初の決定オールドファーム季節の出会い。タンノイからテクノを弾くことのバックドロップを繰り返し、レンジャーズファンは、サムピングで3 つの思い出に残る目標を祝いました League Cup 勝つ。ツイート2 ゴールキャプテンのために、Dan Neil, ブックエンド Kevin Kelsy’s 置くべき秒半分の終わり Martin O’Neill’s 相対的な容易さの側面。",
+      "title_original": "Rangers lay down Old Firm marker to send Celtic packing from Scottish League Cup",
+      "summary_original": "Derek McInnes has endured a much‑scrutinised start to life at Ibrox but the Rangers manager got the old ground bouncing here as his side dominated Celtic in front of an all-blue crowd to decide the first Old Firm encounter of the season. Against a backdrop of bouncing techno from the tannoy, Rangers fans celebrated three memorable goals in a thumping League Cup win. A brace for the captain, Dan Neil, bookended Kevin Kelsy’s second‑half finish to put Martin O’Neill’s side down with relative ease.",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/13/rangers-celtic-scottish-league-cup-match-report",
       "published": "Sun, 13 Sep 2026 13:38:16 GMT",
@@ -3274,20 +3295,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Spygate saga は、ケース ドラッグ オン として Southampton を追い続ける",
-      "summary": "Manager Tonda Eckert’s 未来は、FA とのバランスを保ちながら、適切な罰の Fifty 秒を上回るのは、そのすべてが開始するために取られた。「あなたは、あなたが何であるかを知っている、あなたはあなたが何であるかを知っている、バスタードを不正行為、あなたはあなたが何であるかを知っている」ブリストル・シティ FC ファンは、遠く離れた大陸から聞いた泣き始めます St Mary’s Stadium こちらの季節です。The Southampton サーカスの拍手が応答し、自分の曲でノイズを落としました。これは、",
-      "title_original": "Spygate saga continues to haunt Southampton as case drags on",
-      "summary_original": "Manager Tonda Eckert’s future remains in the balance with the FA yet to decide over a suitable punishment Fifty seconds was all it took for the chant to begin. “You know what you are, you know what you are, cheating bastards, you know what you are,” bellowed the Bristol City fans, starting up a cry heard from every away contingent coming to St Mary’s Stadium this season. The Southampton supporters responded with sarcastic applause, then drowned out the noise with songs of their own. This is what",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/spygate-saga-continues-to-haunt-southampton-as-case-drags-on",
-      "published": "Sun, 13 Sep 2026 07:00:01 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "De Zerbi コメントトッテナムリーグの勝利を待つと「メンタルブロック」を持っている",
       "summary": "「勝利なし、ゴール獲得なし...プレイヤーにとって厳しい」トッテナム0-0 の後の 17 の場所はに対して引くことエヴァートンロベルト・デ・ツェルビ氏は、トッテナムプレーヤーは、物理的なフィットネスを欠い続けると、「ブロック解除」は、彼らが彼らの最新を撤退した後、心理的な言葉で自分自身をプレミアリーグ自宅で空白 0-0 とエヴァートン獲得を問い合わせ ゴールなしでシーズンの始まり以来、今大会で4 つのゲームですトッテナム; 彼らは2 つのポイントとテーブルに17 番目の座って、不満のファンによってオフにしました。ディー Z",
       "title_original": "De Zerbi says Spurs have ‘mental block’ after wait for league win continues",
@@ -3313,6 +3320,20 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Spygate saga は、ケース ドラッグ オン として Southampton を追い続ける",
+      "summary": "Manager Tonda Eckert’s 未来は、FA とのバランスを保ちながら、適切な罰の Fifty 秒を上回るのは、そのすべてが開始するために取られた。「あなたは、あなたが何であるかを知っている、あなたはあなたが何であるかを知っている、バスタードを不正行為、あなたはあなたが何であるかを知っている」ブリストル・シティ FC ファンは、遠く離れた大陸から聞いた泣き始めます St Mary’s Stadium こちらの季節です。The Southampton サーカスの拍手が応答し、自分の曲でノイズを落としました。これは、",
+      "title_original": "Spygate saga continues to haunt Southampton as case drags on",
+      "summary_original": "Manager Tonda Eckert’s future remains in the balance with the FA yet to decide over a suitable punishment Fifty seconds was all it took for the chant to begin. “You know what you are, you know what you are, cheating bastards, you know what you are,” bellowed the Bristol City fans, starting up a cry heard from every away contingent coming to St Mary’s Stadium this season. The Southampton supporters responded with sarcastic applause, then drowned out the noise with songs of their own. This is what",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/spygate-saga-continues-to-haunt-southampton-as-case-drags-on",
+      "published": "Sun, 13 Sep 2026 07:00:01 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3369,20 +3390,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トッテナム引退後、シーズン初となるリーグゴールを待つエヴァートン",
-      "summary": "早すぎるとトッテナム危機? 答えが確かに答えは、それがあまりにも初期に過ぎないということですトッテナム危機。4 日目以降プレミアリーグゲーム, 彼らはまだスコアを持っている. リーグシーズンの始まりに、その歴史に遭ったことはない。少なくとも、彼らはターゲットに、この時間にショットのカップルを従わなければなりませんでした, そのために失敗しました 最後の週末 で 0-0 で描画ノッティンガム・フォレスト獲得を問い合わせ 最初から Mateus Fernandes– 後半の始まりは、鉄のチェアーによって挨拶された",
-      "title_original": "Tottenham waiting for first league goal of season after draw against Everton",
-      "summary_original": "Is it too early for a Tottenham crisis? To which the answer is surely that it is never too early for a Tottenham crisis. After four Premier League games, they have yet to score. This kind of run has never happened in their history at the beginning of a league season. At least they mustered a couple of shots on target this time, having failed to do so last weekend in the 0-0 draw at Nottingham Forest . The first – from Mateus Fernandes – at the start of the second half was greeted by ironic cheer",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/tottenham-everton-premier-league-match-report",
-      "published": "Sat, 12 Sep 2026 18:47:01 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3484,6 +3491,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "トッテナム引退後、シーズン初となるリーグゴールを待つエヴァートン",
+      "summary": "早すぎるとトッテナム危機? 答えが確かに答えは、それがあまりにも初期に過ぎないということですトッテナム危機。4 日目以降プレミアリーグゲーム, 彼らはまだスコアを持っている. リーグシーズンの始まりに、その歴史に遭ったことはない。少なくとも、彼らはターゲットに、この時間にショットのカップルを従わなければなりませんでした, そのために失敗しました 最後の週末 で 0-0 で描画ノッティンガム・フォレスト獲得を問い合わせ 最初から Mateus Fernandes– 後半の始まりは、鉄のチェアーによって挨拶された",
+      "title_original": "Tottenham waiting for first league goal of season after draw against Everton",
+      "summary_original": "Is it too early for a Tottenham crisis? To which the answer is surely that it is never too early for a Tottenham crisis. After four Premier League games, they have yet to score. This kind of run has never happened in their history at the beginning of a league season. At least they mustered a couple of shots on target this time, having failed to do so last weekend in the 0-0 draw at Nottingham Forest . The first – from Mateus Fernandes – at the start of the second half was greeted by ironic cheer",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/12/tottenham-everton-premier-league-match-report",
+      "published": "Sat, 12 Sep 2026 18:47:01 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Schade ダブル denies Bournemouth 最初の リーグ 勝ち としてブレントフォード救助の引くこと",
       "summary": "苦難のための必要性はまだで Bournemouth. Trust プロセス, しかし、欧州のサッカーの賭けの新しいフロンティアと, に旅行 2,000 ファンサン・セバスティアン来週は、ホームフロントに不安のある場所があります。勝ちポジションは降伏しています Marco Rose’s4 月4 日プレミアリーグマッチ。不要なキャリーオーバーから Andoni Iraola’s 悪くなることは許されません。「彼らは得点2 ゴールターゲットに2 枚のショットで得点2 ゴールターゲットの10 ショットで、Ross は述べた",
       "title_original": "Schade double denies Bournemouth first league win as Brentford rescue draw",
@@ -3536,20 +3557,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フェネルバフチェドロー後のコーチ辞任ローマ– しかし、大統領は彼が滞在すると主張します",
-      "summary": "Ismail Kartal 報告者に「戻りにくれない」クラブ・プレジデントを残します:「私は彼のシニアです、私は彼を続けて言った」 ザ・オブ・ザ・フェネルバフチェヘッドコーチ,Ismail Kartal 入社後、木曜の辞典を自宅に1−1 を退社ローマ獲得を問い合わせチャンピオンズリーグ- しかし、分は、クラブの大統領はカルタルが仕事に滞在すると述べた。カルタルは、彼が渇望していたと主張することによって、ポストマッチプレス会議を衝撃しましたフェネルバフチェ「戻りたい」 65 歳が入るのに、彼は劇的をとっていた",
-      "title_original": "Fenerbahce coach resigns after draw with Roma – but president insists he will stay",
-      "summary_original": "Ismail Kartal tells reporters he will leave ‘never to return’ Club president: ‘I am his senior, I told him to continue’ The Fenerbahce head coach, Ismail Kartal, announced his resignation on Thursday after ⁠his team drew 1-1 at home to Roma in the Champions League – but minutes ⁠later, the club ⁠president ​said Kartal would stay in the job. Kartal shocked the post-match press conference by claiming he was ⁠leaving Fenerbahce “never to return”. The 65-year-old added that he was taking the drastic",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/fenerbahce-coach-resigns-ismail-kartal-roma-champions-league",
-      "published": "Thu, 10 Sep 2026 22:20:11 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3652,9 +3659,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブライトンブラスト FIVE 過去のボトムクラブ コベントリー",
+      "title": "ブライトン点または目標なしでコベントリーを残すために FIVE を押す",
       "summary": "コベントリーは、彼らの上に無意味のままプレミアリーグ華麗に5-0 を分解したので戻りブライトン獲得を問い合わせコヴェントリー・ビルディング・ソサエティ・アリーナ.",
-      "title_original": "Brighton blast FIVE past bottom-club Coventry",
+      "title_original": "Brighton hit FIVE to leave Coventry without point or goal",
       "summary_original": "Coventry remain pointless on their Premier League return as they were dismantled 5-0 by brilliant Brighton at the CBS Arena.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/coventry-city-vs-brighton-and-hove-albion/report/559477",
@@ -3676,6 +3683,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Spaniards のコライド! サイエンツは、アロンソクラッシュの5 秒のペナルティを渡しました",
+      "summary": "Carlos Sainz と衝突を引き起こすための5 秒の時間ペナルティを与えられましたフェルナンド・アロンソ.",
+      "title_original": "Spaniards collide! Sainz handed five-second penalty for Alonso crash",
+      "summary_original": "Carlos Sainz was given a five-second time penalty for causing a collision with Fernando Alonso.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585393/spanish-grand-prix-carlos-sainz-handed-five-second-penalty-for-fernando-alonso-crash",
+      "published": "Sun, 13 Sep 2026 14:46:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3883,20 +3904,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13585289/solheim-cup-she-wants-the-noise-hull-and-khang-tee-off-in-wild-atmosphere",
       "published": "Sun, 13 Sep 2026 10:26:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Rashford と Anderson は Manchester derby を始めますが、NoShaw LIVE!",
-      "summary": "",
-      "title_original": "Rashford and Anderson start the Manchester derby, but no Shaw LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-united-vs-manchester-city/live/559481",
-      "published": "Sun, 13 Sep 2026 14:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
