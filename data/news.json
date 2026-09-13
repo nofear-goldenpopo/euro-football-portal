@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T17:23:16.339299+00:00",
+  "updated_at": "2026-09-13T17:36:02.614291+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2803,9 +2803,24 @@
     "Burrow's Bengals": "",
     "Lamar's Ravens": "",
     "Roy Keane": "ロイ・キーン",
-    "Micah DEBATE Foden": ""
+    "Micah DEBATE Foden": "",
+    "Dominant Lowry": ""
   },
   "items": [
+    {
+      "title": "仏赤のものハーランドスコアの勝者 - Utd v 市選手採点",
+      "summary": "使い方マンチェスター・ユナイテッドそして、マンチェスター・シティダービークラッシュで評価された選手オールド・トラッフォード.",
+      "title_original": "Foden red but Haaland scores winner - Utd v City player ratings",
+      "summary_original": "How Manchester United and Manchester City players rated in the derby clash at Old Trafford.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2kwpk5zy23o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 17:27:07 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "ダービーで偽造された - しかし、彼はそれに値しましたか?",
       "summary": "アフターフィル・フォーデン送信される Sunday's Manchester ダービー、パンディットは反応を与えます。獲得を問い合わせ",
@@ -2863,20 +2878,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズ v アバディーン&エディンバラ ダービー で League Cup セミ",
-      "summary": "レンジャーズセミファイナルでアバディーンに対して描画されている Premier Sports Cup, ミディアンとヒベリニアンの心が他のネクタイで向かいますハムデン・パーク.",
-      "title_original": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
-      "summary_original": "Rangers have been drawn against Aberdeen in the semi-finals of the Premier Sports Cup, while rivals Heart of Midlothian and Hibernian will face off in the other tie at Hampden Park.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 13:26:08 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「死ぬつもりだったと思った」 -バーンリー敗血症のボスは怖い",
       "summary": "バーンリーマネージャーJackie Bachteler でダグアウトになります Turf Moor 日曜日に初めて - しかし、9 ヶ月前、彼女は彼女の人生のために戦うことができました。",
       "title_original": "'I thought I was going to die' - Burnley boss on sepsis scare",
@@ -2884,6 +2885,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cnvlrpn9dpgo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 06:14:58 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンジャーズ v アバディーン&エディンバラ ダービー で League Cup セミ",
+      "summary": "レンジャーズセミファイナルでアバディーンに対して描画されている Premier Sports Cup, ミディアンとヒベリニアンの心が他のネクタイで向かいますハムデン・パーク.",
+      "title_original": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
+      "summary_original": "Rangers have been drawn against Aberdeen in the semi-finals of the Premier Sports Cup, while rivals Heart of Midlothian and Hibernian will face off in the other tie at Hampden Park.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 13:26:08 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3213,27 +3228,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "More dropped points at Anfield - is it too early for リヴァプール to worry?",
-      "summary": "リヴァプール have failed to win either of their first two プレミアリーグ games at Anfield. But is it too early to worry?",
-      "title_original": "More dropped points at Anfield - is it too early for Liverpool to worry?",
-      "summary_original": "Liverpool have failed to win either of their first two Premier League games at Anfield. But is it too early to worry?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62j0lr1rzmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 19:30:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マンチェスター・ユナイテッドツイートマンチェスター・シティ: プレミアリーグ– ライブ",
       "summary": "マンチェスター derby のアップデートから 4.30pm BST の チャンス チャット 助けブライトン Rout Coventry | 今日のスコアブライトン’4 の目標は、叫び手だったからルイス・ダンク, すべての人々, ステーヴ・ブラッドフィールドからこのメールを促す. です。ブライトン'4 月目標のためのスラムダンクの目標? 続きを読む...",
       "title_original": "Manchester United v Manchester City: Premier League – live",
       "summary_original": "⚽️ Manchester derby updates from 4.30pm BST ⚽️ Dunk helps Brighton rout Coventry | Today’s scores Brighton’s fourth goal was a screamer from Lewis Dunk , of all people, prompting this email from Steve Bradfield. Is Brighton’s fourth goal a slam Dunk for goal of month? Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
-      "published": "Sun, 13 Sep 2026 17:14:40 GMT",
+      "published": "Sun, 13 Sep 2026 17:19:45 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3703,6 +3704,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Dominant Lowrystorms へ 記録 11 ストローク triumph 時 Irish Open",
+      "summary": "シェーン・ローリー記録11 ショットの勝利に追いつくアイリッシュ・オープン日曜日に7 アンダー63 を撮影するホームクラウドは、パリで23 を驚かせます。",
+      "title_original": "Dominant Lowry storms to record 11-stroke triumph at Irish Open",
+      "summary_original": "Shane Lowry stormed to a record 11-shot victory at the Amgen Irish Open, the home crowd favourite shooting a seven-under 63 on Sunday to finish a staggering 23 under par.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13585479/amgen-irish-open-shane-lowry-secures-record-11-stroke-victory-at-trump-international-links-in-doonbeg",
+      "published": "Sun, 13 Sep 2026 16:38:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "NFL スコア:Burrow's Bengals そして、Lamar's Ravens アクション",
       "summary": "世界中から最新のスコアをフォローNFL 獲得を問い合わせ Week One2026 年のシーズン。",
       "title_original": "NFL scores: Burrow's Bengals and Lamar's Ravens in action",
@@ -3906,20 +3921,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13585379/spanish-grand-prix-lewis-hamilton-forced-to-retire-after-break-issue-in-madrid",
       "published": "Sun, 13 Sep 2026 14:27:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'What the **** について?!' -Max FUMES 余儀なくされたトラックの後にルイス",
-      "summary": "マックス・フェルスタッペンフォーラム Lewis Hamilton 強制オフトラック",
-      "title_original": "'What the **** are you on about?!' - Max FUMES at Lewis after being forced off track",
-      "summary_original": "Max Verstappen FUMES at Lewis Hamilton after being forced off track",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585373/spanish-gp-max-verstappen-fumes-at-lewis-hamilton-after-being-forced-off-track",
-      "published": "Sun, 13 Sep 2026 14:21:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
