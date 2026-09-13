@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T14:23:38.559465+00:00",
+  "updated_at": "2026-09-13T14:36:32.651885+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2766,7 +2766,10 @@
     "Drop Rob": "",
     "Against Porto": "",
     "Kevin Kelsy’s": "",
-    "Nastasia Nadaud": ""
+    "Nastasia Nadaud": "",
+    "Max FUMES": "",
+    "Max Verstappen FUMES": "",
+    "Shaw LIVE": ""
   },
   "items": [
     {
@@ -3624,6 +3627,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "悪いから悪化! ノリスは、ボッチされたピットストップ後にリードを失う",
+      "summary": "Lando Norris レースのリードを失ったイベントの不幸なシーケンスは、VSC のピットストップチャンスを逃し、McLaren による非常に遅いストップで続きます。",
+      "title_original": "From bad to worse! Norris loses lead after botched pitstop",
+      "summary_original": "Lando Norris lost the race lead after an unlucky sequence of events which saw a missed a pitstop opportunity under a VSC, followed by a very slow stop by McLaren.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585385/spanish-grand-prix-from-bad-to-worse-lando-norris-loses-lead-after-botched-pitstop",
+      "published": "Sun, 13 Sep 2026 14:34:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハミルトンは、マドリードでブレーキの問題の後に退職しました",
+      "summary": "Lewis Hamilton 早々に退職を余儀なくされたスペイングランプリ.",
+      "title_original": "Hamilton forced to retire after brake issue in Madrid",
+      "summary_original": "Lewis Hamilton was forced to retire early at the Spanish Grand Prix.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585379/spanish-grand-prix-lewis-hamilton-forced-to-retire-after-break-issue-in-madrid",
+      "published": "Sun, 13 Sep 2026 14:27:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'What the **** について?!' -Max FUMES 余儀なくされたトラックの後にルイス",
+      "summary": "マックス・フェルスタッペンフォーラム Lewis Hamilton 強制オフトラック",
+      "title_original": "'What the **** are you on about?!' - Max FUMES at Lewis after being forced off track",
+      "summary_original": "Max Verstappen FUMES at Lewis Hamilton after being forced off track",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585373/spanish-gp-max-verstappen-fumes-at-lewis-hamilton-after-being-forced-off-track",
+      "published": "Sun, 13 Sep 2026 14:21:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「新しい」Solheim Cup 星!' | ナダウドのヨーロッパの重要なポイントは、野生のお祝いをスパーク!",
       "summary": "フランスのロッキーNastasia Nadaud 彼女が敗北するようにヨーロッパの重要なポイントを主張 Andrea Lee 3&2.",
       "title_original": "'A new Solheim Cup star!' | Nadaud's crucial point for Europe sparks wild celebrations!",
@@ -3638,9 +3683,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スペイングランプリ: ノリスはルクルクリードとしてヴェルスタッペンの戦いをライニング Antonelli LIVE!",
+      "title": "スペイングランプリ: Antonelli は大きな勝利のために見出します優勝争い Verstappen's tail LIVE でノリス!",
       "summary": "",
-      "title_original": "Spanish GP: Norris lining up Verstappen fight as Leclerc leads Antonelli LIVE!",
+      "title_original": "Spanish GP: Antonelli heading for big win in title race, Norris on Verstappen's tail LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13585122/f1-spanish-gp-live-race-updates-results-stream-highlights-from-14th-round-of-2026-formula-1-season-at-madring",
@@ -3736,9 +3781,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL:トッテナムリードリヴァプール、ブルースはの後で先に先立ちますチェルシースラッシュマンチェスター・ユナイテッドライブ!",
+      "title": "WSL:リヴァプールそして、アーセナルレベル、の後で先に青いチェルシースラッシュマンチェスター・ユナイテッドライブ!",
       "summary": "",
-      "title_original": "WSL: Spurs lead Liverpool, Blues ahead after Chelsea thrash Man Utd LIVE!",
+      "title_original": "WSL: Liverpool and Arsenal level, Blues ahead after Chelsea thrash Man Utd LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/arsenal-women-vs-crystal-palace-women/live/575763",
@@ -3764,16 +3809,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "It's Derby Day! マンチェスター・ユナイテッド対比マンチェスター・シティチームニュース LIVE!",
+      "title": "Rashford と Anderson は Manchester derby を始めますが、NoShaw LIVE!",
       "summary": "",
-      "title_original": "It's Derby Day! Man Utd vs Man City team news LIVE!",
+      "title_original": "Rashford and Anderson start the Manchester derby, but no Shaw LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-united-vs-manchester-city/live/559481",
       "published": "Sun, 13 Sep 2026 14:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3841,48 +3886,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13583655/man-utd-vs-man-city-how-to-watch-premier-league-contest-tv-channel-live-stream-now-tv-and-score-prediction",
       "published": "Sun, 13 Sep 2026 07:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "カラム・ターナースカイスポーツで一晩 One Night Only!",
-      "summary": "カラム・ターナースカイスポーツは、男性のための夜になります US Open 最終的な、のための One Night Only!",
-      "title_original": "Callum Turner on Sky Sports tonight for One Night Only!",
-      "summary_original": "Callum Turner will be on Sky Sports tonight for the men's US Open final, for One Night Only!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13584022/callum-turner-on-sky-sports-tonight-for-one-night-only",
-      "published": "Sun, 13 Sep 2026 08:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「夢の国にいる!」 | ジェームズ・カルペンターセメントチェルシーリード",
-      "summary": "ローレン・ジェームズそして、Ellie Carpenter 対比速火ダブルスコアマンチェスター・ユナイテッド.",
-      "title_original": "'They're in dreamland!' | James and Carpenter cement Chelsea lead",
-      "summary_original": "Lauren James and Ellie Carpenter score a quickfire double against Man Utd.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585345/manchester-united-vs-chelsea-lauren-james-and-ellie-carpenter-send-chelsea-further-ahead-with-quickfire-double",
-      "published": "Sun, 13 Sep 2026 13:27:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ピンポイント仕上げ! ウォルシュダブルスチェルシーの に対するリードマンチェスター・ユナイテッド",
-      "summary": "Keira Walsh スコアチェルシー「第2 の目標」マンチェスター・ユナイテッド WSL で。",
-      "title_original": "Pinpoint finish! Walsh doubles Chelsea's lead against Man Utd",
-      "summary_original": "Keira Walsh scores Chelsea's second goal against Man United in the WSL.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585324/man-united-vs-chelsea-keira-walsh-slots-home-a-second-goal-to-extend-chelseas-lead-over-man-united",
-      "published": "Sun, 13 Sep 2026 12:37:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
