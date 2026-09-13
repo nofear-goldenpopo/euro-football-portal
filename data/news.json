@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T14:05:59.886897+00:00",
+  "updated_at": "2026-09-13T14:23:38.559465+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2759,9 +2759,30 @@
     "Luckless Norris": "",
     "It's Derby Day": "",
     "Al-Hilal's Ruben Neves": "",
-    "Diogo Jota's": ""
+    "Diogo Jota's": "",
+    "Struggling Preston North End": "",
+    "Preston North End": "プレストン・ノースエンドFC",
+    "Paul Heckingbottom": "",
+    "Drop Rob": "",
+    "Against Porto": "",
+    "Kevin Kelsy’s": "",
+    "Nastasia Nadaud": ""
   },
   "items": [
+    {
+      "title": "ストラグリングプレストン・ノースエンド FCsack ヘッキングボトム",
+      "summary": "プレストン・ノースエンド FC サック Paul Heckingbottom7 リーグの試合で6 敗戦後、リリーホワイトズ2 次決勝戦。",
+      "title_original": "Struggling Preston North End sack Heckingbottom",
+      "summary_original": "Preston North End sack Paul Heckingbottom after six defeats in seven league games left the Lilywhites second bottom of the Championship.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0qxpqvpgdeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 14:10:29 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "レンジャーズ v アバディーン&エディンバラ ダービー で League Cup セミ",
       "summary": "レンジャーズセミファイナルでアバディーンに対して描画されている Premier Sports Cup, ミディアンとヒベリニアンの心が他のネクタイで向かいますハムデン・パーク.",
@@ -2816,20 +2837,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "More dropped points at Anfield - is it too early for リヴァプール to worry?",
-      "summary": "リヴァプール have failed to win either of their first two プレミアリーグ games at Anfield. But is it too early to worry?",
-      "title_original": "More dropped points at Anfield - is it too early for Liverpool to worry?",
-      "summary_original": "Liverpool have failed to win either of their first two Premier League games at Anfield. But is it too early to worry?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62j0lr1rzmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 19:30:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2945,6 +2952,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "More dropped points at Anfield - is it too early for リヴァプール to worry?",
+      "summary": "リヴァプール have failed to win either of their first two プレミアリーグ games at Anfield. But is it too early to worry?",
+      "title_original": "More dropped points at Anfield - is it too early for Liverpool to worry?",
+      "summary_original": "Liverpool have failed to win either of their first two Premier League games at Anfield. But is it too early to worry?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62j0lr1rzmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 19:30:02 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "私は誰ですか?Guess WSL 星のいいえ 4",
       "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
       "title_original": "Who am I? Guess WSL star No 4",
@@ -2984,20 +3005,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "別のヴィラロス後に回答を求めて左 Emery",
-      "summary": "アストン・ヴィラ開口部の3 つを失ったプレミアリーグボスを離れるゲーム Unai Emery 回答に苦労します。",
-      "title_original": "Emery left searching for answers after another Villa loss",
-      "summary_original": "Aston Villa have lost three of their opening four Premier League games to leave boss Unai Emery struggling for answers.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clye91zj7l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 18:06:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3155,6 +3162,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "別のヴィラロス後に回答を求めて左 Emery",
+      "summary": "アストン・ヴィラ開口部の3 つを失ったプレミアリーグボスを離れるゲーム Unai Emery 回答に苦労します。",
+      "title_original": "Emery left searching for answers after another Villa loss",
+      "summary_original": "Aston Villa have lost three of their opening four Premier League games to leave boss Unai Emery struggling for answers.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clye91zj7l0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 18:06:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ピックフォード参加プレミアリーグ クリーンシート100 クラブ",
       "summary": "Our Ask Me Anything ゴールキーパーが100 を達成したチームを見るプレミアリーグ クリーンシート獲得を問い合わせ",
       "title_original": "Pickford joins Premier League clean sheet 100 club",
@@ -3169,16 +3190,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Rashford の代わりに、Gordon は価値を証明していますバルセロナ",
-      "summary": "Anthony Gordon's7000万ポンド に移動バルセロナいくつか疑問にありました - しかし、イングランドのウインドガーは、すでに無料のスコアリングスペインの巨人のための彼の価値を証明しています。",
-      "title_original": "Signed instead of Rashford, Gordon is proving worth at Barca",
-      "summary_original": "Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 06:14:51 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
+      "title": "マンチェスター・ユナイテッド. .マンチェスター・シティ: プレミアリーグ– ライブ",
+      "summary": "マンチェスター ダービー からの更新します。4.30pm BST ゴール️ Febrile derby awaits amid rift 間に ユナイテッド ファン と クラブ ゴール !Drop Rob 電子メールマンチェスター・シティ四季折々の楽しみ方を満喫していただきたい。負よりも確かにプラスがあります Enzo Maresca チームについて詳しく知る 獲得を問い合わせポルト彼らは遠くまでスロッピーだったし、ミッドフィールドは開い続けるので、彼らの激しいに対する声明のパフォーマンス",
+      "title_original": "Manchester United v Manchester City: Premier League – live",
+      "summary_original": "⚽️ Manchester derby updates from 4.30pm BST ⚽️ Febrile derby awaits amid rift between United fans and club ⚽️ Today’s scores | Drop Rob an email Manchester City have enjoyed a perfect start to the season without ever looking fully convincing in their victories. There are certainly more positives than negatives as Enzo Maresca learns more and more about his team. Against Porto they were sloppy for far too long and the midfield continues to look open, so a statement performance against their fierc",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
+      "published": "Sun, 13 Sep 2026 14:11:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3197,13 +3218,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズ 3-0 セルティック: Scottish League Cup 四半期ファイナル - それが起こったように",
-      "summary": "Dan Neil ガーズが最初に勝利したように2 回スコアオールドファーム最後の4 7 分に進行するシーズンのダービー:セルティックここにちょうどタッチスロッピーを見て、レンジャーズ Penrice がミッドフィールドでボールを獲得するようにリズムを設定します。5 分:ジョンストーンの裏側にある衝撃器で、ボールを真っ直ぐにクリアしてケルシーにクリアし、その中は広いホッケー。セルティック早々に1 人ずつ出ます。続きを読む...",
-      "title_original": "Rangers 3-0 Celtic: Scottish League Cup quarter-final – as it happened",
-      "summary_original": "Dan Neil scored twice as the Gers triumphed in the first Old Firm derby of the season to progress to the last four 7 min: Celtic are looking just a touch sloppy here, with Rangers setting the rhythm as Penrice wins the ball in midfield. 5 min: A shocker at the back from Johnstone, clearing the ball straight to Kelsy, inside the area, who hooks it wide. Celtic get away with one early. Continue reading...",
+      "title": "レンジャーズレイアウトダウンオールドファームマーカーとしてセルティック送信されたパッキングから Scottish League Cup",
+      "summary": "Derek McInnes ここに跳ねる Ibrox 彼のレンジャーズ側面の支配人セルティック全青の群衆の前で最初の決定オールドファーム季節の出会い。テクノを跳ねるバックドロップへレンジャーズファンは3 つの思い出に残る目標を投げる勝利で祝いました。ツイート2 ゴールスキッパーのため、Dan Neil, ブックエンド Kevin Kelsy’s ダウンへの後半仕上げ Martin O’Neill’s 相対的な容易さを使って。また、McInnes の側面に、物理的な約束とロットとロットを埋め立てることによって定義された名声を提示しました",
+      "title_original": "Rangers lay down Old Firm marker as Celtic sent packing from Scottish League Cup",
+      "summary_original": "Derek McInnes got Ibrox bouncing here, his Rangers side dominating Celtic in front of an all-blue crowd to decide the first Old Firm encounter of the season. To a backdrop of bouncing techno, Rangers fans celebrated three memorable goals in a thumping win. A brace for the skipper, Dan Neil, bookended Kevin Kelsy’s second-half finish to down Martin O’Neill’s with relative ease. It also showcased a nascent identity for McInnes’s side, one defined by unbending physical commitment and lots and lots ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/13/rangers-v-celtic-scottish-league-cup-quarter-final-live",
-      "published": "Sun, 13 Sep 2026 13:39:56 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/13/rangers-celtic-scottish-league-cup-match-report",
+      "published": "Sun, 13 Sep 2026 13:38:16 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3225,6 +3246,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Spygate saga は、ケース ドラッグ オン として Southampton を追い続ける",
+      "summary": "Manager Tonda Eckert’s 未来は、FA とのバランスを保ちながら、適切な罰の Fifty 秒を上回るのは、そのすべてが開始するために取られた。「あなたは、あなたが何であるかを知っている、あなたはあなたが何であるかを知っている、バスタードを不正行為、あなたはあなたが何であるかを知っている」ブリストル・シティ FC ファンは、遠く離れた大陸から聞いた泣き始めます St Mary’s Stadium こちらの季節です。The Southampton サーカスの拍手が応答し、自分の曲でノイズを落としました。これは、",
+      "title_original": "Spygate saga continues to haunt Southampton as case drags on",
+      "summary_original": "Manager Tonda Eckert’s future remains in the balance with the FA yet to decide over a suitable punishment Fifty seconds was all it took for the chant to begin. “You know what you are, you know what you are, cheating bastards, you know what you are,” bellowed the Bristol City fans, starting up a cry heard from every away contingent coming to St Mary’s Stadium this season. The Southampton supporters responded with sarcastic applause, then drowned out the noise with songs of their own. This is what",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/spygate-saga-continues-to-haunt-southampton-as-case-drags-on",
+      "published": "Sun, 13 Sep 2026 07:00:01 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "De Zerbi コメントトッテナムリーグの勝利を待つと「メンタルブロック」を持っている",
       "summary": "「勝利なし、ゴール獲得なし...プレイヤーにとって厳しい」トッテナム0-0 の後の 17 の場所はに対して引くことエヴァートンロベルト・デ・ツェルビ氏は、トッテナムプレーヤーは、物理的なフィットネスを欠い続けると、「ブロック解除」は、彼らが彼らの最新を撤退した後、心理的な言葉で自分自身をプレミアリーグ自宅で空白 0-0 とエヴァートン獲得を問い合わせ ゴールなしでシーズンの始まり以来、今大会で4 つのゲームですトッテナム; 彼らは2 つのポイントとテーブルに17 番目の座って、不満のファンによってオフにしました。ディー Z",
       "title_original": "De Zerbi says Spurs have ‘mental block’ after wait for league win continues",
@@ -3239,17 +3274,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Spygate saga は、ケース ドラッグ オン として Southampton を追い続ける",
-      "summary": "Manager Tonda Eckert’s 未来は、FA とのバランスを保ちながら、適切な罰の Fifty 秒を上回るのは、そのすべてが開始するために取られた。「あなたは、あなたが何であるかを知っている、あなたはあなたが何であるかを知っている、バスタードを不正行為、あなたはあなたが何であるかを知っている」ブリストル・シティ FC ファンは、遠く離れた大陸から聞いた泣き始めます St Mary’s Stadium こちらの季節です。The Southampton サーカスの拍手が応答し、自分の曲でノイズを落としました。これは、",
-      "title_original": "Spygate saga continues to haunt Southampton as case drags on",
-      "summary_original": "Manager Tonda Eckert’s future remains in the balance with the FA yet to decide over a suitable punishment Fifty seconds was all it took for the chant to begin. “You know what you are, you know what you are, cheating bastards, you know what you are,” bellowed the Bristol City fans, starting up a cry heard from every away contingent coming to St Mary’s Stadium this season. The Southampton supporters responded with sarcastic applause, then drowned out the noise with songs of their own. This is what",
+      "title": "ヨーロッパのフットボール:ドルトムント再び勝つが、Gladbach rout の後の Freiburg トップ",
+      "summary": "ミラノは2-2 の後ろから来たラツィオ キリアン・エムバペとして2 回打つことレアル・マドリードクルーズ Felix Nmecha スコアは2 回、Fábio Silva 別のものをとしてつかむボルシア・ドルトムント3-0 を自宅で獲得し、パダーボーンを促進し、完璧なスタートを続けようブンデスリーガ. ドルトムント’ s の勝利は、このキャンペーンのリーグで 3 人から 3 人になった, 彼らのベストスタートで 11 シーズン, 日付 戻るトーマス・トゥヘル獲得を問い合わせ 並んでフロントを立ち上げるセール・ギラシ今シーズン初めて、シルバは上昇を変換",
+      "title_original": "European football: Dortmund win again but Freiburg top after Gladbach rout",
+      "summary_original": "Milan come from behind in 2-2 draw with Lazio Kylian Mbappé strikes twice as Real Madrid cruise Felix Nmecha scored twice and Fábio Silva grabbed another as Borussia Dortmund won 3-0 at home to promoted Paderborn to continue their perfect start in the Bundesliga. Dortmund’s win made it three from three in the league this campaign, their best start in 11 seasons, dating back to Thomas Tuchel’s time. Starting up front alongside Serhou Guirassy for the first time this season, Silva converted a clev",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/spygate-saga-continues-to-haunt-southampton-as-case-drags-on",
-      "published": "Sun, 13 Sep 2026 07:00:01 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga",
+      "published": "Sat, 12 Sep 2026 21:17:49 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3277,34 +3312,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "エメリーは、無事に森林ストライキとして責任を負いますアストン・ヴィラ",
-      "summary": "この夏には、パズルの重要な部分がいくつかありましたオリヴァー・グラスナー置くためにノッティンガム・フォレスト. 最初は、ラインをリードするモバイルストライカーだったし、もう一方は、彼の好ましい3-4-3 システムに合う適切な翼のバックだった。Enter Liam Delap そして、Daniel Muñoz といっても、森が初めてグランスナーの勝利で大声を浴びていたんですが、マッチワインダーは昔のブリガデの1 人でした。Igor Jesus. Delap スタイルで最初のフォレストゴール、25 ヤードの強力なショット、ミュニョス w",
-      "title_original": "Emery takes responsibility as Forest strike late at winless Aston Villa",
-      "summary_original": "This summer there were a couple of significant pieces of the puzzle for Oliver Glasner to put into place at Nottingham Forest. The first was a mobile striker to lead the line and the other was a right wing-back to fit his favoured 3-4-3 system. Enter Liam Delap and Daniel Muñoz, both of whom had a big say in Forest’s first win under Glasner, though the match-winner was one of the old brigade in Igor Jesus. Delap registered his first Forest goal in style, a powerful shot from 25 yards and Muñoz w",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/aston-villa-nottingham-forest-premier-league-match-report",
-      "published": "Sat, 12 Sep 2026 16:09:39 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ヨーロッパのフットボール:ドルトムント再び勝つが、Gladbach rout の後の Freiburg トップ",
-      "summary": "ミラノは2-2 の後ろから来たラツィオ キリアン・エムバペとして2 回打つことレアル・マドリードクルーズ Felix Nmecha スコアは2 回、Fábio Silva 別のものをとしてつかむボルシア・ドルトムント3-0 を自宅で獲得し、パダーボーンを促進し、完璧なスタートを続けようブンデスリーガ. ドルトムント’ s の勝利は、このキャンペーンのリーグで 3 人から 3 人になった, 彼らのベストスタートで 11 シーズン, 日付 戻るトーマス・トゥヘル獲得を問い合わせ 並んでフロントを立ち上げるセール・ギラシ今シーズン初めて、シルバは上昇を変換",
-      "title_original": "European football: Dortmund win again but Freiburg top after Gladbach rout",
-      "summary_original": "Milan come from behind in 2-2 draw with Lazio Kylian Mbappé strikes twice as Real Madrid cruise Felix Nmecha scored twice and Fábio Silva grabbed another as Borussia Dortmund won 3-0 at home to promoted Paderborn to continue their perfect start in the Bundesliga. Dortmund’s win made it three from three in the league this campaign, their best start in 11 seasons, dating back to Thomas Tuchel’s time. Starting up front alongside Serhou Guirassy for the first time this season, Silva converted a clev",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga",
-      "published": "Sat, 12 Sep 2026 21:17:49 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3519,20 +3526,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Sesko soars としてマンチェスター・ユナイテッドサージ 過去 サバー にチャンピオンズリーグフィードバック",
-      "summary": "夜だったローマサバが彼らに連れて行った驚くべき物語を与えられたのでオールド・トラッフォード獲得を問い合わせチャンピオンズリーグデビュー。10 年前にも存在しなかったクラブで、Azerbaijan のタイトルにボルトを誰も見ていないのは、最後のシーズンです。2024-25 で、彼らは41 ポイントを上から終わっていた。マネージャーの仕事,Valdas Dambrauskas 昨年の夏を過ぎてからやってきたのは無事です。寒く、硬い現実の夜もありました。マンチェスター・ユナイテッドは、",
-      "title_original": "Sesko soars as Manchester United surge past Sabah on Champions League return",
-      "summary_original": "It was a night for romance given the astonishing story that Sabah brought with them to Old Trafford for their Champions League debut. This is a club that did not even exist a decade ago and nobody saw their bolt to the title in Azerbaijan coming last season; in 2024-25, they had finished 41 points off the top. The job that their manager, Valdas Dambrauskas, has done since taking over in the summer of last year is extraordinary. It was also a night for cold, hard reality. Manchester United were b",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-champions-league-match-report",
-      "published": "Thu, 10 Sep 2026 21:05:24 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "男性用移籍市場夏の2026:ヨーロッパトップ5 リーグの全ての移籍",
       "summary": "最新情報プレミアリーグ, ラ・リーガ, ブンデスリーガ, リーグ・アンそして、セリエ A ディールとクラブバイクラブガイド移籍市場 インテルアクティブなガイド 続きを読む...",
       "title_original": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
@@ -3603,6 +3596,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "バロン d’ ショートリスト表示プレミアリーグの 攻撃の失敗 - しかし、潮は回転する可能性があります",
+      "summary": "英語のトップフライトのフォワードは、セットピースのグラップルのシーズンを反映しているリストには表れていませんが、2026-27 はすでに明るいようですプレミアリーグ今年のバロン d’Or ショートリストで 16 人の攻撃選手になると、表現は低いです。マンチェスター・ユナイテッド獲得を問い合わせブルーノ・フェルナンデスそして、マンチェスター・シティ獲得を問い合わせアーリング・ハーランドありますが、コール・パーマー2025 年にノーマインの1 つが、怪我ヒットの年と、英語のサッカーの体力へのシフトと、最後のシーズンをセットする",
+      "title_original": "Ballon d’Or shortlist shows up Premier League’s attacking failings – but tide could be turning",
+      "summary_original": "English top flight’s forwards are not well represented on the list, reflecting a season of set-piece grapple, but 2026-27 already looks brighter Premier League representation is low when it comes to the 16 attacking players on this year’s Ballon d’Or shortlist . Manchester United’s Bruno Fernandes and Manchester City’s Erling Haaland are there but Cole Palmer, one of the nominees in 2025, is out after an injury-hit year and English football’s shift towards physicality and set pieces last season ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/11/ballon-dor-shortlist-shows-up-premier-leagues-attacking-failings-but-tide-could-be-turning",
+      "published": "Fri, 11 Sep 2026 19:00:13 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Jimenez が Wolves で90 分優勝シェフィールド・ユナイテッド FC",
       "summary": "ラウル・ヒメネスベンチから90 分の勝者を獲得し、Wolves 1-0 を獲得シェフィールド・ユナイテッド FC.",
       "title_original": "Jimenez hits 90th-minute winner for Wolves at Sheff Utd",
@@ -3617,9 +3624,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スペイングランプリ: 幸運なノーリスが戻って LIVE をドロップした後、Leclerc は Antonelli をリード!",
+      "title": "「新しい」Solheim Cup 星!' | ナダウドのヨーロッパの重要なポイントは、野生のお祝いをスパーク!",
+      "summary": "フランスのロッキーNastasia Nadaud 彼女が敗北するようにヨーロッパの重要なポイントを主張 Andrea Lee 3&2.",
+      "title_original": "'A new Solheim Cup star!' | Nadaud's crucial point for Europe sparks wild celebrations!",
+      "summary_original": "French rookie Nastasia Nadaud claims a vital point for Europe as she defeats Andrea Lee 3&2.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585404/solheim-cup-nastasia-nadaud-crucial-point-for-europe-sparks-wild-celebrations",
+      "published": "Sun, 13 Sep 2026 15:03:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "スペイングランプリ: ノリスはルクルクリードとしてヴェルスタッペンの戦いをライニング Antonelli LIVE!",
       "summary": "",
-      "title_original": "Spanish GP: Leclerc leads Antonelli after luckless Norris drops back LIVE!",
+      "title_original": "Spanish GP: Norris lining up Verstappen fight as Leclerc leads Antonelli LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13585122/f1-spanish-gp-live-race-updates-results-stream-highlights-from-14th-round-of-2026-formula-1-season-at-madring",
@@ -3743,9 +3764,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "It's Derby Day! マンチェスター・ユナイテッド対比マンチェスター・シティビルドアップ LIVE!",
+      "title": "It's Derby Day! マンチェスター・ユナイテッド対比マンチェスター・シティチームニュース LIVE!",
       "summary": "",
-      "title_original": "It's Derby Day! Man Utd vs Man City build-up LIVE!",
+      "title_original": "It's Derby Day! Man Utd vs Man City team news LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-united-vs-manchester-city/live/559481",
@@ -3862,20 +3883,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13585324/man-united-vs-chelsea-keira-walsh-slots-home-a-second-goal-to-extend-chelseas-lead-over-man-united",
       "published": "Sun, 13 Sep 2026 12:37:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "デッドロックを破壊する数研スコアマンチェスター・ユナイテッド",
-      "summary": "チェルシーの Sjoeke Nusken がうまく機能したゴールを獲得マンチェスター・ユナイテッド彼女の側面に鉛を与えるため。",
-      "title_original": "Nusken scores to breaks the deadlock against Man Utd",
-      "summary_original": "Chelsea's Sjoeke Nusken scores a well worked goal against Man United to give her side the lead.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585320/man-united-vs-chelsea-sjoeke-nusken-opens-the-scoring-against-man-united-in-the-wsl",
-      "published": "Sun, 13 Sep 2026 12:26:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
