@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T12:28:53.144387+00:00",
+  "updated_at": "2026-09-13T12:43:20.860443+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2747,7 +2747,10 @@
     "Marc Skinner’s": "",
     "Old FIrm": "",
     "Madring LIVE": "",
-    "Chelsea's Sjoeke Nusken": ""
+    "Chelsea's Sjoeke Nusken": "",
+    "Lauren James": "ローレン・ジェームズ",
+    "Ellie Carpenter": "",
+    "Dan Neil": ""
   },
   "items": [
     {
@@ -3177,7 +3180,7 @@
       "summary_original": "⚽️ WSL updates from 12pm BST at Leigh Sports Village ⚽️ Live scoreboard | Send your thoughts to Emillia via email The teams are out. Kick-off is just a few moments away! Ahead of today’s match, Chelsea head coach Sonia Bompastor said: “We need to keep the confidence and keep working hard. I spoke after the Villa game about the mentality, the mindset. It’s a huge part of being ruthless in the box. That game could have been easily 3-0 half-time, and we need to have that mentality when we have the ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-chelsea-womens-super-league-live",
-      "published": "Sun, 13 Sep 2026 12:19:28 GMT",
+      "published": "Sun, 13 Sep 2026 12:34:06 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3191,7 +3194,7 @@
       "summary_original": "Match at Ibrox kicks off at 12pm (all times BST) Miovski hits late Rangers winner, Celtic extend streak 7 min: Celtic are looking just a touch sloppy here, with Rangers setting the rhythm as Penrice wins the ball in midfield. 5 min: A shocker at the back from Johnstone, clearing the ball straight to Kelsy, inside the area, who hooks it wide. Celtic get away with one early. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/13/rangers-v-celtic-scottish-league-cup-quarter-final-live",
-      "published": "Sun, 13 Sep 2026 12:20:00 GMT",
+      "published": "Sun, 13 Sep 2026 12:34:57 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3717,6 +3720,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「夢の国にいる!」 | ジェームズ・カルペンターセメントチェルシーリード",
+      "summary": "ローレン・ジェームズそして、Ellie Carpenter 対比速火ダブルスコアマンチェスター・ユナイテッド.",
+      "title_original": "'They're in dreamland!' | James and Carpenter cement Chelsea lead",
+      "summary_original": "Lauren James and Ellie Carpenter score a quickfire double against Man Utd.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585345/manchester-united-vs-chelsea-lauren-james-and-ellie-carpenter-send-chelsea-further-ahead-with-quickfire-double",
+      "published": "Sun, 13 Sep 2026 13:27:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ピンポイント仕上げ! ウォルシュダブルスチェルシーの に対するリードマンチェスター・ユナイテッド",
       "summary": "Keira Walsh スコアチェルシー「第2 の目標」マンチェスター・ユナイテッド WSL で。",
       "title_original": "Pinpoint finish! Walsh doubles Chelsea's lead against Man Utd",
@@ -3801,13 +3818,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Solheim Cup LIVE! ハルシングルスでのクローズは、トップのヨーロッパとして勝つ",
+      "title": "Dan Neil ダブルパットレンジャーズ3 対比セルティックライブ!",
       "summary": "",
-      "title_original": "Solheim Cup LIVE! Hull closing on singles win as Europe on top",
+      "title_original": "Dan Neil double puts Rangers three up against Celtic LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/rangers-vs-celtic/live/577540",
+      "published": "Sun, 13 Sep 2026 10:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Solheim Cup LIVE! ハル日曜日のシングルスでヨーロッパとしてチャンを打つ",
+      "summary": "",
+      "title_original": "Solheim Cup LIVE! Hull beats Khang as Europe on top in Sunday singles",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13585250/solheim-cup-live-latest-scores-updates-highlights-from-sunday-singles-as-team-europe-face-team-usa-on-rainy-final-day",
-      "published": "Sun, 13 Sep 2026 12:00:00 BST",
+      "published": "Sun, 13 Sep 2026 13:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3829,20 +3860,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ケルシーダブルスレンジャーズ' 利点対セルティックライブ!",
-      "summary": "",
-      "title_original": "Kelsy doubles Rangers' advantage vs Celtic LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/rangers-vs-celtic/live/577540",
-      "published": "Sun, 13 Sep 2026 10:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Rybakina が Sabalenka を打ち勝つ US Open タイトル と セメント 彼女の 上昇 へ いいえ 1",
       "summary": "エレーナ・リバキナ世界 No1 の2 回を延ばすことによってセメントで造られた US Open 受賞者 Aryna Sabalenka で彼女の乙女のタイトルをシールする New York.",
       "title_original": "Rybakina beats Sabalenka to win US Open title and cement her rise to No 1",
@@ -3854,20 +3871,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Guimaraes おばさんサンダーランドとしてアーセナル勝ち始め続ける",
-      "summary": "ブルーノ・ギマランイス2 分後に素晴らしいゴールを獲得 David Raya ペナルティをそのまま保存しましたアーセナルビートサンダーランド2-0 上記を移動するマンチェスター・シティ一番上にあるプレミアリーグ.",
-      "title_original": "Guimaraes haunts Sunderland as Arsenal continue winning start",
-      "summary_original": "Bruno Guimaraes scored a stunning goal two minutes after David Raya had saved a penalty as Arsenal beat Sunderland 2-0 to move above Manchester City at the top of the Premier League.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/sunderland-vs-arsenal/report/559482",
-      "published": "Sat, 12 Sep 2026 22:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
