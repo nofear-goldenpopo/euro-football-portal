@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T11:23:33.345407+00:00",
+  "updated_at": "2026-09-13T11:36:29.458508+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2745,7 +2745,9 @@
     "Megan Khang": "",
     "September. That": "",
     "Marc Skinner’s": "",
-    "Old FIrm": ""
+    "Old FIrm": "",
+    "Madring LIVE": "",
+    "Chelsea's Sjoeke Nusken": ""
   },
   "items": [
     {
@@ -3589,6 +3591,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スペイングランプリ: ノリスは Antonelli から最初のレースでスタート Madring LIVE!",
+      "summary": "",
+      "title_original": "Spanish GP: Norris starts on pole from Antonelli for first race at Madring LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13585122/f1-spanish-gp-live-race-updates-results-stream-highlights-from-14th-round-of-2026-formula-1-season-at-madring",
+      "published": "Sun, 13 Sep 2026 12:21:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リーズ Rhinos は2026 年の大部分を占める Super League Dream Team",
       "summary": "The Super League Dream2026 年のチームは6 人のチームを明らかにしましたリーズ Rhinos 選手は含まれています。",
       "title_original": "Leeds Rhinos make up majority of 2026 Super League Dream Team",
@@ -3617,9 +3633,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL:マンチェスター・ユナイテッドホストチェルシー6 試合で LIVE!",
+      "title": "WSL: ウォルシュダブルスチェルシーリードマンチェスター・ユナイテッドライブ!",
       "summary": "",
-      "title_original": "WSL: Man Utd host Chelsea in first of six matches LIVE!",
+      "title_original": "WSL: Walsh doubles Chelsea lead at Man Utd LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-united-women-vs-chelsea-women/live/575768",
@@ -3701,6 +3717,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "デッドロックを破壊する数研スコアマンチェスター・ユナイテッド",
+      "summary": "チェルシーの Sjoeke Nusken がうまく機能したゴールを獲得マンチェスター・ユナイテッド彼女の側面に鉛を与えるため。",
+      "title_original": "Nusken scores to breaks the deadlock against Man Utd",
+      "summary_original": "Chelsea's Sjoeke Nusken scores a well worked goal against Man United to give her side the lead.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585320/man-united-vs-chelsea-sjoeke-nusken-opens-the-scoring-against-man-united-in-the-wsl",
+      "published": "Sun, 13 Sep 2026 12:26:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ハイライトを戦う:Garcia KOs Benn2 つの劇的なラウンドの後!",
       "summary": "Ryan Garcia フローリング後の WBC ワールドタイトルを保持 Conor Benn2 番目のラウンドでストップページ勝利を強制する前に、大きく。DAZN のファイト映像提供",
       "title_original": "Fight highlights: Garcia KOs Benn after two dramatic rounds!",
@@ -3708,6 +3738,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13585270/fight-highlights-ryan-garcia-kos-conor-benn-after-two-dramatic-rounds",
       "published": "Sun, 13 Sep 2026 10:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "コベントリー対ブライトンチームニュース LIVE!",
+      "summary": "",
+      "title_original": "Coventry vs Brighton team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/coventry-city-vs-brighton-and-hove-albion/live/559477",
+      "published": "Sun, 13 Sep 2026 12:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3757,9 +3801,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "初めてのフランティックなスタートオールドファーム季節のライブ!",
+      "title": "ニール火レンジャーズ先の対面セルティックライブ!",
       "summary": "",
-      "title_original": "Frantic start to first Old FIrm of the season LIVE!",
+      "title_original": "Neil fires Rangers ahead vs Celtic LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/rangers-vs-celtic/live/577540",
@@ -3824,48 +3868,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Spine-tingling New Zealand Haka 米国の混雑が予想される前に!",
-      "summary": "New Zealand キャプテンコーディー・テイラースピンリング Haka を初めて対抗する South Africa.",
-      "title_original": "Spine-tingling New Zealand Haka in front of captivated US crowd!",
-      "summary_original": "New Zealand captain Codie Taylor leads a spine-tingling Haka for the first time against South Africa.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585210/codie-taylor-leads-a-spine-tingling-haka-for-the-first-time-as-captain",
-      "published": "Sat, 12 Sep 2026 22:53:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "オライド:London City 私を驚かせて倒す - しかし、私の方法は時間がかかります",
-      "summary": "Eva Olid 彼女の新しいことについてもっと学びましたマンチェスター・ユナイテッド先月の全体よりも過去の週の側から引き継がれたので Marc Skinner.",
-      "title_original": "Olid: London City defeat surprised me - but my methods will take time",
-      "summary_original": "Eva Olid has learned more about her new Manchester United side in the past week than in the whole of the previous month since she took over from Marc Skinner.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584474/eva-olid-exclusive-manchester-united-women-head-coach-surprised-by-manner-of-london-city-defeat",
-      "published": "Fri, 11 Sep 2026 15:49:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "論文:リッチアリソンが目指すトッテナム失敗した後、Vasco da Gama 移動",
-      "summary": "日曜日の新聞から噂を移籍するトップストーリー...",
-      "title_original": "Papers: Richarlison takes aim at Spurs after failed Vasco da Gama move",
-      "summary_original": "The top stories and transfer rumours from Sunday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585182/tottenham-transfer-news-spurs-forward-richarlison-takes-aim-at-spurs-following-collapse-of-proposed-vasco-da-gama-transfer-paper-talk",
-      "published": "Fri, 11 Sep 2026 23:16:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
