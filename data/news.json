@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T06:09:17.982629+00:00",
+  "updated_at": "2026-09-13T06:33:22.036110+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2695,7 +2695,9 @@
     "Furious Arteta": "",
     "Everton Roberto De Zerbi": "",
     "Extraordinary Rybakina": "",
-    "Sunday's Manchester": ""
+    "Sunday's Manchester": "",
+    "Jackie Bachteler": "",
+    "T-Mobile Arena": "T-モバイル・アリーナ"
   },
   "items": [
     {
@@ -2839,20 +2841,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Guimaraes と Raya の重要な -サンダーランド. .アーセナル 選手採点",
-      "summary": "使い方サンダーランドそして、アーセナルプレイヤーは、以下の評価を受けているプレミアリーグマッチ。",
-      "title_original": "Guimaraes and Raya crucial - Sunderland v Arsenal player ratings",
-      "summary_original": "How Sunderland and Arsenal players rated following their Premier League match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czjzpvxy0vko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 20:56:48 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "More dropped points at Anfield - is it too early for リヴァプール to worry?",
       "summary": "リヴァプール have failed to win either of their first two プレミアリーグ games at Anfield. But is it too early to worry?",
       "title_original": "More dropped points at Anfield - is it too early for Liverpool to worry?",
@@ -2864,6 +2852,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「死ぬつもりだったと思った」 -バーンリー敗血症のボスは怖い",
+      "summary": "バーンリーマネージャーJackie Bachteler でダグアウトになります Turf Moor 日曜日に初めて - しかし、9 ヶ月前、彼女は彼女の人生のために戦うことができました。",
+      "title_original": "'I thought I was going to die' - Burnley boss on sepsis scare",
+      "summary_original": "Burnley manager Jackie Bachteler will be in the dugout at Turf Moor on Sunday for the first time - but nine months ago she was fighting for her life.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cnvlrpn9dpgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 06:14:58 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2881,6 +2883,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Guimaraes と Raya の重要な -サンダーランド. .アーセナル 選手採点",
+      "summary": "使い方サンダーランドそして、アーセナルプレイヤーは、以下の評価を受けているプレミアリーグマッチ。",
+      "title_original": "Guimaraes and Raya crucial - Sunderland v Arsenal player ratings",
+      "summary_original": "How Sunderland and Arsenal players rated following their Premier League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czjzpvxy0vko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 20:56:48 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "新しいシステム、同じ問題 - Alonso が 'soft' に満足していないチェルシー",
       "summary": "サブデュース Stamford Bridge アフターチェルシー’s 2-2 新しく進められた引くハル・シティ AFC.",
       "title_original": "New system, same problems - Alonso not happy with 'soft' Chelsea",
@@ -2888,6 +2904,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 12 Sep 2026 18:22:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アーセナルモニタリング Como's Paz - 日曜日の移籍ゴシップ",
+      "summary": "アーセナルモニタリング Nico Paz, リヴァプールそして、アストン・ヴィラ追跡シェール・エンドゥールそして、サンダーランド上に与えるために洗練されています Geny Catamo, 以上.",
+      "title_original": "Arsenal monitoring Como's Paz - Sunday's gossip",
+      "summary_original": "Arsenal are monitoring Nico Paz, Liverpool and Aston Villa are tracking Cher Ndour and Sunderland are refusing to give up on Geny Catamo, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2e0mzdwmkko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 21:35:12 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2909,20 +2939,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナルモニタリング Como's Paz - 日曜日の移籍ゴシップ",
-      "summary": "アーセナルモニタリング Nico Paz, リヴァプールそして、アストン・ヴィラ追跡シェール・エンドゥールそして、サンダーランド上に与えるために洗練されています Geny Catamo, 以上.",
-      "title_original": "Arsenal monitoring Como's Paz - Sunday's gossip",
-      "summary_original": "Arsenal are monitoring Nico Paz, Liverpool and Aston Villa are tracking Cher Ndour and Sunderland are refusing to give up on Geny Catamo, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2e0mzdwmkko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 21:35:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ピックフォード参加プレミアリーグ クリーンシート100 クラブ",
       "summary": "Our Ask Me Anything ゴールキーパーが100 を達成したチームを見るプレミアリーグ クリーンシート獲得を問い合わせ",
       "title_original": "Pickford joins Premier League clean sheet 100 club",
@@ -2934,20 +2950,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Rashford の代わりに、Gordon は価値を証明していますバルセロナ",
-      "summary": "Anthony Gordon's7000万ポンド に移動バルセロナいくつか疑問にありました - しかし、イングランドのウインドガーは、すでに無料のスコアリングスペインの巨人のための彼の価値を証明しています。",
-      "title_original": "Signed instead of Rashford, Gordon is proving worth at Barca",
-      "summary_original": "Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 06:14:51 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3091,6 +3093,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Rashford の代わりに、Gordon は価値を証明していますバルセロナ",
+      "summary": "Anthony Gordon's7000万ポンド に移動バルセロナいくつか疑問にありました - しかし、イングランドのウインドガーは、すでに無料のスコアリングスペインの巨人のための彼の価値を証明しています。",
+      "title_original": "Signed instead of Rashford, Gordon is proving worth at Barca",
+      "summary_original": "Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 06:14:51 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Solanke struggles, but Branthwaite solid - トッテナム v エヴァートン 選手採点",
       "summary": "How トッテナム and エヴァートンの players rated following their プレミアリーグ match, which ended in a goalless draw.",
       "title_original": "Solanke struggles, but Branthwaite solid - Spurs v Everton player ratings",
@@ -3101,20 +3117,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ファンなし, ユーロのカロリー & ダービーデビュー - なぜオールドファームタイは重要な",
-      "summary": "BBC Scotland 最初の会議をプレビューレンジャーズそして、セルティック今シーズンは、オールドファームライバルは、オフに直面して準備します Premier Sports Cup クォーターフィナーズ。",
-      "title_original": "No away fans, Euro calamities & derby debuts - why Old Firm tie is crucial",
-      "summary_original": "BBC Scotland previews the first meeting of Rangers and Celtic this season as the Old Firm rivals prepare to face off in the Premier Sports Cup quarter-finals.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zpjpwz0wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 20:36:14 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3553,6 +3555,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ガルシアはちょうど2 ラウンドでベンを取る",
+      "summary": "Ryan Garcia ハンマーConor Benn2 ラウンド中を倒す T-モバイル・アリーナ獲得を問い合わせラスベガス.",
+      "title_original": "Garcia takes out Benn in just two rounds",
+      "summary_original": "Ryan Garcia hammered Conor Benn to defeat inside two rounds at the T-Mobile Arena in Las Vegas.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13584754/ryan-garcia-finishes-conor-benn-in-just-two-rounds-to-defend-wbc-welterweight-world-championship-in-las-vegas",
+      "published": "Sun, 13 Sep 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トレンフェイス Forty Years On ドンカスター",
       "summary": "最終日の最終日セントレジャーステークス祭りはトゥーレンクラッシュと見ます Forty Years On.",
       "title_original": "Touleen faces Forty Years On at Doncaster",
@@ -3802,20 +3818,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Hollie Doyle ブログ: ビッグファンの Forty Years On 獲得を問い合わせ Sceptre Stakes",
-      "summary": "Sky Sports Racing アンバサダーHollie Doyle 最終日のプレビューセントレジャーステークスドンカスターでフェスティバル - ライブ Sky Sports Racing– 最高品質の行動と共に Champions’ Weekend 獲得を問い合わせ The Curragh.",
-      "title_original": "Hollie Doyle blog: Big fan of Forty Years On in Sceptre Stakes",
-      "summary_original": "Sky Sports Racing ambassador Hollie Doyle previews the final day of the St Leger Festival at Doncaster - live on Sky Sports Racing – alongside top-quality action on Champions’ Weekend at The Curragh.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13584748/hollie-doyle-blog-big-fan-of-forty-years-on-in-sceptre-stakes-on-final-day-of-doncasters-leger-festival",
-      "published": "Sat, 12 Sep 2026 17:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
