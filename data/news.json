@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T22:06:31.691309+00:00",
+  "updated_at": "2026-09-13T22:24:03.428308+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2875,16 +2875,30 @@
     },
     {
       "title": "観戦:日の試合",
-      "summary": "2 つのハイライトプレミアリーグマッチ、マンチェスターダービーを含むオールド・トラッフォード.",
+      "summary": "マンチェスターのダービーとコベントリーは、自宅で最初の勝利を探していますブライトン",
       "title_original": "Watch: Match of the Day",
-      "summary_original": "Highlights of two Premier League matches, including the Manchester derby at Old Trafford.",
+      "summary_original": "With the Manchester derby and Coventry looking for their first win at home to Brighton",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0031mp6?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 22:21:25 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「Their Intelligence & Resilience はキーだった」マンチェスター・シティ獲得した 'statement win'",
+      "summary": "デイパンディットのマッチ Danny Murphy 方法を説明するマンチェスター・シティビートマンチェスター・ユナイテッド獲得を問い合わせオールド・トラッフォードほとんどのゲームのために10 人の男性にダウンしているにもかかわらず。",
+      "title_original": "'Their intelligence & resilience was key' - how Man City earned 'statement win'",
+      "summary_original": "Match of the Day pundit Danny Murphy explains how Manchester City beat Manchester United at Old Trafford despite being down to 10 men for most of the game.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 22:20:42 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -2927,20 +2941,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Foden は Mainoo の impresses として赤を見ます - Manchester derby の評価",
-      "summary": "使い方マンチェスター・ユナイテッドそして、マンチェスター・シティダービークラッシュで評価された選手オールド・トラッフォード.",
-      "title_original": "Foden sees red as Mainoo impresses - Manchester derby ratings",
-      "summary_original": "How Manchester United and Manchester City players rated in the derby clash at Old Trafford.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2kwpk5zy23o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 17:27:07 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3263,20 +3263,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Anfield でポイントを落とす - それはあまりにも早いですリヴァプール獲得を問い合わせ",
-      "summary": "リヴァプール最初の2 つのいずれかを獲得できなかったプレミアリーグゲームで Anfield. But 心配は早いですか?",
-      "title_original": "More dropped points at Anfield - is it too early for Liverpool to worry?",
-      "summary_original": "Liverpool have failed to win either of their first two Premier League games at Anfield. But is it too early to worry?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62j0lr1rzmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 19:30:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3700,13 +3686,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Zverev は、シェルトンの心とアメリカの夢を終わらせます US Open ログイン",
+      "title": "Zverev はシェルトンの実行とアメリカの希望を終わらせます US Open トリムフ",
       "summary": "トップシード Alexander Zverev 更新したベン・シェルトン「心」の夢を終わらせ、アメリカ合衆国 A バイ 勝ち 彼の メイド US Open 日曜日の4 組のタイトル。",
-      "title_original": "Zverev breaks Shelton's heart and ends American dreams with US Open win",
+      "title_original": "Zverev ends Shelton’s run and American hopes with US Open triumph",
       "summary_original": "Top seed Alexander Zverev broke Ben Shelton's heart and ended the dreams of the USA by winning his maiden US Open title in four sets on Sunday.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/news/12040/13585617/us-open-top-seed-alexander-zverev-breaks-ben-sheltons-heart-and-ends-american-dreams-by-winning-title-in-four-sets",
       "published": "Sun, 13 Sep 2026 22:55:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Zverev 勝つ US Open・・・、実現しません!",
+      "summary": "Alexander Zverev ログイン全米オープン気にしない!",
+      "title_original": "Zverev wins US Open…and doesn’t realise!!!",
+      "summary_original": "Alexander Zverev won the US Open and didn't even realise!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585649/alexander-zverev-wins-us-openand-doesnt-realise",
+      "published": "Sun, 13 Sep 2026 23:04:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3959,20 +3959,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13585500/solheim-cup-sunday-singles-highlights",
       "published": "Sun, 13 Sep 2026 17:26:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「ブルノの暴力的なもの!」 - ケーンと Micah DEBATE Foden レッド",
-      "summary": "ロイ・キーンそして、Micah Richards 議論フィル・フォーデン レッドカード.",
-      "title_original": "‘Bruno’s the violent one!’ - Keane and Micah DEBATE Foden red",
-      "summary_original": "Roy Keane and Micah Richards debate the Phil Foden red card.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585506/man-utd-vs-man-city-roy-keane-and-micah-richards-debate-phil-foden-red-bruno-fernandes-is-the-violent-one",
-      "published": "Sun, 13 Sep 2026 17:33:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
