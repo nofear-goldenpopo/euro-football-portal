@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T22:50:35.728460+00:00",
+  "updated_at": "2026-09-13T23:05:47.514847+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2867,7 +2867,10 @@
     "Green Bay": "",
     "New Orleans Saints": "",
     "Detroit Lions": "",
-    "Green Bay's NFL": ""
+    "Green Bay's NFL": "",
+    "Lewis Dunk's": "",
+    "Sunday. Handed": "",
+    "Lennart Karl": "レナート・カール"
   },
   "items": [
     {
@@ -3081,6 +3084,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ゴール決定を下すと「バッフル」が間違っている - Rooney",
+      "summary": "デイパンディットのマッチウェイン・ルーニーそして、Danny Murphy「バッフル」を見つけるアーリング・ハーランドマンチェスター・ダービーの勝利の目標は、VAR によって除外されていないが、フィル・フォーデン獲得を問い合わせレッドカード正しい決断でした。",
+      "title_original": "Getting goal decision so wrong is 'baffling' - Rooney",
+      "summary_original": "Match of the Day pundits Wayne Rooney and Danny Murphy finds it \"baffling\" that Erling Haaland's winning goal in the Manchester derby was not ruled out by VAR, but think Phil Foden's red card was the correct decision.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9w4755n70wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 22:59:17 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Fernandes と Foden が送信されました - Maresca",
       "summary": "Enzo Maresca 共に信じるフィル・フォーデンそして、ブルーノ・フェルナンデス送信されるべきマンチェスター・シティダービーの勝利に対するマンチェスター・ユナイテッド.",
       "title_original": "Fernandes and Foden should have been sent off - Maresca",
@@ -3092,6 +3109,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「どうして行っていませんか?」 - コベントリーに対するダンクの不思議な目標",
+      "summary": "デイパンディットのマッチ Danny Murphy そして、ウェイン・ルーニー見てみるルイス・ダンク'信じられないほどのロングレンジストライキでブライトン'5-0 は、彼の技術のための擁護者を賞賛するコベントリーに対して勝ちます。",
+      "title_original": "'Why not have go?!' - Dunk's wonder goal against Coventry",
+      "summary_original": "Match of the Day pundits Danny Murphy and Wayne Rooney take a look at Lewis Dunk's incredible long-range strike in Brighton's 5-0 win against Coventry, praising the defender for his technique.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvgyree8zpro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 22:59:21 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3175,34 +3206,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マレスカは「完璧な人」ですマンチェスター・シティ仕事 - Dias",
-      "summary": "マンチェスター・シティディフェンダールベン・ディアス獲得を問い合わせ BBC Sport's Kelly Somers 下記クラブの変更についてペップ・グアルディオラ「出発」",
-      "title_original": "Maresca is 'perfect person' for Man City job - Dias",
-      "summary_original": "Manchester City defender Ruben Dias speaks to BBC Sport's Kelly Somers about the changes at the club following Pep Guardiola's departure.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm2rd3m01x0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 05:19:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ヨーロッパの次の素晴らしいコーチ?How Fabregas 導かれた Como にチャンピオンズリーグ",
-      "summary": "BBC スポーツは、クラブのコーチのビジョンと哲学を発見するためにコモを訪問します,セスク・ファブレガスチームの驚くべき上昇を上回っている人チャンピオンズリーグ.",
-      "title_original": "Europe's next great coach? How Fabregas led Como into Champions League",
-      "summary_original": "BBC Sport visits Como to discover the vision and philosophy of the club's coach, Cesc Fabregas, who has overseen the team's remarkable rise to the Champions League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 07:35:25 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3333,16 +3336,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL の円形:アーセナル rue misses でクリスタル・パレスドロー,マンチェスター・シティクラッシュ ヴィラ",
-      "summary": "エミレーツで開催されたガンナーズは、ゴールシティの勝利4 で30 の試みにもかかわらず、アストン・ヴィラ完全な開始を拡張するためにアーセナル残された30 は0〜0 の点を落とした後、チャンスを逃しましたクリスタル・パレス獲得を問い合わせエミレーツ・スタジアム. ガンナーズは、ターゲット9 回に当たると、ほぼ80%の所持を持っていたが、その優位性を目標に変えることができなかった。プロモーションクリスタル・パレスゴールキーパーで弾力性のあるパフォーマンスを、Pauline Peyraud-Magnin から試してみる Alessia Russo, クロエ・ケリーそして、",
-      "title_original": "WSL roundup: Arsenal rue misses in Palace draw, Manchester City crush Villa",
-      "summary_original": "Gunners held at Emirates despite 30 attempts on goal City win 4-1 at Aston Villa to extend perfect start Arsenal were left to rue 30 missed chances after dropping points in a 0-0 draw against Crystal Palace at the Emirates Stadium. The Gunners hit the target nine times and had almost 80% possession but could not convert their superiority into goals. Promoted Palace put on a resilient performance, with the goalkeeper Pauline Peyraud-Magnin batting away attempts from Alessia Russo, Chloe Kelly and",
+      "title": "ヨーロッパのサッカー:Kane は助けますバイエルンエッジ・エルバーベルク、Sassuolo stun ユヴェントス",
+      "summary": "エルバーベルク 1-2 バイエルン; サッソロ 3-2 ユヴェントス バルセロナ Levante は、パリ・サンジェルマンエンドウインレスランハリー・ケイン初めてのスコアブンデスリーガ季節を目標にバイエルン・ミュンヘン Elversberg の推進で2-1 の勝利へのエッジ Sunday. Handed スキッパー付きキャプテンのアームバンドマヌエル・ノイアー安静に、Kane は 18 分残して 1-1 デッドロックを破り、勝利のために防衛チャンピオンをトラックに入れました。バイエルン十代のドイツのウィンガーを介してリードを取ったレナート・カール, しかし、エルバーベルク – 誰が w",
+      "title_original": "European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus",
+      "summary_original": "Elversberg 1-2 Bayern; Sassuolo 3-2 Juventus Barcelona see off Levante, PSG end winless run Harry Kane scored his first Bundesliga goal of the season to help Bayern Munich edge to a 2-1 win at promoted Elversberg on Sunday. Handed the captain’s armband with skipper Manuel Neuer rested, Kane scored with 18 minutes remaining to break a 1-1 deadlock and put the defending champions on track for victory. Bayern had taken the lead through teenage Germany winger Lennart Karl, but Elversberg – who had w",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/wsl-roundup-arsenal-crystal-palace-aston-villa-manchester-city",
-      "published": "Sun, 13 Sep 2026 19:58:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus",
+      "published": "Sun, 13 Sep 2026 22:47:47 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3361,16 +3364,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヨーロッパのサッカー:Kane は助けますバイエルンエッジ・エルバーベルク、Sassuolo stun ユヴェントス",
-      "summary": "エルバーベルク 1-2 バイエルン; サッソロ 3-2 ユヴェントス バルセロナ Levante は、パリ・サンジェルマンエンドウインレスランバルセロナ頑張った 4-2 で、その完璧なスタートを続けたラ・リーガバレンシアで Levante の勝利 Sunday. Levante 自分自身を築く2 ゴール早速19 分以内に曲がるバルセロナ目標のために導かれる Xavi Espart そして、ラミン・ヤマル. 家の側面によって中立される、6 つの打撃との半分を終えて下さいバルセロナ3 続きを読む...",
-      "title_original": "European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus",
-      "summary_original": "Elversberg 1-2 Bayern; Sassuolo 3-2 Juventus Barcelona see off Levante, PSG end winless run Barcelona continued their perfect start to the ⁠season with a hard-fought 4-2 La Liga victory over Levante in Valencia ⁠on Sunday. Levante ⁠found ​themselves two goals down within 19 minutes after swift play from ⁠Barcelona led to goals for Xavi Espart and Lamine Yamal. The home side ⁠then rallied, finishing the half with six ​shots to Barcelona’s ‌three. Continue reading...",
+      "title": "WSL の円形:アーセナル rue misses でクリスタル・パレスドロー,マンチェスター・シティクラッシュ ヴィラ",
+      "summary": "エミレーツで開催されたガンナーズは、ゴールシティの勝利4 で30 の試みにもかかわらず、アストン・ヴィラ完全な開始を拡張するためにアーセナル残された30 は0〜0 の点を落とした後、チャンスを逃しましたクリスタル・パレス獲得を問い合わせエミレーツ・スタジアム. ガンナーズは、ターゲット9 回に当たると、ほぼ80%の所持を持っていたが、その優位性を目標に変えることができなかった。プロモーションクリスタル・パレスゴールキーパーで弾力性のあるパフォーマンスを、Pauline Peyraud-Magnin から試してみる Alessia Russo, クロエ・ケリーそして、",
+      "title_original": "WSL roundup: Arsenal rue misses in Palace draw, Manchester City crush Villa",
+      "summary_original": "Gunners held at Emirates despite 30 attempts on goal City win 4-1 at Aston Villa to extend perfect start Arsenal were left to rue 30 missed chances after dropping points in a 0-0 draw against Crystal Palace at the Emirates Stadium. The Gunners hit the target nine times and had almost 80% possession but could not convert their superiority into goals. Promoted Palace put on a resilient performance, with the goalkeeper Pauline Peyraud-Magnin batting away attempts from Alessia Russo, Chloe Kelly and",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus",
-      "published": "Sun, 13 Sep 2026 17:21:35 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
+      "url": "https://www.theguardian.com/football/2026/sep/13/wsl-roundup-arsenal-crystal-palace-aston-villa-manchester-city",
+      "published": "Sun, 13 Sep 2026 19:58:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3935,9 +3938,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Zverev として反応は、タイトルを獲得するために4 セットでホーム希望シェルトンを打つ",
+      "title": "ヘンマン: Zverev は 1 年前に後退したプレーヤーから変換しました",
       "summary": "",
-      "title_original": "US Open LIVE! Reaction as Zverev beats home hope Shelton in four sets to win title",
+      "title_original": "Henman: Zverev has transformed from a player who was going backwards a year ago",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13585240/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-taking-on-ben-shelton-in-the-mens-final",
