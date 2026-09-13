@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T15:49:59.704765+00:00",
+  "updated_at": "2026-09-13T16:06:25.318621+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2787,7 +2787,14 @@
     "Frank Lampard. And": "",
     "Brighton. And": "",
     "Carlos Sainz": "",
-    "Fernando Alonso": "フェルナンド・アロンソ"
+    "Fernando Alonso": "フェルナンド・アロンソ",
+    "Sam Surridge": "",
+    "Sporting KC": "スポルティング・カンザスシティ",
+    "LAFC Charlotte": "",
+    "Orlando City": "",
+    "Nashville SC": "",
+    "Dayne St Clair. Surridge": "",
+    "Eastern Conferen": ""
   },
   "items": [
     {
@@ -3001,20 +3008,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "私は誰ですか?Guess WSL 星のいいえ 4",
-      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
-      "title_original": "Who am I? Guess WSL star No 4",
-      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c804e74y1jeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 07:24:15 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日のテスト Who Am 私は?、ファイブとブレインティーザーの5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -3211,13 +3204,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッドツイートマンチェスター・シティ: プレミアリーグ– ライブ",
-      "summary": "マンチェスター ダービー からの更新します。4.30pm BST ゴール️ Febrile derby awaits amid rift 間に ユナイテッド ファン と クラブ 人気の高い評価 Drop Rob 電子メールブライトン’4 の目標は、叫び手だったからルイス・ダンク, すべての人々, ステーヴ・ブラッドフィールドからこのメールを促す. です。ブライトン'4 月目標のためのスラムダンクの目標? 続きを読む...",
+      "title": "ピックフォード参加プレミアリーグ クリーンシート100 クラブ",
+      "summary": "Our Ask Me Anything ゴールキーパーが100 を達成したチームを見るプレミアリーグ クリーンシート獲得を問い合わせ",
+      "title_original": "Pickford joins Premier League clean sheet 100 club",
+      "summary_original": "Our Ask Me Anything team look at which goalkeepers have achieved 100 Premier League clean sheets.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg5n27w3rpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 18:36:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド. .マンチェスター・シティ: プレミアリーグ– ライブ",
+      "summary": "マンチェスター derby のアップデートから 4.30pm BST チャンスをお待ちしています。ブライトン rout Coventry ❤今日のスコアを見る |Drop Rob 電子メールブライトン’4 の目標は、スクリーマーだったからルイス・ダンク, すべての人々, ステーヴ・ブラッドフィールドからこのメールを促す. です。ブライトン'4 月目標のためのスラムダンクの目標? 続きを読む...",
       "title_original": "Manchester United v Manchester City: Premier League – live",
-      "summary_original": "⚽️ Manchester derby updates from 4.30pm BST ⚽️ Febrile derby awaits amid rift between United fans and club ⚽️ Today’s scores | Drop Rob an email Brighton’s fourth goal was a screamer from Lewis Dunk , of all people, prompting this email from Steve Bradfield. Is Brighton’s fourth goal a slam Dunk for goal of month? Continue reading...",
+      "summary_original": "⚽️ Manchester derby updates from 4.30pm BST ⚽️ Dunk showstopper helps Brighton rout Coventry ⚽️ Today’s scores | Drop Rob an email Brighton’s fourth goal was a screamer from Lewis Dunk , of all people, prompting this email from Steve Bradfield. Is Brighton’s fourth goal a slam Dunk for goal of month? Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
-      "published": "Sun, 13 Sep 2026 15:34:32 GMT",
+      "published": "Sun, 13 Sep 2026 15:49:38 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3309,16 +3316,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヨーロッパのフットボール:ドルトムント再び勝つが、Gladbach rout の後の Freiburg トップ",
-      "summary": "ミラノは2-2 の後ろから来たラツィオ キリアン・エムバペとして2 回打つことレアル・マドリードクルーズ Felix Nmecha スコアは2 回、Fábio Silva 別のものをとしてつかむボルシア・ドルトムント3-0 を自宅で獲得し、パダーボーンを促進し、完璧なスタートを続けようブンデスリーガ. ドルトムント’ s の勝利は、このキャンペーンのリーグで 3 人から 3 人になった, 彼らのベストスタートで 11 シーズン, 日付 戻るトーマス・トゥヘル獲得を問い合わせ 並んでフロントを立ち上げるセール・ギラシ今シーズン初めて、シルバは上昇を変換",
-      "title_original": "European football: Dortmund win again but Freiburg top after Gladbach rout",
-      "summary_original": "Milan come from behind in 2-2 draw with Lazio Kylian Mbappé strikes twice as Real Madrid cruise Felix Nmecha scored twice and Fábio Silva grabbed another as Borussia Dortmund won 3-0 at home to promoted Paderborn to continue their perfect start in the Bundesliga. Dortmund’s win made it three from three in the league this campaign, their best start in 11 seasons, dating back to Thomas Tuchel’s time. Starting up front alongside Serhou Guirassy for the first time this season, Silva converted a clev",
+      "title": "Sam Surridge 獲得を問い合わせアディショナルタイムデニーメッシマイアミの勝利:MLS のラウンドアップ",
+      "summary": "スポルティング・カンザスシティロングウィンレスラン v を終了 LAFC Charlotte シンシーは6 頭のスリラー・グリーズマンをターゲットにプレイ Orlando City ログイン Sam Surridge 後半分のイコライザーをスコアアディショナルタイム来場のご案内 Nashville SC, 遊ぶインテルマイアミは土曜日の夕方に2-2 を描く。サリッジの目標は、夕方の2 番目と15 番目は、シャク・モハメドのショットが保存された後、追い越しました Dayne St Clair. Surridge 助けるためにリバウンドを置くために位置にある Eastern Conferen",
+      "title_original": "Sam Surridge in stoppage time denies Messi and Miami a win: MLS roundup",
+      "summary_original": "Sporting KC end a long winless run v LAFC Charlotte and Cincy play a six-goal thriller Griezmann on target in Orlando City win Sam Surridge scored an equalizer in the first minute of second-half stoppage time for visiting Nashville SC, ⁠who played Inter Miami to a 2-2 draw on Saturday evening. Surridge’s goal, his second of the evening and 15th ⁠of the season, ⁠came after Shak ​Mohammed’s shot was saved by Dayne St Clair. Surridge was in position to put home the rebound to help ⁠Eastern Conferen",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga",
-      "published": "Sat, 12 Sep 2026 21:17:49 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
+      "url": "https://www.theguardian.com/football/2026/sep/13/mls-lionel-messi-nashville-sc-sporting-kc-antoine-griezmann",
+      "published": "Sun, 13 Sep 2026 15:44:15 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3491,6 +3498,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ヨーロッパのフットボール:ドルトムント再び勝つが、Gladbach rout の後の Freiburg トップ",
+      "summary": "ミラノは2-2 の後ろから来たラツィオ キリアン・エムバペとして2 回打つことレアル・マドリードクルーズ Felix Nmecha スコアは2 回、Fábio Silva 別のものをとしてつかむボルシア・ドルトムント3-0 を自宅で獲得し、パダーボーンを促進し、完璧なスタートを続けようブンデスリーガ. ドルトムント’ s の勝利は、このキャンペーンのリーグで 3 人から 3 人になった, 彼らのベストスタートで 11 シーズン, 日付 戻るトーマス・トゥヘル獲得を問い合わせ 並んでフロントを立ち上げるセール・ギラシ今シーズン初めて、シルバは上昇を変換",
+      "title_original": "European football: Dortmund win again but Freiburg top after Gladbach rout",
+      "summary_original": "Milan come from behind in 2-2 draw with Lazio Kylian Mbappé strikes twice as Real Madrid cruise Felix Nmecha scored twice and Fábio Silva grabbed another as Borussia Dortmund won 3-0 at home to promoted Paderborn to continue their perfect start in the Bundesliga. Dortmund’s win made it three from three in the league this campaign, their best start in 11 seasons, dating back to Thomas Tuchel’s time. Starting up front alongside Serhou Guirassy for the first time this season, Silva converted a clev",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga",
+      "published": "Sat, 12 Sep 2026 21:17:49 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トッテナム引退後、シーズン初となるリーグゴールを待つエヴァートン",
       "summary": "早すぎるとトッテナム危機? 答えが確かに答えは、それがあまりにも初期に過ぎないということですトッテナム危機。4 日目以降プレミアリーグゲーム, 彼らはまだスコアを持っている. リーグシーズンの始まりに、その歴史に遭ったことはない。少なくとも、彼らはターゲットに、この時間にショットのカップルを従わなければなりませんでした, そのために失敗しました 最後の週末 で 0-0 で描画ノッティンガム・フォレスト獲得を問い合わせ 最初から Mateus Fernandes– 後半の始まりは、鉄のチェアーによって挨拶された",
       "title_original": "Tottenham waiting for first league goal of season after draw against Everton",
@@ -3540,20 +3561,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/11/eva-olid-manchester-united-wsl",
       "published": "Fri, 11 Sep 2026 11:18:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシーハンドペドロ・ネト 新契約自分の拒絶の目覚めにマンチェスター・シティ",
-      "summary": "複数のクラブによる夏の追い越し後のウィンガーシンキングチェルシーフェルナンデスを市に売る感じが右手だったチェルシーやりがいのある方ペドロ・ネトウィンガーを新しい契約で手渡すことで、シーズンへの強いスタートとクラブへのコミットメント。The Portugal インテル国民は夏を過ごしましたインテルいくつかから est プレミアリーグクラブを含むマンチェスター・シティ, しかし、滞在し、遊びたいという願望を示したシャビ・アロンソ. 彼は、余分な年の選択と5 年間の契約を結び、支払いの上昇を受け取ることです。アロンソ",
-      "title_original": "Chelsea hand Pedro Neto new deal in wake of his rejecting Manchester City",
-      "summary_original": "Winger shining after summer pursuit by several clubs Chelsea felt selling Fernández to City was right move Chelsea have rewarded Pedro Neto’s strong start to the season and commitment to the club by handing the winger a new contract. The Portugal international had summer interest from several Premier League clubs including Manchester City, but indicated a desire to stay and play for Xabi Alonso. He has signed a five-year deal with the option of an extra year and is to receive a pay rise. Alonso ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/11/chelsea-pedro-neto-new-contract-xabi-alonso",
-      "published": "Fri, 11 Sep 2026 12:55:05 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3638,6 +3645,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13585287/spanish-gp-kimi-antonelli-wins-first-f1-race-at-madring-to-increase-title-lead-after-lando-norris-misfortune",
       "published": "Sun, 13 Sep 2026 15:45:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "スペイングランプリ| レースハイライト",
+      "summary": "2026 年のハイライトスペイングランプリ.",
+      "title_original": "Spanish Grand Prix | Race highlights",
+      "summary_original": "Highlights from the 2026 Spanish Grand Prix.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585469/spanish-grand-prix-race-highlights",
+      "published": "Sun, 13 Sep 2026 16:26:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3799,9 +3820,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヨーロッパは主張するために米国を離れて保持します Solheim Cup スリラー",
-      "summary": "Team Europe 再び回復してきた Solheim Cup 印象的なシングルディスプレイがそれらがビートを見た後 Team USA15-13 当日オランダ.",
-      "title_original": "Europe hold off USA to claim Solheim Cup thriller",
+      "title": "ヨーロッパの回復 Solheim Cup シングルススリラーの後の米国から",
+      "summary": "Team Europe 再び回復してきた Solheim Cup 印象的なシングルディスプレイの後に、それらがビートを見た Team USA15-13 当日オランダ.",
+      "title_original": "Europe regain Solheim Cup from USA after singles thriller",
       "summary_original": "Team Europe have regained the Solheim Cup after an impressive singles display saw them beat Team USA 15-13 in an eventful day in the Netherlands.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13585314/solheim-cup-2026-team-europe-regain-trophy-from-team-usa-after-lottie-woad-carlota-ciganda-close-out-thrilling-home-win",
@@ -3890,20 +3911,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13584516/today-on-sky-sports-racing-touleen-faces-forty-years-on-at-doncaster",
       "published": "Sun, 13 Sep 2026 07:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「騒音を望む」 |ハル野生の雰囲気でハングティーオフ",
-      "summary": "シャレーハルそして、Megan Khang 獲得を問い合わせ Solheim Cup 最終日に放つと、雑音を作るために群衆。",
-      "title_original": "'She wants the noise' | Hull and Khang tee off in wild atmosphere",
-      "summary_original": "Charley Hull and Megan Khang both asked for the Solheim Cup crowd to make some noise whilst they tee'd off on the final day.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585289/solheim-cup-she-wants-the-noise-hull-and-khang-tee-off-in-wild-atmosphere",
-      "published": "Sun, 13 Sep 2026 10:26:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
