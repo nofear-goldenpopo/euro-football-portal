@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T13:23:52.310568+00:00",
+  "updated_at": "2026-09-13T13:35:55.106047+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2754,7 +2754,10 @@
     "Raul Jimenez": "ラウル・ヒメネス",
     "Hamilton OUT": "",
     "Antonelli LIVE": "",
-    "Dominant FIVE-star": ""
+    "Dominant FIVE-star": "",
+    "Hampden Park": "ハムデン・パーク",
+    "Luckless Norris": "",
+    "It's Derby Day": ""
   },
   "items": [
     {
@@ -2765,6 +2768,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cn45w80wn5xo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 05:44:42 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンジャーズ v アバディーン&エディンバラ ダービー で League Cup セミ",
+      "summary": "レンジャーズセミファイナルでアバディーンに対して描画されている Premier Sports Cup, ミディアンとヒベリニアンの心が他のネクタイで向かいますハムデン・パーク.",
+      "title_original": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
+      "summary_original": "Rangers have been drawn against Aberdeen in the semi-finals of the Premier Sports Cup, while rivals Heart of Midlothian and Hibernian will face off in the other tie at Hampden Park.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 13:26:08 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -2828,20 +2845,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "新しいシステム、同じ問題 - Alonso が 'soft' に満足していないチェルシー",
-      "summary": "サブデュース Stamford Bridge アフターチェルシー’s 2-2 新しく進められた引くハル・シティ AFC.",
-      "title_original": "New system, same problems - Alonso not happy with 'soft' Chelsea",
-      "summary_original": "It was subdued at Stamford Bridge after Chelsea's 2-2 draw with newly promoted Hull City.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 18:22:46 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "私は誰ですか?Guess WSL 星のいいえ 4",
       "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
       "title_original": "Who am I? Guess WSL star No 4",
@@ -2863,6 +2866,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c5ympj1m71ko?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 12 Sep 2026 21:53:50 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "新しいシステム、同じ問題 - Alonso が 'soft' に満足していないチェルシー",
+      "summary": "サブデュース Stamford Bridge アフターチェルシー’s 2-2 新しく進められた引くハル・シティ AFC.",
+      "title_original": "New system, same problems - Alonso not happy with 'soft' Chelsea",
+      "summary_original": "It was subdued at Stamford Bridge after Chelsea's 2-2 draw with newly promoted Hull City.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 18:22:46 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -2940,20 +2957,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナムリーグのゴールを待ち続けるエヴァートンログイン",
-      "summary": "トッテナムの 最初の待ちプレミアリーグロベルト・デ・ツェルビの側面がゴールレス・ホーム・ドローイングに開催された後、このシーズンのゴールと勝利が続くエヴァートン.",
-      "title_original": "Tottenham's wait for league goal continues after Everton draw",
-      "summary_original": "Tottenham's wait for a first Premier League goal and win this season continues after Roberto de Zerbi's side were held to a goalless home draw by Everton.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cg49xg625n0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 21:32:43 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「死ぬつもりだったと思った」 -バーンリー敗血症のボスは怖い",
       "summary": "バーンリーマネージャーJackie Bachteler でダグアウトになります Turf Moor 日曜日に初めて - しかし、9 ヶ月前、彼女は彼女の人生のために戦うことができました。",
       "title_original": "'I thought I was going to die' - Burnley boss on sepsis scare",
@@ -2965,6 +2968,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "トッテナムリーグのゴールを待ち続けるエヴァートンログイン",
+      "summary": "トッテナムの 最初の待ちプレミアリーグロベルト・デ・ツェルビの側面がゴールレス・ホーム・ドローイングに開催された後、このシーズンのゴールと勝利が続くエヴァートン.",
+      "title_original": "Tottenham's wait for league goal continues after Everton draw",
+      "summary_original": "Tottenham's wait for a first Premier League goal and win this season continues after Roberto de Zerbi's side were held to a goalless home draw by Everton.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cg49xg625n0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 21:32:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3161,20 +3178,6 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ソランケは苦難しますが、ブラントウェイトは固まります -トッテナムツイートエヴァートン 選手採点",
-      "summary": "使い方トッテナムそして、エヴァートンの のプレイヤーは、プレミアリーグゴールレス・ドローで終わるマッチ。",
-      "title_original": "Solanke struggles, but Branthwaite solid - Spurs v Everton player ratings",
-      "summary_original": "How Spurs and Everton's players rated following their Premier League match, which ended in a goalless draw.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8043gn8ng3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 18:32:15 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3626,9 +3629,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スペイングランプリ: Hamilton OUT ノリスのリードとして自動車の問題 Antonelli LIVE!",
+      "title": "スペイングランプリ: Luckless Norris ビッグマドリングのツイスト LIVE でリードを失う!",
       "summary": "",
-      "title_original": "Spanish GP: Hamilton OUT with car issues as Norris leads Antonelli LIVE!",
+      "title_original": "Spanish GP: Luckless Norris loses lead in big Madring twist LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13585122/f1-spanish-gp-live-race-updates-results-stream-highlights-from-14th-round-of-2026-formula-1-season-at-madring",
@@ -3720,6 +3723,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "It's Derby Day! マンチェスター・ユナイテッド対比マンチェスター・シティビルドアップ LIVE!",
+      "summary": "",
+      "title_original": "It's Derby Day! Man Utd vs Man City build-up LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-united-vs-manchester-city/live/559481",
+      "published": "Sun, 13 Sep 2026 14:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3857,20 +3874,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13585270/fight-highlights-ryan-garcia-kos-conor-benn-after-two-dramatic-rounds",
       "published": "Sun, 13 Sep 2026 10:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブライトン彼らがオープナーを求めてトップ Coventry LIVE!",
-      "summary": "",
-      "title_original": "Brighton on top as they seek opener at Coventry LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/coventry-city-vs-brighton-and-hove-albion/live/559477",
-      "published": "Sun, 13 Sep 2026 12:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
