@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T18:26:47.572058+00:00",
+  "updated_at": "2026-09-13T18:40:08.303582+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2824,7 +2824,13 @@
     "Bills QB": "",
     "Mary Fowler": "",
     "Team Europe’s Solheim Cup": "",
-    "Akane Okuma's": ""
+    "Akane Okuma's": "",
+    "SNL UK": "",
+    "Weekly Update US Open": "",
+    "SNL UK's Ania Magliano": "",
+    "Paddy Young": "",
+    "Jeff Goldblum": "ジェフ・ゴールドブラム",
+    "Carlos Alcaraz's": ""
   },
   "items": [
     {
@@ -3696,13 +3702,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "US Open LIVE! Zverev は男性の最終の家庭有利な Shelton に直面します",
+      "title": "US Open LIVE! Zverev は最終の速い開始 vs 家庭有望シェルトンを作ります",
       "summary": "",
-      "title_original": "US Open LIVE! Zverev faces home-favourite Shelton in men's final",
+      "title_original": "US Open LIVE! Zverev makes fast start vs home-favourite Shelton in final",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13585240/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-taking-on-ben-shelton-in-the-mens-final",
       "published": "Sun, 13 Sep 2026 18:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "SNL UK 獲得を問い合わせ Weekly Update US Open スペシャル",
+      "summary": "SNL UK's Ania Magliano そして、Paddy Young 獲得を問い合わせ Weekly Update US Open 特別な、からのセグメントを含むジェフ・ゴールドブラムそして、Carlos Alcaraz's ニプル...",
+      "title_original": "SNL UK do Weekly Update US Open special",
+      "summary_original": "SNL UK's Ania Magliano and Paddy Young make a Weekly Update US Open special, including segments from Jeff Goldblum and Carlos Alcaraz's nipple...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585559/snl-uk-do-weekly-update-us-open-special",
+      "published": "Sun, 13 Sep 2026 19:10:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3738,6 +3758,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "低いクレーム Irish Open レコード11 ストローク勝利",
+      "summary": "4 日目のハイライトアイリッシュ・オープン.",
+      "title_original": "Lowry claims Irish Open with record 11-stroke victory",
+      "summary_original": "Highlights from day four of the Amgen Irish Open.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585561/amgen-irish-open-day-four-highlights",
+      "published": "Sun, 13 Sep 2026 19:16:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "モンゴメリーは、Texans 初のシーズン TD のためにバンドル",
       "summary": "David Montgomery として動力を与えられたヒューストン・テキサンズ先に進むバッファロー・ビルズ第1 四半期",
       "title_original": "Montgomery bundles over for Texans' first TD of season",
@@ -3748,6 +3782,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ケアンはフォーデンと挨拶レッドカードパンディット批評家フェナンデスの役割として",
+      "summary": "ロイ・キーン信じるフィル・フォーデンマンチェスターのダービーと批判に送信されていないマンチェスター・ユナイテッドキャプテンブルーノ・フェルナンデス' の役割マンチェスター・シティフォワードレッドカード.",
+      "title_original": "Keane disagrees with Foden red card as pundits criticise Fernandes' role",
+      "summary_original": "Roy Keane believes Phil Foden should not have been sent off in the Manchester derby and criticised Man Utd captain Bruno Fernandes' role in the Man City forward's red card.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13585509/phil-foden-sent-off-in-manchester-derby-bruno-fernandes-role-criticised-by-roy-keane-and-micah-richards",
+      "published": "Sun, 13 Sep 2026 17:54:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3780,20 +3828,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ケアンはフォーデンと挨拶レッドカードパンディット批評家フェナンデスの役割として",
-      "summary": "ロイ・キーン信じるフィル・フォーデンマンチェスターのダービーと批判に送信されていないマンチェスター・ユナイテッドキャプテンブルーノ・フェルナンデス' の役割マンチェスター・シティフォワードレッドカード.",
-      "title_original": "Keane disagrees with Foden red card as pundits criticise Fernandes' role",
-      "summary_original": "Roy Keane believes Phil Foden should not have been sent off in the Manchester derby and criticised Man Utd captain Bruno Fernandes' role in the Man City forward's red card.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585509/phil-foden-sent-off-in-manchester-derby-bruno-fernandes-role-criticised-by-roy-keane-and-micah-richards",
-      "published": "Sun, 13 Sep 2026 17:54:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "スーパーブ・ストライキ | フローラーダブルスマンチェスター・シティの に対するリードアストン・ヴィラ",
       "summary": "Mary Fowler ダブルスマンチェスター・シティの リード と 優れた ストライキ 対アストン・ヴィラ.",
       "title_original": "'Superb strike' | Fowler doubles Man City's lead against Aston Villa",
@@ -3804,6 +3838,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Dominant Lowrystorms へ 記録 11 ストローク triumph 時 Irish Open",
+      "summary": "シェーン・ローリー記録11 ショットの勝利に追いつくアイリッシュ・オープン日曜日に7 アンダー63 を撮影するホームクラウドは、パリで23 を驚かせます。",
+      "title_original": "Dominant Lowry storms to record 11-stroke triumph at Irish Open",
+      "summary_original": "Shane Lowry stormed to a record 11-shot victory at the Amgen Irish Open, the home crowd favourite shooting a seven-under 63 on Sunday to finish a staggering 23 under par.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13585479/amgen-irish-open-shane-lowry-secures-record-11-stroke-victory-at-trump-international-links-in-doonbeg",
+      "published": "Sun, 13 Sep 2026 16:38:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3843,20 +3891,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.nbcsports.com/nfl/scores",
       "published": "Sun, 13 Sep 2026 17:40:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Dominant Lowrystorms へ 記録 11 ストローク triumph 時 Irish Open",
-      "summary": "シェーン・ローリー記録11 ショットの勝利に追いつくアイリッシュ・オープン日曜日に7 アンダー63 を撮影するホームクラウドは、パリで23 を驚かせます。",
-      "title_original": "Dominant Lowry storms to record 11-stroke triumph at Irish Open",
-      "summary_original": "Shane Lowry stormed to a record 11-shot victory at the Amgen Irish Open, the home crowd favourite shooting a seven-under 63 on Sunday to finish a staggering 23 under par.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13585479/amgen-irish-open-shane-lowry-secures-record-11-stroke-victory-at-trump-international-links-in-doonbeg",
-      "published": "Sun, 13 Sep 2026 16:38:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3913,34 +3947,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/nfl/news/12040/13585490/myles-garrett-los-angeles-ram-pass-rusher-to-undergo-surgery-and-miss-at-least-four-weeks-after-being-placed-on-injured-reserve",
       "published": "Sun, 13 Sep 2026 17:04:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Foden SENT OFF と衝突した後ブルーノ・フェルナンデス!",
-      "summary": "フィル・フォーデンクラッシュ後のセントオフブルーノ・フェルナンデス!",
-      "title_original": "Foden SENT OFF after clash with Bruno Fernandes!",
-      "summary_original": "Phil Foden SENT OFF after clash with Bruno Fernandes!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585486/off-p-foden-23-man-utd-0-0-man-city",
-      "published": "Sun, 13 Sep 2026 17:02:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スペイングランプリ| レースハイライト",
-      "summary": "2026 年のハイライトスペイングランプリ.",
-      "title_original": "Spanish Grand Prix | Race highlights",
-      "summary_original": "Highlights from the 2026 Spanish Grand Prix.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585469/spanish-grand-prix-race-highlights",
-      "published": "Sun, 13 Sep 2026 16:26:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
