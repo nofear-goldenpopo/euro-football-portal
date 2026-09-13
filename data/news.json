@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T16:37:44.988919+00:00",
+  "updated_at": "2026-09-13T16:51:37.687893+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2799,7 +2799,9 @@
     "Myles Garrett": "マイルズ・ギャレット",
     "Foden SENT OFF": "",
     "Phil Foden SENT OFF": "",
-    "Olid's Man Utd": ""
+    "Olid's Man Utd": "",
+    "Burrow's Bengals": "",
+    "Lamar's Ravens": ""
   },
   "items": [
     {
@@ -2809,7 +2811,7 @@
       "summary_original": "After Phil Foden is sent off in Sunday's Manchester derby, pundits give their reaction. What do you think?",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 16:31:44 GMT",
+      "published": "Sun, 13 Sep 2026 16:45:05 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3223,13 +3225,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド. .マンチェスター・シティ: プレミアリーグ– ライブ",
-      "summary": "マンチェスター derby のアップデートから 4.30pm BST チャンスをお待ちしています。ブライトン rout Coventry ❤今日のスコアブライトン’4 の目標は、スクリーマーだったからルイス・ダンク, すべての人々, ステーヴ・ブラッドフィールドからこのメールを促す. です。ブライトン'4 月目標のためのスラムダンクの目標? 続きを読む...",
+      "title": "マンチェスター・ユナイテッドツイートマンチェスター・シティ: プレミアリーグ– ライブ",
+      "summary": "マンチェスター derby のアップデートから 4.30pm BST の チャンス チャット 助けブライトン Rout Coventry | 今日のスコアブライトン’4 の目標は、叫び手だったからルイス・ダンク, すべての人々, ステーヴ・ブラッドフィールドからこのメールを促す. です。ブライトン'4 月目標のためのスラムダンクの目標? 続きを読む...",
       "title_original": "Manchester United v Manchester City: Premier League – live",
-      "summary_original": "⚽️ Manchester derby updates from 4.30pm BST ⚽️ Dunk showstopper helps Brighton rout Coventry ⚽️ Today’s scores Brighton’s fourth goal was a screamer from Lewis Dunk , of all people, prompting this email from Steve Bradfield. Is Brighton’s fourth goal a slam Dunk for goal of month? Continue reading...",
+      "summary_original": "⚽️ Manchester derby updates from 4.30pm BST ⚽️ Dunk helps Brighton rout Coventry | Today’s scores Brighton’s fourth goal was a screamer from Lewis Dunk , of all people, prompting this email from Steve Bradfield. Is Brighton’s fourth goal a slam Dunk for goal of month? Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
-      "published": "Sun, 13 Sep 2026 16:18:09 GMT",
+      "published": "Sun, 13 Sep 2026 16:35:08 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3643,6 +3645,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "NFL スコア:Burrow's Bengals そして、Lamar's Ravens アクション",
+      "summary": "世界中から最新のスコアをフォローNFL 獲得を問い合わせ Week One2026 年のシーズン。",
+      "title_original": "NFL scores: Burrow's Bengals and Lamar's Ravens in action",
+      "summary_original": "Follow the latest scores from around the NFL in Week One of the 2026 season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.nbcsports.com/nfl/scores",
+      "published": "Sun, 13 Sep 2026 17:40:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "最初に学んだことオールドファーム四季の衝突",
       "summary": "レンジャーズドミネーションセルティック最初にオールドファーム四季のつまみ - その疑いはありません。",
       "title_original": "What we learned from first Old Firm clash of season",
@@ -3713,20 +3729,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Jimenez が Wolves で90 分優勝シェフィールド・ユナイテッド FC",
-      "summary": "ラウル・ヒメネスベンチから90 分の勝者を獲得し、Wolves 1-0 を獲得シェフィールド・ユナイテッド FC.",
-      "title_original": "Jimenez hits 90th-minute winner for Wolves at Sheff Utd",
-      "summary_original": "Raul Jimenez came off the bench to score a 90th-minute winner and earn Wolves a 1-0 win over Sheffield United.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/sheffield-united-vs-wolverhampton-wanderers/report/560576",
-      "published": "Sun, 13 Sep 2026 14:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ブライトン点または目標なしでコベントリーを残すために FIVE を押す",
       "summary": "コベントリーは、彼らの上に無意味のままプレミアリーグ華麗に5-0 を分解したので戻りブライトン獲得を問い合わせコヴェントリー・ビルディング・ソサエティ・アリーナ.",
       "title_original": "Brighton hit FIVE to leave Coventry without point or goal",
@@ -3737,6 +3739,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Jimenez が Wolves で90 分優勝シェフィールド・ユナイテッド FC",
+      "summary": "ラウル・ヒメネスベンチから90 分の勝者を獲得し、Wolves 1-0 を獲得シェフィールド・ユナイテッド FC.",
+      "title_original": "Jimenez hits 90th-minute winner for Wolves at Sheff Utd",
+      "summary_original": "Raul Jimenez came off the bench to score a 90th-minute winner and earn Wolves a 1-0 win over Sheffield United.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/sheffield-united-vs-wolverhampton-wanderers/report/560576",
+      "published": "Sun, 13 Sep 2026 14:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3906,20 +3922,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "WSL: ヴィラ対マンチェスター・シティようこそアーセナルそして、リヴァプールログイン",
-      "summary": "",
-      "title_original": "WSL: Villa vs Man City to come as Arsenal and Liverpool draw",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/aston-villa-women-vs-manchester-city-women/live/575764",
-      "published": "Fri, 11 Sep 2026 10:52:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
