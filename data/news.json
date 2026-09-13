@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T16:51:37.687893+00:00",
+  "updated_at": "2026-09-13T17:05:53.429473+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2801,7 +2801,8 @@
     "Phil Foden SENT OFF": "",
     "Olid's Man Utd": "",
     "Burrow's Bengals": "",
-    "Lamar's Ravens": ""
+    "Lamar's Ravens": "",
+    "Roy Keane": "ロイ・キーン"
   },
   "items": [
     {
@@ -3231,7 +3232,7 @@
       "summary_original": "⚽️ Manchester derby updates from 4.30pm BST ⚽️ Dunk helps Brighton rout Coventry | Today’s scores Brighton’s fourth goal was a screamer from Lewis Dunk , of all people, prompting this email from Steve Bradfield. Is Brighton’s fourth goal a slam Dunk for goal of month? Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
-      "published": "Sun, 13 Sep 2026 16:35:08 GMT",
+      "published": "Sun, 13 Sep 2026 16:49:03 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3645,6 +3646,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "US Open LIVE! Zverev は男性の最終の家庭有利な Shelton に直面します",
+      "summary": "",
+      "title_original": "US Open LIVE! Zverev faces home-favourite Shelton in men's final",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13585240/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-taking-on-ben-shelton-in-the-mens-final",
+      "published": "Sun, 13 Sep 2026 18:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "NFL スコア:Burrow's Bengals そして、Lamar's Ravens アクション",
       "summary": "世界中から最新のスコアをフォローNFL 獲得を問い合わせ Week One2026 年のシーズン。",
       "title_original": "NFL scores: Burrow's Bengals and Lamar's Ravens in action",
@@ -3655,6 +3670,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ケアンはフォーデンと挨拶レッドカードパンディット批評家フェナンデスの役割として",
+      "summary": "ロイ・キーン信じるフィル・フォーデンマンチェスターのダービーと批判に送信されていないマンチェスター・ユナイテッドキャプテンブルーノ・フェルナンデス' の役割マンチェスター・シティフォワードレッドカード.",
+      "title_original": "Keane disagrees with Foden red card as pundits criticise Fernandes' role",
+      "summary_original": "Roy Keane believes Phil Foden should not have been sent off in the Manchester derby and criticised Man Utd captain Bruno Fernandes' role in the Man City forward's red card.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13585509/phil-foden-sent-off-in-manchester-derby-bruno-fernandes-role-criticised-by-roy-keane-and-micah-richards",
+      "published": "Sun, 13 Sep 2026 17:54:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3890,34 +3919,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13585314/solheim-cup-2026-team-europe-regain-trophy-from-team-usa-after-lottie-woad-carlota-ciganda-close-out-thrilling-home-win",
       "published": "Sun, 13 Sep 2026 16:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レンジャーズログインセルティックリーチする League Cup セミファイナル",
-      "summary": "Derek McInnes 初めて優勝オールドファームゲームとしてレンジャーズライバルの勝利3〜3 勝を率いたマネージャーセルティック最後の4 つに進む Scottish League Cup.",
-      "title_original": "Rangers thump Celtic to reach League Cup semi-finals",
-      "summary_original": "Derek McInnes won his first Old Firm game as Rangers manager with an utterly dominant 3-0 victory over rivals Celtic to advance to the last four of the Scottish League Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/rangers-vs-celtic/report/577540",
-      "published": "Sun, 13 Sep 2026 13:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハルまずはフルポイントを勝ち取る | ボードにワンポイントをつけて、残りはフォローできます!",
-      "summary": "シャレーハルビート Megan Khang シングルセッション中の3&2Solheim Cup.",
-      "title_original": "Hull wins first full point | 'Now one point's on the board, the rest can follow!'",
-      "summary_original": "Charley Hull beat Megan Khang 3&2 during the singles session at the Solheim Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585350/solheim-cup-charley-hull-wins-her-first-full-point",
-      "published": "Sun, 13 Sep 2026 13:42:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
