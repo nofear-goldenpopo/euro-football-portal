@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T09:48:06.605886+00:00",
+  "updated_at": "2026-09-13T10:14:04.362117+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2715,7 +2715,10 @@
     "Sunderland. Continue": "",
     "Stamford Bridge. Continue": "",
     "Fight Highlights": "",
-    "Garcia KOs Benn": ""
+    "Garcia KOs Benn": "",
+    "Baltimore Ravens": "ボルチモア・レイブンズ",
+    "Rugby World Cup": "",
+    "Europe's Hull": ""
   },
   "items": [
     {
@@ -2754,20 +2757,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgydkv0yxdo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 12 Sep 2026 20:38:33 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ファンなし, ユーロのカロリー & ダービーデビュー - なぜオールドファームタイは重要な",
-      "summary": "BBC Scotland 最初の会議をプレビューレンジャーズそして、セルティック今シーズンは、オールドファームライバルは、オフに直面して準備します Premier Sports Cup クォーターフィナーズ。",
-      "title_original": "No away fans, Euro calamities & derby debuts - why Old Firm tie is crucial",
-      "summary_original": "BBC Scotland previews the first meeting of Rangers and Celtic this season as the Old Firm rivals prepare to face off in the Premier Sports Cup quarter-finals.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zpjpwz0wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 20:36:14 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3139,13 +3128,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Rashford の代わりに、Gordon は価値を証明していますバルセロナ",
+      "summary": "Anthony Gordon's7000万ポンド に移動バルセロナいくつか疑問にありました - しかし、イングランドのウインドガーは、すでに無料のスコアリングスペインの巨人のための彼の価値を証明しています。",
+      "title_original": "Signed instead of Rashford, Gordon is proving worth at Barca",
+      "summary_original": "Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 06:14:51 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "プレミアリーグマンチェスター・ダービーへのビルドアップ、オールドファーム showdown と WSL - ライブ",
       "summary": "日曜日の試合前のニュース、ディスカッション、リフレクション 今週の週末の備品 | 想いを聞かせてください Dave Estherby 獲得を問い合わせトッテナムそして、その(欠如)ゴールコーリング。彼は言う: 「日の質問 (8.44)、はい、彼らは(a)目標(s)をスコアします - 彼らはまた、最終的に彼らの達成します, er, 要求の3 分の3 回で再資源化取得の目標. 新しいマネージャー、占い費、ゼロの違い。コンテとアンゲは、サッカークラブではなくビジネスです。それを埋めることができる限り",
       "title_original": "Premier League buildup to the Manchester derby, Old Firm showdown and WSL – live",
       "summary_original": "⚽️ News, discussion and reflection before Sunday’s games ⚽️ This weekend’s fixtures | Mail us your thoughts Dave Estherby has messaged in about Tottenham and their (lack of) goalscoring. He says: “Re. question of the day (8.44), yes, they will score (a) goal(s) - they will also finally achieve their, er, goal of getting relegated at the third time of asking. New manager, fortune spent, zero difference. Conte and Ange were right, it’s a business not a football club. As long as they can fill that ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/13/premier-league-buildup-to-the-manchester-derby-old-firm-showdown-and-wsl-live",
-      "published": "Sun, 13 Sep 2026 09:42:29 GMT",
+      "published": "Sun, 13 Sep 2026 09:55:00 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3671,6 +3674,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Springboks 対米国での記録クラウドラグビーニュージーランド代表獲得を問い合わせ World Cup'アプリ",
+      "summary": "キャプテンの South Africa そして、New Zealand 土曜日の最終決定 Greatest RivalryNFL 側のほぼ 70,000 のファンの前で rugby テスト、ボルチモア・レイブンズ' スタジアムは、2031 年にアメリカの食欲をそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそ Rugby World Cup, そのアメリカ合衆国ホストします。",
+      "title_original": "Record crowd in US for Springboks vs All Blacks is World Cup 'appetiser'",
+      "summary_original": "The captains of South Africa and New Zealand hoped Saturday's final Greatest Rivalry rugby Test, in front of almost 70,000 fans at NFL side Baltimore Ravens' stadium, would whet American appetites for the 2031 Rugby World Cup, which the United States will host.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13585288/south-africa-vs-new-zealand-record-crowd-in-baltimore-provides-appetiser-for-2031-rugby-world-cup-on-us-soil",
+      "published": "Sun, 13 Sep 2026 10:23:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Rybakina が Sabalenka を打ち勝つ US Open タイトル と セメント 彼女の 上昇 へ いいえ 1",
       "summary": "エレーナ・リバキナ世界 No1 の2 回を延ばすことによってセメントで造られた US Open 受賞者 Aryna Sabalenka で彼女の乙女のタイトルをシールする New York.",
       "title_original": "Rybakina beats Sabalenka to win US Open title and cement her rise to No 1",
@@ -3685,9 +3702,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズ対比セルティックチームニュース LIVE!",
+      "title": "Minsu のバックアップレンジャーズとしてセルティック変化を生む!",
       "summary": "",
-      "title_original": "Rangers vs Celtic team news LIVE!",
+      "title_original": "Minsu back for Rangers as Celtic make FOUR changes LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/rangers-vs-celtic/live/577540",
@@ -3727,9 +3744,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Solheim Cup LIVE! ハル日曜日のシングルの飛行開始にオフ",
+      "title": "Solheim Cup LIVE!ヨーロッパハル日曜日のシングルの飛行開始にオフ",
       "summary": "",
-      "title_original": "Solheim Cup LIVE! Hull off to flying start in Sunday singles",
+      "title_original": "Solheim Cup LIVE! Europe's Hull off to flying start in Sunday singles",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13585250/solheim-cup-live-latest-scores-updates-highlights-from-sunday-singles-as-team-europe-face-team-usa-on-rainy-final-day",
@@ -3822,20 +3839,6 @@
       "type": "bundesliga",
       "label": "ブンデス",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "イラオラ・ベモアンリヴァプール刃先の欠如と説明バルコラプラン",
-      "summary": "リヴァプールマネージャーAndoni IraolaAnfield の Fulham によって0 の引くために彼の側面が保持された後、創造性と最先端を無駄にしました。",
-      "title_original": "Iraola bemoans Liverpool's lack of cutting edge and explains Barcola plan",
-      "summary_original": "Liverpool manager Andoni Iraola bemoaned lack of creativity and cutting edge after his side were held to a 0-0 draw by Fulham at Anfield.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585141/liverpool-boss-andoni-iraola-bemoans-lack-of-creativity-and-cutting-edge-against-fulham-and-explains-bradley-barcola-plan",
-      "published": "Sat, 12 Sep 2026 18:47:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
