@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T06:54:54.366467+00:00",
+  "updated_at": "2026-09-13T07:06:07.901083+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2697,7 +2697,9 @@
     "Extraordinary Rybakina": "",
     "Sunday's Manchester": "",
     "Jackie Bachteler": "",
-    "T-Mobile Arena": "T-モバイル・アリーナ"
+    "T-Mobile Arena": "T-モバイル・アリーナ",
+    "Callum Turner": "カラム・ターナー",
+    "One Night Only": ""
   },
   "items": [
     {
@@ -3583,6 +3585,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "カラム・ターナースカイスポーツで一晩 One Night Only!",
+      "summary": "カラム・ターナースカイスポーツは、男性のための夜になります US Open 最終的な、のための One Night Only!",
+      "title_original": "Callum Turner on Sky Sports tonight for One Night Only!",
+      "summary_original": "Callum Turner will be on Sky Sports tonight for the men's US Open final, for One Night Only!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13584022/callum-turner-on-sky-sports-tonight-for-one-night-only",
+      "published": "Sun, 13 Sep 2026 08:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "イギリス選手採点: ローレンス、コックス、すべての印象としてゲイ選択頭痛",
       "summary": "イングランドは、エドグバストンで第3 回テストで8 ウィケットの勝利でパキスタンの最初のホームシリーズのホワイトウォッシュをクランチしましたが、誰が立っていた Joe Root's 側 - 誰がなかった?",
       "title_original": "England player ratings: Lawrence, Cox, Gay selection headache as all impress",
@@ -3800,20 +3816,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "published": "Sat, 12 Sep 2026 18:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'タイトル'リヴァプール, チェルシーの の漏洩防衛とヴィラの攻撃の懸念",
-      "summary": "",
-      "title_original": "'Tired' Liverpool, Chelsea's leaky defence and Villa's attacking concerns",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585204/liverpool-fail-fulham-test-as-chelseas-defensive-problems-continue-to-hamper-their-title-challenge-credentials-premier-league-hits-and-misses",
-      "published": "Sat, 12 Sep 2026 19:00:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
