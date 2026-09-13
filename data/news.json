@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T05:36:29.752325+00:00",
+  "updated_at": "2026-09-13T05:50:13.335183+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2694,7 +2694,8 @@
     "Dan Ballard": "",
     "Furious Arteta": "",
     "Everton Roberto De Zerbi": "",
-    "Extraordinary Rybakina": ""
+    "Extraordinary Rybakina": "",
+    "Sunday's Manchester": ""
   },
   "items": [
     {
@@ -2793,6 +2794,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "固定式 v 流体 - マレスカと Carrick の反対のアプローチ",
+      "summary": "Enzo Maresca そして、マイケル・キャリック頭に頭を向ける Sunday's Manchester ダービー, 彼らのチームは、非常に異なる設定.",
+      "title_original": "Fixed v fluid - the opposing approaches of Maresca and Carrick",
+      "summary_original": "Enzo Maresca and Michael Carrick will go head to head in Sunday's Manchester derby, with their teams set up very differently.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn45w80wn5xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 05:44:42 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3100,20 +3115,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Sutton の予測 v ドーキング・ワンダラーズ FC マネージャーMarc White",
-      "summary": "BBC スポーツサッカーの専門家クリス・サットン獲得を問い合わせドーキング・ワンダラーズ FC マネージャーMarc White この週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
-      "title_original": "Sutton's predictions v Dorking Wanderers manager Marc White",
-      "summary_original": "BBC Sport football expert Chris Sutton takes on Dorking Wanderers manager Marc White, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1dlnq215zeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 18:47:34 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
