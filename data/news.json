@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T17:38:49.066742+00:00",
+  "updated_at": "2026-09-14T17:53:03.147754+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2958,9 +2958,25 @@
     "Celtic's Old Firm": "",
     "Howard Webb": "ハワード・ウェブ",
     "Sir Kevin Sinfield": "",
-    "Grand Final": ""
+    "Grand Final": "",
+    "Daniel English": "",
+    "Man United-Liverpools": ""
   },
   "items": [
+    {
+      "title": "マンチェスター・ダービー・VAR の公式のための週末のゲーム無し",
+      "summary": "マンチェスター・ダービーのビデオアシスタント・レフリー、Matt Donohue と彼のアシスタント VAR、Blake Antrobus, は、この週末のために任命されていませんプレミアリーグゲーム。",
+      "title_original": "No weekend game for Manchester derby VAR officials",
+      "summary_original": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 17:02:50 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "家族の質問マンチェスター・ユナイテッド, 今、Carrick は答えを見つける必要があります",
       "summary": "4 で1 勝後プレミアリーグゲーム、問題はのための土台ですマンチェスター・ユナイテッドマネージャーマイケル・キャリック.",
@@ -3014,20 +3030,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ダービー・VAR の公式のための週末のゲーム無し",
-      "summary": "マンチェスター・ダービーのビデオアシスタント・レフリー、Matt Donohue と彼のアシスタント VAR、Blake Antrobus, は、この週末のために任命されていませんプレミアリーグゲーム。",
-      "title_original": "No weekend game for Manchester derby VAR officials",
-      "summary_original": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 17:02:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3102,20 +3104,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日のテスト Who Am 私は?、ファイブとブレインティーザーの5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ceq82914rdgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 05:46:04 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ハーランドスコアの論争の勝者としてマンチェスター・シティフォデンレッドにもかかわらずダービーを獲得",
       "summary": "アーリング・ハーランドの の目標は助けますマンチェスター・シティライバルで非常に論争のマンチェスターダービーを獲得マンチェスター・ユナイテッド10 人以上で70 分以上遊んでも。",
       "title_original": "Haaland scores controversial winner as Man City win derby despite Foden red",
@@ -3127,6 +3115,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日のテスト Who Am 私は?、ファイブとブレインティーザーの5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceq82914rdgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 05:46:04 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3382,6 +3384,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リーズ・ユナイテッド FC. .ニューカッスル: プレミアリーグ– ライブ",
+      "summary": "⚽ プレミアリーグ8pm BST キックオフからの更新 ゴール10 週末 | 郵送可能 Daniel English サッカーは、その古典的なマッチアップのために有名です - あなたのマンチェスター・ユナイテッド-リヴァプール s、あなたのアーセナル-トッテナム es など。しかし、それはまた、トップティアで論争されていないが、強力なストーリーを伝えている歴史的クラブは、単数の都市を上昇させる神話的な地面に置く、ゲームを本質的に定義するだけでなく、それの挑発的な備品のそりを誇っています。リーズ・ユナイテッド FC. .ニューカッスルこんな感じです。",
+      "title_original": "Leeds United v Newcastle United: Premier League – live",
+      "summary_original": "⚽ Premier League updates from the 8pm BST kick-off ⚽ 10 weekend talking points | And you can mail Daniel English football is renowned for its classic match-ups – your Man United-Liverpools, your Arsenal-Spurses and so on. But it also boasts a slew of evocative fixtures that, though not ensconced in the top tier, define the game just as essentially, historic clubs telling rich stories, set in mythical grounds which elevate singular cities. Leeds United v Newcastle United is one such, and both arr",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
+      "published": "Mon, 14 Sep 2026 17:30:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "誤って確認した VAR ハーランド’s の目標マンチェスター・ユナイテッド stood ダウン",
       "summary": "Matt Donohue そして、そのアシスタントは、この週末を使用しなかった Pro Ref 勝者が「判断の誤り」と言った。許可されたビデオアシスタントレフリー公式アーリング・ハーランド日曜日にマンチェスター・ダービーで勝利した目標が立ち下がりました。Matt Donohue アシスタント Blake Antrobus, によって語られた Pro Ref この週末のラウンドの予定を受けていないプレミアリーグ備品。代表理事、ハワード・ウェブ, r の後の彼の管理チームと決定を取った",
       "title_original": "VARs who wrongly confirmed Haaland’s goal at Manchester United are stood down",
@@ -3389,6 +3405,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/14/vars-erling-haaland-goal-manchester-united-stood-down-wrongly-allowed",
       "published": "Mon, 14 Sep 2026 15:39:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Andoni Iraola インフォメーションリヴァプールシステムの作業をもっと進める",
+      "summary": "ヘッドコーチは、先を主張します プレスを改善する必要があります 変更 フロント 可能性が高い EFL カップネクタイ対トッテナムアンドーニ・イラオラは、リヴァプール’ は、Fulham に対するチームの気鋭なディスプレイの前進, 主張し、彼らは彼のシステムの仕事を作るためにより多くの与える必要があります。. ヘッドコーチは、彼のチームに「一歩後方」を目標に引き継ぎました Saturday. His 中央ミッドフィールドペアリング Ryan Gravenberch そして、Dominik Szoboszlai 彼らのフルハムのカウンターパートを含むのに苦労, wi",
+      "title_original": "Andoni Iraola tells Liverpool forwards they must do more to make his system work",
+      "summary_original": "Head coach insists forwards need to improve pressing Changes up front likely for Carabao Cup tie against Spurs Andoni Iraola has shifted the focus on to Liverpool’s forwards for the team’s uninspiring display against Fulham, insisting they need to give more to make his system work. The head coach admitted his team took “a step backwards” with their goalless draw on Saturday. His central midfield pairing of Ryan Gravenberch and Dominik Szoboszlai struggled to contain their Fulham counterparts, wi",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/andoni-iraola-says-liverpool-took-a-step-backwards-in-draw-against-fulham",
+      "published": "Mon, 14 Sep 2026 15:55:52 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3407,20 +3437,6 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Andoni Iraola インフォメーションリヴァプールシステムの作業をもっと進める",
-      "summary": "ヘッドコーチは、先を主張します プレスを改善する必要があります 変更 フロント 可能性が高い EFL カップネクタイ対トッテナムアンドーニ・イラオラは、リヴァプール’ は、Fulham に対するチームの気鋭なディスプレイの前進, 主張し、彼らは彼のシステムの仕事を作るためにより多くの与える必要があります。. ヘッドコーチは、彼のチームに「一歩後方」を目標に引き継ぎました Saturday. His 中央ミッドフィールドペアリング Ryan Gravenberch そして、Dominik Szoboszlai 彼らのフルハムのカウンターパートを含むのに苦労, wi",
-      "title_original": "Andoni Iraola tells Liverpool forwards they must do more to make his system work",
-      "summary_original": "Head coach insists forwards need to improve pressing Changes up front likely for Carabao Cup tie against Spurs Andoni Iraola has shifted the focus on to Liverpool’s forwards for the team’s uninspiring display against Fulham, insisting they need to give more to make his system work. The head coach admitted his team took “a step backwards” with their goalless draw on Saturday. His central midfield pairing of Ryan Gravenberch and Dominik Szoboszlai struggled to contain their Fulham counterparts, wi",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/andoni-iraola-says-liverpool-took-a-step-backwards-in-draw-against-fulham",
-      "published": "Mon, 14 Sep 2026 15:55:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3466,34 +3482,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL の話ポイント:Olid は天候のユナイテッド・ストーム、アーセナル再び無駄に",
-      "summary": "マンチェスター・ユナイテッド重い家の損失の後に再グループする必要がありますチェルシーふりがなクリスタル・パレスフラストレーション Gunners The フラストレーションマンチェスター・ユナイテッドフルタイムのファンは、Leigh Sports Village5-0 を落とすチームを、ランプントで見守った後チェルシー. 心配すべきことは確かにありますが、おそらくユナイテッドの新しいマネージャーを判断する、Eva Olid、彼らが対抗する方法に基づいて Sonia Bompastor’s 確立された側面は少し前面です。可能性の",
-      "title_original": "WSL talking points: Olid must weather United storm, Arsenal wasteful again",
-      "summary_original": "Manchester United need to regroup after a heavy home loss to Chelsea while Crystal Palace frustrated the Gunners The frustration among Manchester United fans at full-time was evident at Leigh Sports Village after they had watched their team being thrashed 5-0 by a rampant Chelsea. There are certainly things to be worried about, but perhaps judging United’s new manager, Eva Olid, on the basis of how they performed against Sonia Bompastor’s established side is a little premature. The likelihood of",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/wsl-talking-points-eva-olid-manchester-united-arsenal",
-      "published": "Mon, 14 Sep 2026 11:17:59 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
-      "summary": "論争ルール マンチェスター・ダービー、コベントリーをオンにし、トッテナムまだゴールをスコアすることはできません。199th Manchester derby は 2 つの参照決定によって定義されています。フィル・フォーデン’s ファーストハーフレッドカードキックアウトブルーノ・フェルナンデスと、インテルビデオアシスタントレフリーによる受賞アーリング・ハーランドにもかかわらず、勝ち抜いた目標エンソ・フェルナンデスに表示されるインテルオフサイドの位置からプレーしてフェールします。両症例では、常識の健康な線量は異なる結果をもたらし、",
-      "title_original": "Premier League: 10 talking points from the weekend’s action",
-      "summary_original": "Controversy rules the Manchester derby, Coventry are dunked on and Tottenham still can’t score a goal The 199th Manchester derby was defined by two refereeing decisions: Phil Foden’s first-half red card for kicking out at Bruno Fernandes, and the intervention by the video assistant referee to award Erling Haaland’s winning goal despite Enzo Fernández appearing to interfere with play from an offside position. In both cases, a healthy dose of common sense might have led to a different outcome and ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/premier-league-10-talking-points-from-the-weekends-action",
-      "published": "Mon, 14 Sep 2026 07:00:26 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "パリ・サンジェルマンついにゲームを勝ち取ったリーグ・アン– しかし、彼らは説得力から遠くだった",
       "summary": "Ferran Torres 彼の新しいチームメイトのほとんどがフォームのフロデニングで彼の新しいクラブのために素晴らしいされています By Get French Football News It フリッカーでした。Ferran Torres ボールをピックアップし、それを渡す João Neves. The Portugal ミッドフィルダーはそれにそれを再生しますウスマン・デンベレ, 誰 持っています lured で Raphaël Le Guen そして、メジメリック・ファーストタイムのバックヒールをパスに除去する Torres. The Brest 防衛は、トレーニングドリルでちょうどコーンです, ちょうどスパニアルグライドバックイントとして、芸術のこの作業で余分",
       "title_original": "PSG have finally won a game in Ligue 1 – but they were far from convincing",
@@ -3505,6 +3493,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "WSL の話ポイント:Olid は天候のユナイテッド・ストーム、アーセナル再び無駄に",
+      "summary": "マンチェスター・ユナイテッド重い家の損失の後に再グループする必要がありますチェルシーふりがなクリスタル・パレスフラストレーション Gunners The フラストレーションマンチェスター・ユナイテッドフルタイムのファンは、Leigh Sports Village5-0 を落とすチームを、ランプントで見守った後チェルシー. 心配すべきことは確かにありますが、おそらくユナイテッドの新しいマネージャーを判断する、Eva Olid、彼らが対抗する方法に基づいて Sonia Bompastor’s 確立された側面は少し前面です。可能性の",
+      "title_original": "WSL talking points: Olid must weather United storm, Arsenal wasteful again",
+      "summary_original": "Manchester United need to regroup after a heavy home loss to Chelsea while Crystal Palace frustrated the Gunners The frustration among Manchester United fans at full-time was evident at Leigh Sports Village after they had watched their team being thrashed 5-0 by a rampant Chelsea. There are certainly things to be worried about, but perhaps judging United’s new manager, Eva Olid, on the basis of how they performed against Sonia Bompastor’s established side is a little premature. The likelihood of",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/wsl-talking-points-eva-olid-manchester-united-arsenal",
+      "published": "Mon, 14 Sep 2026 11:17:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3662,6 +3664,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Football Daily| 新品・新品の VAR を介したもうひとつの犬の朝食 Pro Ref",
+      "summary": "今すぐ登録! 今すぐ登録! 今すぐサインアップ 今すぐ登録!Keys. Phone. Wallet. What 獲得を問い合わせ 私たちが紹介した人の名前。車を駐車しました。私たちが必要とする錫の食料品を思い出させるために書いたショッピングリスト。歩いている犬。たくさんの傘。ご宿泊中のホテル名 誕生日の盛り合わせ お部屋に歩いている理由 あなたの散布されたもののリスト Football Daily 驚くべき周波数を忘れてしまったので、私たちは本物です",
+      "title_original": "Football Daily | Another dog’s breakfast over VAR for the new and rebranded Pro Ref",
+      "summary_original": "Sign up now! Sign up now! Sign up now? Sign up now! Keys. Phone. Wallet. What day it is. The names of people to whom we’ve just been introduced. Where we parked the car. The shopping list we wrote to remind us what Tin groceries we need. The dog we’re supposed to be walking. Dozens of umbrellas. The name of the hotel we’re staying in. Assorted birthdays. Why we walked into a room. The list of things your scatterbrained Football Daily forgets with alarming frequency is so long that we’re genuinel",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/football-daily-var-dogs-breakfast",
+      "published": "Mon, 14 Sep 2026 14:38:02 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "クリスティアーノ・ロナウド生涯禁止の呼び出し Saudi Pro League アフターDiogo Jota チャント",
       "summary": "Al-Hilal’s Rúben Neves チャントの被写体 Al-Taawoun Neves 葬儀でホタとパラーの親友クリスティアーノ・ロナウド彼の元チームメイトを指すために出演したファンは言った Diogo Jota 獲得を問い合わせ Rúben Neves サウジアラビアの期間中 Pro League サッカースタジアムからの生活のために、試合を禁止する必要があります。Al-Taawoun と Neves の側面、Bullaydah の Al-Hilal の間の備品の間に土曜日にチャントが発生した、サウジアラビア. 続きを読む...",
       "title_original": "Cristiano Ronaldo calls for lifetime bans in Saudi Pro League after Diogo Jota chants",
@@ -3673,20 +3689,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「判断の誤り」:Pro Ref 受賞の間違いを認めるハーランドの derby の勝者",
-      "summary": "受取体が、事件を見直したと発表 Unhappy Carrick エラーは「それが得られるように明らかだった」と述べた Pro Ref 採用情報アーリング・ハーランド受賞者 Sunday’s Manchesterderby は、ビデオアシスタントのレフリーが規則された後に許可されていないエンソ・フェルナンデスではなかったインテルビルドアップでプレイをフェリングします。エリート受診体は決定書を見直し、連絡を行いますマンチェスター・ユナイテッド. ハーランド’60 分の目標マンチェスター・シティ獲得を問い合わせオールド・トラッフォード最初は th の前に オフサイド を除外しました",
-      "title_original": "‘An error of judgement’: Pro Ref admits mistake in awarding Haaland’s derby winner",
-      "summary_original": "Officiating body announces it will review the incident Unhappy Carrick says error was ‘as obvious as it gets’ Pro Ref admitted Erling Haaland’s winner in Sunday’s Manchester derby should not have been allowed after the video assistant referee ruled Enzo Fernández was not interfering with play in the build-up. The elite officiating body will review the decision and has contacted Manchester United. Haaland’s 60th minute goal for Manchester City at Old Trafford was initially ruled offside before th",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/michael-carrick-var-erling-haaland-manchester-derby",
-      "published": "Sun, 13 Sep 2026 21:31:19 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3718,17 +3720,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "De Zerbi コメントトッテナムリーグの勝利を待つと「メンタルブロック」を持っている",
-      "summary": "「勝利なし、ゴール獲得なし...プレイヤーにとって厳しい」トッテナム0-0 の後の 17 の場所はに対して引くことエヴァートンロベルト・デ・ツェルビ氏は、トッテナムプレーヤーは、物理的なフィットネスを欠い続けると、「ブロック解除」は、彼らが彼らの最新を撤退した後、心理的な言葉で自分自身をプレミアリーグ自宅で空白 0-0 とエヴァートン獲得を問い合わせ ゴールなしでシーズンの始まり以来、今大会で4 つのゲームですトッテナム; 彼らは2 つのポイントとテーブルに17 番目の座って、不満のファンによってオフにしました。ディー Z",
-      "title_original": "De Zerbi says Spurs have ‘mental block’ after wait for league win continues",
-      "summary_original": "‘No wins, no goals scored … it is tough for the players’ Spurs in 17th place after 0-0 draw against Everton Roberto De Zerbi says his Tottenham players continue to lack physical fitness and must “unblock” themselves in psychological terms after they drew their latest Premier League blank in a home 0-0 with Everton . It is now four games in the competition since the start of the season without a goal for Spurs; they sit 17th in the table with two points and were booed off by frustrated fans. De Z",
+      "title": "London City’s スーパースターは WSL 敗北で地球に降り注ぐウェストハム",
+      "summary": "ウェストハム最初の主張 Women’s Super League2-1 ホーム勝利でシーズンの勝利ロンドン・シティ・ライオネス. ケリーガゴは、センターバック間のレース、21 分後にハンマーを置くマピ・レオンそして、Isa Kardinaal にラッチに Seraina Piubel’s ハーフウェイとラウンドの通過 Elene Lete 獲得を問い合わせ London City ゴール。ダニエル・ヴァン・デ・ドンクがイコシザーを否定したとき Constance Picaud-Inconnu 保存された、とアレクシア・プテジャス, 別の London City’s 大きい名前の夏の印、上昇",
+      "title_original": "London City’s superstars brought down to earth in WSL defeat at West Ham",
+      "summary_original": "West Ham claimed their first Women’s Super League win of the season with a 2-1 home victory over London City Lionesses. Kelly Gago put the Hammers ahead after 21 minutes, racing between the centre-backs Mapi León and Isa Kardinaal to latch on to Seraina Piubel’s pass from nearly halfway and rounding Elene Lete in the London City goal. Daniëlle van de Donk was denied an equaliser when Constance Picaud-Inconnu saved low, with Alexia Putellas, another of London City’s big-name summer signings, lift",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/roberto-de-zerbi-tottenham-everton-premier-league",
-      "published": "Sat, 12 Sep 2026 20:36:15 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.theguardian.com/football/2026/sep/12/london-city-west-ham-wsl-match-report",
+      "published": "Sat, 12 Sep 2026 14:11:24 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3942,9 +3944,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "MNF:リーズ対比ニューカッスルチームニュース LIVE!",
+      "title": "フェルナンデス＝パルドまずはニューカッスルスタートリーズライブ!",
       "summary": "",
-      "title_original": "MNF: Leeds vs Newcastle team news LIVE!",
+      "title_original": "Fernandez-Pardo makes first Newcastle start at Leeds LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/leeds-united-vs-newcastle-united/live/559479",
