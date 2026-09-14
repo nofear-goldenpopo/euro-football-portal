@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T11:40:31.384126+00:00",
+  "updated_at": "2026-09-14T11:54:36.142004+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2901,7 +2901,13 @@
     "Joint-worst Man Utd PL": "",
     "Matchweek Two": "",
     "Gunners The": "",
-    "Chelsea. There": ""
+    "Chelsea. There": "",
+    "News It": "",
+    "João Neves. The Portuguese": "",
+    "Raphaël Le Guen": "",
+    "Torres. The Brest": "",
+    "Amy Hunt": "",
+    "Sydney Sweeney's": ""
   },
   "items": [
     {
@@ -2961,20 +2967,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バイエルン監視 Wirtz - 月曜日のゴシップ",
-      "summary": "フロリアン・ヴィルツ監視されているバイエルン・ミュンヘン, Bournemouth's Brazil レイアンは、リヴァプール対象の次の夏とボルシア・ドルトムントルールアウト移動ジェイドン・サンチョ.",
-      "title_original": "Bayern monitoring Wirtz - Monday's gossip",
-      "summary_original": "Florian Wirtz is being monitored by Bayern Munich, Bournemouth's Brazil forward Rayan could be a Liverpool target next summer and Borussia Dortmund rule out move for Jadon Sancho.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr4v345pdq0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 20:23:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Pocognoli のピックタイム - 新しいスコットランドのスクワッド?",
       "summary": "セバスチャン・ポコニョーリ毎週火曜日に初めてスコットランドのスクワッドと名付けられますが、何が期待できますか? 新しいヘッドコーチは、このクリーンなスレートを新しい名前に呼ぶ時間として使用しますか?BBC Sport Scotland 潜在的な候補を見てみましょう...",
       "title_original": "Time for Pocognoli to pick - will it be a new-look Scotland squad?",
@@ -2986,6 +2978,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "バイエルン監視 Wirtz - 月曜日のゴシップ",
+      "summary": "フロリアン・ヴィルツ監視されているバイエルン・ミュンヘン, Bournemouth's Brazil レイアンは、リヴァプール対象の次の夏とボルシア・ドルトムントルールアウト移動ジェイドン・サンチョ.",
+      "title_original": "Bayern monitoring Wirtz - Monday's gossip",
+      "summary_original": "Florian Wirtz is being monitored by Bayern Munich, Bournemouth's Brazil forward Rayan could be a Liverpool target next summer and Borussia Dortmund rule out move for Jadon Sancho.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4v345pdq0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 20:23:02 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3353,6 +3359,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "パリ・サンジェルマンついにゲームを勝ち取ったリーグ・アン– しかし、彼らは説得力から遠くだった",
+      "summary": "Ferran Torres チームメイトのほとんどは、彼の新しいクラブのために華麗だったが、ビーチにいるように見える By Get French Football News It フリッカーでした。Ferran Torres ボールをピックアップし、それを渡す João Neves. The Portuguese ミッドフィルダーはそれにそれを再生しますウスマン・デンベレ, 誰 持っています lured で Raphaël Le Guen メタリック・ファーストタイム・バックヒールをパスに除去 Torres. The Brest 防衛は、トレーニングドリルでちょうどコーン、スパニアル・グライド・バとしてのこの作品の余分だけ",
+      "title_original": "PSG have finally won a game in Ligue 1 – but they were far from convincing",
+      "summary_original": "Ferran Torres has been brilliant for his new club but most of his teammates still seem to be on the beach By Get French Football News It was just a flicker. Ferran Torres picks the ball up and passes it to João Neves. The Portuguese midfielder plays it into Ousmane Dembélé, who has lured in Raphaël Le Guen and eliminates him with a mesmeric first-time back-heel into the path of Torres. The Brest defence are just cones in a training drill, mere extras in this work of art as the Spaniard glides ba",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/psg-won-game-ligue-1-convincing-ferran-torres",
+      "published": "Mon, 14 Sep 2026 11:35:28 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Ludek Miklosko, 元ウェストハムそして QPR のゴールキーパーは、64 歳の死にます",
       "summary": "ミクロスコは373 回再生ウェストハムから 1990 彼は42 を獲得しましたインテル1982 年全国キャップ 前の投稿ウェストハム QPR ゴールキーパーLudek Miklosko64 歳で亡くなりました。チェコスロバキアとチェコ人のためにキャップを獲得したミクロスコは、癌を持っていた。ミクロスコが入社ウェストハムから Baník Ostrava1990 年(1990 年) 試用後30 万ポンド、初シーズンのトップ部門にクラブ・ウィン・プロモーションを支援。1998 年(平成10 年)、373 の外観を作った。QPR に入社。レンタル移籍で. ミクロスコは、そのキャリアを終えた",
       "title_original": "Ludek Miklosko, former West Ham and QPR goalkeeper, dies aged 64",
@@ -3395,20 +3415,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ルイス・ダンクの showtopper は 5 つ星ホテルブライトン10 人のコベントリーを破るために",
-      "summary": "ベアの事実は弱い:コヴェントリー・シティ FC2 番目のチームのみプレミアリーグ目標をスコアリングすることなく、シーズンの最初の4 つのゲームを失う歴史。「そしてまだ...」は、フランクランパールから彼のプレーヤーへの永続的なメッセージになります。そして、彼らは反対側のチームのための問題を引き起こしました。そして、彼らはすでにトップフライトのヨーロッパ大陸の3 に直面しています。そして、彼らはほとんどそのほとんどを再生し、完全にない -ブライトンゴールキーパーバート-Verbruggen は、試合のプレーヤーの名前付けされています",
-      "title_original": "Lewis Dunk’s showstopper helps five-star Brighton to rout 10-man Coventry",
-      "summary_original": "The bare facts are bleak: Coventry City are only the second team in Premier League history to lose their first four games of the season ­without scoring a goal. “And yet …” will be the enduring message from Frank ­Lampard to his players. And yet they have caused prob­lems for opposition teams. And yet they have already faced three of the top flight’s European contingent. And yet they are not altogether playing that badly – the Brighton goalkeeper Bart ­Verbruggen being named player of the match ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/coventry-brighton-premier-league-match-report",
-      "published": "Sun, 13 Sep 2026 15:10:47 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
       "summary": "論争ルール マンチェスター・ダービー、コベントリーをオンにし、トッテナムまだゴールをスコアすることはできません。199th Manchester derby は 2 つの参照決定によって定義されています。フィル・フォーデン’s ファーストハーフレッドカードキックアウトブルーノ・フェルナンデスと、インテルビデオアシスタントレフリーによる受賞アーリング・ハーランドにもかかわらず、勝ち抜いた目標エンソ・フェルナンデスに表示されるインテルオフサイドの位置からプレーしてフェールします。両症例では、常識の健康な線量は異なる結果をもたらし、",
       "title_original": "Premier League: 10 talking points from the weekend’s action",
@@ -3423,17 +3429,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ローレン・ジェームズ自由の役割の回転チェルシー過去5 回のスコアリングで「尊敬」を示すマンチェスター・ユナイテッド",
-      "summary": "スワガリングチェルシー彼らがゲームを殺す能力を失っていた任意の提案を追い払って, 心配的に欠如と欠如過去5 つの目標を置くマンチェスター・ユナイテッド. ソニア・ボマスト、チェルシーマネージャーは次のように述べています。「チームを本当に傷つける機会を持っているとき、それらを尊重するための最良の方法は、できるだけ多くの目標をスコアすることです。続きを読む...",
-      "title_original": "Lauren James revels in free role as Chelsea show ‘respect’ by scoring five past Manchester United",
-      "summary_original": "A swaggering Chelsea cast off any suggestion that they had lost the ability to kill off games, putting five goals past a worryingly lacklustre and lackadaisical Manchester United. Sonia Bompastor, the Chelsea manager, said: “When you have the opportunity to really hurt a team, the best way to respect them is to score as many goals as you can, to create as many opportunities as you can. Continue reading...",
+      "title": "ルイス・ダンクの showtopper は 5 つ星ホテルブライトン10 人のコベントリーを破るために",
+      "summary": "ベアの事実は弱い:コヴェントリー・シティ FC2 番目のチームのみプレミアリーグ目標をスコアリングすることなく、シーズンの最初の4 つのゲームを失う歴史。「そしてまだ...」は、フランクランパールから彼のプレーヤーへの永続的なメッセージになります。そして、彼らは反対側のチームのための問題を引き起こしました。そして、彼らはすでにトップフライトのヨーロッパ大陸の3 に直面しています。そして、彼らはほとんどそのほとんどを再生し、完全にない -ブライトンゴールキーパーバート-Verbruggen は、試合のプレーヤーの名前付けされています",
+      "title_original": "Lewis Dunk’s showstopper helps five-star Brighton to rout 10-man Coventry",
+      "summary_original": "The bare facts are bleak: Coventry City are only the second team in Premier League history to lose their first four games of the season ­without scoring a goal. “And yet …” will be the enduring message from Frank ­Lampard to his players. And yet they have caused prob­lems for opposition teams. And yet they have already faced three of the top flight’s European contingent. And yet they are not altogether playing that badly – the Brighton goalkeeper Bart ­Verbruggen being named player of the match ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/manchester-united-chelsea-wsl-match-report-womens-super-league",
-      "published": "Sun, 13 Sep 2026 13:41:27 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/13/coventry-brighton-premier-league-match-report",
+      "published": "Sun, 13 Sep 2026 15:10:47 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3447,6 +3453,48 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "エンソ・フェルナンデスの fortitude は、都市再会を明らかにする権利だったマレスカを示しています |Will Unwin",
+      "summary": "1億2500万ポンド の価格タグでいくつかの scoffed, しかし、アルゼンチンは、後に2 つのミッドフィルダーの仕事をしたフィル・フォーデン獲得を問い合わせレッドカード Enzo Maresca 請求書を支払いませんマンチェスター・シティしかし、彼は彼と一緒に再結合されるために1億2500万ポンド を費やした人たちが静的であるエンソ・フェルナンデス. マネージャーとミッドフィルダーが一緒にいたチェルシー、比較的短い時間に強い結束を形成し、イタリア人は彼のマスタープラン内で最終的な作品を提供できると知っていた。The Argentinian マレスカの下で動作するように均等に熱心だった",
+      "title_original": "Enzo Fernández’s fortitude shows Maresca was right to crave City reunion | Will Unwin",
+      "summary_original": "Some scoffed at £125m price tag, but the Argentinian did the work of two midfielders after Phil Foden’s red card Enzo Maresca does not pay the bills at Manchester City but he is ecstatic that those who do spent £125m for him to be reunited with Enzo Fernández. The manager and the midfielder were together at Chelsea, forming a strong bond over a relatively short time, one the Italian knew could provide the final piece within his master plan. The Argentinian was equally eager to work under Maresca",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/enzo-fernandez-enzo-maresca-manchester-city-reunion-united-derby",
+      "published": "Sun, 13 Sep 2026 20:21:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Farke’s blueprint for revitalised リーズ continues upward trajectory",
+      "summary": "リーズ manager em2 ゴール s bravery and is encouraging ambition after leading a remarkable turnaround in fortunes Eleven years have passed since ダニエル・ファルケ mounted a magnificent palomino horse and rode round the perimeter of the pitch at Lippstadt, waving farewell to a capacity crowd. It seemed a fun way for the lower-tier German club’s centre-forward turned manager and sporting director to say goodbye. Yet few in the stands knew Farke was scared of horses and hauled himself into the saddle only ou",
+      "title_original": "Farke’s blueprint for revitalised Leeds continues upward trajectory",
+      "summary_original": "Leeds manager embraces bravery and is encouraging ambition after leading a remarkable turnaround in fortunes Eleven years have passed since Daniel Farke mounted a magnificent palomino horse and rode round the perimeter of the pitch at Lippstadt, waving farewell to a capacity crowd. It seemed a fun way for the lower-tier German club’s centre-forward turned manager and sporting director to say goodbye. Yet few in the stands knew Farke was scared of horses and hauled himself into the saddle only ou",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/12/daniel-farke-blueprint-for-revitalised-leeds",
+      "published": "Sat, 12 Sep 2026 19:00:41 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "サッカーは、リレーの価値のあるメッセージに声を貸す:男性は自分の痛みについて話すべきです |Barney Ronay",
+      "summary": "プレミアリーグ’s link-up とリンクアップ Together Against Suicide キャンペーンは、シンプルで退屈な、そして重要なメッセージングを分散しています 見ると、アメリカのテレビの広告が間に合っている World Cup どんな時間でも1 つのことはちょうど leaping を保ちました。ここは前述しましたが、まだ瓶詰めと大事のようです。その無限の昼間のスクロールの3 分の4 回転、Chicken Megadeth Hyper-Box Family Meal Deal の両側デビッド・ベッカム光ビールを巧みに消費する",
+      "title_original": "Football lends voice to message worth relaying: men should talk about their pain | Barney Ronay",
+      "summary_original": "Premier League’s link-up with the Together Against Suicide campaign is dispersing simple, blunt and essential messaging If you watched US television adverts during the World Cup for any length of time one thing just kept leaping out. I’ve mentioned this before here , but it still seems both jarring and significant. Every third or fourth rotation in that endless daytime scroll, in between the Chicken Megadeth Hyper-Box Family Meal Deal, either side of David Beckham expertly consuming a light beer",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/12/football-men-must-talk-about-pain-together-in-suicide-campaign-premier-league",
+      "published": "Sat, 12 Sep 2026 07:00:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3504,48 +3552,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "エンソ・フェルナンデスの fortitude は、都市再会を明らかにする権利だったマレスカを示しています |Will Unwin",
-      "summary": "1億2500万ポンド の価格タグでいくつかの scoffed, しかし、アルゼンチンは、後に2 つのミッドフィルダーの仕事をしたフィル・フォーデン獲得を問い合わせレッドカード Enzo Maresca 請求書を支払いませんマンチェスター・シティしかし、彼は彼と一緒に再結合されるために1億2500万ポンド を費やした人たちが静的であるエンソ・フェルナンデス. マネージャーとミッドフィルダーが一緒にいたチェルシー、比較的短い時間に強い結束を形成し、イタリア人は彼のマスタープラン内で最終的な作品を提供できると知っていた。The Argentinian マレスカの下で動作するように均等に熱心だった",
-      "title_original": "Enzo Fernández’s fortitude shows Maresca was right to crave City reunion | Will Unwin",
-      "summary_original": "Some scoffed at £125m price tag, but the Argentinian did the work of two midfielders after Phil Foden’s red card Enzo Maresca does not pay the bills at Manchester City but he is ecstatic that those who do spent £125m for him to be reunited with Enzo Fernández. The manager and the midfielder were together at Chelsea, forming a strong bond over a relatively short time, one the Italian knew could provide the final piece within his master plan. The Argentinian was equally eager to work under Maresca",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/enzo-fernandez-enzo-maresca-manchester-city-reunion-united-derby",
-      "published": "Sun, 13 Sep 2026 20:21:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Farke’s blueprint for revitalised リーズ continues upward trajectory",
-      "summary": "リーズ manager em2 ゴール s bravery and is encouraging ambition after leading a remarkable turnaround in fortunes Eleven years have passed since ダニエル・ファルケ mounted a magnificent palomino horse and rode round the perimeter of the pitch at Lippstadt, waving farewell to a capacity crowd. It seemed a fun way for the lower-tier German club’s centre-forward turned manager and sporting director to say goodbye. Yet few in the stands knew Farke was scared of horses and hauled himself into the saddle only ou",
-      "title_original": "Farke’s blueprint for revitalised Leeds continues upward trajectory",
-      "summary_original": "Leeds manager embraces bravery and is encouraging ambition after leading a remarkable turnaround in fortunes Eleven years have passed since Daniel Farke mounted a magnificent palomino horse and rode round the perimeter of the pitch at Lippstadt, waving farewell to a capacity crowd. It seemed a fun way for the lower-tier German club’s centre-forward turned manager and sporting director to say goodbye. Yet few in the stands knew Farke was scared of horses and hauled himself into the saddle only ou",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/daniel-farke-blueprint-for-revitalised-leeds",
-      "published": "Sat, 12 Sep 2026 19:00:41 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "サッカーは、リレーの価値のあるメッセージに声を貸す:男性は自分の痛みについて話すべきです |Barney Ronay",
-      "summary": "プレミアリーグ’s link-up とリンクアップ Together Against Suicide キャンペーンは、シンプルで退屈な、そして重要なメッセージングを分散しています 見ると、アメリカのテレビの広告が間に合っている World Cup どんな時間でも1 つのことはちょうど leaping を保ちました。ここは前述しましたが、まだ瓶詰めと大事のようです。その無限の昼間のスクロールの3 分の4 回転、Chicken Megadeth Hyper-Box Family Meal Deal の両側デビッド・ベッカム光ビールを巧みに消費する",
-      "title_original": "Football lends voice to message worth relaying: men should talk about their pain | Barney Ronay",
-      "summary_original": "Premier League’s link-up with the Together Against Suicide campaign is dispersing simple, blunt and essential messaging If you watched US television adverts during the World Cup for any length of time one thing just kept leaping out. I’ve mentioned this before here , but it still seems both jarring and significant. Every third or fourth rotation in that endless daytime scroll, in between the Chicken Megadeth Hyper-Box Family Meal Deal, either side of David Beckham expertly consuming a light beer",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/football-men-must-talk-about-pain-together-in-suicide-campaign-premier-league",
-      "published": "Sat, 12 Sep 2026 07:00:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3742,6 +3748,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハントと他のスポーツ女性は、Sweeney 広告を非難",
+      "summary": "Amy Hunt ヒットバック Sydney Sweeney's 指示による論争の賭けの広告アメリカ合衆国「ここはスポーツの女性の姿が似ている」という女優。",
+      "title_original": "Hunt and other sportswomen condemn Sweeney advert",
+      "summary_original": "Amy Hunt hit back at Sydney Sweeney's controversial betting advert by telling the US actress that \"this is what women in sport look like\".",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/athletics/news/12040/13585800/amy-hunt-and-other-sportswomen-condemn-sydney-sweeney-advert-this-is-what-women-in-sport-look-like",
+      "published": "Mon, 14 Sep 2026 12:13:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4004,20 +4024,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/nfl/news/12040/13585429/nfl-weekend-review-josh-allens-box-office-finish-trevor-lawrences-mvp-contention-and-derrick-henry-greatness",
       "published": "Mon, 14 Sep 2026 00:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Euro Debrief: Ballon d'Or 候補者 Kane,エムバペそして、ラミン・ヤマルすべての配信",
-      "summary": "",
-      "title_original": "Euro Debrief: Ballon d'Or candidates Kane, Mbappe and Lamine Yamal all deliver",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585293/harry-kane-kylian-mbappe-and-lamine-yamal-on-target-plus-ruben-amorim-still-unbeaten-and-more-in-the-euro-debrief",
-      "published": "Sun, 13 Sep 2026 10:37:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
