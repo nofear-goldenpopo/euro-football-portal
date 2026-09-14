@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T04:53:46.873846+00:00",
+  "updated_at": "2026-09-14T05:06:18.020034+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2871,7 +2871,8 @@
     "Lewis Dunk's": "",
     "Sunday. Handed": "",
     "Lennart Karl": "レナート・カール",
-    "Jannik Sinner": "ヤニック・シナー"
+    "Jannik Sinner": "ヤニック・シナー",
+    "Marcus Trescothick": ""
   },
   "items": [
     {
@@ -2984,6 +2985,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Bellingham's on、for Real Madrid を獲得候補に",
+      "summary": "ジュード・ベリンガムバックス 離れてレアル・マドリード4-1 の勝利に対する3 番目の目標ラージョ・バジェカーノ獲得を問い合わせラ・リーガ.",
+      "title_original": "Bellingham's on target for Real Madrid",
+      "summary_original": "Jude Bellingham tucks away Real Madrid's third goal in their 4-1 win against Rayo Vallecano in La Liga.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckgw1l9p2w3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 21:58:26 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3278,20 +3293,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Anfield でポイントを落とす - それはあまりにも早いですリヴァプール獲得を問い合わせ",
-      "summary": "リヴァプール最初の2 つのいずれかを獲得できなかったプレミアリーグゲームで Anfield. But 心配は早いですか?",
-      "title_original": "More dropped points at Anfield - is it too early for Liverpool to worry?",
-      "summary_original": "Liverpool have failed to win either of their first two Premier League games at Anfield. But is it too early to worry?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62j0lr1rzmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 19:30:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3715,6 +3716,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "イングランドのホワイトボールのコーチングロールを開始すると「Pietersen はスパーク」を追加します。",
+      "summary": "Kevin Pietersen イングランドのセットアップに戻って「バズイング」で、シリーズのホワイトボールコーチングスタッフに加わったスリランカに従って、インテルヘッドコーチ Marcus Trescothick.",
+      "title_original": "'Pietersen will add spark' as he begins England white-ball coaching role",
+      "summary_original": "Kevin Pietersen is “buzzing” to be back with the England set-up, having joined the white-ball coaching staff for the series against Sri Lanka, according to interim head coach Marcus Trescothick.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13585312/kevin-pietersen-buzzing-at-england-white-ball-coaching-role-as-specialist-mentor-says-marcus-trescothick",
+      "published": "Mon, 14 Sep 2026 06:00:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「私は今世界で最高のです」 - Zverev は Sinner と Alcaraz に警告を送信します",
       "summary": "Alexander Zverev 世界 No1 にしっかり警告を送信ヤニック・シナーそして、Carlos Alcaraz, 彼は現在彼の次の世界最高のテニス選手であると主張 US Open 優勝。",
       "title_original": "'I am the best in the world right now' - Zverev sends warning to Sinner and Alcaraz",
@@ -3974,20 +3989,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/nfl/live-blog/12040/13585427/nfl-2026-results-and-highlights-chicago-bears-cincinnati-bengals-and-baltimore-ravens-win-on-wild-sunday",
       "published": "Sun, 13 Sep 2026 15:35:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「Antonelli の停止はありません」 - ハミルトンは2026 F1 のタイトル入札は終わっています",
-      "summary": "Lewis Hamilton 今年は「止まらない」と述べたように、記録八式1 のタイトルを主張する希望を与えるために登場 Kimi Antonelli チャンピオンシップリーダーの最新勝利をフォロースペイングランプリ.",
-      "title_original": "'There's no stopping Antonelli' - Hamilton says 2026 F1 title bid is over",
-      "summary_original": "Lewis Hamilton appeared to give up hope of claiming a record eighth Formula 1 title this year as he said that \"there's no stopping\" Kimi Antonelli following the championship leader's latest victory at the Spanish Grand Prix.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13585295/lewis-hamilton-says-theres-no-stopping-kimi-antonelli-as-ferrari-driver-appears-to-give-up-2026-f1-title-bid",
-      "published": "Sun, 13 Sep 2026 18:40:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
