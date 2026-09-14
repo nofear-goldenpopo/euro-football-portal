@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T14:10:59.353024+00:00",
+  "updated_at": "2026-09-14T14:28:47.714077+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2926,7 +2926,11 @@
     "Kevin Blake": "",
     "The World Grand Prix": "",
     "Leicester's Mattioli Arena": "",
-    "Brendon McCullum": ""
+    "Brendon McCullum": "",
+    "Daniel Maldini": "",
+    "BMW PGA Championship": "BMW PGA選手権",
+    "Will LIV Golf": "",
+    "Celebrity Pro-Am": ""
   },
   "items": [
     {
@@ -3182,6 +3186,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "車のクラッシュ後に中断された Maldini の運転免許証",
+      "summary": "イタリアインテル全国 Daniel Maldini ミラノで車のクラッシュに続いて運転免許証を中断しました。",
+      "title_original": "Maldini driving license suspended after car crash",
+      "summary_original": "Italy international Daniel Maldini has his driving licence suspended following a car crash in Milan.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9gk5ezz5l4ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 14:21:05 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Did O'Neill チーム選択が間違っているオールドファーム敗北?",
       "summary": "メックの後 Premier Sports Cup ライバルの手に出るレンジャーズ, 行なったセルティックログインマーティン・オニールチーム選択が間違っていますか?",
       "title_original": "Did O'Neill get team selection wrong in Old Firm defeat?",
@@ -3332,20 +3350,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "観戦:ライス&モンローは、次のように動きます Edinburgh City 勝つ大きい",
-      "summary": "週末の行動から最大限の行動を見る Scottish Championship リーグ1・リーグ2",
-      "title_original": "Watch: Raith & Montrose make moves as Edinburgh City win big",
-      "summary_original": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cly5032837eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 07:00:21 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3770,6 +3774,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "BMW PGA 選手権: McIlroy が返すフィールド、フォーマット、賞金",
+      "summary": "どのプレイヤーが印象づけることができるか BMW PGA 選手権? なる LIV ゴルフプレイヤーの特徴 誰が遊ぶか Celebrity Pro-Am 今週のスピードを上げます。ヨーロピアンツアーウェントワース、スカイスポーツに住んでいたイベント。",
+      "title_original": "BMW PGA Championship: Field, format and prize money as McIlroy returns",
+      "summary_original": "Which players could impress at the BMW PGA Championship? Will LIV Golf players feature? Who is playing in the Celebrity Pro-Am? We get you up to speed ahead of this week's DP World Tour event at Wentworth, live on Sky Sports .",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13583917/bmw-pga-championship-2026-field-format-and-prize-money-as-rory-mcilroy-headlines-dp-world-tour-event-at-wentworth",
+      "published": "Mon, 14 Sep 2026 15:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アストン・ヴィラ最新: マーソンの潜在能力に関する評論残留争い",
       "summary": "",
       "title_original": "Aston Villa latest: Merson's verdict on potential relegation battle",
@@ -3791,6 +3809,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13585833/saffie-osborne-plenty-more-jockeys-like-leger-winner-who-just-need-a-chance-says-kevin-blake",
       "published": "Mon, 14 Sep 2026 14:12:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "McCullum: 私は私に挑戦するために Pietersen を望みます",
+      "summary": "イングランドコーチ Brendon McCullum ホワイトボールメンターの「チャレンジ」になりたい Kevin Pietersen チームの元バッターの前の批判に「問題なし」があります。",
+      "title_original": "McCullum: I want Pietersen to challenge me",
+      "summary_original": "England coach Brendon McCullum wants to be \"challenged\" by white-ball mentor Kevin Pietersen and has \"no problem\" with the former batter's previous criticism of the team.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13585768/england-coach-brendon-mccullum-wants-kevin-pietersen-to-challenge-him-has-no-problem-with-previous-criticisms",
+      "published": "Mon, 14 Sep 2026 14:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3854,20 +3886,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "McCullum: 私は私に挑戦するために Pietersen を望みます",
-      "summary": "イングランドコーチ Brendon McCullum ホワイトボールメンターの「チャレンジ」になりたい Kevin Pietersen チームの元バッターの前の批判に「問題なし」があります。",
-      "title_original": "McCullum: I want Pietersen to challenge me",
-      "summary_original": "England coach Brendon McCullum wants to be \"challenged\" by white-ball mentor Kevin Pietersen and has \"no problem\" with the former batter's previous criticism of the team.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13585768/england-coach-brendon-mccullum-wants-kevin-pietersen-to-challenge-him-has-no-problem-with-previous-criticisms",
-      "published": "Mon, 14 Sep 2026 14:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Fulham 最新:Arbeloa の戦争ウェストハム脅威を先取り EFL カップタイ",
       "summary": "",
       "title_original": "Fulham latest: Arbeloa wary of West Ham threat ahead of Carabao Cup tie",
@@ -3889,6 +3907,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "published": "Mon, 14 Sep 2026 14:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "メルソン:私は心配していますリヴァプール- Wirtz の待ち時間はどのくらいですか?",
+      "summary": "最新のスカイスポーツコラムで、ポール・マーソン彼は心配していると言うリヴァプールこの季節は、両方の質問を上げながらフロリアン・ヴィルツそして、ブラッドリー・バルコラ.",
+      "title_original": "Merson: I'm worried for Liverpool - how long can they wait for Wirtz?",
+      "summary_original": "In his latest Sky Sports column, Paul Merson says he is worried about Liverpool this season while also raising questions about both Florian Wirtz and Bradley Barcola.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13585809/liverpool-paul-merson-worried-after-assessing-andoni-iraola-florian-wirtz-and-bradley-barcola",
+      "published": "Mon, 14 Sep 2026 14:28:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -4018,34 +4050,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・シティ最新: アンダーソンはフォーデンの反応をダービーウィンに明らかに",
-      "summary": "",
-      "title_original": "Man City latest: Anderson reveals Foden's reaction to derby win",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Mon, 14 Sep 2026 12:25:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド最新: VOTE! Carrick で構築する圧力は?",
-      "summary": "",
-      "title_original": "Man Utd latest: VOTE! Is pressure beginning to build on Carrick?",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Mon, 14 Sep 2026 10:29:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
