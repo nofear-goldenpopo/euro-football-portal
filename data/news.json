@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T14:57:37.394709+00:00",
+  "updated_at": "2026-09-14T15:09:26.866544+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2930,7 +2930,12 @@
     "Daniel Maldini": "",
     "BMW PGA Championship": "BMW PGA選手権",
     "Will LIV Golf": "",
-    "Celebrity Pro-Am": ""
+    "Celebrity Pro-Am": "",
+    "Australia's Smith": "",
+    "Australia's Steve Smith": "",
+    "The New York Giants": "ニューヨーク・ジャイアンツ",
+    "John Harbaugh": "",
+    "Sky Sports NFL's Jeff": ""
   },
   "items": [
     {
@@ -2945,6 +2950,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "暗闇の中で左 - ライブ VAR オーディオを聴くためにファンは、します?",
+      "summary": "VAR は10 歳近くで、まだゲームはまだサポート者にオーディオライブを放送する許可されている長い方法です。",
+      "title_original": "Left in the dark - will fans ever get to hear live VAR audio?",
+      "summary_original": "VAR is nearly 10 years old, and yet the game is still a long way off being allowed to broadcast the audio live to supporters.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz6z80qqzplo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 15:00:42 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3074,20 +3093,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "McInnes は一体性と強度を両立するオールドファームゴブスキ",
-      "summary": "BBC Scotland's チーフスポーツライターTom English ソリューションレンジャーズ「説得力のある」オールドファーム勝上勝利セルティック Ibrox で。",
-      "title_original": "McInnes delivers togetherness & intensity in Old Firm gobsmacker",
-      "summary_original": "BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing Old Firm victory over Celtic at Ibrox.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj06e0mg40qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 16:08:09 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ハーランドスコアの論争の勝者としてマンチェスター・シティフォデンレッドにもかかわらずダービーを獲得",
       "summary": "アーリング・ハーランドの の目標は助けますマンチェスター・シティライバルで非常に論争のマンチェスターダービーを獲得マンチェスター・ユナイテッド10 人以上で70 分以上遊んでも。",
       "title_original": "Haaland scores controversial winner as Man City win derby despite Foden red",
@@ -3113,6 +3118,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "McInnes は一体性と強度を両立するオールドファームゴブスキ",
+      "summary": "BBC Scotland's チーフスポーツライターTom English ソリューションレンジャーズ「説得力のある」オールドファーム勝上勝利セルティック Ibrox で。",
+      "title_original": "McInnes delivers togetherness & intensity in Old Firm gobsmacker",
+      "summary_original": "BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing Old Firm victory over Celtic at Ibrox.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj06e0mg40qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 16:08:09 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3228,20 +3247,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "2 つのゲーム、2 つの敗北 - Olid's ですマンチェスター・ユナイテッドトラブル?",
-      "summary": "新しいマネージャーの下でシーズンに2 つのゲーム Eva Olid, マンチェスター・ユナイテッド最後の季節から側面の影を見てください。",
-      "title_original": "Two games, two defeats - are Olid's Man Utd in trouble?",
-      "summary_original": "Two games into the season under new manager Eva Olid, Manchester United look a shadow of the side from last season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgykg48nxdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 16:19:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "四頭4 頭4 頭4 頭4 頭の「NI」のスクワッドシェーピングは?",
       "summary": "北アイルランド顔4Nations League 今月11 日以降は、怪我、夏のスイッチ、個々のフォームで作るすべてのゲームインテル esting 選択時 Michael O'Neill 火曜日に彼のパネルの名前。",
       "title_original": "How is NI squad shaping up for quadruple-header?",
@@ -3326,6 +3331,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "2 つのゲーム、2 つの敗北 - Olid's ですマンチェスター・ユナイテッドトラブル?",
+      "summary": "新しいマネージャーの下でシーズンに2 つのゲーム Eva Olid, マンチェスター・ユナイテッド最後の季節から側面の影を見てください。",
+      "title_original": "Two games, two defeats - are Olid's Man Utd in trouble?",
+      "summary_original": "Two games into the season under new manager Eva Olid, Manchester United look a shadow of the side from last season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgykg48nxdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 16:19:25 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "レンジャーズ v アバディーン&エディンバラ ダービー で League Cup セミ",
       "summary": "レンジャーズセミファイナルでアバディーンに対して描画されている Premier Sports Cup, ミディアンとヒベリニアンの心が他のネクタイで向かいますハムデン・パーク.",
       "title_original": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
@@ -3340,31 +3359,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ストラグリングプレストン・ノースエンド FCsack ヘッキングボトム",
-      "summary": "プレストン・ノースエンド FC サック Paul Heckingbottom7 リーグの試合で6 敗戦後、リリーホワイトズ2 次決勝戦。",
-      "title_original": "Struggling Preston North End sack Heckingbottom",
-      "summary_original": "Preston North End sack Paul Heckingbottom after six defeats in seven league games left the Lilywhites second bottom of the Championship.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0qxpqvpgdeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 14:10:29 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "テーブルの上部、スタンドに空に: 反逆にラツィオオーナー様 |Nicky Bandini",
-      "summary": "印象的なスタートにもかかわらず、ジェンナーロ・ガットゥーゾ, サポーターは、ボーイコットしています Stadio Olimpico クラウディオ・ロトイトに対する賃金戦争ジェンナーロ・ガットゥーゾ思い出に残るポストを与えられた-ゲームインテル年を見下ろす。誰が彼の「いつか良い、時々多分見える」は、OFI Crete, または仲間の顔インテルそれを翻訳してタスクをプレター? 昨年、イタリアのナショナルチームを担当する前に、Gattuso は、指の乱舞、言語のスワッピング、ほぼなしになりました。",
-      "title_original": "Top of the table, empty in the stands: inside the revolt against Lazio’s owner | Nicky Bandini",
-      "summary_original": "Despite an impressive start under Gennaro Gattuso, supporters are boycotting the Stadio Olimpico to wage war against Claudio Lotito Gennaro Gattuso has given some memorable post‑game interviews down the years. Who could forget his “sometimes maybe good, sometimes maybe shit” rant at OFI Crete, or the face of the beleaguered interpreter tasked with translating it? Last year, not long before taking charge of the Italian national team, Gattuso got into a finger‑jabbing, language‑swapping, almost‑no",
+      "title": "Polanski が最初の管理者の犠牲者ブンデスリーガグラダバッハが再び失敗する季節 |Andy Brassell",
+      "summary": "Freiburg で敗北した後のヘッドコーチの出発点は、第2 階の他の倒れた巨人に参加できるクラブを要約します。この初期のステージでも、沈没感は馴染みがなく、揺れにくいですし、何かは与えなければなりませんでした Borussia Mönchengladbach. The はじめてブンデスリーガ今シーズンのコーチング変更は3 つのゲームだけなので、大したことはない。オイゲン・ポランスキ出発。ネザーは、グラダバッハが関与するショックです。結局、それはまさに",
+      "title_original": "Polanski the first managerial victim of Bundesliga season as Gladbach fail again | Andy Brassell",
+      "summary_original": "Departure of head coach after defeat at Freiburg sums up club that could join other fallen giants in second tier It could not go on. Even at this early stage the sinking feeling was familiar and impossible to shake, and something had to give at Borussia Mönchengladbach. The first Bundesliga coaching change of the season is upon us just three games in, and it is not a major surprise that it is Eugen Polanski departing. Neither is it a shock that Gladbach are involved; after all, it was at exactly",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/lazio-claudio-lotito-gennaro-gattuso-milan",
-      "published": "Mon, 14 Sep 2026 12:42:00 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
+      "url": "https://www.theguardian.com/football/2026/sep/14/borussia-monchengladbach-eugen-polanski-bundesliga",
+      "published": "Mon, 14 Sep 2026 13:03:47 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3396,34 +3401,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Polanski が最初の管理者の犠牲者ブンデスリーガグラダバッハが再び失敗する季節 |Andy Brassell",
-      "summary": "Freiburg で敗北した後のヘッドコーチの出発点は、第2 階の他の倒れた巨人に参加できるクラブを要約します。この初期のステージでも、沈没感は馴染みがなく、揺れにくいですし、何かは与えなければなりませんでした Borussia Mönchengladbach. The はじめてブンデスリーガ今シーズンのコーチング変更は3 つのゲームだけなので、大したことはない。オイゲン・ポランスキ出発。ネザーは、グラダバッハが関与するショックです。結局、それはまさに",
-      "title_original": "Polanski the first managerial victim of Bundesliga season as Gladbach fail again | Andy Brassell",
-      "summary_original": "Departure of head coach after defeat at Freiburg sums up club that could join other fallen giants in second tier It could not go on. Even at this early stage the sinking feeling was familiar and impossible to shake, and something had to give at Borussia Mönchengladbach. The first Bundesliga coaching change of the season is upon us just three games in, and it is not a major surprise that it is Eugen Polanski departing. Neither is it a shock that Gladbach are involved; after all, it was at exactly",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/borussia-monchengladbach-eugen-polanski-bundesliga",
-      "published": "Mon, 14 Sep 2026 13:03:47 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「判断の誤り」:Pro Ref 受賞の間違いを認めるハーランドの derby の勝者",
-      "summary": "受取体が、事件を見直したと発表 Unhappy Carrick エラーは「それが得られるように明らかだった」と述べた Pro Ref 採用情報アーリング・ハーランド受賞者 Sunday’s Manchesterderby は、ビデオアシスタントのレフリーが規則された後に許可されていないエンソ・フェルナンデスではなかったインテルビルドアップでプレイをフェリングします。エリート受診体は決定書を見直し、連絡を行いますマンチェスター・ユナイテッド. ハーランド’60 分の目標マンチェスター・シティ獲得を問い合わせオールド・トラッフォード最初は th の前に オフサイド を除外しました",
-      "title_original": "‘An error of judgement’: Pro Ref admits mistake in awarding Haaland’s derby winner",
-      "summary_original": "Officiating body announces it will review the incident Unhappy Carrick says error was ‘as obvious as it gets’ Pro Ref admitted Erling Haaland’s winner in Sunday’s Manchester derby should not have been allowed after the video assistant referee ruled Enzo Fernández was not interfering with play in the build-up. The elite officiating body will review the decision and has contacted Manchester United. Haaland’s 60th minute goal for Manchester City at Old Trafford was initially ruled offside before th",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/michael-carrick-var-erling-haaland-manchester-derby",
-      "published": "Sun, 13 Sep 2026 21:31:19 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Ludek Miklosko, 元ウェストハムそして QPR のゴールキーパーは、64 歳の死にます",
       "summary": "ミクロスコは373 回再生ウェストハムから 1990 彼は42 を獲得しましたインテル1982 年全国キャップ 前の投稿ウェストハム QPR ゴールキーパーLudek Miklosko64 歳で亡くなりました。チェコスロバキアとチェコ人のためにキャップを獲得したミクロスコは、癌を持っていた。ミクロスコが入社ウェストハムから Baník Ostrava1990 年(1990 年) 試用後30 万ポンド、初シーズンのトップ部門にクラブ・ウィン・プロモーションを支援。1998 年(平成10 年)、373 の外観を作った。QPR に入社。レンタル移籍で. ミクロスコは、そのキャリアを終えた",
       "title_original": "Ludek Miklosko, former West Ham and QPR goalkeeper, dies aged 64",
@@ -3431,6 +3408,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/14/ludek-miklosko-west-ham-qpr-goalkeeper-dies",
       "published": "Mon, 14 Sep 2026 08:08:45 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "テーブルの上部、スタンドに空に: 反逆にラツィオオーナー様 |Nicky Bandini",
+      "summary": "印象的なスタートにもかかわらず、ジェンナーロ・ガットゥーゾ, サポーターは、ボーイコットしています Stadio Olimpico クラウディオ・ロトイトに対する賃金戦争ジェンナーロ・ガットゥーゾ思い出に残るポストを与えられた-ゲームインテル年を見下ろす。誰が彼の「いつか良い、時々多分見える」は、OFI Crete, または仲間の顔インテルそれを翻訳してタスクをプレター? 昨年、イタリアのナショナルチームを担当する前に、Gattuso は、指の乱舞、言語のスワッピング、ほぼなしになりました。",
+      "title_original": "Top of the table, empty in the stands: inside the revolt against Lazio’s owner | Nicky Bandini",
+      "summary_original": "Despite an impressive start under Gennaro Gattuso, supporters are boycotting the Stadio Olimpico to wage war against Claudio Lotito Gennaro Gattuso has given some memorable post‑game interviews down the years. Who could forget his “sometimes maybe good, sometimes maybe shit” rant at OFI Crete, or the face of the beleaguered interpreter tasked with translating it? Last year, not long before taking charge of the Italian national team, Gattuso got into a finger‑jabbing, language‑swapping, almost‑no",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/lazio-claudio-lotito-gennaro-gattuso-milan",
+      "published": "Mon, 14 Sep 2026 12:42:00 GMT",
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
@@ -3473,6 +3464,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/14/premier-league-10-talking-points-from-the-weekends-action",
       "published": "Mon, 14 Sep 2026 07:00:26 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「判断の誤り」:Pro Ref 受賞の間違いを認めるハーランドの derby の勝者",
+      "summary": "受取体が、事件を見直したと発表 Unhappy Carrick エラーは「それが得られるように明らかだった」と述べた Pro Ref 採用情報アーリング・ハーランド受賞者 Sunday’s Manchesterderby は、ビデオアシスタントのレフリーが規則された後に許可されていないエンソ・フェルナンデスではなかったインテルビルドアップでプレイをフェリングします。エリート受診体は決定書を見直し、連絡を行いますマンチェスター・ユナイテッド. ハーランド’60 分の目標マンチェスター・シティ獲得を問い合わせオールド・トラッフォード最初は th の前に オフサイド を除外しました",
+      "title_original": "‘An error of judgement’: Pro Ref admits mistake in awarding Haaland’s derby winner",
+      "summary_original": "Officiating body announces it will review the incident Unhappy Carrick says error was ‘as obvious as it gets’ Pro Ref admitted Erling Haaland’s winner in Sunday’s Manchester derby should not have been allowed after the video assistant referee ruled Enzo Fernández was not interfering with play in the build-up. The elite officiating body will review the decision and has contacted Manchester United. Haaland’s 60th minute goal for Manchester City at Old Trafford was initially ruled offside before th",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/michael-carrick-var-erling-haaland-manchester-derby",
+      "published": "Sun, 13 Sep 2026 21:31:19 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3788,6 +3793,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Australia's Smith 彼が2027 アッシュで再生すると「わからない」",
+      "summary": "Australia's Steve Smith 彼がイングランドの次の夏のアッシュで再生すると、彼は「知らない」と言います。",
+      "title_original": "Australia's Smith 'doesn't know' if he will play in 2027 Ashes",
+      "summary_original": "Australia's Steve Smith says he \"does not know\" if he will play in next summer's Ashes in England.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13585807/australias-steve-smith-on-2027-ashes-series-in-england-i-dont-even-know-if-ill-be-there-yet",
+      "published": "Mon, 14 Sep 2026 12:23:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アストン・ヴィラ最新: マーソンの潜在能力に関する評論残留争い",
       "summary": "",
       "title_original": "Aston Villa latest: Merson's verdict on potential relegation battle",
@@ -3879,6 +3898,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "published": "Mon, 14 Sep 2026 14:32:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "巨人は戻っていますか? 「プレイオフチーム!」",
+      "summary": "ニューヨーク・ジャイアンツオープニング John Harbaugh ステートメントを持つ時代が勝つダラス・カウボーイズ日曜日・日曜日 Sky SportsJeff Reinebold は、初年度のヘッドコーチをバックアップし、プレイオフのコンテンツに戻りました。",
+      "title_original": "Are the Giants back? 'They can be playoff team!'",
+      "summary_original": "The New York Giants opened the John Harbaugh era with a statement win over the Dallas Cowboys on Sunday and Sky Sports NFL's Jeff Reinebold has backed their first-year head coach to steer them back into playoff contention.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13585825/new-york-giants-can-make-nfl-playoffs-with-new-john-harbaugh-culture-says-jeff-reinebold",
+      "published": "Mon, 14 Sep 2026 16:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4019,34 +4052,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/athletics/news/12040/13585800/amy-hunt-and-other-sportswomen-condemn-sydney-sweeney-advert-this-is-what-women-in-sport-look-like",
       "published": "Mon, 14 Sep 2026 12:13:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「大きな変化」 - F1 ドライバーは、マッドリングの過剰な改善を望む",
-      "summary": "フォーミュラ1 ドライバーとチームのチーフは、将来の季節を追い越すためにトラックに変化をするためにオーガナイザーのためのマドリングにスコープがあることを願っています。",
-      "title_original": "'Obvious changes' - F1 drivers want Madring overtaking improvements",
-      "summary_original": "Formula 1 drivers and team chiefs are hopeful there is scope at the Madring for organisers to make changes to the track to aid overtaking for future seasons.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13585296/f1-drivers-team-bosses-hopeful-over-madring-track-changes-for-overtaking-after-new-venues-first-spanish-gp",
-      "published": "Mon, 14 Sep 2026 11:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "獲得を問い合わせハーランドの の目標は間違いでした - しかし、WHY は起こりましたか?",
-      "summary": "アーリング・ハーランドの の勝利の目標 Sunday's Manchester ダービーは論争の状況に遭遇しました - そして、未回答を残したいくつかの質問はまだあります。",
-      "title_original": "We know Haaland's goal was a mistake - but WHY did it happen?",
-      "summary_original": "Erling Haaland's winning goal in Sunday's Manchester derby came in controversial circumstances - and there are still a number of questions left unanswered.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585716/erling-haalands-goal-for-man-city-against-man-utd-was-a-mistake-but-why-did-it-happen",
-      "published": "Mon, 14 Sep 2026 09:10:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
