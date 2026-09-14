@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T05:25:07.716178+00:00",
+  "updated_at": "2026-09-14T05:38:25.600748+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2872,7 +2872,10 @@
     "Sunday. Handed": "",
     "Lennart Karl": "レナート・カール",
     "Jannik Sinner": "ヤニック・シナー",
-    "Marcus Trescothick": ""
+    "Marcus Trescothick": "",
+    "NFL Weekend Review": "",
+    "The Josh Allen": "",
+    "Derrick Henry": "デリック・ヘンリー"
   },
   "items": [
     {
@@ -3800,6 +3803,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "NFL Weekend Review: The Josh Allen 獲得を問い合わせ",
+      "summary": "Josh Allen より遅いドラマを届けるバッファロー・ビルズ, デリック・ヘンリー星の星ボルチモア・レイブンズそして、Chicago Bears2026 年の NFL シーズンの野生の開口部日曜日にスコアリング力を発揮します。週末レビューへようこそ...",
+      "title_original": "NFL Weekend Review: The Josh Allen experience is back!",
+      "summary_original": "Josh Allen delivers more late drama for the Buffalo Bills, Derrick Henry stars for the Baltimore Ravens and the Chicago Bears flex their scoring power on a wild opening Sunday of the 2026 NFL season. Welcome to the weekend review...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13585429/nfl-weekend-review-josh-allens-box-office-finish-trevor-lawrences-mvp-contention-and-derrick-henry-greatness",
+      "published": "Mon, 14 Sep 2026 00:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "受賞歴マンチェスター・シティ受賞者マンチェスター・ユナイテッドエラー、参照ボディを認める",
       "summary": "参照ボディ Pro Ref 受賞に誤りが認められているマンチェスター・シティ受賞者マンチェスター・ユナイテッド彼らの1-0 勝利でオールド・トラッフォード.",
       "title_original": "Awarding Man City's winner at Man Utd an error, admits refereeing body",
@@ -3975,20 +3992,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13585240/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-taking-on-ben-shelton-in-the-mens-final",
       "published": "Sun, 13 Sep 2026 18:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "NFL Week One 結果: クマとパンサーセットのスコアリングレコード",
-      "summary": "",
-      "title_original": "NFL Week One results: Bears and Panthers set scoring record",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nfl/live-blog/12040/13585427/nfl-2026-results-and-highlights-chicago-bears-cincinnati-bengals-and-baltimore-ravens-win-on-wild-sunday",
-      "published": "Sun, 13 Sep 2026 15:35:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
