@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T17:53:03.147754+00:00",
+  "updated_at": "2026-09-14T18:07:07.941451+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2960,7 +2960,8 @@
     "Sir Kevin Sinfield": "",
     "Grand Final": "",
     "Daniel English": "",
-    "Man United-Liverpools": ""
+    "Man United-Liverpools": "",
+    "Daniel Daniel Farke": ""
   },
   "items": [
     {
@@ -3174,20 +3175,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "何回も持っているかプレミアリーグゲームウィークはホームウィンがなかった?",
-      "summary": "BBC Sport's Ask Me 毎週月曜日の試合の理由について、どのチームが説明します。リーズ・ユナイテッド FC そして、ニューカッスル作成できるプレミアリーグ歴史・歴史",
-      "title_original": "How many times has a Premier League gameweek had no home wins?",
-      "summary_original": "BBC Sport's Ask Me Anything team explains why Monday's match between Leeds United and Newcastle United could create Premier League history",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqlwkzde10qo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 10:00:35 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "BBC Women's Football Weekly",
       "summary": "早期にポイントを落とすことができる方法アーセナル WSL のタイトルの戦い?",
       "title_original": "BBC Women's Football Weekly",
@@ -3199,6 +3186,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "何回も持っているかプレミアリーグゲームウィークはホームウィンがなかった?",
+      "summary": "BBC Sport's Ask Me 毎週月曜日の試合の理由について、どのチームが説明します。リーズ・ユナイテッド FC そして、ニューカッスル作成できるプレミアリーグ歴史・歴史",
+      "title_original": "How many times has a Premier League gameweek had no home wins?",
+      "summary_original": "BBC Sport's Ask Me Anything team explains why Monday's match between Leeds United and Newcastle United could create Premier League history",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqlwkzde10qo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 10:00:35 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3265,20 +3266,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/crlyqz21lvnpo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 14 Sep 2026 12:15:01 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Ronaldo は Jota チャントの上に生涯禁止を要求します",
-      "summary": "ソーシャルメディアの映像が表示される Al-Hilal's Ruben NevesAl-Taawoun ファンに反応する Diogo Jota's 自分の中に彼の名前 Saudi Pro League マッチ。",
-      "title_original": "Ronaldo demands lifetime bans over Jota chants",
-      "summary_original": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 13:46:21 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3370,6 +3357,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Ronaldo は Jota チャントの上に生涯禁止を要求します",
+      "summary": "ソーシャルメディアの映像が表示される Al-Hilal's Ruben NevesAl-Taawoun ファンに反応する Diogo Jota's 自分の中に彼の名前 Saudi Pro League マッチ。",
+      "title_original": "Ronaldo demands lifetime bans over Jota chants",
+      "summary_original": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 13:46:21 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "四頭4 頭4 頭4 頭4 頭の「NI」のスクワッドシェーピングは?",
       "summary": "北アイルランド顔4Nations League 今月11 日以降は、怪我、夏のスイッチ、個々のフォームで作るすべてのゲームインテル esting 選択時 Michael O'Neill 火曜日に彼のパネルの名前。",
       "title_original": "How is NI squad shaping up for quadruple-header?",
@@ -3385,16 +3386,16 @@
     },
     {
       "title": "リーズ・ユナイテッド FC. .ニューカッスル: プレミアリーグ– ライブ",
-      "summary": "⚽ プレミアリーグ8pm BST キックオフからの更新 ゴール10 週末 | 郵送可能 Daniel English サッカーは、その古典的なマッチアップのために有名です - あなたのマンチェスター・ユナイテッド-リヴァプール s、あなたのアーセナル-トッテナム es など。しかし、それはまた、トップティアで論争されていないが、強力なストーリーを伝えている歴史的クラブは、単数の都市を上昇させる神話的な地面に置く、ゲームを本質的に定義するだけでなく、それの挑発的な備品のそりを誇っています。リーズ・ユナイテッド FC. .ニューカッスルこんな感じです。",
+      "summary": "⚽ プレミアリーグ8pm BST キックオフからの更新 ゴール10 週末 | そして、あなたはダニエルを郵送することができますダニエル・ファルケインフォメーション スカイは、パフォーマンスとポイントの面で良いスタートでしたが、特にトランジションに危険な強いチームに対して、これは難しいテストです。彼らは勢いに乗ることを望んでいると、それは多くの苦しんでいることに興奮している彼らのファンは良いです。エディ・ハウ去った後、彼は音楽家を去り、Jaissle はそれを仕事にしようとしました。パシーのプレイヤーを前面にデプロイするので、彼のチーム n",
       "title_original": "Leeds United v Newcastle United: Premier League – live",
-      "summary_original": "⚽ Premier League updates from the 8pm BST kick-off ⚽ 10 weekend talking points | And you can mail Daniel English football is renowned for its classic match-ups – your Man United-Liverpools, your Arsenal-Spurses and so on. But it also boasts a slew of evocative fixtures that, though not ensconced in the top tier, define the game just as essentially, historic clubs telling rich stories, set in mythical grounds which elevate singular cities. Leeds United v Newcastle United is one such, and both arr",
+      "summary_original": "⚽ Premier League updates from the 8pm BST kick-off ⚽ 10 weekend talking points | And you can mail Daniel Daniel Farke tells Sky it’s been a good start in terms of performance and points, but this is a difficult test against a strong team who are especially dangerous in transition. They’re hoping to ride momentum and it’s good their fans are excited having suffered plenty. Eddie Howe has left a legacy, he muses, and Jaissle has tried to work with it, deploying pacy players up front, so his team n",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
-      "published": "Mon, 14 Sep 2026 17:30:12 GMT",
+      "published": "Mon, 14 Sep 2026 18:00:02 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
