@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T03:06:15.993425+00:00",
+  "updated_at": "2026-09-14T03:27:01.871962+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2870,7 +2870,8 @@
     "Green Bay's NFL": "",
     "Lewis Dunk's": "",
     "Sunday. Handed": "",
-    "Lennart Karl": "レナート・カール"
+    "Lennart Karl": "レナート・カール",
+    "Jannik Sinner": "ヤニック・シナー"
   },
   "items": [
     {
@@ -3714,6 +3715,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「私は今世界で最高のです」 - Zverev は Sinner と Alcaraz に警告を送信します",
+      "summary": "Alexander Zverev 世界 No1 にしっかり警告を送信ヤニック・シナーそして、Carlos Alcaraz, 彼は現在彼の次の世界最高のテニス選手であると主張 US Open 優勝。",
+      "title_original": "'I am the best in the world right now' - Zverev sends warning to Sinner and Alcaraz",
+      "summary_original": "Alexander Zverev sent out firm warning to world No 1 Jannik Sinner and Carlos Alcaraz, claiming he is currently the best tennis player in the world following his US Open victory.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13585668/us-open-alexander-zverev-sends-out-warning-to-jannik-sinner-and-carlos-alcaraz-claiming-he-is-currently-the-best-tennis-player-in-the-world",
+      "published": "Mon, 14 Sep 2026 04:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Zverev 終了 シェルトンの実行とアメリカの夢 と US Open トリムフ",
       "summary": "トップシード Alexander Zverev 日曜日にダッシュアメリカンの夢, 克服ベン・シェルトンメイドインを主張する4 セットの戦いで US Open タイトル。",
       "title_original": "Zverev ends Shelton’s run and American dreams with US Open triumph",
@@ -3977,20 +3992,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハーランドスコアの論争のダービーの勝者のためのマンチェスター・シティフォデン赤",
-      "summary": "アーリング・ハーランドの contentious 受賞者 10 人を獲得マンチェスター・シティダービー 勝つ オーバー ライバル ユナイテッド アットオールド・トラッフォード- 後フィル・フォーデンの 論争第一半レッドカード.",
-      "title_original": "Haaland scores controversial derby winner for Man City after Foden red",
-      "summary_original": "Erling Haaland's contentious winner earned 10-man Manchester City a derby win over rivals United at Old Trafford - after Phil Foden's controversial first-half red card.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-united-vs-manchester-city/report/559481",
-      "published": "Sun, 13 Sep 2026 18:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
