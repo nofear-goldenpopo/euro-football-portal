@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T11:54:36.142004+00:00",
+  "updated_at": "2026-09-14T12:07:56.883757+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2907,7 +2907,13 @@
     "Raphaël Le Guen": "",
     "Torres. The Brest": "",
     "Amy Hunt": "",
-    "Sydney Sweeney's": ""
+    "Sydney Sweeney's": "",
+    "Are Man Utd": "",
+    "Ando Iraola": "",
+    "Team USA's Solheim": "",
+    "Laura Davies": "ローラ・デービース",
+    "Team Europe's": "",
+    "Dame Laura Davies": ""
   },
   "items": [
     {
@@ -3303,20 +3309,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「今日はゲームが保護されていない」 -アルテタふわふわアーセナル生き生き生き生き生き生き生き",
-      "summary": "アーセナル gritty 2-0 勝つために生成サンダーランド, しかしミケル・アルテタ結果に彼の側を費やすことができるペナルティについての fumed。",
-      "title_original": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
-      "summary_original": "Arsenal produced a gritty 2-0 win against Sunderland, but Mikel Arteta fumed about the penalty that could have cost his side a result.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ym4384rezo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 22:57:13 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "観戦:ライス&モンローは、次のように動きます Edinburgh City 勝つ大きい",
       "summary": "週末の行動から最大限の行動を見る Scottish Championship リーグ1・リーグ2",
       "title_original": "Watch: Raith & Montrose make moves as Edinburgh City win big",
@@ -3327,6 +3319,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「どうして行っていませんか?」 - コベントリーに対するダンクの不思議な目標",
+      "summary": "デイパンディットのマッチ Danny Murphy そして、ウェイン・ルーニー見てみるルイス・ダンク'信じられないほどのロングレンジストライキでブライトン'5-0 は、彼の技術のための擁護者を賞賛するコベントリーに対して勝ちます。",
+      "title_original": "'Why not have go?!' - Dunk's wonder goal against Coventry",
+      "summary_original": "Match of the Day pundits Danny Murphy and Wayne Rooney take a look at Lewis Dunk's incredible long-range strike in Brighton's 5-0 win against Coventry, praising the defender for his technique.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvgyree8zpro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 22:59:21 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3751,6 +3757,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "獲得を問い合わせマンチェスター・ユナイテッド新しい季節に2 週間だけのスパイラルリング?",
+      "summary": "スカイスポーツコラムニスト Laura Hunter 第2 ラウンドから大きなポイントを分析 Women's Super League 女性の試合の心臓部で重要なストーリーに近づくマッチ。",
+      "title_original": "Are Man Utd spiralling just two weeks into new season?",
+      "summary_original": "Sky Sports columnist Laura Hunter analyses the big talking points from the second round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13585774/what-has-happened-to-man-utd-eva-olid-is-already-experiencing-the-harsh-glare-of-the-spotlight-after-successive-wsl-defeats",
+      "published": "Mon, 14 Sep 2026 12:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ハントと他のスポーツ女性は、Sweeney 広告を非難",
       "summary": "Amy Hunt ヒットバック Sydney Sweeney's 指示による論争の賭けの広告アメリカ合衆国「ここはスポーツの女性の姿が似ている」という女優。",
       "title_original": "Hunt and other sportswomen condemn Sweeney advert",
@@ -3877,6 +3897,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「上り下がるつもり」 | いららららっしゃるリヴァプール一貫性の欠如",
+      "summary": "リヴァプールヘッドコーチ Ando Iraola 彼の側面の一貫性の欠如によって不満を認めているが、彼は彼の新しいクラブで解決するようにプロセスのすべての部分であると言う。",
+      "title_original": "'There are going to be up and downs' | Iraola frustrated by Liverpool's lack of consistency",
+      "summary_original": "Liverpool head coach Ando Iraola admits he has been frustrated by his side's lack of consistency, but says it is all part of the process as he settles in at his new club.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585814/liverpool-latest-andoni-iraola-frustrated-by-a-lack-of-consistency",
+      "published": "Mon, 14 Sep 2026 12:49:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "欧州は、再び後に配信 Team USA's Solheim 祝祭日が過ぎます",
+      "summary": "「土曜日にドリンクを飲む、日曜日に飲む!」",
+      "title_original": "Europe deliver again after Team USA's Solheim celebrations come too soon",
+      "summary_original": "“They drink on Saturday, we drink on Sunday!”",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13585775/solheim-cup-2026-how-team-europe-celebrated-win-over-team-usa-and-anna-nordqvists-side-delivered-home-victory",
+      "published": "Mon, 14 Sep 2026 12:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「どなたか?」 |ローラ・デービース飲み物を飲む Team Europe's バス!",
+      "summary": "ダムエローラ・デービース飲み物を手にする Team Europe's バス後 Solheim Cup 優勝。@SolheimCupEuro の写真の礼儀。",
+      "title_original": "'Is anybody thirsty?!' | Laura Davies hands out drinks on Team Europe's bus!",
+      "summary_original": "Dame Laura Davies hands out the drinks on Team Europe's bus after Solheim Cup victory. Pictures courtesy of @SolheimCupEuro.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585752/solheim-cup-dame-laura-davies-hands-out-the-drinks-on-team-europes-bus",
+      "published": "Mon, 14 Sep 2026 10:16:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ジャイアンツは、週スリラーの開口部のライバルカウボーイを敗北",
       "summary": "オープニングウィークエンド NFL のハイライト New York Giants そして、ダラス・カウボーイズ.",
       "title_original": "Giants defeat divisional rivals Cowboys in opening week thriller",
@@ -3968,62 +4030,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13585657/alexander-zverev-vs-ben-shelton-us-open-highlights",
       "published": "Sun, 13 Sep 2026 23:31:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ロナルドは、ホタチャントに関与するファンのための生涯禁止のための呼び出しを呼び出します",
-      "summary": "クリスティアーノ・ロナウド後半の名前を繰り返すサポーターのための生涯スタジアム禁止のために呼びました Diogo Jota ポルトガルのチームメイト Ruben Neves.",
-      "title_original": "Ronaldo calls for lifetime bans for fans involved in Jota chants",
-      "summary_original": "Cristiano Ronaldo has called for lifetime stadium bans for supporters who repeatedly chanted the name of the late Diogo Jota at his Portugal team-mate Ruben Neves.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585733/cristiano-ronaldo-portugal-captain-calls-for-lifetime-bans-after-diogo-jota-chanting-aimed-at-ruben-neves",
-      "published": "Mon, 14 Sep 2026 09:10:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウィード・エンド10 年ヨーロッパタイトルは、フランダースの勝利で干ばつ",
-      "summary": "ジェイムズ・ウェイド何十年にもわたって待っていた European Tour 彼がビートとしてタイトル Ross Smith 決勝の8-4Flanders Darts Trophy.",
-      "title_original": "Wade ends 10-year European title drought with victory in Flanders",
-      "summary_original": "James Wade ended a decade-long wait for a European Tour title as he beat Ross Smith 8-4 in the final of the Flanders Darts Trophy.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13585608/flanders-darts-trophy-james-wade-ends-10-year-wait-for-european-tour-title-with-win-over-ross-smith-in-antwerp",
-      "published": "Sun, 13 Sep 2026 22:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ファークのプランを届けるリーズ'fun'の新しい高さに",
-      "summary": "Monday Night Football 間の最初の管理会議をマークするダニエル・ファルケそして、Matthias Jaissle, 現在動作しているドイツ4 人のマネージャーの2 つプレミアリーグ. どちらも、この季節に始まります。",
-      "title_original": "Farke's plan to deliver Leeds to 'fun' new heights",
-      "summary_original": "Monday Night Football marks the first managerial meeting between Daniel Farke and Matthias Jaissle, two of four German managers currently operating in the Premier League. Both have enjoyed unbeaten starts to this season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585548/leeds-vs-newcastle-daniel-farke-sets-out-blueprint-for-success-after-unbeaten-premier-league-start",
-      "published": "Mon, 14 Sep 2026 09:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "NFL Weekend Review: The Josh Allen 獲得を問い合わせ",
-      "summary": "Josh Allen より遅いドラマを届けるバッファロー・ビルズ, デリック・ヘンリー星の星ボルチモア・レイブンズそして、Chicago Bears2026 年の NFL シーズンの野生の開口部日曜日にスコアリング力を発揮します。週末レビューへようこそ...",
-      "title_original": "NFL Weekend Review: The Josh Allen experience is back!",
-      "summary_original": "Josh Allen delivers more late drama for the Buffalo Bills, Derrick Henry stars for the Baltimore Ravens and the Chicago Bears flex their scoring power on a wild opening Sunday of the 2026 NFL season. Welcome to the weekend review...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nfl/news/12040/13585429/nfl-weekend-review-josh-allens-box-office-finish-trevor-lawrences-mvp-contention-and-derrick-henry-greatness",
-      "published": "Mon, 14 Sep 2026 00:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
