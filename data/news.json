@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T20:25:17.814691+00:00",
+  "updated_at": "2026-09-14T20:38:41.919760+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2976,7 +2976,9 @@
     "Leeds THREE": "",
     "Henry Pollock": "",
     "Northampton Saints": "ノーサンプトン・セインツ",
-    "Leeds FOUR": ""
+    "Leeds FOUR": "",
+    "Noni Madueke": "ノニ・マドゥエケ",
+    "PSV's Paul Wanner": ""
   },
   "items": [
     {
@@ -3050,6 +3052,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Madueke a、for Euro loans - Tuesday's gossip を獲得候補に",
+      "summary": "アトレティコ・マドリードそして、ユヴェントストラックノニ・マドゥエケ, リヴァプール注目のクラブ PSV ポール・ワンナーラツィオ自由な代理店を考慮するマウロ・イカルディ, 以上.",
+      "title_original": "Madueke a target for Euro loans - Tuesday's gossip",
+      "summary_original": "Atletico Madrid and Juventus track Noni Madueke, Liverpool are among the clubs looking at PSV's Paul Wanner, Lazio consider free agent Mauro Icardi, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg0dvv4drko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 20:31:39 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナル獲得を問い合わせ Pro RefKonsa ペナルティ",
       "summary": "アーセナル参照ボディに連絡して下さい Pro Ref 見られた事件の上に Ezri Konsa 土曜日の勝利でペナルティを隠すサンダーランド.",
       "title_original": "Arsenal to contact Pro Ref over Konsa penalty",
@@ -3075,20 +3091,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "バイエルン監視 Wirtz - 月曜日のゴシップ",
-      "summary": "フロリアン・ヴィルツ監視されているバイエルン・ミュンヘン, Bournemouth's Brazil レイアンは、リヴァプール対象の次の夏とボルシア・ドルトムントルールアウト移動ジェイドン・サンチョ.",
-      "title_original": "Bayern monitoring Wirtz - Monday's gossip",
-      "summary_original": "Florian Wirtz is being monitored by Bayern Munich, Bournemouth's Brazil forward Rayan could be a Liverpool target next summer and Borussia Dortmund rule out move for Jadon Sancho.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr4v345pdq0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 20:23:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3406,7 +3408,7 @@
       "summary_original": "⚽ Premier League updates from the 8pm BST kick-off ⚽ 10 weekend talking points | And you can mail Daniel Jaissle did, of course, have a choice; he might’ve picked Touré. But it makes sense that in so competitive a contest and such an intimidating environment, he’s decided that one new face is enough. Elanga, though, is a big miss. When he was playing age-group football, I really liked him – he combined the agility of a winger with the instinct of a striker. But when he broke into the Manchester ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
-      "published": "Mon, 14 Sep 2026 20:15:00 GMT",
+      "published": "Mon, 14 Sep 2026 20:29:34 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
