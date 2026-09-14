@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T06:08:07.766721+00:00",
+  "updated_at": "2026-09-14T06:33:40.515259+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2876,7 +2876,10 @@
     "NFL Weekend Review": "",
     "The Josh Allen": "",
     "Derrick Henry": "デリック・ヘンリー",
-    "The Sky Sports Racing": ""
+    "The Sky Sports Racing": "",
+    "Peter Lovenrkands": "",
+    "Barry Ferguson": "バリー・ファーガソン",
+    "Dan Neil's": ""
   },
   "items": [
     {
@@ -3006,13 +3009,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Did O'Neill チーム選択が間違っているオールドファーム敗北?",
-      "summary": "メックの後 Premier Sports Cup ライバルの手に出るレンジャーズ, 行なったセルティックログインマーティン・オニールチーム選択が間違っていますか?",
-      "title_original": "Did O'Neill get team selection wrong in Old Firm defeat?",
-      "summary_original": "After a meek Premier Sports Cup exit at the hands of rivals Rangers, did Celtic boss Martin O'Neill get his team selection wrong?",
+      "title": "ニールランショーとして「フェルグソンの影」レンジャーズ",
+      "summary": "Peter Lovenrkands 陰影があったと信じるバリー・ファーガソン獲得を問い合わせ Dan Neil's 日曜日の公演レンジャーズ嵐に Premier Sports Cup セミファイナルセルティックの費用。",
+      "title_original": "'Shades of Ferguson' as Neil runs show for Rangers",
+      "summary_original": "Peter Lovenrkands believes there were shades of Barry Ferguson in Dan Neil's performance on Sunday as Rangers stormed into the Premier Sports Cup semi-finals at Celtic's expense.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v48v2729yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 17:16:19 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crl62l7z6p4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 06:00:43 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3031,6 +3034,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Did O'Neill チーム選択が間違っているオールドファーム敗北?",
+      "summary": "メックの後 Premier Sports Cup ライバルの手に出るレンジャーズ, 行なったセルティックログインマーティン・オニールチーム選択が間違っていますか?",
+      "title_original": "Did O'Neill get team selection wrong in Old Firm defeat?",
+      "summary_original": "After a meek Premier Sports Cup exit at the hands of rivals Rangers, did Celtic boss Martin O'Neill get his team selection wrong?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v48v2729yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 17:16:19 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3240,20 +3257,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "別のヴィラロス後に回答を求めて左 Emery",
-      "summary": "アストン・ヴィラ開口部の3 つを失ったプレミアリーグボスを離れるゲーム Unai Emery 回答に苦労します。",
-      "title_original": "Emery left searching for answers after another Villa loss",
-      "summary_original": "Aston Villa have lost three of their opening four Premier League games to leave boss Unai Emery struggling for answers.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clye91zj7l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 18:06:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
