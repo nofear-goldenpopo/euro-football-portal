@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T06:33:40.515259+00:00",
+  "updated_at": "2026-09-14T07:02:55.644538+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2879,7 +2879,11 @@
     "The Sky Sports Racing": "",
     "Peter Lovenrkands": "",
     "Barry Ferguson": "バリー・ファーガソン",
-    "Dan Neil's": ""
+    "Dan Neil's": "",
+    "New York Giants": "",
+    "Dallas Cowboys": "ダラス・カウボーイズ",
+    "Jaxson Dart": "",
+    "Isaiah Likely": ""
   },
   "items": [
     {
@@ -3443,20 +3447,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "London City’s スーパースターは WSL 敗北で地球に降り注ぐウェストハム",
-      "summary": "ウェストハム最初の主張 Women’s Super League2-1 ホーム勝利でシーズンの勝利ロンドン・シティ・ライオネス. ケリーガゴは、センターバック間のレース、21 分後にハンマーを置くマピ・レオンそして、Isa Kardinaal にラッチに Seraina Piubel’s ハーフウェイとラウンドの通過 Elene Lete 獲得を問い合わせ London City ゴール。Daniëlle van de Donk がイコシザーを否定したとき Constance Picaud-Inconnu 保存された低い、とアレクシア・プテジャス, 別の London City’s 大きい名前の夏の印、上昇",
-      "title_original": "London City’s superstars brought down to earth in WSL defeat at West Ham",
-      "summary_original": "West Ham claimed their first Women’s Super League win of the season with a 2-1 home victory over London City Lionesses. Kelly Gago put the Hammers ahead after 21 minutes, racing between the centre-backs Mapi León and Isa Kardinaal to latch on to Seraina Piubel’s pass from nearly halfway and rounding Elene Lete in the London City goal. Daniëlle van de Donk was denied an equaliser when Constance Picaud-Inconnu saved low, with Alexia Putellas, another of London City’s big-name summer signings, lift",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/london-city-west-ham-wsl-match-report",
-      "published": "Sat, 12 Sep 2026 14:11:24 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "フラストレーションリヴァプール Fulham クレームが最初のポイントに値するので、任意の火花を欠く",
       "summary": "アルバロ・アルベロア多くの場合、障害が Andoni Iraola’s インテル国民の野望は、両方が正しいバックの役割のために横たわっていた日に戻ります Spain. On アンフィールドに戻り、元マネージャーの時計の眼下にラファエル・ベニテス、Arbeloa は彼の最初の主張するために再びイラオラを脅かしましたプレミアリーグ Fulham ヘッド コーチとして効果がない点リヴァプール. フルハムは、自分の低い位置を頼りにし、3 人のリーグの実行は、黙示的なポイントを取るために敗北リヴァプール淡い私だったチーム",
       "title_original": "Frustrated Liverpool lack any spark as Fulham claim deserved first point",
@@ -3481,6 +3471,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "London City’s スーパースターは WSL 敗北で地球に降り注ぐウェストハム",
+      "summary": "ウェストハム最初の主張 Women’s Super League2-1 ホーム勝利でシーズンの勝利ロンドン・シティ・ライオネス. ケリーガゴは、センターバック間のレース、21 分後にハンマーを置くマピ・レオンそして、Isa Kardinaal にラッチに Seraina Piubel’s ハーフウェイとラウンドの通過 Elene Lete 獲得を問い合わせ London City ゴール。Daniëlle van de Donk がイコシザーを否定したとき Constance Picaud-Inconnu 保存された低い、とアレクシア・プテジャス, 別の London City’s 大きい名前の夏の印、上昇",
+      "title_original": "London City’s superstars brought down to earth in WSL defeat at West Ham",
+      "summary_original": "West Ham claimed their first Women’s Super League win of the season with a 2-1 home victory over London City Lionesses. Kelly Gago put the Hammers ahead after 21 minutes, racing between the centre-backs Mapi León and Isa Kardinaal to latch on to Seraina Piubel’s pass from nearly halfway and rounding Elene Lete in the London City goal. Daniëlle van de Donk was denied an equaliser when Constance Picaud-Inconnu saved low, with Alexia Putellas, another of London City’s big-name summer signings, lift",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/12/london-city-west-ham-wsl-match-report",
+      "published": "Sat, 12 Sep 2026 14:11:24 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3849,6 +3853,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "New York Giants 勝負のオープンシーズンダラス・カウボーイズ",
+      "summary": "Jaxson Dart ピックアップ Isaiah Likely2 つのタッチダウンのために New York Giants 勝つダラス・カウボーイズ 28-20.",
+      "title_original": "New York Giants open season with victory over Dallas Cowboys",
+      "summary_original": "Jaxson Dart picked out Isaiah Likely for two touchdowns as the New York Giants beat the Dallas Cowboys 28-20.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13585702/new-york-giants-begin-their-season-with-28-20-victory-over-dallas-cowboys-in-john-harbaughs-first-game-as-coach",
+      "published": "Mon, 14 Sep 2026 07:21:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "High-scoring EPIC 季節のオープナー",
       "summary": "週のハイライト 1 間のマッチアップ Chicago Bears そして、カロライナ・パンサーズ.",
       "title_original": "High-scoring EPIC in season opener",
@@ -3982,20 +4000,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13585547/nfl-josh-allen-with-stunning-21-yard-touchdown-vs-houston-texans",
       "published": "Sun, 13 Sep 2026 18:49:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "SNL UK 獲得を問い合わせ Weekly Update US Open スペシャル",
-      "summary": "SNL UK's Ania Magliano そして、Paddy Young 獲得を問い合わせ Weekly Update US Open 特別な、からのセグメントを含むジェフ・ゴールドブラムそして、Carlos Alcaraz's ニプル...",
-      "title_original": "SNL UK do Weekly Update US Open special",
-      "summary_original": "SNL UK's Ania Magliano and Paddy Young make a Weekly Update US Open special, including segments from Jeff Goldblum and Carlos Alcaraz's nipple...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585559/snl-uk-do-weekly-update-us-open-special",
-      "published": "Sun, 13 Sep 2026 19:10:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
