@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T21:39:00.826926+00:00",
+  "updated_at": "2026-09-14T21:52:12.258601+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -4070,20 +4070,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リーズスラッシュニューカッスル Jaissle が初めて敗北 - 反応 LIVE!",
-      "summary": "",
-      "title_original": "Leeds THRASH Newcastle to hand Jaissle first defeat - reaction LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/leeds-united-vs-newcastle-united/live/559479",
-      "published": "Mon, 14 Sep 2026 18:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "McCullum: 私は私に挑戦するために Pietersen を望みます",
       "summary": "イングランドコーチ Brendon McCullum ホワイトボールメンターの「チャレンジ」になりたい Kevin Pietersen チームの元バッターの前の批判に「問題なし」があります。",
       "title_original": "McCullum: I want Pietersen to challenge me",
@@ -4109,6 +4095,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アーセナル最新: ガンナーに連絡する Pro Ref オーバーオーバーサンダーランドペナルティ",
+      "summary": "",
+      "title_original": "Arsenal latest: Gunners to contact Pro Ref over Sunderland penalty",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Mon, 14 Sep 2026 14:41:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
