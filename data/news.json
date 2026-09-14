@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T16:26:41.638220+00:00",
+  "updated_at": "2026-09-14T16:40:10.273944+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2952,7 +2952,10 @@
     "Kiat Lim": "",
     "Spurs Andoni Iraola": "",
     "Saturday. His": "",
-    "João Neves. The Portugal": ""
+    "João Neves. The Portugal": "",
+    "While Hibernian": "",
+    "Wouter Vrancken": "",
+    "Celtic's Old Firm": ""
   },
   "items": [
     {
@@ -3152,13 +3155,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Aberdeen はファンの行動の上に懲戒されるかもしれません",
-      "summary": "Aberdeen は、一部のサポーターが侵入した後、懲戒処分に直面することができました Rugby ParkKilmarnock を上回るカップに続くピッチ。",
-      "title_original": "Aberdeen may be disciplined over fan behaviour",
-      "summary_original": "Aberdeen could face disciplinary action after some supporters invaded the Rugby Park pitch following their cup win over Kilmarnock.",
+      "title": "ダービーセミは「より多くのスパイス」または単に「ファンのためのニッケル」を追加しますか?",
+      "summary": "While Hibernian ヘッドコーチデヴィッド・グレイ「非常に特別な」を信頼しています Premier Sports CupMidlothian、反対側の心に対する準決勝 Wouter Vrancken 見通しについてクールに保たれています。",
+      "title_original": "Does derby semi add 'more spice' or simply 'nice for fans'?",
+      "summary_original": "While Hibernian head coach David Gray is relishing a \"very special\" Premier Sports Cup semi-final against Heart of Midlothian, counterpart Wouter Vrancken is keeping cool about the prospect.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqz21lvnpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 12:15:01 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5zjz0gexgj1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 16:16:58 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3236,13 +3239,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Did O'Neill チーム選択が間違っているオールドファーム敗北?",
-      "summary": "メックの後 Premier Sports Cup ライバルの手に出るレンジャーズ, 行なったセルティックログインマーティン・オニールチーム選択が間違っていますか?",
-      "title_original": "Did O'Neill get team selection wrong in Old Firm defeat?",
-      "summary_original": "After a meek Premier Sports Cup exit at the hands of rivals Rangers, did Celtic boss Martin O'Neill get his team selection wrong?",
+      "title": "Aberdeen はファンの行動の上に懲戒されるかもしれません",
+      "summary": "Aberdeen は、一部のサポーターが侵入した後、懲戒処分に直面することができました Rugby ParkKilmarnock を上回るカップに続くピッチ。",
+      "title_original": "Aberdeen may be disciplined over fan behaviour",
+      "summary_original": "Aberdeen could face disciplinary action after some supporters invaded the Rugby Park pitch following their cup win over Kilmarnock.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v48v2729yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 17:16:19 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqz21lvnpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 12:15:01 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3362,13 +3365,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズ v アバディーン&エディンバラ ダービー で League Cup セミ",
-      "summary": "レンジャーズセミファイナルでアバディーンに対して描画されている Premier Sports Cup, ミディアンとヒベリニアンの心が他のネクタイで向かいますハムデン・パーク.",
-      "title_original": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
-      "summary_original": "Rangers have been drawn against Aberdeen in the semi-finals of the Premier Sports Cup, while rivals Heart of Midlothian and Hibernian will face off in the other tie at Hampden Park.",
+      "title": "Did O'Neill チーム選択が間違っているオールドファーム敗北?",
+      "summary": "メックの後 Premier Sports Cup ライバルの手に出るレンジャーズ, 行なったセルティックログインマーティン・オニールチーム選択が間違っていますか?",
+      "title_original": "Did O'Neill get team selection wrong in Old Firm defeat?",
+      "summary_original": "After a meek Premier Sports Cup exit at the hands of rivals Rangers, did Celtic boss Martin O'Neill get his team selection wrong?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 13:26:08 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v48v2729yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 17:16:19 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3796,6 +3799,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "McGregor が「個人のチーム」を批判セルティック獲得を問い合わせオールドファームログイン",
+      "summary": "「チームと個人のチームを見た」",
+      "title_original": "McGregor criticises 'team of individuals' after Celtic's Old Firm collapse",
+      "summary_original": "\"You saw a team and a team of individuals.\"",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13585884/celtic-captain-callum-mcgregor-hits-out-at-team-of-individuals-after-old-firm-league-cup-defeat-to-rangers",
+      "published": "Mon, 14 Sep 2026 16:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Brundle:Norris の費用と Madring が変化する理由を解明",
       "summary": "農作物グランプリ新しい会場がいくつか紹介されました。インテル長財布や銀行のターン12 など、絶え間ない壁と障壁の間で高速なセクションをテストするような側面。",
       "title_original": "Brundle: Debating the rule that cost Norris and why Madring needs changes",
@@ -4059,20 +4076,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "F1 2026 チームメイトヘッドツーヘッドスペイングランプリ",
-      "summary": "2026 フォーミュラ 1 最新予選、スプリント、すべてのヘッドツーヘッドグランプリ11 チーム各チームで得点",
-      "title_original": "F1 2026 team-mate head-to-heads after Spanish GP",
-      "summary_original": "The 2026 Formula 1 head-to-heads with all of the latest Qualifying, Sprint and Grand Prix scores in each of the 11 teams.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13516662/f1-team-mate-2026-head-to-head-qualifying-race-sprint-latest-scores-results-from-formula-1-season",
-      "published": "Mon, 14 Sep 2026 13:43:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
