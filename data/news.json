@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T10:26:29.188859+00:00",
+  "updated_at": "2026-09-14T10:38:54.872608+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2895,7 +2895,9 @@
     "Morning Calm": "",
     "Ruben Neves": "",
     "The Hotspot": "",
-    "BBC Sport Scotland": ""
+    "BBC Sport Scotland": "",
+    "Dermot Gallagher": "",
+    "Jay Bothroyd": "ジェイ・ボスロイド"
   },
   "items": [
     {
@@ -3865,6 +3867,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「フォーカスを失わない」 | なぜ VAR が得たのかハーランド目標は間違っていますか?",
+      "summary": "過去の投稿プレミアリーグ参考文献 Dermot Gallagher 旧コベントリーストライカージェイ・ボスロイド週末の最大の話点を解剖し、VAR がどのようになったか尋ねるアーリング・ハーランドの の勝者マンチェスター・シティライバル ユナイテッド ので 間違って.",
+      "title_original": "'You can't lose focus' | Why did VAR get Haaland goal so wrong?",
+      "summary_original": "Former Premier League referee Dermot Gallagher and former Coventry striker Jay Bothroyd dissect the biggest talking point of the weekend and ask how VAR got Erling Haaland's winner for Manchester City against rivals United so wrong.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585778/ref-watch-why-did-var-get-erling-haaland-goal-so-wrong",
+      "published": "Mon, 14 Sep 2026 11:29:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Zverev は、アメリカの心が生まれ変わる US Open チャンピオン",
       "summary": "ハイライト Alexander Zverev に対してベン・シェルトン男性から US Open 決勝",
       "title_original": "Zverev breaks American hearts to become US Open champion",
@@ -3998,20 +4014,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13585631/nfl-christian-watson-wizardry-for-the-81-yard-touchdown",
       "published": "Sun, 13 Sep 2026 22:22:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "季節限定のスリラー",
-      "summary": "週のハイライト 1 間のマッチアップ New Orleans Saints そして、Detroit Lions.",
-      "title_original": "Overtime thriller in opening game of the season",
-      "summary_original": "Highlights of the Week 1 matchup between New Orleans Saints and Detroit Lions.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585643/new-orleans-saints-detroit-lions-week-1-nfl-highlights",
-      "published": "Sun, 13 Sep 2026 22:43:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
