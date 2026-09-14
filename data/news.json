@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T21:25:07.302338+00:00",
+  "updated_at": "2026-09-14T21:39:00.826926+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2986,7 +2986,9 @@
     "Robbie Ure": "",
     "Leeds United’s": "",
     "Matthias Jassle": "",
-    "Chris Foy": ""
+    "Chris Foy": "",
+    "Dominic Solanke": "ドミニク・ソランケ",
+    "Blundering VAR": ""
   },
   "items": [
     {
@@ -3102,16 +3104,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "すべての目標から Women's Super League - Matchweek Two",
-      "summary": "マッチウィークの2 つからすべての目標を見る Women's Super League2026-27 シーズン",
-      "title_original": "All the goals from the Women's Super League - Matchweek Two",
-      "summary_original": "Watch every goal from matchweek two of the Women's Super League 2026-27 season.",
+      "title": "リーズ激しい重い敗北にニューカッスル第三に登る",
+      "summary": "Dominic Calvert-Lewin 星としてリーズ・ユナイテッド FC で3 番目に行きますプレミアリーグ重い4-1 の敗北を侵害する優れたパフォーマンスでニューカッスル獲得を問い合わせエランド・ロード.",
+      "title_original": "Leeds inflict heavy defeat on Newcastle to climb to third",
+      "summary_original": "Dominic Calvert-Lewin stars as Leeds United go third in the Premier League with a superb performance to inflict a heavy 4-1 defeat on Newcastle United at Elland Road.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmly43kkyz45o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 11:05:43 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 21:31:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3298,6 +3300,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "すべての目標から Women's Super League - Matchweek Two",
+      "summary": "マッチウィークの2 つからすべての目標を見る Women's Super League2026-27 シーズン",
+      "title_original": "All the goals from the Women's Super League - Matchweek Two",
+      "summary_original": "Watch every goal from matchweek two of the Women's Super League 2026-27 season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmly43kkyz45o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:05:43 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ハーランドスコアの論争の勝者としてマンチェスター・シティフォデンレッドにもかかわらずダービーを獲得",
       "summary": "アーリング・ハーランドの の目標は助けますマンチェスター・シティライバルで非常に論争のマンチェスターダービーを獲得マンチェスター・ユナイテッド10 人以上で70 分以上遊んでも。",
       "title_original": "Haaland scores controversial winner as Man City win derby despite Foden red",
@@ -3351,20 +3367,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ゴール決定を下すと「バッフル」が間違っている - Rooney",
-      "summary": "デイパンディットのマッチウェイン・ルーニーそして、Danny Murphy「バッフル」を見つけるアーリング・ハーランドマンチェスター・ダービーの勝利の目標は、VAR によって除外されていないが、フィル・フォーデン獲得を問い合わせレッドカード正しい決断でした。",
-      "title_original": "Getting goal decision so wrong is 'baffling' - Rooney",
-      "summary_original": "Match of the Day pundits Wayne Rooney and Danny Murphy finds it \"baffling\" that Erling Haaland's winning goal in the Manchester derby was not ruled out by VAR, but think Phil Foden's red card was the correct decision.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9w4755n70wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 22:59:17 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3438,6 +3440,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ハーランドゴールは立っていませんが、VAR は正しい呼び出しをしましたサンダーランドペナルティ |Chris Foy",
+      "summary": "Matt Donohue 人間だけであり、間違いを犯しましたが、一般的には、この時期によく見習いが始まりました。マンチェスターのダービーで大きな決定に残念な結果があり、誰もビデオアシスタントのレフリーよりもそれを感じることはありませんでした。Matt Donohue. On Sunday 夜,Pro Ref ドノウが間違いを犯したことを確認アーリング・ハーランド都市の1-0 勝利でゴールエンソ・フェルナンデスオフサイドポジションにありました。VAR がこのような決定を検討するとき、それらはフロを開始します",
+      "title_original": "Haaland goal should not have stood but VAR made the right call with Sunderland penalty | Chris Foy",
+      "summary_original": "Matt Donohue is only human and made a mistake, but, in general, referees have started well this season There was a disappointing outcome on a big decision in the Manchester derby and no one will feel it more than the video assistant referee, Matt Donohue. On Sunday night, Pro Ref confirmed that Donohue had made a mistake in allowing Erling Haaland’s goal in City’s 1-0 victory to stand when Enzo Fernández had been in an offside position. When a VAR considers a decision such as this they start fro",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/var-referee-matt-donohue-erling-haaland-goal-manchester-derby",
+      "published": "Mon, 14 Sep 2026 19:00:14 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "De Zerbi バックス ‘ 敏感な男’ ソランケ トリッキーアンフィールドトリップの前にフォームを見つける",
+      "summary": "トッテナムアクセスリヴァプール獲得を問い合わせ EFL カップ第3 ラウンドトッテナム17 回の訪問で勝らず、リーグのゴール獲得 Roberto De Zerbi 間違いなしドミニク・ソランケ頭のコーチが明らかにしたので、彼の最高のレベルを再発見し、彼は問題を解決するために、ミッションで無石を残さなかったトッテナム’ s の目的の対処問題.トッテナムアクセスリヴァプール獲得を問い合わせ EFL カップ火曜日 後 0-0 ホーム 引く とエヴァートン獲得を問い合わせプレミアリーグ土曜日; 彼らは競争で4 つの試合でネットを見つけていない",
+      "title_original": "De Zerbi backs ‘sensitive guy’ Solanke to find form before tricky Anfield trip",
+      "summary_original": "Tottenham visit Liverpool in the Carabao Cup third round Spurs are winless in 17 visits and yet to score a league goal Roberto De Zerbi has no doubt Dominic Solanke will rediscover his best levels as the head coach made clear he had left no stone unturned in the mission to solve Tottenham’s goalscoring problem. Spurs go to Liverpool in the Carabao Cup on Tuesday after the 0-0 home draw with Everton in the Premier League on Saturday; they have not found the net in their four matches in the compet",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/roberto-de-zerbi-dominic-solanke-tottenham-liverpool-anfield-carabao-cup",
+      "published": "Mon, 14 Sep 2026 21:30:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Andoni Iraola インフォメーションリヴァプールシステムの作業をもっと進める",
       "summary": "ヘッドコーチは、フォワードを主張します プレスを改善する必要があります 変更 フロント可能性が高い EFL カップネクタイ対トッテナムアンドーニ・イラオラは、リヴァプール’ は、Fulham に対するチーム ’ s の刺激的なディスプレイを移籍します。, 主張する、彼らは彼のシステムの仕事を作るためにより多くの与える必要があります。. ヘッドコーチは、彼のチームに「一歩後方」を目標に引き継ぎました Saturday. His 中央ミッドフィールドペアリング Ryan Gravenberch そして、Dominik Szoboszlai 彼らのフルハムのカウンターパートを含むのに苦労, w",
       "title_original": "Andoni Iraola tells Liverpool forwards they must do more to make his system work",
@@ -3463,34 +3493,6 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハーランドゴールは立っていませんが、VAR は正しい呼び出しをしましたサンダーランドペナルティ |Chris Foy",
-      "summary": "Matt Donohue 人間だけであり、間違いを犯したが、この時期に全体的な受審者はよく始まった マンチェスターのダービーで大きな決定に残念な結果があり、誰もビデオアシスタントのレフリーよりもそれを感じることはありませんでした。Matt Donohue. On Sunday 夜,Pro Ref ドノウが間違いを犯したことを確認アーリング・ハーランド都市の1-0 勝利でゴールエンソ・フェルナンデスオフサイドポジションにありました。VAR がこのような決定を検討したときは、",
-      "title_original": "Haaland goal should not have stood but VAR made the right call with Sunderland penalty | Chris Foy",
-      "summary_original": "Matt Donohue is only human and made a mistake, but overall referees have started well this season There was a disappointing outcome on a big decision in the Manchester derby and no one will feel it more than the video assistant referee, Matt Donohue. On Sunday night, Pro Ref confirmed that Donohue had made a mistake in allowing Erling Haaland’s goal in City’s 1-0 victory to stand when Enzo Fernández had been in an offside position. When a VAR considers a decision such as this they start from the",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/var-referee-matt-donohue-erling-haaland-goal-manchester-derby",
-      "published": "Mon, 14 Sep 2026 19:00:14 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Ludek Miklosko, 元ウェストハムそして QPR のゴールキーパーは、64 歳の死にます",
-      "summary": "ミクロスコは373 回再生ウェストハムから 1990 彼は42 を獲得しましたインテル1982 年全国キャップ 前の投稿ウェストハム QPR ゴールキーパーLudek Miklosko64 歳で亡くなりました。チェコスロバキアとチェコ人のためにキャップを獲得したミクロスコは、癌を持っていた。ミクロスコが入社ウェストハムから Baník Ostrava1990 年(1990 年) 試用後30 万ポンド、初シーズンのトップ部門にクラブ・ウィン・プロモーションを支援。1998 年(平成10 年)、373 の外観を作った。QPR に入社。レンタル移籍で. ミクロスコは、そのキャリアを終えた",
-      "title_original": "Ludek Miklosko, former West Ham and QPR goalkeeper, dies aged 64",
-      "summary_original": "Miklosko played 373 times for West Ham from 1990 He won 42 international caps from 1982 The former West Ham and QPR goalkeeper Ludek Miklosko has died at the age of 64. Miklosko, who won caps for Czechoslovakia and Czechia, had cancer. Miklosko joined West Ham from Baník Ostrava in 1990 for £300,000 after a trial and helped the club win promotion to the top division in his first season. He left in 1998 having made 373 appearances, joining QPR, initially on loan. Miklosko ended his career there i",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/ludek-miklosko-west-ham-qpr-goalkeeper-dies",
-      "published": "Mon, 14 Sep 2026 08:08:45 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3536,20 +3538,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
-      "summary": "論争ルール マンチェスター・ダービー、コベントリーをオンにし、トッテナムまだゴールをスコアすることはできません。199th Manchester derby は 2 つの参照決定によって定義されています。フィル・フォーデン’s ファーストハーフレッドカードキックアウトブルーノ・フェルナンデスと、インテルビデオアシスタントレフリーによる受賞アーリング・ハーランドにもかかわらず、勝ち抜いた目標エンソ・フェルナンデスに表示されるインテルオフサイドの位置からプレーしてフェールします。両症例では、常識の健康な線量は異なる結果をもたらし、",
-      "title_original": "Premier League: 10 talking points from the weekend’s action",
-      "summary_original": "Controversy rules the Manchester derby, Coventry are dunked on and Tottenham still can’t score a goal The 199th Manchester derby was defined by two refereeing decisions: Phil Foden’s first-half red card for kicking out at Bruno Fernandes, and the intervention by the video assistant referee to award Erling Haaland’s winning goal despite Enzo Fernández appearing to interfere with play from an offside position. In both cases, a healthy dose of common sense might have led to a different outcome and ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/premier-league-10-talking-points-from-the-weekends-action",
-      "published": "Mon, 14 Sep 2026 07:00:26 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "The Hotspot | 大韓民国サッカーシーズンをプッシュして w を作るインテル耐えられない夏の後のスイッチ",
       "summary": "なぜファンや志向の選手が日本を追い求めるアジアのリーグの心配であり、ヨーロッパと並ぶ大韓民国 n フットボールは、K-League を再生するために金色の時間を見つけるしようとしています。ツイートインテル寒すぎて、ますますます、夏は暑すぎます。それは土地です Morning Calm、しかし、多くの時間のために、天気はかなり極端なことができます。先週、調査によると、アジア最古の専門リーグで29 人のコーチがトラッドからシフトを支えていると明らかにした。",
       "title_original": "The Hotspot | South Korea pushes for football season to make winter switch after unbearable summer",
@@ -3564,13 +3552,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アルテタログイン2 ゴール自作ゲームで犠牲者をプレイするのにぴったりの嵐 |Barney Ronay",
-      "summary": "参照は、マイクロ分析の文化を借りる不可能な仕事ですアーセナルマネージャーは、設計だけで、紳士が意図せずに決して失礼にならないよう支援しました。誰が最初にこのことを言ったかは、誰も本当に知っている。しかし、それは簡単にからラインになることができます Elite Football Manager’s Guide 獲得を問い合わせ Press Conferences (プレミアリーグリリース これらの空間に事故が起こらないため。広告主で覆われた板の前で話されるすべての単語はメーターで計り、計画されます。マネージャーが怒らない、または共同",
-      "title_original": "Arteta embraces perfect storm to play the victim in game of his own making | Barney Ronay",
-      "summary_original": "Refereeing is now an impossible job owing to the culture of micro-analysis the Arsenal manager has helped to create A gentleman is never rude unintentionally, only by design. Nobody really knows who said this first. But it could easily be a line from the Elite Football Manager’s Guide to Press Conferences (Premier League edition). Because nothing happens by accident in these spaces. Every word spoken in front of the board covered in adverts is metered and planned. A manager is never angry, or co",
+      "title": "Polanski が最初の管理者の犠牲者ブンデスリーガグラダバッハが再び失敗する季節 |Andy Brassell",
+      "summary": "Freiburg で敗北した後のヘッドコーチの出発点は、第2 階に他の倒れた巨人に参加できるクラブを合計します。この初期のステージでも、沈没感が馴染み、揺れがちでなかったり、何かはあきらめなければならない Borussia Mönchengladbach. The はじめてブンデスリーガ今シーズンのコーチング変更は3 つのゲームだけなので、大したことはない。オイゲン・ポランスキ出発。ネザーは、グラダバッハが関与するショックです。結局、それはまさに",
+      "title_original": "Polanski the first managerial victim of Bundesliga season as Gladbach fail again | Andy Brassell",
+      "summary_original": "Departure of head coach after defeat at Freiburg sums up club that could join other fallen giants in second tier It could not go on. Even at this early stage the sinking feeling was familiar and impossible to shake, and something had to give at Borussia Mönchengladbach. The first Bundesliga coaching change of the season is upon us just three games in, and it is not a major surprise that it is Eugen Polanski departing. Neither is it a shock that Gladbach are involved; after all, it was at exactly",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/mikel-arteta-arsenal-sunderland-premier-league",
-      "published": "Sun, 13 Sep 2026 20:35:23 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/14/borussia-monchengladbach-eugen-polanski-bundesliga",
+      "published": "Mon, 14 Sep 2026 13:03:47 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
+      "summary": "論争ルール マンチェスター・ダービー、コベントリーをオンにし、トッテナムまだゴールをスコアすることはできません。199th Manchester derby は 2 つの参照決定によって定義されています。フィル・フォーデン’s ファーストハーフレッドカードキックアウトブルーノ・フェルナンデスと、インテルビデオアシスタントレフリーによる受賞アーリング・ハーランドにもかかわらず、勝ち抜いた目標エンソ・フェルナンデスに表示されるインテルオフサイドの位置からプレーしてフェールします。両症例では、常識の健康な線量は異なる結果をもたらし、",
+      "title_original": "Premier League: 10 talking points from the weekend’s action",
+      "summary_original": "Controversy rules the Manchester derby, Coventry are dunked on and Tottenham still can’t score a goal The 199th Manchester derby was defined by two refereeing decisions: Phil Foden’s first-half red card for kicking out at Bruno Fernandes, and the intervention by the video assistant referee to award Erling Haaland’s winning goal despite Enzo Fernández appearing to interfere with play from an offside position. In both cases, a healthy dose of common sense might have led to a different outcome and ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/premier-league-10-talking-points-from-the-weekends-action",
+      "published": "Mon, 14 Sep 2026 07:00:26 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3690,6 +3692,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Ludek Miklosko, 元ウェストハムそして QPR のゴールキーパーは、64 歳の死にます",
+      "summary": "ミクロスコは373 回再生ウェストハムから 1990 彼は42 を獲得しましたインテル1982 年全国キャップ 前の投稿ウェストハム QPR ゴールキーパーLudek Miklosko64 歳で亡くなりました。チェコスロバキアとチェコ人のためにキャップを獲得したミクロスコは、癌を持っていた。ミクロスコが入社ウェストハムから Baník Ostrava1990 年(1990 年) 試用後30 万ポンド、初シーズンのトップ部門にクラブ・ウィン・プロモーションを支援。1998 年(平成10 年)、373 の外観を作った。QPR に入社。レンタル移籍で. ミクロスコは、そのキャリアを終えた",
+      "title_original": "Ludek Miklosko, former West Ham and QPR goalkeeper, dies aged 64",
+      "summary_original": "Miklosko played 373 times for West Ham from 1990 He won 42 international caps from 1982 The former West Ham and QPR goalkeeper Ludek Miklosko has died at the age of 64. Miklosko, who won caps for Czechoslovakia and Czechia, had cancer. Miklosko joined West Ham from Baník Ostrava in 1990 for £300,000 after a trial and helped the club win promotion to the top division in his first season. He left in 1998 having made 373 appearances, joining QPR, initially on loan. Miklosko ended his career there i",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/ludek-miklosko-west-ham-qpr-goalkeeper-dies",
+      "published": "Mon, 14 Sep 2026 08:08:45 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Football Daily| 新品・新品の VAR を介したもうひとつの犬の朝食 Pro Ref",
       "summary": "今すぐ登録! 今すぐ登録! 今すぐサインアップ 今すぐ登録!Keys. Phone. Wallet. What 獲得を問い合わせ 私たちが紹介した人の名前。車を駐車しました。私たちが必要とする錫の食料品を思い出させるために書いたショッピングリスト。歩いている犬。たくさんの傘。ご宿泊中のホテル名 誕生日の盛り合わせ お部屋に歩いている理由 あなたの散布されたもののリスト Football Daily 驚くべき周波数を忘れてしまったので、私たちは本物です",
       "title_original": "Football Daily | Another dog’s breakfast over VAR for the new and rebranded Pro Ref",
@@ -3728,20 +3744,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "エメリーは、無事に森林ストライキとして責任を負いますアストン・ヴィラ",
-      "summary": "この夏には、パズルの重要な部分がいくつかありましたオリヴァー・グラスナー置くためにノッティンガム・フォレスト. 最初は、ラインをリードするモバイルストライカーだったし、もう一方は、彼の好ましい3-4-3 システムに合う適切な翼のバックだった。Enter Liam Delap そして、Daniel Muñoz といっても、森が初めてグランスナーの勝利で大声を浴びていたんですが、マッチワインダーは昔のブリガデの1 人でした。Igor Jesus. Delap スタイルで最初のフォレストゴール、25 ヤードの強力なショット、ミュニョス w",
-      "title_original": "Emery takes responsibility as Forest strike late at winless Aston Villa",
-      "summary_original": "This summer there were a couple of significant pieces of the puzzle for Oliver Glasner to put into place at Nottingham Forest. The first was a mobile striker to lead the line and the other was a right wing-back to fit his favoured 3-4-3 system. Enter Liam Delap and Daniel Muñoz, both of whom had a big say in Forest’s first win under Glasner, though the match-winner was one of the old brigade in Igor Jesus. Delap registered his first Forest goal in style, a powerful shot from 25 yards and Muñoz w",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/aston-villa-nottingham-forest-premier-league-match-report",
-      "published": "Sat, 12 Sep 2026 16:09:39 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3816,13 +3818,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バロン d’ ショートリスト表示プレミアリーグの 攻撃の失敗 - しかし、潮は回転する可能性があります",
-      "summary": "英語のトップフライトのフォワードは、セットピースのグラップルのシーズンを反映しているリストには表れていませんが、2026-27 はすでに明るいようですプレミアリーグ今年のバロン d’Or ショートリストで 16 人の攻撃選手になると、表現は低いです。マンチェスター・ユナイテッド獲得を問い合わせブルーノ・フェルナンデスそして、マンチェスター・シティ獲得を問い合わせアーリング・ハーランドありますが、コール・パーマー2025 年にノーマインの1 つが、怪我ヒットの年と、英語のサッカーの体力へのシフトと、最後のシーズンをセットする",
-      "title_original": "Ballon d’Or shortlist shows up Premier League’s attacking failings – but tide could be turning",
-      "summary_original": "English top flight’s forwards are not well represented on the list, reflecting a season of set-piece grapple, but 2026-27 already looks brighter Premier League representation is low when it comes to the 16 attacking players on this year’s Ballon d’Or shortlist . Manchester United’s Bruno Fernandes and Manchester City’s Erling Haaland are there but Cole Palmer, one of the nominees in 2025, is out after an injury-hit year and English football’s shift towards physicality and set pieces last season ",
+      "title": "アルテタログイン2 ゴール自作ゲームで犠牲者をプレイするのにぴったりの嵐 |Barney Ronay",
+      "summary": "参照は、マイクロ分析の文化を借りる不可能な仕事ですアーセナルマネージャーは、設計だけで、紳士が意図せずに決して失礼にならないよう支援しました。誰が最初にこのことを言ったかは、誰も本当に知っている。しかし、それは簡単にからラインになることができます Elite Football Manager’s Guide 獲得を問い合わせ Press Conferences (プレミアリーグリリース これらの空間に事故が起こらないため。広告主で覆われた板の前で話されるすべての単語はメーターで計り、計画されます。マネージャーが怒らない、または共同",
+      "title_original": "Arteta embraces perfect storm to play the victim in game of his own making | Barney Ronay",
+      "summary_original": "Refereeing is now an impossible job owing to the culture of micro-analysis the Arsenal manager has helped to create A gentleman is never rude unintentionally, only by design. Nobody really knows who said this first. But it could easily be a line from the Elite Football Manager’s Guide to Press Conferences (Premier League edition). Because nothing happens by accident in these spaces. Every word spoken in front of the board covered in adverts is metered and planned. A manager is never angry, or co",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/11/ballon-dor-shortlist-shows-up-premier-leagues-attacking-failings-but-tide-could-be-turning",
-      "published": "Fri, 11 Sep 2026 19:00:13 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/13/mikel-arteta-arsenal-sunderland-premier-league",
+      "published": "Sun, 13 Sep 2026 20:35:23 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3845,9 +3847,9 @@
     },
     {
       "title": "Calvert-Lewin とリーズログインニューカッスル優勢な勝利",
-      "summary": "リーズ彼らの無縁の始まりを維持プレミアリーグ4-1 勝負キャンペーンニューカッスル.",
+      "summary": "リーズ・ユナイテッド FC 彼らの無縁の始まりを維持プレミアリーグ息をのむような4-1 勝利でキャンペーンニューカッスル.",
       "title_original": "Calvert-Lewin and Leeds bully Newcastle in dominant victory",
-      "summary_original": "Leeds maintained their unbeaten start to the Premier League campaign with a 4-1 victory over Newcastle.",
+      "summary_original": "Leeds United maintained their unbeaten start to the Premier League campaign with a breathless 4-1 victory over Newcastle.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/leeds-united-vs-newcastle-united/report/559479",
       "published": "Mon, 14 Sep 2026 21:50:00 BST",
@@ -3855,6 +3857,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ペーパー:Blundering VARduo は officiating からブロックされるマンチェスター・ユナイテッドゲーム",
+      "summary": "火曜日の新聞から噂を移籍するトップストーリー...",
+      "title_original": "Papers: Blundering VAR duo set to be blocked from officiating on Man Utd games",
+      "summary_original": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13585971/blundering-var-duo-set-to-be-blocked-from-officiating-on-manchester-united-games-paper-talk",
+      "published": "Mon, 14 Sep 2026 22:10:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4093,20 +4109,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アーセナル最新: ガンナーに連絡する Pro Ref オーバーオーバーサンダーランドペナルティ",
-      "summary": "",
-      "title_original": "Arsenal latest: Gunners to contact Pro Ref over Sunderland penalty",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Mon, 14 Sep 2026 14:41:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
