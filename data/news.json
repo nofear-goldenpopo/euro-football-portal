@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T21:06:41.878176+00:00",
+  "updated_at": "2026-09-14T21:25:07.302338+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2980,7 +2980,13 @@
     "Noni Madueke": "ノニ・マドゥエケ",
     "PSV's Paul Wanner": "",
     "Leeds THRASHING Newcastle LIVE": "",
-    "Leeds THRASH Newcastle": ""
+    "Leeds THRASH Newcastle": "",
+    "Stoke City": "ストーク・シティFC",
+    "Luke Graham": "",
+    "Robbie Ure": "",
+    "Leeds United’s": "",
+    "Matthias Jassle": "",
+    "Chris Foy": ""
   },
   "items": [
     {
@@ -3012,17 +3018,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "家族の質問マンチェスター・ユナイテッド, 今、Carrick は答えを見つける必要があります",
-      "summary": "4 で1 勝後プレミアリーグゲーム、問題はのための土台ですマンチェスター・ユナイテッドマネージャーマイケル・キャリック.",
-      "title_original": "Familiar questions for Man Utd, now Carrick must find answers",
-      "summary_original": "After one win in four Premier League games, the problems are mounting for Manchester United and manager Michael Carrick.",
+      "title": "Graham & Ure は Pocognoli 初のスコットランドのスクワッドを作る",
+      "summary": "ストーク・シティ FC センターハーフ Luke Graham そして、セビージャストライカーRobbie Ure 火曜日に最初のフルスコットランドのコールアップを受け取りますセバスチャン・ポコニョーリヘッドコーチとして最初のチーム名を挙げます。",
+      "title_original": "Graham & Ure make Pocognoli's first Scotland squad",
+      "summary_original": "Stoke City centre-half Luke Graham and Sevilla striker Robbie Ure will receive their first full Scotland call-ups on Tuesday when Sebastien Pocognoli names his first squad as head coach.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cddv5mqjgvlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 11:25:35 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw94zzyx1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 21:00:42 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3068,6 +3074,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "家族の質問マンチェスター・ユナイテッド, 今、Carrick は答えを見つける必要があります",
+      "summary": "4 で1 勝後プレミアリーグゲーム、問題はのための土台ですマンチェスター・ユナイテッドマネージャーマイケル・キャリック.",
+      "title_original": "Familiar questions for Man Utd, now Carrick must find answers",
+      "summary_original": "After one win in four Premier League games, the problems are mounting for Manchester United and manager Michael Carrick.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cddv5mqjgvlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:25:35 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Madueke a、for Euro loans - Tuesday's gossip を獲得候補に",
       "summary": "アトレティコ・マドリードそして、ユヴェントストラックノニ・マドゥエケ, リヴァプール注目のクラブ PSV ポール・ワンナーラツィオ自由な代理店を考慮するマウロ・イカルディ, 以上.",
       "title_original": "Madueke a target for Euro loans - Tuesday's gossip",
@@ -3107,20 +3127,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Pocognoli のピックアップ時間 - 誰が新しいスコットランドのスクワッドに名前を付けることができますか?",
-      "summary": "セバスチャン・ポコニョーリ毎週火曜日に初めてスコットランドのスクワッドと名付けられますが、何が期待できますか? 新しいヘッドコーチは、このクリーンなスレートを新しい名前に呼ぶ時間として使用しますか?BBC Sport Scotland 潜在的な候補を見てみましょう...",
-      "title_original": "Time for Pocognoli to pick - who could be named in new-look Scotland squad?",
-      "summary_original": "Sebastien Pocognoli will name his first Scotland squad on Tuesday, but what can we expect? Will the new head coach use this clean slate as time to call upon new names? BBC Sport Scotland takes a look at the potential candidates...",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdr76rvylv1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 09:21:02 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3362,6 +3368,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Pocognoli のピックアップ時間 - 誰が新しいスコットランドのスクワッドに名前を付けることができますか?",
+      "summary": "セバスチャン・ポコニョーリ毎週火曜日に初めてスコットランドのスクワッドと名付けられますが、何が期待できますか? 新しいヘッドコーチは、このクリーンなスレートを新しい名前に呼ぶ時間として使用しますか?BBC Sport Scotland 潜在的な候補を見てみましょう...",
+      "title_original": "Time for Pocognoli to pick - who could be named in new-look Scotland squad?",
+      "summary_original": "Sebastien Pocognoli will name his first Scotland squad on Tuesday, but what can we expect? Will the new head coach use this clean slate as time to call upon new names? BBC Sport Scotland takes a look at the potential candidates...",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdr76rvylv1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 21:17:46 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "2 つのゲーム、2 つの敗北 - Olid's ですマンチェスター・ユナイテッドトラブル?",
       "summary": "新しいマネージャーの下でシーズンに2 つのゲーム Eva Olid, マンチェスター・ユナイテッド最後の季節から側面の影を見てください。",
       "title_original": "Two games, two defeats - are Olid's Man Utd in trouble?",
@@ -3390,27 +3410,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Ronaldo は Jota チャントの上に生涯禁止を要求します",
-      "summary": "ソーシャルメディアの映像が表示される Al-Hilal's Ruben NevesAl-Taawoun ファンに反応する Diogo Jota's 自分の中に彼の名前 Saudi Pro League マッチ。",
-      "title_original": "Ronaldo demands lifetime bans over Jota chants",
-      "summary_original": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 13:46:21 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リーズ・ユナイテッド FC. .ニューカッスル: プレミアリーグ– ライブ",
-      "summary": "⚽ プレミアリーグ8pm BST キックオフからの更新 ゴール10 週末 郵送可能 Daniel Jaissle 当然のことながら、選択肢がある。彼は選ぶかもしれない Touré. But 競争の激しい競争や、そのような刺激的な環境で、彼は1 つの新しい顔が十分にあることを決めた。エルアンガ、しかし、大きなミスです。彼は年齢グループフットボールを再生していたとき、私は本当に彼が好きでした - 彼はストライカーの本能とウィンガーの敏捷性を組み合わせました。しかし、彼はマンチェスターに更新したとき",
-      "title_original": "Leeds United v Newcastle United: Premier League – live",
-      "summary_original": "⚽ Premier League updates from the 8pm BST kick-off ⚽ 10 weekend talking points | And you can mail Daniel Jaissle did, of course, have a choice; he might’ve picked Touré. But it makes sense that in so competitive a contest and such an intimidating environment, he’s decided that one new face is enough. Elanga, though, is a big miss. When he was playing age-group football, I really liked him – he combined the agility of a winger with the instinct of a striker. But when he broke into the Manchester ",
+      "title": "Calvert-Lewin は、リーズスラッシュリムニューカッスルそして3 分の3 に上がります",
+      "summary": "リーズ・ユナイテッド FC’s の壮大なスタートへプレミアリーグ季節は、アッパリングを上回る声明の勝利を続けましたニューカッスルホワイトをテーブルで3 分の1 まで動かし、ヨーロッパのプッシュがこのシーズンを超えていない可能性がある証拠をさらに提供します。これまでの季節で最も目を引くパフォーマンスの1 つの後、リーズ屈辱ニューカッスル夜に Matthias Jassle 課題を題材にしたスタンレッスンプレミアリーグ提供できます。リーズ訪問者の体格を埋められた",
+      "title_original": "Calvert-Lewin shows the way as Leeds thrash limp Newcastle and rise to third",
+      "summary_original": "Leeds United’s magnificent start to the Premier League season continued with a statement victory over an appalling Newcastle United to move the Whites up to third in the table and offer further evidence a European push may not be beyond them this season. After one of the most eye-­catching performances of the season so far, Leeds humiliated Newcastle on a night where Matthias Jassle was given a stern lesson about the challenges the Premier League can provide. Leeds bullied the visitors physicall",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
-      "published": "Mon, 14 Sep 2026 20:44:12 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/14/leeds-newcastle-premier-league-match-report",
+      "published": "Mon, 14 Sep 2026 21:07:08 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3460,6 +3466,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ハーランドゴールは立っていませんが、VAR は正しい呼び出しをしましたサンダーランドペナルティ |Chris Foy",
+      "summary": "Matt Donohue 人間だけであり、間違いを犯したが、この時期に全体的な受審者はよく始まった マンチェスターのダービーで大きな決定に残念な結果があり、誰もビデオアシスタントのレフリーよりもそれを感じることはありませんでした。Matt Donohue. On Sunday 夜,Pro Ref ドノウが間違いを犯したことを確認アーリング・ハーランド都市の1-0 勝利でゴールエンソ・フェルナンデスオフサイドポジションにありました。VAR がこのような決定を検討したときは、",
+      "title_original": "Haaland goal should not have stood but VAR made the right call with Sunderland penalty | Chris Foy",
+      "summary_original": "Matt Donohue is only human and made a mistake, but overall referees have started well this season There was a disappointing outcome on a big decision in the Manchester derby and no one will feel it more than the video assistant referee, Matt Donohue. On Sunday night, Pro Ref confirmed that Donohue had made a mistake in allowing Erling Haaland’s goal in City’s 1-0 victory to stand when Enzo Fernández had been in an offside position. When a VAR considers a decision such as this they start from the",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/var-referee-matt-donohue-erling-haaland-goal-manchester-derby",
+      "published": "Mon, 14 Sep 2026 19:00:14 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Ludek Miklosko, 元ウェストハムそして QPR のゴールキーパーは、64 歳の死にます",
       "summary": "ミクロスコは373 回再生ウェストハムから 1990 彼は42 を獲得しましたインテル1982 年全国キャップ 前の投稿ウェストハム QPR ゴールキーパーLudek Miklosko64 歳で亡くなりました。チェコスロバキアとチェコ人のためにキャップを獲得したミクロスコは、癌を持っていた。ミクロスコが入社ウェストハムから Baník Ostrava1990 年(1990 年) 試用後30 万ポンド、初シーズンのトップ部門にクラブ・ウィン・プロモーションを支援。1998 年(平成10 年)、373 の外観を作った。QPR に入社。レンタル移籍で. ミクロスコは、そのキャリアを終えた",
       "title_original": "Ludek Miklosko, former West Ham and QPR goalkeeper, dies aged 64",
@@ -3485,20 +3505,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Polanski が最初の管理者の犠牲者ブンデスリーガグラダバッハが再び失敗する季節 |Andy Brassell",
-      "summary": "Freiburg で敗北した後のヘッドコーチの出発点は、第2 階の他の倒れた巨人に参加できるクラブを要約します。この初期のステージでも、沈没感は馴染みがなく、揺れにくいですし、何かは与えなければなりませんでした Borussia Mönchengladbach. The はじめてブンデスリーガ今シーズンのコーチング変更は3 つのゲームだけなので、大したことはない。オイゲン・ポランスキ出発。ネザーは、グラダバッハが関与するショックです。結局、それはまさに",
-      "title_original": "Polanski the first managerial victim of Bundesliga season as Gladbach fail again | Andy Brassell",
-      "summary_original": "Departure of head coach after defeat at Freiburg sums up club that could join other fallen giants in second tier It could not go on. Even at this early stage the sinking feeling was familiar and impossible to shake, and something had to give at Borussia Mönchengladbach. The first Bundesliga coaching change of the season is upon us just three games in, and it is not a major surprise that it is Eugen Polanski departing. Neither is it a shock that Gladbach are involved; after all, it was at exactly",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/borussia-monchengladbach-eugen-polanski-bundesliga",
-      "published": "Mon, 14 Sep 2026 13:03:47 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3838,6 +3844,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Calvert-Lewin とリーズログインニューカッスル優勢な勝利",
+      "summary": "リーズ彼らの無縁の始まりを維持プレミアリーグ4-1 勝負キャンペーンニューカッスル.",
+      "title_original": "Calvert-Lewin and Leeds bully Newcastle in dominant victory",
+      "summary_original": "Leeds maintained their unbeaten start to the Premier League campaign with a 4-1 victory over Newcastle.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/leeds-united-vs-newcastle-united/report/559479",
+      "published": "Mon, 14 Sep 2026 21:50:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "獲得を問い合わせハル KR コーチは Warrington の衝突を量ります",
       "summary": "ハル KR ヘッドコーチ Willie Peters 最初から衝突する Warrington Wolves.",
       "title_original": "'We'll get what we deserve' | Hull KR coach weighs up Warrington clash",
@@ -4034,9 +4054,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リーズスラッシュニューカッスル Jaissle は Magpies のボス LIVE として最初に敗北!",
+      "title": "リーズスラッシュニューカッスル Jaissle が初めて敗北 - 反応 LIVE!",
       "summary": "",
-      "title_original": "Leeds THRASH Newcastle to hand Jaissle first defeat as Magpies boss LIVE!",
+      "title_original": "Leeds THRASH Newcastle to hand Jaissle first defeat - reaction LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/leeds-united-vs-newcastle-united/live/559479",
@@ -4087,20 +4107,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブレントフォード最新: 読書タイから除外された室",
-      "summary": "",
-      "title_original": "Brentford latest: Furo ruled out of Reading tie",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Mon, 14 Sep 2026 14:32:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
