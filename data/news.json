@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T06:20:17.810310+00:00",
+  "updated_at": "2026-09-15T06:32:30.134896+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2995,7 +2995,8 @@
     "Yarmouth's Eastern Festival": "",
     "Eastern Festival": "",
     "Kenneth Walker III": "",
-    "Denver Broncos": "デンバー・ブロンコス"
+    "Denver Broncos": "デンバー・ブロンコス",
+    "Will Iraola's": ""
   },
   "items": [
     {
@@ -3965,6 +3966,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Will Iraola's ゲームの作業をプレスリヴァプール?",
+      "summary": "「3 日ごとにプレイして問題がないプレイヤーがいるので、受け入れやパフォーマンスはあまり変化しない」Andoni Iraola 説明する。「リスクが大きく、性能が異なっている他のプレイヤーもいます」",
+      "title_original": "Will Iraola's pressing game work at Liverpool?",
+      "summary_original": "\"There are players who play every three days and have no issues, they can accept it and performances do not change too much,\" Andoni Iraola explained. \"Then there are other players where the risk is bigger and the performances are different.\"",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13586016/liverpool-under-andoni-iraola-need-to-play-three-games-a-week-but-can-they-do-it-playing-his-pressing-game-effectively",
+      "published": "Tue, 15 Sep 2026 07:19:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "McGregor が「個人のチーム」を批判セルティック獲得を問い合わせオールドファームログイン",
       "summary": "「チームと個人のチームを見た」",
       "title_original": "McGregor criticises 'team of individuals' after Celtic's Old Firm collapse",
@@ -4102,20 +4117,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「彼はドンだ!」 - カララは信じていますアルテタ PL の新しい Ferguson になった",
-      "summary": "Jamie Carragher 彼が信じる理由を説明するミケル・アルテタなるほどアレックス・ファーガソン現代のプレミアリーグ, 指先へアーセナルボスの公式批判の後アーセナルの で勝つサンダーランド.",
-      "title_original": "'He's the don!' - Carra believes Arteta has become the PL's new Ferguson",
-      "summary_original": "Jamie Carragher explains why he believes Mikel Arteta has become the Sir Alex Ferguson of the modern Premier League, pointing to the Arsenal boss' criticism of officials after Arsenal's win at Sunderland.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585921/mikel-arteta-jamie-carragher-compares-arsenal-boss-influence-to-sir-alex-ferguson-on-mnf",
-      "published": "Mon, 14 Sep 2026 19:22:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
