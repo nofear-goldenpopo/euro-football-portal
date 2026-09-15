@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-15T13:40:01.912940+00:00",
+  "updated_at": "2026-09-15T13:53:39.526520+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Joe Hart": "ジョー・ハート",
     "Al Hilal": "",
     "BlueSky Liverpool": "",
     "TBC. Continue": "",
@@ -3001,7 +3000,8 @@
     "Bronze Boot": "",
     "Nico Rosberg": "ニコ・ロズベルグ",
     "Jack Draper": "",
-    "JJ Gabriel": ""
+    "JJ Gabriel": "",
+    "Raheem Sterling": "ラヒーム・スターリング"
   },
   "items": [
     {
@@ -3012,6 +3012,34 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 11:23:30 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ユーススターJJ Gabriel, 15, 左のしわマンチェスター・ユナイテッド",
+      "summary": "マンチェスター・ユナイテッドの 高度に評価される 15 歳 先に JJ Gabriel クラブを離れる頂上にあります。",
+      "title_original": "Youth star JJ Gabriel, 15, on brink of leaving Man Utd",
+      "summary_original": "Manchester United's highly-rated 15-year-old forward JJ Gabriel is on the verge of leaving the club.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c95y4dxr0v6do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 13:33:09 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "スターリングは、高速道路のクラッシュ後に危険な運転を認めます",
+      "summary": "旧イングランドのウィンガーは、5 月の高速道路の障壁にランボルギーニをクラッシュさせました。",
+      "title_original": "Sterling admits dangerous driving after motorway crash",
+      "summary_original": "The former England winger crashed a Lamborghini into motorway barriers in May.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 13:45:12 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3040,20 +3068,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck5yw2pnqd40o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 12:24:53 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スターリングは、高速道路のクラッシュ後に危険な運転を認めます",
-      "summary": "旧イングランドのウィンガーは、5 月の高速道路の障壁にランボルギーニをクラッシュさせました。",
-      "title_original": "Sterling admits dangerous driving after motorway crash",
-      "summary_original": "The former England winger crashed a Lamborghini into motorway barriers in May.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 13:34:30 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3114,20 +3128,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ユーススターJJ Gabriel, 15, 左のしわマンチェスター・ユナイテッド",
-      "summary": "マンチェスター・ユナイテッドの 高度に評価される 15 歳 先に JJ Gabriel クラブを離れる頂上にあります。",
-      "title_original": "Youth star JJ Gabriel, 15, on brink of leaving Man Utd",
-      "summary_original": "Manchester United's highly-rated 15-year-old forward JJ Gabriel is on the verge of leaving the club.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c95y4dxr0v6do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 13:33:09 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スターリングはランボルギーニを危険なモーターウェイのクラッシュの先を運転することを認めます",
+      "summary": "イングランドのサッカー選手ラヒーム・スターリング高速道路でランボルギーニを運転する危険を認められています。",
+      "title_original": "Sterling admits driving Lamborghini dangerously ahead of motorway crash",
+      "summary_original": "England footballer Raheem Sterling has admitted dangerously driving a Lamborghini on the motorway.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13586078/raheem-sterling-admits-driving-lamborghini-dangerously-ahead-of-motorway-crash",
+      "published": "Tue, 15 Sep 2026 10:14:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「それは理解しにくい」-Antonelli 'pain'中に Rusell の今は何ですか?",
       "summary": "ニコ・ロズベルグ信じる George Russell 現在、テーブルをオンにするために「インサンモチベーション」の同様のレベルによって駆動されます Kimi Antonelli 彼がより良いものを得るためにいたように Lewis Hamilton 再発後の敗。",
       "title_original": "'It's hard to understand' - what now for Russell amid Antonelli 'pain'?",
@@ -4103,20 +4117,6 @@
       "summary_original": "Mercedes boss Toto Wolff says Kimi Antonelli must remain wary about the potential of unexpected \"black swan events\" derailing his championship bid despite the Italian driver's large points lead.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13585813/mercedes-boss-toto-wolff-issues-formula-1-title-race-caution-despite-kimi-antonellis-big-points-lead",
-      "published": "Tue, 15 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "テニスのスコア:WTA Sao Paulo そして、Guadalajara Open",
-      "summary": "",
-      "title_original": "Tennis scores: WTA Sao Paulo and Guadalajara Open",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/scores-schedule",
       "published": "Tue, 15 Sep 2026 06:00:00 BST",
       "category": "other",
       "type": "other",
