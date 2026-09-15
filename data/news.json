@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-15T17:37:06.418355+00:00",
+  "updated_at": "2026-09-15T17:51:10.819341+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Sophie Downey’s": "",
-    "Stamford Bridge": "",
-    "Suzanne Wrack’s": "",
     "Charlton Athletic": "チャールトン・アスレティックFC",
     "Karen Hills’s": "",
     "FA Cup": "",
@@ -3001,7 +2998,10 @@
     "FULL VAR AUDIO": "",
     "Says VAR": "",
     "Utilita Bowl": "",
-    "Southampton. Watch": ""
+    "Southampton. Watch": "",
+    "Tractor Boys. There": "",
+    "England's Donald": "",
+    "Sri Lanka LIVE": ""
   },
   "items": [
     {
@@ -3011,7 +3011,7 @@
       "summary_original": "Referees' chief Howard Webb has admitted that the video assistant referee (VAR) did not even consider whether Enzo Fernandez was offside for Erling Haaland's controversial winner in Sunday's Manchester derby.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cv4g5rp56p55o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 16:00:16 GMT",
+      "published": "Tue, 15 Sep 2026 17:42:20 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3155,20 +3155,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ストームによる「Brampton bagman'の服用選手権」",
-      "summary": "BBC スポーツは、南 ampton's 'Brampton bagman'の精巧な形態を見てみましょう Cyle Larin.",
-      "title_original": "The 'Brampton bagsman' taking Championship by storm",
-      "summary_original": "BBC Sport takes a look at the scintillating form of Southampton's 'Brampton bagsman' Cyle Larin.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5zjz00zrwwzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:40:48 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3425,6 +3411,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・ダービー・VAR の公式のための週末のゲーム無し",
+      "summary": "マンチェスター・ダービーのビデオアシスタント・レフリー、Matt Donohue と彼のアシスタント VAR、Blake Antrobus, は、この週末のために任命されていませんプレミアリーグゲーム。",
+      "title_original": "No weekend game for Manchester derby VAR officials",
+      "summary_original": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 17:02:50 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプール. .トッテナム: EFL カップ第三ラウンド - ライブ",
+      "summary": "⚽️ EFL カップアンフィールドで8pm BST キックオフからのニュース ライブスコアボード | メールでスコットにあなたの考えを送信リヴァプール土曜日に Fulham に対して誤ったブランクを引いて、今シーズンは Anfield で英語チームを打ち破るようになりました。トッテナムトップフライトの反対に4 つのマッチでゼロゴールの合計を持っています。うまくいけません。しかし、別の方法を見てみましょう。それはです League Cup 徹夜。つまり、チーム選択は、すべてのオーブで左フィールド境界である可能性が高い",
+      "title_original": "Liverpool v Tottenham Hotspur: Carabao Cup third round – live",
+      "summary_original": "⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield ⚽️ Live scoreboard | Send your thoughts to Scott via email Liverpool drew a miserable blank against Fulham on Saturday and have yet to beat an English team at Anfield this season, while Spurs have the sum total of zero goals in four matches against top-flight opposition. That doesn’t augur well, does it? But look at it another way. It’s the League Cup tonight, which means the team selections are likely to be left-field bordering on all-ove",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
+      "published": "Tue, 15 Sep 2026 17:30:56 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "イプスウィッチ・タウン FC. .アーセナル: EFL カップ第三ラウンド - ライブ",
+      "summary": "⚽️ EFL カップニュース、8pm BST キックオフポートマン・ロードライブ・スコアボード | 見たいことを思い出したばかりのメールを経由してタハに想いを送ってくださいイプスウィッチ’s League Cup 終了 昨年. 最後の30 年で、イプスウィッチフェイスアーセナルリーグで6 回、シングルゲームに勝つことができませんでした。The League Cup でも、そこで、喜びをあげて、イプスウィッチ・タウン FC. 2000 年11 月、ハイベリーの訪問者に2-1 の3 分の1 ラウンドの勝利がありました(あなたがよく覚えているならば私に知らせてください)。m 点",
+      "title_original": "Ipswich Town v Arsenal: Carabao Cup third round – live",
+      "summary_original": "⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road ⚽️ Live scoreboard | Send your thoughts to Taha via email I’ve just remembered that I was present to watch Ipswich’s League Cup exit last year. In the last 30 years, Ipswich have faced Arsenal six times in the league and failed to win a single game. The League Cup, though? That’s brought some joy for the Tractor Boys. There was a 2-1 third-round win for the visitors at Highbury in November 2000 (let me know if you remember that one well). A m",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live",
+      "published": "Tue, 15 Sep 2026 17:38:53 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ラヒーム・スターリング亜酸化窒素を使用しながら、無謀な運転のために刑務所に直面することができる",
       "summary": "Ex-England サッカー pleads guilty と admits へ 提供 標本 で 裁判所ラヒーム・スターリング危険な運転に pleaded guilty と 刑務所に送ることができる 彼の Lamborghini を運転した後、急いで 1 時間以上 過酷な酸化物を吸う. 前の投稿チェルシーそして、マンチェスター・シティドックに立って、バウンストークの magistrates 裁判所の前に3 つの料金を受け入れるために、彼は M25 で再燃運転の長期期間に埋め込まれた方法を聞くと",
       "title_original": "Raheem Sterling could face prison for reckless driving while using nitrous oxide",
@@ -3439,20 +3467,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド才能のある若年者としてのショック JJ Gabriel 退去を求める",
-      "summary": "15 歳で登録をキャンセルしたい 彼は直面するスクワットだったブライトン水曜日マンチェスター・ユナイテッド才能ある15 歳の選手が告白し、衝撃を受けました JJ Gabriel 初めてのチームチームに顔をつけてもらうために、クラブを離れるよう求めたブライトン. ガブリエルは、ユナイテッドの最も若い選手になる可能性が EFL カップ3 ラウンドタイオールド・トラッフォード獲得を問い合わせ Wednesday. But ガーディアンは彼が彼のレジストラティオを尋ねたことを理解しています",
-      "title_original": "Manchester United shocked as talented youngster JJ Gabriel asks to leave",
-      "summary_original": "15-year-old wants his registration to be cancelled He was to be in squad to face Brighton on Wednesday Manchester United have been left confused and shocked by the news that the talented 15-year-old player JJ Gabriel has asked to leave the club, a day before he was to be included in the first-team squad to face Brighton. Gabriel could have become United’s youngest player in the Carabao Cup third-round tie at Old Trafford on Wednesday. But the Guardian understands he has asked for his registratio",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave",
-      "published": "Tue, 15 Sep 2026 14:18:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ハワード・ウェブ偶然のハンドボール法「非密」と改革のための呼び出しは言う",
       "summary": "Webb は「素晴らしい状況」を停止したい Says VAR ユナイテッド v シティの公式は「トンネルビジョン」を持っていたハワード・ウェブ事故ハンドボールの周りの法則を「非密のビット」と記述し、受審者が「悪意のある状況」に描画されるのを阻止するために呼び出しました。英語サッカーのチーフ・レファリング・オフィサーは、火曜日に彼の発言をしました。また、許可されたエラーを上回りました。マンチェスター・シティ勝つために Sunday’s Manchester ダービー Webb は、v で「明らかに失望していた」と述べた",
       "title_original": "Howard Webb says accidental handball law ‘a nonsense’ and calls for reform",
@@ -3460,6 +3474,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/15/howard-webb-says-accidental-handball-law-a-nonsense-and-calls-for-reform",
       "published": "Tue, 15 Sep 2026 16:59:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド才能のある若年者としてのショック JJ Gabriel 退去を求める",
+      "summary": "15 歳で登録をキャンセルしたい 彼は直面するスクワットだったブライトン水曜日マンチェスター・ユナイテッド才能ある15 歳の選手が告白し、衝撃を受けました JJ Gabriel 初めてのチームチームに顔をつけてもらうために、クラブを離れるよう求めたブライトン. ガブリエルは、ユナイテッドの最も若い選手になる可能性が EFL カップ3 ラウンドタイオールド・トラッフォード獲得を問い合わせ Wednesday. But ガーディアンは彼が彼のレジストラティオを尋ねたことを理解しています",
+      "title_original": "Manchester United shocked as talented youngster JJ Gabriel asks to leave",
+      "summary_original": "15-year-old wants his registration to be cancelled He was to be in squad to face Brighton on Wednesday Manchester United have been left confused and shocked by the news that the talented 15-year-old player JJ Gabriel has asked to leave the club, a day before he was to be included in the first-team squad to face Brighton. Gabriel could have become United’s youngest player in the Carabao Cup third-round tie at Old Trafford on Wednesday. But the Guardian understands he has asked for his registratio",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave",
+      "published": "Tue, 15 Sep 2026 14:18:24 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3523,34 +3551,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "How Promise David マルテス・シャドウから出現プレミアリーグ",
-      "summary": "元チームメイトとコーチがブライトン’s summer 獲得, 誰がカナダに感銘を受けました World Cup Promise David5 年プランを予定しています。彼は目標のバッグをスコアし、2026 年にカナダでトップヨーロッパリーグに譲渡し、カナダのためにプレーするだろう World Cup. There 彼の両親、チームメイト、コーチとは別に、サッカーの誰も彼の名前を知っているように見えなかった。2023 年、ストライカーは分裂しました Estonia’s Meistriliiga- ストリーミングサーが十分に小さなリーグ",
-      "title_original": "How Promise David emerged from Maltese shadows into the Premier League",
-      "summary_original": "Former teammates and coaches rave about Brighton’s summer signing, who impressed with Canada at the World Cup Promise David had a five‑year plan. He would score bags of goals, earn a transfer to a top European league and play for Canada at the 2026 World Cup. There was just one problem: apart from his parents, teammates and coaches, no one in soccer seemed to know his name. It was 2023, and the striker was scrapping for minutes in Estonia’s Meistriliiga – a league small enough that streaming ser",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/promise-david-brighton-have-albion-canada-world-cup",
-      "published": "Tue, 15 Sep 2026 09:00:31 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "De Zerbi バックス ‘ 敏感な男’ ソランケ トリッキーアンフィールドトリップの前にフォームを見つける",
-      "summary": "トッテナムアクセスリヴァプール獲得を問い合わせ EFL カップ第三ラウンドリファリソンは、資格があるにもかかわらず、一部を再生しません Roberto De Zerbi 間違いなしドミニク・ソランケ頭のコーチが明確にできたので、彼の最高のレベルを再発見し、彼は問題を解決するために、使命で無石を残さなかったトッテナム’ s の目的の対処問題.トッテナムアクセスリヴァプール獲得を問い合わせ EFL カップ火曜日 後 0-0 ホーム 引く とエヴァートン獲得を問い合わせプレミアリーグ土曜日、彼らは競争の4 つの試合でネットを見つけていない。トッテン",
-      "title_original": "De Zerbi backs ‘sensitive guy’ Solanke to find form before tricky Anfield trip",
-      "summary_original": "Tottenham visit Liverpool in Carabao Cup third round Richarlison will play no part despite being eligible Roberto De Zerbi has no doubt Dominic Solanke will rediscover his best levels as the head coach made clear he had left no stone unturned in the mission to solve Tottenham’s goalscoring problem. Spurs go to Liverpool in the Carabao Cup on Tuesday after the 0-0 home draw with Everton in the Premier League on Saturday; they have not found the net in their four matches in the competition. Totten",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/roberto-de-zerbi-dominic-solanke-tottenham-liverpool-anfield-carabao-cup",
-      "published": "Mon, 14 Sep 2026 21:30:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "獲得を問い合わせマンチェスター・ユナイテッド早くも貧しいプレミアリーグテーブルは提案しますか。",
       "summary": "マイケル・キャリックの side は4 つのゲームの後のテーブルの13th ですが、都市の緩和は、いくつかの領域は注意を必要としますマンチェスター・ユナイテッドは13 日ですプレミアリーグ, 自分の最初の4 ゲームから4 ポイントを取った: 2-0 敗北ハル、対に対する5-2 勝利イプスウィッチ, 2-2 で描くエヴァートンと 1-0 で敗北マンチェスター・シティ獲得を問い合わせ Sunday. Mitigation 都市の逆については、ダービーで3 日後に来ることができますチャンピオンズリーグ木曜日にサバに勝つ, と Enzo Maresca’s ツイート",
       "title_original": "Are Manchester United as poor as the early Premier League table suggests?",
@@ -3565,17 +3565,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ハーランドゴールは立っていませんが、VAR は正しい呼び出しをしましたサンダーランドペナルティ |Chris Foy",
-      "summary": "Matt Donohue 人間だけであり、間違いを犯しましたが、一般的には、この時期によく見習いが始まりました。マンチェスターのダービーで大きな決定に残念な結果があり、誰もビデオアシスタントのレフリーよりもそれを感じることはありませんでした。Matt Donohue. On Sunday 夜,Pro Ref ドノウが間違いを犯したことを確認アーリング・ハーランド都市の1-0 勝利でゴールエンソ・フェルナンデスオフサイドポジションにありました。VAR がこのような決定を検討するとき、それらはフロを開始します",
-      "title_original": "Haaland goal should not have stood but VAR made the right call with Sunderland penalty | Chris Foy",
-      "summary_original": "Matt Donohue is only human and made a mistake, but, in general, referees have started well this season There was a disappointing outcome on a big decision in the Manchester derby and no one will feel it more than the video assistant referee, Matt Donohue. On Sunday night, Pro Ref confirmed that Donohue had made a mistake in allowing Erling Haaland’s goal in City’s 1-0 victory to stand when Enzo Fernández had been in an offside position. When a VAR considers a decision such as this they start fro",
+      "title": "How Promise David マルテス・シャドウから出現プレミアリーグ",
+      "summary": "元チームメイトとコーチがブライトン’s summer 獲得, 誰がカナダに感銘を受けました World Cup Promise David5 年プランを予定しています。彼は目標のバッグをスコアし、2026 年にカナダでトップヨーロッパリーグに譲渡し、カナダのためにプレーするだろう World Cup. There 彼の両親、チームメイト、コーチとは別に、サッカーの誰も彼の名前を知っているように見えなかった。2023 年、ストライカーは分裂しました Estonia’s Meistriliiga- ストリーミングサーが十分に小さなリーグ",
+      "title_original": "How Promise David emerged from Maltese shadows into the Premier League",
+      "summary_original": "Former teammates and coaches rave about Brighton’s summer signing, who impressed with Canada at the World Cup Promise David had a five‑year plan. He would score bags of goals, earn a transfer to a top European league and play for Canada at the 2026 World Cup. There was just one problem: apart from his parents, teammates and coaches, no one in soccer seemed to know his name. It was 2023, and the striker was scrapping for minutes in Estonia’s Meistriliiga – a league small enough that streaming ser",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/var-referee-matt-donohue-erling-haaland-goal-manchester-derby",
-      "published": "Mon, 14 Sep 2026 19:00:14 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
+      "url": "https://www.theguardian.com/football/2026/sep/15/promise-david-brighton-have-albion-canada-world-cup",
+      "published": "Tue, 15 Sep 2026 09:00:31 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3635,6 +3635,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "USMNT のロスター予測:大きなチャンス Cavan Sullivan そして他の若い見通し",
+      "summary": "ザ・オブ・ザ・アメリカ合衆国次へ World Cup サイクルは今週のスクワッドセレクションで進行します – ここでは、カットパブロを作ると思います:Matt Turner (ニューイングランド・レボリューション), Brian Schwake (Nashville SC), Chris Brady (Chicago Fire), Diego Kochen(Lyngby) 続きを読む...",
+      "title_original": "USMNT roster prediction: a big chance for Cavan Sullivan and other young prospects",
+      "summary_original": "The United States’ next World Cup cycle gets underway with this week’s squad selection – here’s who we think will make the cut Pablo: Matt Turner (New England Revolution), Brian Schwake (Nashville SC), Chris Brady (Chicago Fire), Diego Kochen (Lyngby) Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/15/usmnt-roster-prediction",
+      "published": "Tue, 15 Sep 2026 11:30:42 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Ludek Miklosko, 元ウェストハムそして QPR のゴールキーパーは、64 歳の死にます",
       "summary": "ミクロスコは373 回再生ウェストハムから 1990 彼は42 を獲得しましたインテル1982 年全国キャップ 前の投稿ウェストハム QPR ゴールキーパーLudek Miklosko64 歳で亡くなりました。チェコスロバキアとチェコ人のためにキャップを獲得したミクロスコは、癌を持っていた。ミクロスコが入社ウェストハムから Baník Ostrava1990 年(1990 年) 試用後30 万ポンド、初シーズンのトップ部門にクラブ・ウィン・プロモーションを支援。1998 年(平成10 年)、373 の外観を作った。QPR に入社。レンタル移籍で. ミクロスコは、そのキャリアを終えた",
       "title_original": "Ludek Miklosko, former West Ham and QPR goalkeeper, dies aged 64",
@@ -3684,20 +3698,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/13/cristiano-ronaldo-diogo-jota-ruben-neves-chants-saudi-pro-league",
       "published": "Sun, 13 Sep 2026 14:52:54 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Spygate saga は、ケース ドラッグ オン として Southampton を追い続ける",
-      "summary": "Manager Tonda Eckert’s 未来は、FA とのバランスを保ちながら、適切な罰の Fifty 秒を上回るのは、そのすべてが開始するために取られた。「あなたは、あなたが何であるかを知っている、あなたはあなたが何であるかを知っている、バスタードを不正行為、あなたはあなたが何であるかを知っている」ブリストル・シティ FC ファンは、遠く離れた大陸から聞いた泣き始めます St Mary’s Stadium こちらの季節です。The Southampton サーカスの拍手が応答し、自分の曲でノイズを落としました。これは、",
-      "title_original": "Spygate saga continues to haunt Southampton as case drags on",
-      "summary_original": "Manager Tonda Eckert’s future remains in the balance with the FA yet to decide over a suitable punishment Fifty seconds was all it took for the chant to begin. “You know what you are, you know what you are, cheating bastards, you know what you are,” bellowed the Bristol City fans, starting up a cry heard from every away contingent coming to St Mary’s Stadium this season. The Southampton supporters responded with sarcastic applause, then drowned out the noise with songs of their own. This is what",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/spygate-saga-continues-to-haunt-southampton-as-case-drags-on",
-      "published": "Sun, 13 Sep 2026 07:00:01 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3859,9 +3859,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウェストハム Fulham チームニュース LIVE!",
+      "title": "Larsson としてベンチを張った Bowen は最初から始まりますウェストハム対比 Fulham LIVE!",
       "summary": "",
-      "title_original": "West Ham vs Fulham team news LIVE!",
+      "title_original": "Bowen benched as Larsson makes first start in West Ham vs Fulham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/west-ham-united-vs-fulham/live/577587",
@@ -3873,9 +3873,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランドは、T20 の開口部で最初に打たれスリランカドナルドが LIVE デビュー!",
+      "title": "England's DonaldT20 の開口部でデビューの3 分の3 でキャッチスリランカライブ!",
       "summary": "",
-      "title_original": "England batting first in opening T20 vs Sri Lanka as Donald debuts LIVE!",
+      "title_original": "England's Donald caught in third over of debut in opening T20 vs Sri Lanka LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13586215/england-vs-sri-lanka-first-t20-live-latest-score-commentary-video-and-analysis-as-kevin-pietersen-begins-role-as-white-ball-mentor",
@@ -4069,9 +4069,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イプスウィッチ対比アーセナルチームニュース LIVE!",
+      "title": "Dowman はアーセナル9 つの変更を加えると、イプスウィッチライブ!",
       "summary": "",
-      "title_original": "Ipswich vs Arsenal team news LIVE!",
+      "title_original": "Dowman starts as Arsenal make nine changes vs Ipswich LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/ipswich-town-vs-arsenal/live/577577",
