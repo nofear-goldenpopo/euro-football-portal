@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-15T13:27:29.284849+00:00",
+  "updated_at": "2026-09-15T13:40:01.912940+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Danny Murphy": "",
     "Joe Hart": "ジョー・ハート",
     "Al Hilal": "",
     "BlueSky Liverpool": "",
@@ -3001,7 +3000,8 @@
     "Bronze Ball": "",
     "Bronze Boot": "",
     "Nico Rosberg": "ニコ・ロズベルグ",
-    "Jack Draper": ""
+    "Jack Draper": "",
+    "JJ Gabriel": ""
   },
   "items": [
     {
@@ -3048,12 +3048,12 @@
     },
     {
       "title": "スターリングは、高速道路のクラッシュ後に危険な運転を認めます",
-      "summary": "旧イングランドのウィンガーは、5 月にランボルギーニをモーターウェイの障壁にクラッシュさせました。",
+      "summary": "旧イングランドのウィンガーは、5 月の高速道路の障壁にランボルギーニをクラッシュさせました。",
       "title_original": "Sterling admits dangerous driving after motorway crash",
-      "summary_original": "The former England winger crashed his Lamborghini into motorway barriers in May.",
+      "summary_original": "The former England winger crashed a Lamborghini into motorway barriers in May.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 13:22:42 GMT",
+      "published": "Tue, 15 Sep 2026 13:34:30 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3117,13 +3117,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Ex-Tottenham midfielder Bissouma、アヤックス加入へ",
-      "summary": "過去の投稿トッテナムミッドフィルダーイヴ・ビスマ参加の枠にアヤックス季節の終わりまで走る初期の移籍。",
-      "title_original": "Ex-Tottenham midfielder Bissouma set to join Ajax",
-      "summary_original": "Former Tottenham midfielder Yves Bissouma is on the verge of joining Ajax on an initial deal that runs until the end of the season.",
+      "title": "ユーススターJJ Gabriel, 15, 左のしわマンチェスター・ユナイテッド",
+      "summary": "マンチェスター・ユナイテッドの 高度に評価される 15 歳 先に JJ Gabriel クラブを離れる頂上にあります。",
+      "title_original": "Youth star JJ Gabriel, 15, on brink of leaving Man Utd",
+      "summary_original": "Manchester United's highly-rated 15-year-old forward JJ Gabriel is on the verge of leaving the club.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw4gr5pm7eg9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 12:16:29 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c95y4dxr0v6do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 13:33:09 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3187,6 +3187,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Ex-Tottenham midfielder Bissouma、アヤックス加入へ",
+      "summary": "過去の投稿トッテナムミッドフィルダーイヴ・ビスマ参加の枠にアヤックス季節の終わりまで走る初期の移籍。",
+      "title_original": "Ex-Tottenham midfielder Bissouma set to join Ajax",
+      "summary_original": "Former Tottenham midfielder Yves Bissouma is on the verge of joining Ajax on an initial deal that runs until the end of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4gr5pm7eg9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 12:16:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Coutinho、サントスでネマールに参加し、シーズン休息",
       "summary": "前の投稿リヴァプールそして、バルセロナ Midfielder 参加 ブラジル サイド Santos から 彼の boyhood クラブ Vasco da Gama.",
       "title_original": "Coutinho joins Neymar at Santos for rest of season",
@@ -3229,20 +3243,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ダービー・VAR の公式のための週末のゲーム無し",
-      "summary": "マンチェスター・ダービーのビデオアシスタント・レフリー、Matt Donohue と彼のアシスタント VAR、Blake Antrobus, は、この週末のために任命されていませんプレミアリーグゲーム。",
-      "title_original": "No weekend game for Manchester derby VAR officials",
-      "summary_original": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 17:02:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "暗闇の中で左 - ライブ VAR オーディオを聴くためにファンは、します?",
       "summary": "VAR は10 歳近くで、まだゲームはまだサポート者にオーディオライブを放送する許可されている長い方法です。",
       "title_original": "Left in the dark - will fans ever get to hear live VAR audio?",
@@ -3253,6 +3253,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・ダービー・VAR の公式のための週末のゲーム無し",
+      "summary": "マンチェスター・ダービーのビデオアシスタント・レフリー、Matt Donohue と彼のアシスタント VAR、Blake Antrobus, は、この週末のために任命されていませんプレミアリーグゲーム。",
+      "title_original": "No weekend game for Manchester derby VAR officials",
+      "summary_original": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 17:02:50 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3309,20 +3323,6 @@
       "category": "uel",
       "type": "uel",
       "label": "EL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アーセナル獲得を問い合わせ Pro RefKonsa ペナルティ",
-      "summary": "アーセナル参照ボディに連絡して下さい Pro Ref 見られた事件の上に Ezri Konsa 土曜日の勝利でペナルティを隠すサンダーランド.",
-      "title_original": "Arsenal to contact Pro Ref over Konsa penalty",
-      "summary_original": "Arsenal will contact refereeing body Pro Ref over the incident that saw Ezri Konsa concede a penalty in Saturday's win over Sunderland.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmg49n3g7exlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 11:31:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3411,17 +3411,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "待ち時間に20 年 - Coventry's nightmare トップフライトリターン",
-      "summary": "Coventry City's 夢に戻るプレミアリーグ4 連続敗北後に解凍し始めている - しかし、缶 Frank Lampard 獲得を問い合わせ",
-      "title_original": "Twenty-five years in the waiting - Coventry's nightmare top-flight return",
-      "summary_original": "Coventry City's dream return to the Premier League is beginning to unravel after a fourth consecutive defeat - but can Frank Lampard turn it around?",
+      "title": "アーセナル獲得を問い合わせ Pro RefKonsa ペナルティ",
+      "summary": "アーセナル参照ボディに連絡して下さい Pro Ref 見られた事件の上に Ezri Konsa 土曜日の勝利でペナルティを隠すサンダーランド.",
+      "title_original": "Arsenal to contact Pro Ref over Konsa penalty",
+      "summary_original": "Arsenal will contact refereeing body Pro Ref over the incident that saw Ezri Konsa concede a penalty in Saturday's win over Sunderland.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g7pezw1mjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 19:32:55 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg49n3g7exlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:31:00 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
