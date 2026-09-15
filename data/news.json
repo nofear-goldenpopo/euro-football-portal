@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-15T16:07:05.234792+00:00",
+  "updated_at": "2026-09-15T16:26:08.991149+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Central Cee": "",
-    "The Team. It": "",
-    "By Opta Analyst The": "",
-    "Goodison Park Guardian": "",
     "Tom Garry’s": "",
     "US Open": "",
     "Jo Potter’s": "",
@@ -3001,7 +2997,11 @@
     "Thomas Christiansen": "トーマス・クリスチャンセン",
     "Mic'd Up": "",
     "Match Officials Mic'd Up": "",
-    "FULL AUDIO": ""
+    "FULL AUDIO": "",
+    "The Sebastien Pocognoli Scotland": "",
+    "De Zerbi": "",
+    "Roberto De Zerbi": "ロベルト・デ・ゼルビ",
+    "JJ Gabriel's": ""
   },
   "items": [
     {
@@ -3019,13 +3019,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スコットランドのスクワッドでマクバーニーと7 人のアンキャップ選手",
-      "summary": "ハル・シティ AFC 獲得オリヴァー・マクバーニー5 年ぶりにスコットランドのスクワッドに呼び出され、7 人のアンキャップが新しいヘッドコーチを作るセバスチャン・ポコニョーリ'最初の選択。",
-      "title_original": "McBurnie & seven uncapped players in Scotland squad",
-      "summary_original": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first time in five years while seven uncapped make new head coach Sebastien Pocognoli's first selection.",
+      "title": "Pocognoli の大胆なスコットランドのスクワッドのキーポイント",
+      "summary": "ザ・オブ・ザ・セバスチャン・ポコニョーリスコットランドの時代はすでに深刻な陰謀を作り出しています。そして、ベルギーのスクワッドはまだトレーニンググラウンドロンドのために組み立てられており、ゲームを決して心がけません。",
+      "title_original": "The key talking points from Pocognoli's bold Scotland squad",
+      "summary_original": "The Sebastien Pocognoli Scotland era is already creating serious intrigue - and the Belgian's squad are yet to assemble for a training-ground rondo, never mind play a game.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 11:23:30 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c51kxlek7471o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 15:12:03 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3053,7 +3053,7 @@
       "summary_original": "The former England winger crashed a Lamborghini into motorway barriers in May.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 15:29:28 GMT",
+      "published": "Tue, 15 Sep 2026 16:24:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3117,6 +3117,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スコットランドのスクワッドでマクバーニーと7 人のアンキャップ選手",
+      "summary": "ハル・シティ AFC 獲得オリヴァー・マクバーニー5 年ぶりにスコットランドのスクワッドに呼び出され、7 人のアンキャップが新しいヘッドコーチを作るセバスチャン・ポコニョーリ'最初の選択。",
+      "title_original": "McBurnie & seven uncapped players in Scotland squad",
+      "summary_original": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first time in five years while seven uncapped make new head coach Sebastien Pocognoli's first selection.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 11:23:30 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "How Maresca サッカーの不可能な仕事に取り組む",
       "summary": "Enzo Maresca 伝説を交換するときは、夏に不可能な仕事をしていたようですペップ・グアルディオラ獲得を問い合わせマンチェスター・シティ, しかし、それは彼の緊張の初期段階で簡単なタスクを見て作ります.",
       "title_original": "How Maresca is tackling football's impossible job",
@@ -3138,20 +3152,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6x2zgnngj71o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 14:01:59 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "O'Neill と Graham は、NI のスクワッドで場所を保持します。",
-      "summary": "プレミアリーグティーンエイジャーズ Ceadach O'Neill そして、Braiden Graham 自分の場所を北アイルランドの は、今後 Nations League 四倍のヘッダー。",
-      "title_original": "O'Neill and Graham retain places in NI squad",
-      "summary_original": "Premier League teenagers Ceadach O'Neill and Braiden Graham keep their places in Northern Ireland's squad for the upcoming Nations League quadruple-header.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqz2x9kleo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 10:13:04 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3183,6 +3183,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "O'Neill と Graham は、NI のスクワッドで場所を保持します。",
+      "summary": "プレミアリーグティーンエイジャーズ Ceadach O'Neill そして、Braiden Graham 自分の場所を北アイルランドの は、今後 Nations League 四倍のヘッダー。",
+      "title_original": "O'Neill and Graham retain places in NI squad",
+      "summary_original": "Premier League teenagers Ceadach O'Neill and Braiden Graham keep their places in Northern Ireland's squad for the upcoming Nations League quadruple-header.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqz2x9kleo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 10:13:04 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3229,20 +3243,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Coutinho、サントスでネマールに参加し、シーズン休息",
-      "summary": "前の投稿リヴァプールそして、バルセロナ Midfielder 参加 ブラジル サイド Santos から 彼の boyhood クラブ Vasco da Gama.",
-      "title_original": "Coutinho joins Neymar at Santos for rest of season",
-      "summary_original": "The former Liverpool and Barcelona midfielder joins Brazilian side Santos from his boyhood club Vasco da Gama.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckd79411vynlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 06:15:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "'Unplayable' & 'almost Perfect' - Calvert-Lewin はイングランドのリコールのためにセット?",
       "summary": "Dominic Calvert-Lewin で得たリーズ' 過去5 人のホームリーグの試合。イギリスのリコールの準備はできましたか?",
       "title_original": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
@@ -3254,6 +3254,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Coutinho、サントスでネマールに参加し、シーズン休息",
+      "summary": "前の投稿リヴァプールそして、バルセロナ Midfielder 参加 ブラジル サイド Santos から 彼の boyhood クラブ Vasco da Gama.",
+      "title_original": "Coutinho joins Neymar at Santos for rest of season",
+      "summary_original": "The former Liverpool and Barcelona midfielder joins Brazilian side Santos from his boyhood club Vasco da Gama.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckd79411vynlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 06:15:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3296,20 +3310,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ダービー・VAR の公式のための週末のゲーム無し",
-      "summary": "マンチェスター・ダービーのビデオアシスタント・レフリー、Matt Donohue と彼のアシスタント VAR、Blake Antrobus, は、この週末のために任命されていませんプレミアリーグゲーム。",
-      "title_original": "No weekend game for Manchester derby VAR officials",
-      "summary_original": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 17:02:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3971,9 +3971,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Webb は、Fernandes が Foden 赤の上に罰をエスケープした理由を説明しています Mic'd Up",
+      "title": "Webb は、Fernandes が Foden 赤の上に罰をエスケープした理由を説明しています",
       "summary": "Pro Ref 役員紹介ハワード・ウェブ説明する Match Officials Mic'd Up 理由マンチェスター・ユナイテッドキャプテンブルーノ・フェルナンデス見た事件の関与にもかかわらず、任意の罰をエスケープフィル・フォーデンマンチェスター・ダービーに送られました。",
-      "title_original": "Webb explains why Fernandes escaped punishment over Foden red on Mic'd Up",
+      "title_original": "Webb explains why Fernandes escaped punishment over Foden red",
       "summary_original": "Pro Ref chief refereeing officer Howard Webb explains to Match Officials Mic'd Up why Manchester United captain Bruno Fernandes escaped any punishment despite his involvement in the incident that saw Phil Foden sent off in the Manchester derby.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13586152/match-officials-micd-up-why-did-bruno-fernandes-escape-punishment-over-phil-foden-red-card",
@@ -3985,9 +3985,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "FULL AUDIO インフォメーションハーランド「論争の目標」Mic'd Up",
+      "title": "FULL AUDIO リリースハーランドの controversial Manchester derby 受賞者",
       "summary": "獲得を問い合わせ Match Officials Mic'd Up, Pro Ref スタッフハワード・ウェブ VAR プロセスが許可することを決めた方法のレビューがあると述べていますアーリング・ハーランドの の目標マンチェスター・シティに対してマンチェスター・ユナイテッドスタンドに。",
-      "title_original": "FULL AUDIO of Haaland's controversial goal on Mic'd Up",
+      "title_original": "FULL AUDIO released of Haaland's controversial Manchester derby winner",
       "summary_original": "Speaking on Match Officials Mic'd Up, Pro Ref chief Howard Webb says that there will be a review into how the VAR process decided to allow Erling Haaland's goal for Manchester City against Manchester United to stand.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13586149/match-officials-micd-up-where-did-var-go-wrong-with-erling-haaland-goal",
@@ -4028,9 +4028,9 @@
     },
     {
       "title": "説明: なぜ 15 歳 代 JJ Gabriel 休暇をしたいマンチェスター・ユナイテッド",
-      "summary": "Dan Khan15 歳のプロディジーで私たちを更新 JJ Gabriel 休暇の決定マンチェスター・ユナイテッド.",
+      "summary": "Dan Khan スカイスポーツを15 歳で更新 JJ Gabriel's 休暇の決定マンチェスター・ユナイテッド.",
       "title_original": "Explained: Why 15-year-old prodigy JJ Gabriel wants to leave Man Utd",
-      "summary_original": "Dan Khan updates us on 15-year-old prodigy JJ Gabriel decision to leave Manchester United.",
+      "summary_original": "Dan Khan updates Sky Sports on 15-year-old prodigy JJ Gabriel's decision to leave Manchester United.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13586221/15-year-old-prodigy-jj-gabriel-has-asked-to-leave-manchester-united",
       "published": "Tue, 15 Sep 2026 15:46:00 BST",
@@ -4112,9 +4112,9 @@
     },
     {
       "title": "ガブリエルは去ることを要求しますマンチェスター・ユナイテッド",
-      "summary": "マンチェスター・ユナイテッド'15 歳のアカデミープロディジ JJ Gabriel 退場をお願いしております。Sky Sports News 獲得を問い合わせ",
+      "summary": "マンチェスター・ユナイテッド’15 歳のプロディジ JJ Gabriel ユナイテッド・ショックで残っている巨大な意外な動きでクラブを離れるように要求しました。",
       "title_original": "Gabriel asks to leave Man Utd",
-      "summary_original": "Manchester United's 15-year-old academy prodigy JJ Gabriel has asked to leave the club, Sky Sports News understands.",
+      "summary_original": "Manchester United’s 15-year-old prodigy JJ Gabriel has requested to leave the club in a hugely surprising move that has left those at United shocked.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13586188/jj-gabriel-transfer-news-highly-rated-manchester-united-teenage-prospect-asks-to-leave-old-trafford",
       "published": "Tue, 15 Sep 2026 14:21:00 BST",
