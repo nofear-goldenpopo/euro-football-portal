@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-15T17:23:43.024067+00:00",
+  "updated_at": "2026-09-15T17:37:06.418355+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Jo Potter’s": "",
-    "Bethany England": "",
     "Sophie Downey’s": "",
     "Stamford Bridge": "",
     "Suzanne Wrack’s": "",
@@ -3001,7 +2999,9 @@
     "Roberto De Zerbi": "ロベルト・デ・ゼルビ",
     "JJ Gabriel's": "",
     "FULL VAR AUDIO": "",
-    "Says VAR": ""
+    "Says VAR": "",
+    "Utilita Bowl": "",
+    "Southampton. Watch": ""
   },
   "items": [
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リヴァプール対比トッテナムチームニュース LIVE!",
+      "summary": "",
+      "title_original": "Liverpool vs Tottenham team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/liverpool-vs-tottenham-hotspur/live/577579",
+      "published": "Tue, 15 Sep 2026 18:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ウェストハム Fulham チームニュース LIVE!",
       "summary": "",
       "title_original": "West Ham vs Fulham team news LIVE!",
@@ -3859,17 +3873,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イギリススリランカ最初の T20 インテルドナルドデビューLIVE!",
+      "title": "イングランドは、T20 の開口部で最初に打たれスリランカドナルドが LIVE デビュー!",
       "summary": "",
-      "title_original": "England face Sri Lanka in first T20 international as Donald debuts LIVE!",
+      "title_original": "England batting first in opening T20 vs Sri Lanka as Donald debuts LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13586215/england-vs-sri-lanka-first-t20-live-latest-score-commentary-video-and-analysis-as-kevin-pietersen-begins-role-as-white-ball-mentor",
       "published": "Tue, 15 Sep 2026 17:45:00 BST",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3971,6 +3985,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スコアカード:イングランド対スリランカ, 最初の T20, ナンプトン",
+      "summary": "最初の T20 から最新のスコアインテルイングランドとイングランドの国スリランカ獲得を問い合わせ Utilita Bowl 獲得を問い合わせ Southampton. Watch ライブ Sky Sports.",
+      "title_original": "Scorecard: England vs Sri Lanka, first T20, Southampton",
+      "summary_original": "Latest score from the first T20 international between England and Sri Lanka at the Utilita Bowl in Southampton. Watch live on Sky Sports Cricket.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/england-v-sri-lanka/scorecard/f388f59d-e868-5eaf-b2ec-807169ed78b4",
+      "published": "Tue, 15 Sep 2026 18:25:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "イングランドはウィリアムズをキャプテンとして確認 Rugby League World Cup",
       "summary": "イングランドヘッドコーチ Brian McDermott 確認済みジョージ・ウィリアムズ翌月のキャプテン Rugby League World Cup.",
       "title_original": "England confirm Williams as captain for Rugby League World Cup",
@@ -4047,7 +4075,7 @@
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/ipswich-town-vs-arsenal/live/577577",
-      "published": "Tue, 15 Sep 2026 11:30:00 BST",
+      "published": "Tue, 15 Sep 2026 18:20:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13586082/rory-mcilroy-plays-down-concerns-for-dp-world-tour-players-over-pga-tour-qualifying-criteria",
       "published": "Tue, 15 Sep 2026 14:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "政府は、ホストにイングランドのために新鮮なプッシュをバックアップするよう求め Solheim Cup",
-      "summary": "England Golf プッシュをリイニットし、Solheim Cup2030 年版の入札を支持するために、イギリスに政府を強制的に支援しています。",
-      "title_original": "Government urged to back fresh push for England to host Solheim Cup",
-      "summary_original": "England Golf have reignited their push to bring the Solheim Cup to England and are urging the government for financial backing to support a bid for the 2030 edition.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13586085/solheim-cup-england-golf-makes-fresh-call-for-government-support-to-bring-2030-edition-to-england-for-first-time",
-      "published": "Tue, 15 Sep 2026 16:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Pocognoli の最初のスコットランドのスクワッドに含まれている5 つの新人",
-      "summary": "セビージャストライカーRobbie Ure そして、Brondby's Luis Binks 新しいヘッドコーチでメイドフルスコットランドのコールアップを手渡した5 人の選手のうちセバスチャン・ポコニョーリの の先頭に",
-      "title_original": "Five newcomers included in Pocognoli's first Scotland squad",
-      "summary_original": "Sevilla striker Robbie Ure and Brondby's Luis Binks are among five players handed their maiden full Scotland call-ups in new head coach Sebastien Pocognoli's first squad.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585835/scotland-robbie-ure-luis-binks-and-colby-donovan-among-five-newcomers-included-in-sebastien-pocognolis-first-squad",
-      "published": "Tue, 15 Sep 2026 11:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
