@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T10:07:11.946179+00:00",
+  "updated_at": "2026-09-15T10:26:31.894846+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "Nicolas Jackson": "",
@@ -3047,10 +3047,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "McBurnie & Donovan 参加 Graham & Ure で スコットランド スクワッド",
-      "summary": "ストーク・シティ FC センターハーフ Luke Graham そして、セビージャストライカーRobbie Ure 火曜日に最初のフルスコットランドのコールアップを受け取りますセバスチャン・ポコニョーリヘッドコーチとして最初のチーム名を挙げます。",
-      "title_original": "McBurnie & Donovan join Graham & Ure in Scotland squad",
-      "summary_original": "Stoke City centre-half Luke Graham and Sevilla striker Robbie Ure will receive their first full Scotland call-ups on Tuesday when Sebastien Pocognoli names his first squad as head coach.",
+      "title": "スコットランドのスクワッドでマクバーニー&7 名の未処理名",
+      "summary": "ハル・シティ AFC 獲得オリヴァー・マクバーニー5 年ぶりにスコットランドのスクワッドに呼び出され、7 人のアンキャップが新しいヘッドコーチを作るセバスチャン・ポコニョーリ'最初の選択。",
+      "title_original": "McBurnie & seven uncapped names in Scotland squad",
+      "summary_original": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first time in five years while seven uncapped make new head coach Sebastien Pocognoli's first selection.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 10:03:22 GMT",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウィルソンは、アシュフォードが最初のコールアップを受信したウェールズに戻って",
+      "summary": "",
+      "title_original": "Wilson returns to Wales squad as Ashford receives first call-up",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "published": "Tue, 15 Sep 2026 10:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Pocognoli の最初のスコットランドのスクワッドに含まれている5 つの新人",
       "summary": "セビージャストライカーRobbie Ure そして、Brondby's Luis Binks5 人の選手が新しいヘッドコーチで最初のフルスコットランドのコールアップを手渡しましたセバスチャン・ポコニョーリの の先頭に",
       "title_original": "Five newcomers included in Pocognoli's first Scotland squad",
@@ -4107,20 +4121,6 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "カララ:アルテタ好きになるアレックス・ファーガソン ref の批判の後",
-      "summary": "Jamie Carragher コメントアーセナルログインミケル・アルテタ「なる」アレックス・ファーガソン獲得を問い合わせプレミアリーグ「土曜日の2-0 勝利で彼の側に付与された罰を強く批判した後サンダーランド.",
-      "title_original": "Carra: Arteta becoming like Sir Alex after ref criticism",
-      "summary_original": "Jamie Carragher says Arsenal boss Mikel Arteta is \"becoming the Sir Alex Ferguson of the Premier League\" after strongly criticising the penalty awarded against his side in Saturday's 2-0 win at Sunderland.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585895/jamie-carragher-arsenal-boss-mikel-arteta-becoming-like-sir-alex-ferguson-after-ref-criticism-of-sunderland-penalty",
-      "published": "Mon, 14 Sep 2026 19:41:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     }
