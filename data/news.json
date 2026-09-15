@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-15T18:40:54.631191+00:00",
+  "updated_at": "2026-09-15T18:54:23.710899+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Atlético Madrid’s": "",
-    "Thursday. Miguel Ángel Gil": "",
-    "Movistar Plus": "",
-    "Gil Marín": "",
-    "Joan Laporta": "",
     "Andoni Iraola": "",
     "Cody Gakpo Liverpool": "",
     "Andoni Iraola. Barcola": "",
@@ -3001,7 +2996,12 @@
     "Magdalena Eriksson Join": "",
     "Júlia Belas Trindade": "",
     "Sophie Downey": "",
-    "Anita Asante": ""
+    "Anita Asante": "",
+    "Carabao Cup": "EFLカップ",
+    "Gary O’Neil": "",
+    "Chuba Akpom": "",
+    "Ipswich. Mikel Arteta": "",
+    "Portman Road. Continue": ""
   },
   "items": [
     {
@@ -3299,20 +3299,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "です。プレミアリーグすでに2 チーム優勝争い?",
-      "summary": "4 つのゲームは、誰がいるか、または誰について話しているまで遅すぎる優勝争い・・・? BBC について スポーツは、すでに2 馬のレースであるかどうか尋ねます。",
-      "title_original": "Is the Premier League already a two-team title race?",
-      "summary_original": "Four games is far too soon to be talking about who is in or out of the title race... isn't it? BBC Sport asks if this is already a two-horse race.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqwyzxx96wnwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 14:48:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ルールを変更することはできません」 - NI/ROI の適格性に関する O'Neill",
       "summary": "北アイルランドマネージャーMichael O'Neill 獲得を問い合わせ BBC Sport NI's Stephen ワトソンについて推測についてアーセナルヤングスターCeadach O'Neill's インテル来日予定のニ・スクワッドに名前をつけて、国民の未来 Nations League 備品。",
       "title_original": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
@@ -3383,6 +3369,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "です。プレミアリーグすでに2 チーム優勝争い?",
+      "summary": "4 つのゲームは、誰がいるか、または誰について話しているまで遅すぎる優勝争い・・・? BBC について スポーツは、すでに2 馬のレースであるかどうか尋ねます。",
+      "title_original": "Is the Premier League already a two-team title race?",
+      "summary_original": "Four games is far too soon to be talking about who is in or out of the title race... isn't it? BBC Sport asks if this is already a two-horse race.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqwyzxx96wnwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 14:48:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "なぜそこにいるのかヨーロッパリーグ水曜日にマッチしますか?",
       "summary": "BBC Sport's Ask Me どのチームが9 つの理由を説明するヨーロッパリーグ水曜日の夜に行われる試合",
       "title_original": "Why are there Europa League matches on Wednesday?",
@@ -3440,12 +3440,12 @@
     },
     {
       "title": "イプスウィッチ・タウン FC. .アーセナル: EFL カップ第三ラウンド - ライブ",
-      "summary": "⚽️ EFL カップニュース、8pm BST キックオフポートマン・ロード ⚽️ リヴァプール. .トッテナム– ライブの試合をフォロー ライブスコアボード | メールでタハにあなたの考えを送信 Scott Murray タブをオンにするリヴァプールに対してトッテナム. マルリ・サーモン, 17, 彼の第二の始まりを作るアーセナル. 彼は、コースの XI の中で最も若いではありません.Max Dowman このキャンペーンを初めて再生します。続きを読む...",
+      "summary": "⚽️ EFL カップニュース、8pm BST キックオフポートマン・ロード ⚽️ リヴァプール. .トッテナム– ライブの試合をフォロー ライブスコアボード | メールでタハにあなたの考えを送信 Gary O’Neil「厳しい選択」と言われるジアン・フレミングそして、Chuba Akpom 先頭へ 前者は、行をリードしますイプスウィッチ. ミケル・アルテタ自分の側で3 つを返すと言い切る。「見よう」と彼は言いました、笑顔。あなたが疑問に思っていた場合:VAR は夜に動作しませんポートマン・ロード. 続きを読む...",
       "title_original": "Ipswich Town v Arsenal: Carabao Cup third round – live",
-      "summary_original": "⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road ⚽️ Liverpool v Tottenham – follow it live ⚽️ Live scoreboard | Send your thoughts to Taha via email Scott Murray is keeping tabs on Liverpool against Spurs. Marli Salmon, 17, makes his second start for Arsenal. He’s not the youngest in the XI, of course. Max Dowman plays for the first time this campaign. Continue reading...",
+      "summary_original": "⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road ⚽️ Liverpool v Tottenham – follow it live ⚽️ Live scoreboard | Send your thoughts to Taha via email Gary O’Neil says it was “a tough choice” between Zian Flemming and Chuba Akpom to start up front . The former will lead the line for Ipswich. Mikel Arteta refuses to say if it’ll be a back three for his side. “Let’s see,” he says, smiling. In case you’re wondering: VAR won’t be in operation tonight at Portman Road. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live",
-      "published": "Tue, 15 Sep 2026 18:14:35 GMT",
+      "published": "Tue, 15 Sep 2026 18:34:37 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3845,17 +3845,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Iraola が Anfield で TEN を Kudus として変更トッテナムライブ!",
+      "title": "リヴァプール対比トッテナムライブ!",
       "summary": "",
-      "title_original": "Iraola changes TEN at Anfield as Kudus starts for Spurs LIVE!",
+      "title_original": "Liverpool vs Tottenham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-tottenham-hotspur/live/577579",
       "published": "Tue, 15 Sep 2026 18:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3873,9 +3873,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バトラーはトップ対面でイングランドに落ちるスリランカ T20 LIVE をオープン!",
+      "title": "バトラー、バントンはトップ対イングランドに落ちるスリランカ T20 LIVE をオープン!",
       "summary": "",
-      "title_original": "Buttler falls but England on top vs Sri Lanka in opening T20 LIVE!",
+      "title_original": "Buttler, Banton fall but England on top vs Sri Lanka in opening T20 LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13586215/england-vs-sri-lanka-first-t20-live-latest-score-commentary-video-and-analysis-as-kevin-pietersen-begins-role-as-white-ball-mentor",
