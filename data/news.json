@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-15T09:54:40.728284+00:00",
+  "updated_at": "2026-09-15T10:07:11.946179+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Sandro Tonali": "",
-    "Tottenham Hotspur Stadium": "",
     "Nicolas Jackson": "",
     "Ollie Watkins": "",
     "Monaco's Lamine Camara": "",
@@ -3001,7 +2999,9 @@
     "Britain's Lindblad": "",
     "Craig Bellamy": "クレイグ・ベラミー",
     "Cian Ashford": "",
-    "Frank Lampard": ""
+    "Frank Lampard": "",
+    "Brondby's Luis Binks": "",
+    "Sebastien Pocognoli's": ""
   },
   "items": [
     {
@@ -3047,13 +3047,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アシュフォードが最初のウェールズのコールアップを獲得するロドンは、",
-      "summary": "クレイグ・ベラミー初めてのコールアップを Cardiff City 獲得 Cian Ashford 獲得を問い合わせ Wales' Nations League キャンペーンではなく、キーの擁護者なしでジョー・ロドン.",
-      "title_original": "Rodon absent as Ashford earns first Wales call-up",
-      "summary_original": "Craig Bellamy hands a first call-up to Cardiff City forward Cian Ashford for Wales' Nations League A campaign but is without key defender Joe Rodon.",
+      "title": "McBurnie & Donovan 参加 Graham & Ure で スコットランド スクワッド",
+      "summary": "ストーク・シティ FC センターハーフ Luke Graham そして、セビージャストライカーRobbie Ure 火曜日に最初のフルスコットランドのコールアップを受け取りますセバスチャン・ポコニョーリヘッドコーチとして最初のチーム名を挙げます。",
+      "title_original": "McBurnie & Donovan join Graham & Ure in Scotland squad",
+      "summary_original": "Stoke City centre-half Luke Graham and Sevilla striker Robbie Ure will receive their first full Scotland call-ups on Tuesday when Sebastien Pocognoli names his first squad as head coach.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c615877d389no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:30:13 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 10:03:22 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3061,13 +3061,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Graham & Ure は Pocognoli 初のスコットランドのスクワッドを作る",
-      "summary": "ストーク・シティ FC センターハーフ Luke Graham そして、セビージャストライカーRobbie Ure 火曜日に最初のフルスコットランドのコールアップを受け取りますセバスチャン・ポコニョーリヘッドコーチとして最初のチーム名を挙げます。",
-      "title_original": "Graham & Ure make Pocognoli's first Scotland squad",
-      "summary_original": "Stoke City centre-half Luke Graham and Sevilla striker Robbie Ure will receive their first full Scotland call-ups on Tuesday when Sebastien Pocognoli names his first squad as head coach.",
+      "title": "アシュフォードが最初のウェールズのコールアップを獲得するロドンは、",
+      "summary": "クレイグ・ベラミー初めてのコールアップを Cardiff City 獲得 Cian Ashford 獲得を問い合わせ Wales' Nations League キャンペーンではなく、キーの擁護者なしでジョー・ロドン.",
+      "title_original": "Rodon absent as Ashford earns first Wales call-up",
+      "summary_original": "Craig Bellamy hands a first call-up to Cardiff City forward Cian Ashford for Wales' Nations League A campaign but is without key defender Joe Rodon.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw94zzyx1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 21:00:42 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c615877d389no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 09:30:13 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3327,20 +3327,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "待ち時間に20 年 - Coventry's nightmare トップフライトリターン",
-      "summary": "コヴェントリー・シティ FC 夢は、プレミアリーグ4 連続敗北後に解凍し始めている - しかし、缶 Frank Lampard 獲得を問い合わせ",
-      "title_original": "Twenty-five years in the waiting - Coventry's nightmare top-flight return",
-      "summary_original": "Coventry City's dream return to the Premier League is beginning to unravel after a fourth consecutive defeat - but can Frank Lampard turn it around?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g7pezw1mjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 19:32:55 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ニューカッスル物理的性にマッチできなかったリーズ- ジャスレ",
       "summary": "ニューカッスルマネージャーMatthias Jaissle 自分の側が4 つの目標を支配した後に「堅い夜」に反映リーズ・ユナイテッド FC 獲得を問い合わせエランド・ロード.",
       "title_original": "Newcastle couldn't match the physicality of Leeds - Jaissle",
@@ -3404,6 +3390,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cly7408jg0go?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 19:00:21 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "待ち時間に20 年 - Coventry's nightmare トップフライトリターン",
+      "summary": "コヴェントリー・シティ FC 夢は、プレミアリーグ4 連続敗北後に解凍し始めている - しかし、缶 Frank Lampard 獲得を問い合わせ",
+      "title_original": "Twenty-five years in the waiting - Coventry's nightmare top-flight return",
+      "summary_original": "Coventry City's dream return to the Premier League is beginning to unravel after a fourth consecutive defeat - but can Frank Lampard turn it around?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g7pezw1mjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 19:32:55 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Pocognoli の最初のスコットランドのスクワッドに含まれている5 つの新人",
+      "summary": "セビージャストライカーRobbie Ure そして、Brondby's Luis Binks5 人の選手が新しいヘッドコーチで最初のフルスコットランドのコールアップを手渡しましたセバスチャン・ポコニョーリの の先頭に",
+      "title_original": "Five newcomers included in Pocognoli's first Scotland squad",
+      "summary_original": "Sevilla striker Robbie Ure and Brondby's Luis Binks are among five players handed their first full Scotland call-ups in new head coach Sebastien Pocognoli's first squad.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13585835/scotland-robbie-ure-luis-binks-and-colby-donovan-among-five-newcomers-included-in-sebastien-pocognolis-first-squad",
+      "published": "Tue, 15 Sep 2026 11:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Coventry 最新: ランプードは、Villa cup tie の変更点でヒント",
       "summary": "",
       "title_original": "Coventry latest: Lampard hints at changes for Villa cup tie",
@@ -4108,20 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド最新: 後参照ボディに対して計画されるそれ以上の行為無しハーランドミッション",
-      "summary": "",
-      "title_original": "Man Utd latest: No further action planned against refereeing body after Haaland goal",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Tue, 15 Sep 2026 08:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
