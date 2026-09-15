@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T04:54:45.569931+00:00",
+  "updated_at": "2026-09-15T05:06:49.112354+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2989,7 +2989,9 @@
     "Chris Foy": "",
     "Dominic Solanke": "ドミニク・ソランケ",
     "Blundering VAR": "",
-    "La Liga Inter": ""
+    "La Liga Inter": "",
+    "WTA Sao Paulo": "",
+    "Guadalajara Open": ""
   },
   "items": [
     {
@@ -3833,6 +3835,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Wolff は Antonelli の成長のリードにもかかわらず、タイトル警告の問題",
+      "summary": "メルセデス・ボス Toto Wolff コメント Kimi Antonelli イタリアのドライバーの大きなポイントがリードしているにもかかわらず、彼のチャンピオンシップ入札を退去する予期しない「黒ずみイベント」の可能性について警戒しなければなりません。",
+      "title_original": "Wolff issues title warning despite Antonelli's growing lead",
+      "summary_original": "Mercedes boss Toto Wolff says Kimi Antonelli must remain wary about the potential of unexpected \"black swan events\" derailing his championship bid despite the Italian driver's large points lead.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13585813/mercedes-boss-toto-wolff-issues-formula-1-title-race-caution-despite-kimi-antonellis-big-points-lead",
+      "published": "Tue, 15 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "テニスのスコア:WTA Sao Paulo そして、Guadalajara Open",
+      "summary": "",
+      "title_original": "Tennis scores: WTA Sao Paulo and Guadalajara Open",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/scores-schedule",
+      "published": "Tue, 15 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「お持ち帰りにうれしい」 | シンフィールドを誇りに思う Rugby League コミュニティ",
       "summary": "Sir Kevin Sinfield 連続して7 つの超マラソンを走る7 つの決勝に挑戦し、資金を調達しよう筋萎縮性側索硬化症(MND) charities は、Rugby Lague 一緒にコミュニティ.",
       "title_original": "'It's nice to bring it all home' | Sinfield proud to bring Rugby League community together",
@@ -4082,34 +4112,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トッテナム最新: Richarlison は残っている後応答します EFL カップスチーム",
-      "summary": "",
-      "title_original": "Spurs latest: Richarlison responds after being left out of Carabao Cup squad",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Mon, 14 Sep 2026 20:55:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アーセナル最新: ガンナーに連絡する Pro Ref オーバーオーバーサンダーランドペナルティ",
-      "summary": "",
-      "title_original": "Arsenal latest: Gunners to contact Pro Ref over Sunderland penalty",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Mon, 14 Sep 2026 14:41:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
