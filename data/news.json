@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-15T09:33:06.276820+00:00",
+  "updated_at": "2026-09-15T09:54:40.728284+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Carli Ancelotti": "",
-    "Craig Kirby": "",
-    "Lewis Miley": "",
     "Sandro Tonali": "",
     "Tottenham Hotspur Stadium": "",
     "Nicolas Jackson": "",
@@ -3001,7 +2998,10 @@
     "World Cup Promise David": "",
     "World Cup. There": "",
     "Estonia’s Meistriliiga": "",
-    "Britain's Lindblad": ""
+    "Britain's Lindblad": "",
+    "Craig Bellamy": "クレイグ・ベラミー",
+    "Cian Ashford": "",
+    "Frank Lampard": ""
   },
   "items": [
     {
@@ -3043,6 +3043,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アシュフォードが最初のウェールズのコールアップを獲得するロドンは、",
+      "summary": "クレイグ・ベラミー初めてのコールアップを Cardiff City 獲得 Cian Ashford 獲得を問い合わせ Wales' Nations League キャンペーンではなく、キーの擁護者なしでジョー・ロドン.",
+      "title_original": "Rodon absent as Ashford earns first Wales call-up",
+      "summary_original": "Craig Bellamy hands a first call-up to Cardiff City forward Cian Ashford for Wales' Nations League A campaign but is without key defender Joe Rodon.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c615877d389no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 09:30:13 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3145,20 +3159,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "暗闇の中で左 - ライブ VAR オーディオを聴くためにファンは、します?",
-      "summary": "VAR は10 歳近くで、まだゲームはまだサポート者にオーディオライブを放送する許可されている長い方法です。",
-      "title_original": "Left in the dark - will fans ever get to hear live VAR audio?",
-      "summary_original": "VAR is nearly 10 years old, and yet the game is still a long way off being allowed to broadcast the audio live to supporters.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz6z80qqzplo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 15:00:42 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "です。プレミアリーグすでに2 チーム優勝争い?",
       "summary": "4 つのゲームは、誰がいるか、または誰について話しているまで遅すぎる優勝争い・・・? BBC について スポーツは、すでに2 馬のレースであるかどうか尋ねます。",
       "title_original": "Is the Premier League already a two-team title race?",
@@ -3173,6 +3173,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "暗闇の中で左 - ライブ VAR オーディオを聴くためにファンは、します?",
+      "summary": "VAR は10 歳近くで、まだゲームはまだサポート者にオーディオライブを放送する許可されている長い方法です。",
+      "title_original": "Left in the dark - will fans ever get to hear live VAR audio?",
+      "summary_original": "VAR is nearly 10 years old, and yet the game is still a long way off being allowed to broadcast the audio live to supporters.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz6z80qqzplo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 15:00:42 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "家族の質問マンチェスター・ユナイテッド, 今、Carrick は答えを見つける必要があります",
       "summary": "4 で1 勝後プレミアリーグゲーム、問題はのための土台ですマンチェスター・ユナイテッドマネージャーマイケル・キャリック.",
       "title_original": "Familiar questions for Man Utd, now Carrick must find answers",
@@ -3183,6 +3197,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "なぜそこにいるのかヨーロッパリーグ水曜日にマッチしますか?",
+      "summary": "BBC Sport's Ask Me どのチームが9 つの理由を説明するヨーロッパリーグ水曜日の夜に行われる試合",
+      "title_original": "Why are there Europa League matches on Wednesday?",
+      "summary_original": "BBC Sport's Ask Me Anything team explains why there are nine Europa League matches taking place on Wednesday night",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/articles/c6x2zpndv039o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 09:21:25 GMT",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3229,20 +3257,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Football Daily",
-      "summary": "ユナイテッドは、自宅で10 人の男性とスコアで70 分を再生しましたか?",
-      "title_original": "Football Daily",
-      "summary_original": "How did United play 70 minutes against 10 men at home and not score?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p9mkw3?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 20:16:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "McInnes は一体性と強度を両立するオールドファームゴブスキ",
       "summary": "BBC Scotland's チーフスポーツライターTom English ソリューションレンジャーズ「説得力のある」オールドファーム勝上勝利セルティック Ibrox で。",
       "title_original": "McInnes delivers togetherness & intensity in Old Firm gobsmacker",
@@ -3250,6 +3264,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj06e0mg40qo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 16:08:09 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Football Daily",
+      "summary": "ユナイテッドは、自宅で10 人の男性とスコアで70 分を再生しましたか?",
+      "title_original": "Football Daily",
+      "summary_original": "How did United play 70 minutes against 10 men at home and not score?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p9mkw3?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 20:16:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3309,34 +3337,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "BBC Women's Football Weekly",
-      "summary": "早期にポイントを落とすことができる方法アーセナル WSL のタイトルの戦い?",
-      "title_original": "BBC Women's Football Weekly",
-      "summary_original": "How costly could early dropped points be for Arsenal and their fight for the WSL title?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p9lrc6?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 16:31:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "過去の投稿ウェストハムパーカー ミクロスコ ダイス 高齢者 64",
-      "summary": "Ludek Miklosko ほとんど 400 の出現のために作って下さいウェストハム1990 年代、ファンは彼の出口の後ろに彼の名前を歌います。",
-      "title_original": "Former West Ham keeper Miklosko dies aged 64",
-      "summary_original": "Ludek Miklosko made almost 400 appearances for West Ham in the 1990s, and fans sang his name long after his exit.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c77036d68k8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 08:00:34 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Coventry 最新: ランプードは、Villa cup tie の変更点でヒント",
+      "summary": "",
+      "title_original": "Coventry latest: Lampard hints at changes for Villa cup tie",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "published": "Tue, 15 Sep 2026 10:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "幼少は歴史を追いかけているように「直近の日」を必要とします",
       "summary": "World No 1 Luke Littler 彼がどのダーツトーナメントをプレイするかを選ぶ権利を獲得していると言います。",
       "title_original": "Littler needs 'crucial days off' as he chases history",
@@ -4107,20 +4121,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "BMW PGA 選手権: McIlroy が返すフィールド、フォーマット、賞金",
-      "summary": "どのプレイヤーが印象づけることができるか BMW PGA 選手権? なる LIV ゴルフプレイヤーの特徴 誰が遊ぶか Celebrity Pro-Am 今週のスピードを上げます。ヨーロピアンツアーウェントワース、スカイスポーツに住んでいたイベント。",
-      "title_original": "BMW PGA Championship: Field, format and prize money as McIlroy returns",
-      "summary_original": "Which players could impress at the BMW PGA Championship? Will LIV Golf players feature? Who is playing in the Celebrity Pro-Am? We get you up to speed ahead of this week's DP World Tour event at Wentworth, live on Sky Sports .",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13583917/bmw-pga-championship-2026-field-format-and-prize-money-as-rory-mcilroy-headlines-dp-world-tour-event-at-wentworth",
-      "published": "Mon, 14 Sep 2026 15:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
