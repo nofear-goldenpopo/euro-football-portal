@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-15T11:06:40.847235+00:00",
+  "updated_at": "2026-09-15T11:25:29.367536+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Manager Derek McInnes": "",
-    "Joel Ordonez's": "",
-    "Departing Watkins": "",
     "Kevin Danso": "",
     "Scottish Premiership": "",
     "San Siro": "",
@@ -3001,7 +2998,10 @@
     "World Athletics Championships": "",
     "The World Athletics Championships": "",
     "Slot's Liverpool": "",
-    "Super Bowls": "スーパーボウル"
+    "Super Bowls": "スーパーボウル",
+    "Who Am": "",
+    "Brian McDermott": "",
+    "George Williams": "ジョージ・ウィリアムズ"
   },
   "items": [
     {
@@ -3011,7 +3011,7 @@
       "summary_original": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first time in five years while seven uncapped make new head coach Sebastien Pocognoli's first selection.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 10:03:22 GMT",
+      "published": "Tue, 15 Sep 2026 11:23:30 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3072,6 +3072,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ストームによる「Brampton bagman'の服用選手権」",
+      "summary": "BBC スポーツは、南 ampton's 'Brampton bagman'の精巧な形態を見てみましょう Cyle Larin.",
+      "title_original": "The 'Brampton bagsman' taking Championship by storm",
+      "summary_original": "BBC Sport takes a look at the scintillating form of Southampton's 'Brampton bagsman' Cyle Larin.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5zjz00zrwwzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 09:40:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3159,20 +3173,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ホストへのカーディフ 2029 女性チャンピオンズリーグファイナル",
-      "summary": "Uefa は、今後の決勝の予定数を確認しました。Cardiff's Principality Stadium2029 人の女性をホストするチャンピオンズリーグ決勝",
-      "title_original": "Cardiff to host 2029 women's Champions League final",
-      "summary_original": "Uefa have confirmed a number of host appointments for upcoming finals, with Cardiff's Principality Stadium set to host the 2029 women's Champions League final.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmrer2j8lnr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 10:25:32 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "です。プレミアリーグすでに2 チーム優勝争い?",
       "summary": "4 つのゲームは、誰がいるか、または誰について話しているまで遅すぎる優勝争い・・・? BBC について スポーツは、すでに2 馬のレースであるかどうか尋ねます。",
       "title_original": "Is the Premier League already a two-team title race?",
@@ -3184,6 +3184,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ホストへのカーディフ 2029 女性チャンピオンズリーグファイナル",
+      "summary": "Uefa は、今後の決勝の予定数を確認しました。Cardiff's Principality Stadium2029 人の女性をホストするチャンピオンズリーグ決勝",
+      "title_original": "Cardiff to host 2029 women's Champions League final",
+      "summary_original": "Uefa have confirmed a number of host appointments for upcoming finals, with Cardiff's Principality Stadium set to host the 2029 women's Champions League final.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrer2j8lnr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 10:25:32 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3229,20 +3243,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "なぜそこにいるのかヨーロッパリーグ水曜日にマッチしますか?",
-      "summary": "BBC Sport's Ask Me どのチームが9 つの理由を説明するヨーロッパリーグ水曜日の夜に行われる試合",
-      "title_original": "Why are there Europa League matches on Wednesday?",
-      "summary_original": "BBC Sport's Ask Me Anything team explains why there are nine Europa League matches taking place on Wednesday night",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/articles/c6x2zpndv039o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:21:25 GMT",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "'Big Ludo' - 登山者になったウェストハムカルトフィギュア",
       "summary": "Ludek Miklosko, 歳で死亡した 64, とカルトフィギュアだったウェストハム1990 年、ロンドンに移住後、サポーターズに就任。",
       "title_original": "'Big Ludo' - trailblazing keeper who became West Ham cult figure",
@@ -3254,6 +3254,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "なぜそこにいるのかヨーロッパリーグ水曜日にマッチしますか?",
+      "summary": "BBC Sport's Ask Me どのチームが9 つの理由を説明するヨーロッパリーグ水曜日の夜に行われる試合",
+      "title_original": "Why are there Europa League matches on Wednesday?",
+      "summary_original": "BBC Sport's Ask Me Anything team explains why there are nine Europa League matches taking place on Wednesday night",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/articles/c6x2zpndv039o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 09:21:25 GMT",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3320,20 +3334,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sounds/play/p0p9mkw3?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 14 Sep 2026 20:16:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ダービーセミは「より多くのスパイス」または単に「ファンのためのニッケル」を追加しますか?",
-      "summary": "While Hibernian ヘッドコーチデヴィッド・グレイ「非常に特別な」を信頼しています Premier Sports CupMidlothian、反対側の心に対する準決勝 Wouter Vrancken 見通しについてクールに保たれています。",
-      "title_original": "Does derby semi add 'more spice' or simply 'nice for fans'?",
-      "summary_original": "While Hibernian head coach David Gray is relishing a \"very special\" Premier Sports Cup semi-final against Heart of Midlothian, counterpart Wouter Vrancken is keeping cool about the prospect.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5zjz0gexgj1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 16:16:58 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "イングランドはウィリアムズをキャプテンとして確認 Rugby League World Cup",
+      "summary": "イングランドヘッドコーチ Brian McDermott 確認済みジョージ・ウィリアムズ翌月のキャプテン Rugby League World Cup.",
+      "title_original": "England confirm Williams as captain for Rugby League World Cup",
+      "summary_original": "England head coach Brian McDermott has confirmed George Williams will be his captain at next month's Rugby League World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13586102/george-williams-england-coach-brian-mcdermott-confirms-warrington-wolves-star-as-captain-for-rugby-league-world-cup",
+      "published": "Tue, 15 Sep 2026 12:05:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ロンドンはナイロビが2029 年の安全性を保証するように逃しています World Athletics Championships",
       "summary": "The World Athletics Championships ケニアの首都ナイロビが2029 版のホストとして確認された後、アフリカに向かいます。",
       "title_original": "London misses out as Nairobi secures 2029 World Athletics Championships",
@@ -4108,20 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ペーパー:Blundering VARduo は officiating からブロックされるマンチェスター・ユナイテッドゲーム",
-      "summary": "火曜日の新聞から噂を移籍するトップストーリー...",
-      "title_original": "Papers: Blundering VAR duo set to be blocked from officiating on Man Utd games",
-      "summary_original": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585971/blundering-var-duo-set-to-be-blocked-from-officiating-on-manchester-united-games-paper-talk",
-      "published": "Mon, 14 Sep 2026 22:10:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
