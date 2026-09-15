@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-15T14:18:38.543569+00:00",
+  "updated_at": "2026-09-15T14:27:08.353980+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Al Hilal": "",
-    "BlueSky Liverpool": "",
-    "TBC. Continue": "",
-    "Enzo Maresca": "",
     "England. Cherki": "",
     "Allianz Arena Paris Saint-Germain": "",
     "Hákon Haraldsson": "",
@@ -3001,7 +2997,11 @@
     "Nico Rosberg": "ニコ・ロズベルグ",
     "Jack Draper": "",
     "JJ Gabriel": "",
-    "Raheem Sterling": "ラヒーム・スターリング"
+    "Raheem Sterling": "ラヒーム・スターリング",
+    "Danny McGrain": "ダニー・マクグレイン",
+    "With Leeds United": "",
+    "Lamborghini Urus": "",
+    "May. Continue": ""
   },
   "items": [
     {
@@ -3044,6 +3044,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "適格性規則「特に公正ではありません」 - O'Neill",
+      "summary": "北アイルランドマネージャーMichael O'Neill ルールに関する最も多くを上回っていると言うインテル国民の適格性は若年プレーヤーに不当な選択をする圧力です。",
+      "title_original": "Eligibility rules 'not particularly fair' - O'Neill",
+      "summary_original": "Northern Ireland manager Michael O'Neill says what upsets him the most regarding rules over international eligibility is the pressure put on young players to make an irreversible choice.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c61kxp0w732vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 14:14:22 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3156,20 +3170,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「ルールを変更することはできません」 - NI/ROI の適格性に関する O'Neill",
-      "summary": "北アイルランドマネージャーMichael O'Neill 獲得を問い合わせ BBC Sport NI's Stephen ワトソンについて推測についてアーセナルヤングスターCeadach O'Neill's インテル来日予定のニ・スクワッドに名前をつけて、国民の未来 Nations League 備品。",
-      "title_original": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
-      "summary_original": "Northern Ireland manager Michael O'Neill speaks to BBC Sport NI's Stephen Watson about speculation regarding Arsenal youngster Ceadach O'Neill's international future as he is named in the NI squad for their upcoming Nations League fixtures.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwm2rjzgxex4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 12:43:49 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3341,6 +3341,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「ルールを変更することはできません」 - NI/ROI の適格性に関する O'Neill",
+      "summary": "北アイルランドマネージャーMichael O'Neill 獲得を問い合わせ BBC Sport NI's Stephen ワトソンについて推測についてアーセナルヤングスターCeadach O'Neill's インテル来日予定のニ・スクワッドに名前をつけて、国民の未来 Nations League 備品。",
+      "title_original": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
+      "summary_original": "Northern Ireland manager Michael O'Neill speaks to BBC Sport NI's Stephen Watson about speculation regarding Arsenal youngster Ceadach O'Neill's international future as he is named in the NI squad for their upcoming Nations League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwm2rjzgxex4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 12:43:49 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リーズ激しい重い敗北にニューカッスル第三に登る",
       "summary": "Dominic Calvert-Lewin 星としてリーズ・ユナイテッド FC で3 番目に行きますプレミアリーグ重い4-1 の敗北を侵害する優れたパフォーマンスでニューカッスル獲得を問い合わせエランド・ロード.",
       "title_original": "Leeds inflict heavy defeat on Newcastle to climb to third",
@@ -3394,20 +3408,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハーランドスコアの論争の勝者としてマンチェスター・シティフォデンレッドにもかかわらずダービーを獲得",
-      "summary": "アーリング・ハーランドの の目標は助けますマンチェスター・シティライバルで非常に論争のマンチェスターダービーを獲得マンチェスター・ユナイテッド10 人以上で70 分以上遊んでも",
-      "title_original": "Haaland scores controversial winner as Man City win derby despite Foden red",
-      "summary_original": "Erling Haaland's goal helps Manchester City win a highly controversial Manchester derby at rivals Manchester United despite playing with 10 men for more than 70 minutes.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 19:06:08 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Scot Prem 最新:セルティックアルツハイマーのレジェンド McGrain 診断",
+      "summary": "",
+      "title_original": "Scot Prem latest: Celtic legend McGrain diagnosed with Alzheimer’s",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "published": "Tue, 15 Sep 2026 15:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・シティ最新: ドナラムマはダービーの勝利に反映し、「ハーシュ」フォーデン赤を議論",
       "summary": "",
       "title_original": "Man City latest: Donnarumma reflects on derby win and discusses 'harsh' Foden red",
@@ -3985,9 +3999,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "JJ Gabriel 退去をお願いマンチェスター・ユナイテッド",
+      "title": "ガブリエルは去ることを要求しますマンチェスター・ユナイテッド",
       "summary": "マンチェスター・ユナイテッド'15 歳のアカデミープロディジ JJ Gabriel 退場をお願いしております。Sky Sports News 獲得を問い合わせ",
-      "title_original": "JJ Gabriel asks to leave Man Utd",
+      "title_original": "Gabriel asks to leave Man Utd",
       "summary_original": "Manchester United's 15-year-old academy prodigy JJ Gabriel has asked to leave the club, Sky Sports News understands.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13586188/jj-gabriel-transfer-news-highly-rated-manchester-united-teenage-prospect-asks-to-leave-old-trafford",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/nfl/news/12040/13586002/patrick-mahomes-returns-from-knee-injury-as-kansas-city-chiefs-storm-past-denver-broncos",
       "published": "Tue, 15 Sep 2026 06:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "今日更新 Sky Sports Racing: Yarmouth's Eastern Festival キックオフ",
-      "summary": "1 日目 Eastern FestivalYarmouth は火曜日に始まり、いくつかのエキサイティングな初心者、Uttoxeter と Wolverhampton からのアクションはすべてに住んでいます Sky Sports Racing.",
-      "title_original": "Today on Sky Sports Racing: Yarmouth's Eastern Festival kicks off",
-      "summary_original": "Day one of the Eastern Festival at Yarmouth begins on Tuesday, featuring some exciting novices, plus action from Uttoxeter and Wolverhampton all live on Sky Sports Racing.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13585885/today-on-sky-sports-racing-yarmouths-eastern-festival-kicks-off-with-exciting-novice-action",
-      "published": "Tue, 15 Sep 2026 06:10:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
