@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-15T12:47:20.280384+00:00",
+  "updated_at": "2026-09-15T13:07:21.231601+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Arsenal's Olivia Smith": "",
-    "Joao Pedro": "",
-    "Alvaro Arbeloa's Fulham": "",
-    "Craven Cottage": "クレイヴン・コテージ",
-    "Cole Palmer's": "",
-    "Craven Cottage. In Alonso's": "",
-    "Alvaro Arbeloa": "",
     "Aston Villa's": "",
     "Day's Gabby Logan": "",
     "Danny Murphy": "",
@@ -3001,13 +2994,20 @@
     "Chicago Fire": "",
     "Diego Kochen": "",
     "Think Middlesbrough": "",
-    "Nicky Hayen. Bellamy": ""
+    "Nicky Hayen. Bellamy": "",
+    "BBC Sport NI's Stephen": "",
+    "Ceadach O'Neill's": "",
+    "From Segura": "",
+    "Women’s World Cup": "",
+    "Celia Segura": "",
+    "Bronze Ball": "",
+    "Bronze Boot": ""
   },
   "items": [
     {
-      "title": "スコットランドのスクワッドでマクバーニー&7 名の未処理名",
+      "title": "スコットランドのスクワッドでマクバーニーと7 人のアンキャップ選手",
       "summary": "ハル・シティ AFC 獲得オリヴァー・マクバーニー5 年ぶりにスコットランドのスクワッドに呼び出され、7 人のアンキャップが新しいヘッドコーチを作るセバスチャン・ポコニョーリ'最初の選択。",
-      "title_original": "McBurnie & seven uncapped names in Scotland squad",
+      "title_original": "McBurnie & seven uncapped players in Scotland squad",
       "summary_original": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first time in five years while seven uncapped make new head coach Sebastien Pocognoli's first selection.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss",
@@ -3145,17 +3145,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リーズ激しい重い敗北にニューカッスル第三に登る",
-      "summary": "Dominic Calvert-Lewin 星としてリーズ・ユナイテッド FC で3 番目に行きますプレミアリーグ重い4-1 の敗北を侵害する優れたパフォーマンスでニューカッスル獲得を問い合わせエランド・ロード.",
-      "title_original": "Leeds inflict heavy defeat on Newcastle to climb to third",
-      "summary_original": "Dominic Calvert-Lewin stars as Leeds United go third in the Premier League with a superb performance to inflict a heavy 4-1 defeat on Newcastle United at Elland Road.",
+      "title": "「ルールを変更することはできません」 - NI/ROI の適格性に関する O'Neill",
+      "summary": "北アイルランドマネージャーMichael O'Neill 獲得を問い合わせ BBC Sport NI's Stephen ワトソンについて推測についてアーセナルヤングスターCeadach O'Neill's インテル来日予定のニ・スクワッドに名前をつけて、国民の未来 Nations League 備品。",
+      "title_original": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
+      "summary_original": "Northern Ireland manager Michael O'Neill speaks to BBC Sport NI's Stephen Watson about speculation regarding Arsenal youngster Ceadach O'Neill's international future as he is named in the NI squad for their upcoming Nations League fixtures.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 21:31:59 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwm2rjzgxex4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 12:43:49 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3341,6 +3341,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リーズ激しい重い敗北にニューカッスル第三に登る",
+      "summary": "Dominic Calvert-Lewin 星としてリーズ・ユナイテッド FC で3 番目に行きますプレミアリーグ重い4-1 の敗北を侵害する優れたパフォーマンスでニューカッスル獲得を問い合わせエランド・ロード.",
+      "title_original": "Leeds inflict heavy defeat on Newcastle to climb to third",
+      "summary_original": "Dominic Calvert-Lewin stars as Leeds United go third in the Premier League with a superb performance to inflict a heavy 4-1 defeat on Newcastle United at Elland Road.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 21:31:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ニューカッスル物理的性にマッチできなかったリーズ- ジャスレ",
       "summary": "ニューカッスルマネージャーMatthias Jaissle 自分の側が4 つの目標を支配した後に「堅い夜」に反映リーズ・ユナイテッド FC 獲得を問い合わせエランド・ロード.",
       "title_original": "Newcastle couldn't match the physicality of Leeds - Jaissle",
@@ -3397,20 +3411,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ダンクスコアスクリームとしてブライトン thrash 10 人の Coventry",
-      "summary": "コベントリーの悪いスタートプレミアリーグ季節は、家で5-0 を捨てた後に続きますブライトン, 持っている後10 人の男性と2 番目の半分のほとんどを再生しましたタイウォ・アウォニイ送信するコヴェントリー・ビルディング・ソサエティ・アリーナ.",
-      "title_original": "Dunk scores screamer as Brighton thrash 10-man Coventry",
-      "summary_original": "Coventry's poor start to the Premier League season continues after they're thrashed 5-0 at home to Brighton, having played most of the second half with ten men after having Taiwo Awoniyi sent off at the CBS Arena.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cly7408jg0go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 19:00:21 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "待ち時間に20 年 - Coventry's nightmare トップフライトリターン",
       "summary": "Coventry City's 夢に戻るプレミアリーグ4 連続敗北後に解凍し始めている - しかし、缶 Frank Lampard 獲得を問い合わせ",
       "title_original": "Twenty-five years in the waiting - Coventry's nightmare top-flight return",
@@ -3439,17 +3439,31 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "クレイグ・ベラミー彼は拒否したと言うバーンリーマネージャーの仕事は、ウェールズで「正しい場所」に滞在する",
-      "summary": "「私はお金のために何かをやったことはありませんでした」と Bellamy は言います 去年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年は前年、前年、前年、前年、前年、前年は前年、前年、前年、前年、前年、前年、前年は前年、前年、前年は前年も前年、前年、前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年もクレイグ・ベラミー彼は請求する機会を拒否したと述べたバーンリーウェールズの仕事を決定した後の夏は「私にとって正しい場所」です。47 歳は、チャンピオンシップクラブを対象とするマネージャーの一人でした。Nicky Hayen. Bellamy ウェールズをリードする準備をしています Nations League、次の木曜日のポルトガルへの旅行で、拡張された間に4 つの試合の最初のインテルログイン",
-      "title_original": "Craig Bellamy says he rejected Burnley manager’s job to stay in ‘right place’ with Wales",
-      "summary_original": "‘I’ve never done anything for money,’ Bellamy says He was in intensive care last year after appendix rupture Craig Bellamy said he rejected the chance to take charge of Burnley in the summer after deciding the Wales job is “the right place for me”. The 47-year-old was among the managers targeted by the Championship club, who appointed Nicky Hayen. Bellamy is preparing to lead Wales in the Nations League, with next Thursday’s trip to Portugal the first of four matches across the extended internat",
+      "title": "From Segura マルトビー: 6 つのブレイクアウトの星から Women’s Under-20 World Cup",
+      "summary": "ショーの才能の信じられないほどの配列で、上級者までステップアップできる半数の選手を選択します。World Cup 翌年 2026 Under-20Women’s World Cup ポーランドのノックアウトステージに入り、興味あるグループステージの後、立ち寄った若い星をピックアップします。Celia Segura(スペインとバルセロナ) Segura は、アンダー-17 でスペインを銀に助けたサッカーをノックアウトする見知らぬ人ではありません World Cup2 年前に仕上げ、Bronze Ball そして、Bronze Boot",
+      "title_original": "From Segura to Maltby: six breakout stars from the Women’s Under-20 World Cup",
+      "summary_original": "With an incredible array of talent on show we select half a dozen players who could make the step up to the senior World Cup next year The 2026 Under-20 Women’s World Cup is entering the knockout stage in Poland and, after an intriguing group stage, we pick some of the young stars who have stood out. Celia Segura (Spain and Barcelona) Segura is no stranger to knockout football having helped Spain to silver at the Under-17 World Cup two years ago and finishing with the Bronze Ball and Bronze Boot",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/15/six-breakout-stars-from-the-womens-under-20-world-cup",
+      "published": "Tue, 15 Sep 2026 12:00:42 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "クレイグ・ベラミー拒否バーンリーマネージャーの仕事は、ウェールズで「正しい場所」に滞在する",
+      "summary": "「私はお金のために何かをやったことはありませんでした」と Bellamy は言います 去年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年は前年、前年、前年、前年、前年、前年は前年、前年、前年、前年、前年、前年、前年は前年、前年、前年は前年も前年、前年、前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年もクレイグ・ベラミー彼は請求する機会を拒否したと述べたバーンリーウェールズの仕事を決定した後の夏は「私にとって正しい場所」です。47 歳は、チャンピオンシップクラブを対象とするマネージャーの一人でした。Nicky Hayen. Bellamy ウェールズをリードする準備をしています Nations League、次の週木曜日にポルトガルへの旅行で、エクステンデを渡る4 つの試合の最初の",
+      "title_original": "Craig Bellamy rejected Burnley manager’s job to stay in ‘right place’ with Wales",
+      "summary_original": "‘I’ve never done anything for money,’ Bellamy says He was in intensive care last year after appendix rupture Craig Bellamy said he rejected the chance to take charge of Burnley in the summer after deciding the Wales job is “the right place for me”. The 47-year-old was among the managers targeted by the Championship club, who appointed Nicky Hayen. Bellamy is preparing to lead Wales in the Nations League, with the trip to Portugal on Thursday next week the first of four matches across the extende",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/15/craig-bellamy-rejected-burnley-manager-job-stay-wales-football",
       "published": "Tue, 15 Sep 2026 12:25:46 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3533,20 +3547,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "WSL の話ポイント:Olid は天候のユナイテッド・ストーム、アーセナル再び無駄に",
-      "summary": "マンチェスター・ユナイテッド重い家の損失の後に再グループする必要がありますチェルシーふりがなクリスタル・パレスフラストレーション Gunners The フラストレーションマンチェスター・ユナイテッドフルタイムのファンは、Leigh Sports Village5-0 を落とすチームを、ランプントで見守った後チェルシー. 心配すべきことは確かにありますが、おそらくユナイテッドの新しいマネージャーを判断する、Eva Olid、彼らが対抗する方法に基づいて Sonia Bompastor’s 確立された側面は少し前面です。可能性の",
-      "title_original": "WSL talking points: Olid must weather United storm, Arsenal wasteful again",
-      "summary_original": "Manchester United need to regroup after a heavy home loss to Chelsea while Crystal Palace frustrated the Gunners The frustration among Manchester United fans at full-time was evident at Leigh Sports Village after they had watched their team being thrashed 5-0 by a rampant Chelsea. There are certainly things to be worried about, but perhaps judging United’s new manager, Eva Olid, on the basis of how they performed against Sonia Bompastor’s established side is a little premature. The likelihood of",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/wsl-talking-points-eva-olid-manchester-united-arsenal",
-      "published": "Mon, 14 Sep 2026 11:17:59 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
