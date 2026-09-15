@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-09-15T18:26:28.238048+00:00",
+  "updated_at": "2026-09-15T18:40:54.631191+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Danny Welbeck": "",
-    "Enzo Fernández": "",
-    "Carabao Cup": "EFLカップ",
-    "Emiliano Martínez": "",
-    "Xabi Alonso’s": "",
-    "Luton. There": "",
-    "Julián Alvarez": "",
-    "Miguel Ángel Gil Marín": "",
     "Atlético Madrid’s": "",
     "Thursday. Miguel Ángel Gil": "",
     "Movistar Plus": "",
@@ -3001,7 +2993,15 @@
     "The Spin": "",
     "The Breakdown": "",
     "Millwall LIVE": "",
-    "FULL VAR": ""
+    "FULL VAR": "",
+    "Scott Murray": "",
+    "Spurs. Marli Salmon": "",
+    "The Recap": "",
+    "Ada Hegerberg": "アーダ・ヘーゲルベルグ",
+    "Magdalena Eriksson Join": "",
+    "Júlia Belas Trindade": "",
+    "Sophie Downey": "",
+    "Anita Asante": ""
   },
   "items": [
     {
@@ -3313,20 +3313,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "なぜそこにいるのかヨーロッパリーグ水曜日にマッチしますか?",
-      "summary": "BBC Sport's Ask Me どのチームが9 つの理由を説明するヨーロッパリーグ水曜日の夜に行われる試合",
-      "title_original": "Why are there Europa League matches on Wednesday?",
-      "summary_original": "BBC Sport's Ask Me Anything team explains why there are nine Europa League matches taking place on Wednesday night",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/articles/c6x2zpndv039o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:21:25 GMT",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ルールを変更することはできません」 - NI/ROI の適格性に関する O'Neill",
       "summary": "北アイルランドマネージャーMichael O'Neill 獲得を問い合わせ BBC Sport NI's Stephen ワトソンについて推測についてアーセナルヤングスターCeadach O'Neill's インテル来日予定のニ・スクワッドに名前をつけて、国民の未来 Nations League 備品。",
       "title_original": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
@@ -3397,6 +3383,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "なぜそこにいるのかヨーロッパリーグ水曜日にマッチしますか?",
+      "summary": "BBC Sport's Ask Me どのチームが9 つの理由を説明するヨーロッパリーグ水曜日の夜に行われる試合",
+      "title_original": "Why are there Europa League matches on Wednesday?",
+      "summary_original": "BBC Sport's Ask Me Anything team explains why there are nine Europa League matches taking place on Wednesday night",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/articles/c6x2zpndv039o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 09:21:25 GMT",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'Big Ludo' - 登山者になったウェストハムカルトフィギュア",
       "summary": "Ludek Miklosko, 歳で死亡した 64, とカルトフィギュアだったウェストハム1990 年、ロンドンに移住後、サポーターズに就任。",
       "title_original": "'Big Ludo' - trailblazing keeper who became West Ham cult figure",
@@ -3426,12 +3426,12 @@
     },
     {
       "title": "リヴァプール. .トッテナム: EFL カップ第三ラウンド - ライブ",
-      "summary": "⚽️ EFL カップ Anfield で 8pm BST キックオフ からのお知らせイプスウィッチ. .アーセナル– ライブ・スコアボードをフォローする | チーム全員が自分の変化のしやすさを作るために、Scott に考えを送ってくださいプレミアリーグ週末のセレクション XI から始まった唯一の生存者リヴァプール’ 0-0 Fulham で描く Ronald Araujo. He’ll 中央の防御的なペアリングを形成するために右から移動ジョー・ゴメス, 誰が彼の最新のケガレイオフから戻って.トッテナムスタートメンバー3 名",
+      "summary": "⚽️ EFL カップ Anfield で 8pm BST キックオフ からのお知らせイプスウィッチ. .アーセナル– ライブの試合をフォロー ライブスコアボード | メールでスコットにあなたの考えを送信ロベルト・デ・ゼルビスカイスポーツに話します。「私はラッキーです私は素晴らしいスクワットを持っています...多くの非常に良い選手...最初の XI を変更する、私は我々は選手の品質を変更しない願っています、私は彼らが同じレベルであることを確信しています...私は目標を見るしたいと思います...最初の30 分に対する同じ態度エヴァートン...私達はスコアに十分な質を持っています...それはです",
       "title_original": "Liverpool v Tottenham Hotspur: Carabao Cup third round – live",
-      "summary_original": "⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield ⚽️ Ipswich v Arsenal – follow it live ⚽️ Live scoreboard | Send your thoughts to Scott via email Both teams make a slew of changes from their Premier League selections at the weekend. The only survivor from the XI that started Liverpool’s 0-0 draw with Fulham is Ronald Araujo. He’ll move from right back to form a central defensive pairing with Joe Gomez, who returns from his latest injury lay-off. Spurs retain three members of their starti",
+      "summary_original": "⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield ⚽️ Ipswich v Arsenal – follow it live ⚽️ Live scoreboard | Send your thoughts to Scott via email Roberto De Zerbi speaks to Sky Sports. “I am lucky I have a great squad … many very good players … changing the first XI, I hope we don’t change the quality of the players, I am sure they are the same level … I would like to see the goals … the same attitude of the first 30 minutes against Everton … we have the qualities enough to score … it’s ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
-      "published": "Tue, 15 Sep 2026 18:10:03 GMT",
+      "published": "Tue, 15 Sep 2026 18:13:39 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3440,12 +3440,12 @@
     },
     {
       "title": "イプスウィッチ・タウン FC. .アーセナル: EFL カップ第三ラウンド - ライブ",
-      "summary": "⚽️ EFL カップニュース、8pm BST キックオフポートマン・ロード ⚽️ リヴァプール. .トッテナム– ライブの試合をフォロー ライブスコアボード | メールでタハにあなたの考えを送信 Marli Salmon, 17, 彼の第二の始まりを作るアーセナル. 彼は、コースの XI の中で最も若いではありません.Max Dowman このキャンペーンを初めて再生します。アーセナルビートする XI に9 つの変更を加えるサンダーランド- そして、形成の謎の少し。Jacob Greaves から唯一の生存者であるイプスウィッチから始まる側面 Crystal Palac",
+      "summary": "⚽️ EFL カップニュース、8pm BST キックオフポートマン・ロード ⚽️ リヴァプール. .トッテナム– ライブの試合をフォロー ライブスコアボード | メールでタハにあなたの考えを送信 Scott Murray タブをオンにするリヴァプールに対してトッテナム. マルリ・サーモン, 17, 彼の第二の始まりを作るアーセナル. 彼は、コースの XI の中で最も若いではありません.Max Dowman このキャンペーンを初めて再生します。続きを読む...",
       "title_original": "Ipswich Town v Arsenal: Carabao Cup third round – live",
-      "summary_original": "⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road ⚽️ Liverpool v Tottenham – follow it live ⚽️ Live scoreboard | Send your thoughts to Taha via email Marli Salmon, 17, makes his second start for Arsenal. He’s not the youngest in the XI, of course. Max Dowman plays for the first time this campaign. Arsenal make nine changes to the XI that beat Sunderland – and the formation’s a little bit of a mystery. Jacob Greaves is the only survivor from the Ipswich side that started against Crystal Palac",
+      "summary_original": "⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road ⚽️ Liverpool v Tottenham – follow it live ⚽️ Live scoreboard | Send your thoughts to Taha via email Scott Murray is keeping tabs on Liverpool against Spurs. Marli Salmon, 17, makes his second start for Arsenal. He’s not the youngest in the XI, of course. Max Dowman plays for the first time this campaign. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live",
-      "published": "Tue, 15 Sep 2026 18:08:33 GMT",
+      "published": "Tue, 15 Sep 2026 18:14:35 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3482,9 +3482,9 @@
     },
     {
       "title": "ラヒーム・スターリング亜酸化窒素を使用しながら、無謀な運転のために刑務所に直面することができる",
-      "summary": "Ex-England サッカー pleads guilty と admits へ 提供 標本 で 裁判所ラヒーム・スターリング危険な運転に pleaded guilty と 刑務所に送ることができる 彼の Lamborghini を運転した後、急いで 1 時間以上 過酷な酸化物を吸う. 前の投稿チェルシーそして、マンチェスター・シティドックに立って、バウンストークの magistrates 裁判所の前に3 つの料金を受け入れるために、彼は M25 で再燃運転の長期期間に埋め込まれた方法を聞くと",
+      "summary": "Ex-England サッカー pleads guilty と admits へ 提供 標本 で 裁判所ラヒーム・スターリング危険な運転に pleaded guilty と 刑務所に送ることができる 刑務所 後に 運転 彼の -Lamborghini 急な酸化物を吸う間、急いで時間に時間以上. 前の投稿チェルシーそして、マンチェスター・シティドックに立って、バウンストーク・マジストレーションズ・コートの前に3 つの料金を受け取るために、彼は M25 で再燃運転の長期期間に着目したことを聞いた。",
       "title_original": "Raheem Sterling could face prison for reckless driving while using nitrous oxide",
-      "summary_original": "Ex-England footballer pleads guilty and admits to failing to provide a specimen as he appears in court Raheem Sterling pleaded guilty to dangerous driving and could be sent to prison after driving his Lamborghini for more than an hour on motorways during rush hour while inhaling nitrous oxide. The former Chelsea and Manchester City forward stood in the dock to accept three charges before Basingstoke magistrates court heard how he embarked on a prolonged period of reckless driving on the M25 and ",
+      "summary_original": "Ex-England footballer pleads guilty and admits to failing to provide a specimen as he appears in court Raheem Sterling pleaded guilty to dangerous driving and could be sent to prison after driving his ­Lamborghini for more than an hour on motorways during rush hour while inhaling nitrous oxide. The former Chelsea and Manchester City forward stood in the dock to accept three charges before ­ Basingstoke magistrates court heard how he embarked on a ­prolonged period of reckless driving on the M25 ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/uk-news/2026/sep/15/raheem-sterling-pleads-guilty-dangerous-driving-possession-nitrous-oxide",
       "published": "Tue, 15 Sep 2026 13:39:34 GMT",
@@ -3859,9 +3859,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Larsson としてベンチを張った Bowen は最初から始まりますウェストハム対比 Fulham LIVE!",
+      "title": "ウェストハム対比 Fulham LIVE!",
       "summary": "",
-      "title_original": "Bowen benched as Larsson makes first start in West Ham vs Fulham LIVE!",
+      "title_original": "West Ham vs Fulham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/west-ham-united-vs-fulham/live/577587",
@@ -3873,9 +3873,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブルック、イングランド対火のバトラースリランカ T20 LIVE をオープン!",
+      "title": "バトラーはトップ対面でイングランドに落ちるスリランカ T20 LIVE をオープン!",
       "summary": "",
-      "title_original": "Brook, Buttler on fire for England vs Sri Lanka in opening T20 LIVE!",
+      "title_original": "Buttler falls but England on top vs Sri Lanka in opening T20 LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13586215/england-vs-sri-lanka-first-t20-live-latest-score-commentary-video-and-analysis-as-kevin-pietersen-begins-role-as-white-ball-mentor",
