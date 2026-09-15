@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-15T15:07:01.637443+00:00",
+  "updated_at": "2026-09-15T15:25:52.223054+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "PSG’s Mbaye": "",
-    "Saudi-bound Watkins": "",
     "Unai Emery": "",
     "Chelsea’s Nicolas Jackson": "",
     "Paris Saint-Germain’s Ibrahim Mbaye": "",
@@ -3001,7 +2999,9 @@
     "Wednesday Manchester United": "",
     "Brighton. Gabriel": "",
     "Wednesday. But": "",
-    "PGA Tour’s": ""
+    "PGA Tour’s": "",
+    "Dan Khan": "",
+    "England Golf": ""
   },
   "items": [
     {
@@ -3039,7 +3039,7 @@
       "summary_original": "The former England winger crashed a Lamborghini into motorway barriers in May.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 14:54:33 GMT",
+      "published": "Tue, 15 Sep 2026 15:25:09 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3873,6 +3873,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Bentley: ベンはミドル級世界タイトルショットのキューをスキップすることができます",
+      "summary": "Conor Benn ミドルウェイトでアクションに戻ると、別の世界タイトルショットを得ることができます。",
+      "title_original": "Bentley: Benn can 'skip the queue' for middleweight world title shot",
+      "summary_original": "Conor Benn could get another world title shot if he returns to action at middleweight.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13586217/conor-benn-comeback-wbo-champion-denzel-bentley-says-conor-benn-can-skip-the-queue-for-middleweight-world-title-shot",
+      "published": "Tue, 15 Sep 2026 15:22:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "スターリングはランボルギーニを危険なモーターウェイのクラッシュの先を運転することを認めます",
       "summary": "イングランドのサッカー選手ラヒーム・スターリング高速道路でランボルギーニを運転する危険を認められています。",
       "title_original": "Sterling admits driving Lamborghini dangerously ahead of motorway crash",
@@ -3957,6 +3971,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "説明: なぜ 15 歳 代 JJ Gabriel 休暇をしたいマンチェスター・ユナイテッド",
+      "summary": "Dan Khan15 歳のプロディジーで私たちを更新 JJ Gabriel 休暇の決定マンチェスター・ユナイテッド.",
+      "title_original": "Explained: Why 15-year-old prodigy JJ Gabriel wants to leave Man Utd",
+      "summary_original": "Dan Khan updates us on 15-year-old prodigy JJ Gabriel decision to leave Manchester United.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13586221/15-year-old-prodigy-jj-gabriel-has-asked-to-leave-manchester-united",
+      "published": "Tue, 15 Sep 2026 15:46:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "McIlroy: 気にしない PGA Tour 資格基準",
       "summary": "ローリー・マキロイ影響について不明である PGA Tour’s 改良された競争構造のための新しい会員の基準はに持つことができますヨーロピアンツアープレイヤーがカードを獲得したいアメリカ合衆国回路。",
       "title_original": "McIlroy: I’m not worried by new PGA Tour qualification criteria",
@@ -3964,6 +3992,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13586082/rory-mcilroy-plays-down-concerns-for-dp-world-tour-players-over-pga-tour-qualifying-criteria",
       "published": "Tue, 15 Sep 2026 14:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "政府は、ホストにイングランドのために新鮮なプッシュをバックアップするよう求め Solheim Cup",
+      "summary": "England Golf プッシュをリイニットし、Solheim Cup2030 年版の入札を支持するために、イギリスに政府を強制的に支援しています。",
+      "title_original": "Government urged to back fresh push for England to host Solheim Cup",
+      "summary_original": "England Golf have reignited their push to bring the Solheim Cup to England and are urging the government for financial backing to support a bid for the 2030 edition.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13586085/solheim-cup-england-golf-makes-fresh-call-for-government-support-to-bring-2030-edition-to-england-for-first-time",
+      "published": "Tue, 15 Sep 2026 16:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4080,48 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Britain's Lindblad パス駆動理論テスト",
-      "summary": "",
-      "title_original": "Britain's Lindblad passes driving theory test",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
-      "published": "Tue, 15 Sep 2026 10:13:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Mahomes は、Broncos を過ぎたチーフスブラシとしてビジネスに戻って",
-      "summary": "ハイライトデンバー・ブロンコス獲得を問い合わせ Kansas City Chiefs 獲得を問い合わせ NFL.",
-      "title_original": "Mahomes back in business as Chiefs brush past Broncos",
-      "summary_original": "Highlights of Denver Broncos at the Kansas City Chiefs in the NFL.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13586033/denver-broncos-kansas-city-chiefs-nfl-highlights",
-      "published": "Tue, 15 Sep 2026 07:44:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ラフム:LIV ゴルフ変更は許可できますヨーロピアンツアー「何かの強さに」",
-      "summary": "",
-      "title_original": "Rahm: LIV Golf changes can allow DP World Tour to 'gain some strength'",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13586094/bmw-pga-championship-latest-updates-news-highlights-with-rory-mcilroy-jon-rahm-in-dp-world-tour-action-at-wentworth",
-      "published": "Tue, 15 Sep 2026 11:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
