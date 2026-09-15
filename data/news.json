@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-15T12:30:27.416799+00:00",
+  "updated_at": "2026-09-15T12:47:20.280384+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Nico O'Reilly": "",
     "Arsenal's Olivia Smith": "",
     "Joao Pedro": "",
     "Alvaro Arbeloa's Fulham": "",
@@ -3001,7 +3000,8 @@
     "Chris Brady": "",
     "Chicago Fire": "",
     "Diego Kochen": "",
-    "Think Middlesbrough": ""
+    "Think Middlesbrough": "",
+    "Nicky Hayen. Bellamy": ""
   },
   "items": [
     {
@@ -3033,30 +3033,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アシュフォードが最初のウェールズのコールアップを獲得するロドンは、",
-      "summary": "クレイグ・ベラミー初めてのコールアップを Cardiff City 獲得 Cian Ashford 獲得を問い合わせ Wales' Nations League キャンペーンではなく、キーの擁護者なしでジョー・ロドン.",
-      "title_original": "Rodon absent as Ashford earns first Wales call-up",
-      "summary_original": "Craig Bellamy hands a first call-up to Cardiff City forward Cian Ashford for Wales' Nations League A campaign but is without key defender Joe Rodon.",
+      "title": "Bellamy 'committed' へ ウェールズ 後にバーンリーインタビュー",
+      "summary": "クレイグ・ベラミー彼はクラブフットボールに戻り、ウェールズを続行する彼の欲求を再評価するチャンスを下げる「快適」だったと言う.",
+      "title_original": "Bellamy 'committed' to Wales after Burnley talks",
+      "summary_original": "Craig Bellamy says he was \"comfortable\" turning down the chance to return to club football and reiterated his desire to continue with Wales.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c615877d389no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:30:13 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck5yw2pnqd40o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 12:24:53 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "O'Neill と Graham は、NI のスクワッドで場所を保持します。",
-      "summary": "プレミアリーグティーンエイジャーズ Ceadach O'Neill そして、Braiden Graham 自分の場所を北アイルランドの は、今後 Nations League 四倍のヘッダー。",
-      "title_original": "O'Neill and Graham retain places in NI squad",
-      "summary_original": "Premier League teenagers Ceadach O'Neill and Braiden Graham keep their places in Northern Ireland's squad for the upcoming Nations League quadruple-header.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqz2x9kleo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 10:13:04 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3072,6 +3058,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "O'Neill と Graham は、NI のスクワッドで場所を保持します。",
+      "summary": "プレミアリーグティーンエイジャーズ Ceadach O'Neill そして、Braiden Graham 自分の場所を北アイルランドの は、今後 Nations League 四倍のヘッダー。",
+      "title_original": "O'Neill and Graham retain places in NI squad",
+      "summary_original": "Premier League teenagers Ceadach O'Neill and Braiden Graham keep their places in Northern Ireland's squad for the upcoming Nations League quadruple-header.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqz2x9kleo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 10:13:04 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3117,6 +3117,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アシュフォードが最初のウェールズのコールアップを獲得するロドンは、",
+      "summary": "クレイグ・ベラミー初めてのコールアップを Cardiff City 獲得 Cian Ashford 獲得を問い合わせ Wales' Nations League キャンペーンではなく、キーの擁護者なしでジョー・ロドン.",
+      "title_original": "Rodon absent as Ashford earns first Wales call-up",
+      "summary_original": "Craig Bellamy hands a first call-up to Cardiff City forward Cian Ashford for Wales' Nations League A campaign but is without key defender Joe Rodon.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c615877d389no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 09:30:13 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Coutinho、サントスでネマールに参加し、シーズン休息",
       "summary": "前の投稿リヴァプールそして、バルセロナ Midfielder 参加 ブラジル サイド Santos から 彼の boyhood クラブ Vasco da Gama.",
       "title_original": "Coutinho joins Neymar at Santos for rest of season",
@@ -3128,20 +3142,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'Unplayable' & 'almost Perfect' - Calvert-Lewin はイングランドのリコールのためにセット?",
-      "summary": "Dominic Calvert-Lewin で得たリーズ' 過去5 人のホームリーグの試合。イギリスのリコールの準備はできましたか?",
-      "title_original": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
-      "summary_original": "Dominic Calvert-Lewin has now scored in Leeds' past five home league matches. Is he ready for an England recall?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 22:56:28 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3187,16 +3187,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "です。プレミアリーグすでに2 チーム優勝争い?",
-      "summary": "4 つのゲームは、誰がいるか、または誰について話しているまで遅すぎる優勝争い・・・? BBC について スポーツは、すでに2 馬のレースであるかどうか尋ねます。",
-      "title_original": "Is the Premier League already a two-team title race?",
-      "summary_original": "Four games is far too soon to be talking about who is in or out of the title race... isn't it? BBC Sport asks if this is already a two-horse race.",
+      "title": "'Unplayable' & 'almost Perfect' - Calvert-Lewin はイングランドのリコールのためにセット?",
+      "summary": "Dominic Calvert-Lewin で得たリーズ' 過去5 人のホームリーグの試合。イギリスのリコールの準備はできましたか?",
+      "title_original": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
+      "summary_original": "Dominic Calvert-Lewin has now scored in Leeds' past five home league matches. Is he ready for an England recall?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqwyzxx96wnwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 14:48:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 22:56:28 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3239,6 +3239,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "です。プレミアリーグすでに2 チーム優勝争い?",
+      "summary": "4 つのゲームは、誰がいるか、または誰について話しているまで遅すぎる優勝争い・・・? BBC について スポーツは、すでに2 馬のレースであるかどうか尋ねます。",
+      "title_original": "Is the Premier League already a two-team title race?",
+      "summary_original": "Four games is far too soon to be talking about who is in or out of the title race... isn't it? BBC Sport asks if this is already a two-horse race.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqwyzxx96wnwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 14:48:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3309,20 +3323,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "McInnes は一体性と強度を両立するオールドファームゴブスキ",
-      "summary": "BBC Scotland's チーフスポーツライターTom English ソリューションレンジャーズ「説得力のある」オールドファーム勝上勝利セルティック Ibrox で。",
-      "title_original": "McInnes delivers togetherness & intensity in Old Firm gobsmacker",
-      "summary_original": "BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing Old Firm victory over Celtic at Ibrox.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj06e0mg40qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 16:08:09 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3439,31 +3439,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "獲得を問い合わせマンチェスター・ユナイテッド早くも貧しいプレミアリーグテーブルは提案しますか。",
-      "summary": "マイケル・キャリックの side は4 つのゲームの後のテーブルの13th ですが、都市の緩和は、いくつかの領域は注意を必要としますマンチェスター・ユナイテッドは13 日ですプレミアリーグ, 自分の最初の4 ゲームから4 ポイントを取った: 2-0 敗北ハル、対に対する5-2 勝利イプスウィッチ, 2-2 で描くエヴァートンと 1-0 で敗北マンチェスター・シティ獲得を問い合わせ Sunday. Mitigation 都市の逆については、ダービーで3 日後に来ることができますチャンピオンズリーグ木曜日にサバに勝つ, と Enzo Maresca’s ツイート",
-      "title_original": "Are Manchester United as poor as the early Premier League table suggests?",
-      "summary_original": "Michael Carrick’s side are 13th in the table after four games but, City mitigation aside, several areas need attention Manchester United are 13th in the Premier League, having taken four points from their first four games: a 2-0 defeat at Hull, 5-2 win against Ipswich, 2-2 draw at Everton and the 1-0 defeat by Manchester City on Sunday. Mitigation regarding the City reverse can be found in the derby coming three days after the Champions League win against Sabah on Thursday, with Enzo Maresca’s s",
+      "title": "クレイグ・ベラミー彼は拒否したと言うバーンリーマネージャーの仕事は、ウェールズで「正しい場所」に滞在する",
+      "summary": "「私はお金のために何かをやったことはありませんでした」と Bellamy は言います 去年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年は前年、前年、前年、前年、前年、前年は前年、前年、前年、前年、前年、前年、前年は前年、前年、前年は前年も前年、前年、前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年もクレイグ・ベラミー彼は請求する機会を拒否したと述べたバーンリーウェールズの仕事を決定した後の夏は「私にとって正しい場所」です。47 歳は、チャンピオンシップクラブを対象とするマネージャーの一人でした。Nicky Hayen. Bellamy ウェールズをリードする準備をしています Nations League、次の木曜日のポルトガルへの旅行で、拡張された間に4 つの試合の最初のインテルログイン",
+      "title_original": "Craig Bellamy says he rejected Burnley manager’s job to stay in ‘right place’ with Wales",
+      "summary_original": "‘I’ve never done anything for money,’ Bellamy says He was in intensive care last year after appendix rupture Craig Bellamy said he rejected the chance to take charge of Burnley in the summer after deciding the Wales job is “the right place for me”. The 47-year-old was among the managers targeted by the Championship club, who appointed Nicky Hayen. Bellamy is preparing to lead Wales in the Nations League, with next Thursday’s trip to Portugal the first of four matches across the extended internat",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-premier-league-analysis",
-      "published": "Tue, 15 Sep 2026 07:00:28 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
+      "url": "https://www.theguardian.com/football/2026/sep/15/craig-bellamy-rejected-burnley-manager-job-stay-wales-football",
+      "published": "Tue, 15 Sep 2026 12:25:46 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Calvert-Lewin は、リーズスラッシュリムニューカッスルそして3 分の3 に上がります",
-      "summary": "どんなステージで良いスタートがより重要なものになるのでしょうか? 多分私達はまだそこにないです; 多分私達はあります。しかし、その目標がチャオティックな夜に漂うようにエランド・ロード, 期待の限界を考えることは難しかったリーズ潜在的に再描画された。夏を過ぎるアクションに近づいてほしいリーズそして、この季節を彩る特別な素材の可能性があったと感じました。自分の足を見つけたプレミアリーグ最後のキャンペーンで、t",
-      "title_original": "Calvert-Lewin shows the way as Leeds thrash limp Newcastle and rise to third",
-      "summary_original": "At what stage does a good start become something more significant? Perhaps we are not quite there yet; maybe we are. But as the goals flew in on a chaotic night at Elland Road, it was difficult not to think the boundaries of expectation for Leeds were potentially being redrawn. Ask those close to the action over the summer at Leeds and the feeling was that there was a possibility of something special materialising this season. Having found their feet in the Premier League in the last campaign, t",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/leeds-newcastle-premier-league-match-report",
-      "published": "Mon, 14 Sep 2026 21:07:08 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3481,31 +3467,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヨーロッパのフットボール:インテル Udinese 5-3 を打ち負かすローマトップへ戻る",
-      "summary": "インテルそして、ローマリードセリエ A, コモは3 分の3 まで移動しますレアル・ベティスビートの struggling ビジャレアル獲得を問い合わせラ・リーガ インテル fought バック から2 ゴール月曜日に Udinese 5-3 を打つためにダウン, 彼らのパーフェクトを維持セリエ A スタートローマ土曜日の試合前に Torino で2-0 を獲得した者。両サイドには、4 つのマッチから12 点のポイントがあり、遭遇前にトップスポットを共有しています。Stadio Olimpico コモがパルマ2-1 を打つ10 ポイントで3 分のところにある間。ユディアン・センテンドインテル t で",
-      "title_original": "European football: Inter roar back to beat Udinese 5-3 and join Roma at top",
-      "summary_original": "Inter and Roma lead Serie A, Como move up to third Real Betis beat struggling Villarreal in La Liga Inter fought back ⁠from two goals down ​to beat Udinese 5-3 on Monday, maintaining their perfect Serie A start alongside Roma , who won 2-0 at Torino before Saturday’s match between ⁠the joint leaders. Both sides have 12 points from four matches and share top spot before their encounter at the Stadio Olimpico, while Como are third on 10 points ⁠after beating Parma 2-1. Udinese stunned Inter with t",
+      "title": "獲得を問い合わせマンチェスター・ユナイテッド早くも貧しいプレミアリーグテーブルは提案しますか。",
+      "summary": "マイケル・キャリックの side は4 つのゲームの後のテーブルの13th ですが、都市の緩和は、いくつかの領域は注意を必要としますマンチェスター・ユナイテッドは13 日ですプレミアリーグ, 自分の最初の4 ゲームから4 ポイントを取った: 2-0 敗北ハル、対に対する5-2 勝利イプスウィッチ, 2-2 で描くエヴァートンと 1-0 で敗北マンチェスター・シティ獲得を問い合わせ Sunday. Mitigation 都市の逆については、ダービーで3 日後に来ることができますチャンピオンズリーグ木曜日にサバに勝つ, と Enzo Maresca’s ツイート",
+      "title_original": "Are Manchester United as poor as the early Premier League table suggests?",
+      "summary_original": "Michael Carrick’s side are 13th in the table after four games but, City mitigation aside, several areas need attention Manchester United are 13th in the Premier League, having taken four points from their first four games: a 2-0 defeat at Hull, 5-2 win against Ipswich, 2-2 draw at Everton and the 1-0 defeat by Manchester City on Sunday. Mitigation regarding the City reverse can be found in the derby coming three days after the Champions League win against Sabah on Thursday, with Enzo Maresca’s s",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/european-football-inter-and-roma-maintain-perfect-starts-while-como-climb",
-      "published": "Mon, 14 Sep 2026 22:08:01 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
+      "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-premier-league-analysis",
+      "published": "Tue, 15 Sep 2026 07:00:28 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハーランドゴールは立っていませんが、VAR は正しい呼び出しをしましたサンダーランドペナルティ |Chris Foy",
-      "summary": "Matt Donohue 人間だけであり、間違いを犯しましたが、一般的には、この時期によく見習いが始まりました。マンチェスターのダービーで大きな決定に残念な結果があり、誰もビデオアシスタントのレフリーよりもそれを感じることはありませんでした。Matt Donohue. On Sunday 夜,Pro Ref ドノウが間違いを犯したことを確認アーリング・ハーランド都市の1-0 勝利でゴールエンソ・フェルナンデスオフサイドポジションにありました。VAR がこのような決定を検討するとき、それらはフロを開始します",
-      "title_original": "Haaland goal should not have stood but VAR made the right call with Sunderland penalty | Chris Foy",
-      "summary_original": "Matt Donohue is only human and made a mistake, but, in general, referees have started well this season There was a disappointing outcome on a big decision in the Manchester derby and no one will feel it more than the video assistant referee, Matt Donohue. On Sunday night, Pro Ref confirmed that Donohue had made a mistake in allowing Erling Haaland’s goal in City’s 1-0 victory to stand when Enzo Fernández had been in an offside position. When a VAR considers a decision such as this they start fro",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/var-referee-matt-donohue-erling-haaland-goal-manchester-derby",
-      "published": "Mon, 14 Sep 2026 19:00:14 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3537,6 +3509,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Calvert-Lewin は、リーズスラッシュリムニューカッスルそして3 分の3 に上がります",
+      "summary": "どんなステージで良いスタートがより重要なものになるのでしょうか? 多分私達はまだそこにないです; 多分私達はあります。しかし、その目標がチャオティックな夜に漂うようにエランド・ロード, 期待の限界を考えることは難しかったリーズ潜在的に再描画された。夏を過ぎるアクションに近づいてほしいリーズそして、この季節を彩る特別な素材の可能性があったと感じました。自分の足を見つけたプレミアリーグ最後のキャンペーンで、t",
+      "title_original": "Calvert-Lewin shows the way as Leeds thrash limp Newcastle and rise to third",
+      "summary_original": "At what stage does a good start become something more significant? Perhaps we are not quite there yet; maybe we are. But as the goals flew in on a chaotic night at Elland Road, it was difficult not to think the boundaries of expectation for Leeds were potentially being redrawn. Ask those close to the action over the summer at Leeds and the feeling was that there was a possibility of something special materialising this season. Having found their feet in the Premier League in the last campaign, t",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/leeds-newcastle-premier-league-match-report",
+      "published": "Mon, 14 Sep 2026 21:07:08 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ヨーロッパのフットボール:インテル Udinese 5-3 を打ち負かすローマトップへ戻る",
+      "summary": "インテルそして、ローマリードセリエ A, コモは3 分の3 まで移動しますレアル・ベティスビートの struggling ビジャレアル獲得を問い合わせラ・リーガ インテル fought バック から2 ゴール月曜日に Udinese 5-3 を打つためにダウン, 彼らのパーフェクトを維持セリエ A スタートローマ土曜日の試合前に Torino で2-0 を獲得した者。両サイドには、4 つのマッチから12 点のポイントがあり、遭遇前にトップスポットを共有しています。Stadio Olimpico コモがパルマ2-1 を打つ10 ポイントで3 分のところにある間。ユディアン・センテンドインテル t で",
+      "title_original": "European football: Inter roar back to beat Udinese 5-3 and join Roma at top",
+      "summary_original": "Inter and Roma lead Serie A, Como move up to third Real Betis beat struggling Villarreal in La Liga Inter fought back ⁠from two goals down ​to beat Udinese 5-3 on Monday, maintaining their perfect Serie A start alongside Roma , who won 2-0 at Torino before Saturday’s match between ⁠the joint leaders. Both sides have 12 points from four matches and share top spot before their encounter at the Stadio Olimpico, while Como are third on 10 points ⁠after beating Parma 2-1. Udinese stunned Inter with t",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/european-football-inter-and-roma-maintain-perfect-starts-while-como-climb",
+      "published": "Mon, 14 Sep 2026 22:08:01 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "WSL の話ポイント:Olid は天候のユナイテッド・ストーム、アーセナル再び無駄に",
       "summary": "マンチェスター・ユナイテッド重い家の損失の後に再グループする必要がありますチェルシーふりがなクリスタル・パレスフラストレーション Gunners The フラストレーションマンチェスター・ユナイテッドフルタイムのファンは、Leigh Sports Village5-0 を落とすチームを、ランプントで見守った後チェルシー. 心配すべきことは確かにありますが、おそらくユナイテッドの新しいマネージャーを判断する、Eva Olid、彼らが対抗する方法に基づいて Sonia Bompastor’s 確立された側面は少し前面です。可能性の",
       "title_original": "WSL talking points: Olid must weather United storm, Arsenal wasteful again",
@@ -3548,6 +3548,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハーランドゴールは立っていませんが、VAR は正しい呼び出しをしましたサンダーランドペナルティ |Chris Foy",
+      "summary": "Matt Donohue 人間だけであり、間違いを犯しましたが、一般的には、この時期によく見習いが始まりました。マンチェスターのダービーで大きな決定に残念な結果があり、誰もビデオアシスタントのレフリーよりもそれを感じることはありませんでした。Matt Donohue. On Sunday 夜,Pro Ref ドノウが間違いを犯したことを確認アーリング・ハーランド都市の1-0 勝利でゴールエンソ・フェルナンデスオフサイドポジションにありました。VAR がこのような決定を検討するとき、それらはフロを開始します",
+      "title_original": "Haaland goal should not have stood but VAR made the right call with Sunderland penalty | Chris Foy",
+      "summary_original": "Matt Donohue is only human and made a mistake, but, in general, referees have started well this season There was a disappointing outcome on a big decision in the Manchester derby and no one will feel it more than the video assistant referee, Matt Donohue. On Sunday night, Pro Ref confirmed that Donohue had made a mistake in allowing Erling Haaland’s goal in City’s 1-0 victory to stand when Enzo Fernández had been in an offside position. When a VAR considers a decision such as this they start fro",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/var-referee-matt-donohue-erling-haaland-goal-manchester-derby",
+      "published": "Mon, 14 Sep 2026 19:00:14 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3575,20 +3589,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Polanski が最初の管理者の犠牲者ブンデスリーガグラダバッハが再び失敗する季節 |Andy Brassell",
-      "summary": "Freiburg で敗北した後のヘッドコーチの出発点は、第2 階に他の倒れた巨人に参加できるクラブを合計します。この初期のステージでも、沈没感が馴染み、揺れがちでなかったり、何かはあきらめなければならない Borussia Mönchengladbach. The はじめてブンデスリーガ今シーズンのコーチング変更は3 つのゲームだけなので、大したことはない。オイゲン・ポランスキ出発。ネザーは、グラダバッハが関与するショックです。結局、それはまさに",
-      "title_original": "Polanski the first managerial victim of Bundesliga season as Gladbach fail again | Andy Brassell",
-      "summary_original": "Departure of head coach after defeat at Freiburg sums up club that could join other fallen giants in second tier It could not go on. Even at this early stage the sinking feeling was familiar and impossible to shake, and something had to give at Borussia Mönchengladbach. The first Bundesliga coaching change of the season is upon us just three games in, and it is not a major surprise that it is Eugen Polanski departing. Neither is it a shock that Gladbach are involved; after all, it was at exactly",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/borussia-monchengladbach-eugen-polanski-bundesliga",
-      "published": "Mon, 14 Sep 2026 13:03:47 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
