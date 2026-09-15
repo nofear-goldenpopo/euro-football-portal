@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-15T19:24:06.141861+00:00",
+  "updated_at": "2026-09-15T19:37:26.016959+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Villa. Yet": "",
-    "Première Ligue": "フランス女子サッカーリーグ",
-    "Bayern Munich’s": "",
     "Andy Brassell": "",
     "The Franz Beckenbauer Supercup": "",
     "The Bundesliga’s": "",
@@ -3001,7 +2998,10 @@
     "Allan Castle": "",
     "British-born Canadian": "",
     "Theakston’s Old Peculier": "",
-    "Mayank Agarwal": ""
+    "Mayank Agarwal": "",
+    "Azteca Stadium": "エスタディオ・アステカ",
+    "Classy Palacios": "",
+    "West Ham LIVE": ""
   },
   "items": [
     {
@@ -3061,6 +3061,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "メキシコで勝った後、ツッチェルはアステカの泥炭を食べていない",
+      "summary": "トーマス・トゥヘル後悔は、草のいかなる食べないエスタディオ・アステカイングランドの叙事詩の後 World Cup メキシコに勝つ。",
+      "title_original": "Tuchel regrets not eating Azteca turf after win over Mexico",
+      "summary_original": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 19:25:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "適格性規則「特に公正ではありません」 - O'Neill",
       "summary": "北アイルランドマネージャーMichael O'Neill ルールに関する最も多くを上回っていると言うインテル国民の適格性は若年プレーヤーに不当な選択をする圧力です。",
       "title_original": "Eligibility rules 'not particularly fair' - O'Neill",
@@ -3071,20 +3085,6 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トッテナム' Richarlison 投稿 泣いて emoji 後に 残っているリヴァプールタイ",
-      "summary": "Richarlison は、ロバート・デ・ツェルビの決定で彼の不快感を一般に表現しています。トッテナムの は火曜日の EFL カップネクタイ対リヴァプール.",
-      "title_original": "Spurs' Richarlison posts crying emoji after being left out of Liverpool tie",
-      "summary_original": "Richarlison publicly expresses his displeasure at Roberto de Zerbi's decision to leave him out of Tottenham's squad for Tuesday's Carabao Cup tie against Liverpool.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6errl1p6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:12:53 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3187,13 +3187,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Madueke a、for Euro loans - Tuesday's gossip を獲得候補に",
-      "summary": "アトレティコ・マドリードそして、ユヴェントストラックノニ・マドゥエケ, リヴァプール注目のクラブ PSV ポール・ワンナーラツィオ自由な代理店を考慮して下さいマウロ・イカルディ、プラス多く。",
-      "title_original": "Madueke a target for Euro loans - Tuesday's gossip",
-      "summary_original": "Atletico Madrid and Juventus track Noni Madueke, Liverpool are among the clubs looking at PSV's Paul Wanner, Lazio consider free agent Mauro Icardi, plus more.",
+      "title": "トッテナム' Richarlison 投稿 泣いて emoji 後に 残っているリヴァプールタイ",
+      "summary": "Richarlison は、ロバート・デ・ツェルビの決定で彼の不快感を一般に表現しています。トッテナムの は火曜日の EFL カップネクタイ対リヴァプール.",
+      "title_original": "Spurs' Richarlison posts crying emoji after being left out of Liverpool tie",
+      "summary_original": "Richarlison publicly expresses his displeasure at Roberto de Zerbi's decision to leave him out of Tottenham's squad for Tuesday's Carabao Cup tie against Liverpool.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg0dvv4drko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 22:44:24 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6errl1p6o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 09:12:53 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3212,6 +3212,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Madueke a、for Euro loans - Tuesday's gossip を獲得候補に",
+      "summary": "アトレティコ・マドリードそして、ユヴェントストラックノニ・マドゥエケ, リヴァプール注目のクラブ PSV ポール・ワンナーラツィオ自由な代理店を考慮して下さいマウロ・イカルディ、プラス多く。",
+      "title_original": "Madueke a target for Euro loans - Tuesday's gossip",
+      "summary_original": "Atletico Madrid and Juventus track Noni Madueke, Liverpool are among the clubs looking at PSV's Paul Wanner, Lazio consider free agent Mauro Icardi, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg0dvv4drko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 22:44:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3285,20 +3299,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ホストへのカーディフ 2029 女性チャンピオンズリーグファイナル",
-      "summary": "Uefa は、今後の決勝の予定数を確認しました。Cardiff's Principality Stadium2029 人の女性をホストするチャンピオンズリーグ決勝",
-      "title_original": "Cardiff to host 2029 women's Champions League final",
-      "summary_original": "Uefa have confirmed a number of host appointments for upcoming finals, with Cardiff's Principality Stadium set to host the 2029 women's Champions League final.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmrer2j8lnr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 10:25:32 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ルールを変更することはできません」 - NI/ROI の適格性に関する O'Neill",
       "summary": "北アイルランドマネージャーMichael O'Neill 獲得を問い合わせ BBC Sport NI's Stephen ワトソンについて推測についてアーセナルヤングスターCeadach O'Neill's インテル来日予定のニ・スクワッドに名前をつけて、国民の未来 Nations League 備品。",
       "title_original": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
@@ -3369,6 +3369,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ホストへのカーディフ 2029 女性チャンピオンズリーグファイナル",
+      "summary": "Uefa は、今後の決勝の予定数を確認しました。Cardiff's Principality Stadium2029 人の女性をホストするチャンピオンズリーグ決勝",
+      "title_original": "Cardiff to host 2029 women's Champions League final",
+      "summary_original": "Uefa have confirmed a number of host appointments for upcoming finals, with Cardiff's Principality Stadium set to host the 2029 women's Champions League final.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrer2j8lnr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 10:25:32 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "です。プレミアリーグすでに2 チーム優勝争い?",
       "summary": "4 つのゲームは、誰がいるか、または誰について話しているまで遅すぎる優勝争い・・・? BBC について スポーツは、すでに2 馬のレースであるかどうか尋ねます。",
       "title_original": "Is the Premier League already a two-team title race?",
@@ -3411,27 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ダービー・VAR の公式のための週末のゲーム無し",
-      "summary": "マンチェスター・ダービーのビデオアシスタント・レフリー、Matt Donohue と彼のアシスタント VAR、Blake Antrobus, は、この週末のために任命されていませんプレミアリーグゲーム。",
-      "title_original": "No weekend game for Manchester derby VAR officials",
-      "summary_original": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 17:02:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "リヴァプール. .トッテナム: EFL カップ第三ラウンド - ライブ",
       "summary": "⚽️ EFL カップ Anfield で 8pm BST キックオフ からのお知らせイプスウィッチ. .アーセナル– ライブの試合をフォロー ライブスコアボード | 思いを Scott に電子メールで送信 1 分: Mamardashvili の彼の足で分布についていくつかの懸念がありました...そして、彼は最初のパス、プレーから左に Kerkez に向かって簡単な1 を強調しています。まつげに見えます。しかし、実際の害はありません。速い爆発の後で You’ll Never Walk Alone, トッテナム球の圧延を得て下さい。彼らはキックしている",
       "title_original": "Liverpool v Tottenham Hotspur: Carabao Cup third round – live",
       "summary_original": "⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield ⚽️ Ipswich v Arsenal – follow it live ⚽️ Live scoreboard | Send your thoughts to Scott via email 1 min: There have been a few concerns about Mamardashvili’s distribution with his feet … and he whistles his first pass, a simple one towards Kerkez on the left, out of play. He looks suitably sheepish. No real harm done, though. After a quick blast of You’ll Never Walk Alone, Tottenham Hotspur get the ball rolling. They’re kicking towards the ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
-      "published": "Tue, 15 Sep 2026 19:08:43 GMT",
+      "published": "Tue, 15 Sep 2026 19:25:15 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3445,7 +3445,7 @@
       "summary_original": "⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road ⚽️ Liverpool v Tottenham – follow it live ⚽️ Live scoreboard | Send your thoughts to Taha via email Allan Castle writes in: As a British-born Canadian, who has shuttled back and forth over the Atlantic for six decades, when I get back to England I seek out cherished beverages past and present that are unavailable or only sporadically found in Canada: orange squash, ginger beer, Theakston’s Old Peculier, real bitter, etc. What is Carabao? What",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live",
-      "published": "Tue, 15 Sep 2026 19:10:10 GMT",
+      "published": "Tue, 15 Sep 2026 19:24:15 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3859,9 +3859,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウェストハムすぐにイコライズ対 Fulham LIVE!",
+      "title": "Classy PalaciosFulham のリード対復元ウェストハムライブ!",
       "summary": "",
-      "title_original": "West Ham equalise immediately vs Fulham LIVE!",
+      "title_original": "Classy Palacios restores Fulham's lead vs West Ham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/west-ham-united-vs-fulham/live/577587",
