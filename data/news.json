@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-15T14:27:08.353980+00:00",
+  "updated_at": "2026-09-15T14:39:58.952307+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "England. Cherki": "",
-    "Allianz Arena Paris Saint-Germain": "",
-    "Hákon Haraldsson": "",
-    "Lucy Bronze": "",
     "Chelsea’s Jackson": "",
     "PSG’s Mbaye": "",
     "Saudi-bound Watkins": "",
@@ -3001,7 +2997,11 @@
     "Danny McGrain": "ダニー・マクグレイン",
     "With Leeds United": "",
     "Lamborghini Urus": "",
-    "May. Continue": ""
+    "May. Continue": "",
+    "Enzo Maresca": "エンツォ・マレスカ",
+    "Wednesday Manchester United": "",
+    "Brighton. Gabriel": "",
+    "Wednesday. But": ""
   },
   "items": [
     {
@@ -3039,7 +3039,7 @@
       "summary_original": "The former England winger crashed a Lamborghini into motorway barriers in May.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 13:45:12 GMT",
+      "published": "Tue, 15 Sep 2026 14:32:09 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3425,10 +3425,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ラヒーム・スターリング耳鳴りの酸化物の危険な運転そして保有への pleads の guilty",
-      "summary": "Ex-England のサッカー選手はまた、彼が Basingstoke magistrates 裁判所で表示されるように標本を提供することに失敗することを認めます 元イングランドのサッカー選手ラヒーム・スターリング高速道路でランボルギーニを運転する危険を認められています。火曜日にベースストークの magistrates 裁判所でスターリングの pleaded guilty を運転 Lamborghini Urus 危険な M25、M3、A327、28 でクラッシュする前に May. Continue 読書...",
+      "title": "ラヒーム・スターリング危険な運転と酸化窒素の所持への pleads guilty",
+      "summary": "Ex-England のサッカー選手はまた、彼が Basingstoke magistrates 裁判所で表示されるように標本を提供することに失敗することを認めます 元イングランドのサッカー選手ラヒーム・スターリング高速道路でランボルギーニを運転する危険を認められています。火曜日にベースストークの magistrates 裁判所でスターリングの pleaded guilty を運転 Lamborghini UrusM25、M3、および A327 で28 でクラッシュする前に危険な May. Continue 読書...",
       "title_original": "Raheem Sterling pleads guilty to dangerous driving and possession of nitrous oxide",
-      "summary_original": "Ex-England footballer also admits to failing to provide a specimen as he appears at Basingstoke magistrates court The former England footballer Raheem Sterling has admitted dangerously driving a Lamborghini on the motorway. Sterling pleaded guilty at Basingstoke magistrates court on Tuesday to driving a Lamborghini Urus dangerously on the M25, the M3, the A327 before he crashed on 28 May. Continue reading...",
+      "summary_original": "Ex-England footballer also admits to failing to provide a specimen as he appears at Basingstoke magistrates court The former England footballer Raheem Sterling has admitted dangerously driving a Lamborghini on the motorway. Sterling pleaded guilty at Basingstoke magistrates court on Tuesday to driving a Lamborghini Urus dangerously on the M25, the M3 and the A327 before he crashed on 28 May. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/uk-news/2026/sep/15/raheem-sterling-pleads-guilty-dangerous-driving-possession-nitrous-oxide",
       "published": "Tue, 15 Sep 2026 13:39:34 GMT",
@@ -3436,6 +3436,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド才能ある若年者として衝撃的 JJ Gabriel 退去を求める",
+      "summary": "15 歳で登録をキャンセルしたい 彼が直面するチームでいたブライトン水曜日マンチェスター・ユナイテッド才能ある15 歳のニュースで混乱し、ショックを受けました JJ Gabriel 初めてのチームチームに顔をつけてもらうために、クラブを離れるよう求めたブライトン. ガブリエルは、ユナイテッドの最も若い選手になる可能性が EFL カップ3 ラウンドタイオールド・トラッフォード獲得を問い合わせ Wednesday. But ガーディアンはガブリエルが登録を依頼したことを理解しています",
+      "title_original": "Manchester United shocked as talented youngster JJ Gabriel asks to leave",
+      "summary_original": "15-year-old wants his registration to be cancelled He was to be in squad to face Brighton on Wednesday Manchester United have been left confused and shocked by the news that the talented 15-year-old JJ Gabriel has asked to leave the club, a day before he was to be included in the first-team squad to face Brighton. Gabriel could have become United’s youngest player in the Carabao Cup third-round tie at Old Trafford on Wednesday. But the Guardian understands Gabriel has asked for his registration ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave",
+      "published": "Tue, 15 Sep 2026 14:18:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3449,6 +3463,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "クレイグ・ベラミー拒否バーンリーマネージャーの仕事は、ウェールズで「正しい場所」に滞在する",
+      "summary": "「私はお金のために何かをやったことはありませんでした」と Bellamy は言います 去年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年は前年、前年、前年、前年、前年、前年は前年、前年、前年、前年、前年、前年、前年は前年、前年、前年は前年も前年、前年、前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年もクレイグ・ベラミー彼は請求する機会を拒否したと述べたバーンリーウェールズの仕事を決定した後の夏は「私にとって正しい場所」です。47 歳は、チャンピオンシップクラブを対象とするマネージャーの一人でした。Nicky Hayen. Bellamy ウェールズをリードする準備をしています Nations League、次の週木曜日にポルトガルへの旅行で、エクステンデを渡る4 つの試合の最初の",
+      "title_original": "Craig Bellamy rejected Burnley manager’s job to stay in ‘right place’ with Wales",
+      "summary_original": "‘I’ve never done anything for money,’ Bellamy says He was in intensive care last year after appendix rupture Craig Bellamy said he rejected the chance to take charge of Burnley in the summer after deciding the Wales job is “the right place for me”. The 47-year-old was among the managers targeted by the Championship club, who appointed Nicky Hayen. Bellamy is preparing to lead Wales in the Nations League, with the trip to Portugal on Thursday next week the first of four matches across the extende",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/15/craig-bellamy-rejected-burnley-manager-job-stay-wales-football",
+      "published": "Tue, 15 Sep 2026 12:25:46 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3467,20 +3495,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "クレイグ・ベラミー拒否バーンリーマネージャーの仕事は、ウェールズで「正しい場所」に滞在する",
-      "summary": "「私はお金のために何かをやったことはありませんでした」と Bellamy は言います 去年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年は前年、前年、前年、前年、前年、前年は前年、前年、前年、前年、前年、前年、前年は前年、前年、前年は前年も前年、前年、前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年もクレイグ・ベラミー彼は請求する機会を拒否したと述べたバーンリーウェールズの仕事を決定した後の夏は「私にとって正しい場所」です。47 歳は、チャンピオンシップクラブを対象とするマネージャーの一人でした。Nicky Hayen. Bellamy ウェールズをリードする準備をしています Nations League、次の週木曜日にポルトガルへの旅行で、エクステンデを渡る4 つの試合の最初の",
-      "title_original": "Craig Bellamy rejected Burnley manager’s job to stay in ‘right place’ with Wales",
-      "summary_original": "‘I’ve never done anything for money,’ Bellamy says He was in intensive care last year after appendix rupture Craig Bellamy said he rejected the chance to take charge of Burnley in the summer after deciding the Wales job is “the right place for me”. The 47-year-old was among the managers targeted by the Championship club, who appointed Nicky Hayen. Bellamy is preparing to lead Wales in the Nations League, with the trip to Portugal on Thursday next week the first of four matches across the extende",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/craig-bellamy-rejected-burnley-manager-job-stay-wales-football",
-      "published": "Tue, 15 Sep 2026 12:25:46 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "How Promise David マルテス・シャドウから出現プレミアリーグ",
       "summary": "元チームメイトとコーチがブライトン’s summer 獲得, 誰がカナダに感銘を受けました World Cup Promise David5 年間の計画をした。彼は目標のバッグを獲得し、2026 年にカナダでトップヨーロッパリーグに移籍し、カナダでプレーするだろう World Cup. There 彼の両親、チームメイト、コーチとは別に、サッカーの誰も彼の名前を知っているように見えなかった。2023 年で、ストライカーは分裂しました Estonia’s Meistriliiga– ストリーミング ser 十分な小さなリーグ",
       "title_original": "How Promise David emerged from Maltese shadows into the Premier League",
@@ -3495,20 +3509,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "獲得を問い合わせマンチェスター・ユナイテッド早くも貧しいプレミアリーグテーブルは提案しますか。",
-      "summary": "マイケル・キャリックの side は4 つのゲームの後のテーブルの13th ですが、都市の緩和は、いくつかの領域は注意を必要としますマンチェスター・ユナイテッドは13 日ですプレミアリーグ, 自分の最初の4 ゲームから4 ポイントを取った: 2-0 敗北ハル、対に対する5-2 勝利イプスウィッチ, 2-2 で描くエヴァートンと 1-0 で敗北マンチェスター・シティ獲得を問い合わせ Sunday. Mitigation 都市の逆については、ダービーで3 日後に来ることができますチャンピオンズリーグ木曜日にサバに勝つ, と Enzo Maresca’s ツイート",
-      "title_original": "Are Manchester United as poor as the early Premier League table suggests?",
-      "summary_original": "Michael Carrick’s side are 13th in the table after four games but, City mitigation aside, several areas need attention Manchester United are 13th in the Premier League, having taken four points from their first four games: a 2-0 defeat at Hull, 5-2 win against Ipswich, 2-2 draw at Everton and the 1-0 defeat by Manchester City on Sunday. Mitigation regarding the City reverse can be found in the derby coming three days after the Champions League win against Sabah on Thursday, with Enzo Maresca’s s",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-premier-league-analysis",
-      "published": "Tue, 15 Sep 2026 07:00:28 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "De Zerbi バックス ‘ 敏感な男’ ソランケ トリッキーアンフィールドトリップの前にフォームを見つける",
       "summary": "トッテナムアクセスリヴァプール獲得を問い合わせ EFL カップ第三ラウンドリファリソンは、資格があるにもかかわらず、一部を再生しません Roberto De Zerbi 間違いなしドミニク・ソランケ頭のコーチが明確にできたので、彼の最高のレベルを再発見し、彼は問題を解決するために、使命で無石を残さなかったトッテナム’ s の目的の対処問題.トッテナムアクセスリヴァプール獲得を問い合わせ EFL カップ火曜日 後 0-0 ホーム 引く とエヴァートン獲得を問い合わせプレミアリーグ土曜日、彼らは競争の4 つの試合でネットを見つけていない。トッテン",
       "title_original": "De Zerbi backs ‘sensitive guy’ Solanke to find form before tricky Anfield trip",
@@ -3516,6 +3516,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/14/roberto-de-zerbi-dominic-solanke-tottenham-liverpool-anfield-carabao-cup",
       "published": "Mon, 14 Sep 2026 21:30:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Andoni Iraola インフォメーションリヴァプールシステムの作業をもっと進める",
+      "summary": "ヘッドコーチは、フォワードを主張します プレスを改善する必要があります 変更 フロント可能性が高い EFL カップネクタイ対トッテナムアンドーニ・イラオラは、リヴァプール’ は、Fulham に対するチーム ’ s の刺激的なディスプレイを移籍します。, 主張する、彼らは彼のシステムの仕事を作るためにより多くの与える必要があります。. ヘッドコーチは、彼のチームに「一歩後方」を目標に引き継ぎました Saturday. His 中央ミッドフィールドペアリング Ryan Gravenberch そして、Dominik Szoboszlai 彼らのフルハムのカウンターパートを含むのに苦労, w",
+      "title_original": "Andoni Iraola tells Liverpool forwards they must do more to make his system work",
+      "summary_original": "Head coach insists forwards need to improve pressing Changes up front likely for Carabao Cup tie against Spurs Andoni Iraola has shifted the focus on to Liverpool’s forwards for the team’s uninspiring display against Fulham , insisting they need to give more to make his system work. The head coach admitted his team took “a step backwards” with their goalless draw on Saturday. His central midfield pairing of Ryan Gravenberch and Dominik Szoboszlai struggled to contain their Fulham counterparts, w",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/andoni-iraola-says-liverpool-took-a-step-backwards-in-draw-against-fulham",
+      "published": "Mon, 14 Sep 2026 15:55:52 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3537,16 +3551,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヨーロッパのフットボール:インテル Udinese 5-3 を打ち負かすローマトップへ戻る",
-      "summary": "インテルそして、ローマリードセリエ A, コモは3 分の3 まで移動しますレアル・ベティスビートの struggling ビジャレアル獲得を問い合わせラ・リーガ インテル fought バック から2 ゴール月曜日に Udinese 5-3 を打つためにダウン, 彼らのパーフェクトを維持セリエ A スタートローマ土曜日の試合前に Torino で2-0 を獲得した者。両サイドには、4 つのマッチから12 点のポイントがあり、遭遇前にトップスポットを共有しています。Stadio Olimpico コモがパルマ2-1 を打つ10 ポイントで3 分のところにある間。ユディアン・センテンドインテル t で",
-      "title_original": "European football: Inter roar back to beat Udinese 5-3 and join Roma at top",
-      "summary_original": "Inter and Roma lead Serie A, Como move up to third Real Betis beat struggling Villarreal in La Liga Inter fought back ⁠from two goals down ​to beat Udinese 5-3 on Monday, maintaining their perfect Serie A start alongside Roma , who won 2-0 at Torino before Saturday’s match between ⁠the joint leaders. Both sides have 12 points from four matches and share top spot before their encounter at the Stadio Olimpico, while Como are third on 10 points ⁠after beating Parma 2-1. Udinese stunned Inter with t",
+      "title": "獲得を問い合わせマンチェスター・ユナイテッド早くも貧しいプレミアリーグテーブルは提案しますか。",
+      "summary": "マイケル・キャリックの side は4 つのゲームの後のテーブルの13th ですが、都市の緩和は、いくつかの領域は注意を必要としますマンチェスター・ユナイテッドは13 日ですプレミアリーグ, 自分の最初の4 ゲームから4 ポイントを取った: 2-0 敗北ハル、対に対する5-2 勝利イプスウィッチ, 2-2 で描くエヴァートンと 1-0 で敗北マンチェスター・シティ獲得を問い合わせ Sunday. Mitigation 都市の逆については、ダービーで3 日後に来ることができますチャンピオンズリーグ木曜日にサバに勝つ, と Enzo Maresca’s ツイート",
+      "title_original": "Are Manchester United as poor as the early Premier League table suggests?",
+      "summary_original": "Michael Carrick’s side are 13th in the table after four games but, City mitigation aside, several areas need attention Manchester United are 13th in the Premier League, having taken four points from their first four games: a 2-0 defeat at Hull, 5-2 win against Ipswich, 2-2 draw at Everton and the 1-0 defeat by Manchester City on Sunday. Mitigation regarding the City reverse can be found in the derby coming three days after the Champions League win against Sabah on Thursday, with Enzo Maresca’s s",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/european-football-inter-and-roma-maintain-perfect-starts-while-como-climb",
-      "published": "Mon, 14 Sep 2026 22:08:01 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
+      "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-premier-league-analysis",
+      "published": "Tue, 15 Sep 2026 07:00:28 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3575,20 +3589,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「非常に弱い」。非常に悪いです’: ロドリの評論家が不正なバレンシアの危機を暴露する方法 |Sid Lowe",
-      "summary": "The World Cup 勝者のオフ・ザ・カフ・アセスメントは、本当に正直でした。マネージャーと CEO が経ちましたが、問題はより深くなります Kiat Lim バレンシアが悪くプレイしてみたかったので、彼は何をしたかです。週4 回ラ・リーガ, 6 9 月, そして、初めて、彼は優先権を与えたので、18 ヶ月前の月, 所有者の 33 歳 息子は、彼のチームは、競争ゲームを果たしている彼のチームを見るつもりだった. 中からやって行くつもりだったので、彼はスペインにフライトを乗ったので、",
-      "title_original": "‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe",
-      "summary_original": "The World Cup winner’s off-the-cuff assessment was brutally honest. Within days their manager and CEO were gone, but the problems run much deeper Kiat Lim wanted to see Valencia play so badly, so that is what he did. It was week four in La Liga, 6 September, and for the first time since he was given the presidency 18 months earlier, the owner’s 33-year-old son was going to watch his team play a competitive game. He was going to do it from the inside, too, so he took a flight to Spain, landing at",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/valencia-rodri-carlos-corberan-la-liga",
-      "published": "Mon, 14 Sep 2026 16:10:10 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3663,17 +3663,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Football Daily| 新品・新品の VAR を介したもうひとつの犬の朝食 Pro Ref",
-      "summary": "今すぐ登録! 今すぐ登録! 今すぐサインアップ 今すぐ登録!Keys. Phone. Wallet. What 獲得を問い合わせ 私たちが紹介した人の名前。車を駐車しました。私たちが必要とする錫の食料品を思い出させるために書いたショッピングリスト。歩いている犬。たくさんの傘。ご宿泊中のホテル名 誕生日の盛り合わせ お部屋に歩いている理由 あなたの散布されたもののリスト Football Daily 驚くべき周波数を忘れてしまったので、私たちは本物です",
-      "title_original": "Football Daily | Another dog’s breakfast over VAR for the new and rebranded Pro Ref",
-      "summary_original": "Sign up now! Sign up now! Sign up now? Sign up now! Keys. Phone. Wallet. What day it is. The names of people to whom we’ve just been introduced. Where we parked the car. The shopping list we wrote to remind us what Tin groceries we need. The dog we’re supposed to be walking. Dozens of umbrellas. The name of the hotel we’re staying in. Assorted birthdays. Why we walked into a room. The list of things your scatterbrained Football Daily forgets with alarming frequency is so long that we’re genuinel",
+      "title": "ヨーロッパのフットボール:インテル Udinese 5-3 を打ち負かすローマトップへ戻る",
+      "summary": "インテルそして、ローマリードセリエ A, コモは3 分の3 まで移動しますレアル・ベティスビートの struggling ビジャレアル獲得を問い合わせラ・リーガ インテル fought バック から2 ゴール月曜日に Udinese 5-3 を打つためにダウン, 彼らのパーフェクトを維持セリエ A スタートローマ土曜日の試合前に Torino で2-0 を獲得した者。両サイドには、4 つのマッチから12 点のポイントがあり、遭遇前にトップスポットを共有しています。Stadio Olimpico コモがパルマ2-1 を打つ10 ポイントで3 分のところにある間。ユディアン・センテンドインテル t で",
+      "title_original": "European football: Inter roar back to beat Udinese 5-3 and join Roma at top",
+      "summary_original": "Inter and Roma lead Serie A, Como move up to third Real Betis beat struggling Villarreal in La Liga Inter fought back ⁠from two goals down ​to beat Udinese 5-3 on Monday, maintaining their perfect Serie A start alongside Roma , who won 2-0 at Torino before Saturday’s match between ⁠the joint leaders. Both sides have 12 points from four matches and share top spot before their encounter at the Stadio Olimpico, while Como are third on 10 points ⁠after beating Parma 2-1. Udinese stunned Inter with t",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/football-daily-var-dogs-breakfast",
-      "published": "Mon, 14 Sep 2026 14:38:02 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.theguardian.com/football/2026/sep/14/european-football-inter-and-roma-maintain-perfect-starts-while-como-climb",
+      "published": "Mon, 14 Sep 2026 22:08:01 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
