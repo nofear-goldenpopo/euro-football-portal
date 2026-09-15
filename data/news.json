@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-15T20:06:49.591691+00:00",
+  "updated_at": "2026-09-15T20:24:53.684238+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "The Franz Beckenbauer Supercup": "",
-    "The Bundesliga’s": "",
-    "Borussia Do": "",
-    "World Cup": "",
-    "Jan Paul": "",
     "Marcos Senesi": "",
     "De Zerbi. Continue": "",
     "Leander Schaerlaeckens": "",
@@ -3001,7 +2996,12 @@
     "Azteca Stadium": "エスタディオ・アステカ",
     "Classy Palacios": "",
     "West Ham LIVE": "",
-    "Première Ligue": "フランス女子サッカーリーグ"
+    "Première Ligue": "フランス女子サッカーリーグ",
+    "Jarrad Branthwaite": "ジャラッド・ブランスウェイト",
+    "Louisville’s Savannah DeMelo": "",
+    "UofL Health": "",
+    "Racing Louisville": "",
+    "Savannah DeMelo": ""
   },
   "items": [
     {
@@ -3117,6 +3117,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "バルセロナ、Kane & Haaland - Wednesday's gossip を獲得候補に",
+      "summary": "バルセロナ監視しているハリー・ケインそして、アーリング・ハーランド, Nick WoltemadeKane の交換はバイエルン・ミュンヘンとマンチェスター・ユナイテッド獲得を問い合わせインテル ested でジャラッド・ブランスウェイト、プラス多く。",
+      "title_original": "Barcelona monitor Kane & Haaland - Wednesday's gossip",
+      "summary_original": "Barcelona are monitoring Harry Kane and Erling Haaland, Nick Woltemade could be a replacement for Kane at Bayern Munich, and Manchester United are interested in Jarrad Branthwaite, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqzezjn3wzjpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 20:19:31 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "スコットランドのスクワッドでマクバーニーと7 人のアンキャップ選手",
       "summary": "ハル・シティ AFC 獲得オリヴァー・マクバーニー5 年ぶりにスコットランドのスクワッドに呼び出され、7 人のアンキャップが新しいヘッドコーチを作るセバスチャン・ポコニョーリ'最初の選択。",
       "title_original": "McBurnie & seven uncapped players in Scotland squad",
@@ -3187,20 +3201,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナム' Richarlison 投稿 泣いて emoji 後に 残っているリヴァプールタイ",
-      "summary": "Richarlison は、ロバート・デ・ツェルビの決定で彼の不快感を一般に表現しています。トッテナムの は火曜日の EFL カップネクタイ対リヴァプール.",
-      "title_original": "Spurs' Richarlison posts crying emoji after being left out of Liverpool tie",
-      "summary_original": "Richarlison publicly expresses his displeasure at Roberto de Zerbi's decision to leave him out of Tottenham's squad for Tuesday's Carabao Cup tie against Liverpool.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6errl1p6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:12:53 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "トロイさんを作った人プレミアリーグ週のチーム?",
       "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
       "title_original": "Who has made Troy's Premier League team of the week?",
@@ -3215,13 +3215,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Madueke a、for Euro loans - Tuesday's gossip を獲得候補に",
-      "summary": "アトレティコ・マドリードそして、ユヴェントストラックノニ・マドゥエケ, リヴァプール注目のクラブ PSV ポール・ワンナーラツィオ自由な代理店を考慮して下さいマウロ・イカルディ、プラス多く。",
-      "title_original": "Madueke a target for Euro loans - Tuesday's gossip",
-      "summary_original": "Atletico Madrid and Juventus track Noni Madueke, Liverpool are among the clubs looking at PSV's Paul Wanner, Lazio consider free agent Mauro Icardi, plus more.",
+      "title": "トッテナム' Richarlison 投稿 泣いて emoji 後に 残っているリヴァプールタイ",
+      "summary": "Richarlison は、ロバート・デ・ツェルビの決定で彼の不快感を一般に表現しています。トッテナムの は火曜日の EFL カップネクタイ対リヴァプール.",
+      "title_original": "Spurs' Richarlison posts crying emoji after being left out of Liverpool tie",
+      "summary_original": "Richarlison publicly expresses his displeasure at Roberto de Zerbi's decision to leave him out of Tottenham's squad for Tuesday's Carabao Cup tie against Liverpool.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg0dvv4drko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 22:44:24 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6errl1p6o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 09:12:53 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3267,6 +3267,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ホストへのカーディフ 2029 女性チャンピオンズリーグファイナル",
+      "summary": "Uefa は、今後の決勝の予定数を確認しました。Cardiff's Principality Stadium2029 人の女性をホストするチャンピオンズリーグ決勝",
+      "title_original": "Cardiff to host 2029 women's Champions League final",
+      "summary_original": "Uefa have confirmed a number of host appointments for upcoming finals, with Cardiff's Principality Stadium set to host the 2029 women's Champions League final.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrer2j8lnr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 10:25:32 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3355,20 +3369,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ホストへのカーディフ 2029 女性チャンピオンズリーグファイナル",
-      "summary": "Uefa は、今後の決勝の予定数を確認しました。Cardiff's Principality Stadium2029 人の女性をホストするチャンピオンズリーグ決勝",
-      "title_original": "Cardiff to host 2029 women's Champions League final",
-      "summary_original": "Uefa have confirmed a number of host appointments for upcoming finals, with Cardiff's Principality Stadium set to host the 2029 women's Champions League final.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmrer2j8lnr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 10:25:32 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "暗闇の中で左 - ライブ VAR オーディオを聴くためにファンは、します?",
       "summary": "VAR は10 歳近くで、まだゲームはまだサポート者にオーディオライブを放送する許可されている長い方法です。",
       "title_original": "Left in the dark - will fans ever get to hear live VAR audio?",
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield ⚽️ Ipswich v Arsenal – follow it live ⚽️ Live scoreboard | Send your thoughts to Scott via email 1 min: There have been a few concerns about Mamardashvili’s distribution with his feet … and he whistles his first pass, a simple one towards Kerkez on the left, out of play. He looks suitably sheepish. No real harm done, though. After a quick blast of You’ll Never Walk Alone, Tottenham Hotspur get the ball rolling. They’re kicking towards the ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
-      "published": "Tue, 15 Sep 2026 19:54:57 GMT",
+      "published": "Tue, 15 Sep 2026 20:15:16 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3445,7 +3445,7 @@
       "summary_original": "⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road ⚽️ Liverpool v Tottenham – follow it live ⚽️ Live scoreboard | Send your thoughts to Taha via email Allan Castle writes in: As a British-born Canadian, who has shuttled back and forth over the Atlantic for six decades, when I get back to England I seek out cherished beverages past and present that are unavailable or only sporadically found in Canada: orange squash, ginger beer, Theakston’s Old Peculier, real bitter, etc. What is Carabao? What",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live",
-      "published": "Tue, 15 Sep 2026 19:53:49 GMT",
+      "published": "Tue, 15 Sep 2026 20:12:38 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3523,16 +3523,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "クレイグ・ベラミー拒否バーンリーマネージャーの仕事は、ウェールズで「正しい場所」に滞在する",
-      "summary": "「私はお金のために何かをやったことはありませんでした」と Bellamy は言います 去年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年は前年、前年、前年、前年、前年、前年は前年、前年、前年、前年、前年、前年、前年は前年、前年、前年は前年も前年、前年、前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年もクレイグ・ベラミー彼は請求する機会を拒否したと述べたバーンリーウェールズの仕事を決定した後の夏は「私にとって正しい場所」です。47 歳は、チャンピオンシップクラブを対象とするマネージャーの一人でした。Nicky Hayen. Bellamy ウェールズをリードする準備をしています Nations League、次の週木曜日にポルトガルへの旅行で、エクステンデを渡る4 つの試合の最初の",
-      "title_original": "Craig Bellamy rejected Burnley manager’s job to stay in ‘right place’ with Wales",
-      "summary_original": "‘I’ve never done anything for money,’ Bellamy says He was in intensive care last year after appendix rupture Craig Bellamy said he rejected the chance to take charge of Burnley in the summer after deciding the Wales job is “the right place for me”. The 47-year-old was among the managers targeted by the Championship club, who appointed Nicky Hayen. Bellamy is preparing to lead Wales in the Nations League, with the trip to Portugal on Thursday next week the first of four matches across the extende",
+      "title": "Louisville’s Savannah DeMelo ゲーム中に心臓の逮捕後のチームドクターを訴える",
+      "summary": "ミッドフィルダーサフィーレッドカード去年のルイビルが低下する真心停止中ゲーム UofL Health としてメディカルチェックパートナーRacing Louisville ミッドフィルダーSavannah DeMelo 訴訟の提出 UofL Health そしてそれらが疑わしい前に、きちんと心の状態を診断するのに失敗した後に無視のための医者を2 つ示しましたレッドカード2025 年9 月14 日、NWSL ゲームの最初のハーフで iac 逮捕。苦情のスクリーンショットによると、, ファイリングクレームは、UofL Health「合理的に行動する」",
+      "title_original": "Louisville’s Savannah DeMelo sues team doctors after cardiac arrest during game",
+      "summary_original": "Midfielder suffered cardiac arrest mid-game last year Louisville will drop UofL Health as medical partner Racing Louisville midfielder Savannah DeMelo has filed a lawsuit against UofL Health and two named physicians for negligence after they allegedly failed to properly diagnose a heart condition before she suffered cardiac arrest in the first half of an NWSL game on 14 September 2025. According to an screenshot of the complaint, the filing claims that UofL Health “failed to act as a reasonably ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/craig-bellamy-rejected-burnley-manager-job-stay-wales-football",
-      "published": "Tue, 15 Sep 2026 12:25:46 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "url": "https://www.theguardian.com/football/2026/sep/15/savannah-demelo-lawsuit-racing-louisville",
+      "published": "Tue, 15 Sep 2026 20:00:52 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3635,6 +3635,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "クレイグ・ベラミー拒否バーンリーマネージャーの仕事は、ウェールズで「正しい場所」に滞在する",
+      "summary": "「私はお金のために何かをやったことはありませんでした」と Bellamy は言います 去年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年、前年は前年、前年、前年、前年、前年、前年は前年、前年、前年、前年、前年、前年、前年は前年、前年、前年は前年も前年、前年、前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年も前年もクレイグ・ベラミー彼は請求する機会を拒否したと述べたバーンリーウェールズの仕事を決定した後の夏は「私にとって正しい場所」です。47 歳は、チャンピオンシップクラブを対象とするマネージャーの一人でした。Nicky Hayen. Bellamy ウェールズをリードする準備をしています Nations League、次の週木曜日にポルトガルへの旅行で、エクステンデを渡る4 つの試合の最初の",
+      "title_original": "Craig Bellamy rejected Burnley manager’s job to stay in ‘right place’ with Wales",
+      "summary_original": "‘I’ve never done anything for money,’ Bellamy says He was in intensive care last year after appendix rupture Craig Bellamy said he rejected the chance to take charge of Burnley in the summer after deciding the Wales job is “the right place for me”. The 47-year-old was among the managers targeted by the Championship club, who appointed Nicky Hayen. Bellamy is preparing to lead Wales in the Nations League, with the trip to Portugal on Thursday next week the first of four matches across the extende",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/15/craig-bellamy-rejected-burnley-manager-job-stay-wales-football",
+      "published": "Tue, 15 Sep 2026 12:25:46 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "USMNT のロスター予測:大きなチャンス Cavan Sullivan そして他の若い見通し",
       "summary": "ザ・オブ・ザ・アメリカ合衆国次へ World Cup サイクルは今週のスクワッドセレクションで進行します – ここでは、カットパブロを作ると思います:Matt Turner (ニューイングランド・レボリューション), Brian Schwake (Nashville SC), Chris Brady (Chicago Fire), Diego Kochen(Lyngby) 続きを読む...",
       "title_original": "USMNT roster prediction: a big chance for Cavan Sullivan and other young prospects",
@@ -3688,20 +3702,6 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "クリスティアーノ・ロナウド生涯禁止の呼び出し Saudi Pro League アフターDiogo Jota チャント",
-      "summary": "Al-Hilal’s Rúben Neves チャントの被写体 Al-Taawoun Neves 葬儀でホタとパラーの親友クリスティアーノ・ロナウド彼の元チームメイトを指すために出演したファンは言った Diogo Jota 獲得を問い合わせ Rúben Neves サウジアラビアの期間中 Pro League サッカースタジアムからの生活のために、試合を禁止する必要があります。Al-Taawoun と Neves の側面、Bullaydah の Al-Hilal の間の備品の間に土曜日にチャントが発生した、サウジアラビア. 続きを読む...",
-      "title_original": "Cristiano Ronaldo calls for lifetime bans in Saudi Pro League after Diogo Jota chants",
-      "summary_original": "Al-Hilal’s Rúben Neves subjected to chants at Al-Taawoun Neves was close friend of Jota and pallbearer at funeral Cristiano Ronaldo said that fans who appeared to ⁠make chants referencing his former teammate Diogo Jota at Rúben Neves during a Saudi ⁠Pro League ⁠match ​should be banned for life from football stadiums. The chants occurred on Saturday during ⁠a fixture between Al-Taawoun and Neves’s side, Al-Hilal, in Buraydah, Saudi Arabia. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/cristiano-ronaldo-diogo-jota-ruben-neves-chants-saudi-pro-league",
-      "published": "Sun, 13 Sep 2026 14:52:54 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,9 +3845,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Mac Allister 火災リヴァプール正面からトッテナムライブ!",
+      "title": "Gakpo ダブルスリヴァプールの に対するリードトッテナムライブ!",
       "summary": "",
-      "title_original": "Mac Allister fires Liverpool in front against Tottenham LIVE!",
+      "title_original": "Gakpo doubles Liverpool's lead against Tottenham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-tottenham-hotspur/live/577579",
@@ -4097,9 +4097,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Dowman と Madueke 与えるアーセナル2 ゴールリードイプスウィッチライブ!",
+      "title": "ドウマンが再びスコアアーセナルクルージングイプスウィッチライブ!",
       "summary": "",
-      "title_original": "Dowman and Madueke give Arsenal two-goal lead at Ipswich LIVE!",
+      "title_original": "Dowman scores again with Arsenal cruising at Ipswich LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/ipswich-town-vs-arsenal/live/577577",
