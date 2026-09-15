@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T07:09:17.533020+00:00",
+  "updated_at": "2026-09-15T07:28:47.999503+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "PSG's Barcola": "",
@@ -2996,7 +2996,10 @@
     "Eastern Festival": "",
     "Kenneth Walker III": "",
     "Denver Broncos": "デンバー・ブロンコス",
-    "Will Iraola's": ""
+    "Will Iraola's": "",
+    "Are Manchester United": "",
+    "Sunday. Mitigation": "",
+    "Enzo Maresca’s": ""
   },
   "items": [
     {
@@ -3420,6 +3423,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "獲得を問い合わせマンチェスター・ユナイテッド早くも貧しいプレミアリーグテーブルは提案しますか。",
+      "summary": "マイケル・キャリックの side は4 つのゲームの後のテーブルの13th ですが、都市の緩和は、いくつかの領域は注意を必要としますマンチェスター・ユナイテッドは13 日ですプレミアリーグ, 自分の最初の4 ゲームから4 ポイントを取った: 2-0 敗北ハル、対に対する5-2 勝利イプスウィッチ, 2-2 で描くエヴァートンと 1-0 で敗北マンチェスター・シティ獲得を問い合わせ Sunday. Mitigation 都市の逆については、ダービーで3 日後に来ることができますチャンピオンズリーグ木曜日にサバに勝つ, と Enzo Maresca’s ツイート",
+      "title_original": "Are Manchester United as poor as the early Premier League table suggests?",
+      "summary_original": "Michael Carrick’s side are 13th in the table after four games but, City mitigation aside, several areas need attention Manchester United are 13th in the Premier League, having taken four points from their first four games: a 2-0 defeat at Hull, 5-2 win against Ipswich, 2-2 draw at Everton and the 1-0 defeat by Manchester City on Sunday. Mitigation regarding the City reverse can be found in the derby coming three days after the Champions League win against Sabah on Thursday, with Enzo Maresca’s s",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-premier-league-analysis",
+      "published": "Tue, 15 Sep 2026 07:00:28 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Calvert-Lewin は、リーズスラッシュリムニューカッスルそして3 分の3 に上がります",
       "summary": "どんなステージで良いスタートがより重要なものになるのでしょうか? 多分私達はまだそこにないです; 多分私達はあります。しかし、その目標がチャオティックな夜に漂うようにエランド・ロード, 期待の限界を考えることは難しかったリーズ潜在的に再描画された。夏を過ぎるアクションに近づいてほしいリーズそして、この季節を彩る特別な素材の可能性があったと感じました。自分の足を見つけたプレミアリーグ最後のキャンペーンで、t",
       "title_original": "Calvert-Lewin shows the way as Leeds thrash limp Newcastle and rise to third",
@@ -3431,6 +3448,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ヨーロッパのフットボール:インテル Udinese 5-3 を打ち負かすローマトップへ戻る",
+      "summary": "インテルそして、ローマリードセリエ A, コモは3 分の3 まで移動しますレアル・ベティスビートの struggling ビジャレアル獲得を問い合わせラ・リーガ インテル fought バック から2 ゴール月曜日に Udinese 5-3 を打つためにダウン, 彼らのパーフェクトを維持セリエ A スタートローマ土曜日の試合前に Torino で2-0 を獲得した者。両サイドには、4 つのマッチから12 点のポイントがあり、遭遇前にトップスポットを共有しています。Stadio Olimpico コモがパルマ2-1 を打つ10 ポイントで3 分のところにある間。ユディアン・センテンドインテル t で",
+      "title_original": "European football: Inter roar back to beat Udinese 5-3 and join Roma at top",
+      "summary_original": "Inter and Roma lead Serie A, Como move up to third Real Betis beat struggling Villarreal in La Liga Inter fought back ⁠from two goals down ​to beat Udinese 5-3 on Monday, maintaining their perfect Serie A start alongside Roma , who won 2-0 at Torino before Saturday’s match between ⁠the joint leaders. Both sides have 12 points from four matches and share top spot before their encounter at the Stadio Olimpico, while Como are third on 10 points ⁠after beating Parma 2-1. Udinese stunned Inter with t",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/european-football-inter-and-roma-maintain-perfect-starts-while-como-climb",
+      "published": "Mon, 14 Sep 2026 22:08:01 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3459,20 +3490,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ヨーロッパのフットボール:インテル Udinese 5-3 を打ち負かすローマトップへ戻る",
-      "summary": "インテルそして、ローマリードセリエ A, コモは3 分の3 まで移動しますレアル・ベティスビートの struggling ビジャレアル獲得を問い合わせラ・リーガ インテル fought バック から2 ゴール月曜日に Udinese 5-3 を打つためにダウン, 彼らのパーフェクトを維持セリエ A スタートローマ土曜日の試合前に Torino で2-0 を獲得した者。両サイドには、4 つのマッチから12 点のポイントがあり、遭遇前にトップスポットを共有しています。Stadio Olimpico コモがパルマ2-1 を打つ10 ポイントで3 分のところにある間。ユディアン・センテンドインテル t で",
-      "title_original": "European football: Inter roar back to beat Udinese 5-3 and join Roma at top",
-      "summary_original": "Inter and Roma lead Serie A, Como move up to third Real Betis beat struggling Villarreal in La Liga Inter fought back ⁠from two goals down ​to beat Udinese 5-3 on Monday, maintaining their perfect Serie A start alongside Roma , who won 2-0 at Torino before Saturday’s match between ⁠the joint leaders. Both sides have 12 points from four matches and share top spot before their encounter at the Stadio Olimpico, while Como are third on 10 points ⁠after beating Parma 2-1. Udinese stunned Inter with t",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/european-football-inter-and-roma-maintain-perfect-starts-while-como-climb",
-      "published": "Mon, 14 Sep 2026 22:08:01 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3514,20 +3531,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "パリ・サンジェルマンついにゲームを勝ち取ったリーグ・アン– しかし、彼らは説得力から遠くだった",
-      "summary": "Ferran Torres 彼の新しいチームメイトのほとんどがフォームのフロデニングで彼の新しいクラブのために素晴らしいされています By Get French Football News It フリッカーでした。Ferran Torres ボールをピックアップし、それを渡す João Neves. The Portugal ミッドフィルダーはそれにそれを再生しますウスマン・デンベレ, 誰 持っています lured で Raphaël Le Guen そして、メジメリック・ファーストタイムのバックヒールをパスに除去する Torres. The Brest 防衛は、トレーニングドリルでちょうどコーンです, ちょうどスパニアルグライドバックイントとして、芸術のこの作業で余分",
-      "title_original": "PSG have finally won a game in Ligue 1 – but they were far from convincing",
-      "summary_original": "Ferran Torres has been brilliant for his new club with most of his new teammates floundering for form By Get French Football News It was just a flicker. Ferran Torres picks the ball up and passes it to João Neves. The Portugal midfielder plays it into Ousmane Dembélé, who has lured in Raphaël Le Guen and eliminates him with a mesmeric first-time back-heel into the path of Torres. The Brest defence are just cones in a training drill, mere extras in this work of art as the Spaniard glides back int",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/psg-won-game-ligue-1-convincing-ferran-torres",
-      "published": "Mon, 14 Sep 2026 11:35:28 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3854,6 +3857,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Mahomes は、Broncos を過ぎたチーフスブラシとしてビジネスに戻って",
+      "summary": "ハイライトデンバー・ブロンコス獲得を問い合わせ Kansas City Chiefs 獲得を問い合わせ NFL.",
+      "title_original": "Mahomes back in business as Chiefs brush past Broncos",
+      "summary_original": "Highlights of Denver Broncos at the Kansas City Chiefs in the NFL.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13586033/denver-broncos-kansas-city-chiefs-nfl-highlights",
+      "published": "Tue, 15 Sep 2026 07:44:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Mahomes は Broncos の過去のチーフ・ストームとして勝ち返ります",
       "summary": "Kenneth Walker III173 ヤードのランと2 つのタッチダウンを同時に獲得 Patrick Mahomes 膝の外科から彼のリターンをとして作って下さい Kansas City Chiefs ビートニュー・デン・スタジアム ver Broncos 31-10 月曜日の夜。",
       "title_original": "Mahomes makes winning return as Chiefs storm past Broncos",
@@ -4099,20 +4116,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/boxing/news/12040/13585344/johnny-fisher-vs-michael-pirotton-full-card-set-for-september-26-bill-at-copper-box-arena-live-on-sky-sports",
       "published": "Mon, 14 Sep 2026 17:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Saffie のような豊富なより多くのジョッキーはチャンスを必要とし、ブレイク氏は述べます",
-      "summary": "Kevin Blake レース業界は、多くの場合、それがジョッキーの予約に来るとき「羊のような」であり、より多くのように信じることができると言う Saffie Osborne 最大のステージでショットに値する。",
-      "title_original": "Plenty more jockeys like Saffie just need a chance, says Blake",
-      "summary_original": "Kevin Blake says the racing industry can often be 'sheep-like' when it comes to jockey bookings and believes more like Saffie Osborne deserve a shot on the biggest stage.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585833/saffie-osborne-plenty-more-jockeys-like-leger-winner-who-just-need-a-chance-says-kevin-blake",
-      "published": "Mon, 14 Sep 2026 14:12:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
