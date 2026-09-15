@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-15T22:24:44.145471+00:00",
+  "updated_at": "2026-09-15T22:37:11.863567+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "US Solheim Cup": "",
-    "European Solheim Cup": "",
-    "Lottie Woad": "",
-    "Charley Hull": "",
     "LPGA Tour's FM Championship": "",
     "Allisen Corpuz": "",
     "Super League's Final Charge": "",
@@ -3001,9 +2997,27 @@
     "Anfield. Spurs": "",
     "Dominik Szoboszlai’s": "",
     "Michael Skubala": "",
-    "Freddie Draper's": ""
+    "Freddie Draper's": "",
+    "Superstar' Dowman": "",
+    "Buenos Aires AFA": "",
+    "Lionel Andrés Messi": "",
+    "Select Car Leasing Stadium": "マデイスキー・スタジアム"
   },
   "items": [
+    {
+      "title": "'Superstar' Dowman 自分のクラスを表示アーセナル注意が必要です",
+      "summary": "Max Dowman 輝きと輝き2 ゴールに対してイプスウィッチ・タウン FC- しかし、上司ミケル・アルテタ警告アーセナル開発を急いではなりません。",
+      "title_original": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
+      "summary_original": "Max Dowman shines with two goals against Ipswich Town - but boss Mikel Arteta warns Arsenal cannot rush his development.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 22:26:50 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "VAR は、もしも考慮しなかったフェルナンデスオフサイド - Webb",
       "summary": "審査委員長ハワード・ウェブビデオアシスタントレフリー(VAR)は、ビデオアシスタントレフリー(VAR)が検討しなかったことを認めているエンソ・フェルナンデスオフサイドアーリング・ハーランドの の論争の勝者で Sunday's Manchester ダービー。",
@@ -3061,6 +3075,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "メキシコで勝った後、ツッチェルはアステカの泥炭を食べていない",
+      "summary": "トーマス・トゥヘル後悔は、草のいかなる食べないエスタディオ・アステカイングランドの叙事詩の後 World Cup メキシコに勝つ。",
+      "title_original": "Tuchel regrets not eating Azteca turf after win over Mexico",
+      "summary_original": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 19:25:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "スターリングは、高速道路のクラッシュ後に危険な運転を認めます",
       "summary": "旧イングランドのウィンガーは、5 月の高速道路の障壁にランボルギーニをクラッシュさせました。",
       "title_original": "Sterling admits dangerous driving after motorway crash",
@@ -3086,20 +3114,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "メキシコで勝った後、ツッチェルはアステカの泥炭を食べていない",
-      "summary": "トーマス・トゥヘル後悔は、草のいかなる食べないエスタディオ・アステカイングランドの叙事詩の後 World Cup メキシコに勝つ。",
-      "title_original": "Tuchel regrets not eating Azteca turf after win over Mexico",
-      "summary_original": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 19:25:48 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3183,20 +3197,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ホストへのカーディフ 2029 女性チャンピオンズリーグファイナル",
-      "summary": "Uefa は、今後の決勝の予定数を確認しました。Cardiff's Principality Stadium2029 人の女性をホストするチャンピオンズリーグ決勝",
-      "title_original": "Cardiff to host 2029 women's Champions League final",
-      "summary_original": "Uefa have confirmed a number of host appointments for upcoming finals, with Cardiff's Principality Stadium set to host the 2029 women's Champions League final.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmrer2j8lnr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 10:25:32 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3285,6 +3285,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ホストへのカーディフ 2029 女性チャンピオンズリーグファイナル",
+      "summary": "Uefa は、今後の決勝の予定数を確認しました。Cardiff's Principality Stadium2029 人の女性をホストするチャンピオンズリーグ決勝",
+      "title_original": "Cardiff to host 2029 women's Champions League final",
+      "summary_original": "Uefa have confirmed a number of host appointments for upcoming finals, with Cardiff's Principality Stadium set to host the 2029 women's Champions League final.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrer2j8lnr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 10:25:32 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トロイさんを作った人プレミアリーグ週のチーム?",
       "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
       "title_original": "Who has made Troy's Premier League team of the week?",
@@ -3352,20 +3366,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Coutinho がサントスでネマールに参加し、シーズン休息",
-      "summary": "旧正月リヴァプールそして、バルセロナ Midfielder 参加 ブラジル サイド Santos から 彼の boyhood クラブ Vasco da Gama.",
-      "title_original": "Coutinho joins Neymar at Santos for rest of season",
-      "summary_original": "The former Liverpool and Barcelona midfielder joins Brazilian side Santos from his boyhood club Vasco da Gama.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckd79411vynlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 06:15:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3440,9 +3440,9 @@
     },
     {
       "title": "Max Dowman ダブルアップアーセナルの バックアップをビートにイプスウィッチ獲得を問い合わせ EFL カップ",
-      "summary": "みんなの悪いニュースは、アーセナルの next generation は、ここにある。マン・オブ・ザ・マッチディスプレイの2 つの魅惑的なゴール Max Dowman16 歳が一定と比較していた理由リオネル・メッシマネージャー、ミケル・アルテタ, としてイプスウィッチ片面にくつろげました。17 歳までのパフォーマンスが印象的だった Marli Salmon, 自分のキャリアの2 番目のシニアスタートだけに集中防衛のクラスを省略した人.イプスウィッチこの2 つの側面が私が出会った最後の時間にここに勝ちました",
+      "summary": "みんなの悪いニュースは、アーセナルの next generation は、ここにある。2 つの魅惑的な目標と、そこからの人格表示の助け Max Dowman16 歳が特定のものと比較していた理由リオネル・メッシマネージャー、ミケル・アルテタ, としてイプスウィッチ片面にくつろげました。17 歳までのパフォーマンスが印象的だった Marli Salmon, 彼のキャリアの2 番目のシニアスタートだけに集中防衛のクラスを省略した人.イプスウィッチ最後まで勝ちました",
       "title_original": "Max Dowman doubles up for Arsenal’s back-ups to beat Ipswich in Carabao Cup",
-      "summary_original": "The bad news for everyone else is that Arsenal’s next generation is already here. Two mesmerising goals in a man-of-the-match display from Max Dowman underlined why the 16-year-old has been compared to a certain Lionel Messi by his manager, Mikel Arteta, as Ipswich were swatted aside with ease. Almost as impressive was the performance of 17-year-old Marli Salmon, who oozed class in central defence on only the second senior start of his career. Ipswich won here the last time these two sides met i",
+      "summary_original": "The bad news for everyone else is that Arsenal’s next generation is already here. Two mesmerising goals and an assist in a man-of-the-match display from Max Dowman underlined why the 16-year-old has been compared to a certain Lionel Messi by his manager, Mikel Arteta, as Ipswich were swatted aside with ease. Almost as impressive was the performance of the 17-year-old Marli Salmon, who oozed class in central defence on only the second senior start of his career. Ipswich won here the last time the",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/15/ipswich-arsenal-carabao-cup-third-round-match-report",
       "published": "Tue, 15 Sep 2026 21:14:31 GMT",
@@ -3491,6 +3491,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リオネル・メッシアルゼンチンがフレンドリーで farewell の出現をするために呼び出す",
+      "summary": "アルゼンチンは10 月にベンインをホストします Buenos Aires AFA 社長の招待メッシ「遠足」を楽しむリオネル・メッシアルゼンチンが10 月以降に自宅で親しまれている遠い外観を作るために呼び出されましたインテルアルゼンチンのサッカー協会(AFA)は、国家退職が確認されました。ライオンエル・アンドレズのキャプテン・ライオンエル・アンドレズは、世界で活躍する最高のプレイヤーに招待しました。メッシ, に値する運賃を持っています 6 10 月, ここでは、アルゼンチンで, AFA の事前",
+      "title_original": "Lionel Messi called up by Argentina to make farewell ⁠appearance in friendly",
+      "summary_original": "Argentina will host Benin in October in Buenos Aires AFA president invites Messi to enjoy ‘deserved farewell’ Lionel Messi has been called up by Argentina to make a farewell ⁠appearance in a home friendly in October following his international retirement, the Argentinian football association (AFA) has confirmed. “We invited ⁠the best player in ⁠the world ​to play, the icon of our selection, our captain Lionel Andrés Messi, to have a deserved farewell on 6 October, here in Argentina,” the AFA pre",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/15/lionel-messi-called-up-argentina-farewell-appearance-friendly-benin",
+      "published": "Tue, 15 Sep 2026 22:28:15 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3561,20 +3575,6 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "How Promise David マルテス・シャドウから出現プレミアリーグ",
-      "summary": "元チームメイトとコーチがブライトン’s summer 獲得, 誰がカナダに感銘を受けました World Cup Promise David5 年プランを予定しています。彼は目標のバッグをスコアし、2026 年にカナダでトップヨーロッパリーグに譲渡し、カナダのためにプレーするだろう World Cup. There 彼の両親、チームメイト、コーチとは別に、サッカーの誰も彼の名前を知っているように見えなかった。2023 年、ストライカーは分裂しました Estonia’s Meistriliiga- ストリーミングサーが十分に小さなリーグ",
-      "title_original": "How Promise David emerged from Maltese shadows into the Premier League",
-      "summary_original": "Former teammates and coaches rave about Brighton’s summer signing, who impressed with Canada at the World Cup Promise David had a five‑year plan. He would score bags of goals, earn a transfer to a top European league and play for Canada at the 2026 World Cup. There was just one problem: apart from his parents, teammates and coaches, no one in soccer seemed to know his name. It was 2023, and the striker was scrapping for minutes in Estonia’s Meistriliiga – a league small enough that streaming ser",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/promise-david-brighton-have-albion-canada-world-cup",
-      "published": "Tue, 15 Sep 2026 09:00:31 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3859,6 +3859,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ブレントフォード4 ラウンドに達するために読書を握って下さい EFL カップ",
+      "summary": "ブレントフォード読書に対する緊張した仕上げから、自分の場所を予約する EFL カップ4 ラウンドで2-1 勝利マデイスキー・スタジアム.",
+      "title_original": "Brentford hold off Reading to reach round four of Carabao Cup",
+      "summary_original": "Brentford emerged from a tense finish against Reading to book their place in the Carabao Cup fourth round with a 2-1 victory at Select Car Leasing Stadium.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/reading-vs-brentford/report/577584",
+      "published": "Tue, 08 Sep 2026 21:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フラムエッジウェストハム五大スリラーで",
       "summary": "フラハムは、彼らが4 ラウンドに達したように、スリリングなロンドンのダービーの上に出て来ました EFL カップ3-2 で勝ちますウェストハム.",
       "title_original": "Fulham edge West Ham in five-goal thriller",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13586078/raheem-sterling-admits-driving-lamborghini-dangerously-ahead-of-motorway-crash",
       "published": "Tue, 15 Sep 2026 10:14:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「それは理解しにくい」-Antonelli 'pain'中に Rusell の今は何ですか?",
-      "summary": "ニコ・ロズベルグ信じる George Russell 現在、テーブルをオンにするために「インサンモチベーション」の同様のレベルによって駆動されます Kimi Antonelli 彼がより良いものを得るためにいたように Lewis Hamilton 再発後の敗。",
-      "title_original": "'It's hard to understand' - what now for Russell amid Antonelli 'pain'?",
-      "summary_original": "Nico Rosberg believes George Russell will currently be driven by a similar level of \"insane motivation\" to turn the tables on Kimi Antonelli as he was to get the better of Lewis Hamilton after recurring defeats.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13586061/george-russell-mercedes-drivers-losses-to-kimi-antonelli-will-feel-painful-says-nico-rosberg-as-driver-backed-for-breakthrough",
-      "published": "Tue, 15 Sep 2026 14:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
