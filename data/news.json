@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-15T22:49:27.910329+00:00",
+  "updated_at": "2026-09-15T23:06:24.657962+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "LPGA Tour's FM Championship": "",
     "Allisen Corpuz": "",
     "Super League's Final Charge": "",
     "Final Charge": "",
@@ -3001,7 +3000,8 @@
     "Superstar' Dowman": "",
     "Buenos Aires AFA": "",
     "Lionel Andrés Messi": "",
-    "Select Car Leasing Stadium": "マデイスキー・スタジアム"
+    "Select Car Leasing Stadium": "マデイスキー・スタジアム",
+    "Scottish Premiership": "スコティッシュ・プレミアシップ"
   },
   "items": [
     {
@@ -3019,6 +3019,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ゲームを磨き、人間であることをしましょう - アンドリュース",
+      "summary": "アフターブレントフォード到達するオーバーカム読書 EFL カップ4 ラウンド、ヘッドコーチ Keith Andrews ビデオアシスタントレフリー(VAR)は、試合の決定を下すことから、受審者を防ぐことを信じています。",
+      "title_original": "Let them ref the games and be humans - Andrews",
+      "summary_original": "After Brentford overcame Reading to reach the Carabao Cup fourth round, head coach Keith Andrews believes the video assistant referee (VAR) is preventing referees from making decisions in matches.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxj06nmjl3l6o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 22:50:30 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "VAR は、もしも考慮しなかったフェルナンデスオフサイド - Webb",
       "summary": "審査委員長ハワード・ウェブビデオアシスタントレフリー(VAR)は、ビデオアシスタントレフリー(VAR)が検討しなかったことを認めているエンソ・フェルナンデスオフサイドアーリング・ハーランドの の論争の勝者で Sunday's Manchester ダービー。",
       "title_original": "VAR did not even consider if Fernandez was offside - Webb",
@@ -3033,13 +3047,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Pocognoli の大胆なスコットランドのスクワッドのキーポイント",
-      "summary": "ザ・オブ・ザ・セバスチャン・ポコニョーリスコットランドの時代はすでに深刻な陰謀を作り出しています。そして、ベルギーのスクワッドはまだトレーニンググラウンドロンドのために組み立てられており、ゲームを決して心がけません。",
-      "title_original": "The key talking points from Pocognoli's bold Scotland squad",
-      "summary_original": "The Sebastien Pocognoli Scotland era is already creating serious intrigue - and the Belgian's squad are yet to assemble for a training-ground rondo, never mind play a game.",
+      "title": "メッシアルゼンチンは farewell フレンドリーのために",
+      "summary": "アルゼンチン名リオネル・メッシ10 月にベンインと友好関係を築き、前方へ向かうと決めるインテル国民のフットボール。",
+      "title_original": "Messi in Argentina squad for farewell friendly",
+      "summary_original": "Argentina name Lionel Messi in their squad for a friendly against Benin in October in a match which is set to be the forward's farewell to international football.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c51kxlek7471o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 15:12:03 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 22:50:04 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "灰色は「そうでなければ言われるまで続行します」 - しかし、ハイブスボスはファンを失った?",
+      "summary": "ヘッドコーチデヴィッド・グレイ彼の側が6 番目の連続ホーム敗北に苦しんだ後、彼は Hibernian の貧しい形態「誰かが何かを言うためにあった」に解決策を試してみると、彼は言うだろうスコティッシュ・プレミアシップ.",
+      "title_original": "Gray 'will continue until told otherwise' - but has Hibs boss lost the fans?",
+      "summary_original": "Head coach David Gray says he will continue to try and find solutions to Hibernian's poor form \"until someone was to say something different\" after his side suffered a sixth consecutive home defeat in the Scottish Premiership.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvwyzwr5g76go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 22:58:27 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3058,6 +3086,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Pocognoli の大胆なスコットランドのスクワッドのキーポイント",
+      "summary": "ザ・オブ・ザ・セバスチャン・ポコニョーリスコットランドの時代はすでに深刻な陰謀を作り出しています。そして、ベルギーのスクワッドはまだトレーニンググラウンドロンドのために組み立てられており、ゲームを決して心がけません。",
+      "title_original": "The key talking points from Pocognoli's bold Scotland squad",
+      "summary_original": "The Sebastien Pocognoli Scotland era is already creating serious intrigue - and the Belgian's squad are yet to assemble for a training-ground rondo, never mind play a game.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c51kxlek7471o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 15:12:03 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3082,6 +3124,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 19:25:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "セルティック& スコットランドの伝説の McGrain はアルツハイマー病と診断",
+      "summary": "Danny McGrain, によって記述されるセルティックアルツハイマー病と診断された「スコットランドの最大のフルバック」として、家族は確認しています。",
+      "title_original": "Celtic & Scotland legend McGrain diagnosed with Alzheimer's",
+      "summary_original": "Danny McGrain, described by Celtic as \"Scotland's greatest-ever full-back\", has been diagnosed with Alzheimer's disease, his family confirms.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmew98xy54pjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 13:49:55 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3114,20 +3170,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "セルティック& スコットランドの伝説の McGrain はアルツハイマー病と診断",
-      "summary": "Danny McGrain, によって記述されるセルティックアルツハイマー病と診断された「スコットランドの最大のフルバック」として、家族は確認しています。",
-      "title_original": "Celtic & Scotland legend McGrain diagnosed with Alzheimer's",
-      "summary_original": "Danny McGrain, described by Celtic as \"Scotland's greatest-ever full-back\", has been diagnosed with Alzheimer's disease, his family confirms.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmew98xy54pjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 13:49:55 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3166,48 +3208,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c615877d389no?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 09:30:13 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フォーム内のチーム - Farke がオンになった方法リーズ周辺エリア",
-      "summary": "とリーズ・ユナイテッド FC 第三にプレミアリーグ, BBC スポーツは、その改善を評価するダニエル・ファルケ.",
-      "title_original": "A team in form - how Farke has turned Leeds around",
-      "summary_original": "With Leeds United third in the Premier League, BBC Sport assesses their improvement under Daniel Farke.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2zgnngj71o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 14:01:59 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "How Maresca サッカーの不可能な仕事に取り組む",
-      "summary": "Enzo Maresca 伝説を交換するときは、夏に不可能な仕事をしていたようですペップ・グアルディオラ獲得を問い合わせマンチェスター・シティ, しかし、それは彼の緊張の初期段階で簡単なタスクを見て作ります.",
-      "title_original": "How Maresca is tackling football's impossible job",
-      "summary_original": "Enzo Maresca seemingly took on an impossible job in the summer when replacing the legendary Pep Guardiola at Manchester City, but is making it look an easy task in the early stages of his tenure.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c23xe75827no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 06:02:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Ni は merit - O'Neill でのみピックアップ",
-      "summary": "北アイルランドマネージャーMichael O'Neill 彼は彼のスクワットを選択する際に Fifa の適格性規則を考慮に入れることはありませんと言う.",
-      "title_original": "NI squad only picked on merit - O'Neill",
-      "summary_original": "Northern Ireland manager Michael O'Neill says he would never take Fifa eligibility rules into consideration when selecting his squad.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cked7wng4557o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 21:01:37 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3285,6 +3285,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "How Maresca サッカーの不可能な仕事に取り組む",
+      "summary": "Enzo Maresca 伝説を交換するときは、夏に不可能な仕事をしていたようですペップ・グアルディオラ獲得を問い合わせマンチェスター・シティ, しかし、それは彼の緊張の初期段階で簡単なタスクを見て作ります.",
+      "title_original": "How Maresca is tackling football's impossible job",
+      "summary_original": "Enzo Maresca seemingly took on an impossible job in the summer when replacing the legendary Pep Guardiola at Manchester City, but is making it look an easy task in the early stages of his tenure.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c23xe75827no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 06:02:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フォーム内のチーム - Farke がオンになった方法リーズ周辺エリア",
+      "summary": "とリーズ・ユナイテッド FC 第三にプレミアリーグ, BBC スポーツは、その改善を評価するダニエル・ファルケ.",
+      "title_original": "A team in form - how Farke has turned Leeds around",
+      "summary_original": "With Leeds United third in the Premier League, BBC Sport assesses their improvement under Daniel Farke.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2zgnngj71o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 14:01:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ホストへのカーディフ 2029 女性チャンピオンズリーグファイナル",
       "summary": "Uefa は、今後の決勝の予定数を確認しました。Cardiff's Principality Stadium2029 人の女性をホストするチャンピオンズリーグ決勝",
       "title_original": "Cardiff to host 2029 women's Champions League final",
@@ -3296,6 +3324,20 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Ni は merit - O'Neill でのみピックアップ",
+      "summary": "北アイルランドマネージャーMichael O'Neill 彼は彼のスクワットを選択する際に Fifa の適格性規則を考慮に入れることはありませんと言う.",
+      "title_original": "NI squad only picked on merit - O'Neill",
+      "summary_original": "Northern Ireland manager Michael O'Neill says he would never take Fifa eligibility rules into consideration when selecting his squad.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked7wng4557o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 21:01:37 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3327,20 +3369,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g5kxrw6e9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 05:40:14 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Ex-Tottenham midfielder Bissouma、アヤックス加入へ",
       "summary": "過去の投稿トッテナムミッドフィルダーイヴ・ビスマ参加の枠にアヤックス季節の終わりまで走る初期の移籍。",
       "title_original": "Ex-Tottenham midfielder Bissouma set to join Ajax",
@@ -3351,34 +3379,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "暗闇の中で左 - ライブ VAR オーディオを聴くためにファンは、します?",
-      "summary": "VAR は10 歳近くで、まだゲームはまだサポート者にオーディオライブを放送する許可されている長い方法です。",
-      "title_original": "Left in the dark - will fans ever get to hear live VAR audio?",
-      "summary_original": "VAR is nearly 10 years old, and yet the game is still a long way off being allowed to broadcast the audio live to supporters.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz6z80qqzplo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 15:00:42 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "なぜそこにいるのかヨーロッパリーグ水曜日にマッチしますか?",
-      "summary": "BBC Sport's Ask Me どのチームが9 つの理由を説明するヨーロッパリーグ水曜日の夜に行われる試合",
-      "title_original": "Why are there Europa League matches on Wednesday?",
-      "summary_original": "BBC Sport's Ask Me Anything team explains why there are nine Europa League matches taking place on Wednesday night",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/articles/c6x2zpndv039o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:21:25 GMT",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3426,9 +3426,9 @@
     },
     {
       "title": "Szoboszlai スクリームシールリヴァプール De Zerbi の進化トッテナム woes の成長",
-      "summary": "トッテナム対照目標をスコアしたが、対照は、そうでなければ、ロベルト・デ・ゼルビアンフィールドトッテナム’ 変わらずに音が響き渡る季節が続くリヴァプール側面と仕上げの品質 De Zerbi 夢を叶える。アレクシス・マック・アリスター、第2 週の操業のために、コーディ・ガクポ代替品 Dominik Szoboszlai 各々は傑出した仕上げ - 特に Szoboszlai - としてリヴァプール4 ラウンドに高度な。トッテナムしばらくしたが、f",
+      "summary": "トッテナムスコアロベルト・デ・ゼルビ彼の処分で品質を eulogised, まだ試してみるトッテナム「アンフィールドで見つかるのは、サポートに苦しんでいる」リヴァプールおもちゃ De Zerbi 彼が夢を叶えることができる仕上げの品質で4 ラウンドに前進することによって。しばらくの間トッテナムヘッドコーチは、良いゲームを話し、彼のプレーヤーは無害な領域でかなり1 を果たしました,リヴァプール効果的なものだけを生成します。アレクシス・マック・アリスター第2 号の新規契約を申し立てる",
       "title_original": "Szoboszlai screamer seals Liverpool’s progress as De Zerbi’s Spurs woes grow",
-      "summary_original": "Tottenham scored a consolation goal but consolation was otherwise absent for Roberto De Zerbi at Anfield. Spurs’ miserable start to the season continued as they were soundly beaten by a much-changed Liverpool side and a quality of finishing that De Zerbi can only dream of. Alexis Mac Allister, for the second midweek running, Cody Gakpo and the substitute Dominik Szoboszlai each produced an outstanding finish – especially Szoboszlai – as Liverpool advanced into round four. Spurs had moments but f",
+      "summary_original": "Tottenham scored and Roberto De Zerbi eulogised the quality at his disposal, yet try telling Spurs’ suffering away support there was consolation to be found at Anfield. Liverpool toyed with De Zerbi by advancing into round four with a quality of finishing that he can only dream of. While the Spurs head coach talked a good game and his players played a pretty one in harmless areas, Liverpool produced the only effective one. Alexis Mac Allister promoted his claims for a new contract for the second",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/15/liverpool-tottenham-carabao-cup-third-round-match-report",
       "published": "Tue, 15 Sep 2026 21:12:54 GMT",
@@ -3887,6 +3887,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Pietersen よりも才能がありますか? ブルックの輝きは、大胆なストークスステートメントにつながる",
+      "summary": "ベン・ストークスイングランドのためにプレーしなくなった - しかし、それは彼がやった評価選手から彼を止めていない。",
+      "title_original": "More talented than Pietersen? Brook brilliance leads to bold Stokes statement",
+      "summary_original": "Ben Stokes no longer plays for England - but that has not stopped him from rating players who do or did.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13586410/is-harry-brook-more-talented-than-kevin-pietersen-have-your-say-after-ben-stokes-hails-england-white-ball-captain",
+      "published": "Tue, 15 Sep 2026 23:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フラムエッジウェストハム五大スリラーで",
       "summary": "フラハムは、彼らが4 ラウンドに達したように、スリリングなロンドンのダービーの上に出て来ました EFL カップ3-2 で勝ちますウェストハム.",
       "title_original": "Fulham edge West Ham in five-goal thriller",
@@ -4108,20 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Dowman dazzles とともに ダブル としてアーセナル過去のクルーズイプスウィッチ",
-      "summary": "Max Dowman 同じように2 回スクーリングすることにより、シーズンの最初の外観に細断アーセナル勝率が4～4 倍に向上イプスウィッチ・タウン FC 獲得を問い合わせ EFL カップ第3 ラウンド。",
-      "title_original": "Dowman dazzles with double as Arsenal cruise past Ipswich",
-      "summary_original": "Max Dowman shone in his first appearance of the season by scoring twice as Arsenal eased to a 4-2 victory over Ipswich Town in the Carabao Cup third round.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/ipswich-town-vs-arsenal/report/577577",
-      "published": "Tue, 15 Sep 2026 21:35:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
