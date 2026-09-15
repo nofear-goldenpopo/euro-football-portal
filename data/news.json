@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-15T13:07:21.231601+00:00",
+  "updated_at": "2026-09-15T13:27:29.284849+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Aston Villa's": "",
-    "Day's Gabby Logan": "",
     "Danny Murphy": "",
     "Joe Hart": "ジョー・ハート",
     "Al Hilal": "",
@@ -3001,7 +2999,9 @@
     "Women’s World Cup": "",
     "Celia Segura": "",
     "Bronze Ball": "",
-    "Bronze Boot": ""
+    "Bronze Boot": "",
+    "Nico Rosberg": "ニコ・ロズベルグ",
+    "Jack Draper": ""
   },
   "items": [
     {
@@ -3040,6 +3040,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck5yw2pnqd40o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 12:24:53 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "スターリングは、高速道路のクラッシュ後に危険な運転を認めます",
+      "summary": "旧イングランドのウィンガーは、5 月にランボルギーニをモーターウェイの障壁にクラッシュさせました。",
+      "title_original": "Sterling admits dangerous driving after motorway crash",
+      "summary_original": "The former England winger crashed his Lamborghini into motorway barriers in May.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 13:22:42 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3131,20 +3145,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Coutinho、サントスでネマールに参加し、シーズン休息",
-      "summary": "前の投稿リヴァプールそして、バルセロナ Midfielder 参加 ブラジル サイド Santos から 彼の boyhood クラブ Vasco da Gama.",
-      "title_original": "Coutinho joins Neymar at Santos for rest of season",
-      "summary_original": "The former Liverpool and Barcelona midfielder joins Brazilian side Santos from his boyhood club Vasco da Gama.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckd79411vynlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 06:15:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ルールを変更することはできません」 - NI/ROI の適格性に関する O'Neill",
       "summary": "北アイルランドマネージャーMichael O'Neill 獲得を問い合わせ BBC Sport NI's Stephen ワトソンについて推測についてアーセナルヤングスターCeadach O'Neill's インテル来日予定のニ・スクワッドに名前をつけて、国民の未来 Nations League 備品。",
       "title_original": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
@@ -3180,6 +3180,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6kg0dvv4drko?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 14 Sep 2026 22:44:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Coutinho、サントスでネマールに参加し、シーズン休息",
+      "summary": "前の投稿リヴァプールそして、バルセロナ Midfielder 参加 ブラジル サイド Santos から 彼の boyhood クラブ Vasco da Gama.",
+      "title_original": "Coutinho joins Neymar at Santos for rest of season",
+      "summary_original": "The former Liverpool and Barcelona midfielder joins Brazilian side Santos from his boyhood club Vasco da Gama.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckd79411vynlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 06:15:29 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3323,20 +3337,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Football Daily",
-      "summary": "ユナイテッドは、自宅で10 人の男性とスコアで70 分を再生しましたか?",
-      "title_original": "Football Daily",
-      "summary_original": "How did United play 70 minutes against 10 men at home and not score?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p9mkw3?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 20:16:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「それは理解しにくい」-Antonelli 'pain'中に Rusell の今は何ですか?",
+      "summary": "ニコ・ロズベルグ信じる George Russell 現在、テーブルをオンにするために「インサンモチベーション」の同様のレベルによって駆動されます Kimi Antonelli 彼がより良いものを得るためにいたように Lewis Hamilton 再発後の敗。",
+      "title_original": "'It's hard to understand' - what now for Russell amid Antonelli 'pain'?",
+      "summary_original": "Nico Rosberg believes George Russell will currently be driven by a similar level of \"insane motivation\" to turn the tables on Kimi Antonelli as he was to get the better of Lewis Hamilton after recurring defeats.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13586061/george-russell-mercedes-drivers-losses-to-kimi-antonelli-will-feel-painful-says-nico-rosberg-as-driver-backed-for-breakthrough",
+      "published": "Tue, 15 Sep 2026 14:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "イングランドはウィリアムズをキャプテンとして確認 Rugby League World Cup",
       "summary": "イングランドヘッドコーチ Brian McDermott 確認済みジョージ・ウィリアムズ翌月のキャプテン Rugby League World Cup.",
       "title_original": "England confirm Williams as captain for Rugby League World Cup",
@@ -3950,6 +3964,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/athletics/news/12040/13586054/amy-hunt-british-athletics-star-reiterates-need-for-role-models-after-sydney-sweeney-advert-backlash",
       "published": "Tue, 15 Sep 2026 09:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ドレーパーは2027 年まで再生しません",
+      "summary": "Jack Draper 年の残りの部分の行動から自分自身を支配しています。",
+      "title_original": "Draper won't play again until 2027",
+      "summary_original": "Jack Draper has ruled himself out of action for the rest of the year.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13586172/jack-draper-will-be-sidelined-from-tennis-for-the-rest-of-the-year-as-he-rules-out-returning-before-2027",
+      "published": "Tue, 15 Sep 2026 14:02:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4093,34 +4121,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「お持ち帰りにうれしい」 | シンフィールドを誇りに思う Rugby League コミュニティ",
-      "summary": "Sir Kevin Sinfield 連続して7 つの超マラソンを走る7 つの決勝に挑戦し、資金を調達しよう筋萎縮性側索硬化症(MND) charities は、Rugby Lague 一緒にコミュニティ.",
-      "title_original": "'It's nice to bring it all home' | Sinfield proud to bring Rugby League community together",
-      "summary_original": "Sir Kevin Sinfield hopes his his seventh and final challenge of running seven ultra-marathons in consecutive days, to raise money for motor neurone disease (MND) charities will also help bring the Rugby Lague community together.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585866/sir-kevin-sinfield-proud-to-bring-rugby-league-community-together-with-ultra-marathon-fundraiser",
-      "published": "Mon, 14 Sep 2026 16:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Calvert-Lewin とリーズログインニューカッスル優勢な勝利",
-      "summary": "リーズ・ユナイテッド FC 彼らの無縁の始まりを維持プレミアリーグ息をのむような4-1 勝利でキャンペーンニューカッスル.",
-      "title_original": "Calvert-Lewin and Leeds bully Newcastle in dominant victory",
-      "summary_original": "Leeds United maintained their unbeaten start to the Premier League campaign with a breathless 4-1 victory over Newcastle.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/leeds-united-vs-newcastle-united/report/559479",
-      "published": "Mon, 14 Sep 2026 21:50:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
