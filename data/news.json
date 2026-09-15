@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-15T10:52:59.987640+00:00",
+  "updated_at": "2026-09-15T11:06:40.847235+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Who Am": "",
-    "Manchester City's": "",
-    "Do Wrexham": "",
-    "Defender Dom Hyam": "",
     "Manager Derek McInnes": "",
     "Joel Ordonez's": "",
     "Departing Watkins": "",
@@ -3001,7 +2997,11 @@
     "Ceadach O'Neill": "",
     "Braiden Graham": "",
     "Northern Ireland's": "",
-    "Cardiff's Principality Stadium": ""
+    "Cardiff's Principality Stadium": "",
+    "World Athletics Championships": "",
+    "The World Athletics Championships": "",
+    "Slot's Liverpool": "",
+    "Super Bowls": "スーパーボウル"
   },
   "items": [
     {
@@ -3012,34 +3012,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 10:03:22 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "How Maresca サッカーの不可能な仕事に取り組む",
-      "summary": "Enzo Maresca 伝説を交換するときは、夏に不可能な仕事をしていたようですペップ・グアルディオラ獲得を問い合わせマンチェスター・シティ、しかし、それは彼の緊張の初期段階で簡単なタスクを見ているようにしています。",
-      "title_original": "How Maresca is tackling football's impossible job",
-      "summary_original": "Enzo Maresca seemingly took on an impossible job in the summer when replacing the legendary Pep Guardiola at Manchester City, but is making it look an easy task in the early stages of his tenure.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c23xe75827no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 06:02:27 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アシュフォードが最初のウェールズのコールアップを獲得するロドンは、",
-      "summary": "クレイグ・ベラミー初めてのコールアップを Cardiff City 獲得 Cian Ashford 獲得を問い合わせ Wales' Nations League キャンペーンではなく、キーの擁護者なしでジョー・ロドン.",
-      "title_original": "Rodon absent as Ashford earns first Wales call-up",
-      "summary_original": "Craig Bellamy hands a first call-up to Cardiff City forward Cian Ashford for Wales' Nations League A campaign but is without key defender Joe Rodon.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c615877d389no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:30:13 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3061,6 +3033,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アシュフォードが最初のウェールズのコールアップを獲得するロドンは、",
+      "summary": "クレイグ・ベラミー初めてのコールアップを Cardiff City 獲得 Cian Ashford 獲得を問い合わせ Wales' Nations League キャンペーンではなく、キーの擁護者なしでジョー・ロドン.",
+      "title_original": "Rodon absent as Ashford earns first Wales call-up",
+      "summary_original": "Craig Bellamy hands a first call-up to Cardiff City forward Cian Ashford for Wales' Nations League A campaign but is without key defender Joe Rodon.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c615877d389no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 09:30:13 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "O'Neill と Graham は、NI のスクワッドで場所を保持します。",
       "summary": "プレミアリーグティーンエイジャーズ Ceadach O'Neill そして、Braiden Graham 自分の場所を北アイルランドの は、今後 Nations League 四倍のヘッダー。",
       "title_original": "O'Neill and Graham retain places in NI squad",
@@ -3075,17 +3061,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'Unplayable' & 'almost Perfect' - Calvert-Lewin はイングランドのリコールのためにセット?",
-      "summary": "Dominic Calvert-Lewin で得たリーズ' 過去5 人のホームリーグの試合。イギリスのリコールの準備はできましたか?",
-      "title_original": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
-      "summary_original": "Dominic Calvert-Lewin has now scored in Leeds' past five home league matches. Is he ready for an England recall?",
+      "title": "How Maresca サッカーの不可能な仕事に取り組む",
+      "summary": "Enzo Maresca 伝説を交換するときは、夏に不可能な仕事をしていたようですペップ・グアルディオラ獲得を問い合わせマンチェスター・シティ、しかし、それは彼の緊張の初期段階で簡単なタスクを見ているようにしています。",
+      "title_original": "How Maresca is tackling football's impossible job",
+      "summary_original": "Enzo Maresca seemingly took on an impossible job in the summer when replacing the legendary Pep Guardiola at Manchester City, but is making it look an easy task in the early stages of his tenure.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 22:56:28 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c23xe75827no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 06:02:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3117,20 +3103,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リーズ激しい重い敗北にニューカッスル第三に登る",
-      "summary": "Dominic Calvert-Lewin 星としてリーズ・ユナイテッド FC で3 番目に行きますプレミアリーグ重い4-1 の敗北を侵害する優れたパフォーマンスでニューカッスル獲得を問い合わせエランド・ロード.",
-      "title_original": "Leeds inflict heavy defeat on Newcastle to climb to third",
-      "summary_original": "Dominic Calvert-Lewin stars as Leeds United go third in the Premier League with a superb performance to inflict a heavy 4-1 defeat on Newcastle United at Elland Road.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 21:31:59 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Coutinho がサントスでネマールに参加し、シーズン休息",
       "summary": "旧正月リヴァプールそして、バルセロナ Midfielder 参加 ブラジル サイド Santos から 彼の boyhood クラブ Vasco da Gama.",
       "title_original": "Coutinho joins Neymar at Santos for rest of season",
@@ -3142,6 +3114,34 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'Unplayable' & 'almost Perfect' - Calvert-Lewin はイングランドのリコールのためにセット?",
+      "summary": "Dominic Calvert-Lewin で得たリーズ' 過去5 人のホームリーグの試合。イギリスのリコールの準備はできましたか?",
+      "title_original": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
+      "summary_original": "Dominic Calvert-Lewin has now scored in Leeds' past five home league matches. Is he ready for an England recall?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 22:56:28 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リーズ激しい重い敗北にニューカッスル第三に登る",
+      "summary": "Dominic Calvert-Lewin 星としてリーズ・ユナイテッド FC で3 番目に行きますプレミアリーグ重い4-1 の敗北を侵害する優れたパフォーマンスでニューカッスル獲得を問い合わせエランド・ロード.",
+      "title_original": "Leeds inflict heavy defeat on Newcastle to climb to third",
+      "summary_original": "Dominic Calvert-Lewin stars as Leeds United go third in the Premier League with a superb performance to inflict a heavy 4-1 defeat on Newcastle United at Elland Road.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 21:31:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ロンドンはナイロビが2029 年の安全性を保証するように逃しています World Athletics Championships",
+      "summary": "The World Athletics Championships ケニアの首都ナイロビが2029 版のホストとして確認された後、アフリカに向かいます。",
+      "title_original": "London misses out as Nairobi secures 2029 World Athletics Championships",
+      "summary_original": "The World Athletics Championships are heading to Africa for the first time after Kenya's capital Nairobi was confirmed as host of the 2029 edition, with London missing out.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/other-sports/news/12040/13586110/world-athletics-championships-london-misses-out-as-nairobi-secures-2029-event-we-are-deeply-disappointed",
+      "published": "Tue, 15 Sep 2026 11:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "EFL 最新:ウェールズのボス Bellamy は「フラッタリング」についての真実を明らかにバーンリーアプローチ",
       "summary": "",
       "title_original": "EFL latest: Wales boss Bellamy reveals truth about 'flattering' Burnley approach",
@@ -3940,6 +3954,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'スロットのリヴァプールパーティーでした! マホームズは、彼がチャンピオンである理由を証明",
+      "summary": "2026 年の NFL シーズンの1 週間だけの本で、1 チームがこれであるか、または1 チームがそうであるならば、それは決定的に言うことは困難です。Kansas City Chiefs 最後の7 の5 でプレーした理由として、いくつかのリマインダーを送信確かにスーパーボウル.",
+      "title_original": "'Slot's Liverpool were partying!' Mahomes proves why he is a champion",
+      "summary_original": "With just one week of the 2026 NFL season in the books, it's hard to definitively say if one team is this or if one team is that, but the Kansas City Chiefs certainly sent out a few reminders as to why they have played in five of the last seven Super Bowls.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13586001/patrick-mahomes-could-have-done-an-arne-slot-and-liverpool-but-showed-he-is-true-champion-says-neil-reynolds",
+      "published": "Tue, 15 Sep 2026 12:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13585971/blundering-var-duo-set-to-be-blocked-from-officiating-on-manchester-united-games-paper-talk",
       "published": "Mon, 14 Sep 2026 22:10:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "獲得を問い合わせハル KR コーチは Warrington の衝突を量ります",
-      "summary": "ハル KR ヘッドコーチ Willie Peters 最初から衝突する Warrington Wolves.",
-      "title_original": "'We'll get what we deserve' | Hull KR coach weighs up Warrington clash",
-      "summary_original": "Hull KR head coach Willie Peters looks ahead to their first clash against Warrington Wolves.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585875/well-get-what-we-deserve-hull-kr-coach-willie-peters-weighs-up-warrington-wolves-clash",
-      "published": "Mon, 14 Sep 2026 16:16:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Will Iraola's ゲームの作業をプレスリヴァプール?",
-      "summary": "「3 日ごとにプレイして問題がないプレイヤーがいるので、受け入れやパフォーマンスはあまり変化しない」Andoni Iraola 説明する。「リスクが大きく、性能が異なっている他のプレイヤーもいます」",
-      "title_original": "Will Iraola's pressing game work at Liverpool?",
-      "summary_original": "\"There are players who play every three days and have no issues, they can accept it and performances do not change too much,\" Andoni Iraola explained. \"Then there are other players where the risk is bigger and the performances are different.\"",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13586016/liverpool-under-andoni-iraola-need-to-play-three-games-a-week-but-can-they-do-it-playing-his-pressing-game-effectively",
-      "published": "Tue, 15 Sep 2026 07:19:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
