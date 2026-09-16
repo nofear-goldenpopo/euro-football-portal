@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-16T17:51:40.355828+00:00",
+  "updated_at": "2026-09-16T18:07:33.181381+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Carlo Cudicini": "",
-    "Petr Cech. There": "",
-    "Huge Jacquet": "",
-    "Anfield LIVE": "",
-    "Liverpool LIVE": "",
-    "Leyton Orient": "レイトン・オリエントFC",
-    "O’s Orient": "",
     "Ryan Reynolds": "",
     "Rob Mac": "",
     "Xabi Alonso’s Chelsea": "",
@@ -3001,7 +2994,14 @@
     "Barry Subs": "",
     "Olayiwola Continue": "",
     "Division Two": "",
-    "Hungary’s Vasas": ""
+    "Hungary’s Vasas": "",
+    "Sesko Subs": "",
+    "T. Fletcher": "",
+    "Zirkzee Continue": "",
+    "The Sunderland": "",
+    "Poland Americans": "",
+    "AZ LIVE": "",
+    "Middle East": "中東"
   },
   "items": [
     {
@@ -3145,6 +3145,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "獲得プレミアリーグアカデミー選手のルール?",
+      "summary": "BBC Sport's Ask Me どのチームが、ティーンエイジャーがプレイするときに、プレイヤーやクラブがフォローしなければならないルールを調べるプレミアリーグ",
+      "title_original": "What are the Premier League rules for academy players?",
+      "summary_original": "BBC Sport's Ask Me Anything team looks at what rules players and clubs must follow when teenagers play in the Premier League",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr5yev4y101eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 16:26:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "例-トッテナムミッドフィルダービスソウが完了アヤックスログイン",
       "summary": "過去の投稿トッテナムミッドフィルダーイヴ・ビスマ獲得を問い合わせアヤックス季節の終わりまで走る初期の移籍。",
       "title_original": "Ex-Spurs midfielder Bissouma completes Ajax move",
@@ -3170,20 +3184,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "獲得プレミアリーグアカデミー選手のルール?",
-      "summary": "BBC Sport's Ask Me どのチームが、ティーンエイジャーがプレイするときに、プレイヤーやクラブがフォローしなければならないルールを調べるプレミアリーグ",
-      "title_original": "What are the Premier League rules for academy players?",
-      "summary_original": "BBC Sport's Ask Me Anything team looks at what rules players and clubs must follow when teenagers play in the Premier League",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr5yev4y101eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 16:26:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3327,48 +3327,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "グラスゴー、16、Docherty's ScotlandU21 チーム",
-      "summary": "Sixteen-year-old Kyle Glasgow に含まれている Tony Docherty's はじめて Scotland Under-21 チーム",
-      "title_original": "Glasgow, 16, makes Docherty's Scotland U21 squad",
-      "summary_original": "Sixteen-year-old Kyle Glasgow has been included in Tony Docherty's first Scotland Under-21 squad.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn452vgll31o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 09:36:20 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "いつか EFL カップ4 ラウンドドロー?",
-      "summary": "第4 ラウンドのドローEFL カップ9 月16 日(水)",
-      "title_original": "When is the EFL Cup fourth round draw?",
-      "summary_original": "The fourth-round draw of the EFL Cup takes place on Wednesday, 16 September.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 11:16:52 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Pocognoli の大胆なスコットランドのスクワッドのキーポイント",
-      "summary": "ザ・オブ・ザ・セバスチャン・ポコニョーリスコットランドの時代はすでに深刻な陰謀を作り出しています。そして、ベルギーのスクワッドはまだトレーニンググラウンドロンドのために組み立てられており、ゲームを決して心がけません。",
-      "title_original": "The key talking points from Pocognoli's bold Scotland squad",
-      "summary_original": "The Sebastien Pocognoli Scotland era is already creating serious intrigue - and the Belgian's squad are yet to assemble for a training-ground rondo, never mind play a game.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c51kxlek7471o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 15:12:03 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ルールを変更することはできません」 - NI/ROI の適格性に関する O'Neill",
       "summary": "北アイルランドマネージャーMichael O'Neill 獲得を問い合わせ BBC Sport NI's Stephen ワトソンについて推測についてアーセナルヤングスターCeadach O'Neill's インテル来日予定のニ・スクワッドに名前をつけて、国民の未来 Nations League 備品。",
       "title_original": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
@@ -3425,13 +3383,55 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド. .ブライトン, コベントリー v アストン・ヴィラ獲得を問い合わせ EFL カップ Clockwatch - ライブ",
-      "summary": "第3 戦の試合からライブ更新マンチェスター・ユナイテッドとして衝撃される JJ Gabriel 連絡を取りなさい 連絡を取りなさい 連絡を取りなさい 連絡して下さい!Email Will どんな想いでもエヴァートン: Pickford; Maitland-Niles, O'Brien, Keane, Mykolenko; Garner, Hackney, Dewsbury-Hall; Dibling, Grealish;Barry Subs: トラバー、キング、ブラントウェイト、タルコフスキー、ジョージ、ジョンソン、アラカルズ、グラハム、Olayiwola Continue 読書...",
+      "title": "すべての目標から Women's Super League - Matchweek Two",
+      "summary": "マッチウィークの2 つからすべての目標を見る Women's Super League2026-27 シーズン",
+      "title_original": "All the goals from the Women's Super League - Matchweek Two",
+      "summary_original": "Watch every goal from matchweek two of the Women's Super League 2026-27 season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmly43kkyz45o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:05:43 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Pocognoli の大胆なスコットランドのスクワッドのキーポイント",
+      "summary": "ザ・オブ・ザ・セバスチャン・ポコニョーリスコットランドの時代はすでに深刻な陰謀を作り出しています。そして、ベルギーのスクワッドはまだトレーニンググラウンドロンドのために組み立てられており、ゲームを決して心がけません。",
+      "title_original": "The key talking points from Pocognoli's bold Scotland squad",
+      "summary_original": "The Sebastien Pocognoli Scotland era is already creating serious intrigue - and the Belgian's squad are yet to assemble for a training-ground rondo, never mind play a game.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c51kxlek7471o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 15:12:03 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "グラスゴー、16、Docherty's ScotlandU21 チーム",
+      "summary": "Sixteen-year-old Kyle Glasgow に含まれている Tony Docherty's はじめて Scotland Under-21 チーム",
+      "title_original": "Glasgow, 16, makes Docherty's Scotland U21 squad",
+      "summary_original": "Sixteen-year-old Kyle Glasgow has been included in Tony Docherty's first Scotland Under-21 squad.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn452vgll31o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 09:36:20 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド. .ブライトン, コベントリー v アストン・ヴィラ詳しくはこちら EFL カップ Clockwatch - ライブ",
+      "summary": "第3 戦の試合からライブ更新マンチェスター・ユナイテッドとして衝撃される JJ Gabriel 連絡を取る 連絡する 連絡する 連絡する 連絡する 連絡する 連絡する Email Will どんな想いでもマンチェスター・ユナイテッド: Darlow; Mazraoui、Yoro、天国、ダロット;Andrey Santos, Tielemans; レイシー, マウント; Rashford;Sesko Subs: Lammens、Amass、Maguire、Fernandes、Mainoo、T. Fletcher、Cunha、Mbeumo、Zirkzee Continue 読書...",
       "title_original": "Manchester United v Brighton, Coventry v Aston Villa and more, Carabao Cup clockwatch – live",
-      "summary_original": "⚽ Live updates from four third-round matches ⚽ Manchester United shocked as JJ Gabriel asks to leave ⚽ Get in touch! Email Will with any thoughts Everton: Pickford; Maitland-Niles, O’Brien, Keane, Mykolenko; Garner, Hackney, Dewsbury-Hall; Dibling, Grealish; Barry Subs: Travers, King, Branthwaite, Tarkowski, George, Johnson, Alcaraz, Graham, Olayiwola Continue reading...",
+      "summary_original": "⚽ Live updates from four third-round matches ⚽ Manchester United shocked as JJ Gabriel asks to leave ⚽ Get in touch! Email Will with any thoughts Manchester United: Darlow; Mazraoui, Yoro, Heaven, Dalot; Andrey Santos, Tielemans; Lacey, Mount; Rashford; Sesko Subs: Lammens, Amass, Maguire, Fernandes, Mainoo, T. Fletcher, Cunha, Mbeumo, Zirkzee Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
-      "published": "Wed, 16 Sep 2026 17:38:17 GMT",
+      "published": "Wed, 16 Sep 2026 17:54:40 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3440,12 +3440,12 @@
     },
     {
       "title": "サンダーランド v AZ、ミラノ v ベンフィカそして多く:ヨーロッパリーグ Clockwatch - ライブ",
-      "summary": "8pm BST キックオフからライブのアップデートインテル roar back to beat Udinese 入手する 連絡!Email Niall どんな想いでもサンダーランド’ s は、1973-74 年に渡されたヨーロッパの唯一のキャンペーンで、Division Two フィクスチャーとのキャンペーン Hungary’s Vasas ポルトガルのスポーツ選手が2-1 を失う前に地元の人々と時間をかけて過ごしたポルトガルのスポーツ Roker Park. リスボンの2-0 勝利は、終了するのに十分だったサンダーランド’ s の 大陸の野望... 今まで. 異常終了後",
+      "summary": "8pm BST キックオフからのライブアップデート チャンピオンシップ Xhaka は「ファイア」を約束します | ライブスコアボード 連絡を取る!Email Niall どんな想いでも ザ・オブ・ザ・サンダーランドキャプテン,Granit Xhaka, 夜行の訪問者に不測の警告を発射しました: 競技場は火で行われます。そして、火の上で、ボールを脱いでいるプレイヤーを見たい。私はいつも夢想家であり、私にとって、それは別のヨーロッパの決勝に到達し、このクラブでそれを得るために大きな夢です。続きを読む...",
       "title_original": "Sunderland v AZ, Milan v Benfica and more: Europa League clockwatch – live",
-      "summary_original": "⚽ Live updates from the 8pm BST kick-offs ⚽ European roundup: Inter roar back to beat Udinese ⚽ Get in touch! Email Niall with any thoughts Sunderland’s only previous European campaign came in 1973-74, when they balanced a Division Two campaign with fixtures against Hungary’s Vasas and Sporting of Portugal, whose players spent time with the locals before losing 2-1 at Roker Park. A 2-0 victory back in Lisbon was enough to end Sunderland’s continental ambitions … until now. After an extraordinary",
+      "summary_original": "⚽ Live updates from the 8pm BST kick-offs ⚽ Xhaka promises ‘fire’ | Live scoreboard ⚽ Get in touch! Email Niall with any thoughts The Sunderland captain, Granit Xhaka, has fired an incendiary warning to tonight’s visitors: The stadium will be on fire. And I want to see our players on fire, on and off the ball. I’ve always been a dreamer and, for me, it’s a big, big dream to reach another European final and to get it with this club. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/16/sunderland-v-az-milan-v-benfica-and-more-europa-league-clockwatch-live",
-      "published": "Wed, 16 Sep 2026 17:30:25 GMT",
+      "published": "Wed, 16 Sep 2026 17:48:34 GMT",
       "category": "uel",
       "type": "uel",
       "label": "EL",
@@ -3509,10 +3509,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "米国は、U-20 から出口を失望するためにブラジルに落ちます Women’s World Cup",
-      "summary": "アメリカンズは、2012 年の米国ユースチームは、U-20 のタイミングで最新のショーで闘っているので、トーナメントを獲得していない World Cup 批判を描きました。アメリカ合衆国 U-20 から排除された Women’s World Cup 水曜日の最後の16 で、余分な時間後に1-1 にプレーした後、ペナルティでブラジルに落ちる。ブラジルのゴールキーパーThaís Lima 重要な保存をしました Emeri Adames’s シュートアウトを開始しようとすると、カトウシスで5〜4 本目のフィニッシングを開いて、Poland. The 結果は難しい実行を拡張します",
-      "title_original": "USA fall to Brazil on penalties for disappointing exit from U-20 Women’s World Cup",
-      "summary_original": "Americans have not won tournament since 2012 US youth teams have struggled in recent showings Timing of U-20 World Cup has drawn criticism The United States were eliminated from the U-20 Women’s World Cup in the last 16 on Wednesday, falling to Brazil on penalties after playing to a 1-1 draw after extra-time. Brazil goalkeeper Thaís Lima made a crucial save on Emeri Adames’s attempt to begin the shootout, opening the eventual 5-4 finish in Katowice, Poland. The result extends a difficult run of ",
+      "title": "米国出口 U-20World Cup 大会のタイミングで罰則が批判を描きます",
+      "summary": "ブラジルは四半期金融に進出 Poland Americans2012 年の米国ユースチームは、最近のショーに苦しんでいるので、トーナメントを獲得していない ザ・オブ・ザ・アメリカ合衆国 U-20 から排除された Women’s World Cup 水曜日の最後の16 で、余分な時間後に1-1 にプレーした後、ペナルティでブラジルに落ちる。ブラジルのゴールキーパーThaís Lima 重要な保存をしました Emeri Adames’s シュートアウトを開始しようとすると、カトヴィスで5〜4 本目のフィニッシュを開いてください。Poland. The 結果は f の困難な実行を拡張します。",
+      "title_original": "USA exits U-20 World Cup on penalties as tournament’s timing draws criticism",
+      "summary_original": "Brazil advances to quarter-finals in Poland Americans have not won tournament since 2012 US youth teams have struggled in recent showings The United States were eliminated from the U-20 Women’s World Cup in the last 16 on Wednesday, falling to Brazil on penalties after playing to a 1-1 draw after extra-time. Brazil goalkeeper Thaís Lima made a crucial save on Emeri Adames’s attempt to begin the shootout, opening the eventual 5-4 finish in Katowice, Poland. The result extends a difficult run of f",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/16/usa-brazil-u20-womens-world-cup",
       "published": "Wed, 16 Sep 2026 17:14:43 GMT",
@@ -3887,9 +3887,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "サンダーランド対比 AZ アルクマールチームニュース LIVE!",
+      "title": "サンダーランド3 つの変更を対決する AZ LIVE!",
       "summary": "",
-      "title_original": "Sunderland vs AZ Alkmaar team news LIVE!",
+      "title_original": "Sunderland make three changes vs AZ LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/sunderland-vs-az-alkmaar/live/577749",
@@ -4097,9 +4097,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "BMW PGA Pro-Am 獲得を問い合わせ Wentworth イベントでどの有名人が再生されていますか?",
+      "title": "フィッツパトリック「快適ではない」再生中東紛争中イベント",
       "summary": "",
-      "title_original": "BMW PGA Pro-Am under way! Which celebs are playing in Wentworth event?",
+      "title_original": "Fitzpatrick 'not comfortable' playing Middle East events amid conflict",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13586094/bmw-pga-championship-pro-am-tee-times-celebrity-handicaps-highlights-as-gareth-bale-john-terry-eden-hazard-feature",
