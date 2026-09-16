@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-16T16:07:28.774699+00:00",
+  "updated_at": "2026-09-16T16:29:23.903264+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "César Luis Merlo": "",
-    "Guillermo Hoyos": "",
     "South Florida": "",
     "Harrison Armstrong": "",
     "BlueSky Oliver Glasner": "",
@@ -3001,7 +2999,9 @@
     "Max Dowman's": "",
     "Gran Alicant. As": "",
     "Dick Turpin": "ディック・ターピン",
-    "Iran Three": ""
+    "Iran Three": "",
+    "Arsenal’s Dowman": "",
+    "Ipswich Merino": ""
   },
   "items": [
     {
@@ -3425,6 +3425,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「彼らは非常に似ています」:アーセナルドーマンがマーリーノを思い出させるラミン・ヤマル",
+      "summary": "ティーンエイジャーは開発を続け、2 ゴール獲得を問い合わせイプスウィッチマーリーノ:「彼は大きな才能であり、私たちは彼の世話をしなければなりません」ミケル・メリーノコメント Max Dowman 彼を思い出させるラミン・ヤマルアフターアーセナルプロディジーは、彼の側面の4-2 で2 回スコアリングによって彼の開発を続けましたイプスウィッチ. Dowman, 上級レベルの機会のホストを与えられた人ミケル・アルテタ、シーズンの最初の外観を手渡した後に主演ポートマン・ロード獲得を問い合わせ Tuesday. The16 歳の攻撃者のクラスティーダブル",
+      "title_original": "‘They are very similar’: Arsenal’s Dowman reminds Merino of Lamine Yamal",
+      "summary_original": "Teenager continues development with two goals at Ipswich Merino: ‘He is a big talent and we have to take care of him’ Mikel Merino says Max Dowman reminds him of Lamine Yamal after the Arsenal prodigy continued his development by scoring twice in his side’s 4-2 win against Ipswich . Dowman, who has been given a host of opportunities at senior level by Mikel Arteta, starred after being handed his first appearance of the season, at Portman Road on Tuesday. The 16-year-old attacker’s classy double ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/16/they-are-very-similar-arsenals-dowman-reminds-merino-of-lamine-yamal",
+      "published": "Wed, 16 Sep 2026 16:00:23 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Football Daily| マドリッドは T シャツのトラブルとエルチェの傷跡の後に厄介な夜に耐える",
       "summary": "今すぐ登録! 今すぐ登録! 今すぐサインアップ 今すぐ登録! 伝統的なスペイン文化を取り入れながら、ラ・リーガマッチ数年前,Football Daily そして、いくつかの友人は、Gran Alicant. As 四肢のボデガを残すために準備しました(ディック・ターピン)、地元のホウチ(ギネス)をサンプリングし、近隣のスタジアムに旅行し、迷惑なマッケムを持つ高齢者の地元住民は、私たちがヘディングしていたエルチェホームゲームが t までプレーされていないことを知らせました",
       "title_original": "Football Daily | Madrid endure an awkward night after T-shirt trouble and Elche scare",
@@ -3450,6 +3464,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Xhaka は「火」を約束しますサンダーランド欧州への長期帰国",
+      "summary": "Wearsiders が AZ をホストする際の気密な雰囲気を楽しみにしているキャプテン、53 年後の時サンダーランド最後のヨーロッパのフットボール、クラブディレクターは、フラッドライトのアップグレードに資金を供給するために必要な現金を調達する有用な手段としてそれを見た Roker Park イングランドのワイドなカラーテレビの採用が必見です。1973 年秋、黒と白の放送の要求に対応した照明システムが普及し、サンダーランドドウブの対応",
+      "title_original": "Xhaka promises ‘fire’ from Sunderland on long-awaited return to Europe",
+      "summary_original": "Captain looking forward to intimidating atmosphere when Wearsiders host AZ, after 53 years away When Sunderland last played European football, club directors viewed it as a useful means of raising the cash necessary to fund floodlight upgrades at Roker Park necessitated by England’s widespread adoption of colour television. Back in the autumn of 1973 a lighting system compatible with the demands of broadcasting in black and white was proving increasingly outdated and Sunderland responded by doub",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/16/xhaka-sunderland-european-riches-alkmaar",
+      "published": "Wed, 16 Sep 2026 07:00:13 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3481,20 +3509,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Xhaka は「火」を約束しますサンダーランド欧州への長期帰国",
-      "summary": "Wearsiders が AZ をホストする際の気密な雰囲気を楽しみにしているキャプテン、53 年後の時サンダーランド最後のヨーロッパのフットボール、クラブディレクターは、フラッドライトのアップグレードに資金を供給するために必要な現金を調達する有用な手段としてそれを見た Roker Park イングランドのワイドなカラーテレビの採用が必見です。1973 年秋、黒と白の放送の要求に対応した照明システムが普及し、サンダーランドドウブの対応",
-      "title_original": "Xhaka promises ‘fire’ from Sunderland on long-awaited return to Europe",
-      "summary_original": "Captain looking forward to intimidating atmosphere when Wearsiders host AZ, after 53 years away When Sunderland last played European football, club directors viewed it as a useful means of raising the cash necessary to fund floodlight upgrades at Roker Park necessitated by England’s widespread adoption of colour television. Back in the autumn of 1973 a lighting system compatible with the demands of broadcasting in black and white was proving increasingly outdated and Sunderland responded by doub",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/xhaka-sunderland-european-riches-alkmaar",
-      "published": "Wed, 16 Sep 2026 07:00:13 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Watching Cavan Sullivan、興奮は hypetrains の過去の記憶によって緩和されます",
       "summary": "16 歳のユニオンスターは、アメリカのサッカー球によって与えられる最初のワンダーkind ではありません 嫌がらせを起こさないトラブル Cavan Sullivan クールなものをやっているのだから。過去の週末と同様に、彼はキャンプを乗り越えるとき Philadelphia Union ブレークアウト, 突然停止することにより、彼の男を失う, 彼はリコードを引っ張っているかのように、それは突然です, バックヒールは、彼の立脚の背後にあるカットバック, それはゆっくりと遠くのポストと内側にキスを見ます, そして、想像上のトップをふるいとふるまいでゴールを祝いました",
       "title_original": "Watching Cavan Sullivan, excitement is tempered by memories of hypetrains past",
@@ -3520,20 +3534,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Max Dowman ダブルアップアーセナルの バックアップをビートにイプスウィッチ獲得を問い合わせ EFL カップ",
-      "summary": "みんなの悪いニュースは、アーセナルの next generation は、ここにある。2 つの魅惑的な目標と、そこからの人格表示の助け Max Dowman16 歳が特定のものと比較していた理由リオネル・メッシマネージャー、ミケル・アルテタ, としてイプスウィッチ片面にくつろげました。17 歳までのパフォーマンスが印象的だった Marli Salmon, 彼のキャリアの2 番目のシニアスタートだけに集中防衛のクラスを省略した人.イプスウィッチ最後まで勝ちました",
-      "title_original": "Max Dowman doubles up for Arsenal’s back-ups to beat Ipswich in Carabao Cup",
-      "summary_original": "The bad news for everyone else is that Arsenal’s next generation is already here. Two mesmerising goals and an assist in a man-of-the-match display from Max Dowman underlined why the 16-year-old has been compared to a certain Lionel Messi by his manager, Mikel Arteta, as Ipswich were swatted aside with ease. Almost as impressive was the performance of the 17-year-old Marli Salmon, who oozed class in central defence on only the second senior start of his career. Ipswich won here the last time the",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/ipswich-arsenal-carabao-cup-third-round-match-report",
-      "published": "Tue, 15 Sep 2026 21:14:31 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3901,20 +3901,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナル最新: マルティネスのガブリエルキックはなかったレッドカード KMI パネル",
-      "summary": "",
-      "title_original": "Arsenal latest: Gabriel kick on Martinez was NOT red card, says KMI panel",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Wed, 16 Sep 2026 11:15:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ワールドグランプリタイトルを守るためにリトルルックとして確認されたスケジュール",
       "summary": "ザ・オブ・ザ・ワールドグランプリ開催場所 Leicester's Mattioli Arena9 月28 日(水)より、スカイスポーツにライブ。",
       "title_original": "World Grand Prix schedule confirmed as Littler looks to defend title",
@@ -3926,6 +3912,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アーセナル最新: メリノは類似性を見ているラミン・ヤマルドウマン",
+      "summary": "",
+      "title_original": "Arsenal latest: Merino sees similarities to Lamine Yamal with Dowman",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Wed, 16 Sep 2026 17:07:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4013,20 +4013,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヨーロピアンツアー2027 スケジュールへの大きな変化を発表",
-      "summary": "ザ・オブ・ザ・ヨーロピアンツアー2027 年(平成27 年)の新日発表 BMW PGA 選手権来年のカレンダーの大きなスケジュール変更を明らかにしたので。",
-      "title_original": "DP World Tour unveils big changes to 2027 schedule",
-      "summary_original": "The DP World Tour has announced a new date for the 2027 BMW PGA Championship, as it unveiled a series of big schedule changes for next year's calendar.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13588539/dp-world-tour-bmw-pga-championship-gets-new-date-for-2027-due-to-ryder-cup-as-significant-schedule-changes-announced",
-      "published": "Wed, 16 Sep 2026 11:24:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "BMW PGA Pro-Am 獲得を問い合わせ Wentworth イベントでどの有名人が再生されていますか?",
       "summary": "",
       "title_original": "BMW PGA Pro-Am under way! Which celebs are playing in Wentworth event?",
@@ -4034,6 +4020,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13586094/bmw-pga-championship-pro-am-tee-times-celebrity-handicaps-highlights-as-gareth-bale-john-terry-eden-hazard-feature",
       "published": "Tue, 15 Sep 2026 16:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ヨーロピアンツアー2027 スケジュールへの大きな変化を発表",
+      "summary": "ザ・オブ・ザ・ヨーロピアンツアー2027 年(平成27 年)の新日発表 BMW PGA 選手権来年のカレンダーの大きなスケジュール変更を明らかにしたので。",
+      "title_original": "DP World Tour unveils big changes to 2027 schedule",
+      "summary_original": "The DP World Tour has announced a new date for the 2027 BMW PGA Championship, as it unveiled a series of big schedule changes for next year's calendar.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13588539/dp-world-tour-bmw-pga-championship-gets-new-date-for-2027-due-to-ryder-cup-as-significant-schedule-changes-announced",
+      "published": "Wed, 16 Sep 2026 11:24:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
