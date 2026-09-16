@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-16T08:06:37.440803+00:00",
+  "updated_at": "2026-09-16T08:27:41.379171+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Ole Gunnar Solskjær’s": "",
     "Manchester United’s": "",
     "Cristiano Ronaldo": "クリスティアーノ・ロナウド",
     "Old Traffo": "",
@@ -3001,7 +3000,8 @@
     "Iran Just": "",
     "Team Melli": "サッカーイラン代表",
     "Seb Fisher": "",
-    "Jana Fernandez": ""
+    "Jana Fernandez": "",
+    "Anfield. Liverpool": ""
   },
   "items": [
     {
@@ -3040,6 +3040,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cxnvl2nv525ro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 05:46:28 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "例-トッテナムミッドフィルダービスソウが完了アヤックスログイン",
+      "summary": "過去の投稿トッテナムミッドフィルダーイヴ・ビスマ獲得を問い合わせアヤックス季節の終わりまで走る初期の移籍。",
+      "title_original": "Ex-Spurs midfielder Bissouma completes Ajax move",
+      "summary_original": "Former Tottenham midfielder Yves Bissouma has joined Ajax on an initial deal that runs until the end of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4gr5pm7eg9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 08:13:42 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3131,20 +3145,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "灰色は「そうでなければ言われるまで続行します」 - しかし、ハイブスボスはファンを失った?",
-      "summary": "ヘッドコーチデヴィッド・グレイ彼の側が6 番目の連続ホーム敗北に苦しんだ後、彼は Hibernian の貧しい形態「誰かが何かを言うためにあった」に解決策を試してみると、彼は言うだろうスコティッシュ・プレミアシップ.",
-      "title_original": "Gray 'will continue until told otherwise' - but has Hibs boss lost the fans?",
-      "summary_original": "Head coach David Gray says he will continue to try and find solutions to Hibernian's poor form \"until someone was to say something different\" after his side suffered a sixth consecutive home defeat in the Scottish Premiership.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvwyzwr5g76go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 22:58:27 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Does Bellamy バックウェールズのファンを獲得する必要がありますか?",
       "summary": "「眠らない夜」の後、ウェールズのボスクレイグ・ベラミー管理するチャンスを下げることにしたバーンリー- しかし、ファンが彼に何を考えているかに影響しましたか?",
       "title_original": "Does Bellamy need to win back Wales fans?",
@@ -3166,6 +3166,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 19:25:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "灰色は「そうでなければ言われるまで続行します」 - しかし、ハイブスボスはファンを失った?",
+      "summary": "ヘッドコーチデヴィッド・グレイ彼の側が6 番目の連続ホーム敗北に苦しんだ後、彼は Hibernian の貧しい形態「誰かが何かを言うためにあった」に解決策を試してみると、彼は言うだろうスコティッシュ・プレミアシップ.",
+      "title_original": "Gray 'will continue until told otherwise' - but has Hibs boss lost the fans?",
+      "summary_original": "Head coach David Gray says he will continue to try and find solutions to Hibernian's poor form \"until someone was to say something different\" after his side suffered a sixth consecutive home defeat in the Scottish Premiership.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvwyzwr5g76go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 22:58:27 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3198,20 +3212,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "セルティック& スコットランドの伝説の McGrain はアルツハイマー病と診断",
-      "summary": "Danny McGrain, によって記述されるセルティックアルツハイマー病と診断された「スコットランドの最大のフルバック」として、家族は確認しています。",
-      "title_original": "Celtic & Scotland legend McGrain diagnosed with Alzheimer's",
-      "summary_original": "Danny McGrain, described by Celtic as \"Scotland's greatest-ever full-back\", has been diagnosed with Alzheimer's disease, his family confirms.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmew98xy54pjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 13:49:55 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3292,6 +3292,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmly43kkyz45o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 14 Sep 2026 11:05:43 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "セルティック& スコットランドの伝説の McGrain はアルツハイマー病と診断",
+      "summary": "Danny McGrain, によって記述されるセルティックアルツハイマー病と診断された「スコットランドの最大のフルバック」として、家族は確認しています。",
+      "title_original": "Celtic & Scotland legend McGrain diagnosed with Alzheimer's",
+      "summary_original": "Danny McGrain, described by Celtic as \"Scotland's greatest-ever full-back\", has been diagnosed with Alzheimer's disease, his family confirms.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmew98xy54pjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 13:49:55 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3380,20 +3394,6 @@
       "type": "ucl",
       "label": "CL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Ni は merit - O'Neill でのみピックアップ",
-      "summary": "北アイルランドマネージャーMichael O'Neill 彼は彼のスクワットを選択する際に Fifa の適格性規則を考慮に入れることはありませんと言う.",
-      "title_original": "NI squad only picked on merit - O'Neill",
-      "summary_original": "Northern Ireland manager Michael O'Neill says he would never take Fifa eligibility rules into consideration when selecting his squad.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cked7wng4557o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 21:01:37 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3873,6 +3873,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "草、瞑想などを食べる -What Tuchel ウイルスドキュメンタリーで言った",
+      "summary": "トーマス・トゥヘルピッチの後にアステカから草を食べたい England's World Cup この夏はメキシコで勝つ。",
+      "title_original": "Eating grass, meditation and more – What Tuchel said in viral documentary",
+      "summary_original": "Thomas Tuchel wishes he'd eaten grass from the Azteca pitch after England's World Cup win over Mexico this summer.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13588472/thomas-tuchel-england-boss-on-world-cup-reflections-wishing-hed-eaten-azteca-grass-and-an-exciting-future",
+      "published": "Wed, 16 Sep 2026 08:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "レアル・マドリードリーダーとポイントでレベルを移動させるための怪我タイムの勝者をスコアバルセロナ",
       "summary": "",
       "title_original": "Real Madrid score injury-time winner to move level on points with leaders Barcelona",
@@ -4108,20 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Szoboszlai は30 ヤードの SCREAMER をとして評価しますリヴァプールビートトッテナム進行状況",
-      "summary": "ハイライト EFL カップ間のマッチリヴァプールそして、トッテナム.",
-      "title_original": "Szoboszlai scores 30-yard SCREAMER as Liverpool beat Spurs to progress",
-      "summary_original": "Highlights of the Carabao Cup match between Liverpool and Tottenham.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13586401/liverpool-3-1-spurs-carabao-cup-highlights",
-      "published": "Tue, 15 Sep 2026 22:20:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
