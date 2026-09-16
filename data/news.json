@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-16T21:39:12.081538+00:00",
+  "updated_at": "2026-09-16T21:51:24.281950+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Joseph Opoku": "",
-    "Eom Ji-sung": "",
-    "Sky Bet Championship": "EFLチャンピオンシップ",
-    "Will Lankshear": "",
     "Oliver Glasner": "オリヴァー・グラスナー",
     "Víctor Muñoz": "",
     "Andoni Iraola’s Anfield": "",
@@ -3001,7 +2997,11 @@
     "Enzo Le Fee's": "",
     "Anthony Gordon’s": "",
     "Al-Hilal Ronaldo": "",
-    "Diogo Jota. The Al-Hilal": ""
+    "Diogo Jota. The Al-Hilal": "",
+    "De Cuyper": "",
+    "Brighton. Capitulating": "",
+    "Jason Steele": "",
+    "Fleetwood Town": "フリートウッド・タウンFC"
   },
   "items": [
     {
@@ -3425,13 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド 2-3 ブライトン、コベントリー 1-3 アストン・ヴィラそして多く:EFL カップ Clockwatch - ライブ",
-      "summary": "第3 戦の試合からライブ更新マンチェスター・ユナイテッドとして衝撃される JJ Gabriel 連絡を取りなさい 連絡を取りなさい 連絡を取りなさい 連絡して下さい!Email Will どんな想いでも Poor Joshua Zirkzee ゲームの獲得はできません。EFL カップ. 来年数に数分かかると確信しています。Max Dowman これからもよろしくお願いします。ミケル・メリーノ特定のものへの類似性ラミン・ヤマル高く評価される。続きを読む...",
-      "title_original": "Manchester United 2-3 Brighton, Coventry 1-3 Aston Villa and more: Carabao Cup clockwatch – live",
-      "summary_original": "⚽ Live updates from four third-round matches ⚽ Manchester United shocked as JJ Gabriel asks to leave ⚽ Get in touch! Email Will with any thoughts Poor Joshua Zirkzee cannot get a game in the Carabao Cup. I am not sure he will get many minutes in the months to come. Max Dowman continues to be good. Mikel Merino can similarities to a certain Lamine Yamal, which is high praise. Continue reading...",
+      "title": "De Cuyper そして、ブライトン痛みのためのパイルマンチェスター・ユナイテッドコールバック",
+      "summary": "4 日間にわたってマンチェスター・ユナイテッド第199 回ダービーを失ってしまったマンチェスター・シティ, によって語られた JJ Gabriel 去りたいと思い、今はノックアウトしてきた EFL カップによってブライトン. 2-0 の上の後キャピチュレーションはこれらの dzzying の打撃のピックであり、いつマーカス・ラッシュフォード3〜3 月下旬にネクタイを連れて行くチャンスでスケートした、彼はヒットした驚きはありません Jason Steele ネットではなく。続きを読む...",
+      "title_original": "De Cuyper and Brighton pile on pain for Manchester United with comeback",
+      "summary_original": "Across four days Manchester United have lost the 199th derby to Manchester City, were told by JJ Gabriel he wants to leave, and have now been knocked out of the Carabao Cup by Brighton. Capitulating after being 2-0 up may be the pick of these dizzying blows, and when Marcus Rashford skated in with the chance to take the tie to 3-3 late on, there was no surprise he hit Jason Steele rather than the net. Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
-      "published": "Wed, 16 Sep 2026 21:24:49 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/16/manchester-united-brighton-carabao-cup-third-round-match-report",
+      "published": "Wed, 16 Sep 2026 21:18:39 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3845,6 +3845,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リヴァプールフェイスチェルシーとして EFL カップ4 ラウンドドロー確認",
+      "summary": "リヴァプールホストチェルシー4 ラウンドで EFL カップ, しばらくプレミアリーグチャンピオンアーセナル競争に残っている最も低い側面を描きました、フリートウッド・タウン FC.",
+      "title_original": "Liverpool face Chelsea as Carabao Cup fourth-round draw confirmed",
+      "summary_original": "Liverpool will host Chelsea in the fourth round of the Carabao Cup, while Premier League champions Arsenal have drawn the lowest-ranked side left in the competition, Fleetwood Town.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13588651/carabao-cup-fourth-round-draw-liverpool-to-host-chelsea-as-arsenal-drawn-away-to-league-two-fleetwood",
+      "published": "Wed, 16 Sep 2026 22:36:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "サンダーランドヨーロッパの冒険を始めよう AZ アルクマールログイン",
+      "summary": "Enzo Le Fee's 保障されるペナルティサンダーランドキックオフヨーロッパリーグ1-0 の勝利で冒険 AZ アルクマール光のスタジアムで。",
+      "title_original": "Sunderland begin European adventure with AZ Alkmaar win",
+      "summary_original": "Enzo Le Fee's penalty ensured Sunderland kicked off their Europa League adventure with a 1-0 win over AZ Alkmaar at the Stadium of Light.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/sunderland-vs-az-alkmaar/report/577749",
+      "published": "Wed, 22 Jul 2026 22:00:00 BST",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "エヴァートン遅いストライクして、多くの変化したウルブを打つ EFL カップ",
       "summary": "Substitute Charly Alcaraz 後半の勝者に与えるためにヒットエヴァートン1-0 ホームは3 番目のラウンドで、はるかに変化したボルブの上に勝ちます EFL カップ.",
       "title_original": "Everton strike late to beat much-changed Wolves in Carabao Cup",
@@ -3898,20 +3926,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "サンダーランドヨーロッパの冒険を始めよう AZ アルクマールログイン",
-      "summary": "Enzo Le Fee's 保障されるペナルティサンダーランドキックオフヨーロッパリーグ1-0 の勝利で冒険 AZ アルクマール光のスタジアムで。",
-      "title_original": "Sunderland begin European adventure with AZ Alkmaar win",
-      "summary_original": "Enzo Le Fee's penalty ensured Sunderland kicked off their Europa League adventure with a 1-0 win over AZ Alkmaar at the Stadium of Light.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/sunderland-vs-az-alkmaar/report/577749",
-      "published": "Wed, 22 Jul 2026 22:00:00 BST",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4108,20 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "F1 は2027 年のカレンダーを発表し、スプリントラウンドの増加",
-      "summary": "フォーミュラ1 は2027 のカレンダーを発表し、6 から10 までのスプリント週末の数が増えました。",
-      "title_original": "F1 announce 2027 calendar and increase in Sprint rounds",
-      "summary_original": "Formula 1 has announced its 2027 calendar and an increase in the number of Sprint weekends from six to 10, with the season starting in Bahrain.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13588439/f1-2027-calendar-announced-with-bahrain-to-host-season-opener-and-increase-in-sprint-weekends-in-24-race-schedule",
-      "published": "Wed, 16 Sep 2026 10:01:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
