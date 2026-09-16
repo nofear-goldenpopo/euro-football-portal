@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-16T19:37:05.219416+00:00",
+  "updated_at": "2026-09-16T19:51:07.857222+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Monchengladbach Mainz": "",
-    "Paderbom Cologne": "",
-    "Hoffenheim Union Berlin": "",
-    "Eintracht Frankfurt SV Elversberg": "",
-    "Bayer Leverkusen Continue": "",
     "Everton LIVE": "",
     "West Brom": "",
     "No McGregor": "",
@@ -3001,7 +2996,12 @@
     "Peter Oh. Continue": "",
     "World Cup US": "",
     "Guardian Wednesday": "",
-    "Stunning Torp": ""
+    "Stunning Torp": "",
+    "Wednesday. The": "",
+    "BMW PGA Championship Pro-Am": "",
+    "Gareth Bale": "ガレス・ベイル",
+    "Wednesday's BMW PGA Championship": "",
+    "Everton's Barry": ""
   },
   "items": [
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽ Live updates from four third-round matches ⚽ Manchester United shocked as JJ Gabriel asks to leave ⚽ Get in touch! Email Will with any thoughts Poor Joshua Zirkzee cannot get a game in the Carabao Cup. I am not sure he will get many minutes in the months to come. Max Dowman continues to be good. Mikel Merino can similarities to a certain Lamine Yamal, which is high praise. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
-      "published": "Wed, 16 Sep 2026 19:27:59 GMT",
+      "published": "Wed, 16 Sep 2026 19:38:38 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3445,7 +3445,7 @@
       "summary_original": "⚽ Live updates from the 8pm BST kick-offs ⚽ Xhaka promises ‘fire’ | Live scoreboard ⚽ Get in touch! Email Niall with any thoughts Manchester United host Brighton, and there are not one but two heads of state in attendance as Everton entertain Wolves. Join Will Unwin for the latest Carabao Cup fun. “Given Granit Xhaka’s scorching comments, will it turn out to be the Stadium of (Come On Baby) Light My Fire?” asks Peter Oh. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/16/sunderland-v-az-milan-v-benfica-and-more-europa-league-clockwatch-live",
-      "published": "Wed, 16 Sep 2026 19:27:36 GMT",
+      "published": "Wed, 16 Sep 2026 19:37:30 GMT",
       "category": "uel",
       "type": "uel",
       "label": "EL",
@@ -3510,9 +3510,9 @@
     },
     {
       "title": "米国出口 U-20World Cup 大会のタイミングで罰則が批判を描きます",
-      "summary": "ブラジルは四半期金融に進出 Poland Americans2012 年の米国ユースチームは、最近のショーに苦しんでいるので、トーナメントを獲得していない ザ・オブ・ザ・アメリカ合衆国 U-20 から排除された Women’s World Cup 水曜日の最後の16 で、余分な時間後に1-1 にプレーした後、ペナルティでブラジルに落ちる。ブラジルのゴールキーパーThaís Lima 重要な保存をしました Emeri Adames’s シュートアウトを開始しようとすると、カトヴィスで5〜4 本目のフィニッシュを開いてください。Poland. The 結果は f の困難な実行を拡張します。",
-      "title_original": "USA exits U-20 World Cup on penalties as tournament’s timing draws criticism",
-      "summary_original": "Brazil advances to quarter-finals in Poland Americans have not won tournament since 2012 US youth teams have struggled in recent showings The United States were eliminated from the U-20 Women’s World Cup in the last 16 on Wednesday, falling to Brazil on penalties after playing to a 1-1 draw after extra-time. Brazil goalkeeper Thaís Lima made a crucial save on Emeri Adames’s attempt to begin the shootout, opening the eventual 5-4 finish in Katowice, Poland. The result extends a difficult run of f",
+      "summary": "ブラジルは四半期に進出 Poland Americans2012 年の米国ユースチームは、最近のショーに苦しんでいるので、トーナメントを獲得していない ザ・オブ・ザ・アメリカ合衆国 U-20 から排除された Women’s World Cup 水曜日の最後の16 で、余分な時間後に1-1 にプレーした後、ペナルティでブラジルに落ちる。ブラジルのゴールキーパーThaís Lima 重要な保存をしました Emeri Adames’s シュートアウトを開始しようとすると、カトヴィスで5〜4 本目のフィニッシュを開いてください。Poland. The 結果は、霧の困難な実行を拡張します",
+      "title_original": "USA exit U-20 World Cup on penalties as tournament’s timing draws criticism",
+      "summary_original": "Brazil advance to quarter-finals in Poland Americans have not won tournament since 2012 US youth teams have struggled in recent showings The United States were eliminated from the U-20 Women’s World Cup in the last 16 on Wednesday, falling to Brazil on penalties after playing to a 1-1 draw after extra-time. Brazil goalkeeper Thaís Lima made a crucial save on Emeri Adames’s attempt to begin the shootout, opening the eventual 5-4 finish in Katowice, Poland. The result extends a difficult run of fo",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/16/usa-brazil-u20-womens-world-cup",
       "published": "Wed, 16 Sep 2026 17:14:43 GMT",
@@ -3635,10 +3635,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "USMNT を 16 歳と呼ぶ Cavan Sullivan 友達に",
-      "summary": "Sullivan には6 つの目標と8 つのアシストポストがあります。World Cup US 次のウィンドウで4 つのゲームを再生 Philadelphia Union ミッドフィルダーCavan Sullivan 初めて獲得するインテル国家コールアップとアメリカ合衆国今月、男性のナショナルチーム、ロスターの知識を持つソースは、Guardian Wednesday 朝ごはん ソースは、ロースターを議論するために許可されていないので、匿名性を要求しました。アメリカ合衆国9 月下旬にチリ、ペルー、メキシコ、カナダに面し、米国ヘッドコーチモーリシオ",
-      "title_original": "USMNT to call 16-year-old Cavan Sullivan for friendlies",
-      "summary_original": "Sullivan has six goals and eight assists post-World Cup US plays four games in upcoming window Philadelphia Union midfielder Cavan Sullivan is set to earn his first international call-up with the United States men’s national team later this month, a source with knowledge of the roster told the Guardian Wednesday morning. The source requested anonymity as they were not authorized to discuss the roster. The US will face Chile, Peru, Mexico and Canada in late September, with US head coach Mauricio ",
+      "title": "USMNT を16 歳まで呼び出す Cavan Sullivan 近日公開予定",
+      "summary": "Sullivan には6 つの目標と8 つのアシストポストがあります。World Cup US 次のウィンドウで4 つのゲームを再生 Philadelphia Union ミッドフィルダーCavan Sullivan 初めて獲得するインテル国家コールアップとアメリカ合衆国今月、男性のナショナルチーム、ロスターの知識を持つソースは、ガーディアンに語った Wednesday. The ソースは、ロースターを議論するために許可されていないので、匿名性を要求しました。アメリカ合衆国9 月下旬と10 月上旬にチリ、ペルー、メキシコ、カナダに直面します。",
+      "title_original": "USMNT to call up 16-year-old Cavan Sullivan for upcoming friendlies",
+      "summary_original": "Sullivan has six goals and eight assists post-World Cup US play four games in upcoming window Philadelphia Union midfielder Cavan Sullivan is set to earn his first international call-up with the United States men’s national team later this month, a source with knowledge of the roster told the Guardian on Wednesday. The source requested anonymity as they were not authorized to discuss the roster. The US will face Chile, Peru, Mexico and Canada in late September and early October, with US head coa",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-usmnt",
       "published": "Wed, 16 Sep 2026 19:25:09 GMT",
@@ -3859,9 +3859,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "2 分2 分! レイシーとマウントストライキマンチェスター・ユナイテッド対比ブライトンライブ!",
+      "title": "ゲームオン!ブライトンバックを1 つ引きて下さいマンチェスター・ユナイテッドライブ!",
       "summary": "",
-      "title_original": "Two in two mins! Lacey and Mount strike for Man Utd vs Brighton LIVE!",
+      "title_original": "Game on! Brighton pull one back at Man Utd LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-united-vs-brighton-and-hove-albion/live/577581",
@@ -3873,9 +3873,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Stunning Torp フリーキックは、コベントリーレベルを対抗する Villa LIVE!",
+      "title": "Barkley は、ヴィラリードをグランシングヘッダと復元 Coventry LIVE!",
       "summary": "",
-      "title_original": "Stunning Torp free-kick draws Coventry level against Villa LIVE!",
+      "title_original": "Barkley restores Villa lead with glancing header vs Coventry LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/coventry-city-vs-aston-villa/live/577573",
@@ -3901,9 +3901,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Le Fee 投稿をヒットサンダーランドユーロリターン対 AZ LIVE!",
+      "title": "Le Fee 投稿をヒットサンダーランドユーロのリターン対のオープナのための押し AZ LIVE!",
       "summary": "",
-      "title_original": "Le Fee hits the post as Sunderland make Euro return vs AZ LIVE!",
+      "title_original": "Le Fee hits the post as Sunderland push for opener in Euro return vs AZ LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/sunderland-vs-az-alkmaar/live/577749",
@@ -3936,6 +3936,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13588553/f1-2027-calendar-monaco-staging-one-of-10-sprints-and-other-talking-points-from-race-schedule-reveal-for-next-season",
       "published": "Wed, 16 Sep 2026 12:12:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ベールヘッドライン BMW PGA 選手権 McIlroy が低スコアを撃つにつれて、Pro-Am",
+      "summary": "ガレス・ベイル水曜日の星名のリストを見出しました BMW PGA 選手権 Celebrity Pro-Am, としてローリー・マキロイ優れた12 アンダー60 を撮影。",
+      "title_original": "Bale headlines BMW PGA Championship Pro-Am, as McIlroy shoots low score",
+      "summary_original": "Gareth Bale headlined a star-studded list of names at Wednesday's BMW PGA Championship Celebrity Pro-Am, as Rory McIlroy shot an outstanding 12-under 60.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13588655/bmw-pga-championship-gareth-bale-headlines-celebrity-pro-am-as-rory-mcilroy-shoots-12-under-60-at-wentworth",
+      "published": "Wed, 16 Sep 2026 17:20:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4027,9 +4041,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Jimenez オフ 負傷 のために Wolves としてエヴァートン opener LIVE をプッシュ!",
+      "title": "エヴァートン’ s バリーはトップ セーブによって拒否され、ゴールレス 対 Wolves LIVE!",
       "summary": "",
-      "title_original": "Jimenez off injured for Wolves as Everton push for opener LIVE!",
+      "title_original": "Everton's Barry denied by top save to keep it goalless vs Wolves LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/everton-vs-wolverhampton-wanderers/live/577575",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13588472/thomas-tuchel-england-boss-on-world-cup-reflections-wishing-hed-eaten-azteca-grass-and-an-exciting-future",
       "published": "Wed, 16 Sep 2026 08:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フィッツパトリック「快適ではない」再生中東紛争中イベント",
-      "summary": "",
-      "title_original": "Fitzpatrick 'not comfortable' playing Middle East events amid conflict",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13586094/bmw-pga-championship-pro-am-tee-times-celebrity-handicaps-highlights-as-gareth-bale-john-terry-eden-hazard-feature",
-      "published": "Tue, 15 Sep 2026 16:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
