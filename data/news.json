@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-16T21:25:42.781061+00:00",
+  "updated_at": "2026-09-16T21:39:12.081538+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Matt Crooks": "",
-    "Hidemasa Morita": "",
-    "Victor Munoz": "",
     "Joseph Opoku": "",
     "Eom Ji-sung": "",
     "Sky Bet Championship": "EFLチャンピオンシップ",
@@ -3001,7 +2998,10 @@
     "Substitute Charly Alcaraz": "",
     "Tammy Abraham": "",
     "Coventry City": "コヴェントリー・シティFC",
-    "Enzo Le Fee's": ""
+    "Enzo Le Fee's": "",
+    "Anthony Gordon’s": "",
+    "Al-Hilal Ronaldo": "",
+    "Diogo Jota. The Al-Hilal": ""
   },
   "items": [
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽ Live updates from four third-round matches ⚽ Manchester United shocked as JJ Gabriel asks to leave ⚽ Get in touch! Email Will with any thoughts Poor Joshua Zirkzee cannot get a game in the Carabao Cup. I am not sure he will get many minutes in the months to come. Max Dowman continues to be good. Mikel Merino can similarities to a certain Lamine Yamal, which is high praise. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
-      "published": "Wed, 16 Sep 2026 21:10:14 GMT",
+      "published": "Wed, 16 Sep 2026 21:24:49 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3453,6 +3453,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「私の傷は、あなたの傷ではありません」: Tuchel はイングランドの準決勝サブスによって立っていますが、間違ったタイミングを認めます",
+      "summary": "コーチは、アルゼンチンのガンホのアプローチ強制的な手「誰も私よりも痛い、誰もそれを望んでいない」と言っていますトーマス・トゥヘル彼の重大な批判された防御的な置換によってスタンド World Cup この夏はアルゼンチンと準決勝戦ですが、イングランドのヘッドコーチは、彼があまりにも早く作ったことを認めます。トゥッチェルは、イギリスは「死を待ってる」と述べた。アトランタのアルゼンチンで攻撃的な戦術に対処することができないと、その後のゲームを追いかけた Anthony Gordon’s 開口部は1 時間です。彼は脂肪は言った",
+      "title_original": "‘My scar, not your scar’: Tuchel stands by England semi-final subs but admits wrong timing",
+      "summary_original": "Coach says Argentina’s gung-ho approach forced hand ‘No one is more hurt than me, no one wanted it more’ Thomas Tuchel stands by his heavily criticised defensive substitutions in the World Cup semi-final defeat against Argentina this summer, but the England head coach accepts he made them too early. Tuchel said England were “waiting for death”, unable to cope with the attacking tactics adopted by Argentina in Atlanta as they chased the game after Anthony Gordon’s opener on the hour. He said fati",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/16/tuchel-stands-england-semi-final-subs-wrong-timing-argentina-world-cup-2026",
+      "published": "Wed, 16 Sep 2026 21:05:50 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Saudi Pro League クラブ Al-Taawoun ハンド スタジアム 禁止 以上 Diogo Jota チャント",
+      "summary": "ファンは「Jota」の叫び声を聞きました Al-Hilal Ronaldo これらのサポーターの生涯禁止のために呼び出されました The Saudi Pro League クラブ Al-Taawoun は、約2 万ポンドの罰金を科され、後半にチャンテッドファンの後に2 つのゲームスタジアム禁止を与えられたリヴァプールそしてポルトガルは先に進みます Diogo Jota. The Al-Hilal ミッドフィルダーRúben Neves ヴォルフとポルトガルでジョタと遊んだ人は、アル・タオウンのファンが土曜日のリーグゲーム中に聴くことができる「Jota」の可聴性のチャントの後に空に魅了されました",
+      "title_original": "Saudi Pro League club Al-Taawoun handed stadium ban over Diogo Jota chants",
+      "summary_original": "Fans heard shouting chants of ‘Jota’ against Al-Hilal Ronaldo had called for lifetime bans for those supporters The Saudi Pro League club Al-Taawoun have been fined nearly £20,000 and given a two-game stadium ban after fans chanted about the late Liverpool and Portugal forward Diogo Jota. The Al-Hilal midfielder Rúben Neves, who played with Jota for Wolves and Portugal, was shown gesturing to the sky after audible chants of “Jota” from Al-Taawoun fans could be heard during Saturday’s league game",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/16/saudi-pro-league-club-al-taawoun-handed-stadium-ban-over-diogo-jota-chants",
+      "published": "Wed, 16 Sep 2026 21:13:14 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「彼らは非常に似ています」:アーセナルドーマンがマーリーノを思い出させるラミン・ヤマル",
       "summary": "ティーンエイジャーは開発を続け、2 ゴール獲得を問い合わせイプスウィッチマーリーノ:「彼は大きな才能であり、私たちは彼の世話をしなければなりません」ミケル・メリーノコメント Max Dowman 彼を思い出させるラミン・ヤマルアフターアーセナルプロディジーは、彼の側面の4-2 で2 回スコアリングによって彼の開発を続けましたイプスウィッチ. Dowman, 上級レベルの機会のホストを与えられた人ミケル・アルテタ、シーズンの最初の外観を手渡した後に主演ポートマン・ロード獲得を問い合わせ Tuesday. The16 歳の攻撃者のクラスティーダブル",
       "title_original": "‘They are very similar’: Arsenal’s Dowman reminds Merino of Lamine Yamal",
@@ -3460,6 +3488,34 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/16/they-are-very-similar-arsenals-dowman-reminds-merino-of-lamine-yamal",
       "published": "Wed, 16 Sep 2026 16:00:23 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Lewis Koumas 再生する 'リヴァプール未来のために飢餓と希望を示す方法",
+      "summary": "20 歳の前方は、彼を置く信仰に喜んでいましたアンドニ・イラオラ獲得を問い合わせトッテナムゲームと今は、一方の手と自分の携帯電話で試合の男とキックしたいです,Lewis Koumas 火曜日の夜にアンフィールドでメディアに話せるのを止める前に、非常に重要な呼び出しをしました。男の子のクラブを代表し、それを輝かせることは、すべて見るために明らかだったことを意味します。「私のお母さんだった」と言ったリヴァプール引き続き、受賞作品から光るコーディ・ガクポ h に手渡される",
+      "title_original": "Lewis Koumas on playing ‘the Liverpool way’, showing hunger and hopes for the future",
+      "summary_original": "The 20-year-old forward was delighted with the faith put in him by Andoni Iraola for the Tottenham game and now wants to kick on With a man of the match award in one hand and his phone in the other, Lewis Koumas made a very important call before stopping to speak to the media at Anfield on Tuesday night. What it means to represent your boyhood club, and to shine for it, was apparent for all to see. “That was my mum,” said the Liverpool forward, still beaming from the award Cody Gakpo handed to h",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/16/lewis-koumas-on-playing-the-liverpool-way-showing-hunger-and-hopes-for-the-future",
+      "published": "Wed, 16 Sep 2026 11:14:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マレスカ 言うマンチェスター・シティ紛争2023 ダービーゴール後の謝罪を待っています",
+      "summary": "論争のフェルナンデスのイコライザー都市の後のユナイテッドゲームは、血の若者に EFL カップノリッチに対するゲームエンツォ・マレスカ彼は言ったマンチェスター・ユナイテッド日曜日に論争のダービーの勝者を訴えることができないためマンチェスター・シティ受審者のチーフから謝罪をお待ちしています。ハワード・ウェブ、同じ据え付け品3 年前の一致定義の決定のため。失われた都市オールド・トラッフォード2023 年以降ブルーノ・フェルナンデスオフサイドにもかかわらず均等化マーカス・ラッシュフォード t を閉じる",
+      "title_original": "Maresca says Manchester City still waiting for apology after disputed 2023 derby goal",
+      "summary_original": "United won game after controversial Fernandes equaliser City to blood youngsters for Carabao Cup game against Norwich Enzo Maresca has said Manchester United cannot complain about the controversial derby winner on Sunday because Manchester City are still awaiting an apology from the referees’ chief, Howard Webb, for a match-defining decision in the same fixture three years ago. City lost at Old Trafford in 2023 after Bruno Fernandes equalised despite an offside Marcus Rashford running close to t",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal",
+      "published": "Wed, 16 Sep 2026 11:40:24 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3481,34 +3537,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マレスカ 言うマンチェスター・シティ紛争2023 ダービーゴール後の謝罪を待っています",
-      "summary": "論争のフェルナンデスのイコライザー都市の後のユナイテッドゲームは、血の若者に EFL カップノリッチに対するゲームエンツォ・マレスカ彼は言ったマンチェスター・ユナイテッド日曜日に論争のダービーの勝者を訴えることができないためマンチェスター・シティ受審者のチーフから謝罪をお待ちしています。ハワード・ウェブ、同じ据え付け品3 年前の一致定義の決定のため。失われた都市オールド・トラッフォード2023 年以降ブルーノ・フェルナンデスオフサイドにもかかわらず均等化マーカス・ラッシュフォード t を閉じる",
-      "title_original": "Maresca says Manchester City still waiting for apology after disputed 2023 derby goal",
-      "summary_original": "United won game after controversial Fernandes equaliser City to blood youngsters for Carabao Cup game against Norwich Enzo Maresca has said Manchester United cannot complain about the controversial derby winner on Sunday because Manchester City are still awaiting an apology from the referees’ chief, Howard Webb, for a match-defining decision in the same fixture three years ago. City lost at Old Trafford in 2023 after Bruno Fernandes equalised despite an offside Marcus Rashford running close to t",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal",
-      "published": "Wed, 16 Sep 2026 11:40:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Why Coventry, トッテナムそして、アストン・ヴィラ遅い開始について慌ててはいけません",
-      "summary": "コベントリーにはポイントがありません。トッテナム目標はなく、ヴィラは再び浸りました。しかし、悪いスタートはどういう意味ですか?By Opta Analyst That 新たなシーズンの始まりに感じた楽観は、無毒にすることができます。昨年の時期に起きたのは、夏を経って正しいことだった。新しい獲得、新しいマネージャー、そして新しい可能性。何がうまくいくのか? ああ、すべて。Terrific. We’re わずか9 月中旬ですが、初期の楽観主義が溶け、一部のファンの不安に置き換えられました",
-      "title_original": "Why Coventry, Tottenham and Aston Villa should not panic about their slow starts",
-      "summary_original": "Coventry have no points, Spurs have no goals and Villa have dipped again. But what does a bad start really mean? By Opta Analyst That optimism we feel at the start of a new season can be intoxicating. Whatever happened last season, there has been a whole summer to correct things. New signings, possibly a new manager, and new possibilities. What could go wrong? Oh, everything. Terrific. We’re only in mid-September, but that early optimism has melted away and been replaced by anxiety for some fans",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/coventry-aston-villa-tottenham-not-panic-slow-starts-points-scored",
-      "published": "Wed, 16 Sep 2026 09:59:01 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "米国出口 U-20World Cup 大会のタイミングで罰則が批判を描きます",
       "summary": "ブラジルは四半期に進出 Poland Americans2012 年の米国ユースチームは、最近のショーに苦しんでいるので、トーナメントを獲得していない ザ・オブ・ザ・アメリカ合衆国 U-20 から排除された Women’s World Cup 水曜日の最後の16 で、余分な時間後に1-1 にプレーした後、ペナルティでブラジルに落ちる。ブラジルのゴールキーパーThaís Lima 重要な保存をしました Emeri Adames’s シュートアウトを開始しようとすると、カトヴィスで5〜4 本目のフィニッシュを開いてください。Poland. The 結果は、霧の困難な実行を拡張します",
       "title_original": "USA exit U-20 World Cup on penalties as tournament’s timing draws criticism",
@@ -3520,34 +3548,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Watching Cavan Sullivan、興奮は hypetrains の過去の記憶によって緩和されます",
-      "summary": "16 歳のユニオンスターは、アメリカのサッカー球によって与えられる最初のワンダーkind ではありません 嫌がらせを起こさないトラブル Cavan Sullivan クールなものをやっているのだから。過去の週末と同様に、彼はキャンプを乗り越えるとき Philadelphia Union ブレークアウト, 突然停止することにより、彼の男を失う, 彼はリコードを引っ張っているかのように、それは突然です, バックヒールは、彼の立脚の背後にあるカットバック, それはゆっくりと遠くのポストと内側にキスを見ます, そして、想像上のトップをふるいとふるまいでゴールを祝いました",
-      "title_original": "Watching Cavan Sullivan, excitement is tempered by memories of hypetrains past",
-      "summary_original": "The 16-year-old Union star isn’t the first wunderkind to be feted by the American soccersphere The trouble with trying not to hype up Cavan Sullivan is that he keeps on doing cool stuff. Like this past weekend, when he scampers along on a Philadelphia Union breakaway, loses his man by stopping so suddenly it’s as if he’s pulled a ripcord, back-heels the cutback behind his standing leg, watches it slowly kiss off the far post and in, and celebrated the goal by bowing and doffing an imaginary top ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-mls-philadelphia-union",
-      "published": "Wed, 16 Sep 2026 11:00:17 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Lewis Koumas 再生する 'リヴァプール未来のために飢餓と希望を示す方法",
-      "summary": "20 歳の前方は、彼を置く信仰に喜んでいましたアンドニ・イラオラ獲得を問い合わせトッテナムゲームと今は、一方の手と自分の携帯電話で試合の男とキックしたいです,Lewis Koumas 火曜日の夜にアンフィールドでメディアに話せるのを止める前に、非常に重要な呼び出しをしました。男の子のクラブを代表し、それを輝かせることは、すべて見るために明らかだったことを意味します。「私のお母さんだった」と言ったリヴァプール引き続き、受賞作品から光るコーディ・ガクポ h に手渡される",
-      "title_original": "Lewis Koumas on playing ‘the Liverpool way’, showing hunger and hopes for the future",
-      "summary_original": "The 20-year-old forward was delighted with the faith put in him by Andoni Iraola for the Tottenham game and now wants to kick on With a man of the match award in one hand and his phone in the other, Lewis Koumas made a very important call before stopping to speak to the media at Anfield on Tuesday night. What it means to represent your boyhood club, and to shine for it, was apparent for all to see. “That was my mum,” said the Liverpool forward, still beaming from the award Cody Gakpo handed to h",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/lewis-koumas-on-playing-the-liverpool-way-showing-hunger-and-hopes-for-the-future",
-      "published": "Wed, 16 Sep 2026 11:14:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3831,16 +3831,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "サッカーファンが初めてレプリカキットを着て始めたとき? |The Knowledge",
-      "summary": "プラス:より高価(そして有益)レッドカード s と 3 世紀半ばの攻撃インテル国民の目標 あなたのすべての質問に私たちを郵送し、「レプリカキットを身に着けているファンが何かになるとき」答えます? 尋ねる Alex Ecob. 「古い映像は、通常の服やチームカラーのいくつかのスカーフ/フラグで人々を示しています。トレンドが始まりましたか? まずは1 部のクラブがもらえますか? 質問が示すように、これは簡単な答えではありません。著作権行為から悪意のある人々を抱えるように、",
-      "title_original": "When did football fans first start wearing replica kits? | The Knowledge",
-      "summary_original": "Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goals Mail us with your all of your questions and answers “When did fans wearing replica kits become a thing?” asks Alex Ecob. “Older footage shows people in regular clothes and a few scarves/flags in the team colours. What kickstarted the trend? Did one club get there first?” As the question suggests, this is a not a straightforward answer. Buckle up folks, as we veer wildly from copyright acts to",
+      "title": "Why Coventry, トッテナムそして、アストン・ヴィラ遅い開始について慌ててはいけません",
+      "summary": "コベントリーにはポイントがありません。トッテナム目標はなく、ヴィラは再び浸りました。しかし、悪いスタートはどういう意味ですか?By Opta Analyst That 新たなシーズンの始まりに感じた楽観は、無毒にすることができます。昨年の時期に起きたのは、夏を経って正しいことだった。新しい獲得、新しいマネージャー、そして新しい可能性。何がうまくいくのか? ああ、すべて。Terrific. We’re わずか9 月中旬ですが、初期の楽観主義が溶け、一部のファンの不安に置き換えられました",
+      "title_original": "Why Coventry, Tottenham and Aston Villa should not panic about their slow starts",
+      "summary_original": "Coventry have no points, Spurs have no goals and Villa have dipped again. But what does a bad start really mean? By Opta Analyst That optimism we feel at the start of a new season can be intoxicating. Whatever happened last season, there has been a whole summer to correct things. New signings, possibly a new manager, and new possibilities. What could go wrong? Oh, everything. Terrific. We’re only in mid-September, but that early optimism has melted away and been replaced by anxiety for some fans",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits",
-      "published": "Wed, 16 Sep 2026 07:00:14 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
+      "url": "https://www.theguardian.com/football/2026/sep/16/coventry-aston-villa-tottenham-not-panic-slow-starts-points-scored",
+      "published": "Wed, 16 Sep 2026 09:59:01 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3901,9 +3901,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "サンダーランド勝つとヨーロッパの冒険を開始 AZ アルクマール",
+      "title": "サンダーランドヨーロッパの冒険を始めよう AZ アルクマールログイン",
       "summary": "Enzo Le Fee's 保障されるペナルティサンダーランドキックオフヨーロッパリーグ1-0 の勝利で冒険 AZ アルクマール光のスタジアムで。",
-      "title_original": "Sunderland begin European adventure with win over AZ Alkmaar",
+      "title_original": "Sunderland begin European adventure with AZ Alkmaar win",
       "summary_original": "Enzo Le Fee's penalty ensured Sunderland kicked off their Europa League adventure with a 1-0 win over AZ Alkmaar at the Stadium of Light.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/sunderland-vs-az-alkmaar/report/577749",
@@ -3929,6 +3929,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "EFL カップ4 ラウンドドローLIVE!",
+      "summary": "",
+      "title_original": "Carabao Cup fourth-round draw LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-united-vs-brighton-and-hove-albion/live/577581",
+      "published": "Wed, 16 Sep 2026 18:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Djokovic に戻る中国オープン空中スポーツ 11 歳以降",
       "summary": "ノバク・ジョコビッチ彼が競争することを確認しました中国オープン今年は、9 月30 日～10 月6 日(水)から10 月6 日(水)まで、11 年連続で開催されるイベントに戻ってきます。",
       "title_original": "Djokovic to return to China Open on Sky Sports after 11-year absence",
@@ -3939,20 +3953,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "反応するマンチェスター・ユナイテッド4 ラウンドドローLIVE を先取り!",
-      "summary": "",
-      "title_original": "React to Man Utd collapse ahead of fourth-round draw LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-united-vs-brighton-and-hove-albion/live/577581",
-      "published": "Wed, 16 Sep 2026 18:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3968,6 +3968,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ブライトン SHOCK のコールバックを完了してビートマンチェスター・ユナイテッド",
+      "summary": "第三ラウンドのハイライト EFL カップ間のマッチマンチェスター・ユナイテッドそして、ブライトン.",
+      "title_original": "Brighton complete SHOCK comeback to beat Man Utd",
+      "summary_original": "Highlights from the third round of the Carabao Cup match between Manchester United and Brighton.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13588753/manchester-united-2-3-brighton-carabao-cup-third-round-highlights",
+      "published": "Wed, 16 Sep 2026 22:04:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4108,20 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リヴァプール最新:Watch Szoboszlai's 最高の目標とベストである投票",
-      "summary": "",
-      "title_original": "Liverpool latest: Watch Szoboszlai's best goals and vote which is the best...",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Wed, 16 Sep 2026 12:18:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
