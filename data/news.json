@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T06:07:30.779881+00:00",
+  "updated_at": "2026-09-16T06:31:20.186661+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "Husqvarna British Masters": "",
@@ -3047,20 +3047,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "メッシアルゼンチンは farewell フレンドリーのために",
-      "summary": "アルゼンチン名リオネル・メッシ10 月にベンインと友好関係を築き、前方へ向かうと決めるインテル国民のフットボール。",
-      "title_original": "Messi in Argentina squad for farewell friendly",
-      "summary_original": "Argentina name Lionel Messi in their squad for a friendly against Benin in October in a match which is set to be the forward's farewell to international football.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 22:50:04 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "バルセロナ、Kane & Haaland - Wednesday's gossip を獲得候補に",
       "summary": "バルセロナ監視しているハリー・ケインそして、アーリング・ハーランド, Nick WoltemadeKane の交換はバイエルン・ミュンヘンとマンチェスター・ユナイテッド獲得を問い合わせインテル ested でジャラッド・ブランスウェイト、プラス多く。",
       "title_original": "Barcelona monitor Kane & Haaland - Wednesday's gossip",
@@ -3071,6 +3057,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "メッシアルゼンチンは farewell フレンドリーのために",
+      "summary": "アルゼンチン名リオネル・メッシ10 月にベンインと友好関係を築き、前方へ向かうと決めるインテル国民のフットボール。",
+      "title_original": "Messi in Argentina squad for farewell friendly",
+      "summary_original": "Argentina name Lionel Messi in their squad for a friendly against Benin in October in a match which is set to be the forward's farewell to international football.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 22:50:04 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
