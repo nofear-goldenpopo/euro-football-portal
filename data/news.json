@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-16T15:07:27.720259+00:00",
+  "updated_at": "2026-09-16T15:26:10.906161+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Barry Glendenning": "",
-    "John Brewin": "",
-    "Dan Bardell": "",
-    "Europe Continue": "",
     "Struggling Inter Miami": "",
     "Kily González": "キリ・ゴンサレス",
     "Guillermo Hoyos Inter Miami": "",
@@ -3001,7 +2997,11 @@
     "Monaco Sprint": "",
     "Craig Slater": "",
     "Kendry Paez": "ケンドリー・パエス",
-    "Luke Chambers": "ルーク・チェンバース"
+    "Luke Chambers": "ルーク・チェンバース",
+    "Mini Valverde": "",
+    "The WTA Finals": "",
+    "North Carolina": "ノースカロライナ州",
+    "Max Dowman's": ""
   },
   "items": [
     {
@@ -3103,17 +3103,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "優れたガーナーが誕生する方法エヴァートン主人公",
+      "title": "'Mini Valverde' は、チェルシー- ガーナーは今エヴァートン主人公",
       "summary": "BBC スポーツがどのように調べるのかジェームズ・ガーナーなるほどエヴァートン一番大切な選手。",
-      "title_original": "How exceptional Garner became Everton's main man",
+      "title_original": "'Mini Valverde' wanted by Chelsea - Garner is now Everton's main man",
       "summary_original": "BBC Sport examines how James Garner has become Everton's most important player.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/crwyz819xw4po?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 10:56:23 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "WTA は 2027 年より最終の主催者を 'Super Bowl 女性のスポーツのために",
+      "summary": "The WTA FinalsCharlotte でステージングします。ノースカロライナ州獲得を問い合わせアメリカ合衆国から 2027.",
+      "title_original": "WTA reveals new Finals host from 2027 with aim of 'Super Bowl for women's sports'",
+      "summary_original": "The WTA Finals will be staged in Charlotte, North Carolina in the United States from 2027.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13588623/wta-finals-charlottes-spectrum-center-revealed-as-new-united-states-home-for-showpiece-wta-event-from-2027-season",
+      "published": "Wed, 16 Sep 2026 16:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "なぜ?モナコの の Sprint - F1 の 2027 カレンダーの変更 説明",
       "summary": "フォーミュラ1 の2027 のカレンダーは、再び記録的な装備の24 レースの週末に実行する予定の次のシーズンで出ています。",
       "title_original": "Why Monaco's hosting a Sprint - F1's 2027 calendar changes explained",
@@ -3954,6 +3968,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アーセナル? チェルシー? マンチェスター・シティ? どのクラブに最も貴重なティーンがありますか?",
+      "summary": "ザ・オブ・ザ・プレミアリーグ'十代の感覚は後見出しを作る Max Dowman's のための主演表示アーセナルそして、JJ Gabriel's 彼が去りたいと思っている黙示マンチェスター・ユナイテッド.",
+      "title_original": "Arsenal? Chelsea? Man City? Which club has most valuable teens?",
+      "summary_original": "The Premier League's teenage sensations are making headlines after Max Dowman's starring display for Arsenal and JJ Gabriel's revelation that he wants to leave Manchester United.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13588569/max-dowman-shines-again-for-arsenal-and-jj-gabriel-wants-man-utd-exit-so-which-clubs-have-most-valuable-teens-between-the-lines",
+      "published": "Wed, 16 Sep 2026 12:32:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13586154/today-on-sky-sports-racing-fairy-glen-well-fancied-in-john-musker-fillies-stakes-feature-at-yarmouth",
       "published": "Wed, 16 Sep 2026 07:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Inside Europe's 早割 Ryder Cup「immaculate」へのチーム旅行 Adare Manor",
-      "summary": "まだまだ1 年が過ぎることもあります。Team Europe's 歴史的に入札 Ryder Cup3 ピース Luke Donald すでに彼の将来のラインアップの多くを持っていた Adare Manor.",
-      "title_original": "Inside Europe's early Ryder Cup team trip to 'immaculate' Adare Manor",
-      "summary_original": "It may still be a year to go until Team Europe's bid for a historic Ryder Cup threepeat, but Luke Donald has already had many of his prospective line-up together at Adare Manor.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13586083/ryder-cup-2027-team-europe-stars-give-verdict-on-early-trip-to-adare-manor-and-fresh-energy-for-luke-donalds-side",
-      "published": "Wed, 16 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "常に最高のものになるためにリッピング - しかし、ヘルバート NFL's Best Underachiever? 's ベスト・アンダーチバー?",
-      "summary": "子供たちはそれを艶出しと呼ぶ。NFL の人々はそれを呼ぶかもしれません Jim Harbaughing. Either 方法, gushing 賞賛の Justin Herbert サッカーの最もギフトされたが、神秘的な星の周りの高まり、避けられない注意を生成しています。",
-      "title_original": "Tipped to be the best ever - but is Herbert the NFL's best underachiever?",
-      "summary_original": "The kids call it glazing. NFL folk might call it Jim Harbaughing. Either way, gushing praise of Justin Herbert is generating heightened and unavoidable attention around one of football's most gifted but divisive stars.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nfl/news/12040/13586129/justin-herbert-the-nfls-most-talented-underachiever-los-angeles-chargers-quarterback-tipped-for-greatness-but-facing-more-questions",
-      "published": "Wed, 16 Sep 2026 06:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
