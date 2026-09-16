@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-16T05:38:32.625484+00:00",
+  "updated_at": "2026-09-16T05:52:26.969865+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Hungarian Darts Trophy": "",
     "Tour Championship": "ザ・ツアーチャンピオンシップ",
     "Viktor Hovland": "",
     "PGA Tour's": "",
@@ -3001,7 +3000,8 @@
     "Inside Europe's": "",
     "Ryder Cup": "",
     "Adare Manor": "",
-    "Luke Donald": ""
+    "Luke Donald": "",
+    "Under Michael Carrick": ""
   },
   "items": [
     {
@@ -3033,17 +3033,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "VAR は、もしも考慮しなかったフェルナンデスオフサイド - Webb",
-      "summary": "審査委員長ハワード・ウェブビデオアシスタントレフリー(VAR)は、ビデオアシスタントレフリー(VAR)が検討しなかったことを認めているエンソ・フェルナンデスオフサイドアーリング・ハーランドの の論争の勝者で Sunday's Manchester ダービー。",
-      "title_original": "VAR did not even consider if Fernandez was offside - Webb",
-      "summary_original": "Referees' chief Howard Webb has admitted that the video assistant referee (VAR) did not even consider whether Enzo Fernandez was offside for Erling Haaland's controversial winner in Sunday's Manchester derby.",
+      "title": "なぜ?マンチェスター・ユナイテッドボールなしで良いですか?",
+      "summary": "インフォメーションマイケル・キャリック, マンチェスター・ユナイテッドボールの50%以上を持っている場合、ゲームあたりの平均1.5 ポイント。50% 未満の場合、この番号は 2.6 です。",
+      "title_original": "Why are Man Utd better without the ball?",
+      "summary_original": "Under Michael Carrick, Manchester United average 1.5 points per game when they have more than 50% of the ball. When they have less than 50%, this number is 2.6.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv4g5rp56p55o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 17:42:20 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxnvl2nv525ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 05:46:28 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3058,6 +3058,20 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2q81r5zvjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 05:49:34 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3096,6 +3110,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c51kxlek7471o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 15:12:03 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "VAR は、もしも考慮しなかったフェルナンデスオフサイド - Webb",
+      "summary": "審査委員長ハワード・ウェブビデオアシスタントレフリー(VAR)は、ビデオアシスタントレフリー(VAR)が検討しなかったことを認めているエンソ・フェルナンデスオフサイドアーリング・ハーランドの の論争の勝者で Sunday's Manchester ダービー。",
+      "title_original": "VAR did not even consider if Fernandez was offside - Webb",
+      "summary_original": "Referees' chief Howard Webb has admitted that the video assistant referee (VAR) did not even consider whether Enzo Fernandez was offside for Erling Haaland's controversial winner in Sunday's Manchester derby.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv4g5rp56p55o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 17:42:20 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3201,20 +3229,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アシュフォードが最初のウェールズのコールアップを獲得するロドンは、",
-      "summary": "クレイグ・ベラミー初めてのコールアップを Cardiff City 獲得 Cian Ashford 獲得を問い合わせ Wales' Nations League キャンペーンではなく、キーの擁護者なしでジョー・ロドン.",
-      "title_original": "Rodon absent as Ashford earns first Wales call-up",
-      "summary_original": "Craig Bellamy hands a first call-up to Cardiff City forward Cian Ashford for Wales' Nations League A campaign but is without key defender Joe Rodon.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c615877d389no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:30:13 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ルールを変更することはできません」 - NI/ROI の適格性に関する O'Neill",
       "summary": "北アイルランドマネージャーMichael O'Neill 獲得を問い合わせ BBC Sport NI's Stephen ワトソンについて推測についてアーセナルヤングスターCeadach O'Neill's インテル来日予定のニ・スクワッドに名前をつけて、国民の未来 Nations League 備品。",
       "title_original": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
@@ -3299,6 +3313,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アシュフォードが最初のウェールズのコールアップを獲得するロドンは、",
+      "summary": "クレイグ・ベラミー初めてのコールアップを Cardiff City 獲得 Cian Ashford 獲得を問い合わせ Wales' Nations League キャンペーンではなく、キーの擁護者なしでジョー・ロドン.",
+      "title_original": "Rodon absent as Ashford earns first Wales call-up",
+      "summary_original": "Craig Bellamy hands a first call-up to Cardiff City forward Cian Ashford for Wales' Nations League A campaign but is without key defender Joe Rodon.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c615877d389no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 09:30:13 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フォーム内のチーム - Farke がオンになった方法リーズ周辺エリア",
       "summary": "とリーズ・ユナイテッド FC 第三にプレミアリーグ, BBC スポーツは、その改善を評価するダニエル・ファルケ.",
       "title_original": "A team in form - how Farke has turned Leeds around",
@@ -3337,20 +3365,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トロイさんを作った人プレミアリーグ週のチーム?",
-      "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
-      "title_original": "Who has made Troy's Premier League team of the week?",
-      "summary_original": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxr50zln2gqro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 22:18:48 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3408,20 +3422,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・シティヴィラで完璧な WSL スタートを維持",
-      "summary": "マンチェスター・シティ開口部の双方を勝ち取る唯一の側面になる Women's Super League 印象的な性能を持つ備品アストン・ヴィラ.",
-      "title_original": "Man City maintain perfect WSL start with win at Villa",
-      "summary_original": "Manchester City become the only side to win both of their opening two Women's Super League fixtures with an impressive performance against Aston Villa.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c86x0e0v042o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 05:12:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4027,6 +4027,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "エムバペスコアは救助を助けるために最後のガソリン援助を提供し、レアル・マドリード!",
+      "summary": "ハイライトラ・リーガエルチェとレアル・マドリード.",
+      "title_original": "Mbappe scores and provides last-gasp assist to help rescue Real Madrid!",
+      "summary_original": "Highlights of the La Liga match between Elche and Real Madrid.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13586421/elche-2-3-real-madrid-la-liga-highlights",
+      "published": "Tue, 15 Sep 2026 23:28:00 BST",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ミドルスラフの戦いは、ポイントが戻って、トップに行くチャンスを逃す",
       "summary": "ミドルスラフは、トップに登るチャンスを逃しました EFL チャンピオンシップ後ろから来るにもかかわらず、ミルウォールで2-2 の描画を獲得します。",
       "title_original": "Middlesbrough battle back for point but miss chance to go top",
@@ -4108,20 +4122,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Scot Prem 最新:セルティックアルツハイマーのレジェンド McGrain 診断",
-      "summary": "",
-      "title_original": "Scot Prem latest: Celtic legend McGrain diagnosed with Alzheimer’s",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "published": "Tue, 15 Sep 2026 15:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
