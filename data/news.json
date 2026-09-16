@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-16T20:26:02.808162+00:00",
+  "updated_at": "2026-09-16T20:38:48.450993+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "No McGregor": "",
-    "Falkirk LIVE": "",
-    "Hull LIVE": "",
-    "Bluesky Everton": "",
-    "Harry Hackney": "",
     "James Garner. Both Harrison": "",
     "Nottm Forest": "ノッティンガム・フォレストFC",
     "Nottingham Forest's": "",
@@ -3001,7 +2996,12 @@
     "Wednesday's BMW PGA Championship": "",
     "Everton's Barry": "",
     "Luke Shaw": "ルーク・ショー",
-    "Luca Weinhandl": ""
+    "Luca Weinhandl": "",
+    "Laver Cup": "レーバーカップ",
+    "Watch Ryder Cup-style": "",
+    "World' Laver Cup": "",
+    "Sky Sports September": "",
+    "Man Utd COLLAPSE": ""
   },
   "items": [
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽ Live updates from four third-round matches ⚽ Manchester United shocked as JJ Gabriel asks to leave ⚽ Get in touch! Email Will with any thoughts Poor Joshua Zirkzee cannot get a game in the Carabao Cup. I am not sure he will get many minutes in the months to come. Max Dowman continues to be good. Mikel Merino can similarities to a certain Lamine Yamal, which is high praise. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
-      "published": "Wed, 16 Sep 2026 20:09:29 GMT",
+      "published": "Wed, 16 Sep 2026 20:24:44 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3445,7 +3445,7 @@
       "summary_original": "⚽ Live updates from the 8pm BST kick-offs ⚽ Xhaka promises ‘fire’ | Live scoreboard ⚽ Get in touch! Email Niall with any thoughts Manchester United host Brighton, and there are not one but two heads of state in attendance as Everton entertain Wolves. Join Will Unwin for the latest Carabao Cup fun. “Given Granit Xhaka’s scorching comments, will it turn out to be the Stadium of (Come On Baby) Light My Fire?” asks Peter Oh. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/16/sunderland-v-az-milan-v-benfica-and-more-europa-league-clockwatch-live",
-      "published": "Wed, 16 Sep 2026 20:09:19 GMT",
+      "published": "Wed, 16 Sep 2026 20:24:43 GMT",
       "category": "uel",
       "type": "uel",
       "label": "EL",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "テニスとはレーバーカップ? Watch Ryder Cup-style 今月のスカイスポーツイベント",
+      "summary": "世界最高の男性のプレイヤーが毎年恒例のヨーロッパと「世界のベスト」で競争する12 として知る必要があるすべてを見つけるレーバーカップ showdown は、住んでいます Sky Sports September 25-27.",
+      "title_original": "What is tennis' Laver Cup? Watch Ryder Cup-style event on Sky Sports this month",
+      "summary_original": "Find out all you need to know as 12 of the world's best men's players compete in the annual Europe vs 'Rest of the World' Laver Cup showdown, live on Sky Sports September 25-27.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13588657/laver-cup-2026-schedule-dates-format-players-and-how-to-watch-or-stream-team-europe-vs-team-world-at-londons-o2-on-sky-sports",
+      "published": "Wed, 16 Sep 2026 17:25:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Warwickshire シール 2 日で Essex を上回るカウンティ・チャンピオンシップタイトル希望",
       "summary": "Warwickshire が Rothesay をブーストカウンティ・チャンピオンシップ Essex を 2 日間で 8 ウィケットの勝利を確保することでタイトルの課題.",
       "title_original": "Warwickshire seal two-day win over Essex to boost County Championship title hopes",
@@ -3873,9 +3887,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッドワンゴールリード対ブライトンライブ!",
+      "title": "マンチェスター・ユナイテッド COLLAPSE から 2-0 まで としてブライトンリードライブ!",
       "summary": "",
-      "title_original": "Man Utd holding onto one-goal lead vs Brighton LIVE!",
+      "title_original": "Man Utd COLLAPSE from 2-0 up as Brighton lead LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-united-vs-brighton-and-hove-albion/live/577581",
@@ -3915,16 +3929,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "サンダーランド上とユーロのリターン対でオープナーのためにプッシュ AZ LIVE!",
+      "title": "Le Fee プレゼントサンダーランドユーロリターン対ポイントからのリード AZ LIVE!",
       "summary": "",
-      "title_original": "Sunderland on top and pushing for opener in Euro return vs AZ LIVE!",
+      "title_original": "Le Fee gives Sunderland lead from the spot in Euro return vs AZ LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/sunderland-vs-az-alkmaar/live/577749",
       "published": "Wed, 16 Sep 2026 14:13:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -4055,9 +4069,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "両方のゴールキーパーは、保つために良い節約を作るエヴァートンゴールレス LIVE 対 Wolves!",
+      "title": "Alcaraz 与えますエヴァートン遅れは反対に鉛に値しました Wolves LIVE!",
       "summary": "",
-      "title_original": "Both goalkeepers make good saves to keep Everton vs Wolves goalless LIVE!",
+      "title_original": "Alcaraz gives Everton late deserved lead against Wolves LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/everton-vs-wolverhampton-wanderers/live/577575",
@@ -4108,20 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ドナラムマ:マンチェスター・シティ移行ではなく、素晴らしい季節になる",
-      "summary": "獲得を問い合わせ 私たちのチームです。ここが都市です。",
-      "title_original": "Donnarumma: Man City are not in transition, it's going to be a great season",
-      "summary_original": "\"This is who we are. This is our team. This is City.\"",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13586227/gianluigi-donnarumma-interview-man-city-goalkeeper-insists-club-are-not-in-a-transition-year-and-backs-club-to-have-a-great-season",
-      "published": "Wed, 16 Sep 2026 08:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
