@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-16T19:24:22.098403+00:00",
+  "updated_at": "2026-09-16T19:37:05.219416+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Hull City": "ハル・シティAFC",
-    "Bluesky The": "",
-    "The Bundesliga": "",
     "Monchengladbach Mainz": "",
     "Paderbom Cologne": "",
     "Hoffenheim Union Berlin": "",
@@ -3001,7 +2998,10 @@
     "Given Granit Xhaka’s": "",
     "Come On Baby": "",
     "Light My Fire": "ハートに火をつけて",
-    "Peter Oh. Continue": ""
+    "Peter Oh. Continue": "",
+    "World Cup US": "",
+    "Guardian Wednesday": "",
+    "Stunning Torp": ""
   },
   "items": [
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽ Live updates from four third-round matches ⚽ Manchester United shocked as JJ Gabriel asks to leave ⚽ Get in touch! Email Will with any thoughts Poor Joshua Zirkzee cannot get a game in the Carabao Cup. I am not sure he will get many minutes in the months to come. Max Dowman continues to be good. Mikel Merino can similarities to a certain Lamine Yamal, which is high praise. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
-      "published": "Wed, 16 Sep 2026 19:08:47 GMT",
+      "published": "Wed, 16 Sep 2026 19:27:59 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3445,7 +3445,7 @@
       "summary_original": "⚽ Live updates from the 8pm BST kick-offs ⚽ Xhaka promises ‘fire’ | Live scoreboard ⚽ Get in touch! Email Niall with any thoughts Manchester United host Brighton, and there are not one but two heads of state in attendance as Everton entertain Wolves. Join Will Unwin for the latest Carabao Cup fun. “Given Granit Xhaka’s scorching comments, will it turn out to be the Stadium of (Come On Baby) Light My Fire?” asks Peter Oh. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/16/sunderland-v-az-milan-v-benfica-and-more-europa-league-clockwatch-live",
-      "published": "Wed, 16 Sep 2026 19:09:12 GMT",
+      "published": "Wed, 16 Sep 2026 19:27:36 GMT",
       "category": "uel",
       "type": "uel",
       "label": "EL",
@@ -3635,6 +3635,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "USMNT を 16 歳と呼ぶ Cavan Sullivan 友達に",
+      "summary": "Sullivan には6 つの目標と8 つのアシストポストがあります。World Cup US 次のウィンドウで4 つのゲームを再生 Philadelphia Union ミッドフィルダーCavan Sullivan 初めて獲得するインテル国家コールアップとアメリカ合衆国今月、男性のナショナルチーム、ロスターの知識を持つソースは、Guardian Wednesday 朝ごはん ソースは、ロースターを議論するために許可されていないので、匿名性を要求しました。アメリカ合衆国9 月下旬にチリ、ペルー、メキシコ、カナダに面し、米国ヘッドコーチモーリシオ",
+      "title_original": "USMNT to call 16-year-old Cavan Sullivan for friendlies",
+      "summary_original": "Sullivan has six goals and eight assists post-World Cup US plays four games in upcoming window Philadelphia Union midfielder Cavan Sullivan is set to earn his first international call-up with the United States men’s national team later this month, a source with knowledge of the roster told the Guardian Wednesday morning. The source requested anonymity as they were not authorized to discuss the roster. The US will face Chile, Peru, Mexico and Canada in late September, with US head coach Mauricio ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-usmnt",
+      "published": "Wed, 16 Sep 2026 19:25:09 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リオネル・メッシアルゼンチンがフレンドリーで farewell の出現をするために呼び出す",
       "summary": "アルゼンチンは10 月にベンインをホストします Buenos Aires AFA 社長の招待メッシ「遠足」を楽しむリオネル・メッシアルゼンチンが10 月以降に自宅で親しまれている遠い外観を作るために呼び出されましたインテルアルゼンチンのサッカー協会(AFA)は、国家退職が確認されました。ライオンエル・アンドレズのキャプテン・ライオンエル・アンドレズは、世界で活躍する最高のプレイヤーに招待しました。メッシ, に値する運賃を持っています 6 10 月, ここでは、アルゼンチンで, AFA の事前",
       "title_original": "Lionel Messi called up by Argentina to make farewell ⁠appearance in friendly",
@@ -3687,20 +3701,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "クレイグ・ベラミーウェールズへの彼の忠誠心は、拒否後に望ましくないと言うバーンリー",
-      "summary": "ウェールズに滞在するバーンリー「シンプルな選択」 約束のショーとして引用された費用を主張しないクレイグ・ベラミーウェールズのサポーターは、彼が管理する機会を拒否した後、原因に対する彼のコミットメントを疑問にすべきではありませんバーンリー, 彼は自分の国のために再生し、上の費用を請求することを拒否する勧誘者の手紙を得た方法に指摘インテル国民の義務。ベラミーが講演を行いましたバーンリーチャンピオンシップクラブがトリガーした後の夏契約解除金契約中だが、移動を下回る",
-      "title_original": "Craig Bellamy says his loyalty to Wales is unquestionable after rejecting Burnley",
-      "summary_original": "Staying with Wales over Burnley a ‘simple choice’ Never claiming expenses cited as a show of commitment Craig Bellamy said Wales supporters should never question his commitment to the cause after he rejected the chance to manage Burnley, pointing to how he got solicitors’ letters to play for his country and refused to claim expenses on international duty. Bellamy held talks with Burnley in the summer after the Championship club triggered a release clause in his contract but turned down the move ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/craig-bellamy-rejected-burnley-manager-job-stay-wales-football",
-      "published": "Tue, 15 Sep 2026 21:44:23 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3873,16 +3873,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アブラハムはアストン・ヴィラ初期リード Coventry LIVE!",
+      "title": "Stunning Torp フリーキックは、コベントリーレベルを対抗する Villa LIVE!",
       "summary": "",
-      "title_original": "Abraham gives Aston Villa early lead at Coventry LIVE!",
+      "title_original": "Stunning Torp free-kick draws Coventry level against Villa LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/coventry-city-vs-aston-villa/live/577573",
       "published": "Wed, 16 Sep 2026 18:28:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3901,16 +3901,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "AZ は大きなチャンスを逃すサンダーランドユーロリターン LIVE!",
+      "title": "Le Fee 投稿をヒットサンダーランドユーロリターン対 AZ LIVE!",
       "summary": "",
-      "title_original": "AZ miss big early chance as Sunderland make Euro return LIVE!",
+      "title_original": "Le Fee hits the post as Sunderland make Euro return vs AZ LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/sunderland-vs-az-alkmaar/live/577749",
       "published": "Wed, 16 Sep 2026 14:13:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -4027,9 +4027,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "エヴァートン Opener LIVE の検索結果",
+      "title": "Jimenez オフ 負傷 のために Wolves としてエヴァートン opener LIVE をプッシュ!",
       "summary": "",
-      "title_original": "Everton and Wolves searching for opener LIVE!",
+      "title_original": "Jimenez off injured for Wolves as Everton push for opener LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/everton-vs-wolverhampton-wanderers/live/577575",
