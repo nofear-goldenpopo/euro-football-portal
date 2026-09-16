@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-16T14:07:32.168565+00:00",
+  "updated_at": "2026-09-16T14:26:56.247559+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Anfield. Iraola": "",
     "Max Rushden": "",
     "Barry Glendenning": "",
     "John Brewin": "",
@@ -3001,7 +3000,8 @@
     "China Open": "中国オープン",
     "Norwich Enzo Maresca": "",
     "Monaco Sprint": "",
-    "Craig Slater": ""
+    "Craig Slater": "",
+    "Kendry Paez": "ケンドリー・パエス"
   },
   "items": [
     {
@@ -3040,6 +3040,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/crgjqw0l01njo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 13:49:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "何が間違っているのかチェルシースタッフケンドリー・パエス?",
+      "summary": "ケンドリー・パエス世界最高の若手才能の1 人でしたチェルシー16 歳の時に獲得しました。3 年後、彼はアンダー21 のためにプレーしています。だから、何が間違っていますか?",
+      "title_original": "What's gone wrong for Chelsea talent Kendry Paez?",
+      "summary_original": "Kendry Paez was one of the world's best young talents when Chelsea signed him as a 16-year-old. Three years later, he's playing for the Under-21s. So what has gone wrong?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd79y025gleo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 14:05:00 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3145,20 +3159,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バルセロナ、Kane & Haaland - Wednesday's gossip を獲得候補に",
-      "summary": "バルセロナ監視しているハリー・ケインそして、アーリング・ハーランド, Nick WoltemadeKane の交換はバイエルン・ミュンヘンとマンチェスター・ユナイテッド獲得を問い合わせインテル ested でジャラッド・ブランスウェイト、プラス多く。",
-      "title_original": "Barcelona monitor Kane & Haaland - Wednesday's gossip",
-      "summary_original": "Barcelona are monitoring Harry Kane and Erling Haaland, Nick Woltemade could be a replacement for Kane at Bayern Munich, and Manchester United are interested in Jarrad Branthwaite, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqzezjn3wzjpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 20:19:31 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Does Bellamy バックウェールズのファンを獲得する必要がありますか?",
       "summary": "「眠らない夜」の後、ウェールズのボスクレイグ・ベラミー管理するチャンスを下げることにしたバーンリー- しかし、ファンが彼に何を考えているかに影響しましたか?",
       "title_original": "Does Bellamy need to win back Wales fans?",
@@ -3184,6 +3184,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "バルセロナ、Kane & Haaland - Wednesday's gossip を獲得候補に",
+      "summary": "バルセロナ監視しているハリー・ケインそして、アーリング・ハーランド, Nick WoltemadeKane の交換はバイエルン・ミュンヘンとマンチェスター・ユナイテッド獲得を問い合わせインテル ested でジャラッド・ブランスウェイト、プラス多く。",
+      "title_original": "Barcelona monitor Kane & Haaland - Wednesday's gossip",
+      "summary_original": "Barcelona are monitoring Harry Kane and Erling Haaland, Nick Woltemade could be a replacement for Kane at Bayern Munich, and Manchester United are interested in Jarrad Branthwaite, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqzezjn3wzjpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 20:19:31 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3236,6 +3250,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 19:25:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ゲームを磨き、人間であることをしましょう - アンドリュース",
+      "summary": "アフターブレントフォード到達するオーバーカム読書 EFL カップ4 ラウンド、ヘッドコーチ Keith Andrews ビデオアシスタントレフリー(VAR)は、試合の決定から受審者を防ぐことを信じています。",
+      "title_original": "Let them ref the games and be humans - Andrews",
+      "summary_original": "After Brentford overcame Reading to reach the Carabao Cup fourth round, head coach Keith Andrews believes the video assistant referee (VAR) is preventing referees from making decisions in matches.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxj06nmjl3l6o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 22:50:30 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3380,20 +3408,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ユーススターJJ Gabriel, 15, 左のしわマンチェスター・ユナイテッド",
-      "summary": "マンチェスター・ユナイテッドの 高度に評価される 15 歳 先に JJ Gabriel クラブを離れる頂上にあります。",
-      "title_original": "Youth star JJ Gabriel, 15, on brink of leaving Man Utd",
-      "summary_original": "Manchester United's highly-rated 15-year-old forward JJ Gabriel is on the verge of leaving the club.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c95y4dxr0v6do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 13:33:09 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3831,9 +3845,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "なぜ?モナコの のホスティングスプリント - F1 2027 カレンダーの話ポイント",
+      "title": "なぜ?モナコの の Sprint - F1 の 2027 カレンダーの変更 説明",
       "summary": "フォーミュラ1 の2027 のカレンダーは、再び記録的な装備の24 レースの週末に実行する予定の次のシーズンで出ています。",
-      "title_original": "Why Monaco's hosting a Sprint - F1 2027 calendar talking points",
+      "title_original": "Why Monaco's hosting a Sprint - F1's 2027 calendar changes explained",
       "summary_original": "Formula 1’s 2027 calendar is out with next season again scheduled to run to a record-equalling 24 race weekends.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13588553/f1-2027-calendar-monaco-staging-one-of-10-sprints-and-other-talking-points-from-race-schedule-reveal-for-next-season",
