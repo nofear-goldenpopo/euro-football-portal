@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-16T09:39:23.205468+00:00",
+  "updated_at": "2026-09-16T09:53:17.074408+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Pakistan LIVE": "",
-    "Cody Gakpo's": "",
-    "Rayo Vallecano": "ラージョ・バジェカーノ",
-    "Andrei Ratiu": "",
     "Day's Joe Hart": "",
     "Manchester City's Marc Guehi": "",
     "Gabby Logan": "",
@@ -3001,7 +2997,11 @@
     "Anfield. Liverpool": "",
     "Cusco’s Cienciano": "",
     "South American": "南アメリカ",
-    "Machu Picchu": ""
+    "Machu Picchu": "",
+    "Docherty's Scotland": "",
+    "Sixteen-year-old Kyle Glasgow": "",
+    "Tony Docherty's": "",
+    "Scotland Under-": ""
   },
   "items": [
     {
@@ -3159,6 +3159,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "グラスゴー、16、Docherty's ScotlandU21 チーム",
+      "summary": "Sixteen-year-old Kyle Glasgow に含まれている Tony Docherty's はじめて Scotland Under-21 チーム",
+      "title_original": "Glasgow, 16, makes Docherty's Scotland U21 squad",
+      "summary_original": "Sixteen-year-old Kyle Glasgow has been included in Tony Docherty's first Scotland Under-21 squad.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn452vgll31o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 09:36:20 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "メキシコで勝った後、ツッチェルはアステカの泥炭を食べていない",
       "summary": "トーマス・トゥヘル後悔は、草のいかなる食べないエスタディオ・アステカイングランドの叙事詩の後 World Cup メキシコに勝つ。",
       "title_original": "Tuchel regrets not eating Azteca turf after win over Mexico",
@@ -3299,20 +3313,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "セルティック& スコットランドの伝説の McGrain はアルツハイマー病と診断",
-      "summary": "Danny McGrain, によって記述されるセルティックアルツハイマー病と診断された「スコットランドの最大のフルバック」として、家族は確認しています。",
-      "title_original": "Celtic & Scotland legend McGrain diagnosed with Alzheimer's",
-      "summary_original": "Danny McGrain, described by Celtic as \"Scotland's greatest-ever full-back\", has been diagnosed with Alzheimer's disease, his family confirms.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmew98xy54pjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 13:49:55 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "How Maresca サッカーの不可能な仕事に取り組む",
       "summary": "Enzo Maresca 伝説を交換するときは、夏に不可能な仕事をしていたようですペップ・グアルディオラ獲得を問い合わせマンチェスター・シティ, しかし、それは彼の緊張の初期段階で簡単なタスクを見て作ります.",
       "title_original": "How Maresca is tackling football's impossible job",
@@ -3369,20 +3369,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フォーム内のチーム - Farke がオンになった方法リーズ周辺エリア",
-      "summary": "とリーズ・ユナイテッド FC 第三にプレミアリーグ, BBC スポーツは、その改善を評価するダニエル・ファルケ.",
-      "title_original": "A team in form - how Farke has turned Leeds around",
-      "summary_original": "With Leeds United third in the Premier League, BBC Sport assesses their improvement under Daniel Farke.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2zgnngj71o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 14:01:59 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ハーランドスコアの論争の勝者としてマンチェスター・シティフォデンレッドにもかかわらずダービーを獲得",
       "summary": "アーリング・ハーランドの の目標は助けますマンチェスター・シティライバルで非常に論争のマンチェスターダービーを獲得マンチェスター・ユナイテッド10 人以上で70 分以上遊んでも",
       "title_original": "Haaland scores controversial winner as Man City win derby despite Foden red",
@@ -3418,6 +3404,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c86x0e0v042o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 14 Sep 2026 05:12:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "受賞論への決定による Carrick 'baffled'マンチェスター・シティミッション",
+      "summary": "マンチェスター・ユナイテッドマネージャーマイケル・キャリック賞の決定のためのマッチオフィシャルに不満があったアーリング・ハーランドマンチェスター・ダービーの論争の目標。",
+      "title_original": "Carrick 'baffled' by decision to award controversial Man City goal",
+      "summary_original": "Manchester United manager Michael Carrick was unhappy with the match officials for the decision to award Erling Haaland's controversial goal in the Manchester derby.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ceq81nz02ddo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 18:13:04 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
