@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-16T10:27:11.321196+00:00",
+  "updated_at": "2026-09-16T10:40:09.448994+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Mac Allister": "",
     "Gakpo. Nottingham Forest": "",
     "Aina. Continue": "",
     "BlueSky Andoni Iraola": "",
@@ -3001,7 +3000,8 @@
     "Scotland Under-": "",
     "By Opta Analyst That": "",
     "Terrific. We’re": "",
-    "BMW PGA Pro-Am": ""
+    "BMW PGA Pro-Am": "",
+    "Danny Murphy": "ダニエル・マーフィー (曖昧さ回避)"
   },
   "items": [
     {
@@ -3012,34 +3012,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 22:26:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ゲームを磨き、人間であることをしましょう - アンドリュース",
-      "summary": "アフターブレントフォード到達するオーバーカム読書 EFL カップ4 ラウンド、ヘッドコーチ Keith Andrews ビデオアシスタントレフリー(VAR)は、試合の決定を下すことから、受審者を防ぐことを信じています。",
-      "title_original": "Let them ref the games and be humans - Andrews",
-      "summary_original": "After Brentford overcame Reading to reach the Carabao Cup fourth round, head coach Keith Andrews believes the video assistant referee (VAR) is preventing referees from making decisions in matches.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxj06nmjl3l6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 22:50:30 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "なぜ?マンチェスター・ユナイテッドボールなしで良いですか?",
-      "summary": "インフォメーションマイケル・キャリック, マンチェスター・ユナイテッドボールの50%以上を持っている場合、ゲームあたりの平均1.5 ポイント。50% 未満の場合、この番号は 2.6 です。",
-      "title_original": "Why are Man Utd better without the ball?",
-      "summary_original": "Under Michael Carrick, Manchester United average 1.5 points per game when they have more than 50% of the ball. When they have less than 50%, this number is 2.6.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxnvl2nv525ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 05:46:28 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3058,6 +3030,34 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウガンダを代表するスコットランドのティーンエイジャーに会う",
+      "summary": "十代の兄弟オリーと Seb Fisher 彼らの夢に閉じるインテル国民の認識 - しかし、それはスコットランドの故郷から来ません。",
+      "title_original": "Meet the Scottish teenagers poised to represent Uganda",
+      "summary_original": "Teenage brothers Olly and Seb Fisher are closing in on their dream of international recognition - but it won't come from their homeland of Scotland.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyz1ll1g3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 06:12:11 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "なぜ?マンチェスター・ユナイテッドボールなしで良いですか?",
+      "summary": "インフォメーションマイケル・キャリック, マンチェスター・ユナイテッドボールの50%以上を持っている場合、ゲームあたりの平均1.5 ポイント。50% 未満の場合、この番号は 2.6 です。",
+      "title_original": "Why are Man Utd better without the ball?",
+      "summary_original": "Under Michael Carrick, Manchester United average 1.5 points per game when they have more than 50% of the ball. When they have less than 50%, this number is 2.6.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxnvl2nv525ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 05:46:28 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3103,17 +3103,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウガンダを代表するスコットランドのティーンエイジャーに会う",
-      "summary": "十代の兄弟オリーと Seb Fisher 彼らの夢に閉じるインテル国民の認識 - しかし、それはスコットランドの故郷から来ません。",
-      "title_original": "Meet the Scottish teenagers poised to represent Uganda",
-      "summary_original": "Teenage brothers Olly and Seb Fisher are closing in on their dream of international recognition - but it won't come from their homeland of Scotland.",
+      "title": "ゲームを磨き、人間であることをしましょう - アンドリュース",
+      "summary": "アフターブレントフォード到達するオーバーカム読書 EFL カップ4 ラウンド、ヘッドコーチ Keith Andrews ビデオアシスタントレフリー(VAR)は、試合の決定を下すことから、受審者を防ぐことを信じています。",
+      "title_original": "Let them ref the games and be humans - Andrews",
+      "summary_original": "After Brentford overcame Reading to reach the Carabao Cup fourth round, head coach Keith Andrews believes the video assistant referee (VAR) is preventing referees from making decisions in matches.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyz1ll1g3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 06:12:11 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxj06nmjl3l6o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 22:50:30 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3201,20 +3201,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "メキシコで勝った後、ツッチェルはアステカの泥炭を食べていない",
-      "summary": "トーマス・トゥヘル後悔は、草のいかなる食べないエスタディオ・アステカイングランドの叙事詩の後 World Cup メキシコに勝つ。",
-      "title_original": "Tuchel regrets not eating Azteca turf after win over Mexico",
-      "summary_original": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 19:25:48 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "灰色は「そうでなければ言われるまで続行します」 - しかし、ハイブスボスはファンを失った?",
       "summary": "ヘッドコーチデヴィッド・グレイ彼の側が6 番目の連続ホーム敗北に苦しんだ後、彼は Hibernian の貧しい形態「誰かが何かを言うためにあった」に解決策を試してみると、彼は言うだろうスコティッシュ・プレミアシップ.",
       "title_original": "Gray 'will continue until told otherwise' - but has Hibs boss lost the fans?",
@@ -3222,6 +3208,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvwyzwr5g76go?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 22:58:27 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "メキシコで勝った後、ツッチェルはアステカの泥炭を食べていない",
+      "summary": "トーマス・トゥヘル後悔は、草のいかなる食べないエスタディオ・アステカイングランドの叙事詩の後 World Cup メキシコに勝つ。",
+      "title_original": "Tuchel regrets not eating Azteca turf after win over Mexico",
+      "summary_original": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 19:25:48 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3240,20 +3240,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ユーススターJJ Gabriel, 15, 左のしわマンチェスター・ユナイテッド",
-      "summary": "マンチェスター・ユナイテッドの 高度に評価される 15 歳 先に JJ Gabriel クラブを離れる頂上にあります。",
-      "title_original": "Youth star JJ Gabriel, 15, on brink of leaving Man Utd",
-      "summary_original": "Manchester United's highly-rated 15-year-old forward JJ Gabriel is on the verge of leaving the club.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c95y4dxr0v6do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 13:33:09 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3341,13 +3327,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "How Maresca サッカーの不可能な仕事に取り組む",
-      "summary": "Enzo Maresca 伝説を交換するときは、夏に不可能な仕事をしていたようですペップ・グアルディオラ獲得を問い合わせマンチェスター・シティ, しかし、それは彼の緊張の初期段階で簡単なタスクを見て作ります.",
-      "title_original": "How Maresca is tackling football's impossible job",
-      "summary_original": "Enzo Maresca seemingly took on an impossible job in the summer when replacing the legendary Pep Guardiola at Manchester City, but is making it look an easy task in the early stages of his tenure.",
+      "title": "ユーススターJJ Gabriel, 15, 左のしわマンチェスター・ユナイテッド",
+      "summary": "マンチェスター・ユナイテッドの 高度に評価される 15 歳 先に JJ Gabriel クラブを離れる頂上にあります。",
+      "title_original": "Youth star JJ Gabriel, 15, on brink of leaving Man Utd",
+      "summary_original": "Manchester United's highly-rated 15-year-old forward JJ Gabriel is on the verge of leaving the club.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c23xe75827no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 06:02:27 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c95y4dxr0v6do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 13:33:09 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3422,6 +3408,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ゴール決定を下すと「バッフル」が間違っている - Rooney",
+      "summary": "デイパンディットのマッチウェイン・ルーニーそして、ダニエル・マーフィー (曖昧さ回避)「バッフル」を見つけるアーリング・ハーランドマンチェスター・ダービーで勝ち抜いたゴールは、VAR が除外されていないが、フィル・フォーデン獲得を問い合わせレッドカード正しい決断でした。",
+      "title_original": "Getting goal decision so wrong is 'baffling' - Rooney",
+      "summary_original": "Match of the Day pundits Wayne Rooney and Danny Murphy finds it \"baffling\" that Erling Haaland's winning goal in the Manchester derby was not ruled out by VAR, but think Phil Foden's red card was the correct decision.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9w4755n70wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 22:59:17 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アーセナル最新: マルティネスのガブリエルキックはなかったレッドカード KMI パネル",
+      "summary": "",
+      "title_original": "Arsenal latest: Gabriel kick on Martinez was NOT red card, says KMI panel",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Wed, 16 Sep 2026 11:15:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "F1 は2027 年のカレンダーを発表し、スプリントラウンドの増加",
       "summary": "フォーミュラ1 は2027 のカレンダーを発表し、6 から10 までのスプリント週末の数が増えました。",
       "title_original": "F1 announce 2027 calendar and increase in Sprint rounds",
@@ -4107,20 +4121,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ピーターボローは6 頭のスリラーの後のペナルティでバーンズリーをエッジアウト",
-      "summary": "ピーターボローが4 ラウンドに移行 EFL カップ2009 年7 月6 日(金)〜6 日(日)の7～6 日(日)の感謝を込めて初めて開催 PK 戦二つの間のスリル満点の3-3 のドローを追ったバレンスリーの勝利 League One 側面。",
-      "title_original": "Peterborough edge out Barnsley on penalties after six-goal thriller",
-      "summary_original": "Peterborough moved into the fourth round of the Carabao Cup for the first time since 2009 thanks to a 7-6 penalty shootout victory over Barnsley that followed a thrilling 3-3 draw between the two League One sides.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/peterborough-united-vs-barnsley/report/577583",
-      "published": "Tue, 15 Sep 2026 21:35:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
