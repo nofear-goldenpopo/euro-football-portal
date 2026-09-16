@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-16T05:52:26.969865+00:00",
+  "updated_at": "2026-09-16T06:07:30.779881+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Tour Championship": "ザ・ツアーチャンピオンシップ",
-    "Viktor Hovland": "",
-    "PGA Tour's": "",
-    "Scottie Scheffler": "",
-    "Racecourse Ground": "",
-    "British Masters": "",
-    "Marco Penge": "",
     "Husqvarna British Masters": "",
     "The Belfry": "",
     "PL Predictions": "",
@@ -3001,7 +2994,14 @@
     "Ryder Cup": "",
     "Adare Manor": "",
     "Luke Donald": "",
-    "Under Michael Carrick": ""
+    "Under Michael Carrick": "",
+    "Does Bellamy": "",
+    "Fairy Glen": "",
+    "John Musker": "ジョン・マスカー",
+    "The Listed John Musker": "",
+    "Fillies’ Stakes": "",
+    "Yarmouth’s Eastern Festival": "",
+    "Sky Sports Racing": ""
   },
   "items": [
     {
@@ -3061,20 +3061,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2q81r5zvjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 05:49:34 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "バルセロナ、Kane & Haaland - Wednesday's gossip を獲得候補に",
       "summary": "バルセロナ監視しているハリー・ケインそして、アーリング・ハーランド, Nick WoltemadeKane の交換はバイエルン・ミュンヘンとマンチェスター・ユナイテッド獲得を問い合わせインテル ested でジャラッド・ブランスウェイト、プラス多く。",
       "title_original": "Barcelona monitor Kane & Haaland - Wednesday's gossip",
@@ -3103,13 +3089,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Pocognoli の大胆なスコットランドのスクワッドのキーポイント",
-      "summary": "ザ・オブ・ザ・セバスチャン・ポコニョーリスコットランドの時代はすでに深刻な陰謀を作り出しています。そして、ベルギーのスクワッドはまだトレーニンググラウンドロンドのために組み立てられており、ゲームを決して心がけません。",
-      "title_original": "The key talking points from Pocognoli's bold Scotland squad",
-      "summary_original": "The Sebastien Pocognoli Scotland era is already creating serious intrigue - and the Belgian's squad are yet to assemble for a training-ground rondo, never mind play a game.",
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c51kxlek7471o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 15:12:03 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2q81r5zvjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 05:49:34 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3124,6 +3110,34 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cv4g5rp56p55o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 17:42:20 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Does Bellamy バックウェールズのファンを獲得する必要がありますか?",
+      "summary": "「眠らない夜」の後、ウェールズのボスクレイグ・ベラミー管理するチャンスを下げることにしたバーンリー- しかし、ファンが彼に何を考えているかに影響しましたか?",
+      "title_original": "Does Bellamy need to win back Wales fans?",
+      "summary_original": "After a \"sleepless night\", Wales boss Craig Bellamy decided to turn down the chance to manage Burnley - but has it affected what fans think of him?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9gk58j0vy0eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 05:41:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Pocognoli の大胆なスコットランドのスクワッドのキーポイント",
+      "summary": "ザ・オブ・ザ・セバスチャン・ポコニョーリスコットランドの時代はすでに深刻な陰謀を作り出しています。そして、ベルギーのスクワッドはまだトレーニンググラウンドロンドのために組み立てられており、ゲームを決して心がけません。",
+      "title_original": "The key talking points from Pocognoli's bold Scotland squad",
+      "summary_original": "The Sebastien Pocognoli Scotland era is already creating serious intrigue - and the Belgian's squad are yet to assemble for a training-ground rondo, never mind play a game.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c51kxlek7471o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 15:12:03 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3215,20 +3229,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スコットランドのスクワッドでマクバーニーと7 人のアンキャップ選手",
-      "summary": "ハル・シティ AFC 獲得オリヴァー・マクバーニー5 年ぶりにスコットランドのスクワッドに呼び出され、7 人のアンキャップが新しいヘッドコーチを作るセバスチャン・ポコニョーリ'最初の選択。",
-      "title_original": "McBurnie & seven uncapped players in Scotland squad",
-      "summary_original": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first time in five years while seven uncapped make new head coach Sebastien Pocognoli's first selection.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 11:23:30 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ルールを変更することはできません」 - NI/ROI の適格性に関する O'Neill",
       "summary": "北アイルランドマネージャーMichael O'Neill 獲得を問い合わせ BBC Sport NI's Stephen ワトソンについて推測についてアーセナルヤングスターCeadach O'Neill's インテル来日予定のニ・スクワッドに名前をつけて、国民の未来 Nations League 備品。",
       "title_original": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
@@ -3313,6 +3313,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スコットランドのスクワッドでマクバーニーと7 人のアンキャップ選手",
+      "summary": "ハル・シティ AFC 獲得オリヴァー・マクバーニー5 年ぶりにスコットランドのスクワッドに呼び出され、7 人のアンキャップが新しいヘッドコーチを作るセバスチャン・ポコニョーリ'最初の選択。",
+      "title_original": "McBurnie & seven uncapped players in Scotland squad",
+      "summary_original": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first time in five years while seven uncapped make new head coach Sebastien Pocognoli's first selection.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 11:23:30 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アシュフォードが最初のウェールズのコールアップを獲得するロドンは、",
       "summary": "クレイグ・ベラミー初めてのコールアップを Cardiff City 獲得 Cian Ashford 獲得を問い合わせ Wales' Nations League キャンペーンではなく、キーの擁護者なしでジョー・ロドン.",
       "title_original": "Rodon absent as Ashford earns first Wales call-up",
@@ -3380,20 +3394,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Ex-Tottenham midfielder Bissouma、アヤックス加入へ",
-      "summary": "過去の投稿トッテナムミッドフィルダーイヴ・ビスマ参加の枠にアヤックス季節の終わりまで走る初期の移籍。",
-      "title_original": "Ex-Tottenham midfielder Bissouma set to join Ajax",
-      "summary_original": "Former Tottenham midfielder Yves Bissouma is on the verge of joining Ajax on an initial deal that runs until the end of the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw4gr5pm7eg9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 12:16:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Fairy Glen 井戸は、ジョン・マスカーYarmouth の特徴",
+      "summary": "リストジョン・マスカー Fillies’ Stakes2 日目のセンターステージ Yarmouth’s Eastern Festival 水曜日、すべてのライブ Sky Sports Racing.",
+      "title_original": "Fairy Glen well fancied in John Musker feature at Yarmouth",
+      "summary_original": "The Listed John Musker Fillies’ Stakes takes centre stage on day two of Yarmouth’s Eastern Festival on Wednesday, all live on Sky Sports Racing.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13586154/today-on-sky-sports-racing-fairy-glen-well-fancied-in-john-musker-fillies-stakes-feature-at-yarmouth",
+      "published": "Wed, 16 Sep 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Inside Europe's 早割 Ryder Cup「immaculate」へのチーム旅行 Adare Manor",
       "summary": "まだまだ1 年が過ぎることもあります。Team Europe's 歴史的に入札 Ryder Cup3 ピース Luke Donald すでに彼の将来のラインアップの多くを持っていた Adare Manor.",
       "title_original": "Inside Europe's early Ryder Cup team trip to 'immaculate' Adare Manor",
@@ -4107,20 +4121,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Webb: フォデン赤正当化したが、フェルナンデスは「ペチュラント」キックのために黄色をエスケープ",
-      "summary": "Pro Ref スタッフハワード・ウェブ送信する決定を裏返しましたフィル・フォーデンマンチェスターのダービーだが、明らかにした VAR はできないインテル注意へのベニブルーノ・フェルナンデス変化を掻き立てた「ペチュラント」キック。",
-      "title_original": "Webb: Foden red justified but Fernandes escaped yellow for 'petulant' kick",
-      "summary_original": "Pro Ref chief Howard Webb has backed the decision to send off Phil Foden in the Manchester derby but revealed VAR could not intervene to caution Bruno Fernandes for the \"petulant\" kick that sparked the altercation.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13586192/pro-ref-chief-howard-webb-agrees-with-phil-foden-red-card-in-manchester-derby-but-admits-bruno-fernandes-should-have-been-booked",
-      "published": "Tue, 15 Sep 2026 17:00:00 BST",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     }
