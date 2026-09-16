@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-16T14:53:59.576958+00:00",
+  "updated_at": "2026-09-16T15:07:27.720259+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Max Rushden": "",
     "Barry Glendenning": "",
     "John Brewin": "",
     "Dan Bardell": "",
@@ -3001,7 +3000,8 @@
     "Norwich Enzo Maresca": "",
     "Monaco Sprint": "",
     "Craig Slater": "",
-    "Kendry Paez": "ケンドリー・パエス"
+    "Kendry Paez": "ケンドリー・パエス",
+    "Luke Chambers": "ルーク・チェンバース"
   },
   "items": [
     {
@@ -3016,6 +3016,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "急激な VAR の決定のための圧力 突出したダービーレビューで明らか",
+      "summary": "VAR の決定を取り巻く論争アーリング・ハーランドマンチェスター・ダービーの勝者には、日数でランブルされているので、エラーにつながりましたか?",
+      "title_original": "Pressure for quick VAR decisions obvious in rushed derby review",
+      "summary_original": "The controversy surrounding the VAR decision to allow Erling Haaland's winner in the Manchester derby has rumbled on for days, so what led to the error?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gjr5vly99o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 15:03:53 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3187,6 +3201,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "72+: The EFL Podcast",
+      "summary": "アーロン・ポール, Jobi McAnuff そして、ルーク・チェンバース EFL のすべてのことをチャットします。",
+      "title_original": "72+: The EFL Podcast",
+      "summary_original": "Aaron Paul, Jobi McAnuff and Luke Chambers chat all things EFL.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p9wygl?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 14:44:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "バルセロナ、Kane & Haaland - Wednesday's gossip を獲得候補に",
       "summary": "バルセロナ監視しているハリー・ケインそして、アーリング・ハーランド, Nick WoltemadeKane の交換はバイエルン・ミュンヘンとマンチェスター・ユナイテッド獲得を問い合わせインテル ested でジャラッド・ブランスウェイト、プラス多く。",
       "title_original": "Barcelona monitor Kane & Haaland - Wednesday's gossip",
@@ -3229,20 +3257,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズ-11 月1 日、エジンバラのダービーの10 月31 日のアバディーンセミ",
-      "summary": "レンジャーズそして、Aberdeen's Premier Sports Cup セミファイナルは10 月31 日(土)17 時30 分に開催されます。11 月1 日(日)15 時15 分に予定されているエジンバラ・ダービーの最終競技会が開催されます。",
-      "title_original": "Rangers-Aberdeen semi on 31 October, Edinburgh derby on 1 November",
-      "summary_original": "Rangers and Aberdeen's Premier Sports Cup semi-final will take place on 31 October at 17:30 BST, with the Edinburgh derby last-four tie scheduled for 1 November at 15:00.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gk04w592vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 10:15:50 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "メキシコで勝った後、ツッチェルはアステカの泥炭を食べていない",
       "summary": "トーマス・トゥヘル後悔は、草のいかなる食べないエスタディオ・アステカイングランドの叙事詩の後 World Cup メキシコに勝つ。",
       "title_original": "Tuchel regrets not eating Azteca turf after win over Mexico",
@@ -3250,6 +3264,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 19:25:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンジャーズ-11 月1 日、エジンバラのダービーの10 月31 日のアバディーンセミ",
+      "summary": "レンジャーズそして、Aberdeen's Premier Sports Cup セミファイナルは10 月31 日(土)17 時30 分に開催されます。11 月1 日(日)15 時15 分に予定されているエジンバラ・ダービーの最終競技会が開催されます。",
+      "title_original": "Rangers-Aberdeen semi on 31 October, Edinburgh derby on 1 November",
+      "summary_original": "Rangers and Aberdeen's Premier Sports Cup semi-final will take place on 31 October at 17:30 BST, with the Edinburgh derby last-four tie scheduled for 1 November at 15:00.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gk04w592vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 10:15:50 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3292,20 +3320,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 11:16:52 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "灰色は「そうでなければ言われるまで続行します」 - しかし、ハイブスボスはファンを失った?",
-      "summary": "ヘッドコーチデヴィッド・グレイ彼の側が6 番目の連続ホーム敗北に苦しんだ後、彼は Hibernian の貧しい形態「誰かが何かを言うためにあった」に解決策を試してみると、彼は言うだろうスコティッシュ・プレミアシップ.",
-      "title_original": "Gray 'will continue until told otherwise' - but has Hibs boss lost the fans?",
-      "summary_original": "Head coach David Gray says he will continue to try and find solutions to Hibernian's poor form \"until someone was to say something different\" after his side suffered a sixth consecutive home defeat in the Scottish Premiership.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvwyzwr5g76go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 22:58:27 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3397,31 +3411,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スターリングは、高速道路のクラッシュ後に危険な運転を認めます",
-      "summary": "旧イングランドのウィンガーは、5 月の高速道路の障壁にランボルギーニをクラッシュさせました。",
-      "title_original": "Sterling admits dangerous driving after motorway crash",
-      "summary_original": "The former England winger crashed a Lamborghini into motorway barriers in May.",
+      "title": "灰色は「そうでなければ言われるまで続行します」 - しかし、ハイブスボスはファンを失った?",
+      "summary": "ヘッドコーチデヴィッド・グレイ彼の側が6 番目の連続ホーム敗北に苦しんだ後、彼は Hibernian の貧しい形態「誰かが何かを言うためにあった」に解決策を試してみると、彼は言うだろうスコティッシュ・プレミアシップ.",
+      "title_original": "Gray 'will continue until told otherwise' - but has Hibs boss lost the fans?",
+      "summary_original": "Head coach David Gray says he will continue to try and find solutions to Hibernian's poor form \"until someone was to say something different\" after his side suffered a sixth consecutive home defeat in the Scottish Premiership.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 16:24:00 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvwyzwr5g76go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 22:58:27 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハーランドスコアの論争の勝者としてマンチェスター・シティフォデンレッドにもかかわらずダービーを獲得",
-      "summary": "アーリング・ハーランドの の目標は助けますマンチェスター・シティライバルで非常に論争のマンチェスターダービーを獲得マンチェスター・ユナイテッド10 人以上で70 分以上遊んでも",
-      "title_original": "Haaland scores controversial winner as Man City win derby despite Foden red",
-      "summary_original": "Erling Haaland's goal helps Manchester City win a highly controversial Manchester derby at rivals Manchester United despite playing with 10 men for more than 70 minutes.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 19:06:08 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
