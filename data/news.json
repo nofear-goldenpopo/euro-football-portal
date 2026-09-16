@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-16T13:07:52.135064+00:00",
+  "updated_at": "2026-09-16T13:30:55.281293+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Dan Roan": "",
-    "BlueSky Barcola": "",
     "Anfield. Iraola": "",
     "Max Rushden": "",
     "Barry Glendenning": "",
@@ -3001,7 +2999,9 @@
     "Watch Szoboszlai's": "",
     "The DP World Tour": "",
     "China Open": "中国オープン",
-    "Norwich Enzo Maresca": ""
+    "Norwich Enzo Maresca": "",
+    "Monaco Sprint": "",
+    "Craig Slater": ""
   },
   "items": [
     {
@@ -3019,20 +3019,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "エムバペ、Vini および Konate は Ceuta のサポートの実質のメッセージをカバーします",
-      "summary": "Vini Jnr, エムバペそして Konate は Ceuta のサポートを先にカバーしますレアル・マドリードエルチェにマッチする",
-      "title_original": "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
-      "summary_original": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 10:55:00 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "最高のオールタイムファンタシーフットボールのアイコンをランキング",
       "summary": "絶対的な Fantasy を解明する満足が全く同じではありませんプレミアリーグ bargain - 誰が最も象徴的なピックですか?",
       "title_original": "Ranking the greatest all-time fantasy football icons",
@@ -3044,6 +3030,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "エムバペ、Vini および Konate は Ceuta のサポートの実質のメッセージをカバーします",
+      "summary": "Vini Jnr, エムバペそして Konate は Ceuta のサポートを先にカバーしますレアル・マドリードエルチェにマッチする",
+      "title_original": "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
+      "summary_original": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 10:55:00 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3425,20 +3425,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Why Coventry, トッテナムそして、アストン・ヴィラ遅い開始について慌ててはいけません",
-      "summary": "コベントリーにはポイントがありません。トッテナム目標はなく、ヴィラは再び浸りました。しかし、悪いスタートはどういう意味ですか?By Opta Analyst That 新たなシーズンの始まりに感じた楽観は、無毒にすることができます。昨年の時期に起きたのは、夏を経って正しいことだった。新しい獲得、新しいマネージャー、そして新しい可能性。何がうまくいくのか? ああ、すべて。Terrific. We’re わずか9 月中旬ですが、初期の楽観主義が溶け、一部のファンの不安に置き換えられました",
-      "title_original": "Why Coventry, Tottenham and Aston Villa should not panic about their slow starts",
-      "summary_original": "Coventry have no points, Spurs have no goals and Villa have dipped again. But what does a bad start really mean? By Opta Analyst That optimism we feel at the start of a new season can be intoxicating. Whatever happened last season, there has been a whole summer to correct things. New signings, possibly a new manager, and new possibilities. What could go wrong? Oh, everything. Terrific. We’re only in mid-September, but that early optimism has melted away and been replaced by anxiety for some fans",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/coventry-aston-villa-tottenham-not-panic-slow-starts-points-scored",
-      "published": "Wed, 16 Sep 2026 09:59:01 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マレスカ 言うマンチェスター・シティまだ誤った2023 のダービーゴール後の謝罪を待っています",
       "summary": "論争のフェルナンデスのイコライザー都市の後のユナイテッドゲームは、血の若者に EFL カップノリッチに対するゲームエンツォ・マレスカコメントマンチェスター・ユナイテッド日曜日に論争のダービーの勝者を訴えることができないためマンチェスター・シティ受審者のチーフから謝罪をお待ちしています。ハワード・ウェブ、同じ据え付け品3 年前の一致定義の決定のため。失われた都市オールド・トラッフォード2023 年以降ブルーノ・フェルナンデスにもかかわらず、同等化マーカス・ラッシュフォードオフサイドの位置にある。マーキー",
       "title_original": "Maresca says Manchester City still waiting for apology after incorrect 2023 derby goal",
@@ -3446,6 +3432,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal",
       "published": "Wed, 16 Sep 2026 11:40:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Why Coventry, トッテナムそして、アストン・ヴィラ遅い開始について慌ててはいけません",
+      "summary": "コベントリーにはポイントがありません。トッテナム目標はなく、ヴィラは再び浸りました。しかし、悪いスタートはどういう意味ですか?By Opta Analyst That 新たなシーズンの始まりに感じた楽観は、無毒にすることができます。昨年の時期に起きたのは、夏を経って正しいことだった。新しい獲得、新しいマネージャー、そして新しい可能性。何がうまくいくのか? ああ、すべて。Terrific. We’re わずか9 月中旬ですが、初期の楽観主義が溶け、一部のファンの不安に置き換えられました",
+      "title_original": "Why Coventry, Tottenham and Aston Villa should not panic about their slow starts",
+      "summary_original": "Coventry have no points, Spurs have no goals and Villa have dipped again. But what does a bad start really mean? By Opta Analyst That optimism we feel at the start of a new season can be intoxicating. Whatever happened last season, there has been a whole summer to correct things. New signings, possibly a new manager, and new possibilities. What could go wrong? Oh, everything. Terrific. We’re only in mid-September, but that early optimism has melted away and been replaced by anxiety for some fans",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/16/coventry-aston-villa-tottenham-not-panic-slow-starts-points-scored",
+      "published": "Wed, 16 Sep 2026 09:59:01 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3845,13 +3845,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "なぜ?モナコの Sprint のホスティング? F1 2027 カレンダーの話ポイント",
-      "summary": "フォーミュラ1 の2027 のカレンダーは、再び記録的な装備の24 レースの週末に実行するようにスケジュールされた次のシーズンで出ています。",
-      "title_original": "Why Monaco's hosting a Sprint? F1 2027 calendar talking points",
+      "title": "なぜ?モナコの のホスティングスプリント - F1 2027 カレンダーの話ポイント",
+      "summary": "フォーミュラ1 の2027 のカレンダーは、再び記録的な装備の24 レースの週末に実行する予定の次のシーズンで出ています。",
+      "title_original": "Why Monaco's hosting a Sprint - F1 2027 calendar talking points",
       "summary_original": "Formula 1’s 2027 calendar is out with next season again scheduled to run to a record-equalling 24 race weekends.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13588553/f1-2027-calendar-monaco-staging-one-of-10-sprints-and-other-talking-points-from-race-schedule-reveal-for-next-season",
       "published": "Wed, 16 Sep 2026 12:12:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "説明: なぜそこにあるかモナコ2027 年のスプリント?",
+      "summary": "Craig Slater 理由を説明するモナコ2027 F1 シーズンのスプリント会場に選ばれました。",
+      "title_original": "Explained: Why is there a Monaco Sprint in 2027?",
+      "summary_original": "Craig Slater explains why Monaco has been chosen as a Sprint venue for the 2027 F1 season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13588587/formula-1-why-is-there-a-monaco-sprint-in-2027",
+      "published": "Wed, 16 Sep 2026 13:33:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4108,20 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "最新の声明表示の後に「世代」の才能ドーマンの次のものは何ですか?",
-      "summary": "Max Dowman 機会のために忍耐強く待つアーセナル'最初のチームですが、彼はそれらを取得するとき、彼は配信します。",
-      "title_original": "What next for 'generational' talent Dowman after latest statement display?",
-      "summary_original": "Max Dowman has waited patiently for opportunities in Arsenal's first team, but when he gets them, he delivers.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13586419/max-dowman-arsenal-prodigy-delivers-latest-statement-performance-as-mikel-arteta-urges-caution-over-16-year-old",
-      "published": "Tue, 15 Sep 2026 23:23:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
