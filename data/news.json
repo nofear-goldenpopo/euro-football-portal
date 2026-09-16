@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-16T10:06:21.756619+00:00",
+  "updated_at": "2026-09-16T10:27:11.321196+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Day's Joe Hart": "",
-    "Manchester City's Marc Guehi": "",
-    "Gabby Logan": "",
     "Mac Allister": "",
     "Gakpo. Nottingham Forest": "",
     "Aina. Continue": "",
@@ -3001,7 +2998,10 @@
     "Docherty's Scotland": "",
     "Sixteen-year-old Kyle Glasgow": "",
     "Tony Docherty's": "",
-    "Scotland Under-": ""
+    "Scotland Under-": "",
+    "By Opta Analyst That": "",
+    "Terrific. We’re": "",
+    "BMW PGA Pro-Am": ""
   },
   "items": [
     {
@@ -3044,6 +3044,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "最高のオールタイムファンタシーフットボールのアイコンをランキング",
+      "summary": "絶対的な Fantasy を解明する満足が全く同じではありませんプレミアリーグ bargain - 誰が最も象徴的なピックですか?",
+      "title_original": "Ranking the greatest all-time fantasy football icons",
+      "summary_original": "There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain - so who are the most iconic picks ever?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 10:14:45 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3127,6 +3141,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンジャーズ-11 月1 日、エジンバラのダービーの10 月31 日のアバディーンセミ",
+      "summary": "レンジャーズそして、Aberdeen's Premier Sports Cup セミファイナルは10 月31 日(土)17 時30 分に開催されます。11 月1 日(日)15 時15 分に予定されているエジンバラ・ダービーの最終競技会が開催されます。",
+      "title_original": "Rangers-Aberdeen semi on 31 October, Edinburgh derby on 1 November",
+      "summary_original": "Rangers and Aberdeen's Premier Sports Cup semi-final will take place on 31 October at 17:30 BST, with the Edinburgh derby last-four tie scheduled for 1 November at 15:00.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gk04w592vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 10:15:50 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3341,34 +3369,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スコットランドのスクワッドでマクバーニーと7 人のアンキャップ選手",
-      "summary": "ハル・シティ AFC 獲得オリヴァー・マクバーニー5 年ぶりにスコットランドのスクワッドに呼び出され、7 人のアンキャップが新しいヘッドコーチを作るセバスチャン・ポコニョーリ'最初の選択。",
-      "title_original": "McBurnie & seven uncapped players in Scotland squad",
-      "summary_original": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first time in five years while seven uncapped make new head coach Sebastien Pocognoli's first selection.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 11:23:30 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アシュフォードが最初のウェールズのコールアップを獲得するロドンは、",
-      "summary": "クレイグ・ベラミー初めてのコールアップを Cardiff City 獲得 Cian Ashford 獲得を問い合わせ Wales' Nations League キャンペーンではなく、キーの擁護者なしでジョー・ロドン.",
-      "title_original": "Rodon absent as Ashford earns first Wales call-up",
-      "summary_original": "Craig Bellamy hands a first call-up to Cardiff City forward Cian Ashford for Wales' Nations League A campaign but is without key defender Joe Rodon.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c615877d389no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:30:13 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ハーランドスコアの論争の勝者としてマンチェスター・シティフォデンレッドにもかかわらずダービーを獲得",
       "summary": "アーリング・ハーランドの の目標は助けますマンチェスター・シティライバルで非常に論争のマンチェスターダービーを獲得マンチェスター・ユナイテッド10 人以上で70 分以上遊んでも",
       "title_original": "Haaland scores controversial winner as Man City win derby despite Foden red",
@@ -3425,6 +3425,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Why Coventry, トッテナムそして、アストン・ヴィラ遅い開始について慌ててはいけません",
+      "summary": "コベントリーにはポイントがありません。トッテナム目標はなく、ヴィラは再び浸りました。しかし、悪いスタートはどういう意味ですか?By Opta Analyst That 新たなシーズンの始まりに感じた楽観は、無毒にすることができます。昨年の時期に起きたのは、夏を経って正しいことだった。新しい獲得、新しいマネージャー、そして新しい可能性。何がうまくいくのか? ああ、すべて。Terrific. We’re わずか9 月中旬ですが、初期の楽観主義は、一部のファンの不安に溶け、交換しました。",
+      "title_original": "Why Coventry, Tottenham and Aston Villa should not panic about their slow starts",
+      "summary_original": "Coventry have no points, Spurs have no goals and Villa have dipped again. But what does a bad start really mean? By Opta Analyst That optimism we feel at the start of a new season can be intoxicating. Whatever happened last season, there has been a whole summer to correct things. New signings, possibly a new manager, and new possibilities. What could go wrong? Oh, everything. Terrific. We’re only in mid-September but that early optimism has melted away and been replaced by anxiety for some fans.",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/16/coventry-aston-villa-tottenham-not-panic-slow-starts-points-scored",
+      "published": "Wed, 16 Sep 2026 09:59:01 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "サッカーファンが初めてレプリカキットを着て始めたとき? |The Knowledge",
       "summary": "プラス:より高価(そして有益)レッドカード s、プラスの3 倍の半世紀の攻撃インテル国民の目標 あなたのすべての質問に私たちを郵送し、「レプリカキットを身に着けているファンが何かになるとき」答えます? 尋ねる Alex Ecob. 「古い映像は、通常の服やチームカラーのいくつかのスカーフ/フラグで人々を示しています。トレンドが始まりましたか? まずは1 部のクラブがもらえますか? 質問が示すように、これは簡単な答えではありません。著作権行為から野生的に行動するように、民衆を虐待する",
       "title_original": "When did football fans first start wearing replica kits? | The Knowledge",
@@ -3453,13 +3467,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "11,000ft の栄光:Cusco’s Cienciano 再びペルーの大陸の成功をもたらすために",
-      "summary": "Cusco は観光のために知られています。しかし、都市の最大のサッカーチームは、繰り返しを追いています南アメリカ20 年以上前の衝撃波を引き起こしたタイトル クスコが観光エンジンからサッカーにスポットライトをシフトしたときに、その夜の一つでした。ガシロソ・デ・ラ・ベガの名前のスタジアムで – インカ帝国の彼の慢性者のために祝われた – 周りの 30,000 近隣よりも遠く離れた何かを目撃するために集まりました Machu Picchu, 間違いなく最高の有名な考古学的サイト で t",
-      "title_original": "Glory at 11,000ft: Cusco’s Cienciano aim to bring Peru continental success once again",
-      "summary_original": "Cusco is known for tourism. But the city’s biggest football team is chasing a repeat of a South American title that caused shockwaves more than 20 years ago It was one of those nights when Cusco shifted the spotlight from its tourism engine to football. At a stadium named after Garcilaso de la Vega – celebrated for his chronicles about the Inca empire – around 30,000 people gathered to witness something far more immediate than nearby Machu Picchu, arguably the best-known archaeological site in t",
+      "title": "イランのサッカーは戦争の影で戻り、最後のリーグのタイトルを上回る行",
+      "summary": "戦争とサウジアラビアの支出の背後にある落下による長持ちしたリーグサスペンションは、スポーツを弱める Iran Just3 ヶ月前、イランはサッカーの最大の物語の一つでしたサッカーイラン代表到着場所 World Cup 遊ぶためにアメリカ合衆国, テランや他のターゲットでミサイルを爆破し、発射していた国. エジプトが確認したイランのグループステージの出口から、最終グループゲームでバーを打つ、危険なゴールと最後の数分の努力 - いくつかのアメリカの公式の喜びに -",
+      "title_original": "Iranian football returns in the shadow of war and with row over last league title",
+      "summary_original": "Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Just three months ago, Iran was one of the biggest stories in football as Team Melli arrived at the World Cup to try to play in the US, a country that had been bombing and firing missiles at Tehran and other targets. A disallowed goal and a last-minute effort that hit the bar in the final group game against Egypt confirmed Iran’s group-stage exit – to the delight of some US officials – ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/glory-at-11000ft-cuscos-cienciano-aim-to-bring-peru-continental-success-once-again",
-      "published": "Wed, 16 Sep 2026 09:00:15 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia",
+      "published": "Wed, 16 Sep 2026 07:00:13 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3481,20 +3495,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イランのサッカーは戦争の影で戻り、最後のリーグのタイトルを上回る行",
-      "summary": "戦争とサウジアラビアの支出の背後にある落下による長持ちしたリーグサスペンションは、スポーツを弱める Iran Just3 ヶ月前、イランはサッカーの最大の物語の一つでしたサッカーイラン代表到着場所 World Cup 遊ぶためにアメリカ合衆国, テランや他のターゲットでミサイルを爆破し、発射していた国. エジプトが確認したイランのグループステージの出口から、最終グループゲームでバーを打つ、危険なゴールと最後の数分の努力 - いくつかのアメリカの公式の喜びに -",
-      "title_original": "Iranian football returns in the shadow of war and with row over last league title",
-      "summary_original": "Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Just three months ago, Iran was one of the biggest stories in football as Team Melli arrived at the World Cup to try to play in the US, a country that had been bombing and firing missiles at Tehran and other targets. A disallowed goal and a last-minute effort that hit the bar in the final group game against Egypt confirmed Iran’s group-stage exit – to the delight of some US officials – ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia",
-      "published": "Wed, 16 Sep 2026 07:00:13 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Max Dowman ダブルアップアーセナルの バックアップをビートにイプスウィッチ獲得を問い合わせ EFL カップ",
       "summary": "みんなの悪いニュースは、アーセナルの next generation は、ここにある。2 つの魅惑的な目標と、そこからの人格表示の助け Max Dowman16 歳が特定のものと比較していた理由リオネル・メッシマネージャー、ミケル・アルテタ, としてイプスウィッチ片面にくつろげました。17 歳までのパフォーマンスが印象的だった Marli Salmon, 彼のキャリアの2 番目のシニアスタートだけに集中防衛のクラスを省略した人.イプスウィッチ最後まで勝ちました",
       "title_original": "Max Dowman doubles up for Arsenal’s back-ups to beat Ipswich in Carabao Cup",
@@ -3502,34 +3502,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/15/ipswich-arsenal-carabao-cup-third-round-match-report",
       "published": "Tue, 15 Sep 2026 21:14:31 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ラヒーム・スターリング亜酸化窒素を使用しながら、無謀な運転のために刑務所に直面することができる",
-      "summary": "Ex-England サッカー pleads guilty と admits へ 提供 標本 で 裁判所ラヒーム・スターリング危険な運転に pleaded guilty と 刑務所に送ることができる 刑務所 後に 運転 彼の -Lamborghini 急な酸化物を吸う間、急いで時間に時間以上. 前の投稿チェルシーそして、マンチェスター・シティドックに立って、バウンストーク・マジストレーションズ・コートの前に3 つの料金を受け取るために、彼は M25 で再燃運転の長期期間に着目したことを聞いた。",
-      "title_original": "Raheem Sterling could face prison for reckless driving while using nitrous oxide",
-      "summary_original": "Ex-England footballer pleads guilty and admits to failing to provide a specimen as he appears in court Raheem Sterling pleaded guilty to dangerous driving and could be sent to prison after driving his ­Lamborghini for more than an hour on motorways during rush hour while inhaling nitrous oxide. The former Chelsea and Manchester City forward stood in the dock to accept three charges before ­ Basingstoke magistrates court heard how he embarked on a ­prolonged period of reckless driving on the M25 ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/15/raheem-sterling-pleads-guilty-dangerous-driving-possession-nitrous-oxide",
-      "published": "Tue, 15 Sep 2026 13:39:34 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド才能のある若年者としてのショック JJ Gabriel 退去を求める",
-      "summary": "15 歳で登録をキャンセルしたい 彼は直面するスクワットだったブライトン水曜日マンチェスター・ユナイテッド才能ある15 歳の選手が告白し、衝撃を受けました JJ Gabriel 初めてのチームチームに顔をつけてもらうために、クラブを離れるよう求めたブライトン. ガブリエルは、ユナイテッドの最も若い選手になる可能性が EFL カップ3 ラウンドタイオールド・トラッフォード獲得を問い合わせ Wednesday. But ガーディアンは彼が彼のレジストラティオを尋ねたことを理解しています",
-      "title_original": "Manchester United shocked as talented youngster JJ Gabriel asks to leave",
-      "summary_original": "15-year-old wants his registration to be cancelled He was to be in squad to face Brighton on Wednesday Manchester United have been left confused and shocked by the news that the talented 15-year-old player JJ Gabriel has asked to leave the club, a day before he was to be included in the first-team squad to face Brighton. Gabriel could have become United’s youngest player in the Carabao Cup third-round tie at Old Trafford on Wednesday. But the Guardian understands he has asked for his registratio",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave",
-      "published": "Tue, 15 Sep 2026 14:18:24 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3548,6 +3520,34 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ラヒーム・スターリング亜酸化窒素を使用しながら、無謀な運転のために刑務所に直面することができる",
+      "summary": "Ex-England サッカー pleads guilty と admits へ 提供 標本 で 裁判所ラヒーム・スターリング危険な運転に pleaded guilty と 刑務所に送ることができる 刑務所 後に 運転 彼の -Lamborghini 急な酸化物を吸う間、急いで時間に時間以上. 前の投稿チェルシーそして、マンチェスター・シティドックに立って、バウンストーク・マジストレーションズ・コートの前に3 つの料金を受け取るために、彼は M25 で再燃運転の長期期間に着目したことを聞いた。",
+      "title_original": "Raheem Sterling could face prison for reckless driving while using nitrous oxide",
+      "summary_original": "Ex-England footballer pleads guilty and admits to failing to provide a specimen as he appears in court Raheem Sterling pleaded guilty to dangerous driving and could be sent to prison after driving his ­Lamborghini for more than an hour on motorways during rush hour while inhaling nitrous oxide. The former Chelsea and Manchester City forward stood in the dock to accept three charges before ­ Basingstoke magistrates court heard how he embarked on a ­prolonged period of reckless driving on the M25 ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/15/raheem-sterling-pleads-guilty-dangerous-driving-possession-nitrous-oxide",
+      "published": "Tue, 15 Sep 2026 13:39:34 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "11,000ft の栄光:Cusco’s Cienciano 再びペルーの大陸の成功をもたらすために",
+      "summary": "Cusco は観光のために知られています。しかし、都市の最大のサッカーチームは、繰り返しを追いています南アメリカ20 年以上前の衝撃波を引き起こしたタイトル クスコが観光エンジンからサッカーにスポットライトをシフトしたときに、その夜の一つでした。ガシロソ・デ・ラ・ベガの名前のスタジアムで – インカ帝国の彼の慢性者のために祝われた – 周りの 30,000 近隣よりも遠く離れた何かを目撃するために集まりました Machu Picchu, 間違いなく最高の有名な考古学的サイト で t",
+      "title_original": "Glory at 11,000ft: Cusco’s Cienciano aim to bring Peru continental success once again",
+      "summary_original": "Cusco is known for tourism. But the city’s biggest football team is chasing a repeat of a South American title that caused shockwaves more than 20 years ago It was one of those nights when Cusco shifted the spotlight from its tourism engine to football. At a stadium named after Garcilaso de la Vega – celebrated for his chronicles about the Inca empire – around 30,000 people gathered to witness something far more immediate than nearby Machu Picchu, arguably the best-known archaeological site in t",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/16/glory-at-11000ft-cuscos-cienciano-aim-to-bring-peru-continental-success-once-again",
+      "published": "Wed, 16 Sep 2026 09:00:15 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3915,6 +3915,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "BMW PGA Pro-Am 獲得を問い合わせ Wentworth イベントでどの有名人が再生されていますか?",
+      "summary": "",
+      "title_original": "BMW PGA Pro-Am under way! Which celebs are playing in Wentworth event?",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13586094/bmw-pga-championship-pro-am-tee-times-celebrity-handicaps-highlights-as-gareth-bale-john-terry-eden-hazard-feature",
+      "published": "Tue, 15 Sep 2026 16:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "レアル・マドリードリーダーとポイントでレベルを移動させるための怪我タイムの勝者をスコアバルセロナ",
       "summary": "",
       "title_original": "Real Madrid score injury-time winner to move level on points with leaders Barcelona",
@@ -4107,20 +4121,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブレントフォード4 ラウンドに達するために読書を握って下さい EFL カップ",
-      "summary": "ブレントフォード読書に対する緊張した仕上げから、自分の場所を予約する EFL カップ4 ラウンドで2-1 勝利マデイスキー・スタジアム.",
-      "title_original": "Brentford hold off Reading to reach round four of Carabao Cup",
-      "summary_original": "Brentford emerged from a tense finish against Reading to book their place in the Carabao Cup fourth round with a 2-1 victory at Select Car Leasing Stadium.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/reading-vs-brentford/report/577584",
-      "published": "Tue, 08 Sep 2026 21:35:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
