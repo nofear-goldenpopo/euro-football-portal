@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-16T19:51:07.857222+00:00",
+  "updated_at": "2026-09-16T20:08:35.312597+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Everton LIVE": "",
-    "West Brom": "",
     "No McGregor": "",
     "Falkirk LIVE": "",
     "Hull LIVE": "",
@@ -3001,7 +2999,9 @@
     "BMW PGA Championship Pro-Am": "",
     "Gareth Bale": "ガレス・ベイル",
     "Wednesday's BMW PGA Championship": "",
-    "Everton's Barry": ""
+    "Everton's Barry": "",
+    "Luke Shaw": "ルーク・ショー",
+    "Luca Weinhandl": ""
   },
   "items": [
     {
@@ -3145,6 +3145,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アーセナル拒否ドウマンローンオファー - 木曜日のゴシップ",
+      "summary": "アーセナルローンオファーの受け取り Max Dowman, ルーク・ショー残すことができるマンチェスター・ユナイテッド次の夏、Luca Weinhandl 引き付けインテル複数から est プレミアリーグクラブ、その他",
+      "title_original": "Arsenal rejected Dowman loan offers - Thursday's gossip",
+      "summary_original": "Arsenal received loan offers for Max Dowman, Luke Shaw could leave Manchester United next summer, Luca Weinhandl attracting interest from multiple Premier League clubs, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c617jz28nkvgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 19:53:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "なぜ?マンチェスター・ユナイテッドボールなしで良いですか?",
       "summary": "インフォメーションマイケル・キャリック, マンチェスター・ユナイテッドボールの50%以上を持っている場合、ゲームあたりの平均1.5 ポイント。50% 未満の場合、この番号は 2.6 です。",
       "title_original": "Why are Man Utd better without the ball?",
@@ -3187,20 +3201,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Harwood-Bellis は、ヴィラでマークを作るチャンスを持っています",
-      "summary": "左からアストン・ヴィラ獲得を問い合わせチャンピオンズリーグ到着以来、スクワッドとまだ機能する Taylor Harwood-Bellis 輝くチャンスを EFL カップ.",
-      "title_original": "Harwood-Bellis has chance to make his mark at Villa",
-      "summary_original": "Left out of Aston Villa's Champions League squad and yet to feature since his arrival, Taylor Harwood-Bellis has the chance to shine in the EFL Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyzg91zm4wo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 11:00:56 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Does Bellamy バックウェールズのファンを獲得する必要がありますか?",
       "summary": "「眠らない夜」の後、ウェールズのボスクレイグ・ベラミー管理するチャンスを下げることにしたバーンリー- しかし、ファンが彼に何を考えているかに影響しましたか?",
       "title_original": "Does Bellamy need to win back Wales fans?",
@@ -3229,6 +3229,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Harwood-Bellis は、ヴィラでマークを作るチャンスを持っています",
+      "summary": "左からアストン・ヴィラ獲得を問い合わせチャンピオンズリーグ到着以来、スクワッドとまだ機能する Taylor Harwood-Bellis 輝くチャンスを EFL カップ.",
+      "title_original": "Harwood-Bellis has chance to make his mark at Villa",
+      "summary_original": "Left out of Aston Villa's Champions League squad and yet to feature since his arrival, Taylor Harwood-Bellis has the chance to shine in the EFL Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyzg91zm4wo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 11:00:56 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'Superstar' Dowman 自分のクラスを表示アーセナル注意が必要です",
       "summary": "Max Dowman 輝きと輝き2 ゴールに対してイプスウィッチ・タウン FC- しかし、上司ミケル・アルテタ警告アーセナル開発を急いではなりません。",
       "title_original": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
@@ -3236,20 +3250,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 22:26:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "バルセロナ、Kane & Haaland - Wednesday's gossip を獲得候補に",
-      "summary": "バルセロナ監視しているハリー・ケインそして、アーリング・ハーランド, Nick WoltemadeKane の交換はバイエルン・ミュンヘンとマンチェスター・ユナイテッド獲得を問い合わせインテル ested でジャラッド・ブランスウェイト、プラス多く。",
-      "title_original": "Barcelona monitor Kane & Haaland - Wednesday's gossip",
-      "summary_original": "Barcelona are monitoring Harry Kane and Erling Haaland, Nick Woltemade could be a replacement for Kane at Bayern Munich, and Manchester United are interested in Jarrad Branthwaite, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqzezjn3wzjpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 20:19:31 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽ Live updates from four third-round matches ⚽ Manchester United shocked as JJ Gabriel asks to leave ⚽ Get in touch! Email Will with any thoughts Poor Joshua Zirkzee cannot get a game in the Carabao Cup. I am not sure he will get many minutes in the months to come. Max Dowman continues to be good. Mikel Merino can similarities to a certain Lamine Yamal, which is high praise. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
-      "published": "Wed, 16 Sep 2026 19:38:38 GMT",
+      "published": "Wed, 16 Sep 2026 19:54:44 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3445,7 +3445,7 @@
       "summary_original": "⚽ Live updates from the 8pm BST kick-offs ⚽ Xhaka promises ‘fire’ | Live scoreboard ⚽ Get in touch! Email Niall with any thoughts Manchester United host Brighton, and there are not one but two heads of state in attendance as Everton entertain Wolves. Join Will Unwin for the latest Carabao Cup fun. “Given Granit Xhaka’s scorching comments, will it turn out to be the Stadium of (Come On Baby) Light My Fire?” asks Peter Oh. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/16/sunderland-v-az-milan-v-benfica-and-more-europa-league-clockwatch-live",
-      "published": "Wed, 16 Sep 2026 19:37:30 GMT",
+      "published": "Wed, 16 Sep 2026 19:51:26 GMT",
       "category": "uel",
       "type": "uel",
       "label": "EL",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Warwickshire シール 2 日で Essex を上回るカウンティ・チャンピオンシップタイトル希望",
+      "summary": "Warwickshire が Rothesay をブーストカウンティ・チャンピオンシップ Essex を 2 日間で 8 ウィケットの勝利を確保することでタイトルの課題.",
+      "title_original": "Warwickshire seal two-day win over Essex to boost County Championship title hopes",
+      "summary_original": "Warwickshire boosted their Rothesay County Championship title challenge by securing an eight-wicket win over Essex in two days.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13588700/county-championship-warwickshire-seal-two-day-win-over-essex-to-boost-title-hopes-as-sam-hain-stars",
+      "published": "Wed, 16 Sep 2026 20:22:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Djokovic に戻る中国オープン空中スポーツ 11 歳以降",
       "summary": "ノバク・ジョコビッチ彼が競争することを確認しました中国オープン今年は、9 月30 日～10 月6 日(水)から10 月6 日(水)まで、11 年連続で開催されるイベントに戻ってきます。",
       "title_original": "Djokovic to return to China Open on Sky Sports after 11-year absence",
@@ -4041,9 +4055,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "エヴァートン’ s バリーはトップ セーブによって拒否され、ゴールレス 対 Wolves LIVE!",
+      "title": "両方のゴールキーパーは、保つために良い節約を作るエヴァートンゴールレス LIVE 対 Wolves!",
       "summary": "",
-      "title_original": "Everton's Barry denied by top save to keep it goalless vs Wolves LIVE!",
+      "title_original": "Both goalkeepers make good saves to keep Everton vs Wolves goalless LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/everton-vs-wolverhampton-wanderers/live/577575",
@@ -4107,20 +4121,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "草、瞑想などを食べる -What Tuchel ウイルスドキュメンタリーで言った",
-      "summary": "トーマス・トゥヘルピッチの後にアステカから草を食べたい England's World Cup この夏はメキシコで勝つ。",
-      "title_original": "Eating grass, meditation and more – What Tuchel said in viral documentary",
-      "summary_original": "Thomas Tuchel wishes he'd eaten grass from the Azteca pitch after England's World Cup win over Mexico this summer.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13588472/thomas-tuchel-england-boss-on-world-cup-reflections-wishing-hed-eaten-azteca-grass-and-an-exciting-future",
-      "published": "Wed, 16 Sep 2026 08:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
