@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-16T16:39:48.213060+00:00",
+  "updated_at": "2026-09-16T16:53:44.301741+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "South Florida": "",
-    "Harrison Armstrong": "",
     "BlueSky Oliver Glasner": "",
     "Nottingham Forest LIVE": "",
     "Email Scott": "",
@@ -3001,7 +2999,9 @@
     "Dick Turpin": "ディック・ターピン",
     "Iran Three": "",
     "Arsenal’s Dowman": "",
-    "Ipswich Merino": ""
+    "Ipswich Merino": "",
+    "Easter Road": "イースター・ロード",
+    "City's VAR": ""
   },
   "items": [
     {
@@ -3034,9 +3034,9 @@
     },
     {
       "title": "Hibernian のヘッド コーチとして要求される灰色",
-      "summary": "ハイベルニアンがヘッドコーチの出発を発表デヴィッド・グレイ季節が悪い時期に続いています。",
+      "summary": "Hibernian sack ヘッドコーチデヴィッド・グレイ6 つのゲームにスコティッシュ・プレミアシップ季節、元キャプテン12 年間の滞在を終わらせますイースター・ロード.",
       "title_original": "Gray sacked as Hibernian head coach",
-      "summary_original": "Hibernian announce the departure of head coach David Gray following a poor start to the season.",
+      "summary_original": "Hibernian sack head coach David Gray six games into the Scottish Premiership season, ending the former captain's 12-year stay at Easter Road.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c52e01ln0jj8o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 16:34:00 GMT",
@@ -3047,9 +3047,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マレスカ批評家は論争の勝者に焦点を当てています",
-      "summary": "マンチェスター・シティマネージャーエンツォ・マレスカ周囲の論争が「悪い」と言っているアーリング・ハーランドの の勝者は彼の側面の勝利を上書きしましたマンチェスター・ユナイテッド.",
-      "title_original": "Maresca criticises focus on controversial winner",
+      "title": "'私たちはまだ謝罪を待っています' - マレスカオン City's VAR フラストレーション",
+      "summary": "マンチェスター・シティマネージャーエンツォ・マレスカ周囲の論争が「悪い」と言っているアーリング・ハーランドの の勝者は彼の側面の勝利をオーバーシャドウしましたマンチェスター・ユナイテッド.",
+      "title_original": "'We are still waiting for apology' - Maresca on City's VAR frustration",
       "summary_original": "Manchester City manager Enzo Maresca says it is \"quite poor\" that the controversy surrounding Erling Haaland's winner has overshadowed his side's win at Manchester United.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zyjylee1o?at_medium=RSS&at_campaign=rss",
@@ -3095,7 +3095,7 @@
       "summary_original": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 10:55:00 GMT",
+      "published": "Wed, 16 Sep 2026 16:40:48 GMT",
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
