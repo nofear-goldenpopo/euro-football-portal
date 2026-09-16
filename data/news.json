@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-16T23:23:57.079125+00:00",
+  "updated_at": "2026-09-16T23:37:18.088807+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Have YOUR": "",
     "FREE STREAM": "",
     "Watch Mayer": "",
     "Celtic LIVE": "",
@@ -3001,9 +3000,24 @@
     "Ibrahim Mbaye’s": "",
     "Johan Manzambi. Are": "",
     "Hansjorg Wyss": "",
-    "Another Manchester United": ""
+    "Another Manchester United": "",
+    "Manchester United's EFL Cup": ""
   },
   "items": [
+    {
+      "title": "プレッシャーで Carrick 'not Bothered' - しかし、彼はこの最新の混乱の後にあるべき?",
+      "summary": "マネージャーマイケル・キャリック主張する彼は後圧力の下で感じませんマンチェスター・ユナイテッド獲得を問い合わせ EFL カップ出口。",
+      "title_original": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
+      "summary_original": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 23:31:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "Boehly と ウォルター 販売ショップチェルシークリアレイクに焼く",
       "summary": "Clearlake Capital 完全な制御を得て下さいチェルシーチェアマントッド・ベーリーディレクターMark Walter そして、Hansjorg Wyss クラブで屋台を売る",
@@ -3011,7 +3025,7 @@
       "summary_original": "Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly, director Mark Walter and Hansjorg Wyss sell their stakes in the club.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 23:22:45 GMT",
+      "published": "Wed, 16 Sep 2026 23:29:10 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3271,20 +3285,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Pocognoli の大胆なスコットランドのスクワッドのキーポイント",
-      "summary": "ザ・オブ・ザ・セバスチャン・ポコニョーリスコットランドの時代はすでに深刻な陰謀を作り出しています。そして、ベルギーのスクワッドはまだトレーニンググラウンドロンドのために組み立てられており、ゲームを決して心がけません。",
-      "title_original": "The key talking points from Pocognoli's bold Scotland squad",
-      "summary_original": "The Sebastien Pocognoli Scotland era is already creating serious intrigue - and the Belgian's squad are yet to assemble for a training-ground rondo, never mind play a game.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c51kxlek7471o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 15:12:03 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ルールを変更することはできません」 - NI/ROI の適格性に関する O'Neill",
       "summary": "北アイルランドマネージャーMichael O'Neill 獲得を問い合わせ BBC Sport NI's Stephen ワトソンについて推測についてアーセナルヤングスターCeadach O'Neill's インテル来日予定のニ・スクワッドに名前をつけて、国民の未来 Nations League 備品。",
       "title_original": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
@@ -3355,6 +3355,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Pocognoli の大胆なスコットランドのスクワッドのキーポイント",
+      "summary": "ザ・オブ・ザ・セバスチャン・ポコニョーリスコットランドの時代はすでに深刻な陰謀を作り出しています。そして、ベルギーのスクワッドはまだトレーニンググラウンドロンドのために組み立てられており、ゲームを決して心がけません。",
+      "title_original": "The key talking points from Pocognoli's bold Scotland squad",
+      "summary_original": "The Sebastien Pocognoli Scotland era is already creating serious intrigue - and the Belgian's squad are yet to assemble for a training-ground rondo, never mind play a game.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c51kxlek7471o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 15:12:03 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'Superstar' Dowman 自分のクラスを表示アーセナル注意が必要です",
       "summary": "Max Dowman 輝きと輝き2 ゴールに対してイプスウィッチ・タウン FC- しかし、上司ミケル・アルテタ警告アーセナル開発を急いではなりません。",
       "title_original": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
@@ -3408,20 +3422,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "メッシアルゼンチンは farewell フレンドリーのために",
-      "summary": "アルゼンチン名リオネル・メッシ10 月にベンインと友好関係を築き、前方へ向かうと決めるインテル国民のフットボール。",
-      "title_original": "Messi in Argentina squad for farewell friendly",
-      "summary_original": "Argentina name Lionel Messi in their squad for a friendly against Benin in October in a match which is set to be the forward's farewell to international football.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 22:50:04 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
