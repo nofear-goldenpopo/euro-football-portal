@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-17T10:06:16.512382+00:00",
+  "updated_at": "2026-09-17T10:26:52.455508+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "San Sebastián": "サン・セバスティアン",
     "West Ham’s Nuno": "",
     "La Li": "",
     "St Johnstone": "",
@@ -3001,7 +3000,8 @@
     "Chelsea's Lavia": "",
     "Romeo Lavia": "ロメオ・ラヴィア",
     "Donyell Malen": "ドニエル・マレン",
-    "Wentworth LIVE": ""
+    "Wentworth LIVE": "",
+    "Vince Lombardi Trophy": "ヴィンス・ロンバルディ・トロフィー"
   },
   "items": [
     {
@@ -3845,6 +3845,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "World Series インフォメーション Darts Finals: リトル・フントリー・MVG によるスケジュール",
+      "summary": "2026 年のスケジュールと結果 World Series インフォメーション Darts Finals アムステルダム Luke Littler, Luke Humphries, マイケル・ヴァン・ガーウェンとジャイアン・ヴァン・ヴェンが行動する.",
+      "title_original": "World Series of Darts Finals: Schedule with Littler, Humphries, MVG in action",
+      "summary_original": "The schedule and results for the 2026 World Series of Darts Finals in Amsterdam with Luke Littler, Luke Humphries, Michael van Gerwen and Gian van Veen in action.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/news/12040/13583670/world-series-of-darts-finals-2026-schedule-and-results-with-luke-littler-luke-humphries-michael-van-gerwen-gian-van-veen-in-action",
+      "published": "Wed, 09 Sep 2026 17:27:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "NFL 2026:英国時間と週単位の試合スケジュール",
+      "summary": "すべての備品と英国のタイミング NFL's 2026 季節は追いかけて持ち上げますヴィンス・ロンバルディ・トロフィーまずは、",
+      "title_original": "NFL 2026: UK times and weekly match schedule",
+      "summary_original": "All the fixtures and UK timings for the NFL's 2026 season as the chase to lift the Vince Lombardi Trophy starts all over again.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13544294/nfl-fixtures-and-schedule-2026-uk-times-for-2026-regular-season-games-and-post-season-playoffs-on-road-to-super-bowl-lxi",
+      "published": "Thu, 17 Sep 2026 11:02:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "45 選手! Klopp は、TWO の別々の ドイツ スクワッドをピックアップインテル国民の休憩",
       "summary": "",
       "title_original": "45 players! Klopp picks TWO separate Germany squads for international break",
@@ -4093,34 +4121,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "エヴァートン最新:Wolves の勝利で輝きを放つにつれて、ダイブルの進行",
-      "summary": "",
-      "title_original": "Everton latest: Dibling’s progression hailed as he shines in Wolves win",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Wed, 16 Sep 2026 23:12:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ラフィーニャログインハットトリックイエスは、イエスは、バルセロナネット 7",
-      "summary": "ハイライトラ・リーガ間のマッチバルセロナレース・デ・サンタンデール",
-      "title_original": "Raphinha gets hat-trick and Jesus scores as Barca net seven",
-      "summary_original": "Highlights of the La Liga match between Barcelona and Racing de Santander.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13588788/barcelona-7-2-racing-de-santander-la-liga-highlights",
-      "published": "Wed, 16 Sep 2026 23:32:00 BST",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v8"
     }
