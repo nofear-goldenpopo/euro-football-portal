@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-17T10:26:52.455508+00:00",
+  "updated_at": "2026-09-17T10:39:08.385128+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "West Ham’s Nuno": "",
     "La Li": "",
     "St Johnstone": "",
     "Dundee United": "ダンディー・ユナイテッドFC",
@@ -3001,7 +3000,8 @@
     "Romeo Lavia": "ロメオ・ラヴィア",
     "Donyell Malen": "ドニエル・マレン",
     "Wentworth LIVE": "",
-    "Vince Lombardi Trophy": "ヴィンス・ロンバルディ・トロフィー"
+    "Vince Lombardi Trophy": "ヴィンス・ロンバルディ・トロフィー",
+    "West Brom": ""
   },
   "items": [
     {
@@ -3131,17 +3131,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "League Two Fleetwood ホストアーセナル獲得を問い合わせ EFL カップ",
-      "summary": "League Two サイドフリートウッド・タウン FC ホストプレミアリーグチャンピオンアーセナル4 ラウンドで EFL カップ.",
-      "title_original": "League Two Fleetwood host Arsenal in EFL Cup",
-      "summary_original": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.",
+      "title": "ウルフと West Brom 最後のダービーでトラブル後のファンを警告",
+      "summary": "クラブは、チームが会ったとき、障害が発生した後、日曜日の会議の先に声明を発行します。",
+      "title_original": "Wolves and West Brom warn fans over behaviour after trouble at last derby",
+      "summary_original": "The clubs issue a statement ahead of Sunday's meeting after trouble flared when the teams last met.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 21:57:04 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/news/articles/cj750ezdvr5go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 10:12:35 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3156,6 +3156,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "League Two Fleetwood ホストアーセナル獲得を問い合わせ EFL カップ",
+      "summary": "League Two サイドフリートウッド・タウン FC ホストプレミアリーグチャンピオンアーセナル4 ラウンドで EFL カップ.",
+      "title_original": "League Two Fleetwood host Arsenal in EFL Cup",
+      "summary_original": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 21:57:04 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3407,20 +3421,6 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "例-トッテナムミッドフィルダービスソウが完了アヤックスログイン",
-      "summary": "過去の投稿トッテナムミッドフィルダーイヴ・ビスマ獲得を問い合わせアヤックス季節の終わりまで走る初期の移籍。",
-      "title_original": "Ex-Spurs midfielder Bissouma completes Ajax move",
-      "summary_original": "Former Tottenham midfielder Yves Bissouma has joined Ajax on an initial deal that runs until the end of the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw4gr5pm7eg9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 08:13:42 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
