@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-17T10:52:56.908480+00:00",
+  "updated_at": "2026-09-17T11:06:09.985898+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "St Johnstone": "",
     "Dundee United": "ダンディー・ユナイテッドFC",
     "Killie Camilo Durán": "",
     "The Colombian": "",
@@ -3001,7 +3000,8 @@
     "Wentworth LIVE": "",
     "Vince Lombardi Trophy": "ヴィンス・ロンバルディ・トロフィー",
     "West Brom": "",
-    "Thomas Tuchel's": ""
+    "Thomas Tuchel's": "",
+    "Captain Alex Greenwood": ""
   },
   "items": [
     {
@@ -3957,6 +3957,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "'マンチェスター・シティチャンピオンではありません。Why Greenwood's クレームは、ライバルを傷つけるべき",
+      "summary": "マンチェスター・シティ早々に屋台を置きました。Captain Alex Greenwood 前シーズンにやっていました。「真のチャンピオンは、再び勝つために行く人です。勝者が1 回オフになる可能性があります。しかし、チャンピオンはそれを乗り越える。」",
+      "title_original": "'Man City are not champions' - Why Greenwood's claim should scare rivals",
+      "summary_original": "Manchester City have set their stall out scarily early. Captain Alex Greenwood did so in pre-season. \"A true champion is someone who goes and wins again. A winner might be one-off. But a champion does it over and over.\"",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579874/man-city-vs-liverpool-why-graduating-from-wsl-winner-to-champion-is-so-important-to-alex-greenwood",
+      "published": "Thu, 17 Sep 2026 12:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'もっとリスクが早く!' - ノリス2 ゴール'tougher' 用の s モナコ衝撃スプリント",
       "summary": "ワールドチャンピオン Lando Norris フォーミュラ1 ドライバーが来年より大きな挑戦に直面していると信じていますモナコグランプリスプリントフォーマットの追加により、通常のものより。",
       "title_original": "'More risk earlier!' - Norris braces for 'tougher' Monaco with shock Sprint",
@@ -4107,20 +4121,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブロードハースト:「オリンピックで最後のショットです」",
-      "summary": "The European Elite Boxing 大会は、毎週木曜日にソフィア、ブルガリアでスタートし、強力なチームに点在コモンウェルスゲームズ金メダルリスト。",
-      "title_original": "Broadhurst: 'This is my last shot at the Olympics'",
-      "summary_original": "The European Elite Boxing Championships begin in Sofia, Bulgaria on Thursday with GB entering a strong team dotted with Commonwealth Games gold medallists.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13586365/amy-broadhurst-continues-comeback-at-european-championships-this-will-be-my-last-shot-at-the-olympics",
-      "published": "Thu, 17 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
