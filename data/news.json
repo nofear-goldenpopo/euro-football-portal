@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-17T15:40:20.550584+00:00",
+  "updated_at": "2026-09-17T15:52:44.999716+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Saturday. The Bulgarian": "",
-    "Lukas Petkov": "",
     "Cole Campbell": "",
     "David Mokwa": "",
     "Nasser Hussain": "",
@@ -3001,7 +2999,9 @@
     "In Europe": "",
     "Johnny Marr": "ジョニー・マー",
     "Mauricio Pochettino’s": "",
-    "World Cup. Instead": ""
+    "World Cup. Instead": "",
+    "Will Palmer": "",
+    "Cole Palmer's": ""
   },
   "items": [
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Will Palmer, Foden と Trent はイングランドのスクワッドにリコールされますか?",
+      "summary": "コール・パーマー「この季節は、イングランドのリコールの強い立場で彼に置きました。チェルシー男は、左のすべての大きな名前から含まれている可能性が最も高い World Cup スチーム",
+      "title_original": "Will Palmer, Foden and Trent be recalled to England squad?",
+      "summary_original": "Cole Palmer's outstanding form this season has put him in a strong position for an England recall, with the Chelsea man the most likely to be included from all the big names left out of the World Cup squad.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13588982/england-squad-will-cole-palmer-phil-foden-and-trent-alexander-arnold-be-left-out-again-after-world-cup-snubs",
+      "published": "Thu, 17 Sep 2026 16:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・ユナイテッドワンダーキッド・ガブリエルの誘致インテル欧州トップクラブから一番",
       "summary": "レアル・マドリード, バルセロナ, パリ・サンジェルマンそして、バイエルン・ミュンヘン, いくつかと一緒にプレミアリーグクラブは、インテル ested でマンチェスター・ユナイテッド獲得 JJ Gabriel.",
       "title_original": "Man Utd wonderkid Gabriel attracting interest from top European clubs",
@@ -4107,20 +4121,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド最新: 'Abject と awful' - 反応する EFL カップアクセス",
-      "summary": "",
-      "title_original": "Man Utd latest: 'Abject and awful' - Reaction to Carabao Cup exit",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Wed, 16 Sep 2026 13:20:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
