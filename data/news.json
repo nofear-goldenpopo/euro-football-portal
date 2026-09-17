@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-17T07:52:33.104514+00:00",
+  "updated_at": "2026-09-17T08:07:03.864187+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Marco Rose’s": "",
-    "Liam Millar’s": "",
     "James Tarkowski": "",
     "Vitality. Milan": "",
     "San Sebastián": "サン・セバスティアン",
@@ -3001,7 +2999,9 @@
     "Red Bull's Max Verstappen": "",
     "Sebastian Vettel": "",
     "Kimi Raikkonen": "キミ・ライコネン",
-    "Do Celtic": ""
+    "Do Celtic": "",
+    "Chelsea's Lavia": "",
+    "Romeo Lavia": "ロメオ・ラヴィア"
   },
   "items": [
     {
@@ -3012,6 +3012,34 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 23:31:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レアル・マドリードログインマンチェスター・ユナイテッドフォワード・ガブリエル、15",
+      "summary": "レアル・マドリード強いインテル15 歳までの獲得で一番マンチェスター・ユナイテッド獲得 JJ Gabriel.",
+      "title_original": "Real Madrid keen on Man Utd forward Gabriel, 15",
+      "summary_original": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 07:52:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェルシーの Lavia out へ 'change narrative' 後に 怪我",
+      "summary": "チェルシーミッドフィルダーロメオ・ラヴィア彼が最終的に彼のハードワークの報酬を尊重し、彼の周りに「物語を変える」に決定されていると言う.",
+      "title_original": "Chelsea's Lavia out to 'change narrative' after injuries",
+      "summary_original": "Chelsea midfielder Romeo Lavia says he is finally reaping the rewards of his hard work and is determined to \"change the narrative\" around him.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cnvlr92eyldo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 07:53:38 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3173,20 +3201,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Gabriel と Gabriel マンチェスター・ユナイテッド?",
-      "summary": "夜に JJ Gabriel なるはずだったマンチェスター・ユナイテッド歴史の中で最も若いプレーヤー、スクランブルは、彼が辞めないように説得することです。",
-      "title_original": "What next for Gabriel and Man Utd?",
-      "summary_original": "On the night JJ Gabriel was supposed to become Manchester United's youngest player in history, the scramble is on to persuade him not to quit.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crgjqw0l01njo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 15:48:08 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "'Let's go, Let's go' - 内 catastrophic derby VAR 間違い",
       "summary": "許可する VAR 決定を囲む論争アーリング・ハーランドマンチェスター・ダービーの勝者には、日数でランブルされているので、エラーにつながりましたか?",
       "title_original": "'Let's go, let's go' - inside catastrophic derby VAR mistake",
@@ -3240,20 +3254,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "最高のオールタイムファンタシーフットボールのアイコンをランキング",
-      "summary": "絶対的な Fantasy を解明する満足が全く同じではありませんプレミアリーグ bargain - 誰が最も象徴的なピックですか?",
-      "title_original": "Ranking the greatest all-time fantasy football icons",
-      "summary_original": "There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain - so who are the most iconic picks ever?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 10:14:45 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3323,6 +3323,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "最高のオールタイムファンタシーフットボールのアイコンをランキング",
+      "summary": "絶対的な Fantasy を解明する満足が全く同じではありませんプレミアリーグ bargain - 誰が最も象徴的なピックですか?",
+      "title_original": "Ranking the greatest all-time fantasy football icons",
+      "summary_original": "There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain - so who are the most iconic picks ever?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 10:14:45 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3408,20 +3422,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'Mini Valverde' は、チェルシー- ガーナーは今エヴァートン主人公",
-      "summary": "BBC スポーツがどのように調べるのかジェームズ・ガーナーなるほどエヴァートン一番大切な選手。",
-      "title_original": "'Mini Valverde' wanted by Chelsea - Garner is now Everton's main man",
-      "summary_original": "BBC Sport examines how James Garner has become Everton's most important player.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crwyz819xw4po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 10:56:23 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3929,9 +3929,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド最新: 'Abject と awful' - ユナイテッドであなたの意見を送信",
+      "title": "マンチェスター・ユナイテッド最新: 'Abject と awful' - 反応する EFL カップアクセス",
       "summary": "",
-      "title_original": "Man Utd latest: 'Abject and awful' - send us YOUR views on United",
+      "title_original": "Man Utd latest: 'Abject and awful' - Reaction to Carabao Cup exit",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
