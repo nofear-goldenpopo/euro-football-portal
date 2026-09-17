@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-17T13:53:12.747511+00:00",
+  "updated_at": "2026-09-17T14:06:41.678322+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "New Zealand": "",
-    "South Africa": "",
     "Rugby’s Greatest Rivalry": "",
     "Siya Kolisi": "",
     "Cape Town": "ケープタウン",
@@ -3001,7 +2999,9 @@
     "Wrexham's Broadhead": "",
     "Carlos Espí": "カルロス・エスピ",
     "Barcelona’s La Liga": "",
-    "With Barcelona": ""
+    "With Barcelona": "",
+    "Former Exeter City": "",
+    "Kevin Miller": ""
   },
   "items": [
     {
@@ -3131,6 +3131,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "エクセター,クリスタル・パレスそして Watford のキーパーのミラーのダイス",
+      "summary": "Former Exeter City, クリスタル・パレス, バーンズリーと Watford のゴールキーパーKevin Miller 年齢 57.",
+      "title_original": "Ex-Exeter, Palace and Watford keeper Miller dies",
+      "summary_original": "Former Exeter City, Crystal Palace, Barnsley and Watford goalkeeper Kevin Miller dies aged 57.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlyjw7n7v03o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 13:34:25 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "獲得を問い合わせセルティック「大きな問題」を持っているか、または次の4 日間のハッシュ問題?",
       "summary": "クリス・サットン勝手なスタートにもかかわらず、彼の元側は「大きな懸念」を持っていると信じていますスコティッシュ・プレミアシップ季節限定 次の4 日間は、その心配が正当化されているかどうかをお伝えします。",
       "title_original": "Do Celtic have 'big issues', or will next four days hush concerns?",
@@ -3215,20 +3229,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "League Two Fleetwood ホストアーセナル獲得を問い合わせ EFL カップ",
-      "summary": "League Two サイドフリートウッド・タウン FC ホストプレミアリーグチャンピオンアーセナル4 ラウンドで EFL カップ.",
-      "title_original": "League Two Fleetwood host Arsenal in EFL Cup",
-      "summary_original": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 21:57:04 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "アーセナル拒否ドウマンローンオファー - 木曜日のゴシップ",
       "summary": "アーセナルローンオファーの受け取り Max Dowman, ルーク・ショー残すことができるマンチェスター・ユナイテッド次の夏、Luca Weinhandl 引き付けインテル複数から est プレミアリーグクラブ、その他",
       "title_original": "Arsenal rejected Dowman loan offers - Thursday's gossip",
@@ -3236,6 +3236,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c617jz28nkvgo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 19:53:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "League Two Fleetwood ホストアーセナル獲得を問い合わせ EFL カップ",
+      "summary": "League Two サイドフリートウッド・タウン FC ホストプレミアリーグチャンピオンアーセナル4 ラウンドで EFL カップ.",
+      "title_original": "League Two Fleetwood host Arsenal in EFL Cup",
+      "summary_original": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 21:57:04 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3404,20 +3418,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3qjk2nev7r8o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 20:53:10 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "クイズ:覚えておくことができますウェストハム& ミルウォールの最後のダービー?",
-      "summary": "いつパンを取ったかを覚えているウェストハム2011-12 年の選手権シーズンに先立ちミルウォール?",
-      "title_original": "Quiz: Can you remember West Ham & Millwall's last derby?",
-      "summary_original": "Do you remember how things panned out when West Ham last faced Millwall in the 2011-12 Championship season?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c54g7wj4k3pvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 11:59:22 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
