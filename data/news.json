@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-17T21:36:10.836862+00:00",
+  "updated_at": "2026-09-17T21:49:49.794140+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Mario Balotelli": "",
-    "Manchester City Whenever": "",
-    "Emillia In": "",
     "Newcastle. Paul MacInnes": "",
     "Brighton Leeds United": "",
     "Brentford Sunderland": "",
@@ -3001,7 +2998,10 @@
     "San Sebastián": "",
     "Real Sociedad’s": "",
     "Juan Iturral": "",
-    "Gerwyn Price": ""
+    "Gerwyn Price": "",
+    "Juan Iturra": "",
+    "AFC Wimbledon": "AFCウィンブルドン",
+    "Cherry Red Records Stadium": ""
   },
   "items": [
     {
@@ -3082,6 +3082,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck980pprp5n1o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 15:58:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フォローする方法プレミアリーグ今週末 BBC で",
+      "summary": "Our Ask Me Anything チームは、週5 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
+      "title_original": "How to follow the Premier League on the BBC this weekend",
+      "summary_original": "Our Ask Me Anything team explains how to follow matches from week five of the Premier League season on the BBC this weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 11:47:16 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3257,20 +3271,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フォローする方法プレミアリーグ今週末 BBC で",
-      "summary": "Our Ask Me Anything チームは、週5 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
-      "title_original": "How to follow the Premier League on the BBC this weekend",
-      "summary_original": "Our Ask Me Anything team explains how to follow matches from week five of the Premier League season on the BBC this weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 11:47:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ラフィーニャ ハットトリックとしてバルセロナヒット 7 過去ラシン・サンタンデール",
       "summary": "ラフィーニャスコアハットトリック獲得を問い合わせバルセロナスラッシュラシン・サンタンデール7-2 は、完璧なスタートを維持するためにラ・リーガ季節は、6 勝後にテーブルの守護チャンピオンのトップで勝ちます。",
       "title_original": "Raphinha hat-trick as Barcelona hit seven past Racing Santander",
@@ -3425,10 +3425,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Kluivert と Rayan ロックレアル・ソシエダ Bournemouth がヨーロッパの弓で勝つように",
-      "summary": "最初の目標は、AFC ボーンマスヨーロッパで得点は、ベイオブザ・ベイで聴くことができる Biscay. The 第2 回サウンドラウンド San Sebastián 獲得を問い合わせ 伝統からレアル・ソシエダ2009 年に Anoeta で回復した古い Atotxa の地面は、訪問者が2 がホームチームをしたときに点灯している間、単一の花火が毎回オフに設定されていることを指示します。そして、それは9 月2026 日の木曜日の夜に21.41 で、Justin Kluivert ネットを見つけ、Juan Iturral",
+      "title": "Kluivert と Rayan 岩レアル・ソシエダ Bournemouth がヨーロッパの弓で勝つように",
+      "summary": "最初の目標は、AFC ボーンマスヨーロッパで得点は、ベイオブザベイで聴くことができます Biscay. The 第2 話 周りに聞こえる San Sebastián 獲得を問い合わせ 伝統からレアル・ソシエダ2009 年に Anoeta で回復した古い Atotxa の地面は、訪問者が2 人がいるとき、訪問者のスコアが点灯しているたびに単一の花火が設定されていることを指示します。これにより、海に出てスコアを知ることができます。そして、それは9 月2026 日の木曜日の夜に21.41 で、Justin Kluivert ネットを見つけ、Juan Iturra",
       "title_original": "Kluivert and Rayan rock Real Sociedad as Bournemouth win on European bow",
-      "summary_original": "The first goal that AFC Bournemouth ever scored in Europe could be heard out on the Bay of Biscay. The second sounded round San Sebastián soon after. A tradition from Real Sociedad’s old Atotxa ground, recovered at Anoeta in 2009, dictates that a single firework is set off every time the visitors score while two are lit when the home team do; that way those out to sea know the score. And so it was that at 21.41 on a Thursday night in September 2026, Justin Kluivert found the net and Juan Iturral",
+      "summary_original": "The first goal that AFC Bournemouth ever scored in Europe could be heard out on the Bay of Biscay. The second sounded around San Sebastián soon after. A tradition from Real Sociedad’s old Atotxa ground, recovered at Anoeta in 2009, dictates that a single firework is set off every time the visitors score while two are lit when the home team do; that way those out to sea know the score. And so it was that at 21.41 on a Thursday night in September 2026, Justin Kluivert found the net and Juan Iturra",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/17/real-sociedad-bournemouth-europa-league-match-report",
       "published": "Thu, 17 Sep 2026 21:14:08 GMT",
@@ -3859,6 +3859,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ミルトン・キーンズ・ドンズ FCWimbledon でゴールレスのドローをした後、まだ最初の勝利を検索",
+      "summary": "ミルトン・キーンズ・ドンズ FC7 で勝利なし League One 今シーズンは、0〜0 度引きで開催されるゲーム AFC ウィンブルドン獲得を問い合わせ Cherry Red Records Stadium.",
+      "title_original": "MK Dons still searching for first win after goalless draw at Wimbledon",
+      "summary_original": "MK Dons are without a win in seven League One games this season after being held to a 0-0 draw by AFC Wimbledon at the Cherry Red Records Stadium.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/afc-wimbledon-vs-milton-keynes-dons/report/561674",
+      "published": "Thu, 17 Sep 2026 22:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "スロッピーミスコストセルティック彼らは失うので再びヨーロッパリーグオープン",
       "summary": "セルティック彼らは彼らの守備のエラーのために再び罰されたオールドファーム3-1 ホーム敗北の損失フェレンツヴァーロシュ彼らのヨーロッパリーグオープン",
       "title_original": "Sloppy mistakes cost Celtic again as they lose Europa League opener",
@@ -3968,6 +3982,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ペーパー:アーセナル1 月のアイシング・クルーピとシェード",
+      "summary": "金曜日の新聞から噂を移籍するトップストーリー...",
+      "title_original": "Papers: Arsenal eyeing Kroupi and Schade in January",
+      "summary_original": "The top stories and transfer rumours from Friday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13589073/arsenal-transfer-news-eli-junior-kroupi-and-kevin-schade-on-mikel-artetas-target-list-ahead-of-january-paper-talk",
+      "published": "Thu, 17 Sep 2026 22:39:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13589058/indias-abhishek-sharma-hits-30-ball-hundred-the-fastest-in-t20-internationals-by-batter-from-test-playing-nation",
       "published": "Thu, 17 Sep 2026 17:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッドワンダーキッド・ガブリエルの誘致インテル欧州トップクラブから一番",
-      "summary": "レアル・マドリード, バルセロナ, パリ・サンジェルマンそして、バイエルン・ミュンヘン, いくつかと一緒にプレミアリーグクラブは、インテル ested でマンチェスター・ユナイテッド獲得 JJ Gabriel.",
-      "title_original": "Man Utd wonderkid Gabriel attracting interest from top European clubs",
-      "summary_original": "Real Madrid, Barcelona, Paris Saint-Germain and Bayern Munich, along with several Premier League clubs, are interested in Manchester United forward JJ Gabriel.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13588989/jj-gabriel-transfer-news-man-utd-wonderkid-attracting-interest-from-real-madrid-barcelona-psg-bayern-munich-and-premier-league-clubs",
-      "published": "Thu, 17 Sep 2026 13:40:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブリーチ、マシューは、Red RosesMitchell リングが変化するカナダ対",
-      "summary": "Jess Breach そして、アレックス・マシューズ先頭に戻る England's Red Roses3 つ目のカナダに対して WXV Tests 土曜日の両側の間、ヘッドコーチとしてジョン・ミッチェル9 つの変更を行います。",
-      "title_original": "Breach, Matthews return for Red Roses vs Canada as Mitchell rings changes",
-      "summary_original": "Jess Breach and Alex Matthews return to start for England's Red Roses against Canada in the first of three WXV Tests between the sides on Saturday, as head coach John Mitchell makes nine changes.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13588893/red-roses-jess-breach-alex-matthews-return-for-england-women-vs-canada-as-john-mitchell-rings-changes",
-      "published": "Thu, 17 Sep 2026 10:42:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
