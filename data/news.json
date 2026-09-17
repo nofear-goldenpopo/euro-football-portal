@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-09-17T17:37:00.947435+00:00",
+  "updated_at": "2026-09-17T17:51:09.379464+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "England's Penge": "",
-    "Tom McKibbin": "",
-    "Cody Gakpo": "コーディ・ガクポ",
-    "Are Charlton": "",
-    "Sam Parkin's EFL": "",
-    "BBC Final Score": "",
-    "Sam Parkin": "",
-    "Reina Tellez": "",
-    "Jessica Barry": "",
-    "Britain's Fery": "",
-    "Liverpool's Gakpo": "",
-    "Hull FC": "",
-    "MKM Stadium": "KCスタジアム",
-    "Sky Sports' Jamie Carragher": "",
-    "The Netherlands": "オランダ",
-    "Jonathan Liew": "",
-    "Caroline Dubois": "",
-    "Amelia Moore": "",
     "Alycia Baumgardner": "アリシア・バウムガードナー",
     "Watch Match": "",
     "Mönchengladbach The Bundesliga": "",
@@ -3001,7 +2983,25 @@
     "Norwich LIVE": "",
     "Matthias Jaissle": "マティアス・ヤイスレ",
     "Sophia Gardens": "",
-    "Cardiff. Watch": ""
+    "Cardiff. Watch": "",
+    "Lech Poznan": "レフ・ポズナン",
+    "Celtic. All": "",
+    "Marseille Celtic": "",
+    "Ferencvaros Crystal Palace": "",
+    "Lech Poznan Juventus": "",
+    "NEC Levski Sofia": "",
+    "Torreense OFI": "",
+    "Union Saint Gilloise Real": "",
+    "AFC Bournemouth Continue": "",
+    "Mail Michael Manchester City": "",
+    "Vitor Reis": "",
+    "Ait Nouri": "",
+    "Floyd Samba. Subs": "",
+    "Matheus Luiz": "",
+    "Braithwaite. Norwich": "",
+    "Bruno Alves": "",
+    "Ben Slimane": "",
+    "Kvistgaarden. Subs": ""
   },
   "items": [
     {
@@ -3044,20 +3044,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "プレッシャーで Carrick 'not Bothered' - しかし、彼はこの最新の混乱の後にあるべき?",
-      "summary": "マネージャーマイケル・キャリック主張する彼は後圧力の下で感じませんマンチェスター・ユナイテッド獲得を問い合わせ EFL カップ出口。",
-      "title_original": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
-      "summary_original": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 23:31:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3184,6 +3170,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "プレッシャーで Carrick 'not Bothered' - しかし、彼はこの最新の混乱の後にあるべき?",
+      "summary": "マネージャーマイケル・キャリック主張する彼は後圧力の下で感じませんマンチェスター・ユナイテッド獲得を問い合わせ EFL カップ出口。",
+      "title_original": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
+      "summary_original": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 23:31:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3425,13 +3425,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "レアル・ソシエダ v ボーンマス,クリスタル・パレスツイートレフ・ポズナンなど:ヨーロッパリーグ– ライブ",
+      "summary": "8pm BST キックオフライブスコアですべてのゴールと最新のニュース | ボーンマスの大きな夜 | メールスコットヨーロッパリーグ背中、赤ちゃんです。ボーンマスの季節は、クリスタル・パレスそして、何とか、セルティック. キックオフは午後8 時です。獲得を問い合わせベシクタシュツイートマルセイユ セルティックツイートフェレンツヴァーロシュ クリスタル・パレスツイートレフ・ポズナン ユヴェントスツイート NEC Levski Sofia ツイート RB ザルツブルク (5.45) リールストローク vTorreense OFIv ホフエンハイム (5.45) プルゼン v ユニオンセントギイズレアル・ソシエダツイート AFC Bournemouth Continue",
+      "title_original": "Real Sociedad v Bournemouth, Crystal Palace v Lech Poznan, and more: Europa League – live",
+      "summary_original": "All the goals and latest news in the 8pm BST kick-offs Live scores | Bournemouth’s big night | Email Scott The Europa League is back, baby. This season featuring Bournemouth, Crystal Palace and, somehow, Celtic. All kick-offs are 8pm unless stated. It’s on! Besiktas v Marseille Celtic v Ferencvaros Crystal Palace v Lech Poznan Juventus v NEC Levski Sofia v Red Bull Salzburg (5.45) Lillestrom v Torreense OFI v Hoffenheim (5.45) Plzen v Union Saint Gilloise Real Sociedad v AFC Bournemouth Continue",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/17/real-sociedad-v-bournemouth-crystal-palace-v-lech-poznan-and-more-europa-league-live",
+      "published": "Thu, 17 Sep 2026 17:30:54 GMT",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・シティツイートノリッジ・シティ FC: EFL カップ第三ラウンド - ライブ",
-      "summary": "EFL カップライブスコア 7.30pm BST キックオフライブスコア | 2023 apology を待ちます |Mail Michael Recent 旅行へシティ・オブ・マンチェスター・スタジアムまつげにノリッジ・シティ FC ファン 5-0 はありましたプレミアリーグ2020 年と2021 年、都市は2013 年に2 つ、7 つをスキャリングし、Sergio Agüero, Yaya Touré, David Silva, Alvaro Negredo そして、Edin Dzeko2 つに追加オウンゴール s から Bradley Johnson そして、Russell Martin. Just2015 年、ノリッチランシティを閉幕",
+      "summary": "EFL カップライブスコア 7.30pm BST キックオフライブスコア | 2023 apology を待ちます | メール マイケルマンチェスター・シティ: Rulli、ルイス、Khusanov、Vitor Reis, O’Reilly, Bouaddi, Kovacic, アラン,シェルキ, Ait Nouri, Floyd Samba. Subs: ドナラムマ、アンダーソン、ゲヒ、エンディアイエ, フェルナンデス, Matheus Luiz、Semenyo、McAidoo、Braithwaite. Norwich: Grimshaw, フィッシャー, ダーリン,Bruno Alves、Yongwa のライト、分野、Crnac、Ben Slimane、Diallo、Kvistgaarden. Subs: Kovacevic, Stacey, McConville, Chrisene, マットソン,",
       "title_original": "Manchester City v Norwich City: Carabao Cup third round – live",
-      "summary_original": "Carabao Cup match news from the 7.30pm BST kick-off Live scores | Maresca waits on 2023 apology | Mail Michael Recent trips to the Etihad Stadium have been rough for Norwich City fans. There were the 5-0 Premier League drubbings in 2020 and 2021, while City went two better in 2013, scoring seven , with Sergio Agüero, Yaya Touré, David Silva, Alvaro Negredo and Edin Dzeko adding to two own goals from Bradley Johnson and Russell Martin. Just once did Norwich run City close in recent years, in 2015",
+      "summary_original": "Carabao Cup match news from the 7.30pm BST kick-off Live scores | Maresca waits on 2023 apology | Mail Michael Manchester City: Rulli, Lewis, Khusanov, Vitor Reis, O’Reilly, Bouaddi, Kovacic, Allan, Cherki, Ait Nouri, Floyd Samba. Subs: Donnarumma, Anderson, Guehi, Ndiaye, Fernandez, Matheus Luiz, Semenyo, McAidoo, Braithwaite. Norwich: Grimshaw, Fisher, Darling, Bruno Alves, Yongwa, Wright, Field, Crnac, Ben Slimane, Diallo, Kvistgaarden. Subs: Kovacevic, Stacey, McConville, Chrisene, Mattsson,",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/17/manchester-city-v-norwich-city-carabao-cup-third-round-live",
-      "published": "Thu, 17 Sep 2026 17:03:38 GMT",
+      "published": "Thu, 17 Sep 2026 17:31:16 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3481,34 +3495,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Alessandro Costacurta: ‘スタディオ・ジュゼッペ・メアッツァアイコン - それは信じられないほど美しいですが、それは機能的ではありません'",
-      "summary": "ミラノの壮大な古い家は、この週末に100 回し、それはすぐにそれがユニークなスタジアムの騒音とパワーに反映する最高の選手の1 を倒すだろうしながら、Alessandro Costacurta 先着15 分で試合をスタートスタディオ・ジュゼッペ・メアッツァ. 彼は, 認めて, 遊びません, しかし、彼の古い兄弟のお気に入りのチームを見て一緒にタグ付け. 「私はミラノの北ヴェニス州で育ちました」と彼は言います。「だから、私はワレファンだった子供として。兄が支えてくれた Milan. The 初めて行って",
-      "title_original": "Alessandro Costacurta: ‘San Siro is an icon – it’s incredibly beautiful but it’s not functional’",
-      "summary_original": "Milan’s grand old home turns 100 this weekend, and while it will soon be torn down one of the greatest players to grace it reflects on the noise and power of a unique stadium Alessandro Costacurta lasted 15 minutes of his first game at San Siro. He was, admittedly, not playing, but tagging along to watch his older brother’s favourite team. “I grew up in the province of Varese, north of Milan,” he says. “So as a kid I was a Varese fan. It was my brother who supported Milan. The first time I went ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/alessandro-costacurta-san-siro-100-years-beautiful-not-functional-milan-inter",
-      "published": "Thu, 17 Sep 2026 14:12:34 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Real Madrid leading race to、マンチェスター・ユナイテッドから JJ Gabriel を獲得",
-      "summary": "バルセロナそして、バイエルン一方、ユナイテッドは、15 歳から15 歳まで滞在できると確信していますレアル・マドリードレースをリードし、マンチェスター・ユナイテッドティーンエイジャーJJ Gabriel 彼が言った後プレミアリーグ退会を希望するクラブ 15 歳を迎えるインテルヨーロッパ各地の名声が高まっています。バルセロナ彼を取得し、バイエルン・ミュンヘンウィンガーを賞賛するために知られています。Gabriel は Eur への移動を好むことが理解されています",
-      "title_original": "Real Madrid leading race to sign JJ Gabriel from Manchester United",
-      "summary_original": "Barcelona and Bayern among other admirers United hope they can convince 15-year-old to stay Real Madrid are leading the race to sign the Manchester United teenager JJ Gabriel after he told the Premier League club he wants to cancel his registration . The 15-year-old has attracted interest from across Europe as his reputation has grown with academy performances. Barcelona have been keen to acquire him and Bayern Munich are known to admire the winger. It is understood Gabriel prefers a move to Eur",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/real-madrid-leading-race-sign-jj-gabriel-manchester-united",
-      "published": "Thu, 17 Sep 2026 11:02:18 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "カルロス・エスピプレゼントレアル・マドリード顔の希望バルセロナ獲得を問い合わせラ・リーガストーム |Sid Lowe",
       "summary": "とバルセロナ7 ゴールのスリラーをラックアップレアル・マドリード崩壊する余裕がない。静かに回る先に入って下さいジョゼ・モウリーニョ究極の秘密兵器ジョゼ・モウリーニョ呼ばれ、カルロス・エスピ横に来た。最近は騒々しかったし、それはほとんど終わっていた - 試合と多分それ以上のもの - いつレアル・マドリード’ s のコーチは、火曜日の夜に 1 つの側面にもフラットメイトの先を連れて行きました。. 閉じる,モウリーニョ紙の部分もあった。小さい,",
       "title_original": "Carlos Espí gives Real Madrid hope in the face of Barcelona’s La Liga storm | Sid Lowe",
@@ -3519,6 +3505,20 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Alessandro Costacurta: ‘スタディオ・ジュゼッペ・メアッツァアイコン - それは信じられないほど美しいですが、それは機能的ではありません'",
+      "summary": "ミラノの壮大な古い家は、この週末に100 回し、それはすぐにそれがユニークなスタジアムの騒音とパワーに反映する最高の選手の1 を倒すだろうしながら、Alessandro Costacurta 先着15 分で試合をスタートスタディオ・ジュゼッペ・メアッツァ. 彼は, 認めて, 遊びません, しかし、彼の古い兄弟のお気に入りのチームを見て一緒にタグ付け. 「私はミラノの北ヴェニス州で育ちました」と彼は言います。「だから、私はワレファンだった子供として。兄が支えてくれた Milan. The 初めて行って",
+      "title_original": "Alessandro Costacurta: ‘San Siro is an icon – it’s incredibly beautiful but it’s not functional’",
+      "summary_original": "Milan’s grand old home turns 100 this weekend, and while it will soon be torn down one of the greatest players to grace it reflects on the noise and power of a unique stadium Alessandro Costacurta lasted 15 minutes of his first game at San Siro. He was, admittedly, not playing, but tagging along to watch his older brother’s favourite team. “I grew up in the province of Varese, north of Milan,” he says. “So as a kid I was a Varese fan. It was my brother who supported Milan. The first time I went ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/alessandro-costacurta-san-siro-100-years-beautiful-not-functional-milan-inter",
+      "published": "Thu, 17 Sep 2026 14:12:34 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3649,6 +3649,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Real Madrid leading race to、マンチェスター・ユナイテッドから JJ Gabriel を獲得",
+      "summary": "バルセロナそして、バイエルン一方、ユナイテッドは、15 歳から15 歳まで滞在できると確信していますレアル・マドリードレースをリードし、マンチェスター・ユナイテッドティーンエイジャーJJ Gabriel 彼が言った後プレミアリーグ退会を希望するクラブ 15 歳を迎えるインテルヨーロッパ各地の名声が高まっています。バルセロナ彼を取得し、バイエルン・ミュンヘンウィンガーを賞賛するために知られています。Gabriel は Eur への移動を好むことが理解されています",
+      "title_original": "Real Madrid leading race to sign JJ Gabriel from Manchester United",
+      "summary_original": "Barcelona and Bayern among other admirers United hope they can convince 15-year-old to stay Real Madrid are leading the race to sign the Manchester United teenager JJ Gabriel after he told the Premier League club he wants to cancel his registration . The 15-year-old has attracted interest from across Europe as his reputation has grown with academy performances. Barcelona have been keen to acquire him and Bayern Munich are known to admire the winger. It is understood Gabriel prefers a move to Eur",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/real-madrid-leading-race-sign-jj-gabriel-manchester-united",
+      "published": "Thu, 17 Sep 2026 11:02:18 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Cavan Sullivan 獲得を問い合わせクリスチャン・プルシック出典:最新 USMNT ロスターのテイクアウト",
       "summary": "Mauricio Pochettino これからの親友のための若々しいグループで呼ばれています。ここに大きなテイクアウトがあります 期待するのは合理的だった Mauricio Pochettino’s はじめてアメリカ合衆国夏を過ぎたこの時期に World Cup ページを新しいサイクルにします。代わりに、彼の選択の若々しさを与えられた、あまりにも参照をデートしたような迅速な参照でさえ感じます。Cavan Sullivan 米国のシニアデビューは、9 月のポチェティーノの28 人隊に選ばれた16 歳から成り立っています。",
       "title_original": "Cavan Sullivan in, Christian Pulisic out: takeaways from the latest USMNT roster",
@@ -3688,20 +3702,6 @@
       "type": "uel",
       "label": "EL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Tammy Abraham’s 二重力アストン・ヴィラ獲得を問い合わせ EFL カップ Coventry で勝つ",
-      "summary": "獲得を問い合わせアストン・ヴィラドラマフリーアウトとして Unai Emery’s サイドクルーズ EFL カップ4 ラウンド礼儀 Tammy Abraham ダブルとダブルロス・バークリーヘッダー。エメリーの声で満足感が引き起こされた。アブラハムの季節初の目標イブラヒム・エンバイェ’ s 奨励フル デビューと 5200万ポンド クラブレコードの獲得のための別の半時間,Johan Manzambi. Are 変化の夏後に歯車をクリックするもの? 続きを読む...",
-      "title_original": "Tammy Abraham’s double powers Aston Villa to Carabao Cup win at Coventry",
-      "summary_original": "For Aston Villa, an overdue drama-free outing as Unai Emery’s side cruised into the Carabao Cup fourth round courtesy of a Tammy Abraham double and a Ross Barkley header. The satisfaction was detectable in Emery’s voice as he reflected on a night of positives: Abraham’s first goals of the season, Ibrahim Mbaye’s encouraging full debut and another half-hour for the £52m club-record signing, Johan Manzambi. Are things clicking into gear after a summer of changes? Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/coventry-aston-villa-carabao-cup-third-round-match-report",
-      "published": "Wed, 16 Sep 2026 21:02:19 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ヨーロッパリーグチームニュース LIVE! ボーンマス,クリスタル・パレス, セルティックアクション",
+      "summary": "",
+      "title_original": "Europa League team news LIVE! Bournemouth, Palace, Celtic in action",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/live/577757",
+      "published": "Thu, 17 Sep 2026 18:40:00 BST",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Hyrox 選手は、自分自身を沈黙した後、継続的なレースのために謝罪します",
       "summary": "An Australian 自分自身を沈黙させた後、Hyrox イベントで競争し続けるために批判された女性は、潜在的にレースから撤退すると述べた。",
       "title_original": "Hyrox athlete apologises for continuing race after soiling herself",
@@ -3873,9 +3887,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランドボウルは、T20 シリーズ対勝つために最初に目指すスリランカ獲得を問い合わせ Cardiff LIVE!",
+      "title": "スリランカ T20 秒でバット対イングランドですぐに開始 Cardiff LIVE!",
       "summary": "",
-      "title_original": "England bowl first aiming to win T20 series vs Sri Lanka in Cardiff LIVE!",
+      "title_original": "Sri Lanka start quickly with bat vs England in second T20 in Cardiff LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13589016/england-vs-sri-lanka-second-t20-live-latest-score-commentary-video-and-analysis-as-harry-brooks-side-aim-to-clinch-series-win-in-cardiff",
@@ -4108,20 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レイは、McIlroy が3 つのバックを仕上げるとして共同リードを取ります Wentworth LIVE!",
-      "summary": "",
-      "title_original": "Rai takes co-lead as McIlroy finishes three back at Wentworth LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13586094/bmw-pga-championship-pro-am-tee-times-celebrity-handicaps-highlights-as-gareth-bale-john-terry-eden-hazard-feature",
-      "published": "Thu, 17 Sep 2026 07:36:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
