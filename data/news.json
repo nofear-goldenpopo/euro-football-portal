@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-17T13:39:11.804166+00:00",
+  "updated_at": "2026-09-17T13:53:12.747511+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Vitality. In": "",
-    "Bournemouth. The": "",
-    "Marco Rose. An": "",
-    "CBS Arena": "コヴェントリー・ビルディング・ソサエティ・アリーナ",
     "New Zealand": "",
     "South Africa": "",
     "Rugby’s Greatest Rivalry": "",
@@ -3001,7 +2997,11 @@
     "Alex Matthews": "アレックス・マシューズ",
     "England's Red Roses": "",
     "WXV Tests": "",
-    "Kyle Walker": "カイル・ウォーカー"
+    "Kyle Walker": "カイル・ウォーカー",
+    "Wrexham's Broadhead": "",
+    "Carlos Espí": "カルロス・エスピ",
+    "Barcelona’s La Liga": "",
+    "With Barcelona": ""
   },
   "items": [
     {
@@ -3369,6 +3369,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Wrexham's Broadhead 怪我でウェールズのゲームを逃すこと",
+      "summary": "ストライカーは今後の予定から除外されています Nations League 試合だけでなく、Wrexham のゲームは、南 ampton.",
+      "title_original": "Wrexham's Broadhead to miss Wales games with injury",
+      "summary_original": "The striker has been ruled out of the upcoming Nations League games as well as Wrexham's game against Southampton.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8ly4g5z19kyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 12:42:31 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "何が間違っているのかチェルシースタッフケンドリー・パエス?",
       "summary": "ケンドリー・パエス世界最高の若手才能の1 人でしたチェルシー16 歳の時に獲得しました。3 年後、彼はアンダー21 のためにプレーしています。だから、何が間違っていますか?",
       "title_original": "What's gone wrong for Chelsea talent Kendry Paez?",
@@ -3411,17 +3425,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ネーヴに向かってホタチャントの上にスタジアムを与えられたサウジアラビアクラブ",
-      "summary": "Saudi Pro League 側 Al-Taawoun は、サポーターが警告した後、閉鎖したドアの背後にある2 つのマッチを再生するために注文されます Ruben Neves 友人の死を超えて Diogo Jota.",
-      "title_original": "Saudi club given stadium ban over Jota chants towards Neves",
-      "summary_original": "Saudi Pro League side Al-Taawoun are ordered to play two matches behind closed doors after supporters taunted Ruben Neves over the death of friend Diogo Jota.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwp842plmyymo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 18:32:11 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "title": "カルロス・エスピプレゼントレアル・マドリード顔の希望バルセロナ獲得を問い合わせラ・リーガストーム |Sid Lowe",
+      "summary": "とバルセロナ7 ゴールのスリラーをラックアップレアル・マドリード崩壊する余裕がない。静かに回る先に入って下さいジョゼ・モウリーニョ究極の秘密兵器ジョゼ・モウリーニョ呼ばれ、カルロス・エスピ横に来た。最近は騒々しかったし、それはほとんど終わっていた - 試合と多分それ以上のもの - いつレアル・マドリード’ s のコーチは、火曜日の夜に 1 つの側面にもフラットメイトの先を連れて行きました。. 閉じる,モウリーニョ紙の部分もあった。小さい,",
+      "title_original": "Carlos Espí gives Real Madrid hope in the face of Barcelona’s La Liga storm | Sid Lowe",
+      "summary_original": "With Barcelona racking up seven-goal thrillers, Real Madrid could not afford a collapse. Enter the forward quietly turning into José Mourinho’s ultimate secret weapon José Mourinho called and Carlos Espí came to his side. It was late, it was noisy and it was almost over – the match and maybe even something more – when Real Madrid’s coach took the forward who is also his flatmate to one side on Tuesday night. Standing close, Mourinho had a message to deliver; he also had a piece of paper. Small, ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/carlos-espi-real-madrid-barcelona-mourinho-la-liga",
+      "published": "Thu, 17 Sep 2026 13:27:45 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3436,20 +3450,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Laura Kaminski 後にバーンでトロフィーハントを磨くクリスタル・パレス「クラッシュコース」",
-      "summary": "紫禁城ヘッドコーチは、ノルウェーでカップファイナルを獲得し、リーグのタイトルに挑戦するチャンスは「良い日だとき、それは絶対に素晴らしいです、だから我々はそれを取るだろう」と述べています Laura Kaminski 雨の西海岸について笑って言う Norway. The English 元プロモーション賞金クリスタル・パレスコーチはベルゲンに言及しています, 彼女は今、自宅を呼び出します, そのサッカークラブ, バーン, 彼女は彼女の任命以来、彼女の心に取っ January. She 仕事について簡単に話すことができる",
-      "title_original": "Laura Kaminski relishing trophy hunt at Brann after Crystal Palace ‘crash course’",
-      "summary_original": "Former Palace head coach has won a cup final in Norway and says chance to challenge for league title was a pull “When it’s a good day, it’s absolutely stunning, so we’ll take that,” Laura Kaminski says with a laugh about the rainy west coast of Norway. The English former promotion-winning Crystal Palace coach is referring to Bergen, the place she now calls home, whose football club, Brann, she has taken to her heart since her appointment in January. She could easily be speaking about the job its",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/laura-kaminski-brann-crystal-palace-moving-the-goalposts",
-      "published": "Thu, 17 Sep 2026 10:49:48 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3481,6 +3481,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Laura Kaminski 後にバーンでトロフィーハントを磨くクリスタル・パレス「クラッシュコース」",
+      "summary": "紫禁城ヘッドコーチは、ノルウェーでカップファイナルを獲得し、リーグのタイトルに挑戦するチャンスは「良い日だとき、それは絶対に素晴らしいです、だから我々はそれを取るだろう」と述べています Laura Kaminski 雨の西海岸について笑って言う Norway. The English 元プロモーション賞金クリスタル・パレスコーチはベルゲンに言及しています, 彼女は今、自宅を呼び出します, そのサッカークラブ, バーン, 彼女は彼女の任命以来、彼女の心に取っ January. She 仕事について簡単に話すことができる",
+      "title_original": "Laura Kaminski relishing trophy hunt at Brann after Crystal Palace ‘crash course’",
+      "summary_original": "Former Palace head coach has won a cup final in Norway and says chance to challenge for league title was a pull “When it’s a good day, it’s absolutely stunning, so we’ll take that,” Laura Kaminski says with a laugh about the rainy west coast of Norway. The English former promotion-winning Crystal Palace coach is referring to Bergen, the place she now calls home, whose football club, Brann, she has taken to her heart since her appointment in January. She could easily be speaking about the job its",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/laura-kaminski-brann-crystal-palace-moving-the-goalposts",
+      "published": "Thu, 17 Sep 2026 10:49:48 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「私たちをフォローしてきたすべてのファンのために」Bournemouth’s European バリンクからデビューキャップの旅",
       "summary": "クラブレジェンド Steve Fletcher 野生の上昇に2 十年以上の若者たちに出演レアル・ソシエダ獲得を問い合わせヨーロッパリーグ Bournemouth は3 番目の階層の Doncaster に終え、数か月後にホストされている Bournemouth 以来13 年です。レアル・マドリード. 正式にバーミーの夏の日でした Carlo Ancelotti’s まずは、サンドバンクス半島にあるヘイブンホテルにチェックインしてから数時間後に、ガルタチコスの波がピッチにかかりました。クリスティアーノ・ロナウド, Luka Modric, カカカ,Karim Benzem",
       "title_original": "‘It is for every fan who has ever followed us’: Bournemouth’s European debut caps journey from the brink",
@@ -3506,20 +3520,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「私たちはそれを受け入れることができません’:Carrick urges マンチェスター・ユナイテッドカップ崩壊後の対応",
-      "summary": "「私は責任をとります...それは瞬間に良い感じません」 ユナイテッドビートン 3-2 によるブライトン2 頭リードを服用した後マイケル・キャリック採用情報マンチェスター・ユナイテッド獲得を問い合わせ EFL カップに対するキャピレーションブライトンブームで挨拶したオールド・トラッフォード信じられないほどで、その答えは Fulham で発見されなければなりませんでした Sunday. United3-2 をノックアウト Fabian Hürzeler’s10 分から1〜2 分後までの来場者 Shea Lacey そして、Mason Mount. Goals から Charalampos Kostoulas 最初の半分に t を追加",
-      "title_original": "‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse",
-      "summary_original": "‘I take responsibility … it doesn’t feel good at the moment’ United beaten 3-2 by Brighton after taking two-goal lead Michael Carrick admitted Manchester United’s Carabao Cup capitulation against Brighton that was greeted by boos at Old Trafford was unacceptable and that answers had to be found at Fulham on Sunday. United were knocked out 3-2 by Fabian Hürzeler’s visitors after leading 2-0 after 10 minutes through Shea Lacey and Mason Mount. Goals from Charalampos Kostoulas in first‑half added t",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/michael-carrick-manchester-united-carabao-cup-third-round-defeat-brighton",
-      "published": "Wed, 16 Sep 2026 22:49:14 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
