@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-17T12:47:15.524624+00:00",
+  "updated_at": "2026-09-17T13:10:00.253861+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Marco Rose": "",
-    "Vitality Stadium": "",
-    "Sergej Jakirovic": "",
     "So Solid Crew": "",
     "Kirstie Bavington": "",
     "Gemma Richardson": "",
@@ -3001,7 +2998,10 @@
     "BMW Championships": "イーストボーン国際",
     "Everton's Braiden Graham": "",
     "BMW Championship": "BMW選手権",
-    "Wentworth Club": ""
+    "Wentworth Club": "",
+    "New Germany": "",
+    "Jurgen Klopp": "ユルゲン・クロップ",
+    "Heimir Hallgrimsson": ""
   },
   "items": [
     {
@@ -3047,6 +3047,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Klopp はドイツの選挙で「宣言」フラグを望んでいます",
+      "summary": "New Germany コーチングユルゲン・クロップ彼のチームは、最近の遠方選挙の勝利の後に「国家の誇りは間違った人々に委任されていない」を確保するのに役立ちます。",
+      "title_original": "Klopp wants to 'reclaim' flag amid German elections",
+      "summary_original": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 13:02:40 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "希望を与えられたチーム...その後、4 ヶ月後にイスラエルを襲ったハマス",
       "summary": "イスラエルのサッカー選手の黄金世代の可能性は、スポーツや社会で実現できますか?",
       "title_original": "A team that offered hope... then, four months later, Hamas attacked Israel",
@@ -3062,9 +3076,9 @@
     },
     {
       "title": "Boehly と ウォルター 販売ショップチェルシークリアレイクに焼く",
-      "summary": "Clearlake Capital 完全な制御を得て下さいチェルシーチェアマントッド・ベーリーディレクターMark Walter そして、Hansjorg Wyss クラブで屋台を売る",
+      "summary": "Clearlake Capital 完全な制御を得て下さいチェルシーチェアマントッド・ベーリーディレクターMark Walter クラブで屋台を売る",
       "title_original": "Boehly and Walter sell Chelsea stakes to Clearlake",
-      "summary_original": "Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly, director Mark Walter and Hansjorg Wyss sell their stakes in the club.",
+      "summary_original": "Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly and director Mark Walter sell their stakes in the club.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 23:29:10 GMT",
@@ -3072,6 +3086,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハリムソンは、イスラエルのゲームについてプレイヤーに個別に話しました",
+      "summary": "ヘッドコーチ Heimir Hallgrimsson 彼はイスラエルに直面する見通しについて、アイルランドの彼の共和国の選手に個別にチームを組んだと言います, 「私たちの誰もがこれらのゲームで快適なプレーを感じる」を追加.",
+      "title_original": "Hallgrimsson spoke to players individually about Israel games",
+      "summary_original": "Head coach Heimir Hallgrimsson says he spoke to players in his Republic of Ireland squad individually about the prospect of facing Israel, adding \"none of us feel comfortable playing in these games\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm5y5v9ndg9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 12:44:27 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3103,20 +3131,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "エムバペ彼は T シャツの行の後に Ceuta'に立っていると言う",
-      "summary": "Vini Jnr, エムバペそして Konate は Ceuta のサポートを先にカバーしますレアル・マドリードエルチェにマッチする",
-      "title_original": "Mbappe says he 'stands with Ceuta' after T-shirt row",
-      "summary_original": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 08:50:09 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "獲得を問い合わせセルティック「大きな問題」を持っているか、または次の4 日間のハッシュ問題?",
       "summary": "クリス・サットン勝手なスタートにもかかわらず、彼の元側は「大きな懸念」を持っていると信じていますスコティッシュ・プレミアシップ季節限定 次の4 日間は、その心配が正当化されているかどうかをお伝えします。",
       "title_original": "Do Celtic have 'big issues', or will next four days hush concerns?",
@@ -3131,20 +3145,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウルフと West Brom 最後のダービーでトラブル後のファンを警告",
-      "summary": "クラブは、チームが会ったとき、障害が発生した後、日曜日の会議の先に声明を発行します。",
-      "title_original": "Wolves and West Brom warn fans over behaviour after trouble at last derby",
-      "summary_original": "The clubs issue a statement ahead of Sunday's meeting after trouble flared when the teams last met.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/cj750ezdvr5go?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 10:12:35 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -3152,6 +3152,34 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck5yl2jgz23jo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 06:22:20 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "エムバペ彼は T シャツの行の後に Ceuta'に立っていると言う",
+      "summary": "Vini Jnr, エムバペそして Konate は Ceuta のサポートを先にカバーしますレアル・マドリードエルチェにマッチする",
+      "title_original": "Mbappe says he 'stands with Ceuta' after T-shirt row",
+      "summary_original": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 08:50:09 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウルフと West Brom 最後のダービーでトラブル後のファンを警告",
+      "summary": "クラブは、チームが会ったとき、障害が発生した後、日曜日の会議の先に声明を発行します。",
+      "title_original": "Wolves and West Brom warn fans over behaviour after trouble at last derby",
+      "summary_original": "The clubs issue a statement ahead of Sunday's meeting after trouble flared when the teams last met.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/cj750ezdvr5go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 10:12:35 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3257,20 +3285,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ストールハイブススランプとしてのグレーのための痛みを伴うエンドゲーム",
-      "summary": "クラブヒーロー、デヴィッド・グレイファンからのユーフォリアの音ではなくハイブ・ヘッド・コーチとして彼の時間を終了します, しかし、救済に集団的に出世支援の音に, 書き込み Tom English.",
-      "title_original": "Painful endgame for Gray as stale Hibs slump",
-      "summary_original": "A club hero, David Gray ends his time as Hibs head coach not to the sound of euphoria from fans, but to the sound of a support collectively exhaling in relief, writes Tom English.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjk2nev7r8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 20:53:10 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ラフィーニャ ハットトリックとしてバルセロナヒット 7 過去ラシン・サンタンデール",
       "summary": "ラフィーニャスコアハットトリック獲得を問い合わせバルセロナスラッシュラシン・サンタンデール7-2 は、完璧なスタートを維持するためにラ・リーガ季節は、6 勝後にテーブルの守護チャンピオンのトップで勝ちます。",
       "title_original": "Raphinha hat-trick as Barcelona hit seven past Racing Santander",
@@ -3355,6 +3369,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ストールハイブススランプとしてのグレーのための痛みを伴うエンドゲーム",
+      "summary": "クラブヒーロー、デヴィッド・グレイファンからのユーフォリアの音ではなくハイブ・ヘッド・コーチとして彼の時間を終了します, しかし、救済に集団的に出世支援の音に, 書き込み Tom English.",
+      "title_original": "Painful endgame for Gray as stale Hibs slump",
+      "summary_original": "A club hero, David Gray ends his time as Hibs head coach not to the sound of euphoria from fans, but to the sound of a support collectively exhaling in relief, writes Tom English.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjk2nev7r8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 20:53:10 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "クイズ:覚えておくことができますウェストハム& ミルウォールの最後のダービー?",
       "summary": "いつパンを取ったかを覚えているウェストハム2011-12 年の選手権シーズンに先立ちミルウォール?",
       "title_original": "Quiz: Can you remember West Ham & Millwall's last derby?",
@@ -3394,34 +3422,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'Let's go, Let's go' - 内 catastrophic derby VAR 間違い",
-      "summary": "許可する VAR 決定を囲む論争アーリング・ハーランドマンチェスター・ダービーの勝者には、日数でランブルされているので、エラーにつながりましたか?",
-      "title_original": "'Let's go, let's go' - inside catastrophic derby VAR mistake",
-      "summary_original": "The controversy surrounding the VAR decision to allow Erling Haaland's winner in the Manchester derby has rumbled on for days, so what led to the error?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gjr5vly99o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 15:03:53 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド最新ナイトマーレ&サンダーランドヨーロッパの輝き",
-      "summary": "アーロン・ポール獲得を問い合わせ Jobi McAnuff, Clinton Morrison そして、ジョン・マーレー.",
-      "title_original": "Manchester United’s latest nightmare & Sunderland shine in Europe",
-      "summary_original": "Aaron Paul is joined by Jobi McAnuff, Clinton Morrison and John Murray.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p9zfpn?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 22:34:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3467,20 +3467,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「私たちをフォローしてきたすべてのファンのために」Bournemouth’s European バリンクからデビューキャップの旅",
-      "summary": "クラブレジェンド Steve Fletcher 野生の上昇に2 十年以上の若者たちに出演レアル・ソシエダ獲得を問い合わせヨーロッパリーグ Bournemouth は3 番目の階層の Doncaster に終え、数か月後にホストされている Bournemouth 以来13 年です。レアル・マドリード. 正式にバーミーの夏の日でした Carlo Ancelotti’s まずは、サンドバンクス半島にあるヘイブンホテルにチェックインしてから数時間後に、ガルタチコスの波がピッチにかかりました。クリスティアーノ・ロナウド, Luka Modric, カカカ,Karim Benzem",
-      "title_original": "‘It is for every fan who has ever followed us’: Bournemouth’s European debut caps journey from the brink",
-      "summary_original": "Club legend Steve Fletcher reflects on the wild rise over two decades to playing Real Sociedad in the Europa League It is 13 years since Bournemouth, a couple of months after finishing runners-up to Doncaster in the third tier, hosted Real Madrid. It was a balmy summer’s day, officially Carlo Ancelotti’s first match in charge, and, a few hours after checking into the Haven hotel on the Sandbanks peninsula, a wave of galácticos took to the pitch: Cristiano Ronaldo, Luka Modric, Kaká, Karim Benzem",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/bournemouth-europa-league-real-sociedad-journey",
-      "published": "Thu, 17 Sep 2026 07:00:43 GMT",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Jürgen Klopp ドイツチームを「間違った人」から国民の誇りを認めたい",
       "summary": "コメントは、サクソニー・アンハルト「私は自分自身の旗を返し、私たちのために、」で遠直な選挙勝利に従ってください Jürgen Klopp ドイツのサッカーチームは、最近の直近の AFD 選挙の勝利の後に「国家の誇りは、間違った人々に委託されていない」ことを保証するのに役立ちます。フランクフルトのプレス会議では、ドイツ初のスクワッド、元を発表リヴァプールマネージャーは、ドイツ党の抗移民代替による最近の国家選挙の勝利を言及しました。続きを読む...",
       "title_original": "Jürgen Klopp wants his Germany team to reclaim national pride from ‘the wrong people’",
@@ -3491,6 +3477,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「私たちをフォローしてきたすべてのファンのために」Bournemouth’s European バリンクからデビューキャップの旅",
+      "summary": "クラブレジェンド Steve Fletcher 野生の上昇に2 十年以上の若者たちに出演レアル・ソシエダ獲得を問い合わせヨーロッパリーグ Bournemouth は3 番目の階層の Doncaster に終え、数か月後にホストされている Bournemouth 以来13 年です。レアル・マドリード. 正式にバーミーの夏の日でした Carlo Ancelotti’s まずは、サンドバンクス半島にあるヘイブンホテルにチェックインしてから数時間後に、ガルタチコスの波がピッチにかかりました。クリスティアーノ・ロナウド, Luka Modric, カカカ,Karim Benzem",
+      "title_original": "‘It is for every fan who has ever followed us’: Bournemouth’s European debut caps journey from the brink",
+      "summary_original": "Club legend Steve Fletcher reflects on the wild rise over two decades to playing Real Sociedad in the Europa League It is 13 years since Bournemouth, a couple of months after finishing runners-up to Doncaster in the third tier, hosted Real Madrid. It was a balmy summer’s day, officially Carlo Ancelotti’s first match in charge, and, a few hours after checking into the Haven hotel on the Sandbanks peninsula, a wave of galácticos took to the pitch: Cristiano Ronaldo, Luka Modric, Kaká, Karim Benzem",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/bournemouth-europa-league-real-sociedad-journey",
+      "published": "Thu, 17 Sep 2026 07:00:43 GMT",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
