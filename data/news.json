@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-17T13:10:00.253861+00:00",
+  "updated_at": "2026-09-17T13:26:27.371797+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "So Solid Crew": "",
-    "Kirstie Bavington": "",
-    "Gemma Richardson": "",
-    "Jim Goodwin": "",
     "Rugby Park": "",
     "Vitality. In": "",
     "Bournemouth. The": "",
@@ -3001,7 +2997,11 @@
     "Wentworth Club": "",
     "New Germany": "",
     "Jurgen Klopp": "ユルゲン・クロップ",
-    "Heimir Hallgrimsson": ""
+    "Heimir Hallgrimsson": "",
+    "Jess Breach": "",
+    "Alex Matthews": "アレックス・マシューズ",
+    "England's Red Roses": "",
+    "WXV Tests": ""
   },
   "items": [
     {
@@ -3845,6 +3845,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・ユナイテッドワンダーキッド JJ Gabriel 引き付けインテル欧州トップクラブから一番",
+      "summary": "レアル・マドリード, バルセロナ, パリ・サンジェルマンそして、バイエルン・ミュンヘン, いくつかと一緒にプレミアリーグクラブは、インテル ested でマンチェスター・ユナイテッド獲得 JJ Gabriel.",
+      "title_original": "Man Utd wonderkid JJ Gabriel attracting interest from top European clubs",
+      "summary_original": "Real Madrid, Barcelona, Paris Saint-Germain and Bayern Munich, along with several Premier League clubs, are interested in Manchester United forward JJ Gabriel.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13588989/jj-gabriel-transfer-news-man-utd-wonderkid-attracting-interest-from-real-madrid-barcelona-psg-bayern-munich-and-premier-league-clubs",
+      "published": "Thu, 17 Sep 2026 13:40:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ブリーチ、マシューは、Red RosesMitchell リングが変化するカナダ対",
+      "summary": "Jess Breach そして、アレックス・マシューズ先頭に戻る England's Red Roses3 つ目のカナダに対して WXV Tests 土曜日の両側の間、ヘッドコーチとしてジョン・ミッチェル9 つの変更を行います。",
+      "title_original": "Breach, Matthews return for Red Roses vs Canada as Mitchell rings changes",
+      "summary_original": "Jess Breach and Alex Matthews return to start for England's Red Roses against Canada in the first of three WXV Tests between the sides on Saturday, as head coach John Mitchell makes nine changes.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13588893/red-roses-jess-breach-alex-matthews-return-for-england-women-vs-canada-as-john-mitchell-rings-changes",
+      "published": "Thu, 17 Sep 2026 10:42:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "World Series インフォメーション Darts Finals: リトル・フントリー・MVG によるスケジュール",
       "summary": "2026 年のスケジュールと結果 World Series インフォメーション Darts Finals アムステルダム Luke Littler, Luke Humphries, マイケル・ヴァン・ガーウェンとジャイアン・ヴァン・ヴェンが行動する.",
       "title_original": "World Series of Darts Finals: Schedule with Littler, Humphries, MVG in action",
@@ -4094,34 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「彼の回復で間違っている」 -レッドブル Hadjar の傷害の更新を提供して下さい",
-      "summary": "レッドブルチーム プリンシパル Laurent Mekies 彼らは優先順位を上げ続けると言います Isack Hadjar's ケガから復帰を急いで回復し、翌週のアゼルバイジャンでレースするかどうかの呼び出しの前に計画された評価グランプリ.",
-      "title_original": "'Nothing wrong with his recovery' – Red Bull provide Hadjar injury update",
-      "summary_original": "Red Bull team principal Laurent Mekies says they will continue to prioritise Isack Hadjar's recovery over rushing his return from injury, with evaluations planned before a call on whether he races at next week's Azerbaijan Grand Prix.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13588635/isack-hadjar-red-bull-drivers-injury-recovery-going-to-plan-as-team-provide-update-on-next-steps-ahead-of-azerbaijan-gp-decision",
-      "published": "Thu, 17 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Co-owners Boehly ウォルターは販売することに同意しますチェルシーログイン",
-      "summary": "チェルシーチェアマントッド・ベーリーディレクターMark Walter 株主の皆さまにクラブで25 パーセントの株式を売却することを合意 Clearlake Capital 値の移籍チェルシー50億ポンド で。",
-      "title_original": "Co-owners Boehly and Walter agree to sell Chelsea stakes",
-      "summary_original": "Chelsea chairman Todd Boehly and director Mark Walter have agreed to sell their 25 per cent stake in the club to majority shareholders Clearlake Capital in a deal which values Chelsea at £5bn.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584180/chelsea-todd-boehly-and-fellow-co-owner-mark-walter-to-sell-stakes-in-premier-league-club",
-      "published": "Thu, 10 Sep 2026 23:27:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
