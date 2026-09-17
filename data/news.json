@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-17T16:06:49.742575+00:00",
+  "updated_at": "2026-09-17T16:26:16.795089+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Cole Campbell": "",
-    "David Mokwa": "",
-    "Nasser Hussain": "",
-    "Does Joe Root": "",
-    "Anthony Elanga": "",
     "Yoane Wissa": "ヨアヌ・ウィサ",
     "Toon Army": "ニューカッスル・ユナイテッドFC",
     "Neeraj Goyat": "",
@@ -3001,7 +2996,12 @@
     "Mauricio Pochettino’s": "",
     "World Cup. Instead": "",
     "Will Palmer": "",
-    "Cole Palmer's": ""
+    "Cole Palmer's": "",
+    "Euro Leagues": "",
+    "Is JJ Gabriel": "",
+    "Gunners Aubameyang": "",
+    "Oli McBurnie": "オリヴァー・マクバーニー",
+    "Derby County’s": ""
   },
   "items": [
     {
@@ -3187,6 +3187,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Euro Leagues",
+      "summary": "Is JJ Gabriel セットレアル・マドリード獲得を問い合わせ そして元 Gunners Aubameyang& イエスはスクーリングを続けます!",
+      "title_original": "Euro Leagues",
+      "summary_original": "Is JJ Gabriel set for Real Madrid? And former Gunners Aubameyang & Jesus keep scoring!",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pb3ytn?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 16:00:00 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "獲得を問い合わせセルティック「大きな問題」を持っているか、または次の4 日間のハッシュ問題?",
       "summary": "クリス・サットン勝手なスタートにもかかわらず、彼の元側は「大きな懸念」を持っていると信じていますスコティッシュ・プレミアシップ季節限定 次の4 日間は、その心配が正当化されているかどうかをお伝えします。",
       "title_original": "Do Celtic have 'big issues', or will next four days hush concerns?",
@@ -3313,20 +3327,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "League Two Fleetwood ホストアーセナル獲得を問い合わせ EFL カップ",
-      "summary": "League Two サイドフリートウッド・タウン FC ホストプレミアリーグチャンピオンアーセナル4 ラウンドで EFL カップ.",
-      "title_original": "League Two Fleetwood host Arsenal in EFL Cup",
-      "summary_original": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 21:57:04 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ラフィーニャ ハットトリックとしてバルセロナヒット 7 過去ラシン・サンタンデール",
       "summary": "ラフィーニャスコアハットトリック獲得を問い合わせバルセロナスラッシュラシン・サンタンデール7-2 は、完璧なスタートを維持するためにラ・リーガ季節は、6 勝後にテーブルの守護チャンピオンのトップで勝ちます。",
       "title_original": "Raphinha hat-trick as Barcelona hit seven past Racing Santander",
@@ -3397,6 +3397,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "League Two Fleetwood ホストアーセナル獲得を問い合わせ EFL カップ",
+      "summary": "League Two サイドフリートウッド・タウン FC ホストプレミアリーグチャンピオンアーセナル4 ラウンドで EFL カップ.",
+      "title_original": "League Two Fleetwood host Arsenal in EFL Cup",
+      "summary_original": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 21:57:04 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ウォーカーは終わるために絶望しますバーンリー'22 マッチ ウィンレス ウォー",
       "summary": "バーンリーディフェンダーカイル・ウォーカー相手に「勝ちたい」と言っていますダービー・カウンティ FC 土曜日は、Clarets は、シーズンに不意のスタートを回すことを目指しています。",
       "title_original": "Walker desperate to end Burnley's 22-match winless woe",
@@ -3407,20 +3421,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "獲得プレミアリーグアカデミー選手のルール?",
-      "summary": "BBC Sport's Ask Me どのチームが、ティーンエイジャーがプレイするときに、プレイヤーやクラブがフォローしなければならないルールを調べるプレミアリーグ",
-      "title_original": "What are the Premier League rules for academy players?",
-      "summary_original": "BBC Sport's Ask Me Anything team looks at what rules players and clubs must follow when teenagers play in the Premier League",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr5yev4y101eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 16:26:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3464,6 +3464,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハル・シティ’ s は、チャンピオンシップの闘争から上昇します。プレミアリーグフライヤー",
+      "summary": "ハルほぼ再資源化 League One 年末年始 今、彼らは4 で4 ですプレミアリーグ WhoScored 16 ヶ月前ハル・シティ再資源化を回避 League One ゴールの違いについて。4 ヶ月前、彼らはから最後の分の目標を必要としていましたオリヴァー・マクバーニーWembley でチャンピオンシッププレイオフ決勝を獲得。前のシーズン予測が公開された3 週間前に、脅威に陥ったダービー・カウンティ FC’ s の記録 最悪 今まで ポイント 高身長 でプレミアリーグ. 土曜日の夜、彼らは l",
+      "title_original": "Hull City’s rise from Championship strugglers to Premier League fliers",
+      "summary_original": "Hull were nearly relegated to League One last year. Now they are fourth in the Premier League By WhoScored Sixteen months ago Hull City avoided relegation to League One on goal difference. Four months ago, they needed a last-minute goal from Oli McBurnie at Wembley to win the Championship playoff final. Three weeks ago, when the pre-season predictions were published, they were tipped to threaten Derby County’s record of the worst ever points tally in the Premier League. On Saturday night, they l",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/who-scored-blog/2026/sep/17/hull-city-championship-premier-league",
+      "published": "Thu, 17 Sep 2026 16:06:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3523,20 +3537,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「私たちをフォローしてきたすべてのファンのために」Bournemouth’s European バリンクからデビューキャップの旅",
-      "summary": "クラブレジェンド Steve Fletcher 野生の上昇に2 十年以上の若者たちに出演レアル・ソシエダ獲得を問い合わせヨーロッパリーグ Bournemouth は3 番目の階層の Doncaster に終え、数か月後にホストされている Bournemouth 以来13 年です。レアル・マドリード. 正式にバーミーの夏の日でした Carlo Ancelotti’s まずは、サンドバンクス半島にあるヘイブンホテルにチェックインしてから数時間後に、ガルタチコスの波がピッチにかかりました。クリスティアーノ・ロナウド, Luka Modric, カカカ,Karim Benzem",
-      "title_original": "‘It is for every fan who has ever followed us’: Bournemouth’s European debut caps journey from the brink",
-      "summary_original": "Club legend Steve Fletcher reflects on the wild rise over two decades to playing Real Sociedad in the Europa League It is 13 years since Bournemouth, a couple of months after finishing runners-up to Doncaster in the third tier, hosted Real Madrid. It was a balmy summer’s day, officially Carlo Ancelotti’s first match in charge, and, a few hours after checking into the Haven hotel on the Sandbanks peninsula, a wave of galácticos took to the pitch: Cristiano Ronaldo, Luka Modric, Kaká, Karim Benzem",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/bournemouth-europa-league-real-sociedad-journey",
-      "published": "Thu, 17 Sep 2026 07:00:43 GMT",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Laura Kaminski 後にバーンでトロフィーハントを磨くクリスタル・パレス「クラッシュコース」",
       "summary": "紫禁城ヘッドコーチは、ノルウェーでカップファイナルを獲得し、リーグのタイトルに挑戦するチャンスは「良い日だとき、それは絶対に素晴らしいです、だから我々はそれを取るだろう」と述べています Laura Kaminski 雨の西海岸について笑って言う Norway. The English 元プロモーション賞金クリスタル・パレスコーチはベルゲンに言及しています, 彼女は今、自宅を呼び出します, そのサッカークラブ, バーン, 彼女は彼女の任命以来、彼女の心に取っ January. She 仕事について簡単に話すことができる",
       "title_original": "Laura Kaminski relishing trophy hunt at Brann after Crystal Palace ‘crash course’",
@@ -3551,6 +3551,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「私たちをフォローしてきたすべてのファンのために」Bournemouth’s European バリンクからデビューキャップの旅",
+      "summary": "クラブレジェンド Steve Fletcher 野生の上昇に2 十年以上の若者たちに出演レアル・ソシエダ獲得を問い合わせヨーロッパリーグ Bournemouth は3 番目の階層の Doncaster に終え、数か月後にホストされている Bournemouth 以来13 年です。レアル・マドリード. 正式にバーミーの夏の日でした Carlo Ancelotti’s まずは、サンドバンクス半島にあるヘイブンホテルにチェックインしてから数時間後に、ガルタチコスの波がピッチにかかりました。クリスティアーノ・ロナウド, Luka Modric, カカカ,Karim Benzem",
+      "title_original": "‘It is for every fan who has ever followed us’: Bournemouth’s European debut caps journey from the brink",
+      "summary_original": "Club legend Steve Fletcher reflects on the wild rise over two decades to playing Real Sociedad in the Europa League It is 13 years since Bournemouth, a couple of months after finishing runners-up to Doncaster in the third tier, hosted Real Madrid. It was a balmy summer’s day, officially Carlo Ancelotti’s first match in charge, and, a few hours after checking into the Haven hotel on the Sandbanks peninsula, a wave of galácticos took to the pitch: Cristiano Ronaldo, Luka Modric, Kaká, Karim Benzem",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/bournemouth-europa-league-real-sociedad-journey",
+      "published": "Thu, 17 Sep 2026 07:00:43 GMT",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Lewis Koumas 再生する 'リヴァプール未来のために飢餓と希望を示す方法",
       "summary": "20 歳の前方は、彼を置く信仰に喜んでいましたアンドニ・イラオラ獲得を問い合わせトッテナムゲームと今は、一方の手と自分の携帯電話で試合の男とキックしたいです,Lewis Koumas 火曜日の夜にアンフィールドでメディアに話せるのを止める前に、非常に重要な呼び出しをしました。男の子のクラブを代表し、それを輝かせることは、すべて見るために明らかだったことを意味します。「私のお母さんだった」と言ったリヴァプール引き続き、受賞作品から光るコーディ・ガクポ h に手渡される",
       "title_original": "Lewis Koumas on playing ‘the Liverpool way’, showing hunger and hopes for the future",
@@ -3561,20 +3575,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "From Segura マルトビー: 6 つのブレイクアウトの星から Women’s Under-20 World Cup",
-      "summary": "ショーの才能の信じられないほどの配列で、上級者までステップアップできる半数の選手を選択します。World Cup 翌年 2026 Under-20Women’s World Cup ポーランドのノックアウトステージに入り、グループステージを追い抜いた後、立派な星をピックアップします。Celia Segura(スペインとバルセロナ) Segura はサッカーをノックアウトする見知らぬ人ではありません。, アンダー-17 でスペインを銀に助けました World Cup2 年前に仕上げ、Bronze Ball そして、Bronze Boo",
-      "title_original": "From Segura to Maltby: six breakout stars from the Women’s Under-20 World Cup",
-      "summary_original": "With an incredible array of talent on show we select half a dozen players who could make the step up to the senior World Cup next year The 2026 Under-20 Women’s World Cup is entering the knockout stage in Poland and, after an intriguing group stage, we pick some of the young stars who have stood out. Celia Segura (Spain and Barcelona) Segura is no stranger to knockout football, having helped Spain to silver at the Under-17 World Cup two years ago and finishing with the Bronze Ball and Bronze Boo",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/six-breakout-stars-from-the-womens-under-20-world-cup",
-      "published": "Tue, 15 Sep 2026 12:00:42 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ハミルトンは、フェラーリの変更を求めるレポートに応答します",
+      "summary": "Lewis Hamilton モンツァとマドリッドで2 つの困難な週末にフェラーリで変更を求めた報告に反応しました。",
+      "title_original": "Hamilton responds to reports he has asked for Ferrari changes",
+      "summary_original": "Lewis Hamilton has responded to reports he has called for changes at Ferrari after two difficult weekends at Monza and Madrid.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13589044/lewis-hamilton-responds-to-reports-he-has-asked-for-ferrari-personnel-changes-ahead-of-azerbaijan-grand-prix",
+      "published": "Thu, 17 Sep 2026 17:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Will Palmer, Foden と Trent はイングランドのスクワッドにリコールされますか?",
       "summary": "コール・パーマー「この季節は、イングランドのリコールの強い立場で彼に置きました。チェルシー男は、左のすべての大きな名前から含まれている可能性が最も高い World Cup スチーム",
       "title_original": "Will Palmer, Foden and Trent be recalled to England squad?",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13586066/most-dramatic-first-corner-crash-ever-relive-epic-2017-singapore-gp-start",
       "published": "Thu, 17 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ゴルフ リーダーボード:BMW PGA 選手権詳しくはこちら",
-      "summary": "世界中から最新のゴルフスコアと結果、ヨーロピアンツアー獲得を問い合わせ BMW PGA 選手権 Wentworth など。",
-      "title_original": "Golf leaderboards: BMW PGA Championship and more",
-      "summary_original": "Latest golf scores and results from around the world, including the DP World Tour's BMW PGA Championship at Wentworth and more.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
-      "published": "Tue, 15 Sep 2026 17:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
