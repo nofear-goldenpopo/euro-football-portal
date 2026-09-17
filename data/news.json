@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-17T19:05:50.696390+00:00",
+  "updated_at": "2026-09-17T19:23:09.350227+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Catalans Dragons": "",
-    "Castleford Tigers": "",
-    "OneBore Stadium": "",
-    "Bournemouth's Scott": "",
     "Warrington Wolves": "",
     "Wakefield Trinity": "",
     "York Knights": "",
@@ -3001,7 +2997,11 @@
     "Luke Humphries": "",
     "Allan. Continue": "",
     "Much-changed Man City": "",
-    "Dom Bess": ""
+    "Dom Bess": "",
+    "Email Scott TNT’s Connie": "",
+    "Martin O’Neill": "マーティン・オニール",
+    "Viljami Sinisalo": "",
+    "No I’ll": ""
   },
   "items": [
     {
@@ -3053,7 +3053,7 @@
       "summary_original": "Ryan Reynolds and Rob Mac have poked fun at next opponents Southampton ahead of their Championship fixture this weekend.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 16:33:31 GMT",
+      "published": "Thu, 17 Sep 2026 19:10:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3425,13 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レアル・ソシエダ v ボーンマス,クリスタル・パレスツイートレフ・ポズナンなど:ヨーロッパリーグ– ライブ",
-      "summary": "8pm BST キックオフライブスコアですべてのゴールと最新ニュース | ボーンマスのビッグナイト | メールスコットクリスタル・パレスマネージャーPierre SageTNT に話します。「トレーニング場からスタジアムまで、チームとともに、ドライバーがクリップを置きます。」カンファレンスリーグ最後の勝利] コーチで...それは信じられないほどだった...それは何かです [プレイヤー] 彼らの頭にすべての彼らの人生に保ちます...本当に特別な何か...これは何か違うを行う機会です。」 ボーンマス上司 Marco Rose ログイン",
+      "title": "レアル・ソシエダ v ボーンマス,クリスタル・パレス. .レフ・ポズナンなど:ヨーロッパリーグ– ライブ",
+      "summary": "8pm BST キックオフライブスコアの目標と最新ニュース | ボーンマスのビッグナイト |Email Scott TNT’s ConnieMcLaughlin さんセルティックログインマーティン・オニールゴールキーパーを交換する「背後にある考え方について話」Sam Johnstone 獲得を問い合わせ Viljami Sinisalo... 必然的に無傷および不安定な応答を受け取ります。「No I’ll その背後にある考えについてあなたに話していない...彼は常に再生するつもりだった...信じているか、そうではない、コニー、私の仕事は実際にあなたにすべての単一の状況を説明するために",
       "title_original": "Real Sociedad v Bournemouth, Crystal Palace v Lech Poznan, and more: Europa League – live",
-      "summary_original": "All the goals and latest news in the 8pm BST kick-offs Live scores | Bournemouth’s big night | Email Scott Crystal Palace manager Pierre Sage talks to TNT. “During the way from the training ground to the stadium with the team, the driver put clips [of the Conference League final win] on the coach … it was incredible … it is something [the players] will keep in their head all their lives … something really special … this is an opportunity to do something different.” Bournemouth boss Marco Rose sp",
+      "summary_original": "All the goals and latest news in the 8pm BST kick-offs Live scores | Bournemouth’s big night | Email Scott TNT’s Connie McLaughlin asks Celtic boss Martin O’Neill to “talk to us about the thinking behind” replacing goalkeeper Sam Johnstone with Viljami Sinisalo … and receives an unnecessarily abrupt and cranky response. “No I’ll not talk to you about the thinking behind that … he was always going to play … believe it or not, Connie, my job is not actually to explain every single situation to you",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/17/real-sociedad-v-bournemouth-crystal-palace-v-lech-poznan-and-more-europa-league-live",
-      "published": "Thu, 17 Sep 2026 18:31:09 GMT",
+      "published": "Thu, 17 Sep 2026 19:05:08 GMT",
       "category": "uel",
       "type": "uel",
       "label": "EL",
@@ -3445,7 +3445,7 @@
       "summary_original": "Carabao Cup match news from the 7.30pm BST kick-off Live scores | Maresca waits on 2023 apology | Mail Michael 8 min: Bouaddi loses the ball for City, but Kovacic is there to mop up before flashing the youngster a knowing look. 6 min: Norwich on the counter-attack and Allan works back to stop Yongwa from crossing. The ball comes loose and the Norwich left back crunches the Brazilian in the tackle. Welcome to English football, Allan. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/17/manchester-city-v-norwich-city-carabao-cup-third-round-live",
-      "published": "Thu, 17 Sep 2026 18:48:36 GMT",
+      "published": "Thu, 17 Sep 2026 19:03:19 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3873,9 +3873,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヨーロッパリーグライブ! ボーンマス,クリスタル・パレス, セルティックアクション",
+      "title": "ヨーロッパリーグ: ボーンマスとクリスタル・パレスリード,セルティック LIVE 開催中!",
       "summary": "",
-      "title_original": "Europa League LIVE! Bournemouth, Palace, Celtic in action",
+      "title_original": "Europa League: Bournemouth and Palace lead, Celtic being held LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/live/577757",
@@ -3901,9 +3901,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Samba, クリスの息子, スコアオープナーを置くためにマンチェスター・シティ先の対面 Norwich LIVE!",
+      "title": "Samba、Chris の息子、そしてシェルキプレゼントマンチェスター・シティリード対 Norwich LIVE!",
       "summary": "",
-      "title_original": "Samba, son of Chris, scores opener to put Man City ahead vs Norwich LIVE!",
+      "title_original": "Goals from Samba, son of Chris, and Cherki give Man City lead vs Norwich LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-city-vs-norwich-city/live/577580",
@@ -3915,9 +3915,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランド制限スリランカ T20 秒で145-9 に Cardiff LIVE!",
+      "title": "イングランドはシリーズ勝利対のための146 を追いますスリランカ T20 秒で Cardiff LIVE!",
       "summary": "",
-      "title_original": "England restrict Sri Lanka to 145-9 in second T20 at Cardiff LIVE!",
+      "title_original": "England chasing 146 for series win vs Sri Lanka in second T20 at Cardiff LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13589016/england-vs-sri-lanka-second-t20-live-latest-score-commentary-video-and-analysis-as-harry-brooks-side-aim-to-clinch-series-win-in-cardiff",
