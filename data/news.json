@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-17T13:26:27.371797+00:00",
+  "updated_at": "2026-09-17T13:39:11.804166+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Rugby Park": "",
     "Vitality. In": "",
     "Bournemouth. The": "",
     "Marco Rose. An": "",
@@ -3001,7 +3000,8 @@
     "Jess Breach": "",
     "Alex Matthews": "アレックス・マシューズ",
     "England's Red Roses": "",
-    "WXV Tests": ""
+    "WXV Tests": "",
+    "Kyle Walker": "カイル・ウォーカー"
   },
   "items": [
     {
@@ -3243,6 +3243,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウォーカーは終わるために絶望しますバーンリー'22 マッチ ウィンレス ウォー",
+      "summary": "バーンリーディフェンダーカイル・ウォーカー相手に「勝ちたい」と言っていますダービー・カウンティ FC 土曜日は、Clarets は、シーズンに不意のスタートを回すことを目指しています。",
+      "title_original": "Walker desperate to end Burnley's 22-match winless woe",
+      "summary_original": "Burnley defender Kyle Walker says he has \"never wanted a victory as much\" as against Derby County on Saturday, as Clarets aim to turn around their sorry start to the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgl75062w8no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 13:14:44 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "米国ミッドフィルダーは、オンピッチ心臓の逮捕後の医師を訴え",
       "summary": "アメリカ合衆国女性代表選手 Savannah DeMelo 去年のピッチで心臓の逮捕に苦しんだ後、病院と2 人の医者を訴えています。",
       "title_original": "USA midfielder sues doctors after on-pitch cardiac arrest",
@@ -3393,20 +3407,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "最高のオールタイムファンタシーフットボールのアイコンをランキング",
-      "summary": "絶対的な Fantasy を解明する満足が全く同じではありませんプレミアリーグ bargain - 誰が最も象徴的なピックですか?",
-      "title_original": "Ranking the greatest all-time fantasy football icons",
-      "summary_original": "There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain - so who are the most iconic picks ever?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 10:14:45 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
