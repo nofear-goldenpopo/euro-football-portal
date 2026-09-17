@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-17T17:24:57.908761+00:00",
+  "updated_at": "2026-09-17T17:37:00.947435+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Al Qadsiah. The": "",
-    "Reyes TWICE": "",
-    "Martin O'Neill": "マーティン・オニール",
     "England's Penge": "",
     "Tom McKibbin": "",
     "Cody Gakpo": "コーディ・ガクポ",
@@ -3001,7 +2998,10 @@
     "Bradley Johnson": "",
     "Russell Martin. Just": "",
     "An Australian": "",
-    "Norwich LIVE": ""
+    "Norwich LIVE": "",
+    "Matthias Jaissle": "マティアス・ヤイスレ",
+    "Sophia Gardens": "",
+    "Cardiff. Watch": ""
   },
   "items": [
     {
@@ -3971,6 +3971,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スコアカード:イングランド対スリランカ, 秒 T20, カーディフ",
+      "summary": "2 番目の T20 から最新のスコアインテルイングランドとイギリスの国スリランカ獲得を問い合わせ Sophia Gardens 獲得を問い合わせ Cardiff. Watch ライブ Sky Sports.",
+      "title_original": "Scorecard: England vs Sri Lanka, second T20, Cardiff",
+      "summary_original": "Latest score from the second T20 international between England and Sri Lanka at Sophia Gardens in Cardiff. Watch live on Sky Sports Cricket.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/england-v-sri-lanka/scorecard/89baaf58-e8b0-59a7-a9ff-37105b47a42e",
+      "published": "Thu, 17 Sep 2026 18:25:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Calvert-Lewin が完全なストライカーになる",
       "summary": "",
       "title_original": "Calvert-Lewin becoming the complete striker",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13586094/bmw-pga-championship-pro-am-tee-times-celebrity-handicaps-highlights-as-gareth-bale-john-terry-eden-hazard-feature",
       "published": "Thu, 17 Sep 2026 07:36:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Wentworth の Rory のアップダウンデイ | 初戦のストーリー",
-      "summary": "方法を見るローリー・マキロイ初日を過ぎて BMW 選手権獲得を問い合わせ Wentworth Club, サリー.",
-      "title_original": "Rory's up-and-down day at Wentworth | Story of his first round",
-      "summary_original": "A look at how Rory McIlroy fared on the first day of the BMW Championship at Wentworth Club, Surrey.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13588983/bmw-championship-story-of-rory-mcilroys-first-round",
-      "published": "Thu, 17 Sep 2026 12:55:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
