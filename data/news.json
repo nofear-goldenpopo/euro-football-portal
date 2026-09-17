@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-17T20:26:02.600316+00:00",
+  "updated_at": "2026-09-17T20:38:22.371556+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Warrington Wolves": "",
-    "Wakefield Trinity": "",
     "York Knights": "",
     "Toulouse Olympique": "",
     "Bradford Bulls": "",
@@ -3001,7 +2999,9 @@
     "Email Scott TNT’s Connie": "",
     "Martin O’Neill": "マーティン・オニール",
     "Viljami Sinisalo": "",
-    "No I’ll": ""
+    "No I’ll": "",
+    "Chris Samba's": "",
+    "Floyd Samba": ""
   },
   "items": [
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Chris Samba's 息子 Floyd shines 上の デビュー と ダブル としてマンチェスター・シティノリッチを楽しもう",
+      "summary": "Floyd Samba ホルダーとして2 回スクーリングで夢デビューを果たしましたマンチェスター・シティ自分の場所を予約 EFL カップノーリッチで5-0 ホームウィンで4 ラウンド。",
+      "title_original": "Chris Samba's son Floyd shines on debut with double as Man City ease past Norwich",
+      "summary_original": "Floyd Samba enjoyed a dream debut by scoring twice as holders Manchester City booked their place in the Carabao Cup fourth round with a 5-0 home win over Norwich.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-city-vs-norwich-city/report/577580",
+      "published": "Thu, 17 Sep 2026 21:21:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "サマセットのタイトルは、ダーラムのボールで星を揺るがしながらヒットする願っています",
       "summary": "Dom BessRothesay をデントカウンティ・チャンピオンシップタイトルは、ヨークシャーの77 を襲った後、古いクラブサマセットの希望は、287 のトリッキー最終日の勝利目標を設定しました。",
       "title_original": "Somerset's title hopes hit while Stokes stars with ball for Durham",
@@ -3901,9 +3915,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Samba, クリスの息子, と2 回スコアマンチェスター・シティクルージング対 Norwich LIVE!",
+      "title": "Samba, クリスの息子, として2 回スコアマンチェスター・シティハンマーNorwich LIVE!",
       "summary": "",
-      "title_original": "Samba, son of Chris, scores twice with Man City cruising vs Norwich LIVE!",
+      "title_original": "Samba, son of Chris, scores twice as Man City hammer Norwich LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-city-vs-norwich-city/live/577580",
@@ -3915,9 +3929,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランドは T20 シリーズの勝利で閉じるスリランカ獲得を問い合わせ Cardiff LIVE!",
+      "title": "イギリスのクリンチ T20 シリーズと優位ウィン対スリランカ獲得を問い合わせ Cardiff LIVE!",
       "summary": "",
-      "title_original": "England closing in on T20 series win vs Sri Lanka in Cardiff LIVE!",
+      "title_original": "England clinch T20 series with dominant win vs Sri Lanka in Cardiff LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13589016/england-vs-sri-lanka-second-t20-live-latest-score-commentary-video-and-analysis-as-harry-brooks-side-aim-to-clinch-series-win-in-cardiff",
@@ -3954,6 +3968,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Samba ショー! Chris は息子の Floyd のスコアを 2 回のために祝いますマンチェスター・シティ!",
+      "summary": "Floyd Samba, 元の息子プレミアリーグディフェンダークリス, スコアマンチェスター・シティノリッチでデビューEFL カップ.",
+      "title_original": "Samba show! Chris celebrates as son Floyd scores twice for Man City!",
+      "summary_original": "Floyd Samba, son of former Premier League defender Chris, scores Man City double on his debut against Norwich in Carabao Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589100/floyd-samba-scores-man-city-opener-on-his-debut-against-norwich",
+      "published": "Thu, 17 Sep 2026 20:10:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
       "published": "Thu, 17 Sep 2026 19:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「絶対的な美しさ」 - Rory は有望なスタートを BMW PGA 選手権",
-      "summary": "ローリー・マキロイ開口部の4 ホールの2 つを BMW PGA 選手権.",
-      "title_original": "'It's an absolute beauty' - Rory makes promising start at BMW PGA Championship",
-      "summary_original": "Rory McIlroy birdied two of his opening four holes at the BMW PGA Championship.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13588868/bmw-pga-championship-rory-mcilroy-makes-promising-start-with-two-early-birdies",
-      "published": "Thu, 17 Sep 2026 09:36:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ヘビー級世界タイトルの戦いのアンダーカードでユと戦うマッマナモン",
-      "summary": "Britain’s Marie McManamon 会议日程 Hong Kong Muay Thai スタースターYu Yau Pui 原子重量の衝突で ONE Fight Night48、10 月3 日のスカイスポーツに住んでいます。",
-      "title_original": "McManamon to fight Yu on undercard of heavyweight world title fight",
-      "summary_original": "Britain’s Marie McManamon will meet Hong Kong Muay Thai star Yu Yau Pui in an atomweight clash on ONE Fight Night 48, live on Sky Sports on October 3.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/mma/news/12040/13588715/marie-mcmanamon-to-fight-yu-yau-pui-on-the-undercard-paul-elliotts-heavyweight-world-title-fight-against-shamil-erdogan",
-      "published": "Thu, 17 Sep 2026 08:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
