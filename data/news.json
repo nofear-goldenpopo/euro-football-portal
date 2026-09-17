@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-17T07:27:09.843703+00:00",
+  "updated_at": "2026-09-17T07:39:35.162298+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "James Tarkowski’s": "",
     "Marco Rose’s": "",
     "Liam Millar’s": "",
     "James Tarkowski": "",
@@ -3001,7 +3000,8 @@
     "Singapore Grand Prix": "",
     "Red Bull's Max Verstappen": "",
     "Sebastian Vettel": "",
-    "Kimi Raikkonen": "キミ・ライコネン"
+    "Kimi Raikkonen": "キミ・ライコネン",
+    "Do Celtic": ""
   },
   "items": [
     {
@@ -3040,6 +3040,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 05:23:59 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "獲得を問い合わせセルティック「大きな問題」を持っているか、または次の4 日間のハッシュ問題?",
+      "summary": "クリス・サットン勝手なスタートにもかかわらず、彼の元側は「大きな懸念」を持っていると信じていますスコティッシュ・プレミアシップ季節限定 次の4 日間は、その心配が正当化されているかどうかをお伝えします。",
+      "title_original": "Do Celtic have 'big issues', or will next four days hush concerns?",
+      "summary_original": "Chris Sutton believes his former side have \"great concerns\" despite a winning start to the Scottish Premiership season. The next four days will tell us whether those worries are justified.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqd08yml8n0do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 07:14:02 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3117,6 +3131,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "獲得プレミアリーグアカデミー選手のルール?",
+      "summary": "BBC Sport's Ask Me どのチームが、ティーンエイジャーがプレイするときに、プレイヤーやクラブがフォローしなければならないルールを調べるプレミアリーグ",
+      "title_original": "What are the Premier League rules for academy players?",
+      "summary_original": "BBC Sport's Ask Me Anything team looks at what rules players and clubs must follow when teenagers play in the Premier League",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr5yev4y101eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 16:26:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ストールハイブススランプとしてのグレーのための痛みを伴うエンドゲーム",
       "summary": "クラブヒーロー、デヴィッド・グレイファンからのユーフォリアの音ではなくハイブ・ヘッド・コーチとして彼の時間を終了します, しかし、救済に集団的に出世支援の音に, 書き込み Tom English.",
       "title_original": "Painful endgame for Gray as stale Hibs slump",
@@ -3145,20 +3173,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "何が間違っているのかチェルシースタッフケンドリー・パエス?",
-      "summary": "ケンドリー・パエス世界最高の若手才能の1 人でしたチェルシー16 歳の時に獲得しました。3 年後、彼はアンダー21 のためにプレーしています。だから、何が間違っていますか?",
-      "title_original": "What's gone wrong for Chelsea talent Kendry Paez?",
-      "summary_original": "Kendry Paez was one of the world's best young talents when Chelsea signed him as a 16-year-old. Three years later, he's playing for the Under-21s. So what has gone wrong?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd79y025gleo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 14:05:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Gabriel と Gabriel マンチェスター・ユナイテッド?",
       "summary": "夜に JJ Gabriel なるはずだったマンチェスター・ユナイテッド歴史の中で最も若いプレーヤー、スクランブルは、彼が辞めないように説得することです。",
       "title_original": "What next for Gabriel and Man Utd?",
@@ -3173,20 +3187,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "獲得プレミアリーグアカデミー選手のルール?",
-      "summary": "BBC Sport's Ask Me どのチームが、ティーンエイジャーがプレイするときに、プレイヤーやクラブがフォローしなければならないルールを調べるプレミアリーグ",
-      "title_original": "What are the Premier League rules for academy players?",
-      "summary_original": "BBC Sport's Ask Me Anything team looks at what rules players and clubs must follow when teenagers play in the Premier League",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr5yev4y101eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 16:26:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "'Let's go, Let's go' - 内 catastrophic derby VAR 間違い",
       "summary": "許可する VAR 決定を囲む論争アーリング・ハーランドマンチェスター・ダービーの勝者には、日数でランブルされているので、エラーにつながりましたか?",
       "title_original": "'Let's go, let's go' - inside catastrophic derby VAR mistake",
@@ -3198,6 +3198,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "何が間違っているのかチェルシースタッフケンドリー・パエス?",
+      "summary": "ケンドリー・パエス世界最高の若手才能の1 人でしたチェルシー16 歳の時に獲得しました。3 年後、彼はアンダー21 のためにプレーしています。だから、何が間違っていますか?",
+      "title_original": "What's gone wrong for Chelsea talent Kendry Paez?",
+      "summary_original": "Kendry Paez was one of the world's best young talents when Chelsea signed him as a 16-year-old. Three years later, he's playing for the Under-21s. So what has gone wrong?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd79y025gleo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 14:05:00 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3253,20 +3267,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウガンダを代表するスコットランドのティーンエイジャーに会う",
-      "summary": "十代の兄弟オリーと Seb Fisher 彼らの夢に閉じるインテル国民の認識 - しかし、それはスコットランドの故郷から来ません。",
-      "title_original": "Meet the Scottish teenagers poised to represent Uganda",
-      "summary_original": "Teenage brothers Olly and Seb Fisher are closing in on their dream of international recognition - but it won't come from their homeland of Scotland.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyz1ll1g3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 06:12:11 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3355,6 +3355,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウガンダを代表するスコットランドのティーンエイジャーに会う",
+      "summary": "十代の兄弟オリーと Seb Fisher 彼らの夢に閉じるインテル国民の認識 - しかし、それはスコットランドの故郷から来ません。",
+      "title_original": "Meet the Scottish teenagers poised to represent Uganda",
+      "summary_original": "Teenage brothers Olly and Seb Fisher are closing in on their dream of international recognition - but it won't come from their homeland of Scotland.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyz1ll1g3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 06:12:11 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "例-トッテナムミッドフィルダービスソウが完了アヤックスログイン",
       "summary": "過去の投稿トッテナムミッドフィルダーイヴ・ビスマ獲得を問い合わせアヤックス季節の終わりまで走る初期の移籍。",
       "title_original": "Ex-Spurs midfielder Bissouma completes Ajax move",
@@ -3408,20 +3422,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Does Bellamy バックウェールズのファンを獲得する必要がありますか?",
-      "summary": "「眠らない夜」の後、ウェールズのボスクレイグ・ベラミー管理するチャンスを下げることにしたバーンリー- しかし、ファンが彼に何を考えているかに影響しましたか?",
-      "title_original": "Does Bellamy need to win back Wales fans?",
-      "summary_original": "After a \"sleepless night\", Wales boss Craig Bellamy decided to turn down the chance to manage Burnley - but has it affected what fans think of him?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9gk58j0vy0eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 05:41:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
