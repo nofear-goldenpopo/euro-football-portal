@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-17T16:53:01.222840+00:00",
+  "updated_at": "2026-09-17T17:05:33.671088+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Neeraj Goyat": "",
-    "Jake Paul": "",
-    "Yessin Koulali": "",
     "Substitute Liam Miller's": "",
     "Terri Harper": "テリー・ハーパー (ボクサー)",
     "Miranda Reyes": "",
@@ -3001,7 +2998,10 @@
     "Oli McBurnie": "オリヴァー・マクバーニー",
     "Derby County’s": "",
     "India's Abhishek": "",
-    "India's Abhishek Sharma": ""
+    "India's Abhishek Sharma": "",
+    "Ryan Reynolds": "ライアン・レイノルズ",
+    "Rob Mac": "",
+    "Cardiff LIVE": ""
   },
   "items": [
     {
@@ -3169,6 +3169,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Wrexham の所有者は、Spygate ディグを Southampton で目指しています",
+      "summary": "Wrexham 共同所有者ライアン・レイノルズそして、Rob Mac 今週の週末の側面間のチャンピオンシップフィクスの先にある Spygate dig を狙った。",
+      "title_original": "Wrexham owners aim Spygate dig at Southampton",
+      "summary_original": "Wrexham co-owners Ryan Reynolds and Rob Mac have aimed a Spygate dig at Southampton ahead of the Championship fixture between the sides this weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 16:33:31 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3404,20 +3418,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c617jz28nkvgo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 19:53:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "League Two Fleetwood ホストアーセナル獲得を問い合わせ EFL カップ",
-      "summary": "League Two サイドフリートウッド・タウン FC ホストプレミアリーグチャンピオンアーセナル4 ラウンドで EFL カップ.",
-      "title_original": "League Two Fleetwood host Arsenal in EFL Cup",
-      "summary_original": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 21:57:04 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3845,6 +3845,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・シティノリッチチームニュース LIVE!",
+      "summary": "",
+      "title_original": "Man City vs Norwich team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-city-vs-norwich-city/live/577580",
+      "published": "Thu, 17 Sep 2026 18:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "イングランドボウルは、T20 シリーズ対勝つために最初に目指すスリランカ獲得を問い合わせ Cardiff LIVE!",
+      "summary": "",
+      "title_original": "England bowl first aiming to win T20 series vs Sri Lanka in Cardiff LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13589016/england-vs-sri-lanka-second-t20-live-latest-score-commentary-video-and-analysis-as-harry-brooks-side-aim-to-clinch-series-win-in-cardiff",
+      "published": "Thu, 17 Sep 2026 17:55:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ハミルトンは、フェラーリの変更を求めるレポートに応答します",
       "summary": "Lewis Hamilton モンツァとマドリッドで2 つの困難な週末にフェラーリで変更を求めた報告に反応しました。",
       "title_original": "Hamilton responds to reports he has asked for Ferrari changes",
@@ -3922,6 +3950,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13583670/world-series-of-darts-finals-2026-schedule-and-results-with-luke-littler-luke-humphries-michael-van-gerwen-gian-van-veen-in-action",
       "published": "Wed, 09 Sep 2026 17:27:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Calvert-Lewin が完全なストライカーになる",
+      "summary": "",
+      "title_original": "Calvert-Lewin becoming the complete striker",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13589022/dominic-calvert-lewin-adds-goals-to-become-one-of-premier-leagues-most-complete-strikers-the-radar",
+      "published": "Thu, 17 Sep 2026 17:40:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4080,48 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'マンチェスター・シティチャンピオンではありません。Why Greenwood's クレームは、ライバルを傷つけるべき",
-      "summary": "マンチェスター・シティ早々に屋台を置きました。Captain Alex Greenwood 前シーズンにやっていました。「真のチャンピオンは、再び勝つために行く人です。勝者が1 回オフになる可能性があります。しかし、チャンピオンはそれを乗り越える。」",
-      "title_original": "'Man City are not champions' - Why Greenwood's claim should scare rivals",
-      "summary_original": "Manchester City have set their stall out scarily early. Captain Alex Greenwood did so in pre-season. \"A true champion is someone who goes and wins again. A winner might be one-off. But a champion does it over and over.\"",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579874/man-city-vs-liverpool-why-graduating-from-wsl-winner-to-champion-is-so-important-to-alex-greenwood",
-      "published": "Thu, 17 Sep 2026 12:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'もっとリスクが早く!' - ノリス2 ゴール'tougher' 用の s モナコ衝撃スプリント",
-      "summary": "ワールドチャンピオン Lando Norris フォーミュラ1 ドライバーが来年より大きな挑戦に直面していると信じていますモナコグランプリスプリントフォーマットの追加により、通常のものより。",
-      "title_original": "'More risk earlier!' - Norris braces for 'tougher' Monaco with shock Sprint",
-      "summary_original": "World champion Lando Norris believes Formula 1 drivers will face a greater challenge at next year's Monaco Grand Prix than normal due to the addition of the Sprint format.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13588809/lando-norris-mclaren-driver-reacts-to-monaco-sprint-news-for-2027-season-after-formula-1-calendar-surprise",
-      "published": "Thu, 17 Sep 2026 06:43:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スカイでライブ:ブリストル・シティ FC 対 ワットフォード",
-      "summary": "",
-      "title_original": "Live on Sky: Bristol City vs Watford",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/bristol-city-vs-watford/live/560583",
-      "published": "Thu, 17 Sep 2026 10:06:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
