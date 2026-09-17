@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-17T20:50:01.259014+00:00",
+  "updated_at": "2026-09-17T21:06:21.186710+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Sir Nick Faldo": "ニック・ファルド",
     "FM Championship": "",
     "Ruoning Yin": "殷若寧",
     "LPGA Tour’s FM Championship": "",
@@ -3001,7 +3000,8 @@
     "Vlatko Andonovski": "",
     "Former USWNT": "",
     "Former Kansas City Current": "",
-    "Tom Banton": ""
+    "Tom Banton": "",
+    "Rory McIlroy": "ローリー・マキロイ"
   },
   "items": [
     {
@@ -3075,20 +3075,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レアル・マドリードログインマンチェスター・ユナイテッドフォワード・ガブリエル、15",
-      "summary": "レアル・マドリード強いインテル15 歳までの獲得で一番マンチェスター・ユナイテッド獲得 JJ Gabriel.",
-      "title_original": "Real Madrid keen on Man Utd forward Gabriel, 15",
-      "summary_original": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 07:52:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ニューカッスルプレイヤーはジャッスルの怒っている側 - 彼らは応答することができますか?",
       "summary": "ニューカッスルヘッドコーチ Matthias Jaissle すぐ近くのドレッシングルームにありましたエランド・ロード月曜日の夜に追いつく 4-1 敗北 対リーズ・ユナイテッド FC.",
       "title_original": "Newcastle players see Jaissle's angry side - can they respond?",
@@ -3103,20 +3089,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "獲得を問い合わせアストン・ヴィラ fringe プレーヤーはヨーロッパの最も有利なスコアラーになりました",
-      "summary": "欧州のトップ5 リーグのプレイヤーは、より多くの目標を獲得していませんドニエル・マレン以来、ローマ1 月にデビュー - BBC スポーツは、彼の変化を調べます.",
-      "title_original": "How an Aston Villa fringe player became Europe's most prolific scorer",
-      "summary_original": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 08:30:23 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "希望を与えられたチーム...その後、4 ヶ月後にイスラエルを襲ったハマス",
       "summary": "イスラエルのサッカー選手の黄金世代の可能性は、スポーツや社会で実現できますか?",
       "title_original": "A team that offered hope... then, four months later, Hamas attacked Israel",
@@ -3128,6 +3100,34 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レアル・マドリードログインマンチェスター・ユナイテッドフォワード・ガブリエル、15",
+      "summary": "レアル・マドリード強いインテル15 歳までの獲得で一番マンチェスター・ユナイテッド獲得 JJ Gabriel.",
+      "title_original": "Real Madrid keen on Man Utd forward Gabriel, 15",
+      "summary_original": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 07:52:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "獲得を問い合わせアストン・ヴィラ fringe プレーヤーはヨーロッパの最も有利なスコアラーになりました",
+      "summary": "欧州のトップ5 リーグのプレイヤーは、より多くの目標を獲得していませんドニエル・マレン以来、ローマ1 月にデビュー - BBC スポーツは、彼の変化を調べます.",
+      "title_original": "How an Aston Villa fringe player became Europe's most prolific scorer",
+      "summary_original": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 08:30:23 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3173,16 +3173,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Boehly と ウォルター 販売ショップチェルシークリアレイクに焼く",
-      "summary": "Clearlake Capital 完全な制御を得て下さいチェルシーチェアマントッド・ベーリーディレクターMark Walter クラブで屋台を売る",
-      "title_original": "Boehly and Walter sell Chelsea stakes to Clearlake",
-      "summary_original": "Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly and director Mark Walter sell their stakes in the club.",
+      "title": "なぜ9 月になるのかインテル国民の休憩は3 週間続きますか?",
+      "summary": "BBC Sport's Ask Me サッカーの大きな変化について、チーム全員が説明しています。インテル2026 年9 月発の全国休憩",
+      "title_original": "Why will September international break last three weeks?",
+      "summary_original": "BBC Sport's Ask Me Anything team explain the major changes happening to football's international breaks starting in September 2026",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 23:29:10 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq5jl744pwpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 15:30:03 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3201,16 +3201,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "なぜ9 月になるのかインテル国民の休憩は3 週間続きますか?",
-      "summary": "BBC Sport's Ask Me サッカーの大きな変化について、チーム全員が説明しています。インテル2026 年9 月発の全国休憩",
-      "title_original": "Why will September international break last three weeks?",
-      "summary_original": "BBC Sport's Ask Me Anything team explain the major changes happening to football's international breaks starting in September 2026",
+      "title": "Boehly と ウォルター 販売ショップチェルシークリアレイクに焼く",
+      "summary": "Clearlake Capital 完全な制御を得て下さいチェルシーチェアマントッド・ベーリーディレクターMark Walter クラブで屋台を売る",
+      "title_original": "Boehly and Walter sell Chelsea stakes to Clearlake",
+      "summary_original": "Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly and director Mark Walter sell their stakes in the club.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5jl744pwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 15:30:03 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 23:29:10 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3243,20 +3243,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシーの Lavia out へ 'change narrative' 後に 怪我",
-      "summary": "チェルシーミッドフィルダーロメオ・ラヴィア彼が最終的に彼のハードワークの報酬を尊重し、彼の周りに「物語を変える」に決定されていると言う.",
-      "title_original": "Chelsea's Lavia out to 'change narrative' after injuries",
-      "summary_original": "Chelsea midfielder Romeo Lavia says he is finally reaping the rewards of his hard work and is determined to \"change the narrative\" around him.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cnvlr92eyldo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 07:53:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Euro Leagues",
       "summary": "Is JJ Gabriel セットレアル・マドリード獲得を問い合わせ そして元 Gunners Aubameyang& イエスはスクーリングを続けます!",
       "title_original": "Euro Leagues",
@@ -3268,20 +3254,6 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck5yl2jgz23jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 06:22:20 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3383,6 +3355,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チェルシーの Lavia out へ 'change narrative' 後に 怪我",
+      "summary": "チェルシーミッドフィルダーロメオ・ラヴィア彼が最終的に彼のハードワークの報酬を尊重し、彼の周りに「物語を変える」に決定されていると言う.",
+      "title_original": "Chelsea's Lavia out to 'change narrative' after injuries",
+      "summary_original": "Chelsea midfielder Romeo Lavia says he is finally reaping the rewards of his hard work and is determined to \"change the narrative\" around him.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cnvlr92eyldo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 07:53:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck5yl2jgz23jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 06:22:20 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "エムバペ彼は T シャツの行の後に Ceuta'に立っていると言う",
       "summary": "Vini Jnr, エムバペそして Konate は Ceuta のサポートを先にカバーしますレアル・マドリードエルチェにマッチする",
       "title_original": "Mbappe says he 'stands with Ceuta' after T-shirt row",
@@ -3411,13 +3411,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウォーカーは終わるために絶望しますバーンリー'22 マッチ ウィンレス ウォー",
-      "summary": "バーンリーディフェンダーカイル・ウォーカー相手に「勝ちたい」と言っていますダービー・カウンティ FC 土曜日は、Clarets は、シーズンに不意のスタートを回すことを目指しています。",
-      "title_original": "Walker desperate to end Burnley's 22-match winless woe",
-      "summary_original": "Burnley defender Kyle Walker says he has \"never wanted a victory as much\" as against Derby County on Saturday, as Clarets aim to turn around their sorry start to the season.",
+      "title": "米国ミッドフィルダーは、オンピッチ心臓の逮捕後に医師を訴え",
+      "summary": "アメリカ合衆国女子代表選手 Savannah DeMelo 去年のピッチで心臓の逮捕に苦しんだ後、病院と2 人の医師を訴えています。",
+      "title_original": "USA midfielder sues doctors after on-pitch cardiac arrest",
+      "summary_original": "United States women's national team player Savannah DeMelo is suing a hospital and two doctors after she suffered a cardiac arrest on the pitch last year.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgl75062w8no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 13:14:44 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jlqgeejvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 06:15:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3431,7 +3431,7 @@
       "summary_original": "All the goals and latest news in the 8pm BST kick-offs Live scores | Bournemouth’s big night | Email Scott TNT’s Connie McLaughlin asks Celtic boss Martin O’Neill to “talk to us about the thinking behind” replacing goalkeeper Sam Johnstone with Viljami Sinisalo … and receives an unnecessarily abrupt and cranky response. “No I’ll not talk to you about the thinking behind that … he was always going to play … believe it or not, Connie, my job is not actually to explain every single situation to you",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/17/real-sociedad-v-bournemouth-crystal-palace-v-lech-poznan-and-more-europa-league-live",
-      "published": "Thu, 17 Sep 2026 20:36:21 GMT",
+      "published": "Thu, 17 Sep 2026 20:49:55 GMT",
       "category": "uel",
       "type": "uel",
       "label": "EL",
@@ -3440,9 +3440,9 @@
     },
     {
       "title": "Floyd Samba’s デビューダブルリフトマンチェスター・シティ獲得を問い合わせ EFL カップノーリッチで勝つ",
-      "summary": "Floyd Samba デビューでこのタイアップを照らし、17 歳のグラインディングをしばらくの間押し上げて、各ハーフで絶妙なゴールを発揮し、マンチェスター・シティ直面する高度ブライトン最後の16 で EFL カップ. チャンバは、年によって年上の兄弟を持っています, ティロネ, アカデミーでもあります, 彼らの父親は、クリストファーであります, 元ブラックバーンとクイーンズ・パーク・レンジャーズ FC ディフェンダー。続きを読む...",
+      "summary": "Floyd Samba デビューでこのネクタイを照らし、17 歳のグラインディングをしばらくの間押し上げて、各ハーフで最高のゴールを発揮し、マンチェスター・シティ直面する高度ブライトン最後の16 で EFL カップ. チャンバは、年によって年上の兄弟を持っています, ティロネ, アカデミーでもあります, 彼らの父親は、クリストファーであります, 元ブラックバーンとクイーンズ・パーク・レンジャーズ FC ディフェンダー。続きを読む...",
       "title_original": "Floyd Samba’s debut double lifts Manchester City to Carabao Cup win over Norwich",
-      "summary_original": "Floyd Samba lit up this tie up with a debut that will have the 17-year-old grinning for a while as it featured a superb goal in each half that ensured Manchester City advanced to face Brighton in the last 16 of the Carabao Cup. Samba has an older brother by a year, Tyrone, who is also in the academy, their father being Christopher, the former Blackburn and Queens Park Rangers defender. Continue reading...",
+      "summary_original": "Floyd Samba lit up this tie with a debut that will have the 17-year-old grinning for a while as it featured a superb goal in each half that ensured Manchester City advanced to face Brighton in the last 16 of the Carabao Cup. Samba has an older brother by a year, Tyrone, who is also in the academy, their father being Christopher, the former Blackburn and Queens Park Rangers defender. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/17/manchester-city-norwich-carabao-cup-third-round-match-report",
       "published": "Thu, 17 Sep 2026 20:33:33 GMT",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Chris Samba's 息子 フロイド 輝き オン デビュー としてマンチェスター・シティノリッチを楽しもう",
+      "summary": "Floyd Samba ホルダーとして2 回スクーリングで夢デビューを果たしましたマンチェスター・シティ自分の場所を予約 EFL カップ Norwich の上の 5-0 家の勝利と 4 ラウンド.",
+      "title_original": "Chris Samba's son Floyd shines on debut as Man City ease past Norwich",
+      "summary_original": "Floyd Samba enjoyed a dream debut by scoring twice as holders Manchester City booked their place in the Carabao Cup fourth round with a 5-0 home win over Norwich.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-city-vs-norwich-city/report/577580",
+      "published": "Thu, 17 Sep 2026 21:21:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "バントンと記録的なブトラープロペライングランドをシリーズに勝つスリランカ",
       "summary": "Tom Banton インスピレーションを受けた52 オフ24 のボールをシスターイングランドに、包括的な6 ウィケットの勝利に通知スリランカ2 番目の T20 で 3 つのマッチ シリーズをスペアリングします。.",
       "title_original": "Banton and record-breaking Buttler propel England to series win over Sri Lanka",
@@ -3870,20 +3884,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Chris Samba's 息子 フロイド 輝き オン デビュー としてマンチェスター・シティノリッチを楽しもう",
-      "summary": "Floyd Samba ホルダーとして2 回スクーリングで夢デビューを果たしましたマンチェスター・シティ自分の場所を予約 EFL カップ Norwich の上の 5-0 家の勝利と 4 ラウンド.",
-      "title_original": "Chris Samba's son Floyd shines on debut as Man City ease past Norwich",
-      "summary_original": "Floyd Samba enjoyed a dream debut by scoring twice as holders Manchester City booked their place in the Carabao Cup fourth round with a 5-0 home win over Norwich.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-city-vs-norwich-city/report/577580",
-      "published": "Thu, 17 Sep 2026 21:21:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3915,9 +3915,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヨーロッパリーグ: クリスタル・パレスクルージング, ボーンマス前,セルティックトレイル LIVE!",
+      "title": "ヨーロッパリーグ: クリスタル・パレス勝利へのクルーズ, ボーンマス勝利,セルティックライブを失う!",
       "summary": "",
-      "title_original": "Europa League: Palace cruising, Bournemouth ahead, Celtic trail LIVE!",
+      "title_original": "Europa League: Palace cruise to victory, Bournemouth win, Celtic lose LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/live/577757",
@@ -3943,9 +3943,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イギリスのクリンチ T20 シリーズと優位ウィン対スリランカ獲得を問い合わせ Cardiff LIVE!",
+      "title": "ドミナントウィン対とイングランドのクラッチ T20 シリーズとしての反応スリランカライブ!",
       "summary": "",
-      "title_original": "England clinch T20 series with dominant win vs Sri Lanka in Cardiff LIVE!",
+      "title_original": "Reaction as England clinch T20 series with dominant win vs Sri Lanka LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13589016/england-vs-sri-lanka-second-t20-live-latest-score-commentary-video-and-analysis-as-harry-brooks-side-aim-to-clinch-series-win-in-cardiff",
