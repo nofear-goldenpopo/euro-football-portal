@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-17T08:27:47.925424+00:00",
+  "updated_at": "2026-09-17T08:39:46.967594+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "James Tarkowski": "",
     "Vitality. Milan": "",
     "San Sebastián": "サン・セバスティアン",
     "West Ham’s Nuno": "",
@@ -3001,7 +3000,8 @@
     "Kimi Raikkonen": "キミ・ライコネン",
     "Do Celtic": "",
     "Chelsea's Lavia": "",
-    "Romeo Lavia": "ロメオ・ラヴィア"
+    "Romeo Lavia": "ロメオ・ラヴィア",
+    "Donyell Malen": "ドニエル・マレン"
   },
   "items": [
     {
@@ -3040,6 +3040,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cnvlr92eyldo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 07:53:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "獲得を問い合わせアストン・ヴィラ fringe プレーヤーはヨーロッパの最も有利なスコアラーになりました",
+      "summary": "欧州のトップ5 リーグのプレイヤーは、より多くの目標を獲得していませんドニエル・マレン以来、ローマ1 月にデビュー - BBC スポーツは、彼の変化を調べます.",
+      "title_original": "How an Aston Villa fringe player became Europe's most prolific scorer",
+      "summary_original": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 08:30:23 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3131,20 +3145,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "米国ミッドフィルダーは、オンピッチ心臓発作後の医師を訴え",
-      "summary": "アメリカ合衆国女子代表選手 Savannah DeMelo 昨年のピッチで心臓発作に苦しんだ後、病院と2 人の医師を訴えています。",
-      "title_original": "USA midfielder sues doctors after on-pitch heart attack",
-      "summary_original": "United States women's national team player Savannah DeMelo is suing a hospital and two doctors after she suffered a heart attack on the pitch last year.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jlqgeejvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 06:15:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "アーセナル拒否ドウマンローンオファー - 木曜日のゴシップ",
       "summary": "アーセナルローンオファーの受け取り Max Dowman, ルーク・ショー残すことができるマンチェスター・ユナイテッド次の夏、Luca Weinhandl 引き付けインテル複数から est プレミアリーグクラブ、その他",
       "title_original": "Arsenal rejected Dowman loan offers - Thursday's gossip",
@@ -3173,13 +3173,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ストールハイブススランプとしてのグレーのための痛みを伴うエンドゲーム",
-      "summary": "クラブヒーロー、デヴィッド・グレイファンからのユーフォリアの音ではなくハイブ・ヘッド・コーチとして彼の時間を終了します, しかし、救済に集団的に出世支援の音に, 書き込み Tom English.",
-      "title_original": "Painful endgame for Gray as stale Hibs slump",
-      "summary_original": "A club hero, David Gray ends his time as Hibs head coach not to the sound of euphoria from fans, but to the sound of a support collectively exhaling in relief, writes Tom English.",
+      "title": "米国ミッドフィルダーは、オンピッチ心臓発作後の医師を訴え",
+      "summary": "アメリカ合衆国女子代表選手 Savannah DeMelo 昨年のピッチで心臓発作に苦しんだ後、病院と2 人の医師を訴えています。",
+      "title_original": "USA midfielder sues doctors after on-pitch heart attack",
+      "summary_original": "United States women's national team player Savannah DeMelo is suing a hospital and two doctors after she suffered a heart attack on the pitch last year.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjk2nev7r8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 20:53:10 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jlqgeejvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 06:15:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3215,6 +3215,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ストールハイブススランプとしてのグレーのための痛みを伴うエンドゲーム",
+      "summary": "クラブヒーロー、デヴィッド・グレイファンからのユーフォリアの音ではなくハイブ・ヘッド・コーチとして彼の時間を終了します, しかし、救済に集団的に出世支援の音に, 書き込み Tom English.",
+      "title_original": "Painful endgame for Gray as stale Hibs slump",
+      "summary_original": "A club hero, David Gray ends his time as Hibs head coach not to the sound of euphoria from fans, but to the sound of a support collectively exhaling in relief, writes Tom English.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjk2nev7r8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 20:53:10 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "何が間違っているのかチェルシースタッフケンドリー・パエス?",
       "summary": "ケンドリー・パエス世界最高の若手才能の1 人でしたチェルシー16 歳の時に獲得しました。3 年後、彼はアンダー21 のためにプレーしています。だから、何が間違っていますか?",
       "title_original": "What's gone wrong for Chelsea talent Kendry Paez?",
@@ -3240,20 +3254,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・ユナイテッド最新ナイトマーレ&サンダーランドヨーロッパの輝き",
-      "summary": "アーロン・ポール獲得を問い合わせ Jobi McAnuff, Clinton Morrison そして、ジョン・マーレー.",
-      "title_original": "Manchester United’s latest nightmare & Sunderland shine in Europe",
-      "summary_original": "Aaron Paul is joined by Jobi McAnuff, Clinton Morrison and, John Murray.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p9zfpn?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 22:34:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3341,6 +3341,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・ユナイテッド最新ナイトマーレ&サンダーランドヨーロッパの輝き",
+      "summary": "アーロン・ポール獲得を問い合わせ Jobi McAnuff, Clinton Morrison そして、ジョン・マーレー.",
+      "title_original": "Manchester United’s latest nightmare & Sunderland shine in Europe",
+      "summary_original": "Aaron Paul is joined by Jobi McAnuff, Clinton Morrison and, John Murray.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p9zfpn?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 22:34:00 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Pocognoli の大胆なスコットランドのスクワッドのキーポイント",
       "summary": "ザ・オブ・ザ・セバスチャン・ポコニョーリスコットランドの時代はすでに深刻な陰謀を作り出しています。そして、ベルギーのスクワッドはまだトレーニンググラウンドロンドのために組み立てられており、ゲームを決して心がけません。",
       "title_original": "The key talking points from Pocognoli's bold Scotland squad",
@@ -3408,20 +3422,6 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レンジャーズ-11 月1 日、エジンバラのダービーの10 月31 日のアバディーンセミ",
-      "summary": "レンジャーズそして、Aberdeen's Premier Sports Cup セミファイナルは10 月31 日(土)17 時30 分に開催されます。11 月1 日(日)15 時15 分に予定されているエジンバラ・ダービーの最終競技会が開催されます。",
-      "title_original": "Rangers-Aberdeen semi on 31 October, Edinburgh derby on 1 November",
-      "summary_original": "Rangers and Aberdeen's Premier Sports Cup semi-final will take place on 31 October at 17:30 BST, with the Edinburgh derby last-four tie scheduled for 1 November at 15:00.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gk04w592vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 10:15:50 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
