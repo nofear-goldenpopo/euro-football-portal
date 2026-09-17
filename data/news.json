@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-17T10:39:08.385128+00:00",
+  "updated_at": "2026-09-17T10:52:56.908480+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "La Li": "",
     "St Johnstone": "",
     "Dundee United": "ダンディー・ユナイテッドFC",
     "Killie Camilo Durán": "",
@@ -3001,7 +3000,8 @@
     "Donyell Malen": "ドニエル・マレン",
     "Wentworth LIVE": "",
     "Vince Lombardi Trophy": "ヴィンス・ロンバルディ・トロフィー",
-    "West Brom": ""
+    "West Brom": "",
+    "Thomas Tuchel's": ""
   },
   "items": [
     {
@@ -3439,13 +3439,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「私たちはそれを受け入れることができません’:Carrick urges マンチェスター・ユナイテッドカップ崩壊後の対応",
-      "summary": "「私は責任をとります...それは瞬間に良い感じません」 ユナイテッドビートン 3-2 によるブライトン2 頭リードを服用した後マイケル・キャリック採用情報マンチェスター・ユナイテッド獲得を問い合わせ EFL カップに対するキャピレーションブライトンブームで挨拶したオールド・トラッフォード信じられないほどで、その答えは Fulham で発見されなければなりませんでした Sunday. United3-2 をノックアウト Fabian Hürzeler’s10 分から1〜2 分後までの来場者 Shea Lacey そして、Mason Mount. Goals から Charalampos Kostoulas 最初の半分に t を追加",
-      "title_original": "‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse",
-      "summary_original": "‘I take responsibility … it doesn’t feel good at the moment’ United beaten 3-2 by Brighton after taking two-goal lead Michael Carrick admitted Manchester United’s Carabao Cup capitulation against Brighton that was greeted by boos at Old Trafford was unacceptable and that answers had to be found at Fulham on Sunday. United were knocked out 3-2 by Fabian Hürzeler’s visitors after leading 2-0 after 10 minutes through Shea Lacey and Mason Mount. Goals from Charalampos Kostoulas in first‑half added t",
+      "title": "Jürgen Klopp ドイツチームを「間違った人」から国民の誇りを認めたい",
+      "summary": "コメントは、サクソニー・アンハルト「私は自分自身の旗を返し、私たちのために、」で遠直な選挙勝利に従ってください Jürgen Klopp ドイツのサッカーチームは、最近の直近の AFD 選挙の勝利の後に「国家の誇りは、間違った人々に委託されていない」ことを保証するのに役立ちます。フランクフルトのプレス会議では、ドイツ初のスクワッド、元を発表リヴァプールマネージャーは、ドイツ党の抗移民代替による最近の国家選挙の勝利を言及しました。続きを読む...",
+      "title_original": "Jürgen Klopp wants his Germany team to reclaim national pride from ‘the wrong people’",
+      "summary_original": "Comments follow far-right election win in Saxony-Anhalt ‘I’d like to reclaim the flag for myself and for us,’ he says Jürgen Klopp has said Germany’s football team can help ensure “national pride is not entrusted to the wrong people” after a recent far-right AfD election victory . In a Frankfurt press conference announcing his first Germany squad, the former Liverpool manager referenced a recent state election win by the anti-immigration Alternative for Germany party. Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/michael-carrick-manchester-united-carabao-cup-third-round-defeat-brighton",
-      "published": "Wed, 16 Sep 2026 22:49:14 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/17/jurgen-klopp-germany-reclaim-national-pride-wrong-people-afd",
+      "published": "Thu, 17 Sep 2026 10:42:03 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3478,6 +3478,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「私たちはそれを受け入れることができません’:Carrick urges マンチェスター・ユナイテッドカップ崩壊後の対応",
+      "summary": "「私は責任をとります...それは瞬間に良い感じません」 ユナイテッドビートン 3-2 によるブライトン2 頭リードを服用した後マイケル・キャリック採用情報マンチェスター・ユナイテッド獲得を問い合わせ EFL カップに対するキャピレーションブライトンブームで挨拶したオールド・トラッフォード信じられないほどで、その答えは Fulham で発見されなければなりませんでした Sunday. United3-2 をノックアウト Fabian Hürzeler’s10 分から1〜2 分後までの来場者 Shea Lacey そして、Mason Mount. Goals から Charalampos Kostoulas 最初の半分に t を追加",
+      "title_original": "‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse",
+      "summary_original": "‘I take responsibility … it doesn’t feel good at the moment’ United beaten 3-2 by Brighton after taking two-goal lead Michael Carrick admitted Manchester United’s Carabao Cup capitulation against Brighton that was greeted by boos at Old Trafford was unacceptable and that answers had to be found at Fulham on Sunday. United were knocked out 3-2 by Fabian Hürzeler’s visitors after leading 2-0 after 10 minutes through Shea Lacey and Mason Mount. Goals from Charalampos Kostoulas in first‑half added t",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/16/michael-carrick-manchester-united-carabao-cup-third-round-defeat-brighton",
+      "published": "Wed, 16 Sep 2026 22:49:14 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3534,20 +3548,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Saudi Pro League クラブ Al-Taawoun ハンド スタジアム 禁止 以上 Diogo Jota チャント",
-      "summary": "ファンは「Jota」の叫び声を聞きました Al-Hilal Ronaldo これらのサポーターの生涯禁止のために呼び出されました The Saudi Pro League クラブ Al-Taawoun は、約2 万ポンドの罰金を科され、後半にチャンテッドファンの後に2 つのゲームスタジアム禁止を与えられたリヴァプールそしてポルトガルは先に進みます Diogo Jota. The Al-Hilal ミッドフィルダーRúben Neves ヴォルフとポルトガルでジョタと遊んだ人は、アル・タオウンのファンが土曜日のリーグゲーム中に聴くことができる「Jota」の可聴性のチャントの後に空に魅了されました",
-      "title_original": "Saudi Pro League club Al-Taawoun handed stadium ban over Diogo Jota chants",
-      "summary_original": "Fans heard shouting chants of ‘Jota’ against Al-Hilal Ronaldo had called for lifetime bans for those supporters The Saudi Pro League club Al-Taawoun have been fined nearly £20,000 and given a two-game stadium ban after fans chanted about the late Liverpool and Portugal forward Diogo Jota. The Al-Hilal midfielder Rúben Neves, who played with Jota for Wolves and Portugal, was shown gesturing to the sky after audible chants of “Jota” from Al-Taawoun fans could be heard during Saturday’s league game",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/saudi-pro-league-club-al-taawoun-handed-stadium-ban-over-diogo-jota-chants",
-      "published": "Wed, 16 Sep 2026 21:13:14 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3649,6 +3649,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Saudi Pro League クラブ Al-Taawoun ハンド スタジアム 禁止 以上 Diogo Jota チャント",
+      "summary": "ファンは「Jota」の叫び声を聞きました Al-Hilal Ronaldo これらのサポーターの生涯禁止のために呼び出されました The Saudi Pro League クラブ Al-Taawoun は、約2 万ポンドの罰金を科され、後半にチャンテッドファンの後に2 つのゲームスタジアム禁止を与えられたリヴァプールそしてポルトガルは先に進みます Diogo Jota. The Al-Hilal ミッドフィルダーRúben Neves ヴォルフとポルトガルでジョタと遊んだ人は、アル・タオウンのファンが土曜日のリーグゲーム中に聴くことができる「Jota」の可聴性のチャントの後に空に魅了されました",
+      "title_original": "Saudi Pro League club Al-Taawoun handed stadium ban over Diogo Jota chants",
+      "summary_original": "Fans heard shouting chants of ‘Jota’ against Al-Hilal Ronaldo had called for lifetime bans for those supporters The Saudi Pro League club Al-Taawoun have been fined nearly £20,000 and given a two-game stadium ban after fans chanted about the late Liverpool and Portugal forward Diogo Jota. The Al-Hilal midfielder Rúben Neves, who played with Jota for Wolves and Portugal, was shown gesturing to the sky after audible chants of “Jota” from Al-Taawoun fans could be heard during Saturday’s league game",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/16/saudi-pro-league-club-al-taawoun-handed-stadium-ban-over-diogo-jota-chants",
+      "published": "Wed, 16 Sep 2026 21:13:14 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「彼らは非常に似ています」:アーセナルドーマンがマーリーノを思い出させるラミン・ヤマル",
       "summary": "ティーンエイジャーは開発を続け、2 ゴール獲得を問い合わせイプスウィッチマーリーノ:「彼は大きな才能であり、私たちは彼の世話をしなければなりません」ミケル・メリーノコメント Max Dowman 彼を思い出させるラミン・ヤマルアフターアーセナルプロディジーは、彼の側面の4-2 で2 回スコアリングによって彼の開発を続けましたイプスウィッチ. Dowman, 上級レベルの機会のホストを与えられた人ミケル・アルテタ、シーズンの最初の外観を手渡した後に主演ポートマン・ロード獲得を問い合わせ Tuesday. The16 歳の攻撃者のクラスティーダブル",
       "title_original": "‘They are very similar’: Arsenal’s Dowman reminds Merino of Lamine Yamal",
@@ -3684,20 +3698,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-usmnt",
       "published": "Wed, 16 Sep 2026 19:25:09 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リオネル・メッシアルゼンチンがフレンドリーで farewell の出現をするために呼び出す",
-      "summary": "アルゼンチンは10 月にベンインをホストします Buenos Aires AFA 社長の招待メッシ「遠足」を楽しむリオネル・メッシアルゼンチンが10 月以降に自宅で親しまれている遠い外観を作るために呼び出されましたインテルアルゼンチンのサッカー協会(AFA)は、国家退職が確認されました。ライオンエル・アンドレズのキャプテン・ライオンエル・アンドレズは、世界で活躍する最高のプレイヤーに招待しました。メッシ, に値する運賃を持っています 6 10 月, ここでは、アルゼンチンで, AFA の事前",
-      "title_original": "Lionel Messi called up by Argentina to make farewell ⁠appearance in friendly",
-      "summary_original": "Argentina will host Benin in October in Buenos Aires AFA president invites Messi to enjoy ‘deserved farewell’ Lionel Messi has been called up by Argentina to make a farewell ⁠appearance in a home friendly in October following his international retirement, the Argentinian football association (AFA) has confirmed. “We invited ⁠the best player in ⁠the world ​to play, the icon of our selection, our captain Lionel Andrés Messi, to have a deserved farewell on 6 October, here in Argentina,” the AFA pre",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/lionel-messi-called-up-argentina-farewell-appearance-friendly-benin",
-      "published": "Tue, 15 Sep 2026 22:28:15 GMT",
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
@@ -3915,6 +3915,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Tuchel は、ピボタル・イングランド・キャンプの先にある信頼を獲得しなければなりません",
+      "summary": "イングランドの最高水準の達成にもかかわらず World Cup 外国の土壌のパフォーマンス、これインテル国民のブレイクは、海賊の瞬間のように感じますトーマス・トゥヘルテニュア",
+      "title_original": "Tuchel must win back trust ahead of pivotal England camp",
+      "summary_original": "Despite achieving England's best-ever World Cup performance on foreign soil, this international break feels like a pivotal moment in Thomas Tuchel's tenure.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13588885/thomas-tuchel-england-manager-faces-pivotal-international-break-to-win-over-some-players-and-supporters-after-world-cup-exit",
+      "published": "Thu, 17 Sep 2026 10:13:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナル最新: ハヴェルツは休憩時間を与えましたインテル国民の休憩",
       "summary": "",
       "title_original": "Arsenal latest: Havertz granted rest time during international break",
@@ -4013,9 +4027,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Verstappen は、シルバーストーンで展示会のゴーカートレースを獲得するために100 アマチュアをオーバーテーク",
+      "title": "Ex-Mercedes 技術上司が Alpine に参加",
       "summary": "",
-      "title_original": "Verstappen overtakes 100 amateurs to win exhibition go-kart race at Silverstone",
+      "title_original": "Ex-Mercedes technical boss joins Alpine",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
@@ -4108,20 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ペーパー: ショーは去ることができますマンチェスター・ユナイテッド次回の夏",
-      "summary": "木曜日の新聞から噂を移籍するトップストーリー...",
-      "title_original": "Papers: Shaw could leave Man Utd next summer",
-      "summary_original": "The top stories and transfer rumours from Thursday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13588777/luke-shaw-may-leave-manchester-united-next-summer-with-no-new-deal-in-sight-paper-talk",
-      "published": "Wed, 16 Sep 2026 23:20:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
