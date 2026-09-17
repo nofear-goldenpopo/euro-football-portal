@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-17T11:51:59.831114+00:00",
+  "updated_at": "2026-09-17T12:08:07.307169+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Weary Hearts": "",
-    "James Tarkowski's": "",
     "The Toffees": "エヴァートンFC",
     "Bournemouth. Moyes": "",
     "Alex Scott's": "",
@@ -3001,7 +2999,9 @@
     "Laura Kaminski": "",
     "Former Palace": "紫禁城",
     "Norway. The English": "",
-    "January. She": ""
+    "January. She": "",
+    "Rory McIlory": "",
+    "BMW Championships": "イーストボーン国際"
   },
   "items": [
     {
@@ -3859,6 +3859,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "'He's furious!' - McIlroy feigns クラブ 投げる 前に 荒穴 後!",
+      "summary": "Rory McIlory 第6 ホールと第7 ホールの2 つのウェイワードショットをヒットイーストボーン国際, 彼のクラブを投げるために彼の最初のほとんどをリードして.",
+      "title_original": "'He's furious!' - McIlroy feigns club throw before finding rough a hole later!",
+      "summary_original": "Rory McIlory hit two wayward shots on the sixth and seventh holes at the BMW Championships, with the first almost leading him to throw his club.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13588977/bmw-championship-rory-mcilroy-feighs-club-throw-before-finding-rough-a-hole-later",
+      "published": "Thu, 17 Sep 2026 12:31:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "NFL 2026:英国時間と週単位の試合スケジュール",
       "summary": "すべての備品と英国のタイミング NFL's 2026 季節は追いかけて持ち上げますヴィンス・ロンバルディ・トロフィーまずは、",
       "title_original": "NFL 2026: UK times and weekly match schedule",
@@ -4108,20 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブライトン最新: 信じる と キャラクター 助け ビートマンチェスター・ユナイテッド, Hurzeler と言う",
-      "summary": "",
-      "title_original": "Brighton latest: Belief and character helped beat Man Utd, says Hurzeler",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Wed, 16 Sep 2026 23:25:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
