@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-17T12:08:07.307169+00:00",
+  "updated_at": "2026-09-17T12:31:16.527885+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "The Toffees": "エヴァートンFC",
-    "Bournemouth. Moyes": "",
-    "Alex Scott's": "",
     "Marco Rose": "",
     "Vitality Stadium": "",
     "Sergej Jakirovic": "",
@@ -3001,7 +2998,10 @@
     "Norway. The English": "",
     "January. She": "",
     "Rory McIlory": "",
-    "BMW Championships": "イーストボーン国際"
+    "BMW Championships": "イーストボーン国際",
+    "Everton's Braiden Graham": "",
+    "BMW Championship": "BMW選手権",
+    "Wentworth Club": ""
   },
   "items": [
     {
@@ -3229,6 +3229,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "'pigeonhole' Graham - O'Neill ではなく重要な",
+      "summary": "北アイルランドマネージャーMichael O'Neill 急いでいないと言うエヴァートンブライデン・グラハムが最高のポジションを見つける",
+      "title_original": "Important not to 'pigeonhole' Graham - O'Neill",
+      "summary_original": "Northern Ireland manager Michael O'Neill says there is no rush for Everton's Braiden Graham to find his best position.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqm2m1e4mr8xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 12:03:25 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "獲得プレミアリーグアカデミー選手のルール?",
       "summary": "BBC Sport's Ask Me どのチームが、ティーンエイジャーがプレイするときに、プレイヤーやクラブがフォローしなければならないルールを調べるプレミアリーグ",
       "title_original": "What are the Premier League rules for academy players?",
@@ -3408,20 +3422,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Pocognoli の大胆なスコットランドのスクワッドのキーポイント",
-      "summary": "ザ・オブ・ザ・セバスチャン・ポコニョーリスコットランドの時代はすでに深刻な陰謀を作り出しています。そして、ベルギーのスクワッドはまだトレーニンググラウンドロンドのために組み立てられており、ゲームを決して心がけません。",
-      "title_original": "The key talking points from Pocognoli's bold Scotland squad",
-      "summary_original": "The Sebastien Pocognoli Scotland era is already creating serious intrigue - and the Belgian's squad are yet to assemble for a training-ground rondo, never mind play a game.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c51kxlek7471o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 15:12:03 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3957,9 +3957,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "McIlroy, レイ, リードでリードのためのリードバトリング Wentworth LIVE!",
+      "title": "レイは、McIlroy が3 つのバックを仕上げるとして共同リードを取ります Wentworth LIVE!",
       "summary": "",
-      "title_original": "McIlroy, Rai, Reed battling for lead at Wentworth LIVE!",
+      "title_original": "Rai takes co-lead as McIlroy finishes three back at Wentworth LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13586094/bmw-pga-championship-pro-am-tee-times-celebrity-handicaps-highlights-as-gareth-bale-john-terry-eden-hazard-feature",
@@ -3968,6 +3968,34 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Wentworth の Rory のアップダウンデイ | 初戦のストーリー",
+      "summary": "方法を見るローリー・マキロイ初日を過ぎて BMW 選手権獲得を問い合わせ Wentworth Club, サリー.",
+      "title_original": "Rory's up-and-down day at Wentworth | Story of his first round",
+      "summary_original": "A look at how Rory McIlroy fared on the first day of the BMW Championship at Wentworth Club, Surrey.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13588983/bmw-championship-story-of-rory-mcilroys-first-round",
+      "published": "Thu, 17 Sep 2026 12:55:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Carrick, INEOS, 防衛... 何の後ろマンチェスター・ユナイテッド最新問題",
+      "summary": "マンチェスター・ユナイテッドの は、ブライトンスクリュティニーをインテンシファイドマイケル・キャリック- しかし、問題はオールド・トラッフォードヘッドコーチよりも深く走る。",
+      "title_original": "Carrick, INEOS, defence... what is behind Man Utd's latest problems?",
+      "summary_original": "Manchester United's collapse against Brighton has intensified the scrutiny on Michael Carrick - but the problems at Old Trafford run deeper than the head coach.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13588890/manchester-united-whats-to-blame-for-increasing-scrutiny-on-michael-carrick-after-carabao-cup-exit",
+      "published": "Thu, 17 Sep 2026 10:31:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13584180/chelsea-todd-boehly-and-fellow-co-owner-mark-walter-to-sell-stakes-in-premier-league-club",
       "published": "Thu, 10 Sep 2026 23:27:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Deep Havana そしてヤルマスで Pilu の表面オフ",
-      "summary": "ヤルマスの3 日間の祭りは、木曜日にその結論に達します, 七面鳥のカードが予定して, ライブオン Sky Sports Racing .",
-      "title_original": "Deep Havana and Pilu face off at Yarmouth",
-      "summary_original": "Yarmouth's three-day festival reaches its conclusion on Thursday, with a seven-race card scheduled, live on Sky Sports Racing .",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13586167/today-on-sky-sports-racing-deep-havana-and-pilu-face-off-at-yarmouth",
-      "published": "Thu, 17 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "新しい季節、同じマンチェスター・ユナイテッドストーリー - Carrick は今、圧力をしっかりと感じています",
-      "summary": "ちょうど敗北ではありませんでした。倒れない。カップの出口だけではありませんでした。その他マンチェスター・ユナイテッドマネージャーのプロジェクトは、同じ方向に向かいます。でも、マイケル・キャリックそれを認めます。",
-      "title_original": "New season, same Man Utd story - Carrick is now firmly feeling the pressure",
-      "summary_original": "This wasn't just a defeat. This wasn't just a collapse. This wasn't just a cup exit. Another Manchester United managerial project is heading in that one, same direction. And even Michael Carrick recognises that.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13588791/man-utd-2-3-brighton-michael-carricks-old-trafford-tenure-is-only-heading-in-one-direction-as-red-devils-face-familiar-story",
-      "published": "Wed, 16 Sep 2026 23:47:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
