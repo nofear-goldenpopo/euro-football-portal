@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-17T21:49:49.794140+00:00",
+  "updated_at": "2026-09-17T22:06:39.124098+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Newcastle. Paul MacInnes": "",
-    "Brighton Leeds United": "",
-    "Brentford Sunderland": "",
     "Fulham Manchester United": "",
     "Ipswich Town Continue": "",
     "As Liverpool": "",
@@ -3001,9 +2998,26 @@
     "Gerwyn Price": "",
     "Juan Iturra": "",
     "AFC Wimbledon": "AFCウィンブルドン",
-    "Cherry Red Records Stadium": ""
+    "Cherry Red Records Stadium": "",
+    "Floyd Samba's": "",
+    "Martin O'Neill": "マーティン・オニール",
+    "Sunday's Premiership": ""
   },
   "items": [
+    {
+      "title": "'Just the start' - Samba, 17, ストラスマンチェスター・シティイベント",
+      "summary": "Floyd Samba's シンチレーションデビューストールでショーシティ・オブ・マンチェスター・スタジアムしかし、また、マンチェスターの別の高プロファイルのティーンエイジャーから見出しを取りました。",
+      "title_original": "'Just the beginning' - Samba, 17, steals Man City show",
+      "summary_original": "Floyd Samba's scintillating debut stole the show at Etihad Stadium but also took the headlines away from another high-profile teenager in Manchester.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 22:00:18 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "Tuchel のイギリス初のスクワッドの大きな質問 World Cup",
       "summary": "獲得トーマス・トゥヘル名前 彼の最初のスクワット以来 World Cup 金曜日、BBC スポーツはイングランドのボスに直面している大きな質問を見ています。",
@@ -3089,20 +3103,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フォローする方法プレミアリーグ今週末 BBC で",
-      "summary": "Our Ask Me Anything チームは、週5 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
-      "title_original": "How to follow the Premier League on the BBC this weekend",
-      "summary_original": "Our Ask Me Anything team explains how to follow matches from week five of the Premier League season on the BBC this weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 11:47:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "希望を与えられたチーム...その後、4 ヶ月後にイスラエルを襲ったハマス",
       "summary": "イスラエルのサッカー選手の黄金世代の可能性は、スポーツや社会で実現できますか?",
       "title_original": "A team that offered hope... then, four months later, Hamas attacked Israel",
@@ -3128,6 +3128,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フォローする方法プレミアリーグ今週末 BBC で",
+      "summary": "Our Ask Me Anything チームは、週5 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
+      "title_original": "How to follow the Premier League on the BBC this weekend",
+      "summary_original": "Our Ask Me Anything team explains how to follow matches from week five of the Premier League season on the BBC this weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 11:47:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3404,20 +3418,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqd08yml8n0do?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 07:14:02 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "米国ミッドフィルダーは、オンピッチ心臓の逮捕後に医師を訴え",
-      "summary": "アメリカ合衆国女子代表選手 Savannah DeMelo 去年のピッチで心臓の逮捕に苦しんだ後、病院と2 人の医師を訴えています。",
-      "title_original": "USA midfielder sues doctors after on-pitch cardiac arrest",
-      "summary_original": "United States women's national team player Savannah DeMelo is suing a hospital and two doctors after she suffered a cardiac arrest on the pitch last year.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jlqgeejvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 06:15:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3971,6 +3971,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "O'Neill は「私たちを一緒に手に入れよう」と確信しています。セルティック EL 損失からバウンスします。",
+      "summary": "セルティックマネージャーマーティン・オニール彼らは彼らのから回復する自信がありますヨーロッパリーグ敗北へフェレンツヴァーロシュそして準備が整いました Sunday's Premiership クラッシュとレンジャーズスカイスポーツにライブ",
+      "title_original": "'We'll get ourselves together' - O'Neill confident Celtic will bounce back from EL loss",
+      "summary_original": "Celtic manager Martin O'Neill is confident they will recover from their Europa League defeat to Ferencvaros and be ready for Sunday's Premiership clash with Rangers, live on Sky Sports.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589150/celtic-1-3-ferencvaros-martin-oneill-confident-they-will-recover-from-europa-league-loss-ahead-of-rangers-clash-live-on-sky",
+      "published": "Thu, 17 Sep 2026 22:44:00 BST",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "サマセットのタイトルは、ダーラムのボールで星を揺るがしながらヒットする願っています",
       "summary": "Dom BessRothesay をデントカウンティ・チャンピオンシップタイトルは、ヨークシャーの77 を襲った後、古いクラブサマセットの希望は、287 のトリッキー最終日の勝利目標を設定しました。",
       "title_original": "Somerset's title hopes hit while Stokes stars with ball for Durham",
@@ -4107,20 +4121,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "India's Abhishek テストプレイの国からバッターで最速の T20I 百を打つ",
-      "summary": "India's Abhishek Sharma デリーのアフガニスタンに対する30 球の努力で、テストプレイの国からバッターによって最速の T20I 百を襲った。",
-      "title_original": "India's Abhishek hits fastest T20I hundred by batter from Test-playing nation",
-      "summary_original": "India's Abhishek Sharma struck the fastest T20I hundred by a batter from a Test-playing nation with a 30-ball effort against Afghanistan in Delhi.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13589058/indias-abhishek-sharma-hits-30-ball-hundred-the-fastest-in-t20-internationals-by-batter-from-test-playing-nation",
-      "published": "Thu, 17 Sep 2026 17:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
