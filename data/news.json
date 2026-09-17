@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-17T14:40:38.458253+00:00",
+  "updated_at": "2026-09-17T14:53:05.841668+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Oli McBurnie": "オリヴァー・マクバーニー",
     "Amin Nabizada": "",
     "Day Three": "",
     "Newcastle United's": "",
@@ -3001,7 +3000,8 @@
     "Alessandro Costacurta": "",
     "San Siro": "スタディオ・ジュゼッペ・メアッツァ",
     "San Siro. He": "",
-    "Milan. The": ""
+    "Milan. The": "",
+    "Are Hibs": ""
   },
   "items": [
     {
@@ -3089,6 +3089,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ライバルが更新されました: ダービーゲームは、このシーズンをバックアップ",
+      "summary": "ウェストハム Millwall および Wolves のホストを訪問して下さいウェスト・ブロムウィッチ・アルビオン FC 第1 回 決勝戦 決勝戦が更新されます。",
+      "title_original": "Rivalries renewed: The derby games back this season",
+      "summary_original": "West Ham visit Millwall and Wolves host West Bromwich Albion in the first derby weekend of the Championship season as fierce rivalries are renewed.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8d8nkglr7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 13:53:22 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Boehly と ウォルター 販売ショップチェルシークリアレイクに焼く",
       "summary": "Clearlake Capital 完全な制御を得て下さいチェルシーチェアマントッド・ベーリーディレクターMark Walter クラブで屋台を売る",
       "title_original": "Boehly and Walter sell Chelsea stakes to Clearlake",
@@ -3110,20 +3124,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm5y5v9ndg9qo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 12:44:27 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "なぜ敗北に対処することは、Coventry の Lampard のキーです",
-      "summary": "BBC スポーツコラムニスト Tony PulisCoventry 上司の理由を説明する Frank Lampard 季節が始まると、自分の選手や選手を管理する必要があります。",
-      "title_original": "Why dealing with defeat is key for Lampard at Coventry",
-      "summary_original": "BBC Sport columnist Tony Pulis explains why Coventry boss Frank Lampard needs to manage himself as well as his players after their poor start to the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 06:40:18 GMT",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
@@ -3155,6 +3155,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "なぜ敗北に対処することは、Coventry の Lampard のキーです",
+      "summary": "BBC スポーツコラムニスト Tony PulisCoventry 上司の理由を説明する Frank Lampard 季節が始まると、自分の選手や選手を管理する必要があります。",
+      "title_original": "Why dealing with defeat is key for Lampard at Coventry",
+      "summary_original": "BBC Sport columnist Tony Pulis explains why Coventry boss Frank Lampard needs to manage himself as well as his players after their poor start to the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 06:40:18 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3201,20 +3215,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウルフと West Brom 最後のダービーでトラブル後のファンを警告",
-      "summary": "クラブは、チームが会ったとき、障害が発生した後、日曜日の会議の先に声明を発行します。",
-      "title_original": "Wolves and West Brom warn fans over behaviour after trouble at last derby",
-      "summary_original": "The clubs issue a statement ahead of Sunday's meeting after trouble flared when the teams last met.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/cj750ezdvr5go?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 10:12:35 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "フォローする方法プレミアリーグ今週末 BBC で",
       "summary": "Our Ask Me Anything チームは、週5 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
       "title_original": "How to follow the Premier League on the BBC this weekend",
@@ -3225,6 +3225,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウルフと West Brom 最後のダービーでトラブル後のファンを警告",
+      "summary": "クラブは、チームが会ったとき、障害が発生した後、日曜日の会議の先に声明を発行します。",
+      "title_original": "Wolves and West Brom warn fans over behaviour after trouble at last derby",
+      "summary_original": "The clubs issue a statement ahead of Sunday's meeting after trouble flared when the teams last met.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/cj750ezdvr5go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 10:12:35 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3299,20 +3313,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "獲得プレミアリーグアカデミー選手のルール?",
-      "summary": "BBC Sport's Ask Me どのチームが、ティーンエイジャーがプレイするときに、プレイヤーやクラブがフォローしなければならないルールを調べるプレミアリーグ",
-      "title_original": "What are the Premier League rules for academy players?",
-      "summary_original": "BBC Sport's Ask Me Anything team looks at what rules players and clubs must follow when teenagers play in the Premier League",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr5yev4y101eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 16:26:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ラフィーニャ ハットトリックとしてバルセロナヒット 7 過去ラシン・サンタンデール",
       "summary": "ラフィーニャスコアハットトリック獲得を問い合わせバルセロナスラッシュラシン・サンタンデール7-2 は、完璧なスタートを維持するためにラ・リーガ季節は、6 勝後にテーブルの守護チャンピオンのトップで勝ちます。",
       "title_original": "Raphinha hat-trick as Barcelona hit seven past Racing Santander",
@@ -3383,6 +3383,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "獲得プレミアリーグアカデミー選手のルール?",
+      "summary": "BBC Sport's Ask Me どのチームが、ティーンエイジャーがプレイするときに、プレイヤーやクラブがフォローしなければならないルールを調べるプレミアリーグ",
+      "title_original": "What are the Premier League rules for academy players?",
+      "summary_original": "BBC Sport's Ask Me Anything team looks at what rules players and clubs must follow when teenagers play in the Premier League",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr5yev4y101eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 16:26:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Are Hibs マザーウェル&ハートのコーチングモデルをフォローアップしましたか?",
+      "summary": "アフターデヴィッド・グレイの の出発、それが交換を識別するために来るとき、Hibernian が今行くかもしれないどのような方向?",
+      "title_original": "Are Hibs set up to follow Motherwell & Hearts coaching model?",
+      "summary_original": "After David Gray's departure, what direction might Hibernian go now when it comes to identifying a replacement?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj64d7drgppo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 14:04:31 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Wrexham's Broadhead 怪我でウェールズのゲームを逃すこと",
       "summary": "ストライカーは今後の予定から除外されています Nations League 試合だけでなく、Wrexham のゲームは、南 ampton.",
       "title_original": "Wrexham's Broadhead to miss Wales games with injury",
@@ -3394,34 +3422,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'pigeonhole' Graham - O'Neill ではなく重要な",
-      "summary": "北アイルランドマネージャーMichael O'Neill 急いでいないと言うエヴァートンブライデン・グラハムが最高のポジションを見つける",
-      "title_original": "Important not to 'pigeonhole' Graham - O'Neill",
-      "summary_original": "Northern Ireland manager Michael O'Neill says there is no rush for Everton's Braiden Graham to find his best position.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqm2m1e4mr8xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 12:03:25 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "何が間違っているのかチェルシースタッフケンドリー・パエス?",
-      "summary": "ケンドリー・パエス世界最高の若手才能の1 人でしたチェルシー16 歳の時に獲得しました。3 年後、彼はアンダー21 のためにプレーしています。だから、何が間違っていますか?",
-      "title_original": "What's gone wrong for Chelsea talent Kendry Paez?",
-      "summary_original": "Kendry Paez was one of the world's best young talents when Chelsea signed him as a 16-year-old. Three years later, he's playing for the Under-21s. So what has gone wrong?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd79y025gleo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 14:05:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
