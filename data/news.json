@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-18T12:45:11.863076+00:00",
+  "updated_at": "2026-09-18T12:56:31.334705+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Aberdeen LIVE": "",
     "Stephen Mfuni": "",
     "Fulham LIVE": "",
     "PC Matthew Blades": "",
@@ -3001,7 +3000,8 @@
     "Elijah Just": "イライジャー・ジャスト",
     "Email Dom": "",
     "Weekend Winners": "",
-    "Dubai Duty Free Handicap": ""
+    "Dubai Duty Free Handicap": "",
+    "Jorge Jesus": "ジョルジェ・ジェズス"
   },
   "items": [
     {
@@ -3011,7 +3011,21 @@
       "summary_original": "England boss Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer but says players have to \"perform\".",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 12:12:15 GMT",
+      "published": "Fri, 18 Sep 2026 12:55:26 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "イエスの最初のポルトガルのスクワッドで名付けられたロナルド",
+      "summary": "クリスティアーノ・ロナウド新しいポルトガルのコーチによって選ばれた最初のチームに名前を付けられますジョルジェ・ジェズス今後の予定 Nations League ゲーム。",
+      "title_original": "Ronaldo named in Jesus' first Portugal squad",
+      "summary_original": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 12:45:25 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3117,20 +3131,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "-17 ポイントから夢のヨーロッパはボーンマスのために始まります",
-      "summary": "ボーンマスが始まりました League Two2008 年の17 ポイントでシーズンし、ヨーロッパの競争で夢の始まりをしました。",
-      "title_original": "From -17 points to dream European start for Bournemouth",
-      "summary_original": "Bournemouth started a League Two season on -17 points in 2008, now they have made a dream start in European competition.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 23:30:34 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "からの移動ニューカッスル獲得を問い合わせリヴァプール簡単な決定 - Isak",
       "summary": "ストライカーアレクサンデル・イサクコメントリヴァプール彼がクラブに参加した理由の大きな部分だった彼に獲得するための野心と決意。",
       "title_original": "Moving from Newcastle to Liverpool easy decision - Isak",
@@ -3155,6 +3155,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "-17 ポイントから夢のヨーロッパはボーンマスのために始まります",
+      "summary": "ボーンマスが始まりました League Two2008 年の17 ポイントでシーズンし、ヨーロッパの競争で夢の始まりをしました。",
+      "title_original": "From -17 points to dream European start for Bournemouth",
+      "summary_original": "Bournemouth started a League Two season on -17 points in 2008, now they have made a dream start in European competition.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 23:30:34 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3229,20 +3243,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "パスポートの遅延後のアイルランドのチャンスの準備",
-      "summary": "ハイベルニアンストライカーOwen Elding 初めての公式コールアップを受け取るリパブリックアイルランドのシニアは、彼らの始まりのためにスクワッド Nations League キャンペーン",
-      "title_original": "Elding ready for Irish chance after passport delay",
-      "summary_original": "Hibernian striker Owen Elding receives his first official call-up to the Republic of Ireland senior squad for the start of their Nations League campaign.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqrk38xr5rgpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 07:11:05 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ライバルが更新されました: ダービーゲームは、このシーズンをバックアップ",
       "summary": "ウェストハム Millwall および Wolves のホストを訪問して下さいウェスト・ブロムウィッチ・アルビオン FC 第1 回 決勝戦 決勝戦が更新されます。",
       "title_original": "Rivalries renewed: The derby games back this season",
@@ -3250,6 +3250,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy8d8nkglr7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 13:53:22 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "パスポートの遅延後のアイルランドのチャンスの準備",
+      "summary": "ハイベルニアンストライカーOwen Elding 初めての公式コールアップを受け取るリパブリックアイルランドのシニアは、彼らの始まりのためにスクワッド Nations League キャンペーン",
+      "title_original": "Elding ready for Irish chance after passport delay",
+      "summary_original": "Hibernian striker Owen Elding receives his first official call-up to the Republic of Ireland senior squad for the start of their Nations League campaign.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrk38xr5rgpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 07:11:05 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3267,20 +3281,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "FA チェア要求 Infantino リリース World Cup 販売オフ文書",
-      "summary": "フィファ会長 Gianni Infantino 株式を売却する彼の論争計画に関連するすべての文書を解放するように言われています World Cup.",
-      "title_original": "FA chair demands Infantino release World Cup sell-off documents",
-      "summary_original": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 14:26:53 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3397,6 +3397,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "FA チェア要求 Infantino リリース World Cup 販売オフ文書",
+      "summary": "フィファ会長 Gianni Infantino 株式を売却する彼の論争計画に関連するすべての文書を解放するように言われています World Cup.",
+      "title_original": "FA chair demands Infantino release World Cup sell-off documents",
+      "summary_original": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 14:26:53 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ニューカッスルプレイヤーはジャッスルの怒っている側 - 彼らは応答することができますか?",
       "summary": "ニューカッスルヘッドコーチ Matthias Jaissle すぐ近くのドレッシングルームにありましたエランド・ロード月曜日の夜に追いつく 4-1 敗北 対リーズ・ユナイテッド FC.",
       "title_original": "Newcastle players see Jaissle's angry side - can they respond?",
@@ -3408,20 +3422,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "なぜ9 月になるのかインテル国民の休憩は3 週間続きますか?",
-      "summary": "BBC Sport's Ask Me サッカーの大きな変化が起きているチーム全員が説明しています。インテル2026 年9 月発の全国休憩",
-      "title_original": "Why will September international break last three weeks?",
-      "summary_original": "BBC Sport's Ask Me Anything team explain the major changes happening to football's international breaks starting in September 2026",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5jl744pwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 15:30:03 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3988,10 +3988,10 @@
       "title": "トゥッチェル: 99.9 私は会うファンのセントは、アルゼンチンのサブスについて私に尋ねません",
       "summary": "トーマス・トゥヘルイングランドのファンの「99.9 per cent」は、彼らの上に反映するときに置換や戦術的な決定について話しません World Cup 経験。",
       "title_original": "Tuchel: 99.9 per cent of fans I meet don't ask me about Argentina subs",
-      "summary_original": "Thomas Tuchel says “99.9 per cent” of England fans do not talk about substitutions or tactical decisions when reflecting on their World Cup experience.",
+      "summary_original": "Thomas Tuchel says \"99.9 per cent\" of England fans do not talk about substitutions or tactical decisions when reflecting on their World Cup experience.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13589252/thomas-tuchel-england-fans-dont-ask-me-about-my-substitutions-against-argentina-in-the-world-cup-semi-final",
-      "published": "Fri, 18 Sep 2026 11:59:00 BST",
+      "published": "Fri, 18 Sep 2026 13:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
