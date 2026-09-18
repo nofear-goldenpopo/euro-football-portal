@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T07:25:17.601724+00:00",
+  "updated_at": "2026-09-18T07:37:50.276156+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "Pittodrie LIVE": "",
@@ -3047,20 +3047,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Tuchel のイギリス初のスクワッドの大きな質問 World Cup",
-      "summary": "獲得トーマス・トゥヘル名前 彼の最初のスクワット以来 World Cup 金曜日、BBC スポーツはイングランドのボスに直面している大きな質問を見ています。",
-      "title_original": "The big questions for Tuchel's first England squad since World Cup",
-      "summary_original": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 16:47:18 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "うつ病後からチェルシー37 で非リーグを再生するケガ",
       "summary": "Sam Hutchinson プレイする準備が整っている Farnham Town2 番目の予選ラウンドで FA カップ- 19 年 作ってからチェルシーデビュージョゼ・モウリーニョ.",
       "title_original": "From depression after Chelsea injury to playing non-league at 37",
@@ -3086,6 +3072,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Tuchel のイギリス初のスクワッドの大きな質問 World Cup",
+      "summary": "獲得トーマス・トゥヘル名前 彼の最初のスクワット以来 World Cup 金曜日、BBC スポーツはイングランドのボスに直面している大きな質問を見ています。",
+      "title_original": "The big questions for Tuchel's first England squad since World Cup",
+      "summary_original": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 16:47:18 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3285,20 +3285,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "なぜ敗北に対処することは、Coventry の Lampard のキーです",
-      "summary": "BBC スポーツコラムニスト Tony PulisCoventry 上司の理由を説明する Frank Lampard 季節が始まると、自分の選手や選手を管理する必要があります。",
-      "title_original": "Why dealing with defeat is key for Lampard at Coventry",
-      "summary_original": "BBC Sport columnist Tony Pulis explains why Coventry boss Frank Lampard needs to manage himself as well as his players after their poor start to the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 06:40:18 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "私は良い場所にいるような感じ - Isak",
       "summary": "アレクサンデル・イサク自分の関係について説明するアンドニ・イラオラそして、コーディ・ガクポ今シーズンもお世話になりました。",
       "title_original": "I feel like I'm in a good place - Isak",
@@ -3365,6 +3351,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "なぜ敗北に対処することは、Coventry の Lampard のキーです",
+      "summary": "BBC スポーツコラムニスト Tony PulisCoventry 上司の理由を説明する Frank Lampard 季節が始まると、自分の選手や選手を管理する必要があります。",
+      "title_original": "Why dealing with defeat is key for Lampard at Coventry",
+      "summary_original": "BBC Sport columnist Tony Pulis explains why Coventry boss Frank Lampard needs to manage himself as well as his players after their poor start to the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 06:40:18 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
