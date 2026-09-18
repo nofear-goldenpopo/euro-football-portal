@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-18T04:51:42.961756+00:00",
+  "updated_at": "2026-09-18T05:05:47.714366+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Pape Matar Sarr": "",
-    "Pape Sarr": "パペ・サール",
-    "Emillia Yesterday’s": "",
     "Nottingham Forest Coventry City": "",
     "Hull City Bournemouth": "",
     "Everton Tottenham": "",
@@ -3001,7 +2998,10 @@
     "Sunday's Premiership": "",
     "Juan Iturralde": "",
     "Jaydee Canvo": "",
-    "Rangers Juventus": ""
+    "Rangers Juventus": "",
+    "Azerbaijan GP": "",
+    "Baku City Circuit": "バクー市街地コース",
+    "Spy Chief": ""
   },
   "items": [
     {
@@ -3845,6 +3845,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リトルはダーツをきれいに掃除を完了するために何をする必要がありますか?",
+      "summary": "Luke Littler 世界 No1 のダーツプレイヤーは、2026 年にこれまでの主要なダーツトーナメントを勝ち取っており、3 人目の選手になり、ランキングのきれいな広がりと1 年間にランクされていないタイトルを完成させました。",
+      "title_original": "What does Littler need to do to complete darts clean sweep?",
+      "summary_original": "Luke Littler, the world's No 1 darts player, has won all the major darts tournaments so far in 2026, and is well on his way to becoming the third man to complete a clean sweep of ranking and non-ranking titles in a single year.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/news/12040/13586255/luke-littler-what-world-no-1-needs-to-complete-darts-majors-clean-sweep-in-2026-to-make-more-history",
+      "published": "Fri, 18 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Azerbaijan GP スケジュール:土曜日のレースはなぜですか?",
+      "summary": "フォーミュラ1 は、スポーツがスポーツリターンとして土曜日にアゼルバイジャンでレースしますバクー市街地コース季節が最もインシデントに満ちたイベントの1 つをよく証明するもの。",
+      "title_original": "Azerbaijan GP schedule: Why is the race on a Saturday?",
+      "summary_original": "Formula 1 will race in Azerbaijan on a Saturday as the sport returns to the Baku City Circuit for what often proves one of the season's most incident-filled events.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13588823/azerbaijan-gp-2026-saturday-race-dates-schedule-baku-weather-uk-start-time-and-how-to-watch-or-stream-f1-live-on-sky-sports",
+      "published": "Fri, 18 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "今日更新 Sky Sports Racing: Spy Chief ニューベリーのカタルーニャスクラッシュ",
+      "summary": "Spy Chief 金曜日にニューベリーから7 レースの特徴でカタルーニャスを取る - ライブオン Sky Sports Racing .",
+      "title_original": "Today on Sky Sports Racing: Spy Chief and Catullus clash at Newbury",
+      "summary_original": "Spy Chief takes on Catullus in the feature of seven races from Newbury on Friday - live on Sky Sports Racing .",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13588616/today-on-sky-sports-racing-spy-chief-and-catullus-clash-at-newbury",
+      "published": "Fri, 18 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "クリスタル・パレス最新: セージはファンがサールを愛していると言います - そして彼はそれに値します!",
       "summary": "",
       "title_original": "Palace latest: Sage says the fans love Sarr - and he deserves it!",
@@ -4080,48 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "PL Predictions: ブレントフォード「ソフト」を公開するチェルシー",
-      "summary": "私たちのトップのヒント Lewis Jones, 赤坂 Jones Knows, 彼の分析を提供し、週末の先の洞察を賭けますプレミアリーグアクション。",
-      "title_original": "PL Predictions: Brentford to expose 'soft' Chelsea",
-      "summary_original": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight ahead of the weekend's Premier League action.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13588821/premier-league-predictions-jones-knows-best-bets-brentford-to-expose-soft-chelsea-underbelly",
-      "published": "Thu, 17 Sep 2026 22:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ハミルトンは、フェラーリの変更を求めるレポートに応答します",
-      "summary": "Lewis Hamilton モンツァとマドリッドで2 つの困難な週末にフェラーリで変更を求めた報告に反応しました。",
-      "title_original": "Hamilton responds to reports he has asked for Ferrari changes",
-      "summary_original": "Lewis Hamilton has responded to reports he has called for changes at Ferrari after two difficult weekends at Monza and Madrid.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13589044/lewis-hamilton-responds-to-reports-he-has-asked-for-ferrari-personnel-changes-ahead-of-azerbaijan-grand-prix",
-      "published": "Thu, 17 Sep 2026 17:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Will Palmer, Foden と Trent はイングランドのスクワッドにリコールされますか?",
-      "summary": "コール・パーマー「この季節は、イングランドのリコールの強い立場で彼に置きました。チェルシー男は、左のすべての大きな名前から含まれている可能性が最も高い World Cup スチーム",
-      "title_original": "Will Palmer, Foden and Trent be recalled to England squad?",
-      "summary_original": "Cole Palmer's outstanding form this season has put him in a strong position for an England recall, with the Chelsea man the most likely to be included from all the big names left out of the World Cup squad.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13588982/england-squad-will-cole-palmer-phil-foden-and-trent-alexander-arnold-be-left-out-again-after-world-cup-snubs",
-      "published": "Thu, 17 Sep 2026 16:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
