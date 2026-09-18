@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-18T12:29:40.944565+00:00",
+  "updated_at": "2026-09-18T12:45:11.863076+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "In Chelsea’s": "",
-    "Hove Albion": "",
     "Aberdeen LIVE": "",
     "Stephen Mfuni": "",
     "Fulham LIVE": "",
@@ -3001,7 +2999,9 @@
     "Copper Box Arena": "カッパー・ボックス",
     "Swansea City's New Zealand": "",
     "Elijah Just": "イライジャー・ジャスト",
-    "Email Dom": ""
+    "Email Dom": "",
+    "Weekend Winners": "",
+    "Dubai Duty Free Handicap": ""
   },
   "items": [
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email Dom with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 12:09:20 GMT",
+      "published": "Fri, 18 Sep 2026 12:40:06 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Weekend Winners: アルメカレムはニューベリーのハンディキャップの栄光のために支持",
+      "summary": "ニューベリーから忙しい土曜日の頭 Weekend Winners パネルは大きいをプレビューしました Dubai Duty Free Handicap に住んでいる Sky Sports Racing 午後2 時27 分",
+      "title_original": "Weekend Winners: Almekarem backed for handicap glory at Newbury",
+      "summary_original": "Ahead of a busy Saturday from Newbury, the Weekend Winners panel previewed the big Dubai Duty Free Handicap, which is live on Sky Sports Racing at 2.27pm.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13589228/weekend-winners-almekarem-backed-for-handicap-victory-at-newbury-on-saturday-with-stem-also-fancied",
+      "published": "Fri, 18 Sep 2026 13:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ツイート2 ゴール chaos' - 私たちが学んだこと Tuchel's England ピックアップ",
       "summary": "",
       "title_original": "'Embrace the chaos' - What we learnt from Tuchel's England picks",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "published": "Fri, 18 Sep 2026 13:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Van Gerwen 最初のラウンドでダンプ World Series インフォメーション Darts Finals",
-      "summary": "マイケル・ヴァン・ゲルウェンのタイトル防衛 World Series インフォメーション Darts Finals 彼が勝った後、最初のラウンドで終端に来ました 6-5 バイ Daryl Gurney.",
-      "title_original": "Van Gerwen dumped out in first round at World Series of Darts Finals",
-      "summary_original": "Michael van Gerwen's title defence at the World Series of Darts Finals came to an end in the first round after he was beaten 6-5 by Daryl Gurney.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13589036/world-series-of-darts-finals-michael-van-gerwen-loses-to-daryl-gurney-as-luke-humphries-gian-van-veen-progress-in-first-round",
-      "published": "Thu, 17 Sep 2026 22:10:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
