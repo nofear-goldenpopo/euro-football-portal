@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-18T21:37:00.972205+00:00",
+  "updated_at": "2026-09-18T21:49:11.306688+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Mohammad Ali": "モハメド・アリ",
     "Josh Tongue": "",
     "Chelsea Al-Hilal": "",
     "Root’s Test": "",
@@ -3001,7 +3000,8 @@
     "Fabio Carvalho": "",
     "Wakefield Trinity": "",
     "Leigh Leopards": "",
-    "Sky Bet Championship": "EFLチャンピオンシップ"
+    "Sky Bet Championship": "EFLチャンピオンシップ",
+    "My Wakefield": ""
   },
   "items": [
     {
@@ -3453,20 +3453,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "獲得を問い合わせ Max Dowman 影に咲くが、無視しにくい |Barney Ronay",
-      "summary": "サッカー選手のこの最も近代的でよく手入れされたのは、一定のスルチニーの年齢でスポットライトをエスケープすることはできませんが、それを処理するために装備されている外観ホルヘ・ルイス・ボルヘス地図を作るのにとても良いようになった社会について有名な短い話を書きました, そのため、すべての詳細をキャプチャして肥満しました, その定規は、右の仕事を行うための唯一の方法は、その帝国全体の命名マップを作るためにだった, その後、海岸から海岸に実際の土地をレイアウトすることができ. Br の地図を想像する",
-      "title_original": "We wanted to let Max Dowman bloom in the shadows but he has become hard to ignore | Barney Ronay",
-      "summary_original": "This most modern and well-honed of footballers will not be able to escape the spotlight in an age of constant scrutiny but looks equipped to handle it The poet Jorge Luis Borges wrote a famous short story about a society that had become so good at making maps, so obsessed with capturing every detail, that its rulers decided the only way to do the job right was to make a lifesize map of its entire empire, which could then be laid out across the actual land from coast to coast. Imagine a map of Br",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/max-dowman-arsenal-young-players",
-      "published": "Fri, 18 Sep 2026 16:59:40 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Women’s Super League: Lauren Hemp として倍に当たるマンチェスター・シティライブオフを見るリヴァプール",
       "summary": "マンチェスター・シティ新たなスタートを続けよう Women’s Super League 季節が、防衛チャンピオンは90 分必要オウンゴールから Grace Fisk 常に改良を重ねるリヴァプール面白いゲームの後の側 Lauren Hemp スコアは2 回。Fisk は不変に回しました Grace Clinton’s 都市3-2 を上置くために自分のネットに危険な十字架 - とリヴァプール平等者を検索し、プレイヤーをコミットすることで、より深くアディショナルタイム– ヘンプは別の上に追加",
       "title_original": "Women’s Super League: Lauren Hemp hits double as Manchester City see off lively Liverpool",
@@ -3478,6 +3464,34 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "プレミアリーグニュース:Carrick は未来の質問の脇にブラシをかけます、アルテタサルテス「常識」ドーマン",
+      "summary": "ユナイテッドヘッドコーチは、彼が彼の仕事について心配している前に「1 つまたは2 つ以上の」の欠点を取ると信じています 続きを読みます...",
+      "title_original": "Premier League news: Carrick brushes aside questions over future, Arteta salutes ‘extraordinary’ Dowman",
+      "summary_original": "United head coach believes it will take ‘a lot longer than one or two’ setbacks before he is concerned about his job Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-news-carrick-brushes-aside-questions-over-future-arteta-salutes-extraordinary-dowman",
+      "published": "Fri, 18 Sep 2026 21:30:28 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "獲得を問い合わせ Max Dowman 影に咲くが、無視しにくい |Barney Ronay",
+      "summary": "サッカー選手のこの最も近代的でよく手入れされたのは、一定のスルチニーの年齢でスポットライトをエスケープすることはできませんが、それを処理するために装備されている外観ホルヘ・ルイス・ボルヘス地図を作るのにとても良いようになった社会について有名な短い話を書きました, そのため、すべての詳細をキャプチャして肥満しました, その定規は、右の仕事を行うための唯一の方法は、その帝国全体の命名マップを作るためにだった, その後、海岸から海岸に実際の土地をレイアウトすることができ. Br の地図を想像する",
+      "title_original": "We wanted to let Max Dowman bloom in the shadows but he has become hard to ignore | Barney Ronay",
+      "summary_original": "This most modern and well-honed of footballers will not be able to escape the spotlight in an age of constant scrutiny but looks equipped to handle it The poet Jorge Luis Borges wrote a famous short story about a society that had become so good at making maps, so obsessed with capturing every detail, that its rulers decided the only way to do the job right was to make a lifesize map of its entire empire, which could then be laid out across the actual land from coast to coast. Imagine a map of Br",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/max-dowman-arsenal-young-players",
+      "published": "Fri, 18 Sep 2026 16:59:40 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3534,20 +3548,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "プレミアリーグチームニュース:週末のアクションの予想されるラインナップ",
-      "summary": "トッテナム土曜日の行動から始まるアストン・ヴィラしばらくお待ちくださいブライトン アーセナル100%の賞金を記録し続けることを目指している土曜日12.30pmTNT Sports1 会場トッテナムスタジアム 続きを読む...",
-      "title_original": "Premier League team news: predicted lineups for the weekend action",
-      "summary_original": "Tottenham begin Saturday’s action against Aston Villa while at Brighton Arsenal are aiming to keep their 100% winning record Saturday 12.30pm TNT Sports 1 Venue Tottenham Hotspur Stadium Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-      "published": "Fri, 18 Sep 2026 14:33:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3649,6 +3649,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "プレミアリーグチームニュース:週末のアクションの予想されるラインナップ",
+      "summary": "トッテナム土曜日の行動から始まるアストン・ヴィラしばらくお待ちくださいブライトン アーセナル100%の賞金を記録し続けることを目指している土曜日12.30pmTNT Sports1 会場トッテナムスタジアム 続きを読む...",
+      "title_original": "Premier League team news: predicted lineups for the weekend action",
+      "summary_original": "Tottenham begin Saturday’s action against Aston Villa while at Brighton Arsenal are aiming to keep their 100% winning record Saturday 12.30pm TNT Sports 1 Venue Tottenham Hotspur Stadium Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+      "published": "Fri, 18 Sep 2026 14:33:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Kluivert と Rayan 岩レアル・ソシエダ Bournemouth がヨーロッパの弓で勝つように",
       "summary": "最初の目標は、AFC ボーンマス欧州で得たスコアはビスケー湾で聴くことができます。伝統からレアル・ソシエダ’ 古い Atotxa グラウンド, 一度失われたが、今 Anoeta で回復, 単一のフレアは、ホームチームが行うときに2 が点灯している間、訪問者のスコアが毎回オフに設定されていることを指示する; 海にそれらがスコアを知っている方法. そして、それは9 月2026 日の木曜日の夜に21.41 で、Justin Kluivert ネットと名付けられた人を見つけました Juan Iturralde 路地に出てルに",
       "title_original": "Kluivert and Rayan rock Real Sociedad as Bournemouth win on European bow",
@@ -3702,20 +3716,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Noahkai Banks、トップの国際的見通し、USMNT に打撃でドイツを選択",
-      "summary": "Germany U-21 マネジャーは、19 歳の決定は、ユースレベルに米国のみを表明したと発表しました。アメリカ合衆国デュアル・ナショナル・ディフェンダーの追求 Noahkai Banks 終わるように見えます。19 歳から名付けられました Germany’s U-今後の予定 U-21 に21 班 European Championship 修飾子、マネージャーとアントニオ・ディ・サルヴォ銀行と銀行の公式リリースで言う Louey Ben Farhat, 別のデュアルナショナル, 持っています “ドイツを代表するために選ばれます”. 続きを読む...",
-      "title_original": "Noahkai Banks, top dual-national prospect, chooses Germany in blow to USMNT",
-      "summary_original": "Germany U-21 manager announces the decision 19-year-old had represented only US at youth level The United States’ pursuit of dual-national defender Noahkai Banks appears to be over. The 19-year-old was named in Germany’s U-21 squad for their upcoming U-21 European Championship qualifiers, with manager Antonio Di Salvo saying in an official release that Banks and Louey Ben Farhat, another dual national, have “chosen to represent Germany”. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/noahkai-banks-germany-usmnt",
-      "published": "Fri, 18 Sep 2026 13:10:37 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3887,6 +3887,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チェルシー「守護神」は、ブレントフォード勝つダービー",
+      "summary": "チェルシーの defensive および set-piece woes は下で続けましたシャビ・アロンソとしてブレントフォード西ロンドンのダービーでエファティック 3-0 の勝利を主張しました。",
+      "title_original": "Chelsea's defensive woes continue as Brentford win derby",
+      "summary_original": "Chelsea's defensive and set-piece woes continued under Xabi Alonso as Brentford claimed an emphatic 3-0 victory in the west London derby.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/brentford-vs-chelsea/report/559485",
+      "published": "Fri, 17 Jul 2026 21:45:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アルテタ: ドウマンは出て行くことができるレンタル移籍で未来へ",
       "summary": "アーセナルマネージャーミケル・アルテタ融資を除外していない Max Dowman 将来的には、クラブは6 ヶ月ごとに16 歳の感覚の進歩を評価すると述べています。",
       "title_original": "Arteta: Dowman could go out on loan in future",
@@ -3908,20 +3922,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13589514/brentford-3-0-chelsea-premier-league-highlights",
       "published": "Fri, 18 Sep 2026 22:12:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシー「守護神」は、ブレントフォード勝つダービー",
-      "summary": "チェルシーの defensive および set-piece woes は下で続けましたシャビ・アロンソとしてブレントフォード西ロンドンのダービーでエファティック 3-0 の勝利を主張しました。",
-      "title_original": "Chelsea's defensive woes continue as Brentford win derby",
-      "summary_original": "Chelsea's defensive and set-piece woes continued under Xabi Alonso as Brentford claimed an emphatic 3-0 victory in the west London derby.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/brentford-vs-chelsea/report/559485",
-      "published": "Fri, 17 Jul 2026 21:45:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3957,9 +3957,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Super League Eliminators LIVE! Wakefield ビート leigh にもかかわらずレッドカードセミを作るために",
+      "title": "パウエル:My Wakefield パックは信じられない | ラム: リー 'diabolical'",
       "summary": "",
-      "title_original": "Super League Eliminators LIVE! Wakefield beat Leigh despite red card to make semis",
+      "title_original": "Powell: My Wakefield pack is unbelievable | Lam: Leigh 'diabolical' at times",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13586226/super-league-eliminators-live-updates-commentary-videos-scores-as-wakefield-trinity-take-on-leigh-leopards-for-spot-in-semi-finals",
