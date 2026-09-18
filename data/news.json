@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-09-18T14:08:26.497638+00:00",
+  "updated_at": "2026-09-18T14:25:38.631151+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Killie Lawrence Shankland’s": "",
-    "Derek McInnes": "",
-    "Pittodrie. The": "",
-    "The Ibrox": "",
-    "Lawrence Shankland's": "",
-    "Sunderland LIVE": "",
     "Leeds LIVE": "",
     "US Open Day One": "",
     "Bluesky Mark Slater": "",
@@ -3001,9 +2995,29 @@
     "Germany’s U-": "",
     "European Championship": "",
     "Antonio Di Salvo": "アントニオ・ディ・サルヴォ",
-    "Louey Ben Farhat": ""
+    "Louey Ben Farhat": "",
+    "Will England": "",
+    "Former Everton": "",
+    "Brian Sorensen": "",
+    "Women's World Cup": "",
+    "Email John": "",
+    "Manchester United's": ""
   },
   "items": [
+    {
+      "title": "Will England ボス トゥッチェル 'em2 ゴールカオス?",
+      "summary": "アフターWorld Cup, イングランド上司トーマス・トゥヘルより大きい制御を望んでいました。2 カ月、彼は \"em\"に keen です2 ゴールチャオスは、今後の予定のために彼のチームを命名した後 Nations League 備品。",
+      "title_original": "Will England boss Tuchel 'embrace the chaos'?",
+      "summary_original": "After the World Cup, England boss Thomas Tuchel wanted greater control. Two months on, he is keen to \"embrace the chaos\" after naming his squad for the upcoming Nations League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvrl64y9rdn9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 14:14:23 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "Tuchel は、Alexander-Arnold と Palmer を警告でリコール",
       "summary": "イングランド上司トーマス・トゥヘルリコールトレント・アレクサンダー＝アーノルドそして、コール・パーマーしかし、プレイヤーは「パーフォーム」を持っていると言います。",
@@ -3016,6 +3030,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "' catastrophe' - キャラックの却下マンチェスター・ユナイテッド仕事の恐怖",
+      "summary": "マンチェスター・ユナイテッドヘッドコーチマイケル・キャリック彼の仕事が脅威にさらされているかどうかを心配する点が気にしないと言う.",
+      "title_original": "'Not a catastrophe' - Carrick dismisses Man Utd job fears",
+      "summary_original": "Manchester United head coach Michael Carrick says there is no point wasting any time worrying if his job is under threat.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5n4k89j1zpeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 14:09:37 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3117,20 +3145,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'Just the start' - Samba, 17, ストラスマンチェスター・シティイベント",
-      "summary": "Floyd Samba's シンチレーションデビューストールでショーシティ・オブ・マンチェスター・スタジアムしかし、また、マンチェスターの別の高プロファイルのティーンエイジャーから見出しを取りました。",
-      "title_original": "'Just the beginning' - Samba, 17, steals Man City show",
-      "summary_original": "Floyd Samba's scintillating debut stole the show at Etihad Stadium but also took the headlines away from another high-profile teenager in Manchester.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 22:00:18 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "貧しいスタートの後の批判的「正常」 -マンチェスター・ユナイテッドオライド",
       "summary": "マンチェスター・ユナイテッドマネージャーEva OlidWSL キャンペーンのスタートが悪くなって「建設的な批判」を期待する「normal」だと言います。",
       "title_original": "Criticism 'normal' after poor start - Man Utd's Olid",
@@ -3166,6 +3180,34 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c69qr50nynqdo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 06:44:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アイルランドのコーチングスタッフに参加するソレンセン",
+      "summary": "過去の投稿エヴァートンマネージャーBrian Sorensen 参加するリパブリックアイルランドの彼らのためにスクワット Women's World Cup 今年のプレイオフ修飾子。",
+      "title_original": "Sorensen to join Republic of Ireland coaching staff",
+      "summary_original": "Former Everton manager Brian Sorensen is set to join the Republic of Ireland squad for their Women's World Cup play-off qualifiers this year.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj9x8kr0dm2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 14:19:16 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'Just the start' - Samba, 17, ストラスマンチェスター・シティイベント",
+      "summary": "Floyd Samba's シンチレーションデビューストールでショーシティ・オブ・マンチェスター・スタジアムしかし、また、マンチェスターの別の高プロファイルのティーンエイジャーから見出しを取りました。",
+      "title_original": "'Just the beginning' - Samba, 17, steals Man City show",
+      "summary_original": "Floyd Samba's scintillating debut stole the show at Etihad Stadium but also took the headlines away from another high-profile teenager in Manchester.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 22:00:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3285,20 +3327,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグまさに旅の目標",
-      "summary": "今年は夢を叶え、スウォンジー・シティ AFC ニュージーランドの星イライジャー・ジャスト彼の珍しい旅は、すべての方法につながることを願っていますプレミアリーグ.",
-      "title_original": "Premier League the goal in Just's unlikely journey",
-      "summary_original": "Having lived out one dream already this year, Swansea City's New Zealand star Elijah Just hopes his unusual journey will lead all the way to the Premier League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6grvzxqwwrpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:04:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "スパイダーはまだクライミング - 腕時計 Queen's ParkBBC の V Ayr",
       "summary": "Sportscene's Jonathan Sutherland 金曜日のライブをプレビューBBC Scotland TV マッチとして Queen's Park ホスト Ayr United.",
       "title_original": "Spiders still climbing - watch Queen's Park v Ayr on BBC",
@@ -3397,41 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "私は誰ですか? ログインブンデスリーガ星のいいえ 4",
-      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
-      "title_original": "Who am I? Guess Bundesliga star No 4",
-      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9p807l5zmy4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 08:55:29 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "FA チェア要求 Infantino リリース World Cup 販売オフ文書",
-      "summary": "フィファ会長 Gianni Infantino 株式を売却する彼の論争計画に関連するすべての文書を解放するように言われています World Cup.",
-      "title_original": "FA chair demands Infantino release World Cup sell-off documents",
-      "summary_original": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 14:26:53 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Tuchel はアレクサンダー・アーノルドと Palmer England リコール; スペインのスクワッドはセタで明らかに: サッカーニュース – ライブ",
-      "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email Dom どんな想いでもトレント・アレクサンダー＝アーノルド, Alex Scott, コール・パーマーそして、リオ・エングモア獲得を問い合わせ そこには場所がありませんフィル・フォーデン. 以下に来るために満たして下さい。続きを読む...",
+      "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email John どんな想いでもトレント・アレクサンダー＝アーノルド, Alex Scott, コール・パーマーそして、リオ・エングモア獲得を問い合わせ そこには場所がありませんフィル・フォーデン. 以下に来るために満たして下さい。続きを読む...",
       "title_original": "Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live",
-      "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email Dom with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
+      "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email John with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 13:54:24 GMT",
+      "published": "Fri, 18 Sep 2026 14:05:09 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3929,9 +3929,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "McIlroy, Rai が Wentworth で第 2 ラウンドをスタート スコット リード LIVE!",
+      "title": "McIlroy, Rai オフ へ 飛行 スタート Wentworth として スコット リード LIVE!",
       "summary": "",
-      "title_original": "McIlroy, Rai begin second rounds at Wentworth as Scott leads LIVE!",
+      "title_original": "McIlroy, Rai off to flying starts at Wentworth as Scott leads LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13586094/bmw-pga-championship-pro-am-tee-times-celebrity-handicaps-highlights-as-gareth-bale-john-terry-eden-hazard-feature",
@@ -3968,6 +3968,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'それはレーダーではありません' - Carrick は「ばらしさ」の推測を却下マンチェスター・ユナイテッドミッション",
+      "summary": "マイケル・キャリックログインマンチェスター・ユナイテッド最近の闘争は、「大惨事や災害ではなく」であり、「大胆な」という立場で圧力を却下した。",
+      "title_original": "'It's not on the radar' - Carrick dismisses 'ridiculous' speculation on Man Utd future",
+      "summary_original": "Michael Carrick insists Manchester United's recent struggles are \"not a catastrophe or a disaster\" and dismissed talk of pressure on his position as \"ridiculous\".",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13589326/man-utd-its-not-on-the-radar-michael-carrick-dismisses-ridiculous-speculation-on-future",
+      "published": "Fri, 18 Sep 2026 14:45:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4103,20 +4117,6 @@
       "summary_original": "Formula 1 will race in Azerbaijan on a Saturday as the sport returns to the Baku City Circuit for what often proves one of the season's most incident-filled events.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13588823/azerbaijan-gp-2026-saturday-race-dates-schedule-baku-weather-uk-start-time-and-how-to-watch-or-stream-f1-live-on-sky-sports",
-      "published": "Fri, 18 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "今日更新 Sky Sports Racing: Spy Chief ニューベリーのカタルーニャスクラッシュ",
-      "summary": "Spy Chief 金曜日にニューベリーから7 レースの特徴でカタルーニャスを取る - ライブオン Sky Sports Racing .",
-      "title_original": "Today on Sky Sports Racing: Spy Chief and Catullus clash at Newbury",
-      "summary_original": "Spy Chief takes on Catullus in the feature of seven races from Newbury on Friday - live on Sky Sports Racing .",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13588616/today-on-sky-sports-racing-spy-chief-and-catullus-clash-at-newbury",
       "published": "Fri, 18 Sep 2026 06:00:00 BST",
       "category": "other",
       "type": "other",
