@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-18T08:39:21.472811+00:00",
+  "updated_at": "2026-09-18T08:52:12.435009+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "BlueSky Chelsea": "",
-    "Robert Sanchez": "",
-    "Brighton. On": "",
     "Andrew Beesley": "",
     "Vítor Pereira": "",
     "Graham Potter": "グレアム・ポッター",
@@ -3001,7 +2998,10 @@
     "Stamford Bridge": "",
     "Clearlake Capi": "",
     "Owen Elding": "",
-    "Email Dominic": ""
+    "Email Dominic": "",
+    "Man Utd's Olid": "",
+    "Black Country": "",
+    "WhoScored’s Harry Paterson": ""
   },
   "items": [
     {
@@ -3103,6 +3103,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "貧しいスタートの後の批判的「正常」 -マンチェスター・ユナイテッドオライド",
+      "summary": "マンチェスター・ユナイテッドマネージャーEva OlidWSL キャンペーンのスタートが悪くなって「建設的な批判」を期待する「normal」だと言います。",
+      "title_original": "Criticism 'normal' after poor start - Man Utd's Olid",
+      "summary_original": "Manchester United manager Eva Olid says it is \"normal\" to expect \"constructive criticism\" following their poor start to the WSL campaign.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6158xyqd7d0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 08:42:19 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "方法 De Zerbi ソリューショントッテナム' スコアリングトラブル?",
       "summary": "ロベルト・デ・ゼルビ獲得を問い合わせトッテナムまだスコアをプレミアリーグ今シーズンの目標、その修正方法は?",
       "title_original": "How does De Zerbi fix Spurs' scoring troubles?",
@@ -3114,20 +3128,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Wrexham の所有者は、Spygate を Southampton で目指す",
-      "summary": "ライアン・レイノルズそして、Rob Mac この週末は、チャンピオンシップフィクスの先にある、次の対戦相手で楽しいプレーをしました。",
-      "title_original": "Wrexham owners aim Spygate dig at Southampton",
-      "summary_original": "Ryan Reynolds and Rob Mac have poked fun at next opponents Southampton ahead of their Championship fixture this weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 19:10:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3152,6 +3152,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6d790d8e0wdo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 07:56:35 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Wrexham の所有者は、Spygate を Southampton で目指す",
+      "summary": "ライアン・レイノルズそして、Rob Mac この週末は、チャンピオンシップフィクスの先にある、次の対戦相手で楽しいプレーをしました。",
+      "title_original": "Wrexham owners aim Spygate dig at Southampton",
+      "summary_original": "Ryan Reynolds and Rob Mac have poked fun at next opponents Southampton ahead of their Championship fixture this weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 19:10:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3187,6 +3201,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "クイズ: どのようによく知っている Black Country ダービー?",
+      "summary": "試合の歴史を知るウルヴァーハンプトン・ワンダラーズ FC そして、ウェスト・ブロムウィッチ・アルビオン FC? それをテストに入れます。",
+      "title_original": "Quiz: How well do you know the Black Country derby?",
+      "summary_original": "Think you know the history of matches between Wolverhampton Wanderers and West Bromwich Albion? Put it to the test.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crz9zvlj7g1xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 07:19:24 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "パスポートの遅延後のアイルランドのチャンスの準備",
       "summary": "ハイベルニアンストライカーOwen Elding 初めての公式コールアップを受け取るリパブリックアイルランドのシニアは、彼らの始まりのためにスクワッド Nations League キャンペーン",
       "title_original": "Elding ready for Irish chance after passport delay",
@@ -3201,20 +3229,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スパイダーはまだクライミング - 腕時計 Queen's ParkBBC の V Ayr",
-      "summary": "Sportscene's Jonathan Sutherland 金曜日のライブをプレビューBBC Scotland TV マッチとして Queen's Park ホスト Ayr United.",
-      "title_original": "Spiders still climbing - watch Queen's Park v Ayr on BBC",
-      "summary_original": "Sportscene's Jonathan Sutherland previews Friday's live BBC Scotland TV match as Queen's Park host Ayr United.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmlyexny15q2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 06:02:37 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "FA チェア要求 Infantino リリース World Cup 販売オフ文書",
       "summary": "フィファ会長 Gianni Infantino 株式を売却する彼の論争計画に関連するすべての文書を解放するように言われています World Cup.",
       "title_original": "FA chair demands Infantino release World Cup sell-off documents",
@@ -3222,6 +3236,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 14:26:53 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "スパイダーはまだクライミング - 腕時計 Queen's ParkBBC の V Ayr",
+      "summary": "Sportscene's Jonathan Sutherland 金曜日のライブをプレビューBBC Scotland TV マッチとして Queen's Park ホスト Ayr United.",
+      "title_original": "Spiders still climbing - watch Queen's Park v Ayr on BBC",
+      "summary_original": "Sportscene's Jonathan Sutherland previews Friday's live BBC Scotland TV match as Queen's Park host Ayr United.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlyexny15q2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 06:02:37 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3250,34 +3278,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 07:52:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ライバルが更新されました: ダービーゲームは、このシーズンをバックアップ",
-      "summary": "ウェストハム Millwall および Wolves のホストを訪問して下さいウェスト・ブロムウィッチ・アルビオン FC 第1 回 決勝戦 決勝戦が更新されます。",
-      "title_original": "Rivalries renewed: The derby games back this season",
-      "summary_original": "West Ham visit Millwall and Wolves host West Bromwich Albion in the first derby weekend of the Championship season as fierce rivalries are renewed.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8d8nkglr7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 13:53:22 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "獲得を問い合わせアストン・ヴィラ fringe プレーヤーはヨーロッパの最も有利なスコアラーになりました",
-      "summary": "欧州のトップ5 リーグのプレイヤーは、より多くの目標を獲得していませんドニエル・マレン以来、ローマ1 月にデビュー - BBC スポーツは、彼の変化を調べます.",
-      "title_original": "How an Aston Villa fringe player became Europe's most prolific scorer",
-      "summary_original": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 08:30:23 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3355,6 +3355,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ライバルが更新されました: ダービーゲームは、このシーズンをバックアップ",
+      "summary": "ウェストハム Millwall および Wolves のホストを訪問して下さいウェスト・ブロムウィッチ・アルビオン FC 第1 回 決勝戦 決勝戦が更新されます。",
+      "title_original": "Rivalries renewed: The derby games back this season",
+      "summary_original": "West Ham visit Millwall and Wolves host West Bromwich Albion in the first derby weekend of the Championship season as fierce rivalries are renewed.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8d8nkglr7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 13:53:22 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "獲得を問い合わせアストン・ヴィラ fringe プレーヤーはヨーロッパの最も有利なスコアラーになりました",
+      "summary": "欧州のトップ5 リーグのプレイヤーは、より多くの目標を獲得していませんドニエル・マレン以来、ローマ1 月にデビュー - BBC スポーツは、彼の変化を調べます.",
+      "title_original": "How an Aston Villa fringe player became Europe's most prolific scorer",
+      "summary_original": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 08:30:23 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "フォローする方法プレミアリーグ今週末 BBC で",
       "summary": "Our Ask Me Anything チームは、週5 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
       "title_original": "How to follow the Premier League on the BBC this weekend",
@@ -3397,45 +3425,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "なぜ9 月になるのかインテル国民の休憩は3 週間続きますか?",
-      "summary": "BBC Sport's Ask Me サッカーの大きな変化について、チーム全員が説明しています。インテル2026 年9 月発の全国休憩",
-      "title_original": "Why will September international break last three weeks?",
-      "summary_original": "BBC Sport's Ask Me Anything team explain the major changes happening to football's international breaks starting in September 2026",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5jl744pwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 15:30:03 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "プレッシャーで Carrick 'not Bothered' - しかし、彼はこの最新の混乱の後にあるべき?",
-      "summary": "マネージャーマイケル・キャリック主張する彼は後圧力の下で感じませんマンチェスター・ユナイテッド獲得を問い合わせ EFL カップ出口。",
-      "title_original": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
-      "summary_original": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 23:31:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "イングランドは発表をスクワッド;プレミアリーグ最新; ヨーロッパの反応: サッカーニュース – ライブ",
-      "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email Dominic どんな想いでもマンチェスター・ユナイテッド女性のヘッドコーチ、Eva Olid, 彼女の側面の困難なスタートは、それらがより強くなり、彼女は彼らの開口部の2 敗の批判によって途方もない助けになるだろうと言う. 8 月にユナイテッドに到着した元ハートマネージャーは、5-0 の損失を保証しましたチェルシー先日、2-1 敗北で始まる日曜日ロンドン・シティ・ライオネス.",
+      "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email Dominic どんな想いでも 地球上で、すべての理由で、ハル・シティ4 インチプレミアリーグ? WhoScored’s Harry Paterson タイガーズの急激なスタートを説明しようとしました。これは、最も見栄えの深いものです。続きを読む...",
       "title_original": "England squad announcement; Premier League latest; European reaction: football news – live",
-      "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email Dominic with any thoughts Manchester United women’s head coach, Eva Olid, says her side’s difficult start will help them become stronger and that she is undeterred by criticism of their opening two defeats. The former Hearts manager, who arrived at United in August, endured a 5-0 loss against Chelsea last Sunday after beginning with a 2-1 defeat at London City Lionesses. ",
+      "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email Dominic with any thoughts How on earth, with all due respect, are Hull City fourth in the Premier League? WhoScored’s Harry Paterson has attempted to explain the Tigers’ rapid start, which is confounding most onlookers. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 08:16:28 GMT",
+      "published": "Fri, 18 Sep 2026 08:35:20 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
