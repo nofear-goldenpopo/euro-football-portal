@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T20:37:27.375015+00:00",
+  "updated_at": "2026-09-18T20:50:16.265978+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "KPMG Irish Open": "",
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽ Premier League updates from the 8pm BST kick-off ⚽ Live match centre | Read Football Daily | And mail Scott 2 min: Schade advances menacingly down the left, chasing after a long ball by Lewis-Potter. He enters the box ahead of Fofana, but the Chelsea defender does magnificently well to catch up, take over possession, and brush Schade off the ball. Schade claims for a penalty, but not with any real conviction. We play on. It was a fine challenge. Chelsea get the ball rolling at the Gtech. More ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
-      "published": "Fri, 18 Sep 2026 20:29:55 GMT",
+      "published": "Fri, 18 Sep 2026 20:42:53 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3873,23 +3873,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブレントフォードデッドロックを破壊するチェルシーライブ!",
+      "title": "Super League Eliminators LIVE! Leigh ヒットバック 対 12 プレーヤー Wakefield",
       "summary": "",
-      "title_original": "Brentford break deadlock against Chelsea LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/brentford-vs-chelsea/live/559485",
-      "published": "Tue, 18 Aug 2026 17:55:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Super League Eliminators LIVE! Wakefield's Guler 示された赤対リーグ",
-      "summary": "",
-      "title_original": "Super League Eliminators LIVE! Wakefield's Guler shown red vs Leigh",
+      "title_original": "Super League Eliminators LIVE! Leigh hit back vs 12-player Wakefield",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13586226/super-league-eliminators-live-updates-commentary-videos-scores-as-wakefield-trinity-take-on-leigh-leopards-for-spot-in-semi-finals",
@@ -3898,6 +3884,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ティゴダブルスブレントフォードリード対チェルシーライブ!",
+      "summary": "",
+      "title_original": "Thiago doubles Brentford's lead vs Chelsea LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/brentford-vs-chelsea/live/559485",
+      "published": "Tue, 18 Aug 2026 17:55:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
