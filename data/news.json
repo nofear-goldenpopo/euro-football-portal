@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-18T08:52:12.435009+00:00",
+  "updated_at": "2026-09-18T09:06:13.157578+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Andrew Beesley": "",
-    "Vítor Pereira": "",
-    "Graham Potter": "グレアム・ポッター",
-    "Thomas Frank": "",
-    "Sky Blues": "",
     "West Bromwich Albion": "ウェスト・ブロムウィッチ・アルビオンFC",
     "Toby Collyer": "",
     "BlueSky The": "",
@@ -3001,7 +2996,12 @@
     "Email Dominic": "",
     "Man Utd's Olid": "",
     "Black Country": "",
-    "WhoScored’s Harry Paterson": ""
+    "WhoScored’s Harry Paterson": "",
+    "England’s World Cup": "",
+    "Inside The Huddle": "",
+    "Neil Reynolds": "",
+    "Phoebe Schecter": "",
+    "Myles Garrett's": ""
   },
   "items": [
     {
@@ -3229,6 +3229,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "私は誰ですか? ログインブンデスリーガ星のいいえ 4",
+      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
+      "title_original": "Who am I? Guess Bundesliga star No 4",
+      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9p807l5zmy4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 08:55:29 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "FA チェア要求 Infantino リリース World Cup 販売オフ文書",
       "summary": "フィファ会長 Gianni Infantino 株式を売却する彼の論争計画に関連するすべての文書を解放するように言われています World Cup.",
       "title_original": "FA chair demands Infantino release World Cup sell-off documents",
@@ -3268,20 +3282,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レアル・マドリードログインマンチェスター・ユナイテッドフォワード・ガブリエル、15",
-      "summary": "レアル・マドリード強いインテル15 歳までの獲得で一番マンチェスター・ユナイテッド獲得 JJ Gabriel.",
-      "title_original": "Real Madrid keen on Man Utd forward Gabriel, 15",
-      "summary_original": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 07:52:32 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3355,6 +3355,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "レアル・マドリードログインマンチェスター・ユナイテッドフォワード・ガブリエル、15",
+      "summary": "レアル・マドリード強いインテル15 歳までの獲得で一番マンチェスター・ユナイテッド獲得 JJ Gabriel.",
+      "title_original": "Real Madrid keen on Man Utd forward Gabriel, 15",
+      "summary_original": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 07:52:32 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ライバルが更新されました: ダービーゲームは、このシーズンをバックアップ",
       "summary": "ウェストハム Millwall および Wolves のホストを訪問して下さいウェスト・ブロムウィッチ・アルビオン FC 第1 回 決勝戦 決勝戦が更新されます。",
       "title_original": "Rivalries renewed: The derby games back this season",
@@ -3411,27 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "なぜ敗北に対処することは、Coventry の Lampard のキーです",
-      "summary": "BBC スポーツコラムニスト Tony PulisCoventry 上司の理由を説明する Frank Lampard 季節が始まると、自分の選手や選手を管理する必要があります。",
-      "title_original": "Why dealing with defeat is key for Lampard at Coventry",
-      "summary_original": "BBC Sport columnist Tony Pulis explains why Coventry boss Frank Lampard needs to manage himself as well as his players after their poor start to the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 06:40:18 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "イングランドは発表をスクワッド;プレミアリーグ最新; ヨーロッパの反応: サッカーニュース – ライブ",
-      "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email Dominic どんな想いでも 地球上で、すべての理由で、ハル・シティ4 インチプレミアリーグ? WhoScored’s Harry Paterson タイガーズの急激なスタートを説明しようとしました。これは、最も見栄えの深いものです。続きを読む...",
+      "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email Dominic どんな想いでも そうですトーマス・トゥヘル費用対効果の高い決定を下した上で行うための公正なビットを持っている England’s World Cup アルゼンチン(はい、私はそれを言及している、申し訳ありません)に半ファイナルの敗北。バンコクのジェームスからのメールは、一部のサポーターがマネージャーについて明確に感じているものを反映しています。すでに Tulchel で見てきたような気分は、どなたか。ビット e を見る",
       "title_original": "England squad announcement; Premier League latest; European reaction: football news – live",
-      "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email Dominic with any thoughts How on earth, with all due respect, are Hull City fourth in the Premier League? WhoScored’s Harry Paterson has attempted to explain the Tigers’ rapid start, which is confounding most onlookers. Continue reading...",
+      "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email Dominic with any thoughts It seems Thomas Tuchel has a fair bit of making up to do after his costly decisions in England’s World Cup semi-final defeat to Argentina (yes, I’m mentioning it, sorry). An email from James in Bangkok reflects what some supporters are clearly feeling regarding the manager: Anyone else feeling like we’ve seen through Tuchel already? Seems a bit e",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 08:35:20 GMT",
+      "published": "Fri, 18 Sep 2026 08:50:57 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3873,6 +3873,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "印象的なビルズの勝利でアレンの主演ロールの最高のプレイ",
+      "summary": "バッファロー・ビルズクォーターバック Josh Allen's5 つのタッチダウンゲームから最高のプレイ Detroit Lions2026 年の NFL シーズンの週2 日。",
+      "title_original": "The best plays of Allen's starring role in impressive Bills win",
+      "summary_original": "Buffalo Bills quarterback Josh Allen's best plays from his five touchdown game against the Detroit Lions in Week 2 of the 2026 NFL season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589186/nfl-allen-plays-starring-role-in-impressive-bills-performance",
+      "published": "Fri, 18 Sep 2026 07:25:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Nasser:Pietersen は Banton の「第2 来る」のためのキーであることができます",
       "summary": "Nasser Hussain イングランドのバッターの「第二来」を追記 Tom Banton そして、新しいホワイトボールメンターの任命を言う Kevin Pietersen ミドルオーダーで開発をキーにすることができます。",
       "title_original": "Nasser: Pietersen could be key for 'second coming' of Banton",
@@ -3894,6 +3908,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/nfl/news/12040/13589168/buffalo-bills-beat-detroit-lions-41-31-in-first-match-at-highmark-stadium-as-josh-allen-stars-again",
       "published": "Fri, 18 Sep 2026 06:06:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "どのようにガレット怪我の影響ラム?",
+      "summary": "獲得を問い合わせ Inside The Huddle, Neil Reynolds そして、Phoebe Schecter 影響について議論マイルズ・ギャレットの の傷害はに持っていますロサンゼルス・ラムズ.",
+      "title_original": "How will Garrett injury impact Rams?",
+      "summary_original": "Speaking on Inside The Huddle, Neil Reynolds and Phoebe Schecter discuss what impact Myles Garrett's injury will have on the Los Angeles Rams.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589183/inside-the-huddle-how-will-garrett-injury-impact-rams",
+      "published": "Fri, 18 Sep 2026 06:49:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/report/577757",
       "published": "Thu, 17 Sep 2026 22:00:00 BST",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "イングランドクルーズからシリーズ勝利へスリランカカーディフで快適な勝利で",
-      "summary": "イギリスのカーディフのアクションのピックは、146 のターゲットにダッシュスリランカゲームで T20 シリーズの勝利をスペアリングする。",
-      "title_original": "England cruise to series win over Sri Lanka with comfortable victory in Cardiff",
-      "summary_original": "The pick of the action from Cardiff as England dashed to a target of 146 against Sri Lanka to wrap up a T20 series win with a game to spare.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589119/england-vs-sri-lanka-2nd-t20-highlights",
-      "published": "Thu, 17 Sep 2026 21:35:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "O'Neill は「私たちを一緒に手に入れよう」と確信しています。セルティック EL 損失からバウンスします。",
-      "summary": "セルティックマネージャーマーティン・オニール彼らは彼らのから回復する自信がありますヨーロッパリーグ敗北へフェレンツヴァーロシュそして準備が整いました Sunday's Premiership クラッシュとレンジャーズスカイスポーツにライブ",
-      "title_original": "'We'll get ourselves together' - O'Neill confident Celtic will bounce back from EL loss",
-      "summary_original": "Celtic manager Martin O'Neill is confident they will recover from their Europa League defeat to Ferencvaros and be ready for Sunday's Premiership clash with Rangers, live on Sky Sports.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589150/celtic-1-3-ferencvaros-martin-oneill-confident-they-will-recover-from-europa-league-loss-ahead-of-rangers-clash-live-on-sky",
-      "published": "Thu, 17 Sep 2026 22:44:00 BST",
       "category": "uel",
       "type": "uel",
       "label": "EL",
