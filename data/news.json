@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-18T09:06:13.157578+00:00",
+  "updated_at": "2026-09-18T09:25:27.903806+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "West Bromwich Albion": "ウェスト・ブロムウィッチ・アルビオンFC",
-    "Toby Collyer": "",
-    "BlueSky The": "",
-    "Chelsea. Full": "",
     "Brighton. Continue": "",
     "Blues’ No": "",
     "Emiliano Martínez. The": "",
@@ -3001,7 +2997,11 @@
     "Inside The Huddle": "",
     "Neil Reynolds": "",
     "Phoebe Schecter": "",
-    "Myles Garrett's": ""
+    "Myles Garrett's": "",
+    "Rio Ngumoha": "リオ・エングモア",
+    "Phil Foden. Full": "",
+    "Tuchel's England": "",
+    "Thomas Tuchel's England": ""
   },
   "items": [
     {
@@ -3425,16 +3425,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランドは発表をスクワッド;プレミアリーグ最新; ヨーロッパの反応: サッカーニュース – ライブ",
-      "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email Dominic どんな想いでも そうですトーマス・トゥヘル費用対効果の高い決定を下した上で行うための公正なビットを持っている England’s World Cup アルゼンチン(はい、私はそれを言及している、申し訳ありません)に半ファイナルの敗北。バンコクのジェームスからのメールは、一部のサポーターがマネージャーについて明確に感じているものを反映しています。すでに Tulchel で見てきたような気分は、どなたか。ビット e を見る",
-      "title_original": "England squad announcement; Premier League latest; European reaction: football news – live",
-      "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email Dominic with any thoughts It seems Thomas Tuchel has a fair bit of making up to do after his costly decisions in England’s World Cup semi-final defeat to Argentina (yes, I’m mentioning it, sorry). An email from James in Bangkok reflects what some supporters are clearly feeling regarding the manager: Anyone else feeling like we’ve seen through Tuchel already? Seems a bit e",
+      "title": "アレクサンダーアーノルドとパルマーは、Ngumoha がノドを取得としてイングランドに戻って: サッカーニュース – ライブ",
+      "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email Dominic どんな想いでもトレント・アレクサンダー＝アーノルド, Alex Scott, コール・パーマーそして、リオ・エングモア獲得を問い合わせ そこには場所がありませんフィル・フォーデン. 以下に来るために満たして下さい。続きを読む...",
+      "title_original": "Alexander-Arnold and Palmer back in England squad as Ngumoha gets nod: football news – live",
+      "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email Dominic with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 08:50:57 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "published": "Fri, 18 Sep 2026 09:08:55 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ミスから学んだ「Tuchel」 | 誰が Tuchel's England スチーム",
+      "summary": "スカイスポーツチーフ対応 Kaveh SolhekolWembley は、最新の Wembley です。トーマス・トゥヘルイギリスのスクワッド。",
+      "title_original": "'Tuchel has learned from his mistakes' | Who's in and out of Tuchel's England squad",
+      "summary_original": "Sky Sports chief correspondent Kaveh Solhekol is at Wembley with the latest on Thomas Tuchel's England squad.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589218/england-squad-whos-in-and-whos-out",
+      "published": "Fri, 18 Sep 2026 10:10:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Will Carrickchoppy 水をシスターにナビゲートマンチェスター・ユナイテッドコースに戻る",
       "summary": "マンチェスター・ユナイテッド獲得を問い合わせ EFL カップ昨年シーズンの Grimsby での第2 次損失は、多くの人が記憶する結果でした。",
       "title_original": "Will Carrick navigate choppy waters to steer Man Utd ship back on course?",
@@ -3950,6 +3964,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13588823/azerbaijan-gp-2026-saturday-race-dates-schedule-baku-weather-uk-start-time-and-how-to-watch-or-stream-f1-live-on-sky-sports",
       "published": "Fri, 18 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アレクサンダー・アーノルドはイングランドのスクワッドにリコール",
+      "summary": "トレント・アレクサンダー＝アーノルド今後のイングランドのスクワットにリコールされている Nations League スペインからのゲーム,チェコクロアチア",
+      "title_original": "Alexander-Arnold recalled to England squad",
+      "summary_original": "Trent Alexander-Arnold has been recalled to the England squad for the upcoming Nations League games against Spain, Czech Republic and Croatia.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13589193/trent-alexander-arnold-and-cole-palmer-recalled-to-england-squad-for-nations-league-games-by-thomas-tuchel",
+      "published": "Fri, 18 Sep 2026 08:33:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4094,34 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "クリスタル・パレス過去の電力レフ・ポズナン勝つためにヨーロッパリーグデビュー",
-      "summary": "クリスタル・パレス初勝利へのクルーズヨーロッパリーグポーランドのチャンピオンに勝つ4-0 のゲームレフ・ポズナン獲得を問い合わせセルハースト・パーク.",
-      "title_original": "Palace power past Lech Poznan to win on Europa League debut",
-      "summary_original": "Crystal Palace cruised to victory in their first-ever Europa League game with a 4-0 win over Polish champions Lech Poznan at Selhurst Park.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/crystal-palace-vs-lech-poznan/report/577752",
-      "published": "Thu, 17 Sep 2026 22:00:00 BST",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Bournemouth は、勝利の始まりを楽しむヨーロッパリーグ Sociedad キャンペーン",
-      "summary": "ファーストハーフの目標 Justin Kluivert そして、レイアンは、ボーンマスが思い出に残る2-1 勝利で彼らのメイドヨーロッパキャンペーンを開始助けましたレアル・ソシエダ.",
-      "title_original": "Bournemouth enjoy winning start to Europa League campaign at Sociedad",
-      "summary_original": "First-half goals by Justin Kluivert and Rayan helped Bournemouth start their maiden European campaign with a memorable 2-1 win at Real Sociedad.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/report/577757",
-      "published": "Thu, 17 Sep 2026 22:00:00 BST",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
