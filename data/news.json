@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-18T15:38:54.457102+00:00",
+  "updated_at": "2026-09-18T15:51:59.869921+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Arnold Mühren": "",
-    "Hull. Michael Carrick": "",
-    "McInnes' Rangers": "",
     "Bluesky Marcus Rashford": "",
     "Ruben Amorim": "ルベン・アモリム",
     "Patrick Dorgu": "",
@@ -3001,7 +2998,10 @@
     "The U’s": "",
     "TNT Sports": "",
     "Bigger Vase": "",
-    "Martin O’Neill’s Celtic": ""
+    "Martin O’Neill’s Celtic": "",
+    "Joe Newell": "",
+    "Will Celtic": "",
+    "Will Derek McInnes": ""
   },
   "items": [
     {
@@ -3201,6 +3201,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「伝説を生きる」グレーアドバンスハイブス、ニューエルは言う",
+      "summary": "クラブキャプテン Joe Newell 主張 sacked ヘッド コーチデヴィッド・グレイ Hibernian で彼の記録を誇りに思うことができ、彼の交換は、このシーズンの成功をもたらすために多くの時間を持っていると信じています。",
+      "title_original": "'Living legend' Gray advanced Hibs, says Newell",
+      "summary_original": "Club captain Joe Newell insists sacked head coach David Gray can be proud of his record at Hibernian and believes his replacement has plenty of time to deliver success this season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/articles/ck3wjlv00dn2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 15:29:42 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Wrexham の所有者は、Spygate を Southampton で目指す",
       "summary": "ライアン・レイノルズそして、Rob Mac この週末は、チャンピオンシップフィクスの先にある、次の対戦相手で楽しいプレーをしました。",
       "title_original": "Wrexham owners aim Spygate dig at Southampton",
@@ -3355,20 +3369,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "クイズ: どのようによく知っている Black Country ダービー?",
-      "summary": "試合の歴史を知るウルヴァーハンプトン・ワンダラーズ FC そして、ウェスト・ブロムウィッチ・アルビオン FC? それをテストに入れます。",
-      "title_original": "Quiz: How well do you know the Black Country derby?",
-      "summary_original": "Think you know the history of matches between Wolverhampton Wanderers and West Bromwich Albion? Put it to the test.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crz9zvlj7g1xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 07:19:24 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "タッチェルは、イギリスのパルマとアレクサンダー・アーノルドをリコール",
       "summary": "トーマス・トゥヘルリコールトレント・アレクサンダー＝アーノルドそして、コール・パーマー2026 年以来、イギリス初のスクワッドへ World Cup.",
       "title_original": "Tuchel recalls Palmer and Alexander-Arnold for England",
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email John with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 15:21:08 GMT",
+      "published": "Fri, 18 Sep 2026 15:43:27 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウィルセルティック圧力を容易にするか、またはレンジャーズギャップを狭くしますか?",
+      "summary": "Will Derek McInnes 二重をに対して完了して下さいセルティックまたはできますマーティン・オニール悪夢の週から回復し、8 つのポイントをクリアに移動レンジャーズ?",
+      "title_original": "Will Celtic ease the pressure or Rangers narrow the gap?",
+      "summary_original": "Will Derek McInnes complete the double against Celtic, or can Martin O'Neill recover from a nightmare week to move eight points clear of Rangers?",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13589047/celtic-vs-rangers-old-firm-talking-points-ahead-first-premiership-clash-of-season-live-on-sky-sports-on-sunday",
+      "published": "Fri, 18 Sep 2026 16:25:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "サマセットのタイトルは、ノッツも負けるので、ヨークシャーの敗北で大きな打撃に苦しむことを願っています",
       "summary": "サマセットは、ヨークシャーの手元で高価な敗北に陥ったので、その歴史の中で初めて郡チャンピオンになるという希望が大きな打撃を受けました。",
       "title_original": "Somerset title hopes suffer major blow in Yorkshire defeat as Notts also lose",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13589193/trent-alexander-arnold-and-cole-palmer-recalled-to-england-squad-for-nations-league-games-by-thomas-tuchel",
       "published": "Fri, 18 Sep 2026 10:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Azerbaijan GP スケジュール:土曜日のレースはなぜですか?",
-      "summary": "フォーミュラ1 は、スポーツがスポーツリターンとして土曜日にアゼルバイジャンでレースしますバクー市街地コース季節が最もインシデントに満ちたイベントの1 つをよく証明するもの。",
-      "title_original": "Azerbaijan GP schedule: Why is the race on a Saturday?",
-      "summary_original": "Formula 1 will race in Azerbaijan on a Saturday as the sport returns to the Baku City Circuit for what often proves one of the season's most incident-filled events.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13588823/azerbaijan-gp-2026-saturday-race-dates-schedule-baku-weather-uk-start-time-and-how-to-watch-or-stream-f1-live-on-sky-sports",
-      "published": "Fri, 18 Sep 2026 06:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
