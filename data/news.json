@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-18T22:49:54.099181+00:00",
+  "updated_at": "2026-09-18T23:06:00.926610+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Championship Team": "",
-    "Man Utd XI": "",
-    "Michael Carrick’s": "",
     "Julio Enciso": "",
     "Issa Diop": "",
     "Daizen Maeda": "前田大然",
@@ -3001,7 +2998,10 @@
     "Joao Pedro": "ジョアン・ペドロ",
     "HHarry Kane": "",
     "Keith Andrews": "",
-    "West London": ""
+    "West London": "",
+    "Biltmore Championship": "",
+    "The Cliffs Walnut Cove": "",
+    "Golf Course": "ゴルフ場"
   },
   "items": [
     {
@@ -3328,9 +3328,9 @@
     },
     {
       "title": "「我々は予測不可能です」 - アンドリュースは「輝き」と喜んでブレントフォード",
-      "summary": "ブレントフォードヘッドコーチ Keith Andrews 再発後3〜3 勝敗後、彼の側に賞賛がいっぱいです West London ライバルチェルシー、強い開始の後でそれら「華麗」をに決めることプレミアリーグキャンペーン",
+      "summary": "ブレントフォードマネージャーKeith Andrews 反発する 3-0 の勝利の後の賞賛の完全なです West London ライバルチェルシー, それらをブランディングする “華麗な” 未納の開始に続いてプレミアリーグキャンペーン",
       "title_original": "'We're unpredictable' - Andrews delighted with 'brilliant' Brentford",
-      "summary_original": "Brentford head coach Keith Andrews is full of praise for his side after their resounding 3-0 win against West London rivals Chelsea, branding them \"brilliant\" following a strong start to the Premier League campaign.",
+      "summary_original": "Brentford manager Keith Andrews is full of praise after a resounding 3-0 win against West London rivals Chelsea, branding them \"brilliant\" following a unbeaten start to the Premier League campaign.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cj3v47q6lde1o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 22:42:10 GMT",
@@ -3915,6 +3915,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Biltmore Championship|2 日目ハイライト",
+      "summary": "第2 ラウンドのハイライト Biltmore Championship 獲得を問い合わせ The Cliffs Walnut Cove ゴルフ場アッシュビル、ノースカロライナ州.",
+      "title_original": "Biltmore Championship | Day two highlights",
+      "summary_original": "Highlights from the second round of the Biltmore Championship at The Cliffs Walnut Cove Golf Course in Asheville, North Carolina.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589539/biltmore-championship-day-two-highlights",
+      "published": "Fri, 18 Sep 2026 23:36:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アルテタ: ドウマンは出て行くことができるレンタル移籍で未来へ",
       "summary": "アーセナルマネージャーミケル・アルテタ融資を除外していない Max Dowman 将来的には、クラブは6 ヶ月ごとに16 歳の感覚の進歩を評価すると述べています。",
       "title_original": "Arteta: Dowman could go out on loan in future",
@@ -3982,6 +3996,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ペーパー: 好まれる Mudryk アーセナル前へチェルシーログイン",
+      "summary": "土曜日の新聞から噂を移籍するトップストーリー...",
+      "title_original": "Papers: Mudryk preferred Arsenal before Chelsea move",
+      "summary_original": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13589426/mykhailo-mudryk-preferred-arsenal-move-before-88m-chelsea-transfer-paper-talk",
+      "published": "Fri, 18 Sep 2026 07:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13589512/fabio-carvalho-scores-brentford-third-to-seal-win-over-chelsea",
       "published": "Fri, 18 Sep 2026 22:08:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブリストル・シティ FC1-0 ワットフォード",
-      "summary": "ハイライトから EFL チャンピオンシップ間の衝突ブリストル・シティ FC そして、ワットフォード。",
-      "title_original": "Bristol City 1-0 Watford",
-      "summary_original": "Highlights from the Sky Bet Championship clash between Bristol City and Watford.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589506/bristol-city-1-0-watford-championship-highlights",
-      "published": "Fri, 18 Sep 2026 21:56:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "麻の倍は保障しますマンチェスター・シティ WSL のタイトルの防衛への勝利の開始を維持して下さい",
-      "summary": "Lauren Hemp4-2 勝つために予約しましたマンチェスター・シティに対してリヴァプール WSL のチャンピオンは、そのタイトルの防衛に勝ち抜いたスタートを維持したように。",
-      "title_original": "Hemp double ensures Man City maintain winning start to WSL title defence",
-      "summary_original": "Lauren Hemp bookended a 4-2 victory for Manchester City against Liverpool as the WSL champions maintained a winning start to their title defence.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-city-women-vs-liverpool-women/report/575769",
-      "published": "Fri, 18 Sep 2026 21:15:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
