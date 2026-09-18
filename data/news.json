@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-18T18:51:41.858275+00:00",
+  "updated_at": "2026-09-18T19:06:47.787424+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "New Zealand's": "",
-    "Joao Pedro's": "",
-    "Fabian Hurzeler": "",
-    "Daniel Farke": "ダニエル・ファルケ",
     "Daniel'- Andrews": "",
     "Keith Andrews": "",
     "Regis Le Bris": "",
@@ -3001,7 +2997,11 @@
     "David Howell": "",
     "Alice Bergstrom": "",
     "Vivien Endemann": "",
-    "Dubai Rankings": ""
+    "Dubai Rankings": "",
+    "Scott The": "",
+    "Italian Renaissance": "イタリア・ルネサンス年表",
+    "Chelsea LIVE": "",
+    "Khiara Keating's": ""
   },
   "items": [
     {
@@ -3425,13 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブレントフォードツイートチェルシー: プレミアリーグ– ライブ",
-      "summary": "⚽ プレミアリーグ8pm BST キックオフライブマッチセンターのアップデート |Read Football Daily| メール Scott Pre-match ポストバッグ。「入門テーマをダブルダウンするには、マッチの少なくとも7 つの目標があることに価格を引用するすべての小冊子は、それが0 よりも可能性が高いことを持っています。セブン! –David Howell「私は通常、xG で多くの店をセットしませんが、今夜のゲームはセットピースの効率のコントラストを備えています。ブレントフォードセットピース(リーグで2 番目に)から2.34 xG を生成しましたが、",
+      "title": "ブレントフォード. .チェルシー: プレミアリーグ– ライブ",
+      "summary": "⚽ プレミアリーグ8pm BST キックオフライブマッチセンターのアップデート |Read Football Daily| メール Scott The チームをクリア!ブレントフォード新しい赤と白のストライプシャツをハニーと黒の襟で着用してください。その2 つの季節を着るので、ファンフレンドリーなコンベンションを維持するためにそれらをハットオフにします。チェルシー一方、彼らの第二 choice ブラックトップに競争デビューを与えます, プロモーションコピー主張, のお祝いです “イタリア・ルネサンス年表トランスフォーの...",
       "title_original": "Brentford v Chelsea: Premier League – live",
-      "summary_original": "⚽ Premier League updates from the 8pm BST kick-off ⚽ Live match centre | Read Football Daily | And mail Scott Pre-match postbag. “To double down on the introductory theme, every bookie quoting a price on there being at least seven goals in the match has that as more likely than a 0-0. Seven!” – David Howell “I don’t usually set much store by xG, but tonight’s game features a contrast in set-piece efficiency. Brentford have generated 2.34 xG from set pieces (second in the league) but managed just",
+      "summary_original": "⚽ Premier League updates from the 8pm BST kick-off ⚽ Live match centre | Read Football Daily | And mail Scott The teams are out! Brentford wear their new red and white striped shirts with honey and black collars. They’ll be wearing those for two seasons, so hats off to them for maintaining that fan-friendly convention. Chelsea meanwhile give a competitive debut to their second-choice black tops which, the promotional copy insists, are a celebration of the “Italian Renaissance … of their transfor",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
-      "published": "Fri, 18 Sep 2026 18:43:59 GMT",
+      "published": "Fri, 18 Sep 2026 18:58:25 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3873,9 +3873,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "No Joao Pedro しかし、ジェンダーソンは、チェルシー獲得を問い合わせブレントフォードスカイでライブ!",
+      "title": "ブレントフォード対比チェルシーライブ! & ハイライト",
       "summary": "",
-      "title_original": "No Joao Pedro but Henderson starts for Chelsea at Brentford LIVE on Sky!",
+      "title_original": "Brentford vs Chelsea LIVE! & highlights",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brentford-vs-chelsea/live/559485",
@@ -3968,6 +3968,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ケッティングエラーをケッティングしてイコライズするマンチェスター・シティ",
+      "summary": "Bunny Shaw 出資総額 Khiara Keating's 誤差はそのままマンチェスター・シティ対等化リヴァプール後半の後半。",
+      "title_original": "Shaw capitalises on Keating error to equalise for Man City",
+      "summary_original": "Bunny Shaw capitalised on Khiara Keating's calamitous mistake as Manchester City equalised against Liverpool late in the first half.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589445/wsl-bunny-shaw-capitalises-on-khiara-keating-error-to-equalise-for-manchester-city",
+      "published": "Fri, 18 Sep 2026 19:53:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4108,20 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Carrick は未来の「ばんどん」の推測を却下",
-      "summary": "マイケル・キャリックログインマンチェスター・ユナイテッド最近の闘争は、「大惨事や災害ではなく」であり、「大胆な」という立場で圧力を却下した。",
-      "title_original": "Carrick dismisses 'ridiculous' speculation on future",
-      "summary_original": "Michael Carrick insists Manchester United's recent struggles are \"not a catastrophe or a disaster\" and dismissed talk of pressure on his position as \"ridiculous\".",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589326/man-utd-its-not-on-the-radar-michael-carrick-dismisses-ridiculous-speculation-on-future",
-      "published": "Fri, 18 Sep 2026 14:45:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
