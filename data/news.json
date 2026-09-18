@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-18T18:07:00.355074+00:00",
+  "updated_at": "2026-09-18T18:26:38.468926+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Wilson Isidor": "",
-    "Tottenham. And": "",
     "Dominic Calvert-Lewin": "",
     "Bluesky Out": "",
     "Hi Tim": "",
@@ -3001,7 +2999,9 @@
     "Aleksander Ceferin": "",
     "Victor Montagliani": "",
     "No Joao Pedro": "",
-    "Brentford LIVE": ""
+    "Brentford LIVE": "",
+    "Scott Chelsea": "",
+    "Jordan Henderson": "ジョーダン・ヘンダーソン"
   },
   "items": [
     {
@@ -3229,20 +3229,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イエスの最初のポルトガルのスクワッドで名付けられたロナルド",
-      "summary": "クリスティアーノ・ロナウド新しいポルトガルのコーチによって選ばれた最初のチームに名前を付けられますジョルジェ・ジェズス今後の予定 Nations League ゲーム。",
-      "title_original": "Ronaldo named in Jesus' first Portugal squad",
-      "summary_original": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 12:45:25 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Wrexham の所有者は、Spygate を Southampton で目指す",
       "summary": "ライアン・レイノルズそして、Rob Mac この週末は、チャンピオンシップフィクスの先にある、次の対戦相手で楽しいプレーをしました。",
       "title_original": "Wrexham owners aim Spygate dig at Southampton",
@@ -3250,6 +3236,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 12:03:30 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "イエスの最初のポルトガルのスクワッドで名付けられたロナルド",
+      "summary": "クリスティアーノ・ロナウド新しいポルトガルのコーチによって選ばれた最初のチームに名前を付けられますジョルジェ・ジェズス今後の予定 Nations League ゲーム。",
+      "title_original": "Ronaldo named in Jesus' first Portugal squad",
+      "summary_original": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 12:45:25 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3320,20 +3320,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 14:23:38 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アイルランドのコーチングスタッフに参加するソレンセン",
-      "summary": "過去の投稿エヴァートンマネージャーBrian Sorensen 参加するリパブリックアイルランドの彼らのためにスクワット Women's World Cup 今年のプレイオフ修飾子。",
-      "title_original": "Sorensen to join Republic of Ireland coaching staff",
-      "summary_original": "Former Everton manager Brian Sorensen is set to join the Republic of Ireland squad for their Women's World Cup play-off qualifiers this year.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj9x8kr0dm2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 14:19:16 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3425,13 +3411,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アイルランドのコーチングスタッフに参加するソレンセン",
+      "summary": "過去の投稿エヴァートンマネージャーBrian Sorensen 参加するリパブリックアイルランドの彼らのためにスクワット Women's World Cup 今年のプレイオフ修飾子。",
+      "title_original": "Sorensen to join Republic of Ireland coaching staff",
+      "summary_original": "Former Everton manager Brian Sorensen is set to join the Republic of Ireland squad for their Women's World Cup play-off qualifiers this year.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj9x8kr0dm2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 14:19:16 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ブレントフォード. .チェルシー: プレミアリーグ– ライブ",
-      "summary": "⚽ プレミアリーグ8pm BST キックオフライブマッチセンターのアップデート |Read Football Daily| スコットブレントフォード最後の週末にボーンマスに直面して送信側に2 つの変更を行います。Mikkel Damsgaard そして、Michael Kayode 場所を取る Aaron Hickery そして、ママドゥ・サンガレ夜にベンチにいる人。チェルシードロー後に5 つの変更を加えるハル・シティ. ヨルダン・ヘンダーソンは、彼の古い伐採地にブルースのためにデビューしました, しばらく Valentín Barco そして、Pep Chavarría ふるいを作る",
+      "summary": "⚽ プレミアリーグ8pm BST キックオフライブマッチセンターのアップデート |Read Football Daily| スコットチェルシーマネージャーシャビ・アロンソトンネルを抜けて、スカイスポーツとピッチサイドの単語があります。「私たちは常にチーム全体を評価しようとしています...私たちは確かに厳しいゲームを持っています...目標は、常に最も競争力のあるチームを持っていることであり、我々は1 を持っていると思います...私たちは今夜のために準備されています...我々は十分な継続と安定性を持っていません [中央ミッドフィールド] ... 持っているジョーダン・ヘンダーソン] 戻る",
       "title_original": "Brentford v Chelsea: Premier League – live",
-      "summary_original": "⚽ Premier League updates from the 8pm BST kick-off ⚽ Live match centre | Read Football Daily | And mail Scott Brentford make two changes to the side sent out to face Bournemouth last weekend. Mikkel Damsgaard and Michael Kayode take the places of Aaron Hickery and Mamadou Sangaré, who are on the bench tonight. Chelsea make five changes following the draw with Hull City. Jordan Henderson makes his debut for the Blues on his old stomping ground, while Valentín Barco and Pep Chavarría make their fu",
+      "summary_original": "⚽ Premier League updates from the 8pm BST kick-off ⚽ Live match centre | Read Football Daily | And mail Scott Chelsea manager Xabi Alonso ambles out of the tunnel and has a pitchside word with Sky Sports. “We always try to assess the whole squad … we have a tough game for sure … the goal is always to have the most competitive team to play and I think we have one … we are prepared for tonight … we have not had enough continuity and stability in [central midfield] … having [Jordan Henderson] back ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
-      "published": "Fri, 18 Sep 2026 17:58:32 GMT",
+      "published": "Fri, 18 Sep 2026 18:10:40 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3439,16 +3439,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Tuchel は「0.1%」を聴き、そこから学ぶべき England’s World Cup ミス |Jacob Steinberg",
-      "summary": "ヘッドコーチは前向きに焦点を合わせることを熱心であるが、Nations League より大きな戦術的なオプションの欲求でのスクワッドヒントトーマス・トゥヘル0.1%を聴く必要があります。イングランド初のスクワッドを追い抜いたので World Cup, 彼は、彼が参加したサポーターの99.9%は、アルゼンチンのゲーム中に彼の置換について話しなかったと述べた. 彼によると、会話ははるかに肯定的です。メモはメキシコとメキシコのノックアウトの勝利と共有されます Democratic Republic 獲得を問い合わせ Congo. It 欲しい人",
-      "title_original": "Tuchel should listen to ‘the 0.1%’ and learn from England’s World Cup mistakes | Jacob Steinberg",
-      "summary_original": "Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical options Thomas Tuchel should be listening to the 0.1%. As he unveiled his first England squad since the World Cup, he said 99.9% of supporters he bumped into did not talk about his substitutions during the Argentina game. According to him, the conversation is far more positive. Memories are shared of the knockout wins over Mexico and the Democratic Republic of the Congo. It seems those who want",
+      "title": "エム2 ゴールチャオス’: トゥッチェルは、イングランドのサッカー文化を活用することを目指しています",
+      "summary": "ヘッドコーチは、「ディープダウン、英語プレーヤー...彼らはそれのために行く」ゲームで制御の欠如を受け入れる必要があります言うトーマス・トゥヘルマッチでより大きなコントロールを重ねるときには、そこに認めています。しかし、イングランドのヘッドコーチは、よりチャオティック、アドレナリンフェルドの性質を感じるプレミアリーグ彼がユーロ2028 で栄光をターゲットとして彼のテンプレートを維持します。トゥッチェルは、常に完全なスロットルでプレーする彼らの習慣の面で「フットボールをプレーする最も経済的ではないマイブ」として彼のチームを述べました。彼らは失われた",
+      "title_original": "‘Embrace the chaos’: Tuchel aims to harness England’s football culture",
+      "summary_original": "Head coach says he must accept lack of control in games ‘Deep down, English players … they go for it’ Thomas Tuchel has admitted there are times when he craves greater control in matches. But the England head coach feels the more chaotic, adrenaline-fuelled nature of the Premier League will remain his template as he targets glory at Euro 2028. Tuchel described his team as “maybe not the most economical to play football” in terms of their habit of constantly playing at full throttle. They lost to",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/thomas-tuchel-england-squad-world-cup-mistakes-nations-league",
-      "published": "Fri, 18 Sep 2026 15:43:17 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "url": "https://www.theguardian.com/football/2026/sep/18/embrace-chaos-thomas-tuchel-england-football-culture",
+      "published": "Fri, 18 Sep 2026 18:00:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3551,17 +3551,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "箱は証明しません:トレント・アレクサンダー＝アーノルドイギリスのリコールは、パッチ証拠に基づいています",
-      "summary": "トーマス・トゥヘル彼の自然な右側の位置にフルバックを再生することを約束しますが、我々は彼のフォームをゲージするために彼のこの用語の十分な見ていないトーマス・トゥヘル彼は言ったトレント・アレクサンダー＝アーノルド季節の始まりを楽しんだ。イングランドの人たちのニュースとして来た。レアル・マドリード. それはまた、真実で, 持っているスペインの人々にニュースとして来た. イングランドのマネージャーがアレクサンダー・アーノルドで十分な見ていない場合は、World Cup 夏には、彼は本当に持っていない",
-      "title_original": "Case not proven: Trent Alexander-Arnold’s England recall is based on patchy evidence",
-      "summary_original": "Thomas Tuchel promises to play the full-back in his natural right-sided position but we have not seen enough of him this term to gauge his form Thomas Tuchel said Trent Alexander Arnold had enjoyed a good start to the season, which came as news to those in England who have not been watching him at Real Madrid. It also, in truth, came as news to those in Spain who have. If the England manager did not see enough in Alexander-Arnold to include him in the World Cup in the summer he has not really ha",
+      "title": "Tuchel は「0.1%」を聴き、そこから学ぶべき England’s World Cup ミス |Jacob Steinberg",
+      "summary": "ヘッドコーチは前向きに焦点を合わせることを熱心であるが、Nations League より大きな戦術的なオプションの欲求でのスクワッドヒントトーマス・トゥヘル0.1%を聴く必要があります。イングランド初のスクワッドを追い抜いたので World Cup, 彼は、彼が参加したサポーターの99.9%は、アルゼンチンのゲーム中に彼の置換について話しなかったと述べた. 彼によると、会話ははるかに肯定的です。メモはメキシコとメキシコのノックアウトの勝利と共有されます Democratic Republic 獲得を問い合わせ Congo. It 欲しい人",
+      "title_original": "Tuchel should listen to ‘the 0.1%’ and learn from England’s World Cup mistakes | Jacob Steinberg",
+      "summary_original": "Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical options Thomas Tuchel should be listening to the 0.1%. As he unveiled his first England squad since the World Cup, he said 99.9% of supporters he bumped into did not talk about his substitutions during the Argentina game. According to him, the conversation is far more positive. Memories are shared of the knockout wins over Mexico and the Democratic Republic of the Congo. It seems those who want",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-england-recall-patchy-evidence",
-      "published": "Fri, 18 Sep 2026 16:49:44 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
+      "url": "https://www.theguardian.com/football/2026/sep/18/thomas-tuchel-england-squad-world-cup-mistakes-nations-league",
+      "published": "Fri, 18 Sep 2026 15:43:17 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3775,16 +3775,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグ: 今週の週末を眺める10 の事",
-      "summary": "トッテナムそして別荘は絶望の derby で会いますアンドニ・イラオラ南ローストリターンのテストに直面して下さいプレミアリーグトップスコアラー:最新の順位を確認してくださいチェルシー以来、この西ロンドンのダービーを獲得していないブレントフォード’s 最初のプレミアリーグ 2021 年10 月1-0 勝以来の各訪問、Ben Chilwell スコアラーはドローです。この季節は、クラブのそれぞれのアプローチのディバージェンスを続けてきました。ブレントフォード’s の固着および継続性と対比チェルシー最新の再起動を試みる。ログイン",
-      "title_original": "Premier League: 10 things to look out for this weekend",
-      "summary_original": "Spurs and Villa meet in desperation derby and Andoni Iraola faces test on south-coast return Premier League top scorers: check the latest standings Chelsea have not won this west London derby since Brentford’s first Premier League season. Each visit since October 2021’s 1-0 win , Ben Chilwell the scorer, has been a draw. This season has continued the divergence between the clubs’ respective approaches, Brentford’s solidity and continuity contrasting with Chelsea attempting their latest reboot. K",
+      "title": "箱は証明しません:トレント・アレクサンダー＝アーノルドイギリスのリコールは、パッチ証拠に基づいています",
+      "summary": "トーマス・トゥヘル彼の自然な右側の位置にフルバックを再生することを約束しますが、我々は彼のフォームをゲージするために彼のこの用語の十分な見ていないトーマス・トゥヘル彼は言ったトレント・アレクサンダー＝アーノルド季節の始まりを楽しんだ。イングランドの人たちのニュースとして来た。レアル・マドリード. それはまた、真実で, 持っているスペインの人々にニュースとして来た. イングランドのマネージャーがアレクサンダー・アーノルドで十分な見ていない場合は、World Cup 夏には、彼は本当に持っていない",
+      "title_original": "Case not proven: Trent Alexander-Arnold’s England recall is based on patchy evidence",
+      "summary_original": "Thomas Tuchel promises to play the full-back in his natural right-sided position but we have not seen enough of him this term to gauge his form Thomas Tuchel said Trent Alexander Arnold had enjoyed a good start to the season, which came as news to those in England who have not been watching him at Real Madrid. It also, in truth, came as news to those in Spain who have. If the England manager did not see enough in Alexander-Arnold to include him in the World Cup in the summer he has not really ha",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend",
-      "published": "Thu, 17 Sep 2026 23:01:01 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-england-recall-patchy-evidence",
+      "published": "Fri, 18 Sep 2026 16:49:44 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Super League Eliminators LIVE! ウェイクフィールド vs セミスポットのリーグ",
+      "summary": "",
+      "title_original": "Super League Eliminators LIVE! Wakefield vs Leigh for spot in semis",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13586226/super-league-eliminators-live-updates-commentary-videos-scores-as-wakefield-trinity-take-on-leigh-leopards-for-spot-in-semi-finals",
+      "published": "Fri, 18 Sep 2026 19:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "No Joao Pedro しかし、ジェンダーソンは、チェルシー獲得を問い合わせブレントフォードスカイでライブ!",
       "summary": "",
       "title_original": "No Joao Pedro but Henderson starts for Chelsea at Brentford LIVE on Sky!",
@@ -3859,9 +3873,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL:マンチェスター・シティ対比リヴァプールライブ!",
+      "title": "WSL:リヴァプールレベルの後でマンチェスター・シティ防御的なミックスアップ LIVE!",
       "summary": "",
-      "title_original": "WSL: Man City vs Liverpool LIVE!",
+      "title_original": "WSL: Liverpool level after Man City defensive mix-up LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-city-women-vs-liverpool-women/live/575769",
@@ -3902,9 +3916,9 @@
     },
     {
       "title": "Gabriel edging 近く へマンチェスター・ユナイテッド終了後バルセロナインタビュー",
-      "summary": "JJ Gabriel そして、彼の代表者は、バルセロナキャタランクラブへの潜在的移動について話します。",
+      "summary": "JJ Gabriel そして家族はバルセロナキャタランクラブへの潜在的移動について話します。",
       "title_original": "Gabriel edging closer to Man Utd exit after Barca talks",
-      "summary_original": "JJ Gabriel and his representatives are in Barcelona for talks about a potential move to the Catalan club.",
+      "summary_original": "JJ Gabriel and his family are in Barcelona for talks about a potential move to the Catalan club.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13589387/jj-gabriel-edging-closer-to-manchester-united-exit-amid-barcelona-talks-about-a-potential-move-for-the-forward",
       "published": "Fri, 18 Sep 2026 17:20:00 BST",
@@ -3954,20 +3968,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Super League Eliminators LIVE! ウェイクフィールド vs セミスポットのリーグ",
-      "summary": "",
-      "title_original": "Super League Eliminators LIVE! Wakefield vs Leigh for spot in semis",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13586226/super-league-eliminators-live-updates-commentary-videos-scores-as-wakefield-trinity-take-on-leigh-leopards-for-spot-in-semi-finals",
-      "published": "Fri, 18 Sep 2026 19:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
