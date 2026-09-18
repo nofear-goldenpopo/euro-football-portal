@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-18T06:45:30.727014+00:00",
+  "updated_at": "2026-09-18T06:57:39.874592+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Emi Martinez": "エミリアーノ・マルティネス",
     "Filip Hrgovic. Video": "",
     "Boreham Wood": "",
     "Abdul Abdulmalik": "",
@@ -3001,7 +3000,8 @@
     "Queen's Park": "",
     "Sportscene's Jonathan Sutherland": "",
     "BBC Scotland TV": "",
-    "Ayr United": ""
+    "Ayr United": "",
+    "FPL Heisenberg": ""
   },
   "items": [
     {
@@ -3096,6 +3096,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c62j06np0gpo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 15:10:03 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "保管・販売シェルキ? FPL ゲームウィーク5 ジレンマ",
+      "summary": "BBC スポーツの幻想プレミアリーグエキスパート FPL Heisenberg ゲームウィーク5 のマネージャーに直面する最も大きいジレンマのいくつかに彼の答えを与えます。",
+      "title_original": "Keep or sell Cherki? FPL gameweek five dilemmas",
+      "summary_original": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek five.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69qr50nynqdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 06:44:29 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3271,20 +3285,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "なぜ9 月になるのかインテル国民の休憩は3 週間続きますか?",
-      "summary": "BBC Sport's Ask Me サッカーの大きな変化について、チーム全員が説明しています。インテル2026 年9 月発の全国休憩",
-      "title_original": "Why will September international break last three weeks?",
-      "summary_original": "BBC Sport's Ask Me Anything team explain the major changes happening to football's international breaks starting in September 2026",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5jl744pwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 15:30:03 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "私は良い場所にいるような感じ - Isak",
       "summary": "アレクサンデル・イサク自分の関係について説明するアンドニ・イラオラそして、コーディ・ガクポ今シーズンもお世話になりました。",
       "title_original": "I feel like I'm in a good place - Isak",
@@ -3355,6 +3355,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "なぜ9 月になるのかインテル国民の休憩は3 週間続きますか?",
+      "summary": "BBC Sport's Ask Me サッカーの大きな変化について、チーム全員が説明しています。インテル2026 年9 月発の全国休憩",
+      "title_original": "Why will September international break last three weeks?",
+      "summary_original": "BBC Sport's Ask Me Anything team explain the major changes happening to football's international breaks starting in September 2026",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq5jl744pwpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 15:30:03 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "プレッシャーで Carrick 'not Bothered' - しかし、彼はこの最新の混乱の後にあるべき?",
       "summary": "マネージャーマイケル・キャリック主張する彼は後圧力の下で感じませんマンチェスター・ユナイテッド獲得を問い合わせ EFL カップ出口。",
       "title_original": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
@@ -3408,20 +3422,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Euro Leagues",
-      "summary": "Is JJ Gabriel セットレアル・マドリード獲得を問い合わせ そして元 Gunners Aubameyang& イエスはスクーリングを続けます!",
-      "title_original": "Euro Leagues",
-      "summary_original": "Is JJ Gabriel set for Real Madrid? And former Gunners Aubameyang & Jesus keep scoring!",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pb3ytn?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 16:00:00 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
