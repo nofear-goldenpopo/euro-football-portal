@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-18T06:07:18.303277+00:00",
+  "updated_at": "2026-09-18T06:30:17.073110+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Emillia Elsewhere": "",
-    "Bournemouth. Víctor Muñoz": "",
-    "Anfield. Continue": "",
-    "Bournemouth. Continue": "",
     "Emi Martinez": "エミリアーノ・マルティネス",
     "Filip Hrgovic. Video": "",
     "Boreham Wood": "",
@@ -3001,7 +2997,11 @@
     "Striker Alexander Isak": "",
     "Roberto De Zerbi's Tottenham": "",
     "Highmark Stadium": "ハイマーク・スタジアム",
-    "Nasser Hussain": ""
+    "Nasser Hussain": "",
+    "Queen's Park": "",
+    "Sportscene's Jonathan Sutherland": "",
+    "BBC Scotland TV": "",
+    "Ayr United": ""
   },
   "items": [
     {
@@ -3131,6 +3131,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "スパイダーはまだクライミング - 腕時計 Queen's ParkBBC の V Ayr",
+      "summary": "Sportscene's Jonathan Sutherland 金曜日のライブをプレビューBBC Scotland TV マッチとして Queen's Park ホスト Ayr United.",
+      "title_original": "Spiders still climbing - watch Queen's Park v Ayr on BBC",
+      "summary_original": "Sportscene's Jonathan Sutherland previews Friday's live BBC Scotland TV match as Queen's Park host Ayr United.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlyexny15q2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 06:02:37 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Wrexham の所有者は、Spygate を Southampton で目指す",
       "summary": "ライアン・レイノルズそして、Rob Mac この週末は、チャンピオンシップフィクスの先にある、次の対戦相手で楽しいプレーをしました。",
       "title_original": "Wrexham owners aim Spygate dig at Southampton",
@@ -3155,20 +3169,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "希望を与えられたチーム...その後、4 ヶ月後にイスラエルを襲ったハマス",
-      "summary": "イスラエルのサッカー選手の黄金世代の可能性は、スポーツや社会で実現できますか?",
-      "title_original": "A team that offered hope... then, four months later, Hamas attacked Israel",
-      "summary_original": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 05:23:59 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3198,6 +3198,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "希望を与えられたチーム...その後、4 ヶ月後にイスラエルを襲ったハマス",
+      "summary": "イスラエルのサッカー選手の黄金世代の可能性は、スポーツや社会で実現できますか?",
+      "title_original": "A team that offered hope... then, four months later, Hamas attacked Israel",
+      "summary_original": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 05:23:59 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3253,20 +3267,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Klopp はドイツの選挙で「宣言」フラグを望んでいます",
-      "summary": "New Germany コーチングユルゲン・クロップ彼のチームは、最近の遠方選挙の勝利の後に「国家の誇りは間違った人々に委任されていない」を確保するのに役立ちます。",
-      "title_original": "Klopp wants to 'reclaim' flag amid German elections",
-      "summary_original": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 13:02:40 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3369,6 +3369,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Klopp はドイツの選挙で「宣言」フラグを望んでいます",
+      "summary": "New Germany コーチングユルゲン・クロップ彼のチームは、最近の遠方選挙の勝利の後に「国家の誇りは間違った人々に委任されていない」を確保するのに役立ちます。",
+      "title_original": "Klopp wants to 'reclaim' flag amid German elections",
+      "summary_original": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 13:02:40 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Boehly と ウォルター 販売ショップチェルシークリアレイクに焼く",
       "summary": "Clearlake Capital 完全な制御を得て下さいチェルシーチェアマントッド・ベーリーディレクターMark Walter クラブで屋台を売る",
       "title_original": "Boehly and Walter sell Chelsea stakes to Clearlake",
@@ -3408,20 +3422,6 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウルフと West Brom 最後のダービーでトラブル後のファンを警告",
-      "summary": "クラブは、チームが会ったとき、障害が発生した後、日曜日の会議の先に声明を発行します。",
-      "title_original": "Wolves and West Brom warn fans over behaviour after trouble at last derby",
-      "summary_original": "The clubs issue a statement ahead of Sunday's meeting after trouble flared when the teams last met.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/cj750ezdvr5go?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 10:12:35 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
