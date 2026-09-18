@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-18T05:37:08.935136+00:00",
+  "updated_at": "2026-09-18T05:50:52.548115+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Everton Tottenham": "",
     "Newcastle Continue": "",
     "Emillia Elsewhere": "",
     "Bournemouth. Víctor Muñoz": "",
@@ -3001,7 +3000,8 @@
     "Baku City Circuit": "バクー市街地コース",
     "Spy Chief": "",
     "Striker Alexander Isak": "",
-    "Roberto De Zerbi's Tottenham": ""
+    "Roberto De Zerbi's Tottenham": "",
+    "Highmark Stadium": "ハイマーク・スタジアム"
   },
   "items": [
     {
@@ -3103,6 +3103,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4glvy3413xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 05:41:33 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Junior Kroupi 獲得を問い合わせアーセナルレーダー - 金曜日のゴシップ",
       "summary": "アーセナル見ているボーンマスの若者 Eli Junior Kroupi, レアル・マドリード入居を検討中エヴァートン獲得を問い合わせジャラッド・ブランスウェイト, チェルシー獲得を問い合わせインテル ested で Nico Williams、プラス多く。",
       "title_original": "Junior Kroupi on Arsenal radar - Friday's gossip",
@@ -3187,20 +3201,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フォローする方法プレミアリーグ今週末 BBC で",
-      "summary": "Our Ask Me Anything チームは、週5 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
-      "title_original": "How to follow the Premier League on the BBC this weekend",
-      "summary_original": "Our Ask Me Anything team explains how to follow matches from week five of the Premier League season on the BBC this weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 11:47:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "獲得を問い合わせアストン・ヴィラ fringe プレーヤーはヨーロッパの最も有利なスコアラーになりました",
       "summary": "欧州のトップ5 リーグのプレイヤーは、より多くの目標を獲得していませんドニエル・マレン以来、ローマ1 月にデビュー - BBC スポーツは、彼の変化を調べます.",
       "title_original": "How an Aston Villa fringe player became Europe's most prolific scorer",
@@ -3225,6 +3225,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フォローする方法プレミアリーグ今週末 BBC で",
+      "summary": "Our Ask Me Anything チームは、週5 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
+      "title_original": "How to follow the Premier League on the BBC this weekend",
+      "summary_original": "Our Ask Me Anything team explains how to follow matches from week five of the Premier League season on the BBC this weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 11:47:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3267,20 +3281,6 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "プレッシャーで Carrick 'not Bothered' - しかし、彼はこの最新の混乱の後にあるべき?",
-      "summary": "マネージャーマイケル・キャリック主張する彼は後圧力の下で感じませんマンチェスター・ユナイテッド獲得を問い合わせ EFL カップ出口。",
-      "title_original": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
-      "summary_original": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 23:31:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3355,6 +3355,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "プレッシャーで Carrick 'not Bothered' - しかし、彼はこの最新の混乱の後にあるべき?",
+      "summary": "マネージャーマイケル・キャリック主張する彼は後圧力の下で感じませんマンチェスター・ユナイテッド獲得を問い合わせ EFL カップ出口。",
+      "title_original": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
+      "summary_original": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 23:31:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Boehly と ウォルター 販売ショップチェルシークリアレイクに焼く",
       "summary": "Clearlake Capital 完全な制御を得て下さいチェルシーチェアマントッド・ベーリーディレクターMark Walter クラブで屋台を売る",
       "title_original": "Boehly and Walter sell Chelsea stakes to Clearlake",
@@ -3407,20 +3421,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "エクセター,クリスタル・パレスそして Watford のキーパーのミラーのダイス",
-      "summary": "Former Exeter City, クリスタル・パレス, バーンズリーと Watford のゴールキーパーKevin Miller 年齢 57.",
-      "title_original": "Ex-Exeter, Palace and Watford keeper Miller dies",
-      "summary_original": "Former Exeter City, Crystal Palace, Barnsley and Watford goalkeeper Kevin Miller dies aged 57.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmlyjw7n7v03o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 13:34:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ビルズがライオンズを越える新しいスタジアムをオープンさせるアレンスター",
+      "summary": "Josh Allen すぐに彼のスタンプを置くバッファロー・ビルズ「新しい」ハイマーク・スタジアム彼が3 つのタッチダウンパスを投げ、ビルが倒すにつれて2 つのスコアのために走ったように Detroit Lions 木曜日の夜に41-31。",
+      "title_original": "Allen stars as Bills open new stadium with win over Lions",
+      "summary_original": "Josh Allen quickly put his stamp on the Buffalo Bills' new Highmark Stadium as he threw three touchdown passes and ran for two scores as the Bills beat the Detroit Lions 41-31 on Thursday night.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13589168/buffalo-bills-beat-detroit-lions-41-31-in-first-match-at-highmark-stadium-as-josh-allen-stars-again",
+      "published": "Fri, 18 Sep 2026 06:06:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Azerbaijan GP スケジュール:土曜日のレースはなぜですか?",
       "summary": "フォーミュラ1 は、スポーツがスポーツリターンとして土曜日にアゼルバイジャンでレースしますバクー市街地コース季節が最もインシデントに満ちたイベントの1 つをよく証明するもの。",
       "title_original": "Azerbaijan GP schedule: Why is the race on a Saturday?",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/other-sports/news/12040/13589076/joanna-wietrzyk-hyrox-athlete-apologises-for-continuing-race-after-soiling-herself-in-beijing-event",
       "published": "Thu, 17 Sep 2026 18:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'すべてのメトリクスに文字を入れる' -How England スウェットスリランカ再び",
-      "summary": "",
-      "title_original": "'Better on every metric' - How England swept Sri Lanka aside again",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13589016/england-vs-sri-lanka-second-t20-live-latest-score-commentary-video-and-analysis-as-harry-brooks-side-aim-to-clinch-series-win-in-cardiff",
-      "published": "Thu, 17 Sep 2026 17:55:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
