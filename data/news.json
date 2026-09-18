@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-09-18T17:34:49.066520+00:00",
+  "updated_at": "2026-09-18T17:49:48.690303+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Mason Mount. But": "",
-    "Matheus Cunha": "",
-    "Wilson Isidor's": "",
-    "Joe Dean": "",
-    "DP World Tour": "ヨーロピアンツアー",
-    "Hull City's": "",
     "Bluesky It’s": "",
     "So Fulham": "",
     "Tottenham Hotspur. And": "",
@@ -3001,7 +2995,13 @@
     "Scott Brentford": "",
     "Meanwhile Brentford’s": "",
     "Trent Alexander-Arnold’s England": "",
-    "Trent Alexander Arnold": "トレント・アレクサンダー＝アーノルド"
+    "Trent Alexander Arnold": "トレント・アレクサンダー＝アーノルド",
+    "Former Man Utd": "",
+    "FC Cincinnati": "",
+    "Tyrell Malacia": "",
+    "Ryan Gerard": "",
+    "Adam Scott": "アダム・スコット (俳優)",
+    "Filippo Celli": ""
   },
   "items": [
     {
@@ -3159,20 +3159,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Senegal ジョブ の '絶対 夢' のための 新しい ボス Vieira",
-      "summary": "Former France インテル全国 Patrick Vieira, aWorld Cup1998 年の受賞者は、出生国セネガルの担当を「名誉」と言います。",
-      "title_original": "Senegal job an 'absolute dream' for new boss Vieira",
-      "summary_original": "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honour\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 17:01:59 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "うつ病後からチェルシー37 で非リーグを再生するケガ",
       "summary": "Sam Hutchinson プレイする準備が整っている Farnham Town2 番目の予選ラウンドで FA カップ- 19 年 作ってからチェルシーデビュージョゼ・モウリーニョ.",
       "title_original": "From depression after Chelsea injury to playing non-league at 37",
@@ -3183,6 +3169,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Senegal ジョブ の '絶対 夢' のための 新しい ボス Vieira",
+      "summary": "Former France インテル全国 Patrick Vieira, aWorld Cup1998 年の受賞者は、出生国セネガルの担当を「名誉」と言います。",
+      "title_original": "Senegal job an 'absolute dream' for new boss Vieira",
+      "summary_original": "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honour\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 17:01:59 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3257,20 +3257,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「伝説を生きる」グレーアドバンスハイブス、ニューエルは言う",
-      "summary": "クラブキャプテン Joe Newell 主張 sacked ヘッド コーチデヴィッド・グレイ Hibernian で彼の記録を誇りに思うことができ、彼の交換は、このシーズンの成功をもたらすために多くの時間を持っていると信じています。",
-      "title_original": "'Living legend' Gray advanced Hibs, says Newell",
-      "summary_original": "Club captain Joe Newell insists sacked head coach David Gray can be proud of his record at Hibernian and believes his replacement has plenty of time to deliver success this season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/articles/ck3wjlv00dn2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 15:29:42 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Wrexham の所有者は、Spygate を Southampton で目指す",
       "summary": "ライアン・レイノルズそして、Rob Mac この週末は、チャンピオンシップフィクスの先にある、次の対戦相手で楽しいプレーをしました。",
       "title_original": "Wrexham owners aim Spygate dig at Southampton",
@@ -3282,6 +3268,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "過去の投稿マンチェスター・ユナイテッド左の Malacia が参加 FC Cincinnati",
+      "summary": "FC Cincinnati サインインマンチェスター・ユナイテッド左バック Tyrell Malacia 獲得を問い合わせフリー移籍.",
+      "title_original": "Former Man Utd left-back Malacia joins FC Cincinnati",
+      "summary_original": "FC Cincinnati sign former Manchester United left-back Tyrell Malacia on a free transfer.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyjgqgdqwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 17:39:15 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3337,20 +3337,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'Just the start' - Samba, 17, ストラスマンチェスター・シティイベント",
-      "summary": "Floyd Samba's シンチレーションデビューストールでショーシティ・オブ・マンチェスター・スタジアムしかし、また、マンチェスターの別の高プロファイルのティーンエイジャーから見出しを取りました。",
-      "title_original": "'Just the beginning' - Samba, 17, steals Man City show",
-      "summary_original": "Floyd Samba's scintillating debut stole the show at Etihad Stadium but also took the headlines away from another high-profile teenager in Manchester.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 22:00:18 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3421,6 +3407,20 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「ルールを変更することはできません」 - NI/ROI の適格性に関する O'Neill",
+      "summary": "北アイルランドマネージャーMichael O'Neill 獲得を問い合わせ BBC Sport NI's Stephen ワトソンについて推測についてアーセナルヤングスターCeadach O'Neill's インテル来日予定のニ・スクワッドに名前をつけた国家の未来 Nations League 備品。",
+      "title_original": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
+      "summary_original": "Northern Ireland manager Michael O'Neill speaks to BBC Sport NI's Stephen Watson about speculation regarding Arsenal youngster Ceadach O'Neill's international future as he is named in the NI squad for their upcoming Nations League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwm2rjzgxex4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 12:43:49 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3887,6 +3887,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ガードは、ペントワースで McIlroy が印象的としてクラブハウスリードを取るよう求めています",
+      "summary": "Ryan Gerardleapfrogged の特長アダム・スコット (俳優)そして、Filippo Celli ハーフウェイステージで2 ショットのリードを取る BMW PGA 選手権, としてローリー・マキロイ鉛を離れた4 ショットを終える2 日目に感動しました。",
+      "title_original": "Gerard surges to take clubhouse lead, as McIlroy impresses at Wentworth",
+      "summary_original": "Ryan Gerard leapfrogged Adam Scott and Filippo Celli to take a two-shot lead at the halfway stage of the BMW PGA Championship, as Rory McIlroy impressed on day two to finish four shots off the lead.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13589419/bmw-pga-championship-2026-ryan-gerard-takes-two-shot-lead-at-halfway-stage-as-mcilroy-impresses-to-go-four-shots-back",
+      "published": "Fri, 18 Sep 2026 18:16:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Gabriel edging 近く へマンチェスター・ユナイテッド終了後バルセロナインタビュー",
       "summary": "JJ Gabriel そして、彼の代表者は、バルセロナキャタランクラブへの潜在的移動について話します。",
       "title_original": "Gabriel edging closer to Man Utd exit after Barca talks",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13589252/thomas-tuchel-england-fans-dont-ask-me-about-my-substitutions-against-argentina-in-the-world-cup-semi-final",
       "published": "Fri, 18 Sep 2026 13:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Nasser:Pietersen は Banton の「第2 来る」のためのキーであることができます",
-      "summary": "Nasser Hussain イングランドのバッターの「第二来」を追記 Tom Banton そして、新しいホワイトボールメンターの任命を言う Kevin Pietersen ミドルオーダーで開発をキーにすることができます。",
-      "title_original": "Nasser: Pietersen could be key for 'second coming' of Banton",
-      "summary_original": "Nasser Hussain has lauded the \"second coming\" of England batter Tom Banton and says the appointment of new white-ball mentor Kevin Pietersen could be key to his development in the middle order.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13589123/england-vs-sri-lanka-nasser-hussain-says-new-white-ball-mentor-kevin-pietersen-could-be-key-for-second-coming-of-tom-banton",
-      "published": "Fri, 18 Sep 2026 07:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
