@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-18T07:37:50.276156+00:00",
+  "updated_at": "2026-09-18T07:51:39.155741+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Pittodrie LIVE": "",
     "Mail John": "",
     "BlueSky Chelsea": "",
     "Robert Sanchez": "",
@@ -3001,7 +3000,8 @@
     "FA Cup": "FAカップ",
     "Chelsea. The American": "",
     "Stamford Bridge": "",
-    "Clearlake Capi": ""
+    "Clearlake Capi": "",
+    "Owen Elding": ""
   },
   "items": [
     {
@@ -3173,6 +3173,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "パスポートの遅延後のアイルランドのチャンスの準備",
+      "summary": "ハイベルニアンストライカーOwen Elding 初めての公式コールアップを受け取るリパブリックアイルランドのシニアは、彼らの始まりのためにスクワッド Nations League キャンペーン",
+      "title_original": "Elding ready for Irish chance after passport delay",
+      "summary_original": "Hibernian striker Owen Elding receives his first official call-up to the Republic of Ireland senior squad for the start of their Nations League campaign.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrk38xr5rgpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 07:11:05 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "スパイダーはまだクライミング - 腕時計 Queen's ParkBBC の V Ayr",
       "summary": "Sportscene's Jonathan Sutherland 金曜日のライブをプレビューBBC Scotland TV マッチとして Queen's Park ホスト Ayr United.",
       "title_original": "Spiders still climbing - watch Queen's Park v Ayr on BBC",
@@ -3180,6 +3194,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmlyexny15q2o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 06:02:37 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "FA チェア要求 Infantino リリース World Cup 販売オフ文書",
+      "summary": "フィファ会長 Gianni Infantino 株式を売却する彼の論争計画に関連するすべての文書を解放するように言われています World Cup.",
+      "title_original": "FA chair demands Infantino release World Cup sell-off documents",
+      "summary_original": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 14:26:53 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3201,20 +3229,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "FA チェア要求 Infantino リリース World Cup 販売オフ文書",
-      "summary": "フィファ会長 Gianni Infantino 株式を売却する彼の論争計画に関連するすべての文書を解放するように言われています World Cup.",
-      "title_original": "FA chair demands Infantino release World Cup sell-off documents",
-      "summary_original": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 14:26:53 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "レアル・マドリードログインマンチェスター・ユナイテッドフォワード・ガブリエル、15",
       "summary": "レアル・マドリード強いインテル15 歳までの獲得で一番マンチェスター・ユナイテッド獲得 JJ Gabriel.",
       "title_original": "Real Madrid keen on Man Utd forward Gabriel, 15",
@@ -3226,20 +3240,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "希望を与えられたチーム...その後、4 ヶ月後にイスラエルを襲ったハマス",
-      "summary": "イスラエルのサッカー選手の黄金世代の可能性は、スポーツや社会で実現できますか?",
-      "title_original": "A team that offered hope... then, four months later, Hamas attacked Israel",
-      "summary_original": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 05:23:59 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3355,6 +3355,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "希望を与えられたチーム...その後、4 ヶ月後にイスラエルを襲ったハマス",
+      "summary": "イスラエルのサッカー選手の黄金世代の可能性は、スポーツや社会で実現できますか?",
+      "title_original": "A team that offered hope... then, four months later, Hamas attacked Israel",
+      "summary_original": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 05:23:59 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "なぜ敗北に対処することは、Coventry の Lampard のキーです",
       "summary": "BBC スポーツコラムニスト Tony PulisCoventry 上司の理由を説明する Frank Lampard 季節が始まると、自分の選手や選手を管理する必要があります。",
       "title_original": "Why dealing with defeat is key for Lampard at Coventry",
@@ -3394,20 +3408,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Klopp はドイツの選挙で「宣言」フラグを望んでいます",
-      "summary": "New Germany コーチングユルゲン・クロップ彼のチームは、最近の遠方選挙の勝利の後に「国家の誇りは間違った人々に委任されていない」を確保するのに役立ちます。",
-      "title_original": "Klopp wants to 'reclaim' flag amid German elections",
-      "summary_original": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 13:02:40 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
