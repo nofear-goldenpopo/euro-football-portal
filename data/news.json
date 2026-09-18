@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-18T17:06:02.054563+00:00",
+  "updated_at": "2026-09-18T17:22:45.270266+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Cunha. Subs": "",
-    "Sesko. Continue": "",
-    "Aberdeen Hearts": "",
-    "Gabriel Martinelli": "",
-    "Brazilian Gabriel Jesus": "",
     "Deadline Day": "",
     "Gary Neville": "ガリー・ネヴィル",
     "Bluesky It": "",
@@ -3001,7 +2996,12 @@
     "Congo. It": "",
     "On. The": "",
     "Brighton Arsenal": "",
-    "Derbyshire Police": ""
+    "Derbyshire Police": "",
+    "Former France": "",
+    "Patrick Vieira": "",
+    "Barney Ronay": "",
+    "Jorge Luis Borges": "ホルヘ・ルイス・ボルヘス",
+    "Liverpool LIVE": ""
   },
   "items": [
     {
@@ -3156,6 +3156,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Senegal ジョブ の '絶対 夢' のための 新しい ボス Vieira",
+      "summary": "Former France インテル全国 Patrick Vieira, aWorld Cup1998 年の受賞者は、出生国セネガルの担当を「名誉」と言います。",
+      "title_original": "Senegal job an 'absolute dream' for new boss Vieira",
+      "summary_original": "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honour\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 17:01:59 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3341,20 +3355,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アンジェチームの貧しい模造 - どこセルティック& O'Neill はここから行く?",
-      "summary": "別の敗北の後、信仰を維持することは確かにより多くのテストになりますセルティック'ファン、書き込み Tom English.",
-      "title_original": "Poor imitation of Ange team - where do Celtic & O'Neill go from here?",
-      "summary_original": "After another defeat, keeping the faith is surely becoming more testing for Celtic's fans, writes Tom English.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 23:51:07 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email John with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 16:55:44 GMT",
+      "published": "Fri, 18 Sep 2026 17:02:48 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3439,13 +3439,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Tuchel は「0.1%」を聴き、から学ぶべき England’s World Cup ミス |Jacob Steinberg",
-      "summary": "ヘッドコーチは前向きに焦点を合わせることを熱心であるが、Nations League より大きな戦術的なオプションの欲求でのスクワッドヒントトーマス・トゥヘル0.1%を聴く必要があります。As Tuchel イングランド初のスクワッドを以来発表 World Cup, 彼は、彼が参加したサポーターの99.9%は、アルゼンチンゲーム中に彼の置換について話しなかったと述べた. 彼によると、会話ははるかに肯定的です。メモはメキシコとメキシコのノックアウトの勝利と共有されます Democratic Republic 獲得を問い合わせ Congo. It そうなる人",
+      "title": "Tuchel は「0.1%」を聴き、そこから学ぶべき England’s World Cup ミス |Jacob Steinberg",
+      "summary": "ヘッドコーチは前向きに焦点を合わせることを熱心であるが、Nations League より大きな戦術的なオプションの欲求でのスクワッドヒントトーマス・トゥヘル0.1%を聴く必要があります。イングランド初のスクワッドを追い抜いたので World Cup, 彼は、彼が参加したサポーターの99.9%は、アルゼンチンのゲーム中に彼の置換について話しなかったと述べた. 彼によると、会話ははるかに肯定的です。メモはメキシコとメキシコのノックアウトの勝利と共有されます Democratic Republic 獲得を問い合わせ Congo. It 欲しい人",
       "title_original": "Tuchel should listen to ‘the 0.1%’ and learn from England’s World Cup mistakes | Jacob Steinberg",
-      "summary_original": "Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical options Thomas Tuchel should be listening to the 0.1%. As Tuchel unveiled his first England squad since the World Cup, he said 99.9% of supporters he bumped into did not talk about his substitutions during the Argentina game. According to him, the conversation is far more positive. Memories are shared of the knockout wins over Mexico and the Democratic Republic of the Congo. It seems those who ",
+      "summary_original": "Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical options Thomas Tuchel should be listening to the 0.1%. As he unveiled his first England squad since the World Cup, he said 99.9% of supporters he bumped into did not talk about his substitutions during the Argentina game. According to him, the conversation is far more positive. Memories are shared of the knockout wins over Mexico and the Democratic Republic of the Congo. It seems those who want",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/18/thomas-tuchel-england-squad-world-cup-mistakes-nations-league",
       "published": "Fri, 18 Sep 2026 15:43:17 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "獲得を問い合わせ Max Dowman 影に咲くが、無視しにくい |Barney Ronay",
+      "summary": "サッカー選手のこの最も近代的でよく手入れされたのは、一定のスルチニーの年齢でスポットライトをエスケープすることはできませんが、それを処理するために装備されている外観ホルヘ・ルイス・ボルヘス地図を作るのにとても良いようになった社会について有名な短い話を書きました, そのため、すべての詳細をキャプチャして肥満しました, その定規は、右の仕事を行うための唯一の方法は、その帝国全体の命名マップを作るためにだった, その後、海岸から海岸に実際の土地をレイアウトすることができ. Br の地図を想像する",
+      "title_original": "We wanted to let Max Dowman bloom in the shadows but he has become hard to ignore | Barney Ronay",
+      "summary_original": "This most modern and well-honed of footballers will not be able to escape the spotlight in an age of constant scrutiny but looks equipped to handle it The poet Jorge Luis Borges wrote a famous short story about a society that had become so good at making maps, so obsessed with capturing every detail, that its rulers decided the only way to do the job right was to make a lifesize map of its entire empire, which could then be laid out across the actual land from coast to coast. Imagine a map of Br",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/max-dowman-arsenal-young-players",
+      "published": "Fri, 18 Sep 2026 16:59:40 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3530,20 +3544,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-team-news-predicted-lineups-for-the-weekend-action",
       "published": "Fri, 18 Sep 2026 14:33:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "プレミアリーグ: 今週の週末を眺める10 の事",
-      "summary": "トッテナムそして別荘は絶望の derby で会いますアンドニ・イラオラ南ローストリターンのテストに直面して下さいプレミアリーグトップスコアラー:最新の順位を確認してくださいチェルシー以来、この西ロンドンのダービーを獲得していないブレントフォード’s 最初のプレミアリーグ 2021 年10 月1-0 勝以来の各訪問、Ben Chilwell スコアラーはドローです。この季節は、クラブのそれぞれのアプローチのディバージェンスを続けてきました。ブレントフォード’s の固着および継続性と対比チェルシー最新の再起動を試みる。ログイン",
-      "title_original": "Premier League: 10 things to look out for this weekend",
-      "summary_original": "Spurs and Villa meet in desperation derby and Andoni Iraola faces test on south-coast return Premier League top scorers: check the latest standings Chelsea have not won this west London derby since Brentford’s first Premier League season. Each visit since October 2021’s 1-0 win , Ben Chilwell the scorer, has been a draw. This season has continued the divergence between the clubs’ respective approaches, Brentford’s solidity and continuity contrasting with Chelsea attempting their latest reboot. K",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend",
-      "published": "Thu, 17 Sep 2026 23:01:01 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3775,6 +3775,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "プレミアリーグ: 今週の週末を眺める10 の事",
+      "summary": "トッテナムそして別荘は絶望の derby で会いますアンドニ・イラオラ南ローストリターンのテストに直面して下さいプレミアリーグトップスコアラー:最新の順位を確認してくださいチェルシー以来、この西ロンドンのダービーを獲得していないブレントフォード’s 最初のプレミアリーグ 2021 年10 月1-0 勝以来の各訪問、Ben Chilwell スコアラーはドローです。この季節は、クラブのそれぞれのアプローチのディバージェンスを続けてきました。ブレントフォード’s の固着および継続性と対比チェルシー最新の再起動を試みる。ログイン",
+      "title_original": "Premier League: 10 things to look out for this weekend",
+      "summary_original": "Spurs and Villa meet in desperation derby and Andoni Iraola faces test on south-coast return Premier League top scorers: check the latest standings Chelsea have not won this west London derby since Brentford’s first Premier League season. Each visit since October 2021’s 1-0 win , Ben Chilwell the scorer, has been a draw. This season has continued the divergence between the clubs’ respective approaches, Brentford’s solidity and continuity contrasting with Chelsea attempting their latest reboot. K",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend",
+      "published": "Thu, 17 Sep 2026 23:01:01 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "カルロス・エスピプレゼントレアル・マドリード顔の希望バルセロナ獲得を問い合わせラ・リーガストーム |Sid Lowe",
       "summary": "とバルセロナ7 ゴールのスリラーをラックアップレアル・マドリード崩壊する余裕がない。静かに回る先に入って下さいジョゼ・モウリーニョ究極の秘密兵器ジョゼ・モウリーニョ呼ばれ、カルロス・エスピ横に来た。最近は騒々しかったし、それはほとんど終わっていた - 試合と多分それ以上のもの - いつレアル・マドリード’ s のコーチは、火曜日の夜に 1 つの側面にもフラットメイトの先を連れて行きました。. 閉じる,モウリーニョ紙の部分もあった。小さい,",
       "title_original": "Carlos Espí gives Real Madrid hope in the face of Barcelona’s La Liga storm | Sid Lowe",
@@ -3831,20 +3845,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ハル・シティ’ s は、チャンピオンシップの闘争から上昇します。プレミアリーグフライヤー",
-      "summary": "ハルほぼ再資源化 League One 年末年始 今、彼らは4 で4 ですプレミアリーグ WhoScored 16 ヶ月前ハル・シティ再資源化を回避 League One ゴールの違いについて。4 ヶ月前、彼らはから最後の分の目標を必要としていましたオリヴァー・マクバーニーWembley でチャンピオンシッププレイオフ決勝を獲得。前のシーズン予測が公開された3 週間前に、脅威に陥ったダービー・カウンティ FC’ s の記録 最悪 今まで ポイント 高身長 でプレミアリーグ. 土曜日の夜、彼らは l",
-      "title_original": "Hull City’s rise from Championship strugglers to Premier League fliers",
-      "summary_original": "Hull were nearly relegated to League One last year. Now they are fourth in the Premier League By WhoScored Sixteen months ago Hull City avoided relegation to League One on goal difference. Four months ago, they needed a last-minute goal from Oli McBurnie at Wembley to win the Championship playoff final. Three weeks ago, when the pre-season predictions were published, they were tipped to threaten Derby County’s record of the worst ever points tally in the Premier League. On Saturday night, they l",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/who-scored-blog/2026/sep/17/hull-city-championship-premier-league",
-      "published": "Thu, 17 Sep 2026 16:06:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ブレントフォード対比チェルシースカイで LIVE をビルドアップ!",
       "summary": "",
       "title_original": "Brentford vs Chelsea build-up LIVE on Sky!",
@@ -3852,6 +3852,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brentford-vs-chelsea/live/559485",
       "published": "Tue, 18 Aug 2026 17:55:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "WSL:Mead は最初に作りますマンチェスター・シティスタート対リヴァプールライブ!",
+      "summary": "",
+      "title_original": "WSL: Mead makes first Man City start vs Liverpool LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-city-women-vs-liverpool-women/live/575769",
+      "published": "Fri, 18 Sep 2026 18:10:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13589123/england-vs-sri-lanka-nasser-hussain-says-new-white-ball-mentor-kevin-pietersen-could-be-key-for-second-coming-of-tom-banton",
       "published": "Fri, 18 Sep 2026 07:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ビルズがライオンズを越える新しいスタジアムをオープンさせるアレンスター",
-      "summary": "Josh Allen すぐに彼のスタンプを置くバッファロー・ビルズ「新しい」ハイマーク・スタジアム彼が3 つのタッチダウンパスを投げ、ビルが倒すにつれて2 つのスコアのために走ったように Detroit Lions 木曜日の夜に41-31。",
-      "title_original": "Allen stars as Bills open new stadium with win over Lions",
-      "summary_original": "Josh Allen quickly put his stamp on the Buffalo Bills' new Highmark Stadium as he threw three touchdown passes and ran for two scores as the Bills beat the Detroit Lions 41-31 on Thursday night.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nfl/news/12040/13589168/buffalo-bills-beat-detroit-lions-41-31-in-first-match-at-highmark-stadium-as-josh-allen-stars-again",
-      "published": "Fri, 18 Sep 2026 06:06:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
