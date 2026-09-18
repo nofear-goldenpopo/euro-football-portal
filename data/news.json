@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-09-18T15:51:59.869921+00:00",
+  "updated_at": "2026-09-18T16:06:33.978952+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Bluesky Marcus Rashford": "",
-    "Ruben Amorim": "ルベン・アモリム",
-    "Patrick Dorgu": "",
-    "Diogo Dalot": "",
-    "Lisandro Martinez": "",
-    "Andrey Santos": "",
-    "Battling Brighton": "",
-    "Chelsea LIVE": "",
     "Bluesky Gary O’Neil": "",
     "Cunha. Subs": "",
     "Sesko. Continue": "",
@@ -3001,7 +2993,15 @@
     "Martin O’Neill’s Celtic": "",
     "Joe Newell": "",
     "Will Celtic": "",
-    "Will Derek McInnes": ""
+    "Will Derek McInnes": "",
+    "Dundee United": "ダンディー・ユナイテッドFC",
+    "Jim Goodwin": "",
+    "Jacob Steinberg": "",
+    "As Tuchel": "",
+    "Democratic Republic": "",
+    "Congo. It": "",
+    "On. The": "",
+    "Brighton Arsenal": ""
   },
   "items": [
     {
@@ -3047,6 +3047,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Uefa&Concacaf デマンド Fifa は、すべての211 メンバーに$ 10m を支払う",
+      "summary": "Uefa と Concaf は、Fifa の共同声明を発行し、そのキャッシュリザーブから 211 加盟団体のそれぞれに $10m を支払います。",
+      "title_original": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
+      "summary_original": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 15:53:18 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Gabriel, 15, でバルセロナ amid の speculation の未来",
       "summary": "マンチェスター・ユナイテッドヤングスターJJ Gabriel 旅行へバルセロナ欧州最大のクラブの何人かが、シグネチャーのために続行する。",
       "title_original": "Gabriel, 15, in Barcelona amid speculation over future",
@@ -3058,6 +3072,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "London City's 新研修センター「もっともっともっと」プレミアリーグクラブ - カン",
+      "summary": "Michele Kang 信じるロンドン・シティ・ライオネス' 計画された新しい訓練場はほとんどの人の人によって使用される女性のゲームで新しい標準を置き、設備を越えますプレミアリーグクラブ",
+      "title_original": "London City's new training centre 'better than most Premier League clubs' - Kang",
+      "summary_original": "Michele Kang believes London City Lionesses' planned new training ground will set a new standard in the women's game and surpass facilities used by most men's Premier League clubs.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crl69549wzro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 16:03:14 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3131,20 +3159,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イエスの最初のポルトガルのスクワッドで名付けられたロナルド",
-      "summary": "クリスティアーノ・ロナウド新しいポルトガルのコーチによって選ばれた最初のチームに名前を付けられますジョルジェ・ジェズス今後の予定 Nations League ゲーム。",
-      "title_original": "Ronaldo named in Jesus' first Portugal squad",
-      "summary_original": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 12:45:25 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "うつ病後からチェルシー37 で非リーグを再生するケガ",
       "summary": "Sam Hutchinson プレイする準備が整っている Farnham Town2 番目の予選ラウンドで FA カップ- 19 年 作ってからチェルシーデビュージョゼ・モウリーニョ.",
       "title_original": "From depression after Chelsea injury to playing non-league at 37",
@@ -3187,6 +3201,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "イエスの最初のポルトガルのスクワッドで名付けられたロナルド",
+      "summary": "クリスティアーノ・ロナウド新しいポルトガルのコーチによって選ばれた最初のチームに名前を付けられますジョルジェ・ジェズス今後の予定 Nations League ゲーム。",
+      "title_original": "Ronaldo named in Jesus' first Portugal squad",
+      "summary_original": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 12:45:25 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "貧しいスタートの後の批判的「正常」 -マンチェスター・ユナイテッドオライド",
       "summary": "マンチェスター・ユナイテッドマネージャーEva OlidWSL キャンペーンのスタートが悪くなって「建設的な批判」を期待する「normal」だと言います。",
       "title_original": "Criticism 'normal' after poor start - Man Utd's Olid",
@@ -3215,6 +3243,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「良い健康」で Goodwin は「簡単な手順」を必要とします",
+      "summary": "ダンディー・ユナイテッド FC マネージャーJim Goodwin「簡単な手順」が必要な最近の病院の怖いことについて詳しく調べるのではなく、「私は完全な健康に戻り、掘り出しから3 つのゲーム欠如した後に行くことを言ってください。",
+      "title_original": "Goodwin in 'good health' but needs 'simple procedure'",
+      "summary_original": "Dundee United manager Jim Goodwin is not for going into detail about his recent hospital scare that requires \"a simple procedure\" but is \"pleased to say I am back to full health and raring to go\" after a three-game absence from the dugout.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c54g7jnjj2mxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 15:50:56 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Wrexham の所有者は、Spygate を Southampton で目指す",
       "summary": "ライアン・レイノルズそして、Rob Mac この週末は、チャンピオンシップフィクスの先にある、次の対戦相手で楽しいプレーをしました。",
       "title_original": "Wrexham owners aim Spygate dig at Southampton",
@@ -3222,6 +3264,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 12:03:30 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "-17 ポイントから夢のヨーロッパはボーンマスのために始まります",
+      "summary": "ボーンマスが始まりました League Two2008 年の17 ポイントでシーズンし、ヨーロッパの競争で夢の始まりをしました。",
+      "title_original": "From -17 points to dream European start for Bournemouth",
+      "summary_original": "Bournemouth started a League Two season on -17 points in 2008, now they have made a dream start in European competition.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 23:30:34 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3271,20 +3327,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "-17 ポイントから夢のヨーロッパはボーンマスのために始まります",
-      "summary": "ボーンマスが始まりました League Two2008 年の17 ポイントでシーズンし、ヨーロッパの競争で夢の始まりをしました。",
-      "title_original": "From -17 points to dream European start for Bournemouth",
-      "summary_original": "Bournemouth started a League Two season on -17 points in 2008, now they have made a dream start in European competition.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 23:30:34 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "アンジェチームの貧しい模造 - どこセルティック& O'Neill はここから行く?",
       "summary": "別の敗北の後、信仰を維持することは確かにより多くのテストになりますセルティック'ファン、書き込み Tom English.",
       "title_original": "Poor imitation of Ange team - where do Celtic & O'Neill go from here?",
@@ -3327,48 +3369,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "からの移動ニューカッスル獲得を問い合わせリヴァプール簡単な決定 - Isak",
-      "summary": "ストライカーアレクサンデル・イサクコメントリヴァプール彼がクラブに参加した理由の大きな部分だった彼に獲得するための野心と決意。",
-      "title_original": "Moving from Newcastle to Liverpool easy decision - Isak",
-      "summary_original": "Striker Alexander Isak says Liverpool's ambition and determination to sign him was a big part of why he joined the club.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckvgypz42n36o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 05:12:10 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Junior Kroupi 獲得を問い合わせアーセナルレーダー - 金曜日のゴシップ",
-      "summary": "アーセナル見ているボーンマスの若者 Eli Junior Kroupi, レアル・マドリード入居を検討中エヴァートン獲得を問い合わせジャラッド・ブランスウェイト, チェルシー獲得を問い合わせインテル ested で Nico Williams、プラス多く。",
-      "title_original": "Junior Kroupi on Arsenal radar - Friday's gossip",
-      "summary_original": "Arsenal are eyeing Bournemouth youngster Eli Junior Kroupi, Real Madrid are considering a move for Everton's Jarrad Branthwaite, Chelsea are interested in Nico Williams, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crn8ez44ywqdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 22:14:43 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ライバルが更新されました: ダービーゲームは、このシーズンをバックアップ",
-      "summary": "ウェストハム Millwall および Wolves のホストを訪問して下さいウェスト・ブロムウィッチ・アルビオン FC 第1 回 決勝戦 決勝戦が更新されます。",
-      "title_original": "Rivalries renewed: The derby games back this season",
-      "summary_original": "West Ham visit Millwall and Wolves host West Bromwich Albion in the first derby weekend of the Championship season as fierce rivalries are renewed.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8d8nkglr7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 13:53:22 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "タッチェルは、イギリスのパルマとアレクサンダー・アーノルドをリコール",
       "summary": "トーマス・トゥヘルリコールトレント・アレクサンダー＝アーノルドそして、コール・パーマー2026 年以来、イギリス初のスクワッドへ World Cup.",
       "title_original": "Tuchel recalls Palmer and Alexander-Arnold for England",
@@ -3376,6 +3376,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c61wx5x33jyjo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 11:49:14 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「私はこのチャリティーとしてやっていません」 - 「フィールドを再生する」しようとカン",
+      "summary": "ロンドン・シティ・ライオネススタッフ Michele Kang 女性のスポーツのインフラがより重要である理由を共有します。",
+      "title_original": "'I'm not doing this as a charity' - Kang on trying to 'level playing field'",
+      "summary_original": "London City Lionesses owner Michele Kang shares why it is so important for more infrastructure in women's sports.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq4gmlypvd8vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 16:01:07 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3411,30 +3425,44 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「ルールを変更することはできません」 - NI/ROI の適格性に関する O'Neill",
-      "summary": "北アイルランドマネージャーMichael O'Neill 獲得を問い合わせ BBC Sport NI's Stephen ワトソンについて推測についてアーセナルヤングスターCeadach O'Neill's インテル来日予定のニ・スクワッドに名前をつけて、国民の未来 Nations League 備品。",
-      "title_original": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
-      "summary_original": "Northern Ireland manager Michael O'Neill speaks to BBC Sport NI's Stephen Watson about speculation regarding Arsenal youngster Ceadach O'Neill's international future as he is named in the NI squad for their upcoming Nations League fixtures.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwm2rjzgxex4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 12:43:49 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "アレクサンダー・アーノルドとパルマーのためのイングランドのリコール; カラリックは「ばらしさ」の推測を却下 - ライブ",
       "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email John どんな想いでもトレント・アレクサンダー＝アーノルド, Alex Scott, コール・パーマーそして、リオ・エングモア獲得を問い合わせ そこには場所がありませんフィル・フォーデン. 以下に来るために満たして下さい。続きを読む...",
       "title_original": "England recalls for Alexander-Arnold and Palmer; Carrick dismisses ‘ridiculous’ speculation – live",
       "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email John with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 15:43:27 GMT",
+      "published": "Fri, 18 Sep 2026 15:52:15 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Tuchel は「0.1%」を聴き、から学ぶべき England’s World Cup ミス |Jacob Steinberg",
+      "summary": "ヘッドコーチは前向きに焦点を合わせることを熱心であるが、Nations League より大きな戦術的なオプションの欲求でのスクワッドヒントトーマス・トゥヘル0.1%を聴く必要があります。As Tuchel イングランド初のスクワッドを以来発表 World Cup, 彼は、彼が参加したサポーターの99.9%は、アルゼンチンゲーム中に彼の置換について話しなかったと述べた. 彼によると、会話ははるかに肯定的です。メモはメキシコとメキシコのノックアウトの勝利と共有されます Democratic Republic 獲得を問い合わせ Congo. It そうなる人",
+      "title_original": "Tuchel should listen to ‘the 0.1%’ and learn from England’s World Cup mistakes | Jacob Steinberg",
+      "summary_original": "Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical options Thomas Tuchel should be listening to the 0.1%. As Tuchel unveiled his first England squad since the World Cup, he said 99.9% of supporters he bumped into did not talk about his substitutions during the Argentina game. According to him, the conversation is far more positive. Memories are shared of the knockout wins over Mexico and the Democratic Republic of the Congo. It seems those who ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/thomas-tuchel-england-squad-world-cup-mistakes-nations-league",
+      "published": "Fri, 18 Sep 2026 15:43:17 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "キリアン・エムバペ20 年後にナイキを残して、ブーツの移籍をスイスのブランドに獲得します",
+      "summary": "フランスのキャプテンも会社の株主になる「私たちは共有夢を持っており、これが始まりです」キリアン・エムバペナイキと20 年を結び、スイスのチャレンジャー会社とブーツ契約を締結 On. The ランニングとテニスに重点を置いたスポーツとレジャーブランドは、来年サッカーに大きな動きを計画し、また任命されています Thierry Henry サッカーディレクターとして。続きを読む...",
+      "title_original": "Kylian Mbappé leaves Nike after 20 years to sign boot deal with Swiss brand On",
+      "summary_original": "France captain also becomes a shareholder in company ‘We have a shared dream, and this is only the beginning’ Kylian Mbappé has ended a 20-year association with Nike to sign a boot deal with the Swiss challenger company On. The sports and leisure brand, which has previously focused on running and tennis, is planning a major move into football next year and has also appointed Thierry Henry as its football director. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/kylian-mbappe-leaves-nike-20-years-boot-deal-swiss-brand-on",
+      "published": "Fri, 18 Sep 2026 15:48:52 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3481,20 +3509,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグ: 今週の週末を眺める10 の事",
-      "summary": "トッテナムそして別荘は絶望の derby で会いますアンドニ・イラオラ南ローストリターンのテストに直面して下さいプレミアリーグトップスコアラー:最新の順位を確認してくださいチェルシー以来、この西ロンドンのダービーを獲得していないブレントフォード’s 最初のプレミアリーグ 2021 年10 月1-0 勝以来の各訪問、Ben Chilwell スコアラーはドローです。この季節は、クラブのそれぞれのアプローチのディバージェンスを続けてきました。ブレントフォード’s の固着および継続性と対比チェルシー最新の再起動を試みる。ログイン",
-      "title_original": "Premier League: 10 things to look out for this weekend",
-      "summary_original": "Spurs and Villa meet in desperation derby and Andoni Iraola faces test on south-coast return Premier League top scorers: check the latest standings Chelsea have not won this west London derby since Brentford’s first Premier League season. Each visit since October 2021’s 1-0 win , Ben Chilwell the scorer, has been a draw. This season has continued the divergence between the clubs’ respective approaches, Brentford’s solidity and continuity contrasting with Chelsea attempting their latest reboot. K",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend",
-      "published": "Thu, 17 Sep 2026 23:01:01 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ミルウォールとロアシンガーウェストハム再開の猛禽",
       "summary": "The Metropolitan 警察は、南と東ロンドンのチームは14 年後の土曜日に再び会うように暴力に取り組むための特別な力を与えられました。攻撃は、心臓がフォンダーを成長させていない。ミルウォールとウェストハム土曜日に14 年ぶりに会いましょうが、楽しい思い出になることはありません。ニュー・デン・スタジアム. 雰囲気は熱心であり、主な希望は、ピッチから離れた非密さではなく、サッカーに焦点があることです。これら2 つは、前回もたくさんありますが、",
       "title_original": "Fear and loathing linger as Millwall and West Ham resume ferocious rivalry",
@@ -3510,9 +3524,9 @@
     },
     {
       "title": "プレミアリーグチームニュース:週末のアクションの予想されるラインナップ",
-      "summary": "トッテナム土曜日の行動から始まるアストン・ヴィラふりがなアーセナル100%の賞金を記録し続けることを目指していますブライトン土曜日 12.30pmTNT Sports1 会場トッテナムスタジアム 続きを読む...",
+      "summary": "トッテナム土曜日の行動から始まるアストン・ヴィラしばらくお待ちくださいブライトン アーセナル100%の賞金を記録し続けることを目指している土曜日12.30pmTNT Sports1 会場トッテナムスタジアム 続きを読む...",
       "title_original": "Premier League team news: predicted lineups for the weekend action",
-      "summary_original": "Tottenham begin Saturday’s action against Aston Villa while Arsenal are aiming to keep their 100% winning record at Brighton Saturday 12.30pm TNT Sports 1 Venue Tottenham Hotspur Stadium Continue reading...",
+      "summary_original": "Tottenham begin Saturday’s action against Aston Villa while at Brighton Arsenal are aiming to keep their 100% winning record Saturday 12.30pm TNT Sports 1 Venue Tottenham Hotspur Stadium Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-team-news-predicted-lineups-for-the-weekend-action",
       "published": "Fri, 18 Sep 2026 14:33:52 GMT",
@@ -3523,31 +3537,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッド・ベーリー出口チェルシー彼の指を燃やした後に掘られた",
-      "summary": "億万長者の出発は日々変化しますが、クラブのスタジアムの計画では重要ではありませんが、移転市場の悲しい世界への運命は、トッド・ベーリー昼から日にかけては本当に影響を受けたチェルシー. アメリカンは、彼の仲間の投資家と一緒に、4 年ぶりに減少した数字としてサッカーを終了します Mark Walter と言うべき最初のことは、少しが変化するということです Stamford Bridge ボヘリーが舞台を離れるので、ちょうどボードルーム.Clearlake Capi",
-      "title_original": "Todd Boehly exits Chelsea diminished after having his fingers burned",
-      "summary_original": "The billionaire’s departure will change little day-to-day but could be significant for club’s stadium plans Not since a doomed foray into the thorny world of the transfer market has Todd Boehly had any real influence over the day-to-day at Chelsea. The American exits football as a diminished figure four years on, along with his fellow investor Mark Walter, and the first thing to say is that little will change in the Stamford Bridge boardroom just because Boehly has left the scene. Clearlake Capi",
+      "title": "プレミアリーグ: 今週の週末を眺める10 の事",
+      "summary": "トッテナムそして別荘は絶望の derby で会いますアンドニ・イラオラ南ローストリターンのテストに直面して下さいプレミアリーグトップスコアラー:最新の順位を確認してくださいチェルシー以来、この西ロンドンのダービーを獲得していないブレントフォード’s 最初のプレミアリーグ 2021 年10 月1-0 勝以来の各訪問、Ben Chilwell スコアラーはドローです。この季節は、クラブのそれぞれのアプローチのディバージェンスを続けてきました。ブレントフォード’s の固着および継続性と対比チェルシー最新の再起動を試みる。ログイン",
+      "title_original": "Premier League: 10 things to look out for this weekend",
+      "summary_original": "Spurs and Villa meet in desperation derby and Andoni Iraola faces test on south-coast return Premier League top scorers: check the latest standings Chelsea have not won this west London derby since Brentford’s first Premier League season. Each visit since October 2021’s 1-0 win , Ben Chilwell the scorer, has been a draw. This season has continued the divergence between the clubs’ respective approaches, Brentford’s solidity and continuity contrasting with Chelsea attempting their latest reboot. K",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
-      "published": "Fri, 18 Sep 2026 07:00:12 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend",
+      "published": "Thu, 17 Sep 2026 23:01:01 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Kluivert と Rayan 岩レアル・ソシエダ Bournemouth がヨーロッパの弓で勝つように",
-      "summary": "最初の目標は、AFC ボーンマス欧州で得たスコアはビスケー湾で聴くことができます。伝統からレアル・ソシエダ’ 古い Atotxa グラウンド, 一度失われたが、今 Anoeta で回復, 単一のフレアは、ホームチームが行うときに2 が点灯している間、訪問者のスコアが毎回オフに設定されていることを指示する; 海にそれらがスコアを知っている方法. そして、それは9 月2026 日の木曜日の夜に21.41 で、Justin Kluivert ネットと名付けられた人を見つけました Juan Iturralde 路地に出てルに",
-      "title_original": "Kluivert and Rayan rock Real Sociedad as Bournemouth win on European bow",
-      "summary_original": "The first goal that AFC Bournemouth ever scored in Europe could be heard out on the Bay of Biscay. A tradition from Real Sociedad’s old Atotxa ground, once lost but now recovered at Anoeta, dictates that a single flare is set off every time the visitors score while two are lit when the home team do; that way those out to sea know the score. And so it was that at 21.41 on a Thursday night in September 2026, Justin Kluivert found the net and a man named Juan Iturralde ran out into the street to le",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/real-sociedad-bournemouth-europa-league-match-report",
-      "published": "Thu, 17 Sep 2026 21:14:08 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3635,6 +3635,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Kluivert と Rayan 岩レアル・ソシエダ Bournemouth がヨーロッパの弓で勝つように",
+      "summary": "最初の目標は、AFC ボーンマス欧州で得たスコアはビスケー湾で聴くことができます。伝統からレアル・ソシエダ’ 古い Atotxa グラウンド, 一度失われたが、今 Anoeta で回復, 単一のフレアは、ホームチームが行うときに2 が点灯している間、訪問者のスコアが毎回オフに設定されていることを指示する; 海にそれらがスコアを知っている方法. そして、それは9 月2026 日の木曜日の夜に21.41 で、Justin Kluivert ネットと名付けられた人を見つけました Juan Iturralde 路地に出てルに",
+      "title_original": "Kluivert and Rayan rock Real Sociedad as Bournemouth win on European bow",
+      "summary_original": "The first goal that AFC Bournemouth ever scored in Europe could be heard out on the Bay of Biscay. A tradition from Real Sociedad’s old Atotxa ground, once lost but now recovered at Anoeta, dictates that a single flare is set off every time the visitors score while two are lit when the home team do; that way those out to sea know the score. And so it was that at 21.41 on a Thursday night in September 2026, Justin Kluivert found the net and a man named Juan Iturralde ran out into the street to le",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/real-sociedad-bournemouth-europa-league-match-report",
+      "published": "Thu, 17 Sep 2026 21:14:08 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Floyd Samba’s デビューダブルリフトマンチェスター・シティ獲得を問い合わせ EFL カップノーリッチで勝つ",
       "summary": "Floyd Samba 毎半の絶え間なくゴールした後、17 歳のグラインディングを持つデビューでこのタイを照らすマンチェスター・シティ直面する高度ブライトン最後の 16 彼らの防衛の EFL カップ. 難波は、年々の兄、ティロネ、アカデミーでもあります。彼らの父親、Christopher は、元ブラックバーンと QPR 擁護者です。続きを読む...",
       "title_original": "Floyd Samba’s debut double lifts Manchester City to Carabao Cup win over Norwich",
@@ -3688,20 +3702,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ピノキックスタートクリスタル・パレス獲得を問い合わせヨーロッパリーグ rout のレフ・ポズナンセージの悩みを緩和する",
-      "summary": "待ち時間に値するクリスタル・パレス. 正しい場所を否定した後ヨーロッパリーグ季節限定 Pierre Sage’s 脇にブラシをかけることによって完全なデビューをした側面レフ・ポズナン新たなマネジャーを離れて熱の一部を取る勝利で.The Frenchman 交換を埋めるために大きな靴を持っているオリヴァー・グラスナー前任者が12 ヶ月のスペースで3 トロフィーを獲得し、ティーンエイジャーJaydee C をドロップする彼の決定に従うシーンの背後にあるいくつかの議論があった後",
-      "title_original": "Pino kickstarts Crystal Palace’s Europa League rout of Lech Poznan to ease Sage’s worries",
-      "summary_original": "It was worth the wait for Crystal Palace. After being denied their rightful place in the Europa League last season, Pierre Sage’s side made the perfect debut by brushing aside Lech Poznan with a victory that will take some of the heat off their new manager. The Frenchman has big shoes to fill in replacing Oliver Glasner after his predecessor won three trophies in the space of 12 months and there had been some talk of disquiet behind the scenes following his decision to drop the teenager Jaydee C",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/crystal-palace-lech-poznan-europa-league-match-report",
-      "published": "Thu, 17 Sep 2026 21:03:55 GMT",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3775,6 +3775,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "トッド・ベーリー出口チェルシー彼の指を燃やした後に掘られた",
+      "summary": "億万長者の出発は日々変化しますが、クラブのスタジアムの計画では重要ではありませんが、移転市場の悲しい世界への運命は、トッド・ベーリー昼から日にかけては本当に影響を受けたチェルシー. アメリカンは、彼の仲間の投資家と一緒に、4 年ぶりに減少した数字としてサッカーを終了します Mark Walter と言うべき最初のことは、少しが変化するということです Stamford Bridge ボヘリーが舞台を離れるので、ちょうどボードルーム.Clearlake Capi",
+      "title_original": "Todd Boehly exits Chelsea diminished after having his fingers burned",
+      "summary_original": "The billionaire’s departure will change little day-to-day but could be significant for club’s stadium plans Not since a doomed foray into the thorny world of the transfer market has Todd Boehly had any real influence over the day-to-day at Chelsea. The American exits football as a diminished figure four years on, along with his fellow investor Mark Walter, and the first thing to say is that little will change in the Stamford Bridge boardroom just because Boehly has left the scene. Clearlake Capi",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
+      "published": "Fri, 18 Sep 2026 07:00:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ラヒーム・スターリング’ bleak tale a リマインダー の absurd パス 若い サッカー選手 顔 |Jonathan Liew",
       "summary": "ウィンガーは、最初の大きなお金のアカデミートミー移籍の1 つでした, 明らかに疑問に思っていた子供労働市場の一部 “あなたの名前は何ですか?” “レイエム”. 続きを読む...",
       "title_original": "Raheem Sterling’s bleak tale a reminder of absurd path young footballers face | Jonathan Liew",
@@ -3828,20 +3842,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "サッカーファンが初めてレプリカキットを着て始めたとき? |The Knowledge",
-      "summary": "プラス:より高価(そして有益)レッドカード s と 3 世紀半ばの攻撃インテル国民の目標 あなたのすべての質問に私たちを郵送し、「レプリカキットを身に着けているファンが何かになるとき」答えます? 尋ねる Alex Ecob. 「古い映像は、通常の服やチームカラーのいくつかのスカーフ/フラグで人々を示しています。トレンドが始まりましたか? まずは1 部のクラブがもらえますか? 質問が示すように、これは簡単な答えではありません。著作権行為から悪意のある人々を抱えるように、",
-      "title_original": "When did football fans first start wearing replica kits? | The Knowledge",
-      "summary_original": "Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goals Mail us with your all of your questions and answers “When did fans wearing replica kits become a thing?” asks Alex Ecob. “Older footage shows people in regular clothes and a few scarves/flags in the team colours. What kickstarted the trend? Did one club get there first?” As the question suggests, this is a not a straightforward answer. Buckle up folks, as we veer wildly from copyright acts to",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits",
-      "published": "Wed, 16 Sep 2026 07:00:14 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
