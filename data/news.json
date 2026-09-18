@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-09-18T07:08:43.416400+00:00",
+  "updated_at": "2026-09-18T07:25:17.601724+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Abdul Abdulmalik": "",
-    "Rangers LIVE": "",
-    "Iwan Roberts": "",
-    "Phil Parkinson": "",
-    "Arsenal's Vieira": "",
-    "Fabio Vieira": "",
     "Pittodrie LIVE": "",
     "Mail John": "",
     "BlueSky Chelsea": "",
@@ -3001,7 +2995,13 @@
     "Ayr United": "",
     "FPL Heisenberg": "",
     "Will Carrick": "",
-    "Manchester United's Carabao Cup": ""
+    "Manchester United's Carabao Cup": "",
+    "Sam Hutchinson": "",
+    "Farnham Town": "",
+    "FA Cup": "FAカップ",
+    "Chelsea. The American": "",
+    "Stamford Bridge": "",
+    "Clearlake Capi": ""
   },
   "items": [
     {
@@ -3047,6 +3047,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Tuchel のイギリス初のスクワッドの大きな質問 World Cup",
+      "summary": "獲得トーマス・トゥヘル名前 彼の最初のスクワット以来 World Cup 金曜日、BBC スポーツはイングランドのボスに直面している大きな質問を見ています。",
+      "title_original": "The big questions for Tuchel's first England squad since World Cup",
+      "summary_original": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 16:47:18 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "うつ病後からチェルシー37 で非リーグを再生するケガ",
+      "summary": "Sam Hutchinson プレイする準備が整っている Farnham Town2 番目の予選ラウンドで FA カップ- 19 年 作ってからチェルシーデビュージョゼ・モウリーニョ.",
+      "title_original": "From depression after Chelsea injury to playing non-league at 37",
+      "summary_original": "Sam Hutchinson is getting ready to play for Farnham Town in the second qualifying round of the FA Cup - 19 years after making his Chelsea debut under Jose Mourinho.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 07:10:13 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "からの移動ニューカッスル獲得を問い合わせリヴァプール簡単な決定 - Isak",
       "summary": "ストライカーアレクサンデル・イサクコメントリヴァプール彼がクラブに参加した理由の大きな部分だった彼に獲得するための野心と決意。",
       "title_original": "Moving from Newcastle to Liverpool easy decision - Isak",
@@ -3075,20 +3103,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Tuchel のイギリス初のスクワッドの大きな質問 World Cup",
-      "summary": "獲得トーマス・トゥヘル名前 彼の最初のスクワット以来 World Cup 金曜日、BBC スポーツはイングランドのボスに直面している大きな質問を見ています。",
-      "title_original": "The big questions for Tuchel's first England squad since World Cup",
-      "summary_original": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 16:47:18 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Sutton の予測 v 伝説的なギタリストジョニー・マー",
       "summary": "BBC スポーツサッカーの専門家クリス・サットン伝説的なギタリストとマンチェスター・シティファンジョニー・マーこの週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
       "title_original": "Sutton's predictions v legendary guitarist Johnny Marr",
@@ -3099,6 +3113,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Wrexham の所有者は、Spygate を Southampton で目指す",
+      "summary": "ライアン・レイノルズそして、Rob Mac この週末は、チャンピオンシップフィクスの先にある、次の対戦相手で楽しいプレーをしました。",
+      "title_original": "Wrexham owners aim Spygate dig at Southampton",
+      "summary_original": "Ryan Reynolds and Rob Mac have poked fun at next opponents Southampton ahead of their Championship fixture this weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 19:10:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3152,20 +3180,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmlyexny15q2o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 06:02:37 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Wrexham の所有者は、Spygate を Southampton で目指す",
-      "summary": "ライアン・レイノルズそして、Rob Mac この週末は、チャンピオンシップフィクスの先にある、次の対戦相手で楽しいプレーをしました。",
-      "title_original": "Wrexham owners aim Spygate dig at Southampton",
-      "summary_original": "Ryan Reynolds and Rob Mac have poked fun at next opponents Southampton ahead of their Championship fixture this weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 19:10:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3411,17 +3425,45 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ハリムソンは、イスラエルのゲームについてプレイヤーに個別に話しました",
-      "summary": "ヘッドコーチ Heimir Hallgrimsson 彼はイスラエルに直面する見通しについて、アイルランドの彼の共和国の選手に個別にチームを組んだと言います, 「私たちの誰もがこれらのゲームで快適なプレーを感じる」を追加.",
-      "title_original": "Hallgrimsson spoke to players individually about Israel games",
-      "summary_original": "Head coach Heimir Hallgrimsson says he spoke to players in his Republic of Ireland squad individually about the prospect of facing Israel, adding \"none of us feel comfortable playing in these games\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm5y5v9ndg9qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 12:44:27 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
+      "title": "プレミアリーグ: 今週の週末を眺める10 の事",
+      "summary": "トッテナムそして別荘は絶望の derby で会いますアンドニ・イラオラ南ローストリターンのテストに直面して下さいプレミアリーグトップスコアラー:最新の順位を確認してくださいチェルシー以来、この西ロンドンのダービーを獲得していないブレントフォード’s 最初のプレミアリーグ 2021 年10 月1-0 勝以来の各訪問、Ben Chilwell スコアラーはドローです。この季節は、クラブのそれぞれのアプローチのディバージェンスを続けてきました。ブレントフォード’s の固着および継続性と比較されるチェルシー最新の再起動を試みる。ケビン",
+      "title_original": "Premier League: 10 things to look out for this weekend",
+      "summary_original": "Spurs and Villa meet in desperation derby and Andoni Iraola faces test on south-coast return Premier League top scorers: check the latest standings Chelsea have not won this west London derby since Brentford’s first Premier League season. Each visit since October 2021’s 1-0 win , Ben Chilwell the scorer, has been a draw. This season has continued the divergence between the clubs’ respective approaches, Brentford’s solidity and continuity compared to Chelsea attempting their latest reboot. Kevin ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend",
+      "published": "Thu, 17 Sep 2026 23:01:01 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "トッド・ベーリー出口チェルシー彼の指を燃やした後に掘られた",
+      "summary": "億万長者の出発は日々変化しますが、クラブのスタジアムの計画では重要ではありませんが、移転市場の悲しい世界への運命は、トッド・ベーリー昼から日にかけては本当に影響を受けたチェルシー. アメリカンは、彼の仲間の投資家と一緒に、4 年ぶりに減少した数字としてサッカーを終了します Mark Walter と言うべき最初のことは、少しが変化するということです Stamford Bridge ボヘリーが舞台を離れるので、ちょうどボードルーム.Clearlake Capi",
+      "title_original": "Todd Boehly exits Chelsea diminished after having his fingers burned",
+      "summary_original": "The billionaire’s departure will change little day-to-day but could be significant for club’s stadium plans Not since a doomed foray into the thorny world of the transfer market has Todd Boehly had any real influence over the day-to-day at Chelsea. The American exits football as a diminished figure four years on, along with his fellow investor Mark Walter, and the first thing to say is that little will change in the Stamford Bridge boardroom just because Boehly has left the scene. Clearlake Capi",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
+      "published": "Fri, 18 Sep 2026 07:00:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "トゥッチェルは、イングランドのリコールを検討していますコール・パーマー獲得を問い合わせ Nations League スチーム",
+      "summary": "チェルシーフォームの送信後 World Cup スヌーブ Alex Scott そして、Morgan Gibbs-White コンテンツにもトーマス・トゥヘルイギリスのリコールを検討中コール・パーマー含めることができる Alex Scott チームで Nations League. Tuchel’s 最初の選択以来 World Cup 金曜日の朝、ヘッドコーチは、昨年の夏に計画の場を獲得できなかった選手のホストからクレームを量っています。パルマーは、フォームのために struggling 後に逃す人の一つだった",
+      "title_original": "Tuchel considers England recall for Cole Palmer in Nations League squad",
+      "summary_original": "Chelsea forward back in form after World Cup snub Alex Scott and Morgan Gibbs-White also in contention Thomas Tuchel is considering an England recall for Cole Palmer and could include Alex Scott in his squad for the Nations League. Tuchel’s first selection since the World Cup will be confirmed on Friday morning and the head coach has been weighing up claims from a host of players who failed to earn a place in his plans last summer. Palmer was one of those to miss out after struggling for form an",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/thomas-tuchel-england-cole-palmer-nations-league-alex-scott-morgan-gibbs-white",
+      "published": "Thu, 17 Sep 2026 18:05:49 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3453,34 +3495,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Floyd Samba’s デビューダブルリフトマンチェスター・シティ獲得を問い合わせ EFL カップノーリッチで勝つ",
-      "summary": "Floyd Samba 毎半の絶え間なくゴールした後、17 歳のグラインディングを持つデビューでこのタイを照らすマンチェスター・シティ直面する高度ブライトン最後の 16 彼らの防衛の EFL カップ. 難波は、年々の兄、ティロネ、アカデミーでもあります。彼らの父親、Christopher は、元ブラックバーンと QPR 擁護者です。続きを読む...",
-      "title_original": "Floyd Samba’s debut double lifts Manchester City to Carabao Cup win over Norwich",
-      "summary_original": "Floyd Samba lit up this tie with a debut that will have the 17-year-old grinning for a while after a superb goal in each half ensured Manchester City advanced to face Brighton in the last 16 in their defence of the Carabao Cup. Samba has an older brother by a year, Tyrone, who is also in the academy. Their father, Christopher, is a former Blackburn and QPR defender. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/manchester-city-norwich-carabao-cup-third-round-match-report",
-      "published": "Thu, 17 Sep 2026 20:33:33 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "プレミアリーグ: 今週の週末を眺める10 の事",
-      "summary": "トッテナムそして別荘は絶望の derby で会いますアンドニ・イラオラ南ローストリターンのテストに直面して下さいプレミアリーグトップスコアラー:最新の順位を確認してくださいチェルシー以来、この西ロンドンのダービーを獲得していないブレントフォード’s 最初のプレミアリーグ 2021 年10 月1-0 勝以来の各訪問、Ben Chilwell スコアラーはドローです。この季節は、クラブのそれぞれのアプローチのディバージェンスを続けてきました。ブレントフォード’s の固着および継続性と比較されるチェルシー最新の再起動を試みる。ケビン",
-      "title_original": "Premier League: 10 things to look out for this weekend",
-      "summary_original": "Spurs and Villa meet in desperation derby and Andoni Iraola faces test on south-coast return Premier League top scorers: check the latest standings Chelsea have not won this west London derby since Brentford’s first Premier League season. Each visit since October 2021’s 1-0 win , Ben Chilwell the scorer, has been a draw. This season has continued the divergence between the clubs’ respective approaches, Brentford’s solidity and continuity compared to Chelsea attempting their latest reboot. Kevin ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend",
-      "published": "Thu, 17 Sep 2026 23:01:01 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ヨーロッパリーグラウンドアップ:フェレンツヴァーロシュ悩みにもっと不幸を投げて下さいセルティック",
       "summary": "Hoops は損失を追いかけると再び打ち勝つレンジャーズ ユヴェントスハンマーNEC、ベシクタシュパイル・ウーエマルセイユ セルティックスコットランドのチャンピオンとして別のヨーロッパの恥ずかしがり屋敷に苦しむ 3-1 自宅でフェレンツヴァーロシュ獲得を問い合わせヨーロッパリーグ. クラッシュから数週間オフチャンピオンズリーグオーストリア側ラックへの修飾語は、4 つのゴールリードを保持しているにもかかわらず、セルティック’s の防御的な欠陥は一度露出しました。マーティン・オニール’ s チームはも追いつく 3-0 敗北 ライバルレンジャーに苦しむ",
       "title_original": "Europa League roundup: Ferencvaros pile more misery on troubled Celtic",
@@ -3491,6 +3505,20 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Floyd Samba’s デビューダブルリフトマンチェスター・シティ獲得を問い合わせ EFL カップノーリッチで勝つ",
+      "summary": "Floyd Samba 毎半の絶え間なくゴールした後、17 歳のグラインディングを持つデビューでこのタイを照らすマンチェスター・シティ直面する高度ブライトン最後の 16 彼らの防衛の EFL カップ. 難波は、年々の兄、ティロネ、アカデミーでもあります。彼らの父親、Christopher は、元ブラックバーンと QPR 擁護者です。続きを読む...",
+      "title_original": "Floyd Samba’s debut double lifts Manchester City to Carabao Cup win over Norwich",
+      "summary_original": "Floyd Samba lit up this tie with a debut that will have the 17-year-old grinning for a while after a superb goal in each half ensured Manchester City advanced to face Brighton in the last 16 in their defence of the Carabao Cup. Samba has an older brother by a year, Tyrone, who is also in the academy. Their father, Christopher, is a former Blackburn and QPR defender. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/manchester-city-norwich-carabao-cup-third-round-match-report",
+      "published": "Thu, 17 Sep 2026 20:33:33 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3509,20 +3537,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トゥッチェルは、イングランドのリコールを検討していますコール・パーマー獲得を問い合わせ Nations League スチーム",
-      "summary": "チェルシーフォームの送信後 World Cup スヌーブ Alex Scott そして、Morgan Gibbs-White コンテンツにもトーマス・トゥヘルイギリスのリコールを検討中コール・パーマー含めることができる Alex Scott チームで Nations League. Tuchel’s 最初の選択以来 World Cup 金曜日の朝、ヘッドコーチは、昨年の夏に計画の場を獲得できなかった選手のホストからクレームを量っています。パルマーは、フォームのために struggling 後に逃す人の一つだった",
-      "title_original": "Tuchel considers England recall for Cole Palmer in Nations League squad",
-      "summary_original": "Chelsea forward back in form after World Cup snub Alex Scott and Morgan Gibbs-White also in contention Thomas Tuchel is considering an England recall for Cole Palmer and could include Alex Scott in his squad for the Nations League. Tuchel’s first selection since the World Cup will be confirmed on Friday morning and the head coach has been weighing up claims from a host of players who failed to earn a place in his plans last summer. Palmer was one of those to miss out after struggling for form an",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/thomas-tuchel-england-cole-palmer-nations-league-alex-scott-morgan-gibbs-white",
-      "published": "Thu, 17 Sep 2026 18:05:49 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Alessandro Costacurta: ‘スタディオ・ジュゼッペ・メアッツァアイコン - それは信じられないほど美しいですが、それは機能的ではありません'",
       "summary": "ミラノの壮大な古い家は、この週末に100 回し、それはすぐにそれがユニークなスタジアムの騒音とパワーに反映する最高の選手の1 を倒すだろうしながら、Alessandro Costacurta 先着15 分で試合をスタートスタディオ・ジュゼッペ・メアッツァ. 彼は, 認めて, 遊びません, しかし、彼の古い兄弟のお気に入りのチームを見て一緒にタグ付け. 「私はミラノの北ヴェニス州で育ちました」と彼は言います。「だから、私はワレファンだった子供として。兄が支えてくれた Milan. The 初めて行って",
       "title_original": "Alessandro Costacurta: ‘San Siro is an icon – it’s incredibly beautiful but it’s not functional’",
@@ -3533,34 +3547,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Laura Kaminski 後にバーンでトロフィーハントを磨くクリスタル・パレス「クラッシュコース」",
-      "summary": "紫禁城ヘッドコーチは、ノルウェーでカップファイナルを獲得し、リーグのタイトルに挑戦するチャンスは「良い日だとき、それは絶対に素晴らしいです、だから我々はそれを取るだろう」と述べています Laura Kaminski 雨の西海岸について笑って言う Norway. The English 元プロモーション賞金クリスタル・パレスコーチはベルゲンに言及しています, 彼女は今、自宅を呼び出します, そのサッカークラブ, バーン, 彼女は彼女の任命以来、彼女の心に取っ January. She 仕事について簡単に話すことができる",
-      "title_original": "Laura Kaminski relishing trophy hunt at Brann after Crystal Palace ‘crash course’",
-      "summary_original": "Former Palace head coach has won a cup final in Norway and says chance to challenge for league title was a pull “When it’s a good day, it’s absolutely stunning, so we’ll take that,” Laura Kaminski says with a laugh about the rainy west coast of Norway. The English former promotion-winning Crystal Palace coach is referring to Bergen, the place she now calls home, whose football club, Brann, she has taken to her heart since her appointment in January. She could easily be speaking about the job its",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/laura-kaminski-brann-crystal-palace-moving-the-goalposts",
-      "published": "Thu, 17 Sep 2026 10:49:48 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "カルロス・エスピプレゼントレアル・マドリード顔の希望バルセロナ獲得を問い合わせラ・リーガストーム |Sid Lowe",
-      "summary": "とバルセロナ7 ゴールのスリラーをラックアップレアル・マドリード崩壊する余裕がない。静かに回る先に入って下さいジョゼ・モウリーニョ究極の秘密兵器ジョゼ・モウリーニョ呼ばれ、カルロス・エスピ横に来た。最近は騒々しかったし、それはほとんど終わっていた - 試合と多分それ以上のもの - いつレアル・マドリード’ s のコーチは、火曜日の夜に 1 つの側面にもフラットメイトの先を連れて行きました。. 閉じる,モウリーニョ紙の部分もあった。小さい,",
-      "title_original": "Carlos Espí gives Real Madrid hope in the face of Barcelona’s La Liga storm | Sid Lowe",
-      "summary_original": "With Barcelona racking up seven-goal thrillers, Real Madrid could not afford a collapse. Enter the forward quietly turning into José Mourinho’s ultimate secret weapon José Mourinho called and Carlos Espí came to his side. It was late, it was noisy and it was almost over – the match and maybe even something more – when Real Madrid’s coach took the forward who is also his flatmate to one side on Tuesday night. Standing close, Mourinho had a message to deliver; he also had a piece of paper. Small, ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/carlos-espi-real-madrid-barcelona-mourinho-la-liga",
-      "published": "Thu, 17 Sep 2026 13:27:45 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3576,6 +3562,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Laura Kaminski 後にバーンでトロフィーハントを磨くクリスタル・パレス「クラッシュコース」",
+      "summary": "紫禁城ヘッドコーチは、ノルウェーでカップファイナルを獲得し、リーグのタイトルに挑戦するチャンスは「良い日だとき、それは絶対に素晴らしいです、だから我々はそれを取るだろう」と述べています Laura Kaminski 雨の西海岸について笑って言う Norway. The English 元プロモーション賞金クリスタル・パレスコーチはベルゲンに言及しています, 彼女は今、自宅を呼び出します, そのサッカークラブ, バーン, 彼女は彼女の任命以来、彼女の心に取っ January. She 仕事について簡単に話すことができる",
+      "title_original": "Laura Kaminski relishing trophy hunt at Brann after Crystal Palace ‘crash course’",
+      "summary_original": "Former Palace head coach has won a cup final in Norway and says chance to challenge for league title was a pull “When it’s a good day, it’s absolutely stunning, so we’ll take that,” Laura Kaminski says with a laugh about the rainy west coast of Norway. The English former promotion-winning Crystal Palace coach is referring to Bergen, the place she now calls home, whose football club, Brann, she has taken to her heart since her appointment in January. She could easily be speaking about the job its",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/laura-kaminski-brann-crystal-palace-moving-the-goalposts",
+      "published": "Thu, 17 Sep 2026 10:49:48 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3761,17 +3761,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ハル・シティ’ s は、チャンピオンシップの闘争から上昇します。プレミアリーグフライヤー",
-      "summary": "ハルほぼ再資源化 League One 年末年始 今、彼らは4 で4 ですプレミアリーグ WhoScored 16 ヶ月前ハル・シティ再資源化を回避 League One ゴールの違いについて。4 ヶ月前、彼らはから最後の分の目標を必要としていましたオリヴァー・マクバーニーWembley でチャンピオンシッププレイオフ決勝を獲得。前のシーズン予測が公開された3 週間前に、脅威に陥ったダービー・カウンティ FC’ s の記録 最悪 今まで ポイント 高身長 でプレミアリーグ. 土曜日の夜、彼らは l",
-      "title_original": "Hull City’s rise from Championship strugglers to Premier League fliers",
-      "summary_original": "Hull were nearly relegated to League One last year. Now they are fourth in the Premier League By WhoScored Sixteen months ago Hull City avoided relegation to League One on goal difference. Four months ago, they needed a last-minute goal from Oli McBurnie at Wembley to win the Championship playoff final. Three weeks ago, when the pre-season predictions were published, they were tipped to threaten Derby County’s record of the worst ever points tally in the Premier League. On Saturday night, they l",
+      "title": "カルロス・エスピプレゼントレアル・マドリード顔の希望バルセロナ獲得を問い合わせラ・リーガストーム |Sid Lowe",
+      "summary": "とバルセロナ7 ゴールのスリラーをラックアップレアル・マドリード崩壊する余裕がない。静かに回る先に入って下さいジョゼ・モウリーニョ究極の秘密兵器ジョゼ・モウリーニョ呼ばれ、カルロス・エスピ横に来た。最近は騒々しかったし、それはほとんど終わっていた - 試合と多分それ以上のもの - いつレアル・マドリード’ s のコーチは、火曜日の夜に 1 つの側面にもフラットメイトの先を連れて行きました。. 閉じる,モウリーニョ紙の部分もあった。小さい,",
+      "title_original": "Carlos Espí gives Real Madrid hope in the face of Barcelona’s La Liga storm | Sid Lowe",
+      "summary_original": "With Barcelona racking up seven-goal thrillers, Real Madrid could not afford a collapse. Enter the forward quietly turning into José Mourinho’s ultimate secret weapon José Mourinho called and Carlos Espí came to his side. It was late, it was noisy and it was almost over – the match and maybe even something more – when Real Madrid’s coach took the forward who is also his flatmate to one side on Tuesday night. Standing close, Mourinho had a message to deliver; he also had a piece of paper. Small, ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/who-scored-blog/2026/sep/17/hull-city-championship-premier-league",
-      "published": "Thu, 17 Sep 2026 16:06:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
+      "url": "https://www.theguardian.com/football/2026/sep/17/carlos-espi-real-madrid-barcelona-mourinho-la-liga",
+      "published": "Thu, 17 Sep 2026 13:27:45 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3786,6 +3786,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ハル・シティ’ s は、チャンピオンシップの闘争から上昇します。プレミアリーグフライヤー",
+      "summary": "ハルほぼ再資源化 League One 年末年始 今、彼らは4 で4 ですプレミアリーグ WhoScored 16 ヶ月前ハル・シティ再資源化を回避 League One ゴールの違いについて。4 ヶ月前、彼らはから最後の分の目標を必要としていましたオリヴァー・マクバーニーWembley でチャンピオンシッププレイオフ決勝を獲得。前のシーズン予測が公開された3 週間前に、脅威に陥ったダービー・カウンティ FC’ s の記録 最悪 今まで ポイント 高身長 でプレミアリーグ. 土曜日の夜、彼らは l",
+      "title_original": "Hull City’s rise from Championship strugglers to Premier League fliers",
+      "summary_original": "Hull were nearly relegated to League One last year. Now they are fourth in the Premier League By WhoScored Sixteen months ago Hull City avoided relegation to League One on goal difference. Four months ago, they needed a last-minute goal from Oli McBurnie at Wembley to win the Championship playoff final. Three weeks ago, when the pre-season predictions were published, they were tipped to threaten Derby County’s record of the worst ever points tally in the Premier League. On Saturday night, they l",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/who-scored-blog/2026/sep/17/hull-city-championship-premier-league",
+      "published": "Thu, 17 Sep 2026 16:06:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3814,20 +3828,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Lewis Koumas 再生する 'リヴァプール未来のために飢餓と希望を示す方法",
-      "summary": "20 歳の前方は、彼を置く信仰に喜んでいましたアンドニ・イラオラ獲得を問い合わせトッテナムゲームと今は、一方の手と自分の携帯電話で試合の男とキックしたいです,Lewis Koumas 火曜日の夜にアンフィールドでメディアに話せるのを止める前に、非常に重要な呼び出しをしました。男の子のクラブを代表し、それを輝かせることは、すべて見るために明らかだったことを意味します。「私のお母さんだった」と言ったリヴァプール引き続き、受賞作品から光るコーディ・ガクポ h に手渡される",
-      "title_original": "Lewis Koumas on playing ‘the Liverpool way’, showing hunger and hopes for the future",
-      "summary_original": "The 20-year-old forward was delighted with the faith put in him by Andoni Iraola for the Tottenham game and now wants to kick on With a man of the match award in one hand and his phone in the other, Lewis Koumas made a very important call before stopping to speak to the media at Anfield on Tuesday night. What it means to represent your boyhood club, and to shine for it, was apparent for all to see. “That was my mum,” said the Liverpool forward, still beaming from the award Cody Gakpo handed to h",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/lewis-koumas-on-playing-the-liverpool-way-showing-hunger-and-hopes-for-the-future",
-      "published": "Wed, 16 Sep 2026 11:14:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
