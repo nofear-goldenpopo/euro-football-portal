@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-18T13:06:56.058991+00:00",
+  "updated_at": "2026-09-18T13:24:25.518624+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Stephen Mfuni": "",
     "Fulham LIVE": "",
     "PC Matthew Blades": "",
     "Old Trafford": "オールド・トラッフォード",
@@ -3001,7 +3000,8 @@
     "Email Dom": "",
     "Weekend Winners": "",
     "Dubai Duty Free Handicap": "",
-    "Jorge Jesus": "ジョルジェ・ジェズス"
+    "Jorge Jesus": "ジョルジェ・ジェズス",
+    "Oxford United": "オックスフォード・ユナイテッドFC"
   },
   "items": [
     {
@@ -3019,13 +3019,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イエスの最初のポルトガルのスクワッドで名付けられたロナルド",
-      "summary": "クリスティアーノ・ロナウド新しいポルトガルのコーチによって選ばれた最初のチームに名前を付けられますジョルジェ・ジェズス今後の予定 Nations League ゲーム。",
-      "title_original": "Ronaldo named in Jesus' first Portugal squad",
-      "summary_original": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
+      "title": "Oxford apologise のために United 93 シャツ 広告",
+      "summary": "オックスフォード・ユナイテッド FC9/11 攻撃で使用される平面の呼び出し記号を特徴とする画像の気化。",
+      "title_original": "Oxford apologise for United 93 shirt advert",
+      "summary_original": "Oxford United apologises for the image, which features the call sign of one of the planes used in the 9/11 attacks.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 12:45:25 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4v5v3zzr7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 13:05:31 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3044,6 +3044,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "イエスの最初のポルトガルのスクワッドで名付けられたロナルド",
+      "summary": "クリスティアーノ・ロナウド新しいポルトガルのコーチによって選ばれた最初のチームに名前を付けられますジョルジェ・ジェズス今後の予定 Nations League ゲーム。",
+      "title_original": "Ronaldo named in Jesus' first Portugal squad",
+      "summary_original": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 12:45:25 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3131,20 +3145,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "からの移動ニューカッスル獲得を問い合わせリヴァプール簡単な決定 - Isak",
-      "summary": "ストライカーアレクサンデル・イサクコメントリヴァプール彼がクラブに参加した理由の大きな部分だった彼に獲得するための野心と決意。",
-      "title_original": "Moving from Newcastle to Liverpool easy decision - Isak",
-      "summary_original": "Striker Alexander Isak says Liverpool's ambition and determination to sign him was a big part of why he joined the club.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckvgypz42n36o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 05:12:10 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "保管・販売シェルキ? FPL ゲームウィーク5 ジレンマ",
       "summary": "BBC スポーツの幻想プレミアリーグエキスパート FPL Heisenberg ゲームウィーク5 のマネージャーに直面する最も大きいジレンマのいくつかに彼の答えを与えます。",
       "title_original": "Keep or sell Cherki? FPL gameweek five dilemmas",
@@ -3187,6 +3187,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "からの移動ニューカッスル獲得を問い合わせリヴァプール簡単な決定 - Isak",
+      "summary": "ストライカーアレクサンデル・イサクコメントリヴァプール彼がクラブに参加した理由の大きな部分だった彼に獲得するための野心と決意。",
+      "title_original": "Moving from Newcastle to Liverpool easy decision - Isak",
+      "summary_original": "Striker Alexander Isak says Liverpool's ambition and determination to sign him was a big part of why he joined the club.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckvgypz42n36o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 05:12:10 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ダービーデイデルジュ - EFL で見る5 つのこと",
       "summary": "ローカルのライバル、競争力のある都市、または単に町に来るダービーという名前のチーム - ここでは、EFL の週末を横断する5 つのものがあります。",
       "title_original": "Derby day deluge - five things to watch in the EFL",
@@ -3226,20 +3240,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Euro Leagues",
-      "summary": "Is JJ Gabriel セットレアル・マドリード獲得を問い合わせ そして元 Gunners Aubameyang& イエスはスクーリングを続けます!",
-      "title_original": "Euro Leagues",
-      "summary_original": "Is JJ Gabriel set for Real Madrid? And former Gunners Aubameyang & Jesus keep scoring!",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pb3ytn?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 16:00:00 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email Dom with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 12:44:55 GMT",
+      "published": "Fri, 18 Sep 2026 13:03:18 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "サマセットのタイトルは、ヨークシャーの敗北で大きな打撃に苦しむことを望む",
+      "summary": "サマセットは、ヨークシャーの手元で高価な敗北に陥ったので、その歴史の中で初めて郡チャンピオンになるという希望が大きな打撃を受けました。",
+      "title_original": "Somerset title hopes suffer major blow in Yorkshire defeat",
+      "summary_original": "Somerset's hopes of becoming county champions for the first time in their history took a major blow as they collapsed to a costly defeat at the hands of Yorkshire.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13589308/county-championship-somersets-title-hopes-hit-badly-in-yorkshire-defeat-as-they-drop-to-second-in-table",
+      "published": "Fri, 18 Sep 2026 13:52:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リヴァプール最新:イラオラ・ハイルス・アラウホの精神は、ボーンマスへの旅行の先",
       "summary": "",
       "title_original": "Liverpool latest: Iraola hails Araujo's spirit ahead of trip to Bournemouth",
@@ -4103,20 +4117,6 @@
       "summary_original": "Spy Chief takes on Catullus in the feature of seven races from Newbury on Friday - live on Sky Sports Racing .",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13588616/today-on-sky-sports-racing-spy-chief-and-catullus-clash-at-newbury",
-      "published": "Fri, 18 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リトルはダーツをきれいに掃除を完了するために何をする必要がありますか?",
-      "summary": "Luke Littler 世界 No1 のダーツプレイヤーは、2026 年にこれまでの主要なダーツトーナメントを勝ち取っており、3 人目の選手になり、ランキングのきれいな広がりと1 年間にランクされていないタイトルを完成させました。",
-      "title_original": "What does Littler need to do to complete darts clean sweep?",
-      "summary_original": "Luke Littler, the world's No 1 darts player, has won all the major darts tournaments so far in 2026, and is well on his way to becoming the third man to complete a clean sweep of ranking and non-ranking titles in a single year.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13586255/luke-littler-what-world-no-1-needs-to-complete-darts-majors-clean-sweep-in-2026-to-make-more-history",
       "published": "Fri, 18 Sep 2026 06:00:00 BST",
       "category": "other",
       "type": "other",
