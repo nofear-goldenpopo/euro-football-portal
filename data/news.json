@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-18T14:25:38.631151+00:00",
+  "updated_at": "2026-09-18T14:38:26.880870+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Leeds LIVE": "",
     "US Open Day One": "",
     "Bluesky Mark Slater": "",
     "Ipswich Town": "イプスウィッチ・タウンFC",
@@ -3001,7 +3000,8 @@
     "Brian Sorensen": "",
     "Women's World Cup": "",
     "Email John": "",
-    "Manchester United's": ""
+    "Manchester United's": "",
+    "Harry Wilson": ""
   },
   "items": [
     {
@@ -3183,6 +3183,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウィルソンの主要なウェールズの傷害の心配 Nations League",
+      "summary": "リーズ・ユナイテッド獲得 Harry Wilson スタートの大きな疑問は Wales' Nations League 足の筋肉傷害のためにキャンペーン。",
+      "title_original": "Wilson major Wales injury concern for Nations League",
+      "summary_original": "Leeds United forward Harry Wilson is a major doubt for the start of Wales' Nations League campaign because of a leg muscle injury.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 14:23:38 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3411,27 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フォローする方法プレミアリーグ今週末 BBC で",
-      "summary": "Our Ask Me Anything チームは、週5 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
-      "title_original": "How to follow the Premier League on the BBC this weekend",
-      "summary_original": "Our Ask Me Anything team explains how to follow matches from week five of the Premier League season on the BBC this weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 11:47:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Tuchel はアレクサンダー・アーノルドと Palmer England リコール; スペインのスクワッドはセタで明らかに: サッカーニュース – ライブ",
       "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email John どんな想いでもトレント・アレクサンダー＝アーノルド, Alex Scott, コール・パーマーそして、リオ・エングモア獲得を問い合わせ そこには場所がありませんフィル・フォーデン. 以下に来るために満たして下さい。続きを読む...",
       "title_original": "Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live",
       "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email John with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 14:05:09 GMT",
+      "published": "Fri, 18 Sep 2026 14:24:52 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3971,9 +3971,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'それはレーダーではありません' - Carrick は「ばらしさ」の推測を却下マンチェスター・ユナイテッドミッション",
+      "title": "'それはレーダーではありません' - Carrick は推測を却下マンチェスター・ユナイテッドミッション",
       "summary": "マイケル・キャリックログインマンチェスター・ユナイテッド最近の闘争は、「大惨事や災害ではなく」であり、「大胆な」という立場で圧力を却下した。",
-      "title_original": "'It's not on the radar' - Carrick dismisses 'ridiculous' speculation on Man Utd future",
+      "title_original": "'It's not on the radar' - Carrick dismisses speculation on Man Utd future",
       "summary_original": "Michael Carrick insists Manchester United's recent struggles are \"not a catastrophe or a disaster\" and dismissed talk of pressure on his position as \"ridiculous\".",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13589326/man-utd-its-not-on-the-radar-michael-carrick-dismisses-ridiculous-speculation-on-future",
