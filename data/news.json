@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-18T05:05:47.714366+00:00",
+  "updated_at": "2026-09-18T05:23:50.708778+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Nottingham Forest Coventry City": "",
-    "Hull City Bournemouth": "",
     "Everton Tottenham": "",
     "Newcastle Continue": "",
     "Emillia Elsewhere": "",
@@ -3001,7 +2999,9 @@
     "Rangers Juventus": "",
     "Azerbaijan GP": "",
     "Baku City Circuit": "バクー市街地コース",
-    "Spy Chief": ""
+    "Spy Chief": "",
+    "Striker Alexander Isak": "",
+    "Roberto De Zerbi's Tottenham": ""
   },
   "items": [
     {
@@ -3030,6 +3030,34 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "からの移動ニューカッスル獲得を問い合わせリヴァプール簡単な決定 - Isak",
+      "summary": "ストライカーアレクサンデル・イサクコメントリヴァプール彼がクラブに参加した理由の大きな部分だった彼に獲得するための野心と決意。",
+      "title_original": "Moving from Newcastle to Liverpool easy decision - Isak",
+      "summary_original": "Striker Alexander Isak says Liverpool's ambition and determination to sign him was a big part of why he joined the club.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckvgypz42n36o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 05:12:10 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "方法 De Zerbi ソリューショントッテナム' スコアリングトラブル?",
+      "summary": "ロベルト・デ・ゼルビ獲得を問い合わせトッテナムまだスコアをプレミアリーグ今シーズンの目標、その修正方法は?",
+      "title_original": "How does De Zerbi fix Spurs' scoring troubles?",
+      "summary_original": "Roberto De Zerbi's Tottenham are yet to score a Premier League goal this season, how do they fix that?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zyv3x5rpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 05:16:05 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3257,31 +3285,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ハリムソンは、イスラエルのゲームについてプレイヤーに個別に話しました",
-      "summary": "ヘッドコーチ Heimir Hallgrimsson 彼はイスラエルに直面する見通しについて、アイルランドの彼の共和国の選手に個別にチームを組んだと言います, 「私たちの誰もがこれらのゲームで快適なプレーを感じる」を追加.",
-      "title_original": "Hallgrimsson spoke to players individually about Israel games",
-      "summary_original": "Head coach Heimir Hallgrimsson says he spoke to players in his Republic of Ireland squad individually about the prospect of facing Israel, adding \"none of us feel comfortable playing in these games\".",
+      "title": "私は良い場所にいるような感じ - Isak",
+      "summary": "アレクサンデル・イサク自分の関係について説明するアンドニ・イラオラそして、コーディ・ガクポ今シーズンもお世話になりました。",
+      "title_original": "I feel like I'm in a good place - Isak",
+      "summary_original": "Alexander Isak explains how his relationships with Andoni Iraola and Cody Gakpo have helped him this season.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm5y5v9ndg9qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 12:44:27 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6kg8nzq4enpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 05:13:51 GMT",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Euro Leagues",
-      "summary": "Is JJ Gabriel セットレアル・マドリード獲得を問い合わせ そして元 Gunners Aubameyang& イエスはスクーリングを続けます!",
-      "title_original": "Euro Leagues",
-      "summary_original": "Is JJ Gabriel set for Real Madrid? And former Gunners Aubameyang & Jesus keep scoring!",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pb3ytn?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 16:00:00 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3341,17 +3355,31 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Farke 'very 幸せ' と ドミナントリーズパフォーマンス",
-      "summary": "リーズ・ユナイテッド FC マネージャーダニエル・ファルケ4-1 の彼の側面から優れているパフォーマンスの後、「非常に幸せ」ですプレミアリーグ勝つニューカッスル獲得を問い合わせエランド・ロード.",
-      "title_original": "Farke 'very happy' with dominant Leeds performance",
-      "summary_original": "Leeds United manager Daniel Farke is \"very happy\" after a dominant performance from his side in their 4-1 Premier League win over Newcastle at Elland Road.",
+      "title": "ハリムソンは、イスラエルのゲームについてプレイヤーに個別に話しました",
+      "summary": "ヘッドコーチ Heimir Hallgrimsson 彼はイスラエルに直面する見通しについて、アイルランドの彼の共和国の選手に個別にチームを組んだと言います, 「私たちの誰もがこれらのゲームで快適なプレーを感じる」を追加.",
+      "title_original": "Hallgrimsson spoke to players individually about Israel games",
+      "summary_original": "Head coach Heimir Hallgrimsson says he spoke to players in his Republic of Ireland squad individually about the prospect of facing Israel, adding \"none of us feel comfortable playing in these games\".",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqdr7n4nxgv4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 22:07:22 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm5y5v9ndg9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 12:44:27 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Euro Leagues",
+      "summary": "Is JJ Gabriel セットレアル・マドリード獲得を問い合わせ そして元 Gunners Aubameyang& イエスはスクーリングを続けます!",
+      "title_original": "Euro Leagues",
+      "summary_original": "Is JJ Gabriel set for Real Madrid? And former Gunners Aubameyang & Jesus keep scoring!",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pb3ytn?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 16:00:00 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3393,34 +3421,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck5yl2jgz23jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 06:22:20 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "エムバペ彼は T シャツの行の後に Ceuta'に立っていると言う",
-      "summary": "Vini Jnr, エムバペそして Konate は Ceuta のサポートを先にカバーしますレアル・マドリードエルチェにマッチする",
-      "title_original": "Mbappe says he 'stands with Ceuta' after T-shirt row",
-      "summary_original": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 08:50:09 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
