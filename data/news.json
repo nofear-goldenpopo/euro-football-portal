@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-18T18:26:38.468926+00:00",
+  "updated_at": "2026-09-18T18:39:29.036486+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Dominic Calvert-Lewin": "",
-    "Bluesky Out": "",
-    "Hi Tim": "",
-    "Sheff Utd": "シェフィールド・ユナイテッドFC",
-    "Leicester's Choudhury": "",
     "Le Bris": "",
     "Tottenham. They": "",
     "Flyover SO CLOSE": "",
@@ -3001,7 +2996,12 @@
     "No Joao Pedro": "",
     "Brentford LIVE": "",
     "Scott Chelsea": "",
-    "Jordan Henderson": "ジョーダン・ヘンダーソン"
+    "Jordan Henderson": "ジョーダン・ヘンダーソン",
+    "Scott Both": "",
+    "As Alonso": "",
+    "York Valkyrie": "",
+    "Wigan Warriors": "",
+    "Leeds Rhinos": "リーズ・ライノズ"
   },
   "items": [
     {
@@ -3012,20 +3012,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvrl64y9rdn9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 14:14:23 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Tuchel は、Alexander-Arnold と Palmer を警告でリコール",
-      "summary": "イングランド上司トーマス・トゥヘルリコールトレント・アレクサンダー＝アーノルドそして、コール・パーマーしかし、プレイヤーは「パーフォーム」を持っていると言います。",
-      "title_original": "Tuchel recalls Alexander-Arnold and Palmer with warning",
-      "summary_original": "England boss Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer but says players have to \"perform\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 12:55:26 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3089,6 +3075,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Tuchel は、Alexander-Arnold と Palmer を警告でリコール",
+      "summary": "イングランド上司トーマス・トゥヘルリコールトレント・アレクサンダー＝アーノルドそして、コール・パーマーしかし、プレイヤーは「パーフォーム」を持っていると言います。",
+      "title_original": "Tuchel recalls Alexander-Arnold and Palmer with warning",
+      "summary_original": "England boss Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer but says players have to \"perform\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 12:55:26 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "London City's 新研修センター「もっともっともっと」プレミアリーグクラブ - カン",
       "summary": "Michele Kang 信じるロンドン・シティ・ライオネス' 計画された新しい訓練場はほとんどの人の人によって使用される女性のゲームで新しい標準を置き、設備を越えますプレミアリーグクラブ",
       "title_original": "London City's new training centre 'better than most Premier League clubs' - Kang",
@@ -3099,6 +3099,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ミルウォールとウェストハム14 年後の再更新の儀式",
+      "summary": "最近の会議から14 年以上経ち、ミルウォールとミルウォールの間の儀式ウェストハム獲得ニュー・デン・スタジアム土曜日に。",
+      "title_original": "Millwall and West Ham renew rivalry after 14 years",
+      "summary_original": "More than 14 years after their most recent meeting, the rivalry between Millwall and West Ham United will be renewed at The Den on Saturday.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmd790q9g89zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 14:52:47 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3128,20 +3142,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ミルウォールとウェストハム14 年後の再更新の儀式",
-      "summary": "最近の会議から14 年以上経ち、ミルウォールとミルウォールの間の儀式ウェストハム獲得ニュー・デン・スタジアム土曜日に。",
-      "title_original": "Millwall and West Ham renew rivalry after 14 years",
-      "summary_original": "More than 14 years after their most recent meeting, the rivalry between Millwall and West Ham United will be renewed at The Den on Saturday.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmd790q9g89zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 14:52:47 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3201,6 +3201,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Wrexham の所有者は、Spygate を Southampton で目指す",
+      "summary": "ライアン・レイノルズそして、Rob Mac この週末は、チャンピオンシップフィクスの先にある、次の対戦相手で楽しいプレーをしました。",
+      "title_original": "Wrexham owners aim Spygate dig at Southampton",
+      "summary_original": "Ryan Reynolds and Rob Mac have poked fun at next opponents Southampton ahead of their Championship fixture this weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 12:03:30 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "方法 De Zerbi ソリューショントッテナム' スコアリングトラブル?",
       "summary": "ロベルト・デ・ゼルビ獲得を問い合わせトッテナムまだスコアをプレミアリーグ今シーズンの目標、その修正方法は?",
       "title_original": "How does De Zerbi fix Spurs' scoring troubles?",
@@ -3225,20 +3239,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Wrexham の所有者は、Spygate を Southampton で目指す",
-      "summary": "ライアン・レイノルズそして、Rob Mac この週末は、チャンピオンシップフィクスの先にある、次の対戦相手で楽しいプレーをしました。",
-      "title_original": "Wrexham owners aim Spygate dig at Southampton",
-      "summary_original": "Ryan Reynolds and Rob Mac have poked fun at next opponents Southampton ahead of their Championship fixture this weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 12:03:30 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3292,34 +3292,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 23:30:34 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「良い健康」で Goodwin は「簡単な手順」を必要とします",
-      "summary": "ダンディー・ユナイテッド FC マネージャーJim Goodwin「簡単な手順」が必要な最近の病院の怖いことについて詳しく調べるのではなく、「私は完全な健康に戻り、掘り出しから3 つのゲーム欠如した後に行くことを言ってください。",
-      "title_original": "Goodwin in 'good health' but needs 'simple procedure'",
-      "summary_original": "Dundee United manager Jim Goodwin is not for going into detail about his recent hospital scare that requires \"a simple procedure\" but is \"pleased to say I am back to full health and raring to go\" after a three-game absence from the dugout.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c54g7jnjj2mxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 15:50:56 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウィルソンの主要なウェールズの傷害の心配 Nations League",
-      "summary": "リーズ・ユナイテッド獲得 Harry Wilson スタートの大きな疑問は Wales' Nations League 足の筋肉傷害のためにキャンペーン。",
-      "title_original": "Wilson major Wales injury concern for Nations League",
-      "summary_original": "Leeds United forward Harry Wilson is a major doubt for the start of Wales' Nations League campaign because of a leg muscle injury.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 14:23:38 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3411,6 +3383,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「良い健康」で Goodwin は「簡単な手順」を必要とします",
+      "summary": "ダンディー・ユナイテッド FC マネージャーJim Goodwin「簡単な手順」が必要な最近の病院の怖いことについて詳しく調べるのではなく、「私は完全な健康に戻り、掘り出しから3 つのゲーム欠如した後に行くことを言ってください。",
+      "title_original": "Goodwin in 'good health' but needs 'simple procedure'",
+      "summary_original": "Dundee United manager Jim Goodwin is not for going into detail about his recent hospital scare that requires \"a simple procedure\" but is \"pleased to say I am back to full health and raring to go\" after a three-game absence from the dugout.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c54g7jnjj2mxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 15:50:56 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウィルソンの主要なウェールズの傷害の心配 Nations League",
+      "summary": "リーズ・ユナイテッド獲得 Harry Wilson スタートの大きな疑問は Wales' Nations League 足の筋肉傷害のためにキャンペーン。",
+      "title_original": "Wilson major Wales injury concern for Nations League",
+      "summary_original": "Leeds United forward Harry Wilson is a major doubt for the start of Wales' Nations League campaign because of a leg muscle injury.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 14:23:38 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アイルランドのコーチングスタッフに参加するソレンセン",
       "summary": "過去の投稿エヴァートンマネージャーBrian Sorensen 参加するリパブリックアイルランドの彼らのためにスクワット Women's World Cup 今年のプレイオフ修飾子。",
       "title_original": "Sorensen to join Republic of Ireland coaching staff",
@@ -3426,12 +3426,12 @@
     },
     {
       "title": "ブレントフォード. .チェルシー: プレミアリーグ– ライブ",
-      "summary": "⚽ プレミアリーグ8pm BST キックオフライブマッチセンターのアップデート |Read Football Daily| スコットチェルシーマネージャーシャビ・アロンソトンネルを抜けて、スカイスポーツとピッチサイドの単語があります。「私たちは常にチーム全体を評価しようとしています...私たちは確かに厳しいゲームを持っています...目標は、常に最も競争力のあるチームを持っていることであり、我々は1 を持っていると思います...私たちは今夜のために準備されています...我々は十分な継続と安定性を持っていません [中央ミッドフィールド] ... 持っているジョーダン・ヘンダーソン] 戻る",
+      "summary": "⚽ プレミアリーグ8pm BST キックオフライブマッチセンターのアップデート |Read Football Daily| メール Scott Both チームは勝利の夜と3 分の1 を行くことができます。ドローは、19 時間以上、少なくとも1 つのスポットを nudge するだろう。ブライトン, エヴァートン, イプスウィッチ, ニューカッスルそして、ハル土曜日の午後3 時。As Alonso 出発すると、スカイマイクが通過し、リレーバトンスタイル、Keith Andrews インフォメーションブレントフォード最初に質問をした人ママドゥ・サンガレ. 「あなたは明らかにビットをやった",
       "title_original": "Brentford v Chelsea: Premier League – live",
-      "summary_original": "⚽ Premier League updates from the 8pm BST kick-off ⚽ Live match centre | Read Football Daily | And mail Scott Chelsea manager Xabi Alonso ambles out of the tunnel and has a pitchside word with Sky Sports. “We always try to assess the whole squad … we have a tough game for sure … the goal is always to have the most competitive team to play and I think we have one … we are prepared for tonight … we have not had enough continuity and stability in [central midfield] … having [Jordan Henderson] back ",
+      "summary_original": "⚽ Premier League updates from the 8pm BST kick-off ⚽ Live match centre | Read Football Daily | And mail Scott Both teams can go third with a win tonight. A draw would nudge both up one spot … for 19 hours or so at least, when the likes of Brighton, Everton, Ipswich, Newcastle and Hull conclude their Saturday 3pm shenanigans. As Alonso departs, the Sky microphone is passed, relay-baton style, to Keith Andrews of Brentford, who is first asked about Mamadou Sangaré. “You’ve obviously done a bit of ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
-      "published": "Fri, 18 Sep 2026 18:10:40 GMT",
+      "published": "Fri, 18 Sep 2026 18:25:37 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "York Valkyrie で勝つリーズ予約する Women's Super League Grand 決勝対ウィガン",
+      "summary": "York Valkyrie2026 年までに Women's Super League Grand 最終的な反対 Wigan Warriors 優れた12-0 準決勝の勝利に続くリーズ・ライノズ.",
+      "title_original": "York Valkyrie win at Leeds to book Women's Super League Grand Final vs Wigan",
+      "summary_original": "York Valkyrie are through to the 2026 Women's Super League Grand Final against Wigan Warriors following a superb 12-0 semi-final away victory over Leeds Rhinos.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/leeds-vs-york-valkyrie/report/64307",
+      "published": "Tue, 15 Sep 2026 16:19:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Super League Eliminators LIVE! ウェイクフィールド vs セミスポットのリーグ",
       "summary": "",
       "title_original": "Super League Eliminators LIVE! Wakefield vs Leigh for spot in semis",
@@ -3873,9 +3887,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL:リヴァプールレベルの後でマンチェスター・シティ防御的なミックスアップ LIVE!",
+      "title": "WSL:リヴァプールチャンピオンに先立ちマンチェスター・シティライブ!",
       "summary": "",
-      "title_original": "WSL: Liverpool level after Man City defensive mix-up LIVE!",
+      "title_original": "WSL: Liverpool ahead at champions Man City LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-city-women-vs-liverpool-women/live/575769",
@@ -3954,6 +3968,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "麻は11 月以来の最初の目標を獲得マンチェスター・シティリード!",
+      "summary": "Lauren Hemp11 月以降、初めての目標を獲得マンチェスター・シティリードを早期に引き受けるリヴァプール WSL で。",
+      "title_original": "Hemp scores first goal since November as Man City take lead!",
+      "summary_original": "Lauren Hemp scored her first goal since November as Manchester City took the lead early against Liverpool in the WSL.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589437/wsl-lauren-hemp-scores-first-goal-since-november-as-manchester-city-take-lead",
+      "published": "Fri, 18 Sep 2026 19:17:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4094,34 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "メルソン: 'Huge ゲーム' 間トッテナムそして、アストン・ヴィラ'momentum スインガー'",
-      "summary": "最新のスカイスポーツコラムで、ポール・マーソン土曜日の「ハゲ」ゲームに先立ちますトッテナムそして、アストン・ヴィラ.",
-      "title_original": "Merson: 'Huge game' between Spurs and Aston Villa is a 'momentum swinger'",
-      "summary_original": "In his latest Sky Sports column, Paul Merson looks ahead to Saturday's \"huge\" game between Tottenham and Aston Villa.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589087/tottenham-vs-aston-villa-paul-merson-believes-saturdays-huge-premier-league-match-is-a-momentum-swinger",
-      "published": "Fri, 18 Sep 2026 08:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "印象的なビルズの勝利でアレンの主演ロールの最高のプレイ",
-      "summary": "バッファロー・ビルズクォーターバック Josh Allen's5 つのタッチダウンゲームから最高のプレイ Detroit Lions2026 年の NFL シーズンの週2 日。",
-      "title_original": "The best plays of Allen's starring role in impressive Bills win",
-      "summary_original": "Buffalo Bills quarterback Josh Allen's best plays from his five touchdown game against the Detroit Lions in Week 2 of the 2026 NFL season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589186/nfl-allen-plays-starring-role-in-impressive-bills-performance",
-      "published": "Fri, 18 Sep 2026 07:25:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
