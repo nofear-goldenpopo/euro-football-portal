@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-09-18T13:24:25.518624+00:00",
+  "updated_at": "2026-09-18T13:37:39.222185+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Fulham LIVE": "",
-    "PC Matthew Blades": "",
-    "Old Trafford": "オールド・トラッフォード",
-    "Arsenal's Jesus": "",
-    "Gabriel Jesus": "ガブリエウ・ジェズス",
-    "Falkirk Hearts": "",
     "Killie Lawrence Shankland’s": "",
     "Derek McInnes": "",
     "Pittodrie. The": "",
@@ -3001,7 +2995,13 @@
     "Weekend Winners": "",
     "Dubai Duty Free Handicap": "",
     "Jorge Jesus": "ジョルジェ・ジェズス",
-    "Oxford United": "オックスフォード・ユナイテッドFC"
+    "Oxford United": "オックスフォード・ユナイテッドFC",
+    "Noahkai Banks": "",
+    "Germany U-": "",
+    "Germany’s U-": "",
+    "European Championship": "",
+    "Antonio Di Salvo": "アントニオ・ディ・サルヴォ",
+    "Louey Ben Farhat": ""
   },
   "items": [
     {
@@ -3016,6 +3016,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "How Iraola 動くリヴァプールスロット時代から",
+      "summary": "BBC スポーツは、新しいマネージャーがどのように見えるかアンドニ・イラオラ動くリヴァプールからアルネ・スロット去るシーズンに変容する時代。",
+      "title_original": "How Iraola is moving Liverpool on from the Slot era",
+      "summary_original": "BBC Sport looks at how new manager Andoni Iraola is moving Liverpool on from the Arne Slot era after their disappointing form last season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5dg7de6wdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 13:20:50 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3229,20 +3243,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "クイズ: どのようによく知っている Black Country ダービー?",
-      "summary": "試合の歴史を知るウルヴァーハンプトン・ワンダラーズ FC そして、ウェスト・ブロムウィッチ・アルビオン FC? それをテストに入れます。",
-      "title_original": "Quiz: How well do you know the Black Country derby?",
-      "summary_original": "Think you know the history of matches between Wolverhampton Wanderers and West Bromwich Albion? Put it to the test.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crz9zvlj7g1xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 07:19:24 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ライバルが更新されました: ダービーゲームは、このシーズンをバックアップ",
       "summary": "ウェストハム Millwall および Wolves のホストを訪問して下さいウェスト・ブロムウィッチ・アルビオン FC 第1 回 決勝戦 決勝戦が更新されます。",
       "title_original": "Rivalries renewed: The derby games back this season",
@@ -3250,6 +3250,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy8d8nkglr7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 13:53:22 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "クイズ: どのようによく知っている Black Country ダービー?",
+      "summary": "試合の歴史を知るウルヴァーハンプトン・ワンダラーズ FC そして、ウェスト・ブロムウィッチ・アルビオン FC? それをテストに入れます。",
+      "title_original": "Quiz: How well do you know the Black Country derby?",
+      "summary_original": "Think you know the history of matches between Wolverhampton Wanderers and West Bromwich Albion? Put it to the test.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crz9zvlj7g1xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 07:19:24 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3295,20 +3309,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "私は誰ですか? ログインブンデスリーガ星のいいえ 4",
-      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
-      "title_original": "Who am I? Guess Bundesliga star No 4",
-      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9p807l5zmy4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 08:55:29 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3397,6 +3397,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "私は誰ですか? ログインブンデスリーガ星のいいえ 4",
+      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
+      "title_original": "Who am I? Guess Bundesliga star No 4",
+      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9p807l5zmy4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 08:55:29 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "FA チェア要求 Infantino リリース World Cup 販売オフ文書",
       "summary": "フィファ会長 Gianni Infantino 株式を売却する彼の論争計画に関連するすべての文書を解放するように言われています World Cup.",
       "title_original": "FA chair demands Infantino release World Cup sell-off documents",
@@ -3411,27 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ニューカッスルプレイヤーはジャッスルの怒っている側 - 彼らは応答することができますか?",
-      "summary": "ニューカッスルヘッドコーチ Matthias Jaissle すぐ近くのドレッシングルームにありましたエランド・ロード月曜日の夜に追いつく 4-1 敗北 対リーズ・ユナイテッド FC.",
-      "title_original": "Newcastle players see Jaissle's angry side - can they respond?",
-      "summary_original": "Newcastle United head coach Matthias Jaissle was forthright in the away dressing room at Elland Road on Monday night following a chastening 4-1 defeat against Leeds United.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck980pprp5n1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 15:58:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Tuchel はアレクサンダー・アーノルドと Palmer England リコール; スペインのスクワッドはセタで明らかに: サッカーニュース – ライブ",
       "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email Dom どんな想いでもトレント・アレクサンダー＝アーノルド, Alex Scott, コール・パーマーそして、リオ・エングモア獲得を問い合わせ そこには場所がありませんフィル・フォーデン. 以下に来るために満たして下さい。続きを読む...",
       "title_original": "Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live",
       "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email Dom with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 13:03:18 GMT",
+      "published": "Fri, 18 Sep 2026 13:24:32 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3649,6 +3649,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Noahkai Banks、トップの国際的見通し、USMNT に打撃でドイツを選択",
+      "summary": "Germany U-21 マネジャーは、19 歳の決定は、ユースレベルに米国のみを表明したと発表しました。アメリカ合衆国デュアル・ナショナル・ディフェンダーの追求 Noahkai Banks 終わるように見えます。19 歳から名付けられました Germany’s U-今後の予定 U-21 に21 班 European Championship 修飾子、マネージャーとアントニオ・ディ・サルヴォ銀行と銀行の公式リリースで言う Louey Ben Farhat, 別のデュアルナショナル, 持っています “ドイツを代表するために選ばれます”. 続きを読む...",
+      "title_original": "Noahkai Banks, top dual-national prospect, chooses Germany in blow to USMNT",
+      "summary_original": "Germany U-21 manager announces the decision 19-year-old had represented only US at youth level The United States’ pursuit of dual-national defender Noahkai Banks appears to be over. The 19-year-old was named in Germany’s U-21 squad for their upcoming U-21 European Championship qualifiers, with manager Antonio Di Salvo saying in an official release that Banks and Louey Ben Farhat, another dual national, have “chosen to represent Germany”. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/noahkai-banks-germany-usmnt",
+      "published": "Fri, 18 Sep 2026 13:10:37 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Real Madrid leading race to、マンチェスター・ユナイテッドから JJ Gabriel を獲得",
       "summary": "バルセロナそして、バイエルン一方、ユナイテッドは、15 歳から15 歳まで滞在できると確信していますレアル・マドリードレースをリードし、マンチェスター・ユナイテッドティーンエイジャーJJ Gabriel 彼が言った後プレミアリーグ退会を希望するクラブ 15 歳を迎えるインテルヨーロッパ各地の名声が高まっています。バルセロナ彼を取得し、バイエルン・ミュンヘンウィンガーを賞賛するために知られています。Gabriel は Eur への移動を好むことが理解されています",
       "title_original": "Real Madrid leading race to sign JJ Gabriel from Manchester United",
@@ -3688,20 +3702,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Boehly と ウォルター 販売ショップチェルシー株式について Clearlake Capital クラブの完全な制御を取ります",
-      "summary": "アメリカの椅子 Boehly は、契約後の役割を残して「私は確信していますチェルシーよく配置されているトッド・ベーリーそして、Mark Walter 彼らの屋台を販売していますチェルシー取扱分野 Clearlake Capital 完全な制御を取りますプレミアリーグクラブ。The American 億万長者のビジネスマン・ボヒーリーとウォルターは、Clearlake と提携してクラブを購入する投資家の2 人でしたローマ n Abramovich で 販売 によって 英国政府 に 5 月 2022. プライベートエクイティ会社 Clearlake がプレヴ",
-      "title_original": "Boehly and Walter sell Chelsea shares as Clearlake Capital takes full control of club",
-      "summary_original": "American chair Boehly leaves role after deal is secured ‘I am confident that Chelsea is well positioned’ Todd Boehly and Mark Walter have sold their stakes in Chelsea in a deal under which Clearlake Capital takes full control of the Premier League club. The American billionaire businessmen Boehly and Walter were two of the investors who partnered with Clearlake to buy the club from Roman Abramovich in a sale mandated by the UK government in May 2022. The private equity company Clearlake had prev",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/boehly-and-walter-sell-chelsea-shares-as-clearlake-capital-takes-full-control-of-club",
-      "published": "Wed, 16 Sep 2026 23:28:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
