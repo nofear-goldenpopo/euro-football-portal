@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-18T11:37:32.696758+00:00",
+  "updated_at": "2026-09-18T11:50:08.875807+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Pedro Neto": "ペドロ・ネト",
-    "Joao Pedro. Subs": "",
     "Barco. Continue": "",
     "BlueSky Mark Slater": "",
     "Joy Division": "ジョイ・ディヴィジョン",
@@ -3001,21 +2999,23 @@
     "Palmer England": "",
     "Email Yara": "",
     "The Metropolitan": "",
-    "Den. The": ""
+    "Den. The": "",
+    "Craig Richards": "",
+    "Copper Box Arena": "カッパー・ボックス"
   },
   "items": [
     {
-      "title": "うつ病後からチェルシー37 で非リーグを再生するケガ",
-      "summary": "Sam Hutchinson プレイする準備が整っている Farnham Town2 番目の予選ラウンドで FA カップ- 19 年 作ってからチェルシーデビュージョゼ・モウリーニョ.",
-      "title_original": "From depression after Chelsea injury to playing non-league at 37",
-      "summary_original": "Sam Hutchinson is getting ready to play for Farnham Town in the second qualifying round of the FA Cup - 19 years after making his Chelsea debut under Jose Mourinho.",
+      "title": "Tuchel は、Alexander-Arnold と Palmer を警告でリコール",
+      "summary": "イングランド上司トーマス・トゥヘルリコール後に「ドアは常に開いている」と言いますトレント・アレクサンダー＝アーノルドそして、コール・パーマー.",
+      "title_original": "Tuchel recalls Alexander-Arnold and Palmer with warning",
+      "summary_original": "England boss Thomas Tuchel says \"the door is always open\" after recalling Trent Alexander-Arnold and Cole Palmer.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 07:10:13 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 11:42:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3033,17 +3033,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アンジェチームの貧しい模造 - どこセルティック& O'Neill はここから行く?",
-      "summary": "別の敗北の後、信仰を維持することは確かにより多くのテストになりますセルティック'ファン、書き込み Tom English.",
-      "title_original": "Poor imitation of Ange team - where do Celtic & O'Neill go from here?",
-      "summary_original": "After another defeat, keeping the faith is surely becoming more testing for Celtic's fans, writes Tom English.",
+      "title": "うつ病後からチェルシー37 で非リーグを再生するケガ",
+      "summary": "Sam Hutchinson プレイする準備が整っている Farnham Town2 番目の予選ラウンドで FA カップ- 19 年 作ってからチェルシーデビュージョゼ・モウリーニョ.",
+      "title_original": "From depression after Chelsea injury to playing non-league at 37",
+      "summary_original": "Sam Hutchinson is getting ready to play for Farnham Town in the second qualifying round of the FA Cup - 19 years after making his Chelsea debut under Jose Mourinho.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 23:51:07 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 07:10:13 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3057,6 +3057,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アンジェチームの貧しい模造 - どこセルティック& O'Neill はここから行く?",
+      "summary": "別の敗北の後、信仰を維持することは確かにより多くのテストになりますセルティック'ファン、書き込み Tom English.",
+      "title_original": "Poor imitation of Ange team - where do Celtic & O'Neill go from here?",
+      "summary_original": "After another defeat, keeping the faith is surely becoming more testing for Celtic's fans, writes Tom English.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 23:51:07 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3229,20 +3243,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "私は誰ですか? ログインブンデスリーガ星のいいえ 4",
-      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
-      "title_original": "Who am I? Guess Bundesliga star No 4",
-      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9p807l5zmy4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 08:55:29 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ライバルが更新されました: ダービーゲームは、このシーズンをバックアップ",
       "summary": "ウェストハム Millwall および Wolves のホストを訪問して下さいウェスト・ブロムウィッチ・アルビオン FC 第1 回 決勝戦 決勝戦が更新されます。",
       "title_original": "Rivalries renewed: The derby games back this season",
@@ -3285,20 +3285,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フォローする方法プレミアリーグ今週末 BBC で",
-      "summary": "Our Ask Me Anything チームは、週5 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
-      "title_original": "How to follow the Premier League on the BBC this weekend",
-      "summary_original": "Our Ask Me Anything team explains how to follow matches from week five of the Premier League season on the BBC this weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 11:47:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ニューカッスルプレイヤーはジャッスルの怒っている側 - 彼らは応答することができますか?",
       "summary": "ニューカッスルヘッドコーチ Matthias Jaissle すぐ近くのドレッシングルームにありましたエランド・ロード月曜日の夜に追いつく 4-1 敗北 対リーズ・ユナイテッド FC.",
       "title_original": "Newcastle players see Jaissle's angry side - can they respond?",
@@ -3309,6 +3295,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "私は誰ですか? ログインブンデスリーガ星のいいえ 4",
+      "summary": "できるだけ少ない試みで、今日のプレイヤーの身元を把握しましょう。",
+      "title_original": "Who am I? Guess Bundesliga star No 4",
+      "summary_original": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9p807l5zmy4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 08:55:29 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3383,6 +3383,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "フォローする方法プレミアリーグ今週末 BBC で",
+      "summary": "Our Ask Me Anything チームは、週5 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
+      "title_original": "How to follow the Premier League on the BBC this weekend",
+      "summary_original": "Our Ask Me Anything team explains how to follow matches from week five of the Premier League season on the BBC this weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 11:47:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "なぜ9 月になるのかインテル国民の休憩は3 週間続きますか?",
       "summary": "BBC Sport's Ask Me サッカーの大きな変化が起きているチーム全員が説明しています。インテル2026 年9 月発の全国休憩",
       "title_original": "Why will September international break last three weeks?",
@@ -3411,27 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "獲得を問い合わせアストン・ヴィラ fringe プレーヤーはヨーロッパの最も有利なスコアラーになりました",
-      "summary": "欧州のトップ5 リーグのプレイヤーは、より多くの目標を獲得していませんドニエル・マレン以来、ローマ1 月にデビュー - BBC スポーツは、彼の変化を調べます.",
-      "title_original": "How an Aston Villa fringe player became Europe's most prolific scorer",
-      "summary_original": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 08:30:23 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Tuchel はアレクサンダー・アーノルドと Palmer England リコール; スペインのスクワッドはセタで明らかに: サッカーニュース – ライブ",
       "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email Yara どんな想いでもトレント・アレクサンダー＝アーノルド, Alex Scott, コール・パーマーそして、リオ・エングモア獲得を問い合わせ そこには場所がありませんフィル・フォーデン. 以下に来るために満たして下さい。続きを読む...",
       "title_original": "Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live",
       "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email Yara with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 11:22:16 GMT",
+      "published": "Fri, 18 Sep 2026 11:39:29 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リチャードは、Kalajdzic に対する世界選手権の充電を再開するために見えます",
+      "summary": "Craig Richards 彼が箱に置くときロンドンの彼の家都市に重要な戦いのために戻りますカッパー・ボックス9 月26 日、スカイスポーツに住んでいます。",
+      "title_original": "Richards looks to relaunch world championship charge against Kalajdzic",
+      "summary_original": "Craig Richards returns to his home city of London for a crucial fight when he boxes at the Copper Box Arena on September 26, live on Sky Sports .",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13589258/craig-richards-looks-to-relaunch-world-championship-charge-against-radivoje-kalajdzic-on-september-26-live-on-sky-sports",
+      "published": "Fri, 18 Sep 2026 12:45:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "McIlroy, Rai が Wentworth で第 2 ラウンドをスタート スコット リード LIVE!",
       "summary": "",
       "title_original": "McIlroy, Rai begin second rounds at Wentworth as Scott leads LIVE!",
@@ -4107,20 +4121,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スロッピーミスコストセルティック彼らは失うので再びヨーロッパリーグオープン",
-      "summary": "セルティック彼らは彼らの守備のエラーのために再び罰されたオールドファーム3-1 ホーム敗北の損失フェレンツヴァーロシュ彼らのヨーロッパリーグオープン",
-      "title_original": "Sloppy mistakes cost Celtic again as they lose Europa League opener",
-      "summary_original": "Celtic were punished again for their defensive errors as they followed up their Old Firm loss with a 3-1 home defeat to Ferencvaros in their Europa League opener.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/celtic-vs-ferencvaros/report/577751",
-      "published": "Thu, 17 Sep 2026 22:00:00 BST",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
       "featured": true,
       "translation_version": "football-ja-v8"
     }
