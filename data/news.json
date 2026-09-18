@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-18T05:50:52.548115+00:00",
+  "updated_at": "2026-09-18T06:07:18.303277+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Newcastle Continue": "",
     "Emillia Elsewhere": "",
     "Bournemouth. Víctor Muñoz": "",
     "Anfield. Continue": "",
@@ -3001,7 +3000,8 @@
     "Spy Chief": "",
     "Striker Alexander Isak": "",
     "Roberto De Zerbi's Tottenham": "",
-    "Highmark Stadium": "ハイマーク・スタジアム"
+    "Highmark Stadium": "ハイマーク・スタジアム",
+    "Nasser Hussain": ""
   },
   "items": [
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Nasser:Pietersen は Banton の「第2 来る」のためのキーであることができます",
+      "summary": "Nasser Hussain イングランドのバッターの「第二来」を追記 Tom Banton そして、新しいホワイトボールメンターの任命を言う Kevin Pietersen ミドルオーダーで開発をキーにすることができます。",
+      "title_original": "Nasser: Pietersen could be key for 'second coming' of Banton",
+      "summary_original": "Nasser Hussain has lauded the \"second coming\" of England batter Tom Banton and says the appointment of new white-ball mentor Kevin Pietersen could be key to his development in the middle order.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13589123/england-vs-sri-lanka-nasser-hussain-says-new-white-ball-mentor-kevin-pietersen-could-be-key-for-second-coming-of-tom-banton",
+      "published": "Fri, 18 Sep 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ビルズがライオンズを越える新しいスタジアムをオープンさせるアレンスター",
       "summary": "Josh Allen すぐに彼のスタンプを置くバッファロー・ビルズ「新しい」ハイマーク・スタジアム彼が3 つのタッチダウンパスを投げ、ビルが倒すにつれて2 つのスコアのために走ったように Detroit Lions 木曜日の夜に41-31。",
       "title_original": "Allen stars as Bills open new stadium with win over Lions",
@@ -4108,20 +4122,6 @@
       "type": "uel",
       "label": "EL",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Hyrox 選手は、自分自身を沈黙した後、継続的なレースのために謝罪します",
-      "summary": "An Australian 自分自身を沈黙させた後、Hyrox イベントで競争し続けるために批判された女性は、潜在的にレースから撤退すると述べた。",
-      "title_original": "Hyrox athlete apologises for continuing race after soiling herself",
-      "summary_original": "An Australian woman who was criticised for continuing to compete in a Hyrox event after soiling herself has apologised and said she will retroactively withdraw from the race.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/other-sports/news/12040/13589076/joanna-wietrzyk-hyrox-athlete-apologises-for-continuing-race-after-soiling-herself-in-beijing-event",
-      "published": "Thu, 17 Sep 2026 18:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
