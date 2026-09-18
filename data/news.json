@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-18T22:36:42.829437+00:00",
+  "updated_at": "2026-09-18T22:49:54.099181+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Ipswich Town's": "",
-    "Harry Maguire": "ハリー・マグワイア",
-    "Michael Oliver": "",
-    "PGA Tour's Tour Championship": "",
     "Championship Team": "",
     "Man Utd XI": "",
     "Michael Carrick’s": "",
@@ -3001,9 +2997,27 @@
     "My Wakefield": "",
     "Dieter Müller’s": "",
     "Bayern Munich’s": "",
-    "Cologne’s Dieter Müller": ""
+    "Cologne’s Dieter Müller": "",
+    "Joao Pedro": "ジョアン・ペドロ",
+    "HHarry Kane": "",
+    "Keith Andrews": "",
+    "West London": ""
   },
   "items": [
+    {
+      "title": "チェルシー獲得を問い合わせジョアン・ペドロ目標の決定を止めない",
+      "summary": "チェルシーの の問題は守られたが、ジョアン・ペドロ怪我を通し、ゴールのスコアも問題となっている。",
+      "title_original": "Chelsea miss Joao Pedro... and can't stop conceding goals",
+      "summary_original": "Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 22:39:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "体重オフ Igor Thiago's 肩 -ブレントフォード. .チェルシー評価",
       "summary": "ブレントフォード第三に登るプレミアリーグ勝負の勝利 2-0 チェルシー- 詳しくはこちら BBC Sport's 選手採点.",
@@ -3103,20 +3117,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Gabriel, 15, でバルセロナ amid の speculation の未来",
-      "summary": "マンチェスター・ユナイテッドヤングスターJJ Gabriel 旅行へバルセロナ欧州最大のクラブの何人かが、シグネチャーのために続行する。",
-      "title_original": "Gabriel, 15, in Barcelona amid speculation over future",
-      "summary_original": "Man Utd youngster JJ Gabriel travels to Barcelona as some of Europe's biggest clubs continue to vie for his signature.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c679052dq30ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 15:02:21 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "London City's 新研修センター「もっともっともっと」プレミアリーグクラブ - カン",
       "summary": "Michele Kang 信じるロンドン・シティ・ライオネス' 計画された新しい訓練場はほとんどの人の人によって使用される女性のゲームで新しい標準を置き、設備を越えますプレミアリーグクラブ",
       "title_original": "London City's new training centre 'better than most Premier League clubs' - Kang",
@@ -3128,6 +3128,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Gabriel, 15, でバルセロナ amid の speculation の未来",
+      "summary": "マンチェスター・ユナイテッドヤングスターJJ Gabriel 旅行へバルセロナ欧州最大のクラブの何人かが、シグネチャーのために続行する。",
+      "title_original": "Gabriel, 15, in Barcelona amid speculation over future",
+      "summary_original": "Man Utd youngster JJ Gabriel travels to Barcelona as some of Europe's biggest clubs continue to vie for his signature.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c679052dq30ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 15:02:21 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3187,20 +3201,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "How Iraola 動くリヴァプールスロット時代から",
-      "summary": "BBC スポーツは、新しいマネージャーがどのように見えるかアンドニ・イラオラ動くリヴァプールからアルネ・スロット去るシーズンに変容する時代。",
-      "title_original": "How Iraola is moving Liverpool on from the Slot era",
-      "summary_original": "BBC Sport looks at how new manager Andoni Iraola is moving Liverpool on from the Arne Slot era after their disappointing form last season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5dg7de6wdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 13:20:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "うつ病後からチェルシー37 で非リーグを再生するケガ",
       "summary": "Sam Hutchinson プレイする準備が整っている Farnham Town2 番目の予選ラウンドで FA カップ- 19 年 作ってからチェルシーデビュージョゼ・モウリーニョ.",
       "title_original": "From depression after Chelsea injury to playing non-league at 37",
@@ -3226,6 +3226,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "How Iraola 動くリヴァプールスロット時代から",
+      "summary": "BBC スポーツは、新しいマネージャーがどのように見えるかアンドニ・イラオラ動くリヴァプールからアルネ・スロット去るシーズンに変容する時代。",
+      "title_original": "How Iraola is moving Liverpool on from the Slot era",
+      "summary_original": "BBC Sport looks at how new manager Andoni Iraola is moving Liverpool on from the Arne Slot era after their disappointing form last season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5dg7de6wdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 13:20:50 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3285,20 +3299,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イエスの最初のポルトガルのスクワッドで名付けられたロナルド",
-      "summary": "クリスティアーノ・ロナウド新しいポルトガルのコーチによって選ばれた最初のチームに名前を付けられますジョルジェ・ジェズス今後の予定 Nations League ゲーム。",
-      "title_original": "Ronaldo named in Jesus' first Portugal squad",
-      "summary_original": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 12:45:25 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "過去の投稿マンチェスター・ユナイテッド左の Malacia が参加 FC Cincinnati",
       "summary": "FC Cincinnati サインインマンチェスター・ユナイテッド左バック Tyrell Malacia 獲得を問い合わせフリー移籍.",
       "title_original": "Former Man Utd left-back Malacia joins FC Cincinnati",
@@ -3313,10 +3313,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Kane は歴史とオリズネットを作るハットトリックとしてバイエルンスラッシュユニオン",
-      "summary": "ハリー・ケイン100 番目と101 番目で歴史を作るブンデスリーガわずか98 ゲームで目標 Michael Olise ネットハットトリック, 獲得するバイエルン・ミュンヘン7-0 勝つ1.FC ウニオン・ベルリン.",
-      "title_original": "Kane makes history and Olise nets hat-trick as Bayern thrash Union",
-      "summary_original": "Harry Kane makes history by scoring his 100th and 101st Bundesliga goals in just 98 games while Michael Olise nets a hat-trick, to earn Bayern Munich a 7-0 win over Union Berlin.",
+      "title": "Kane は歴史とオリズネットを作るハットトリックとしてバイエルンスラッシュ1.FC ウニオン・ベルリン",
+      "summary": "フリガナハリー・ケイン100 に達するために最速のプレーヤーになることによって歴史を作るブンデスリーガ第98 試合でゴール Michael Olise ネットハットトリックとしてバイエルン・ミュンヘンスラッシュ1.FC ウニオン・ベルリン 7-0.",
+      "title_original": "Kane makes history and Olise nets hat-trick as Bayern thrash Union Berlin",
+      "summary_original": "HHarry Kane makes history by becoming the fastest player to reach 100 Bundesliga goals in his 98th game, while Michael Olise nets a hat-trick as Bayern Munich thrash Union Berlin 7-0.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/ck4gle1ep647o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 22:34:20 GMT",
@@ -3324,6 +3324,34 @@
       "type": "bundesliga",
       "label": "ブンデス",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「我々は予測不可能です」 - アンドリュースは「輝き」と喜んでブレントフォード",
+      "summary": "ブレントフォードヘッドコーチ Keith Andrews 再発後3〜3 勝敗後、彼の側に賞賛がいっぱいです West London ライバルチェルシー、強い開始の後でそれら「華麗」をに決めることプレミアリーグキャンペーン",
+      "title_original": "'We're unpredictable' - Andrews delighted with 'brilliant' Brentford",
+      "summary_original": "Brentford head coach Keith Andrews is full of praise for his side after their resounding 3-0 win against West London rivals Chelsea, branding them \"brilliant\" following a strong start to the Premier League campaign.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj3v47q6lde1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 22:42:10 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「すべてが失望していた」 - Alonso 上のブレントフォードバックナンバー",
+      "summary": "「すべてが失望していた」 - Alonso 上のブレントフォードバックナンバー",
+      "title_original": "'Everything was disappointing' - Alonso on Brentford defeat",
+      "summary_original": "'Everything was disappointing' - Alonso on Brentford defeat",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/programmes/p0pbdlmn?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 21:35:44 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3355,34 +3383,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "私は良い場所にいるような感じ - Isak",
-      "summary": "アレクサンデル・イサク自分の関係について説明するアンドニ・イラオラそして、コーディ・ガクポ今シーズンもお世話になりました。",
-      "title_original": "I feel like I'm in a good place - Isak",
-      "summary_original": "Alexander Isak explains how his relationships with Andoni Iraola and Cody Gakpo have helped him this season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6kg8nzq4enpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 05:13:51 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ラフィーニャ ハットトリックとしてバルセロナヒット 7 過去ラシン・サンタンデール",
-      "summary": "ラフィーニャスコアハットトリック獲得を問い合わせバルセロナスラッシュラシン・サンタンデール7-2 は、完璧なスタートを維持するためにラ・リーガ季節は、6 勝後にテーブルの守護チャンピオンのトップで勝ちます。",
-      "title_original": "Raphinha hat-trick as Barcelona hit seven past Racing Santander",
-      "summary_original": "Raphinha scores a hat-trick to help Barcelona thrash Racing Santander 7-2 to maintain their perfect start to the La Liga season, with the defending champions top of the table after six wins.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqy8zgxpp3dko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 09:08:49 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "アンジェチームの貧しい模造 - どこセルティック& O'Neill はここから行く?",
       "summary": "別の敗北の後、信仰を維持することは確かにより多くのテストになりますセルティック'ファン、書き込み Tom English.",
       "title_original": "Poor imitation of Ange team - where do Celtic & O'Neill go from here?",
@@ -3390,6 +3390,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 23:51:07 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "イエスの最初のポルトガルのスクワッドで名付けられたロナルド",
+      "summary": "クリスティアーノ・ロナウド新しいポルトガルのコーチによって選ばれた最初のチームに名前を付けられますジョルジェ・ジェズス今後の予定 Nations League ゲーム。",
+      "title_original": "Ronaldo named in Jesus' first Portugal squad",
+      "summary_original": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 12:45:25 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3408,20 +3422,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "-17 ポイントから夢のヨーロッパはボーンマスのために始まります",
-      "summary": "ボーンマスが始まりました League Two2008 年の17 ポイントでシーズンし、ヨーロッパの競争で夢の始まりをしました。",
-      "title_original": "From -17 points to dream European start for Bournemouth",
-      "summary_original": "Bournemouth started a League Two season on -17 points in 2008, now they have made a dream start in European competition.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 23:30:34 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
