@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-18T17:22:45.270266+00:00",
+  "updated_at": "2026-09-18T17:34:49.066520+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Deadline Day": "",
-    "Gary Neville": "ガリー・ネヴィル",
-    "Bluesky It": "",
-    "Bryan Mbeumo": "",
     "Mason Mount. But": "",
     "Matheus Cunha": "",
     "Wilson Isidor's": "",
@@ -3001,7 +2997,11 @@
     "Patrick Vieira": "",
     "Barney Ronay": "",
     "Jorge Luis Borges": "ホルヘ・ルイス・ボルヘス",
-    "Liverpool LIVE": ""
+    "Liverpool LIVE": "",
+    "Scott Brentford": "",
+    "Meanwhile Brentford’s": "",
+    "Trent Alexander-Arnold’s England": "",
+    "Trent Alexander Arnold": "トレント・アレクサンダー＝アーノルド"
   },
   "items": [
     {
@@ -3425,17 +3425,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アレクサンダー・アーノルドとパルマーのためのイングランドのリコール; カラリックは「ばらしさ」の推測を却下 - ライブ",
-      "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email John どんな想いでもトレント・アレクサンダー＝アーノルド, Alex Scott, コール・パーマーそして、リオ・エングモア獲得を問い合わせ そこには場所がありませんフィル・フォーデン. 以下に来るために満たして下さい。続きを読む...",
-      "title_original": "England recalls for Alexander-Arnold and Palmer; Carrick dismisses ‘ridiculous’ speculation – live",
-      "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email John with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
+      "title": "ブレントフォード. .チェルシー: プレミアリーグ– ライブ",
+      "summary": "⚽ プレミアリーグ8pm BST キックオフライブマッチセンターのアップデート |Read Football Daily| スコットブレントフォード過去を描いたプレミアリーグゲーム 2-2;チェルシー'最後のマッチは2-2 を終了しました。この特定の備品の最後のステージングは2-2 を終了しました。ですから... まぁ... って、入ってる! そもそもブレントフォード'6 つのゲームは、シーズンのこの時点まで21 の目標を生成しましたが、チェルシー’s 6 が 30 を与えられた. そのため、野生と素晴らしいゴールフェスト以外のものは絶対にできません。できませんか? 獲得を問い合わせ",
+      "title_original": "Brentford v Chelsea: Premier League – live",
+      "summary_original": "⚽ Premier League updates from the 8pm BST kick-off ⚽ Live match centre | Read Football Daily | And mail Scott Brentford drew their last Premier League game 2-2 ; Chelsea’s last match ended 2-2 ; the last staging of this particular fixture finished 2-2 . So … well … I mean, come on! Meanwhile Brentford’s six games up to this point of the season have generated 21 goals, while Chelsea’s six have given up 30 . So this surely can’t be anything other than a wild and wonderful goalfest. Can’t it? Don’t",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 17:02:48 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
+      "published": "Fri, 18 Sep 2026 17:30:23 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3551,6 +3551,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "箱は証明しません:トレント・アレクサンダー＝アーノルドイギリスのリコールは、パッチ証拠に基づいています",
+      "summary": "トーマス・トゥヘル彼の自然な右側の位置にフルバックを再生することを約束しますが、我々は彼のフォームをゲージするために彼のこの用語の十分な見ていないトーマス・トゥヘル彼は言ったトレント・アレクサンダー＝アーノルド季節の始まりを楽しんだ。イングランドの人たちのニュースとして来た。レアル・マドリード. それはまた、真実で, 持っているスペインの人々にニュースとして来た. イングランドのマネージャーがアレクサンダー・アーノルドで十分な見ていない場合は、World Cup 夏には、彼は本当に持っていない",
+      "title_original": "Case not proven: Trent Alexander-Arnold’s England recall is based on patchy evidence",
+      "summary_original": "Thomas Tuchel promises to play the full-back in his natural right-sided position but we have not seen enough of him this term to gauge his form Thomas Tuchel said Trent Alexander Arnold had enjoyed a good start to the season, which came as news to those in England who have not been watching him at Real Madrid. It also, in truth, came as news to those in Spain who have. If the England manager did not see enough in Alexander-Arnold to include him in the World Cup in the summer he has not really ha",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-england-recall-patchy-evidence",
+      "published": "Fri, 18 Sep 2026 16:49:44 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "プレミアリーグアクション,セルティックツイートレンジャーズ, T20 クリケットと NFL – 私たちに従ってください",
       "summary": "ここに私たちのカバレッジと一緒に従う方法があります - 最高級のライティングとアップ・トゥ・ザ・ミン・レポート 続きを読みます...",
       "title_original": "Premier League action, Celtic v Rangers, T20 cricket and NFL – follow with us",
@@ -3576,20 +3590,6 @@
       "type": "other",
       "label": "その他",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Laura Kaminski 後にバーンでトロフィーハントを磨くクリスタル・パレス「クラッシュコース」",
-      "summary": "紫禁城ヘッドコーチは、ノルウェーでカップファイナルを獲得し、リーグのタイトルに挑戦するチャンスは「良い日だとき、それは絶対に素晴らしいです、だから我々はそれを取るだろう」と述べています Laura Kaminski 雨の西海岸について笑って言う Norway. The English 元プロモーション賞金クリスタル・パレスコーチはベルゲンに言及しています, 彼女は今、自宅を呼び出します, そのサッカークラブ, バーン, 彼女は彼女の任命以来、彼女の心に取っ January. She 仕事について簡単に話すことができる",
-      "title_original": "Laura Kaminski relishing trophy hunt at Brann after Crystal Palace ‘crash course’",
-      "summary_original": "Former Palace head coach has won a cup final in Norway and says chance to challenge for league title was a pull “When it’s a good day, it’s absolutely stunning, so we’ll take that,” Laura Kaminski says with a laugh about the rainy west coast of Norway. The English former promotion-winning Crystal Palace coach is referring to Bergen, the place she now calls home, whose football club, Brann, she has taken to her heart since her appointment in January. She could easily be speaking about the job its",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/laura-kaminski-brann-crystal-palace-moving-the-goalposts",
-      "published": "Thu, 17 Sep 2026 10:49:48 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
