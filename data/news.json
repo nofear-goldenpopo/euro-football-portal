@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-18T10:06:39.062170+00:00",
+  "updated_at": "2026-09-18T10:26:00.742507+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Stamford Bridge. Martínez": "",
     "Yashin Trophy": "",
     "Brighton LIVE": "",
     "Brentford LIVE": "",
@@ -3001,9 +3000,52 @@
     "Thomas Tuchel's England": "",
     "West Bromwich Albion": "ウェスト・ブロムウィッチ・アルビオンFC",
     "Newbury's Mill Reef Stakes": "",
-    "Group Two Mill Reef": ""
+    "Group Two Mill Reef": "",
+    "Email David": ""
   },
   "items": [
+    {
+      "title": "うつ病後からチェルシー37 で非リーグを再生するケガ",
+      "summary": "Sam Hutchinson プレイする準備が整っている Farnham Town2 番目の予選ラウンドで FA カップ- 19 年 作ってからチェルシーデビュージョゼ・モウリーニョ.",
+      "title_original": "From depression after Chelsea injury to playing non-league at 37",
+      "summary_original": "Sam Hutchinson is getting ready to play for Farnham Town in the second qualifying round of the FA Cup - 19 years after making his Chelsea debut under Jose Mourinho.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 07:10:13 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Sutton の予測 v 伝説的なギタリストジョニー・マー",
+      "summary": "BBC スポーツサッカーの専門家クリス・サットン伝説的なギタリストとマンチェスター・シティファンジョニー・マーこの週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
+      "title_original": "Sutton's predictions v legendary guitarist Johnny Marr",
+      "summary_original": "BBC Sport football expert Chris Sutton takes on legendary guitarist and Man City fan Johnny Marr, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62j06np0gpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 15:10:03 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "方法 De Zerbi ソリューショントッテナム' スコアリングトラブル?",
+      "summary": "ロベルト・デ・ゼルビ獲得を問い合わせトッテナムまだスコアをプレミアリーグ今シーズンの目標、その修正方法は?",
+      "title_original": "How does De Zerbi fix Spurs' scoring troubles?",
+      "summary_original": "Roberto De Zerbi's Tottenham are yet to score a Premier League goal this season, how do they fix that?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zyv3x5rpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 05:16:05 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "'Just the start' - Samba, 17, ストラスマンチェスター・シティイベント",
       "summary": "Floyd Samba's シンチレーションデビューストールでショーシティ・オブ・マンチェスター・スタジアムしかし、また、マンチェスターの別の高プロファイルのティーンエイジャーから見出しを取りました。",
@@ -3047,34 +3089,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Sutton の予測 v 伝説的なギタリストジョニー・マー",
-      "summary": "BBC スポーツサッカーの専門家クリス・サットン伝説的なギタリストとマンチェスター・シティファンジョニー・マーこの週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
-      "title_original": "Sutton's predictions v legendary guitarist Johnny Marr",
-      "summary_original": "BBC Sport football expert Chris Sutton takes on legendary guitarist and Man City fan Johnny Marr, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62j06np0gpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 15:10:03 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "うつ病後からチェルシー37 で非リーグを再生するケガ",
-      "summary": "Sam Hutchinson プレイする準備が整っている Farnham Town2 番目の予選ラウンドで FA カップ- 19 年 作ってからチェルシーデビュージョゼ・モウリーニョ.",
-      "title_original": "From depression after Chelsea injury to playing non-league at 37",
-      "summary_original": "Sam Hutchinson is getting ready to play for Farnham Town in the second qualifying round of the FA Cup - 19 years after making his Chelsea debut under Jose Mourinho.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 07:10:13 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "からの移動ニューカッスル獲得を問い合わせリヴァプール簡単な決定 - Isak",
       "summary": "ストライカーアレクサンデル・イサクコメントリヴァプール彼がクラブに参加した理由の大きな部分だった彼に獲得するための野心と決意。",
       "title_original": "Moving from Newcastle to Liverpool easy decision - Isak",
@@ -3100,20 +3114,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "方法 De Zerbi ソリューショントッテナム' スコアリングトラブル?",
-      "summary": "ロベルト・デ・ゼルビ獲得を問い合わせトッテナムまだスコアをプレミアリーグ今シーズンの目標、その修正方法は?",
-      "title_original": "How does De Zerbi fix Spurs' scoring troubles?",
-      "summary_original": "Roberto De Zerbi's Tottenham are yet to score a Premier League goal this season, how do they fix that?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zyv3x5rpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 05:16:05 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3426,12 +3426,12 @@
     },
     {
       "title": "アレクサンダーアーノルドとパルマーは、Ngumoha がノドを取得としてイングランドに戻って: サッカーニュース – ライブ",
-      "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email Dominic どんな想いでもトレント・アレクサンダー＝アーノルド, Alex Scott, コール・パーマーそして、リオ・エングモア獲得を問い合わせ そこには場所がありませんフィル・フォーデン. 以下に来るために満たして下さい。続きを読む...",
+      "summary": "金曜日のチームニュース、プレス会議、分析の開催 The Knowledge: 最初のレプリカキットだったら? 獲得を問い合わせ Email David どんな想いでもトレント・アレクサンダー＝アーノルド, Alex Scott, コール・パーマーそして、リオ・エングモア獲得を問い合わせ そこには場所がありませんフィル・フォーデン. 以下に来るために満たして下さい。続きを読む...",
       "title_original": "Alexander-Arnold and Palmer back in England squad as Ngumoha gets nod: football news – live",
-      "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email Dominic with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
+      "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email David with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 09:50:20 GMT",
+      "published": "Fri, 18 Sep 2026 10:06:08 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
