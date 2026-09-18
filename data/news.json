@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-18T14:38:26.880870+00:00",
+  "updated_at": "2026-09-18T14:52:19.967542+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "US Open Day One": "",
-    "Bluesky Mark Slater": "",
-    "Ipswich Town": "イプスウィッチ・タウンFC",
     "Mail Tim": "",
     "Bluesky Afternoon": "",
     "Arnold Mühren": "",
@@ -3001,7 +2998,10 @@
     "Women's World Cup": "",
     "Email John": "",
     "Manchester United's": "",
-    "Harry Wilson": ""
+    "Harry Wilson": "",
+    "Campus Collection": "",
+    "The U’s": "",
+    "TNT Sports": ""
   },
   "items": [
     {
@@ -3431,11 +3431,39 @@
       "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email John with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 14:24:52 GMT",
+      "published": "Fri, 18 Sep 2026 14:37:36 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "オックスフォード・ユナイテッド FC「United 93」の衣料品を9/11 年頃に発売",
+      "summary": "‘Campus Collection’ 創業から2 時間後にウェブサイトから引き抜かれた1893 クラブの創業範囲をマークすることを目指しましたオックスフォード・ユナイテッド FC9 月11 日の悲劇を意図的に参照した後、アメリカのスタイルのスポーツウェアの新しい範囲を放棄しました。The League One クラブが新発売 Campus Collection’ 金曜日の朝、ランチタイムで販売から取り除かれました, 衣料品のデザインはスローガンを負担するために明らかにされた後 “United 93”.The U’s すぐに理解の欠如に認めた謝罪",
+      "title_original": "Oxford United apologise for launching ‘United 93’ clothing range around 9/11 anniversary",
+      "summary_original": "‘Campus Collection’ aimed to mark 1893 club founding Range pulled from website two hours after launch Oxford United have abandoned a new range of American style-sportswear after it inadvertently referenced the tragedy of September 11. The League One club launched its new ‘Campus Collection’ on Friday morning and had removed it from sale by lunchtime, after clothing designs were revealed to bear the slogan ‘United 93’. The U’s immediately published an apology that admitted to a lack of understand",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/oxford-united-apology-united-93-clothing-range-9-11-anniversary",
+      "published": "Fri, 18 Sep 2026 14:18:48 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "なぜ?トッテナムミスフィリングです... そして、それはちょうど目標の欠如にダウンではありません",
+      "summary": "トッテナム攻撃領域に入りますが、そのまま開口部を作るか、取るのに失敗していますロベルト・デ・ゼルビ落ち着きのある側面を鍛造しようトッテナム初めての4 人のリーグゲームでスコアを獲得できませんでした。彼らは4 連続で最後のドリューブランク以来2 年が経過しましたプレミアリーグマッチ。こういったのは、あくまでも時間がかかります。トッテナム改善する。最後のシーズンから今週まで、週から週まで、プレイヤーの売上高は問題です。leas でプレーした4 人の男性だけ",
+      "title_original": "Why Tottenham are misfiring … and it’s not just down to the lack of goals",
+      "summary_original": "Spurs are getting into attacking areas but failing to make or take openings as Roberto De Zerbi tries to forge a settled side Tottenham have failed to score in their opening four league games for the first time. Two decades have passed since they last drew blanks in four consecutive Premier League matches. While these are outliers, it will take time for Spurs to improve. Their level of player turnover, from last season to this and from week to week, is a problem. Only four men who played at leas",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/injuries-team-changes-and-arduous-tours-why-tottenham-are-misfiring",
+      "published": "Fri, 18 Sep 2026 10:54:31 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3453,13 +3481,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "なぜ?トッテナムミスフィリングです... そして、それはちょうど目標の欠如にダウンではありません",
-      "summary": "トッテナム攻撃領域に入りますが、そのまま開口部を作るか、取るのに失敗していますロベルト・デ・ゼルビ落ち着きのある側面を鍛造しようトッテナム初めての4 人のリーグゲームでスコアを獲得できませんでした。彼らは4 連続で最後のドリューブランク以来2 年が経過しましたプレミアリーグマッチ。こういったのは、あくまでも時間がかかります。トッテナム改善する。最後のシーズンから今週まで、週から週まで、プレイヤーの売上高は問題です。leas でプレーした4 人の男性だけ",
-      "title_original": "Why Tottenham are misfiring … and it’s not just down to the lack of goals",
-      "summary_original": "Spurs are getting into attacking areas but failing to make or take openings as Roberto De Zerbi tries to forge a settled side Tottenham have failed to score in their opening four league games for the first time. Two decades have passed since they last drew blanks in four consecutive Premier League matches. While these are outliers, it will take time for Spurs to improve. Their level of player turnover, from last season to this and from week to week, is a problem. Only four men who played at leas",
+      "title": "プレミアリーグ: 今週の週末を眺める10 の事",
+      "summary": "トッテナムそして別荘は絶望の derby で会いますアンドニ・イラオラ南ローストリターンのテストに直面して下さいプレミアリーグトップスコアラー:最新の順位を確認してくださいチェルシー以来、この西ロンドンのダービーを獲得していないブレントフォード’s 最初のプレミアリーグ 2021 年10 月1-0 勝以来の各訪問、Ben Chilwell スコアラーはドローです。この季節は、クラブのそれぞれのアプローチのディバージェンスを続けてきました。ブレントフォード’s の固着および継続性と対比チェルシー最新の再起動を試みる。ログイン",
+      "title_original": "Premier League: 10 things to look out for this weekend",
+      "summary_original": "Spurs and Villa meet in desperation derby and Andoni Iraola faces test on south-coast return Premier League top scorers: check the latest standings Chelsea have not won this west London derby since Brentford’s first Premier League season. Each visit since October 2021’s 1-0 win , Ben Chilwell the scorer, has been a draw. This season has continued the divergence between the clubs’ respective approaches, Brentford’s solidity and continuity contrasting with Chelsea attempting their latest reboot. K",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/injuries-team-changes-and-arduous-tours-why-tottenham-are-misfiring",
-      "published": "Fri, 18 Sep 2026 10:54:31 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend",
+      "published": "Thu, 17 Sep 2026 23:01:01 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "プレミアリーグチームニュース:週末のアクションの予想されるラインナップ",
+      "summary": "トッテナム土曜日の行動から始まるアストン・ヴィラふりがなアーセナル100%の賞金を記録し続けることを目指していますブライトン土曜日 12.30pmTNT Sports1 会場トッテナムスタジアム 続きを読む...",
+      "title_original": "Premier League team news: predicted lineups for the weekend action",
+      "summary_original": "Tottenham begin Saturday’s action against Aston Villa while Arsenal are aiming to keep their 100% winning record at Brighton Saturday 12.30pm TNT Sports 1 Venue Tottenham Hotspur Stadium Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+      "published": "Fri, 18 Sep 2026 14:33:52 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3481,20 +3523,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグ: 今週の週末を眺める10 の事",
-      "summary": "トッテナムそして別荘は絶望の derby で会いますアンドニ・イラオラ南ローストリターンのテストに直面して下さいプレミアリーグトップスコアラー:最新の順位を確認してくださいチェルシー以来、この西ロンドンのダービーを獲得していないブレントフォード’s 最初のプレミアリーグ 2021 年10 月1-0 勝以来の各訪問、Ben Chilwell スコアラーはドローです。この季節は、クラブのそれぞれのアプローチのディバージェンスを続けてきました。ブレントフォード’s の固着および継続性と対比チェルシー最新の再起動を試みる。ログイン",
-      "title_original": "Premier League: 10 things to look out for this weekend",
-      "summary_original": "Spurs and Villa meet in desperation derby and Andoni Iraola faces test on south-coast return Premier League top scorers: check the latest standings Chelsea have not won this west London derby since Brentford’s first Premier League season. Each visit since October 2021’s 1-0 win , Ben Chilwell the scorer, has been a draw. This season has continued the divergence between the clubs’ respective approaches, Brentford’s solidity and continuity contrasting with Chelsea attempting their latest reboot. K",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend",
-      "published": "Thu, 17 Sep 2026 23:01:01 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Kluivert と Rayan 岩レアル・ソシエダ Bournemouth がヨーロッパの弓で勝つように",
       "summary": "最初の目標は、AFC ボーンマス欧州で得たスコアはビスケー湾で聴くことができます。伝統からレアル・ソシエダ’ 古い Atotxa グラウンド, 一度失われたが、今 Anoeta で回復, 単一のフレアは、ホームチームが行うときに2 が点灯している間、訪問者のスコアが毎回オフに設定されていることを指示する; 海にそれらがスコアを知っている方法. そして、それは9 月2026 日の木曜日の夜に21.41 で、Justin Kluivert ネットと名付けられた人を見つけました Juan Iturralde 路地に出てルに",
       "title_original": "Kluivert and Rayan rock Real Sociedad as Bournemouth win on European bow",
@@ -3509,20 +3537,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ピノキックスタートクリスタル・パレス獲得を問い合わせヨーロッパリーグ rout のレフ・ポズナンセージの悩みを緩和する",
-      "summary": "待ち時間に値するクリスタル・パレス. 正しい場所を否定した後ヨーロッパリーグ季節限定 Pierre Sage’s 脇にブラシをかけることによって完全なデビューをした側面レフ・ポズナン新たなマネジャーを離れて熱の一部を取る勝利で.The Frenchman 交換を埋めるために大きな靴を持っているオリヴァー・グラスナー前任者が12 ヶ月のスペースで3 トロフィーを獲得し、ティーンエイジャーJaydee C をドロップする彼の決定に従うシーンの背後にあるいくつかの議論があった後",
-      "title_original": "Pino kickstarts Crystal Palace’s Europa League rout of Lech Poznan to ease Sage’s worries",
-      "summary_original": "It was worth the wait for Crystal Palace. After being denied their rightful place in the Europa League last season, Pierre Sage’s side made the perfect debut by brushing aside Lech Poznan with a victory that will take some of the heat off their new manager. The Frenchman has big shoes to fill in replacing Oliver Glasner after his predecessor won three trophies in the space of 12 months and there had been some talk of disquiet behind the scenes following his decision to drop the teenager Jaydee C",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/crystal-palace-lech-poznan-europa-league-match-report",
-      "published": "Thu, 17 Sep 2026 21:03:55 GMT",
-      "category": "uel",
-      "type": "uel",
-      "label": "EL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Floyd Samba’s デビューダブルリフトマンチェスター・シティ獲得を問い合わせ EFL カップノーリッチで勝つ",
       "summary": "Floyd Samba 毎半の絶え間なくゴールした後、17 歳のグラインディングを持つデビューでこのタイを照らすマンチェスター・シティ直面する高度ブライトン最後の 16 彼らの防衛の EFL カップ. 難波は、年々の兄、ティロネ、アカデミーでもあります。彼らの父親、Christopher は、元ブラックバーンと QPR 擁護者です。続きを読む...",
       "title_original": "Floyd Samba’s debut double lifts Manchester City to Carabao Cup win over Norwich",
@@ -3534,20 +3548,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "FA の椅子 Hewitt は失敗の Infantino 解放の記録を要求します World Cup プラン",
-      "summary": "フィファ評議会の会議の前に送られた手紙 15October Infantino 大統領選挙前の圧力下 The Football Association’s 椅子,Debbie Hewitt, に書かれている Gianni InfantinoFifa が放棄されたすべての文書を解放することを要求する World Cup 販売オフプランとリフトの決定アメリカ合衆国ストライカーフォラリン・バログン昨年の夏の大会ではサスペンションです。ガーディアンは去月、ハイウィットとフィファ評議会の他のメンバーが独立者のためのロビーだったことを明らかにしました",
-      "title_original": "FA chair Hewitt demands Infantino release records of failed World Cup plan",
-      "summary_original": "Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino demanding that Fifa releases all documents relating to his abandoned World Cup sell-off plan and the decision to lift the USA striker Folarin Balogun’s suspension during last summer’s tournament. The Guardian revealed last month that Hewitt and other members of the Fifa council were lobbying for an independent",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan",
-      "published": "Thu, 17 Sep 2026 18:00:45 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3635,6 +3635,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "FA の椅子 Hewitt は失敗の Infantino 解放の記録を要求します World Cup プラン",
+      "summary": "フィファ評議会の会議の前に送られた手紙 15October Infantino 大統領選挙前の圧力下 The Football Association’s 椅子,Debbie Hewitt, に書かれている Gianni InfantinoFifa が放棄されたすべての文書を解放することを要求する World Cup 販売オフプランとリフトの決定アメリカ合衆国ストライカーフォラリン・バログン昨年の夏の大会ではサスペンションです。ガーディアンは去月、ハイウィットとフィファ評議会の他のメンバーが独立者のためのロビーだったことを明らかにしました",
+      "title_original": "FA chair Hewitt demands Infantino release records of failed World Cup plan",
+      "summary_original": "Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino demanding that Fifa releases all documents relating to his abandoned World Cup sell-off plan and the decision to lift the USA striker Folarin Balogun’s suspension during last summer’s tournament. The Guardian revealed last month that Hewitt and other members of the Fifa council were lobbying for an independent",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan",
+      "published": "Thu, 17 Sep 2026 18:00:45 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Jürgen Klopp ドイツチームを「間違った人」から国民の誇りを認めたい",
       "summary": "コメントは、サクソニー・アンハルト「私は自分自身の旗を返し、私たちのために、」で遠直な選挙勝利に従ってください Jürgen Klopp ドイツのサッカーチームは、最近の直近の AFD 選挙の勝利の後に「国家の誇りは、間違った人々に委託されていない」ことを保証するのに役立ちます。フランクフルトのプレス会議では、ドイツ初のスクワッド、元を発表リヴァプールマネージャーは、ドイツ党の抗移民代替による最近の国家選挙の勝利を言及しました。続きを読む...",
       "title_original": "Jürgen Klopp wants his Germany team to reclaim national pride from ‘the wrong people’",
@@ -3663,16 +3677,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Real Madrid leading race to、マンチェスター・ユナイテッドから JJ Gabriel を獲得",
-      "summary": "バルセロナそして、バイエルン一方、ユナイテッドは、15 歳から15 歳まで滞在できると確信していますレアル・マドリードレースをリードし、マンチェスター・ユナイテッドティーンエイジャーJJ Gabriel 彼が言った後プレミアリーグ退会を希望するクラブ 15 歳を迎えるインテルヨーロッパ各地の名声が高まっています。バルセロナ彼を取得し、バイエルン・ミュンヘンウィンガーを賞賛するために知られています。Gabriel は Eur への移動を好むことが理解されています",
-      "title_original": "Real Madrid leading race to sign JJ Gabriel from Manchester United",
-      "summary_original": "Barcelona and Bayern among other admirers United hope they can convince 15-year-old to stay Real Madrid are leading the race to sign the Manchester United teenager JJ Gabriel after he told the Premier League club he wants to cancel his registration . The 15-year-old has attracted interest from across Europe as his reputation has grown with academy performances. Barcelona have been keen to acquire him and Bayern Munich are known to admire the winger. It is understood Gabriel prefers a move to Eur",
+      "title": "ピノキックスタートクリスタル・パレス獲得を問い合わせヨーロッパリーグ rout のレフ・ポズナンセージの悩みを緩和する",
+      "summary": "待ち時間に値するクリスタル・パレス. 正しい場所を否定した後ヨーロッパリーグ季節限定 Pierre Sage’s 脇にブラシをかけることによって完全なデビューをした側面レフ・ポズナン新たなマネジャーを離れて熱の一部を取る勝利で.The Frenchman 交換を埋めるために大きな靴を持っているオリヴァー・グラスナー前任者が12 ヶ月のスペースで3 トロフィーを獲得し、ティーンエイジャーJaydee C をドロップする彼の決定に従うシーンの背後にあるいくつかの議論があった後",
+      "title_original": "Pino kickstarts Crystal Palace’s Europa League rout of Lech Poznan to ease Sage’s worries",
+      "summary_original": "It was worth the wait for Crystal Palace. After being denied their rightful place in the Europa League last season, Pierre Sage’s side made the perfect debut by brushing aside Lech Poznan with a victory that will take some of the heat off their new manager. The Frenchman has big shoes to fill in replacing Oliver Glasner after his predecessor won three trophies in the space of 12 months and there had been some talk of disquiet behind the scenes following his decision to drop the teenager Jaydee C",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/real-madrid-leading-race-sign-jj-gabriel-manchester-united",
-      "published": "Thu, 17 Sep 2026 11:02:18 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/sep/17/crystal-palace-lech-poznan-europa-league-match-report",
+      "published": "Thu, 17 Sep 2026 21:03:55 GMT",
+      "category": "uel",
+      "type": "uel",
+      "label": "EL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3684,20 +3698,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/17/usmnt-roster-squad-analysis-cavan-sullivan-christian-pulisic",
       "published": "Thu, 17 Sep 2026 15:03:50 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "シカゴ・スターズ FC スプラッシュを作る Vlatko Andonovski サッカー代表として参加",
-      "summary": "Former USWNT ヘッドコーチはすぐにロールを始めます Andonovski は 2 つの NWSL の選手権に勝ちました Former Kansas City Current スポーツディレクターVlatko Andonovski 既に NWSL で、シカゴ・スターズ FC 木曜日に発表して、彼は最後のクラブのチーフサッカー役員として雇われた。Andonovski の現在の姿勢はわずか10 日前に終わっていたので、チームは、彼のスポーツディレクターの位置と判断したプレスリリースで相互契約終了を発表しました",
-      "title_original": "Chicago Stars make a splash as Vlatko Andonovski joins as chief soccer officer",
-      "summary_original": "Former USWNT head coach will start role immediately Andonovski has won two NWSL championships Former Kansas City Current sporting director Vlatko Andonovski is already back in the NWSL, with the Chicago Stars announcing Thursday that he has been hired as the chief soccer officer of the last-place club. Andonovski’s tenure with the Current had ended just 10 days ago, as the team announced a mutual contract termination in a tersely worded press release that deemed his sporting director position to",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/vlatko-andonovski-chicago-stars-kc-current-hire",
-      "published": "Thu, 17 Sep 2026 20:29:41 GMT",
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
@@ -3929,9 +3929,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "McIlroy, Rai オフ へ 飛行 スタート Wentworth として スコット リード LIVE!",
+      "title": "McIlroy, Rai は、素晴らしいスタート後にターンを作る Wentworth LIVE!",
       "summary": "",
-      "title_original": "McIlroy, Rai off to flying starts at Wentworth as Scott leads LIVE!",
+      "title_original": "McIlroy, Rai make the turn after great starts at Wentworth LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13586094/bmw-pga-championship-pro-am-tee-times-celebrity-handicaps-highlights-as-gareth-bale-john-terry-eden-hazard-feature",
@@ -3971,9 +3971,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'それはレーダーではありません' - Carrick は推測を却下マンチェスター・ユナイテッドミッション",
+      "title": "Carrick は未来の「ばんどん」の推測を却下",
       "summary": "マイケル・キャリックログインマンチェスター・ユナイテッド最近の闘争は、「大惨事や災害ではなく」であり、「大胆な」という立場で圧力を却下した。",
-      "title_original": "'It's not on the radar' - Carrick dismisses speculation on Man Utd future",
+      "title_original": "Carrick dismisses 'ridiculous' speculation on future",
       "summary_original": "Michael Carrick insists Manchester United's recent struggles are \"not a catastrophe or a disaster\" and dismissed talk of pressure on his position as \"ridiculous\".",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13589326/man-utd-its-not-on-the-radar-michael-carrick-dismisses-ridiculous-speculation-on-future",
