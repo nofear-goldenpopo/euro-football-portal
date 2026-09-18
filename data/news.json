@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-18T09:25:27.903806+00:00",
+  "updated_at": "2026-09-18T09:38:22.766921+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Brighton. Continue": "",
     "Blues’ No": "",
     "Emiliano Martínez. The": "",
     "Stamford Bridge. Martínez": "",
@@ -3001,7 +3000,8 @@
     "Rio Ngumoha": "リオ・エングモア",
     "Phil Foden. Full": "",
     "Tuchel's England": "",
-    "Thomas Tuchel's England": ""
+    "Thomas Tuchel's England": "",
+    "West Bromwich Albion": "ウェスト・ブロムウィッチ・アルビオンFC"
   },
   "items": [
     {
@@ -3089,17 +3089,31 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Tuchel のイギリス初のスクワッドの大きな質問 World Cup",
-      "summary": "獲得トーマス・トゥヘル名前 彼の最初のスクワット以来 World Cup 金曜日、BBC スポーツはイングランドのボスに直面している大きな質問を見ています。",
-      "title_original": "The big questions for Tuchel's first England squad since World Cup",
-      "summary_original": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
+      "title": "Wrexham の所有者は、Spygate を Southampton で目指す",
+      "summary": "ライアン・レイノルズそして、Rob Mac この週末は、チャンピオンシップフィクスの先にある、次の対戦相手で楽しいプレーをしました。",
+      "title_original": "Wrexham owners aim Spygate dig at Southampton",
+      "summary_original": "Ryan Reynolds and Rob Mac have poked fun at next opponents Southampton ahead of their Championship fixture this weekend.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 16:47:18 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 19:10:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "方法 De Zerbi ソリューショントッテナム' スコアリングトラブル?",
+      "summary": "ロベルト・デ・ゼルビ獲得を問い合わせトッテナムまだスコアをプレミアリーグ今シーズンの目標、その修正方法は?",
+      "title_original": "How does De Zerbi fix Spurs' scoring troubles?",
+      "summary_original": "Roberto De Zerbi's Tottenham are yet to score a Premier League goal this season, how do they fix that?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zyv3x5rpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 05:16:05 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3117,17 +3131,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "方法 De Zerbi ソリューショントッテナム' スコアリングトラブル?",
-      "summary": "ロベルト・デ・ゼルビ獲得を問い合わせトッテナムまだスコアをプレミアリーグ今シーズンの目標、その修正方法は?",
-      "title_original": "How does De Zerbi fix Spurs' scoring troubles?",
-      "summary_original": "Roberto De Zerbi's Tottenham are yet to score a Premier League goal this season, how do they fix that?",
+      "title": "保管・販売シェルキ? FPL ゲームウィーク5 ジレンマ",
+      "summary": "BBC スポーツの幻想プレミアリーグエキスパート FPL Heisenberg ゲームウィーク5 のマネージャーに直面する最も大きいジレンマのいくつかに彼の答えを与えます。",
+      "title_original": "Keep or sell Cherki? FPL gameweek five dilemmas",
+      "summary_original": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek five.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zyv3x5rpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 05:16:05 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69qr50nynqdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 06:44:29 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3159,20 +3173,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Wrexham の所有者は、Spygate を Southampton で目指す",
-      "summary": "ライアン・レイノルズそして、Rob Mac この週末は、チャンピオンシップフィクスの先にある、次の対戦相手で楽しいプレーをしました。",
-      "title_original": "Wrexham owners aim Spygate dig at Southampton",
-      "summary_original": "Ryan Reynolds and Rob Mac have poked fun at next opponents Southampton ahead of their Championship fixture this weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 19:10:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Junior Kroupi 獲得を問い合わせアーセナルレーダー - 金曜日のゴシップ",
       "summary": "アーセナル見ているボーンマスの若者 Eli Junior Kroupi, レアル・マドリード入居を検討中エヴァートン獲得を問い合わせジャラッド・ブランスウェイト, チェルシー獲得を問い合わせインテル ested で Nico Williams、プラス多く。",
       "title_original": "Junior Kroupi on Arsenal radar - Friday's gossip",
@@ -3184,20 +3184,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "保管・販売シェルキ? FPL ゲームウィーク5 ジレンマ",
-      "summary": "BBC スポーツの幻想プレミアリーグエキスパート FPL Heisenberg ゲームウィーク5 のマネージャーに直面する最も大きいジレンマのいくつかに彼の答えを与えます。",
-      "title_original": "Keep or sell Cherki? FPL gameweek five dilemmas",
-      "summary_original": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek five.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c69qr50nynqdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 06:44:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3243,6 +3229,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ライバルが更新されました: ダービーゲームは、このシーズンをバックアップ",
+      "summary": "ウェストハム Millwall および Wolves のホストを訪問して下さいウェスト・ブロムウィッチ・アルビオン FC 第1 回 決勝戦 決勝戦が更新されます。",
+      "title_original": "Rivalries renewed: The derby games back this season",
+      "summary_original": "West Ham visit Millwall and Wolves host West Bromwich Albion in the first derby weekend of the Championship season as fierce rivalries are renewed.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8d8nkglr7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 13:53:22 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "FA チェア要求 Infantino リリース World Cup 販売オフ文書",
       "summary": "フィファ会長 Gianni Infantino 株式を売却する彼の論争計画に関連するすべての文書を解放するように言われています World Cup.",
       "title_original": "FA chair demands Infantino release World Cup sell-off documents",
@@ -3267,6 +3267,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フォローする方法プレミアリーグ今週末 BBC で",
+      "summary": "Our Ask Me Anything チームは、週5 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
+      "title_original": "How to follow the Premier League on the BBC this weekend",
+      "summary_original": "Our Ask Me Anything team explains how to follow matches from week five of the Premier League season on the BBC this weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 11:47:16 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3369,20 +3383,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ライバルが更新されました: ダービーゲームは、このシーズンをバックアップ",
-      "summary": "ウェストハム Millwall および Wolves のホストを訪問して下さいウェスト・ブロムウィッチ・アルビオン FC 第1 回 決勝戦 決勝戦が更新されます。",
-      "title_original": "Rivalries renewed: The derby games back this season",
-      "summary_original": "West Ham visit Millwall and Wolves host West Bromwich Albion in the first derby weekend of the Championship season as fierce rivalries are renewed.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8d8nkglr7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 13:53:22 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "獲得を問い合わせアストン・ヴィラ fringe プレーヤーはヨーロッパの最も有利なスコアラーになりました",
       "summary": "欧州のトップ5 リーグのプレイヤーは、より多くの目標を獲得していませんドニエル・マレン以来、ローマ1 月にデビュー - BBC スポーツは、彼の変化を調べます.",
       "title_original": "How an Aston Villa fringe player became Europe's most prolific scorer",
@@ -3397,17 +3397,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フォローする方法プレミアリーグ今週末 BBC で",
-      "summary": "Our Ask Me Anything チームは、週5 から試合に従う方法を説明するプレミアリーグ今週の BBC シーズン。",
-      "title_original": "How to follow the Premier League on the BBC this weekend",
-      "summary_original": "Our Ask Me Anything team explains how to follow matches from week five of the Premier League season on the BBC this weekend.",
+      "title": "Euro Leagues",
+      "summary": "Is JJ Gabriel セットレアル・マドリード獲得を問い合わせ そして元 Gunners Aubameyang& イエスはスクーリングを続けます!",
+      "title_original": "Euro Leagues",
+      "summary_original": "Is JJ Gabriel set for Real Madrid? And former Gunners Aubameyang & Jesus keep scoring!",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 11:47:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sounds/play/p0pb3ytn?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 16:00:00 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email Dominic with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come below. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "published": "Fri, 18 Sep 2026 09:08:55 GMT",
+      "published": "Fri, 18 Sep 2026 09:21:07 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3971,13 +3971,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アレクサンダー・アーノルドはイングランドのスクワッドにリコール",
-      "summary": "トレント・アレクサンダー＝アーノルド今後のイングランドのスクワットにリコールされている Nations League スペインからのゲーム,チェコクロアチア",
-      "title_original": "Alexander-Arnold recalled to England squad",
-      "summary_original": "Trent Alexander-Arnold has been recalled to the England squad for the upcoming Nations League games against Spain, Czech Republic and Croatia.",
+      "title": "パルマーとアレクサンダー・アーノルドがイングランドのスクワットに呼び出される",
+      "summary": "トレント・アレクサンダー＝アーノルドそして、コール・パーマーイギリスのスクワッドにリコールされているトーマス・トゥヘル今後の予定について Nations League ゲーム。",
+      "title_original": "Palmer and Alexander-Arnold recalled to England squad",
+      "summary_original": "Trent Alexander-Arnold and Cole Palmer have been recalled to the England squad by Thomas Tuchel for the upcoming Nations League games.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13589193/trent-alexander-arnold-and-cole-palmer-recalled-to-england-squad-for-nations-league-games-by-thomas-tuchel",
-      "published": "Fri, 18 Sep 2026 08:33:00 BST",
+      "published": "Fri, 18 Sep 2026 10:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
