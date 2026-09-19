@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-19T12:07:04.279365+00:00",
+  "updated_at": "2026-09-19T12:28:28.470109+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Bernabéu Como": "",
     "Werder Bremen Real Madrid": "",
     "Gary O'Neil": "ガリー・オニール",
     "Harry Maguire's": "",
@@ -3001,7 +3000,8 @@
     "Johan Manzambi": "ヨハン・マンザンビ",
     "Birmingham LIVE": "",
     "Birmingham City LIVE": "",
-    "Will Spurs": ""
+    "Will Spurs": "",
+    "Lexi Potter": ""
   },
   "items": [
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽️ Premier League updates from 12.30pm (BST) ⚽️ Today’s fixtures | Send Daniel your thoughts via email This is the 176th meeting between the sides. Spurs have the historical edge having won 79 to Villa’s 62. There have been 32 draws. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
-      "published": "Sat, 19 Sep 2026 12:00:15 GMT",
+      "published": "Sat, 19 Sep 2026 12:15:03 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3439,10 +3439,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アンドニ・イラオラ Bournemouth は仕事でまだ学習しているリヴァプール",
-      "summary": "大きな決定を下し、勝利に描画を回すことは、ヘッドコーチが混合されたスタートを改善するために見えるので不可欠です Reds Alisson シュガーコートを少し試みるリヴァプール’ s unbeaten スタート へ の 季節 下アンドニ・イラオラクラブのインハウスメディアで Fulham に対して描画を分析するとき。「このシャツであまり祝うべきことではない3 つのドローでアンベアテン」とペーヴドリヴァプールゴールキーパー。「お持ち帰り」クリーンシートとはいえません。大事を目指したい。大きな t",
+      "title": "アンドニ・イラオラ Bournemouth は、ジョブではまだ学習しているリヴァプール",
+      "summary": "大きな決定を下し、勝利に描画を回すことは、ヘッドコーチが混合されたスタートを改善しようとすると不可欠です Reds Alisson シュガーコートを少し試みるリヴァプール’ s unbeaten スタート へ の 季節 下アンドニ・イラオラクラブのインハウスメディアで Fulham に対して描画を分析するとき。「このシャツであまり祝うべきことではない3 つのドローでアンベアテン」と明らかにしたリヴァプールゴールキーパー。「お持ち帰り」クリーンシートしかし、私たちは皆で幸せではありません。大事を目指したい。大きな t",
       "title_original": "Andoni Iraola makes Bournemouth return still learning on the job at Liverpool",
-      "summary_original": "Making big decisions and turning draws into wins is vital as head coach looks to improve on a mixed start with Reds Alisson made little attempt to sugarcoat Liverpool’s unbeaten start to the season under Andoni Iraola when analysing the draw against Fulham with the club’s in-house media. “Unbeaten with three draws is not something to celebrate too much with this shirt,” said a peeved Liverpool goalkeeper. “We take the clean sheet but we are not happy at all. We need to aim for big things.” Big t",
+      "summary_original": "Making big decisions and turning draws into wins is vital as head coach seeks to improve on a mixed start with Reds Alisson made little attempt to sugarcoat Liverpool’s unbeaten start to the season under Andoni Iraola when analysing the draw against Fulham with the club’s in-house media. “Unbeaten with three draws is not something to celebrate too much with this shirt,” said a peeved Liverpool goalkeeper. “We take the clean sheet but we are not happy at all. We need to aim for big things.” Big t",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/19/andoni-iraola-bournemouth-return-learning-on-job-liverpool",
       "published": "Sat, 19 Sep 2026 07:00:40 GMT",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "エヴァートン対比イプスウィッチチームニュース LIVE!",
+      "summary": "",
+      "title_original": "Everton vs Ipswich team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/everton-vs-ipswich-town/live/559487",
+      "published": "Sat, 19 Sep 2026 13:23:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・ユナイテッド最新: メルソンはカーリックの緊張を疑うキャスト",
       "summary": "",
       "title_original": "Man Utd latest: Merson casts doubt over Carrick's tenure",
@@ -3866,6 +3880,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-arsenal/live/559486",
       "published": "Sat, 19 Sep 2026 13:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "WSL:チェルシー倍増リード対に近い Birmingham LIVE!",
+      "summary": "",
+      "title_original": "WSL: Chelsea close to doubling lead vs Birmingham LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-birmingham-city-women/live/575772",
+      "published": "Sat, 19 Sep 2026 12:11:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3898,20 +3926,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "WSL:ポッタースマッシュチェルシー初期リード対 Birmingham LIVE!",
-      "summary": "",
-      "title_original": "WSL: Potter smashes Chelsea into early lead vs Birmingham LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-women-vs-birmingham-city-women/live/575772",
-      "published": "Sat, 19 Sep 2026 12:11:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3971,6 +3985,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「綺麗に!」 | ポッターパットチェルシーBirmingham から",
+      "summary": "Lexi Potter 置くためにそれを完全に置いて下さいチェルシーバーミンガムから1-0.",
+      "title_original": "'Buried that beautifully!' | Potter puts Chelsea ahead against Birmingham",
+      "summary_original": "Lexi Potter places it perfectly to put Chelsea 1-0 up against Birmingham.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589602/lexi-potter-puts-chelsea-ahead-against-birmingham",
+      "published": "Sat, 19 Sep 2026 12:56:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リトルは、ノッパートを打つために生きた群衆を克服 World Series インフォメーション Darts Finals",
       "summary": "Luke Littler 過去の戦い Danny Noppert そして、オランダの賑やかな群衆が2 番目のラウンドに到達する World Series インフォメーション Darts Finals アムステルダム",
       "title_original": "Littler overcomes lively crowd to beat Noppert at World Series of Darts Finals",
@@ -3995,6 +4023,20 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウィルトッテナム再びスコア? マンザンビーは、ライブ前にヴィラを置きます!",
+      "summary": "",
+      "title_original": "Will Spurs ever score again? Manzambi puts Villa in front LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/live/559493",
+      "published": "Sat, 19 Sep 2026 10:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -4027,27 +4069,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウィルトッテナム再びスコア? Savio はダブルチャンスを逃します。対 Villa LIVE!",
+      "title": "McIlroy 閉じる 上の BMW PGA 選手権初期のバードニーLIVE でリード!",
       "summary": "",
-      "title_original": "Will Spurs ever score again? Savio misses double chance vs Villa LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/live/559493",
-      "published": "Sat, 19 Sep 2026 10:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "McIlroy chases Gerard で BMW PGA 選手権ライブ!",
-      "summary": "",
-      "title_original": "McIlroy chases Gerard at BMW PGA Championship LIVE!",
+      "title_original": "McIlroy closes on BMW PGA Championship lead with early birdie LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13589576/bmw-pga-championship-live-latest-scores-updates-highlights-as-rory-mcilroy-chases-down-leaders-at-wentworth",
-      "published": "Sat, 19 Sep 2026 11:30:00 BST",
+      "published": "Sat, 19 Sep 2026 13:10:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13589503/emre-guler-sees-red-wakefield-trinity-down-to-12-against-leigh-leopards",
       "published": "Fri, 18 Sep 2026 21:48:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アルテタ: ドウマンは出て行くことができるレンタル移籍で未来へ",
-      "summary": "アーセナルマネージャーミケル・アルテタ融資を除外していない Max Dowman 将来的には、クラブは6 ヶ月ごとに16 歳の感覚の進歩を評価すると述べています。",
-      "title_original": "Arteta: Dowman could go out on loan in future",
-      "summary_original": "Arsenal manager Mikel Arteta has not ruled out loaning out Max Dowman in the future and says the club evaluates the 16-year-old sensation's progress every six months.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589421/max-dowman-mikel-arteta-admits-16-year-old-arsenal-wonderkid-could-go-out-on-loan-in-the-future",
-      "published": "Fri, 18 Sep 2026 22:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リトルはダーツをきれいに掃除を完了するために何をする必要がありますか?",
-      "summary": "Luke Littler 世界 No1 のダーツプレイヤーは、2026 年にこれまでの主要なダーツトーナメントを勝ち取っており、3 人目の選手になり、ランキングのきれいな広がりと1 年間にランクされていないタイトルを完成させました。",
-      "title_original": "What does Littler need to do to complete darts clean sweep?",
-      "summary_original": "Luke Littler, the world's No 1 darts player, has won all the major darts tournaments so far in 2026, and is well on his way to becoming the third man to complete a clean sweep of ranking and non-ranking titles in a single year.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13586255/luke-littler-what-world-no-1-needs-to-complete-darts-majors-clean-sweep-in-2026-to-make-more-history",
-      "published": "Fri, 18 Sep 2026 06:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
