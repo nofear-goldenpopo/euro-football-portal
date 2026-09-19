@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-19T16:50:28.950009+00:00",
+  "updated_at": "2026-09-19T17:05:45.044477+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Thierno Barry’s": "",
     "Losing Ndiaye": "",
     "Scottish Championship": "",
     "Bluesky Some": "",
@@ -3001,7 +3000,8 @@
     "Emirates. Continue": "",
     "Colby Bishop": "",
     "Mohammed Fuseini's": "",
-    "Lewis Hall's": ""
+    "Lewis Hall's": "",
+    "Filippo Celli's": ""
   },
   "items": [
     {
@@ -3030,6 +3030,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "スズキは、マルティネスの Villa で価値ある交換を証明",
+      "summary": "アストン・ヴィラ新しい男の子鈴木彩艶誰にとっても最初の信用に値するプレミアリーグ struggling でシーズンの勝利トッテナム.",
+      "title_original": "Suzuki proves worthy replacement for Martinez at Villa",
+      "summary_original": "Aston Villa new boy Zion Suzuki deserves as much credit as anyone for their first Premier League win of the season at struggling Tottenham.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg490nn12pvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 16:58:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3085,6 +3099,20 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「学ぶための大きなレッスンです」 -アルテタに 'painful'ブライトンバックナンバー",
+      "summary": "アーセナルマネージャーミケル・アルテタコメントアーセナルガンナーが3〜3 歳を失った後に競争するために必要な基準から「これまでのところ」だったブライトン- 最初の敗北プレミアリーグこちらの季節です。",
+      "title_original": "'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat",
+      "summary_original": "Arsenal manager Mikel Arteta says Arsenal were \"very far\" from the standards required to compete after the Gunners lost 3-0 to Brighton - their first defeat in the Premier League this season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6kgxl5x12y9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 16:50:50 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3145,20 +3173,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "100 年、ミラノのアイコニックにタイムアップスタディオ・ジュゼッペ・メアッツァ?",
-      "summary": "象徴的な家として AC ミランそして、インテルターン100、BBC スポーツ訪問スタディオ・ジュゼッペ・メアッツァ- 最近の会場冬季オリンピックオープニングセレモニー、スタジアムで開催された最後のグローバルイベントであり、次なる理由を調べる。",
-      "title_original": "100 years on, is time up for Milan's iconic San Siro?",
-      "summary_original": "As the iconic home of AC Milan and Inter Milan turns 100, BBC Sport visits the San Siro - the venue for the recent Winter Olympics opening ceremony, to find out why that could have been the last global event held at the stadium, and what comes next.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0q4k74kvy5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Feb 2026 08:43:06 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "チェルシー獲得を問い合わせジョアン・ペドロ目標の決定を止めない",
       "summary": "チェルシーの の問題は守られたが、ジョアン・ペドロ怪我を通し、ゴールのスコアも問題となっている。",
       "title_original": "Chelsea miss Joao Pedro... and can't stop conceding goals",
@@ -3173,17 +3187,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "なぜ?Black Country ダービーは、Wolves と West Brom",
-      "summary": "ウルフとウェスト・ブロムウィッチ・アルビオン FC 初めての出会い Black Country2021 年5 月よりリーグで初めての方へ",
-      "title_original": "Why the Black Country derby means so much to Wolves and West Brom",
-      "summary_original": "Wolves and West Bromwich Albion meet for the first time in a Black Country derby for the first time in the league since May 2021.",
+      "title": "100 年、ミラノのアイコニックにタイムアップスタディオ・ジュゼッペ・メアッツァ?",
+      "summary": "象徴的な家として AC ミランそして、インテルターン100、BBC スポーツ訪問スタディオ・ジュゼッペ・メアッツァ- 最近の会場冬季オリンピックオープニングセレモニー、スタジアムで開催された最後のグローバルイベントであり、次なる理由を調べる。",
+      "title_original": "100 years on, is time up for Milan's iconic San Siro?",
+      "summary_original": "As the iconic home of AC Milan and Inter Milan turns 100, BBC Sport visits the San Siro - the venue for the recent Winter Olympics opening ceremony, to find out why that could have been the last global event held at the stadium, and what comes next.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c64gd454lykno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 10:43:41 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0q4k74kvy5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Feb 2026 08:43:06 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3271,13 +3285,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "タッチェルは、イギリスのパルマとアレクサンダー・アーノルドをリコール",
-      "summary": "トーマス・トゥヘルリコールトレント・アレクサンダー＝アーノルドそして、コール・パーマー2026 年以来、イギリス初のスクワッドへ World Cup.",
-      "title_original": "Tuchel recalls Palmer and Alexander-Arnold for England",
-      "summary_original": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup.",
+      "title": "なぜ?Black Country ダービーは、Wolves と West Brom",
+      "summary": "ウルフとウェスト・ブロムウィッチ・アルビオン FC 初めての出会い Black Country2021 年5 月よりリーグで初めての方へ",
+      "title_original": "Why the Black Country derby means so much to Wolves and West Brom",
+      "summary_original": "Wolves and West Bromwich Albion meet for the first time in a Black Country derby for the first time in the league since May 2021.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c61wx5x33jyjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:49:14 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64gd454lykno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 10:43:41 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3408,20 +3422,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ノッティンガム・フォレストスタジアムの拡張が承認されました。",
-      "summary": "より大きな夢をシティ・グラウンドついに現実になる?",
-      "title_original": "Nottingham Forest stadium expansion approved - so what now?",
-      "summary_original": "Will the dream of a bigger City Ground finally become a reality?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/c674kw873545o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 05:14:39 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3971,13 +3971,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Nabati リバース Arapaho Gold フォームミルリーフ",
-      "summary": "ドバイ・デューティー・フリーの後、感情的なシーンがありましたミルリーフニューベリーが後半に敬意を払った午後にステーク Ian Balding.",
-      "title_original": "Nabati reverses Arapaho Gold form in Mill Reef",
-      "summary_original": "There were emotional scenes after the Dubai Duty Free Mill Reef Stakes on an afternoon where Newbury paid tribute to the late Ian Balding.",
+      "title": "獲得を問い合わせ セルリのアプローチショットは、水に着陸を避けるために木材をバウンスオフ!",
+      "summary": "Filippo Celli's18 の穴に木を弾いた後水に着陸を避けます BMW PGA 選手権.",
+      "title_original": "WOW! Celli's approach shot bounces off wood to avoid landing in water!",
+      "summary_original": "Filippo Celli's avoids a landing in the water after bouncing off the wood on the 18th hole at the BMW PGA Championship.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13589668/mill-reef-stakes-charlie-applebys-nabati-reverses-arapaho-gold-form-at-newbury",
-      "published": "Sat, 19 Sep 2026 15:07:00 BST",
+      "url": "https://www.skysports.com/watch/video/13589846/wow-cellis-approach-shot-bounces-off-wood-to-avoid-landing-in-water-at-the-bmw-pga-championship",
+      "published": "Sat, 19 Sep 2026 17:37:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3999,13 +3999,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Nabati リバース Arapaho Gold フォームミルリーフ",
+      "summary": "ドバイ・デューティー・フリーの後、感情的なシーンがありましたミルリーフニューベリーが後半に敬意を払った午後にステーク Ian Balding.",
+      "title_original": "Nabati reverses Arapaho Gold form in Mill Reef",
+      "summary_original": "There were emotional scenes after the Dubai Duty Free Mill Reef Stakes on an afternoon where Newbury paid tribute to the late Ian Balding.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13589668/mill-reef-stakes-charlie-applebys-nabati-reverses-arapaho-gold-form-at-newbury",
+      "published": "Sat, 19 Sep 2026 15:07:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナルの 勝ち スタート 終了 によって 華麗ブライトン",
       "summary": "アーセナルの 勝ち スタート へ シーズン 来た へ 残忍な 終わり として 華麗ブライトン見事な 3-0 の勝利を保証 - スコアラインが平らにミケル・アルテタの 側。",
       "title_original": "Arsenal's winning start ended by brilliant Brighton",
       "summary_original": "Arsenal's winning start to the season came to a brutal end as brilliant Brighton secured a stunning 3-0 victory - and even that scoreline flattered Mikel Arteta's side.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-arsenal/report/559486",
-      "published": "Sat, 19 Sep 2026 16:45:00 BST",
+      "published": "Sat, 19 Sep 2026 17:00:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -4069,9 +4083,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バトラーはイングランドのクリンチのエフェティック・シリーズの広がりとして50fty に当たるスリランカライブ!",
+      "title": "ブロード・ヘイルズ・ブルックがイングランド・ロートのリーダーとして発展スリランカ",
       "summary": "",
-      "title_original": "Buttler hits fifty as England clinch emphatic series sweep of Sri Lanka LIVE!",
+      "title_original": "Broad hails Brook's development as leader after England rout Sri Lanka",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13589549/england-vs-sri-lanka-third-t20-live-latest-score-commentary-video-and-analysis-as-harry-brooks-side-target-3-0-series-sweep-in-manchester",
@@ -4107,20 +4121,6 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ニューカッスル最新: Elanga は後戻ることができますインテル国民の休憩",
-      "summary": "",
-      "title_original": "Newcastle latest: Elanga could be back after international break",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Fri, 18 Sep 2026 08:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     }
