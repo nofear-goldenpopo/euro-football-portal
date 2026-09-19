@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T15:36:09.357545+00:00",
+  "updated_at": "2026-09-19T15:49:37.361454+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "Baggy Greens": "",
@@ -3915,9 +3915,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イギリスの T20 シリーズの広がりのための125 を追いかけるスリランカライブ!",
+      "title": "イギリスのシリーズスイープに向かってクルージングスリランカ決勝戦 T20 LIVE!",
       "summary": "",
-      "title_original": "England chasing 125 for T20 series sweep of Sri Lanka LIVE!",
+      "title_original": "England cruising towards series sweep of Sri Lanka in final T20 LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13589549/england-vs-sri-lanka-third-t20-live-latest-score-commentary-video-and-analysis-as-harry-brooks-side-target-3-0-series-sweep-in-manchester",
@@ -3968,6 +3968,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「彼は彼の存在感を感じさせています!」 - McIlroy は信じられないほどの最終ホールイーグルを作ります!",
+      "summary": "ローリー・マキロイ信じられないほどの最終ホールイーグルを3 日目に BMW PGA 選手権.",
+      "title_original": "'He's making his presence felt!' - McIlroy makes incredible final-hole eagle!",
+      "summary_original": "Rory McIlroy makes an incredible final-hole eagle on day three of the BMW PGA Championship.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589727/rory-mcilroy-makes-incredible-final-hole-eagle-at-the-bmw-pga-championship",
+      "published": "Sat, 19 Sep 2026 16:29:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4108,20 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チョ は 1 つのバック のためにハルに対してニューカッスルライブ!",
-      "summary": "",
-      "title_original": "Cho gets one back for Hull against Newcastle LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/newcastle-united-vs-hull-city/live/559491",
-      "published": "Sat, 19 Sep 2026 12:45:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
