@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-19T09:06:35.394706+00:00",
+  "updated_at": "2026-09-19T09:23:50.693959+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Minnesota United": "",
     "Inter Miami": "",
     "Lionel Messi": "リオネル・メッシ",
     "Saturday. Messi’s": "",
@@ -3001,7 +3000,8 @@
     "That Malen": "",
     "Bayern. Kane": "",
     "Regarding Trent Alexander-Arnold’s England": "",
-    "Sid Lowe’s": ""
+    "Sid Lowe’s": "",
+    "Emre Guler": ""
   },
   "items": [
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "News, discussion and updates before Saturday’s games This weekend’s fixtures | Tables | Mail us your thoughts Regarding Trent Alexander-Arnold’s England recall , here’s what Tuchel had to say … … and here is Sid Lowe’s analysis , the view from Spain: Thomas Tuchel said Trent Alexander Arnold had enjoyed a good start to the season, which came as news to those in England who have not been watching him at Real Madrid . It also, in truth, came as news to those in Spain who have. If the England manag",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
-      "published": "Sat, 19 Sep 2026 08:58:14 GMT",
+      "published": "Sat, 19 Sep 2026 09:06:02 GMT",
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
@@ -3957,6 +3957,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "トッテナム対比アストン・ヴィラチームニュース LIVE!",
+      "summary": "",
+      "title_original": "Spurs vs Aston Villa team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/live/559493",
+      "published": "Sat, 19 Sep 2026 10:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Biltmore Championship|2 日目ハイライト",
       "summary": "第2 ラウンドのハイライト Biltmore Championship 獲得を問い合わせ The Cliffs Walnut Cove ゴルフ場アッシュビル、ノースカロライナ州.",
       "title_original": "Biltmore Championship | Day two highlights",
@@ -3964,6 +3978,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13589539/biltmore-championship-day-two-highlights",
       "published": "Fri, 18 Sep 2026 23:36:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Wakefield's Guler 顔のパンチの後の赤を見て下さい",
+      "summary": "見てみる Emre Guler のために送られる Wakefield Trinity に対して Leigh Leopards .",
+      "title_original": "Wakefield's Guler sees RED after face punch",
+      "summary_original": "Take a look as Emre Guler gets sent off for Wakefield Trinity against Leigh Leopards .",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589503/emre-guler-sees-red-wakefield-trinity-down-to-12-against-leigh-leopards",
+      "published": "Fri, 18 Sep 2026 21:48:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/leeds-vs-york-valkyrie/report/64307",
       "published": "Tue, 15 Sep 2026 16:19:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "パウエル:My Wakefield パックは信じられない | ラム: リー 'diabolical'",
-      "summary": "",
-      "title_original": "Powell: My Wakefield pack is unbelievable | Lam: Leigh 'diabolical' at times",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13586226/super-league-eliminators-live-updates-commentary-videos-scores-as-wakefield-trinity-take-on-leigh-leopards-for-spot-in-semi-finals",
-      "published": "Fri, 18 Sep 2026 19:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "警察が閉塞した暴行調査を閉止した後、カースに対する料金なし",
-      "summary": "Brydon Carse 以降はいかなる料金も満たさない Derbyshire Police ダービーのナイトクラブでイングランドのクリケットターを巻き起こす事件に従ったアサルトに彼らの調査を閉じました。",
-      "title_original": "No charges against Carse after police close alleged assault investigation",
-      "summary_original": "Brydon Carse will not face any charges after Derbyshire Police closed their investigation into an alleged assault following an incident involving the England cricketer at a nightclub in Derby.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13589398/brydon-carse-no-charges-against-england-cricketer-after-police-close-investigation-into-alleged-assault-at-nightclub",
-      "published": "Fri, 18 Sep 2026 17:28:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
