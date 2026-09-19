@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-19T13:23:49.985366+00:00",
+  "updated_at": "2026-09-19T13:36:12.663516+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Chuka Akpom’s": "",
-    "Britain's Boulter": "",
-    "Van Assche": "",
-    "Cameron Norrie": "",
-    "Luca Van Assche": "",
     "Ross Smith": "",
     "Gary Anderson": "ゲイリー・アンダーソン (曖昧さ回避)",
     "In Spain’s La Liga": "",
@@ -3001,9 +2996,28 @@
     "Jack Moylan": "",
     "Kostoulas. Subs": "",
     "Yalcouye. Continue": "",
-    "Sheffield United": "シェフィールド・ユナイテッドFC"
+    "Sheffield United": "シェフィールド・ユナイテッドFC",
+    "Exeter LIVE": "",
+    "Old Trafford": "オールド・トラッフォード",
+    "Emirates Old Trafford. Watch": "",
+    "Melvine Malard": "",
+    "Southampton LIVE": ""
   },
   "items": [
+    {
+      "title": "Manzambi catches、as Villa beat Spurs - player ratings を獲得候補に",
+      "summary": "トッテナム初めて探しているプレミアリーグ季節の目標。",
+      "title_original": "Manzambi catches eye as Villa beat Spurs - player ratings",
+      "summary_original": "Tottenham are still looking for their first Premier League goal of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 13:32:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "チェルシー獲得を問い合わせジョアン・ペドロ目標の決定を止めない",
       "summary": "チェルシーの の問題は守られたが、ジョアン・ペドロ怪我を通し、ゴールのスコアも問題となっている。",
@@ -3033,34 +3047,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "100 年、ミラノのアイコニックにタイムアップスタディオ・ジュゼッペ・メアッツァ?",
-      "summary": "象徴的な家として AC ミランそして、インテルターン100、BBC スポーツ訪問スタディオ・ジュゼッペ・メアッツァ- 最近の会場冬季オリンピックオープニングセレモニー、スタジアムで開催された最後のグローバルイベントであり、次なる理由を調べる。",
-      "title_original": "100 years on, is time up for Milan's iconic San Siro?",
-      "summary_original": "As the iconic home of AC Milan and Inter Milan turns 100, BBC Sport visits the San Siro - the venue for the recent Winter Olympics opening ceremony, to find out why that could have been the last global event held at the stadium, and what comes next.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0q4k74kvy5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Feb 2026 08:43:06 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リヴァプール見る 5150万ポンド 定格のドミトリー -土曜日の移籍ゴシップ",
-      "summary": "オランダミッドフィルダーKees Smit 見ているリヴァプール, トッテナムブラジルのディフェンダーのためのレースをリード Arthur Dias そして、モナコ獲得を問い合わせフォラリン・バログン1 月は休業とさせていただきます。",
-      "title_original": "Liverpool watch £51.5m-rated Smit - Saturday's gossip",
-      "summary_original": "Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in January.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwd083944eeko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 20:35:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -3086,6 +3072,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプール見る 5150万ポンド 定格のドミトリー -土曜日の移籍ゴシップ",
+      "summary": "オランダミッドフィルダーKees Smit 見ているリヴァプール, トッテナムブラジルのディフェンダーのためのレースをリード Arthur Dias そして、モナコ獲得を問い合わせフォラリン・バログン1 月は休業とさせていただきます。",
+      "title_original": "Liverpool watch £51.5m-rated Smit - Saturday's gossip",
+      "summary_original": "Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in January.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd083944eeko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 20:35:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3187,20 +3187,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "London City's 新研修センター「もっともっともっと」プレミアリーグクラブ - カン",
-      "summary": "Michele Kang 信じるロンドン・シティ・ライオネス' 計画された新しい訓練場はほとんどの人の人によって使用される女性のゲームで新しい標準を置き、設備を越えますプレミアリーグクラブ",
-      "title_original": "London City's new training centre 'better than most Premier League clubs' - Kang",
-      "summary_original": "Michele Kang believes London City Lionesses' planned new training ground will set a new standard in the women's game and surpass facilities used by most men's Premier League clubs.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl69549wzro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 16:03:14 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Tuchel は、Alexander-Arnold と Palmer を警告でリコール",
       "summary": "イングランド上司トーマス・トゥヘルリコールトレント・アレクサンダー＝アーノルドそして、コール・パーマーしかし、プレイヤーは「パーフォーム」を持っていると言います。",
       "title_original": "Tuchel recalls Alexander-Arnold and Palmer with warning",
@@ -3212,6 +3198,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "100 年、ミラノのアイコニックにタイムアップスタディオ・ジュゼッペ・メアッツァ?",
+      "summary": "象徴的な家として AC ミランそして、インテルターン100、BBC スポーツ訪問スタディオ・ジュゼッペ・メアッツァ- 最近の会場冬季オリンピックオープニングセレモニー、スタジアムで開催された最後のグローバルイベントであり、次なる理由を調べる。",
+      "title_original": "100 years on, is time up for Milan's iconic San Siro?",
+      "summary_original": "As the iconic home of AC Milan and Inter Milan turns 100, BBC Sport visits the San Siro - the venue for the recent Winter Olympics opening ceremony, to find out why that could have been the last global event held at the stadium, and what comes next.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0q4k74kvy5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Feb 2026 08:43:06 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3271,20 +3271,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「すべてが失望していた」 - Alonso 上のブレントフォードバックナンバー",
-      "summary": "「すべてが失望していた」 - Alonso 上のブレントフォードバックナンバー",
-      "title_original": "'Everything was disappointing' - Alonso on Brentford defeat",
-      "summary_original": "'Everything was disappointing' - Alonso on Brentford defeat",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/programmes/p0pbdlmn?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 21:35:44 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Sutton の予測 v 伝説的なギタリストジョニー・マー",
       "summary": "BBC スポーツサッカーの専門家クリス・サットン伝説的なギタリストとマンチェスター・シティファンジョニー・マーこの週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
       "title_original": "Sutton's predictions v legendary guitarist Johnny Marr",
@@ -3292,6 +3278,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c62j06np0gpo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 15:10:03 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "London City's 新研修センター「もっともっともっと」プレミアリーグクラブ - カン",
+      "summary": "Michele Kang 信じるロンドン・シティ・ライオネス' 計画された新しい訓練場はほとんどの人の人によって使用される女性のゲームで新しい標準を置き、設備を越えますプレミアリーグクラブ",
+      "title_original": "London City's new training centre 'better than most Premier League clubs' - Kang",
+      "summary_original": "Michele Kang believes London City Lionesses' planned new training ground will set a new standard in the women's game and surpass facilities used by most men's Premier League clubs.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crl69549wzro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 16:03:14 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3369,17 +3369,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Senegal ジョブ の '絶対 夢' のための 新しい ボス Vieira",
-      "summary": "Former France インテル全国 Patrick Vieira, aWorld Cup1998 年の受賞者は、出生国セネガルの担当を「名誉」と言います。",
-      "title_original": "Senegal job an 'absolute dream' for new boss Vieira",
-      "summary_original": "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honour\".",
+      "title": "「すべてが失望していた」 - Alonso 上のブレントフォードバックナンバー",
+      "summary": "「すべてが失望していた」 - Alonso 上のブレントフォードバックナンバー",
+      "title_original": "'Everything was disappointing' - Alonso on Brentford defeat",
+      "summary_original": "'Everything was disappointing' - Alonso on Brentford defeat",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 17:01:59 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/programmes/p0pbdlmn?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 21:35:44 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽️ Premier League updates from 12.30pm (BST) ⚽️ Today’s fixtures | Send Daniel your thoughts via email This is the 176th meeting between the sides. Spurs have the historical edge having won 79 to Villa’s 62. There have been 32 draws. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
-      "published": "Sat, 19 Sep 2026 13:14:14 GMT",
+      "published": "Sat, 19 Sep 2026 13:32:41 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3445,7 +3445,7 @@
       "summary_original": "⚽️ Updates from across the grounds for Saturday’s games ⚽️ Live scoreboard | Spurs v Aston Villa – updates | Mail Scott GOAL! Stoke City 1-1 Sheffield United (McGlynn 78). Another leveller in the Championship, thanks to Jack McGlynn at the bet365. GOAL! Millwall 2-2 West Ham United (Mavropanos 80). … and now West Ham are level! They get to take a corner this time. They take it short. Manor Solomon drops a shoulder to make space on the right, crosses long, and Konstantinos Mavropanos plants a hea",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
-      "published": "Sat, 19 Sep 2026 13:13:51 GMT",
+      "published": "Sat, 19 Sep 2026 13:29:27 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3482,9 +3482,9 @@
     },
     {
       "title": "ハリー・ケイン最速から100 までのスマッシュレコードブンデスリーガ第98 試合のゴール",
-      "summary": "Kane ダブルヘルプバイエルン・ミュンヘンビート1.FC ウニオン・ベルリン 7-0 Dieter Müller’s1977 年以降、129 試合を記録したハリー・ケイン最速のプレーヤーの49 歳記録をスマッシュし、スコア100 ブンデスリーガ目標バイエルン・ミュンヘン’s 7-0 勝つオーバー1.FC ウニオン・ベルリン第98 回リーグ戦の試合 Cologne’s Dieter Müller1977 年に前のマークを設定したが、129 の試合を受け、イングランドのキャプテンのスコアリングは、ゲームの目標よりも優れ、新しいレコードはしばらくの間必然的だった。以来、",
+      "summary": "ストライカーのダブルヘルプバイエルン・ミュンヘンビート1.FC ウニオン・ベルリン 7-0 Dieter Müller’s1977 年以降、129 試合を記録したハリー・ケイン最速のプレーヤーの49 歳を記録して100 をスコアするブンデスリーガ目標バイエルン・ミュンヘン’s 7-0 金曜日に勝利1.FC ウニオン・ベルリン第98 回リーグ戦出場 Cologne’s Dieter Müller1977 年に前のマークを設定したが、129 試合とイングランドキャプテンのスコアリングを目標よりも優れていました。",
       "title_original": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
-      "summary_original": "Kane double helps Bayern Munich beat Union Berlin 7-0 Dieter Müller’s record of 129 games had stood since 1977 Harry Kane smashed the 49-year-old record for the fastest player to score 100 Bundesliga goals in Bayern Munich’s 7-0 victory over Union Berlin, his 98th league game for the club. Cologne’s Dieter Müller set the previous mark in 1977, but it took him 129 matches and, with the England captain scoring at better than a goal a game, a new record had been inevitable for some time. Since his ",
+      "summary_original": "Striker’s double helps Bayern Munich beat Union Berlin 7-0 Dieter Müller’s record of 129 games had stood since 1977 Harry Kane broke the 49-year-old record for the fastest player to score 100 Bundesliga goals in Bayern Munich’s 7-0 victory on Friday over Union Berlin, his 98th league game for the club. Cologne’s Dieter Müller set the previous mark in 1977, but it took him 129 matches and with the England captain scoring at better than a goal a game Kane setting the record had been inevitable for",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game",
       "published": "Fri, 18 Sep 2026 22:04:40 GMT",
@@ -3845,9 +3845,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イギリスの eyeing 3-0 T20 シリーズは広がりますスリランカライブ!",
+      "title": "イングランドとカナダの履歴書 WXV Global Series キャンペーン Exeter LIVE!",
       "summary": "",
-      "title_original": "England eyeing 3-0 T20 series sweep over Sri Lanka LIVE!",
+      "title_original": "England and Canada resume WXV Global Series campaign in Exeter LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13589613/england-vs-canada-live-wxv-global-series-score-updates-analysis-from-sandy-park",
+      "published": "Sat, 19 Sep 2026 13:51:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "England bowl first as they、3-0 T20 series sweep over Sri Lanka LIVE!を獲得候補に",
+      "summary": "",
+      "title_original": "England bowl first as they target 3-0 T20 series sweep over Sri Lanka LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13589549/england-vs-sri-lanka-third-t20-live-latest-score-commentary-video-and-analysis-as-harry-brooks-side-target-3-0-series-sweep-in-manchester",
@@ -3856,6 +3870,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "スコアカード:イングランド対スリランカ、第3 T20、オールド・トラッフォード",
+      "summary": "3 番目の T20 から最新のスコアインテルイングランドとイギリスの国スリランカエミレーツオールド・トラッフォード. ライブを見る Sky Sports.",
+      "title_original": "Scorecard: England vs Sri Lanka, third T20, Old Trafford",
+      "summary_original": "Latest score from the third T20 international between England and Sri Lanka at Emirates Old Trafford. Watch live on Sky Sports Cricket.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/england-v-sri-lanka/scorecard/05056d5d-7b69-5f86-91b6-a5bdeb4474bc",
+      "published": "Sat, 19 Sep 2026 14:25:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3915,9 +3943,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL:マラードがついにダブルスチェルシーリード対 Birmingham LIVE!",
+      "title": "WSL: マラードはついに与えますチェルシー呼吸空間対 Birmingham LIVE!",
       "summary": "",
-      "title_original": "WSL: Malard finally doubles Chelsea's lead vs Birmingham LIVE!",
+      "title_original": "WSL: Malard finally gives Chelsea breathing space vs Birmingham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-women-vs-birmingham-city-women/live/575772",
@@ -3971,6 +3999,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "モルドはスナッチにベンチオフチェルシー???????",
+      "summary": "Melvine Malard ベンチからスコアまでチェルシー「第2 の目標」バーミンガム・シティ FC.",
+      "title_original": "Malard comes off the bench to snatch Chelsea's second!",
+      "summary_original": "Melvine Malard comes off the bench to score Chelsea's second goal against Birmingham City.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589621/melvine-malard-comes-off-the-bench-to-snatch-chelseas-second",
+      "published": "Sat, 19 Sep 2026 14:18:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ピロトンはフィッシャーのアップセットを誓います: 「私は彼の心が壊れている知っています」",
       "summary": "Michael Pirotton 澱粉の警告があります Johnny Fisher9 月26 日の戦いの先。",
       "title_original": "Pirotton pledges Fisher upset: 'I know his mind is broke'",
@@ -3978,6 +4020,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/boxing/news/12040/13589323/johnny-fisher-michael-pirotton-pledges-september-26-copper-box-upset-his-mind-is-broke-too-much-pressure",
       "published": "Sat, 19 Sep 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "プレックスハム対 Southampton LIVE!",
+      "summary": "",
+      "title_original": "Wrexham vs Southampton LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/wrexham-vs-southampton/live/560593",
+      "published": "Sat, 19 Sep 2026 14:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4027,6 +4083,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "トッテナムついに得点だが、勝利 LIVE を狙うヴィラ!",
+      "summary": "",
+      "title_original": "Spurs finally score but Villa heading for the win LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/live/559493",
+      "published": "Sat, 19 Sep 2026 10:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "McIlroy stumbles 魅惑的な 衝撃 BMW PGA 選手権リーダーライブ!",
       "summary": "",
       "title_original": "McIlroy stumbles chasing shock BMW PGA Championship leaders LIVE!",
@@ -4041,20 +4111,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "目標、希望なしトッテナムヴィッラのスコアが再び LIVE で難しくなる!",
-      "summary": "",
-      "title_original": "No goals, no hope? Spurs sinking deeper into trouble as Villa score again LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/live/559493",
-      "published": "Sat, 19 Sep 2026 10:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「綺麗に!」 | ポッターパットチェルシーBirmingham から",
       "summary": "Lexi Potter 置くためにそれを完全に置いて下さいチェルシーバーミンガムから1-0.",
       "title_original": "'Buried that beautifully!' | Potter puts Chelsea ahead against Birmingham",
@@ -4062,62 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13589602/lexi-potter-puts-chelsea-ahead-against-birmingham",
       "published": "Sat, 19 Sep 2026 12:56:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リトルは、ノッパートを打つために生きた群衆を克服 World Series インフォメーション Darts Finals",
-      "summary": "Luke Littler 過去の戦い Danny Noppert そして、オランダの賑やかな群衆が2 番目のラウンドに到達する World Series インフォメーション Darts Finals アムステルダム",
-      "title_original": "Littler overcomes lively crowd to beat Noppert at World Series of Darts Finals",
-      "summary_original": "Luke Littler battled past Danny Noppert and a lively Dutch crowd to reach the second round at the World Series of Darts Finals in Amsterdam.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13589367/world-series-of-darts-finals-luke-littler-overcomes-lively-crowd-to-beat-danny-noppert-as-gerwyn-price-nathan-aspinall-also-win",
-      "published": "Fri, 18 Sep 2026 22:10:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "バラードヘッドブリストル・シティ FC 五番目に登るワトフォード",
-      "summary": "ブリストル・シティ FC 選手権のプレーオフの場所に移動し、1-0 の勝利を抜いた Watford.",
-      "title_original": "Ballard heads Bristol City past Watford as they climb to fifth",
-      "summary_original": "Bristol City moved into the Championship play-off places with a 1-0 victory over depleted Watford.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/bristol-city-vs-watford/report/560583",
-      "published": "Fri, 18 Sep 2026 21:30:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "World Series インフォメーション Darts Finals: リトル、ハフトリー、行動中の価格のスケジュール",
-      "summary": "2026 年のスケジュールと結果 World Series インフォメーション Darts Finals アムステルダム Luke Littler, Luke Humphries, Gerwyn PriceGian van Veen アクション",
-      "title_original": "World Series of Darts Finals: Schedule with Littler, Humphries, Price in action",
-      "summary_original": "The schedule and results for the 2026 World Series of Darts Finals in Amsterdam with Luke Littler, Luke Humphries, Gerwyn Price and Gian van Veen in action.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13583670/world-series-of-darts-finals-2026-schedule-and-results-with-luke-littler-luke-humphries-michael-van-gerwen-gian-van-veen-in-action",
-      "published": "Fri, 18 Sep 2026 22:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシー「守護神」は、ブレントフォード勝つダービー",
-      "summary": "チェルシーの defensive および set-piece woes は下で続けましたシャビ・アロンソとしてブレントフォード西ロンドンのダービーでエファティック 3-0 の勝利を主張しました。",
-      "title_original": "Chelsea's defensive woes continue as Brentford win derby",
-      "summary_original": "Chelsea's defensive and set-piece woes continued under Xabi Alonso as Brentford claimed an emphatic 3-0 victory in the west London derby.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/brentford-vs-chelsea/report/559485",
-      "published": "Fri, 17 Jul 2026 21:45:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
