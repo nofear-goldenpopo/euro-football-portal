@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-19T12:53:31.759959+00:00",
+  "updated_at": "2026-09-19T13:05:46.914465+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Christian Pulisic": "クリスチャン・プルシック",
-    "Jamie Leweling": "",
-    "Dean Henderson": "",
-    "Bruno Fernandes’s": "",
-    "Leif Davis’s": "",
     "Bryan Mbeumo’s": "",
     "Chuka Akpom’s": "",
     "Britain's Boulter": "",
@@ -3001,7 +2996,12 @@
     "Charlton Athletic Stoke City": "",
     "Sheffield United Continue": "",
     "Brighton LIVE": "",
-    "Hull LIVE": ""
+    "Hull LIVE": "",
+    "Mail Scott GOAL": "",
+    "Charlton Athletic": "チャールトン・アスレティックFC",
+    "Jack Moylan": "",
+    "Kostoulas. Subs": "",
+    "Yalcouye. Continue": ""
   },
   "items": [
     {
@@ -3215,20 +3215,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Sutton の予測 v 伝説的なギタリストジョニー・マー",
-      "summary": "BBC スポーツサッカーの専門家クリス・サットン伝説的なギタリストとマンチェスター・シティファンジョニー・マーこの週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
-      "title_original": "Sutton's predictions v legendary guitarist Johnny Marr",
-      "summary_original": "BBC Sport football expert Chris Sutton takes on legendary guitarist and Man City fan Johnny Marr, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62j06np0gpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 15:10:03 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Uefa は、アイルランドとイスラエルを別々に保つために要求を拒否しました - FAI",
       "summary": "The Football Association アイルランドは、それが維持する要求を持っていたと言うリパブリックアイルランドとイスラエルは、将来の競争が Uefa によって拒否されたドロースを分離しています。",
       "title_original": "Uefa rejected request to keep Republic of Ireland and Israel separate - FAI",
@@ -3309,6 +3295,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Sutton の予測 v 伝説的なギタリストジョニー・マー",
+      "summary": "BBC スポーツサッカーの専門家クリス・サットン伝説的なギタリストとマンチェスター・シティファンジョニー・マーこの週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
+      "title_original": "Sutton's predictions v legendary guitarist Johnny Marr",
+      "summary_original": "BBC Sport football expert Chris Sutton takes on legendary guitarist and Man City fan Johnny Marr, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62j06np0gpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 15:10:03 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3397,20 +3397,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "方法 De Zerbi ソリューショントッテナム' スコアリングトラブル?",
-      "summary": "ロベルト・デ・ゼルビ獲得を問い合わせトッテナムまだスコアをプレミアリーグ今シーズンの目標、その修正方法は?",
-      "title_original": "How does De Zerbi fix Spurs' scoring troubles?",
-      "summary_original": "Roberto De Zerbi's Tottenham are yet to score a Premier League goal this season, how do they fix that?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zyv3x5rpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 05:16:05 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "タッチェルは、イギリスのパルマとアレクサンダー・アーノルドをリコール",
       "summary": "トーマス・トゥヘルリコールトレント・アレクサンダー＝アーノルドそして、コール・パーマー2026 年以来、イギリス初のスクワッドへ World Cup.",
       "title_original": "Tuchel recalls Palmer and Alexander-Arnold for England",
@@ -3425,13 +3411,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「チャリティーとしてこのことをやっていません」-「プレーフィールドをレベルしよう」",
+      "summary": "ロンドン・シティ・ライオネススタッフ Michele Kang 女性のスポーツでより多くのインフラが重要である理由を共有します。",
+      "title_original": "'I'm not doing this as a charity' - Kang on trying to 'level playing field'",
+      "summary_original": "London City Lionesses owner Michele Kang shares why it is so important for more infrastructure in women's sports.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq4gmlypvd8vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 16:01:07 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トッテナム. .アストン・ヴィラ: プレミアリーグ– ライブ",
       "summary": "⚽️ プレミアリーグ12 月30 日(金)より、BST のアップデートのお知らせです。Send Daniel メールでの獲得を問い合わせ 側面の第176 回会議です。トッテナム79 を獲得した歴史あるエッジは、ヴィラの 62 に勝ちました。32 枚のドローがありました。続きを読む...",
       "title_original": "Tottenham v Aston Villa: Premier League – live",
       "summary_original": "⚽️ Premier League updates from 12.30pm (BST) ⚽️ Today’s fixtures | Send Daniel your thoughts via email This is the 176th meeting between the sides. Spurs have the historical edge having won 79 to Villa’s 62. There have been 32 draws. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
-      "published": "Sat, 19 Sep 2026 12:45:17 GMT",
+      "published": "Sat, 19 Sep 2026 12:58:45 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3439,13 +3439,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブライトンツイートアーセナル, ニューカッスルツイートハルもっと見る: Clockwatch - ライブ",
-      "summary": "大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会トッテナムツイートアストン・ヴィラ– 更新情報 |Mail Scott・・・そして当然のプレミアリーグ、まだ別の破壊的な脅威がで展開する Lane. Villa 鉛 1-0 は 2 番目の半分に行きます、Daniel Gallen すべての詳細を持っています。Elsewhere の選手権で、現在...Cardiff City2-1 シャルトン アスレチックストーク・シティ FC 0-1 Sheffield United Continue 読書...",
+      "title": "ブライトン. .アーセナル, ニューカッスル. .ハルもっと見る: Clockwatch - ライブ",
+      "summary": "大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会トッテナム. .アストン・ヴィラ– 更新情報 |Mail Scott GOAL! Cardiff City 3-1 チャールトン・アスレティック FC(モーラン 61).Jack Moylan ウェルシュ首都のカルディフの2 頭クッションを再確立します。ブライトンそして、Hove Albion: Verbruggen, Kadioglu, Vuskovic, Struijk, Boscagli, Gross, Ayari, ゴメス, アンドレス,De Cuyper, Kostoulas. Subs: スティール、ハドヤム、ラッタ、デビッド、オスマン、コストインハ、スヴォボダ、オリー、Yalcouye. Continue 読書...",
       "title_original": "Brighton v Arsenal, Newcastle v Hull and more: clockwatch – live",
-      "summary_original": "⚽️ Updates from across the grounds for Saturday’s games ⚽️ Live scoreboard | Spurs v Aston Villa – updates | Mail Scott … and of course in the Premier League, there’s yet another debacle threatening to unfold at the Lane. Villa lead 1-0 going into the second half, and Daniel Gallen has all the details. Elsewhere in the Championship, it’s currently … Cardiff City 2-1 Charlton Athletic Stoke City 0-1 Sheffield United Continue reading...",
+      "summary_original": "⚽️ Updates from across the grounds for Saturday’s games ⚽️ Live scoreboard | Spurs v Aston Villa – updates | Mail Scott GOAL! Cardiff City 3-1 Charlton Athletic (Moylan 61). Jack Moylan re-establishes Cardiff’s two-goal cushion in the Welsh capital. Brighton and Hove Albion: Verbruggen, Kadioglu, Vuskovic, Struijk, Boscagli, Gross, Ayari, Gomez, Andres, De Cuyper, Kostoulas. Subs: Steele, Hadjam, Rutter, David, Osman, Costinha, Svoboda, O’Riley, Yalcouye. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
-      "published": "Sat, 19 Sep 2026 12:42:38 GMT",
+      "published": "Sat, 19 Sep 2026 12:59:00 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3901,9 +3901,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Timber が始動アーセナル獲得を問い合わせブライトンライブ!",
+      "title": "Timber と Guimarares がスタートアーセナル獲得を問い合わせブライトンライブ!",
       "summary": "",
-      "title_original": "Timber starts for Arsenal at Brighton LIVE!",
+      "title_original": "Timber and Guimarares start for Arsenal at Brighton LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-arsenal/live/559486",
@@ -4027,9 +4027,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "静止 なしトッテナムマンザンビーの目標は、前回のライブでヴィラを持っている!",
+      "title": "BMW PGA 選手権ライブ! McIlroy は、Wentworth のリーダーを追い込みます",
       "summary": "",
-      "title_original": "Still no Spurs goal as Manzambi has Villa in front LIVE!",
+      "title_original": "BMW PGA Championship LIVE! McIlroy chases leaders at Wentworth",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13589576/bmw-pga-championship-live-latest-scores-updates-highlights-as-rory-mcilroy-chases-down-leaders-at-wentworth",
+      "published": "Sat, 19 Sep 2026 13:10:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "トッテナムヴィッラのスコアが再び LIVE で難しくなる!",
+      "summary": "",
+      "title_original": "Spurs sinking deeper into trouble as Villa score again LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/live/559493",
@@ -4108,20 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "McIlroy 閉じる 上の BMW PGA 選手権初期のバードニーLIVE でリード!",
-      "summary": "",
-      "title_original": "McIlroy closes on BMW PGA Championship lead with early birdie LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13589576/bmw-pga-championship-live-latest-scores-updates-highlights-as-rory-mcilroy-chases-down-leaders-at-wentworth",
-      "published": "Sat, 19 Sep 2026 13:10:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
