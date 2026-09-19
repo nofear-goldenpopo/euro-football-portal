@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-19T15:06:05.966036+00:00",
+  "updated_at": "2026-09-19T15:23:27.167301+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Novak Djokovic": "ノバク・ジョコビッチ",
-    "Argentine Mariano Navone": "",
-    "Max Verstappen": "マックス・フェルスタッペン",
-    "Two-year-old Trophy": "",
     "Ripon’s Champion Two Years": "",
     "Old Trophy": "",
     "Bank Holiday Monday": "バンク・ホリデー",
@@ -3001,7 +2997,11 @@
     "Man Utd Muslim": "",
     "The Manchester United Muslim": "",
     "Supporters Club": "",
-    "Sir Jim Ratcliffe": "ジム・ラトクリフ"
+    "Sir Jim Ratcliffe": "ジム・ラトクリフ",
+    "Was Wrexham’s": "",
+    "Indigenous Australian": "",
+    "Peter Baines": "",
+    "Torres Strait Islander": "トレス海峡諸島民"
   },
   "items": [
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽️ Updates from across the grounds for Saturday’s games ⚽️ Live scoreboard | Spurs v Aston Villa – updates | Mail Scott GOAL! Stoke City 1-1 Sheffield United (McGlynn 78). Another leveller in the Championship, thanks to Jack McGlynn at the bet365. GOAL! Millwall 2-2 West Ham United (Mavropanos 80). … and now West Ham are level! They get to take a corner this time. They take it short. Manor Solomon drops a shoulder to make space on the right, crosses long, and Konstantinos Mavropanos plants a hea",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
-      "published": "Sat, 19 Sep 2026 14:51:17 GMT",
+      "published": "Sat, 19 Sep 2026 15:13:47 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3547,6 +3547,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Was Wrexham’s トレイルブレイズ黒のサッカー選手も初めて Indigenous Australian 海外で遊ぶには?",
+      "summary": "ミステリーは起源を囲む Peter Baines、1940 年代 警告: アボリジニ とトレス海峡諸島民読者は、この記事に画像と名前が含まれている可能性があることをお勧めしています Indigenous Australian 死亡した人 物語は、マーベルスターを含むハリウッドブロックブスターの成分を持っていますライアン・レイノルズ、インディーの生産により多くの適合を終えることとの連結。その主人公は Peter Baines, トレイルブラ",
+      "title_original": "Was Wrexham’s trailblazing black footballer also the first Indigenous Australian to play overseas?",
+      "summary_original": "Mystery surrounds the origin of Peter Baines, the trailblazing black footballer who played for the Welsh club, among others, during the 1940s Warning: Aboriginal and Torres Strait Islander readers are advised that this article may contain the image and name of an Indigenous Australian who has died. The story has the ingredients of a Hollywood blockbuster, including Marvel star Ryan Reynolds, with a confounding ending more befitting an indie production. Its protagonist is Peter Baines, a trailbla",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/wrexhams-trailblazing-black-footballer-peter-baines-first-indigenous-australian-to-play-overseas",
+      "published": "Sat, 19 Sep 2026 15:00:49 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3831,20 +3845,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッド・ベーリー出口チェルシー彼の指を燃やした後に掘られた",
-      "summary": "億万長者の出発は日々変化しますが、クラブのスタジアムの計画では重要ではありませんが、移転市場の悲しい世界への運命は、トッド・ベーリー昼から日にかけては本当に影響を受けたチェルシー. アメリカンは、彼の仲間の投資家と一緒に、4 年ぶりに減少した数字としてサッカーを終了します Mark Walter と言うべき最初のことは、少しが変化するということです Stamford Bridge ボヘリーが舞台を離れるので、ちょうどボードルーム.Clearlake Capi",
-      "title_original": "Todd Boehly exits Chelsea diminished after having his fingers burned",
-      "summary_original": "The billionaire’s departure will change little day-to-day but could be significant for club’s stadium plans Not since a doomed foray into the thorny world of the transfer market has Todd Boehly had any real influence over the day-to-day at Chelsea. The American exits football as a diminished figure four years on, along with his fellow investor Mark Walter, and the first thing to say is that little will change in the Stamford Bridge boardroom just because Boehly has left the scene. Clearlake Capi",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
-      "published": "Fri, 18 Sep 2026 07:00:12 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ウェストハム最新:「取る権利の決定」-Nuno は Millwall の Kante の赤いカード foul を支持します",
       "summary": "",
       "title_original": "West Ham latest: 'Right decision to take' - Nuno backs Kante red-card foul at Millwall",
@@ -3887,9 +3887,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Red Roses そして、カナダの移籍6 は、すべてのアクションの最初の半分の LIVE で勝ちます!",
+      "title": "Red Roses コンテスト LIVE を吸収するカナダで再び長持ち!",
       "summary": "",
-      "title_original": "Red Roses and Canada trade six tries in all-action first half LIVE!",
+      "title_original": "Red Roses pegged back again by Canada in absorbing contest LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13589613/england-vs-canada-live-wxv-global-series-score-updates-analysis-from-sandy-park",
@@ -3915,9 +3915,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イギリスの減少スリランカホストとして124-9 に T20 シリーズスイープライブ!",
+      "title": "イギリスの T20 シリーズの広がりのための125 を追いかけるスリランカライブ!",
       "summary": "",
-      "title_original": "England reduce Sri Lanka to 124-9 as hosts chase T20 series sweep LIVE!",
+      "title_original": "England chasing 125 for T20 series sweep of Sri Lanka LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13589549/england-vs-sri-lanka-third-t20-live-latest-score-commentary-video-and-analysis-as-harry-brooks-side-target-3-0-series-sweep-in-manchester",
@@ -3971,9 +3971,37 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブライトン去ることへの二重鉛アーセナル絶え間ない LIVE!",
+      "title": "ノッティンガム・フォレスト Coventry チームニュース LIVE!",
       "summary": "",
-      "title_original": "Brighton double lead to leave Arsenal stunned LIVE!",
+      "title_original": "Nottingham Forest vs Coventry team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/nottingham-forest-vs-coventry-city/live/559492",
+      "published": "Sat, 19 Sep 2026 16:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "バリーは、VAR 対決による第2 のゴールを見ますイプスウィッチライブ!",
+      "summary": "",
+      "title_original": "Barry sees second goal ruled out by VAR vs Ipswich LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/everton-vs-ipswich-town/live/559487",
+      "published": "Sat, 19 Sep 2026 13:23:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アーセナルキャピトル!ブライトン THIRD の目標 LIVE を追加!",
+      "summary": "",
+      "title_original": "Arsenal capitulating! Brighton add THIRD goal LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-arsenal/live/559486",
@@ -4000,9 +4028,9 @@
     },
     {
       "title": "Dawson: 同じ 古い ストーリー...トッテナムフリルを見る",
-      "summary": "Michael Dawson 別の敗北に反映するトッテナム3-2 損失後へアストン・ヴィラ、上司の圧力が山としてロベルト・デ・ゼルビ.",
+      "summary": "Michael Dawson 別の敗北に反映するトッテナム3-2 損失後へアストン・ヴィラ、不幸が続くのでロベルト・デ・ゼルビの 側。",
       "title_original": "Dawson: Same old story... Spurs look fragile",
-      "summary_original": "Michael Dawson reflects on another defeat for Tottenham Hotspur after a 3-2 loss to Aston Villa, as the pressure piles on boss Roberto De Zerbi.",
+      "summary_original": "Michael Dawson reflects on another defeat for Tottenham Hotspur after a 3-2 loss to Aston Villa, as the misery continues for Roberto De Zerbi's side.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13589646/tottenham-hotspur-2-3-aston-villa-michael-dawsons-verdict-on-spurs-3-2-home-loss-to-villa",
       "published": "Sat, 19 Sep 2026 14:45:00 BST",
@@ -4013,20 +4041,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "両側のためのチャンスエヴァートン業界トップイプスウィッチライブ!",
-      "summary": "",
-      "title_original": "Chances for both sides with Everton leading Ipswich LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/everton-vs-ipswich-town/live/559487",
-      "published": "Sat, 19 Sep 2026 13:23:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "チェルシーそして、London CityWSL の勝利への容易さ",
       "summary": "チェルシーそして、ロンドン・シティ・ライオネス2 番目と3 番目に登りました Women's Super League バーミンガムとシャールトンを越えるそれぞれの勝利を持つテーブル。",
       "title_original": "Chelsea and London City ease to WSL victories",
@@ -4034,6 +4048,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-women-vs-birmingham-city-women/report/575772",
       "published": "Fri, 18 Sep 2026 17:45:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウィンレストッテナムヴィラの主張の最初の勝利の後の回復地帯",
+      "summary": "トッテナムヘッドインテル勝負のない国民の休憩プレミアリーグ自宅で3-2 を失った後アストン・ヴィラ.",
+      "title_original": "Winless Spurs in relegation zone after Villa claim first victory",
+      "summary_original": "Tottenham head into the international break without a win in the Premier League after losing 3-2 at home to Aston Villa.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/report/559493",
+      "published": "Sat, 19 Sep 2026 14:00:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -4069,20 +4097,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウィンレストッテナムヴィラの主張の最初の勝利の後の回復地帯",
-      "summary": "トッテナムヘッドインテル勝負のない国民の休憩プレミアリーグ自宅で3-2 を失った後アストン・ヴィラ.",
-      "title_original": "Winless Spurs in relegation zone after Villa claim first victory",
-      "summary_original": "Tottenham head into the international break without a win in the Premier League after losing 3-2 at home to Aston Villa.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/report/559493",
-      "published": "Sat, 19 Sep 2026 14:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ウィロックとホールの両方のスコアが、ニューカッスルミスペナルティ対ハルライブ!",
       "summary": "",
       "title_original": "Willock and Hall both score but Newcastle miss penalty vs Hull LIVE!",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/boxing/news/12040/13589572/isaac-okoh-commonwealth-games-gold-medallist-begins-european-championship-campaign-i-can-beat-anyone-in-the-world",
       "published": "Sat, 19 Sep 2026 13:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Wrexham は リード に対して Southampton LIVE!",
-      "summary": "",
-      "title_original": "Wrexham take the lead against Southampton LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/wrexham-vs-southampton/live/560593",
-      "published": "Sat, 19 Sep 2026 14:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
