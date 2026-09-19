@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-19T10:23:47.593144+00:00",
+  "updated_at": "2026-09-19T10:37:58.969372+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Saturday. Messi’s": "",
-    "SLAM-DUNK ACE": "",
-    "Justin Rose": "",
     "Remorseful Mayer": "",
     "Chantelle Cameron's": "",
     "Black Cats": "ブラックキャット",
@@ -3001,7 +2998,10 @@
     "Sid Lowe’s": "",
     "Emre Guler": "",
     "Hatton HATES": "",
-    "Tyrell Hatton": ""
+    "Tyrell Hatton": "",
+    "Patrice Motsepe": "",
+    "Send Daniel": "",
+    "Neither Spurs": ""
   },
   "items": [
     {
@@ -3117,6 +3117,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Afcon 2027 の準備ができているケニアのレースのオプションではない延期",
+      "summary": "アフリカ サッカー ボス Patrice MotsepeAfcon 2027 の共同ホストであるケニア、タンザニア、ウガンダの「潜在能力の高められた感覚」を望む。",
+      "title_original": "Postponement not an option as Kenya races to be ready for Afcon 2027",
+      "summary_original": "African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts Kenya, Tanzania and Uganda as they face a race to be ready.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxr50lgjgz98o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 10:24:01 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ミルウォールとウェストハム14 年後の再更新の儀式",
       "summary": "最近の会議から14 年以上経ち、ミルウォールとミルウォールの間の儀式ウェストハム獲得ニュー・デン・スタジアム土曜日に。",
       "title_original": "Millwall and West Ham renew rivalry after 14 years",
@@ -3187,20 +3201,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Uefa&Concacaf デマンド Fifa は、すべての211 メンバーに$ 10m を支払う",
-      "summary": "Uefa と Concaf は、Fifa の共同声明を発行し、そのキャッシュリザーブから 211 加盟団体のそれぞれに $10m を支払います。",
-      "title_original": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
-      "summary_original": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 16:26:56 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "うつ病後からチェルシー37 で非リーグを再生するケガ",
       "summary": "Sam Hutchinson プレイする準備が整っている Farnham Town2 番目の予選ラウンドで FA カップ- 19 年 作ってからチェルシーデビュージョゼ・モウリーニョ.",
       "title_original": "From depression after Chelsea injury to playing non-league at 37",
@@ -3212,6 +3212,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Uefa&Concacaf デマンド Fifa は、すべての211 メンバーに$ 10m を支払う",
+      "summary": "Uefa と Concaf は、Fifa の共同声明を発行し、そのキャッシュリザーブから 211 加盟団体のそれぞれに $10m を支払います。",
+      "title_original": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
+      "summary_original": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 16:26:56 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3282,20 +3296,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Senegal ジョブ の '絶対 夢' のための 新しい ボス Vieira",
-      "summary": "Former France インテル全国 Patrick Vieira, aWorld Cup1998 年の受賞者は、出生国セネガルの担当を「名誉」と言います。",
-      "title_original": "Senegal job an 'absolute dream' for new boss Vieira",
-      "summary_original": "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honour\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 17:01:59 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3383,6 +3383,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Senegal ジョブ の '絶対 夢' のための 新しい ボス Vieira",
+      "summary": "Former France インテル全国 Patrick Vieira, aWorld Cup1998 年の受賞者は、出生国セネガルの担当を「名誉」と言います。",
+      "title_original": "Senegal job an 'absolute dream' for new boss Vieira",
+      "summary_original": "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honour\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 17:01:59 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "数千回の経験があり、ラミン・ヤマル",
       "summary": "バルセロナウィンガーラミン・ヤマル人々は彼らのコメントや行動が攻撃的であることを認識しているので、彼は経験した狂気「千回」を持っていると言う。",
       "title_original": "I have experienced racism a thousand times - Lamine Yamal",
@@ -3411,13 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "過去の投稿マンチェスター・ユナイテッド左に戻る Malacia 参加 FC Cincinnati",
-      "summary": "FC Cincinnati サインインマンチェスター・ユナイテッド左バック Tyrell Malacia 獲得を問い合わせフリー移籍.",
-      "title_original": "Former Man Utd left-back Malacia joins FC Cincinnati",
-      "summary_original": "FC Cincinnati sign former Manchester United left-back Tyrell Malacia on a free transfer.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyjgqgdqwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 17:39:15 GMT",
+      "title": "トッテナム. .アストン・ヴィラ: プレミアリーグ– ライブ",
+      "summary": "⚽️ プレミアリーグ12 月30 日(金)より、BST のアップデートのお知らせです。Send Daniel メールでの獲得を問い合わせ 「マストウィン」のゲームについて話し始めるのは、シーズンの早い時期ですが、これは両側にそれらの一つになる可能性があります。ネイザートッテナムヴィラは、この厄介なキャンペーンでこれまでの勝利を保証しているだけでなく、物事が本当に酸味になる前に、W 列にいくつかのダニを積み重ね始める必要があります。続きを読む...",
+      "title_original": "Tottenham v Aston Villa: Premier League – live",
+      "summary_original": "⚽️ Premier League updates from 12.30pm (BST) ⚽️ Today’s fixtures | Send Daniel your thoughts via email It’s a bit early in the season to start talking about ‘must-win’ games, but this could be one of them for both sides. Neither Spurs nor Villa have secured a victory so far in this nascent campaign, and, well, they must start stacking up some ticks in the W column before things really turn sour. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
+      "published": "Sat, 19 Sep 2026 10:30:44 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3425,13 +3439,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Millwall v の前に高アラートで警察ウェストハム, トッテナムヴィラフェイスクランチクラッシュ - マッチデイライブ",
-      "summary": "土曜日のゲーム前のニュース、ディスカッション、アップデート 今週の週末の備品 | 表 | ご感想トレント・アレクサンダー＝アーノルド’ イングランドリコール , ここでは、Tuchel は言うべきだった... ... そしてここにあります Sid Lowe’s 分析、スペインからの眺め:トーマス・トゥヘル彼は言ったトレント・アレクサンダー＝アーノルド季節の始まりを楽しんだ。イングランドの人たちのニュースとして来た。レアル・マドリード. . 実は、実はスペインの人たちのニュースとして来たんです。イングランドのマナギの場合",
-      "title_original": "Police on high alert before Millwall v West Ham, Spurs and Villa face crunch clash – matchday live",
+      "title": "Millwall v の前に高アラートで警察ウェストハム, インテル伝説のマゾラディー - マッチデイライブ",
+      "summary": "土曜日のゲーム前のニュース、ディスカッション、アップデート 今週の週末の備品 | 表 | ご感想トレント・アレクサンダー＝アーノルド’ イングランドリコール , ここでは、Tuchel は言うべきだった... ... そしてここにあります Sid Lowe’s 分析、スペインからの眺め:トーマス・トゥヘル彼は言ったトレント・アレクサンダー＝アーノルド季節の始まりを楽しんだ。イングランドの人たちのニュースとして来た。レアル・マドリード獲得を問い合わせ 実は、実はスペインの人たちのニュースとして来たんです。イングランドのマナギの場合",
+      "title_original": "Police on high alert before Millwall v West Ham, Inter legend Mazzola dies – matchday live",
       "summary_original": "News, discussion and updates before Saturday’s games This weekend’s fixtures | Tables | Mail us your thoughts Regarding Trent Alexander-Arnold’s England recall , here’s what Tuchel had to say … … and here is Sid Lowe’s analysis , the view from Spain: Thomas Tuchel said Trent Alexander Arnold had enjoyed a good start to the season, which came as news to those in England who have not been watching him at Real Madrid . It also, in truth, came as news to those in Spain who have. If the England manag",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
-      "published": "Sat, 19 Sep 2026 10:05:46 GMT",
+      "published": "Sat, 19 Sep 2026 10:22:11 GMT",
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
@@ -3495,20 +3509,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "エム2 ゴールチャオス’: トゥッチェルは、イングランドのサッカー文化を活用することを目指しています",
-      "summary": "ヘッドコーチは、「ディープダウン、英語プレーヤー...彼らはそれのために行く」ゲームで制御の欠如を受け入れる必要があります言うトーマス・トゥヘルマッチでより大きなコントロールを重ねるときには、そこに認めています。しかし、イングランドのヘッドコーチは、よりチャオティック、アドレナリンフェルドの性質を感じるプレミアリーグ彼がユーロ2028 で栄光をターゲットとして彼のテンプレートを維持します。トゥッチェルは、常に完全なスロットルでプレーする彼らの習慣の面で「フットボールをプレーする最も経済的ではないマイブ」として彼のチームを述べました。彼らは失われた",
-      "title_original": "‘Embrace the chaos’: Tuchel aims to harness England’s football culture",
-      "summary_original": "Head coach says he must accept lack of control in games ‘Deep down, English players … they go for it’ Thomas Tuchel has admitted there are times when he craves greater control in matches. But the England head coach feels the more chaotic, adrenaline-fuelled nature of the Premier League will remain his template as he targets glory at Euro 2028. Tuchel described his team as “maybe not the most economical to play football” in terms of their habit of constantly playing at full throttle. They lost to",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/embrace-chaos-thomas-tuchel-england-football-culture",
-      "published": "Fri, 18 Sep 2026 18:00:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マンチェスター・シティ劇的な WSL の勝利へのスクランブルリヴァプール獲得を問い合わせ2 ゴール加えられた時間",
       "summary": "マンチェスター・シティ新たなスタートを続けよう Women’s Super League 季節が、防衛チャンピオンは90 分必要オウンゴールから Grace Fisk 常に改良を重ねるリヴァプール面白いゲームの後の側 Lauren Hemp スコアは2 回。Fisk は不変に回しました Grace Clinton’s 都市3-2 を上置くために自分のネットに危険な十字架 - とリヴァプール平等者を検索し、プレイヤーをコミットすることで、より深くアディショナルタイム– ヘンプは別の上に追加",
       "title_original": "Manchester City scramble to dramatic WSL win over Liverpool with two goals in added time",
@@ -3530,6 +3530,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-news-carrick-brushes-aside-questions-over-future-arteta-salutes-extraordinary-dowman",
       "published": "Fri, 18 Sep 2026 21:30:28 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "エム2 ゴールチャオス’: トゥッチェルは、イングランドのサッカー文化を活用することを目指しています",
+      "summary": "ヘッドコーチは、「ディープダウン、英語プレーヤー...彼らはそれのために行く」ゲームで制御の欠如を受け入れる必要があります言うトーマス・トゥヘルマッチでより大きなコントロールを重ねるときには、そこに認めています。しかし、イングランドのヘッドコーチは、よりチャオティック、アドレナリンフェルドの性質を感じるプレミアリーグ彼がユーロ2028 で栄光をターゲットとして彼のテンプレートを維持します。トゥッチェルは、常に完全なスロットルでプレーする彼らの習慣の面で「フットボールをプレーする最も経済的ではないマイブ」として彼のチームを述べました。彼らは失われた",
+      "title_original": "‘Embrace the chaos’: Tuchel aims to harness England’s football culture",
+      "summary_original": "Head coach says he must accept lack of control in games ‘Deep down, English players … they go for it’ Thomas Tuchel has admitted there are times when he craves greater control in matches. But the England head coach feels the more chaotic, adrenaline-fuelled nature of the Premier League will remain his template as he targets glory at Euro 2028. Tuchel described his team as “maybe not the most economical to play football” in terms of their habit of constantly playing at full throttle. They lost to",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/embrace-chaos-thomas-tuchel-england-football-culture",
+      "published": "Fri, 18 Sep 2026 18:00:24 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3562,20 +3576,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "なぜ?トッテナムミスフィリングです... そして、それはちょうど目標の欠如にダウンではありません",
-      "summary": "トッテナム攻撃領域に入りますが、そのまま開口部を作るか、取るのに失敗していますロベルト・デ・ゼルビ落ち着きのある側面を鍛造しようトッテナム初めての4 人のリーグゲームでスコアを獲得できませんでした。彼らは4 連続で最後のドリューブランク以来2 年が経過しましたプレミアリーグマッチ。こういったのは、あくまでも時間がかかります。トッテナム改善する。最後のシーズンから今週まで、週から週まで、プレイヤーの売上高は問題です。leas でプレーした4 人の男性だけ",
-      "title_original": "Why Tottenham are misfiring … and it’s not just down to the lack of goals",
-      "summary_original": "Spurs are getting into attacking areas but failing to make or take openings as Roberto De Zerbi tries to forge a settled side Tottenham have failed to score in their opening four league games for the first time. Two decades have passed since they last drew blanks in four consecutive Premier League matches. While these are outliers, it will take time for Spurs to improve. Their level of player turnover, from last season to this and from week to week, is a problem. Only four men who played at leas",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/injuries-team-changes-and-arduous-tours-why-tottenham-are-misfiring",
-      "published": "Fri, 18 Sep 2026 10:54:31 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3789,6 +3789,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "なぜ?トッテナムミスフィリングです... そして、それはちょうど目標の欠如にダウンではありません",
+      "summary": "トッテナム攻撃領域に入りますが、そのまま開口部を作るか、取るのに失敗していますロベルト・デ・ゼルビ落ち着きのある側面を鍛造しようトッテナム初めての4 人のリーグゲームでスコアを獲得できませんでした。彼らは4 連続で最後のドリューブランク以来2 年が経過しましたプレミアリーグマッチ。こういったのは、あくまでも時間がかかります。トッテナム改善する。最後のシーズンから今週まで、週から週まで、プレイヤーの売上高は問題です。leas でプレーした4 人の男性だけ",
+      "title_original": "Why Tottenham are misfiring … and it’s not just down to the lack of goals",
+      "summary_original": "Spurs are getting into attacking areas but failing to make or take openings as Roberto De Zerbi tries to forge a settled side Tottenham have failed to score in their opening four league games for the first time. Two decades have passed since they last drew blanks in four consecutive Premier League matches. While these are outliers, it will take time for Spurs to improve. Their level of player turnover, from last season to this and from week to week, is a problem. Only four men who played at leas",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/injuries-team-changes-and-arduous-tours-why-tottenham-are-misfiring",
+      "published": "Fri, 18 Sep 2026 10:54:31 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ミルウォールとロアシンガーウェストハム再開の猛禽",
       "summary": "The Metropolitan 警察は、南と東ロンドンのチームは14 年後の土曜日に再び会うように暴力に取り組むための特別な力を与えられました。攻撃は、心臓がフォンダーを成長させていない。ミルウォールとウェストハム土曜日に14 年ぶりに会いましょうが、楽しい思い出になることはありません。ニュー・デン・スタジアム. 雰囲気は熱心であり、主な希望は、ピッチから離れた非密さではなく、サッカーに焦点があることです。これら2 つは、前回もたくさんありますが、",
       "title_original": "Fear and loathing linger as Millwall and West Ham resume ferocious rivalry",
@@ -3827,20 +3841,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ラヒーム・スターリング’ bleak tale a リマインダー の absurd パス 若い サッカー選手 顔 |Jonathan Liew",
-      "summary": "ウィンガーは、最初の大きなお金のアカデミートミー移籍の1 つでした, 明らかに疑問に思っていた子供労働市場の一部 “あなたの名前は何ですか?” “レイエム”. 続きを読む...",
-      "title_original": "Raheem Sterling’s bleak tale a reminder of absurd path young footballers face | Jonathan Liew",
-      "summary_original": "Winger was one of the first big-money academy transfers, part of a child labour market that has barely been questioned “What’s your name?” “Raheem.” Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/raheem-sterling-bleak-tale-reminder-absurd-path-young-footballers-face",
-      "published": "Thu, 17 Sep 2026 07:00:42 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3964,6 +3964,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/live/559493",
       "published": "Sat, 19 Sep 2026 10:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "McIlroy chases Gerard で BMW PGA 選手権ライブ!",
+      "summary": "",
+      "title_original": "McIlroy chases Gerard at BMW PGA Championship LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13589576/bmw-pga-championship-live-latest-scores-updates-highlights-as-rory-mcilroy-chases-down-leaders-at-wentworth",
+      "published": "Sat, 19 Sep 2026 11:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4107,20 +4121,6 @@
       "category": "bundesliga",
       "type": "bundesliga",
       "label": "ブンデス",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "初めてのウェイクフィールド Super LeagueLeigh で勝つセミファイナル",
-      "summary": "Wakefield Trinity 初めての方へ Super League 準決勝で26-16 勝超 Leigh Leopards エリミネーターで。",
-      "title_original": "Wakefield through to first Super League semi-final with win over Leigh",
-      "summary_original": "Wakefield Trinity reached their first ever Super League semi-final with a 26-16 victory over Leigh Leopards in the Eliminators.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13586233/wakefield-trinity-reach-super-league-semi-finals-for-first-time-with-26-16-win-over-leigh-leopards-despite-emre-guler-red-card",
-      "published": "Fri, 18 Sep 2026 22:08:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
