@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-19T18:25:57.999591+00:00",
+  "updated_at": "2026-09-19T18:38:53.323892+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Kevin Kelsy": "",
-    "Julián Álvarez": "フリアン・アルバレス",
     "Álvarez Jesus": "",
     "Rassie Erasmus": "ラシー・エラスムス",
     "Allan Elias": "",
@@ -3001,7 +2999,9 @@
     "Ipswich. Thierno Barry": "",
     "Brennan Johnson": "",
     "The Blaze": "",
-    "Metro Bank One Day": ""
+    "Metro Bank One Day": "",
+    "Frankfurt’s You": "",
+    "Smilla Holmberg": ""
   },
   "items": [
     {
@@ -3201,20 +3201,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシー獲得を問い合わせジョアン・ペドロ目標の決定を止めない",
-      "summary": "チェルシーの の問題は守られたが、ジョアン・ペドロ怪我を通し、ゴールのスコアも問題となっている。",
-      "title_original": "Chelsea miss Joao Pedro... and can't stop conceding goals",
-      "summary_original": "Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 22:39:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "エメリーが「ファンタスティック」の勝利の後にジャクソン&スズキを賞賛トッテナム",
       "summary": "アストン・ヴィラマネージャーウナイ・エメリ自分の側のレジリエンスを認める 3-2 に対する勝利トッテナム獲得を問い合わせプレミアリーグ、ストライカーの性能を強調するニコラス・ジャクソンゴールキーパー鈴木彩艶.",
       "title_original": "Emery praises Jackson & Suzuki after 'fantastic' win at Spurs",
@@ -3313,6 +3299,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チェルシー獲得を問い合わせジョアン・ペドロ目標の決定を止めない",
+      "summary": "チェルシーの の問題は守られたが、ジョアン・ペドロ怪我を通し、ゴールのスコアも問題となっている。",
+      "title_original": "Chelsea miss Joao Pedro... and can't stop conceding goals",
+      "summary_original": "Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 22:39:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナル右の状況でドーマンローンにオープン",
       "summary": "アーセナル開放 へ 許可 十代の prodigyMax Dowman クラブを離れるレンタル移籍でこの用語は、それが彼の開発を支援している場合.",
       "title_original": "Arsenal open to Dowman loan in right circumstances",
@@ -3383,20 +3383,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Uefa&Concacaf デマンド Fifa は、すべての211 メンバーに$ 10m を支払う",
-      "summary": "Uefa と Concaf は、Fifa の共同声明を発行し、そのキャッシュリザーブから 211 加盟団体のそれぞれに $10m を支払います。",
-      "title_original": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
-      "summary_original": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 16:26:56 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "London City's 新研修センター「もっともっともっと」プレミアリーグクラブ - カン",
       "summary": "Michele Kang 信じるロンドン・シティ・ライオネス' 計画された新しい訓練場はほとんどの人の人によって使用される女性のゲームで新しい標準を置き、設備を越えますプレミアリーグクラブ",
       "title_original": "London City's new training centre 'better than most Premier League clubs' - Kang",
@@ -3407,6 +3393,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Uefa&Concacaf デマンド Fifa は、すべての211 メンバーに$ 10m を支払う",
+      "summary": "Uefa と Concaf は、Fifa の共同声明を発行し、そのキャッシュリザーブから 211 加盟団体のそれぞれに $10m を支払います。",
+      "title_original": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
+      "summary_original": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 16:26:56 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3439,13 +3439,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アーセナル. .マンチェスター・ユナイテッド: Women’s Super League– ライブ",
+      "title": "アーセナル 1-1 マンチェスター・ユナイテッド: Women’s Super League– ライブ",
       "summary": "WSL は5.30pm(BST)キックオフからアップデートをスタート!マンチェスター・シティ WSL の勝利にスクランブルリヴァプール | Mail Will2 分 Dominique Janssen, 旧アーセナル擁護者、スライド Olivia Smith フォロースルーで足首をキャッチします。アーセナルボールを前進させるためのフリーキックを使用しますが、その攻撃は消えます。With North London Forever まだスタンドの周りに反復, ユナイテッドは、途中で物事を取得します Emirates. Continue 読書...",
-      "title_original": "Arsenal v Manchester United: Women’s Super League – live",
+      "title_original": "Arsenal 1-1 Manchester United: Women’s Super League – live",
       "summary_original": "⚽️ WSL updates from the 5.30pm (BST) kick-off ⚽️ Man City scramble to WSL win over Liverpool | Mail Will 2 min Dominique Janssen, the former Arsenal defender, slides in on Olivia Smith and catches her on the ankle with a follow-through. Arsenal use the free-kick to work the ball forward, but their attack fizzles out. With North London Forever still reverberating around the stands, United get things under way at the Emirates. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
-      "published": "Sat, 19 Sep 2026 18:15:14 GMT",
+      "published": "Sat, 19 Sep 2026 18:29:40 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3510,9 +3510,9 @@
     },
     {
       "title": "ヨーロッパのサッカー:フランクフルトのクリップハイフライング・フライブルクの羽",
-      "summary": "ブンデスリーガペースセッターは、トップに行くチャンスを逃しますウェストハムルーニー・フルク rug は、フリーブルクを輝かせ続けると、フレイブルクのトップに戻るチャンスを逃しましたブンデスリーガ2-2 で描くアイントラハト・フランクフルト . バイエルン・ミュンヘン’s ruthless 7-0 勝つ上1.FC ウニオン・ベルリン金曜日に、フライブルクのバワリアンをテーブルの上に置きます, しかし、フライブルクは、彼らが2 番目に残っているように、このシーズン初めてポイントを落としました. ドイツコーチの新しいメンバー数 Jürgen Klopp’s 両側の44 人隊のシオーネ",
+      "summary": "ブンデスリーガペースセッターは、トップに行くチャンスを逃しますウェストハムルーニー・フルク rug は、フリーブルクを輝かせ続けると、フレイブルクのトップに戻るチャンスを逃しましたブンデスリーガ2-2 で描くアイントラハト・フランクフルト . バイエルン・ミュンヘン’s ruthless 7-0 勝つ上1.FC ウニオン・ベルリン金曜日は、フライブルクの先を置いていますが、フライブルクは、このシーズンが2 番目に残るために初めてポイントを落としました。新しいメンバー数 Jürgen Klopp’s44 人のドイツは、種子の遭遇の両側にシオーネを襲った。Frankfurt’s You",
       "title_original": "European football: Frankfurt clip high-flying Freiburg’s wings",
-      "summary_original": "Bundesliga pacesetters miss chance to go top West Ham loanee Füllkrug continues to shine Freiburg missed a chance to return to the top of the Bundesliga after being held to a 2-2 draw at Eintracht Frankfurt . Bayern Munich’s ruthless 7-0 win over Union Berlin on Friday put the Bavarians ahead of Freiburg atop the table, but Freiburg dropped points for the first time this season as they remained second. Several new members of the Germany coach Jürgen Klopp’s 44-man squad shone on both sides in a ",
+      "summary_original": "Bundesliga pacesetters miss chance to go top West Ham loanee Füllkrug continues to shine Freiburg missed a chance to return to the top of the Bundesliga after being held to a 2-2 draw at Eintracht Frankfurt . Bayern Munich’s ruthless 7-0 win over Union Berlin on Friday put them ahead of Freiburg, but Freiburg dropped points for the first time this season to remain second. Several new members of the Jürgen Klopp’s 44-man Germany squad shone on both sides in a see-sawing encounter. Frankfurt’s You",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
       "published": "Sat, 19 Sep 2026 16:35:46 GMT",
@@ -3971,6 +3971,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Holmberg は LATE を LATE に等しいアーセナル!",
+      "summary": "Smilla Holmberg 救助はのために引くアーセナル後期目標に対抗マンチェスター・ユナイテッド.",
+      "title_original": "Holmberg equalises LATE on for Arsenal!",
+      "summary_original": "Smilla Holmberg rescues draw for Arsenal with late goal against Manchester United.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589917/arsenal-1-1-manchester-united-smilla-holmberg-equalises-late-on-for-gunners",
+      "published": "Sat, 19 Sep 2026 19:24:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ウェストハム最新:ヌノバックスカンテレッドカードフォールとして作られたスパイシーなアレンジ",
       "summary": "",
       "title_original": "West Ham latest: Spitting allegation made as Nuno backs Kante red-card foul",
@@ -4108,20 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ボロ ストライキ 遅く へ ホールド バーミンガム",
-      "summary": "ミドルスラフは、後続のイコライザーが必要 Adilson Malanda 点を救い、2-2 で描く EFL チャンピオンシップバーミンガム",
-      "title_original": "Boro strike late to hold Birmingham",
-      "summary_original": "Middlesbrough needed a late equaliser from Adilson Malanda to salvage a point and a 2-2 draw in the Sky Bet Championship at Birmingham.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/birmingham-city-vs-middlesbrough/report/560582",
-      "published": "Sat, 19 Sep 2026 17:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
