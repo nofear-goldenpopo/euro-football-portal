@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-19T17:49:39.423051+00:00",
+  "updated_at": "2026-09-19T18:06:35.864414+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Sheffield Wednesday": "シェフィールド・ウェンズデイFC",
-    "Germany's Wamser": "",
-    "Carlotta Wamser": "",
-    "Al-Hilal Arsenal": "",
     "Fábio Vieira": "",
     "The T-shirt": "",
     "Mary Earps": "",
@@ -3001,7 +2997,11 @@
     "Luke Williams": "",
     "Manchester United Muslim": "",
     "Jim Ratcliffe": "",
-    "Manchester United’s Muslim": ""
+    "Manchester United’s Muslim": "",
+    "Lowly Peterborough": "",
+    "The Italian": "",
+    "Peta Hiku": "",
+    "Warrington Wolves": "ウォリントン・ウルブズ"
   },
   "items": [
     {
@@ -3103,13 +3103,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Lowly Posh マネージングマネージャー ウィリアムズ",
+      "title": "Lowly Peterborough マネージングマネージャー ウィリアムズ",
       "summary": "ピーターバラ・ユナイテッド FC サックマネージャーLuke WilliamsDoncaster が自宅で土曜日の敗北が下から2 番目に残っている League One.",
-      "title_original": "Lowly Posh sack manager Williams",
+      "title_original": "Lowly Peterborough sack manager Williams",
       "summary_original": "Peterborough United sack manager Luke Williams after Saturday's defeat at home by Doncaster leaves them second from bottom in League One.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/crz6z7ypq6x8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 17:40:06 GMT",
+      "published": "Sat, 19 Sep 2026 17:49:57 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3445,7 +3445,7 @@
       "summary_original": "⚽️ WSL updates from the 5.30pm (BST) kick-off ⚽️ Man City scramble to WSL win over Liverpool | Mail Will 2 min Dominique Janssen, the former Arsenal defender, slides in on Olivia Smith and catches her on the ankle with a follow-through. Arsenal use the free-kick to work the ball forward, but their attack fizzles out. With North London Forever still reverberating around the stands, United get things under way at the Emirates. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
-      "published": "Sat, 19 Sep 2026 17:29:34 GMT",
+      "published": "Sat, 19 Sep 2026 17:58:29 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3453,17 +3453,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アストン・ヴィラ遅刻にもかかわらず勝利をつかむトッテナム目標として De Zerbi’s 側は booed オフ",
-      "summary": "トッテナムファンベースに痛みを注入する新しい方法を見つけるのに驚くべき能力を持っているし、彼らは再びここでそれをした、強力なスタートから加湿的な敗北にペタリングし、最悪の開始を今までに確認するプレミアリーグキャンペーン 逆に、彼らは得た2 ゴール. 彼らは後半の陰謀でしたが、ベガーは選択できませんでした。アストン・ヴィラ一方、シーズンの最初の勝利を主張して無事だった。彼らは、リードをしながらリードを取るために最初の半分の追加時間に増資トッテナムテムだった",
-      "title_original": "Aston Villa grab victory despite late Spurs goals as De Zerbi’s side are booed off",
-      "summary_original": "Spurs have a remarkable ability to find new ways of inflicting pain on their fanbase and they did it again here, petering out from a strong start into humiliating defeat to confirm their worst ever start to a Premier League campaign. On the upside, they did get two goals. They were both late consolations, but beggars can’t be choosers. Aston Villa were meanwhile ruthless in claiming their first victory of the season. They capitalised in first-half added time to take the lead while Spurs were tem",
+      "title": "De Zerbi リッピングするトッテナムヴィラ敗北後の選手:「失望、悲しい、不満」",
+      "summary": "トッテナム3-2 を家で失う 2 つの遅滞の “私たちは、この方法でゲームを失うことができません。” furious マネージャーは言うロベルト・デ・ゼルビ失敗に耐えるトッテナム3-2 敗北後のチームアストン・ヴィラ「この方法でゲームを失わない」と言っています。The Italian トンネルをフルタイムで直進しましたが、もう一度強制的に boos を強制しましたトッテナム3 週間に渡るインテル国民の休憩なしプレミアリーグ自分の名前とボード上の2 つのポイントへの勝利。De Zerbi ログイン",
+      "title_original": "De Zerbi rips into Spurs players after Villa defeat: ‘Disappointed, sad and frustrated’",
+      "summary_original": "Tottenham lose 3-2 at home with two late consolations ‘We can’t lose the game in this way,’ says furious manager Roberto De Zerbi tore into his failing Tottenham team after their 3-2 defeat by Aston Villa, saying “we can’t lose the game in this way”. The Italian headed straight down the tunnel at full time, but was once again forced to endure boos as Tottenham went into the three-week international break without a Premier League victory to their name and just two points on the board. De Zerbi cr",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/tottenham-aston-villa-premier-league-match-report",
-      "published": "Sat, 19 Sep 2026 13:57:04 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/19/roberto-de-zerbi-spurs-disappointed-sad-frustrated",
+      "published": "Sat, 19 Sep 2026 17:01:07 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3481,10 +3481,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ニューカッスルバウンスバックからリーズウィロックとホールが消えているように破るハル",
-      "summary": "ハル常に知っていた、遅かれ早かれ、彼らは失うだろうプレミアリーグゲームが、誰も言うことができない Sergej Jakirovic’s チームは、その力を試して遅延するために、その力ですべてを行わなかった。手続き後2 ゴール開口部7 分ハル簡単に折り畳むことができますが、Jakirovic の推進選手はそれよりもスターナーのもので作られています。確かに、彼らはまた、贈り物をしたが、怪我のヒットと非常に若々しいの豊饒を感じましたニューカッスル. 続きを読む...",
-      "title_original": "Newcastle bounce back from Leeds rout as Willock and Hall see off Hull",
-      "summary_original": "Hull always knew that, sooner or later, they would lose a Premier League game but no one can say that Sergej Jakirovic’s team did not do everything in their power to try and delay that inaugural top tier defeat. After conceding two goals in the opening seven minutes Hull could easily have folded but Jakirovic’s promoted players are made of sterner stuff than that. Tellingly, they also sensed the fragility of a gifted but injury hit and extremely youthful Newcastle. Continue reading...",
+      "title": "ニューカッスルウィロックとホールエンドとして勝利する方法に戻るハル’s unbeaten スタート",
+      "summary": "ハル常に知っていた、遅かれ早かれ、彼らは失うだろうプレミアリーグゲームが、誰も言うことができない Sergej Jakirovic’s チームでは、上層の敗北を遅らせるために、自分の力ですべてを行いませんでした。手続き後2 ゴール開口部7 分ハル簡単に折り畳むことができますが、Jakirovic の推進選手はそれよりもスターナーのもので作られています。確かに、彼らはまた、贈り物の固有の豊饒を感じたが、怪我のひずみと非常に若々しいニューカッスル. 続きを読む...",
+      "title_original": "Newcastle back to winning ways as Willock and Hall end Hull’s unbeaten start",
+      "summary_original": "Hull always knew that, sooner or later, they would lose a Premier League game but no one can say that Sergej Jakirovic’s team did not do everything in their power to try to delay that inaugural top-tier defeat. After conceding two goals in the opening seven minutes Hull could easily have folded but Jakirovic’s promoted players are made of sterner stuff than that. Tellingly, they also sensed the inherent fragility of a gifted but injury-hit and extremely youthful Newcastle. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/19/newcastle-hull-premier-league-match-report",
       "published": "Sat, 19 Sep 2026 16:14:51 GMT",
@@ -3501,7 +3501,7 @@
       "summary_original": "Supporters’ club says billionaire should stand down after ‘completely unacceptable’ comments on the UK and empire Manchester United’s Muslim supporters’ Club (MUMSC) has called for the Premier League side’s co-owner to step down after he made “completely unacceptable” comments during a BBC interview. Sir Jim Ratcliffe described the UK as being a country “on the slide” from the days when it had “the greatest empire in the world”. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/business/2026/sep/19/jim-ratcliffe-uk-immigration-tax-manchester-united-ineos",
-      "published": "Sat, 19 Sep 2026 16:17:23 GMT",
+      "published": "Sat, 19 Sep 2026 17:44:32 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3971,6 +3971,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ラビットパンチは、レッドカード! ハイクは除去器に送られました",
+      "summary": "Peta Hiku まっすぐに示されますレッドカードウサギのパンチを投げるために、残しますハル KR は12 人の男性に Super League 除去器対ウォリントン・ウルブズ.",
+      "title_original": "Rabbit punch leads to RED card! Hiku sent off in eliminator",
+      "summary_original": "Peta Hiku is shown a straight red card for throwing a rabbit punch, leaving Hull KR down to 12-men in their Super League eliminator against Warrington Wolves.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589905/warrington-v-hull-kr-peta-hiku-sent-off-for-punch",
+      "published": "Sat, 19 Sep 2026 18:51:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Wrexham ビート 南 ampton 後に 遅いオウンゴール",
       "summary": "Wrexham は smash-and-grab 2-1 の勝利 から 無駄な ナンプトン 礼儀 の Keven Schlotterbeck's 後半オウンゴール.",
       "title_original": "Wrexham beat Southampton after late own goal",
@@ -4107,20 +4121,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "迷路ネット 見事な勝者 に カムバック へ シンクシェフィールド・ユナイテッド FC",
-      "summary": "Battling Stoke 微妙なコクバックをスタンへシェフィールド・ユナイテッド FC ベット365 スタジアムで2 勝。",
-      "title_original": "Stoke net stunning winner in comeback to sink Sheff Utd",
-      "summary_original": "Battling Stoke staged a fine comeback to stun Sheffield United with a 2-1 win at the bet365 Stadium.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/stoke-city-vs-sheffield-united/report/560591",
-      "published": "Sat, 19 Sep 2026 14:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
