@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-19T10:49:31.319216+00:00",
+  "updated_at": "2026-09-19T11:05:42.944942+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Remorseful Mayer": "",
     "Chantelle Cameron's": "",
     "Black Cats": "ブラックキャット",
     "Abdul Adbulmalik": "",
@@ -3001,9 +3000,24 @@
     "Tyrell Hatton": "",
     "Patrice Motsepe": "",
     "Send Daniel": "",
-    "Neither Spurs": ""
+    "Neither Spurs": "",
+    "Unai Emery": "ウナイ・エメリ"
   },
   "items": [
+    {
+      "title": "リヴァプール見る 5150万ポンド 定格のドミトリー -土曜日の移籍ゴシップ",
+      "summary": "オランダミッドフィルダーKees Smit 見ているリヴァプール, トッテナムブラジルのディフェンダーのためのレースをリード Arthur Dias そして、モナコ獲得を問い合わせフォラリン・バログン1 月は休業とさせていただきます。",
+      "title_original": "Liverpool watch £51.5m-rated Smit - Saturday's gossip",
+      "summary_original": "Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in January.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd083944eeko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 20:35:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "チェルシー獲得を問い合わせジョアン・ペドロ目標の決定を止めない",
       "summary": "チェルシーの の問題は守られたが、ジョアン・ペドロ怪我を通し、ゴールのスコアも問題となっている。",
@@ -3012,34 +3026,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 22:39:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Oxford apologise のために United 93 シャツ 広告",
-      "summary": "オックスフォード・ユナイテッド FC9/11 攻撃で使用される平面の呼び出し記号を特徴とする画像の気化。",
-      "title_original": "Oxford apologise for United 93 shirt advert",
-      "summary_original": "Oxford United apologises for the image, which features the call sign of one of the planes used in the 9/11 attacks.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4v5v3zzr7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 13:05:31 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Winless Villa そして、トッテナム初期のショーダウンを告げる顔",
-      "summary": "アストン・ヴィラそして、トッテナム勝てないプレミアリーグ- そして、土曜日にお互いに直面して準備するので、インスピレーションを必要としています。",
-      "title_original": "Winless Villa and Spurs face telling early showdown",
-      "summary_original": "Aston Villa and Tottenham are winless in the Premier League - and both in need of inspiration as they prepare to face each other on Saturday.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly7vg8n7geo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 05:32:46 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3075,20 +3061,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプール見る 5150万ポンド 定格のドミトリー -土曜日の移籍ゴシップ",
-      "summary": "オランダミッドフィルダーKees Smit 見ているリヴァプール, トッテナムブラジルのディフェンダーのためのレースをリード Arthur Dias そして、モナコ獲得を問い合わせフォラリン・バログン1 月は休業とさせていただきます。",
-      "title_original": "Liverpool watch £51.5m-rated Smit - Saturday's gossip",
-      "summary_original": "Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in January.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwd083944eeko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 20:35:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "毎日のクイズでサッカーの脳を柔軟に",
       "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
       "title_original": "Flex your football brain with our daily quizzes",
@@ -3096,6 +3068,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cv1j4ey5j2w4o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 19 Sep 2026 05:39:43 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Oxford apologise のために United 93 シャツ 広告",
+      "summary": "オックスフォード・ユナイテッド FC9/11 攻撃で使用される平面の呼び出し記号を特徴とする画像の気化。",
+      "title_original": "Oxford apologise for United 93 shirt advert",
+      "summary_original": "Oxford United apologises for the image, which features the call sign of one of the planes used in the 9/11 attacks.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4v5v3zzr7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 13:05:31 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3117,34 +3103,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Afcon 2027 の準備ができているケニアのレースのオプションではない延期",
-      "summary": "アフリカ サッカー ボス Patrice MotsepeAfcon 2027 の共同ホストであるケニア、タンザニア、ウガンダの「潜在能力の高められた感覚」を望む。",
-      "title_original": "Postponement not an option as Kenya races to be ready for Afcon 2027",
-      "summary_original": "African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts Kenya, Tanzania and Uganda as they face a race to be ready.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxr50lgjgz98o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 10:24:01 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ミルウォールとウェストハム14 年後の再更新の儀式",
-      "summary": "最近の会議から14 年以上経ち、ミルウォールとミルウォールの間の儀式ウェストハム獲得ニュー・デン・スタジアム土曜日に。",
-      "title_original": "Millwall and West Ham renew rivalry after 14 years",
-      "summary_original": "More than 14 years after their most recent meeting, the rivalry between Millwall and West Ham United will be renewed at The Den on Saturday.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmd790q9g89zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 14:52:47 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Gabriel, 15, でバルセロナ amid の speculation の未来",
       "summary": "マンチェスター・ユナイテッドヤングスターJJ Gabriel 旅行へバルセロナ欧州最大のクラブの何人かが、シグネチャーのために続行する。",
       "title_original": "Gabriel, 15, in Barcelona amid speculation over future",
@@ -3159,6 +3117,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Afcon 2027 の準備ができているケニアのレースのオプションではない延期",
+      "summary": "アフリカ サッカー ボス Patrice MotsepeAfcon 2027 の共同ホストであるケニア、タンザニア、ウガンダの「潜在能力の高められた感覚」を望む。",
+      "title_original": "Postponement not an option as Kenya races to be ready for Afcon 2027",
+      "summary_original": "African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts Kenya, Tanzania and Uganda as they face a race to be ready.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxr50lgjgz98o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 10:24:01 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Will England ボス トゥッチェル 'em2 ゴールカオス?",
       "summary": "アフターWorld Cup, イングランド上司トーマス・トゥヘルより大きい制御を望んでいました。2 カ月、彼は \"em\"に keen です2 ゴールチャオスは、今後の予定のために彼のチームを命名した後 Nations League 備品。",
       "title_original": "Will England boss Tuchel 'embrace the chaos'?",
@@ -3170,20 +3142,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "' catastrophe' - キャラックの却下マンチェスター・ユナイテッド仕事の恐怖",
-      "summary": "マンチェスター・ユナイテッドヘッドコーチマイケル・キャリック彼の仕事が脅威にさらされているかどうかを心配する点が気にしないと言う.",
-      "title_original": "'Not a catastrophe' - Carrick dismisses Man Utd job fears",
-      "summary_original": "Manchester United head coach Michael Carrick says there is no point wasting any time worrying if his job is under threat.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5n4k89j1zpeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 14:09:37 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3296,6 +3254,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "' catastrophe' - キャラックの却下マンチェスター・ユナイテッド仕事の恐怖",
+      "summary": "マンチェスター・ユナイテッドヘッドコーチマイケル・キャリック彼の仕事が脅威にさらされているかどうかを心配する点が気にしないと言う.",
+      "title_original": "'Not a catastrophe' - Carrick dismisses Man Utd job fears",
+      "summary_original": "Manchester United head coach Michael Carrick says there is no point wasting any time worrying if his job is under threat.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5n4k89j1zpeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 14:09:37 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3425,13 +3397,41 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "過去の投稿マンチェスター・ユナイテッド左の Malacia が参加 FC Cincinnati",
+      "summary": "FC Cincinnati サインインマンチェスター・ユナイテッド左バック Tyrell Malacia 獲得を問い合わせフリー移籍.",
+      "title_original": "Former Man Utd left-back Malacia joins FC Cincinnati",
+      "summary_original": "FC Cincinnati sign former Manchester United left-back Tyrell Malacia on a free transfer.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyjgqgdqwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 17:39:15 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "イエスの最初のポルトガルのスクワッドで名付けられたロナルド",
+      "summary": "クリスティアーノ・ロナウド新しいポルトガルのコーチによって選ばれた最初のチームに名前を付けられますジョルジェ・ジェズス今後の予定 Nations League ゲーム。",
+      "title_original": "Ronaldo named in Jesus' first Portugal squad",
+      "summary_original": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 12:45:25 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トッテナム. .アストン・ヴィラ: プレミアリーグ– ライブ",
-      "summary": "⚽️ プレミアリーグ12 月30 日(金)より、BST のアップデートのお知らせです。Send Daniel この週末の話ポイントであなたの考えは、電子メールでキャッチアップ: だから、何が間違っているのかトッテナム? 続きを読む...",
+      "summary": "⚽️ プレミアリーグ12 月30 日(金)より、BST のアップデートのお知らせです。Send Daniel「私たちは、競争力のあるチームと、私たちが持っている標準で競争する準備ができているプレーヤーを望む」電子メールを介してあなたの考えウナイ・エメリヴィッラのミッドウィークの勝利の後、このシーズンのすべての競争で最初に言った。今日の場所のための競争は明らかです: Manzambi が始まります, しばらくの間 Tammy Abraham, Alejandro Garnacho そして、ロス・バークリーベンチの攻撃オプションの中にあります。続きを読む...",
       "title_original": "Tottenham v Aston Villa: Premier League – live",
-      "summary_original": "⚽️ Premier League updates from 12.30pm (BST) ⚽️ Today’s fixtures | Send Daniel your thoughts via email Catch up on this weekend’s talking points: So, what’s going wrong with Tottenham? Continue reading...",
+      "summary_original": "⚽️ Premier League updates from 12.30pm (BST) ⚽️ Today’s fixtures | Send Daniel your thoughts via email “We want a competitive team and the players ready to compete on the standard we have,” Unai Emery said after Villa’s midweek victory, their first in all competitions this season. That competition for places is clear today: Manzambi starts, while Tammy Abraham, Alejandro Garnacho and Ross Barkley are among the attacking options on the bench. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
-      "published": "Sat, 19 Sep 2026 10:42:59 GMT",
+      "published": "Sat, 19 Sep 2026 10:57:20 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3445,7 +3445,7 @@
       "summary_original": "News, discussion and updates before Saturday’s games This weekend’s fixtures | Tables | Mail us your thoughts Regarding Trent Alexander-Arnold’s England recall , here’s what Tuchel had to say … … and here is Sid Lowe’s analysis , the view from Spain: Thomas Tuchel said Trent Alexander Arnold had enjoyed a good start to the season, which came as news to those in England who have not been watching him at Real Madrid . It also, in truth, came as news to those in Spain who have. If the England manag",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
-      "published": "Sat, 19 Sep 2026 10:44:38 GMT",
+      "published": "Sat, 19 Sep 2026 10:58:52 GMT",
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
