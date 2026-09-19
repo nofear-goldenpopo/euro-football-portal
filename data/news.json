@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-19T21:23:22.685009+00:00",
+  "updated_at": "2026-09-19T21:35:55.006988+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Klose's World Cup": "",
     "Lionel Messi's World Cup": "",
     "Miroslav Klose's": "",
     "The MCC": "",
@@ -3001,7 +3000,8 @@
     "Manchester City Renée Slegers": "",
     "Sky Blues": "",
     "Arsenal. But": "",
-    "Eva Olid's": ""
+    "Eva Olid's": "",
+    "Josko Gvardiol's": ""
   },
   "items": [
     {
@@ -3117,6 +3117,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "当日の試合",
+      "summary": "5 つのハイライトプレミアリーグチャンピオンを含むマッチ、アーセナルの trip への旅ブライトン.",
+      "title_original": "Match of the Day",
+      "summary_original": "Highlights of five Premier League matches, including champions Arsenal's trip to Brighton.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 22:41:14 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'fragile'の視力で復活しませんトッテナムヴィラ敗北後",
       "summary": "トッテナム彼らが家敗北にスリップするように彼らの問題の解決に近づくのを見るアストン・ヴィラ追加するプレミアリーグ味噌汁",
       "title_original": "No revival in sight for 'fragile' Spurs after Villa defeat",
@@ -3152,6 +3166,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmg490nn12pvo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 19 Sep 2026 16:58:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Gvardiol の信号は左の最もよいにのための戻りますマンチェスター・シティ",
+      "summary": "Josko Gvardiol's 最後のシーズンは深刻な怪我によって中断されたが、ディフェンダーは助けによって彼のベストに向かって戻ってくるように見えるマンチェスター・シティ新たなキャンペーンに着目する。",
+      "title_original": "Gvardiol signals return to best at left-back for Man City",
+      "summary_original": "Josko Gvardiol's season last time out was disrupted by a serious injury but the defender now appears to be returning towards his best by helping Manchester City to an impressive start to the new campaign.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0e35jrqyd7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 21:31:17 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3393,34 +3421,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Learning English, 接続を見つけること - Putellas が解決 London City",
-      "summary": "BBC Sport's Alex Scott, Fara Williams そして、Anita Asante 獲得を問い合わせロンドン・シティ・ライオネススタースターアレクシア・プテジャス, について 4-1 チャルトンで勝つと彼女は彼女の新しいクラブでセトリングする方法.",
-      "title_original": "Learning English, finding connections - Putellas settles at London City",
-      "summary_original": "BBC Sport's Alex Scott, Fara Williams and Anita Asante speak to London City Lionesses star Alexia Putellas, to discuss the 4-1 win at Charlton and how she is settling at her new club.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyvz180lmq9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 15:21:33 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Kane は歴史とオリズネットを作るハットトリックとしてバイエルンスラッシュ1.FC ウニオン・ベルリン",
-      "summary": "フリガナハリー・ケイン100 に達するために最速のプレーヤーになることによって歴史を作るブンデスリーガ第98 試合でゴール Michael Olise ネットハットトリックとしてバイエルン・ミュンヘンスラッシュ1.FC ウニオン・ベルリン 7-0.",
-      "title_original": "Kane makes history and Olise nets hat-trick as Bayern thrash Union Berlin",
-      "summary_original": "HHarry Kane makes history by becoming the fastest player to reach 100 Bundesliga goals in his 98th game, while Michael Olise nets a hat-trick as Bayern Munich thrash Union Berlin 7-0.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck4gle1ep647o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 22:34:20 GMT",
-      "category": "bundesliga",
-      "type": "bundesliga",
-      "label": "ブンデス",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
