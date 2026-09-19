@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-19T10:06:33.641418+00:00",
+  "updated_at": "2026-09-19T10:23:47.593144+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Inter Miami": "",
-    "Lionel Messi": "リオネル・メッシ",
     "Saturday. Messi’s": "",
     "SLAM-DUNK ACE": "",
     "Justin Rose": "",
@@ -3001,7 +2999,9 @@
     "Bayern. Kane": "",
     "Regarding Trent Alexander-Arnold’s England": "",
     "Sid Lowe’s": "",
-    "Emre Guler": ""
+    "Emre Guler": "",
+    "Hatton HATES": "",
+    "Tyrell Hatton": ""
   },
   "items": [
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "News, discussion and updates before Saturday’s games This weekend’s fixtures | Tables | Mail us your thoughts Regarding Trent Alexander-Arnold’s England recall , here’s what Tuchel had to say … … and here is Sid Lowe’s analysis , the view from Spain: Thomas Tuchel said Trent Alexander Arnold had enjoyed a good start to the season, which came as news to those in England who have not been watching him at Real Madrid . It also, in truth, came as news to those in Spain who have. If the England manag",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
-      "published": "Sat, 19 Sep 2026 09:57:55 GMT",
+      "published": "Sat, 19 Sep 2026 10:05:46 GMT",
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
@@ -3957,16 +3957,30 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナム対比アストン・ヴィラチームニュース LIVE!",
+      "title": "Manzambi は Villa、Porro のバックのために始まりますトッテナムライブ!",
       "summary": "",
-      "title_original": "Spurs vs Aston Villa team news LIVE!",
+      "title_original": "Manzambi starts for Villa, Porro back for Spurs LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/live/559493",
       "published": "Sat, 19 Sep 2026 10:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「結局はダメじゃない!」 -Hatton HATES ショットがほとんどアルバトロス!",
+      "summary": "Tyrell Hatton 第2 弾を4 番目で撮った後、一見不幸で見えましたが、ほとんどはアルバトロスを作ったのと同じくらい美でした。",
+      "title_original": "'That's not so bad after all!' - Hatton HATES shot but almost makes albatross!",
+      "summary_original": "Tyrell Hatton looked seemingly unhappy after his second shot on the par five fourth hole, but it was a beauty as he almost made an albatross.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589569/bmw-pga-championship-tyrell-hatton-so-close-to-making-albatross",
+      "published": "Sat, 19 Sep 2026 10:25:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/news/12040/13586233/wakefield-trinity-reach-super-league-semi-finals-for-first-time-with-26-16-win-over-leigh-leopards-despite-emre-guler-red-card",
       "published": "Fri, 18 Sep 2026 22:08:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "York Valkyrie で勝つリーズ予約する Women's Super League Grand 決勝対ウィガン",
-      "summary": "York Valkyrie2026 年までに Women's Super League Grand 最終的な反対 Wigan Warriors 優れた12-0 準決勝の勝利に続くリーズ・ライノズ.",
-      "title_original": "York Valkyrie win at Leeds to book Women's Super League Grand Final vs Wigan",
-      "summary_original": "York Valkyrie are through to the 2026 Women's Super League Grand Final against Wigan Warriors following a superb 12-0 semi-final away victory over Leeds Rhinos.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/leeds-vs-york-valkyrie/report/64307",
-      "published": "Tue, 15 Sep 2026 16:19:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
