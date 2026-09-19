@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-19T13:05:46.914465+00:00",
+  "updated_at": "2026-09-19T13:23:49.985366+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Bryan Mbeumo’s": "",
     "Chuka Akpom’s": "",
     "Britain's Boulter": "",
     "Van Assche": "",
@@ -3001,7 +3000,8 @@
     "Charlton Athletic": "チャールトン・アスレティックFC",
     "Jack Moylan": "",
     "Kostoulas. Subs": "",
-    "Yalcouye. Continue": ""
+    "Yalcouye. Continue": "",
+    "Sheffield United": "シェフィールド・ユナイテッドFC"
   },
   "items": [
     {
@@ -3215,20 +3215,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Uefa は、アイルランドとイスラエルを別々に保つために要求を拒否しました - FAI",
-      "summary": "The Football Association アイルランドは、それが維持する要求を持っていたと言うリパブリックアイルランドとイスラエルは、将来の競争が Uefa によって拒否されたドロースを分離しています。",
-      "title_original": "Uefa rejected request to keep Republic of Ireland and Israel separate - FAI",
-      "summary_original": "The Football Association of Ireland says it had a request to keep the Republic of Ireland and Israel separate in future competition draws rejected by Uefa.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm750e2ek0n5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 16:40:11 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ブレントフォード3 つの過去を置いたので、unbeaten 滞在チェルシー",
       "summary": "ブレントフォード不当なスタートを維持プレミアリーグ彼らは3 秒半の目標を打つために得ますチェルシー3-0 でブレントフォード・コミュニティ・スタジアム.",
       "title_original": "Brentford stay unbeaten as they put three past Chelsea",
@@ -3327,6 +3313,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Uefa は、アイルランドとイスラエルを別々に保つために要求を拒否しました - FAI",
+      "summary": "The Football Association アイルランドは、それが維持する要求を持っていたと言うリパブリックアイルランドとイスラエルは、将来の競争が Uefa によって拒否されたドロースを分離しています。",
+      "title_original": "Uefa rejected request to keep Republic of Ireland and Israel separate - FAI",
+      "summary_original": "The Football Association of Ireland says it had a request to keep the Republic of Ireland and Israel separate in future competition draws rejected by Uefa.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm750e2ek0n5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 16:40:11 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Wrexham の所有者は、Spygate を Southampton で目指す",
       "summary": "ライアン・レイノルズそして、Rob Mac この週末は、チャンピオンシップフィクスの先にある、次の対戦相手で楽しいプレーをしました。",
       "title_original": "Wrexham owners aim Spygate dig at Southampton",
@@ -3383,20 +3383,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "数千回の経験があり、ラミン・ヤマル",
-      "summary": "バルセロナウィンガーラミン・ヤマル人々は彼らのコメントや行動が攻撃的であることを認識しているので、彼は経験した狂気「千回」を持っていると言う。",
-      "title_original": "I have experienced racism a thousand times - Lamine Yamal",
-      "summary_original": "Barcelona winger Lamine Yamal says he has experienced racism \"a thousand times\", because people are unaware their comments or behaviour are offensive.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck05rv4q3176o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 14:53:33 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "タッチェルは、イギリスのパルマとアレクサンダー・アーノルドをリコール",
       "summary": "トーマス・トゥヘルリコールトレント・アレクサンダー＝アーノルドそして、コール・パーマー2026 年以来、イギリス初のスクワッドへ World Cup.",
       "title_original": "Tuchel recalls Palmer and Alexander-Arnold for England",
@@ -3425,13 +3411,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "私は良い場所にいるような感じ - Isak",
+      "summary": "アレクサンデル・イサク自分の関係について説明するアンドニ・イラオラそして、コーディ・ガクポ今シーズンもお世話になりました。",
+      "title_original": "I feel like I'm in a good place - Isak",
+      "summary_original": "Alexander Isak explains how his relationships with Andoni Iraola and Cody Gakpo have helped him this season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6kg8nzq4enpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 05:13:51 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トッテナム. .アストン・ヴィラ: プレミアリーグ– ライブ",
       "summary": "⚽️ プレミアリーグ12 月30 日(金)より、BST のアップデートのお知らせです。Send Daniel メールでの獲得を問い合わせ 側面の第176 回会議です。トッテナム79 を獲得した歴史あるエッジは、ヴィラの 62 に勝ちました。32 枚のドローがありました。続きを読む...",
       "title_original": "Tottenham v Aston Villa: Premier League – live",
       "summary_original": "⚽️ Premier League updates from 12.30pm (BST) ⚽️ Today’s fixtures | Send Daniel your thoughts via email This is the 176th meeting between the sides. Spurs have the historical edge having won 79 to Villa’s 62. There have been 32 draws. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
-      "published": "Sat, 19 Sep 2026 12:58:45 GMT",
+      "published": "Sat, 19 Sep 2026 13:14:14 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3439,13 +3439,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブライトン. .アーセナル, ニューカッスル. .ハルもっと見る: Clockwatch - ライブ",
-      "summary": "大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会トッテナム. .アストン・ヴィラ– 更新情報 |Mail Scott GOAL! Cardiff City 3-1 チャールトン・アスレティック FC(モーラン 61).Jack Moylan ウェルシュ首都のカルディフの2 頭クッションを再確立します。ブライトンそして、Hove Albion: Verbruggen, Kadioglu, Vuskovic, Struijk, Boscagli, Gross, Ayari, ゴメス, アンドレス,De Cuyper, Kostoulas. Subs: スティール、ハドヤム、ラッタ、デビッド、オスマン、コストインハ、スヴォボダ、オリー、Yalcouye. Continue 読書...",
-      "title_original": "Brighton v Arsenal, Newcastle v Hull and more: clockwatch – live",
-      "summary_original": "⚽️ Updates from across the grounds for Saturday’s games ⚽️ Live scoreboard | Spurs v Aston Villa – updates | Mail Scott GOAL! Cardiff City 3-1 Charlton Athletic (Moylan 61). Jack Moylan re-establishes Cardiff’s two-goal cushion in the Welsh capital. Brighton and Hove Albion: Verbruggen, Kadioglu, Vuskovic, Struijk, Boscagli, Gross, Ayari, Gomez, Andres, De Cuyper, Kostoulas. Subs: Steele, Hadjam, Rutter, David, Osman, Costinha, Svoboda, O’Riley, Yalcouye. Continue reading...",
+      "title": "ブライトン. .アーセナル, ニューカッスル. .ハルハンマーがミルウォールで戻ってくるように:時計時計 - ライブ",
+      "summary": "大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会トッテナム. .アストン・ヴィラ– 更新情報 |Mail Scott GOAL! ストーク・シティ FC 1-1 シェフィールド・ユナイテッド FC(McGlynn 78). チャンピオンシップの別のレベルラー、おかげで Jack McGlynn ベット365 ゴール! ミルウォール 2-2 ウェストハム(Mavropanos 80). ... そして今ウェストハムレベルアップ! 今度は角をとりましょう。要する。Manor Solomon 右にスペースを作るために肩を落とし、長く交差し、Konstantinos Mavropanos ヘアーを植える",
+      "title_original": "Brighton v Arsenal, Newcastle v Hull as Hammers hit back at Millwall: clockwatch – live",
+      "summary_original": "⚽️ Updates from across the grounds for Saturday’s games ⚽️ Live scoreboard | Spurs v Aston Villa – updates | Mail Scott GOAL! Stoke City 1-1 Sheffield United (McGlynn 78). Another leveller in the Championship, thanks to Jack McGlynn at the bet365. GOAL! Millwall 2-2 West Ham United (Mavropanos 80). … and now West Ham are level! They get to take a corner this time. They take it short. Manor Solomon drops a shoulder to make space on the right, crosses long, and Konstantinos Mavropanos plants a hea",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
-      "published": "Sat, 19 Sep 2026 12:59:00 GMT",
+      "published": "Sat, 19 Sep 2026 13:13:51 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3915,9 +3915,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL:チェルシー倍増リード対に近い Birmingham LIVE!",
+      "title": "WSL:マラードがついにダブルスチェルシーリード対 Birmingham LIVE!",
       "summary": "",
-      "title_original": "WSL: Chelsea close to doubling lead vs Birmingham LIVE!",
+      "title_original": "WSL: Malard finally doubles Chelsea's lead vs Birmingham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-women-vs-birmingham-city-women/live/575772",
@@ -4027,9 +4027,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "BMW PGA 選手権ライブ! McIlroy は、Wentworth のリーダーを追い込みます",
+      "title": "McIlroy stumbles 魅惑的な 衝撃 BMW PGA 選手権リーダーライブ!",
       "summary": "",
-      "title_original": "BMW PGA Championship LIVE! McIlroy chases leaders at Wentworth",
+      "title_original": "McIlroy stumbles chasing shock BMW PGA Championship leaders LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13589576/bmw-pga-championship-live-latest-scores-updates-highlights-as-rory-mcilroy-chases-down-leaders-at-wentworth",
@@ -4041,9 +4041,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナムヴィッラのスコアが再び LIVE で難しくなる!",
+      "title": "目標、希望なしトッテナムヴィッラのスコアが再び LIVE で難しくなる!",
       "summary": "",
-      "title_original": "Spurs sinking deeper into trouble as Villa score again LIVE!",
+      "title_original": "No goals, no hope? Spurs sinking deeper into trouble as Villa score again LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/live/559493",
