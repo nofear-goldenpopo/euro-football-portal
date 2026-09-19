@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-19T07:05:33.537353+00:00",
+  "updated_at": "2026-09-19T07:24:08.756430+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Britain's Norrie": "",
-    "Brentford Tottenh": "",
     "Real Madrid’s": "",
     "Promoted Málaga": "",
     "Bernabéu Suzuki": "",
@@ -3001,7 +2999,9 @@
     "Brentford. Yet Chelsea": "",
     "Winless Villa": "",
     "Unbeaten Arapaho Gold": "",
-    "Mill Reef": "ミルリーフ"
+    "Mill Reef": "ミルリーフ",
+    "Jason Wilcox": "",
+    "Reds Alisson": ""
   },
   "items": [
     {
@@ -3439,20 +3439,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "エム2 ゴールチャオス’: トゥッチェルは、イングランドのサッカー文化を活用することを目指しています",
-      "summary": "ヘッドコーチは、「ディープダウン、英語プレーヤー...彼らはそれのために行く」ゲームで制御の欠如を受け入れる必要があります言うトーマス・トゥヘルマッチでより大きなコントロールを重ねるときには、そこに認めています。しかし、イングランドのヘッドコーチは、よりチャオティック、アドレナリンフェルドの性質を感じるプレミアリーグ彼がユーロ2028 で栄光をターゲットとして彼のテンプレートを維持します。トゥッチェルは、常に完全なスロットルでプレーする彼らの習慣の面で「フットボールをプレーする最も経済的ではないマイブ」として彼のチームを述べました。彼らは失われた",
-      "title_original": "‘Embrace the chaos’: Tuchel aims to harness England’s football culture",
-      "summary_original": "Head coach says he must accept lack of control in games ‘Deep down, English players … they go for it’ Thomas Tuchel has admitted there are times when he craves greater control in matches. But the England head coach feels the more chaotic, adrenaline-fuelled nature of the Premier League will remain his template as he targets glory at Euro 2028. Tuchel described his team as “maybe not the most economical to play football” in terms of their habit of constantly playing at full throttle. They lost to",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/embrace-chaos-thomas-tuchel-england-football-culture",
-      "published": "Fri, 18 Sep 2026 18:00:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ハリー・ケイン最速から100 までのスマッシュレコードブンデスリーガ第98 試合のゴール",
       "summary": "Kane ダブルヘルプバイエルン・ミュンヘンビート1.FC ウニオン・ベルリン 7-0 Dieter Müller’s1977 年以降、129 試合を記録したハリー・ケイン最速のプレーヤーの49 歳記録をスマッシュし、スコア100 ブンデスリーガ目標バイエルン・ミュンヘン’s 7-0 勝つオーバー1.FC ウニオン・ベルリン第98 回リーグ戦の試合 Cologne’s Dieter Müller1977 年に前のマークを設定したが、129 の試合を受け、イングランドのキャプテンのスコアリングは、ゲームの目標よりも優れ、新しいレコードはしばらくの間必然的だった。以来、",
       "title_original": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
@@ -3463,6 +3449,34 @@
       "category": "bundesliga",
       "type": "bundesliga",
       "label": "ブンデス",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Heat は Carrick ですが、Wilcox は BGM を共有しなければなりませんマンチェスター・ユナイテッドの woes's は、",
+      "summary": "募集は、他のポジションが無視された間、1億5500万ポンド が3 ミッドフィルダーに費やされた後、失礼下にあります ブームと同情のミックスがあったマンチェスター・ユナイテッド slumped から EFL カップ水曜日は、国内カップ大会で最新の抑圧行為。ソレムンマイケル・キャリックそして、彼の選手は、嫉妬の対象でした。サッカーのディレクター、Jason Wilcox, 取締役の箱から彼の方法に未使用を見ましたが、彼と階層は彼らの責任を受け入れる必要があります",
+      "title_original": "Heat is on Carrick but Wilcox must share blame for Manchester United’s woes",
+      "summary_original": "Recruitment is under scrutiny after £155m was spent on three midfielders while other positions were neglected There was a mix of boos and apathy as Manchester United slumped out of the Carabao Cup on Wednesday in their latest depressing act in domestic cup competitions. A solemn Michael Carrick and his players were the target for the jeers. The director of football, Jason Wilcox, looked unamused on his way out of the directors’ box but he and the hierarchy need to accept responsibility for their",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/michael-carrick-jason-wilcox-blame-manchester-united-woes",
+      "published": "Sat, 19 Sep 2026 07:00:41 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アンドニ・イラオラ Bournemouth は、ジョブではまだ学習しているリヴァプール",
+      "summary": "入札決定を行い、勝利に描画を回すことは、ヘッドコーチが混合されたスタートを改善するために見えるので不可欠です Reds Alisson シュガーコートを少し試みるリヴァプール’ s unbeaten スタート へ の 季節 下アンドニ・イラオラクラブのインハウスメディアで Fulham に対して描画を分析するとき。「このシャツであまり祝うべきことではない3 つのドローでアンベアテン」と明らかにしたリヴァプールゴールキーパー。「お持ち帰り」クリーンシートしかし、私たちは皆で幸せではありません。大事を目指したい。大きな t",
+      "title_original": "Andoni Iraola makes Bournemouth return still learning on the job at Liverpool",
+      "summary_original": "Making bid decisions and turning draws into wins is vital as head coach looks to improve on a mixed start with Reds Alisson made little attempt to sugarcoat Liverpool’s unbeaten start to the season under Andoni Iraola when analysing the draw against Fulham with the club’s in-house media. “Unbeaten with three draws is not something to celebrate too much with this shirt,” said a peeved Liverpool goalkeeper. “We take the clean sheet but we are not happy at all. We need to aim for big things.” Big t",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/andoni-iraola-bournemouth-return-learning-on-job-liverpool",
+      "published": "Sat, 19 Sep 2026 07:00:40 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3478,6 +3492,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "エム2 ゴールチャオス’: トゥッチェルは、イングランドのサッカー文化を活用することを目指しています",
+      "summary": "ヘッドコーチは、「ディープダウン、英語プレーヤー...彼らはそれのために行く」ゲームで制御の欠如を受け入れる必要があります言うトーマス・トゥヘルマッチでより大きなコントロールを重ねるときには、そこに認めています。しかし、イングランドのヘッドコーチは、よりチャオティック、アドレナリンフェルドの性質を感じるプレミアリーグ彼がユーロ2028 で栄光をターゲットとして彼のテンプレートを維持します。トゥッチェルは、常に完全なスロットルでプレーする彼らの習慣の面で「フットボールをプレーする最も経済的ではないマイブ」として彼のチームを述べました。彼らは失われた",
+      "title_original": "‘Embrace the chaos’: Tuchel aims to harness England’s football culture",
+      "summary_original": "Head coach says he must accept lack of control in games ‘Deep down, English players … they go for it’ Thomas Tuchel has admitted there are times when he craves greater control in matches. But the England head coach feels the more chaotic, adrenaline-fuelled nature of the Premier League will remain his template as he targets glory at Euro 2028. Tuchel described his team as “maybe not the most economical to play football” in terms of their habit of constantly playing at full throttle. They lost to",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/embrace-chaos-thomas-tuchel-england-football-culture",
+      "published": "Fri, 18 Sep 2026 18:00:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3519,34 +3547,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "キリアン・エムバペ20 年後にナイキを残して、ブーツの移籍をスイスのブランドに獲得します",
-      "summary": "フランスのキャプテンも会社の株主になる「私たちは共有夢を持っており、これが始まりです」キリアン・エムバペナイキと20 年を結び、スイスのチャレンジャー会社とブーツ契約を締結 On. The ランニングとテニスに重点を置いたスポーツとレジャーブランドは、来年サッカーに大きな動きを計画し、また任命されています Thierry Henry サッカーディレクターとして。続きを読む...",
-      "title_original": "Kylian Mbappé leaves Nike after 20 years to sign boot deal with Swiss brand On",
-      "summary_original": "France captain also becomes a shareholder in company ‘We have a shared dream, and this is only the beginning’ Kylian Mbappé has ended a 20-year association with Nike to sign a boot deal with the Swiss challenger company On. The sports and leisure brand, which has previously focused on running and tennis, is planning a major move into football next year and has also appointed Thierry Henry as its football director. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/kylian-mbappe-leaves-nike-20-years-boot-deal-swiss-brand-on",
-      "published": "Fri, 18 Sep 2026 15:48:52 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "オックスフォード・ユナイテッド FC9/11 年頃の「United 93」の衣料品を発売",
-      "summary": "‘Campus Collection’ 創業から2 時間後にウェブサイトから引き抜かれた1893 クラブの創業範囲をマークすることを目指しましたオックスフォード・ユナイテッド FC9 月11 日の悲劇を意図的に参照した後、アメリカのスタイルのスポーツウェアの新しい範囲を放棄しました。The League One クラブが新登場 Campus Collection 金曜日の朝は、ランチタイムで販売し、衣類のデザインがスローガン「ユナイテッド93」に耐えるために明らかにされた後に削除されました。The U’s すぐに、アンダースタの欠如に認めた謝罪を公表",
-      "title_original": "Oxford United apologise for launching ‘United 93’ clothing range around 9/11 anniversary",
-      "summary_original": "‘Campus Collection’ aimed to mark 1893 club founding Range pulled from website two hours after launch Oxford United have abandoned a new range of American style-sportswear after it inadvertently referenced the tragedy of September 11. The League One club launched their new “Campus Collection” on Friday morning but had removed it from sale by lunchtime, after clothing designs were revealed to bear the slogan “United 93”. The U’s immediately published an apology that admitted to a lack of understa",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/oxford-united-apology-united-93-clothing-range-9-11-anniversary",
-      "published": "Fri, 18 Sep 2026 14:18:48 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3649,6 +3649,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "キリアン・エムバペ20 年後にナイキを残して、ブーツの移籍をスイスのブランドに獲得します",
+      "summary": "フランスのキャプテンも会社の株主になる「私たちは共有夢を持っており、これが始まりです」キリアン・エムバペナイキと20 年を結び、スイスのチャレンジャー会社とブーツ契約を締結 On. The ランニングとテニスに重点を置いたスポーツとレジャーブランドは、来年サッカーに大きな動きを計画し、また任命されています Thierry Henry サッカーディレクターとして。続きを読む...",
+      "title_original": "Kylian Mbappé leaves Nike after 20 years to sign boot deal with Swiss brand On",
+      "summary_original": "France captain also becomes a shareholder in company ‘We have a shared dream, and this is only the beginning’ Kylian Mbappé has ended a 20-year association with Nike to sign a boot deal with the Swiss challenger company On. The sports and leisure brand, which has previously focused on running and tennis, is planning a major move into football next year and has also appointed Thierry Henry as its football director. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/kylian-mbappe-leaves-nike-20-years-boot-deal-swiss-brand-on",
+      "published": "Fri, 18 Sep 2026 15:48:52 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "オックスフォード・ユナイテッド FC9/11 年頃の「United 93」の衣料品を発売",
+      "summary": "‘Campus Collection’ 創業から2 時間後にウェブサイトから引き抜かれた1893 クラブの創業範囲をマークすることを目指しましたオックスフォード・ユナイテッド FC9 月11 日の悲劇を意図的に参照した後、アメリカのスタイルのスポーツウェアの新しい範囲を放棄しました。The League One クラブが新登場 Campus Collection 金曜日の朝は、ランチタイムで販売し、衣類のデザインがスローガン「ユナイテッド93」に耐えるために明らかにされた後に削除されました。The U’s すぐに、アンダースタの欠如に認めた謝罪を公表",
+      "title_original": "Oxford United apologise for launching ‘United 93’ clothing range around 9/11 anniversary",
+      "summary_original": "‘Campus Collection’ aimed to mark 1893 club founding Range pulled from website two hours after launch Oxford United have abandoned a new range of American style-sportswear after it inadvertently referenced the tragedy of September 11. The League One club launched their new “Campus Collection” on Friday morning but had removed it from sale by lunchtime, after clothing designs were revealed to bear the slogan “United 93”. The U’s immediately published an apology that admitted to a lack of understa",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/oxford-united-apology-united-93-clothing-range-9-11-anniversary",
+      "published": "Fri, 18 Sep 2026 14:18:48 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "プレミアリーグチームニュース:週末のアクションの予想されるラインナップ",
       "summary": "トッテナム土曜日の行動から始まるアストン・ヴィラしばらくお待ちくださいブライトン アーセナル100%の賞金を記録し続けることを目指している土曜日12.30pmTNT Sports1 会場トッテナムスタジアム 続きを読む...",
       "title_original": "Premier League team news: predicted lineups for the weekend action",
@@ -3684,34 +3712,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/17/manchester-city-norwich-carabao-cup-third-round-match-report",
       "published": "Thu, 17 Sep 2026 20:33:33 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "FA の椅子 Hewitt は失敗の Infantino 解放の記録を要求します World Cup プラン",
-      "summary": "フィファ評議会の会議の前に送られた手紙 15October Infantino 大統領選挙前の圧力下 The Football Association’s 椅子,Debbie Hewitt, に書かれている Gianni InfantinoFifa が放棄されたすべての文書を解放することを要求する World Cup 販売オフプランとリフトの決定アメリカ合衆国ストライカーフォラリン・バログン昨年の夏の大会ではサスペンションです。ガーディアンは去月、ハイウィットとフィファ評議会の他のメンバーが独立者のためのロビーだったことを明らかにしました",
-      "title_original": "FA chair Hewitt demands Infantino release records of failed World Cup plan",
-      "summary_original": "Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino demanding that Fifa releases all documents relating to his abandoned World Cup sell-off plan and the decision to lift the USA striker Folarin Balogun’s suspension during last summer’s tournament. The Guardian revealed last month that Hewitt and other members of the Fifa council were lobbying for an independent",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan",
-      "published": "Thu, 17 Sep 2026 18:00:45 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Jürgen Klopp ドイツチームを「間違った人」から国民の誇りを認めたい",
-      "summary": "コメントは、サクソニー・アンハルト「私は自分自身の旗を返し、私たちのために、」で遠直な選挙勝利に従ってください Jürgen Klopp ドイツのサッカーチームは、最近の直近の AFD 選挙の勝利の後に「国家の誇りは、間違った人々に委託されていない」ことを保証するのに役立ちます。フランクフルトのプレス会議では、ドイツ初のスクワッド、元を発表リヴァプールマネージャーは、ドイツ党の抗移民代替による最近の国家選挙の勝利を言及しました。続きを読む...",
-      "title_original": "Jürgen Klopp wants his Germany team to reclaim national pride from ‘the wrong people’",
-      "summary_original": "Comments follow far-right election win in Saxony-Anhalt ‘I’d like to reclaim the flag for myself and for us,’ he says Jürgen Klopp has said Germany’s football team can help ensure “national pride is not entrusted to the wrong people” after a recent far-right AfD election victory . In a Frankfurt press conference announcing his first Germany squad, the former Liverpool manager referenced a recent state election win by the anti-immigration Alternative for Germany party. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/jurgen-klopp-germany-reclaim-national-pride-wrong-people-afd",
-      "published": "Thu, 17 Sep 2026 10:42:03 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3845,20 +3845,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Unbeaten Arapaho Gold タックルミルリーフテスト",
-      "summary": "チェスター、ニューベリー、土曜日は、土曜日は忙しい一日のレースをしています。ニューカッスル, ライブオン Sky Sports Racing...",
-      "title_original": "Unbeaten Arapaho Gold tackles Mill Reef test",
-      "summary_original": "We have a busy day’s racing on Saturday with flat action from Chester, Newbury and Newcastle, live on Sky Sports Racing...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13589034/today-on-sky-sports-racing-chester-newcastle-and-newbury-as-arapaho-gold-goes-in-mill-reef",
-      "published": "Sat, 19 Sep 2026 07:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ピロトンはフィッシャーのアップセットを誓います: 「私は彼の心が壊れている知っています」",
       "summary": "Michael Pirotton 澱粉の警告があります Johnny Fisher9 月26 日の戦いの先。",
       "title_original": "Pirotton pledges Fisher upset: 'I know his mind is broke'",
@@ -3869,6 +3855,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Unbeaten Arapaho Gold タックルミルリーフテスト",
+      "summary": "チェスター、ニューベリー、土曜日は、土曜日は忙しい一日のレースをしています。ニューカッスル, ライブオン Sky Sports Racing...",
+      "title_original": "Unbeaten Arapaho Gold tackles Mill Reef test",
+      "summary_original": "We have a busy day’s racing on Saturday with flat action from Chester, Newbury and Newcastle, live on Sky Sports Racing...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13589034/today-on-sky-sports-racing-chester-newcastle-and-newbury-as-arapaho-gold-goes-in-mill-reef",
+      "published": "Sat, 19 Sep 2026 07:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
