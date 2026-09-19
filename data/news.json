@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-19T11:35:51.900777+00:00",
+  "updated_at": "2026-09-19T11:49:04.197775+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Substitute Isidor": "",
-    "Substitute Wilson Isidor": "",
     "Bernabéu Como": "",
     "Werder Bremen Real Madrid": "",
     "Gary O'Neil": "ガリー・オニール",
@@ -3001,23 +2999,11 @@
     "Unai Emery": "ウナイ・エメリ",
     "Alejandro Garnacho’s": "",
     "Johan Manzambi": "ヨハン・マンザンビ",
-    "Birmingham LIVE": ""
+    "Birmingham LIVE": "",
+    "Birmingham City LIVE": "",
+    "Will Spurs": ""
   },
   "items": [
-    {
-      "title": "リヴァプール見る 5150万ポンド 定格のドミトリー -土曜日の移籍ゴシップ",
-      "summary": "オランダミッドフィルダーKees Smit 見ているリヴァプール, トッテナムブラジルのディフェンダーのためのレースをリード Arthur Dias そして、モナコ獲得を問い合わせフォラリン・バログン1 月は休業とさせていただきます。",
-      "title_original": "Liverpool watch £51.5m-rated Smit - Saturday's gossip",
-      "summary_original": "Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in January.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwd083944eeko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 20:35:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
     {
       "title": "チェルシー獲得を問い合わせジョアン・ペドロ目標の決定を止めない",
       "summary": "チェルシーの の問題は守られたが、ジョアン・ペドロ怪我を通し、ゴールのスコアも問題となっている。",
@@ -3054,6 +3040,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 22:00:19 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプール見る 5150万ポンド 定格のドミトリー -土曜日の移籍ゴシップ",
+      "summary": "オランダミッドフィルダーKees Smit 見ているリヴァプール, トッテナムブラジルのディフェンダーのためのレースをリード Arthur Dias そして、モナコ獲得を問い合わせフォラリン・バログン1 月は休業とさせていただきます。",
+      "title_original": "Liverpool watch £51.5m-rated Smit - Saturday's gossip",
+      "summary_original": "Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in January.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd083944eeko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 20:35:52 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ニューカッスル対比ハル・シティチームニュース LIVE!",
+      "summary": "",
+      "title_original": "Newcastle vs Hull City team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/newcastle-united-vs-hull-city/live/559491",
+      "published": "Sat, 19 Sep 2026 12:45:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "スカイでライブ: ボルフ対 West Brom",
       "summary": "",
       "title_original": "Live on Sky: Wolves vs West Brom",
@@ -3859,9 +3873,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL: ジェームズアウトチェルシー変更2 対 Birmingham LIVE!",
+      "title": "WSL:チェルシー対比バーミンガム・シティ FC ライブ!",
       "summary": "",
-      "title_original": "WSL: James out as Chelsea change two vs Birmingham LIVE!",
+      "title_original": "WSL: Chelsea vs Birmingham City LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-women-vs-birmingham-city-women/live/575772",
@@ -3985,9 +3999,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナム季節対の最初の目標を検索 Villa LIVE!",
+      "title": "ウィルトッテナム再びスコア? Savio はダブルチャンスを逃します。対 Villa LIVE!",
       "summary": "",
-      "title_original": "Spurs searching for first goal of season vs Villa LIVE!",
+      "title_original": "Will Spurs ever score again? Savio misses double chance vs Villa LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/live/559493",
@@ -4083,9 +4097,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ミルウォール対ウェストハムライブ!",
+      "title": "テイラーはミルウォールを初期リードオーバーウェストハムライブ!",
       "summary": "",
-      "title_original": "Millwall vs West Ham LIVE!",
+      "title_original": "Taylor gives Millwall early lead over West Ham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/millwall-vs-west-ham-united/live/560587",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brentford-vs-chelsea/live/559485",
       "published": "Tue, 18 Aug 2026 17:55:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブレントフォードスコア 3 優勢の勝利チェルシーこれからも無縁の始まりを続けよう",
-      "summary": "ハイライトからプレミアリーグ間のマッチブレントフォードそして、チェルシー.",
-      "title_original": "Brentford score three in dominant win over Chelsea to continue unbeaten start",
-      "summary_original": "Highlights from the Premier League match between Brentford and Chelsea.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589514/brentford-3-0-chelsea-premier-league-highlights",
-      "published": "Fri, 18 Sep 2026 22:12:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
