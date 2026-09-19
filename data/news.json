@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-09-19T17:34:52.082750+00:00",
+  "updated_at": "2026-09-19T17:49:39.423051+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Scottish Championship": "",
-    "Bluesky Some": "",
-    "Rotherham United": "",
-    "Jayce Fitzgerald": "",
-    "Mikael Baza": "",
-    "Jaden Heskey": "",
     "Sheffield Wednesday": "シェフィールド・ウェンズデイFC",
     "Germany's Wamser": "",
     "Carlotta Wamser": "",
@@ -3001,7 +2995,13 @@
     "Mohammed Fuseini's": "",
     "Lewis Hall's": "",
     "Filippo Celli's": "",
-    "Virginia Water": ""
+    "Virginia Water": "",
+    "Lowly Posh": "",
+    "Peterborough United": "ピーターバラ・ユナイテッドFC",
+    "Luke Williams": "",
+    "Manchester United Muslim": "",
+    "Jim Ratcliffe": "",
+    "Manchester United’s Muslim": ""
   },
   "items": [
     {
@@ -3061,20 +3061,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Manzambi catches、as Villa beat Spurs - player ratings を獲得候補に",
-      "summary": "トッテナム初めて探しているプレミアリーグ季節の目標。",
-      "title_original": "Manzambi catches eye as Villa beat Spurs - player ratings",
-      "summary_original": "Tottenham are still looking for their first Premier League goal of the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 13:32:46 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Castellanos spitting 主張 Overshadows ウェストハムキャラクターのショー",
       "summary": "ミルウォールのキーパーFilip Marshcall 彼がスパットだったアレグウェストハム獲得 Taty Castellanos2-2 の描画中。",
       "title_original": "Castellanos spitting claim overshadows West Ham's show of character",
@@ -3086,6 +3072,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Manzambi catches、as Villa beat Spurs - player ratings を獲得候補に",
+      "summary": "トッテナム初めて探しているプレミアリーグ季節の目標。",
+      "title_original": "Manzambi catches eye as Villa beat Spurs - player ratings",
+      "summary_original": "Tottenham are still looking for their first Premier League goal of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 13:32:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3103,6 +3103,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Lowly Posh マネージングマネージャー ウィリアムズ",
+      "summary": "ピーターバラ・ユナイテッド FC サックマネージャーLuke WilliamsDoncaster が自宅で土曜日の敗北が下から2 番目に残っている League One.",
+      "title_original": "Lowly Posh sack manager Williams",
+      "summary_original": "Peterborough United sack manager Luke Williams after Saturday's defeat at home by Doncaster leaves them second from bottom in League One.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crz6z7ypq6x8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 17:40:06 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「学ぶための大きなレッスンです」 -アルテタに 'painful'ブライトンバックナンバー",
       "summary": "アーセナルマネージャーミケル・アルテタコメントアーセナルガンナーが3〜3 歳を失った後に競争するために必要な基準から「これまでのところ」だったブライトン- 最初の敗北プレミアリーグこちらの季節です。",
       "title_original": "'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat",
@@ -3110,6 +3124,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c6kgxl5x12y9o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 19 Sep 2026 16:50:50 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マラードがデビューした時のスコアチェルシービートバーミンガム",
+      "summary": "Melvine Malard 彼女の WSL デビューのスコアチェルシーブルースは、快適な勝者として、バーミンガム・シティ FC 獲得を問い合わせ Stamford Bridge.",
+      "title_original": "Malard scores on debut as Chelsea beat Birmingham",
+      "summary_original": "Melvine Malard scores on her WSL debut for Chelsea as the Blues run out as comfortable winners against Birmingham City at Stamford Bridge.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx980qzv905do?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 17:37:13 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3159,6 +3187,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "なぜ?Black Country ダービーは、Wolves と West Brom",
+      "summary": "ウルフとウェスト・ブロムウィッチ・アルビオン FC 初めての出会い Black Country2021 年5 月よりリーグで初めての方へ",
+      "title_original": "Why the Black Country derby means so much to Wolves and West Brom",
+      "summary_original": "Wolves and West Bromwich Albion meet for the first time in a Black Country derby for the first time in the league since May 2021.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64gd454lykno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 10:43:41 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "エメリーが「ファンタスティック」の勝利の後にジャクソン&スズキを賞賛トッテナム",
       "summary": "アストン・ヴィラマネージャーウナイ・エメリ自分の側のレジリエンスを認める 3-2 に対する勝利トッテナム獲得を問い合わせプレミアリーグ、ストライカーの性能を強調するニコラス・ジャクソンゴールキーパー鈴木彩艶.",
       "title_original": "Emery praises Jackson & Suzuki after 'fantastic' win at Spurs",
@@ -3166,20 +3208,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmwyzg4ep1wlo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 19 Sep 2026 14:17:07 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "チェルシー獲得を問い合わせジョアン・ペドロ目標の決定を止めない",
-      "summary": "チェルシーの の問題は守られたが、ジョアン・ペドロ怪我を通し、ゴールのスコアも問題となっている。",
-      "title_original": "Chelsea miss Joao Pedro... and can't stop conceding goals",
-      "summary_original": "Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 22:39:24 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3271,31 +3299,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「すべてが失望していた」 - Alonso 上のブレントフォードバックナンバー",
-      "summary": "「すべてが失望していた」 - Alonso 上のブレントフォードバックナンバー",
-      "title_original": "'Everything was disappointing' - Alonso on Brentford defeat",
-      "summary_original": "'Everything was disappointing' - Alonso on Brentford defeat",
+      "title": "チェルシー獲得を問い合わせジョアン・ペドロ目標の決定を止めない",
+      "summary": "チェルシーの の問題は守られたが、ジョアン・ペドロ怪我を通し、ゴールのスコアも問題となっている。",
+      "title_original": "Chelsea miss Joao Pedro... and can't stop conceding goals",
+      "summary_original": "Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/programmes/p0pbdlmn?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 21:35:44 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "なぜ?Black Country ダービーは、Wolves と West Brom",
-      "summary": "ウルフとウェスト・ブロムウィッチ・アルビオン FC 初めての出会い Black Country2021 年5 月よりリーグで初めての方へ",
-      "title_original": "Why the Black Country derby means so much to Wolves and West Brom",
-      "summary_original": "Wolves and West Bromwich Albion meet for the first time in a Black Country derby for the first time in the league since May 2021.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c64gd454lykno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 10:43:41 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 22:39:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3411,20 +3425,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "How Iraola 動くリヴァプールスロット時代から",
-      "summary": "BBC スポーツは、新しいマネージャーがどのように見えるかアンドニ・イラオラ動くリヴァプールからアルネ・スロット去るシーズンに変容する時代。",
-      "title_original": "How Iraola is moving Liverpool on from the Slot era",
-      "summary_original": "BBC Sport looks at how new manager Andoni Iraola is moving Liverpool on from the Arne Slot era after their disappointing form last season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5dg7de6wdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 13:20:50 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ブライトン悪魔のチャンピオンアーセナル様式の記念日に印を付けることへの 3-0",
       "summary": "新しいインビニシブルのために、そう多く。アーセナル震動表示で飛散するバンプで地球へ戻ってきたブライトンとして Fabian Hürzeler’s 活気ある側は、クラブの創立125 周年を迎えました。機会をマークするために着用した特別なエディションシャツは、後にコレクターのアイテムであることが終わるプレミアリーグチャンピオンは別れていました。アーセナル初めての罪のために新しいキャンペーンを開始するために、すべての競争で8 度の成功の勝利を記録しようとしました",
       "title_original": "Brighton demolish champions Arsenal 3-0 to mark anniversary in style",
@@ -3445,7 +3445,7 @@
       "summary_original": "⚽️ WSL updates from the 5.30pm (BST) kick-off ⚽️ Man City scramble to WSL win over Liverpool | Mail Will 2 min Dominique Janssen, the former Arsenal defender, slides in on Olivia Smith and catches her on the ankle with a follow-through. Arsenal use the free-kick to work the ball forward, but their attack fizzles out. With North London Forever still reverberating around the stands, United get things under way at the Emirates. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
-      "published": "Sat, 19 Sep 2026 17:13:51 GMT",
+      "published": "Sat, 19 Sep 2026 17:29:34 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3495,6 +3495,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・ユナイテッドイスラム教のファングループが共同所有者に電話をかける Jim Ratcliffe 獲得を問い合わせ",
+      "summary": "サポーターズクラブは、英国と帝国の「完全に受け入れられない」コメントの後に億万長者を立てるべきだと述べていますマンチェスター・ユナイテッドイスラム教徒サポーターズクラブ(MUMSC)は、プレミアリーグサイドの共同所有者は、BBC 中に「完全に受け入れられない」コメントをした後にステップダウンしましたインテルビュー。ジム・ラトクリフ英国は、それが「世界で最大の帝国」を持っていた日から、国である「スライドで」と述べた。続きを読む...",
+      "title_original": "Manchester United Muslim fans group calls on co-owner Jim Ratcliffe to quit",
+      "summary_original": "Supporters’ club says billionaire should stand down after ‘completely unacceptable’ comments on the UK and empire Manchester United’s Muslim supporters’ Club (MUMSC) has called for the Premier League side’s co-owner to step down after he made “completely unacceptable” comments during a BBC interview. Sir Jim Ratcliffe described the UK as being a country “on the slide” from the days when it had “the greatest empire in the world”. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/business/2026/sep/19/jim-ratcliffe-uk-immigration-tax-manchester-united-ineos",
+      "published": "Sat, 19 Sep 2026 16:17:23 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ヨーロッパのサッカー:フランクフルトのクリップハイフライング・フライブルクの羽",
       "summary": "ブンデスリーガペースセッターは、トップに行くチャンスを逃しますウェストハムルーニー・フルク rug は、フリーブルクを輝かせ続けると、フレイブルクのトップに戻るチャンスを逃しましたブンデスリーガ2-2 で描くアイントラハト・フランクフルト . バイエルン・ミュンヘン’s ruthless 7-0 勝つ上1.FC ウニオン・ベルリン金曜日に、フライブルクのバワリアンをテーブルの上に置きます, しかし、フライブルクは、彼らが2 番目に残っているように、このシーズン初めてポイントを落としました. ドイツコーチの新しいメンバー数 Jürgen Klopp’s 両側の44 人隊のシオーネ",
       "title_original": "European football: Frankfurt clip high-flying Freiburg’s wings",
@@ -3530,20 +3544,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/19/andoni-iraola-bournemouth-return-learning-on-job-liverpool",
       "published": "Sat, 19 Sep 2026 07:00:40 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Heat は Carrick ですが、Wilcox は BGM を共有しなければなりませんマンチェスター・ユナイテッドの woes's は、",
-      "summary": "募集は、他のポジションが無視された間、1億5500万ポンド が3 ミッドフィルダーに費やされた後、失礼下にあります ブームと同情のミックスがあったマンチェスター・ユナイテッド slumped から EFL カップ水曜日は、国内カップ大会で最新の抑圧行為。ソレムンマイケル・キャリックそして、彼の選手は、嫉妬の対象でした。サッカーのディレクター、Jason Wilcox, 取締役の箱から彼の方法に未使用を見ましたが、彼と階層は彼らの責任を受け入れる必要があります",
-      "title_original": "Heat is on Carrick but Wilcox must share blame for Manchester United’s woes",
-      "summary_original": "Recruitment is under scrutiny after £155m was spent on three midfielders while other positions were neglected There was a mix of boos and apathy as Manchester United slumped out of the Carabao Cup on Wednesday in their latest depressing act in domestic cup competitions. A solemn Michael Carrick and his players were the target for the jeers. The director of football, Jason Wilcox, looked unamused on his way out of the directors’ box but he and the hierarchy need to accept responsibility for their",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/michael-carrick-jason-wilcox-blame-manchester-united-woes",
-      "published": "Sat, 19 Sep 2026 07:00:41 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3803,6 +3803,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Heat は Carrick ですが、Wilcox は BGM を共有しなければなりませんマンチェスター・ユナイテッドの woes's は、",
+      "summary": "募集は、他のポジションが無視された間、1億5500万ポンド が3 ミッドフィルダーに費やされた後、失礼下にあります ブームと同情のミックスがあったマンチェスター・ユナイテッド slumped から EFL カップ水曜日は、国内カップ大会で最新の抑圧行為。ソレムンマイケル・キャリックそして、彼の選手は、嫉妬の対象でした。サッカーのディレクター、Jason Wilcox, 取締役の箱から彼の方法に未使用を見ましたが、彼と階層は彼らの責任を受け入れる必要があります",
+      "title_original": "Heat is on Carrick but Wilcox must share blame for Manchester United’s woes",
+      "summary_original": "Recruitment is under scrutiny after £155m was spent on three midfielders while other positions were neglected There was a mix of boos and apathy as Manchester United slumped out of the Carabao Cup on Wednesday in their latest depressing act in domestic cup competitions. A solemn Michael Carrick and his players were the target for the jeers. The director of football, Jason Wilcox, looked unamused on his way out of the directors’ box but he and the hierarchy need to accept responsibility for their",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/michael-carrick-jason-wilcox-blame-manchester-united-woes",
+      "published": "Sat, 19 Sep 2026 07:00:41 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "なぜ?トッテナムミスフィリングです... そして、それはちょうど目標の欠如にダウンではありません",
       "summary": "トッテナム攻撃領域に入りますが、そのまま開口部を作るか、取るのに失敗していますロベルト・デ・ゼルビ落ち着きのある側面を鍛造しようトッテナム初めての4 人のリーグゲームでスコアを獲得できませんでした。彼らは4 連続で最後のドリューブランク以来2 年が経過しましたプレミアリーグマッチ。こういったのは、あくまでも時間がかかります。トッテナム改善する。最後のシーズンから今週まで、週から週まで、プレイヤーの売上高は問題です。leas でプレーした4 人の男性だけ",
       "title_original": "Why Tottenham are misfiring … and it’s not just down to the lack of goals",
@@ -3828,20 +3842,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "カルロス・エスピプレゼントレアル・マドリード顔の希望バルセロナ獲得を問い合わせラ・リーガストーム |Sid Lowe",
-      "summary": "とバルセロナ7 ゴールのスリラーをラックアップレアル・マドリード崩壊する余裕がない。静かに回る先に入って下さいジョゼ・モウリーニョ究極の秘密兵器ジョゼ・モウリーニョ呼ばれ、カルロス・エスピ横に来た。最近は騒々しかったし、それはほとんど終わっていた - 試合と多分それ以上のもの - いつレアル・マドリード’ s のコーチは、火曜日の夜に 1 つの側面にもフラットメイトの先を連れて行きました。. 閉じる,モウリーニョ紙の部分もあった。小さい,",
-      "title_original": "Carlos Espí gives Real Madrid hope in the face of Barcelona’s La Liga storm | Sid Lowe",
-      "summary_original": "With Barcelona racking up seven-goal thrillers, Real Madrid could not afford a collapse. Enter the forward quietly turning into José Mourinho’s ultimate secret weapon José Mourinho called and Carlos Espí came to his side. It was late, it was noisy and it was almost over – the match and maybe even something more – when Real Madrid’s coach took the forward who is also his flatmate to one side on Tuesday night. Standing close, Mourinho had a message to deliver; he also had a piece of paper. Small, ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/carlos-espi-real-madrid-barcelona-mourinho-la-liga",
-      "published": "Thu, 17 Sep 2026 13:27:45 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
