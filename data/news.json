@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-19T14:06:17.146646+00:00",
+  "updated_at": "2026-09-19T14:23:50.614437+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Italy’s Serie": "",
-    "Britain's Samuel": "",
-    "Britain's Toby Samuel": "",
-    "Ipswich. Bruno Fernandes’s": "",
-    "LPGA Tour": "全米女子プロゴルフ協会",
-    "PGA Tour": "",
-    "Every PGA Tour": "",
     "Signature Events": "",
     "Ellen White": "エレン・ホワイト",
     "Shay Given": "シェイ・ギヴン",
@@ -3001,9 +2994,30 @@
     "Southampton LIVE": "",
     "Sheff Utd": "シェフィールド・ユナイテッドFC",
     "Battling Stoke": "",
-    "Mohamadou Kante": ""
+    "Mohamadou Kante": "",
+    "Isobel Goodwin": "",
+    "Nicolas Jackson": "ニコラス・ジャクソン",
+    "De Zerbi’s": "",
+    "Millwall. The Lions": "",
+    "Caleb Taylor": "",
+    "Camiel Neghli": "",
+    "Konstantinos Mavropanos. Continue": ""
   },
   "items": [
+    {
+      "title": "Manzambi catches、as Villa beat Spurs - player ratings を獲得候補に",
+      "summary": "トッテナム初めて探しているプレミアリーグ季節の目標。",
+      "title_original": "Manzambi catches eye as Villa beat Spurs - player ratings",
+      "summary_original": "Tottenham are still looking for their first Premier League goal of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 13:32:46 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "チェルシー獲得を問い合わせジョアン・ペドロ目標の決定を止めない",
       "summary": "チェルシーの の問題は守られたが、ジョアン・ペドロ怪我を通し、ゴールのスコアも問題となっている。",
@@ -3019,13 +3033,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Manzambi catches、as Villa beat Spurs - player ratings を獲得候補に",
-      "summary": "トッテナム初めて探しているプレミアリーグ季節の目標。",
-      "title_original": "Manzambi catches eye as Villa beat Spurs - player ratings",
-      "summary_original": "Tottenham are still looking for their first Premier League goal of the season.",
+      "title": "アーセナル右の状況でドーマンローンにオープン",
+      "summary": "アーセナル開放 へ 許可 十代の prodigyMax Dowman クラブを離れるレンタル移籍でこの用語は、それが彼の開発を支援している場合.",
+      "title_original": "Arsenal open to Dowman loan in right circumstances",
+      "summary_original": "Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan this term if it aids his development.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 13:32:46 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 21:30:38 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3068,20 +3082,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwd083944eeko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 20:35:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アーセナル右の状況でドーマンローンにオープン",
-      "summary": "アーセナル開放 へ 許可 十代の prodigyMax Dowman クラブを離れるレンタル移籍でこの用語は、それが彼の開発を支援している場合.",
-      "title_original": "Arsenal open to Dowman loan in right circumstances",
-      "summary_original": "Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan this term if it aids his development.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 21:30:38 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3159,10 +3159,24 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "グッドウィンダブル獲得 London Citystruggling Charlton で勝つ",
-      "summary": "ロンドン・シティ・ライオネス彼らのシーズンの最初の勝利を獲得, 道上の勝利なしで4 ゲームストールを終了, 彼らは密閉に彼らの WSL ゲームのすべての3 を失った闘争チャートンの側面を打つので、.",
-      "title_original": "Goodwin double earns London City win at struggling Charlton",
-      "summary_original": "London City Lionesses earn their first away win of the season, ending a four-game streak without a victory on the road, as they emphatically beat a struggling Charlton side that have lost all three of their WSL games.",
+      "title": "Sutton の予測 v 伝説的なギタリストジョニー・マー",
+      "summary": "BBC スポーツサッカーの専門家クリス・サットン伝説的なギタリストとマンチェスター・シティファンジョニー・マーこの週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
+      "title_original": "Sutton's predictions v legendary guitarist Johnny Marr",
+      "summary_original": "BBC Sport football expert Chris Sutton takes on legendary guitarist and Man City fan Johnny Marr, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62j06np0gpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 15:10:03 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "グッドウィンダブルヘルプ London Citystruggling Charlton で勝つ",
+      "summary": "ロンドン・シティ・ライオネス季節の初勝利を獲得し、Isobel Goodwin2 回、彼らは密閉して、すべての 3 つの WSL のゲームを失った今持っている struggling Charlton 側を打ち負かすので、.",
+      "title_original": "Goodwin double helps London City win at struggling Charlton",
+      "summary_original": "London City Lionesses earn their first away win of the season, with Isobel Goodwin scoring twice, as they emphatically beat a struggling Charlton side who have now lost all three of their WSL games.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cxnvl60le139o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 19 Sep 2026 13:52:53 GMT",
@@ -3170,6 +3184,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "エメリーが「ファンタスティック」の勝利の後にジャクソン&スズキを賞賛トッテナム",
+      "summary": "アストン・ヴィラマネージャーウナイ・エメリ自分の側のレジリエンスを認める 3-2 に対する勝利トッテナム獲得を問い合わせプレミアリーグ、ストライカーの性能を強調するニコラス・ジャクソンゴールキーパー鈴木彩艶.",
+      "title_original": "Emery praises Jackson & Suzuki after 'fantastic' win at Spurs",
+      "summary_original": "Aston Villa manager Unai Emery admires his side's resilience in their 3-2 away victory against Tottenham Hotspur in the Premier League, highlighting the performances of striker Nicolas Jackson and goalkeeper Zion Suzuki.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmwyzg4ep1wlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 14:17:07 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3212,34 +3240,6 @@
       "type": "bundesliga",
       "label": "ブンデス",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・シティ遅いビートを打つリヴァプール完全な開始を維持し、",
-      "summary": "マンチェスター・シティスリル満点の WSL の遭遇の頂点に立ち向かうリヴァプール獲得を問い合わせ2 ゴールゲームの最後のステージで 4-2 勝つ、これまでの3 リーグフィクスチャーで3 勝目の勝利をシールします。",
-      "title_original": "Man City strike late to beat Liverpool and maintain perfect start",
-      "summary_original": "Man City come out on top of a thrilling WSL encounter against Liverpool, requiring two goals in the closing stages of the game to seal a 4-2 win, their third victory in three league fixtures so far this season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvlyl0dg98zpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 22:06:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Sutton の予測 v 伝説的なギタリストジョニー・マー",
-      "summary": "BBC スポーツサッカーの専門家クリス・サットン伝説的なギタリストとマンチェスター・シティファンジョニー・マーこの週末の予測で BBC の読者と AI とともにプレミアリーグ備品。",
-      "title_original": "Sutton's predictions v legendary guitarist Johnny Marr",
-      "summary_original": "BBC Sport football expert Chris Sutton takes on legendary guitarist and Man City fan Johnny Marr, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62j06np0gpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 15:10:03 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3296,6 +3296,34 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Uefa は、アイルランドとイスラエルを別々に保つために要求を拒否しました - FAI",
+      "summary": "The Football Association アイルランドは、それが維持する要求を持っていたと言うリパブリックアイルランドとイスラエルは、将来の競争が Uefa によって拒否されたドロースを分離しています。",
+      "title_original": "Uefa rejected request to keep Republic of Ireland and Israel separate - FAI",
+      "summary_original": "The Football Association of Ireland says it had a request to keep the Republic of Ireland and Israel separate in future competition draws rejected by Uefa.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm750e2ek0n5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 16:40:11 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・シティ遅いビートを打つリヴァプール完全な開始を維持し、",
+      "summary": "マンチェスター・シティスリル満点の WSL の遭遇の頂点に立ち向かうリヴァプール獲得を問い合わせ2 ゴールゲームの最後のステージで 4-2 勝つ、これまでの3 リーグフィクスチャーで3 勝目の勝利をシールします。",
+      "title_original": "Man City strike late to beat Liverpool and maintain perfect start",
+      "summary_original": "Man City come out on top of a thrilling WSL encounter against Liverpool, requiring two goals in the closing stages of the game to seal a 4-2 win, their third victory in three league fixtures so far this season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvlyl0dg98zpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 22:06:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3383,34 +3411,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「ルールを変更することはできません」 - NI/ROI の適格性に関する O'Neill",
-      "summary": "北アイルランドマネージャーMichael O'Neill 獲得を問い合わせ BBC Sport NI's Stephen ワトソンについて推測についてアーセナルヤングスターCeadach O'Neill's インテル来日予定のニ・スクワッドに名前をつけて、国民の未来 Nations League 備品。",
-      "title_original": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
-      "summary_original": "Northern Ireland manager Michael O'Neill speaks to BBC Sport NI's Stephen Watson about speculation regarding Arsenal youngster Ceadach O'Neill's international future as he is named in the NI squad for their upcoming Nations League fixtures.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwm2rjzgxex4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 12:43:49 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Uefa は、アイルランドとイスラエルを別々に保つために要求を拒否しました - FAI",
-      "summary": "The Football Association アイルランドは、それが維持する要求を持っていたと言うリパブリックアイルランドとイスラエルは、将来の競争が Uefa によって拒否されたドロースを分離しています。",
-      "title_original": "Uefa rejected request to keep Republic of Ireland and Israel separate - FAI",
-      "summary_original": "The Football Association of Ireland says it had a request to keep the Republic of Ireland and Israel separate in future competition draws rejected by Uefa.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm750e2ek0n5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 16:40:11 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "How Iraola 動くリヴァプールスロット時代から",
       "summary": "BBC スポーツは、新しいマネージャーがどのように見えるかアンドニ・イラオラ動くリヴァプールからアルネ・スロット去るシーズンに変容する時代。",
       "title_original": "How Iraola is moving Liverpool on from the Slot era",
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽️ Updates from across the grounds for Saturday’s games ⚽️ Live scoreboard | Spurs v Aston Villa – updates | Mail Scott GOAL! Stoke City 1-1 Sheffield United (McGlynn 78). Another leveller in the Championship, thanks to Jack McGlynn at the bet365. GOAL! Millwall 2-2 West Ham United (Mavropanos 80). … and now West Ham are level! They get to take a corner this time. They take it short. Manor Solomon drops a shoulder to make space on the right, crosses long, and Konstantinos Mavropanos plants a hea",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
-      "published": "Sat, 19 Sep 2026 14:02:44 GMT",
+      "published": "Sat, 19 Sep 2026 14:14:20 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3439,17 +3439,31 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナムファンが歩き回るアストン・ヴィラ遅いにもかかわらず勝ちますトッテナムミッション",
-      "summary": "トッテナム彼らのファンベースに痛みを注入する新しい方法を見つけるのに驚くべき能力を持っているし、彼らは再びここでそれをやった、強烈なスタートから屈辱的な敗北にペパーリング。逆に、彼らは得た2 ゴール. 彼らは後半の領事であったが、ベガーは選択できませんでした。アストン・ヴィラ一方、前半に資本調達後無事にリードをとりながらトッテナム仮に10 人の男性にいた。後半ウナイ・エメリ’ の男性は、防衛と臨床で堅牢で、共同で",
-      "title_original": "Tottenham fans walk out and boo as Aston Villa win despite late Spurs goals",
-      "summary_original": "Spurs have a remarkable ability to find new ways of inflicting pain on their fanbase and they did it again here, petering out from a strong start into humiliating defeat. On the upside, they did get two goals. They were both late consolations, but beggars can’t be choosers. Aston Villa, meanwhile, were ruthless after capitalising in first half added time to take the lead while Spurs were temporarily down to 10 men. In the second half Unai Emery’s men were robust in defence and clinical on the co",
+      "title": "アストン・ヴィラ遅いにもかかわらず、勝利をつかむトッテナム目標として De Zerbi’s 側は起動オフ",
+      "summary": "トッテナムファンベースに痛みを注入する新しい方法を見つけるのに驚くべき能力を持っていて、彼らは土曜日に再びそれをやった、強烈なスタートから加湿的な敗北にペパーリングしました。逆に、彼らは得た2 ゴール. 彼らは後半の領事であったが、ベガーは選択できませんでした。アストン・ヴィラ一方、リードを取るために最初の半期に追加時間で資本調達後 ruthless だったトッテナム仮に10 人の男性にいた。後半、彼らは、supr とカウンターで防衛と臨床で堅牢でした",
+      "title_original": "Aston Villa grab victory despite late Spurs goals as De Zerbi’s side are booed off",
+      "summary_original": "Spurs have a remarkable ability to find new ways of inflicting pain on their fanbase and they did it again on Saturday, petering out from a strong start into humiliating defeat. On the upside, they did get two goals. They were both late consolations, but beggars can’t be choosers. Aston Villa were ruthless after capitalising in first-half added time to take the lead while Spurs were temporarily down to 10 men. In the second half, they were robust in defence and clinical on the counter, with supr",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/19/tottenham-aston-villa-premier-league-match-report",
       "published": "Sat, 19 Sep 2026 13:57:04 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ガンテとマヴロパノスは、遅れのポイントを救助ウェストハム Millwall のダービースリラー",
+      "summary": "ウェストハムから来た2 ゴールダウン へ snatch a 2-2 引 から 加熱 ロンドン derby 時 Millwall. The Lions ゴールからゴールまで、ハーフタイムでリード Caleb Taylor そして、Camiel Neghli しかし、訪問者は立ち向かう Mohamadou Kantéそして、Konstantinos Mavropanos. Continue 読書...",
+      "title_original": "Kanté and Mavropanos rescue late point for West Ham in derby thriller at Millwall",
+      "summary_original": "West Ham came from two goals down to snatch a 2-2 draw from a heated London derby at Millwall. The Lions were leading at half-time through goals from Caleb Taylor and Camiel Neghli but the visitors hit back through Mohamadou Kanté and Konstantinos Mavropanos. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/millwall-west-ham-championship-match-report",
+      "published": "Sat, 19 Sep 2026 14:06:37 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3520,20 +3534,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "オックスフォード・ユナイテッド FC9/11 年頃の「United 93」の衣料品を発売",
-      "summary": "‘Campus Collection’ 創業から2 時間後にウェブサイトから引き抜かれた1893 クラブの創業範囲をマークすることを目指しましたオックスフォード・ユナイテッド FC9 月11 日の悲劇を意図的に参照した後、アメリカのスタイルのスポーツウェアの新しい範囲を放棄しました。The League One クラブが新登場 Campus Collection 金曜日の朝は、ランチタイムで販売し、衣類のデザインがスローガン「ユナイテッド93」に耐えるために明らかにされた後に削除されました。The U’s すぐに、アンダースタの欠如に認めた謝罪を公表",
-      "title_original": "Oxford United apologise for launching ‘United 93’ clothing range around 9/11 anniversary",
-      "summary_original": "‘Campus Collection’ aimed to mark 1893 club founding Range pulled from website two hours after launch Oxford United have abandoned a new range of American style-sportswear after it inadvertently referenced the tragedy of September 11. The League One club launched their new “Campus Collection” on Friday morning but had removed it from sale by lunchtime, after clothing designs were revealed to bear the slogan “United 93”. The U’s immediately published an apology that admitted to a lack of understa",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/oxford-united-apology-united-93-clothing-range-9-11-anniversary",
-      "published": "Fri, 18 Sep 2026 14:18:48 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3649,6 +3649,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "オックスフォード・ユナイテッド FC9/11 年頃の「United 93」の衣料品を発売",
+      "summary": "‘Campus Collection’ 創業から2 時間後にウェブサイトから引き抜かれた1893 クラブの創業範囲をマークすることを目指しましたオックスフォード・ユナイテッド FC9 月11 日の悲劇を意図的に参照した後、アメリカのスタイルのスポーツウェアの新しい範囲を放棄しました。The League One クラブが新登場 Campus Collection 金曜日の朝は、ランチタイムで販売し、衣類のデザインがスローガン「ユナイテッド93」に耐えるために明らかにされた後に削除されました。The U’s すぐに、アンダースタの欠如に認めた謝罪を公表",
+      "title_original": "Oxford United apologise for launching ‘United 93’ clothing range around 9/11 anniversary",
+      "summary_original": "‘Campus Collection’ aimed to mark 1893 club founding Range pulled from website two hours after launch Oxford United have abandoned a new range of American style-sportswear after it inadvertently referenced the tragedy of September 11. The League One club launched their new “Campus Collection” on Friday morning but had removed it from sale by lunchtime, after clothing designs were revealed to bear the slogan “United 93”. The U’s immediately published an apology that admitted to a lack of understa",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/oxford-united-apology-united-93-clothing-range-9-11-anniversary",
+      "published": "Fri, 18 Sep 2026 14:18:48 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "キリアン・エムバペ20 年後にナイキを残して、ブーツの移籍をスイスのブランドに獲得します",
       "summary": "フランスのキャプテンも会社の株主になる「私たちは共有夢を持っており、これが始まりです」キリアン・エムバペナイキと20 年を結び、スイスのチャレンジャー会社とブーツ契約を締結 On. The ランニングとテニスに重点を置いたスポーツとレジャーブランドは、来年サッカーに大きな動きを計画し、また任命されています Thierry Henry サッカーディレクターとして。続きを読む...",
       "title_original": "Kylian Mbappé leaves Nike after 20 years to sign boot deal with Swiss brand On",
@@ -3702,20 +3716,6 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Floyd Samba’s デビューダブルリフトマンチェスター・シティ獲得を問い合わせ EFL カップノーリッチで勝つ",
-      "summary": "Floyd Samba 毎半の絶え間なくゴールした後、17 歳のグラインディングを持つデビューでこのタイを照らすマンチェスター・シティ直面する高度ブライトン最後の 16 彼らの防衛の EFL カップ. 難波は、年々の兄、ティロネ、アカデミーでもあります。彼らの父親、Christopher は、元ブラックバーンと QPR 擁護者です。続きを読む...",
-      "title_original": "Floyd Samba’s debut double lifts Manchester City to Carabao Cup win over Norwich",
-      "summary_original": "Floyd Samba lit up this tie with a debut that will have the 17-year-old grinning for a while after a superb goal in each half ensured Manchester City advanced to face Brighton in the last 16 in their defence of the Carabao Cup. Samba has an older brother by a year, Tyrone, who is also in the academy. Their father, Christopher, is a former Blackburn and QPR defender. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/manchester-city-norwich-carabao-cup-third-round-match-report",
-      "published": "Thu, 17 Sep 2026 20:33:33 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,20 +3845,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "カーディフは、シーズンの最初の勝利を記録するためにシャルトンを打つ",
-      "summary": "アイルランドのスターの後に、カーディフのチャンピオンシップ・リターンの最初の勝利を待たせました Jack Moylan スコア2 ゴール彼らの 3-1 チャルトン上の家勝利.",
-      "title_original": "Cardiff beat Charlton to record first win of the season",
-      "summary_original": "Cardiff's long wait for a first win on their Championship return is finally over after Republic of Ireland star Jack Moylan scored a brace in their 3-1 home victory over Charlton.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/cardiff-city-vs-charlton-athletic/report/560585",
-      "published": "Sat, 19 Sep 2026 14:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "迷路ネット 見事な勝者 に カムバック へ シンクシェフィールド・ユナイテッド FC",
       "summary": "Battling Stoke 微妙なコクバックをスタンへシェフィールド・ユナイテッド FC ベット365 スタジアムで2 勝。",
       "title_original": "Stoke net stunning winner in comeback to sink Sheff Utd",
@@ -3873,13 +3859,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イギリスのカナダ WXV Global Series 獲得を問い合わせ World Cup 最終リピート LIVE!",
+      "title": "Red Roses そしてカナダの貿易はで吹きます World Cup 最終リピート LIVE!",
       "summary": "",
-      "title_original": "England face Canada in WXV Global Series in World Cup final repeat LIVE!",
+      "title_original": "Red Roses and Canada trade blows in World Cup final repeat LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13589613/england-vs-canada-live-wxv-global-series-score-updates-analysis-from-sandy-park",
       "published": "Sat, 19 Sep 2026 13:51:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "カーディフは、シーズンの最初の勝利を記録するためにシャルトンを打つ",
+      "summary": "アイルランドのスターの後に、カーディフのチャンピオンシップ・リターンの最初の勝利を待たせました Jack Moylan スコア2 ゴール彼らの 3-1 チャルトン上の家勝利.",
+      "title_original": "Cardiff beat Charlton to record first win of the season",
+      "summary_original": "Cardiff's long wait for a first win on their Championship return is finally over after Republic of Ireland star Jack Moylan scored a brace in their 3-1 home victory over Charlton.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/cardiff-city-vs-charlton-athletic/report/560585",
+      "published": "Sat, 19 Sep 2026 14:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3943,20 +3943,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "エヴァートン対比イプスウィッチライブ!",
-      "summary": "",
-      "title_original": "Everton vs Ipswich LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/everton-vs-ipswich-town/live/559487",
-      "published": "Sat, 19 Sep 2026 13:23:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マンチェスター・ユナイテッド最新: メルソンはカーリックの緊張を疑うキャスト",
       "summary": "",
       "title_original": "Man Utd latest: Merson casts doubt over Carrick's tenure",
@@ -3971,9 +3957,37 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブライトン対比アーセナルライブ!",
+      "title": "バリーは与えますエヴァートン早期リードオーバーイプスウィッチライブ!",
       "summary": "",
-      "title_original": "Brighton vs Arsenal LIVE!",
+      "title_original": "Barry gives Everton early lead over Ipswich LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/everton-vs-ipswich-town/live/559487",
+      "published": "Sat, 19 Sep 2026 13:23:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェルシーそして、London CityWSL の勝利への容易さ",
+      "summary": "チェルシーそして、ロンドン・シティ・ライオネス2 番目と3 番目に登りました Women's Super League バーミンガムとシャールトンを越えるそれぞれの勝利を持つテーブル。",
+      "title_original": "Chelsea and London City ease to WSL victories",
+      "summary_original": "Chelsea and London City Lionesses climbed to second and third in the Women's Super League table with respective victories over Birmingham and Charlton.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-birmingham-city-women/report/575772",
+      "published": "Fri, 18 Sep 2026 17:45:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ブライトン強くなるアーセナルライブ!",
+      "summary": "",
+      "title_original": "Brighton start strongly against Arsenal LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-arsenal/live/559486",
@@ -4013,9 +4027,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナムヴィラクレームの最初の勝利の後の回復ゾーン",
+      "title": "ウィンレストッテナムヴィラの主張の最初の勝利の後の回復地帯",
       "summary": "トッテナムヘッドインテル勝負のない国民の休憩プレミアリーグ自宅で3-2 を失った後アストン・ヴィラ.",
-      "title_original": "Spurs in relegation zone after Villa claim first win",
+      "title_original": "Winless Spurs in relegation zone after Villa claim first victory",
       "summary_original": "Tottenham head into the international break without a win in the Premier League after losing 3-2 at home to Aston Villa.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/report/559493",
@@ -4027,9 +4041,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウィロックニューカッスル前面対面ハルライブは無期限!",
+      "title": "ウィロックとホールプレゼントニューカッスル夢のスタート対ハルライブ!",
       "summary": "",
-      "title_original": "Willock puts Newcastle in front vs Hull in no time LIVE!",
+      "title_original": "Willock and Hall give Newcastle dream start vs Hull LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/newcastle-united-vs-hull-city/live/559491",
@@ -4107,20 +4121,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Unbeaten Arapaho Gold タックルミルリーフテスト",
-      "summary": "チェスター、ニューベリー、土曜日は、土曜日は忙しい一日のレースをしています。ニューカッスル, ライブオン Sky Sports Racing...",
-      "title_original": "Unbeaten Arapaho Gold tackles Mill Reef test",
-      "summary_original": "We have a busy day’s racing on Saturday with flat action from Chester, Newbury and Newcastle, live on Sky Sports Racing...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13589034/today-on-sky-sports-racing-chester-newcastle-and-newbury-as-arapaho-gold-goes-in-mill-reef",
-      "published": "Sat, 19 Sep 2026 07:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
