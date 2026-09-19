@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T11:49:04.197775+00:00",
+  "updated_at": "2026-09-19T12:07:04.279365+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "Bernabéu Como": "",
@@ -3431,7 +3431,7 @@
       "summary_original": "⚽️ Premier League updates from 12.30pm (BST) ⚽️ Today’s fixtures | Send Daniel your thoughts via email This is the 176th meeting between the sides. Spurs have the historical edge having won 79 to Villa’s 62. There have been 32 draws. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
-      "published": "Sat, 19 Sep 2026 11:28:41 GMT",
+      "published": "Sat, 19 Sep 2026 12:00:15 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3845,6 +3845,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・ユナイテッド最新: メルソンはカーリックの緊張を疑うキャスト",
+      "summary": "",
+      "title_original": "Man Utd latest: Merson casts doubt over Carrick's tenure",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Fri, 18 Sep 2026 15:35:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ブライトン対比アーセナルビルドアップ LIVE!",
+      "summary": "",
+      "title_original": "Brighton vs Arsenal build-up LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-arsenal/live/559486",
+      "published": "Sat, 19 Sep 2026 13:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ニューカッスル対比ハル・シティチームニュース LIVE!",
       "summary": "",
       "title_original": "Newcastle vs Hull City team news LIVE!",
@@ -3873,9 +3901,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL:チェルシー対比バーミンガム・シティ FC ライブ!",
+      "title": "WSL:ポッタースマッシュチェルシー初期リード対 Birmingham LIVE!",
       "summary": "",
-      "title_original": "WSL: Chelsea vs Birmingham City LIVE!",
+      "title_original": "WSL: Potter smashes Chelsea into early lead vs Birmingham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-women-vs-birmingham-city-women/live/575772",
@@ -4094,34 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "テイラーはミルウォールを初期リードオーバーウェストハムライブ!",
-      "summary": "",
-      "title_original": "Taylor gives Millwall early lead over West Ham LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/millwall-vs-west-ham-united/live/560587",
-      "published": "Thu, 17 Sep 2026 10:31:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブレントフォード 3-0 チェルシープレイヤーのハイライトとレート",
-      "summary": "",
-      "title_original": "Brentford 3-0 Chelsea highlights and rate the players",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/brentford-vs-chelsea/live/559485",
-      "published": "Tue, 18 Aug 2026 17:55:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
