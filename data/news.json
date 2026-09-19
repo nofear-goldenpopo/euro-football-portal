@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-19T15:49:37.361454+00:00",
+  "updated_at": "2026-09-19T16:06:14.703565+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Baggy Greens": "",
-    "The Ashes": "ジ・アッシズ",
-    "Good Morning Transfers": "",
-    "Sky Sports News": "",
     "Euro Debrief": "",
     "Mexico's Bernal": "",
     "Rebeca Bernal": "",
@@ -3001,7 +2997,11 @@
     "Jair Cunha": "",
     "Coventry LIVE": "",
     "Brilliant Brighton": "",
-    "Newcastle LIVE": ""
+    "Newcastle LIVE": "",
+    "Mail Will Arsenal": "",
+    "Blackstenius. Manchester United": "",
+    "Le Tissier": "",
+    "Miyazawa. Continue": ""
   },
   "items": [
     {
@@ -3019,20 +3019,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Manzambi catches、as Villa beat Spurs - player ratings を獲得候補に",
-      "summary": "トッテナム初めて探しているプレミアリーグ季節の目標。",
-      "title_original": "Manzambi catches eye as Villa beat Spurs - player ratings",
-      "summary_original": "Tottenham are still looking for their first Premier League goal of the season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 13:32:46 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Ratcliffe 'must go' 言うマンチェスター・ユナイテッドムスリムファングループ",
       "summary": "ザ・オブ・ザ・マンチェスター・ユナイテッドムスリム Supporters Club ユナイテッド共同所有者は言うジム・ラトクリフ彼が移民に対して話した後に「必見」し、国は「スライドで」と言いました。",
       "title_original": "Ratcliffe 'must go' says Man Utd Muslim fan group",
@@ -3040,6 +3026,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 19 Sep 2026 14:52:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Manzambi catches、as Villa beat Spurs - player ratings を獲得候補に",
+      "summary": "トッテナム初めて探しているプレミアリーグ季節の目標。",
+      "title_original": "Manzambi catches eye as Villa beat Spurs - player ratings",
+      "summary_original": "Tottenham are still looking for their first Premier League goal of the season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 13:32:46 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3425,13 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブライトン. .アーセナル, ニューカッスル. .ハルもっと見る: Clockwatch - ライブ",
-      "summary": "大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会トッテナム. .アストン・ヴィラ– 更新情報 |Mail Scott GOAL! ストーク・シティ FC 1-1 シェフィールド・ユナイテッド FC(McGlynn 78). チャンピオンシップの別のレベラー, 感謝 Jack McGlynn ベット365 ゴール! ミルウォール 2-2 ウェストハム(Mavropanos 80). ... と今ウェストハムレベルアップ! 今度は角をとりましょう。要する。Manor Solomon 右にスペースを作るために肩をドロップし、長く交差し、Konstantinos Mavropanos ヘアーを植える",
-      "title_original": "Brighton v Arsenal, Newcastle v Hull and more: clockwatch – live",
+      "title": "アーセナル beaten 3-0 バイブライトンとしてニューカッスルそして、エヴァートン勝利をつかむ:時計腕時計 - ライブ",
+      "summary": "大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会 大会トッテナム. .アストン・ヴィラ– 更新情報 |Mail Scott GOAL! ストーク・シティ FC 1-1 シェフィールド・ユナイテッド FC(McGlynn 78). チャンピオンシップの別のレベルラー、おかげで Jack McGlynn ベット365 ゴール! ミルウォール 2-2 ウェストハム(Mavropanos 80). ... そして今ウェストハムレベルアップ! 今度は角をとりましょう。要する。Manor Solomon 右にスペースを作るために肩を落とし、長く交差し、Konstantinos Mavropanos ヘアーを植える",
+      "title_original": "Arsenal beaten 3-0 by Brighton as Newcastle and Everton grab wins: clockwatch – live",
       "summary_original": "⚽️ Updates from across the grounds for Saturday’s games ⚽️ Live scoreboard | Spurs v Aston Villa – updates | Mail Scott GOAL! Stoke City 1-1 Sheffield United (McGlynn 78). Another leveller in the Championship, thanks to Jack McGlynn at the bet365. GOAL! Millwall 2-2 West Ham United (Mavropanos 80). … and now West Ham are level! They get to take a corner this time. They take it short. Manor Solomon drops a shoulder to make space on the right, crosses long, and Konstantinos Mavropanos plants a hea",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
-      "published": "Sat, 19 Sep 2026 15:27:34 GMT",
+      "published": "Sat, 19 Sep 2026 16:01:15 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3439,10 +3439,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アストン・ヴィラ遅いにもかかわらず、勝利をつかむトッテナム目標として De Zerbi’s 側は起動オフ",
-      "summary": "トッテナムファンベースに痛みを注入する新しい方法を見つけるのに驚くべき能力を持っていて、彼らは土曜日に再びそれをやった、強烈なスタートから加湿的な敗北にペパーリングしました。逆に、彼らは得た2 ゴール. 彼らは後半の領事であったが、ベガーは選択できませんでした。アストン・ヴィラ一方、リードを取るために最初の半期に追加時間で資本調達後 ruthless だったトッテナム仮に10 人の男性にいた。後半、彼らは、supr とカウンターで防衛と臨床で堅牢でした",
+      "title": "アストン・ヴィラ遅刻にもかかわらず勝利をつかむトッテナム目標として De Zerbi’s 側は booed オフ",
+      "summary": "トッテナムファンベースに痛みを注入する新しい方法を見つけるのに驚くべき能力を持っているし、彼らは再びここでそれをした、強力なスタートから加湿的な敗北にペタリングし、最悪の開始を今までに確認するプレミアリーグキャンペーン 逆に、彼らは得た2 ゴール. 彼らは後半の陰謀でしたが、ベガーは選択できませんでした。アストン・ヴィラ一方、シーズンの最初の勝利を主張して無事だった。彼らは、リードをしながらリードを取るために最初の半分の追加時間に増資トッテナムテムだった",
       "title_original": "Aston Villa grab victory despite late Spurs goals as De Zerbi’s side are booed off",
-      "summary_original": "Spurs have a remarkable ability to find new ways of inflicting pain on their fanbase and they did it again on Saturday, petering out from a strong start into humiliating defeat. On the upside, they did get two goals. They were both late consolations, but beggars can’t be choosers. Aston Villa were ruthless after capitalising in first-half added time to take the lead while Spurs were temporarily down to 10 men. In the second half, they were robust in defence and clinical on the counter, with supr",
+      "summary_original": "Spurs have a remarkable ability to find new ways of inflicting pain on their fanbase and they did it again here, petering out from a strong start into humiliating defeat to confirm their worst ever start to a Premier League campaign. On the upside, they did get two goals. They were both late consolations, but beggars can’t be choosers. Aston Villa were meanwhile ruthless in claiming their first victory of the season. They capitalised in first-half added time to take the lead while Spurs were tem",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/19/tottenham-aston-villa-premier-league-match-report",
       "published": "Sat, 19 Sep 2026 13:57:04 GMT",
@@ -3450,6 +3450,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アーセナル. .マンチェスター・ユナイテッド: Women’s Super League– ライブ",
+      "summary": "WSL は5.30pm(BST)キックオフからアップデートをスタート!マンチェスター・シティ WSL の勝利にスクランブルリヴァプール| 郵送料アーセナル 先発メンバー: ロドリゲス、フォックス、ウィリアムソン、キャッツリー、バットレ、スタンウェイ、カルデンシー、ルッソ、スミス、バウム、ブラックステニウス。マンチェスター・ユナイテッド 先発メンバー: Tullis-Joyce、サンドベルク、Le Tissier, Lundkvist, メディナ, パーク, テルランド, Awujo, Zigiotti, Janssen,Miyazawa. Continue 読書...",
+      "title_original": "Arsenal v Manchester United: Women’s Super League – live",
+      "summary_original": "⚽️ WSL updates from the 5.30pm (BST) kick-off ⚽️ Man City scramble to WSL win over Liverpool | Mail Will Arsenal starting XI: Rodríguez, Fox, Williamson, Catley, Batlle, Stanway, Caldentey, Russo, Smith, Baum, Blackstenius. Manchester United starting XI: Tullis-Joyce, Sandberg, Le Tissier, Lundkvist, Medina, Park, Terland, Awujo, Zigiotti, Janssen, Miyazawa. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
+      "published": "Sat, 19 Sep 2026 16:00:43 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3516,20 +3530,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/19/michael-carrick-jason-wilcox-blame-manchester-united-woes",
       "published": "Sat, 19 Sep 2026 07:00:41 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・シティ劇的な WSL の勝利へのスクランブルリヴァプール獲得を問い合わせ2 ゴール加えられた時間",
-      "summary": "マンチェスター・シティ新たなスタートを続けよう Women’s Super League 季節が、防衛チャンピオンは90 分必要オウンゴールから Grace Fisk 常に改良を重ねるリヴァプール面白いゲームの後の側 Lauren Hemp スコアは2 回。Fisk は不変に回しました Grace Clinton’s 都市3-2 を上置くために自分のネットに危険な十字架 - とリヴァプール平等者を検索し、プレイヤーをコミットすることで、より深くアディショナルタイム– ヘンプは別の上に追加",
-      "title_original": "Manchester City scramble to dramatic WSL win over Liverpool with two goals in added time",
-      "summary_original": "Manchester City continued their winning start to the new Women’s Super League season but the defending champions needed a 90th-minute own goal from Grace Fisk to help them edge past an ever-improving Liverpool side after an entertaining game in which Lauren Hemp scored twice. Fisk inadvertently turned Grace Clinton’s dangerous cross into her own net to put City 3-2 up and then – with Liverpool searching for an equaliser and committing players forward deep in stoppage time – Hemp added another on",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league",
-      "published": "Fri, 18 Sep 2026 20:10:59 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3887,9 +3887,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Red Roses コンテスト LIVE を吸収するカナダで再び長持ち!",
+      "title": "Red Roses' 勝ち streak 終了 で スリリングな カナダ 描く LIVE!",
       "summary": "",
-      "title_original": "Red Roses pegged back again by Canada in absorbing contest LIVE!",
+      "title_original": "Red Roses' winning streak ended in thrilling Canada draw LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13589613/england-vs-canada-live-wxv-global-series-score-updates-analysis-from-sandy-park",
@@ -4013,9 +4013,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "VAR は、2 番目のバリーゴール対10 プレーヤーをルールアウトイプスウィッチライブ!",
+      "title": "エヴァートン端10 プレーヤーに握って下さいイプスウィッチライブ!",
       "summary": "",
-      "title_original": "VAR rules out second Barry goal vs 10-player Ipswich LIVE!",
+      "title_original": "Everton hold on to edge 10-player Ipswich LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/everton-vs-ipswich-town/live/559487",
@@ -4027,9 +4027,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブリリアントブライトン 3 ゴール対比アーセナルライブ!",
+      "title": "ブリリアントブライトン THREE 過去の sluggish を入れるアーセナルライブ!",
       "summary": "",
-      "title_original": "Brilliant Brighton three goals up against Arsenal LIVE!",
+      "title_original": "Brilliant Brighton put THREE past sluggish Arsenal LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-arsenal/live/559486",
@@ -4111,13 +4111,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL:アーセナル対比マンチェスター・ユナイテッド後に来るチェルシーBirmingham から見る",
+      "title": "WSL:アーセナル対比マンチェスター・ユナイテッドチームニュース LIVE!",
       "summary": "",
-      "title_original": "WSL: Arsenal vs Man Utd to come after Chelsea see off Birmingham",
+      "title_original": "WSL: Arsenal vs Man Utd team news LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-women-vs-birmingham-city-women/live/575772",
-      "published": "Sat, 19 Sep 2026 12:11:00 BST",
+      "url": "https://www.skysports.com/football/arsenal-women-vs-manchester-united-women/live/575770",
+      "published": "Sat, 19 Sep 2026 17:00:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
