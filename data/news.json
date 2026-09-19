@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-19T05:49:35.726803+00:00",
+  "updated_at": "2026-09-19T06:07:12.796649+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Daizen Maeda": "前田大然",
-    "Leif Davis": "",
     "Britain's Norrie": "",
     "Brentford Tottenh": "",
     "Real Madrid’s": "",
@@ -3001,7 +2999,9 @@
     "The Cliffs Walnut Cove": "",
     "Golf Course": "ゴルフ場",
     "Brentford. Yet Chelsea": "",
-    "Winless Villa": ""
+    "Winless Villa": "",
+    "Unbeaten Arapaho Gold": "",
+    "Mill Reef": "ミルリーフ"
   },
   "items": [
     {
@@ -3845,6 +3845,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Unbeaten Arapaho Gold タックルミルリーフテスト",
+      "summary": "チェスター、ニューベリー、土曜日は、土曜日は忙しい一日のレースをしています。ニューカッスル, ライブオン Sky Sports Racing...",
+      "title_original": "Unbeaten Arapaho Gold tackles Mill Reef test",
+      "summary_original": "We have a busy day’s racing on Saturday with flat action from Chester, Newbury and Newcastle, live on Sky Sports Racing...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13589034/today-on-sky-sports-racing-chester-newcastle-and-newbury-as-arapaho-gold-goes-in-mill-reef",
+      "published": "Sat, 19 Sep 2026 07:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ピロトンはフィッシャーのアップセットを誓います: 「私は彼の心が壊れている知っています」",
+      "summary": "Michael Pirotton 澱粉の警告があります Johnny Fisher9 月26 日の戦いの先。",
+      "title_original": "Pirotton pledges Fisher upset: 'I know his mind is broke'",
+      "summary_original": "Michael Pirotton has a stark warning for Johnny Fisher ahead of their fight on September 26.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13589323/johnny-fisher-michael-pirotton-pledges-september-26-copper-box-upset-his-mind-is-broke-too-much-pressure",
+      "published": "Sat, 19 Sep 2026 07:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'Bullied' と 'out of control' は、チェルシー「守備面の問題は、ベアを敷いた",
       "summary": "「感じる必要があります。感じない」と言ったシャビ・アロンソアフターチェルシーの 3-0 の損失ブレントフォード. ツイートチェルシー身近な気持ちで立ち往生しています。",
       "title_original": "'Bullied' and 'out of control' - Chelsea's defensive issues laid bare",
@@ -4094,34 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ガードは、ペントワースで McIlroy が印象的としてクラブハウスリードを取るよう求めています",
-      "summary": "Ryan Gerardleapfrogged の特長アダム・スコット (俳優)そして、Filippo Celli ハーフウェイステージで2 ショットのリードを取る BMW PGA 選手権, としてローリー・マキロイ鉛を離れた4 ショットを終える2 日目に感動しました。",
-      "title_original": "Gerard surges to take clubhouse lead, as McIlroy impresses at Wentworth",
-      "summary_original": "Ryan Gerard leapfrogged Adam Scott and Filippo Celli to take a two-shot lead at the halfway stage of the BMW PGA Championship, as Rory McIlroy impressed on day two to finish four shots off the lead.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13589419/bmw-pga-championship-2026-ryan-gerard-takes-two-shot-lead-at-halfway-stage-as-mcilroy-impresses-to-go-four-shots-back",
-      "published": "Fri, 18 Sep 2026 18:16:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Gabriel edging 近く へマンチェスター・ユナイテッド出口としてバルセロナそして実話は先立ちます",
-      "summary": "バルセロナそして、レアル・マドリード獲得へのトランスファー・トークマンチェスター・ユナイテッドヤングスターJJ Gabriel.",
-      "title_original": "Gabriel edging closer to Man Utd exit as Barca and Real talks advance",
-      "summary_original": "Barcelona and Real Madrid are in transfer talks to sign Manchester United youngster JJ Gabriel.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589387/jj-gabriel-edging-closer-to-manchester-united-exit-amid-barcelona-talks-about-a-potential-move-for-the-forward",
-      "published": "Fri, 18 Sep 2026 17:20:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
