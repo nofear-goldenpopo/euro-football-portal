@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-20T12:53:46.157237+00:00",
+  "updated_at": "2026-09-20T13:05:53.725834+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Julian Alvarez": "フリアン・アルバレス",
-    "Carlos Alcaraz": "",
     "Russia's Roman Safiullin": "",
     "Villa LIVE": "",
     "United States": "アメリカ合衆国",
@@ -3001,7 +2999,9 @@
     "Bournemouth LIVE": "",
     "Palace. We’ll": "",
     "Daniel Farke’s": "",
-    "Celtic LIVE": ""
+    "Celtic LIVE": "",
+    "Dominant Rangers": "",
+    "Crystal Palace LIVE": ""
   },
   "items": [
     {
@@ -3859,9 +3859,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズ先にはチャンスを奪うセルティックライブ!",
+      "title": "ドミナントレンジャーズ勝つために値を取るセルティックライブ!",
       "summary": "",
-      "title_original": "Rangers ahead but spurning chances against Celtic LIVE!",
+      "title_original": "Dominant Rangers take deserved win at Celtic LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/celtic-vs-rangers/live/558374",
@@ -3999,16 +3999,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リーズ Tomiyasu と Canvot は、クリスタル・パレスライブ!",
+      "title": "リーズ対比クリスタル・パレスライブ!",
       "summary": "",
-      "title_original": "Leeds unchanged as Tomiyasu and Canvot come in for Palace LIVE!",
+      "title_original": "Leeds vs Crystal Palace LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/leeds-united-vs-crystal-palace/live/559489",
       "published": "Wed, 12 Aug 2026 07:49:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -4083,9 +4083,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "エンディアイエ中断されたフォーデンをのための取り替えて下さいマンチェスター・シティ対比サンダーランドライブ!",
+      "title": "マンチェスター・シティ対比サンダーランドライブ!",
       "summary": "",
-      "title_original": "Ndiaye replaces suspended Foden for Man City vs Sunderland LIVE!",
+      "title_original": "Man City vs Sunderland LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-city-vs-sunderland/live/559490",
