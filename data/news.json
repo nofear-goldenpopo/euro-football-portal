@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-20T07:24:03.127278+00:00",
+  "updated_at": "2026-09-20T07:36:45.189141+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Constitution Hill": "",
-    "William Hill September Stakes": "",
     "Kempton Park": "",
     "Billy Loughnane": "",
     "Britain's Fearnley": "",
@@ -3001,7 +2999,9 @@
     "Hull City Nottingham Forest": "",
     "Coventry City Continue": "",
     "Scott Parker": "スコット・パーカー",
-    "Chema Andrés": ""
+    "Chema Andrés": "",
+    "Andros Townsend": "アンドロス・タウンゼント",
+    "Pattani. The": ""
   },
   "items": [
     {
@@ -3076,12 +3076,12 @@
     },
     {
       "title": "3 週間の休憩でマネージャーに圧力をかけますか?",
-      "summary": "これまでのところ、このシーズン2 人のコーチは自分の仕事を失いますが、他の人の多くは、新しい、拡張に向かう彼らの肩を上回っていますインテル国民の休憩。",
+      "summary": "これまでのところ、このシーズン3 人のコーチは自分の仕事を失いますが、他の人の多くは、新しい、拡張に向かう彼らの肩の上に見ていきますインテル国民の休憩。",
       "title_original": "Will the three-week break put more pressure on managers?",
-      "summary_original": "So far this season two coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
+      "summary_original": "So far this season three coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 05:19:50 GMT",
+      "published": "Sun, 20 Sep 2026 07:25:56 GMT",
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
@@ -3440,12 +3440,12 @@
     },
     {
       "title": "Iraola はボーンマスに戻り、マンチェスター・ユナイテッドファルハムに向かう - マッチデイライブ",
-      "summary": "日曜日のゲーム前のニュース、ディスカッション、アップデート 今週の週末の備品 | 想いを聞かせてください 最大のプレミアリーグ一日の結果、ブライトン優勝3〜3 勝にクルーズアーセナル獲得を問い合わせファルマー・スタジアム目標から Pascal Gross, Charalampos Kostoulas チェマ・アンドレス 昨日のプレミアリーグ結果発表トッテナム 2-3 アストン・ヴィラ エヴァートン 1-0 イプスウィッチ・タウン ブライトン 3-0 アーセナル ニューカッスル 2-1 ハル・シティ ノッティンガム・フォレスト 0-1 コヴェントリー・シティ FC 続きを読む...",
+      "summary": "日曜日のゲーム前のニュース、ディスカッション、アップデート 今週の週末の備品 | 想いを聞かせてください Former England 獲得アンドロス・タウンゼントモーターを備えられたピッチのローラーで、Prachuap チームメイトとウォームアップしながら、ほぼ実行されました。Thai League1 にマッチ Saturday. The35 歳は深刻な怪我を避け、後で試合で短い外観をした Pattani. The プロフィールトッテナムプレーヤーは、地面のスタッフのメンバーによって運転されるローラーを見ませんでした、",
       "title_original": "Iraola returns to Bournemouth and Manchester United head to Fulham – matchday live",
-      "summary_original": "News, discussion and updates before Sunday’s games This weekend’s fixtures | Mail us your thoughts In the biggest Premier League result of the day, Brighton cruised to a 3-0 win over champions Arsenal at the Amex Stadium thanks to goals from Pascal Gross, Charalampos Kostoulas and Chema Andrés. Yesterday’s Premier League results Tottenham 2-3 Aston Villa Everton 1-0 Ipswich Town Brighton 3-0 Arsenal Newcastle 2-1 Hull City Nottingham Forest 0-1 Coventry City Continue reading...",
+      "summary_original": "News, discussion and updates before Sunday’s games This weekend’s fixtures | Mail us your thoughts Former England forward Andros Townsend was nearly ⁠run over by a motorised pitch roller while warming up ⁠with his ⁠Prachuap ​teammates at half-time during a Thai League 1 match on ⁠Saturday. The 35-year-old avoided serious injury and later made a brief appearance ⁠in the match at Pattani. The former ​Tottenham Hotspur player ‌did not see ‌the roller, driven by a ground ‌staff member, coming toward",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
-      "published": "Sun, 20 Sep 2026 07:20:09 GMT",
+      "published": "Sun, 20 Sep 2026 07:32:06 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3649,6 +3649,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ニューカッスルウィロックとホールエンドとして勝利する方法に戻るハル’s unbeaten スタート",
+      "summary": "ハル常に知っていた、遅かれ早かれ、彼らは失うだろうプレミアリーグゲーム, しかし、誰も、彼らは、その不可逆のトップ層の敗北を遅らせるしようとする彼らの力ですべてを行うことができないと言うことはできません. 手続き後2 ゴール開口部7 分ハル簡単に折り畳むことができますが、それらはそれよりもスターナーの原料で作られています。確かに、彼らはまた、贈り物の固有の豊饒を感じたが、怪我のひずみと非常に若々しいニューカッスル. 続きを読む...",
+      "title_original": "Newcastle back to winning ways as Willock and Hall end Hull’s unbeaten start",
+      "summary_original": "Hull always knew, sooner or later, they would lose a Premier League game, but no one can say they did not do everything in their power to try to delay that inaugural top-tier defeat. After conceding two goals in the opening seven minutes, Hull could easily have folded but they are made of sterner stuff than that. Tellingly, they also sensed the inherent fragility of a gifted, but injury-hit and extremely youthful Newcastle. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/newcastle-hull-premier-league-match-report",
+      "published": "Sat, 19 Sep 2026 16:14:51 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "エヴァートンキャンセルイプスウィッチ獲得を問い合わせ Thierno BarryVAR の論争にもかかわらず目標",
+      "summary": "試行錯誤の後、移籍市場, エヴァートン第5 位、無縁の開始および5 つとの内容はある場合もありますクリーンシート7 つのゲームで s。また、リリーフがあります。Pro Ref 同様にデイヴィッド・モイーズ、ビデオアシスタントレフリーからの別の論争呼び出しは、彼らの進行を阻害しなかったイプスウィッチ. ティエノ・バリーは、キャンペーンの第5 のゴールでクローズ・ファンド・コンテストを決めました. 彼が6 つあったはずだが、オフサイド Brennan Johnson インパクトのある Ip を被ったと判断",
+      "title_original": "Everton hold off Ipswich thanks to Thierno Barry goal despite VAR controversy",
+      "summary_original": "After the trials and tribulations of the transfer window, Everton can be content with fifth place, an unbeaten start and five clean sheets in seven games. There will also be relief, for Pro Ref as well as David Moyes, that another controversial call from a video assistant referee did not impede their progress against Ipswich. Thierno Barry decided a close-fought contest with his fifth goal of the campaign. He should have had a sixth but an offside Brennan Johnson was adjudged to have impacted Ip",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/everton-ipswich-premier-league-match-report",
+      "published": "Sat, 19 Sep 2026 16:26:44 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ガンテとマヴロパノスは、遅いポイントを救助ウェストハム Millwall のダービースリラー",
+      "summary": "歓迎された背部、それから、Dockers Derby 獲得を問い合わせ Bermondsey 半島の美しい柔らかい9 月の午後に、古いメディアの多様で見守られた、予期しない何かニュー・デン・スタジアム. 本当に良いサッカーの試合が勃発しました. 野生か暴力的ではありません。誰もいない恥ずかしい場面(トランス:みんな)は見たいです。スタンドやストリートに少なくとも: 唯一の本当にサワーノートは、視線の疑惑でしたウェストハム’s Taty Castellanos, 今、します。",
+      "title_original": "Kanté and Mavropanos rescue late point for West Ham in derby thriller at Millwall",
+      "summary_original": "Welcome back, then, the Dockers Derby . We really must do this again. On a lovely soft September afternoon on the Bermondsey peninsula, watched by an outrage-ready media multiverse, something unexpected happened at the Den. A really good football match broke out. Not wild or violent. No shameful scenes that nobody (trans: everybody) wants to see. Not in the stands or the streets at least: the only really sour note was an allegation of spitting against West Ham’s Taty Castellanos, which will now ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/millwall-west-ham-championship-match-report",
+      "published": "Sat, 19 Sep 2026 14:06:37 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・ユナイテッドイスラム教のファングループが共同所有者に電話をかける Jim Ratcliffe 獲得を問い合わせ",
       "summary": "サポーターズクラブは、英国と帝国の「完全に受け入れられない」コメントの後に億万長者を立てるべきだと述べていますマンチェスター・ユナイテッドイスラム教徒サポーターズクラブ(MUMSC)は、プレミアリーグサイドの共同所有者は、BBC 中に「完全に受け入れられない」コメントをした後にステップダウンしましたインテルビュー。ジム・ラトクリフ英国は、それが「世界で最大の帝国」を持っていた日から、国である「スライドで」と述べた。続きを読む...",
       "title_original": "Manchester United Muslim fans group calls on co-owner Jim Ratcliffe to quit",
@@ -3674,48 +3716,6 @@
       "type": "bundesliga",
       "label": "ブンデス",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブレントフォードブリッツチェルシーとして Fábio Carvalho 帽子の驚くほどの後半分の表示",
-      "summary": "初旬の想いは、チェルシーチャレンジに最適なチームになるかもしれませんアーセナル非常に過敏性を見始めます。彼らが始めた2 つのカオティックは、常に読みづらいと勝ちます:彼らはより多くの固体構造に拾われた有用なポイントだったか、彼らは重要な問題の証拠を表した可能性があります。勝てない3 試合の後、今シーズン5 試合で12 ゴールを争うと、後者のように見え始めます。決勝戦で",
-      "title_original": "Brentford blitz Chelsea as Fábio Carvalho caps stunning second-half display",
-      "summary_original": "Those early-season thoughts that Chelsea might be the team best-placed to challenge Arsenal are beginning to look extremely over-optimistic. The two chaotic wins with which they began were always difficult to read: they might have been useful points picked up on the way to a more solid structure, or they might have represented evidence of significant problems. After three games without a win, and 12 goals conceded in five games this season, it’s beginning to look like the latter. At the final wh",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/brentford-chelsea-premier-league-match-report",
-      "published": "Fri, 18 Sep 2026 21:12:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "オックスフォード・ユナイテッド FC9/11 年頃の「United 93」の衣料品を発売",
-      "summary": "‘Campus Collection’ 創業から2 時間後にウェブサイトから引き抜かれた1893 クラブの創業範囲をマークすることを目指しましたオックスフォード・ユナイテッド FC9 月11 日の悲劇を意図的に参照した後、アメリカのスタイルのスポーツウェアの新しい範囲を放棄しました。The League One クラブが新登場 Campus Collection 金曜日の朝は、ランチタイムで販売し、衣類のデザインがスローガン「ユナイテッド93」に耐えるために明らかにされた後に削除されました。The U’s すぐに、アンダースタの欠如に認めた謝罪を公表",
-      "title_original": "Oxford United apologise for launching ‘United 93’ clothing range around 9/11 anniversary",
-      "summary_original": "‘Campus Collection’ aimed to mark 1893 club founding Range pulled from website two hours after launch Oxford United have abandoned a new range of American style-sportswear after it inadvertently referenced the tragedy of September 11. The League One club launched their new “Campus Collection” on Friday morning but had removed it from sale by lunchtime, after clothing designs were revealed to bear the slogan “United 93”. The U’s immediately published an apology that admitted to a lack of understa",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/oxford-united-apology-united-93-clothing-range-9-11-anniversary",
-      "published": "Fri, 18 Sep 2026 14:18:48 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "キリアン・エムバペ20 年後にナイキを残して、ブーツの移籍をスイスのブランドに獲得します",
-      "summary": "フランスのキャプテンも会社の株主になる「私たちは共有夢を持っており、これが始まりです」キリアン・エムバペナイキと20 年を結び、スイスのチャレンジャー会社とブーツ契約を締結 On. The ランニングとテニスに重点を置いたスポーツとレジャーブランドは、来年サッカーに大きな動きを計画し、また任命されています Thierry Henry サッカーディレクターとして。続きを読む...",
-      "title_original": "Kylian Mbappé leaves Nike after 20 years to sign boot deal with Swiss brand On",
-      "summary_original": "France captain also becomes a shareholder in company ‘We have a shared dream, and this is only the beginning’ Kylian Mbappé has ended a 20-year association with Nike to sign a boot deal with the Swiss challenger company On. The sports and leisure brand, which has previously focused on running and tennis, is planning a major move into football next year and has also appointed Thierry Henry as its football director. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/kylian-mbappe-leaves-nike-20-years-boot-deal-swiss-brand-on",
-      "published": "Fri, 18 Sep 2026 15:48:52 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
