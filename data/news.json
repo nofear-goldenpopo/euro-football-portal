@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-20T16:24:35.172037+00:00",
+  "updated_at": "2026-09-20T16:37:59.291363+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "September Argentina": "",
-    "September Scotland": "",
     "Alex Scott BBC Sport": "",
     "BBC One": "BBC One",
     "Arsenal's Nwaneri": "",
@@ -3001,17 +2999,19 @@
     "October City": "",
     "Brighton. Continue": "",
     "Consecutive Old Firm": "",
-    "That Rangers": ""
+    "That Rangers": "",
+    "JJ Spaun": "J.J.スポーン",
+    "Week Two": ""
   },
   "items": [
     {
-      "title": "レンジャーズ McInnes の flip 物語はマークを作ります",
-      "summary": "コンサルティングオールドファームダービーウィンズショーDerek McInnes マークを作ろうレンジャーズ集合開始後。",
-      "title_original": "Rangers flip narrative as McInnes makes mark",
-      "summary_original": "Consecutive Old Firm derby wins show Derek McInnes is starting to make his mark at Rangers after a mortifying start.",
+      "title": "レンジャーズどこに行きたいか知っているように見える -セルティックちょうど失われた一見",
+      "summary": "Tom English 最初に反映するオールドファーム季節のリーグゲーム、その中レンジャーズ繰り返す League Cup 勝つセルティック.",
+      "title_original": "Rangers look like they know where they want to go - Celtic just look lost",
+      "summary_original": "Tom English reflects on the first Old Firm league game of the season, in which Rangers repeated their League Cup win over Celtic.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpe94rw3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 15:54:04 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 16:23:48 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3044,6 +3044,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンジャーズ McInnes の flip 物語はマークを作ります",
+      "summary": "コンサルティングオールドファームダービーウィンズショーDerek McInnes マークを作ろうレンジャーズ集合開始後。",
+      "title_original": "Rangers flip narrative as McInnes makes mark",
+      "summary_original": "Consecutive Old Firm derby wins show Derek McInnes is starting to make his mark at Rangers after a mortifying start.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpe94rw3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 15:54:04 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3159,20 +3173,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブライトン謙虚な「大きなレッスン」アーセナル - アルテタ",
-      "summary": "比類のないパフォーマンスアーセナルガンナーズ船を見た3 ゴール敗北にブライトン- しかし、損失は必要な「大きなレッスン」になる可能性がありますか?",
-      "title_original": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
-      "summary_original": "An uncharacteristic performance from Arsenal saw the Gunners ship three goals in the defeat to Brighton - but could the loss be the \"big lesson\" they needed?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlw745q30vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 19:05:18 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "制作で25 年勝ちのコベントリー",
       "summary": "コヴェントリー・シティ FC's 勝つノッティンガム・フォレスト- 感謝ジェイ・ダシルヴァの の目標 - いくつかの暗い日のために次の作って25 年以上の勝利だった Sky Blues.",
       "title_original": "A Coventry win 25 years in the making",
@@ -3239,20 +3239,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "クラークは、ポストマッチでハートルプールボスとして辞退インテルニュース",
-      "summary": "Lee Clark リサインとしてハートリプール・ユナイテッド FC ワージングによる3-1 ホーム敗北に続く7 試合で6 敗後のヘッドコーチ。",
-      "title_original": "Clark resigns as Hartlepool boss in post-match interview",
-      "summary_original": "Lee Clark resigns as Hartlepool United head coach after a sixth loss in seven games following the 3-1 home defeat by Worthing.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6evwk1kee3po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 15:14:10 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3341,6 +3327,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "クラークは、ポストマッチでハートルプールボスとして辞退インテルニュース",
+      "summary": "Lee Clark リサインとしてハートリプール・ユナイテッド FC ワージングによる3-1 ホーム敗北に続く7 試合で6 敗後のヘッドコーチ。",
+      "title_original": "Clark resigns as Hartlepool boss in post-match interview",
+      "summary_original": "Lee Clark resigns as Hartlepool United head coach after a sixth loss in seven games following the 3-1 home defeat by Worthing.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6evwk1kee3po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 15:14:10 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "近傍からヨーロッパへブライトンスタイルで125 周年を迎える",
       "summary": "閉塞から閉塞までプレミアリーグそしてヨーロッパ -ブライトン創業125 周年を迎える",
       "title_original": "From near oblivion to Europe - Brighton celebrate 125th anniversary in style",
@@ -3411,17 +3411,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Lowly Peterborough マネージングマネージャー ウィリアムズ",
-      "summary": "ピーターバラ・ユナイテッド FC サックマネージャーLuke WilliamsDoncaster が自宅で土曜日の敗北が下から2 番目に残っている League One.",
-      "title_original": "Lowly Peterborough sack manager Williams",
-      "summary_original": "Peterborough United sack manager Luke Williams after Saturday's defeat at home by Doncaster leaves them second from bottom in League One.",
+      "title": "How Villa's Jackson 左からトッテナム'battered' - シャーラー",
+      "summary": "デイパンディットのマッチアラン・シアラーパフォーマンスを賞賛アストン・ヴィラ獲得を問い合わせニコラス・ジャクソン言うトッテナム25 歳のストライカーで「中央半分」の「腐敗しない」。",
+      "title_original": "How Villa's Jackson left Spurs 'battered' - Shearer",
+      "summary_original": "Match of the Day pundit Alan Shearer praises the performance of Aston Villa's Nicolas Jackson, saying Tottenham's centre-halves \"couldn't keep up\" with the 25-year-old striker.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crz6z7ypq6x8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 18:17:02 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq1j47731pk3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 23:08:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "Updates from 4.30pm (BST) kickoff at Craven Cottage Get in touch: email Taha about the game Manchester United are rocking their all-blue number. They kick things off. Craven Cottage in the sun: where would you rather be? Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
-      "published": "Sun, 20 Sep 2026 16:16:47 GMT",
+      "published": "Sun, 20 Sep 2026 16:34:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3468,9 +3468,9 @@
     },
     {
       "title": "リーズスタンレーメイト後、シーズン開始まで延長クリスタル・パレス",
-      "summary": "おそらくそれは進歩に精通しているリーズ戻ってきたので作りましたプレミアリーグわずか1 年以上前から、ドローイング後に3 分の1 まで移動できなかったという不満がありました。クリスタル・パレス. 代わりに,Daniel Farke’s 側面は延長された入りますインテル第5 回と非ベアテンの国民の休憩、それはそれ自体の素晴らしい成果です。アパートから Tyrick Mitchell’s ゴールを許さなかったら、ポイントをしっかり守ってくれるような印象を与えてくれなかった。獲得を問い合わせクリスタル・パレス最初でしたクリーンシートプレミーの",
+      "summary": "おそらくそれは進歩に精通しているリーズ戻ってきたので作りましたプレミアリーグわずか1 年以上前から、ドローイング後に3 分の1 まで動かせる失敗に不満があったクリスタル・パレス. 代わりに,Daniel Farke’s 側面は延長された入りますインテル第5 回と非ベアテンの国民の休憩、それはそれ自体の素晴らしい成果です。アパートから Tyrick Mitchell’s ゴールを許さなかったら、ポイントをしっかり守ってくれるような印象を与えてくれなかった。獲得を問い合わせクリスタル・パレス最初でしたクリーンシート海荘の",
       "title_original": "Leeds extend unbeaten start to season after stalemate with Crystal Palace",
-      "summary_original": "Perhaps it is testament to the progress Leeds have made since returning to the Premier League just over a year ago that there was discontent at failing to move up to third after drawing with Crystal Palace. Instead, Daniel Farke’s side enter the prolonged international break in fifth and unbeaten, which is a fine achievement in itself. Apart from Tyrick Mitchell’s disallowed goal, neither side gave much impression they would secure the points. For Palace, it was a first clean sheet of the Premie",
+      "summary_original": "Perhaps it is testament to the progress Leeds have made since returning to the Premier League just over a year ago that there was frustration at failing to move up to third after drawing with Crystal Palace. Instead, Daniel Farke’s side enter the prolonged international break in fifth and unbeaten, which is a fine achievement in itself. Apart from Tyrick Mitchell’s disallowed goal, neither side gave much impression they would secure the points. For Palace, it was a first clean sheet of the seaso",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/20/leeds-crystal-palace-premier-league-match-report",
       "published": "Sun, 20 Sep 2026 15:08:52 GMT",
@@ -3887,6 +3887,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Spaun 勝つ BMW PGA 選手権, 遅いサージにもかかわらず、McIlroy のフルター",
+      "summary": "J.J.スポーン日曜日の午後にパックされたリーダーボードを通した BMW PGA 選手権第二に勝つためにヨーロピアンツアーメジャーチャンピオンシップの外で初めてのイベントやイベント。",
+      "title_original": "Spaun wins BMW PGA Championship, McIlroy falters despite late surge",
+      "summary_original": "JJ Spaun surged through a packed leaderboard on Sunday afternoon at the BMW PGA Championship to win his second DP World Tour event and his first outside of a major championship.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13590008/bmw-pga-championship-2026-jj-spaun-snatches-victory-at-wentworth-as-rory-mcilroy-comes-unstuck-despite-late-surge",
+      "published": "Sun, 20 Sep 2026 09:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ゴルファー7 頭のノリッチのボルトン・プレベール",
       "summary": "ノリッチは2 次連続4-3 に苦しむ EFL チャンピオンシップボルトンがスリル満点の遭遇でトップに出てきたように敗北 Carrow Road.",
       "title_original": "Bolton prevail at Norwich in seven-goal thriller",
@@ -3982,6 +3996,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "NFL ライブスコア: バイキングはジャグ対ブロニコスの前にクマに直面しています",
+      "summary": "世界中から最新のスコアをフォローNFL 獲得を問い合わせ Week Two2026 年のシーズン。",
+      "title_original": "NFL live scores: Vikings face Bears before Jags vs Broncos",
+      "summary_original": "Follow the latest scores from around the NFL in Week Two of the 2026 season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.nbcsports.com/nfl/scores",
+      "published": "Sun, 20 Sep 2026 17:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/boxing/news/12040/13589599/conor-benn-and-moses-itauma-former-champion-george-groves-on-how-they-should-rebuild-after-mental-scarring-of-defeat",
       "published": "Sun, 20 Sep 2026 12:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブラウンは、英国とコモンウェルスのタイトルを獲得した後、ハットトンの敬意を表します",
-      "summary": "Pat Brown 土曜日の夜に家の泥炭の空き家英国とコモンウェルスクルーザー級のタイトルを獲得し、カウントアウト John Hedges 第6 ラウンド Co-op Live ボディショットで彼専用のリッキー・ハットン.",
-      "title_original": "Brown delivers Hatton tribute after winning British and Commonwealth titles",
-      "summary_original": "Pat Brown won the vacant British and Commonwealth cruiserweight titles on home turf on Saturday night, counting out John Hedges in the sixth round at Co-op Live with a body shot he dedicated to Ricky Hatton.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13589987/pat-brown-delivers-ricky-hatton-tribute-after-winning-british-and-commonwealth-titles-as-isaac-cruz-calls-out-ryan-garcia",
-      "published": "Sun, 20 Sep 2026 07:27:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Fleming は、イギリスのテストランキングのトップを期待しています。",
-      "summary": "New England Test ヘッドコーチ Stephen Fleming チームを世界ランクのトップへ戻りたいという思いを語っています。この夏の見出しを支配している側面の懲戒めに「仕事が行われる」ことを追加します。",
-      "title_original": "Fleming wants England back top of Test rankings as 'work to be done' on discipline",
-      "summary_original": "New England Test head coach Stephen Fleming has spoken of his desire to return the team to the top of the world rankings, adding that there is \"work to be done\" on the side's disciplinary issues that have dominated headlines this summer.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13589620/stephen-fleming-englands-new-head-coach-targets-no-1-spot-in-test-rankings-but-says-work-to-be-done-on-discipline",
-      "published": "Sun, 20 Sep 2026 08:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
