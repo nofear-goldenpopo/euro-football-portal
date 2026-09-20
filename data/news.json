@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-20T16:50:16.454338+00:00",
+  "updated_at": "2026-09-20T17:05:45.418400+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "BBC One": "BBC One",
     "Arsenal's Nwaneri": "",
     "Ethan Nwaneri": "イーサン・ヌワネリ",
     "Portugal. England": "",
@@ -3001,7 +3000,8 @@
     "That Rangers": "",
     "JJ Spaun": "J.J.スポーン",
     "Week Two": "",
-    "Darts Finals LIVE": ""
+    "Darts Finals LIVE": "",
+    "HORROR Martinez": ""
   },
   "items": [
     {
@@ -3012,6 +3012,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6z7z2we5lgwo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 20 Sep 2026 16:34:40 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "印象的な防衛は固体開始をで密封しますリヴァプールイラオラ",
+      "summary": "リヴァプール見栄えがよいですがアンドニ・イラオラ Bournemouth でハード・フォールド・ウィンの後、彼の攻撃者からもっと必要です。",
+      "title_original": "Impressive defence seals solid start at Liverpool for Iraola",
+      "summary_original": "Liverpool are looking good defensively but Andoni Iraola needs more from his attackers after a hard-fought win at Bournemouth.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cklyjpgj3nv6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 16:57:34 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3068,20 +3082,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpe94rw3o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 20 Sep 2026 15:54:04 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "タイのピッチローラーで街を走る",
-      "summary": "Former England ウィンガーアンドロス・タウンゼントタイの試合前の奇妙な事件の後に「悪くはない」と叫ぶジョーク。",
-      "title_original": "Townsend run over by pitch roller in Thailand",
-      "summary_original": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in Thailand.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 09:08:43 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3159,17 +3159,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "3 週間の休憩でマネージャーに圧力をかけますか?",
-      "summary": "これまでのところ、このシーズン3 人のコーチは自分の仕事を失いますが、他の人の多くは、新しい、拡張に向かう彼らの肩の上に見ていきますインテル国民の休憩。",
-      "title_original": "Will the three-week break put more pressure on managers?",
-      "summary_original": "So far this season three coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
+      "title": "タイのピッチローラーで街を走る",
+      "summary": "Former England ウィンガーアンドロス・タウンゼントタイの試合前の奇妙な事件の後に「悪くはない」と叫ぶジョーク。",
+      "title_original": "Townsend run over by pitch roller in Thailand",
+      "summary_original": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in Thailand.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 07:25:56 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 09:08:43 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3184,6 +3184,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "3 週間の休憩でマネージャーに圧力をかけますか?",
+      "summary": "これまでのところ、このシーズン3 人のコーチは自分の仕事を失いますが、他の人の多くは、新しい、拡張に向かう彼らの肩の上に見ていきますインテル国民の休憩。",
+      "title_original": "Will the three-week break put more pressure on managers?",
+      "summary_original": "So far this season three coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 07:25:56 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3243,17 +3257,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Castellanos spitting 主張 Overshadows ウェストハムキャラクターのショー",
-      "summary": "ミルウォールのキーパーFilip Marshcall 彼がスパットだったアレグウェストハム獲得 Taty Castellanos2-2 の描画中。",
-      "title_original": "Castellanos spitting claim overshadows West Ham's show of character",
-      "summary_original": "Millwall keeper Filip Marshcall alleges he was spat at by West Ham forward Taty Castellanos during their 2-2 draw.",
+      "title": "Atletico 勝つ feisty Madrid derby から 10 男 リアル",
+      "summary": "アトレティコ・マドリードビートレアル・マドリード強烈なダービーで、自分のライバルの上に2 番目の場所に移動ラ・リーガ.",
+      "title_original": "Atletico win feisty Madrid derby against 10-man Real",
+      "summary_original": "Atletico Madrid beat Real Madrid in a feisty derby to move above their rivals into second place in La Liga.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvqrn8eyzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 16:18:21 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqkgxp97nxzno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 17:00:46 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3313,20 +3327,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ラフィーニャネットハットトリック獲得を問い合わせセビージャ続けるために勝つバルセロナトップトップ",
-      "summary": "ラフィーニャスコア秒ハットトリック成功のゲームとしてバルセロナ乗り越える快適な勝利を主張するセビージャリードをトップに増加させるラ・リーガテーブル。",
-      "title_original": "Raphinha nets hat-trick in Sevilla win to keep Barcelona top",
-      "summary_original": "Raphinha scores a second hat-trick in successive games as Barcelona claim a comfortable victory over Sevilla to increase their lead at the top of the La Liga table.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm0qx995xzl3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 22:04:17 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "アーセナル1 月のエンデリックのために動くかもしれない -日曜日の移籍ゴシップ",
       "summary": "バルセロナ巨大なオファーを開始する可能性がありますハーランド, アーセナル獲得を問い合わせインテル Endrick を struggling で ested, とリヴァプールウィルツを維持するための主張",
       "title_original": "Arsenal may move for Endrick in January - Sunday's gossip",
@@ -3338,6 +3338,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Castellanos spitting 主張 Overshadows ウェストハムキャラクターのショー",
+      "summary": "ミルウォールのキーパーFilip Marshcall 彼がスパットだったアレグウェストハム獲得 Taty Castellanos2-2 の描画中。",
+      "title_original": "Castellanos spitting claim overshadows West Ham's show of character",
+      "summary_original": "Millwall keeper Filip Marshcall alleges he was spat at by West Ham forward Taty Castellanos during their 2-2 draw.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvqrn8eyzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 16:18:21 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3411,27 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Wrexham のブースト&アレクサンダーの理想的な場所 -Aaron McLean's EFL テイクアウト",
-      "summary": "BBC Final Score ログイン Aaron McLeanWrexham、QPR などの EFL の週末の話ポイントを見てみましょう。ブラッドフォード・シティ AFC.",
-      "title_original": "Wrexham's boost & Alexander in ideal place - Aaron McLean's EFL takeaways",
-      "summary_original": "BBC Final Score pundit Aaron McLean looks at the weekend's talking points in the EFL, including Wrexham, QPR and Bradford City.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gdj405n2no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 19:15:35 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "フラハム v マンチェスター・ユナイテッド: プレミアリーグ– ライブ",
       "summary": "4.30pm(BST)キックオフからのアップデートクレイヴン・コテージ連絡を取る: ゲームについてのメール Taha マンチェスター・ユナイテッド全て青の番号をロックしています。彼らは物事をオフにキック.クレイヴン・コテージ太陽の日: どこがいいですか? 続きを読む...",
       "title_original": "Fulham v Manchester United: Premier League – live",
       "summary_original": "Updates from 4.30pm (BST) kickoff at Craven Cottage Get in touch: email Taha about the game Manchester United are rocking their all-blue number. They kick things off. Craven Cottage in the sun: where would you rather be? Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
-      "published": "Sun, 20 Sep 2026 16:34:18 GMT",
+      "published": "Sun, 20 Sep 2026 16:49:05 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3439,10 +3439,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Semenyo は混沌を助けますマンチェスター・シティビートサンダーランド Brobbey の後の5-3 ハットトリック",
-      "summary": "マンチェスター・シティメッセージを送信するアーセナルこのチャオティックな勝利でエンツォ・マレスカ3 週間のリーダーとしてチーム3 ポイントクリアインテル国民の休憩。までプレミアリーグ再開10October City 頂上からの眺めを楽しめるミケル・アルテタ’ s のチャンピオンは土曜日の 3-0 の tunbling に続く操縦しなければなりませんブライトン. 続きを読む...",
-      "title_original": "Semenyo helps chaotic Manchester City beat Sunderland 5-3 after Brobbey hat-trick",
-      "summary_original": "Manchester City sent a message to Arsenal with this chaotic victory that takes Enzo Maresca’s team three points clear as leaders for the three-week international break. Until the Premier League resumes on 10 October City can enjoy their view from the top while Mikel Arteta’s champions have to stew following Saturday’s 3-0 humbling at Brighton. Continue reading...",
+      "title": "Semenyo は混沌を助けますマンチェスター・シティビートサンダーランド Brobbey にもかかわらずハットトリック",
+      "summary": "マンチェスター・シティメッセージを送信するアーセナルこのチャオティックな勝利でエンツォ・マレスカ3 週間のリーダーとしてチーム3 ポイントクリアインテル国民の休憩。までプレミアリーグ再開10October City ステータスを楽しめるミケル・アルテタ’ s のチャンピオンは土曜日の 3-0 の tunbling に続く操縦しなければなりませんブライトン. 続きを読む...",
+      "title_original": "Semenyo helps chaotic Manchester City beat Sunderland despite Brobbey hat-trick",
+      "summary_original": "Manchester City sent a message to Arsenal with this chaotic victory that takes Enzo Maresca’s team three points clear as leaders during the three-week international break. Until the Premier League resumes on 10 October City can enjoy their status while Mikel Arteta’s champions have to stew following Saturday’s 3-0 humbling at Brighton. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/20/manchester-city-sunderland-premier-league-match-report",
       "published": "Sun, 20 Sep 2026 14:59:02 GMT",
@@ -3454,9 +3454,9 @@
     },
     {
       "title": "与えるために発疹リヴァプール Iraola の Bournemouth への戻りに対する勝利",
-      "summary": "最終的な笛で、勝利が確保され、アンドニ・イラオラログイン2 ゴール d は、現在の選手と彼が最後のシーズンのボーンマスで新しい高さに導いたそれらの両方。リヴァプールまだ圧倒的で圧迫力のイラオラは、彼らがなることを願っていますが、彼らはここに3 つのポイントを主張するのに十分なことを望んでいた、アレクサンデル・イサクシンプルな仕上げで独特の性能を発揮します。コーディ・ガクポ再び建築家、オランダ人は今シーズンのアイザックの目標のすべての4 のためのサプライヤーでした。スコアリング前のアイザックの他のショットはバ",
+      "summary": "最終的な笛で、勝利が確保され、アンドニ・イラオラログイン2 ゴール d 彼の現在の選手と彼が最後のシーズンのボーンマスで新しい高さに導いたそれら。リヴァプールまだ圧倒されていない, 窒息力のイラオラは、それらになるために望んでいるが、彼らはここに3 つのポイントを主張するのに十分だった,アレクサンデル・イサクシンプルな仕上げで独特の性能を発揮します。コーディ・ガクポ再び建築家、オランダ人は今シーズンのアイザックの目標のすべての4 のためのサプライヤーでした。スコアリング前のアイザックの他のショットだけだった",
       "title_original": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
-      "summary_original": "At the final whistle, victory secured, Andoni Iraola embraced both his current players and those he guided to new heights at Bournemouth last season. Liverpool are not yet the overwhelming, suffocating force Iraola hopes they become but they did enough to claim three points here, Alexander Isak capping a peculiar performance with a simple finish. Cody Gakpo was again the architect, the Dutchman the supplier for all four of Isak’s goals this season. Isak’s only other shot before scoring was to ba",
+      "summary_original": "At the final whistle, victory secured, Andoni Iraola embraced both his current players and those he guided to new heights at Bournemouth last season. Liverpool are not yet the overwhelming, suffocating force Iraola wants them to become but they did enough to claim three points here, Alexander Isak capping a peculiar performance with a simple finish. Cody Gakpo was again the architect, the Dutchman the supplier for all four of Isak’s goals this season. Isak’s only other shot before scoring was to",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
       "published": "Sun, 20 Sep 2026 15:06:48 GMT",
@@ -3524,9 +3524,9 @@
     },
     {
       "title": "アンドロス・タウンゼントタイの奇妙なピッチローラーインシデント後の怪我を避ける",
-      "summary": "Former England ウォーミングアップしながら、プレイヤーが上を走る “それは、ストークアウトは、それほど悪くなかった” 言い ウィンガー 前イングランドのウィンガーアンドロス・タウンゼントタイの奇妙な事件の後に、彼はピッチローラーによって上回っていた「結局のところ悪い」を離れて冗談しました。ニューストッテナムそして、クリスタル・パレス攻撃者 Townsend 現在再生中 Thai League1 のため PT Prachuap 土夜にクリップが出て35 歳になったソーシャルメディアに現れたときに見出しを作りました",
+      "summary": "Former England ウォーミングアップしながら、プレイヤーが上を走る “それは、ストークアウトはそれほど悪くなかった” とウィンガーザ・元イングランドのウィンガーアンドロス・タウンゼントタイの奇妙な事件の後に、彼はピッチローラーによって上回っていた「結局のところ悪い」を冗談しました。旧正月トッテナムそして、クリスタル・パレス攻撃者は現在で再生します Thai League1 のため PT Prachuap 土曜日の夜に、固定の前に35 歳になったソーシャルメディアでクリップが現れたときに見出しを作りました",
       "title_original": "Andros Townsend avoids injury after bizarre pitch roller incident in Thailand",
-      "summary_original": "Former England player run over while warming up ‘It turns out Stoke away wasn’t so bad,’ says winger The former England winger Andros Townsend has joked Stoke away “wasn’t so bad after all” following a bizarre incident in Thailand where he was run over by a pitch roller. The ex-Tottenham and Crystal Palace attacker Townsend currently plays in Thai League 1 for PT Prachuap and made headlines on Saturday night when a clip emerged on social media which showed the 35-year-old being taken out before ",
+      "summary_original": "Former England player run over while warming up ‘It turns out Stoke away wasn’t so bad,’ says winger The former England winger Andros Townsend has joked Stoke away “wasn’t so bad after all” following a bizarre incident in Thailand where he was run over by a pitch roller. The former Tottenham and Crystal Palace attacker currently plays in Thai League 1 for PT Prachuap and made headlines on Saturday night when a clip emerged on social media which showed the 35-year-old being taken out before a fix",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/20/andros-townsend-avoids-injury-after-bizarre-pitch-roller-incident-in-thailand",
       "published": "Sun, 20 Sep 2026 10:47:07 GMT",
@@ -3887,10 +3887,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Spaun 勝つ BMW PGA 選手権, 遅いサージにもかかわらず、McIlroy のフルター",
-      "summary": "J.J.スポーン日曜日の午後にパックされたリーダーボードを通した BMW PGA 選手権第二に勝つためにヨーロピアンツアーメジャーチャンピオンシップの外で初めてのイベントやイベント。",
+      "title": "Spaun 勝つ BMW PGA 選手権, 遅いサージにもかかわらず、マクイロイのフルター",
+      "summary": "J.J.スポーン日曜日の午後の日曜日の午後に選手のパックリーダーボードを追い抜いた BMW PGA 選手権第二に勝つためにヨーロピアンツアーメジャー・チャンピオンシップの外で初開催。",
       "title_original": "Spaun wins BMW PGA Championship, McIlroy falters despite late surge",
-      "summary_original": "JJ Spaun surged through a packed leaderboard on Sunday afternoon at the BMW PGA Championship to win his second DP World Tour event and his first outside of a major championship.",
+      "summary_original": "JJ Spaun outlasted a packed leaderboard of players on Sunday afternoon at the BMW PGA Championship to win his second DP World Tour event and his first outside of a major championship.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13590008/bmw-pga-championship-2026-jj-spaun-snatches-victory-at-wentworth-as-rory-mcilroy-comes-unstuck-despite-late-surge",
       "published": "Sun, 20 Sep 2026 09:15:00 BST",
@@ -3943,9 +3943,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド2 回は、最初の半分に開いて木工を打つ Fulham LIVE!",
+      "title": "マンチェスター・ユナイテッド後にフルハムでトレイル HORROR Martinez オウンゴールライブ!",
       "summary": "",
-      "title_original": "Man Utd twice hit woodwork in open first half at Fulham LIVE!",
+      "title_original": "Man Utd trail at Fulham after HORROR Martinez own goal LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/fulham-vs-manchester-united/live/559488",
