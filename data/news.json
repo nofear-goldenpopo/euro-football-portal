@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-20T17:23:17.109121+00:00",
+  "updated_at": "2026-09-20T17:36:36.159405+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Ethan Nwaneri": "イーサン・ヌワネリ",
     "Portugal. England": "",
     "Potential Fernandez": "",
     "Supermarket Sweep-style": "",
@@ -3001,7 +3000,8 @@
     "Week Two": "",
     "Darts Finals LIVE": "",
     "HORROR Martinez": "",
-    "HORROR Martinez OG LIVE": ""
+    "HORROR Martinez OG LIVE": "",
+    "PGA Tour's Biltmore Championship": ""
   },
   "items": [
     {
@@ -3033,20 +3033,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズどこに行きたいか知っているように見える -セルティックちょうど失われた一見",
-      "summary": "Tom English 最初に反映するオールドファーム季節のリーグゲーム、その中レンジャーズ繰り返す League Cup 勝つセルティック.",
-      "title_original": "Rangers look like they know where they want to go - Celtic just look lost",
-      "summary_original": "Tom English reflects on the first Old Firm league game of the season, in which Rangers repeated their League Cup win over Celtic.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 16:23:48 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ラップする時間があるかもしれません」 - O'Neill ponders セルティック敗北後の未来",
       "summary": "マーティン・オニール彼が使用することを言うインテル後の位置に反映する国民の休憩セルティックビッグゲームで3 回連続敗北する。",
       "title_original": "'It might be time to wrap it up' - O'Neill ponders Celtic future after defeat",
@@ -3058,6 +3044,20 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンジャーズどこに行きたいか知っているように見える -セルティックちょうど失われた一見",
+      "summary": "Tom English 最初に反映するオールドファーム季節のリーグゲーム、その中レンジャーズ繰り返す League Cup 勝つセルティック.",
+      "title_original": "Rangers look like they know where they want to go - Celtic just look lost",
+      "summary_original": "Tom English reflects on the first Old Firm league game of the season, in which Rangers repeated their League Cup win over Celtic.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 16:23:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3943,6 +3943,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "カララ:私が Wirtz から見た最悪の1 つ - 彼は対を再生することはできませんマンチェスター・シティ",
+      "summary": "Jamie Carragher コメントフロリアン・ヴィルツ最悪のパフォーマンスを発揮し、リヴァプール Bournemouth でシャツを脱いで - 彼はミッドフィルダーを望んでいませんアンドニ・イラオラの チームに直面してマンチェスター・シティ次のゲームで。",
+      "title_original": "Carra: One of worst I've seen from Wirtz - he can't play vs Man City",
+      "summary_original": "Jamie Carragher says Florian Wirtz put in his worst performance yet in a Liverpool shirt away at Bournemouth - and he would not want the midfielder in Andoni Iraola's team to face Manchester City in the next game.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590105/liverpools-florian-wirtz-put-in-one-of-his-worst-performances-at-bournemouth-and-shouldnt-play-against-man-city-says-jamie-carragher",
+      "published": "Sun, 20 Sep 2026 18:13:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・ユナイテッド後にフルハムでレベル遅れ HORROR Martinez OG LIVE!",
       "summary": "",
       "title_original": "Man Utd level late on at Fulham after HORROR Martinez OG LIVE!",
@@ -4083,6 +4097,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "最も最近のゴルフ リーダーボード:PGA Tour's Biltmore Championship 詳しくはこちら",
+      "summary": "世界中から最新のゴルフスコアと結果、PGA Tour's Biltmore Championship 獲得を問い合わせ",
+      "title_original": "Latest golf leaderboards: PGA Tour's Biltmore Championship and more",
+      "summary_original": "Latest golf scores and results from around the world, including the PGA Tour's Biltmore Championship and more.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+      "published": "Sun, 20 Sep 2026 18:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "セルティック「大きなトラブルで」と言った後に「リセット」オールドファームキャンセル",
       "summary": "The Sky Sports パンディットは、彼らの分析に苦しんでいたマーティン・オニール獲得を問い合わせセルティック彼らが失われた後にレンジャーズ8 日連続で2 回目となる。",
       "title_original": "Celtic 'in big trouble' and told 'reset' needed after Old Firm loss",
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590096/celtic-0-1-rangers-neil-lennon-calls-for-hoops-reset-but-martin-oneill-insists-latest-old-firm-defeat-no-disaster",
       "published": "Sun, 20 Sep 2026 15:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "最も最近のゴルフ リーダーボード:BMW PGA 選手権詳しくはこちら",
-      "summary": "DP ワールドツアーズを含む世界中から最新のゴルフスコアと結果 BMW PGA 選手権 Wentworth など",
-      "title_original": "Latest golf leaderboards: BMW PGA Championship and more",
-      "summary_original": "Latest golf scores and results from around the world, including the DP World Tour's BMW PGA Championship at Wentworth and more.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
-      "published": "Sun, 20 Sep 2026 09:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "敗北の「メンタルスカーリング」の後のベンとイタマを再構築する方法",
-      "summary": "イギリスのボクシングで2 つの大きな名前、未来の星に耳を傾け、Moses Itauma そして、Conor Benn, 最近の数週間で粉砕敗北に苦しんでいる.",
-      "title_original": "How to rebuild Benn & Itauma after 'mental scarring' of defeat",
-      "summary_original": "Two big names in British boxing, earmarked as stars of the future, Moses Itauma and Conor Benn, have suffered shattering defeats in recent weeks.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13589599/conor-benn-and-moses-itauma-former-champion-george-groves-on-how-they-should-rebuild-after-mental-scarring-of-defeat",
-      "published": "Sun, 20 Sep 2026 12:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
