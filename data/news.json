@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-20T14:05:56.151018+00:00",
+  "updated_at": "2026-09-20T14:23:23.661682+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Trey Nyoni": "",
-    "Chelsea's Sanchez": "",
-    "Tosin Adarabioyo": "",
-    "Declan Rice’s": "",
-    "The Arsenal": "アーセナル",
-    "Ian Maatsen": "",
-    "David Raya": "",
     "Bukayo Saka's": "",
     "Messi's Argentina": "",
     "Deadline Day Papers": "",
@@ -3001,7 +2994,14 @@
     "Man City's": "",
     "DP World Tour": "ヨーロピアンツアー",
     "Guy Kinnings": "",
-    "Davis Cup Finals": ""
+    "Davis Cup Finals": "",
+    "Craven Cottage Get": "",
+    "Christmas. It’s": "",
+    "Craven Cottage": "クレイヴン・コテージ",
+    "Alvaro Arbeloa": "",
+    "Ryan Naderi’s": "",
+    "Fulham LIVE": "",
+    "Leeds LIVE": ""
   },
   "items": [
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "Updates from 2pm (BST) kickoff at the Vitality Stadium Get in touch: contact Daniel via email I don’t imagine Rose spent too long sweating over his team. Kluivert is a miss, and of course Junior Kroupi is long-term injured, but otherwise, his team is pretty settled. Adam Scott, who we might’ve thought would leave in the summer, stayed, and has started the season in excellent form. His ball-carrying is exceptional and he offers height in both boxes; if he can develop his passing, especially shirt",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
-      "published": "Sun, 20 Sep 2026 13:48:43 GMT",
+      "published": "Sun, 20 Sep 2026 14:20:03 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3439,13 +3439,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "セルティック 0-1 レンジャーズ: スコティッシュ・プレミアシップ- それが起こったように",
-      "summary": "レンジャーズギャップを閉じるスコティッシュ・プレミアシップ印象的な1-0 の勝利を持つテーブル Parkhead Derek McInnesBBC に話しました: 「私は知っているセルティック変更の負荷をしました。先週に多くの人が作られ、公園の真ん中で戦いを勝ち取ったんですが、今日はピッチの真ん中を埋めました。我々はまだ試して競争していることを確認する必要があります, その中間地面は勝つために私たちにとって重要です。」 O'Neill を交換しました Sam Johnstone 獲得を問い合わせ Viljami Sinisalo 獲得を問い合わせセルティックの は",
-      "title_original": "Celtic 0-1 Rangers: Scottish Premiership – as it happened",
-      "summary_original": "Rangers closed the gap at the top of the Scottish Premiership table with an impressive 1-0 win at Parkhead Derek McInnes spoke to the BBC: “I know Celtic have made a load of changes. A lot was made of last week, us having won the battle through the middle of the park, they’ve filled the middle of the pitch today. We just need to make sure that we still try and compete in there, that middle ground is important for us to win.” O’Neill has replaced Sam Johnstone with Viljami Sinisalo in Celtic’s go",
+      "title": "フラハム v マンチェスター・ユナイテッド: プレミアリーグ– ライブ",
+      "summary": "4.30pm(BST)キックオフからのアップデートクレイヴン・コテージ連絡を取る: 電子メール タハ ゲームについて我々 は 4 リーグ ゲームで、私はスパムメールのメールを取得する方法マイケル・キャリック5/2 は前に袋を付けるためにです Christmas. It’s すべてのビットは愚かだが、彼の位置がいかに激しいかを思い出させる、ゲームは今、彼はそれを持っていないインテル im タグ。それでは、どのように訪問するかクレイヴン・コテージサウンド? 一方、Fulham はリーグの一番下にあり、Alvaro Arbeloa 熱も感じます。その他、h をスリップアップ",
+      "title_original": "Fulham v Manchester United: Premier League – live",
+      "summary_original": "Updates from 4.30pm (BST) kickoff at Craven Cottage Get in touch: email Taha about the game We’re four league games in and I’m getting spammy emails about how Michael Carrick is 5/2 to get sacked before Christmas. It’s all a bit silly but a reminder of how intense his position is, the game changing now he doesn’t have that interim tag. So how does a visit to Craven Cottage sound? On the one hand, Fulham are bottom of the league, with Alvaro Arbeloa feeling some heat, too. On the other, slip up h",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/20/celtic-v-rangers-scottish-premiership-live",
-      "published": "Sun, 20 Sep 2026 13:17:26 GMT",
+      "url": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
+      "published": "Sun, 20 Sep 2026 14:05:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンジャーズそして、Ryan Naderi 終わり オフセルティック’s horror 週とオールドファーム優勝",
+      "summary": "サイレンスでスタジアムを揺れると、その瞬間でした。今シーズンのグラスゴーのダービーで許可されていないファンで、Ryan Naderi’s 勝った目標は、何と会ったが、明確なプラスチックの拳の強打レンジャーズベンチと放送評論者の叫び. アパシーとアトロフィーの叫び声、ビーコンの音、3 つのストレートセルティック敗北と優勝争い吹くことは開きます。今後3 週間で、クラブフットボールがイントに溶けるので",
+      "title_original": "Rangers and Ryan Naderi finish off Celtic’s horror week with Old Firm victory",
+      "summary_original": "If ever a stadium can be rocked by silence, this was the moment. With no visiting fans allowed at any of this season’s Glasgow derbies, Ryan Naderi’s winning goal was met with nothing but the banging of fists of the clear plastic of the Rangers bench and the shouting of the broadcast commentators. A screaming void of apathy and atrophy, the sound of a beckoning abyss, of three straight Celtic defeats and a title race blowing open. In the coming three weeks, as club football dissolves for the int",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/celtic-rangers-scottish-premiership-match-report",
+      "published": "Sun, 20 Sep 2026 14:11:59 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3481,20 +3495,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「毎日同じことを逃します」:Olivia Cusack 彼女の遅いサッカー選手の妹マディ",
-      "summary": "3 年後、家族は彼女の「レガシーの生活」を確実にするために決定されますシェフィールド・ユナイテッド FC プレイヤーの死 Olivia Cusack 彼女の妹、遅刻 Maddy Cusack, 一日一回、彼女は彼女の「レガシーの命」を元イングランドの若者の3 年後に保証するために決定されますインテル国民のミッドフィルダーの死。オリビア、マディの家族や友人と、徒歩29 マイル Bramall Lane, シェフィールド・ユナイテッド FC’s home, ホーズリーの家族の家へ, ダービーの近く, 土曜日に rai",
-      "title_original": "‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy",
-      "summary_original": "Family is determined to ensure her ‘legacy lives on’ three years after the Sheffield United player’s death Olivia Cusack says her sister, the late Maddy Cusack, is on her mind every single day and she is determined to ensure her “legacy lives on” three years after the former England youth international midfielder’s death. Olivia, together with family and friends of Maddy, walked 29 miles from Bramall Lane, Sheffield United’s home, to their family’s home in Horsley, near Derby, on Saturday to rai",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/olivia-cusack-maddy-cusack-late-footballer-legacy-sheffield-united",
-      "published": "Sun, 20 Sep 2026 07:00:10 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "アンドロス・タウンゼントタイの奇妙なピッチローラーインシデント後の怪我を避ける",
       "summary": "Former England ウォーミングアップしながら、プレイヤーが上を走る “それは、ストークアウトは、それほど悪くなかった” 言い ウィンガー 前イングランドのウィンガーアンドロス・タウンゼントタイの奇妙な事件の後に、彼はピッチローラーによって上回っていた「結局のところ悪い」を離れて冗談しました。ニューストッテナムそして、クリスタル・パレス攻撃者 Townsend 現在再生中 Thai League1 のため PT Prachuap 土夜にクリップが出て35 歳になったソーシャルメディアに現れたときに見出しを作りました",
       "title_original": "Andros Townsend avoids injury after bizarre pitch roller incident in Thailand",
@@ -3523,20 +3523,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヨーロッパのサッカー:ローゼニアは、ストラスブールのファン「家族を侮辱」",
-      "summary": "英語でのマネージャーが対応しています。Paris FC’sMartínez の救助に勝つインテル; サラヒットハットトリック Paris FC 不当なスタートを延長リーグ・アンキャンペーン、ビート Liam Rosenior’s 古い料金 ストラスブール2-1 は、訪問するファンから英語マンに向かってアビブスチャントによって交わります。このゲームは、ロゼニアが彼の元サポーターズが対象としていたので、後半にハレーションされました。また、最後の笛の後にバラニオが去るファンと再モンストレーションし、引きなければならないというシーンが醜い",
-      "title_original": "European football: Rosenior taunts Strasbourg fans who ‘insulted family’",
-      "summary_original": "English manager responds after Paris FC’s win Martínez rescues Inter; Salah hits hat-trick Paris FC extended their unbeaten start to the Ligue 1 campaign, beating Liam Rosenior’s old charges Strasbourg 2-1 in a match marred by abusive chants towards the Englishman from visiting fans. The game was halted in the second half as Rosenior was targeted by his former supporters. There were also ugly scenes after the final whistle as Rosenior motioned to remonstrate with the away fans and had to be pull",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
-      "published": "Sat, 19 Sep 2026 21:12:00 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Holmberg 救助ポイントアーセナルしかし、マンチェスター・ユナイテッド WSL のマークをオフ",
       "summary": "アーセナルわずか95 分程度で安心 Smilla Holmberg ボルリーは、多くの改善に家でポイントを救助しましたマンチェスター・ユナイテッド一方、リーダーの背後まで懸念を根絶させるのは欠点ではありません。マンチェスター・シティ Renée Slegers のチームはすでに滑り、低ブロックを破壊するのに苦労する頻度です。免責事項マンチェスター・ユナイテッドノース・ロランダーズは、Eva Olid’s 側は、すべてのものを損なうパフォーマンスで彼女の緊張の最初のポイントを主張しました",
       "title_original": "Holmberg rescues point for Arsenal but Manchester United off the mark in WSL",
@@ -3547,6 +3533,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「毎日同じことを逃します」:Olivia Cusack 彼女の遅いサッカー選手の妹マディ",
+      "summary": "3 年後、家族は彼女の「レガシーの生活」を確実にするために決定されますシェフィールド・ユナイテッド FC プレイヤーの死 Olivia Cusack 彼女の妹、遅刻 Maddy Cusack, 一日一回、彼女は彼女の「レガシーの命」を元イングランドの若者の3 年後に保証するために決定されますインテル国民のミッドフィルダーの死。オリビア、マディの家族や友人と、徒歩29 マイル Bramall Lane, シェフィールド・ユナイテッド FC’s home, ホーズリーの家族の家へ, ダービーの近く, 土曜日に rai",
+      "title_original": "‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy",
+      "summary_original": "Family is determined to ensure her ‘legacy lives on’ three years after the Sheffield United player’s death Olivia Cusack says her sister, the late Maddy Cusack, is on her mind every single day and she is determined to ensure her “legacy lives on” three years after the former England youth international midfielder’s death. Olivia, together with family and friends of Maddy, walked 29 miles from Bramall Lane, Sheffield United’s home, to their family’s home in Horsley, near Derby, on Saturday to rai",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/olivia-cusack-maddy-cusack-late-footballer-legacy-sheffield-united",
+      "published": "Sun, 20 Sep 2026 07:00:10 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3663,6 +3663,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ヨーロッパのサッカー:ローゼニアは、ストラスブールのファン「家族を侮辱」",
+      "summary": "英語でのマネージャーが対応しています。Paris FC’sMartínez の救助に勝つインテル; サラヒットハットトリック Paris FC 不当なスタートを延長リーグ・アンキャンペーン、ビート Liam Rosenior’s 古い料金 ストラスブール2-1 は、訪問するファンから英語マンに向かってアビブスチャントによって交わります。このゲームは、ロゼニアが彼の元サポーターズが対象としていたので、後半にハレーションされました。また、最後の笛の後にバラニオが去るファンと再モンストレーションし、引きなければならないというシーンが醜い",
+      "title_original": "European football: Rosenior taunts Strasbourg fans who ‘insulted family’",
+      "summary_original": "English manager responds after Paris FC’s win Martínez rescues Inter; Salah hits hat-trick Paris FC extended their unbeaten start to the Ligue 1 campaign, beating Liam Rosenior’s old charges Strasbourg 2-1 in a match marred by abusive chants towards the Englishman from visiting fans. The game was halted in the second half as Rosenior was targeted by his former supporters. There were also ugly scenes after the final whistle as Rosenior motioned to remonstrate with the away fans and had to be pull",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
+      "published": "Sat, 19 Sep 2026 21:12:00 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ニューカッスルウィロックとホールエンドとして勝利する方法に戻るハル’s unbeaten スタート",
       "summary": "ハル常に知っていた、遅かれ早かれ、彼らは失うだろうプレミアリーグゲーム, しかし、誰も、彼らは、その不可逆のトップ層の敗北を遅らせるしようとする彼らの力ですべてを行うことができないと言うことはできません. 手続き後2 ゴール開口部7 分ハル簡単に折り畳むことができますが、それらはそれよりもスターナーの原料で作られています。確かに、彼らはまた、贈り物の固有の豊饒を感じたが、怪我のひずみと非常に若々しいニューカッスル. 続きを読む...",
       "title_original": "Newcastle back to winning ways as Willock and Hall end Hull’s unbeaten start",
@@ -3702,20 +3716,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ガンテとマヴロパノスは、遅いポイントを救助ウェストハム Millwall のダービースリラー",
-      "summary": "歓迎された背部、それから、Dockers Derby 獲得を問い合わせ Bermondsey 半島の美しい柔らかい9 月の午後に、古いメディアの多様で見守られた、予期しない何かニュー・デン・スタジアム. 本当に良いサッカーの試合が勃発しました. 野生か暴力的ではありません。誰もいない恥ずかしい場面(トランス:みんな)は見たいです。スタンドやストリートに少なくとも: 唯一の本当にサワーノートは、視線の疑惑でしたウェストハム’s Taty Castellanos, 今、します。",
-      "title_original": "Kanté and Mavropanos rescue late point for West Ham in derby thriller at Millwall",
-      "summary_original": "Welcome back, then, the Dockers Derby . We really must do this again. On a lovely soft September afternoon on the Bermondsey peninsula, watched by an outrage-ready media multiverse, something unexpected happened at the Den. A really good football match broke out. Not wild or violent. No shameful scenes that nobody (trans: everybody) wants to see. Not in the stands or the streets at least: the only really sour note was an allegation of spitting against West Ham’s Taty Castellanos, which will now ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/millwall-west-ham-championship-match-report",
-      "published": "Sat, 19 Sep 2026 14:06:37 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,10 +3845,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヨーロピアンツアープレーヤーの安全上の懸念にもかかわらず、UAE で Playoffs を維持する計画",
-      "summary": "ヨーロピアンツアー執行役員 Guy Kinnings プランがシーズン終了のプレイオフを維持することが確認されている中東, 地域における継続的な競合にもかかわらず.",
-      "title_original": "DP World Tour plans to keep Playoffs in UAE despite player safety concerns",
-      "summary_original": "DP World Tour chief executive Guy Kinnings has confirmed that the plan is to keep the season-ending Playoffs in the Middle East, despite ongoing conflict in the region.",
+      "title": "ヨーロピアンツアープレーヤーの安全上の懸念にもかかわらず、UAE でプレイオフを維持する計画",
+      "summary": "ヨーロピアンツアー執行役員 Guy Kinnings 季節限定のプレイオフを保ちつつ計画が確認されています中東, 地域における継続的な競合にもかかわらず.",
+      "title_original": "DP World Tour plans to keep Play-Offs in UAE despite player safety concerns",
+      "summary_original": "DP World Tour chief executive Guy Kinnings has confirmed that the plan is to keep the season-ending Play-Offs in the Middle East, despite ongoing conflict in the region.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13590011/dp-world-tour-chief-executive-guy-kinnings-confirms-plan-to-stage-playoffs-in-middle-east-despite-player-safety-concerns",
       "published": "Sun, 20 Sep 2026 14:20:00 BST",
@@ -3859,9 +3859,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フラハム対マンチェスター・ユナイテッドチームニュース LIVE!",
+      "title": "Sesko 行方不明マンチェスター・ユナイテッド獲得を問い合わせ Fulham LIVE!",
       "summary": "",
-      "title_original": "Fulham vs Man Utd team news LIVE!",
+      "title_original": "Sesko missing for Man Utd at Fulham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/fulham-vs-manchester-united/live/559488",
@@ -4027,9 +4027,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプール Lethargic の見方 Bournemouth LIVE スカイに!",
+      "title": "McIlroy は、Wentworth スリラー LIVE で フォックス チャシング と Rai の近くです!",
       "summary": "",
-      "title_original": "Liverpool 'looking lethargic' at Bournemouth LIVE on Sky!",
+      "title_original": "McIlroy closes on Rai with Fox chasing in Wentworth thriller LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13590012/bmw-pga-championship-final-round-live-latest-scores-updates-highlights-as-rory-mcilroy-chases-wentworth-win",
+      "published": "Sun, 20 Sep 2026 12:40:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Isak 置きますリヴァプール獲得を問い合わせ Bournemouth LIVE 空に!",
+      "summary": "",
+      "title_original": "Isak puts Liverpool ahead at Bournemouth LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bournemouth-vs-liverpool/live/559484",
@@ -4055,9 +4069,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リーズそして、クリスタル・パレス opener LIVE を見つけるのにバトリング!",
+      "title": "クリスタル・パレス opener は、リーズライブ!",
       "summary": "",
-      "title_original": "Leeds and Palace battling to find opener LIVE!",
+      "title_original": "Palace opener ruled out at Leeds LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/leeds-united-vs-crystal-palace/live/559489",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13589960/world-series-of-darts-finals-luke-littler-wins-last-leg-decider-vs-nathan-aspinall-to-move-step-closer-to-sweep-of-majors-in-one-year",
       "published": "Sat, 19 Sep 2026 22:27:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マキシロイ、フォックスがウェントワース・スリラー・LIVE で追いかけたレイエッジ!",
-      "summary": "",
-      "title_original": "Rai edges ahead with McIlroy, Fox chasing in Wentworth thriller LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13590012/bmw-pga-championship-final-round-live-latest-scores-updates-highlights-as-rory-mcilroy-chases-wentworth-win",
-      "published": "Sun, 20 Sep 2026 12:40:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
