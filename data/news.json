@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-20T19:05:40.437077+00:00",
+  "updated_at": "2026-09-20T19:21:45.846260+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Arnar Vidarsson": "",
-    "David Squires": "",
     "Barcelona. But Julián Álvarez": "",
     "If Raphinha": "",
     "Adelaide Strikers": "",
@@ -3001,7 +2999,9 @@
     "Olivia Holdt": "オリビア・ホルト (サッカー選手)",
     "Late Wilms": "",
     "Lynn Wilms": "",
-    "Gabby George's": ""
+    "Gabby George's": "",
+    "Team USA's Presidents Cup": "",
+    "Gary Neville": "ガリー・ネヴィル"
   },
   "items": [
     {
@@ -3047,9 +3047,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リーズドローイング後、シーズン開始を継続クリスタル・パレス",
+      "title": "リーズ退役を続け、リーグで始まりますクリスタル・パレス",
       "summary": "リーズ・ユナイテッド不当なスタートを維持プレミアリーグ難易度の高いゴールレスの引越しによるキャンペーンクリスタル・パレス.",
-      "title_original": "Leeds continue unbeaten start to season after draw with Palace",
+      "title_original": "Leeds continue unbeaten start in league with draw against Palace",
       "summary_original": "Leeds United maintain their unbeaten start to their Premier League campaign thanks to a hard-earned goalless draw at home against Crystal Palace.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c39w4nydl1dzo?at_medium=RSS&at_campaign=rss",
@@ -3124,6 +3124,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cklyjpgj3nv6o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 20 Sep 2026 16:57:34 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "から学んだことプレミアリーグ獲得を問い合わせ",
+      "summary": "BBC について スポーツは、開いている週の開いている時間を見てみましょうプレミアリーグ長い季節インテル国民の休憩は到着します。",
+      "title_original": "What have we learned from the Premier League so far?",
+      "summary_original": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 19:08:10 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3257,20 +3271,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Castellanos spitting 主張 Overshadows ウェストハムキャラクターのショー",
-      "summary": "ミルウォールのキーパーFilip Marshcall 彼がスパットだったアレグウェストハム獲得 Taty Castellanos2-2 の描画中。",
-      "title_original": "Castellanos spitting claim overshadows West Ham's show of character",
-      "summary_original": "Millwall keeper Filip Marshcall alleges he was spat at by West Ham forward Taty Castellanos during their 2-2 draw.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvqrn8eyzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 16:18:21 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ホールドスコアハットトリックとしてトッテナム thrash 10 プレイクリスタル・パレス",
       "summary": "オリビア・ホルト (サッカー選手)クレームハットトリックとしてトッテナムスコア 7 回 後半 非難 10 選手クリスタル・パレス彼らの最初の敗北に戻って推進されているので、Women's Super League.",
       "title_original": "Holdt scores hat-trick as Spurs thrash 10-player Palace",
@@ -3369,6 +3369,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Castellanos spitting 主張 Overshadows ウェストハムキャラクターのショー",
+      "summary": "ミルウォールのキーパーFilip Marshcall 彼がスパットだったアレグウェストハム獲得 Taty Castellanos2-2 の描画中。",
+      "title_original": "Castellanos spitting claim overshadows West Ham's show of character",
+      "summary_original": "Millwall keeper Filip Marshcall alleges he was spat at by West Ham forward Taty Castellanos during their 2-2 draw.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvqrn8eyzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 16:18:21 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "オライドマンチェスター・ユナイテッド「強い週」の後に大きな一歩を踏み出す",
       "summary": "1 週間前、写真マンチェスター・ユナイテッド見ました。その後、土曜日に勝利は彼らから逃げたアーセナル. しかし、我々は、改善の兆候を見てきました Eva Olid's サイド?",
       "title_original": "Olid's Man Utd take big step forward after 'intense week'",
@@ -3411,24 +3425,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スズキは、マルティネスの Villa で価値ある交換を証明",
-      "summary": "アストン・ヴィラ新しい男の子鈴木彩艶誰にとっても最初の信用に値するプレミアリーグ struggling でシーズンの勝利トッテナム.",
-      "title_original": "Suzuki proves worthy replacement for Martinez at Villa",
-      "summary_original": "Aston Villa new boy Zion Suzuki deserves as much credit as anyone for their first Premier League win of the season at struggling Tottenham.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmg490nn12pvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 16:58:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Cunha は 遅く へ デニー フルハム と サルベージ ポイント のためにマンチェスター・ユナイテッド",
-      "summary": "前者をパレードするマンチェスター・ユナイテッドマネージャー、マイケル・キャリック嵐が来ることを知った。最後のシーズンの後半に彼にとって、すべてが少し完璧に行きました。いくつかの点で風が吹いてきます。カルリックは、この訪問の前に感じることができるものだった Fulham. What その後、感情はありましたか? 確かに大事でした。ダービーが敗北してからマンチェスター・シティ最終日曜日と深夜 EFL カップ出口からブライトン- 両方オールド・トラッフォード– カーリックはありました",
+      "title": "Cunha は 遅く へ deny Fulham と salvage point のためにマンチェスター・ユナイテッド",
+      "summary": "前者をパレードするマンチェスター・ユナイテッドマネージャー、マイケル・キャリック嵐が来ることを知った。最後のシーズンの後半に彼にとって、すべてが少し完璧に行きました。いくつかの点で風が吹いてきます。カルリックがこの訪問の前に感じたことだったもの Fulham. What その後、感情はありましたか? 確かに大事でした。ダービーが敗北してからマンチェスター・シティ最終日曜日と深夜 EFL カップ出口からブライトン- 両方オールド・トラッフォード– カーリックはありました",
       "title_original": "Cunha strikes late to deny Fulham and salvage point for Manchester United",
-      "summary_original": "To paraphrase a former Manchester United manager, Michael Carrick knew that the storm would come. Everything went a little too perfectly for him in the second half of last season. There would be ill winds at some point. Which was what Carrick could feel before this visit to Fulham. What were his emotions after this? Relief was surely the main thing. Because after the derby defeat by Manchester City last Sunday and the midweek Carabao Cup exit against Brighton – both at Old Trafford – Carrick was",
+      "summary_original": "To paraphrase a former Manchester United manager, Michael Carrick knew that the storm would come. Everything went a little too perfectly for him in the second half of last season. There would be ill winds at some point. Which was what Carrick could feel before this visit to Fulham. What were his emotions afterwards? Relief was surely the main thing. Because after the derby defeat by Manchester City last Sunday and the midweek Carabao Cup exit against Brighton – both at Old Trafford – Carrick was",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/20/fulham-manchester-united-premier-league-match-report",
       "published": "Sun, 20 Sep 2026 17:46:05 GMT",
@@ -3845,6 +3845,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "'I に値する!' - Spaun の使用 Team USAWentworth の勝利のための燃料として snub",
+      "summary": "J.J.スポーン彼は彼の中に「彼の肩にチップを」と再生したと述べた BMW PGA 選手権チーム USA のスヌーブで勝つと使用プレジデンツカップ一方、Wentworth の勝利に対するモチベーションとして。",
+      "title_original": "'I deserve to be in!' - Spaun uses Team USA snub as fuel for Wentworth win",
+      "summary_original": "JJ Spaun said he played with a \"huge chip on his shoulder\" during his BMW PGA Championship win and used being snubbed by Team USA's Presidents Cup side as motivation for his Wentworth victory.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13590009/bmw-pga-championship-how-jj-spaun-used-team-usa-snub-for-presidents-cup-as-motivation-for-dramatic-wentworth-victory",
+      "published": "Sun, 20 Sep 2026 20:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ネビル:Carrick は選手を守るために得ました",
+      "summary": "ガリー・ネヴィル獲得を問い合わせマイケル・キャリック防衛を止めるためマンチェスター・ユナイテッド Fulham でのドローイングで他のトローブ性能の後、プレイヤー。",
+      "title_original": "Neville: Carrick has got to stop defending the players",
+      "summary_original": "Gary Neville has urged Michael Carrick to stop defending Manchester United players after another troubling performance in their draw at Fulham.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590228/gary-neville-michael-carrick-has-got-to-stop-defending-man-utd-players-after-lacklustre-draw-at-fulham",
+      "published": "Sun, 20 Sep 2026 19:50:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アイルランドの打撃 19 ポイントは米国に負ける WXV Global Series",
       "summary": "アイルランドは、40-36 の損失に苦しむ19 点のリードを漂白アメリカ合衆国 A 彼らのオープニングゲームで WXV Global Series.",
       "title_original": "Ireland blow 19-point lead to lose to USA in WXV Global Series",
@@ -4093,34 +4121,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "マンチェスター・シティ EIGHT ゴールのスリラーを勝ち取った後、トップへサンダーランド",
-      "summary": "FREE TO WATCH: ハイライトからプレミアリーグ間のマッチマンチェスター・シティそして、サンダーランド.",
-      "title_original": "Man City go top after winning EIGHT-goal thriller against Sunderland",
-      "summary_original": "FREE TO WATCH: Highlights from the Premier League match between Manchester City and Sunderland.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13590162/manchester-city-5-3-sunderland-premier-league-highlights",
-      "published": "Sun, 20 Sep 2026 16:34:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "World Series インフォメーション Darts Finals LIVE! クレイトンと価格の戦いが決勝に到達する",
-      "summary": "",
-      "title_original": "World Series of Darts Finals LIVE! Clayton and Price battle to reach final",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/live-blog/12040/13590021/world-series-of-darts-live-scores-updates-commentary-from-quarter-finals-semi-finals-final-as-luke-littler-seeks-amsterdam-title",
-      "published": "Sun, 20 Sep 2026 17:40:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
