@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-20T06:54:53.970588+00:00",
+  "updated_at": "2026-09-20T07:05:41.811779+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "SCR Altach": "",
-    "In February": "",
-    "Stade Louis II": "スタッド・ルイ・ドゥ",
-    "Principality. There": "",
     "Bruno Génésio": "",
     "Geoffrey Kondogbia": "",
     "PGA Tour Player": "",
@@ -3001,7 +2997,11 @@
     "Nathan Aspinall": "",
     "Brave' Brighton": "",
     "Aston Villa's Nicolas Jackson": "",
-    "Mojito Des Mottes": ""
+    "Mojito Des Mottes": "",
+    "Sunday's Spanish": "",
+    "New England Test": "",
+    "Stephen Fleming": "",
+    "England Test": ""
   },
   "items": [
     {
@@ -3114,6 +3114,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "モウリーニョそして、シメオネは10 年以上続くマドリッド・ダービーのライバルリーを更新します",
+      "summary": "ジョゼ・モウリーニョそして、ディエゴ・シメオネ12 年ぶりの待ち合わせを再開レアル・マドリードアクセスアトレティコ・マドリード獲得を問い合わせ Sunday's Spanish 首都ダービー。",
+      "title_original": "Mourinho and Simeone renew rivalry in Madrid derby after more than a decade",
+      "summary_original": "Jose Mourinho and Diego Simeone renew their rivalry after a 12-year wait as Real Madrid visit Atletico Madrid in Sunday's Spanish capital derby.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly4x3l5kzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 06:55:30 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3408,20 +3422,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'Brave'(ブライヴ)ブライトン'complete' のパフォーマンスを打つアーセナル- マーフィー",
-      "summary": "デイパンディットのマッチダニエル・マーフィー (曖昧さ回避)アワードブライトン'incredible\" のパフォーマンス で 3-0 勝ちアーセナル、それらが問題を引き起こします予測するプレミアリーグ今シーズンにチームを組む",
-      "title_original": "'Brave' Brighton put in 'complete' performance to beat Arsenal - Murphy",
-      "summary_original": "Match of the Day pundit Danny Murphy praises Brighton's \"incredible\" performance in their 3-0 win over Arsenal, predicting they will cause problems for Premier League teams this season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqe8xjjw8ed8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 21:59:01 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Fleming は、イギリスのテストランキングのトップを期待しています。",
+      "summary": "New England Test ヘッドコーチ Stephen Fleming チームを世界ランクのトップへ戻りたいという思いを語っています。この夏の見出しを支配している側面の懲戒めに「仕事が行われる」ことを追加します。",
+      "title_original": "Fleming wants England back top of Test rankings as 'work to be done' on discipline",
+      "summary_original": "New England Test head coach Stephen Fleming has spoken of his desire to return the team to the top of the world rankings, adding that there is \"work to be done\" on the side's disciplinary issues that have dominated headlines this summer.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13589620/stephen-fleming-englands-new-head-coach-targets-no-1-spot-in-test-rankings-but-says-work-to-be-done-on-discipline",
+      "published": "Sun, 20 Sep 2026 08:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "McIlroy 2 オフ Wentworth リードと「積極的に再生する準備ができて」",
       "summary": "Manuel Elvira そして、Filippo Celli リード見出しを最終ラウンドに共有 BMW PGA 選手権18 日に鳥を作った後、Wentworth に先立ち向かう。",
       "title_original": "McIlroy two off Wentworth lead and ready to 'play aggressively'",
@@ -3971,6 +3985,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Stephen Fleming バズボール、ルート、ビジョンについて England Test スタッフ",
+      "summary": "",
+      "title_original": "Stephen Fleming on Bazball, Root and his vision for England Test team",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/podcasts/36578/11933948/sky-sports-cricket-podcast-with-nasser-hussain-and-michael-atherton",
+      "published": "Sun, 20 Sep 2026 08:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Coventry のシールは VAR の controversy の森林で25 年で最初に PL の勝利を勝ちます",
       "summary": "コベントリーが初めて獲得プレミアリーグ25 年後の勝利ジェイ・ダシルヴァの の勝者と論争の禁止ノッティンガム・フォレストイコライザーは、プロモーターされた側が1-0 を獲得しましたシティ・グラウンド.",
       "title_original": "Coventry seal first PL win in 25 years at Forest amid VAR controversy",
@@ -4093,34 +4121,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "修道院は遅く生き残ります Forest VAR25 年の最初の PL 勝利を主張する論争",
-      "summary": "FREE TO WATCH: ハイライトからプレミアリーグ間のマッチノッティンガム・フォレストそしてコベントリー。",
-      "title_original": "Coventry survive late Forest VAR controversy to claim first PL win in 25 years",
-      "summary_original": "FREE TO WATCH: Highlights from the Premier League match between Nottingham Forest and Coventry.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589936/nottingham-forest-0-1-coventry-premier-league-highlights",
-      "published": "Sat, 19 Sep 2026 19:46:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "バーンリーダービーがポイントを稼ぐために遅刻に当たった後まだ無敗",
-      "summary": "バーンリー2 月以降、リーグ優勝を否定 Mohammed Fuseini's 劇的なストップページタイムイコライザーが Derby a 1-1 ドローイングを獲得 Turf Moor チャンピオンシップ",
-      "title_original": "Burnley still winless after Derby strike late to earn point",
-      "summary_original": "Burnley were denied a first league victory since February as Mohammed Fuseini's dramatic stoppage-time equaliser earned Derby a 1-1 draw at Turf Moor in the Championship.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/burnley-vs-derby-county/report/560584",
-      "published": "Sat, 19 Sep 2026 17:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
