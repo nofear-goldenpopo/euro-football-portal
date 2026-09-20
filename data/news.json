@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-20T17:36:36.159405+00:00",
+  "updated_at": "2026-09-20T17:49:25.156352+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Portugal. England": "",
-    "Potential Fernandez": "",
     "Supermarket Sweep-style": "",
     "The Rumour Mill": "",
     "Melvin Bard": "メルヴァン・バール",
@@ -3001,7 +2999,9 @@
     "Darts Finals LIVE": "",
     "HORROR Martinez": "",
     "HORROR Martinez OG LIVE": "",
-    "PGA Tour's Biltmore Championship": ""
+    "PGA Tour's Biltmore Championship": "",
+    "Matheus Cunha's": "",
+    "Spain's Manuel Elvira": ""
   },
   "items": [
     {
@@ -3016,6 +3016,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Fulham v で最高評価マンチェスター・ユナイテッド?",
+      "summary": "最後の分 Cunha の目標は保存しますマンチェスター・ユナイテッド別の敗北から - 誰がフルハムで最高評価?",
+      "title_original": "Who rated highest in Fulham v Man Utd?",
+      "summary_original": "Last minute Cunha goal saves Man Utd from another defeat - who rated highest at Fulham?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxddvp49gg1ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 17:32:55 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3187,20 +3201,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Cusack 'シャツのナンバー以上’ 記念日は、要求の遅延時に落ちます",
-      "summary": "第三記念日 Maddy Cusack's サッカー選手の質問で一時停止中に死が落ちます。",
-      "title_original": "Cusack 'more than a number on a shirt' as anniversary falls during inquest delay",
-      "summary_original": "The third anniversary of Maddy Cusack's death falls during a pause in the footballer's inquest.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 23:17:57 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "3 週間の休憩でマネージャーに圧力をかけますか?",
       "summary": "これまでのところ、このシーズン3 人のコーチは自分の仕事を失いますが、他の人の多くは、新しい、拡張に向かう彼らの肩の上に見ていきますインテル国民の休憩。",
       "title_original": "Will the three-week break put more pressure on managers?",
@@ -3212,6 +3212,20 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Cusack 'シャツのナンバー以上’ 記念日は、要求の遅延時に落ちます",
+      "summary": "第三記念日 Maddy Cusack's サッカー選手の質問で一時停止中に死が落ちます。",
+      "title_original": "Cusack 'more than a number on a shirt' as anniversary falls during inquest delay",
+      "summary_original": "The third anniversary of Maddy Cusack's death falls during a pause in the footballer's inquest.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 23:17:57 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3236,20 +3250,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm209djp8d2xo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 19 Sep 2026 20:28:19 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9gk5863zz2po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 05:56:07 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3341,6 +3341,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9gk5863zz2po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 05:56:07 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナル1 月のエンデリックのために動くかもしれない -日曜日の移籍ゴシップ",
       "summary": "バルセロナ巨大なオファーを開始する可能性がありますハーランド, アーセナル獲得を問い合わせインテル Endrick を struggling で ested, とリヴァプールウィルツを維持するための主張",
       "title_original": "Arsenal may move for Endrick in January - Sunday's gossip",
@@ -3411,27 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "スズキは、マルティネスの Villa で価値ある交換を証明",
-      "summary": "アストン・ヴィラ新しい男の子鈴木彩艶誰にとっても最初の信用に値するプレミアリーグ struggling でシーズンの勝利トッテナム.",
-      "title_original": "Suzuki proves worthy replacement for Martinez at Villa",
-      "summary_original": "Aston Villa new boy Zion Suzuki deserves as much credit as anyone for their first Premier League win of the season at struggling Tottenham.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmg490nn12pvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 16:58:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "フラハム 1-1 マンチェスター・ユナイテッド: プレミアリーグ– ライブ反応",
       "summary": "4.30pm(BST)キックオフからのアップデートクレイヴン・コテージ連絡を取る: ゲームについてのメール Taha マンチェスター・ユナイテッド全て青の番号をロックしています。彼らは物事をオフにキック.クレイヴン・コテージ太陽の日: どこがいいですか? 続きを読む...",
       "title_original": "Fulham 1-1 Manchester United: Premier League – live reaction",
       "summary_original": "Updates from 4.30pm (BST) kickoff at Craven Cottage Get in touch: email Taha about the game Manchester United are rocking their all-blue number. They kick things off. Craven Cottage in the sun: where would you rather be? Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
-      "published": "Sun, 20 Sep 2026 17:20:14 GMT",
+      "published": "Sun, 20 Sep 2026 17:30:27 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3440,9 +3440,9 @@
     },
     {
       "title": "Semenyo は混沌を助けますマンチェスター・シティビートサンダーランド Brobbey にもかかわらずハットトリック",
-      "summary": "マンチェスター・シティメッセージを送信するアーセナルこのチャオティックな勝利でエンツォ・マレスカ3 週間のリーダーとしてチーム3 ポイントクリアインテル国民の休憩。までプレミアリーグ再開10October City ステータスを楽しめるミケル・アルテタ’ s のチャンピオンは土曜日の 3-0 の tunbling に続く操縦しなければなりませんブライトン. 続きを読む...",
+      "summary": "マンチェスター・シティメッセージを送信するアーセナルこのチャオティックな勝利でエンツォ・マレスカ3 週間のリーダーとしてチーム3 ポイントクリアインテル国民の休憩。までプレミアリーグ履歴書10October City ステータスを楽しめるミケル・アルテタ’ s のチャンピオンは土曜日の 3-0 の tunbling に続く操縦しなければなりませんブライトン. 続きを読む...",
       "title_original": "Semenyo helps chaotic Manchester City beat Sunderland despite Brobbey hat-trick",
-      "summary_original": "Manchester City sent a message to Arsenal with this chaotic victory that takes Enzo Maresca’s team three points clear as leaders during the three-week international break. Until the Premier League resumes on 10 October City can enjoy their status while Mikel Arteta’s champions have to stew following Saturday’s 3-0 humbling at Brighton. Continue reading...",
+      "summary_original": "Manchester City sent a message to Arsenal with this chaotic victory that takes Enzo Maresca’s team three points clear as leaders during the three-week international break. Until the Premier League resumes on 10 October City can enjoy their status while Mikel Arteta’s champions have to stew following Saturday’s 3-0 humbling at Brighton . Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/20/manchester-city-sunderland-premier-league-match-report",
       "published": "Sun, 20 Sep 2026 14:59:02 GMT",
@@ -3467,9 +3467,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リーズスタンレーメイト後、シーズン開始まで延長クリスタル・パレス",
-      "summary": "おそらくそれは進歩に精通しているリーズ戻ってきたので作りましたプレミアリーグわずか1 年以上前から、ドローイング後に3 分の1 まで動かせる失敗に不満があったクリスタル・パレス. 代わりに,Daniel Farke’s チームは延長された入りますインテル第5 回と無縁の国民の休憩、それ自体の素晴らしい業績です。アパートから Tyrick Mitchell’s ゴールを許さないと、ポイントをしっかり確保するという印象があまりなかった。のためにクリスタル・パレス最初でしたクリーンシート海荘の",
-      "title_original": "Leeds extend unbeaten start to season after stalemate with Crystal Palace",
+      "title": "ファークの「ミックス感情」リーズ unbeaten に滞在クリスタル・パレススタレメイト",
+      "summary": "おそらくそれは進歩に精通しているリーズ戻ってきたので作りましたプレミアリーグわずか1 年以上前から、ドローイング後に3 分の1 まで動かせる失敗に不満があったクリスタル・パレス. 代わりに,Daniel Farke’s チームは延長された入りますインテル第5 回と非ベアテンの国民の休憩、それはそれ自体の素晴らしい成果です。アパートから Tyrick Mitchell’s ゴールを許さなかったら、ポイントをしっかり守ってくれるような印象を与えてくれなかった。獲得を問い合わせクリスタル・パレス最初でしたクリーンシート海荘の",
+      "title_original": "‘Mixed emotions’ for Farke as Leeds stay unbeaten with Crystal Palace stalemate",
       "summary_original": "Perhaps it is testament to the progress Leeds have made since returning to the Premier League just over a year ago that there was frustration at failing to move up to third after drawing with Crystal Palace. Instead, Daniel Farke’s team enter the prolonged international break in fifth and unbeaten, which is a fine achievement in itself. Apart from Tyrick Mitchell’s disallowed goal, neither side gave much impression they would secure the points. For Palace, it was a first clean sheet of the seaso",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/20/leeds-crystal-palace-premier-league-match-report",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Cunha の遅い deflected イコライザー つかみマンチェスター・ユナイテッドフラハムのポイント",
+      "summary": "Matheus Cunha's89 分のストライキがつかむマンチェスター・ユナイテッド1-1 はフルブローン危機に陥って現れたものを離れて端を取るためにフルラムで描くマイケル・キャリックの 側は、インテル国民の休憩。",
+      "title_original": "Cunha's late deflected equaliser grabs Man Utd point at Fulham",
+      "summary_original": "Matheus Cunha's deflected 89th-minute strike grabbed Manchester United a 1-1 draw at Fulham to take the edge off what appeared to be turning into a full-blown crisis for Michael Carrick's side going into the international break.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/fulham-vs-manchester-united/report/559488",
+      "published": "Sun, 20 Sep 2026 18:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "クリスタル・パレス unbeaten の安全な貴重なポイントリーズ",
       "summary": "クリスタル・パレスフォームと非認証で便利なポイントを確保リーズとして Pierre Sage's 側面は、ホストをゴールレスに描くために大いに改善された防御的な表示を作り出しましたエランド・ロード.",
       "title_original": "Palace secure valuable point at unbeaten Leeds",
@@ -3855,6 +3869,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Spaun 勝つ BMW PGA 選手権, 遅いサージにもかかわらず、McIlroy のフルター",
+      "summary": "J.J.スポーン日曜日にプレイヤーのパックリーダーボードを発売 BMW PGA 選手権, アメリカはからつまみに資本を調達 Spain's Manuel ElviraWentworth でデビュータイトルを獲得する。",
+      "title_original": "Spaun wins BMW PGA Championship, McIlroy falters despite late surge",
+      "summary_original": "JJ Spaun outlasted a packed leaderboard of players on Sunday at the BMW PGA Championship, as the American capitalised on a stumble from Spain's Manuel Elvira to win his debut title at Wentworth.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13590008/bmw-pga-championship-2026-jj-spaun-snatches-victory-at-wentworth-as-rory-mcilroy-comes-unstuck-despite-late-surge",
+      "published": "Sun, 20 Sep 2026 09:15:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3884,20 +3912,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Spaun 勝つ BMW PGA 選手権, 遅いサージにもかかわらず、マクイロイのフルター",
-      "summary": "J.J.スポーン日曜日の午後の日曜日の午後に選手のパックリーダーボードを追い抜いた BMW PGA 選手権第二に勝つためにヨーロピアンツアーメジャー・チャンピオンシップの外で初開催。",
-      "title_original": "Spaun wins BMW PGA Championship, McIlroy falters despite late surge",
-      "summary_original": "JJ Spaun outlasted a packed leaderboard of players on Sunday afternoon at the BMW PGA Championship to win his second DP World Tour event and his first outside of a major championship.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13590008/bmw-pga-championship-2026-jj-spaun-snatches-victory-at-wentworth-as-rory-mcilroy-comes-unstuck-despite-late-surge",
-      "published": "Sun, 20 Sep 2026 09:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3954,6 +3968,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "勝つためにバードリー、プレーオフのためのパー... Elvira's nightmare 仕上げ手 Spaun タイトル",
+      "summary": "J.J.スポーン勝つ BMW PGA 選手権アフターManuel Elvira トーナメントの最終ホールにナイトマーレ7 をカードしました。",
+      "title_original": "Birdie to win, par for a play-off... Elvira's nightmare finish hands Spaun title",
+      "summary_original": "JJ Spaun wins the BMW PGA Championship after Manuel Elvira carded a nightmare seven on the final hole of the tournament.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13590176/bmw-pga-championship-jj-spaun-wins-as-manuel-elvira-cards-seven-on-final-hole",
+      "published": "Sun, 20 Sep 2026 17:29:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13590134/norwich-city-3-4-bolton-wanderers-championship-highlights",
       "published": "Sun, 20 Sep 2026 15:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "最も最近のゴルフ リーダーボード:PGA Tour's Biltmore Championship 詳しくはこちら",
-      "summary": "世界中から最新のゴルフスコアと結果、PGA Tour's Biltmore Championship 獲得を問い合わせ",
-      "title_original": "Latest golf leaderboards: PGA Tour's Biltmore Championship and more",
-      "summary_original": "Latest golf scores and results from around the world, including the PGA Tour's Biltmore Championship and more.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
-      "published": "Sun, 20 Sep 2026 18:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "セルティック「大きなトラブルで」と言った後に「リセット」オールドファームキャンセル",
-      "summary": "The Sky Sports パンディットは、彼らの分析に苦しんでいたマーティン・オニール獲得を問い合わせセルティック彼らが失われた後にレンジャーズ8 日連続で2 回目となる。",
-      "title_original": "Celtic 'in big trouble' and told 'reset' needed after Old Firm loss",
-      "summary_original": "The Sky Sports pundits were damning in their analysis of Martin O'Neill's Celtic after they lost to Rangers for the second time in eight days.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590096/celtic-0-1-rangers-neil-lennon-calls-for-hoops-reset-but-martin-oneill-insists-latest-old-firm-defeat-no-disaster",
-      "published": "Sun, 20 Sep 2026 15:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
