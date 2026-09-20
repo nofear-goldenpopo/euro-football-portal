@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-20T10:49:59.475654+00:00",
+  "updated_at": "2026-09-20T11:05:41.383433+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Poor Villa. They": "",
-    "The Argentine’s": "",
-    "FedEx Cup": "",
-    "Rob Lee": "",
-    "Omari Hutchinson": "オマリ・ハッチンソン",
     "Chelsea’s Mudryk Manchester City": "",
     "Everton’s Iliman Ndiaye": "",
     "Enzo Fernández. City’s": "",
@@ -3001,7 +2996,12 @@
     "Tyrrell Hatton": "",
     "Maddy Cusack's": "",
     "Darts LIVE": "",
-    "BMW PGA LIVE": ""
+    "BMW PGA LIVE": "",
+    "Sky Sports Cricket's Stuart": "",
+    "Joe Root's": "",
+    "New Zealander": "ニュージーランド人",
+    "South Africa": "",
+    "Moses Itauma": ""
   },
   "items": [
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "News, discussion and updates before Sunday’s games This weekend’s fixtures | Mail us your thoughts How things stand in the Premier League… At Hill Dickinson Stadium, Thierno Barry fired Everton to a 1-0 win against 10-man Ipswich Town. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
-      "published": "Sun, 20 Sep 2026 10:34:25 GMT",
+      "published": "Sun, 20 Sep 2026 10:48:03 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3873,6 +3873,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Fleming が Root のキャプテンのためにできることで大興奮",
+      "summary": "Sky Sports'Stuart ブロードは、新しいものに興奮しています England Test コーチング Stephen Fleming 持ち運び可能 Joe Root's キャプテシーとしてニュージーランド人自分の最初の割り当てをロールで準備する South Africa 獲得を問い合わせインテル.",
+      "title_original": "Broad excited at what Fleming can do for Root's captaincy",
+      "summary_original": "Sky Sports Cricket's Stuart Broad is excited at what new England Test coach Stephen Fleming can bring to Joe Root's captaincy as the New Zealander prepares for his first assignment in the role in South Africa this winter.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13589924/stephen-fleming-stuart-broad-excited-at-what-new-england-test-cricket-coach-can-do-for-joe-roots-captaincy",
+      "published": "Sun, 20 Sep 2026 12:00:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "最も最近のゴルフ リーダーボード:BMW PGA 選手権詳しくはこちら",
       "summary": "DP ワールドツアーズを含む世界中から最新のゴルフスコアと結果 BMW PGA 選手権 Wentworth など",
       "title_original": "Latest golf leaderboards: BMW PGA Championship and more",
@@ -3880,6 +3894,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
       "published": "Sun, 20 Sep 2026 09:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "敗北の「メンタルスカーリング」の後のベンとイタマを再構築する方法",
+      "summary": "イギリスのボクシングで2 つの大きな名前、未来の星に耳を傾け、Moses Itauma そして、Conor Benn, 最近の数週間で粉砕敗北に苦しんでいる.",
+      "title_original": "How to rebuild Benn & Itauma after 'mental scarring' of defeat",
+      "summary_original": "Two big names in British boxing, earmarked as stars of the future, Moses Itauma and Conor Benn, have suffered shattering defeats in recent weeks.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13589599/conor-benn-and-moses-itauma-former-champion-george-groves-on-how-they-should-rebuild-after-mental-scarring-of-defeat",
+      "published": "Sun, 20 Sep 2026 12:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4093,34 +4121,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Portsmouth ヒットバック へ ホールド ブラックバーン",
-      "summary": "Colby Bishop ポートマスドリュー2-2 とブラックバーンで直感的なレイターを獲得フラットン・パーク.",
-      "title_original": "Portsmouth hit back to hold Blackburn",
-      "summary_original": "Colby Bishop scored a fortuitous late leveller as Portsmouth drew 2-2 with Blackburn at Fratton Park.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/portsmouth-vs-blackburn-rovers/report/560589",
-      "published": "Sat, 19 Sep 2026 17:15:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "イングランドスラッシュスリランカマンチェスターでシリーズを掃引する",
-      "summary": "アクションのピックからオールド・トラッフォード・クリケット・グラウンドイギリスの泥炭としてスリランカ8 つのウィケットで3〜10 シリーズのスイープを完了し、世界ランクのトップに戻る。",
-      "title_original": "England thrash Sri Lanka to complete series sweep in Manchester",
-      "summary_original": "The pick of the action from Emirates Old Trafford as England thumped Sri Lanka by eight wickets to complete a 3-0 T20 series sweep and move back top of the world rankings.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589800/england-vs-sri-lanka-third-t20-highlights",
-      "published": "Sat, 19 Sep 2026 17:20:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
