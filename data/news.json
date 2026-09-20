@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-20T09:49:48.116969+00:00",
+  "updated_at": "2026-09-20T10:06:22.259263+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "US. The": "",
-    "Mykhailo Mudryk": "ミハイロ・ムドリク",
     "Enzo Fernandez": "",
     "Lionel Messi's": "",
     "Bluesky Unai Emery’s": "",
@@ -3001,7 +2999,9 @@
     "Ricky Hatton": "リッキー・ハットン",
     "Zion Suzuki": "鈴木彩艶",
     "At Hill Dickinson Stadium": "",
-    "Ipswich Town. Continue": ""
+    "Ipswich Town. Continue": "",
+    "Paris FC’s": "",
+    "Liam Rosenior’s": ""
   },
   "items": [
     {
@@ -3058,20 +3058,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "セルティック'changes game' を勝つ - しかし、彼らは逆にすることができますレンジャーズダービードミナンス?",
-      "summary": "過去の投稿セルティックキャプテン Scott Brown スコットランドの王者に対する勝利を信じるレンジャーズ日曜日は「ゲームを変えます」の週末は、マーティン・オニールの 側。",
-      "title_original": "Celtic win 'changes game' - but can they reverse Rangers' derby dominance?",
-      "summary_original": "Former Celtic captain Scott Brown believes a win for the Scottish champions against Rangers on Sunday \"changes the game\" after a turbulent week for Martin O'Neill's side.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c607l0xdm8xro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 19:19:06 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3425,13 +3411,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「ランドマーク」の勝利の後の「地面のフィートを蹴る」ことのコベントリー必要性- Lampard",
+      "summary": "Frank Lampard コベントリーの「ランドマーク」に反応し、25 年ぶりのトップフライトを獲得し、ノッティンガム・フォレスト1-0 でシティ・グラウンド獲得を問い合わせプレミアリーグ.",
+      "title_original": "Coventry need to 'keep feet on the ground' after 'landmark' win - Lampard",
+      "summary_original": "Frank Lampard reacts to Coventry's \"landmark\" day after they earned their first top flight win in 25 years, beating Nottingham Forest 1-0 at the City Ground in the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6kgw17vqk98o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 19:24:35 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Iraola はボーンマスに戻ります。プレミアリーグビルドアップとタウンセンドの奇妙な事故 - マッチデイライブ",
       "summary": "日曜日のゲーム前のニュース、ディスカッション、アップデート 今週の週末の備品 | 想いを聞かせてください 物事がどのように立ち向かうかプレミアリーグ… At Hill Dickinson Stadium, Thierno Barry 火災エヴァートン10 人に対して1-0 の勝利にイプスウィッチ・タウン. 続きを読む...",
       "title_original": "Iraola returns to Bournemouth, Premier League buildup and Townsend’s bizarre accident – matchday live",
       "summary_original": "News, discussion and updates before Sunday’s games This weekend’s fixtures | Mail us your thoughts How things stand in the Premier League… At Hill Dickinson Stadium, Thierno Barry fired Everton to a 1-0 win against 10-man Ipswich Town. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
-      "published": "Sun, 20 Sep 2026 09:30:15 GMT",
+      "published": "Sun, 20 Sep 2026 09:42:42 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3481,6 +3481,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ヨーロッパのサッカー:ローゼニアは、ストラスブールのファン「家族を侮辱」",
+      "summary": "英語でのマネージャーが対応しています。Paris FC’sMartínez の救助に勝つインテル; サラヒットハットトリック Paris FC 不当なスタートを延長リーグ・アンキャンペーン、ビート Liam Rosenior’s 古い料金 ストラスブール2-1 は、訪問するファンから英語マンに向かってアビブスチャントによって交わります。このゲームは、ロゼニアが彼の元サポーターズが対象としていたので、後半にハレーションされました。また、最後の笛の後にバラニオが去るファンと再モンストレーションし、引きなければならないというシーンが醜い",
+      "title_original": "European football: Rosenior taunts Strasbourg fans who ‘insulted family’",
+      "summary_original": "English manager responds after Paris FC’s win Martínez rescues Inter; Salah hits hat-trick Paris FC extended their unbeaten start to the Ligue 1 campaign, beating Liam Rosenior’s old charges Strasbourg 2-1 in a match marred by abusive chants towards the Englishman from visiting fans. The game was halted in the second half as Rosenior was targeted by his former supporters. There were also ugly scenes after the final whistle as Rosenior motioned to remonstrate with the away fans and had to be pull",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
+      "published": "Sat, 19 Sep 2026 21:12:00 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「勝ちに値する」:ミケル・アルテタ左は、ブライトンバックナンバー",
       "summary": "アーセナル’ s 100% スタートシーズンは、エンド マネージャーは、チームは最初からトラブルに自分自身を置くと言うミケル・アルテタ採用情報アーセナル無料スコアリングでレッスンを教えましたブライトン土曜日に100%のスタートを過ぎた。以来 10 5 月 2023 – 1,224 日前 – 同じ相手が 3-0 を獲得したときエミレーツ・スタジアム獲得を問い合わせプレミアリーグ失ったチャンピオン3 ゴール. しかし、彼らは2 番目の最高だった Pascal Gross, Charalampos Kostoulas そして、Chema Andrés ラウンドオフ",
       "title_original": "‘They deserved to win’: Mikel Arteta left humbled by Brighton defeat",
@@ -3519,20 +3533,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ヨーロッパのサッカー: マルティヌス ダブル 与えますインテルバック ドローローマ",
-      "summary": "ローマ鉛2-0 の後で Manu Koné’s ファーストハーフダブルストラスブールファン虐待 ロゼニア; サラヒットハットトリック ラウタロ・マルティネスロデへインテル'救助としてセリエ A チャンピオンは 2-0 ダウンから 2-2 ドローを強制するローマ, 最後の2 つの側面が100%の記録とされていることの会議で.Manu Koné’s 二重が与えられたローマ a 2-0 リード半減期が週2 回クリスティアン・キヴマルティヌスに触発された「側面」は、そのような小辞から戻って戦ったチャンピオンとしてイラクサを示した。メニュー",
-      "title_original": "European football: Martínez double gives Inter comeback draw at Roma",
-      "summary_original": "Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Rosenior; Salah hits hat-trick Lautaro Martínez rode to Inter ’s rescue as the Serie A champions fought back from 2-0 down to force a 2-2 draw at Roma , in a meeting of what had been the last two sides with 100% records. Manu Koné’s double had given Roma a 2-0 lead at half-time but for the second time in a week Cristian Chivu’s side, inspired by Martínez, showed mettle as the champions fought back from such a deficit. Contin",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
-      "published": "Sat, 19 Sep 2026 21:12:00 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3957,9 +3957,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "セルティック対比レンジャーズチームニュース LIVE!",
+      "title": "McCowan がスタートセルティック, レンジャーズ未変更の LIVE!",
       "summary": "",
-      "title_original": "Celtic vs Rangers team news LIVE!",
+      "title_original": "McCowan starts for Celtic, Rangers unchanged LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/celtic-vs-rangers/live/558374",
