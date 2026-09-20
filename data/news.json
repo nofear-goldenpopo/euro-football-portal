@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T21:23:37.043405+00:00",
+  "updated_at": "2026-09-20T21:36:27.750644+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "Schumacher-inspired Italian GP": "",
@@ -3005,6 +3005,20 @@
   },
   "items": [
     {
+      "title": "当日の試合",
+      "summary": "日曜日のハイライトプレミアリーグゲーム, を含むリヴァプール Bournemouth への旅行",
+      "title_original": "Match of the Day",
+      "summary_original": "Highlights of Sunday’s Premier League games, including Liverpool's trip to Bournemouth.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 22:42:02 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・シティビートサンダーランド8 点のスリラーで3 点クリア",
       "summary": "マンチェスター・シティビートサンダーランド5-3 スリル満点のエティハド遭遇で3 点クリアにプレミアリーグテーブル。",
       "title_original": "Man City beat Sunderland in eight-goal thriller to go three points clear",
@@ -3408,20 +3422,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9gk5863zz2po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 05:56:07 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
