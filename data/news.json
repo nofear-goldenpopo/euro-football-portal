@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-20T19:34:44.285309+00:00",
+  "updated_at": "2026-09-20T19:49:33.232137+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Barcelona. But Julián Álvarez": "",
     "If Raphinha": "",
     "Adelaide Strikers": "",
     "Former England Test": "",
@@ -3001,7 +3000,8 @@
     "Lynn Wilms": "",
     "Gabby George's": "",
     "Team USA's Presidents Cup": "",
-    "Gary Neville": "ガリー・ネヴィル"
+    "Gary Neville": "ガリー・ネヴィル",
+    "Troy Deeney": "トロイ・ディーニー"
   },
   "items": [
     {
@@ -3061,6 +3061,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "モウリーニョプリントアウト 'レッドカード' 実質がダービーを失う後の事件",
+      "summary": "レアル・マドリードマネージャージョゼ・モウリーニョ彼が信じる2 つのインシデントを表示するスクリーンショットをプリントアウトアトレティコ・マドリード免責事項",
+      "title_original": "Mourinho prints out 'red card' incidents after Real lose derby",
+      "summary_original": "Real Madrid manager Jose Mourinho prints out screenshots displaying two incidents he believes should have resulted in Atletico Madrid dismissals.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6m27p9e24zno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 19:44:41 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "から学んだことプレミアリーグ獲得を問い合わせ",
+      "summary": "BBC について スポーツは、開いている週の開いている時間を見てみましょうプレミアリーグ長い季節インテル国民の休憩は到着します。",
+      "title_original": "What have we learned from the Premier League so far?",
+      "summary_original": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 19:08:10 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Maresca の 24 時間パーフェクトマンチェスター・シティ圧力をかけるアーセナル",
       "summary": "マンチェスター・シティヘッドインテル週末に24 時間満喫した後、ジュビリアント気分で国民の休憩。",
       "title_original": "Perfect 24 hours for Maresca as Man City put pressure on Arsenal",
@@ -3072,6 +3100,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "トロイさんを作った人プレミアリーグ週のチーム?",
+      "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
+      "title_original": "Who has made Troy's Premier League team of the week?",
+      "summary_original": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckzdz2l0m52mo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 19:40:25 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3124,20 +3166,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cklyjpgj3nv6o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 20 Sep 2026 16:57:34 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "から学んだことプレミアリーグ獲得を問い合わせ",
-      "summary": "BBC について スポーツは、開いている週の開いている時間を見てみましょうプレミアリーグ長い季節インテル国民の休憩は到着します。",
-      "title_original": "What have we learned from the Premier League so far?",
-      "summary_original": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 19:08:10 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3257,20 +3285,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Ratcliffe 'must go' 言うマンチェスター・ユナイテッドムスリムファングループ",
-      "summary": "ザ・オブ・ザ・マンチェスター・ユナイテッドムスリム Supporters Club ユナイテッド共同所有者は言うジム・ラトクリフ彼が移民に対して話した後に「必見」し、国は「スライドで」と言いました。",
-      "title_original": "Ratcliffe 'must go' says Man Utd Muslim fan group",
-      "summary_original": "The Manchester United Muslim Supporters Club says United co-owner Sir Jim Ratcliffe \"must go\" after he spoke out against immigration and said the country was \"on the slide\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 14:52:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ホールドスコアハットトリックとしてトッテナム thrash 10 プレイクリスタル・パレス",
       "summary": "オリビア・ホルト (サッカー選手)クレームハットトリックとしてトッテナムスコア 7 回 後半 非難 10 選手クリスタル・パレス彼らの最初の敗北に戻って推進されているので、Women's Super League.",
       "title_original": "Holdt scores hat-trick as Spurs thrash 10-player Palace",
@@ -3355,6 +3369,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Ratcliffe 'must go' 言うマンチェスター・ユナイテッドムスリムファングループ",
+      "summary": "ザ・オブ・ザ・マンチェスター・ユナイテッドムスリム Supporters Club ユナイテッド共同所有者は言うジム・ラトクリフ彼が移民に対して話した後に「必見」し、国は「スライドで」と言いました。",
+      "title_original": "Ratcliffe 'must go' says Man Utd Muslim fan group",
+      "summary_original": "The Manchester United Muslim Supporters Club says United co-owner Sir Jim Ratcliffe \"must go\" after he spoke out against immigration and said the country was \"on the slide\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 14:52:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナル1 月のエンデリックのために動くかもしれない -日曜日の移籍ゴシップ",
       "summary": "バルセロナ巨大なオファーを開始する可能性がありますハーランド, アーセナル獲得を問い合わせインテル Endrick を struggling で ested, とリヴァプールウィルツを維持するための主張",
       "title_original": "Arsenal may move for Endrick in January - Sunday's gossip",
@@ -3394,34 +3422,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "クラークは、ポストマッチでハートルプールボスとして辞退インテルニュース",
-      "summary": "Lee Clark リサインとしてハートリプール・ユナイテッド FC ワージングによる3-1 ホーム敗北に続く7 試合で6 敗後のヘッドコーチ。",
-      "title_original": "Clark resigns as Hartlepool boss in post-match interview",
-      "summary_original": "Lee Clark resigns as Hartlepool United head coach after a sixth loss in seven games following the 3-1 home defeat by Worthing.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6evwk1kee3po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 15:14:10 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "近傍からヨーロッパへブライトンスタイルで125 周年を迎える",
-      "summary": "閉塞から閉塞までプレミアリーグそしてヨーロッパ -ブライトン創業125 周年を迎える",
-      "title_original": "From near oblivion to Europe - Brighton celebrate 125th anniversary in style",
-      "summary_original": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3wjl29qp4go?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 16:41:34 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
