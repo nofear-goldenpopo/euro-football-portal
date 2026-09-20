@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-20T13:23:49.133153+00:00",
+  "updated_at": "2026-09-20T13:36:31.337288+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Mark Chapman": "",
-    "Chris Sutton": "クリス・サットン",
     "Stephen Warnock": "",
     "Rory Smith": "",
     "Aryna Sabalenka": "",
@@ -3001,7 +2999,9 @@
     "Crystal Palace LIVE": "",
     "Parkhead Derek McInnes": "",
     "Ryan Naderi's": "",
-    "FAST START": ""
+    "FAST START": "",
+    "Fer Lopez": "",
+    "Man City's": ""
   },
   "items": [
     {
@@ -3845,6 +3845,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "レンジャーズビートセルティックプレミアシップをカットするために再び2 ポイント",
+      "summary": "Ryan Naderi's ストライキは与えましたレンジャーズ第2 勝利に対してセルティック8 日間で2 つのポイントで移動オールドファームトップのライバルスコティッシュ・プレミアシップ.",
+      "title_original": "Rangers beat Celtic again to cut Premiership lead to two points",
+      "summary_original": "Ryan Naderi's strike gave Rangers their second win against Celtic in eight days to move within two points of their Old Firm rivals at the top of the Scottish Premiership.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/celtic-vs-rangers/report/558374",
+      "published": "Sun, 20 Sep 2026 13:50:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "巨大なエラーコスト West Brom ダービーのウルフスプレベールとして",
+      "summary": "後半の目標から Fer Lopez 彼らのダービー会議で1-0 の勝利を獲得しました West Brom 獲得を問い合わせ EFL チャンピオンシップ Molineux で。",
+      "title_original": "Huge error costs West Brom as Wolves prevail in derby",
+      "summary_original": "A second-half goal from Fer Lopez gave Wolves a 1-0 victory in their derby meeting with West Brom in the Sky Bet Championship at Molineux.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-west-bromwich-albion/report/560592",
+      "published": "Sun, 20 Sep 2026 14:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナル最新: ギムアラエス:ブライトン敗北は「許されない」でした",
       "summary": "",
       "title_original": "Arsenal latest: Guimaraes: Brighton defeat was 'unacceptable'",
@@ -3856,20 +3884,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ドミナントレンジャーズ勝つために値を取るセルティックライブ!",
-      "summary": "",
-      "title_original": "Dominant Rangers take deserved win at Celtic LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/celtic-vs-rangers/live/558374",
-      "published": "Sun, 20 Sep 2026 11:08:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3971,20 +3985,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズビートセルティックプレミアシップをカットするために再び2 ポイント",
-      "summary": "Ryan Naderi's ストライキレンジャーズ第2 勝利に対してセルティック7 日間で2 つのポイント内で移動オールドファーム上位のライバルスコティッシュ・プレミアシップ.",
-      "title_original": "Rangers beat Celtic again to cut Premiership lead to two points",
-      "summary_original": "Ryan Naderi's strike gave Rangers their second win against Celtic in seven days to move within two points of their Old Firm rivals at the top of the Scottish Premiership.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/celtic-vs-rangers/report/558374",
-      "published": "Sun, 20 Sep 2026 13:50:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "リヴァプール「Bournemouth が Sky でライブを閉じる」というレースではなかった!",
       "summary": "",
       "title_original": "Liverpool 'not at the races' as Bournemouth go close LIVE on Sky!",
@@ -4069,9 +4069,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フォックスは、Wentworth スリラーLIVE で McIlroy の追い越しに先立ちます!",
+      "title": "マキシロイ、フォックスがウェントワース・スリラー・LIVE で追いかけたレイエッジ!",
       "summary": "",
-      "title_original": "Fox edges ahead with McIlroy chasing in Wentworth thriller LIVE!",
+      "title_original": "Rai edges ahead with McIlroy, Fox chasing in Wentworth thriller LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/live-blog/12040/13590012/bmw-pga-championship-final-round-live-latest-scores-updates-highlights-as-rory-mcilroy-chases-wentworth-win",
@@ -4097,16 +4097,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "FAST START! サンダーランド極度のの後のレベルフェルナンデス無料キックライブ!",
+      "title": "シェルキ復元マンチェスター・シティリードオーバーサンダーランドライブ!",
       "summary": "",
-      "title_original": "FAST START! Sunderland level after super Fernandez free-kick LIVE!",
+      "title_original": "Cherki restores Man City's lead over Sunderland LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-city-vs-sunderland/live/559490",
       "published": "Wed, 12 Aug 2026 07:57:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
