@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-20T18:38:55.285220+00:00",
+  "updated_at": "2026-09-20T18:50:39.002584+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Gonzalo Garcia": "",
-    "Every Deadline Day": "",
-    "Sky Sports' Robert Lee": "",
     "Gian Piero Gasperini": "ジャン・ピエロ・ガスペリーニ",
     "Union Berlin": "1.FCウニオン・ベルリン",
     "Ilyas Ansah": "",
@@ -3001,7 +2998,10 @@
     "Álex Grimaldo": "",
     "BMW PGA": "",
     "Patrick Reed": "パトリック・リード",
-    "Furious Mourinho": ""
+    "Furious Mourinho": "",
+    "England's Charlotte Heath": "",
+    "Ladies European Tour": "欧州女子ゴルフツアー",
+    "La Sella Open": ""
   },
   "items": [
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "吹くことの後で熱は最初の LET イベントに勝ちます",
+      "summary": "England's Charlotte Heath しっかりした メイド欧州女子ゴルフツアー劇的なファッションでタイトル, 挑戦者のホストを離れて勝利を主張するために保持 La Sella Open デンディア、アリカンテ",
+      "title_original": "Heath bounces back after blowing lead to win first LET event",
+      "summary_original": "England's Charlotte Heath secured her maiden Ladies European Tour title in dramatic fashion, holding off a host of challengers to claim victory at the La Sella Open in Denia, Alicante.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13590212/la-sella-open-2026-charlotte-heath-bounces-back-after-blowing-four-shot-lead-to-claim-first-let-title",
+      "published": "Sun, 20 Sep 2026 18:45:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "McIlroy 閉じる 上の リード 後に BMW PGA 終了 | '私は私のチャンスを持っていた!'",
       "summary": "ローリー・マキロイ追いつくために彼の注意を回しましたパトリック・リード冷たいパターが彼に費用をかけた後、ドバイのタイトルに別のレースのために BMW PGA 選手権優勝。",
       "title_original": "McIlroy closes on Reed after BMW PGA near-miss | 'I had my chances!'",
@@ -3971,9 +3985,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ふりがなモウリーニョマドリードのダービーの敗北の後の ref の間違いの映像を保持して下さい",
-      "summary": "ジョゼ・モウリーニョポストマッチのニュース会議でメディアに2 つのタックルの写真を撮影レアル・マドリードの 2-1 ラ・リーガ敗北へアトレティコ・マドリード.",
-      "title_original": "Furious Mourinho holds up pictures of ref errors after Madrid derby defeat",
+      "title": "ふりがなモウリーニョマドリードのダービーの敗北の後の ref 'errors' の映像を保持します",
+      "summary": "ジョゼ・モウリーニョポストマッチのニュース会議でメディアに2 つのタックルの写真を撮ったレアル・マドリードの 2-1 ラ・リーガ敗北へアトレティコ・マドリード.",
+      "title_original": "Furious Mourinho holds up pictures of ref 'errors' after Madrid derby defeat",
       "summary_original": "Jose Mourinho held up pictures of two tackles to the media in his post-match news conference after Real Madrid's 2-1 La Liga defeat to Atletico Madrid.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590219/jose-mourinho-real-madrid-boss-holds-up-pictures-of-referee-errors-in-press-conference-after-defeat-to-atletico-madrid",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.nbcsports.com/nfl/scores",
       "published": "Sun, 20 Sep 2026 17:35:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "巨大なエラーコスト West BromWolves クラッチダービーウィン",
-      "summary": "後半の目標から Fer Lopez 彼らのダービー会議で1-0 の勝利を獲得しました West Brom 獲得を問い合わせ EFL チャンピオンシップ Molineux で。",
-      "title_original": "Huge error costs West Brom as Wolves clinch derby win",
-      "summary_original": "A second-half goal from Fer Lopez gave Wolves a 1-0 victory in their derby meeting with West Brom in the Sky Bet Championship at Molineux.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-west-bromwich-albion/report/560592",
-      "published": "Sun, 20 Sep 2026 14:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
