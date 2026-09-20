@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-20T14:36:26.286711+00:00",
+  "updated_at": "2026-09-20T14:50:14.702332+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Bukayo Saka's": "",
-    "Messi's Argentina": "",
     "Deadline Day Papers": "",
     "Tuesday's Deadline Day": "",
     "Troy Deeney": "トロイ・ディーニー",
@@ -3001,7 +2999,9 @@
     "Alvaro Arbeloa": "",
     "Ryan Naderi’s": "",
     "Fulham LIVE": "",
-    "Leeds LIVE": ""
+    "Leeds LIVE": "",
+    "Patrick Dorgu. Fulham": "",
+    "Iwobi Continue": ""
   },
   "items": [
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "Updates from 2pm (BST) kickoff at the Vitality Stadium Get in touch: contact Daniel via email I don’t imagine Rose spent too long sweating over his team. Kluivert is a miss, and of course Junior Kroupi is long-term injured, but otherwise, his team is pretty settled. Adam Scott, who we might’ve thought would leave in the summer, stayed, and has started the season in excellent form. His ball-carrying is exceptional and he offers height in both boxes; if he can develop his passing, especially shirt",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
-      "published": "Sun, 20 Sep 2026 14:20:03 GMT",
+      "published": "Sun, 20 Sep 2026 14:35:00 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3440,12 +3440,12 @@
     },
     {
       "title": "フラハム v マンチェスター・ユナイテッド: プレミアリーグ– ライブ",
-      "summary": "4.30pm(BST)キックオフからのアップデートクレイヴン・コテージ連絡を取る: 電子メール タハ ゲームについて我々 は 4 リーグ ゲームで、私はスパムメールのメールを取得する方法マイケル・キャリック5/2 は前に袋を付けるためにです Christmas. It’s すべてのビットは愚かだが、彼の位置がいかに激しいかを思い出させる、ゲームは今、彼はそれを持っていないインテル im タグ。それでは、どのように訪問するかクレイヴン・コテージサウンド? 一方、Fulham はリーグの一番下にあり、Alvaro Arbeloa 熱も感じます。その他、h をスリップアップ",
+      "summary": "4.30pm(BST)キックオフからのアップデートクレイヴン・コテージ連絡を取る: 電子メール タハ ゲームについてのファルハムは、アンフィールドに乗った側から変更されていない、ユナイテッドは、彼らのダービーの損失から1 の微調整を作るマンチェスター・シティ: ルーク・ショー交換する Patrick Dorgu. Fulham: Leno, Castagne, Affengruber, Bassey, Robinson, Berge, Charles, King, ボブ, Gonzalo,Iwobi Continue 読書...",
       "title_original": "Fulham v Manchester United: Premier League – live",
-      "summary_original": "Updates from 4.30pm (BST) kickoff at Craven Cottage Get in touch: email Taha about the game We’re four league games in and I’m getting spammy emails about how Michael Carrick is 5/2 to get sacked before Christmas. It’s all a bit silly but a reminder of how intense his position is, the game changing now he doesn’t have that interim tag. So how does a visit to Craven Cottage sound? On the one hand, Fulham are bottom of the league, with Alvaro Arbeloa feeling some heat, too. On the other, slip up h",
+      "summary_original": "Updates from 4.30pm (BST) kickoff at Craven Cottage Get in touch: email Taha about the game Fulham are unchanged from the side that drew at Anfield while United make one tweak from their derby loss against Manchester City: Luke Shaw replaces Patrick Dorgu. Fulham: Leno, Castagne, Affengruber, Bassey, Robinson, Berge, Charles, King, Bobb, Gonzalo, Iwobi Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
-      "published": "Sun, 20 Sep 2026 14:05:27 GMT",
+      "published": "Sun, 20 Sep 2026 14:32:25 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ゴルファー7 頭のノリッチのボルトン・プレベール",
+      "summary": "ノリッチは2 次連続4-3 に苦しむ EFL チャンピオンシップボルトンがスリル満点の遭遇でトップに出てきたように敗北 Carrow Road.",
+      "title_original": "Bolton prevail at Norwich in seven-goal thriller",
+      "summary_original": "Norwich suffered their second successive 4-3 Sky Bet Championship defeat as Bolton came out on top in a thrilling encounter at Carrow Road.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/norwich-city-vs-bolton-wanderers/report/560588",
+      "published": "Sun, 20 Sep 2026 15:38:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ヨーロピアンツアープレーヤーの安全上の懸念にもかかわらず、UAE でプレイオフを維持する計画",
       "summary": "ヨーロピアンツアー執行役員 Guy Kinnings 季節限定のプレイオフを保ちつつ計画が確認されています中東, 地域における継続的な競合にもかかわらず.",
       "title_original": "DP World Tour plans to keep Play-Offs in UAE despite player safety concerns",
@@ -3887,9 +3901,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "巨大なエラーコスト West Brom ダービーのウルフスプレベールとして",
+      "title": "巨大なエラーコスト West BromWolves クラッチダービーウィン",
       "summary": "後半の目標から Fer Lopez 彼らのダービー会議で1-0 の勝利を獲得しました West Brom 獲得を問い合わせ EFL チャンピオンシップ Molineux で。",
-      "title_original": "Huge error costs West Brom as Wolves prevail in derby",
+      "title_original": "Huge error costs West Brom as Wolves clinch derby win",
       "summary_original": "A second-half goal from Fer Lopez gave Wolves a 1-0 victory in their derby meeting with West Brom in the Sky Bet Championship at Molineux.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-west-bromwich-albion/report/560592",
@@ -3915,9 +3929,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "World Series インフォメーション Darts LIVE! リトルはセミファイナルの場所にクレイトンに直面しています",
+      "title": "World Series インフォメーション Darts LIVE! 敗北対クレイトンで微調整",
       "summary": "",
-      "title_original": "World Series of Darts LIVE! Littler faces Clayton for place in semi-finals",
+      "title_original": "World Series of Darts LIVE! Littler stunned in defeat vs Clayton",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/live-blog/12040/13590021/world-series-of-darts-live-scores-updates-commentary-from-quarter-finals-semi-finals-final-as-luke-littler-seeks-amsterdam-title",
@@ -4041,9 +4055,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Isak 置きますリヴァプール獲得を問い合わせ Bournemouth LIVE 空に!",
+      "title": "リヴァプールイザクゴール LIVE を通じてボーンマスをリード!",
       "summary": "",
-      "title_original": "Isak puts Liverpool ahead at Bournemouth LIVE on Sky!",
+      "title_original": "Liverpool leading at Bournemouth through Isak goal LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bournemouth-vs-liverpool/live/559484",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13589388/today-on-sky-sports-racing-jumps-action-from-plumpton-as-mojito-des-mottes-and-edelak-clash-in-sundays-feature",
       "published": "Sun, 20 Sep 2026 07:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リトルは、アムステルダムでブームと笛の後、オランダの少年団を脅かす",
-      "summary": "Luke Littler オランダのボーイコット大会に挑発し、勝利を勝ち抜く。Nathan Aspinall 獲得を問い合わせ World Series ダーツ",
-      "title_original": "Littler threatens Dutch boycott after boos and whistles in Amsterdam",
-      "summary_original": "Luke Littler threatened to boycott tournaments in the Netherlands after being booed and whistled at during his win over Nathan Aspinall at the World Series of Darts.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13589960/world-series-of-darts-finals-luke-littler-wins-last-leg-decider-vs-nathan-aspinall-to-move-step-closer-to-sweep-of-majors-in-one-year",
-      "published": "Sat, 19 Sep 2026 22:27:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
