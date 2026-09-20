@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T13:36:31.337288+00:00",
+  "updated_at": "2026-09-20T13:50:43.951429+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "Stephen Warnock": "",
@@ -3047,20 +3047,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Cusack 'シャツのナンバー以上’ 記念日は、要求の遅延時に落ちます",
-      "summary": "第三記念日 Maddy Cusack's サッカー選手の質問で一時停止中に死が落ちます。",
-      "title_original": "Cusack 'more than a number on a shirt' as anniversary falls during inquest delay",
-      "summary_original": "The third anniversary of Maddy Cusack's death falls during a pause in the footballer's inquest.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 23:17:57 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ブライトン過去のクルーズアーセナルチャンピオンの完璧なスタートを終わらせる",
       "summary": "ブライトン3-0 の勝利を上回るプレミアリーグチャンピオンアーセナルガンナーズのシーズン初戦を圧倒する。",
       "title_original": "Brighton cruise past Arsenal to end champions' perfect start",
@@ -3128,6 +3114,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Cusack 'シャツのナンバー以上’ 記念日は、要求の遅延時に落ちます",
+      "summary": "第三記念日 Maddy Cusack's サッカー選手の質問で一時停止中に死が落ちます。",
+      "title_original": "Cusack 'more than a number on a shirt' as anniversary falls during inquest delay",
+      "summary_original": "The third anniversary of Maddy Cusack's death falls during a pause in the footballer's inquest.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 23:17:57 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3215,20 +3215,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "クラークは、ポストマッチでハートルプールボスとして辞退インテルニュース",
-      "summary": "Lee Clark リサインとしてハートリプール・ユナイテッド FC ワージングによる3-1 ホーム敗北に続く7 試合で6 敗後のヘッドコーチ。",
-      "title_original": "Clark resigns as Hartlepool boss in post-match interview",
-      "summary_original": "Lee Clark resigns as Hartlepool United head coach after a sixth loss in seven games following the 3-1 home defeat by Worthing.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6evwk1kee3po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 15:14:10 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "オライドマンチェスター・ユナイテッド「強い週」の後に大きな一歩を踏み出す",
       "summary": "1 週間前、写真マンチェスター・ユナイテッド見ました。その後、土曜日に勝利は彼らから逃げたアーセナル. しかし、我々は、改善の兆候を見てきました Eva Olid's サイド?",
       "title_original": "Olid's Man Utd take big step forward after 'intense week'",
@@ -3239,6 +3225,20 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "クラークは、ポストマッチでハートルプールボスとして辞退インテルニュース",
+      "summary": "Lee Clark リサインとしてハートリプール・ユナイテッド FC ワージングによる3-1 ホーム敗北に続く7 試合で6 敗後のヘッドコーチ。",
+      "title_original": "Clark resigns as Hartlepool boss in post-match interview",
+      "summary_original": "Lee Clark resigns as Hartlepool United head coach after a sixth loss in seven games following the 3-1 home defeat by Worthing.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6evwk1kee3po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 15:14:10 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3313,20 +3313,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Wrexham のブースト&アレクサンダーの理想的な場所 -Aaron McLean's EFL テイクアウト",
-      "summary": "BBC Final Score ログイン Aaron McLeanWrexham、QPR などの EFL の週末の話ポイントを見てみましょう。ブラッドフォード・シティ AFC.",
-      "title_original": "Wrexham's boost & Alexander in ideal place - Aaron McLean's EFL takeaways",
-      "summary_original": "BBC Final Score pundit Aaron McLean looks at the weekend's talking points in the EFL, including Wrexham, QPR and Bradford City.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gdj405n2no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 19:15:35 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "アーセナルスコア 直前のイコライザー 否定するマンチェスター・ユナイテッド最初の WSL の勝利",
       "summary": "アーセナル最後のガスプ レベラーをスルーSmilla Holmberg, 否定する Eva Olid 彼女の最初の勝利としてマンチェスター・ユナイテッド第3 試合のマネージャーを担当。",
       "title_original": "Arsenal score last-minute equaliser to deny Man Utd first WSL win",
@@ -3397,6 +3383,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Wrexham のブースト&アレクサンダーの理想的な場所 -Aaron McLean's EFL テイクアウト",
+      "summary": "BBC Final Score ログイン Aaron McLeanWrexham、QPR などの EFL の週末の話ポイントを見てみましょう。ブラッドフォード・シティ AFC.",
+      "title_original": "Wrexham's boost & Alexander in ideal place - Aaron McLean's EFL takeaways",
+      "summary_original": "BBC Final Score pundit Aaron McLean looks at the weekend's talking points in the EFL, including Wrexham, QPR and Bradford City.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gdj405n2no?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 19:15:35 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Lowly Peterborough マネージングマネージャー ウィリアムズ",
       "summary": "ピーターバラ・ユナイテッド FC サックマネージャーLuke WilliamsDoncaster が自宅で土曜日の敗北が下から2 番目に残っている League One.",
       "title_original": "Lowly Peterborough sack manager Williams",
@@ -3431,7 +3431,7 @@
       "summary_original": "Updates from 2pm (BST) kickoff at the Vitality Stadium Get in touch: contact Daniel via email I don’t imagine Rose spent too long sweating over his team. Kluivert is a miss, and of course Junior Kroupi is long-term injured, but otherwise, his team is pretty settled. Adam Scott, who we might’ve thought would leave in the summer, stayed, and has started the season in excellent form. His ball-carrying is exceptional and he offers height in both boxes; if he can develop his passing, especially shirt",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
-      "published": "Sun, 20 Sep 2026 13:20:01 GMT",
+      "published": "Sun, 20 Sep 2026 13:34:39 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3985,9 +3985,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプール「Bournemouth が Sky でライブを閉じる」というレースではなかった!",
+      "title": "リヴァプール Lethargic の見方 Bournemouth LIVE スカイに!",
       "summary": "",
-      "title_original": "Liverpool 'not at the races' as Bournemouth go close LIVE on Sky!",
+      "title_original": "Liverpool 'looking lethargic' at Bournemouth LIVE on Sky!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bournemouth-vs-liverpool/live/559484",
@@ -4019,7 +4019,7 @@
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/leeds-united-vs-crystal-palace/live/559489",
-      "published": "Wed, 12 Aug 2026 07:49:00 BST",
+      "published": "Sun, 20 Sep 2026 12:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4097,13 +4097,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "シェルキ復元マンチェスター・シティリードオーバーサンダーランドライブ!",
+      "title": "半分の目標! Semenyo 復元マンチェスター・シティリードライブ!",
       "summary": "",
-      "title_original": "Cherki restores Man City's lead over Sunderland LIVE!",
+      "title_original": "FIVE goals in one half! Semenyo restores Man City's lead LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-city-vs-sunderland/live/559490",
-      "published": "Wed, 12 Aug 2026 07:57:00 BST",
+      "published": "Sun, 20 Sep 2026 12:30:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
