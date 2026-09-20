@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-20T17:05:45.418400+00:00",
+  "updated_at": "2026-09-20T17:23:17.109121+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Arsenal's Nwaneri": "",
     "Ethan Nwaneri": "イーサン・ヌワネリ",
     "Portugal. England": "",
     "Potential Fernandez": "",
@@ -3001,7 +3000,8 @@
     "JJ Spaun": "J.J.スポーン",
     "Week Two": "",
     "Darts Finals LIVE": "",
-    "HORROR Martinez": ""
+    "HORROR Martinez": "",
+    "HORROR Martinez OG LIVE": ""
   },
   "items": [
     {
@@ -3047,6 +3047,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「ラップする時間があるかもしれません」 - O'Neill ponders セルティック敗北後の未来",
+      "summary": "マーティン・オニール彼が使用することを言うインテル後の位置に反映する国民の休憩セルティックビッグゲームで3 回連続敗北する。",
+      "title_original": "'It might be time to wrap it up' - O'Neill ponders Celtic future after defeat",
+      "summary_original": "Martin O'Neill says he will use the international break to reflect on his position after Celtic suffer three consecutive defeats in big games.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqdj4per0jejo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 17:13:06 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Jacquet と Alisson impress - ボーンマス v リヴァプール評価",
       "summary": "How Bournemouth そして、リヴァプール自分の中に評価された選手プレミアリーグマッチ。",
       "title_original": "Jacquet and Alisson impress - Bournemouth v Liverpool ratings",
@@ -3072,20 +3086,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レンジャーズ McInnes の flip 物語はマークを作ります",
-      "summary": "コンサルティングオールドファームダービーウィンズショーDerek McInnes マークを作ろうレンジャーズ集合開始後。",
-      "title_original": "Rangers flip narrative as McInnes makes mark",
-      "summary_original": "Consecutive Old Firm derby wins show Derek McInnes is starting to make his mark at Rangers after a mortifying start.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpe94rw3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 15:54:04 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3156,6 +3156,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンジャーズ McInnes の flip 物語はマークを作ります",
+      "summary": "コンサルティングオールドファームダービーウィンズショーDerek McInnes マークを作ろうレンジャーズ集合開始後。",
+      "title_original": "Rangers flip narrative as McInnes makes mark",
+      "summary_original": "Consecutive Old Firm derby wins show Derek McInnes is starting to make his mark at Rangers after a mortifying start.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpe94rw3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 15:54:04 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3258,9 +3272,9 @@
     },
     {
       "title": "Atletico 勝つ feisty Madrid derby から 10 男 リアル",
-      "summary": "アトレティコ・マドリードビートレアル・マドリード強烈なダービーで、自分のライバルの上に2 番目の場所に移動ラ・リーガ.",
+      "summary": "アトレティコ・マドリードビートレアル・マドリード強烈なダービーで、自分のライバルの上に2 番目の場所に移動ラ・リーガテーブル。",
       "title_original": "Atletico win feisty Madrid derby against 10-man Real",
-      "summary_original": "Atletico Madrid beat Real Madrid in a feisty derby to move above their rivals into second place in La Liga.",
+      "summary_original": "Atletico Madrid beat Real Madrid in a feisty derby to move above their rivals into second place in the La Liga table.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cqkgxp97nxzno?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 20 Sep 2026 17:00:46 GMT",
@@ -3411,27 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Moyes は、エヴァートン- しかしヨーロッパに言及しない",
-      "summary": "第5 回 の の のプレミアリーグ今シーズンも負けないテーブルエヴァートン上にあるが、上司デイヴィッド・モイーズさらなる改善を望んでいる - 欧州に言及しないでください。",
-      "title_original": "Moyes demands more from Everton - but don't mention Europe",
-      "summary_original": "Fifth in the Premier League table and yet to lose this season, Everton are on the up, but boss David Moyes wants further improvements - and don't mention Europe.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmlye7z7q5r7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 19:48:28 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フラハム v マンチェスター・ユナイテッド: プレミアリーグ– ライブ",
+      "title": "フラハム 1-1 マンチェスター・ユナイテッド: プレミアリーグ– ライブ反応",
       "summary": "4.30pm(BST)キックオフからのアップデートクレイヴン・コテージ連絡を取る: ゲームについてのメール Taha マンチェスター・ユナイテッド全て青の番号をロックしています。彼らは物事をオフにキック.クレイヴン・コテージ太陽の日: どこがいいですか? 続きを読む...",
-      "title_original": "Fulham v Manchester United: Premier League – live",
+      "title_original": "Fulham 1-1 Manchester United: Premier League – live reaction",
       "summary_original": "Updates from 4.30pm (BST) kickoff at Craven Cottage Get in touch: email Taha about the game Manchester United are rocking their all-blue number. They kick things off. Craven Cottage in the sun: where would you rather be? Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
-      "published": "Sun, 20 Sep 2026 16:49:05 GMT",
+      "published": "Sun, 20 Sep 2026 17:20:14 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3468,9 +3468,9 @@
     },
     {
       "title": "リーズスタンレーメイト後、シーズン開始まで延長クリスタル・パレス",
-      "summary": "おそらくそれは進歩に精通しているリーズ戻ってきたので作りましたプレミアリーグわずか1 年以上前から、ドローイング後に3 分の1 まで動かせる失敗に不満があったクリスタル・パレス. 代わりに,Daniel Farke’s 側面は延長された入りますインテル第5 回と非ベアテンの国民の休憩、それはそれ自体の素晴らしい成果です。アパートから Tyrick Mitchell’s ゴールを許さなかったら、ポイントをしっかり守ってくれるような印象を与えてくれなかった。獲得を問い合わせクリスタル・パレス最初でしたクリーンシート海荘の",
+      "summary": "おそらくそれは進歩に精通しているリーズ戻ってきたので作りましたプレミアリーグわずか1 年以上前から、ドローイング後に3 分の1 まで動かせる失敗に不満があったクリスタル・パレス. 代わりに,Daniel Farke’s チームは延長された入りますインテル第5 回と無縁の国民の休憩、それ自体の素晴らしい業績です。アパートから Tyrick Mitchell’s ゴールを許さないと、ポイントをしっかり確保するという印象があまりなかった。のためにクリスタル・パレス最初でしたクリーンシート海荘の",
       "title_original": "Leeds extend unbeaten start to season after stalemate with Crystal Palace",
-      "summary_original": "Perhaps it is testament to the progress Leeds have made since returning to the Premier League just over a year ago that there was frustration at failing to move up to third after drawing with Crystal Palace. Instead, Daniel Farke’s side enter the prolonged international break in fifth and unbeaten, which is a fine achievement in itself. Apart from Tyrick Mitchell’s disallowed goal, neither side gave much impression they would secure the points. For Palace, it was a first clean sheet of the seaso",
+      "summary_original": "Perhaps it is testament to the progress Leeds have made since returning to the Premier League just over a year ago that there was frustration at failing to move up to third after drawing with Crystal Palace. Instead, Daniel Farke’s team enter the prolonged international break in fifth and unbeaten, which is a fine achievement in itself. Apart from Tyrick Mitchell’s disallowed goal, neither side gave much impression they would secure the points. For Palace, it was a first clean sheet of the seaso",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/20/leeds-crystal-palace-premier-league-match-report",
       "published": "Sun, 20 Sep 2026 15:08:52 GMT",
@@ -3943,9 +3943,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド後にフルハムでトレイル HORROR Martinez オウンゴールライブ!",
+      "title": "マンチェスター・ユナイテッド後にフルハムでレベル遅れ HORROR Martinez OG LIVE!",
       "summary": "",
-      "title_original": "Man Utd trail at Fulham after HORROR Martinez own goal LIVE!",
+      "title_original": "Man Utd level late on at Fulham after HORROR Martinez OG LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/fulham-vs-manchester-united/live/559488",
@@ -4083,9 +4083,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "セルティック「大きなトラブル」で「リセット」が必要とされている",
+      "title": "セルティック「大きなトラブルで」と言った後に「リセット」オールドファームキャンセル",
       "summary": "The Sky Sports パンディットは、彼らの分析に苦しんでいたマーティン・オニール獲得を問い合わせセルティック彼らが失われた後にレンジャーズ8 日連続で2 回目となる。",
-      "title_original": "Celtic are 'in big trouble' and told a 'reset' is needed",
+      "title_original": "Celtic 'in big trouble' and told 'reset' needed after Old Firm loss",
       "summary_original": "The Sky Sports pundits were damning in their analysis of Martin O'Neill's Celtic after they lost to Rangers for the second time in eight days.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590096/celtic-0-1-rangers-neil-lennon-calls-for-hoops-reset-but-martin-oneill-insists-latest-old-firm-defeat-no-disaster",
