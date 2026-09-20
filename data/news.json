@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-20T20:49:16.743774+00:00",
+  "updated_at": "2026-09-20T21:06:45.055973+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Ben Stokes": "ベン・ストークス",
-    "Ibrahim Mbaye": "イブラヒム・エンバイェ",
     "Schumacher-inspired Italian GP": "",
     "Mark Langdon": "",
     "Newcastle. Continue": "",
@@ -3001,7 +2999,9 @@
     "Troy Deeney": "トロイ・ディーニー",
     "Morgan Gibbs": "",
     "Leicestershire Foxes": "",
-    "Trent Bridge": ""
+    "Trent Bridge": "",
+    "PGA Tour": "PGAツアー",
+    "Jacob Bridgeman": ""
   },
   "items": [
     {
@@ -3100,6 +3100,20 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ブンデスリーガ",
+      "summary": "マッチデイ4 のハイライトを見るブンデスリーガ.",
+      "title_original": "Bundesliga",
+      "summary_original": "Watch highlights from matchday four in the Bundesliga.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/iplayer/episode/l0058tms?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 20:39:49 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3271,20 +3285,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Cusack 'シャツのナンバー以上’ 記念日は、要求の遅延時に落ちます",
-      "summary": "第三記念日 Maddy Cusack's サッカー選手の質問で一時停止中に死が落ちます。",
-      "title_original": "Cusack 'more than a number on a shirt' as anniversary falls during inquest delay",
-      "summary_original": "The third anniversary of Maddy Cusack's death falls during a pause in the footballer's inquest.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 23:17:57 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ホールドスコアハットトリックとしてトッテナム thrash 10 プレイクリスタル・パレス",
       "summary": "オリビア・ホルト (サッカー選手)クレームハットトリックとしてトッテナムスコア 7 回 後半 非難 10 選手クリスタル・パレス彼らの最初の敗北に戻って推進されているので、Women's Super League.",
       "title_original": "Holdt scores hat-trick as Spurs thrash 10-player Palace",
@@ -3355,6 +3355,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Cusack 'シャツのナンバー以上’ 記念日は、要求の遅延時に落ちます",
+      "summary": "第三記念日 Maddy Cusack's サッカー選手の質問で一時停止中に死が落ちます。",
+      "title_original": "Cusack 'more than a number on a shirt' as anniversary falls during inquest delay",
+      "summary_original": "The third anniversary of Maddy Cusack's death falls during a pause in the footballer's inquest.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 23:17:57 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ブライトン謙虚な「大きなレッスン」アーセナル - アルテタ",
       "summary": "比類のないパフォーマンスアーセナルガンナーズ船を見た3 ゴール敗北にブライトン- しかし、損失は必要な「大きなレッスン」になる可能性がありますか?",
       "title_original": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
@@ -3408,20 +3422,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Castellanos spitting 主張 Overshadows ウェストハムキャラクターのショー",
-      "summary": "ミルウォールのキーパーFilip Marshcall 彼がスパットだったアレグウェストハム獲得 Taty Castellanos2-2 の描画中。",
-      "title_original": "Castellanos spitting claim overshadows West Ham's show of character",
-      "summary_original": "Millwall keeper Filip Marshcall alleges he was spat at by West Ham forward Taty Castellanos during their 2-2 draw.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvqrn8eyzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 16:18:21 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3971,6 +3971,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ブリッジマンのレースに PGA ツアー前のタイトルプレジデンツカップ",
+      "summary": "Jacob Bridgeman 今週の頭プレジデンツカップ2 回デビューPGA ツアー印象的な2 ショットの勝利に嵐の後チャンピオン Biltmore Championship.",
+      "title_original": "Bridgeman races to PGA Tour title ahead of Presidents Cup",
+      "summary_original": "Jacob Bridgeman heads into this week's Presidents Cup debut as a two-time PGA Tour champion after storming to an impressive two-shot win at the Biltmore Championship.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13590262/pga-tour-jacob-bridgeman-races-to-biltmore-championship-victory-to-provide-team-usa-form-boost-for-presidents-cup",
+      "published": "Sun, 20 Sep 2026 21:45:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "クリスタル・パレス unbeaten の安全な貴重なポイントリーズ",
       "summary": "クリスタル・パレスフォームと非認証で便利なポイントを確保リーズとして Pierre Sage's 側面は、ホストをゴールレスに描くために大いに改善された防御的な表示を作り出しましたエランド・ロード.",
       "title_original": "Palace secure valuable point at unbeaten Leeds",
@@ -4108,20 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "勝つためにバードリー、プレーオフのためのパー... Elvira's nightmare 仕上げ手 Spaun タイトル",
-      "summary": "J.J.スポーン勝つ BMW PGA 選手権アフターManuel Elvira トーナメントの最終ホールにナイトマーレ7 をカードしました。",
-      "title_original": "Birdie to win, par for a play-off... Elvira's nightmare finish hands Spaun title",
-      "summary_original": "JJ Spaun wins the BMW PGA Championship after Manuel Elvira carded a nightmare seven on the final hole of the tournament.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13590176/bmw-pga-championship-jj-spaun-wins-as-manuel-elvira-cards-seven-on-final-hole",
-      "published": "Sun, 20 Sep 2026 17:29:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
