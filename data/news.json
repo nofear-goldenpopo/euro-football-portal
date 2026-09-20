@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-20T10:23:42.762252+00:00",
+  "updated_at": "2026-09-20T10:36:50.917749+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Everton's Ndiaye": "",
-    "Villa Park": "ヴィラ・パーク",
-    "North Stand": "",
     "Poor Villa. They": "",
     "The Argentine’s": "",
     "FedEx Cup": "",
@@ -3001,7 +2998,10 @@
     "Liam Scales. Kasper Hogh": "",
     "Haissem Hassan": "",
     "James Forrest": "",
-    "Tyrrell Hatton": ""
+    "Tyrrell Hatton": "",
+    "Maddy Cusack's": "",
+    "Darts LIVE": "",
+    "BMW PGA LIVE": ""
   },
   "items": [
     {
@@ -3044,6 +3044,20 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Cusack 'シャツのナンバー以上’ 記念日は、要求の遅延時に落ちます",
+      "summary": "第三記念日 Maddy Cusack's サッカー選手の質問で一時停止中に死が落ちます。",
+      "title_original": "Cusack 'more than a number on a shirt' as anniversary falls during inquest delay",
+      "summary_original": "The third anniversary of Maddy Cusack's death falls during a pause in the footballer's inquest.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 23:17:57 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3117,20 +3131,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Ratcliffe 'must go' 言うマンチェスター・ユナイテッドムスリムファングループ",
-      "summary": "ザ・オブ・ザ・マンチェスター・ユナイテッドムスリム Supporters Club ユナイテッド共同所有者は言うジム・ラトクリフ彼が移民に対して話した後に「必見」し、国は「スライドで」と言いました。",
-      "title_original": "Ratcliffe 'must go' says Man Utd Muslim fan group",
-      "summary_original": "The Manchester United Muslim Supporters Club says United co-owner Sir Jim Ratcliffe \"must go\" after he spoke out against immigration and said the country was \"on the slide\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 14:52:38 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ブライトン過去のクルーズアーセナルチャンピオンの完璧なスタートを終わらせる",
       "summary": "ブライトン3-0 の勝利を上回るプレミアリーグチャンピオンアーセナルガンナーズのシーズン初戦を圧倒する。",
       "title_original": "Brighton cruise past Arsenal to end champions' perfect start",
@@ -3201,6 +3201,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Ratcliffe 'must go' 言うマンチェスター・ユナイテッドムスリムファングループ",
+      "summary": "ザ・オブ・ザ・マンチェスター・ユナイテッドムスリム Supporters Club ユナイテッド共同所有者は言うジム・ラトクリフ彼が移民に対して話した後に「必見」し、国は「スライドで」と言いました。",
+      "title_original": "Ratcliffe 'must go' says Man Utd Muslim fan group",
+      "summary_original": "The Manchester United Muslim Supporters Club says United co-owner Sir Jim Ratcliffe \"must go\" after he spoke out against immigration and said the country was \"on the slide\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 14:52:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "クラークは、ポストマッチでハートルプールボスとして辞退インテルニュース",
       "summary": "Lee Clark リサインとしてハートリプール・ユナイテッド FC ワージングによる3-1 ホーム敗北に続く7 試合で6 敗後のヘッドコーチ。",
       "title_original": "Clark resigns as Hartlepool boss in post-match interview",
@@ -3240,20 +3254,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "なぜ?Black Country ダービーは、Wolves と West Brom",
-      "summary": "ウルフとウェスト・ブロムウィッチ・アルビオン FC 初めての出会い Black Country2021 年5 月よりリーグで初めての方へ",
-      "title_original": "Why the Black Country derby means so much to Wolves and West Brom",
-      "summary_original": "Wolves and West Bromwich Albion meet for the first time in a Black Country derby for the first time in the league since May 2021.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c64gd454lykno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 10:43:41 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3431,7 +3431,7 @@
       "summary_original": "News, discussion and updates before Sunday’s games This weekend’s fixtures | Mail us your thoughts How things stand in the Premier League… At Hill Dickinson Stadium, Thierno Barry fired Everton to a 1-0 win against 10-man Ipswich Town. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
-      "published": "Sun, 20 Sep 2026 10:15:25 GMT",
+      "published": "Sun, 20 Sep 2026 10:34:25 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3439,13 +3439,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "セルティック. .レンジャーズ: スコティッシュ・プレミアシップ– ライブ",
-      "summary": "更新情報オールドファームダービー, ミッドデイキックオフ (BST) 連絡を取る: ゲームについてのジョンを電子メール Derek McInnesIbrox で先週の勝利から同じスタートチームを選びました。セルティックバックで3 つを上回っているように見える - O'Neill が初めて成功を収めた形成セルティック. Auston Trusty ラインアップキャメロン・カーター＝ヴィッカースそして、Liam Scales. Kasper Hogh, Haissem Hassan, Oliver Sorensen と James Forrest4 人の選手が下落しています。セルティック: Sinisalo、Trusty、Carter-Vickers、Scal",
+      "title": "セルティックツイートレンジャーズ: スコティッシュ・プレミアシップ– ライブ",
+      "summary": "更新情報オールドファームダービー, ミッドデイキックオフ (BST) 連絡を取ります: ゲームについてのメールジョンは、実際にバックで3 です?マーティン・オニール、絶えず、それを水銀を保ちます。「両方のオプションを持っていますが、私は3 つまたは5 つを再生するつもりはない」。所要時間は約1 時間です。長年、私は2 つの広いプレーヤーで3 を再生しました。しかし、今日のシステムとは全く同じではありません。Derek McInnes また、スカイに話しました: 「ゲームが勝つので、常に意味しない」",
       "title_original": "Celtic v Rangers: Scottish Premiership – live",
-      "summary_original": "Updates from Old Firm derby, midday kickoff (BST) Get in touch: email John about the game Derek McInnes has picked the same starting team from last week’s win at Ibrox. Celtic look to have gone three at the back – the formation that O’Neill had success with first time around at Celtic. Auston Trusty lines up alongside Cameron Carter-Vickers and Liam Scales. Kasper Hogh, Haissem Hassan, Oliver Sorensen, and James Forrest are the four players dropped. Celtic: Sinisalo, Trusty, Carter-Vickers, Scal",
+      "summary_original": "Updates from Old Firm derby, midday kickoff (BST) Get in touch: email John about the game Is it actually three at the back? Martin O’Neill, as ever, keeps it mercurial. “We’ve got the options for both - but I’m not sure we’re going to play three or five [at the back]. You’ll find out in about an hour’s time. For years I played three at the back with two wide players. But this is not exactly that system today.” Derek McInnes also spoke to Sky: “Just because you win the game doesn’t mean it always",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/celtic-v-rangers-scottish-premiership-live",
-      "published": "Sun, 20 Sep 2026 10:17:07 GMT",
+      "published": "Sun, 20 Sep 2026 10:32:56 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3845,13 +3845,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "セルティック対比レンジャーズチームニュース LIVE!",
+      "title": "McCowan の 3 つの変更セルティック, レンジャーズ未変更の LIVE!",
       "summary": "",
-      "title_original": "Celtic vs Rangers team news LIVE!",
+      "title_original": "McCowan one of three changes for Celtic, Rangers unchanged LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/celtic-vs-rangers/live/558374",
       "published": "Sun, 20 Sep 2026 11:08:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "World Series インフォメーション Darts LIVE! リトル, 価格,Van Veen アムステルダムのタイトルを求める",
+      "summary": "",
+      "title_original": "World Series of Darts LIVE! Littler, Price, Van Veen seek Amsterdam title",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/live-blog/12040/13590021/world-series-of-darts-live-scores-updates-commentary-from-quarter-finals-semi-finals-final-as-luke-littler-seeks-amsterdam-title",
+      "published": "Sun, 20 Sep 2026 10:52:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3964,6 +3978,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13589960/world-series-of-darts-finals-luke-littler-wins-last-leg-decider-vs-nathan-aspinall-to-move-step-closer-to-sweep-of-majors-in-one-year",
       "published": "Sat, 19 Sep 2026 22:27:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Lacroix は、McIlroy が衝撃的なリーダーを追いかけると驚くべきエースを発射します BMW PGA LIVE!",
+      "summary": "",
+      "title_original": "Lacroix fires amazing ace as McIlroy chases shock leaders at BMW PGA LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13590012/bmw-pga-championship-final-round-live-latest-scores-updates-highlights-as-rory-mcilroy-chases-wentworth-win",
+      "published": "Sun, 20 Sep 2026 11:20:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4094,34 +4122,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "The Blaze 最終ボールのスリラーで Hampshire を打つと、国内のトレブルを確保",
-      "summary": "The BlazeHampshire と最後のボールスリラーをエッジングすることで、国内のトレブルを確保 Metro Bank One Day カップ女子大会。",
-      "title_original": "The Blaze beat Hampshire in final-ball thriller to secure domestic treble",
-      "summary_original": "The Blaze secured a domestic treble by edging a last-ball thriller with Hampshire to win the Metro Bank One Day Cup women’s competition.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13589890/metro-bank-one-day-cup-womens-final-the-blaze-beat-hampshire-in-final-ball-thriller-to-secure-domestic-treble",
-      "published": "Sat, 19 Sep 2026 19:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Papers: Man Utd legend、up for I'm A Celebrity 獲得に迫る",
-      "summary": "日曜日の新聞から噂を移籍するトップストーリー...",
-      "title_original": "Papers: Man Utd legend set to sign up for I'm A Celebrity",
-      "summary_original": "The top stories and transfer rumours from Sunday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589966/wayne-rooney-manchester-united-and-england-legend-set-to-sign-up-for-im-a-celebrity-paper-talk",
-      "published": "Sat, 19 Sep 2026 22:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
