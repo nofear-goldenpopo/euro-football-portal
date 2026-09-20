@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-09-20T10:06:22.259263+00:00",
+  "updated_at": "2026-09-20T10:23:42.762252+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Enzo Fernandez": "",
-    "Lionel Messi's": "",
-    "Bluesky Unai Emery’s": "",
-    "Everton's Iliman Ndiaye": "",
-    "Joshua Kushner": "",
-    "Gianni Infantino's": "",
-    "Unai Emery’s": "",
-    "Arsenal LIVE": "",
     "Everton's Ndiaye": "",
     "Villa Park": "ヴィラ・パーク",
     "North Stand": "",
@@ -3001,7 +2993,15 @@
     "At Hill Dickinson Stadium": "",
     "Ipswich Town. Continue": "",
     "Paris FC’s": "",
-    "Liam Rosenior’s": ""
+    "Liam Rosenior’s": "",
+    "Derek McInnes": "",
+    "Ibrox. Celtic": "",
+    "Celtic. Auston Trusty": "",
+    "Cameron Carter-Vickers": "キャメロン・カーター＝ヴィッカース",
+    "Liam Scales. Kasper Hogh": "",
+    "Haissem Hassan": "",
+    "James Forrest": "",
+    "Tyrrell Hatton": ""
   },
   "items": [
     {
@@ -3131,20 +3131,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Gvardiol の信号は左の最もよいにのための戻りますマンチェスター・シティ",
-      "summary": "Josko Gvardiol's 最後のシーズンは深刻な怪我によって中断されたが、ディフェンダーは助けによって彼のベストに向かって戻ってくるように見えるマンチェスター・シティ新たなキャンペーンに着目する。",
-      "title_original": "Gvardiol signals return to best at left-back for Man City",
-      "summary_original": "Josko Gvardiol's season last time out was disrupted by a serious injury but the defender now appears to be returning towards his best by helping Manchester City to an impressive start to the new campaign.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0e35jrqyd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 21:31:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ブライトン過去のクルーズアーセナルチャンピオンの完璧なスタートを終わらせる",
       "summary": "ブライトン3-0 の勝利を上回るプレミアリーグチャンピオンアーセナルガンナーズのシーズン初戦を圧倒する。",
       "title_original": "Brighton cruise past Arsenal to end champions' perfect start",
@@ -3229,6 +3215,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Gvardiol の信号は左の最もよいにのための戻りますマンチェスター・シティ",
+      "summary": "Josko Gvardiol's 最後のシーズンは深刻な怪我によって中断されたが、ディフェンダーは助けによって彼のベストに向かって戻ってくるように見えるマンチェスター・シティ新たなキャンペーンに着目する。",
+      "title_original": "Gvardiol signals return to best at left-back for Man City",
+      "summary_original": "Josko Gvardiol's season last time out was disrupted by a serious injury but the defender now appears to be returning towards his best by helping Manchester City to an impressive start to the new campaign.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0e35jrqyd7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 21:31:17 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "オライドマンチェスター・ユナイテッド「強い週」の後に大きな一歩を踏み出す",
       "summary": "1 週間前、写真マンチェスター・ユナイテッド見ました。その後、土曜日に勝利は彼らから逃げたアーセナル. しかし、我々は、改善の兆候を見てきました Eva Olid's サイド?",
       "title_original": "Olid's Man Utd take big step forward after 'intense week'",
@@ -3299,20 +3299,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Carrick は、ダービーエラーにもかかわらず、VAR で信仰しています",
-      "summary": "マンチェスター・ユナイテッドヘッドコーチマイケル・キャリック依然として VAR で信仰しています。ダービー・ブランドにもかかわらず、自分の家の敗北に彼の側を負担マンチェスター・シティ",
-      "title_original": "Carrick has faith in VAR despite derby error",
-      "summary_original": "Manchester United head coach Michael Carrick still has faith in VAR despite the derby blunder that cost his side in their home defeat by Manchester City",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq8r64ppml6lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 21:30:56 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "近傍からヨーロッパへブライトンスタイルで125 周年を迎える",
       "summary": "閉塞から閉塞までプレミアリーグそしてヨーロッパ -ブライトン創業125 周年を迎える",
       "title_original": "From near oblivion to Europe - Brighton celebrate 125th anniversary in style",
@@ -3334,6 +3320,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmg490nn12pvo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 19 Sep 2026 16:58:29 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Carrick は、ダービーエラーにもかかわらず、VAR で信仰しています",
+      "summary": "マンチェスター・ユナイテッドヘッドコーチマイケル・キャリック依然として VAR で信仰しています。ダービー・ブランドにもかかわらず、自分の家の敗北に彼の側を負担マンチェスター・シティ",
+      "title_original": "Carrick has faith in VAR despite derby error",
+      "summary_original": "Manchester United head coach Michael Carrick still has faith in VAR despite the derby blunder that cost his side in their home defeat by Manchester City",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8r64ppml6lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 21:30:56 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3431,7 +3431,7 @@
       "summary_original": "News, discussion and updates before Sunday’s games This weekend’s fixtures | Mail us your thoughts How things stand in the Premier League… At Hill Dickinson Stadium, Thierno Barry fired Everton to a 1-0 win against 10-man Ipswich Town. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
-      "published": "Sun, 20 Sep 2026 09:42:42 GMT",
+      "published": "Sun, 20 Sep 2026 10:15:25 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3439,17 +3439,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "「毎日同じことを逃します」:Olivia Cusack 彼女の遅いサッカー選手の妹マディ",
-      "summary": "3 年後、家族は彼女の「レガシーの生活」を確実にするために決定されますシェフィールド・ユナイテッド FC プレイヤーの死 Olivia Cusack 彼女の妹、遅刻 Maddy Cusack, 一日一回、彼女は彼女の「レガシーの命」を元イングランドの若者の3 年後に保証するために決定されますインテル国民のミッドフィルダーの死。オリビア、マディの家族や友人と、徒歩29 マイル Bramall Lane, シェフィールド・ユナイテッド FC’s home, ホーズリーの家族の家へ, ダービーの近く, 土曜日に rai",
-      "title_original": "‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy",
-      "summary_original": "Family is determined to ensure her ‘legacy lives on’ three years after the Sheffield United player’s death Olivia Cusack says her sister, the late Maddy Cusack, is on her mind every single day and she is determined to ensure her “legacy lives on” three years after the former England youth international midfielder’s death. Olivia, together with family and friends of Maddy, walked 29 miles from Bramall Lane, Sheffield United’s home, to their family’s home in Horsley, near Derby, on Saturday to rai",
+      "title": "セルティック. .レンジャーズ: スコティッシュ・プレミアシップ– ライブ",
+      "summary": "更新情報オールドファームダービー, ミッドデイキックオフ (BST) 連絡を取る: ゲームについてのジョンを電子メール Derek McInnesIbrox で先週の勝利から同じスタートチームを選びました。セルティックバックで3 つを上回っているように見える - O'Neill が初めて成功を収めた形成セルティック. Auston Trusty ラインアップキャメロン・カーター＝ヴィッカースそして、Liam Scales. Kasper Hogh, Haissem Hassan, Oliver Sorensen と James Forrest4 人の選手が下落しています。セルティック: Sinisalo、Trusty、Carter-Vickers、Scal",
+      "title_original": "Celtic v Rangers: Scottish Premiership – live",
+      "summary_original": "Updates from Old Firm derby, midday kickoff (BST) Get in touch: email John about the game Derek McInnes has picked the same starting team from last week’s win at Ibrox. Celtic look to have gone three at the back – the formation that O’Neill had success with first time around at Celtic. Auston Trusty lines up alongside Cameron Carter-Vickers and Liam Scales. Kasper Hogh, Haissem Hassan, Oliver Sorensen, and James Forrest are the four players dropped. Celtic: Sinisalo, Trusty, Carter-Vickers, Scal",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/olivia-cusack-maddy-cusack-late-footballer-legacy-sheffield-united",
-      "published": "Sun, 20 Sep 2026 07:00:10 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
+      "url": "https://www.theguardian.com/football/live/2026/sep/20/celtic-v-rangers-scottish-premiership-live",
+      "published": "Sun, 20 Sep 2026 10:17:07 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3463,6 +3463,20 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「毎日同じことを逃します」:Olivia Cusack 彼女の遅いサッカー選手の妹マディ",
+      "summary": "3 年後、家族は彼女の「レガシーの生活」を確実にするために決定されますシェフィールド・ユナイテッド FC プレイヤーの死 Olivia Cusack 彼女の妹、遅刻 Maddy Cusack, 一日一回、彼女は彼女の「レガシーの命」を元イングランドの若者の3 年後に保証するために決定されますインテル国民のミッドフィルダーの死。オリビア、マディの家族や友人と、徒歩29 マイル Bramall Lane, シェフィールド・ユナイテッド FC’s home, ホーズリーの家族の家へ, ダービーの近く, 土曜日に rai",
+      "title_original": "‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy",
+      "summary_original": "Family is determined to ensure her ‘legacy lives on’ three years after the Sheffield United player’s death Olivia Cusack says her sister, the late Maddy Cusack, is on her mind every single day and she is determined to ensure her “legacy lives on” three years after the former England youth international midfielder’s death. Olivia, together with family and friends of Maddy, walked 29 miles from Bramall Lane, Sheffield United’s home, to their family’s home in Horsley, near Derby, on Saturday to rai",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/olivia-cusack-maddy-cusack-late-footballer-legacy-sheffield-united",
+      "published": "Sun, 20 Sep 2026 07:00:10 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3509,20 +3523,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "De Zerbi リッピングするトッテナムヴィラ敗北後の選手:「失望、悲しい、不満」",
-      "summary": "トッテナム2 つの後半の目標で3-2 を失う「この方法でゲームを失うことができません」とマネージャーは言うロベルト・デ・ゼルビ失敗に耐えるトッテナム3-2 敗北後のチームアストン・ヴィラ「この方法でゲームを失わない」と言っています。The Italian トンネルをフルタイムで直進しましたが、もう一度強制的に boos を強制しましたトッテナム3 週間に渡るインテル国民の休憩なしプレミアリーグ自分の名前とボード上の2 つのポイントへの勝利。De Zerbi 彼のテを批判",
-      "title_original": "De Zerbi rips into Spurs players after Villa defeat: ‘Disappointed, sad and frustrated’",
-      "summary_original": "Tottenham lose 3-2 at home with two late goals ‘We can’t lose the game in this way,’ says manager Roberto De Zerbi tore into his failing Tottenham team after their 3-2 defeat by Aston Villa, saying “we can’t lose the game in this way”. The Italian headed straight down the tunnel at full time, but was once again forced to endure boos as Tottenham went into the three-week international break without a Premier League victory to their name and just two points on the board. De Zerbi criticised his te",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/roberto-de-zerbi-spurs-disappointed-sad-frustrated",
-      "published": "Sat, 19 Sep 2026 17:01:07 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Holmberg 救助ポイントアーセナルしかし、マンチェスター・ユナイテッド WSL のマークをオフ",
       "summary": "アーセナルわずか95 分程度で安心 Smilla Holmberg ボルリーは、多くの改善に家でポイントを救助しましたマンチェスター・ユナイテッド一方、リーダーの背後まで懸念を根絶させるのは欠点ではありません。マンチェスター・シティ Renée Slegers のチームはすでに滑り、低ブロックを破壊するのに苦労する頻度です。免責事項マンチェスター・ユナイテッドノース・ロランダーズは、Eva Olid’s 側は、すべてのものを損なうパフォーマンスで彼女の緊張の最初のポイントを主張しました",
       "title_original": "Holmberg rescues point for Arsenal but Manchester United off the mark in WSL",
@@ -3537,17 +3537,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "居心地の良い喜びジェイ・ダシルヴァ勝者だがルールアウトゴールのライルノッティンガム・フォレスト",
-      "summary": "いいえ、しかし真剣に。Maybe Frank Lampard そしてコベントリーは達成できますプレミアリーグ生存。2001 年4 月以降、クラブ初のトップディビジョン・ウィンが激しく祝われ、自信が揺れる相手に不安定な対物レッスンを勝ち取った。ジェイ・ダシルヴァ’ s の優れた目標は、週単位で再現されなければならない打破防御性能によって配置された基礎に基づいて構築されました。. Coventry、漂白される中堅くして下さいノッティンガム・フォレスト’ の創造性, しかし、遅いビデオアシスタントに感謝することができます",
-      "title_original": "Coventry delight in Jay Dasilva winner but ruled-out goal riles Nottingham Forest",
-      "summary_original": "No, but seriously. Maybe Frank Lampard and Coventry can achieve Premier League survival. The club’s first top-division win since April 2001 was celebrated rapturously, victory an object lesson in unsettling opponents for whom confidence can waver. Jay Dasilva’s excellent goal was built on the foundations laid by a battling defensive performance that must be replicated on a weekly basis. Coventry, dogged throughout, blunted Nottingham Forest’s creativity, though could thank a late video assistant",
+      "title": "De Zerbi リッピングするトッテナムヴィラ敗北後の選手:「失望、悲しい、不満」",
+      "summary": "トッテナム2 つの後半の目標で3-2 を失う「この方法でゲームを失うことができません」とマネージャーは言うロベルト・デ・ゼルビ失敗に耐えるトッテナム3-2 敗北後のチームアストン・ヴィラ「この方法でゲームを失わない」と言っています。The Italian トンネルをフルタイムで直進しましたが、もう一度強制的に boos を強制しましたトッテナム3 週間に渡るインテル国民の休憩なしプレミアリーグ自分の名前とボード上の2 つのポイントへの勝利。De Zerbi 彼のテを批判",
+      "title_original": "De Zerbi rips into Spurs players after Villa defeat: ‘Disappointed, sad and frustrated’",
+      "summary_original": "Tottenham lose 3-2 at home with two late goals ‘We can’t lose the game in this way,’ says manager Roberto De Zerbi tore into his failing Tottenham team after their 3-2 defeat by Aston Villa, saying “we can’t lose the game in this way”. The Italian headed straight down the tunnel at full time, but was once again forced to endure boos as Tottenham went into the three-week international break without a Premier League victory to their name and just two points on the board. De Zerbi criticised his te",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/nottingham-forest-coventry-premier-league-match-report",
-      "published": "Sat, 19 Sep 2026 18:40:46 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/19/roberto-de-zerbi-spurs-disappointed-sad-frustrated",
+      "published": "Sat, 19 Sep 2026 17:01:07 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "セルティック対比レンジャーズチームニュース LIVE!",
+      "summary": "",
+      "title_original": "Celtic vs Rangers team news LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/celtic-vs-rangers/live/558374",
+      "published": "Sun, 20 Sep 2026 11:08:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "最も最近のゴルフ リーダーボード:BMW PGA 選手権詳しくはこちら",
       "summary": "DP ワールドツアーズを含む世界中から最新のゴルフスコアと結果 BMW PGA 選手権 Wentworth など",
       "title_original": "Latest golf leaderboards: BMW PGA Championship and more",
@@ -3957,13 +3971,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "McCowan がスタートセルティック, レンジャーズ未変更の LIVE!",
-      "summary": "",
-      "title_original": "McCowan starts for Celtic, Rangers unchanged LIVE!",
-      "summary_original": "",
+      "title": "ハットンは、木を通るアウトリージュのアプローチを撃つ!",
+      "summary": "Tyrrell Hatton 最後のラウンドでパーフォーのニンスを鳥取ったので、「通常の」アプローチショットをヒット BMW PGA 選手権.",
+      "title_original": "Hatton hits OUTRAGEOUS approach shot through the trees!",
+      "summary_original": "Tyrrell Hatton hit an 'extraordinary' approach shot as he birdied the par-four ninth during his final round at the BMW PGA Championship.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/celtic-vs-rangers/live/558374",
-      "published": "Sun, 20 Sep 2026 10:30:00 BST",
+      "url": "https://www.skysports.com/watch/video/13590022/bmw-pga-championship-tyrrell-hatton-hits-shot-of-the-year-contender",
+      "published": "Sun, 20 Sep 2026 11:03:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4108,20 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "イングランドは横にスワットスリランカ T20 世界ランクトップへ",
-      "summary": "イングランドは、T20 世界ランクのトップに戻って、彼らは間違いなく彼らの最もエフェファティックな勝利を獲得し、まだに皿詰めのシリーズでスリランカ、8 つのウィケットで観光客に会うオールド・トラッフォード・クリケット・グラウンド.",
-      "title_original": "England swat aside Sri Lanka to return to top of T20 world rankings",
-      "summary_original": "England returned to the top of the T20 world rankings as they earned arguably their most emphatic win yet in a series of drubbings dished out to Sri Lanka, beating the tourists by eight wickets at Emirates Old Trafford.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13589685/england-hammer-sri-lanka-to-return-top-of-t20-world-rankings-as-3-0-series-sweep-clinched-at-emirates-old-trafford",
-      "published": "Sat, 19 Sep 2026 17:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
