@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-20T08:06:17.368985+00:00",
+  "updated_at": "2026-09-20T08:25:27.157257+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Nicolas Jackson. Marco Bizot": "",
-    "João Gomes": "",
-    "Alejandro Garnacho": "",
     "US. The": "",
     "Mykhailo Mudryk": "ミハイロ・ムドリク",
     "Enzo Fernandez": "",
@@ -3001,7 +2998,10 @@
     "Pat Brown": "",
     "John Hedges": "",
     "Co-op Live": "",
-    "Ricky Hatton": "リッキー・ハットン"
+    "Ricky Hatton": "リッキー・ハットン",
+    "Zion Suzuki": "鈴木彩艶",
+    "At Hill Dickinson Stadium": "",
+    "Ipswich Town. Continue": ""
   },
   "items": [
     {
@@ -3439,17 +3439,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Iraola はボーンマスに戻り、マンチェスター・ユナイテッドファルハムに向かう - マッチデイライブ",
-      "summary": "日曜日のゲーム前のニュース、ディスカッション、アップデート 今週の週末の備品 | 想いを聞かせてくださいロベルト・デ・ゼルビ tore にトッテナム3-2 敗北後アストン・ヴィラ. デ・ツェルビは、彼のチームの精神性を批判しました, しかし、彼の選手の物理的状態だけでなく、, 代替品は言いました Mohammed Kudus チームのバランスを崩した。彼は言いました: 「私は非常に失望しています, 悲しいと性能のために不満. この方法でゲームを失うことはできません。第二の目標を隠すことはできません。バルを失わない",
-      "title_original": "Iraola returns to Bournemouth and Manchester United head to Fulham – matchday live",
-      "summary_original": "News, discussion and updates before Sunday’s games This weekend’s fixtures | Mail us your thoughts Roberto De Zerbi tore into Spurs after their 3-2 defeat by Aston Villa. De Zerbi criticised his team’s mentality, but also the physical condition of his players, and said the substitute Mohammed Kudus had disrupted the balance of his team. He said: “I am very disappointed, sad and frustrated for the performance. We can’t lose the game in this way, we can’t concede the second goal, we can’t lose bal",
+      "title": "Iraola はボーンマスに戻ります。プレミアリーグビルドアップとタウンセンドの奇妙な事故 - マッチデイライブ",
+      "summary": "日曜日のゲーム前のニュース、ディスカッション、アップデート 今週の週末の備品 | 想いを聞かせてください 物事がどのように立ち向かうかプレミアリーグ… At Hill Dickinson Stadium, Thierno Barry 火災エヴァートン10 人に対して1-0 の勝利にイプスウィッチ・タウン. 続きを読む...",
+      "title_original": "Iraola returns to Bournemouth, Premier League buildup and Townsend’s bizarre accident – matchday live",
+      "summary_original": "News, discussion and updates before Sunday’s games This weekend’s fixtures | Mail us your thoughts How things stand in the Premier League… At Hill Dickinson Stadium, Thierno Barry fired Everton to a 1-0 win against 10-man Ipswich Town. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
-      "published": "Sun, 20 Sep 2026 07:48:44 GMT",
+      "published": "Sun, 20 Sep 2026 08:20:12 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3929,16 +3929,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リトルスクレイプス 過去 アスパン all に World Series インフォメーション Darts Finals",
-      "summary": "Luke Littler1 年間でメジャーの第一弾のクリーンスイープに一歩近づく Nathan Aspinall アムステルダム",
-      "title_original": "Littler scrapes past Aspinall in World Series of Darts Finals",
-      "summary_original": "Luke Littler moved a step closer to his first clean sweep of majors in one year with a hard-fought win over Nathan Aspinall in Amsterdam.",
+      "title": "リトルは、アムステルダムでブームと笛の後、オランダの少年団を脅かす",
+      "summary": "Luke Littler オランダのボーイコット大会に挑発し、勝利を勝ち抜く。Nathan Aspinall 獲得を問い合わせ World Series ダーツ",
+      "title_original": "Littler threatens Dutch boycott after boos and whistles in Amsterdam",
+      "summary_original": "Luke Littler threatened to boycott tournaments in the Netherlands after being booed and whistled at during his win over Nathan Aspinall at the World Series of Darts.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13589960/world-series-of-darts-finals-luke-littler-wins-last-leg-decider-vs-nathan-aspinall-to-move-step-closer-to-sweep-of-majors-in-one-year",
       "published": "Sat, 19 Sep 2026 22:27:00 BST",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
