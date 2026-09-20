@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-20T12:28:50.232065+00:00",
+  "updated_at": "2026-09-20T12:42:24.680726+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Malick Fofana": "",
     "Julian Alvarez": "フリアン・アルバレス",
     "Carlos Alcaraz": "",
     "Russia's Roman Safiullin": "",
@@ -3001,7 +3000,8 @@
     "Sunderland LIVE": "",
     "Bournemouth LIVE": "",
     "Palace. We’ll": "",
-    "Daniel Farke’s": ""
+    "Daniel Farke’s": "",
+    "Celtic LIVE": ""
   },
   "items": [
     {
@@ -3086,20 +3086,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "制作で25 年勝ちのコベントリー",
-      "summary": "コヴェントリー・シティ FC's 勝つノッティンガム・フォレスト- 感謝ジェイ・ダシルヴァの の目標 - いくつかの暗い日のために次の作って25 年以上の勝利だった Sky Blues.",
-      "title_original": "A Coventry win 25 years in the making",
-      "summary_original": "Coventry City's win over Nottingham Forest - thanks to Jay Dasilva's goal - was a victory which was over 25 years in the making following some dark days for the Sky Blues.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm209djp8d2xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 20:28:19 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3198,6 +3184,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "制作で25 年勝ちのコベントリー",
+      "summary": "コヴェントリー・シティ FC's 勝つノッティンガム・フォレスト- 感謝ジェイ・ダシルヴァの の目標 - いくつかの暗い日のために次の作って25 年以上の勝利だった Sky Blues.",
+      "title_original": "A Coventry win 25 years in the making",
+      "summary_original": "Coventry City's win over Nottingham Forest - thanks to Jay Dasilva's goal - was a victory which was over 25 years in the making following some dark days for the Sky Blues.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm209djp8d2xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 20:28:19 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3341,20 +3341,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Lowly Peterborough マネージングマネージャー ウィリアムズ",
-      "summary": "ピーターバラ・ユナイテッド FC サックマネージャーLuke WilliamsDoncaster が自宅で土曜日の敗北が下から2 番目に残っている League One.",
-      "title_original": "Lowly Peterborough sack manager Williams",
-      "summary_original": "Peterborough United sack manager Luke Williams after Saturday's defeat at home by Doncaster leaves them second from bottom in League One.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crz6z7ypq6x8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 18:17:02 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "アーセナルスコア 直前のイコライザー 否定するマンチェスター・ユナイテッド最初の WSL の勝利",
       "summary": "アーセナル最後のガスプ レベラーをスルーSmilla Holmberg, 否定する Eva Olid 彼女の最初の勝利としてマンチェスター・ユナイテッド第3 試合のマネージャーを担当。",
       "title_original": "Arsenal score last-minute equaliser to deny Man Utd first WSL win",
@@ -3425,13 +3411,27 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Lowly Peterborough マネージングマネージャー ウィリアムズ",
+      "summary": "ピーターバラ・ユナイテッド FC サックマネージャーLuke WilliamsDoncaster が自宅で土曜日の敗北が下から2 番目に残っている League One.",
+      "title_original": "Lowly Peterborough sack manager Williams",
+      "summary_original": "Peterborough United sack manager Luke Williams after Saturday's defeat at home by Doncaster leaves them second from bottom in League One.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crz6z7ypq6x8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 18:17:02 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "セルティック. .レンジャーズ: スコティッシュ・プレミアシップ– ライブ",
       "summary": "更新情報オールドファームダービー, ミッドデイキックオフ (BST) 連絡を取る: ゲームについてのジョンを電子メール Derek McInnesBBC に話しました: 「私は知っているセルティック変更の負荷をしました。先週に多くの人が作られ、公園の真ん中で戦いを勝ち取ったんですが、今日はピッチの真ん中を埋めました。我々はまだ試して競争していることを確認する必要があります, その中間地面は勝つために私たちにとって重要です。」 O'Neill を交換しました Sam Johnstone 獲得を問い合わせ Viljami Sinisalo 獲得を問い合わせセルティックゴール。これは e です",
       "title_original": "Celtic v Rangers: Scottish Premiership – live",
       "summary_original": "Updates from Old Firm derby, midday kickoff (BST) Get in touch: email John about the game Derek McInnes spoke to the BBC: “I know Celtic have made a load of changes. A lot was made of last week, us having won the battle through the middle of the park, they’ve filled the middle of the pitch today. We just need to make sure that we still try and compete in there, that middle ground is important for us to win.” O’Neill has replaced Sam Johnstone with Viljami Sinisalo in Celtic’s goal. This is the e",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/celtic-v-rangers-scottish-premiership-live",
-      "published": "Sun, 20 Sep 2026 12:20:16 GMT",
+      "published": "Sun, 20 Sep 2026 12:34:46 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3440,12 +3440,12 @@
     },
     {
       "title": "ボーンマス v リヴァプール: プレミアリーグ– ライブ",
-      "summary": "2pm(BST)キックオフからのアップデート Vitality Stadium Get 接触: 電子メールによってダニエルに連絡して下さい しかし、私たちのゲームに戻り、l et はドラマチックなペルソナエを詳しく見ています。2pm でキックオフ:マンチェスター・シティツイートサンダーランドそして、リーズツイートクリスタル・パレス. 私たちは、あなたが行く任意の目標で更新し続けます; 私は本当に楽しみにしています Daniel Farke’s 男性は、月曜日の夜脱材料の後に取得ニューカッスル. 続きを読む...",
+      "summary": "2pm(BST)キックオフからのアップデート Vitality Stadium Get タッチで: 連絡 ダニエル 電子メールを介して、私はバラは彼のチームにあまりにも長い汗をかくことを想像しません. Kluivert は見逃せない、もちろん Junior Kroupi 長期負傷ですが、そうでなければ、彼のチームはかなり落ち着きます。アダム・スコット (俳優)夏場に立ち去り、滞在し、そして素晴らしい形でシーズンを始めました。彼のボールキャリアは例外的であり、彼は両方のボックスの高さを提供しています。彼は彼の通過を開発することができた場合、特にシャツ",
       "title_original": "Bournemouth v Liverpool: Premier League – live",
-      "summary_original": "Updates from 2pm (BST) kickoff at the Vitality Stadium Get in touch: contact Daniel via email But back to our game, l et’s have a closer look at our dramatis personae. Also kicking-off at 2pm: Man City v Sunderland and Leeds v Palace. We’ll keep you updated with any goals that go in; I’m really looking forward to seeing how Daniel Farke’s men get on after their Monday-night dematerialisation of Newcastle. Continue reading...",
+      "summary_original": "Updates from 2pm (BST) kickoff at the Vitality Stadium Get in touch: contact Daniel via email I don’t imagine Rose spent too long sweating over his team. Kluivert is a miss, and of course Junior Kroupi is long-term injured, but otherwise, his team is pretty settled. Adam Scott, who we might’ve thought would leave in the summer, stayed, and has started the season in excellent form. His ball-carrying is exceptional and he offers height in both boxes; if he can develop his passing, especially shirt",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
-      "published": "Sun, 20 Sep 2026 12:18:43 GMT",
+      "published": "Sun, 20 Sep 2026 12:33:20 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3859,9 +3859,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズほぼダブルリードセルティック Naderi Opener LIVE 以降!",
+      "title": "レンジャーズ先にはチャンスを奪うセルティックライブ!",
       "summary": "",
-      "title_original": "Rangers nearly double lead at Celtic after Naderi opener LIVE!",
+      "title_original": "Rangers ahead but spurning chances against Celtic LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/celtic-vs-rangers/live/558374",
