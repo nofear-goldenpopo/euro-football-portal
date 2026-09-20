@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-20T18:06:42.279747+00:00",
+  "updated_at": "2026-09-20T18:25:57.027854+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Supermarket Sweep-style": "",
-    "The Rumour Mill": "",
-    "Melvin Bard": "メルヴァン・バール",
-    "Joe Worrall": "",
     "Roma's Kone": "",
     "Manu Kone": "マヌ・コネ",
     "Mamadou Sangare": "ママドゥ・サンガレ",
@@ -3001,7 +2997,11 @@
     "HORROR Martinez OG LIVE": "",
     "PGA Tour's Biltmore Championship": "",
     "Matheus Cunha's": "",
-    "Spain's Manuel Elvira": ""
+    "Spain's Manuel Elvira": "",
+    "Jonathan David": "",
+    "Formula One": "フォーミュラ1",
+    "Shakira. He": "",
+    "Álex Grimaldo": ""
   },
   "items": [
     {
@@ -3033,20 +3033,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "印象的な防衛は固体開始をで密封しますリヴァプールイラオラ",
-      "summary": "リヴァプール見栄えがよいですがアンドニ・イラオラ Bournemouth でハード・フォールド・ウィンの後、彼の攻撃者からもっと必要です。",
-      "title_original": "Impressive defence seals solid start at Liverpool for Iraola",
-      "summary_original": "Liverpool are looking good defensively but Andoni Iraola needs more from his attackers after a hard-fought win at Bournemouth.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cklyjpgj3nv6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 16:57:34 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ラップする時間があるかもしれません」 - O'Neill ponders セルティック敗北後の未来",
       "summary": "マーティン・オニール彼が使用することを言うインテル後の位置に反映する国民の休憩セルティックビッグゲームで3 回連続敗北する。",
       "title_original": "'It might be time to wrap it up' - O'Neill ponders Celtic future after defeat",
@@ -3057,6 +3043,34 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンジャーズ McInnes の flip 物語はマークを作ります",
+      "summary": "コンサルティングオールドファームダービーウィンズショーDerek McInnes マークを作ろうレンジャーズ集合開始後。",
+      "title_original": "Rangers flip narrative as McInnes makes mark",
+      "summary_original": "Consecutive Old Firm derby wins show Derek McInnes is starting to make his mark at Rangers after a mortifying start.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpe94rw3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 15:54:04 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "印象的な防衛は固体開始をで密封しますリヴァプールイラオラ",
+      "summary": "リヴァプール見栄えがよいですがアンドニ・イラオラ Bournemouth でハード・フォールド・ウィンの後、彼の攻撃者からもっと必要です。",
+      "title_original": "Impressive defence seals solid start at Liverpool for Iraola",
+      "summary_original": "Liverpool are looking good defensively but Andoni Iraola needs more from his attackers after a hard-fought win at Bournemouth.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cklyjpgj3nv6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 16:57:34 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3173,20 +3187,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "レンジャーズ McInnes の flip 物語はマークを作ります",
-      "summary": "コンサルティングオールドファームダービーウィンズショーDerek McInnes マークを作ろうレンジャーズ集合開始後。",
-      "title_original": "Rangers flip narrative as McInnes makes mark",
-      "summary_original": "Consecutive Old Firm derby wins show Derek McInnes is starting to make his mark at Rangers after a mortifying start.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpe94rw3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 15:54:04 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "タイのピッチローラーで街を走る",
       "summary": "Former England ウィンガーアンドロス・タウンゼントタイの試合前の奇妙な事件の後に「悪くはない」と叫ぶジョーク。",
       "title_original": "Townsend run over by pitch roller in Thailand",
@@ -3268,6 +3268,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Castellanos spitting 主張 Overshadows ウェストハムキャラクターのショー",
+      "summary": "ミルウォールのキーパーFilip Marshcall 彼がスパットだったアレグウェストハム獲得 Taty Castellanos2-2 の描画中。",
+      "title_original": "Castellanos spitting claim overshadows West Ham's show of character",
+      "summary_original": "Millwall keeper Filip Marshcall alleges he was spat at by West Ham forward Taty Castellanos during their 2-2 draw.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvqrn8eyzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 16:18:21 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3369,20 +3383,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Castellanos spitting 主張 Overshadows ウェストハムキャラクターのショー",
-      "summary": "ミルウォールのキーパーFilip Marshcall 彼がスパットだったアレグウェストハム獲得 Taty Castellanos2-2 の描画中。",
-      "title_original": "Castellanos spitting claim overshadows West Ham's show of character",
-      "summary_original": "Millwall keeper Filip Marshcall alleges he was spat at by West Ham forward Taty Castellanos during their 2-2 draw.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvqrn8eyzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 16:18:21 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "オライドマンチェスター・ユナイテッド「強い週」の後に大きな一歩を踏み出す",
       "summary": "1 週間前、写真マンチェスター・ユナイテッド見ました。その後、土曜日に勝利は彼らから逃げたアーセナル. しかし、我々は、改善の兆候を見てきました Eva Olid's サイド?",
       "title_original": "Olid's Man Utd take big step forward after 'intense week'",
@@ -3467,20 +3467,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ファークの「ミックス感情」リーズ unbeaten に滞在クリスタル・パレススタレメイト",
-      "summary": "おそらくそれは進歩に精通しているリーズ戻ってきたので作りましたプレミアリーグわずか1 年以上前から、ドローイング後に3 分の1 まで動かせる失敗に不満があったクリスタル・パレス. 代わりに,Daniel Farke’s チームは延長された入りますインテル第5 回と非ベアテンの国民の休憩、それはそれ自体の素晴らしい成果です。アパートから Tyrick Mitchell’s ゴールを許さなかったら、ポイントをしっかり守ってくれるような印象を与えてくれなかった。獲得を問い合わせクリスタル・パレス最初でしたクリーンシート海荘の",
-      "title_original": "‘Mixed emotions’ for Farke as Leeds stay unbeaten with Crystal Palace stalemate",
-      "summary_original": "Perhaps it is testament to the progress Leeds have made since returning to the Premier League just over a year ago that there was frustration at failing to move up to third after drawing with Crystal Palace. Instead, Daniel Farke’s team enter the prolonged international break in fifth and unbeaten, which is a fine achievement in itself. Apart from Tyrick Mitchell’s disallowed goal, neither side gave much impression they would secure the points. For Palace, it was a first clean sheet of the seaso",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/leeds-crystal-palace-premier-league-match-report",
-      "published": "Sun, 20 Sep 2026 15:08:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "レンジャーズそして、Ryan Naderi 終わり オフセルティック’s horror 週とオールドファーム優勝",
       "summary": "サイレンスでスタジアムを揺れると、その瞬間でした。今シーズンのグラスゴーのダービーで許可されていないファンで、Ryan Naderi’s 勝った目標は、何と会ったが、明確なプラスチックの拳の強打レンジャーズベンチ, 放送の解説者の叫び. アパシーとアトロフィーの叫び声、ビーコンの音、優勝争い吹き出しの開放とチームをゆっくり切り離します。獲得を問い合わせレンジャーズこの勝利を祝うことができませんでした",
       "title_original": "Rangers and Ryan Naderi finish off Celtic’s horror week with Old Firm victory",
@@ -3492,6 +3478,34 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Jonathan David10 人以上でアトレティコの貴重な勝利を獲得レアル・マドリード事実上のダービー",
+      "summary": "ディエゴ・シメオネマドリッドでは「街の途方もないエネルギー」という特別な週で、彼が望む道を閉じました。彼が楽しんでいたフォーミュラ1 と彼は言った、彼は見に行くつもりだった Shakira. He これをもっと楽しんだ、少なくとも彼は多くの最後の時間でやった、多くのレフリーの笛に多くの打撃が最後に持って、彼は空気を打つトンネルをスプリントアップ送る。目標から10 人の男性から10 人の男性にまで2 匹の男性Álex Grimaldo そして、Jonathan David, ようこそ制御で, ラ",
+      "title_original": "Jonathan David earns Atlético precious win over 10-man Real Madrid in fractious derby",
+      "summary_original": "Diego Simeone said it had been a special week in Madrid, a “tremendous energy about the city”, and it closed the way he wanted. He had enjoyed the Formula One, he said, and he had enjoyed going to see Shakira. He enjoyed this even more, at least he did by the time the last of many, many blows on the referee’s whistle brought it to an end, sending him sprinting up the tunnel punching the air. Two-nil up against 10 men through goals from Álex Grimaldo and Jonathan David, seemingly in control, a la",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/atletico-madrid-real-madrid-la-liga-match-report",
+      "published": "Sun, 20 Sep 2026 18:10:11 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ファークの「ミックス感情」リーズ unbeaten に滞在クリスタル・パレススタレメイト",
+      "summary": "おそらくそれは進歩に精通しているリーズ戻ってきたので作りましたプレミアリーグわずか1 年以上前から、ドローイング後に3 分の1 まで動かせる失敗に不満があったクリスタル・パレス. 代わりに,Daniel Farke’s チームは延長された入りますインテル第5 回と非ベアテンの国民の休憩、それはそれ自体の素晴らしい成果です。アパートから Tyrick Mitchell’s ゴールを許さなかったら、ポイントをしっかり守ってくれるような印象を与えてくれなかった。獲得を問い合わせクリスタル・パレス最初でしたクリーンシート海荘の",
+      "title_original": "‘Mixed emotions’ for Farke as Leeds stay unbeaten with Crystal Palace stalemate",
+      "summary_original": "Perhaps it is testament to the progress Leeds have made since returning to the Premier League just over a year ago that there was frustration at failing to move up to third after drawing with Crystal Palace. Instead, Daniel Farke’s team enter the prolonged international break in fifth and unbeaten, which is a fine achievement in itself. Apart from Tyrick Mitchell’s disallowed goal, neither side gave much impression they would secure the points. For Palace, it was a first clean sheet of the seaso",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/leeds-crystal-palace-premier-league-match-report",
+      "published": "Sun, 20 Sep 2026 15:08:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3523,20 +3537,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Zidane の次のフランスコーチがカーテンの背後にあるウィザードを明らかにするかもしれないので移動 |Jonathan Wilson",
-      "summary": "最も人気のあるサッカーの国は、彼の再生日でさえも、リーダーの最も重要性によって導かれること、ジネディーヌ・ジダン見やすく見えました。マネージャーとして、距離感は成長しました。3 位を獲得チャンピオンズリーグ s とレアル・マドリードサッカーの彼の考えが好きなことのセンスを与えずに。フランスはおそらく最も複雑なサッカーの国です:B チームは、B チームが深刻なコンテンダーになるような才能に気をつけるチーム World Cup, t に達した",
-      "title_original": "Zidane’s next move as France coach may reveal the wizard behind the curtain | Jonathan Wilson",
-      "summary_original": "It is apt that the most perplexing football country will now be guided by the most enigmatic of leaders Even in his playing days, Zinedine Zidane seemed unknowable. As a manager, the sense of distance has only grown. He won three Champions Leagues with Real Madrid without ever giving a sense of what his idea of football looked like. France are perhaps the most perplexing football country: a squad that teems with such talent that a B team would be serious contenders at a World Cup, that reached t",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain",
-      "published": "Sat, 19 Sep 2026 19:00:54 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「毎日同じことを逃します」:Olivia Cusack 彼女の遅いサッカー選手の妹マディ",
       "summary": "3 年後、家族は彼女の「レガシーの生活」を確実にするために決定されますシェフィールド・ユナイテッド FC プレイヤーの死 Olivia Cusack 彼女の妹、遅刻 Maddy Cusack, 一日一回、彼女は彼女の「レガシーの命」を元イングランドの若者の3 年後に保証するために決定されますインテル国民のミッドフィルダーの死。オリビア、マディの家族や友人と、徒歩29 マイル Bramall Lane, シェフィールド・ユナイテッド FC’s home, ホーズリーの家族の家へ, ダービーの近く, 土曜日に rai",
       "title_original": "‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy",
@@ -3551,16 +3551,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Heat は Carrick ですが、Wilcox は BGM を共有しなければなりませんマンチェスター・ユナイテッドの woes's は、",
-      "summary": "募集は、他のポジションが無視された間、1億5500万ポンド が3 ミッドフィルダーに費やされた後、失礼下にあります ブームと同情のミックスがあったマンチェスター・ユナイテッド slumped から EFL カップ水曜日は、国内カップ大会で最新の抑圧行為。ソレムンマイケル・キャリックそして、彼の選手は、嫉妬の対象でした。サッカーのディレクター、Jason Wilcox, 取締役の箱から彼の方法に未使用を見ましたが、彼と階層は彼らの責任を受け入れる必要があります",
-      "title_original": "Heat is on Carrick but Wilcox must share blame for Manchester United’s woes",
-      "summary_original": "Recruitment is under scrutiny after £155m was spent on three midfielders while other positions were neglected There was a mix of boos and apathy as Manchester United slumped out of the Carabao Cup on Wednesday in their latest depressing act in domestic cup competitions. A solemn Michael Carrick and his players were the target for the jeers. The director of football, Jason Wilcox, looked unamused on his way out of the directors’ box but he and the hierarchy need to accept responsibility for their",
+      "title": "Zidane の次のフランスコーチがカーテンの背後にあるウィザードを明らかにするかもしれないので移動 |Jonathan Wilson",
+      "summary": "最も人気のあるサッカーの国は、彼の再生日でさえも、リーダーの最も重要性によって導かれること、ジネディーヌ・ジダン見やすく見えました。マネージャーとして、距離感は成長しました。3 位を獲得チャンピオンズリーグ s とレアル・マドリードサッカーの彼の考えが好きなことのセンスを与えずに。フランスはおそらく最も複雑なサッカーの国です:B チームは、B チームが深刻なコンテンダーになるような才能に気をつけるチーム World Cup, t に達した",
+      "title_original": "Zidane’s next move as France coach may reveal the wizard behind the curtain | Jonathan Wilson",
+      "summary_original": "It is apt that the most perplexing football country will now be guided by the most enigmatic of leaders Even in his playing days, Zinedine Zidane seemed unknowable. As a manager, the sense of distance has only grown. He won three Champions Leagues with Real Madrid without ever giving a sense of what his idea of football looked like. France are perhaps the most perplexing football country: a squad that teems with such talent that a B team would be serious contenders at a World Cup, that reached t",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/michael-carrick-jason-wilcox-blame-manchester-united-woes",
-      "published": "Sat, 19 Sep 2026 07:00:41 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain",
+      "published": "Sat, 19 Sep 2026 19:00:54 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3775,6 +3775,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Heat は Carrick ですが、Wilcox は BGM を共有しなければなりませんマンチェスター・ユナイテッドの woes's は、",
+      "summary": "募集は、他のポジションが無視された間、1億5500万ポンド が3 ミッドフィルダーに費やされた後、失礼下にあります ブームと同情のミックスがあったマンチェスター・ユナイテッド slumped から EFL カップ水曜日は、国内カップ大会で最新の抑圧行為。ソレムンマイケル・キャリックそして、彼の選手は、嫉妬の対象でした。サッカーのディレクター、Jason Wilcox, 取締役の箱から彼の方法に未使用を見ましたが、彼と階層は彼らの責任を受け入れる必要があります",
+      "title_original": "Heat is on Carrick but Wilcox must share blame for Manchester United’s woes",
+      "summary_original": "Recruitment is under scrutiny after £155m was spent on three midfielders while other positions were neglected There was a mix of boos and apathy as Manchester United slumped out of the Carabao Cup on Wednesday in their latest depressing act in domestic cup competitions. A solemn Michael Carrick and his players were the target for the jeers. The director of football, Jason Wilcox, looked unamused on his way out of the directors’ box but he and the hierarchy need to accept responsibility for their",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/michael-carrick-jason-wilcox-blame-manchester-united-woes",
+      "published": "Sat, 19 Sep 2026 07:00:41 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "エム2 ゴールチャオス’: トゥッチェルは、イングランドのサッカー文化を活用することを目指しています",
       "summary": "ヘッドコーチは、「ディープダウン、英語プレーヤー...彼らはそれのために行く」ゲームで制御の欠如を受け入れる必要があります言うトーマス・トゥヘルマッチでより大きなコントロールを重ねるときには、そこに認めています。しかし、イングランドのヘッドコーチは、よりチャオティック、アドレナリンフェルドの性質を感じるプレミアリーグ彼がユーロ2028 で栄光をターゲットとして彼のテンプレートを維持します。トゥッチェルは、常に完全なスロットルでプレーする彼らの習慣の面で「フットボールをプレーする最も経済的ではないマイブ」として彼のチームを述べました。彼らは失われた",
       "title_original": "‘Embrace the chaos’: Tuchel aims to harness England’s football culture",
@@ -3817,30 +3831,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "獲得を問い合わせ Max Dowman 影に咲くが、無視しにくい |Barney Ronay",
-      "summary": "サッカー選手のこの最も近代的でよく手入れされたのは、一定のスルチニーの年齢でスポットライトをエスケープすることはできませんが、それを処理するために装備されている外観ホルヘ・ルイス・ボルヘス地図を作るのにとても良いようになった社会について有名な短い話を書きました, そのため、すべての詳細をキャプチャして肥満しました, その定規は、右の仕事を行うための唯一の方法は、その帝国全体の命名マップを作るためにだった, その後、海岸から海岸に実際の土地をレイアウトすることができ. Br の地図を想像する",
-      "title_original": "We wanted to let Max Dowman bloom in the shadows but he has become hard to ignore | Barney Ronay",
-      "summary_original": "This most modern and well-honed of footballers will not be able to escape the spotlight in an age of constant scrutiny but looks equipped to handle it The poet Jorge Luis Borges wrote a famous short story about a society that had become so good at making maps, so obsessed with capturing every detail, that its rulers decided the only way to do the job right was to make a lifesize map of its entire empire, which could then be laid out across the actual land from coast to coast. Imagine a map of Br",
+      "title": "トッド・ベーリー出口チェルシー彼の指を燃やした後に掘られた",
+      "summary": "億万長者の出発は日々変化しますが、クラブのスタジアムの計画では重要ではありませんが、移転市場の悲しい世界への運命は、トッド・ベーリー昼から日にかけては本当に影響を受けたチェルシー. アメリカンは、彼の仲間の投資家と一緒に、4 年ぶりに減少した数字としてサッカーを終了します Mark Walter と言うべき最初のことは、少しが変化するということです Stamford Bridge ボヘリーが舞台を離れるので、ちょうどボードルーム.Clearlake Capi",
+      "title_original": "Todd Boehly exits Chelsea diminished after having his fingers burned",
+      "summary_original": "The billionaire’s departure will change little day-to-day but could be significant for club’s stadium plans Not since a doomed foray into the thorny world of the transfer market has Todd Boehly had any real influence over the day-to-day at Chelsea. The American exits football as a diminished figure four years on, along with his fellow investor Mark Walter, and the first thing to say is that little will change in the Stamford Bridge boardroom just because Boehly has left the scene. Clearlake Capi",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/max-dowman-arsenal-young-players",
-      "published": "Fri, 18 Sep 2026 16:59:40 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "カルロス・エスピプレゼントレアル・マドリード顔の希望バルセロナ獲得を問い合わせラ・リーガストーム |Sid Lowe",
-      "summary": "とバルセロナ7 ゴールのスリラーをラックアップレアル・マドリード崩壊する余裕がない。静かに回る先に入って下さいジョゼ・モウリーニョ究極の秘密兵器ジョゼ・モウリーニョ呼ばれ、カルロス・エスピ横に来た。後半、騒々しいとほぼ終わりました - 試合と多分もっと何か - いつレアル・マドリード’ のコーチは、火曜日の夜に1 つの側面に平らに彼のフラットメイトである前方を取った. 近い立場、モウリーニョ紙の部分もあった。小さい,",
-      "title_original": "Carlos Espí gives Real Madrid hope in the face of Barcelona’s La Liga storm | Sid Lowe",
-      "summary_original": "With Barcelona racking up seven-goal thrillers, Real Madrid could not afford a collapse. Enter the forward quietly turning into José Mourinho’s ultimate secret weapon José Mourinho called and Carlos Espí came to his side. It was late, it was noisy and it was almost over – the match and maybe even something more – when Real Madrid’s coach took the forward who is also his flatmate to one side on Tuesday night. Standing close, Mourinho had a message to deliver; he also had a piece of paper. Small, ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/carlos-espi-real-madrid-barcelona-mourinho-la-liga",
-      "published": "Thu, 17 Sep 2026 13:27:45 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
+      "url": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
+      "published": "Fri, 18 Sep 2026 07:00:12 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3873,13 +3873,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Spaun 勝つ BMW PGA 選手権, 遅いサージにもかかわらず、McIlroy のフルター",
-      "summary": "J.J.スポーン日曜日の午後の日曜日の午後に選手のパックリーダーボードを追い抜いた BMW PGA 選手権第二に勝つためにヨーロピアンツアーメジャーチャンピオンシップの外で初めてのイベントやイベント。",
-      "title_original": "Spaun wins BMW PGA Championship, McIlroy falters despite late surge",
-      "summary_original": "JJ Spaun outlasted a packed leaderboard of players on Sunday afternoon at the BMW PGA Championship to win his second DP World Tour event and his first outside of a major championship.",
+      "title": "Spaun 勝つ BMW PGA 選手権遅刻の手術にもかかわらず、McIlroy のフルターとして",
+      "summary": "J.J.スポーン日曜日にプレイヤーのパックリーダーボードを発売 BMW PGA 選手権, アメリカはからつまみに資本を調達 Spain's Manuel ElviraWentworth でデビュータイトルを獲得する。",
+      "title_original": "Spaun wins BMW PGA Championship as McIlroy falters despite late surge",
+      "summary_original": "JJ Spaun outlasted a packed leaderboard of players on Sunday at the BMW PGA Championship, as the American capitalised on a stumble from Spain's Manuel Elvira to win his debut title at Wentworth.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13590008/bmw-pga-championship-2026-jj-spaun-snatches-victory-at-wentworth-as-rory-mcilroy-comes-unstuck-despite-late-surge",
-      "published": "Sun, 20 Sep 2026 09:15:00 BST",
+      "published": "Sun, 20 Sep 2026 17:30:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3971,6 +3971,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Arbeloa: 公式は許可しませんマンチェスター・ユナイテッド負け",
+      "summary": "Alvaro Arbeloa 望まない受審者を認定しましたマンチェスター・ユナイテッド不当のためにフルハムを失うためにマイケル・キャリック最後の週末にマンチェスター・ダービーに面した「側」。",
+      "title_original": "Arbeloa: Officials wouldn't let Man Utd lose",
+      "summary_original": "Alvaro Arbeloa has accused the referees of not wanting Manchester United to lose against Fulham because of the injustice Michael Carrick's side faced in the Manchester derby last weekend.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590215/alvaro-arbeloa-accuses-officials-of-not-wanting-manchester-united-to-lose-after-late-controversy-in-draw-at-fulham",
+      "published": "Sun, 20 Sep 2026 18:43:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "勝つためにバードリー、プレーオフのためのパー... Elvira's nightmare 仕上げ手 Spaun タイトル",
       "summary": "J.J.スポーン勝つ BMW PGA 選手権アフターManuel Elvira トーナメントの最終ホールにナイトマーレ7 をカードしました。",
       "title_original": "Birdie to win, par for a play-off... Elvira's nightmare finish hands Spaun title",
@@ -4041,9 +4055,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "World Series インフォメーション Darts Finals LIVE! Van VeenLittler がダンプアウトした後の最初の半数",
+      "title": "World Series インフォメーション Darts Finals LIVE! スミスビート Van Veen 決勝進出",
       "summary": "",
-      "title_original": "World Series of Darts Finals LIVE! Van Veen in first semi after Littler dumped out",
+      "title_original": "World Series of Darts Finals LIVE! Smith beats Van Veen to reach final",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/live-blog/12040/13590021/world-series-of-darts-live-scores-updates-commentary-from-quarter-finals-semi-finals-final-as-luke-littler-seeks-amsterdam-title",
@@ -4108,20 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トープシー・トゥビー・セブン・ゴール・タイラーのボルトン・エッジ・ノリッチ!",
-      "summary": "ハイライトから EFL チャンピオンシップ間の衝突ノリッジ・シティ FC そして、ボルトン・ワンダラーズ FC 獲得を問い合わせ Carrow Road.",
-      "title_original": "Bolton edge Norwich in topsy-turvy seven-goal THRILLER!",
-      "summary_original": "Highlights from the Sky Bet Championship clash between Norwich City and Bolton Wanderers at Carrow Road.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13590134/norwich-city-3-4-bolton-wanderers-championship-highlights",
-      "published": "Sun, 20 Sep 2026 15:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
