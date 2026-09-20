@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-20T15:36:41.604330+00:00",
+  "updated_at": "2026-09-20T15:50:16.972389+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Filip Hrgovic. Courtesy": "",
-    "Bluesky In": "",
     "Portugal. Here": "",
     "Fifa. England": "",
     "September Argentina": "",
@@ -3001,7 +2999,9 @@
     "The Sky Sports": "",
     "Martin O'Neill's Celtic": "",
     "Pierre Sage's": "",
-    "Elland Road": "エランド・ロード"
+    "Elland Road": "エランド・ロード",
+    "October City": "",
+    "Brighton. Continue": ""
   },
   "items": [
     {
@@ -3426,12 +3426,12 @@
     },
     {
       "title": "フラハム v マンチェスター・ユナイテッド: プレミアリーグ– ライブ",
-      "summary": "4.30pm(BST)キックオフからのアップデートクレイヴン・コテージ連絡を取る: ゲームについてのメール Taha 私たちがこれらの2 が出会った最後の時間をスリラーを得た: 今回は、BST の2pm ゲームを観てみる方法をご紹介します。続きを読む...",
+      "summary": "4.30pm(BST)キックオフからのアップデートクレイヴン・コテージ連絡を取る: ゲームについてのメール Taha マンチェスター・ユナイテッド全て青の番号をロックしています。彼らは物事をオフにキック.クレイヴン・コテージ太陽の日: どこがいいですか? 続きを読む...",
       "title_original": "Fulham v Manchester United: Premier League – live",
-      "summary_original": "Updates from 4.30pm (BST) kickoff at Craven Cottage Get in touch: email Taha about the game We got a thriller the last time these two met: Here’s how we’re looking after those 2pm BST games. Continue reading...",
+      "summary_original": "Updates from 4.30pm (BST) kickoff at Craven Cottage Get in touch: email Taha about the game Manchester United are rocking their all-blue number. They kick things off. Craven Cottage in the sun: where would you rather be? Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
-      "published": "Sun, 20 Sep 2026 15:15:16 GMT",
+      "published": "Sun, 20 Sep 2026 15:34:53 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3439,10 +3439,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Semenyo 助けは完全マンチェスター・シティビートサンダーランド Brobbey の後の5-3 ハットトリック",
-      "summary": "マンチェスター・シティそして、サンダーランド麻雀コンテストで8 つの目標を共有エンツォ・マレスカの 側は 5-3 を獲得し、プレミアリーグ5 勝から5 勝の表。Antoine Semenyo’s 2 ゴールハーフタイムの両側、プラスのストライキエンソ・フェルナンデス, ラヤン・シェルキそして、アーリング・ハーランド都市の勝利を封印しましたが、彼らはいくつかの傷を与えられたにもかかわらず、サンダーランド. ジェイミー・ジャクソンの Etihad のフルレポートは、短時間で続きます. 続きを読む...",
-      "title_original": "Semenyo helps perfect Manchester City beat Sunderland 5-3 after Brobbey hat-trick",
-      "summary_original": "Manchester City and Sunderland shared eight goals in a madcap contest that Enzo Maresca’s side won 5-3 to stay top of the Premier League table with five wins from five. Antoine Semenyo’s two goals either side of half-time, plus strikes by Enzo Fernández, Rayan Cherki and Erling Haaland sealed the victory for City, although they were given several scares by Sunderland. Jamie Jackson’s full report from the Etihad will follow shortly. Continue reading...",
+      "title": "Semenyo は混沌を助けますマンチェスター・シティビートサンダーランド Brobbey の後の5-3 ハットトリック",
+      "summary": "マンチェスター・シティメッセージを送信するアーセナルこのチャオティックな勝利でエンツォ・マレスカ3 週間のリーダーとしてチーム3 ポイントクリアインテル国民の休憩。までプレミアリーグ再開10October City 頂上からの眺めを楽しめるミケル・アルテタ’ s のチャンピオンは土曜日の 3-0 の tunbling に続く操縦しなければなりませんブライトン. 続きを読む...",
+      "title_original": "Semenyo helps chaotic Manchester City beat Sunderland 5-3 after Brobbey hat-trick",
+      "summary_original": "Manchester City sent a message to Arsenal with this chaotic victory that takes Enzo Maresca’s team three points clear as leaders for the three-week international break. Until the Premier League resumes on 10 October City can enjoy their view from the top while Mikel Arteta’s champions have to stew following Saturday’s 3-0 humbling at Brighton. Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/20/manchester-city-sunderland-premier-league-match-report",
       "published": "Sun, 20 Sep 2026 14:59:02 GMT",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "クレイトンの敗北をつぶすことで終わる主要なきれいな広がりのための小さな入札",
+      "summary": "Luke Littler's2026 年にすべての主要な PDC タイトルのきれいな掃引のために入札は10-4 敗北した後です Jonny Clayton 最後の8 で World Series インフォメーション Darts Finals アムステルダム",
+      "title_original": "Littler's bid for major clean sweep ended by crushing Clayton defeat",
+      "summary_original": "Luke Littler's bid for a clean sweep of all major PDC titles in 2026 is over after a crushing 10-4 defeat to Jonny Clayton in the last eight at the World Series of Darts Finals in Amsterdam.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/news/12040/13589998/luke-littlers-hopes-of-2026-pdc-major-clean-sweep-over-after-defeat-to-jonny-clayton-at-world-series-of-darts-finals",
+      "published": "Sun, 20 Sep 2026 16:35:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "クリスタル・パレス unbeaten の安全な貴重なポイントリーズ",
       "summary": "クリスタル・パレスフォームと非認証で便利なポイントを確保リーズとして Pierre Sage's 側面は、ホストをゴールレスに描くために大いに改善された防御的な表示を作り出しましたエランド・ロード.",
       "title_original": "Palace secure valuable point at unbeaten Leeds",
@@ -3870,20 +3884,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "クレイトンの敗北をつぶすことで終わる主要なきれいな広がりのための小さな入札",
-      "summary": "Luke Littler's2026 年にすべての主要な PDC タイトルのきれいな掃引のために入札は10-4 敗北した後です Jonny Clayton 最後の8 で World Series インフォメーション Darts Finals アムステルダム",
-      "title_original": "Littler's bid for major clean sweep ended by crushing Clayton defeat",
-      "summary_original": "Luke Littler's bid for a clean sweep of all major PDC titles in 2026 is over after a crushing 10-4 defeat to Jonny Clayton in the last eight at the World Series of Darts Finals in Amsterdam.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/other-sports/news/12040/13589998/luke-littlers-hopes-of-2026-pdc-major-clean-sweep-over-after-defeat-to-jonny-clayton-at-world-series-of-darts-finals",
-      "published": "Sun, 20 Sep 2026 16:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3929,9 +3929,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "フラハム対マンチェスター・ユナイテッドライブ!",
+      "title": "Leno denies Martinez 早い opener のためにマンチェスター・ユナイテッド獲得を問い合わせ Fulham LIVE!",
       "summary": "",
-      "title_original": "Fulham vs Man Utd LIVE!",
+      "title_original": "Leno denies Martinez early opener for Man Utd at Fulham LIVE!",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/fulham-vs-manchester-united/live/559488",
@@ -3964,6 +3964,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "published": "Sun, 20 Sep 2026 12:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・シティ EIGHT ゴールのスリラーを勝ち取った後、トップへサンダーランド",
+      "summary": "FREE TO WATCH: ハイライトからプレミアリーグ間のマッチマンチェスター・シティそして、サンダーランド.",
+      "title_original": "Man City go top after winning EIGHT-goal thriller against Sunderland",
+      "summary_original": "FREE TO WATCH: Highlights from the Premier League match between Manchester City and Sunderland.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13590162/manchester-city-5-3-sunderland-premier-league-highlights",
+      "published": "Sun, 20 Sep 2026 16:34:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13589620/stephen-fleming-englands-new-head-coach-targets-no-1-spot-in-test-rankings-but-says-work-to-be-done-on-discipline",
       "published": "Sun, 20 Sep 2026 08:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Great Britain ブックの場所 Davis Cup Finals エクアドルの勝利で",
-      "summary": "Great Britain エクアドルよりも簡単な勝利を巻き上げて、自分の場所を予約 Davis Cup Finals11 月11 日",
-      "title_original": "Great Britain book place in Davis Cup Finals with victory over Ecuador",
-      "summary_original": "Great Britain wrapped up a straightforward victory over Ecuador to book their place at the Davis Cup Finals in November.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13590092/davis-cup-great-britain-book-place-in-finals-as-neal-skupski-and-henry-patten-victory-over-ecuador",
-      "published": "Sun, 20 Sep 2026 14:29:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
