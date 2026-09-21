@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-21T05:38:28.307172+00:00",
+  "updated_at": "2026-09-21T05:52:19.211017+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Bafana Bafana": "サッカー南アフリカ共和国代表",
-    "Janine Sonis": "",
-    "The Canada": "",
     "Denver Summit": "",
     "Mile Stadium": "",
     "Lindsey Heaps In": "",
@@ -3001,7 +2998,10 @@
     "Tonda Eckert": "",
     "Dan Roan": "",
     "Phil Parsons": "",
-    "Ashley Williams": "アシュレー・ウィリアムズ"
+    "Ashley Williams": "アシュレー・ウィリアムズ",
+    "Saints CEO": "",
+    "Southampton CEO Phil Parsons": "",
+    "Will Salt": ""
   },
   "items": [
     {
@@ -3355,6 +3355,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Spygate analyst 持っている 厳しい 時間, 言う Saints CEO",
+      "summary": "Southampton CEO Phil Parsons 重要なのはクラブの外観です。Will Salt- スパイゲートのスキャンダルの中心の男。",
+      "title_original": "Spygate analyst has had tough time, says Saints CEO",
+      "summary_original": "Southampton CEO Phil Parsons says it is important the club look after Will Salt - the man at the centre of the spygate scandal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvrl6p8rged5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 05:36:55 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「誰がゴールキーパーなのか?」 - マルティネスのハートオウンゴール",
       "summary": "デイパンディットのマッチジョー・ハート「不快」に反映オウンゴールによってマンチェスター・ユナイテッドディフェンダーLisandro Martinez 彼らの1-1 は、フルハムで描く。",
       "title_original": "'Who would be a goalkeeper?' - Hart on Martinez own goal",
@@ -3369,6 +3383,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "大きくて、大きな罰をしました - エッカート",
+      "summary": "ナンプトンボス Tonda Eckert クラブは、Spygate の \"big, big punishment\" を持っていたと言う.",
+      "title_original": "We've had a big, big punishment - Eckert",
+      "summary_original": "Southampton boss Tonda Eckert says the club have had a \"big, big punishment\" for Spygate.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq986ryd29r1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 05:40:31 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Atletico 勝つ feisty Madrid derby から 10 男 リアル",
       "summary": "アトレティコ・マドリードビートレアル・マドリード強烈なダービーで、自分のライバルの上に2 番目の場所に移動ラ・リーガテーブル。",
       "title_original": "Atletico win feisty Madrid derby against 10-man Real",
@@ -3379,34 +3407,6 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「天才だと思う」 - ハルト・ヘイルズシェルキログイン",
-      "summary": "デイパンディットのマッチジョー・ハートログインマンチェスター・シティ獲得を問い合わせラヤン・シェルキ前方から得た「天才」として、その側で得点 5-3 プレミアリーグ勝つサンダーランド.",
-      "title_original": "'I think he's a genius' - Hart hails Cherki strike",
-      "summary_original": "Match of the Day pundit Joe Hart hails Manchester City's Rayan Cherki as a \"genius\" after the forward scored in his side's 5-3 Premier League win over Sunderland.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqkgwpr44re0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 23:09:44 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Carrick 感心マンチェスター・ユナイテッド Fulham で描くことを稼ぐ「信念を警戒」",
-      "summary": "マンチェスター・ユナイテッドヘッドコーチマイケル・キャリック自分の側面に感銘を受け、「彼らの信念を傾けて」ゴールから来て、フルハムに対する引き金を稼ぐクレイヴン・コテージ.",
-      "title_original": "Carrick impressed Man Utd 'kept belief' to earn draw at Fulham",
-      "summary_original": "Manchester United head coach Michael Carrick is impressed his side \"kept their belief\" to come from a goal down to earn a draw against Fulham at Craven Cottage.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwr7d3y11r34o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 18:29:06 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
