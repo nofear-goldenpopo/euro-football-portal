@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-21T12:53:23.897966+00:00",
+  "updated_at": "2026-09-21T13:05:41.455069+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Ethan Galbraith": "",
     "August Priske": "",
     "Midfielder Larsson": "",
     "De Zerbi’ Tottenham": "",
@@ -3001,7 +3000,8 @@
     "Gian Piero Gasperini Gian": "",
     "Piero Gasperini": "",
     "His Roma": "",
-    "Bramall Lane": "ブラモール・レーン"
+    "Bramall Lane": "ブラモール・レーン",
+    "Captain Harry Brook": ""
   },
   "items": [
     {
@@ -3103,6 +3103,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "深刻な事故後の病院での Ex-Birmingham ウィンガーグラハム",
+      "summary": "Former Birmingham ウィンガージョーダン・グラハム「深刻な道路交通事故」に関与した後、病院にいます。",
+      "title_original": "Ex-Birmingham winger Graham in hospital after serious accident",
+      "summary_original": "Former Birmingham winger Jordan Graham is in hospital after being involved in a \"serious road traffic accident\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c83v427kkknwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 12:31:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'greatest captain' は、Bellamy's Wales?",
       "summary": "元キャプテンのリターンアシュレー・ウィリアムズウェールズのコーチングチームに上司を励ましますクレイグ・ベラミー前に、Nations League 備品。",
       "title_original": "What will 'greatest captain' bring to Bellamy's Wales?",
@@ -3142,20 +3156,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "深刻な事故後の病院での Ex-Birmingham ウィンガーグラハム",
-      "summary": "Former Birmingham ウィンガージョーダン・グラハム「深刻な道路交通事故」に関与した後、病院にいます。",
-      "title_original": "Ex-Birmingham winger Graham in hospital after serious accident",
-      "summary_original": "Former Birmingham winger Jordan Graham is in hospital after being involved in a \"serious road traffic accident\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c83v427kkknwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 12:31:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Pietersen の口径のメンターと働く brook の relishing",
+      "summary": "Captain Harry Brook 言う leaning 上の a mentor の Kevin Pietersen's キャリバーは、イングランドの白いボールの側面の継続的な上向きの軌跡にのみ役立ちます。",
+      "title_original": "Brook relishing working with mentor of Pietersen's calibre",
+      "summary_original": "Captain Harry Brook says leaning on a mentor of Kevin Pietersen's calibre will only help the continued upward trajectory of England's white-ball sides.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13590426/harry-brook-england-white-ball-captain-relishing-working-with-mentor-of-kevin-pietersens-calibre",
+      "published": "Mon, 21 Sep 2026 12:57:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "O'Neill についてセルティック?",
       "summary": "否定することができませんマーティン・オニール伝説はセルティック, しかし、彼らの問題が危機になる前に必要な変化?",
       "title_original": "What now for O'Neill and Celtic?",
@@ -4013,13 +4027,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプール最新:Does Wirtz プレイ対マンチェスター・シティ? あなたの名前先発メンバー",
+      "title": "リヴァプール最新: FSG テクニカル ディレクターはスポーツ ディレクターの役割のために強く考慮しました",
       "summary": "",
-      "title_original": "Liverpool latest: Does Wirtz play vs Man City? Name your starting XI",
+      "title_original": "Liverpool latest: FSG technical director strongly considered for sporting director role",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Mon, 21 Sep 2026 07:55:00 BST",
+      "published": "Mon, 21 Sep 2026 14:00:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -4108,20 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ベアーズスターQB Williams 非接触の傷害の後で破損の葉の分野",
-      "summary": "Chicago Bears クォーターバック Caleb Williams 側面の衝突の間に無接触の傷害の後で分野のカートに入れられた Minnesota Vikings.",
-      "title_original": "Bears' star QB Williams leaves field in tears after non-contact injury",
-      "summary_original": "Chicago Bears quarterback Caleb Williams was carted off the field after a non-contact injury during his side's clash with the Minnesota Vikings.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13590261/chicago-bears-star-quaterback-caleb-williams-leaves-field-in-tears-after-non-contact-injury",
-      "published": "Sun, 20 Sep 2026 21:09:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
