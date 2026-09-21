@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T09:51:42.912725+00:00",
+  "updated_at": "2026-09-21T10:06:16.074455+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "Two-time Cheltenham Gold Cup": "",
@@ -3117,6 +3117,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "3 週間の休憩でマネージャーに圧力をかけますか?",
+      "summary": "これまでのところ、このシーズン3 人のコーチは自分の仕事を失いますが、他の人の多くは、新しい、拡張に向かう彼らの肩を上回っていますインテル国民の休憩。",
+      "title_original": "Will three-week break put more pressure on managers?",
+      "summary_original": "So far this season three coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 09:57:42 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リーグ B リターン&Kvaratskhelia テスト -北アイルランド話すポイント",
       "summary": "北アイルランドの に戻る Uefa Nations LeagueB はプレイヤーマネージャーに直面する Michael O'Neill「世界一」と呼びますが、自分のキャプテンなしでキャンペーンに入ります。",
       "title_original": "League B return & Kvaratskhelia test - Northern Ireland talking points",
@@ -3128,20 +3142,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Maresca の 24 時間パーフェクトマンチェスター・シティ圧力をかけるアーセナル",
-      "summary": "マンチェスター・シティヘッドインテル週末に24 時間満喫した後、ジュビリアント気分で国民の休憩。",
-      "title_original": "Perfect 24 hours for Maresca as Man City put pressure on Arsenal",
-      "summary_original": "Manchester City head into the international break in a jubilant mood after enjoying the perfect 24 hours this weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6z7z2we5lgwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 16:34:40 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3243,17 +3243,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トロイさんを作った人プレミアリーグ週のチーム?",
-      "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
-      "title_original": "Who has made Troy's Premier League team of the week?",
-      "summary_original": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "title": "Maresca の 24 時間パーフェクトマンチェスター・シティ圧力をかけるアーセナル",
+      "summary": "マンチェスター・シティヘッドインテル週末に24 時間満喫した後、ジュビリアント気分で国民の休憩。",
+      "title_original": "Perfect 24 hours for Maresca as Man City put pressure on Arsenal",
+      "summary_original": "Manchester City head into the international break in a jubilant mood after enjoying the perfect 24 hours this weekend.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckzdz2l0m52mo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 19:40:25 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6z7z2we5lgwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 16:34:40 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3278,6 +3278,34 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpe94rw3o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 20 Sep 2026 15:54:04 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "トロイさんを作った人プレミアリーグ週のチーム?",
+      "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
+      "title_original": "Who has made Troy's Premier League team of the week?",
+      "summary_original": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckzdz2l0m52mo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 19:40:25 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "レンジャーズどこに行きたいか知っているように見える -セルティックちょうど失われた一見",
+      "summary": "Tom English 最初に反映するオールドファーム季節のリーグゲーム、その中レンジャーズ繰り返す League Cup 勝つセルティック.",
+      "title_original": "Rangers look like they know where they want to go - Celtic just look lost",
+      "summary_original": "Tom English reflects on the first Old Firm league game of the season, in which Rangers repeated their League Cup win over Celtic.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 16:23:48 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3310,34 +3338,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Football Daily",
-      "summary": "Rick Edwards, Clinton Morrison そして、Luke Edwards 週末のサッカーを盛り上げる。",
-      "title_original": "Football Daily",
-      "summary_original": "Rick Edwards, Clinton Morrison and Luke Edwards sum up the weekend's football.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/m00321lw?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 20:22:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レンジャーズどこに行きたいか知っているように見える -セルティックちょうど失われた一見",
-      "summary": "Tom English 最初に反映するオールドファーム季節のリーグゲーム、その中レンジャーズ繰り返す League Cup 勝つセルティック.",
-      "title_original": "Rangers look like they know where they want to go - Celtic just look lost",
-      "summary_original": "Tom English reflects on the first Old Firm league game of the season, in which Rangers repeated their League Cup win over Celtic.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 16:23:48 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3565,6 +3565,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Zidane の次のフランスコーチがカーテンの背後にあるウィザードを明らかにするかもしれないので移動 |Jonathan Wilson",
+      "summary": "最も人気のあるサッカーの国は、彼の再生日でさえも、リーダーの最も重要性によって導かれること、ジネディーヌ・ジダン見やすく見えました。マネージャーとして、距離感は成長しました。3 位を獲得チャンピオンズリーグ s とレアル・マドリードサッカーの彼の考えが好きなことのセンスを与えずに。フランスはおそらく最も複雑なサッカーの国です:B チームは、B チームが深刻なコンテンダーになるような才能に気をつけるチーム World Cup, t に達した",
+      "title_original": "Zidane’s next move as France coach may reveal the wizard behind the curtain | Jonathan Wilson",
+      "summary_original": "It is apt that the most perplexing football country will now be guided by the most enigmatic of leaders Even in his playing days, Zinedine Zidane seemed unknowable. As a manager, the sense of distance has only grown. He won three Champions Leagues with Real Madrid without ever giving a sense of what his idea of football looked like. France are perhaps the most perplexing football country: a squad that teems with such talent that a B team would be serious contenders at a World Cup, that reached t",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain",
+      "published": "Sat, 19 Sep 2026 19:00:54 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "レディース移籍市場夏の2026:世界のトップ6 リーグからのすべての移籍",
       "summary": "NWSL、WSL、Liga F、Fauen の各移籍ブンデスリーガ, フランス女子サッカーリーグそして、セリエ AFemminile だけでなく、クラブバイクラブガイド男性移籍市場 インテルアクティブなガイド 続きを読む...",
       "title_original": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
@@ -3743,20 +3757,6 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Zidane の次のフランスコーチがカーテンの背後にあるウィザードを明らかにするかもしれないので移動 |Jonathan Wilson",
-      "summary": "最も人気のあるサッカーの国は、彼の再生日でさえも、リーダーの最も重要性によって導かれること、ジネディーヌ・ジダン見やすく見えました。マネージャーとして、距離感は成長しました。3 位を獲得チャンピオンズリーグ s とレアル・マドリードサッカーの彼の考えが好きなことのセンスを与えずに。フランスはおそらく最も複雑なサッカーの国です:B チームは、B チームが深刻なコンテンダーになるような才能に気をつけるチーム World Cup, t に達した",
-      "title_original": "Zidane’s next move as France coach may reveal the wizard behind the curtain | Jonathan Wilson",
-      "summary_original": "It is apt that the most perplexing football country will now be guided by the most enigmatic of leaders Even in his playing days, Zinedine Zidane seemed unknowable. As a manager, the sense of distance has only grown. He won three Champions Leagues with Real Madrid without ever giving a sense of what his idea of football looked like. France are perhaps the most perplexing football country: a squad that teems with such talent that a B team would be serious contenders at a World Cup, that reached t",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain",
-      "published": "Sat, 19 Sep 2026 19:00:54 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
