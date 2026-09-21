@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-21T14:06:04.067370+00:00",
+  "updated_at": "2026-09-21T14:26:12.734409+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Rich O’Donnell": "",
-    "Email Niall": "",
-    "No Julian Alvarez": "",
     "Arsenal. He": "",
     "And Mikel Arteta": "",
     "Zian Flemming": "ジアン・フレミング",
@@ -3001,7 +2998,10 @@
     "Bundesliga. It": "",
     "England Lions": "",
     "Jonathan Trott": "",
-    "Andrew Flintoff": "アンドリュー・フリントフ"
+    "Andrew Flintoff": "アンドリュー・フリントフ",
+    "Paul Lambert": "ポール・ランバート",
+    "Pocognoli Facetime": "",
+    "Lennon Miller": ""
   },
   "items": [
     {
@@ -3103,6 +3103,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Pocognoli デビューのためにスコットランドのスクワッドシェイピングは?",
+      "summary": "セバスチャン・ポコニョーリ土曜日にスロベニアに対してスコットランドのヘッドコーチとして最初のテストに直面していますが、彼のスクワッドは彼のデビューのためにシェイピングアップする方法は?",
+      "title_original": "How are Scotland squad shaping up for Pocognoli debut?",
+      "summary_original": "Sebastien Pocognoli's faces his first test as Scotland head coach against Slovenia on Saturday, but how are his squad shaping up for his debut?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck8d38yz4yymo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 13:49:13 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "モウリーニョプリントアウト 'レッドカード' 実質がダービーを失う後の事件",
       "summary": "レアル・マドリードマネージャージョゼ・モウリーニョ彼が信じる2 つのインシデントを表示するスクリーンショットをプリントアウトアトレティコ・マドリード免責事項",
       "title_original": "Mourinho prints out 'red card' incidents after Real lose derby",
@@ -3117,6 +3131,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "セルティック O'Neill マネージャーをサックできません。",
+      "summary": "マーティン・オニール投稿するセルティック驚きではないポール・ランバート、しかし、元クラブキャプテンは、ベテランマネージャーが満足していなければ「ショックと失望」だろう。",
+      "title_original": "Celtic can't sack manager O'Neill, says Lambert",
+      "summary_original": "Martin O'Neill leaving Celtic would not surprise Paul Lambert, but the former club captain would be \"shocked and disappointed\" if the veteran manager was to be sacked.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3j4jpzy08p5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 13:55:16 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "深刻な事故後の病院での Ex-Birmingham ウィンガーグラハム",
       "summary": "Former Birmingham ウィンガージョーダン・グラハム「深刻な道路交通事故」に関与した後、病院にいます。",
       "title_original": "Ex-Birmingham winger Graham in hospital after serious accident",
@@ -3128,34 +3156,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'greatest captain' は、Bellamy's Wales?",
-      "summary": "元キャプテンのリターンアシュレー・ウィリアムズウェールズのコーチングチームに上司を励ましますクレイグ・ベラミー前に、Nations League 備品。",
-      "title_original": "What will 'greatest captain' bring to Bellamy's Wales?",
-      "summary_original": "The return of former captain Ashley Williams to the Wales coaching team excites boss Craig Bellamy before their Nations League fixtures.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c58jdvlejve2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 03:52:45 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "から学んだことプレミアリーグ獲得を問い合わせ",
-      "summary": "BBC について スポーツは、開いている週の開いている時間を見てみましょうプレミアリーグ長い季節インテル国民の休憩は到着します。",
-      "title_original": "What have we learned from the Premier League so far?",
-      "summary_original": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 19:08:10 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3243,6 +3243,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Pocognoli Facetime 廃棄の夏にミラーを助ける",
+      "summary": "Lennon Miller 新しいスコットランドのヘッドコーチによる Facetime セバスチャン・ポコニョーリ彼が戻ってくるようにインテル国民の折目。",
+      "title_original": "Pocognoli Facetime helps Miller over summer of discontent",
+      "summary_original": "Lennon Miller was Facetimed by new Scotland head coach Sebastien Pocognoli as he returns to the international fold.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxz2722jjvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 14:11:27 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'greatest captain' は、Bellamy's Wales?",
+      "summary": "元キャプテンのリターンアシュレー・ウィリアムズウェールズのコーチングチームに上司を励ましますクレイグ・ベラミー前に、Nations League 備品。",
+      "title_original": "What will 'greatest captain' bring to Bellamy's Wales?",
+      "summary_original": "The return of former captain Ashley Williams to the Wales coaching team excites boss Craig Bellamy before their Nations League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c58jdvlejve2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 03:52:45 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "から学んだことプレミアリーグ獲得を問い合わせ",
+      "summary": "BBC について スポーツは、開いている週の開いている時間を見てみましょうプレミアリーグ長い季節インテル国民の休憩は到着します。",
+      "title_original": "What have we learned from the Premier League so far?",
+      "summary_original": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 19:08:10 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "3 週間の休憩でマネージャーに圧力をかけますか?",
       "summary": "これまでのところ、このシーズン3 人のコーチは自分の仕事を失いますが、他の人の多くは、新しい、拡張に向かう彼らの肩を上回っていますインテル国民の休憩。",
       "title_original": "Will three-week break put more pressure on managers?",
@@ -3271,16 +3313,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "アイルランド共和国2 ゴールテストのための dNations League",
-      "summary": "BBC Sport NI アイルランドとその相手の共和国 - Kosovo、イスラエル、オーストリアは、Nations League.",
-      "title_original": "Republic of Ireland braced for testing Nations League",
-      "summary_original": "BBC Sport NI looks at how Republic of Ireland and their opponents - Kosovo, Israel and Austria are shaping up for the Nations League.",
+      "title": "プレイヤーが何回獲得したかハットトリック獲得を問い合わせプレミアリーグ損失?",
+      "summary": "サンダーランドの Brian Brobbey が最初に得たハットトリック敗北側のプレイヤーによるプレミアリーグ19 年間 - しかし、他の何人がそうしたのですか?",
+      "title_original": "How many times has a player scored a hat-trick in a Premier League loss?",
+      "summary_original": "Sunderland's Brian Brobbey scored the first hat-trick by a player on a losing side in the Premier League for 19 years - but how many others have done so?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/articles/c2071gdnv50o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 06:36:17 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6e30pz1dkj9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 09:05:00 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3299,20 +3341,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレイヤーが何回獲得したかハットトリック獲得を問い合わせプレミアリーグ損失?",
-      "summary": "サンダーランドの Brian Brobbey が最初に得たハットトリック敗北側のプレイヤーによるプレミアリーグ19 年間 - しかし、他の何人がそうしたのですか?",
-      "title_original": "How many times has a player scored a hat-trick in a Premier League loss?",
-      "summary_original": "Sunderland's Brian Brobbey scored the first hat-trick by a player on a losing side in the Premier League for 19 years - but how many others have done so?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6e30pz1dkj9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 09:05:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ラップする時間があるかもしれません」 - O'Neill ponders セルティック敗北後の未来",
       "summary": "マーティン・オニール彼が使用することを言うインテル後の位置に反映する国民の休憩セルティックビッグゲームで3 回連続敗北する。",
       "title_original": "'It might be time to wrap it up' - O'Neill ponders Celtic future after defeat",
@@ -3324,6 +3352,20 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アイルランド共和国2 ゴールテストのための dNations League",
+      "summary": "BBC Sport NI アイルランドとその相手の共和国 - Kosovo、イスラエル、オーストリアは、Nations League.",
+      "title_original": "Republic of Ireland braced for testing Nations League",
+      "summary_original": "BBC Sport NI looks at how Republic of Ireland and their opponents - Kosovo, Israel and Austria are shaping up for the Nations League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/articles/c2071gdnv50o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 06:36:17 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3383,59 +3425,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "例-リヴァプールサラは6 ヶ月の運転禁止を取得",
-      "summary": "前の投稿リヴァプールサッカーのロールス・ロイスは3 月にウィルムスローで時計を浴びていました。",
-      "title_original": "Ex-Liverpool forward Salah gets six-month driving ban",
-      "summary_original": "The former Liverpool footballer's Rolls-Royce was clocked speeding in Wilmslow in March.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw27jpy0ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 11:32:41 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レンジャーズどこに行きたいか知っているように見える -セルティックちょうど失われた一見",
-      "summary": "Tom English 最初に反映するオールドファーム季節のリーグゲーム、その中レンジャーズ繰り返す League Cup 勝つセルティック.",
-      "title_original": "Rangers look like they know where they want to go - Celtic just look lost",
-      "summary_original": "Tom English reflects on the first Old Firm league game of the season, in which Rangers repeated their League Cup win over Celtic.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 16:23:48 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "すべての目標から Women's Super League- マッチウィーク3",
-      "summary": "マッチウィーク3 の全てのゴールを見る Women's Super League2026-27 シーズン",
-      "title_original": "All the goals from the Women's Super League - matchweek three",
-      "summary_original": "Watch every goal from matchweek three of the Women's Super League 2026-27 season.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm0qx2191yxgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 08:15:52 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Granit Xhaka2022 年に偽のコビッド予防接種証明書を受け取ることを認める",
-      "summary": "サンダーランドスイスのスクワットから撤退キャプテン 監査役の事務所に質問をします。Lucerne Granit Xhaka 彼は2022 年に偽のコビッド予防接種証明書を受け取ることを認めた後、スイスのスクワットから撤退しました。ザ・オブ・ザ・サンダーランドそしてスイスのキャプテン - 誰でしたアーセナル当時プレーヤー – この「ミスク」のために謝罪し、彼の国の苦難4 を座って Nations League マッチ。Xhaka は Lucerne nex の prosecutor's のオフィスで質問されることを表彰されます",
-      "title_original": "Granit Xhaka admits to receiving fake Covid vaccination certificate in 2022",
-      "summary_original": "Sunderland captain withdrawn from Switzerland squad He will be questioned by prosecutor’s office in Lucerne Granit Xhaka has been withdrawn from Switzerland’s squad after he admitted receiving a fake Covid vaccination certificate in 2022. The Sunderland and Switzerland captain – who was an Arsenal player at the time – has apologised for this “mistake” and will sit out his country’s forthcoming four Nations League matches. Xhaka is poised to be questioned by the prosecutor’s office in Lucerne nex",
+      "title": "トーマス・トゥヘルイングランドのスクワッドから5 つの主要な出金でロック",
+      "summary": "パルマー、米、メイン、ラシュフォード、リボラメントの負傷ジェームズ・ガーナーそして、Morgan Gibbs-White カバーとしてコールアップトーマス・トゥヘル彼のイングランドのスクワッドから撤退のホストによってロックされています。コール・パーマー, デクラン・ライス, コビー・メイヌー, マーカス・ラッシュフォードそして、ティノ・リヴラメント怪我の問題のため、すべて。マネージャーが呼び出されたジェームズ・ガーナーそして、Morgan Gibbs-White 今後のオプションを強化する Nations League プログラム Tuchel は Palmer を初めの金曜日にハイプロファイルのリコールを受け取りました",
+      "title_original": "Thomas Tuchel rocked by five key withdrawals from England squad",
+      "summary_original": "Palmer, Rice, Mainoo, Rashford and Livramento injured James Garner and Morgan Gibbs-White called-up as cover Thomas Tuchel has been rocked by a host of withdrawals from his England squad, with Cole Palmer, Declan Rice, Kobbie Mainoo, Marcus Rashford and Tino Livramento all out because of injury issues. The manager has called up James Garner and Morgan Gibbs-White to boost his options for the upcoming Nations League programme. Tuchel gave Palmer a high-profile recall last Friday for the beginning",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/21/granit-xhaka-admits-receiving-fake-covid-vaccination-certificate",
-      "published": "Mon, 21 Sep 2026 11:46:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel",
+      "published": "Mon, 21 Sep 2026 13:39:28 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3446,6 +3446,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/21/wsl-talking-points-arsenal-isobel-goodwin-england",
       "published": "Mon, 21 Sep 2026 11:00:18 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Granit Xhaka2022 年に偽のコビッド予防接種証明書を受け取ることを認める",
+      "summary": "サンダーランドスイスのスクワットから撤退キャプテン 監査役の事務所に質問をします。Lucerne Granit Xhaka 彼は2022 年に偽のコビッド予防接種証明書を受け取ることを認めた後、スイスのスクワットから撤退しました。ザ・オブ・ザ・サンダーランドそしてスイスのキャプテン - 誰でしたアーセナル当時プレーヤー – この「ミスク」のために謝罪し、彼の国の苦難4 を座って Nations League マッチ。Xhaka は Lucerne nex の prosecutor's のオフィスで質問されることを表彰されます",
+      "title_original": "Granit Xhaka admits to receiving fake Covid vaccination certificate in 2022",
+      "summary_original": "Sunderland captain withdrawn from Switzerland squad He will be questioned by prosecutor’s office in Lucerne Granit Xhaka has been withdrawn from Switzerland’s squad after he admitted receiving a fake Covid vaccination certificate in 2022. The Sunderland and Switzerland captain – who was an Arsenal player at the time – has apologised for this “mistake” and will sit out his country’s forthcoming four Nations League matches. Xhaka is poised to be questioned by the prosecutor’s office in Lucerne nex",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/granit-xhaka-admits-receiving-fake-covid-vaccination-certificate",
+      "published": "Mon, 21 Sep 2026 11:46:02 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3478,20 +3492,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トーマス・トゥヘルイングランドのスクワッドから5 つの主要な出金でロック",
-      "summary": "パルマー、米、メイン、ラシュフォード、リボラメントの負傷ジェームズ・ガーナーそして、Morgan Gibbs-White カバーとしてコールアップトーマス・トゥヘル彼のイングランドのスクワッドから撤退のホストによってロックされています。コール・パーマー, デクラン・ライス, コビー・メイヌー, マーカス・ラッシュフォードそして、ティノ・リヴラメント怪我の問題のため、すべて。マネージャーが呼び出されたジェームズ・ガーナーそして、Morgan Gibbs-White 今後のオプションを強化する Nations League プログラム Tuchel は Palmer を初めの金曜日にハイプロファイルのリコールを受け取りました",
-      "title_original": "Thomas Tuchel rocked by five key withdrawals from England squad",
-      "summary_original": "Palmer, Rice, Mainoo, Rashford and Livramento injured James Garner and Morgan Gibbs-White called-up as cover Thomas Tuchel has been rocked by a host of withdrawals from his England squad, with Cole Palmer, Declan Rice, Kobbie Mainoo, Marcus Rashford and Tino Livramento all out because of injury issues. The manager has called up James Garner and Morgan Gibbs-White to boost his options for the upcoming Nations League programme. Tuchel gave Palmer a high-profile recall last Friday for the beginning",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel",
-      "published": "Mon, 21 Sep 2026 13:39:28 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3972,9 +3972,9 @@
     },
     {
       "title": "ヤシ、ジブス・ホワイト・リターンとしてのイギリスの出金",
-      "summary": "コール・パーマーそして、デクラン・ライスイングランドのスクワッドから撤退した名前は5 つあります。",
+      "summary": "コール・パーマーそして、デクラン・ライスイングランドのスクワットから撤退した選手は5 名です。",
       "title_original": "Palmer, Rice among England withdrawals as Gibbs-White returns",
-      "summary_original": "Cole Palmer and Declan Rice are among five names to have withdrawn from the England squad.",
+      "summary_original": "Cole Palmer and Declan Rice are among five players to have withdrawn from the England squad.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590334/england-latest-cole-palmer-withdraws-from-thomas-tuchels-squad-ahead-of-long-international-break",
       "published": "Mon, 21 Sep 2026 08:25:00 BST",
