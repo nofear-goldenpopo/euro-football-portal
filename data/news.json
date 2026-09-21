@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-21T07:40:47.486211+00:00",
+  "updated_at": "2026-09-21T07:53:26.720398+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Chelsea's Fernandez": "",
-    "Parma's Sorensen": "",
-    "Oliver Sorensen": "",
     "Shaun Maloney": "ショーン・マロニー",
     "Man City Arsenal's": "",
     "Ireland LIVE": "",
@@ -3001,7 +2998,10 @@
     "Washington Commanders": "",
     "QB Williams": "",
     "Caleb Williams": "",
-    "Minnesota Vikings": ""
+    "Minnesota Vikings": "",
+    "Mastermind Flores": "",
+    "Brian Flores": "",
+    "Los Angeles Chargers. Here": ""
   },
   "items": [
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "イギリスのスクワッドから撤退",
+      "summary": "コール・パーマー筋肉の怪我のため、イングランドのスクワットから撤退しています。",
+      "title_original": "Palmer withdrawing from England squad",
+      "summary_original": "Cole Palmer is withdrawing from the England squad because of a muscle injury.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590334/england-latest-cole-palmer-withdraws-from-thomas-tuchels-squad-ahead-of-long-international-break",
+      "published": "Mon, 21 Sep 2026 08:25:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・ユナイテッド最新:Neville は「最長15 分」と Fulham の後に形成変化を呼びます",
       "summary": "",
       "title_original": "Man Utd latest: Neville calls for formation change after 'worst 15 mins' vs Fulham",
@@ -3949,6 +3963,20 @@
       "summary_original": "Former Formula 1 world champion Nico Rosberg believes Kimi Antonelli's biggest obstacle will be himself in this season's title race run-in.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13589366/kimi-antonelli-versus-his-mind-will-decide-2026-formula-1-title-race-says-nico-rosberg-ahead-of-azerbaijan-grand-prix",
+      "published": "Mon, 21 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "NFL Weekend Review: Mastermind Flores クマを支配人",
+      "summary": "Brian Flores 再びストライキ, 別の New Orleans Saints カムバックとより多くの圧力 Justin Herbert そして、ロサンゼルス充電器。こちらのレビューはこちら NFL Sunday...",
+      "title_original": "NFL Weekend Review: Mastermind Flores dominates Bears",
+      "summary_original": "Brian Flores strikes again, another New Orleans Saints comeback and more pressure on Justin Herbert and the Los Angeles Chargers. Here is our review of NFL Sunday...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13590115/nfl-weekend-review-brian-flores-dominates-chicago-bears-tyler-shough-heroics-and-more-justin-herbert-misery",
       "published": "Mon, 21 Sep 2026 06:00:00 BST",
       "category": "other",
       "type": "other",
@@ -4094,34 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トピックス赤い星ミラーは「疑わない」を持っていますリーズ安全確保 Grand Final スポット",
-      "summary": "リーズ・ライノズ2026 年に飛んでいるが、入る Super League フォームの実質的に彼らのパッチランであるものの後ろに準決勝.",
-      "title_original": "Injured star Miller has 'no doubt' Leeds can secure Grand Final spot",
-      "summary_original": "Leeds Rhinos have been flying high in 2026 but enter the Super League semi-finals on the back of what is arguably their patchiest run of form.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13585904/leeds-rhinos-lachie-miller-injured-star-has-no-doubt-team-can-make-it-to-super-league-grand-final",
-      "published": "Mon, 21 Sep 2026 07:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ペーパー: Carrick はまだ裏付けマンチェスター・ユナイテッド四季折々の旬を",
-      "summary": "月曜日の新聞から噂を移籍するトップストーリー...",
-      "title_original": "Papers: Carrick still backing Man Utd to have big season",
-      "summary_original": "The top stories and transfer rumours from Monday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590322/michael-carrick-believes-man-utd-can-still-have-big-season-despite-equalling-clubs-worst-premier-league-start-paper-talk",
-      "published": "Mon, 21 Sep 2026 07:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
