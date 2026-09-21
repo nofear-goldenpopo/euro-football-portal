@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T10:37:58.663733+00:00",
+  "updated_at": "2026-09-21T10:51:08.238912+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
     "Moses Itauma's": "",
@@ -3341,20 +3341,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "タイのピッチローラーで街を走る",
-      "summary": "Former England ウィンガーアンドロス・タウンゼントタイの試合前の奇妙な事件の後に「悪くはない」と叫ぶジョーク。",
-      "title_original": "Townsend run over by pitch roller in Thailand",
-      "summary_original": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in Thailand.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 09:08:43 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "すべての目標から Women's Super League- マッチウィーク3",
       "summary": "マッチウィーク3 の全てのゴールを見る Women's Super League2026-27 シーズン",
       "title_original": "All the goals from the Women's Super League - matchweek three",
@@ -3418,6 +3404,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cvrl6p8rged5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 05:36:55 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "タイのピッチローラーで街を走る",
+      "summary": "Former England ウィンガーアンドロス・タウンゼントタイの試合前の奇妙な事件の後に「悪くはない」と叫ぶジョーク。",
+      "title_original": "Townsend run over by pitch roller in Thailand",
+      "summary_original": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in Thailand.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 09:08:43 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3859,20 +3859,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Ref Watch & プレミアリーグ週末の反応 LIVE!",
-      "summary": "",
-      "title_original": "Ref Watch & Premier League weekend reaction LIVE!",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
-      "published": "Mon, 14 Sep 2026 16:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "イギリスのスクワッドから撤退",
       "summary": "コール・パーマー筋肉の怪我のため、イングランドのスクワットから撤退しています。",
       "title_original": "Palmer withdrawing from England squad",
@@ -3883,6 +3869,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Ref Watch & プレミアリーグ週末の反応",
+      "summary": "",
+      "title_original": "Ref Watch & Premier League weekend reaction",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
+      "published": "Mon, 14 Sep 2026 16:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
