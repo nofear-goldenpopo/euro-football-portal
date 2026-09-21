@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-21T12:42:17.795598+00:00",
+  "updated_at": "2026-09-21T12:53:23.897966+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Championship. West Ham": "",
-    "Nuno Espírito Santo": "ヌーノ・エスピーリト・サント",
-    "Jarrod Bowen": "",
-    "Sammie Szmodics": "",
-    "Lars-Jorgen Salvesen": "",
     "Ethan Galbraith": "",
     "August Priske": "",
     "Midfielder Larsson": "",
@@ -3001,7 +2996,12 @@
     "Jordan Graham": "ジョーダン・グラハム",
     "Will Unwin": "",
     "Lars Sivertsen": "",
-    "Brighton Continue": ""
+    "Brighton Continue": "",
+    "Nicky Bandini": "",
+    "Gian Piero Gasperini Gian": "",
+    "Piero Gasperini": "",
+    "His Roma": "",
+    "Bramall Lane": "ブラモール・レーン"
   },
   "items": [
     {
@@ -3467,6 +3467,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "チャンピオンズインテル deny will-be タイトルライバルローマとして マルティネス ハント ガスペリーニ |Nicky Bandini",
+      "summary": "ストライカーのダブルは2-2 を引くと、コーチングされた側面に対する彼の無縁のレコードを拡張しました Gian Piero Gasperini Gian Piero Gasperini 笑顔から自分を守ることはできません。ユダヤローマチームには、自宅で2 頭のリードをスチーム化しましたインテルしかし、彼は交差するように Stadio Olimpico 訪問者のコクバックを率いた男を迎えるピッチ、彼の唇は穀物に形成されました。「彼はいつも私に対して得点します」と言ったことを尋ねたとき、彼は笑う Gasperini を説明しましたラウタロ・マルティネスしばらく待ってから",
+      "title_original": "Champions Inter deny would-be title rivals Roma as Martínez haunts Gasperini | Nicky Bandini",
+      "summary_original": "Striker’s double rescued a 2-2 draw and extend his unbeaten record against sides coached by Gian Piero Gasperini Gian Piero Gasperini could not keep himself from smiling. His Roma team had just squandered a two-goal lead at home to Inter but as he crossed the Stadio Olimpico pitch to greet the man who had led the visitors’ comeback, his lips formed into a grin. “He always scores against me”, explained a laughing Gasperini when he was asked what he had said to Lautaro Martínez a short while after",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/serie-a-inter-roma-lautaro-martinez-gian-piero-gasperini",
+      "published": "Mon, 21 Sep 2026 12:22:12 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "マンチェスター・ユナイテッド’s のエンジンルームはファンの声の不満として蒸気から操業 |Jacob Steinberg",
       "summary": "カラリックの側面は、夏がミッドフィールドに費やしているにもかかわらず、インスピレーションに不足し、最終3 分の質の欠如は、より有害な側面の一つを主演しましたマンチェスター・ユナイテッド’ の破損した再建は、マルチタスクに対するその可能性. そのため、多くのお金が冷やされていたので、毎年夏に1 つのポジションを1 回行くという素晴らしい位置にユナイテッドを押します。昨年は、攻撃と最近のウィンドウは、フルバックのオプションは見ていないにもかかわらず、中央ミッドフィールドでした",
       "title_original": "Manchester United’s engine room runs out of steam as fans voice frustration | Jacob Steinberg",
@@ -3488,20 +3502,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/20/enzo-maresca-manchester-city-sunderland-premier-league",
       "published": "Sun, 20 Sep 2026 17:22:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "与えるために発疹リヴァプール Iraola の Bournemouth への戻りに対する勝利",
-      "summary": "最終的な笛で、勝利が確保され、アンドニ・イラオラログイン2 ゴール d 彼の現在の選手と彼が最後のシーズンのボーンマスで新しい高さに導いたそれら。リヴァプールまだ圧倒されていない, 窒息力のイラオラは、それらになるために望んでいるが、彼らはここに3 つのポイントを主張するのに十分だった,アレクサンデル・イサクシンプルな仕上げで独特の性能を発揮します。コーディ・ガクポ再び建築家、オランダ人は今シーズンのアイザックの目標のすべての4 のためのサプライヤーでした。スコアリング前のアイザックの他のショットだけだった",
-      "title_original": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
-      "summary_original": "At the final whistle, victory secured, Andoni Iraola embraced both his current players and those he guided to new heights at Bournemouth last season. Liverpool are not yet the overwhelming, suffocating force Iraola wants them to become but they did enough to claim three points here, Alexander Isak capping a peculiar performance with a simple finish. Cody Gakpo was again the architect, the Dutchman the supplier for all four of Isak’s goals this season. Isak’s only other shot before scoring was to",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
-      "published": "Sun, 20 Sep 2026 15:06:48 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3691,6 +3691,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "与えるために発疹リヴァプール Iraola の Bournemouth への戻りに対する勝利",
+      "summary": "最終的な笛で、勝利が確保され、アンドニ・イラオラログイン2 ゴール d 彼の現在の選手と彼が最後のシーズンのボーンマスで新しい高さに導いたそれら。リヴァプールまだ圧倒されていない, 窒息力のイラオラは、それらになるために望んでいるが、彼らはここに3 つのポイントを主張するのに十分だった,アレクサンデル・イサクシンプルな仕上げで独特の性能を発揮します。コーディ・ガクポ再び建築家、オランダ人は今シーズンのアイザックの目標のすべての4 のためのサプライヤーでした。スコアリング前のアイザックの他のショットだけだった",
+      "title_original": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
+      "summary_original": "At the final whistle, victory secured, Andoni Iraola embraced both his current players and those he guided to new heights at Bournemouth last season. Liverpool are not yet the overwhelming, suffocating force Iraola wants them to become but they did enough to claim three points here, Alexander Isak capping a peculiar performance with a simple finish. Cody Gakpo was again the architect, the Dutchman the supplier for all four of Isak’s goals this season. Isak’s only other shot before scoring was to",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
+      "published": "Sun, 20 Sep 2026 15:06:48 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "レンジャーズそして、Ryan Naderi 終わり オフセルティック’s horror 週とオールドファーム優勝",
       "summary": "サイレンスでスタジアムを揺れると、その瞬間でした。今シーズンのグラスゴーのダービーで許可されていないファンで、Ryan Naderi’s 勝った目標は、何と会ったが、明確なプラスチックの拳の強打レンジャーズベンチ, 放送の解説者の叫び. アパシーとアトロフィーの叫び声、ビーコンの音、優勝争い吹き出しの開放とチームをゆっくり切り離します。獲得を問い合わせレンジャーズこの勝利を祝うことができませんでした",
       "title_original": "Rangers and Ryan Naderi finish off Celtic’s horror week with Old Firm victory",
@@ -3740,20 +3754,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/19/arsenal-manchester-united-wsl-match-report",
       "published": "Sat, 19 Sep 2026 18:42:26 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "De Zerbi リッピングするトッテナムヴィラ敗北後の選手:「失望、悲しい、不満」",
-      "summary": "トッテナム2 つの後半の目標で3-2 を失う「この方法でゲームを失うことができません」とマネージャーは言うロベルト・デ・ゼルビ失敗に耐えるトッテナム3-2 敗北後のチームアストン・ヴィラ「この方法でゲームを失わない」と言っています。The Italian トンネルをフルタイムで直進しましたが、もう一度強制的に boos を強制しましたトッテナム3 週間に渡るインテル国民の休憩なしプレミアリーグ自分の名前とボード上の2 つのポイントへの勝利。De Zerbi 彼のテを批判",
-      "title_original": "De Zerbi rips into Spurs players after Villa defeat: ‘Disappointed, sad and frustrated’",
-      "summary_original": "Tottenham lose 3-2 at home with two late goals ‘We can’t lose the game in this way,’ says manager Roberto De Zerbi tore into his failing Tottenham team after their 3-2 defeat by Aston Villa, saying “we can’t lose the game in this way”. The Italian headed straight down the tunnel at full time, but was once again forced to endure boos as Tottenham went into the three-week international break without a Premier League victory to their name and just two points on the board. De Zerbi criticised his te",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/roberto-de-zerbi-spurs-disappointed-sad-frustrated",
-      "published": "Sat, 19 Sep 2026 17:01:07 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3943,10 +3943,10 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヤパーは、ギブス・ホワイト・リターンと乗ったイングランドから撤退",
-      "summary": "コール・パーマー筋肉の怪我のため、イングランドのスクワットから撤退しています。",
-      "title_original": "Palmer to withdraw from England squad with Gibbs-White returning",
-      "summary_original": "Cole Palmer is withdrawing from the England squad because of a muscle injury.",
+      "title": "ヤシ、ジブス・ホワイト・リターンとしてのイギリスの出金",
+      "summary": "コール・パーマーそして、デクラン・ライスイングランドのスクワッドから撤退した名前は5 つあります。",
+      "title_original": "Palmer, Rice among England withdrawals as Gibbs-White returns",
+      "summary_original": "Cole Palmer and Declan Rice are among five names to have withdrawn from the England squad.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590334/england-latest-cole-palmer-withdraws-from-thomas-tuchels-squad-ahead-of-long-international-break",
       "published": "Mon, 21 Sep 2026 08:25:00 BST",
