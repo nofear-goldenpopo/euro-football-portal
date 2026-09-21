@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-21T08:06:40.698656+00:00",
+  "updated_at": "2026-09-21T08:27:59.593679+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Man City Arsenal's": "",
     "Ireland LIVE": "",
     "Mile High Stadium": "マイル・ハイ・スタジアム",
     "RB Le": "",
@@ -3001,9 +3000,24 @@
     "Mastermind Flores": "",
     "Brian Flores": "",
     "Los Angeles Chargers. Here": "",
-    "Ref Watch": ""
+    "Ref Watch": "",
+    "Scottish Championship": "スコティッシュ・チャンピオンシップ"
   },
   "items": [
+    {
+      "title": "ヤパーは、リコール後にイングランドのスクワットから撤退するように設定",
+      "summary": "チェルシー獲得コール・パーマー今後のイングランドのスクワッドから撤退する Nations League 軽度の怪我のためマッチします。",
+      "title_original": "Palmer set to withdraw from England squad after recall",
+      "summary_original": "Chelsea forward Cole Palmer is set to withdraw from England's squad for the upcoming Nations League matches because of a minor injury.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 08:06:06 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "「赦しを求めました」 - エッカートとナンプトン2 ゴール d のために スパイゲート 評論家",
       "summary": "As Southampton マネージャーTonda EckertFA が「Spygate」の不正行為に耳を傾け、BBC スポーツエディタをチャージ Dan Roan 彼とクラブのチーフエグゼクティブに話す Phil Parsons 次に起こること。",
@@ -3131,20 +3145,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トロイさんを作った人プレミアリーグ週のチーム?",
-      "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
-      "title_original": "Who has made Troy's Premier League team of the week?",
-      "summary_original": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckzdz2l0m52mo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 19:40:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "トッテナム、1億2500万ポンド move for Gibbs-White - Monday's gossip を獲得候補に",
       "summary": "トッテナムのために動くことができます Morgan Gibbs‐ホワイト JJ Gabriel's 次のステップは未解決のままであり、アントニオ・コンテ次の動きを裏切ることもできます。",
       "title_original": "Spurs eye £125m move for Gibbs-White - Monday's gossip",
@@ -3229,6 +3229,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "トロイさんを作った人プレミアリーグ週のチーム?",
+      "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
+      "title_original": "Who has made Troy's Premier League team of the week?",
+      "summary_original": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckzdz2l0m52mo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 19:40:25 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "長距離サッカーマネージャーであることの長所と短所",
       "summary": "長距離サッカーマネージャーであることの長所と短所。過去の投稿ストーク・シティ FC マネージャーTony Pulis 家族の家を数百マイル離れたままにしているにもかかわらず、BBC スポーツについて話します。",
       "title_original": "The pros and cons of being a long-distance football manager",
@@ -3254,20 +3268,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Fulham v で最高評価マンチェスター・ユナイテッド?",
-      "summary": "最後の分 Cunha の目標は保存しますマンチェスター・ユナイテッド別の敗北から - 誰がフルハムで最高評価?",
-      "title_original": "Who rated highest in Fulham v Man Utd?",
-      "summary_original": "Last minute Cunha goal saves Man Utd from another defeat - who rated highest at Fulham?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxddvp49gg1ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 17:32:55 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3341,6 +3341,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Fulham v で最高評価マンチェスター・ユナイテッド?",
+      "summary": "最後の分 Cunha の目標は保存しますマンチェスター・ユナイテッド別の敗北から - 誰がフルハムで最高評価?",
+      "title_original": "Who rated highest in Fulham v Man Utd?",
+      "summary_original": "Last minute Cunha goal saves Man Utd from another defeat - who rated highest at Fulham?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxddvp49gg1ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 17:32:55 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "すべての目標から Women's Super League- マッチウィーク3",
+      "summary": "マッチウィーク3 の全てのゴールを見る Women's Super League2026-27 シーズン",
+      "title_original": "All the goals from the Women's Super League - matchweek three",
+      "summary_original": "Watch every goal from matchweek three of the Women's Super League 2026-27 season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm0qx2191yxgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 08:15:52 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "SPFL のハイライト:アイル&ステンハウスマイルがスターラーが利益を上げるにつれて勝ちます",
+      "summary": "週末の行動から最大限の行動を見るスコティッシュ・チャンピオンシップリーグ1・リーグ2",
+      "title_original": "SPFL highlights: Ayr & Stenhousemuir win as Stranraer make gains",
+      "summary_original": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gj92n5qz8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 08:07:31 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ホールドスコアハットトリックとしてトッテナム thrash 10 プレイクリスタル・パレス",
       "summary": "オリビア・ホルト (サッカー選手)クレームハットトリックとしてトッテナムスコア 7 回 後半 非難 10 選手クリスタル・パレス彼らの最初の敗北に戻って推進されているので、Women's Super League.",
       "title_original": "Holdt scores hat-trick as Spurs thrash 10-player Palace",
@@ -3380,48 +3422,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "大きくて、大きな罰をしました - エッカート",
-      "summary": "ナンプトンボス Tonda Eckert クラブは、Spygate の \"big, big punishment\" を持っていたと言う.",
-      "title_original": "We've had a big, big punishment - Eckert",
-      "summary_original": "Southampton boss Tonda Eckert says the club have had a \"big, big punishment\" for Spygate.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq986ryd29r1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 05:40:31 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Atletico 勝つ feisty Madrid derby から 10 男 リアル",
-      "summary": "アトレティコ・マドリードビートレアル・マドリード強烈なダービーで、自分のライバルの上に2 番目の場所に移動ラ・リーガテーブル。",
-      "title_original": "Atletico win feisty Madrid derby against 10-man Real",
-      "summary_original": "Atletico Madrid beat Real Madrid in a feisty derby to move above their rivals into second place in the La Liga table.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqkgxp97nxzno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 17:00:46 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "イプスウィッチ・タウンファタウの危機的虐待を調査",
-      "summary": "クラブは「完全に受け入れられない」として虐待を非難し、プレイヤーは完全なサポートを持っていると言います。",
-      "title_original": "Ipswich Town investigates racist abuse of Fatawu",
-      "summary_original": "The club condemns the abuse as \"completely unacceptable\" and says the player has its full support.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/cq0kl25xe60jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 20:08:47 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
