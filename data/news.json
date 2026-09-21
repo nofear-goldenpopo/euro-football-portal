@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-21T07:53:26.720398+00:00",
+  "updated_at": "2026-09-21T08:06:40.698656+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Shaun Maloney": "ショーン・マロニー",
     "Man City Arsenal's": "",
     "Ireland LIVE": "",
     "Mile High Stadium": "マイル・ハイ・スタジアム",
@@ -3001,7 +3000,8 @@
     "Minnesota Vikings": "",
     "Mastermind Flores": "",
     "Brian Flores": "",
-    "Los Angeles Chargers. Here": ""
+    "Los Angeles Chargers. Here": "",
+    "Ref Watch": ""
   },
   "items": [
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Ref Watch & プレミアリーグ週末の反応 LIVE!",
+      "summary": "",
+      "title_original": "Ref Watch & Premier League weekend reaction LIVE!",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
+      "published": "Mon, 14 Sep 2026 16:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "イギリスのスクワッドから撤退",
       "summary": "コール・パーマー筋肉の怪我のため、イングランドのスクワットから撤退しています。",
       "title_original": "Palmer withdrawing from England squad",
@@ -3888,9 +3902,9 @@
     },
     {
       "title": "Taylor SwiftKelce の記録的な破壊の後でメッセージを送って下さい!",
-      "summary": "Taylor Swift 結婚指輪を披露し、夫にメッセージを送った Travis Kelce インドに対するキャッチ(YAC)の後、キャリアヤードの NFL レコードをオールタイムで破棄ナポリ s の Colts。",
+      "summary": "Taylor Swift 結婚指輪を披露し、夫にメッセージを送る Travis Kelce インドに対するキャッチ(YAC)の後、キャリアヤードのオールタイム NFL レコードを破った後ナポリ s の Colts。",
       "title_original": "Taylor Swift sends message after record-breaking Kelce touchdown!",
-      "summary_original": "Taylor Swift showed off her wedding ring and sent a message to husband Travis Kelce after he broke the all-time NFL record for career yards after the catch (YAC) against Indianapolis Colts.",
+      "summary_original": "Taylor Swift showed off her wedding ring and sent a message to husband Travis Kelce after he broke the all-time NFL record for career yards after the catch (YAC) against the Indianapolis Colts.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13590323/taylor-swift-shows-her-wedding-ring-and-send-message-after-record-breaking-travis-kelce-touchdown",
       "published": "Mon, 21 Sep 2026 07:32:00 BST",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-union/ireland-women-vs-usa-women/report/113215",
       "published": "Sun, 20 Sep 2026 19:43:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「ラップする時間になる」 - O'Neill 検討するセルティックミッション",
-      "summary": "マーティン・オニール未来として株式を握るセルティックボスは、1-0 の敗北を1-0 敗北に追随するスルチニーの下に来るレンジャーズパークヘッド",
-      "title_original": "'Might be time to wrap it up' - O'Neill to consider Celtic future",
-      "summary_original": "Martin O'Neill will take stock as his future as Celtic boss comes under further scrutiny following the 1-0 defeat by Rangers at Parkhead.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590236/martin-oneill-to-consider-celtic-future-as-rangers-defeat-adds-to-growing-scrutiny-might-be-time-to-wrap-it-up",
-      "published": "Sun, 20 Sep 2026 19:50:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
