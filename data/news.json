@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-21T11:25:17.242852+00:00",
+  "updated_at": "2026-09-21T11:39:28.794587+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Marseille's Timber": "",
-    "Alice Capsey's": "",
-    "Nat Sciver-Brunt's": "",
     "Monaco's Camara": "",
     "Monaco’s Lamine Camara": "",
     "Divine Mukasa": "",
@@ -3001,7 +2998,10 @@
     "Declan Rice's": "",
     "Malick Yalcouye. Also": "",
     "Renée Slegers": "",
-    "Man Utd's": ""
+    "Man Utd's": "",
+    "BBC Sport NI": "",
+    "The Manchester United": "",
+    "Sunday. Palmer": ""
   },
   "items": [
     {
@@ -3138,6 +3138,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/crz6zeqz678jo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 06:32:46 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アイルランド共和国2 ゴールテストのための dNations League",
+      "summary": "BBC Sport NI アイルランドとその相手の共和国 - Kosovo、イスラエル、オーストリアは、Nations League.",
+      "title_original": "Republic of Ireland braced for testing Nations League",
+      "summary_original": "BBC Sport NI looks at how Republic of Ireland and their opponents - Kosovo, Israel and Austria are shaping up for the Nations League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/articles/c2071gdnv50o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 06:36:17 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3341,6 +3355,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "タイのピッチローラーで街を走る",
+      "summary": "Former England ウィンガーアンドロス・タウンゼントタイの試合前の奇妙な事件の後に「悪くはない」と叫ぶジョーク。",
+      "title_original": "Townsend run over by pitch roller in Thailand",
+      "summary_original": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in Thailand.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 09:08:43 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "すべての目標から Women's Super League- マッチウィーク3",
       "summary": "マッチウィーク3 の全てのゴールを見る Women's Super League2026-27 シーズン",
       "title_original": "All the goals from the Women's Super League - matchweek three",
@@ -3397,34 +3425,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Spygate analyst 持っている 厳しい 時間, 言う Saints CEO",
-      "summary": "Southampton CEO Phil Parsons 重要なのはクラブの外観です。Will Salt- スパイゲートのスキャンダルの中心の男。",
-      "title_original": "Spygate analyst has had tough time, says Saints CEO",
-      "summary_original": "Southampton CEO Phil Parsons says it is important the club look after Will Salt - the man at the centre of the spygate scandal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvrl6p8rged5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 05:36:55 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "タイのピッチローラーで街を走る",
-      "summary": "Former England ウィンガーアンドロス・タウンゼントタイの試合前の奇妙な事件の後に「悪くはない」と叫ぶジョーク。",
-      "title_original": "Townsend run over by pitch roller in Thailand",
-      "summary_original": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in Thailand.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 09:08:43 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "WSL の話ポイント:アーセナル’ s 攻撃 woes と Goodwin はイングランドのケースを作る",
       "summary": "ガンナーは2 週間で2 秒のホームドローで開催されます。トッテナムスマッシュクリスタル・パレス7-0 強固なスタートを維持する 方法が見つからない場合クリスタル・パレスの のバックラインは、アーセナルドローで再び家で不満だったマンチェスター・ユナイテッド土曜日と土曜日 Renée Slegers チームが所持と領土の優しさをより多くの目標に変えることができる方法についてのポストマッチを尋ねました。コースが悪くなっていたり、Smilla Holmberg 第95 分に1-1 号機を作らなかった。「そうですね」",
       "title_original": "WSL talking points: Arsenal’s attacking woes and Goodwin makes England case",
@@ -3432,6 +3432,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/21/wsl-talking-points-arsenal-isobel-goodwin-england",
       "published": "Mon, 21 Sep 2026 11:00:18 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "コール・パーマーケガは彼のイングランドのリターンを後払いする可能性が高い Nations League",
+      "summary": "スペインのオープナー・リボラメントの Rashford と Mainoo の疑惑もスクワットから撤退する予定コール・パーマー小さな筋肉の怪我でスクワッドイングランドから撤退しますが、疑わしいかどうかマーカス・ラッシュフォード獲得を問い合わせ ザ・オブ・ザ・マンチェスター・ユナイテッドウインドガーは、彼のヒップとグロインの前でエリアを保持し、彼は Fulham で彼の置換後にゆっくりと歩いていたので、Sunday. Palmer 高プロファイルのリコールを与えられたトーマス・トゥヘル金曜日の予定 Nations League フィックスチュ",
+      "title_original": "Cole Palmer injury likely to scupper his England return in Nations League",
+      "summary_original": "Rashford and Mainoo doubts for Spain opener Livramento also expected to withdraw from squad Cole Palmer will withdraw from the England squad with a minor muscle injury while there is a doubt over whether Marcus Rashford will be able to be involved. The Manchester United winger held the area by the front of his hip and groin as he walked off slowly after his substitution at Fulham on Sunday. Palmer was given a high-profile recall by Thomas Tuchel on Friday for the forthcoming Nations League fixtu",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel",
+      "published": "Mon, 21 Sep 2026 11:16:25 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3467,20 +3481,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "与えるために発疹リヴァプール Iraola の Bournemouth への戻りに対する勝利",
-      "summary": "最終的な笛で、勝利が確保され、アンドニ・イラオラログイン2 ゴール d 彼の現在の選手と彼が最後のシーズンのボーンマスで新しい高さに導いたそれら。リヴァプールまだ圧倒されていない, 窒息力のイラオラは、それらになるために望んでいるが、彼らはここに3 つのポイントを主張するのに十分だった,アレクサンデル・イサクシンプルな仕上げで独特の性能を発揮します。コーディ・ガクポ再び建築家、オランダ人は今シーズンのアイザックの目標のすべての4 のためのサプライヤーでした。スコアリング前のアイザックの他のショットだけだった",
-      "title_original": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
-      "summary_original": "At the final whistle, victory secured, Andoni Iraola embraced both his current players and those he guided to new heights at Bournemouth last season. Liverpool are not yet the overwhelming, suffocating force Iraola wants them to become but they did enough to claim three points here, Alexander Isak capping a peculiar performance with a simple finish. Cody Gakpo was again the architect, the Dutchman the supplier for all four of Isak’s goals this season. Isak’s only other shot before scoring was to",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
-      "published": "Sun, 20 Sep 2026 15:06:48 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
       "summary": "リヴァプール背中を強く見て、若者は輝きますブライトンそして、ブレントフォードと James Trafford イングランドのケースを作るリーズ プレミアリーグテーブル | トップスコアラー 16 歳までの週 Max Dowman スポットライトに悩まされている、それは私たちに未来の垣根を与えた別のティーンエイジャーだったブライトン’ s の印象的な勝利アーセナル. シャルランポス・コストラ - 彼の故郷で「Babis」と呼ばれ、元アルゼンチンのストライカーに敬意を表しています Gabriel Batistuta– すでに2 回以上開始",
       "title_original": "Premier League: 10 talking points from the weekend’s action",
@@ -3488,6 +3488,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action",
       "published": "Mon, 21 Sep 2026 07:00:37 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "与えるために発疹リヴァプール Iraola の Bournemouth への戻りに対する勝利",
+      "summary": "最終的な笛で、勝利が確保され、アンドニ・イラオラログイン2 ゴール d 彼の現在の選手と彼が最後のシーズンのボーンマスで新しい高さに導いたそれら。リヴァプールまだ圧倒されていない, 窒息力のイラオラは、それらになるために望んでいるが、彼らはここに3 つのポイントを主張するのに十分だった,アレクサンデル・イサクシンプルな仕上げで独特の性能を発揮します。コーディ・ガクポ再び建築家、オランダ人は今シーズンのアイザックの目標のすべての4 のためのサプライヤーでした。スコアリング前のアイザックの他のショットだけだった",
+      "title_original": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
+      "summary_original": "At the final whistle, victory secured, Andoni Iraola embraced both his current players and those he guided to new heights at Bournemouth last season. Liverpool are not yet the overwhelming, suffocating force Iraola wants them to become but they did enough to claim three points here, Alexander Isak capping a peculiar performance with a simple finish. Cody Gakpo was again the architect, the Dutchman the supplier for all four of Isak’s goals this season. Isak’s only other shot before scoring was to",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
+      "published": "Sun, 20 Sep 2026 15:06:48 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3506,20 +3520,6 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レンジャーズそして、Ryan Naderi 終わり オフセルティック’s horror 週とオールドファーム優勝",
-      "summary": "サイレンスでスタジアムを揺れると、その瞬間でした。今シーズンのグラスゴーのダービーで許可されていないファンで、Ryan Naderi’s 勝った目標は、何と会ったが、明確なプラスチックの拳の強打レンジャーズベンチ, 放送の解説者の叫び. アパシーとアトロフィーの叫び声、ビーコンの音、優勝争い吹き出しの開放とチームをゆっくり切り離します。獲得を問い合わせレンジャーズこの勝利を祝うことができませんでした",
-      "title_original": "Rangers and Ryan Naderi finish off Celtic’s horror week with Old Firm victory",
-      "summary_original": "If ever a stadium can be rocked by silence, this was the moment. With no visiting fans allowed at any of this season’s Glasgow derbies, Ryan Naderi’s winning goal was met with nothing but the banging of fists of the clear plastic of the Rangers bench, and the shouting of the broadcast commentators. A screaming void of apathy and atrophy, the sound of a beckoning abyss, of a title race blowing open and a team slowly breaking apart. That Rangers were unable to celebrate this triumph with their fan",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/celtic-rangers-scottish-premiership-match-report",
-      "published": "Sun, 20 Sep 2026 14:11:59 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3691,6 +3691,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "レンジャーズそして、Ryan Naderi 終わり オフセルティック’s horror 週とオールドファーム優勝",
+      "summary": "サイレンスでスタジアムを揺れると、その瞬間でした。今シーズンのグラスゴーのダービーで許可されていないファンで、Ryan Naderi’s 勝った目標は、何と会ったが、明確なプラスチックの拳の強打レンジャーズベンチ, 放送の解説者の叫び. アパシーとアトロフィーの叫び声、ビーコンの音、優勝争い吹き出しの開放とチームをゆっくり切り離します。獲得を問い合わせレンジャーズこの勝利を祝うことができませんでした",
+      "title_original": "Rangers and Ryan Naderi finish off Celtic’s horror week with Old Firm victory",
+      "summary_original": "If ever a stadium can be rocked by silence, this was the moment. With no visiting fans allowed at any of this season’s Glasgow derbies, Ryan Naderi’s winning goal was met with nothing but the banging of fists of the clear plastic of the Rangers bench, and the shouting of the broadcast commentators. A screaming void of apathy and atrophy, the sound of a beckoning abyss, of a title race blowing open and a team slowly breaking apart. That Rangers were unable to celebrate this triumph with their fan",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/celtic-rangers-scottish-premiership-match-report",
+      "published": "Sun, 20 Sep 2026 14:11:59 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ファークの「ミックス感情」リーズ unbeaten に滞在クリスタル・パレススタレメイト",
+      "summary": "おそらくそれは進歩に精通しているリーズ戻ってきたので作りましたプレミアリーグわずか1 年以上前から、ドローイング後に3 分の1 まで動かせる失敗に不満があったクリスタル・パレス. 代わりに,Daniel Farke’s チームは延長された入りますインテル第5 回と非ベアテンの国民の休憩、それはそれ自体の素晴らしい成果です。アパートから Tyrick Mitchell’s ゴールを許さなかったら、ポイントをしっかり守ってくれるような印象を与えてくれなかった。獲得を問い合わせクリスタル・パレス最初でしたクリーンシート海荘の",
+      "title_original": "‘Mixed emotions’ for Farke as Leeds stay unbeaten with Crystal Palace stalemate",
+      "summary_original": "Perhaps it is testament to the progress Leeds have made since returning to the Premier League just over a year ago that there was frustration at failing to move up to third after drawing with Crystal Palace. Instead, Daniel Farke’s team enter the prolonged international break in fifth and unbeaten, which is a fine achievement in itself. Apart from Tyrick Mitchell’s disallowed goal, neither side gave much impression they would secure the points. For Palace, it was a first clean sheet of the seaso",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/leeds-crystal-palace-premier-league-match-report",
+      "published": "Sun, 20 Sep 2026 15:08:52 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アンドロス・タウンゼントタイの奇妙なピッチローラーインシデント後の怪我を避ける",
       "summary": "Former England ウォーミングアップしながら、プレイヤーが上を走る “それは、ストークアウトはそれほど悪くなかった” とウィンガーザ・元イングランドのウィンガーアンドロス・タウンゼントタイの奇妙な事件の後に、彼はピッチローラーによって上回っていた「結局のところ悪い」を冗談しました。旧正月トッテナムそして、クリスタル・パレス攻撃者は現在で再生します Thai League1 のため PT Prachuap 土曜日の夜に、固定の前に35 歳になったソーシャルメディアでクリップが現れたときに見出しを作りました",
       "title_original": "Andros Townsend avoids injury after bizarre pitch roller incident in Thailand",
@@ -3729,34 +3757,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「勝ちに値する」:ミケル・アルテタ左は、ブライトンバックナンバー",
-      "summary": "アーセナル’ s 100% スタートシーズンは、エンド マネージャーは、チームは最初からトラブルに自分自身を置くと言うミケル・アルテタ採用情報アーセナル無料スコアリングでレッスンを教えましたブライトン土曜日に100%のスタートを過ぎた。以来 10 5 月 2023 – 1,224 日前 – 同じ相手が 3-0 を獲得したときエミレーツ・スタジアム獲得を問い合わせプレミアリーグ失ったチャンピオン3 ゴール. しかし、彼らは2 番目の最高だった Pascal Gross, Charalampos Kostoulas そして、Chema Andrés ラウンドオフ",
-      "title_original": "‘They deserved to win’: Mikel Arteta left humbled by Brighton defeat",
-      "summary_original": "Arsenal’s 100% start to season comes to an end Manager says team put themselves in trouble from start Mikel Arteta admitted Arsenal were taught a lesson by free-scoring Brighton as their 100% start to the season was abruptly ended on Saturday . Not since 10 May 2023 – 1,224 days ago – when the same opponents won 3-0 at the Emirates Stadium had the Premier League champions lost by three goals. But they were second-best throughout as Pascal Gross, Charalampos Kostoulas and Chema Andrés rounded off",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/mikel-arteta-arsenal-humbled-brighton-defeat",
-      "published": "Sat, 19 Sep 2026 17:34:19 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ヨーロッパのサッカー:ローゼニアは、ストラスブールのファン「家族を侮辱」",
-      "summary": "英語でのマネージャーが対応しています。Paris FC’sMartínez の救助に勝つインテル; サラヒットハットトリック Paris FC 不当なスタートを延長リーグ・アンキャンペーン、ビート Liam Rosenior’s 古い料金 ストラスブール2-1 は、訪問するファンから英語マンに向かってアビブスチャントによって交わります。このゲームは、ロゼニアが彼の元サポーターズが対象としていたので、後半にハレーションされました。また、最後の笛の後にバラニオが去るファンと再モンストレーションし、引きなければならないというシーンが醜い",
-      "title_original": "European football: Rosenior taunts Strasbourg fans who ‘insulted family’",
-      "summary_original": "English manager responds after Paris FC’s win Martínez rescues Inter; Salah hits hat-trick Paris FC extended their unbeaten start to the Ligue 1 campaign, beating Liam Rosenior’s old charges Strasbourg 2-1 in a match marred by abusive chants towards the Englishman from visiting fans. The game was halted in the second half as Rosenior was targeted by his former supporters. There were also ugly scenes after the final whistle as Rosenior motioned to remonstrate with the away fans and had to be pull",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
-      "published": "Sat, 19 Sep 2026 21:12:00 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "How Warwickshire3 方向の戦闘をシールすることができますカウンティ・チャンピオンシップタイトル",
+      "summary": "備品の最終ラウンドカウンティ・チャンピオンシップ木曜日に開始し、3 つのチームはまだタイトルの文言で始まります, 誰がから解放され、促進されます Division One まだまだ決まります。",
+      "title_original": "How Warwickshire can seal three-way battle for County Championship title",
+      "summary_original": "The final round of fixtures in the County Championship begins on Thursday with three teams still in contention for the title, while who will be relegated from and promoted to Division One is also still to be decided.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13590403/county-championship-permutations-warwickshire-attempt-to-seal-division-one-title-with-somerset-and-nottinghamshire-still-in-contention",
+      "published": "Mon, 21 Sep 2026 12:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ウィルソンは、Wales' Nations League ゲーム",
       "summary": "",
       "title_original": "Wilson ruled out of Wales' Nations League games",
@@ -3901,20 +3915,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "メルソン: 方法はありませんマンチェスター・シティリーグ優勝",
-      "summary": "ポール・マーソン信じるプレミアリーグリーダーマンチェスター・シティタイトルを勝ち取るのは「道なし」です。",
-      "title_original": "Merson: There's no way Man City win the league",
-      "summary_original": "Paul Merson believes Premier League leaders Manchester City have \"no way\" of winning the title if they keep playing as they are.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590373/paul-merson-no-way-man-city-win-premier-league-after-chaos-filled-win-over-sunderland",
-      "published": "Mon, 21 Sep 2026 10:37:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "イギリスのスクワッドから撤退",
       "summary": "コール・パーマー筋肉の怪我のため、イングランドのスクワットから撤退しています。",
       "title_original": "Palmer withdrawing from England squad",
@@ -3926,6 +3926,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "メルソン: 方法はありませんマンチェスター・シティリーグ優勝",
+      "summary": "ポール・マーソン信じるプレミアリーグリーダーマンチェスター・シティタイトルを勝ち取るのは「道なし」です。",
+      "title_original": "Merson: There's no way Man City win the league",
+      "summary_original": "Paul Merson believes Premier League leaders Manchester City have \"no way\" of winning the title if they keep playing as they are.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590373/paul-merson-no-way-man-city-win-premier-league-after-chaos-filled-win-over-sunderland",
+      "published": "Mon, 21 Sep 2026 10:37:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13590158/world-series-of-darts-final-the-moment-luk-littlers-clean-sweep-bid-ended",
       "published": "Sun, 20 Sep 2026 16:21:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「中国、BOSH を手に入れよう!」ビッグ・ジョンそして、Johnny Fisher's ヒラワリ Zuffa Boxing11 プロモーション!",
-      "summary": "ビッグ・ジョンそして、Johnny Fisher 人々が緊張して見るべき理由を教えてください Zuffa Boxing11 月11 日 Saturday September 26.",
-      "title_original": "'Get your Chinese, BOSH! - Big John and Johnny Fisher's hilarious Zuffa Boxing 11 promo!",
-      "summary_original": "Big John and Johnny Fisher tell us why people should tune in and watch Zuffa Boxing 11 on Saturday September 26.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589245/zuffa-boxing-11-big-john-and-johnny-fisher",
-      "published": "Sat, 19 Sep 2026 06:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
