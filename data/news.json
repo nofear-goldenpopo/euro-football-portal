@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-21T10:51:08.238912+00:00",
+  "updated_at": "2026-09-21T11:06:27.539535+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Moses Itauma's": "",
-    "Lucca Brughmans": "",
-    "Vivianne Miedema": "フィフィアネ・ミデマー",
-    "Experimental England": "",
-    "Issy Wong": "",
     "Barcelona Harvey Elliott": "",
     "Liverpool Aston Villa": "",
     "Marseille's Timber": "",
@@ -3001,7 +2996,12 @@
     "Barry Glendenning": "",
     "Dan Bardell": "",
     "Sam Dalling": "",
-    "Euro Debrief": ""
+    "Euro Debrief": "",
+    "Players Championship": "プレイヤーズ・チャンピオンシップ",
+    "Did Rice": "",
+    "On Ref Watch": "",
+    "Declan Rice's": "",
+    "Malick Yalcouye. Also": ""
   },
   "items": [
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リトルはから撤退プレイヤーズ・チャンピオンシップ清潔な掃引後のイベントは、ゴミを望んでいます",
+      "summary": "Luke Littler2 つから撤退プレイヤーズ・チャンピオンシップオランダでのイベントは、PDC のメジャータイトルクリーンスイープの入札後24 時間以内に遅れていました。",
+      "title_original": "Littler withdraws from Players Championship events after clean sweep hopes dashed",
+      "summary_original": "Luke Littler has withdrawn from two Players Championship events in the Netherlands less than 24 hours after his bid for a PDC majors title clean sweep was dashed.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/news/12040/13590401/luke-littler-withdraws-from-players-championship-events-after-hopes-of-pdc-title-sweep-dashed",
+      "published": "Mon, 21 Sep 2026 11:32:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "メルソン: 方法はありませんマンチェスター・シティリーグ優勝",
       "summary": "ポール・マーソン信じるプレミアリーグリーダーマンチェスター・シティタイトルを勝ち取るのは「道なし」です。",
       "title_original": "Merson: There's no way Man City win the league",
@@ -3950,6 +3964,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13590283/green-bay-packers-new-york-jets-week-2-nfl-highlights",
       "published": "Sun, 20 Sep 2026 22:32:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Did Rice'petulant'キックのために赤をエスケープ? Foden/Fernandes の違いは何ですか?",
+      "summary": "On Ref Watch, Dermot Gallagher そして、ジェイ・ボスロイド獲得を問い合わせデクラン・ライス「キックアウト」Malick Yalcouye. Also、それに比較する方法フィル・フォーデン「キックアウト」ブルーノ・フェルナンデス.",
+      "title_original": "Did Rice escape red for 'petulant' kick? What's the difference with Foden/Fernandes?",
+      "summary_original": "On Ref Watch, Dermot Gallagher and Jay Bothroyd look at Declan Rice's kick out on Malick Yalcouye. Also, how it compares to Phil Foden's kick out on Bruno Fernandes.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13590387/ref-watch-declan-rice-escape-red-for-petulant-incident-with-malick-yalcouye-against-brighton",
+      "published": "Mon, 21 Sep 2026 11:16:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/boxing/news/12040/13589385/johnny-fisher-vs-michael-pirotton-fight-time-ringwalks-undercard-and-how-to-watch-or-stream-live-on-sky-sports",
       "published": "Mon, 21 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ヒットと見逃し: マレスカのマンチェスター・シティ Gakpo の輝きとして純粋な混乱を提供",
-      "summary": "",
-      "title_original": "Hits and misses: Maresca's Man City serve up pure chaos as Gakpo shines",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590166/man-city-serve-up-pure-chaos-under-enzo-maresca-as-cody-gakpo-shines-for-liverpool-premier-league-hits-and-misses",
-      "published": "Sun, 20 Sep 2026 20:15:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'I に値する!' - Spaun の使用 Team USAWentworth の勝利のための燃料として snub",
-      "summary": "J.J.スポーン彼は彼の中に「彼の肩にチップを」と再生したと述べた BMW PGA 選手権チーム USA のスヌーブで勝つと使用プレジデンツカップ一方、Wentworth の勝利に対するモチベーションとして。",
-      "title_original": "'I deserve to be in!' - Spaun uses Team USA snub as fuel for Wentworth win",
-      "summary_original": "JJ Spaun said he played with a \"huge chip on his shoulder\" during his BMW PGA Championship win and used being snubbed by Team USA's Presidents Cup side as motivation for his Wentworth victory.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13590009/bmw-pga-championship-how-jj-spaun-used-team-usa-snub-for-presidents-cup-as-motivation-for-dramatic-wentworth-victory",
-      "published": "Sun, 20 Sep 2026 20:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
