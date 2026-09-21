@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-09-21T17:36:37.154286+00:00",
+  "updated_at": "2026-09-21T17:50:57.083014+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Coco Gauff": "",
-    "Zeynep Sonmez": "",
-    "Maya Joint": "",
     "Chan Hao-Ching": "詹皓晴",
     "Britain's Arthur Fery": "",
     "Mika Hakkinen": "ミカ・ハッキネン",
@@ -3001,7 +2998,10 @@
     "Santa Claus": "サンタクロース",
     "Christmas Eves": "",
     "Lee Cutler": "",
-    "Andrew Beasley": ""
+    "Andrew Beasley": "",
+    "Blackburn Rovers": "ブラックバーン・ローヴァーズFC",
+    "Kristi Montgomery": "",
+    "Kenny McLean": ""
   },
   "items": [
     {
@@ -3026,6 +3026,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 17:27:27 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "モンゴメリーがティエニーとマクリアンのドロップアウトとしてスコットランドのコール",
+      "summary": "ブラックバーン・ローヴァーズ FC ミッドフィルダーKristi Montgomery スコットランド初のコールアップを獲得キーラン・ティアニーそして、Kenny McLean ドロップアウト Nations League スチーム",
+      "title_original": "Scotland call for Montgomery as Tierney & McLean drop out",
+      "summary_original": "Blackburn Rovers midfielder Kristi Montgomery gets a first call-up for Scotland as Kieran Tierney and Kenny McLean drop out of the Nations League squad.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyz22d39ldo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 17:32:06 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3123,7 +3137,7 @@
       "summary_original": "Sebastien Pocognoli's faces his first test as Scotland head coach against Slovenia on Saturday, but how are his squad shaping up for his debut?",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck8d38yz4yymo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 13:49:13 GMT",
+      "published": "Mon, 21 Sep 2026 17:38:31 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3155,20 +3169,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "モウリーニョプリントアウト 'レッドカード' 実質がダービーを失う後の事件",
-      "summary": "レアル・マドリードマネージャージョゼ・モウリーニョ彼が信じる2 つのインシデントを表示するスクリーンショットをプリントアウトアトレティコ・マドリード免責事項",
-      "title_original": "Mourinho prints out 'red card' incidents after Real lose derby",
-      "summary_original": "Real Madrid manager Jose Mourinho prints out screenshots displaying two incidents he believes should have resulted in Atletico Madrid dismissals.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6m27p9e24zno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 19:44:41 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3257,6 +3257,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "モウリーニョプリントアウト 'レッドカード' 実質がダービーを失う後の事件",
+      "summary": "レアル・マドリードマネージャージョゼ・モウリーニョ彼が信じる2 つのインシデントを表示するスクリーンショットをプリントアウトアトレティコ・マドリード免責事項",
+      "title_original": "Mourinho prints out 'red card' incidents after Real lose derby",
+      "summary_original": "Real Madrid manager Jose Mourinho prints out screenshots displaying two incidents he believes should have resulted in Atletico Madrid dismissals.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6m27p9e24zno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 19:44:41 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リーグ B リターン&Kvaratskhelia テスト -北アイルランド話すポイント",
       "summary": "北アイルランドの に戻る Uefa Nations LeagueB はプレイヤーマネージャーに直面する Michael O'Neill「世界一」と呼びますが、自分のキャプテンなしでキャンペーンに入ります。",
       "title_original": "League B return & Kvaratskhelia test - Northern Ireland talking points",
@@ -3313,20 +3327,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "3 週間の休憩でマネージャーに圧力をかけますか?",
-      "summary": "これまでのところ、このシーズン3 人のコーチは自分の仕事を失いますが、他の人の多くは、新しい、拡張に向かう彼らの肩を上回っていますインテル国民の休憩。",
-      "title_original": "Will three-week break put more pressure on managers?",
-      "summary_original": "So far this season three coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 09:57:42 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ポルトガルからウェールズを選ぶのは誰ですか?",
       "summary": "クレイグ・ベラミーの side take on Portugal に Lisbon 上の 木曜日, 24September. Who ウェールズの開口部を選ぶ Nations League 備品?",
       "title_original": "Who would you pick for Wales against Portugal?",
@@ -3338,6 +3338,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "3 週間の休憩でマネージャーに圧力をかけますか?",
+      "summary": "これまでのところ、このシーズン3 人のコーチは自分の仕事を失いますが、他の人の多くは、新しい、拡張に向かう彼らの肩を上回っていますインテル国民の休憩。",
+      "title_original": "Will three-week break put more pressure on managers?",
+      "summary_original": "So far this season three coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 09:57:42 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3408,20 +3422,6 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アイルランド共和国2 ゴールテストのための dNations League",
-      "summary": "BBC Sport NI アイルランドとその相手の共和国 - Kosovo、イスラエル、オーストリアは、Nations League.",
-      "title_original": "Republic of Ireland braced for testing Nations League",
-      "summary_original": "BBC Sport NI looks at how Republic of Ireland and their opponents - Kosovo, Israel and Austria are shaping up for the Nations League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/articles/c2071gdnv50o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 06:36:17 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3971,20 +3971,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブレントフォード, ブライトン, ボーンマス - PL's の使い方バミューダトライアングル' defies オッズ",
-      "summary": "奇妙なパッチのプレミアリーグエリアは、ロンドン西から南海岸に伸び、トップクラブは簡単に通過できません。",
-      "title_original": "Brentford, Brighton, Bournemouth - how the PL's 'Bermuda Triangle' defies odds",
-      "summary_original": "A strange patch of Premier League territory stretches from west London to the south coast, where top clubs cannot pass through easily.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590434/brentford-brighton-bournemouth-how-the-premier-leagues-bermuda-triangle-defies-the-odds-with-recruitment-and-culture",
-      "published": "Mon, 21 Sep 2026 13:27:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "O'Neill についてセルティック?",
       "summary": "否定することができませんマーティン・オニール伝説はセルティック, しかし、彼らの問題が危機になる前に必要な変化?",
       "title_original": "What now for O'Neill and Celtic?",
@@ -3995,6 +3981,20 @@
       "category": "other",
       "type": "other",
       "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ブレントフォード, ブライトン, ボーンマス - PL's の使い方バミューダトライアングル' defies オッズ",
+      "summary": "奇妙なパッチのプレミアリーグエリアは、ロンドン西から南海岸に伸び、トップクラブは簡単に通過できません。",
+      "title_original": "Brentford, Brighton, Bournemouth - how the PL's 'Bermuda Triangle' defies odds",
+      "summary_original": "A strange patch of Premier League territory stretches from west London to the south coast, where top clubs cannot pass through easily.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590434/brentford-brighton-bournemouth-how-the-premier-leagues-bermuda-triangle-defies-the-odds-with-recruitment-and-culture",
+      "published": "Mon, 21 Sep 2026 13:27:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -4111,16 +4111,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Ref Watch & プレミアリーグ週末の反応",
+      "title": "スコットランド最新: ティエニー、マクリーンは、未収容のプレイヤーとして呼び出される",
       "summary": "",
-      "title_original": "Ref Watch & Premier League weekend reaction",
+      "title_original": "Scotland latest: Tierney, McLean out as uncapped player called up",
       "summary_original": "",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
-      "published": "Mon, 14 Sep 2026 16:30:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.skysports.com/football/live-blog/12040/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
+      "published": "Mon, 21 Sep 2026 18:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     }
