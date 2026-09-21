@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-21T13:28:38.913871+00:00",
+  "updated_at": "2026-09-21T13:38:57.766681+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "De Zerbi’ Tottenham": "",
-    "Manchester United's Joshua Zirkzee": "",
-    "Malo Gusto": "マロ・ギュスト",
-    "Championship. In": "",
-    "Brooke Norton-Cuffy's": "",
-    "Lincoln City": "",
-    "Michael Appleton": "",
     "Rich O’Donnell": "",
     "Email Niall": "",
     "No Julian Alvarez": "",
@@ -3001,7 +2994,14 @@
     "Bramall Lane": "ブラモール・レーン",
     "Captain Harry Brook": "",
     "Tino Livramento": "ティノ・リヴラメント",
-    "September. Who": ""
+    "September. Who": "",
+    "Andy Brassell": "",
+    "Niko Kovac’s": "",
+    "Stuttgart Borussia Dortmund": "",
+    "Bundesliga. It": "",
+    "England Lions": "",
+    "Jonathan Trott": "",
+    "Andrew Flintoff": "アンドリュー・フリントフ"
   },
   "items": [
     {
@@ -3012,20 +3012,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 09:36:36 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウィルソン、ダーロウ、ウェールズのスクワッドからブロードヘッド",
-      "summary": "ウェールズは彼らの前に三重の打撃に苦しむ Nations League キャンペーン Harry Wilson, Nathan Broadhead そして、カール・ダーロウすべて からクレイグ・ベラミースチーム",
-      "title_original": "Wilson, Darlow and Broadhead out of Wales squad",
-      "summary_original": "Wales suffer a triple blow before their Nations League A campaign with Harry Wilson, Nathan Broadhead and Karl Darlow all out of Craig Bellamy's squad.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw8r68mv415lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 11:15:06 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3047,6 +3033,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウィルソン、ダーロウ、ウェールズのスクワッドからブロードヘッド",
+      "summary": "ウェールズは彼らの前に三重の打撃に苦しむ Nations League キャンペーン Harry Wilson, Nathan Broadhead そして、カール・ダーロウすべて からクレイグ・ベラミースチーム",
+      "title_original": "Wilson, Darlow and Broadhead out of Wales squad",
+      "summary_original": "Wales suffer a triple blow before their Nations League A campaign with Harry Wilson, Nathan Broadhead and Karl Darlow all out of Craig Bellamy's squad.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw8r68mv415lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 11:15:06 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「赦しを求めました」 - エッカートとナンプトン2 ゴール d のために スパイゲート 評論家",
       "summary": "As Southampton マネージャーTonda EckertFA が「Spygate」の不正行為に耳を傾け、BBC スポーツエディタをチャージ Dan Roan 彼とクラブのチーフエグゼクティブに話す Phil Parsons 次に起こること。",
       "title_original": "'I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict",
@@ -3058,6 +3058,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "3 週間でクラブの練習方法インテル国民の休憩?",
+      "summary": "BBC スポーツは、クラブが拡張3 週間の移籍を計画している様子を見るインテル国民の休憩。",
+      "title_original": "How will clubs train during three-week international break?",
+      "summary_original": "BBC Sport looks at how clubs are planning to deal with the extended three-week international break.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c93v020y7qgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 13:30:11 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3141,20 +3155,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "3 週間の休憩でマネージャーに圧力をかけますか?",
-      "summary": "これまでのところ、このシーズン3 人のコーチは自分の仕事を失いますが、他の人の多くは、新しい、拡張に向かう彼らの肩を上回っていますインテル国民の休憩。",
-      "title_original": "Will three-week break put more pressure on managers?",
-      "summary_original": "So far this season three coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 09:57:42 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3243,6 +3243,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "3 週間の休憩でマネージャーに圧力をかけますか?",
+      "summary": "これまでのところ、このシーズン3 人のコーチは自分の仕事を失いますが、他の人の多くは、新しい、拡張に向かう彼らの肩を上回っていますインテル国民の休憩。",
+      "title_original": "Will three-week break put more pressure on managers?",
+      "summary_original": "So far this season three coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 09:57:42 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ポルトガルからウェールズを選ぶのは誰ですか?",
       "summary": "クレイグ・ベラミーの side take on Portugal に Lisbon 上の 木曜日, 24September. Who ウェールズの開口部を選ぶ Nations League 備品?",
       "title_original": "Who would you pick for Wales against Portugal?",
@@ -3299,20 +3313,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Maresca の 24 時間パーフェクトマンチェスター・シティ圧力をかけるアーセナル",
-      "summary": "マンチェスター・シティヘッドインテル週末に24 時間満喫した後、ジュビリアント気分で国民の休憩。",
-      "title_original": "Perfect 24 hours for Maresca as Man City put pressure on Arsenal",
-      "summary_original": "Manchester City head into the international break in a jubilant mood after enjoying the perfect 24 hours this weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6z7z2we5lgwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 16:34:40 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「ラップする時間があるかもしれません」 - O'Neill ponders セルティック敗北後の未来",
       "summary": "マーティン・オニール彼が使用することを言うインテル後の位置に反映する国民の休憩セルティックビッグゲームで3 回連続敗北する。",
       "title_original": "'It might be time to wrap it up' - O'Neill ponders Celtic future after defeat",
@@ -3323,6 +3323,20 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Maresca の 24 時間パーフェクトマンチェスター・シティ圧力をかけるアーセナル",
+      "summary": "マンチェスター・シティヘッドインテル週末に24 時間満喫した後、ジュビリアント気分で国民の休憩。",
+      "title_original": "Perfect 24 hours for Maresca as Man City put pressure on Arsenal",
+      "summary_original": "Manchester City head into the international break in a jubilant mood after enjoying the perfect 24 hours this weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6z7z2we5lgwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 16:34:40 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3397,20 +3411,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "長距離サッカーマネージャーであることの長所と短所",
-      "summary": "長距離サッカーマネージャーであることの長所と短所。過去の投稿ストーク・シティ FC マネージャーTony Pulis 家族の家を数百マイル離れたままにしているにもかかわらず、BBC スポーツについて話します。",
-      "title_original": "The pros and cons of being a long-distance football manager",
-      "summary_original": "The pros and cons of being a long-distance football manager. Former Stoke City manager Tony Pulis talks to BBC Sport about how he managed teams despite keeping his family home hundreds of miles away.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4l3z659vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 05:52:56 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "すべての目標から Women's Super League- マッチウィーク3",
       "summary": "マッチウィーク3 の全てのゴールを見る Women's Super League2026-27 シーズン",
       "title_original": "All the goals from the Women's Super League - matchweek three",
@@ -3453,17 +3453,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "コール・パーマーケガは彼のイングランドのリターンを後払いする可能性が高い Nations League",
-      "summary": "スペインのオープナー・リボラメントの Rashford と Mainoo の疑惑もスクワットから撤退する予定コール・パーマー小さな筋肉の怪我でスクワッドイングランドから撤退しますが、疑わしいかどうかマーカス・ラッシュフォード獲得を問い合わせ ザ・オブ・ザ・マンチェスター・ユナイテッドウインドガーは、彼のヒップとグロインの前でエリアを保持し、彼は Fulham で彼の置換後にゆっくりと歩いていたので、Sunday. Palmer 高プロファイルのリコールを与えられたトーマス・トゥヘル金曜日の予定 Nations League フィックスチュ",
-      "title_original": "Cole Palmer injury likely to scupper his England return in Nations League",
-      "summary_original": "Rashford and Mainoo doubts for Spain opener Livramento also expected to withdraw from squad Cole Palmer will withdraw from the England squad with a minor muscle injury while there is a doubt over whether Marcus Rashford will be able to be involved. The Manchester United winger held the area by the front of his hip and groin as he walked off slowly after his substitution at Fulham on Sunday. Palmer was given a high-profile recall by Thomas Tuchel on Friday for the forthcoming Nations League fixtu",
+      "title": "2023 表面のゴーストドルトムントに戻るブンデスリーガサミット |Andy Brassell",
+      "summary": "おそらく BVB のタイトルコンテンダーを呼び出すストレッチですが、Niko Kovac’s 側面は100%の開始から維持しましたシュトゥットガルト ボルシア・ドルトムントおそらく、彼らがトップされた最後の時間について考えることはないだろうブンデスリーガ. それはちょうどすべての彼らの夢が暗示される前に、ちょうど2023 年5 月、黒と黄色の Deutschmeister t シャツ – 「ドイツマスター」 – へのアプローチの販売のため Signal Iduna Park そして準備ができたで冷たいビール。今、それはもはや最新の時間ではありませんドルトムントパックを導きました",
+      "title_original": "Ghosts of 2023 surface after Dortmund return to the Bundesliga summit | Andy Brassell",
+      "summary_original": "It is probably a stretch to call BVB title contenders but Niko Kovac’s side maintained their 100% start against Stuttgart Borussia Dortmund would probably rather not think about the last time that they topped the Bundesliga. It was in May 2023, just before all their dreams imploded , with black and yellow Deutschmeister t-shirts – ‘master of Germany’ – for sale on the approach to Signal Iduna Park and cold beers at the ready. Now, that is no longer the most recent time Dortmund have led the pack",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel",
-      "published": "Mon, 21 Sep 2026 11:16:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.theguardian.com/football/2026/sep/21/ghosts-2023-surface-borussia-dortmund-bundesliga-summit-stuttgart",
+      "published": "Mon, 21 Sep 2026 13:17:05 GMT",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3477,6 +3477,20 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "コール・パーマーケガは彼のイングランドのリターンを後払いする可能性が高い Nations League",
+      "summary": "スペインのオープナー・リボラメントの Rashford と Mainoo の疑惑もスクワットから撤退する予定コール・パーマー小さな筋肉の怪我でスクワッドイングランドから撤退しますが、疑わしいかどうかマーカス・ラッシュフォード獲得を問い合わせ ザ・オブ・ザ・マンチェスター・ユナイテッドウインドガーは、彼のヒップとグロインの前でエリアを保持し、彼は Fulham で彼の置換後にゆっくりと歩いていたので、Sunday. Palmer 高プロファイルのリコールを与えられたトーマス・トゥヘル金曜日の予定 Nations League フィックスチュ",
+      "title_original": "Cole Palmer injury likely to scupper his England return in Nations League",
+      "summary_original": "Rashford and Mainoo doubts for Spain opener Livramento also expected to withdraw from squad Cole Palmer will withdraw from the England squad with a minor muscle injury while there is a doubt over whether Marcus Rashford will be able to be involved. The Manchester United winger held the area by the front of his hip and groin as he walked off slowly after his substitution at Fulham on Sunday. Palmer was given a high-profile recall by Thomas Tuchel on Friday for the forthcoming Nations League fixtu",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel",
+      "published": "Mon, 21 Sep 2026 11:16:25 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3509,34 +3523,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
-      "summary": "リヴァプール背中を強く見て、若者は輝きますブライトンそして、ブレントフォードと James Trafford イングランドのケースを作るリーズ プレミアリーグテーブル | トップスコアラー 16 歳までの週 Max Dowman スポットライトに悩まされている、それは私たちに未来の垣根を与えた別のティーンエイジャーだったブライトン’ s の印象的な勝利アーセナル. シャルランポス・コストラ - 彼の故郷で「Babis」と呼ばれ、元アルゼンチンのストライカーに敬意を表しています Gabriel Batistuta– すでに2 回以上開始",
-      "title_original": "Premier League: 10 talking points from the weekend’s action",
-      "summary_original": "Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with Leeds Premier League table | Top scorers In the week that 16-year-old Max Dowman has been thrust into the spotlight , it was another teenager who gave us a glimpse of the future in Brighton’s impressive win over Arsenal. Charalampos Kostoulas – nicknamed ‘Babis’ in his homeland, in homage to former Argentina striker Gabriel Batistuta – has already started twice as many",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action",
-      "published": "Mon, 21 Sep 2026 07:00:37 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Jonathan David10 人以上でアトレティコの貴重な勝利を獲得レアル・マドリード事実上のダービー",
-      "summary": "ダービーの前夜に、ディエゴ・シメオネマドリッドの特別な週に「街の途方もないエネルギー」と記述し、彼が望む道を閉じました。彼が楽しんでいたフォーミュラ1 彼が言った。彼はコンサートでシャキラを見ながら楽しんでいました。少なくとも、彼は多くの最後の時間でやった、多くのレフリーの笛に吹き込み、空気を打つトンネルをスプリントアップしました。目標から10 人の男性に2-0 を上回りましたÁlex Grimaldo そして、Jonathan Da",
-      "title_original": "Jonathan David earns Atlético precious win over 10-man Real Madrid in fractious derby",
-      "summary_original": "On the eve of the derby, Diego Simeone described this as a special week in Madrid, a “tremendous energy about the city”, and it closed the way he wanted. He had enjoyed the Formula One, he said, and he had enjoyed seeing Shakira in concert, but he enjoyed this even more. At least he did by the time the last of many, many blows on the referee’s whistle brought it to an end, sprinting up the tunnel punching the air. Having been 2-0 up against 10 men through goals from Álex Grimaldo and Jonathan Da",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/atletico-madrid-real-madrid-la-liga-match-report",
-      "published": "Sun, 20 Sep 2026 18:10:11 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「毎日同じことを逃します」:Olivia Cusack 彼女の遅いサッカー選手の妹マディ",
       "summary": "3 年後、家族は彼女の「レガシーの生活」を確実にするために決定されますシェフィールド・ユナイテッド FC プレイヤーの死 Olivia Cusack 彼女の妹、遅刻 Maddy Cusack, 一日一回、彼女は彼女の「レガシーの命」を元イングランドの若者の3 年後に保証するために決定されますインテル国民のミッドフィルダーの死。オリビア、マディの家族や友人と、徒歩29 マイル Bramall Lane, シェフィールド・ユナイテッド FC’s home, ホーズリーの家族の家へ, ダービーの近く, 土曜日に rai",
       "title_original": "‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy",
@@ -3547,6 +3533,20 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
+      "summary": "リヴァプール背中を強く見て、若者は輝きますブライトンそして、ブレントフォードと James Trafford イングランドのケースを作るリーズ プレミアリーグテーブル | トップスコアラー 16 歳までの週 Max Dowman スポットライトに悩まされている、それは私たちに未来の垣根を与えた別のティーンエイジャーだったブライトン’ s の印象的な勝利アーセナル. シャルランポス・コストラ - 彼の故郷で「Babis」と呼ばれ、元アルゼンチンのストライカーに敬意を表しています Gabriel Batistuta– すでに2 回以上開始",
+      "title_original": "Premier League: 10 talking points from the weekend’s action",
+      "summary_original": "Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with Leeds Premier League table | Top scorers In the week that 16-year-old Max Dowman has been thrust into the spotlight , it was another teenager who gave us a glimpse of the future in Brighton’s impressive win over Arsenal. Charalampos Kostoulas – nicknamed ‘Babis’ in his homeland, in homage to former Argentina striker Gabriel Batistuta – has already started twice as many",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action",
+      "published": "Mon, 21 Sep 2026 07:00:37 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3691,6 +3691,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Jonathan David10 人以上でアトレティコの貴重な勝利を獲得レアル・マドリード事実上のダービー",
+      "summary": "ダービーの前夜に、ディエゴ・シメオネマドリッドの特別な週に「街の途方もないエネルギー」と記述し、彼が望む道を閉じました。彼が楽しんでいたフォーミュラ1 彼が言った。彼はコンサートでシャキラを見ながら楽しんでいました。少なくとも、彼は多くの最後の時間でやった、多くのレフリーの笛に吹き込み、空気を打つトンネルをスプリントアップしました。目標から10 人の男性に2-0 を上回りましたÁlex Grimaldo そして、Jonathan Da",
+      "title_original": "Jonathan David earns Atlético precious win over 10-man Real Madrid in fractious derby",
+      "summary_original": "On the eve of the derby, Diego Simeone described this as a special week in Madrid, a “tremendous energy about the city”, and it closed the way he wanted. He had enjoyed the Formula One, he said, and he had enjoyed seeing Shakira in concert, but he enjoyed this even more. At least he did by the time the last of many, many blows on the referee’s whistle brought it to an end, sprinting up the tunnel punching the air. Having been 2-0 up against 10 men through goals from Álex Grimaldo and Jonathan Da",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/atletico-madrid-real-madrid-la-liga-match-report",
+      "published": "Sun, 20 Sep 2026 18:10:11 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "与えるために発疹リヴァプール Iraola の Bournemouth への戻りに対する勝利",
       "summary": "最終的な笛で、勝利が確保され、アンドニ・イラオラログイン2 ゴール d 彼の現在の選手と彼が最後のシーズンのボーンマスで新しい高さに導いたそれら。リヴァプールまだ圧倒されていない, 窒息力のイラオラは、それらになるために望んでいるが、彼らはここに3 つのポイントを主張するのに十分だった,アレクサンデル・イサクシンプルな仕上げで独特の性能を発揮します。コーディ・ガクポ再び建築家、オランダ人は今シーズンのアイザックの目標のすべての4 のためのサプライヤーでした。スコアリング前のアイザックの他のショットだけだった",
       "title_original": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
@@ -3740,20 +3754,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/20/andros-townsend-avoids-injury-after-bizarre-pitch-roller-incident-in-thailand",
       "published": "Sun, 20 Sep 2026 10:47:07 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Holmberg 救助ポイントアーセナルしかし、マンチェスター・ユナイテッド WSL のマークをオフ",
-      "summary": "アーセナルわずか95 分程度で安心 Smilla Holmberg ボルリーは、多くの改善に家でポイントを救助しましたマンチェスター・ユナイテッド一方、リーダーの背後まで懸念を根絶させるのは欠点ではありません。マンチェスター・シティ Renée Slegers のチームはすでに滑り、低ブロックを破壊するのに苦労する頻度です。免責事項マンチェスター・ユナイテッドノース・ロランダーズは、Eva Olid’s 側は、すべてのものを損なうパフォーマンスで彼女の緊張の最初のポイントを主張しました",
-      "title_original": "Holmberg rescues point for Arsenal but Manchester United off the mark in WSL",
-      "summary_original": "Arsenal were mightily relieved as a 95th-minute Smilla Holmberg volley rescued a point at home to a much-improved Manchester United side, but the draw will not be enough to eradicate concerns about how far behind the leaders Manchester City Renée Slegers’ team are slipping already and how frequently they seem to struggle to break down a low block. A defiant Manchester United stunned the north Londoners as Eva Olid’s side claimed the first point of her tenure with a performance that defied all of",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/arsenal-manchester-united-wsl-match-report",
-      "published": "Sat, 19 Sep 2026 18:42:26 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3859,6 +3859,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Trott は Flintoff を以下のように置き換えます。England Lions ヘッドコーチ",
+      "summary": "Jonathan Trott コーチング England Lions 獲得を問い合わせインテル、供給されるロールを充填して下さいアンドリュー・フリントフ.",
+      "title_original": "Trott replaces Flintoff as England Lions head coach",
+      "summary_original": "Jonathan Trott will coach the England Lions this winter, filling the role vacated by Andrew Flintoff.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13590441/england-lions-jonathan-trott-replaces-andrew-flintoff-as-head-coach-of-development-squad-for-winter-tours",
+      "published": "Mon, 21 Sep 2026 14:15:00 BST",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "O'Neill についてセルティック?",
       "summary": "否定することができませんマーティン・オニール伝説はセルティック, しかし、彼らの問題が危機になる前に必要な変化?",
       "title_original": "What now for O'Neill and Celtic?",
@@ -3915,13 +3929,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "サンダーランド最新:スイスのスクワッドから Xhaka 撤退",
+      "title": "サンダーランド最新:Xhaka は偽の偽のワクチンの証明書の入学後にスイスのキャンプを逃します",
       "summary": "",
-      "title_original": "Sunderland latest: Xhaka withdraws from Switzerland squad",
+      "title_original": "Sunderland latest: Xhaka misses Swiss camp after fake fake vaccine certificate admission",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Mon, 21 Sep 2026 12:00:00 BST",
+      "published": "Mon, 21 Sep 2026 14:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4108,20 +4122,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Euro Debrief: サラスター,モウリーニョモアンとアモリムが適応",
-      "summary": "",
-      "title_original": "Euro Debrief: Salah stars, Mourinho moans and Amorim adapts",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13586130/raphinha-and-mo-salah-hat-tricks-harry-kane-landmark-ruben-amorim-finally-adapts-plus-more-in-the-euro-debrief",
-      "published": "Mon, 21 Sep 2026 11:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
