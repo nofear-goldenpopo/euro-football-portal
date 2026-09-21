@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-21T21:37:19.974272+00:00",
+  "updated_at": "2026-09-21T21:49:17.366601+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Mika Hakkinen": "ミカ・ハッキネン",
     "Leandro Paredes": "レアンドロ・パレデス",
     "Are Arsenal": "",
     "Finch Farm": "",
@@ -3001,7 +3000,8 @@
     "Kristi Montgomery": "",
     "Kenny McLean": "",
     "Mark Chapman": "",
-    "Fifa’ The Fifa": ""
+    "Fifa’ The Fifa": "",
+    "Dutchman Givairo Read": ""
   },
   "items": [
     {
@@ -3131,6 +3131,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "リヴァプール、in-demand right-back Read - Tuesday's gossip を獲得候補に",
+      "summary": "リヴァプール新しい右に戻るためにハントにある, 自分の視点を設定する Dutchman Givairo Read.",
+      "title_original": "Liverpool eye in-demand right-back Read - Tuesday's gossip",
+      "summary_original": "Liverpool are on the hunt for a new right-back, setting their sights on Dutchman Givairo Read.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gqv6m9278o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 21:43:10 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'Far from the best' から '時計への喜び' - ランキングプレミアリーグチームで始まる",
       "summary": "リーグシーズンに5 試合、各チームで参加プレミアリーグここまで感銘を受け、誰が失望していますか?",
       "title_original": "'Far from their best' to 'a joy to watch' - ranking Premier League teams' start to season",
@@ -3222,6 +3236,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/crz6zeqz678jo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 06:32:46 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Football Daily",
+      "summary": "止まるものブレントフォード & ブライトン次のレベルに達する?",
+      "title_original": "Football Daily",
+      "summary_original": "What is stopping Brentford & Brighton reaching the next level?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pbt6j0?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 21:32:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3341,20 +3369,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Maresca の 24 時間パーフェクトマンチェスター・シティ圧力をかけるアーセナル",
-      "summary": "マンチェスター・シティヘッドインテル週末に24 時間満喫した後、ジュビリアント気分で国民の休憩。",
-      "title_original": "Perfect 24 hours for Maresca as Man City put pressure on Arsenal",
-      "summary_original": "Manchester City head into the international break in a jubilant mood after enjoying the perfect 24 hours this weekend.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6z7z2we5lgwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 16:34:40 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "すべての目標から Women's Super League- マッチウィーク3",
       "summary": "マッチウィーク3 の全ての目標を見る Women's Super League2026-27 シーズン",
       "title_original": "All the goals from the Women's Super League - matchweek three",
@@ -3408,20 +3422,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Spygate analyst 持っている 厳しい 時間, 言う Saints CEO",
-      "summary": "Southampton CEO Phil Parsons 重要なのはクラブの外観です。Will Salt- スパイゲートのスキャンダルの中心の男。",
-      "title_original": "Spygate analyst has had tough time, says Saints CEO",
-      "summary_original": "Southampton CEO Phil Parsons says it is important the club look after Will Salt - the man at the centre of the spygate scandal.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvrl6p8rged5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 05:36:55 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4055,9 +4055,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "サンダーランド最新:Xhaka は偽の偽のワクチンの証明書の入学後にスイスのキャンプを逃します",
+      "title": "サンダーランド最新:Xhaka は偽のワクチンの証明書の入学後にスイスのキャンプを逃します",
       "summary": "",
-      "title_original": "Sunderland latest: Xhaka misses Swiss camp after fake fake vaccine certificate admission",
+      "title_original": "Sunderland latest: Xhaka misses Swiss camp after fake vaccine certificate admission",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
