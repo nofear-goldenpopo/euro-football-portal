@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-21T11:06:27.539535+00:00",
+  "updated_at": "2026-09-21T11:25:17.242852+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Barcelona Harvey Elliott": "",
-    "Liverpool Aston Villa": "",
     "Marseille's Timber": "",
     "Alice Capsey's": "",
     "Nat Sciver-Brunt's": "",
@@ -3001,7 +2999,9 @@
     "Did Rice": "",
     "On Ref Watch": "",
     "Declan Rice's": "",
-    "Malick Yalcouye. Also": ""
+    "Malick Yalcouye. Also": "",
+    "Renée Slegers": "",
+    "Man Utd's": ""
   },
   "items": [
     {
@@ -3425,13 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
-      "summary": "リヴァプール背中を強く見て、若者は輝きますブライトンそして、ブレントフォードと James Trafford イングランドのケースを作るリーズ プレミアリーグテーブル | トップスコアラー 16 歳までの週 Max Dowman スポットライトに悩まされている、それは私たちに未来の垣根を与えた別のティーンエイジャーだったブライトン’ s の印象的な勝利アーセナル. シャルランポス・コストラ - 彼の故郷で「Babis」と呼ばれ、元アルゼンチンのストライカーに敬意を表しています Gabriel Batistuta– すでに2 回以上開始",
-      "title_original": "Premier League: 10 talking points from the weekend’s action",
-      "summary_original": "Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with Leeds Premier League table | Top scorers In the week that 16-year-old Max Dowman has been thrust into the spotlight , it was another teenager who gave us a glimpse of the future in Brighton’s impressive win over Arsenal. Charalampos Kostoulas – nicknamed ‘Babis’ in his homeland, in homage to former Argentina striker Gabriel Batistuta – has already started twice as many",
+      "title": "WSL の話ポイント:アーセナル’ s 攻撃 woes と Goodwin はイングランドのケースを作る",
+      "summary": "ガンナーは2 週間で2 秒のホームドローで開催されます。トッテナムスマッシュクリスタル・パレス7-0 強固なスタートを維持する 方法が見つからない場合クリスタル・パレスの のバックラインは、アーセナルドローで再び家で不満だったマンチェスター・ユナイテッド土曜日と土曜日 Renée Slegers チームが所持と領土の優しさをより多くの目標に変えることができる方法についてのポストマッチを尋ねました。コースが悪くなっていたり、Smilla Holmberg 第95 分に1-1 号機を作らなかった。「そうですね」",
+      "title_original": "WSL talking points: Arsenal’s attacking woes and Goodwin makes England case",
+      "summary_original": "Gunners are held to second home draw in two weeks, while Spurs smash Palace 7-0 to maintain strong start After being unable to find a way through Crystal Palace’s backline last time out, Arsenal were again frustrated at home in a draw with Manchester United on Saturday and Renée Slegers was asked post-match about how her team can turn their dominance of possession and territory into more goals. It could have been worse, of course, if Smilla Holmberg had not made it 1-1 in the 95th minute. “It’s ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action",
-      "published": "Mon, 21 Sep 2026 07:00:37 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/21/wsl-talking-points-arsenal-isobel-goodwin-england",
+      "published": "Mon, 21 Sep 2026 11:00:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3481,6 +3481,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
+      "summary": "リヴァプール背中を強く見て、若者は輝きますブライトンそして、ブレントフォードと James Trafford イングランドのケースを作るリーズ プレミアリーグテーブル | トップスコアラー 16 歳までの週 Max Dowman スポットライトに悩まされている、それは私たちに未来の垣根を与えた別のティーンエイジャーだったブライトン’ s の印象的な勝利アーセナル. シャルランポス・コストラ - 彼の故郷で「Babis」と呼ばれ、元アルゼンチンのストライカーに敬意を表しています Gabriel Batistuta– すでに2 回以上開始",
+      "title_original": "Premier League: 10 talking points from the weekend’s action",
+      "summary_original": "Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with Leeds Premier League table | Top scorers In the week that 16-year-old Max Dowman has been thrust into the spotlight , it was another teenager who gave us a glimpse of the future in Brighton’s impressive win over Arsenal. Charalampos Kostoulas – nicknamed ‘Babis’ in his homeland, in homage to former Argentina striker Gabriel Batistuta – has already started twice as many",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action",
+      "published": "Mon, 21 Sep 2026 07:00:37 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Jonathan David10 人以上でアトレティコの貴重な勝利を獲得レアル・マドリード事実上のダービー",
       "summary": "ダービーの前夜に、ディエゴ・シメオネマドリッドの特別な週に「街の途方もないエネルギー」と記述し、彼が望む道を閉じました。彼が楽しんでいたフォーミュラ1 彼が言った。彼はコンサートでシャキラを見ながら楽しんでいました。少なくとも、彼は多くの最後の時間でやった、多くのレフリーの笛に吹き込み、空気を打つトンネルをスプリントアップしました。目標から10 人の男性に2-0 を上回りましたÁlex Grimaldo そして、Jonathan Da",
       "title_original": "Jonathan David earns Atlético precious win over 10-man Real Madrid in fractious derby",
@@ -3506,20 +3520,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ファークの「ミックス感情」リーズ unbeaten に滞在クリスタル・パレススタレメイト",
-      "summary": "おそらくそれは進歩に精通しているリーズ戻ってきたので作りましたプレミアリーグわずか1 年以上前から、ドローイング後に3 分の1 まで動かせる失敗に不満があったクリスタル・パレス. 代わりに,Daniel Farke’s チームは延長された入りますインテル第5 回と非ベアテンの国民の休憩、それはそれ自体の素晴らしい成果です。アパートから Tyrick Mitchell’s ゴールを許さなかったら、ポイントをしっかり守ってくれるような印象を与えてくれなかった。獲得を問い合わせクリスタル・パレス最初でしたクリーンシート海荘の",
-      "title_original": "‘Mixed emotions’ for Farke as Leeds stay unbeaten with Crystal Palace stalemate",
-      "summary_original": "Perhaps it is testament to the progress Leeds have made since returning to the Premier League just over a year ago that there was frustration at failing to move up to third after drawing with Crystal Palace. Instead, Daniel Farke’s team enter the prolonged international break in fifth and unbeaten, which is a fine achievement in itself. Apart from Tyrick Mitchell’s disallowed goal, neither side gave much impression they would secure the points. For Palace, it was a first clean sheet of the seaso",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/leeds-crystal-palace-premier-league-match-report",
-      "published": "Sun, 20 Sep 2026 15:08:52 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,48 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウィルソンは、Wales' Nations League ゲーム",
+      "summary": "",
+      "title_original": "Wilson ruled out of Wales' Nations League games",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "published": "Mon, 21 Sep 2026 12:09:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "サンダーランド最新:スイスのスクワッドから Xhaka 撤退",
+      "summary": "",
+      "title_original": "Sunderland latest: Xhaka withdraws from Switzerland squad",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "published": "Mon, 21 Sep 2026 12:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "アウトラン? あまり歩く?マンチェスター・ユナイテッドの は stats を実行している",
+      "summary": "マンチェスター・ユナイテッドの の強度レベルは、その 1-1 が Fulham で描画した後、スポットライトで戻りますプレミアリーグ.",
+      "title_original": "Out-run? Walking too much? Man Utd's running stats examined",
+      "summary_original": "Manchester United's intensity levels are back in the spotlight after their 1-1 draw at Fulham in the Premier League.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590371/manchester-united-running-stats-for-michael-carricks-side-examined-after-intensity-criticism-in-draw-at-fulham",
+      "published": "Mon, 21 Sep 2026 12:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "リトルはから撤退プレイヤーズ・チャンピオンシップ清潔な掃引後のイベントは、ゴミを望んでいます",
       "summary": "Luke Littler2 つから撤退プレイヤーズ・チャンピオンシップオランダでのイベントは、PDC のメジャータイトルクリーンスイープの入札後24 時間以内に遅れていました。",
       "title_original": "Littler withdraws from Players Championship events after clean sweep hopes dashed",
@@ -4076,48 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13589245/zuffa-boxing-11-big-john-and-johnny-fisher",
       "published": "Sat, 19 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Middlesex ビート Leicestershire へ 終了 36 年 リスト A trophy 待つ",
-      "summary": "Middlesex は 36 年のリストを終わらせました 食べることによって干ばつ Leicestershire Foxes31 で勝つために実行 Metro Bank One Day 低スコアリング決勝でのカップ Trent Bridge.",
-      "title_original": "Middlesex beat Leicestershire to end 36-year List A trophy wait",
-      "summary_original": "Middlesex ended a 36-year List A trophy drought by beating Leicestershire Foxes by 31 runs to win the Metro Bank One Day Cup in a low-scoring final at Trent Bridge.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13590258/metro-bank-one-day-cup-mens-final-middlesex-beat-leicestershire-foxes-to-end-36-year-list-a-trophy-wait",
-      "published": "Sun, 20 Sep 2026 20:54:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スミスの発疹 勝つために価格 World SeriesLittler の衝撃出口の後に",
-      "summary": "Ross Smith スラッシュ Gerwyn Price11-5 になる World Series インフォメーション Darts Finals チャンピオン, しばらく Luke Littler's2026 年のメジャーな PDC タイトルのきれいなスイープの希望は、四半期ファイナルで破棄されました。",
-      "title_original": "Smith thrashes Price to win World Series after Littler's shock exit",
-      "summary_original": "Ross Smith thrashed Gerwyn Price 11-5 to become World Series of Darts Finals champion, while Luke Littler's hopes of a clean sweep of all major PDC titles in 2026 were dashed in the quarter-finals.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13590270/world-series-of-darts-finals-ross-smith-thrashes-gerwyn-price-in-final-after-luke-littlers-dream-of-clean-sweep-ends",
-      "published": "Sun, 20 Sep 2026 21:17:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "フィッシャー対ピロトン:「黄金のチケット」の戦いのために知っておく必要があるもの",
-      "summary": "事前に知っておくべきこと Johnny Fisher’s ヘビー級クラッシュと Michael Pirotton ロンドンはスカイスポーツに住んでいます。",
-      "title_original": "Fisher vs Pirotton: What you need to know for 'golden ticket' fight",
-      "summary_original": "All you need to know ahead of Johnny Fisher’s heavyweight clash with Michael Pirotton in London live on Sky Sports .",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13589385/johnny-fisher-vs-michael-pirotton-fight-time-ringwalks-undercard-and-how-to-watch-or-stream-live-on-sky-sports",
-      "published": "Mon, 21 Sep 2026 06:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
