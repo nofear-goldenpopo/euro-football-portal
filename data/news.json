@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-09-21T15:37:04.833768+00:00",
+  "updated_at": "2026-09-21T15:52:24.356560+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Enzo Fernandez's": "",
-    "Maresca Chelsea’s": "",
-    "Monaco’s Camara": "",
-    "Three Deadline Day": "",
-    "Balogun's Everton": "",
-    "Quinten Timber": "クインテン・ティンバー",
     "Marc Skinner": "",
     "Eva Olid": "",
     "Kaveh Solhekol": "",
@@ -3001,9 +2995,29 @@
     "France. Building": "",
     "Yannick Cahuzac": "",
     "Stade Louis II": "スタッド・ルイ・ドゥ",
-    "Dino Toppmöller": ""
+    "Dino Toppmöller": "",
+    "Was Neville": "",
+    "Was Gary Neville": "",
+    "Jordan James": "",
+    "Spurs. This": "",
+    "Roberto De Zerbi’s": "",
+    "In March": ""
   },
   "items": [
+    {
+      "title": "Was Neville コールアウトする権利マンチェスター・ユナイテッド「努力の欠如」?",
+      "summary": "獲得を問い合わせガリー・ネヴィルコールアウトする権利マンチェスター・ユナイテッド日曜日にフラハムで1-1 の「努力の欠如」のために?",
+      "title_original": "Was Neville right to call out Man Utd for a 'lack of effort'?",
+      "summary_original": "Was Gary Neville right to call out Manchester United for a \"lack of effort\" in their 1-1 draw at Fulham on Sunday?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 15:39:36 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
     {
       "title": "イギリスのスクワッドから5 つの引き出しの中でパルマー&ライス",
       "summary": "ティノ・リヴラメント, コビー・メイヌー, コール・パーマー, マーカス・ラッシュフォードそして、デクラン・ライスイングランドのスクワッドフォーミングの全てのプルアウト Nations League マッチ。",
@@ -3040,6 +3054,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3j4jpzy08p5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 13:55:16 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウェールズはポルトガルに恐怖はありません - ジェームズ",
+      "summary": "Jordan James ウインズが「世界の最高の選手」に追い越されないと主張する Nations League 木曜日にポルトガルに対するオープナー。",
+      "title_original": "Wales will have no fear in Portugal - James",
+      "summary_original": "Jordan James insists depleted Wales will not be overawed against \"the best players in the world\" in their Nations League A opener against Portugal on Thursday.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn9wpzrz3g1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 15:36:40 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3103,20 +3131,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウィルソン、ダーロウ、ウェールズのスクワッドからブロードヘッド",
-      "summary": "ウェールズは彼らの前に三重の打撃に苦しむ Nations League キャンペーン Harry Wilson, Nathan Broadhead そして、カール・ダーロウすべて からクレイグ・ベラミースチーム",
-      "title_original": "Wilson, Darlow and Broadhead out of Wales squad",
-      "summary_original": "Wales suffer a triple blow before their Nations League A campaign with Harry Wilson, Nathan Broadhead and Karl Darlow all out of Craig Bellamy's squad.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw8r68mv415lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 11:15:06 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ネビルコールマンチェスター・ユナイテッド'pathetic' - しかし、Carrick は信念を維持",
       "summary": "ガリー・ネヴィルコールコールマンチェスター・ユナイテッド「情熱的」が、上司マイケル・キャリック Fulham でのドローを救済した後の信念を維持します。",
       "title_original": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
@@ -3142,20 +3156,6 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "深刻な事故後の病院での Ex-Birmingham ウィンガーグラハム",
-      "summary": "Former Birmingham ウィンガージョーダン・グラハム「深刻な道路交通事故」に関与した後、病院にいます。",
-      "title_original": "Ex-Birmingham winger Graham in hospital after serious accident",
-      "summary_original": "Former Birmingham winger Jordan Graham is in hospital after being involved in a \"serious road traffic accident\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c83v427kkknwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 12:31:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3240,6 +3240,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "深刻な事故後の病院での Ex-Birmingham ウィンガーグラハム",
+      "summary": "Former Birmingham ウィンガージョーダン・グラハム「深刻な道路交通事故」に関与した後、病院にいます。",
+      "title_original": "Ex-Birmingham winger Graham in hospital after serious accident",
+      "summary_original": "Former Birmingham winger Jordan Graham is in hospital after being involved in a \"serious road traffic accident\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c83v427kkknwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 12:31:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3341,6 +3355,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ウィルソン、ダーロウ、ウェールズのスクワッドからブロードヘッド",
+      "summary": "ウェールズは彼らの前に三重の打撃に苦しむ Nations League キャンペーン Harry Wilson, Nathan Broadhead そして、カール・ダーロウすべて からクレイグ・ベラミースチーム",
+      "title_original": "Wilson, Darlow and Broadhead out of Wales squad",
+      "summary_original": "Wales suffer a triple blow before their Nations League A campaign with Harry Wilson, Nathan Broadhead and Karl Darlow all out of Craig Bellamy's squad.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw8r68mv415lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 11:15:06 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "「ラップする時間があるかもしれません」 - O'Neill ponders セルティック敗北後の未来",
       "summary": "マーティン・オニール彼が使用することを言うインテル後の位置に反映する国民の休憩セルティックビッグゲームで3 回連続敗北する。",
       "title_original": "'It might be time to wrap it up' - O'Neill ponders Celtic future after defeat",
@@ -3393,34 +3421,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "レンジャーズ McInnes の flip 物語はマークを作ります",
-      "summary": "コンサルティングオールドファームダービーウィンズショーDerek McInnes マークを作ろうレンジャーズ集合開始後。",
-      "title_original": "Rangers flip narrative as McInnes makes mark",
-      "summary_original": "Consecutive Old Firm derby wins show Derek McInnes is starting to make his mark at Rangers after a mortifying start.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpe94rw3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 15:54:04 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トロイさんを作った人プレミアリーグ週のチーム?",
-      "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
-      "title_original": "Who has made Troy's Premier League team of the week?",
-      "summary_original": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckzdz2l0m52mo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 19:40:25 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3495,13 +3495,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "WSL の話ポイント:アーセナル’ s 攻撃 woes と Goodwin はイングランドのケースを作る",
-      "summary": "ガンナーは2 週間で2 秒のホームドローで開催されます。トッテナムスマッシュクリスタル・パレス7-0 強固なスタートを維持する 方法が見つからない場合クリスタル・パレスの のバックラインは、アーセナルドローで再び家で不満だったマンチェスター・ユナイテッド土曜日と土曜日 Renée Slegers チームが所持と領土の優しさをより多くの目標に変えることができる方法についてのポストマッチを尋ねました。コースが悪くなっていたり、Smilla Holmberg 第95 分に1-1 号機を作らなかった。「そうですね」",
-      "title_original": "WSL talking points: Arsenal’s attacking woes and Goodwin makes England case",
-      "summary_original": "Gunners are held to second home draw in two weeks, while Spurs smash Palace 7-0 to maintain strong start After being unable to find a way through Crystal Palace’s backline last time out, Arsenal were again frustrated at home in a draw with Manchester United on Saturday and Renée Slegers was asked post-match about how her team can turn their dominance of possession and territory into more goals. It could have been worse, of course, if Smilla Holmberg had not made it 1-1 in the 95th minute. “It’s ",
+      "title": "最後の2 つの季節はグラミでしたトッテナム. これは今までにないほど悪くない |Jonathan Wilson",
+      "summary": "ヨーロッパの資格のプレシーズンの考えは、バッフルに楽観的のために見始めていますロベルト・デ・ゼルビ’s チームは、無料ニュースレターに登録 In March, トッテナム, 可能な回復を恐れて, 持って来るために大きく過ごしたロベルト・デ・ゼルビ, おそらく強い手との交渉に行かないだろう. 季節の最終日は明らかな改善が続いています。それ以来、トッテナムスクワットを改善するためにネット1億7500万ポンド($234m)を費やしました。メッセージが明確に見える:",
+      "title_original": "The last two seasons were grim for Spurs. This is as bad as it’s ever been | Jonathan Wilson",
+      "summary_original": "Pre-season thoughts of European qualification are already beginning to look bafflingly optimistic for Roberto De Zerbi’s team Sign up for our free newsletter here In March, Tottenham, fearing possible relegation, spent big to bring in Roberto De Zerbi, who will probably never go into a negotiation with a stronger hand. There was obvious improvement and they stayed up on the final day of the season. Since then, Spurs have spent a net £175m ($234m) on improving the squad. The message seemed clear:",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/21/wsl-talking-points-arsenal-isobel-goodwin-england",
-      "published": "Mon, 21 Sep 2026 11:00:18 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/21/tottenham-hotspur-premier-league",
+      "published": "Mon, 21 Sep 2026 15:20:18 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3523,20 +3523,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド’s のエンジンルームはファンの声の不満として蒸気から操業 |Jacob Steinberg",
-      "summary": "カラリックの側面は、夏がミッドフィールドに費やしているにもかかわらず、インスピレーションに不足し、最終3 分の質の欠如は、より有害な側面の一つを主演しましたマンチェスター・ユナイテッド’ の破損した再建は、マルチタスクに対するその可能性. そのため、多くのお金が冷やされていたので、毎年夏に1 つのポジションを1 回行くという素晴らしい位置にユナイテッドを押します。昨年は、攻撃と最近のウィンドウは、フルバックのオプションは見ていないにもかかわらず、中央ミッドフィールドでした",
-      "title_original": "Manchester United’s engine room runs out of steam as fans voice frustration | Jacob Steinberg",
-      "summary_original": "Carrick’s side were short on inspiration, despite the summer spend in midfield, and the lack of quality in the final third was stark One of the more damning aspects of Manchester United’s tortured rebuild is their inability to multitask. So much money has been frittered away, pushing United into the ridiculous position of going one position at a time each summer. Last year was all about the attack and the recent window was about central midfield, even though the options at full-back do not look ",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/manchester-uniteds-engine-room-runs-out-of-puff-as-fans-begin-to-voice-frustration",
-      "published": "Sun, 20 Sep 2026 19:14:28 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
       "summary": "リヴァプール背中を強く見て、若者は輝きますブライトンそして、ブレントフォードと James Trafford イングランドのケースを作るリーズ プレミアリーグテーブル | トップスコアラー 16 歳までの週 Max Dowman スポットライトに悩まされている、それは私たちに未来の垣根を与えた別のティーンエイジャーだったブライトン’ s の印象的な勝利アーセナル. シャルランポス・コストラ - 彼の故郷で「Babis」と呼ばれ、元アルゼンチンのストライカーに敬意を表しています Gabriel Batistuta– すでに2 回以上開始",
       "title_original": "Premier League: 10 talking points from the weekend’s action",
@@ -3544,6 +3530,34 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action",
       "published": "Mon, 21 Sep 2026 07:00:37 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "WSL の話ポイント:アーセナル’ s 攻撃 woes と Goodwin はイングランドのケースを作る",
+      "summary": "ガンナーは2 週間で2 秒のホームドローで開催されます。トッテナムスマッシュクリスタル・パレス7-0 強固なスタートを維持する 方法が見つからない場合クリスタル・パレスの のバックラインは、アーセナルドローで再び家で不満だったマンチェスター・ユナイテッド土曜日と土曜日 Renée Slegers チームが所持と領土の優しさをより多くの目標に変えることができる方法についてのポストマッチを尋ねました。コースが悪くなっていたり、Smilla Holmberg 第95 分に1-1 号機を作らなかった。「そうですね」",
+      "title_original": "WSL talking points: Arsenal’s attacking woes and Goodwin makes England case",
+      "summary_original": "Gunners are held to second home draw in two weeks, while Spurs smash Palace 7-0 to maintain strong start After being unable to find a way through Crystal Palace’s backline last time out, Arsenal were again frustrated at home in a draw with Manchester United on Saturday and Renée Slegers was asked post-match about how her team can turn their dominance of possession and territory into more goals. It could have been worse, of course, if Smilla Holmberg had not made it 1-1 in the 95th minute. “It’s ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/wsl-talking-points-arsenal-isobel-goodwin-england",
+      "published": "Mon, 21 Sep 2026 11:00:18 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・ユナイテッド’s のエンジンルームはファンの声の不満として蒸気から操業 |Jacob Steinberg",
+      "summary": "カラリックの側面は、夏がミッドフィールドに費やしているにもかかわらず、インスピレーションに不足し、最終3 分の質の欠如は、より有害な側面の一つを主演しましたマンチェスター・ユナイテッド’ の破損した再建は、マルチタスクに対するその可能性. そのため、多くのお金が冷やされていたので、毎年夏に1 つのポジションを1 回行くという素晴らしい位置にユナイテッドを押します。昨年は、攻撃と最近のウィンドウは、フルバックのオプションは見ていないにもかかわらず、中央ミッドフィールドでした",
+      "title_original": "Manchester United’s engine room runs out of steam as fans voice frustration | Jacob Steinberg",
+      "summary_original": "Carrick’s side were short on inspiration, despite the summer spend in midfield, and the lack of quality in the final third was stark One of the more damning aspects of Manchester United’s tortured rebuild is their inability to multitask. So much money has been frittered away, pushing United into the ridiculous position of going one position at a time each summer. Last year was all about the attack and the recent window was about central midfield, even though the options at full-back do not look ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/manchester-uniteds-engine-room-runs-out-of-puff-as-fans-begin-to-voice-frustration",
+      "published": "Sun, 20 Sep 2026 19:14:28 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3561,20 +3575,6 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Zidane の次のフランスコーチがカーテンの背後にあるウィザードを明らかにするかもしれないので移動 |Jonathan Wilson",
-      "summary": "最も人気のあるサッカーの国は、彼の再生日でさえも、リーダーの最も重要性によって導かれること、ジネディーヌ・ジダン見やすく見えました。マネージャーとして、距離感は成長しました。3 位を獲得チャンピオンズリーグ s とレアル・マドリードサッカーの彼の考えが好きなことのセンスを与えずに。フランスはおそらく最も複雑なサッカーの国です:B チームは、B チームが深刻なコンテンダーになるような才能に気をつけるチーム World Cup, t に達した",
-      "title_original": "Zidane’s next move as France coach may reveal the wizard behind the curtain | Jonathan Wilson",
-      "summary_original": "It is apt that the most perplexing football country will now be guided by the most enigmatic of leaders Even in his playing days, Zinedine Zidane seemed unknowable. As a manager, the sense of distance has only grown. He won three Champions Leagues with Real Madrid without ever giving a sense of what his idea of football looked like. France are perhaps the most perplexing football country: a squad that teems with such talent that a B team would be serious contenders at a World Cup, that reached t",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain",
-      "published": "Sat, 19 Sep 2026 19:00:54 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3775,6 +3775,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Zidane の次のフランスコーチがカーテンの背後にあるウィザードを明らかにするかもしれないので移動 |Jonathan Wilson",
+      "summary": "最も人気のあるサッカーの国は、彼の再生日でさえも、リーダーの最も重要性によって導かれること、ジネディーヌ・ジダン見やすく見えました。マネージャーとして、距離感は成長しました。3 位を獲得チャンピオンズリーグ s とレアル・マドリードサッカーの彼の考えが好きなことのセンスを与えずに。フランスはおそらく最も複雑なサッカーの国です:B チームは、B チームが深刻なコンテンダーになるような才能に気をつけるチーム World Cup, t に達した",
+      "title_original": "Zidane’s next move as France coach may reveal the wizard behind the curtain | Jonathan Wilson",
+      "summary_original": "It is apt that the most perplexing football country will now be guided by the most enigmatic of leaders Even in his playing days, Zinedine Zidane seemed unknowable. As a manager, the sense of distance has only grown. He won three Champions Leagues with Real Madrid without ever giving a sense of what his idea of football looked like. France are perhaps the most perplexing football country: a squad that teems with such talent that a B team would be serious contenders at a World Cup, that reached t",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain",
+      "published": "Sat, 19 Sep 2026 19:00:54 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ハエンは、彼のことを心配しなければなりませんバーンリー未来だがファンの恐怖は存在感",
       "summary": "ダービーのストップページタイムイコライザーの葉バーンリー過去10 月以降、家で勝らず、金融問題が実装されている 最高の瞬間バーンリーキックオフ前の大きな画面に「歴史」が映し出されました Turf Moor、解説の有名なラインによって伴われる。最終的なもの、瞬間の昇進は下に密封されましたスコット・パーカー2025 年4 月、サウンドトラック「:」バーンリー久しぶりに戻ってきます。ここまでずっと前に感じます。プレミアリーグ遠隔展望。バーンリーアプリケーション",
       "title_original": "Hayen must worry about his Burnley future but fans’ fears are existential",
@@ -3831,23 +3845,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "獲得を問い合わせ Max Dowman 影に咲くが、無視しにくい |Barney Ronay",
-      "summary": "サッカー選手のこの最も近代的でよく手入れされたのは、一定のスルーティの年齢でスポットライトをエスケープすることはできませんが、それを処理するために装備されている外観ホルヘ・ルイス・ボルヘス地図を作るのにとても良いようになった社会について有名な短い話を書きました, そのため、すべての詳細をキャプチャして肥満しました, その定規は、右の仕事を行うための唯一の方法は、その帝国全体のライフサイズのマップを作ることだった, その後、海岸から海岸に実際の土地をレイアウトすることができ. Br の地図を想像する",
-      "title_original": "We wanted to let Max Dowman bloom in the shadows but he has become hard to ignore | Barney Ronay",
-      "summary_original": "This most modern and well-honed of footballers will not be able to escape the spotlight in an age of constant scrutiny but looks equipped to handle it The poet Jorge Luis Borges wrote a famous short story about a society that had become so good at making maps, so obsessed with capturing every detail, that its rulers decided the only way to do the job right was to make a lifesize map of its entire empire, which could then be laid out across the actual land from coast to coast. Imagine a map of Br",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/max-dowman-arsenal-young-players",
-      "published": "Fri, 18 Sep 2026 16:59:40 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リヴァプール対比マンチェスター・ユナイテッドそして、マンチェスター・シティの trip への旅アーセナルスカイスポーツ",
-      "summary": "リヴァプール対比マンチェスター・ユナイテッドそして、アーセナル対比マンチェスター・シティに 18 プレミアリーグ11 月のスカイスポーツでライブをしているゲーム。",
-      "title_original": "Liverpool vs Man Utd and Man City's trip to Arsenal live on Sky Sports",
+      "title": "リヴァプール対比マンチェスター・ユナイテッド, アーセナル対比マンチェスター・シティスカイにライブ - 11 月の備品はこちら",
+      "summary": "リヴァプール対比マンチェスター・ユナイテッドそして、アーセナル対比マンチェスター・シティ18 のうちプレミアリーグ11 月のスカイスポーツでライブをしているゲーム。",
+      "title_original": "Liverpool vs Man Utd, Arsenal vs Man City live on Sky - November fixtures here",
       "summary_original": "Liverpool vs Man Utd and Arsenal vs Man City are among the 18 Premier League games being shown live on Sky Sports in November.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590457/premier-league-fixtures-on-sky-sports-liverpool-vs-man-utd-and-arsenal-vs-man-city-in-november",
