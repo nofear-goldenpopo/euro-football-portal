@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-21T13:05:41.455069+00:00",
+  "updated_at": "2026-09-21T13:28:38.913871+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "August Priske": "",
-    "Midfielder Larsson": "",
     "De Zerbi’ Tottenham": "",
     "Manchester United's Joshua Zirkzee": "",
     "Malo Gusto": "マロ・ギュスト",
@@ -3001,14 +2999,16 @@
     "Piero Gasperini": "",
     "His Roma": "",
     "Bramall Lane": "ブラモール・レーン",
-    "Captain Harry Brook": ""
+    "Captain Harry Brook": "",
+    "Tino Livramento": "ティノ・リヴラメント",
+    "September. Who": ""
   },
   "items": [
     {
-      "title": "ギブスホワイトは、イングランドのスクワッドでパルマーを交換するように設定",
-      "summary": "Morgan Gibbs-White 交換するイングランドのリコールのためのラインにあるコール・パーマーマイナーな怪我のためにスクワットから撤退するように設定されている人。",
-      "title_original": "Gibbs-White set to replace Palmer in England squad",
-      "summary_original": "Morgan Gibbs-White is in line for an England recall to replace Cole Palmer, who is set to withdraw from the squad because of a minor injury.",
+      "title": "イギリスのスクワッドから5 つの引き出しの中でパルマー&ライス",
+      "summary": "ティノ・リヴラメント, コビー・メイヌー, コール・パーマー, マーカス・ラッシュフォードそして、デクラン・ライスイングランドのスクワッドフォーミングの全てのプルアウト Nations League マッチ。",
+      "title_original": "Palmer & Rice among five withdrawals from England squad",
+      "summary_original": "Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice all pull out of England's squad for forthcoming Nations League matches.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 09:36:36 GMT",
@@ -3243,16 +3243,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナム、1億2500万ポンド move for Gibbs-White - Monday's gossip を獲得候補に",
-      "summary": "トッテナムのために動くことができます Morgan Gibbs‐ホワイト JJ Gabriel's 次のステップは未解決のままであり、アントニオ・コンテ次の動きを裏切ることもできます。",
-      "title_original": "Spurs eye £125m move for Gibbs-White - Monday's gossip",
-      "summary_original": "Spurs could move for Morgan Gibbs‑White, JJ Gabriel's next step remains unresolved and Antonio Conte may be lining up his next move.",
+      "title": "ポルトガルからウェールズを選ぶのは誰ですか?",
+      "summary": "クレイグ・ベラミーの side take on Portugal に Lisbon 上の 木曜日, 24September. Who ウェールズの開口部を選ぶ Nations League 備品?",
+      "title_original": "Who would you pick for Wales against Portugal?",
+      "summary_original": "Craig Bellamy's side take on Portugal in Lisbon on Thursday, 24 September. Who would you pick for Wales opening Nations League A fixture?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6y8z29nxn4mo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 20:04:52 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq62jr0k7gp8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 13:19:26 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3327,6 +3327,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "トッテナム、1億2500万ポンド move for Gibbs-White - Monday's gossip を獲得候補に",
+      "summary": "トッテナムのために動くことができます Morgan Gibbs‐ホワイト JJ Gabriel's 次のステップは未解決のままであり、アントニオ・コンテ次の動きを裏切ることもできます。",
+      "title_original": "Spurs eye £125m move for Gibbs-White - Monday's gossip",
+      "summary_original": "Spurs could move for Morgan Gibbs‑White, JJ Gabriel's next step remains unresolved and Antonio Conte may be lining up his next move.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y8z29nxn4mo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 20:04:52 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "レンジャーズ McInnes の flip 物語はマークを作ります",
       "summary": "コンサルティングオールドファームダービーウィンズショーDerek McInnes マークを作ろうレンジャーズ集合開始後。",
       "title_original": "Rangers flip narrative as McInnes makes mark",
@@ -3394,20 +3408,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "印象的な防衛は固体開始をで密封しますリヴァプールイラオラ",
-      "summary": "リヴァプール見栄えがよいですがアンドニ・イラオラ Bournemouth でハード・フォールド・ウィンの後、彼の攻撃者からもっと必要です。",
-      "title_original": "Impressive defence seals solid start at Liverpool for Iraola",
-      "summary_original": "Liverpool are looking good defensively but Andoni Iraola needs more from his attackers after a hard-fought win at Bournemouth.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cklyjpgj3nv6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 16:57:34 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
