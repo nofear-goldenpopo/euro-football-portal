@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-21T11:52:19.886221+00:00",
+  "updated_at": "2026-09-21T12:08:19.047450+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Divine Mukasa": "",
-    "Lamine Camara": "ラミン・カマラ",
     "Chelsea's Mudryk": "",
     "Romelle Donovan": "",
     "Bramall Lane": "",
@@ -3001,7 +2999,9 @@
     "The Manchester United": "",
     "Sunday. Palmer": "",
     "Nathan Broadhead": "",
-    "Karl Darlow": "カール・ダーロウ"
+    "Karl Darlow": "カール・ダーロウ",
+    "Shaun Edwards": "",
+    "England Women": ""
   },
   "items": [
     {
@@ -3313,6 +3313,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "例-リヴァプールサラは6 ヶ月の運転禁止を取得",
+      "summary": "前の投稿リヴァプールサッカーのロールス・ロイスは3 月にウィルムスローで時計を浴びていました。",
+      "title_original": "Ex-Liverpool forward Salah gets six-month driving ban",
+      "summary_original": "The former Liverpool footballer's Rolls-Royce was clocked speeding in Wilmslow in March.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw27jpy0ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 11:32:41 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "トロイさんを作った人プレミアリーグ週のチーム?",
       "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
       "title_original": "Who has made Troy's Premier League team of the week?",
@@ -3408,20 +3422,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ホールドスコアハットトリックとしてトッテナム thrash 10 プレイクリスタル・パレス",
-      "summary": "オリビア・ホルト (サッカー選手)クレームハットトリックとしてトッテナムスコア 7 回 後半 非難 10 選手クリスタル・パレス彼らの最初の敗北に戻って推進されているので、Women's Super League.",
-      "title_original": "Holdt scores hat-trick as Spurs thrash 10-player Palace",
-      "summary_original": "Olivia Holdt claims a hat-trick as Tottenham score seven times in the second half to condemn 10-player Crystal Palace to their first defeat since being promoted back to the Women's Super League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqx2zg35kln5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 18:52:26 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Edwards が参加 Red Roses 短期契約のコーチングチーム",
+      "summary": "Shaun Edwards 参加しました England Women 最後までコンサルタントとしてチームをコーチング WXV Global Series, ,Rugby Football Union 発表しました。",
+      "title_original": "Edwards joins Red Roses coaching team on short-term deal",
+      "summary_original": "Shaun Edwards has joined the England Women coaching team as a consultant until the end of the WXV Global Series, the Rugby Football Union has announced.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13590422/shaun-edwards-joins-england-women-coaching-team-under-john-mitchell-on-short-term-deal-until-end-of-wxv-global-series",
+      "published": "Mon, 21 Sep 2026 12:50:00 BST",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "How Warwickshire3 方向の戦闘をシールすることができますカウンティ・チャンピオンシップタイトル",
       "summary": "備品の最終ラウンドカウンティ・チャンピオンシップ木曜日に開始し、3 つのチームはまだタイトルの文言で始まります, 誰がから解放され、促進されます Division One まだまだ決まります。",
       "title_original": "How Warwickshire can seal three-way battle for County Championship title",
@@ -3957,17 +3971,31 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド最新:Neville は「最長15 分」と Fulham の後に形成変化を呼びます",
+      "title": "マンチェスター・ユナイテッド最新: マギレは、プレイヤーがノイズを無視するように促します",
       "summary": "",
-      "title_original": "Man Utd latest: Neville calls for formation change after 'worst 15 mins' vs Fulham",
+      "title_original": "Man Utd latest: Maguire urges players to 'ignore the noise'",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Mon, 21 Sep 2026 08:15:00 BST",
+      "published": "Mon, 21 Sep 2026 12:50:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "獲得を問い合わせアーセナルタイトルのコンテンダーがなければスタンド?",
+      "summary": "スカイスポーツコラムニスト Laura Hunter 第2 ラウンドから大きなポイントを分析 Women's Super League 女性の試合の心臓部で重要なストーリーに近づくマッチ。",
+      "title_original": "What do Arsenal stand for if not title contenders?",
+      "summary_original": "Sky Sports columnist Laura Hunter analyses the big talking points from the second round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590378/what-do-arsenal-stand-for-gunners-risk-falling-behind-those-in-the-wsl-title-race-if-they-do-not-sharpen-up",
+      "published": "Mon, 21 Sep 2026 12:00:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13589366/kimi-antonelli-versus-his-mind-will-decide-2026-formula-1-title-race-says-nico-rosberg-ahead-of-azerbaijan-grand-prix",
       "published": "Mon, 21 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "NFL Weekend Review: Mastermind Flores クマを支配人",
-      "summary": "Brian Flores 再びストライキ, 別の New Orleans Saints カムバックとより多くの圧力 Justin Herbert そして、ロサンゼルス充電器。こちらのレビューはこちら NFL Sunday...",
-      "title_original": "NFL Weekend Review: Mastermind Flores dominates Bears",
-      "summary_original": "Brian Flores strikes again, another New Orleans Saints comeback and more pressure on Justin Herbert and the Los Angeles Chargers. Here is our review of NFL Sunday...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nfl/news/12040/13590115/nfl-weekend-review-brian-flores-dominates-chicago-bears-tyler-shough-heroics-and-more-justin-herbert-misery",
-      "published": "Mon, 21 Sep 2026 06:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リトルのきれいなスイープ入札が終了した瞬間 World Series Finals!",
-      "summary": "Jonny Clayton 終了いたしました。Luke Littler's 清潔な掃除 World Series インフォメーション Darts Finals. Credit: @公式 PDC。",
-      "title_original": "The moment Littler's clean sweep bid ended at the World Series Finals!",
-      "summary_original": "Jonny Clayton ended Luke Littler's clean sweep at the World Series of Darts Finals. Credit: @OfficialPDC.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13590158/world-series-of-darts-final-the-moment-luk-littlers-clean-sweep-bid-ended",
-      "published": "Sun, 20 Sep 2026 16:21:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
