@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-21T14:39:34.752936+00:00",
+  "updated_at": "2026-09-21T14:52:44.293710+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "And Mikel Arteta": "",
-    "Zian Flemming": "ジアン・フレミング",
     "Tim Iroegbunam": "",
     "Robinio Vaz": "",
     "Team USA": "",
@@ -3001,7 +2999,9 @@
     "Paul Lambert": "ポール・ランバート",
     "Pocognoli Facetime": "",
     "Lennon Miller": "",
-    "Deutscher Meister": ""
+    "Deutscher Meister": "",
+    "CRAIG DAVID": "",
+    "Craig David": "クレイグ・デイヴィッド"
   },
   "items": [
     {
@@ -3103,20 +3103,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ネビルコールマンチェスター・ユナイテッド'pathetic' - しかし、Carrick は信念を維持",
-      "summary": "ガリー・ネヴィルコールコールマンチェスター・ユナイテッド「情熱的」が、上司マイケル・キャリック Fulham でのドローを救済した後の信念を維持します。",
-      "title_original": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
-      "summary_original": "Gary Neville calls Manchester United \"pathetic\", but boss Michael Carrick maintains belief after salvaging draw at Fulham.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 19:44:15 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "スコットランドがポコニョーリデビューのためにシェイピングを挙げる方法は?",
       "summary": "セバスチャン・ポコニョーリ土曜日にスロベニアに対してスコットランドのヘッドコーチとして最初のテストに直面していますが、彼のスクワッドは彼のデビューのためにシェイピングアップする方法は?",
       "title_original": "How is Scotland squad shaping up for Pocognoli debut?",
@@ -3128,6 +3114,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ネビルコールマンチェスター・ユナイテッド'pathetic' - しかし、Carrick は信念を維持",
+      "summary": "ガリー・ネヴィルコールコールマンチェスター・ユナイテッド「情熱的」が、上司マイケル・キャリック Fulham でのドローを救済した後の信念を維持します。",
+      "title_original": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
+      "summary_original": "Gary Neville calls Manchester United \"pathetic\", but boss Michael Carrick maintains belief after salvaging draw at Fulham.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 19:44:15 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3873,6 +3873,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Craig Slater チャンネルクレイグ・デイヴィッドバクレースが土曜日に行われる理由を説明しよう!",
+      "summary": "Craig Slater アゼルバイジャンを破壊グランプリレースが土曜日に行われる理由、ベストをしながらクレイグ・デイヴィッド感動!",
+      "title_original": "Craig Slater channels CRAIG DAVID to explain why Baku race is on Saturday!",
+      "summary_original": "Craig Slater breaks down the Azerbaijan Grand Prix, including why the race takes place on a Saturday, while doing his best Craig David impression!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589225/f1-explained-why-azerbaijan-grand-prix-will-take-place-on-a-saturday",
+      "published": "Mon, 21 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Trott は Flintoff を以下のように置き換えます。England Lions ヘッドコーチ",
       "summary": "Jonathan Trott コーチング England Lions 獲得を問い合わせインテル、供給されるロールを充填して下さいアンドリュー・フリントフ.",
       "title_original": "Trott replaces Flintoff as England Lions head coach",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13590283/green-bay-packers-new-york-jets-week-2-nfl-highlights",
       "published": "Sun, 20 Sep 2026 22:32:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Did Rice'petulant'キックのために赤をエスケープ? Foden/Fernandes の違いは何ですか?",
-      "summary": "On Ref Watch, Dermot Gallagher そして、ジェイ・ボスロイド獲得を問い合わせデクラン・ライス「キックアウト」Malick Yalcouye. Also、それに比較する方法フィル・フォーデン「キックアウト」ブルーノ・フェルナンデス.",
-      "title_original": "Did Rice escape red for 'petulant' kick? What's the difference with Foden/Fernandes?",
-      "summary_original": "On Ref Watch, Dermot Gallagher and Jay Bothroyd look at Declan Rice's kick out on Malick Yalcouye. Also, how it compares to Phil Foden's kick out on Bruno Fernandes.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13590387/ref-watch-declan-rice-escape-red-for-petulant-incident-with-malick-yalcouye-against-brighton",
-      "published": "Mon, 21 Sep 2026 11:16:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
