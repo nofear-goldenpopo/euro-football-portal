@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-21T10:06:16.074455+00:00",
+  "updated_at": "2026-09-21T10:25:27.256094+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Two-time Cheltenham Gold Cup": "",
     "Moses Itauma's": "",
     "Lucca Brughmans": "",
     "Vivianne Miedema": "フィフィアネ・ミデマー",
@@ -3001,7 +3000,8 @@
     "Max Rushden": "",
     "Barry Glendenning": "",
     "Dan Bardell": "",
-    "Sam Dalling": ""
+    "Sam Dalling": "",
+    "Euro Debrief": ""
   },
   "items": [
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "メルソン: 方法はありませんマンチェスター・シティリーグ優勝",
+      "summary": "ポール・マーソン信じるプレミアリーグリーダーマンチェスター・シティタイトルを勝ち取るのは「道なし」です。",
+      "title_original": "Merson: There's no way Man City win the league",
+      "summary_original": "Paul Merson believes Premier League leaders Manchester City have \"no way\" of winning the title if they keep playing as they are.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590373/paul-merson-no-way-man-city-win-premier-league-after-chaos-filled-win-over-sunderland",
+      "published": "Mon, 21 Sep 2026 10:37:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Ref Watch & プレミアリーグ週末の反応 LIVE!",
       "summary": "",
       "title_original": "Ref Watch & Premier League weekend reaction LIVE!",
@@ -3954,6 +3968,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Euro Debrief: サラスター,モウリーニョモアンとアモリムが適応",
+      "summary": "",
+      "title_original": "Euro Debrief: Salah stars, Mourinho moans and Amorim adapts",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13586130/raphinha-and-mo-salah-hat-tricks-harry-kane-landmark-ruben-amorim-finally-adapts-plus-more-in-the-euro-debrief",
+      "published": "Mon, 21 Sep 2026 11:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4090,34 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13590009/bmw-pga-championship-how-jj-spaun-used-team-usa-snub-for-presidents-cup-as-motivation-for-dramatic-wentworth-victory",
       "published": "Sun, 20 Sep 2026 20:00:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ネビル:Carrick は防御を停止しなければなりませんマンチェスター・ユナイテッド Fulham 'disgrace'の後の選手",
-      "summary": "ガリー・ネヴィル獲得を問い合わせマイケル・キャリック防衛を止めるためマンチェスター・ユナイテッド Fulham でのドローイングで他のトローブ性能の後、プレイヤー。",
-      "title_original": "Neville: Carrick must stop defending Man Utd players after Fulham 'disgrace'",
-      "summary_original": "Gary Neville has urged Michael Carrick to stop defending Manchester United players after another troubling performance in their draw at Fulham.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590228/gary-neville-michael-carrick-has-got-to-stop-defending-man-utd-players-after-lacklustre-draw-at-fulham",
-      "published": "Sun, 20 Sep 2026 19:50:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "アイルランドの打撃 19 ポイントは米国に負ける WXV Global Series",
-      "summary": "アイルランドは、40-36 の損失に苦しむ19 点のリードを漂白アメリカ合衆国 A 彼らのオープニングゲームで WXV Global Series.",
-      "title_original": "Ireland blow 19-point lead to lose to USA in WXV Global Series",
-      "summary_original": "Ireland blew a 19-point lead to suffer a 40-36 loss to the USA in their opening game of the WXV Global Series.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/ireland-women-vs-usa-women/report/113215",
-      "published": "Sun, 20 Sep 2026 19:43:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
