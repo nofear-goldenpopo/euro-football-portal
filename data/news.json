@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-21T11:39:28.794587+00:00",
+  "updated_at": "2026-09-21T11:52:19.886221+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Monaco's Camara": "",
-    "Monaco’s Lamine Camara": "",
     "Divine Mukasa": "",
     "Lamine Camara": "ラミン・カマラ",
     "Chelsea's Mudryk": "",
@@ -3001,7 +2999,9 @@
     "Man Utd's": "",
     "BBC Sport NI": "",
     "The Manchester United": "",
-    "Sunday. Palmer": ""
+    "Sunday. Palmer": "",
+    "Nathan Broadhead": "",
+    "Karl Darlow": "カール・ダーロウ"
   },
   "items": [
     {
@@ -3012,6 +3012,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 09:36:36 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ウィルソン、ダーロウ、ウェールズのスクワッドからブロードヘッド",
+      "summary": "ウェールズは彼らの前に三重の打撃に苦しむ Nations League キャンペーン Harry Wilson, Nathan Broadhead そして、カール・ダーロウすべて からクレイグ・ベラミースチーム",
+      "title_original": "Wilson, Darlow and Broadhead out of Wales squad",
+      "summary_original": "Wales suffer a triple blow before their Nations League A campaign with Harry Wilson, Nathan Broadhead and Karl Darlow all out of Craig Bellamy's squad.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw8r68mv415lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 11:15:06 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3100,20 +3114,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "今日のサッカーに関する知識をテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqdj4nk270meo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 05:54:06 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3243,6 +3243,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "毎日のクイズでサッカーの脳を柔軟に",
+      "summary": "今日のサッカーに関する知識をテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
+      "title_original": "Flex your football brain with our daily quizzes",
+      "summary_original": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqdj4nk270meo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 05:54:06 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "プレイヤーが何回獲得したかハットトリック獲得を問い合わせプレミアリーグ損失?",
       "summary": "サンダーランドの Brian Brobbey が最初に得たハットトリック敗北側のプレイヤーによるプレミアリーグ19 年間 - しかし、他の何人がそうしたのですか?",
       "title_original": "How many times has a player scored a hat-trick in a Premier League loss?",
@@ -3352,20 +3366,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "タイのピッチローラーで街を走る",
-      "summary": "Former England ウィンガーアンドロス・タウンゼントタイの試合前の奇妙な事件の後に「悪くはない」と叫ぶジョーク。",
-      "title_original": "Townsend run over by pitch roller in Thailand",
-      "summary_original": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in Thailand.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 09:08:43 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
