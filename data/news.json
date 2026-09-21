@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-21T12:08:19.047450+00:00",
+  "updated_at": "2026-09-21T12:28:30.238283+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Chelsea's Mudryk": "",
     "Romelle Donovan": "",
     "Bramall Lane": "",
     "Bristol City": "ブリストル・シティFC",
@@ -3001,7 +3000,8 @@
     "Nathan Broadhead": "",
     "Karl Darlow": "カール・ダーロウ",
     "Shaun Edwards": "",
-    "England Women": ""
+    "England Women": "",
+    "Lucerne Granit Xhaka": ""
   },
   "items": [
     {
@@ -3026,6 +3026,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cw8r68mv415lo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 11:15:06 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Covid-19 の証明書の調査の下の Xhaka",
+      "summary": "スイスのキャプテン Granit XhakaCovid-19 の認定証明書に関する問題について調査しています。",
+      "title_original": "Xhaka under investigation over Covid-19 certificate",
+      "summary_original": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 12:21:52 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3159,20 +3173,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トッテナム、1億2500万ポンド move for Gibbs-White - Monday's gossip を獲得候補に",
-      "summary": "トッテナムのために動くことができます Morgan Gibbs‐ホワイト JJ Gabriel's 次のステップは未解決のままであり、アントニオ・コンテ次の動きを裏切ることもできます。",
-      "title_original": "Spurs eye £125m move for Gibbs-White - Monday's gossip",
-      "summary_original": "Spurs could move for Morgan Gibbs‑White, JJ Gabriel's next step remains unresolved and Antonio Conte may be lining up his next move.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6y8z29nxn4mo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 20:04:52 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マンチェスター・シティビートサンダーランド8 点のスリラーで3 点クリア",
       "summary": "マンチェスター・シティビートサンダーランド5-3 スリル満点のエティハド遭遇で3 点クリアにプレミアリーグテーブル。",
       "title_original": "Man City beat Sunderland in eight-goal thriller to go three points clear",
@@ -3240,6 +3240,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "トッテナム、1億2500万ポンド move for Gibbs-White - Monday's gossip を獲得候補に",
+      "summary": "トッテナムのために動くことができます Morgan Gibbs‐ホワイト JJ Gabriel's 次のステップは未解決のままであり、アントニオ・コンテ次の動きを裏切ることもできます。",
+      "title_original": "Spurs eye £125m move for Gibbs-White - Monday's gossip",
+      "summary_original": "Spurs could move for Morgan Gibbs‑White, JJ Gabriel's next step remains unresolved and Antonio Conte may be lining up his next move.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y8z29nxn4mo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 20:04:52 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3313,20 +3327,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "例-リヴァプールサラは6 ヶ月の運転禁止を取得",
-      "summary": "前の投稿リヴァプールサッカーのロールス・ロイスは3 月にウィルムスローで時計を浴びていました。",
-      "title_original": "Ex-Liverpool forward Salah gets six-month driving ban",
-      "summary_original": "The former Liverpool footballer's Rolls-Royce was clocked speeding in Wilmslow in March.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw27jpy0ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 11:32:41 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "トロイさんを作った人プレミアリーグ週のチーム?",
       "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
       "title_original": "Who has made Troy's Premier League team of the week?",
@@ -3338,6 +3338,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "例-リヴァプールサラは6 ヶ月の運転禁止を取得",
+      "summary": "前の投稿リヴァプールサッカーのロールス・ロイスは3 月にウィルムスローで時計を浴びていました。",
+      "title_original": "Ex-Liverpool forward Salah gets six-month driving ban",
+      "summary_original": "The former Liverpool footballer's Rolls-Royce was clocked speeding in Wilmslow in March.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw27jpy0ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 11:32:41 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3411,17 +3425,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "SPFL のハイライト:アイル&ステンハウスマイルがスターラーが利益を上げるにつれて勝ちます",
-      "summary": "週末の行動から最大限の行動を見るスコティッシュ・チャンピオンシップリーグ1・リーグ2",
-      "title_original": "SPFL highlights: Ayr & Stenhousemuir win as Stranraer make gains",
-      "summary_original": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gj92n5qz8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 08:07:31 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "title": "Granit Xhaka2022 年に偽のコビッド予防接種証明書を受け取ることを認める",
+      "summary": "サンダーランドスイスのスクワットから撤退キャプテン 監査役の事務所に質問をします。Lucerne Granit Xhaka 彼は2022 年に偽のコビッド予防接種証明書を受け取ることを認めた後、スイスのスクワットから撤退しました。ザ・オブ・ザ・サンダーランドそしてスイスのキャプテン - 誰でしたアーセナル当時プレーヤー – この「ミスク」のために謝罪し、彼の国の苦難4 を座って Nations League マッチ。Xhaka は Lucerne nex の prosecutor's のオフィスで質問されることを表彰されます",
+      "title_original": "Granit Xhaka admits to receiving fake Covid vaccination certificate in 2022",
+      "summary_original": "Sunderland captain withdrawn from Switzerland squad He will be questioned by prosecutor’s office in Lucerne Granit Xhaka has been withdrawn from Switzerland’s squad after he admitted receiving a fake Covid vaccination certificate in 2022. The Sunderland and Switzerland captain – who was an Arsenal player at the time – has apologised for this “mistake” and will sit out his country’s forthcoming four Nations League matches. Xhaka is poised to be questioned by the prosecutor’s office in Lucerne nex",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/granit-xhaka-admits-receiving-fake-covid-vaccination-certificate",
+      "published": "Mon, 21 Sep 2026 11:46:02 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3453,13 +3467,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "カーリックは、Cunha の主張を主張するマンチェスター・ユナイテッドフラムドのエネルギー不足",
-      "summary": "マイケル・キャリックレベルラーのための主張者のチーム「スキップ」Matheus Cunha: 「Fulham は私たちよりも多くのエネルギーを投入」マイケル・キャリック彼の提案を拒否したマンチェスター・ユナイテッド選手は、彼らが最後のガスプをキャッチした後、物理的なフィットネスを欠い 1-1 フラハムで描画 Sunday. The 統計によると、ホーム側は、89 分にゴールコアラーがユナイテッドよりも6km の集団を走った。Matheus Cunha– チームの努力が重要だった。ユナイテッドは、0〜0 で再起動した後に貧弱でした。",
-      "title_original": "Carrick disputes Cunha’s claim that Manchester United lacked energy in Fulham draw",
-      "summary_original": "Michael Carrick insists team ‘kept pushing’ for leveller Matheus Cunha: ‘Fulham put in more energy than us’ Michael Carrick rejected the suggestion that his Manchester United players lacked physical fitness after they snatched a last-gasp 1-1 draw at Fulham on Sunday. The statistics showed the home side ran a collective 6.6km more than United, whose goalscorer in the 89th minute – Matheus Cunha – was critical of his team’s efforts. United were poor after the restart at 0-0, leading up to a disas",
+      "title": "マンチェスター・ユナイテッド’s のエンジンルームはファンの声の不満として蒸気から操業 |Jacob Steinberg",
+      "summary": "カラリックの側面は、夏がミッドフィールドに費やしているにもかかわらず、インスピレーションに不足し、最終3 分の質の欠如は、より有害な側面の一つを主演しましたマンチェスター・ユナイテッド’ の破損した再建は、マルチタスクに対するその可能性. そのため、多くのお金が冷やされていたので、毎年夏に1 つのポジションを1 回行くという素晴らしい位置にユナイテッドを押します。昨年は、攻撃と最近のウィンドウは、フルバックのオプションは見ていないにもかかわらず、中央ミッドフィールドでした",
+      "title_original": "Manchester United’s engine room runs out of steam as fans voice frustration | Jacob Steinberg",
+      "summary_original": "Carrick’s side were short on inspiration, despite the summer spend in midfield, and the lack of quality in the final third was stark One of the more damning aspects of Manchester United’s tortured rebuild is their inability to multitask. So much money has been frittered away, pushing United into the ridiculous position of going one position at a time each summer. Last year was all about the attack and the recent window was about central midfield, even though the options at full-back do not look ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/michael-carrick-matheus-cunha-fulham-manchester-united-premier-league",
-      "published": "Sun, 20 Sep 2026 19:49:21 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/20/manchester-uniteds-engine-room-runs-out-of-puff-as-fans-begin-to-voice-frustration",
+      "published": "Sun, 20 Sep 2026 19:14:28 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3481,20 +3495,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
-      "summary": "リヴァプール背中を強く見て、若者は輝きますブライトンそして、ブレントフォードと James Trafford イングランドのケースを作るリーズ プレミアリーグテーブル | トップスコアラー 16 歳までの週 Max Dowman スポットライトに悩まされている、それは私たちに未来の垣根を与えた別のティーンエイジャーだったブライトン’ s の印象的な勝利アーセナル. シャルランポス・コストラ - 彼の故郷で「Babis」と呼ばれ、元アルゼンチンのストライカーに敬意を表しています Gabriel Batistuta– すでに2 回以上開始",
-      "title_original": "Premier League: 10 talking points from the weekend’s action",
-      "summary_original": "Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with Leeds Premier League table | Top scorers In the week that 16-year-old Max Dowman has been thrust into the spotlight , it was another teenager who gave us a glimpse of the future in Brighton’s impressive win over Arsenal. Charalampos Kostoulas – nicknamed ‘Babis’ in his homeland, in homage to former Argentina striker Gabriel Batistuta – has already started twice as many",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action",
-      "published": "Mon, 21 Sep 2026 07:00:37 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "与えるために発疹リヴァプール Iraola の Bournemouth への戻りに対する勝利",
       "summary": "最終的な笛で、勝利が確保され、アンドニ・イラオラログイン2 ゴール d 彼の現在の選手と彼が最後のシーズンのボーンマスで新しい高さに導いたそれら。リヴァプールまだ圧倒されていない, 窒息力のイラオラは、それらになるために望んでいるが、彼らはここに3 つのポイントを主張するのに十分だった,アレクサンデル・イサクシンプルな仕上げで独特の性能を発揮します。コーディ・ガクポ再び建築家、オランダ人は今シーズンのアイザックの目標のすべての4 のためのサプライヤーでした。スコアリング前のアイザックの他のショットだけだった",
       "title_original": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
@@ -3502,6 +3502,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
       "published": "Sun, 20 Sep 2026 15:06:48 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "プレミアリーグ: 週末の行動から10 ポイントの話",
+      "summary": "リヴァプール背中を強く見て、若者は輝きますブライトンそして、ブレントフォードと James Trafford イングランドのケースを作るリーズ プレミアリーグテーブル | トップスコアラー 16 歳までの週 Max Dowman スポットライトに悩まされている、それは私たちに未来の垣根を与えた別のティーンエイジャーだったブライトン’ s の印象的な勝利アーセナル. シャルランポス・コストラ - 彼の故郷で「Babis」と呼ばれ、元アルゼンチンのストライカーに敬意を表しています Gabriel Batistuta– すでに2 回以上開始",
+      "title_original": "Premier League: 10 talking points from the weekend’s action",
+      "summary_original": "Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with Leeds Premier League table | Top scorers In the week that 16-year-old Max Dowman has been thrust into the spotlight , it was another teenager who gave us a glimpse of the future in Brighton’s impressive win over Arsenal. Charalampos Kostoulas – nicknamed ‘Babis’ in his homeland, in homage to former Argentina striker Gabriel Batistuta – has already started twice as many",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action",
+      "published": "Mon, 21 Sep 2026 07:00:37 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3523,20 +3537,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ハエンは、彼のことを心配しなければなりませんバーンリー未来だがファンの恐怖は存在感",
-      "summary": "ダービーのストップページタイムイコライザーの葉バーンリー過去10 月以降、家で勝らず、金融問題が実装されている 最高の瞬間バーンリーキックオフ前の大きな画面に「歴史」が映し出されました Turf Moor、解説の有名なラインによって伴われる。最終的なもの、瞬間の昇進は下に密封されましたスコット・パーカー2025 年4 月、サウンドトラック「:」バーンリー久しぶりに戻ってきます。ここまでずっと前に感じます。プレミアリーグ遠隔展望。バーンリーアプリケーション",
-      "title_original": "Hayen must worry about his Burnley future but fans’ fears are existential",
-      "summary_original": "Derby’s stoppage-time equaliser leaves Burnley winless at home since last October and financial problems are mounting The greatest moments of Burnley’s history were beamed on to a big screen before kick-off at Turf Moor, accompanied by famous lines of commentary. The final one, the moment promotion was sealed under Scott Parker in April 2025, was soundtracked by: “Burnley are back in the big time.” That feels a long time ago now, with a return to the Premier League a remote prospect. Burnley app",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/nicky-hayen-burnley-fans-fears-existential-championship",
-      "published": "Sun, 20 Sep 2026 07:00:09 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「毎日同じことを逃します」:Olivia Cusack 彼女の遅いサッカー選手の妹マディ",
       "summary": "3 年後、家族は彼女の「レガシーの生活」を確実にするために決定されますシェフィールド・ユナイテッド FC プレイヤーの死 Olivia Cusack 彼女の妹、遅刻 Maddy Cusack, 一日一回、彼女は彼女の「レガシーの命」を元イングランドの若者の3 年後に保証するために決定されますインテル国民のミッドフィルダーの死。オリビア、マディの家族や友人と、徒歩29 マイル Bramall Lane, シェフィールド・ユナイテッド FC’s home, ホーズリーの家族の家へ, ダービーの近く, 土曜日に rai",
       "title_original": "‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy",
@@ -3551,17 +3551,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド’s のエンジンルームはファンの声の不満として蒸気から操業 |Jacob Steinberg",
-      "summary": "カラリックの側面は、夏がミッドフィールドに費やしているにもかかわらず、インスピレーションに不足し、最終3 分の質の欠如は、より有害な側面の一つを主演しましたマンチェスター・ユナイテッド’ の破損した再建は、マルチタスクに対するその可能性. そのため、多くのお金が冷やされていたので、毎年夏に1 つのポジションを1 回行くという素晴らしい位置にユナイテッドを押します。昨年は、攻撃と最近のウィンドウは、フルバックのオプションは見ていないにもかかわらず、中央ミッドフィールドでした",
-      "title_original": "Manchester United’s engine room runs out of steam as fans voice frustration | Jacob Steinberg",
-      "summary_original": "Carrick’s side were short on inspiration, despite the summer spend in midfield, and the lack of quality in the final third was stark One of the more damning aspects of Manchester United’s tortured rebuild is their inability to multitask. So much money has been frittered away, pushing United into the ridiculous position of going one position at a time each summer. Last year was all about the attack and the recent window was about central midfield, even though the options at full-back do not look ",
+      "title": "ハエンは、彼のことを心配しなければなりませんバーンリー未来だがファンの恐怖は存在感",
+      "summary": "ダービーのストップページタイムイコライザーの葉バーンリー過去10 月以降、家で勝らず、金融問題が実装されている 最高の瞬間バーンリーキックオフ前の大きな画面に「歴史」が映し出されました Turf Moor、解説の有名なラインによって伴われる。最終的なもの、瞬間の昇進は下に密封されましたスコット・パーカー2025 年4 月、サウンドトラック「:」バーンリー久しぶりに戻ってきます。ここまでずっと前に感じます。プレミアリーグ遠隔展望。バーンリーアプリケーション",
+      "title_original": "Hayen must worry about his Burnley future but fans’ fears are existential",
+      "summary_original": "Derby’s stoppage-time equaliser leaves Burnley winless at home since last October and financial problems are mounting The greatest moments of Burnley’s history were beamed on to a big screen before kick-off at Turf Moor, accompanied by famous lines of commentary. The final one, the moment promotion was sealed under Scott Parker in April 2025, was soundtracked by: “Burnley are back in the big time.” That feels a long time ago now, with a return to the Premier League a remote prospect. Burnley app",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/manchester-uniteds-engine-room-runs-out-of-puff-as-fans-begin-to-voice-frustration",
-      "published": "Sun, 20 Sep 2026 19:14:28 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/20/nicky-hayen-burnley-fans-fears-existential-championship",
+      "published": "Sun, 20 Sep 2026 07:00:09 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3929,9 +3929,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イギリスのスクワッドから撤退",
+      "title": "ヤパーは、ギブス・ホワイト・リターンと乗ったイングランドから撤退",
       "summary": "コール・パーマー筋肉の怪我のため、イングランドのスクワットから撤退しています。",
-      "title_original": "Palmer withdrawing from England squad",
+      "title_original": "Palmer to withdraw from England squad with Gibbs-White returning",
       "summary_original": "Cole Palmer is withdrawing from the England squad because of a muscle injury.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590334/england-latest-cole-palmer-withdraws-from-thomas-tuchels-squad-ahead-of-long-international-break",
