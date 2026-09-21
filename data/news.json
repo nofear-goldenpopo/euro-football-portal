@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-21T04:53:41.596875+00:00",
+  "updated_at": "2026-09-21T05:06:42.186070+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Former England": "",
-    "Sir David Beckham": "デビッド・ベッカム",
     "Honest Ahanor": "",
     "Taylor Harwood-Bellis": "",
     "Lyon's Malick Fofana": "",
@@ -3001,7 +2999,9 @@
     "Matheus Cunha": "",
     "Sunday. The": "",
     "Sunderland Enzo Maresca": "",
-    "Saturday. Maresca": ""
+    "Saturday. Maresca": "",
+    "Former Formula": "",
+    "Johnny Fisher’s": ""
   },
   "items": [
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ロスベルク:アントネリ対彼の心は F1 を決めます優勝争い",
+      "summary": "Former Formula1 世界チャンピオンニコ・ロズベルグ信じる Kimi Antonelli's 今シーズンの最大の障害は自分自身になります優勝争いランイン。",
+      "title_original": "Rosberg: Antonelli vs his mind will decide F1 title race",
+      "summary_original": "Former Formula 1 world champion Nico Rosberg believes Kimi Antonelli's biggest obstacle will be himself in this season's title race run-in.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13589366/kimi-antonelli-versus-his-mind-will-decide-2026-formula-1-title-race-says-nico-rosberg-ahead-of-azerbaijan-grand-prix",
+      "published": "Mon, 21 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Middlesex ビート Leicestershire へ 終了 36 年 リスト A trophy 待つ",
       "summary": "Middlesex は 36 年のリストを終わらせました 食べることによって干ばつ Leicestershire Foxes31 で勝つために実行 Metro Bank One Day 低スコアリング決勝でのカップ Trent Bridge.",
       "title_original": "Middlesex beat Leicestershire to end 36-year List A trophy wait",
@@ -3866,6 +3880,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13590270/world-series-of-darts-finals-ross-smith-thrashes-gerwyn-price-in-final-after-luke-littlers-dream-of-clean-sweep-ends",
       "published": "Sun, 20 Sep 2026 21:17:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "フィッシャー対ピロトン:「黄金のチケット」の戦いのために知っておく必要があるもの",
+      "summary": "事前に知っておくべきこと Johnny Fisher’s ヘビー級クラッシュと Michael Pirotton ロンドンはスカイスポーツに住んでいます。",
+      "title_original": "Fisher vs Pirotton: What you need to know for 'golden ticket' fight",
+      "summary_original": "All you need to know ahead of Johnny Fisher’s heavyweight clash with Michael Pirotton in London live on Sky Sports .",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13589385/johnny-fisher-vs-michael-pirotton-fight-time-ringwalks-undercard-and-how-to-watch-or-stream-live-on-sky-sports",
+      "published": "Mon, 21 Sep 2026 06:00:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4093,34 +4121,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ヨーロピアンツアープレーヤーの安全上の懸念にもかかわらず、UAE でプレイオフを維持する計画",
-      "summary": "ヨーロピアンツアー執行役員 Guy Kinnings 季節限定のプレイオフを保ちつつ計画が確認されています中東, 地域における継続的な競合にもかかわらず.",
-      "title_original": "DP World Tour plans to keep Play-Offs in UAE despite player safety concerns",
-      "summary_original": "DP World Tour chief executive Guy Kinnings has confirmed that the plan is to keep the season-ending Play-Offs in the Middle East, despite ongoing conflict in the region.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13590011/dp-world-tour-chief-executive-guy-kinnings-confirms-plan-to-stage-playoffs-in-middle-east-despite-player-safety-concerns",
-      "published": "Sun, 20 Sep 2026 14:20:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ふりがなモウリーニョマドリードのダービーの敗北の後の ref 'errors' の映像を保持します",
-      "summary": "ジョゼ・モウリーニョポストマッチのニュース会議でメディアに2 つのタックルの写真を撮ったレアル・マドリードの 2-1 ラ・リーガ敗北へアトレティコ・マドリード.",
-      "title_original": "Furious Mourinho holds up pictures of ref 'errors' after Madrid derby defeat",
-      "summary_original": "Jose Mourinho held up pictures of two tackles to the media in his post-match news conference after Real Madrid's 2-1 La Liga defeat to Atletico Madrid.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590219/jose-mourinho-real-madrid-boss-holds-up-pictures-of-referee-errors-in-press-conference-after-defeat-to-atletico-madrid",
-      "published": "Sun, 20 Sep 2026 18:54:00 BST",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
       "featured": true,
       "translation_version": "football-ja-v8"
     }
