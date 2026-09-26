@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-09-25T23:26:16.246273+00:00",
+  "updated_at": "2026-09-26T01:47:19.410351+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Alireza Faghani": "",
-    "Estadio Azteca": "",
-    "Blues. Continue": "",
-    "Flying Lap": "",
-    "Ruiz Jr": "",
-    "Andy Ruiz Jr": "",
     "Damian Knyba": "",
     "Superstar-led London City": "",
     "Tom Garry": "",
@@ -3001,7 +2995,13 @@
     "Nick Taylor": "",
     "Team USA's": "",
     "Late DRAMA": "",
-    "Jake Connor": ""
+    "Jake Connor": "",
+    "LPGA Tour": "全米女子プロゴルフ協会",
+    "Charley Hull": "",
+    "Solheim Cup": "",
+    "LPGA Tour’s Walmart NW": "",
+    "Arkansas Championship": "",
+    "Jon Wilkin": ""
   },
   "items": [
     {
@@ -3971,6 +3971,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ハルポストソルハイムの病気を遮断し、全米女子プロゴルフ協会タイトルミックス",
+      "summary": "シャレーハルオーバーカムポスト-Solheim Cup 病気と早期のリードの2 ショット以内に取得する前方練習の欠如全米女子プロゴルフ協会’ ウォルマート NWArkansas Championship.",
+      "title_original": "Hull shrugs off post-Solheim illness to charge into LPGA Tour title mix",
+      "summary_original": "Charley Hull overcame post-Solheim Cup illness and a lack of pre-tournament practice to get within two shots of the early lead at the LPGA Tour’s Walmart NW Arkansas Championship.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13591897/lpga-tour-englands-charley-hull-overcomes-post-solheim-cup-illness-to-close-on-early-lead-at-nw-arkansas-championship",
+      "published": "Sat, 26 Sep 2026 01:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "How Taylor と conners stunned スケフラー と バーン 時 の Presidents Cup",
       "summary": "ハイライト Scottie Scheffler そして、Sam Burns' 最後の穴のフォーサムは、Corey Conners そして、Nick Taylor 獲得を問い合わせ Presidents Cup.",
       "title_original": "How Taylor and Conners stunned Scheffler and Burns at the Presidents Cup",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13591948/heartbreak-for-jarrod-connor-his-62-yard-penalty-miss-denies-rhinos-a-last-gasp-equaliser",
       "published": "Fri, 25 Sep 2026 22:03:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Grand Final ログイン ワリントンは、対戦相手に対する脈動的なコンテストを通して来ますリーズ",
-      "summary": "ハイライトから Super League セミファイナルクラッシュ間リーズ・ライノズそして、ウォリントン・ウルブズ.",
-      "title_original": "Grand Final bound! Warrington come through pulsating contest against Leeds",
-      "summary_original": "Highlights from the Super League semi-final clash between Leeds Rhinos and Warrington Wolves.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13591957/leeds-rhinos-12-14-warrington-wolves-super-league-semi-final-highlights",
-      "published": "Fri, 25 Sep 2026 22:55:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
