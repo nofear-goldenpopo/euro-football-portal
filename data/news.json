@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-29T00:06:19.122473+00:00",
+  "updated_at": "2026-09-29T05:40:55.933295+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Benjamin Sesko's": "",
-    "Tyrique George": "タイリーク・ジョージ",
-    "Late Maitland-Niles": "",
-    "Hill Dickinson Stadium": "",
     "Railway End": "",
     "Championship. Instead Armstrong": "",
     "Cremonese Plans": "",
@@ -3001,7 +2997,11 @@
     "Billy Gilmour": "",
     "World Cup. Gilmour": "",
     "The Napoli": "",
-    "Luke Woodhouse": ""
+    "Luke Woodhouse": "",
+    "The Czech Republic": "チェコ",
+    "The Monday Night Club": "",
+    "Man City PL": "",
+    "The Fifa": ""
   },
   "items": [
     {
@@ -3044,6 +3044,34 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Man Utd & Arsenal、Porto's Costa - Tuesday's gossip を獲得候補に",
+      "summary": "アーセナルそして、マンチェスター・ユナイテッドログインポルトディフェンダーアルベルト・コスタ (曖昧さ回避), マンチェスター・シティコメントはありませんアーリング・ハーランド彼らが再資源化されていれば安く残します、リヴァプール保持するインテル最新記事レアル・マドリードミッドフィルダーAurelien Tchouameni、プラス多く。",
+      "title_original": "Man Utd & Arsenal eye Porto's Costa - Tuesday's gossip",
+      "summary_original": "Arsenal and Manchester United eye Porto defender Alberto Costa, Manchester City will not let Erling Haaland leave on the cheap if they are relegated, Liverpool retain an interest in Real Madrid midfielder Aurelien Tchouameni, plus more.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked73ppgql3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 21:10:44 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "チェコユーロ '96 の後の 30 年の Wembley の準備",
+      "summary": "チェコのために Wembley に戻る Nations League イングランドとのゲーム, 以上 30 彼らのユーロの後に年 '96 そこの震え.",
+      "title_original": "Czech Republic ready for Wembley 30 years after Euro '96",
+      "summary_original": "The Czech Republic are returning to Wembley for a Nations League game with England, just over 30 years after their Euro '96 heartbreak there.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yeqj0g4ygo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 05:10:25 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3100,20 +3128,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Man Utd & Arsenal、Porto's Costa - Tuesday's gossip を獲得候補に",
-      "summary": "アーセナルそして、マンチェスター・ユナイテッドログインポルトディフェンダーアルベルト・コスタ (曖昧さ回避), マンチェスター・シティコメントはありませんアーリング・ハーランド彼らが再資源化されていれば安く残します、リヴァプール保持するインテル最新記事レアル・マドリードミッドフィルダーAurelien Tchouameni、プラス多く。",
-      "title_original": "Man Utd & Arsenal eye Porto's Costa - Tuesday's gossip",
-      "summary_original": "Arsenal and Manchester United eye Porto defender Alberto Costa, Manchester City will not let Erling Haaland leave on the cheap if they are relegated, Liverpool retain an interest in Real Madrid midfielder Aurelien Tchouameni, plus more.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cked73ppgql3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 21:10:44 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3187,6 +3201,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Football Daily",
+      "summary": "The Monday Night Club 進行中のフォールアウトを見るマンチェスター・シティ PL の料金の評決",
+      "title_original": "Football Daily",
+      "summary_original": "The Monday Night Club look at the ongoing fallout from the Man City PL charges verdict",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pcyk1h?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 23:22:00 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ライバルのドレッドロックを引っ張るため2 人の選手がオフに送られました",
+      "summary": "アンギラプレーヤーを引っ張るためのアンティグアとバーブーダの選手は赤字で覆われています Aedan Scipio's ドレッドロック Concacaf Nations League ゲーム。",
+      "title_original": "Two players sent off for pulling rival's dreadlocks",
+      "summary_original": "Antigua and Barbuda players are red-carded for pulling Anguilla player Aedan Scipio's dreadlocks in a Concacaf Nations League game.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm70lpkjplyyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 10:21:43 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Preston appoint Bradford ボス アレクサンダー",
       "summary": "プレストン・ノースエンド FC アプポイントブラッドフォード・シティ AFC ログイン Graham Alexander 新しいマネージャーとして。",
       "title_original": "Preston appoint Bradford boss Alexander",
@@ -3208,34 +3250,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6vgy934nvq4o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 28 Sep 2026 12:08:16 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "BBC Women's Football Weekly",
-      "summary": "獲得を問い合わせチェルシー最大の脅威として、マンチェスター・シティタイトル防衛?",
-      "title_original": "BBC Women's Football Weekly",
-      "summary_original": "Have Chelsea shown themselves as the biggest threat to Manchester City’s title defence?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pcwtmc?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 15:04:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ライバルのドレッドロックを引っ張るため2 人の選手がオフに送られました",
-      "summary": "アンギラプレーヤーを引っ張るためのアンティグアとバーブーダの選手は赤字で覆われています Aedan Scipio's ドレッドロック Concacaf Nations League ゲーム。",
-      "title_original": "Two players sent off for pulling rival's dreadlocks",
-      "summary_original": "Antigua and Barbuda players are red-carded for pulling Anguilla player Aedan Scipio's dreadlocks in a Concacaf Nations League game.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm70lpkjplyyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 10:21:43 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3285,30 +3299,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "チェルシーレジリエンスを回復 - 彼らは再びタイトルコンテンダーですか?",
-      "summary": "Doubt crept で で で でチェルシー彼らが失われたとき、最後のシーズン Women's Super League 王冠 - しかし、このキャンペーンで初期の兆候は、彼らが別の挑戦のために彼らの火花を取り戻したことを示唆しています。",
-      "title_original": "Chelsea restore resilience - are they title contenders again?",
-      "summary_original": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
+      "title": "BBC Women's Football Weekly",
+      "summary": "獲得を問い合わせチェルシー最大の脅威として、マンチェスター・シティタイトル防衛?",
+      "title_original": "BBC Women's Football Weekly",
+      "summary_original": "Have Chelsea shown themselves as the biggest threat to Manchester City’s title defence?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 19:46:44 GMT",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pcwtmc?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 15:04:00 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Fernandes、Gakpo&Dorgu 参加インテル国民のブレイクの傷害のリスト",
-      "summary": "ブルーノ・フェルナンデス, コーディ・ガクポそして、Patrick Dorgu すべての参加インテル国民の休憩の高プロファイルの怪我リストは、関与を治療している問題に苦しんでいる後 Nations League マッチ。",
-      "title_original": "Fernandes, Gakpo & Dorgu join international break's injury list",
-      "summary_original": "Bruno Fernandes, Cody Gakpo and Patrick Dorgu all join the international break's high-profile injury list after suffering issues that have curtailed their involvement in Nations League matches.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qxknzpn8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 19:05:33 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3383,17 +3383,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "毎日のクイズでサッカーの脳を柔軟に",
-      "summary": "今日のボール知識を試す Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Flex your football brain with our daily quizzes",
-      "summary_original": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "title": "チェルシーレジリエンスを回復 - 彼らは再びタイトルコンテンダーですか?",
+      "summary": "Doubt crept で で で でチェルシー彼らが失われたとき、最後のシーズン Women's Super League 王冠 - しかし、このキャンペーンで初期の兆候は、彼らが別の挑戦のために彼らの火花を取り戻したことを示唆しています。",
+      "title_original": "Chelsea restore resilience - are they title contenders again?",
+      "summary_original": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm36ly6e94x8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 06:06:48 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 19:46:44 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "なぜあなたは怪我の地獄後に漁業を望んでいる - 「私は更新した足でイタマを買った!」",
+      "summary": "ディリアン・ホワイト (ボクサー)彼が苦しんでいる、彼の最後の戦いの直前の数週間前に、アゴナイジングの怪我を説明しながら、悲しい説明を提供 Moses Itauma.",
+      "title_original": "Whyte wants Fisher after injury hell - 'I fought Itauma with a broken foot!'",
+      "summary_original": "Dillian Whyte provided a gruesome description while explaining the agonising injury that he suffered, just weeks before his last fight against Moses Itauma.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13592926/dillian-whyte-was-suffering-from-a-broken-foot-in-moses-itauma-defeat-but-wants-to-return-in-british-battle-with-johnny-fisher",
+      "published": "Tue, 29 Sep 2026 06:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "衝撃の最初円形の出口のより少しワールドグランプリとして Van Gerwen ビートン",
       "summary": "防衛王者 Luke Littler 衝撃の第1 ラウンド出口に苦しむワールドグランプリ2-1 を失ったように Luke Woodhouse ロイスターでは、6 回優勝のマイケル・ヴァン・ゲルウェンが排除されたのと同じ夜に。",
       "title_original": "Littler in shock first-round exit at World Grand Prix as Van Gerwen also beaten",
@@ -4108,20 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Swansea の速い開始のマトスおよび Klopp と働かせて下さいリヴァプール",
-      "summary": "獲得を問い合わせスウォンジー・シティ AFC8 試合後、チャンピオンシップのトップに座っています。季節が始まると予想されるものではない。",
-      "title_original": "Matos on Swansea's fast start and working with Klopp at Liverpool",
-      "summary_original": "It is Swansea City who sit top of the Championship after eight games. Not something many would have expected at the start of the season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13591791/vitor-matos-interview-swansea-city-boss-on-their-fast-start-and-working-under-jurgen-klopp-at-liverpool",
-      "published": "Mon, 28 Sep 2026 10:00:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
