@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-10-01T23:11:40.331723+00:00",
+  "updated_at": "2026-10-02T02:14:14.687542+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "James Rodriguez": "ハメス・ロドリゲス",
-    "UK. Mikel Arteta": "",
-    "Joe Willock's": "",
     "Will Arteta": "",
     "Preston Captain Jarrod Bowen": "",
     "The England": "",
@@ -3001,13 +2998,30 @@
     "Veteran James Wade": "",
     "Bunny Shaw": "",
     "Troy Parrott": "",
-    "Aviva Stadium": "アビバ・スタジアム"
+    "Aviva Stadium": "アビバ・スタジアム",
+    "Key Scotland": "",
+    "Andy Burnham’s Manchester City": "",
+    "Andy Burnham’s": ""
   },
   "items": [
     {
-      "title": "HMRC は、税金の含意を崩すよう求めたマンチェスター・シティケースケース",
-      "summary": "The Treasury CommitteeHMRC を監督する責任である , 体を失調させるための HMRC を監督する責任があります。マンチェスター・シティ依存症。",
-      "title_original": "HMRC urged to scrutinise tax implications of Man City case",
+      "title": "Bellamy はウェールズの「棒」がノルウェーの勝利の上昇の気分として傷つけると言う",
+      "summary": "ヘッドコーチクレイグ・ベラミーウェールズの無勝利の実行中に彼の方向を狙った批判のために、彼は「本当に難しい」呪文を通過したと言う.",
+      "title_original": "Bellamy says Wales 'stick' hurt as Norway win lifts mood",
+      "summary_original": "Head coach Craig Bellamy says he has been through a \"really difficult\" spell because of criticism aimed in his direction during Wales' winless run.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxzx1d484zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 22:56:09 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・シティ訴求計画は、HMRC が症例の発見を調べるよう求めたように出現する",
+      "summary": "The Treasury CommitteeHMRC を監督する責任である , 体を調べて、税金の含意を失いますマンチェスター・シティ依存症。",
+      "title_original": "Man City appeal plan emerges as HMRC urged to examine case findings",
       "summary_original": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
@@ -3025,7 +3039,7 @@
       "summary_original": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 17:26:40 GMT",
+      "published": "Fri, 02 Oct 2026 00:50:49 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3044,20 +3058,6 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "最高の英国のサッカー輸出を今世紀にランキング",
-      "summary": "詳しくはこちらデビッド・ベッカムそして、ガレス・ベイル獲得を問い合わせジュード・ベリンガムそして、ハリー・ケイン英国で最高の輸出は今世紀ですか?",
-      "title_original": "Ranking the best British football exports this century",
-      "summary_original": "From David Beckham and Gareth Bale to Jude Bellingham and Harry Kane, who are the best British exports this century?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2zejdk5x0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 09:04:58 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3103,6 +3103,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "最高の英国のサッカー輸出を今世紀にランキング",
+      "summary": "詳しくはこちらデビッド・ベッカムそして、ガレス・ベイル獲得を問い合わせジュード・ベリンガムそして、ハリー・ケイン英国で最高の輸出は今世紀ですか?",
+      "title_original": "Ranking the best British football exports this century",
+      "summary_original": "From David Beckham and Gareth Bale to Jude Bellingham and Harry Kane, who are the best British exports this century?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2zejdk5x0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 09:04:58 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "メニューマンチェスター・シティこの季節は、他のクラブチーフと言います",
       "summary": "マンチェスター・シティ「侵害に対する罰」プレミアリーグルールは、このシーズンの終わり前に手渡されなければなりません, 上級サッカーフィギュアは、BBC スポーツを教えます.",
       "title_original": "Punish Man City this season, say other club chiefs",
@@ -3118,9 +3132,9 @@
     },
     {
       "title": "Why Burnham's ターンについてマンチェスター・シティ獲得を問い合わせ",
-      "summary": "主なミニスターのコメントマンチェスター・シティいくつかのレベルで明らかにされた - サッカーで多くの人に leapt.",
+      "summary": "首相のコメントマンチェスター・シティ BBC の政治編集者は、いくつかのレベルで明らかにされ、サッカーで多くの人に適応しました。",
       "title_original": "Why Burnham's about-turn on Manchester City matters",
-      "summary_original": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football.",
+      "summary_original": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 22:22:43 GMT",
@@ -3131,9 +3145,23 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Start Gannon-Doak そしてボウイ、マッジンではなく? Pocognoli の重要な質問",
+      "title": "著者についてスティーヴン・キング助けは保ちます Highland League サイド 行く",
+      "summary": "Buckie Thistle 有名なホラー作家に感謝スティーヴン・キング未来のクラブの確保を目指した募金キャンペーンに「ファンタスティック」を寄付しました。",
+      "title_original": "How author Stephen King is helping keep Highland League side going",
+      "summary_original": "Buckie Thistle thank famous horror writer Stephen King for his \"fantastic\" donation towards a fundraising campaign aimed at securing the future of the club.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw804037yy9eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 14:21:25 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Start Gannon-Doak そしてボウイ、マッジンではなく?Key Scotland 獲得を問い合わせ",
       "summary": "スコットランドのヘッドコーチセバスチャン・ポコニョーリ彼が彼の最初の勝利を検索するように決定を持っている North Macedonia 土曜日に。",
-      "title_original": "Start Gannon-Doak and Bowie, but not McGinn? Key questions for Pocognoli",
+      "title_original": "Start Gannon-Doak and Bowie, but not McGinn? Key Scotland questions",
       "summary_original": "Scotland head coach Sebastien Pocognoli has decisions to make as he searches for his first win in North Macedonia on Saturday.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6x2ze5zm93go?at_medium=RSS&at_campaign=rss",
@@ -3159,34 +3187,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Ivan Toneydenies Soho ナイトクラブアサルト",
-      "summary": "イングランドストライカーIvan Toney 去年、ソホナイトクラブで男を攻撃する義務はありません。",
-      "title_original": "Ivan Toney denies Soho nightclub assault",
-      "summary_original": "England striker Ivan Toney pleads not guilty to assaulting a man at a Soho nightclub last year.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/crkgwglz4dd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 09:44:09 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "なぜウィリアムソンハンドボールのペナルティが正しいコールだったのか",
-      "summary": "アーセナルディフェンダーLeah Williamson 女性の事件の心にいたチャンピオンズリーグドローイング Paris FC.",
-      "title_original": "Why penalty for Williamson handball was correct call",
-      "summary_original": "Arsenal defender Leah Williamson was at the heart of a bizarre incident in their Women's Champions League draw with Paris FC.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw07l7pk2gp4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:29:54 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "なぜ1 人のアイリッシュチームが直面するように設定されているのか Salah's Trabzonspor",
       "summary": "Drogheda United40,000 席のトラブゾンポルに面するトルコに旅行します Papara Park2 つのクラブ間の特別な関係の一部として。",
       "title_original": "Why one Irish team is set to face Salah's Trabzonspor",
@@ -3201,13 +3201,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "著者についてスティーヴン・キング助けは保ちます Highland League サイド 行く",
-      "summary": "Buckie Thistle 有名なホラー作家に感謝スティーヴン・キング未来のクラブの確保を目指した募金キャンペーンに「ファンタスティック」を寄付しました。",
-      "title_original": "How author Stephen King is helping keep Highland League side going",
-      "summary_original": "Buckie Thistle thank famous horror writer Stephen King for his \"fantastic\" donation towards a fundraising campaign aimed at securing the future of the club.",
+      "title": "Ivan Toneydenies Soho ナイトクラブアサルト",
+      "summary": "イングランドストライカーIvan Toney 去年、ソホナイトクラブで男を攻撃する義務はありません。",
+      "title_original": "Ivan Toney denies Soho nightclub assault",
+      "summary_original": "England striker Ivan Toney pleads not guilty to assaulting a man at a Soho nightclub last year.",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw804037yy9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 14:21:25 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/crkgwglz4dd5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 09:44:09 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3226,6 +3226,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "なぜウィリアムソンハンドボールのペナルティが正しいコールだったのか",
+      "summary": "アーセナルディフェンダーLeah Williamson 女性の事件の心にいたチャンピオンズリーグドローイング Paris FC.",
+      "title_original": "Why penalty for Williamson handball was correct call",
+      "summary_original": "Arsenal defender Leah Williamson was at the heart of a bizarre incident in their Women's Champions League draw with Paris FC.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw07l7pk2gp4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 11:29:54 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3254,20 +3268,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Infantino はサッカーの将来に場所を持っていない - Pinto",
-      "summary": "に導いた文書を解放したコンピュータハッカープレミアリーグ調査へのマンチェスター・シティコメント Gianni Infantino「ゲームの未来に場所がない」",
-      "title_original": "Infantino should have no place in future of football - Pinto",
-      "summary_original": "The computer hacker who released documents which led to the Premier League investigation into Manchester City says Gianni Infantino \"should have no place in the future of the game\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0rekrpxnl1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 19:47:40 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3334,6 +3334,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm1j46n74ke6o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 29 Sep 2026 18:09:34 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Infantino はサッカーの将来に場所を持っていない - Pinto",
+      "summary": "に導いた文書を解放したコンピュータハッカープレミアリーグ調査へのマンチェスター・シティコメント Gianni Infantino「ゲームの未来に場所がない」",
+      "title_original": "Infantino should have no place in future of football - Pinto",
+      "summary_original": "The computer hacker who released documents which led to the Premier League investigation into Manchester City says Gianni Infantino \"should have no place in the future of the game\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0rekrpxnl1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 19:47:40 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3411,17 +3425,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ロバートソンが100 のスコットランドのキャップを打つように設定 - しかし、誰がトップ10 を作る?",
-      "summary": "私たちは、あなたが名前をしたいです 10 いつもの最もキャプテンのスコットランドの男性の選手, 現在のキャプテンと Andy Robertson 第100 回全国チーム出演に対抗 North Macedonia 土曜日に。",
-      "title_original": "Robertson set to hit 100 Scotland caps - but who else makes top 10?",
-      "summary_original": "We want you to name the 10 most capped Scotland men's players of all time, with current captain Andy Robertson set to make his 100th national team appearance against North Macedonia on Saturday.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck3reg92815ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 07:35:10 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "title": "アンディ・バーンハムのマンチェスター・シティコメントは、新鮮な緊張をかき混ぜるプレミアリーグ",
+      "summary": "政府は、警告の欠如で不満であると述べた 財務委員会議長は、都市の場合に関与する HMRC を望んでいます Andy Burnham’s インテル換気のマンチェスター・シティ議論は、間の緊張を回復しましたプレミアリーグそして第一主義。政府の公式は、彼らが独立委員会の財政操作の9億ポンド と「シャム契約」の判断を損なうという通知を与えられていない不満であるべきではありませんでした。",
+      "title_original": "Andy Burnham’s Manchester City comments stir fresh tensions with Premier League",
+      "summary_original": "Government said to be unhappy at lack of warning Treasury committee chair wants HMRC involved in City case Andy Burnham’s intervention in the Manchester City debate has revived tensions between the Premier League and the prime minister. Government officials are ­understood to be unhappy they were not given notice that the ­independent commission’s damning judgment of £900m of financial manipulation and “sham contracts” would be published shortly after Burnham’s address at the Labour party ­confe",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league",
+      "published": "Thu, 01 Oct 2026 18:10:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3453,20 +3467,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Pro-Palestine プロテスインテルアイルランドとして rupt ゲームは、オーストリアに対するドローで2-0 リードを渡す",
-      "summary": "ダブリンで2 回前にハレーションされたイベントを検証リパブリックアイルランドは、オーストリアの後半に戻ってきた後、2-2 のドローのために解決を余儀なくされた Nations League 出会いの場アビバ・スタジアム。重要なセキュリティプレゼンスにもかかわらず、コンテストは2 回でしたインテル開口部に rupted 45 分, 最初にキャンペーングループがゲームを停止する理由 “限定されたテニスボールのプロテスト”, 時 – 約 20 分 – t を特色にステッカーで包まれたテニスボール",
-      "title_original": "Pro-Palestine protests interrupt game as Ireland pass up 2-0 lead in draw against Austria",
-      "summary_original": "Protests halted events in Dublin twice before the Republic of Ireland were forced to settle for a 2-2 draw after Austria came back in the second half of their Nations League encounter at the Aviva Stadium. Despite a significant security presence, the contest was twice interrupted in the opening 45 minutes, first due to what campaign group Stop the Game later referred to in a statement as a “limited tennis ball protest”, when – around the 20th minute – tennis balls wrapped in stickers featuring t",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/01/pro-palestine-protests-interrupt-game-ireland-draw-austria-nations-league",
-      "published": "Thu, 01 Oct 2026 21:59:55 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Shaw は WCL の引くことを防ぎますレアル・マドリードとしてマンチェスター・シティトゥモイルの週後の精神を示す",
       "summary": "Andrée Jeglertz, ,マンチェスター・シティヘッドコーチは、ギルティーの評決を取り巻く騒音は、プレミアリーグ高品質のドローをプレイした後、女性のチームのパフォーマンスへの影響はゼロでしたレアル・マドリード女性のチャンピオンズリーグ. カディジャ ‘Bunny’ Shaw’sruthless フィニッシュ 獲得 都市 点 から の 印象的なレアル・マドリードホストが確実にオンにするための注意を喜んでいた夜に横 - しかし、簡単に - 週後にオンピッチの問題に向かって",
       "title_original": "Shaw secures WCL draw against Real Madrid as Manchester City show spirit after week of turmoil",
@@ -3481,16 +3481,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "刑事または救世主?Rui Pinto ポルトガル当局の後に放棄マンチェスター・シティリーク",
-      "summary": "民間文書の漏れが市への調査を促した人は、家に戻り、家族に連絡したり、混雑した場所を訪問したりしないことをお勧めしています。Rui Pinto セットアップ Football Leaks2015 年に Fifa scandal によってトリガされた残酷なウェブサイト、彼は成長する嵐の真ん中で自分自身を見つけます。第2 次世界大戦に関する余計な現金販売の本を作るために使用した商標の spiky 毛が付いている元の歴史の学生は社会の彼の声明と戻っていません",
-      "title_original": "Criminal or saviour? Rui Pinto abandoned by Portuguese authorities after Manchester City leaks",
-      "summary_original": "Man whose leaks of private documents prompted the investigation into City has been advised not to return home, contact family members or visit crowded places More than a decade after Rui Pinto set up the Football Leaks website in a crusade triggered by the Fifa scandal in 2015, he finds himself in the middle of a growing storm. The former history student with trademark spiky hair who used to make extra cash selling books about the second world war has not held back with his statements on social ",
+      "title": "Pro-Palestine プロテスインテルアイルランドとして rupt ゲームは、オーストリアに対するドローで2-0 リードを渡す",
+      "summary": "ダブリンで2 回前にハレーションされたイベントを検証リパブリックアイルランドは、オーストリアの後半に戻ってきた後、2-2 のドローのために解決を余儀なくされた Nations League 出会いの場アビバ・スタジアム。重要なセキュリティプレゼンスにもかかわらず、コンテストは2 回でしたインテル開口部に rupted 45 分, 最初にキャンペーングループがゲームを停止する理由 “限定されたテニスボールのプロテスト”, 時 – 約 20 分 – t を特色にステッカーで包まれたテニスボール",
+      "title_original": "Pro-Palestine protests interrupt game as Ireland pass up 2-0 lead in draw against Austria",
+      "summary_original": "Protests halted events in Dublin twice before the Republic of Ireland were forced to settle for a 2-2 draw after Austria came back in the second half of their Nations League encounter at the Aviva Stadium. Despite a significant security presence, the contest was twice interrupted in the opening 45 minutes, first due to what campaign group Stop the Game later referred to in a statement as a “limited tennis ball protest”, when – around the 20th minute – tennis balls wrapped in stickers featuring t",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/01/fears-manchester-city-whistleblower-rui-pinto-loses-protected-witness-status",
-      "published": "Thu, 01 Oct 2026 18:40:17 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/oct/01/pro-palestine-protests-interrupt-game-ireland-draw-austria-nations-league",
+      "published": "Thu, 01 Oct 2026 21:59:55 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3677,20 +3677,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ウェールズは、都市の要因としてノルウェーを爆破したハーランド",
-      "summary": "ベラミー:デンマークの敗北で認められなかったハーランド後に「正確に同じ」マンチェスター・シティベディクトクレイグ・ベラミーウェールズは、デンマークに対する彼らの敗北で認識できないと表示した後、木曜日にノルウェーに対して改善しなければならないと述べています。World Cup 才能の証明として四半期ファイナル。ウェールズのホスト ノルウェーのカーディフは、昨年11 月から最初の勝利を記録し、プロモーションから最初の勝利を記録しようとしています Nations LeagueA. 「このチームはオオオでした」",
-      "title_original": "Wales wary of surging Norway as City factor played down for Haaland",
-      "summary_original": "Bellamy: we were unrecognisable in defeat by Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appearing unrecognisable in their defeat against Denmark , and highlighted their next opponents’ run to the World Cup quarter-finals as proof of their talent. Wales host Norway in Cardiff hoping to record their first win since last November and their first since promotion to Nations League A. “This team has been o",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/30/craig-bellamy-wales-norway-nations-league-erling-haaland-manchester-city",
-      "published": "Wed, 30 Sep 2026 17:11:37 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ライバルクラブはリレギンスを感じますマンチェスター・シティチャンピオンシップは十分ではない",
       "summary": "プレミアリーグ重度の罰都市の役員は、彼らが「非難の罪」である維持します ザ・オブ・ザ・プレミアリーグから圧力に直面しますマンチェスター・シティ’ ライバルは、クラブがファイナンシャルルールブレイクの100 以上の料金の請求を見つけた後、トップフライトから長期欠如する制裁のためにプッシュする. 多数の役員プレミアリーグクラブは、都市を単一のシーソのために選手権に委任するポイントの控除がガーディアンに語った",
       "title_original": "Rival clubs feel relegating Manchester City to Championship would not be enough",
@@ -3705,13 +3691,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・シティファンは怒っている感じがする権利 – 今、彼らは所有者にそれを指示する必要があります |Will Unwin",
-      "summary": "成功事例 Abu Dhabi 政権は支持者を誇りに思っていますが、彼らは本当に新しい custodians の下に戻ってそれらの感情を手に入れることができます 百数千の言葉の中で書かれ、話マンチェスター・シティ重大な違反の罪を犯しているプレミアリーグルール, 多分 Roberto Mancini’s 彼が発表したとき、最も気付かったのは「私の懸念ではありません」でした。なぜですか? 「シャム・コントラクト」の1 つから数百万件を調達し、成功を楽しんだが、クラブの始まりと終わりへの彼の関係",
-      "title_original": "Manchester City fans are right to feel angry – now they need to direct it at the owners | Will Unwin",
-      "summary_original": "Success under the Abu Dhabi regime made supporters feel proud, but they can only really get those feelings back under new custodians Amid the hundreds of thousands of words written and spoken about Manchester City being found guilty of serious breaches of Premier League rules, maybe Roberto Mancini’s were the most poignant when he announced it was “not my concern” . Why would it be? He made millions from one of the “sham contracts” and enjoyed his success but his ties to the club started and end",
+      "title": "ウェールズは、都市の要因としてノルウェーを爆破したハーランド",
+      "summary": "ベラミー:デンマークの敗北で認められなかったハーランド後に「正確に同じ」マンチェスター・シティベディクトクレイグ・ベラミーウェールズは、デンマークに対する彼らの敗北で認識できないと表示した後、木曜日にノルウェーに対して改善しなければならないと述べています。World Cup 才能の証明として四半期ファイナル。ウェールズのホスト ノルウェーのカーディフは、昨年11 月から最初の勝利を記録し、プロモーションから最初の勝利を記録しようとしています Nations LeagueA. 「このチームはオオオでした」",
+      "title_original": "Wales wary of surging Norway as City factor played down for Haaland",
+      "summary_original": "Bellamy: we were unrecognisable in defeat by Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appearing unrecognisable in their defeat against Denmark , and highlighted their next opponents’ run to the World Cup quarter-finals as proof of their talent. Wales host Norway in Cardiff hoping to record their first win since last November and their first since promotion to Nations League A. “This team has been o",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/01/manchester-city-premier-league-financial-rule-breaches-fans-anger-owners",
-      "published": "Thu, 01 Oct 2026 14:04:07 GMT",
+      "url": "https://www.theguardian.com/football/2026/sep/30/craig-bellamy-wales-norway-nations-league-erling-haaland-manchester-city",
+      "published": "Wed, 30 Sep 2026 17:11:37 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "刑事または救世主?Rui Pinto ポルトガル当局の後に放棄マンチェスター・シティリーク",
+      "summary": "民間文書の漏れが市への調査を促した人は、家に戻り、家族に連絡したり、混雑した場所を訪問したりしないことをお勧めしています。Rui Pinto セットアップ Football Leaks2015 年に Fifa scandal によってトリガされた残酷なウェブサイト、彼は成長する嵐の真ん中で自分自身を見つけます。第2 次世界大戦に関する余計な現金販売の本を作るために使用した商標の spiky 毛が付いている元の歴史の学生は社会の彼の声明と戻っていません",
+      "title_original": "Criminal or saviour? Rui Pinto abandoned by Portuguese authorities after Manchester City leaks",
+      "summary_original": "Man whose leaks of private documents prompted the investigation into City has been advised not to return home, contact family members or visit crowded places More than a decade after Rui Pinto set up the Football Leaks website in a crusade triggered by the Fifa scandal in 2015, he finds himself in the middle of a growing storm. The former history student with trademark spiky hair who used to make extra cash selling books about the second world war has not held back with his statements on social ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/01/fears-manchester-city-whistleblower-rui-pinto-loses-protected-witness-status",
+      "published": "Thu, 01 Oct 2026 18:40:17 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3729,6 +3729,20 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マンチェスター・シティファンは怒っている感じがする権利 – 今、彼らは所有者にそれを指示する必要があります |Will Unwin",
+      "summary": "成功事例 Abu Dhabi 政権は支持者を誇りに思っていますが、彼らは本当に新しい custodians の下に戻ってそれらの感情を手に入れることができます 百数千の言葉の中で書かれ、話マンチェスター・シティ重大な違反の罪を犯しているプレミアリーグルール, 多分 Roberto Mancini’s 彼が発表したとき、最も気付かったのは「私の懸念ではありません」でした。なぜですか? 「シャム・コントラクト」の1 つから数百万件を調達し、成功を楽しんだが、クラブの始まりと終わりへの彼の関係",
+      "title_original": "Manchester City fans are right to feel angry – now they need to direct it at the owners | Will Unwin",
+      "summary_original": "Success under the Abu Dhabi regime made supporters feel proud, but they can only really get those feelings back under new custodians Amid the hundreds of thousands of words written and spoken about Manchester City being found guilty of serious breaches of Premier League rules, maybe Roberto Mancini’s were the most poignant when he announced it was “not my concern” . Why would it be? He made millions from one of the “sham contracts” and enjoyed his success but his ties to the club started and end",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/01/manchester-city-premier-league-financial-rule-breaches-fans-anger-owners",
+      "published": "Thu, 01 Oct 2026 14:04:07 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3758,20 +3772,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "資金調達と不正な証人:重要な発見マンチェスター・シティケースケース",
-      "summary": "アフタープレミアリーグ独立したコミッションの「コア決定」を公開し、主な要素をピックアップ 独立した手数料の「コア決定」は、最悪のことを確認するために表示される40 ページ文書ですインテルプレテーションのマンチェスター・シティ'行動。クラブが侵害のすべての料金の罪を犯していたことを見つけることに中央プレミアリーグの金融ルールは、都市の有利なスポンサーシップアレンジが「シャム」だったという結論です。続きを読む...",
-      "title_original": "Disguised funding and dishonest witnesses: key findings in Manchester City case",
-      "summary_original": "After the Premier League published the ‘core decision’ of its independent commission, we pick out the main elements The independent commission’s “core decision” is a 40-page document which appears to confirm the worst interpretation of Manchester City’s behaviour. Central to the finding that the club were guilty of all charges of breaching the Premier League’s financial rules is the conclusion that City’s lucrative sponsorship arrangements were “shams” . Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/29/disguised-funding-and-dishonest-witnesses-key-findings-in-manchester-city-case-premier-league",
-      "published": "Tue, 29 Sep 2026 21:02:02 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3856,20 +3856,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ウェールズのプライドは、価格の戦いクレイトンとしてつかみますワールドグランプリ",
-      "summary": "ウェルシュ・ブラッギングの権利と場所ワールドグランプリ準決勝はいつつかむために上がります Gerwyn Price そして、Jonny Clayton 金曜日の夜にレスターで会います。",
-      "title_original": "Pride of Wales up for grabs as Price battles Clayton at World Grand Prix",
-      "summary_original": "Welsh bragging rights and a place in the World Grand Prix semi-finals will be up for grabs when Gerwyn Price and Jonny Clayton meet in Leicester on Friday night.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13594103/world-grand-prix-darts-gerwyn-price-faces-jonny-clayton-in-all-welsh-quarter-final-as-luke-humphries-meets-surprise-package-niels-zonneveld",
-      "published": "Thu, 01 Oct 2026 06:30:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4122,6 +4108,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "詳細情報マンチェスター・シティ「アピール戦略」が明らかに",
+      "summary": "マンチェスター・シティ彼らの主張するプレミアリーグ2009 年と2018 年のスポンサーシップ移籍のさらなる資金調達が始まりました Abu Dhabi 政府とクラブの所有者ではない。",
+      "title_original": "Details of Man City's appeal strategy revealed",
+      "summary_original": "Manchester City will argue in their Premier League appeal that the extra funding for their sponsorship deals between 2009 and 2018 came from the Abu Dhabi government and not the club's owners.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13594069/man-city-charges-how-premier-league-club-plan-to-argue-their-innocence-in-appeal",
+      "published": "Thu, 01 Oct 2026 17:10:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
