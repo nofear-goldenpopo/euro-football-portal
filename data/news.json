@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-10-06T23:30:17.391275+00:00",
+  "updated_at": "2026-10-07T02:37:23.386489+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Seraina Piubel’s": "",
-    "Elene Lete": "",
-    "The Hawthorns. It": "",
     "West Brom’s": "",
     "British Classic": "イギリスクラシック三冠",
     "Saffie Osborne": "",
@@ -3001,7 +2998,10 @@
     "Total Midweek Kane. There": "",
     "King Kane": "",
     "England. But": "",
-    "Tommy Lonergan": ""
+    "Tommy Lonergan": "",
+    "Read Pablo Iglesias Maurer’s": "",
+    "Joseph Hudson": "",
+    "Acme Whistles": ""
   },
   "items": [
     {
@@ -3099,20 +3099,6 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Savage は 4-1 の勝利とペテロボロの連鎖を開始します -EFL トロフィーラウンドアップ",
-      "summary": "Robbie Savage's ピーターボローの充電で最初のゲームは、最後の32 に彼の側面を送信し、快適な勝利です Jersey Mike's Trophy.",
-      "title_original": "Savage starts Peterborough reign with 4-1 win - EFL Trophy round-up",
-      "summary_original": "Robbie Savage's first game in charge of Peterborough is a comfortable win which sends his side into the last 32 of the Jersey Mike's Trophy.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq62y46px53no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 20:55:45 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3425,6 +3411,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "ブラッドフォード・シティ AFCappoint ダフ として 新しい ボス",
+      "summary": "ブラッドフォード・シティ AFCappoint 旧ウィコム・ワンダラーズ FC ログイン Michael Duff 新しいマネージャーとして。",
+      "title_original": "Bradford City appoint Duff as new boss",
+      "summary_original": "Bradford City appoint former Wycombe Wanderers boss Michael Duff as their new manager.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9l7e72v5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 13:01:05 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ハリー・ケインチェコのイギリスのクルーズとしてランドマークの夜を倍増",
       "summary": "そこに所属する夜だったハリー・ケイン・・・もう一つ。戦前のイングランド初のゴールのリプレイを披露した。インテル ITV - 2015 年にリトアニアに対するヘッダ、彼は彼のデビューのために代用として来ただけで79 秒後に見ます。二人の気持ちが良くなっていたことの2 つに映し出しました。Nations League 勝上勝利 Czechia. Some 決して変化しません。ナンバーゲームは残っています。Kane. They より大きく、より印象的です。獲得を問い合わせ",
       "title_original": "Harry Kane doubles up on landmark night as England cruise past Czechia",
@@ -3439,13 +3439,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リオネル・メッシ farewell マッチライブ – アルゼンチン v ベニンからのアップデートと分析",
-      "summary": "Farewell マッチは7pm ET でキックオフメッシサッカーを修了 Email Pablo あなたの分析、ジョークとガーディアンリーダーポールは電子メールを介して到達し、20 歳のコメントセクションで明らかに深いですメッシガーディアンで紹介した記事 ガーディアン読者の「スナフラケ」は、このような恐ろしいテイクから完全に回復したことを願っています:あなたのセルフを子供しないでください。メッシ現在、大まかに過小評価されています。この梯子の量は決して彼の性能に一致しなかった",
-      "title_original": "Lionel Messi farewell match live – updates and analysis from Argentina v Benin",
-      "summary_original": "Farewell match kicks off at 7pm ET Messi has completed football Email Pablo your analysis, jokes and more Guardian reader Paul reached out via email and is apparently deep in the comments section of a 20-year-old Messi article we published here at the Guardian. I can only hope Guardian reader “snafuclarke” has fully recovered from such a scorchingly terrible take: don’t kid yourselves. messi is currently hugely overrated. the amount of hype this lad gets has never matched his performances on the",
+      "title": "リオネル・メッシ入札 アルゼンチン adieu と ゴール と 2 アシスト で 3-0 勝つ ベンイン – 起こった",
+      "summary": "ザ 2022World Cup チャンピオンは、たくさんのポンと状況で大騒ぎの sendoff を与えられました。Read Pablo Iglesias Maurer’s 分単位のレポート。Guardian の読者 Paul は電子メールを介して到達し、20 歳のコメントセクションで明らかに深いですメッシガーディアンで紹介した記事 ガーディアン読者の「スナフラケ」は、そのような恐ろしいテイクから完全に回復したことを願っています:あなたのものを子供にしないでください。メッシ現在、大まかに過小評価されています。hype この lad 取得の量",
+      "title_original": "Lionel Messi bids Argentina adieu with goal and two assists in 3-0 win over Benin – as it happened",
+      "summary_original": "The 2022 World Cup champion was given a raucous sendoff with plenty of pomp and circumstance. Read Pablo Iglesias Maurer’s minute-by-minute report. Guardian reader Paul reached out via email and is apparently deep in the comments section of a 20-year-old Messi article we published here at the Guardian. I can only hope Guardian reader “snafuclarke” has fully recovered from such a scorchingly terrible take: don’t kid yourselves. messi is currently hugely overrated. the amount of hype this lad gets",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/oct/06/lionel-messi-farewell-match-live-updates-analysis-argentina-benin",
-      "published": "Tue, 06 Oct 2026 23:25:15 GMT",
+      "published": "Wed, 07 Oct 2026 01:41:52 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3453,16 +3453,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "USMNT v カナダのライブ - 更新、分析などからインテル国民の友好的",
-      "summary": "ゲーム Allianz Field 獲得を問い合わせパウロ8pm でキックオフ ET Last タイムアウト: 米国は、ローマでメキシコ3〜3〜3〜3 を打つ Email Beau あなたの質問、考え、ジョーク プレゼントクラブや年齢はこちら...Brian Schwake (25, Nashville SC); George Campbell (25, CF Montreal), Auston Trusty (28, セルティック), Alex Freeman (22, ビジャレアル), Chris Richards (26, クリスタル・パレス); Gio Reyna (23, ボルシア・ドルトムント), Brooklyn Raines (21, ヒューストン・ダイナモ FC), Yunus Musah (23, AC ミラン), Malik Tillman (24, PSV アイントホーフェン), Mathis Albert(17, ボラス)",
-      "title_original": "USMNT v Canada live – updates, analysis and more from international friendly",
-      "summary_original": "Game at Allianz Field in Saint Paul kicks off at 8pm ET Last time out: USA beats Mexico 3-0 in romp Email Beau your questions, thoughts and jokes Giving clubs and ages here … Brian Schwake (25, Nashville SC); George Campbell (25, CF Montreal), Auston Trusty (28, Celtic), Alex Freeman (22, Villarreal), Chris Richards (26, Crystal Palace); Gio Reyna (23, Borussia Dortmund), Brooklyn Raines (21, Houston Dynamo), Yunus Musah (23, AC Milan), Malik Tillman (24, PSV Eindhoven), Mathis Albert (17, Borus",
+      "title": "Justin Ellis 米国のキャップを完璧にするのに役立ちますインテルカナダを上回る1-0 の全国窓",
+      "summary": "チップピーと時折醜いフレンドリーノーズレスが与えた Mauricio Pochettino’s 側面4 は4 から勝ち、別の若いプレーヤーは違いを作ります。1878 年以前は、プレイヤーの注目を浴びようとするレフリーが、空気中の白いハンカチーフを呼び起こしました。難易度の高い接触後、ふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわふわ いつまでも変化するゲーム Joseph Hudson、創設される Birmingham によって編まれる用具メーカーAcme WhistlesFA に示される、",
+      "title_original": "Justin Ellis helps US cap a perfect international window with 1-0 win over Canada",
+      "summary_original": "A chippy and at times ugly friendly nonetheless gave Mauricio Pochettino’s side four wins out of four, with another young player making the difference. Before 1878, a referee trying to get players’ attention was left to waive a white handkerchief in the air. It was an imperfect practice, asking an infractor to be self-aware enough to look for a doffed doily after hard contact. The game forever changed when Joseph Hudson, a Birmingham-bred tool maker who founded Acme Whistles, showed up to an FA ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/06/usmnt-v-canada-live-updates-analysis",
-      "published": "Tue, 06 Oct 2026 23:18:16 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/oct/06/usa-canada-report-justin-ellis",
+      "published": "Wed, 07 Oct 2026 02:13:26 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
