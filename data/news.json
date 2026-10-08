@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-10-07T21:35:32.694088+00:00",
+  "updated_at": "2026-10-08T01:20:22.140207+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "BBC Scotland": "",
     "Robin Roefs. Yet": "",
     "Bukayo Saka’s": "",
     "Spine-tingling New Zealand Haka": "",
@@ -3001,20 +3000,21 @@
     "Lewis Hall": "",
     "Jon Rahm": "",
     "Sergio Garcia": "セルヒオ・ガルシア",
-    "Late-night Fury": ""
+    "Late-night Fury": "",
+    "Is Ronaldo's": ""
   },
   "items": [
     {
-      "title": "グアルディオラ最初に出席するために置かれるマンチェスター・シティギルティー評論家以来のホームゲーム",
-      "summary": "ペップ・グアルディオラ参加予定マンチェスター・シティ獲得を問い合わせチャンピオンズリーグネクタイ対パリ・サンジェルマン次の週 - 彼らは115 の料金の大部分の罪を見つけたので、クラブの最初のホームマッチは、彼らがそれらを引き起こしたから、プレミアリーグ.",
-      "title_original": "Guardiola set to attend first Man City home game since guilty verdict",
-      "summary_original": "Pep Guardiola is expected to attend Manchester City's Champions League tie against Paris St-Germain next week - the club's first home match since they were found guilty of the majority of the 115 charges brought against them by the Premier League.",
+      "title": "グアルディオラ出席するセットマンチェスター・シティギルティ・ヴェルディクト以来初の家庭用ゲーム",
+      "summary": "ペップ・グアルディオラマネージングマンチェスター・シティ何十年もの間、夏に去り、評決以来、クラブの所有者を支持してきた。",
+      "title_original": "Guardiola set to attend Man City's first home game since guilty verdict",
+      "summary_original": "Pep Guardiola managed Manchester City for a decade, leaving in the summer, and has backed the club's owners since the verdict.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckrey77jq1n7o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 20:14:24 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3025,7 +3025,7 @@
       "summary_original": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 18:30:21 GMT",
+      "published": "Wed, 07 Oct 2026 22:21:44 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3271,6 +3271,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Euro Leagues: ロナルドのフォールアウトジョルジェ・ジェズス Zidane がマークを作っていますか?",
+      "summary": "Is Ronaldo's 驚きの行動? Zidane のスタートから学んだことは?",
+      "title_original": "Euro Leagues: Ronaldo's fallout with Jorge Jesus & is Zidane making his mark?",
+      "summary_original": "Is Ronaldo's behaviour a surprise? And what've we learnt from Zidane's start?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pfk3y1?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 21:49:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ハネムーン以上 Pocognoli's Scotland 苦しむ家庭の料理",
       "summary": "セバスチャン・ポコニョーリ不活性なスコットランドのパフォーマンスが彼の最初の家庭の勝利のためにまだ検索残っている後に答えるために質問を残しています, 書き込み Tom English.",
       "title_original": "Honeymoon over as Pocognoli's Scotland suffer domestic disharmony",
@@ -3338,20 +3352,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "BBC Women's Football Weekly",
-      "summary": "エレン・ホワイトディフェンダーと座って Esme Morgan 獲得を問い合わせ England's World Cup 修飾子。",
-      "title_original": "BBC Women's Football Weekly",
-      "summary_original": "Ellen White sits down with defender Esme Morgan ahead of England's World Cup qualifiers.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pfh6lh?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 15:53:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3439,30 +3439,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "イングランドは、レベルアップし、EM に準備2 ゴール「計算されたリスク」、Tuchel クレーム",
-      "summary": "ヘッドコーチは「誰もが買った」と新しいアイデアを喜ばせる Jarell Quansah 言う:「私たちは本当にチームを支配することができます」Thomas Tuchel イングランドは、開口部の戦術的な微調整で前進した後、新しいレベルのロックを解除したと信じています Nations League 備品。ヘッドコーチは、特にハイプレスでは、選手が攻撃を維持し、正面の足に一歩足を踏み入れ、カオスを頻繁に見ているように望んでいたプレミアリーグ. しかし、彼はまた、信頼するために、より大きな自由で遊ぶためにそれらを得るためにしようとしました",
-      "title_original": "England ready to level up and embrace ‘calculated risks’, claims Tuchel",
-      "summary_original": "Head coach pleased ‘everyone bought in’ to new ideas Jarell Quansah says: ‘We can really dominate teams’ Thomas Tuchel believes England have unlocked a new level after moving forward with his tactical tweaks in the opening Nations League fixtures. The head coach wanted the players to retain their aggression, especially in the high press, to step on to the front foot and to harness the chaos often seen in the Premier League. But he has also tried to get them to play with greater freedom, to trust",
+      "title": "トゥッチェルの電車に乗るのは? イングランドキャンプは明確な勝者と敗者を持っています",
+      "summary": "蒸し気をつけながら Alex Scott, Lewis Hall そして、Myles Lewis-Skelly 他の人は後ろに残っている可能性が高い Thomas Tuchel’s オリジナリのアイデアは、継続のためにありました。The England マネージャーは、前記者から議事録を作成したい World Cup セミファイナルへの旅の一部であったプレイヤーの大半に立ち向かうと思い北アメリカ夏に。四大戦隊 Nations League ウィンドウと新しい始まりインテル国民の周期はではないです",
+      "title_original": "All aboard the Tuchel train? England camp has clear winners and losers",
+      "summary_original": "While it’s full steam ahead for Alex Scott, Lewis Hall and Myles Lewis-Skelly, others look likely to be left behind Thomas Tuchel’s original idea had been for continuity. The England manager wanted to build on the positives from the World Cup and he was minded to stand by the vast majority of the players who had been a part of the journey to the semi-finals in North America over the summer. His squad for the four-match Nations League window and the beginning of a new international cycle would no",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/07/england-level-up-thomas-tuchel-tactics-jarell-quansah",
-      "published": "Wed, 07 Oct 2026 18:00:03 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「これは始まりです。」誓いミケル・アルテタ獲得後 8000万ポンド-plus アーセナルソリューション",
-      "summary": "4 年連続で Spaniard の将来のタイトルを獲得プレミアリーグ'ベスト・ペイド・マネージャーミケル・アルテタ彼が達成できるものの「これが始まり」を約束しましたアーセナル新長期契約に獲得した後、彼はそれを見ると10 年以上のクラブで彼の統治を取るだろうマネージャー。The Spaniard 四季折々の2000万ポンド 以上の価値のある4 年間の移籍に獲得したことが理解され、彼は最善を払いましたプレミアリーグマネージャー。それは彼の成功 l の認識で高額な支払いです",
-      "title_original": "‘This is only the beginning,’ vows Mikel Arteta after signing £80m-plus Arsenal deal",
-      "summary_original": "Four-year-contract secures Spaniard’s future Title winner is Premier League’s best-paid manager Mikel Arteta has promised “this is only the beginning” of what he can achieve as Arsenal manager after signing a new long-term contract that would take his reign at the club beyond a decade if he sees it out. The Spaniard is understood to have signed a four-year deal worth more than £20m a season, making him the best-paid Premier League manager. That is a hefty pay rise in recognition of his success l",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/07/mikel-arteta-signs-new-arsenal-deal-only-the-beginning",
-      "published": "Wed, 07 Oct 2026 11:13:33 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
+      "url": "https://www.theguardian.com/football/2026/oct/07/england-winners-and-losers-thomas-tuchel-tactics-squad-selection",
+      "published": "Wed, 07 Oct 2026 18:00:01 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3495,20 +3481,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ポルトガル語当局は、83 日後に伝えました Rui Pinto 彼の証人の保護は終わっていた",
-      "summary": "7 月の脅威レベルで終了した委員会は低かったマンチェスター・シティ10 日間の通知ポルトガルのポルトガル政府が保存されたと警告 Rui Pinto 保護された証人として彼のステータスを終わらせ、通知する彼らの決定についてほぼ3 ヶ月ダークでマンチェスター・シティ期限が切れるまでに10 日前まで、明らかにすることができます。Guardian が見た文書によると、ポルトガルの証人保護プログラムを監督する特別なセキュリティプログラムのコミッション(CPES)は、",
-      "title_original": "Portuguese authorities took 83 days to tell Rui Pinto his witness protection was ending",
-      "summary_original": "Commission concluded in July threat level was low Manchester City whistleblower given 10 days’ notice Portuguese authorities kept Rui Pinto in the dark for almost three months about their decision to end his status as a protected witness and notified the Manchester City whistleblower 10 days before it was due to expire, it can be revealed. According to documents seen by the Guardian, the special security programmes commission (CPES), which oversees Portugal’s witness protection programme, met on",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/07/rui-pinto-witness-protection-ending-portuguese-authorities-manchester-city",
-      "published": "Wed, 07 Oct 2026 10:21:45 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "「可能な限り最善の方法で出発したい」Kieran McKenna 獲得を問い合わせイプスウィッチ出口と将来の計画",
       "summary": "排他的にインテルビュー、元イプスウィッチマネージャーは、クラブに対する彼の永続的な愛情について話します, 彼の次の動きのための家族や友人やアイデアで時間を節約 にいた Portman Road ピッチ、5 年目のプロモーションの救済と喜びに没入しながら、明るい5 月上旬に入浴、Kieran McKenna 瞬間を正当化しました。ここが彼の最終キャンペーンかもしれない季節に、この考えは早く明滅していたイプスウィッチ, th によって潜在意識に押し込まれるだけ",
       "title_original": "‘I wanted to depart in the best way possible’: Kieran McKenna on Ipswich exit and future plans",
@@ -3519,6 +3491,34 @@
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「これは始まりです。」誓いミケル・アルテタ獲得後 8000万ポンド-plus アーセナルソリューション",
+      "summary": "4 年連続で Spaniard の将来のタイトルを獲得プレミアリーグ'ベスト・ペイド・マネージャーミケル・アルテタ彼が達成できるものの「これが始まり」を約束しましたアーセナル新長期契約に獲得した後、彼はそれを見ると10 年以上のクラブで彼の統治を取るだろうマネージャー。The Spaniard 四季折々の2000万ポンド 以上の価値のある4 年間の移籍に獲得したことが理解され、彼は最善を払いましたプレミアリーグマネージャー。それは彼の成功 l の認識で高額な支払いです",
+      "title_original": "‘This is only the beginning,’ vows Mikel Arteta after signing £80m-plus Arsenal deal",
+      "summary_original": "Four-year-contract secures Spaniard’s future Title winner is Premier League’s best-paid manager Mikel Arteta has promised “this is only the beginning” of what he can achieve as Arsenal manager after signing a new long-term contract that would take his reign at the club beyond a decade if he sees it out. The Spaniard is understood to have signed a four-year deal worth more than £20m a season, making him the best-paid Premier League manager. That is a hefty pay rise in recognition of his success l",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/07/mikel-arteta-signs-new-arsenal-deal-only-the-beginning",
+      "published": "Wed, 07 Oct 2026 11:13:33 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ポルトガル語当局は、83 日後に伝えました Rui Pinto 彼の証人の保護は終わっていた",
+      "summary": "7 月の脅威レベルで終了した委員会は低かったマンチェスター・シティ10 日間の通知ポルトガルのポルトガル政府が保存されたと警告 Rui Pinto 保護された証人として彼のステータスを終わらせ、通知する彼らの決定についてほぼ3 ヶ月ダークでマンチェスター・シティ期限が切れるまでに10 日前まで、明らかにすることができます。Guardian が見た文書によると、ポルトガルの証人保護プログラムを監督する特別なセキュリティプログラムのコミッション(CPES)は、",
+      "title_original": "Portuguese authorities took 83 days to tell Rui Pinto his witness protection was ending",
+      "summary_original": "Commission concluded in July threat level was low Manchester City whistleblower given 10 days’ notice Portuguese authorities kept Rui Pinto in the dark for almost three months about their decision to end his status as a protected witness and notified the Manchester City whistleblower 10 days before it was due to expire, it can be revealed. According to documents seen by the Guardian, the special security programmes commission (CPES), which oversees Portugal’s witness protection programme, met on",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/07/rui-pinto-witness-protection-ending-portuguese-authorities-manchester-city",
+      "published": "Wed, 07 Oct 2026 10:21:45 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3551,20 +3551,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "トゥッチェルの電車に乗るのは? イングランドキャンプは明確な勝者と敗者を持っています",
-      "summary": "蒸し気をつけながら Alex Scott, Lewis Hall そして、Myles Lewis-Skelly 他の人は後ろに残っている可能性が高い Thomas Tuchel’s オリジナリのアイデアは、継続のためにありました。The England マネージャーは、前記者から議事録を作成したい World Cup セミファイナルへの旅の一部であったプレイヤーの大半に立ち向かうと思い北アメリカ夏に。四大戦隊 Nations League ウィンドウと新しい始まりインテル国民の周期はではないです",
-      "title_original": "All aboard the Tuchel train? England camp has clear winners and losers",
-      "summary_original": "While it’s full steam ahead for Alex Scott, Lewis Hall and Myles Lewis-Skelly, others look likely to be left behind Thomas Tuchel’s original idea had been for continuity. The England manager wanted to build on the positives from the World Cup and he was minded to stand by the vast majority of the players who had been a part of the journey to the semi-finals in North America over the summer. His squad for the four-match Nations League window and the beginning of a new international cycle would no",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/07/england-winners-and-losers-thomas-tuchel-tactics-squad-selection",
-      "published": "Wed, 07 Oct 2026 18:00:01 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "なぜ非常に多くの英国のサッカー選手は、セリエ A?",
       "summary": "1990 年代は黄金時代に感じたが、21 人のイギリス人のプレイヤーがいるセリエ A この季節 – 今まで以上に By The Football Mine 獲得を問い合わせ Jimmy Greaves, Ray Wilkins, デビッド・ベッカム, Paul Gascoigne そして、カイル・ウォーカー共通? イングランドの50 以上の外観や、イタリアのクラブでプレーするなど、すべてが作られました。家庭名ですが、イタリアのクラブを表す最初の英語マンはあまり馴染みがありません。旧兵士 Charles Adcock パドヴァへ2 次世界へ",
       "title_original": "Why are so many British footballers playing in Serie A?",
@@ -3576,6 +3562,20 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "サッカー選手が戻ってゴールで干ばつをしてしまったのは? |The Knowledge",
+      "summary": "プラス:同じクラブゲームで2 つの政治指導者、非常に長期的なサスペンション、非常に迅速なイコシザーは、すべての質問に私たちを郵送し、「オリヴァー・マクバーニースコットランドのスクワッドに戻ってきています。John Cant 最終週。「現在20 件見つかる16 件を記録し、ゼロの目標で発言した」インテルビュー、「土曜日にタップインするか、または私の裏側を離れて行く1 は素敵なだろう」。プレイヤーがゴールを破るのを話したときに、バックサイドは頻繁に出てくる - しかし、実際には、",
+      "title_original": "Which footballers have ended scoring droughts with a goal off their backside? | The Knowledge",
+      "summary_original": "Plus: two political leaders at the same club game, a very long-term suspension and extremely quick equalisers Mail us with all of your questions and answers “Oli McBurnie is back in the Scotland squad,” noted John Cant last week. “With his record of 16 appearances [now 20] and zero goals, he said in a recent interview, ‘a tap-in on Saturday or one that goes in off my backside would be lovely’. The backside comes up often when players talk of breaking a goal drought – but has it ever actually hap",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/07/which-footballers-have-ended-scoring-droughts-with-a-goal-off-their-backside",
+      "published": "Wed, 07 Oct 2026 07:00:36 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3677,20 +3677,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ジュード・ベリンガムヘイル 125-キャップハリー・ケインイングランドの最高のプレーヤーとして",
-      "summary": "キャプテンスコアが2 倍に 3-0 勝つ Czechia Kane イケメン Peter Shilton’s 出現の記録ジュード・ベリンガム獲得を問い合わせハリー・ケインキャプテンが等しい後イングランドの最高のプレーヤーPeter Shilton’s 火曜日の3〜3 年の間に125 キャップのレコードはチェコ語で勝つ Nations League. Kane、1 世紀を過ぎて9 人しかいないインテル別のファインディスプレイで2 回撮影した後の国民の目標は、Wembley 群衆が観た星の魅力でした Thomas Tuchel’s3 月の四半期末尾のスポットを閉じます。ログイン",
-      "title_original": "Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player",
-      "summary_original": "Captain scores twice in 3-0 win over Czechia Kane equals Peter Shilton’s appearance record Jude Bellingham called Harry Kane England’s best-ever player after the captain equalled Peter Shilton’s record of 125 caps during Tuesday’s 3-0 win over Czechia in the Nations League. Kane, who is only nine off a century of international goals after scoring twice in another fine display, was the star attraction as the Wembley crowd watched Thomas Tuchel’s side close on a spot in March’s quarter-finals. Eng",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/06/jude-bellingham-hails-harry-kane-as-englands-best-ever-player",
-      "published": "Tue, 06 Oct 2026 22:25:01 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "マンチェスター・シティ’s の栄光はプレーヤーから離れることができません, 言うカイル・ウォーカー",
       "summary": "旧キャプテンは、ギルティー評論「素晴らしい見てはいけない」を認めます しかし、彼は「マニートロフィー」の記憶を主張しますマンチェスター・シティ’ の栄光の年は、違反のすべての料金の罪の発見にもかかわらず、プレイヤーから離れることができませんプレミアリーグ9 年にわたる財務規則、主張する元キャプテンカイル・ウォーカー. 市は、2009-10 と2017-18 の間に規則を破った独立した手数料の先週の免震判断に対して訴えました、クラブはハに見つけた",
       "title_original": "Manchester City’s glory cannot be taken away from the players, says Kyle Walker",
@@ -3705,13 +3691,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リオネル・メッシサッカーでアルゼンチンのキャリアを終える",
-      "summary": "メッシベンインに対する勝利でスコアリングした後、クラウドアドレス「これ以上は深く痛みを伴うつもりはない」リオネル・メッシ退職後退についてインテルアルゼンチンの最終試合をプレイした後、ベニンの敗北で「私のキャリアの最も良い日」として全国サッカー。メッシ, 得点し、勝利で2 つの助けを与えられた人 Monumental Stadium 獲得を問い合わせ Buenos Aires 彼が Arg と21 年キャリアに反映したように、勝利がファンとチームメイトに感謝を表明した後、フィールドに連れて行きました",
-      "title_original": "Lionel Messi describes ending Argentina career as his ‘saddest day’ in football",
-      "summary_original": "Messi addresses crowd after scoring in win against Benin ‘Not coming any more is going to be deeply painful’ Lionel Messi described his retirement from international football as the “saddest day of my career” after playing his final game for Argentina in a 3-0 defeat of Benin. Messi, who scored and provided two assists in the victory at the Monumental Stadium in Buenos Aires, took to the field after the win to express gratitude to fans and teammates as he reflected on his 21-year career with Arg",
+      "title": "ジュード・ベリンガムヘイル 125-キャップハリー・ケインイングランドの最高のプレーヤーとして",
+      "summary": "キャプテンスコアが2 倍に 3-0 勝つ Czechia Kane イケメン Peter Shilton’s 出現の記録ジュード・ベリンガム獲得を問い合わせハリー・ケインキャプテンが等しい後イングランドの最高のプレーヤーPeter Shilton’s 火曜日の3〜3 年の間に125 キャップのレコードはチェコ語で勝つ Nations League. Kane、1 世紀を過ぎて9 人しかいないインテル別のファインディスプレイで2 回撮影した後の国民の目標は、Wembley 群衆が観た星の魅力でした Thomas Tuchel’s3 月の四半期末尾のスポットを閉じます。ログイン",
+      "title_original": "Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player",
+      "summary_original": "Captain scores twice in 3-0 win over Czechia Kane equals Peter Shilton’s appearance record Jude Bellingham called Harry Kane England’s best-ever player after the captain equalled Peter Shilton’s record of 125 caps during Tuesday’s 3-0 win over Czechia in the Nations League. Kane, who is only nine off a century of international goals after scoring twice in another fine display, was the star attraction as the Wembley crowd watched Thomas Tuchel’s side close on a spot in March’s quarter-finals. Eng",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/07/lionel-messi-ends-argentina-career-saddest-day",
-      "published": "Wed, 07 Oct 2026 07:20:00 GMT",
+      "url": "https://www.theguardian.com/football/2026/oct/06/jude-bellingham-hails-harry-kane-as-englands-best-ever-player",
+      "published": "Tue, 06 Oct 2026 22:25:01 GMT",
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
@@ -3730,6 +3716,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リオネル・メッシサッカーでアルゼンチンのキャリアを終える",
+      "summary": "メッシベンインに対する勝利でスコアリングした後、クラウドアドレス「これ以上は深く痛みを伴うつもりはない」リオネル・メッシ退職後退についてインテルアルゼンチンの最終試合をプレイした後、ベニンの敗北で「私のキャリアの最も良い日」として全国サッカー。メッシ, 得点し、勝利で2 つの助けを与えられた人 Monumental Stadium 獲得を問い合わせ Buenos Aires 彼が Arg と21 年キャリアに反映したように、勝利がファンとチームメイトに感謝を表明した後、フィールドに連れて行きました",
+      "title_original": "Lionel Messi describes ending Argentina career as his ‘saddest day’ in football",
+      "summary_original": "Messi addresses crowd after scoring in win against Benin ‘Not coming any more is going to be deeply painful’ Lionel Messi described his retirement from international football as the “saddest day of my career” after playing his final game for Argentina in a 3-0 defeat of Benin. Messi, who scored and provided two assists in the victory at the Monumental Stadium in Buenos Aires, took to the field after the win to express gratitude to fans and teammates as he reflected on his 21-year career with Arg",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/07/lionel-messi-ends-argentina-career-saddest-day",
+      "published": "Wed, 07 Oct 2026 07:20:00 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3758,20 +3758,6 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "サッカー選手が戻ってゴールで干ばつをしてしまったのは? |The Knowledge",
-      "summary": "プラス:同じクラブゲームで2 つの政治指導者、非常に長期的なサスペンション、非常に迅速なイコシザーは、すべての質問に私たちを郵送し、「オリヴァー・マクバーニースコットランドのスクワッドに戻ってきています。John Cant 最終週。「現在20 件見つかる16 件を記録し、ゼロの目標で発言した」インテルビュー、「土曜日にタップインするか、または私の裏側を離れて行く1 は素敵なだろう」。プレイヤーがゴールを破るのを話したときに、バックサイドは頻繁に出てくる - しかし、実際には、",
-      "title_original": "Which footballers have ended scoring droughts with a goal off their backside? | The Knowledge",
-      "summary_original": "Plus: two political leaders at the same club game, a very long-term suspension and extremely quick equalisers Mail us with all of your questions and answers “Oli McBurnie is back in the Scotland squad,” noted John Cant last week. “With his record of 16 appearances [now 20] and zero goals, he said in a recent interview, ‘a tap-in on Saturday or one that goes in off my backside would be lovely’. The backside comes up often when players talk of breaking a goal drought – but has it ever actually hap",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/07/which-footballers-have-ended-scoring-droughts-with-a-goal-off-their-backside",
-      "published": "Wed, 07 Oct 2026 07:00:36 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3817,6 +3803,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "あまりにも素晴らしい: 行うアーセナル WSL のタイトルが干ばつを終わらせるのに屑そして粘着性を欠いて下さいか。",
+      "summary": "Renée Slegers’ チームは技術的な能力を持っています, しかし、疑問は、ライバルに必要な厄介の上に残っていますマンチェスター・シティそして、チェルシー アーセナルの10 ポイント adrift の Women’s Super League リーダーは、この時期に「大きな見直し」を行ないます。インテル物事がひどく間違っている場所を決定しようとする全国の休憩 – 再び – 初期の段階で. 4-2 敗北後マンチェスター・シティ日曜日には、アジェンダが異常だが潜在的に重要なものを含む必要があると感じた",
+      "title_original": "Too nice: do Arsenal lack the grit and tenacity to end WSL title drought?",
+      "summary_original": "Renée Slegers’ team have the technical ability, but doubts remain over the nastiness needed to rival Manchester City and Chelsea Arsenal, 10 points adrift of the Women’s Super League leaders, are poised to undertake a “big review” of their season during this international break to try to determine where things have gone so horribly wrong – again – in the early stages. After their 4-2 loss at Manchester City on Sunday, it felt as if the agenda needs to include an unusual but potentially critical ",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/06/arsenal-womens-super-league-title-renee-slegers-manchester-city-chelsea",
+      "published": "Tue, 06 Oct 2026 16:55:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "‘ブライトン世界で最も先進的なクラブです。Jason McCarthy コーチに29 で再編",
       "summary": "Former Wycombe ディフェンダーは、彼は牧師になるかもしれないと思ったが、彼は愛するゲームに滞在 “あなたはあなたの笛を吹いて、その後、突然、すべての卵、あなたは持っています 20, 30 注目に立って人々,” 言う Jason McCarthy, 高齢者の再生から退職した後、コーチングへの移行を議論 29. Wycombe でディフェンダーをしながら最初のセッションを着、クラブファンデーションのアンダー16 を浴びています。「ふわふわしい」 私は非常に迅速に学んだ: 私は男性の前でこれを行うつもりなら – うまくいけば, でも",
       "title_original": "‘Brighton are the world’s most forward-thinking club’: Jason McCarthy on retiring at 29 to coach",
@@ -3842,6 +3842,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ペーパー:アルテタなるほどプレミアリーグ2000万ポンド-a-year で最高に支払われた上司",
+      "summary": "水曜日の新聞から噂を移籍するトップストーリー...",
+      "title_original": "Papers: Arteta becomes Premier League's highest-paid boss on £20m-a-year",
+      "summary_original": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13596325/arsenal-manager-mikel-arteta-becomes-premier-leagues-highest-paid-boss-on-20m-a-year-new-contract-paper-talk",
+      "published": "Wed, 07 Oct 2026 22:46:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13595720/mikel-artetas-new-contract-the-challenges-facing-arsenal-boss-as-he-enters-step-five-of-his-project",
       "published": "Wed, 07 Oct 2026 12:01:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "パスワード:Is Alonso ソリューションチェルシー大きい問題か。",
-      "summary": "",
-      "title_original": "PODCAST: Is Alonso solving Chelsea's big problems?",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Tue, 06 Oct 2026 16:35:00 BST",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
