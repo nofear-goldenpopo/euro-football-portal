@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-10-10T22:30:38.187753+00:00",
+  "updated_at": "2026-10-11T01:10:52.258524+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Bronze Boot": "",
-    "Nico Rosberg": "ニコ・ロズベルグ",
-    "Jack Draper": "",
     "JJ Gabriel": "",
     "Raheem Sterling": "ラヒーム・スターリング",
     "Danny McGrain": "ダニー・マクグレイン",
@@ -3001,23 +2998,12 @@
     "Gemma Hayter": "",
     "PDC World Championship": "",
     "Beau Greaves": "",
-    "Northampton Saints": ""
+    "Northampton Saints": "",
+    "Alan Shearer": "アラン・シアラー",
+    "Le Mans Bayern": "",
+    "Women’s World Cup": ""
   },
   "items": [
-    {
-      "title": "観戦:日の試合",
-      "summary": "とマンチェスター・ユナイテッド. .トッテナム, アーセナル. .リーズそして、チェルシーv Bournemouth は、トップのフライトが返されるように",
-      "title_original": "Watch: Match of the Day",
-      "summary_original": "With Man Utd v Spurs, Arsenal v Leeds and Chelsea v Bournemouth as the top flight returns",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Oct 2026 08:00:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
     {
       "title": "10 人として加えられた時間のソランケのスコアトッテナムドローイングマンチェスター・ユナイテッド",
       "summary": "Dominic Solanke スコアアディショナルタイム10 人のポイントを救いますトッテナム描画をスナッチするマンチェスター・ユナイテッドフェースティ・出会いオールド・トラッフォード.",
@@ -3100,6 +3086,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "日に合ったハイライトと分析",
+      "summary": "とマンチェスター・ユナイテッド. .トッテナム, アーセナル. .リーズそして、チェルシーv Bournemouth は、トップのフライトが返されるように",
+      "title_original": "Highlights and analysis on Match of the Day",
+      "summary_original": "With Man Utd v Spurs, Arsenal v Leeds and Chelsea v Bournemouth as the top flight returns",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032wxj?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 22:50:45 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3355,6 +3355,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "マンチェスター・ユナイテッドミッドフィールドはゲームを制御することができません - マーフィー",
+      "summary": "デイパンディットのマッチダニエル・マーフィー (曖昧さ回避)獲得を問い合わせマンチェスター・ユナイテッド1-1 のミッドフィールドの問題は10 人に対して引きますトッテナム.",
+      "title_original": "Man Utd midfield can't control games - Murphy",
+      "summary_original": "Match of the Day pundit Danny Murphy looks at Manchester United's problems in midfield in their 1-1 draw against 10-man Tottenham.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6lye9kmnvpzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 22:58:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「絶対に素晴らしい」 -How Caicedo 証明された pivotal でチェルシーログイン",
+      "summary": "当日の試合について話します。アラン・シアラーパフォーマンスの理由を説明する Moises Caicedopivotal だったチェルシーの 5-1 はボーンマスに対して勝ちますプレミアリーグ.",
+      "title_original": "'Absolutely superb' - How Caicedo proved pivotal in Chelsea win",
+      "summary_original": "Speaking on Match of the Day, Alan Shearer explains why the performance of Moises Caicedo was pivotal in Chelsea's 5-1 win against Bournemouth in the Premier League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmx2dp7xgew6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 23:00:14 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Carrick 'understands' を傷つけるマンチェスター・ユナイテッド描画後の boos",
       "summary": "マンチェスター・ユナイテッドヘッドコーチマイケル・キャリッククラブのファンのファンから「たくさん急いでいる」と言っていますが、彼と彼のチームは「それに対処する」と言いました。トッテナム獲得を問い合わせプレミアリーグ.",
       "title_original": "'It hurts a lot' - Carrick 'understands' Man Utd boos after draw",
@@ -3393,34 +3421,6 @@
       "category": "bundesliga",
       "type": "bundesliga",
       "label": "ブンデス",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "しかし、ゲルや同じ古い闘争に? - De Zerbi のプレミアリーグディレンマ",
-      "summary": "3 週間後インテル国民の壊れ目,トッテナムに戻るプレミアリーグ開口部5 試合のどれも勝ち、テーブルの底に座るアクション。BBC について スポーツは、季節に悪いスタートを振り返って、別のスポーツを尋ねる残留争いロミングですか?",
-      "title_original": "Yet to gel or same old struggles? - De Zerbi's Premier League dilemma",
-      "summary_original": "After a three-week international break, Tottenham Hotspur return to Premier League action having won none of their opening five matches and sitting bottom of the table. BBC Sport looks back at their poor start to the season and asks if another relegation battle is looming?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwp8g355me6no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 07:41:09 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Carrick は冷静にとどまりますが、彼は心配する必要がありますマンチェスター・ユナイテッド獲得を問い合わせ",
-      "summary": "から3 週間オフの後インテル国民の休憩、BBC のスポーツは見ますマンチェスター・ユナイテッドの indifferent 新規に開始プレミアリーグ四季折々の見どころマイケル・キャリックの 側は 5 つの試合の開始の 1 つだけ勝ちます。",
-      "title_original": "Carrick stays cool, but should he be worried about Man Utd's form?",
-      "summary_original": "After three weeks off because of the international break, BBC Sport looks back at Manchester United's indifferent start to the new Premier League season, which saw Michael Carrick's side win just one of their opening five matches.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6x29vg0p7kko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 07:36:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3691,16 +3691,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ヨーロッパのサッカー:ゴードンはブーストバルセロナそして、バイエルンバトルバック",
-      "summary": "ゴードンは、ゲファフとしてクラブのための最初の目標を獲得 3-0 バイエルン最速を争うにもかかわらず描画ブンデスリーガミッション Anthony Gordon 初めての目標を獲得バルセロナスペイン語のチャンピオンとして、彼らの完璧なスタートを拡張ラ・リーガ Getafe の 3-0 の家の勝利を使って。The England インテル国民は2 分にスコアリングを開け、Gabriel Jesus リーグのリーダーは、このシーズンの試合を毎回勝ち取った。Jules KoundéL から3 分の1 を持ち帰った",
-      "title_original": "European football: Gordon boosts Barcelona and Bayern battle back",
-      "summary_original": "Gordon scores first goal for club as Getafe are beaten 3-0 Bayern draw despite conceding fastest Bundesliga goal Anthony Gordon scored his first goal for Barcelona as the Spanish champions extended their perfect start in La Liga with a 3-0 home win over Getafe . The England international opened the scoring in the second minute and Gabriel Jesus added another after half an hour for the league leaders, who have won every match they have played this season. Jules Koundé tucked home the third from L",
+      "title": "ヨーロッパのサッカー:ゴードンはブーストバルセロナ、Neuer の間違いの費用バイエルン引くこと",
+      "summary": "バルセロナ3-0 のゲファフ、インテル3-0 パルマ,パリ・サンジェルマン3-1 ル・マンズバイエルン最速の隠蔽ブンデスリーガアウグスブルク・ドローの目標 Anthony Gordon 初めての目標を獲得バルセロナ彼らが完璧なスタートを拡張するようにラ・リーガ Getafe の 3-0 の家の勝利を使って。The England インテル国民は2 分にスコアリングを開け、Gabriel Jesus リーグのリーダーは、このシーズンの試合を毎回勝ち取った。ゴルドに入社してから感動した人ニューカッスル獲得を問い合わせ",
+      "title_original": "European football: Gordon boosts Barcelona, Neuer errors cost Bayern in draw",
+      "summary_original": "Barcelona 3-0 Getafe, Inter 3-0 Parma, PSG 3-1 Le Mans Bayern concede fastest Bundesliga goal in Augsburg draw Anthony Gordon scored his first goal for Barcelona as they extended their perfect start in La Liga with a 3-0 home win over Getafe . The England international opened the scoring in the second minute and Gabriel Jesus added another after half an hour for the league leaders, who have won every match they have played this season. Gordon, who has impressed since joining from Newcastle this ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/10/european-football-bayern-concede-fastest-goal-bundeliga-history",
       "published": "Sat, 10 Oct 2026 19:05:20 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3842,6 +3842,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "キャリックは、キャリックの負担を分かち合う必要がありますマンチェスター・ユナイテッド選手とのパフォーマンス",
+      "summary": "「私たちは、ゲームに自分自身を連れて行く方法を見つけることができませんでした。ボールを使わずにボールを脱いでいました。公平な評価からマイケル・キャリック, 完全に説明されていない場合.",
+      "title_original": "Carrick must share burden of Man Utd's underperformance with his players",
+      "summary_original": "\"We couldn't find a way to get ourselves into the game. With the ball, without the ball, we were off it.\" A fair assessment from Michael Carrick, if not a wholly explanatory one.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13597374/man-utd-1-1-spurs-michael-carrick-entering-a-defining-period-and-must-correct-underperformance-quickly",
+      "published": "Sat, 10 Oct 2026 23:30:00 BST",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13597106/singapore-gp-can-charles-leclerc-and-lewis-hamilton-work-together-to-beat-max-verstappen-in-sundays-race",
       "published": "Sat, 10 Oct 2026 17:50:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Ten-man Stoke シールは36 年間ボルトンで最初に勝ちます",
-      "summary": "Lamine Cisse そして、Ben Wilmot10 人の Stoke が彼らの unbeaten を拡張するように目標にありました EFL チャンピオンシップ2-1 勝つと 6 つのゲームに実行します。ボルトン でユニバーシティ・オブ・ボルトン・スタジアム.",
-      "title_original": "Ten-man Stoke seal first win away at Bolton for 36 years",
-      "summary_original": "Lamine Cisse and Ben Wilmot were on target as 10-man Stoke extended their unbeaten Sky Bet Championship run to six games with a 2-1 win over Bolton at the Toughsheet Community Stadium.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/bolton-wanderers-vs-stoke-city/report/560595",
-      "published": "Sat, 10 Oct 2026 17:15:00 BST",
       "category": "other",
       "type": "other",
       "label": "その他",
