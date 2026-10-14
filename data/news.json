@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-10-13T23:00:35.109108+00:00",
+  "updated_at": "2026-10-14T01:38:51.710687+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Rob Mac": "",
-    "Cardiff LIVE": "",
-    "Mail Michael Recent": "",
     "Etihad Stadium": "シティ・オブ・マンチェスター・スタジアム",
     "Sergio Agüero": "",
     "Yaya Touré": "",
@@ -3001,7 +2998,10 @@
     "Outcast Richarlison": "",
     "Ten-man Manchester United": "",
     "Tottenham Hotspur Under": "",
-    "Jersey Mike’s Trophy": ""
+    "Jersey Mike’s Trophy": "",
+    "San Siro": "スタディオ・ジュゼッペ・メアッツァ",
+    "Lisandro Martínez": "",
+    "Ademola Lookman": ""
   },
   "items": [
     {
@@ -3033,6 +3033,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "坂は、アルテタ「衝撃を抱く」に挑戦",
+      "summary": "ブカヨ・サカチャレンジセットの対応ミケル・アルテタベンチを脱いでゲームを逆転させるリール獲得を問い合わせチャンピオンズリーグ.",
+      "title_original": "Saka responds to Arteta's challenge with 'huge impact'",
+      "summary_original": "Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the bench to change the game against Lille in the Champions League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 23:03:04 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Swans' Eom the、of alleged racism at Millwall を獲得候補に",
       "summary": "スウォンジー・シティ AFC ヘッドコーチ Vitor MatosMillwall で1-0 の勝利時に長いストップページは、winger を狙った乱用の結果だったと述べています Ji-sung Eom.",
       "title_original": "Swans' Eom the target of alleged racism at Millwall",
@@ -3058,6 +3072,48 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "プレイオフファイナルでノルウェー圧力 - ウィルキンソン",
+      "summary": "Rhian Wilkinson 圧力がオンになると言う Gemma Grainger's Norway 彼らの Women's World Cup12 月にウェールズと対戦オフ決勝。",
+      "title_original": "Pressure on Norway in play-off final - Wilkinson",
+      "summary_original": "Rhian Wilkinson says the pressure will be on Gemma Grainger's Norway in their Women's World Cup play-off final against Wales in December.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4g17rrz1j5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 21:32:09 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "パリ・サンジェルマン獲得を問い合わせルイス・エンリケ獲得を問い合わせマンチェスター・シティ制裁を避ける",
+      "summary": "パリ・サンジェルマンログインルイス・エンリケ驚いたのは、マンチェスター・シティ侵害の罪が発見されたプレミアリーグファイナンシャルルールとクラブが制裁を避けてほしい。",
+      "title_original": "PSG's Luis Enrique hopes Man City avoid sanctions",
+      "summary_original": "PSG boss Luis Enrique says he was surprised to learn Manchester City had been found guilty of breaching Premier League financial rules and hopes the club avoid sanctions.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck1wvd91v4pwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 17:33:33 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ポルトガルの損失にもかかわらず、McArdle の「本当に奨励」",
+      "summary": "北アイルランドマネージャーMichael McArdle ポルトガルのプレイオフの敗北は、重い 7-1 の総計の損失にもかかわらず、「新しいアイデンティティの始まり」であると言う。",
+      "title_original": "McArdle 'really encouraged' despite Portugal loss",
+      "summary_original": "Northern Ireland manager Michael McArdle says their play-off defeat by Portugal is \"the start of a new identity\" despite their heavy 7-1 aggregate loss.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmglwxd0d25xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 22:20:39 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3096,34 +3152,6 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqzjxn010r49o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 17:00:31 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "パリ・サンジェルマン獲得を問い合わせルイス・エンリケ獲得を問い合わせマンチェスター・シティ制裁を避ける",
-      "summary": "パリ・サンジェルマンログインルイス・エンリケ驚いたのは、マンチェスター・シティ侵害の罪が発見されたプレミアリーグファイナンシャルルールとクラブが制裁を避けてほしい。",
-      "title_original": "PSG's Luis Enrique hopes Man City avoid sanctions",
-      "summary_original": "PSG boss Luis Enrique says he was surprised to learn Manchester City had been found guilty of breaching Premier League financial rules and hopes the club avoid sanctions.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck1wvd91v4pwo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 17:33:33 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "プレイオフファイナルでノルウェー圧力 - ウィルキンソン",
-      "summary": "Rhian Wilkinson 圧力がオンになると言う Gemma Grainger's Norway 彼らの Women's World Cup12 月にウェールズと対戦オフ決勝。",
-      "title_original": "Pressure on Norway in play-off final - Wilkinson",
-      "summary_original": "Rhian Wilkinson says the pressure will be on Gemma Grainger's Norway in their Women's World Cup play-off final against Wales in December.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4g17rrz1j5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 21:32:09 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3397,34 +3425,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "'何のために認定?' - マレスカは、アンフィールドのお祝いを守る",
-      "summary": "Manager Enzo Maresca 批判への反応マンチェスター・シティ勝った後のお祝いリヴァプール「何をしたいのか」と言っています。",
-      "title_original": "'Criticised for what?' - Maresca defends Anfield celebrations",
-      "summary_original": "Manager Enzo Maresca reacts to criticism of Manchester City's celebrations after their win at Liverpool by saying: \"What do you want us to do?\"",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckn9r1ygv81wo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 13:04:04 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Netflix は 2030 を保護します World Cup TV スペインの権利",
-      "summary": "Netflix が放送されます World Cup2030 年に初めての試合は、ショーの権利を担保する World Cup 共同ホストスペインとアンドラのゲーム。",
-      "title_original": "Netflix secures 2030 World Cup TV rights in Spain",
-      "summary_original": "Netflix will broadcast World Cup games for the first time in 2030 as it secures the rights to show World Cup games in co-host Spain and Andorra.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3zxj4k7kz9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 14:54:31 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "バリオスは10 人でアトレティコのパイルミスリーとして53 秒後に打つマンチェスター・ユナイテッド",
       "summary": "マイケル・キャリック自分のプレーヤーで見ていたが、彼は言ったが、誰もできない。それほど遠くないプレミアリーグ, 彼らは40 年で最悪のスタートに苦しんでいる場所, マドリードでここにいない, ここでマンチェスター・ユナイテッド’ のヘッドコーチは、彼らが em を主張しました2 ゴールチャレンジ。反応が来ると、彼は約束した。彼はそれらを見て、それを確信していた。代わりに、彼らはちょうど53 秒後にゴールダウンしていたし、すべてが古い精通だった、その初期のオープナーから Pablo Barrios2 番目の周波数",
       "title_original": "Barrios strikes after 53 seconds as Atlético pile misery on 10-man Manchester United",
@@ -3677,6 +3677,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「もっと期待する」:Lisandro Martínez ヒットマンチェスター・ユナイテッドヒアラルキー",
+      "summary": "脱退するアトレティコ・マドリード「当クラブの仕組みについて」 アルゼンチンはクラブがプレイヤーに十分な投資をしていないと述べています Lisandro Martínez ヒットマンチェスター・ユナイテッドヒエラルキーは、シーズンが続く間欠的なスタートとして投資の欠如を非難します。ゴールから Pablo Barrios そして、Ademola Lookman ユナイテッドを2-0 で敗北させるアトレティコ・マドリード, そして、アルゼンチンの擁護者は、クラブがする方法の「ミラー」として記述しました. 「今夜は、コーチと言うのも簡単です。選手も言うのも簡単です。",
+      "title_original": "‘I expect more’: Lisandro Martínez hits out at Manchester United hierarchy",
+      "summary_original": "Defeat to Atlético Madrid ‘reflects how our club is’ Argentinian says club has not invested enough in players Lisandro Martínez has hit out at the Manchester United hierarchy, blaming the lack of investment as their dismal start to the season continued. Goals from Pablo Barrios and Ademola Lookman pushed United to a 2-0 defeat at Atlético Madrid, and the Argentina defender described that as a “mirror” of the way the club are. “Tonight it is easy to say the coach, easy to say the players but also",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid",
+      "published": "Tue, 13 Oct 2026 22:48:22 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "サッカーレギュレータは、損失を作るクラブの94%とランドマークレポートのコスト制御をお勧め",
       "summary": "相談期間前の火曜日に公表されたレポート 持続可能性を向上させるための推奨事項があります The Independent Football Regulator(IFR)クラブは、ゲームレポートの待望の国で、より大きなコストコントロールを導入することを推奨しています。Tuesday. The 今週の8 週間の公開協議が始まる春に続く最終バージョンの250 ページのドラフトレポートは、英語の男性のサッカーの財政状態を損なう写真をペイントします。",
       "title_original": "Football regulator to recommend cost controls in landmark report with 94% of clubs making loss",
@@ -3688,20 +3702,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Hincapié と Zubimendi は、温かみのある怪我をした後、アーセナル Saliba ブーストを得る",
-      "summary": "Defender と ミッドフィルダー 勝つ 対リーズサリバは、背中の怪我後に自分のトレーニングを再開ミケル・アルテタアフターフォローPiero Hincapiéそして、Martín Zubimendi 温暖化後に足首の怪我を持続アーセナルの に対する勝利リーズ土曜日 . 両方とも月曜日にスキャンして、損傷の程度を判断するからですが、アルテタ彼らが見逃すと言ったチャンピオンズリーグ自宅でゲームリール火曜日とヒンカピエの怪我「もう少し見ます",
-      "title_original": "Hincapié and Zubimendi out after warm-down injuries but Arsenal get Saliba boost",
-      "summary_original": "Defender and midfielder hurt after win against Leeds Saliba resumes training on his own after back injury Mikel Arteta has admitted frustration after Piero Hincapié and Martín Zubimendi sustained ankle injuries during the warm-down after Arsenal’s win against Leeds on Saturday . Both are due to have scans on Monday to determine the extent of the damage, although Arteta said they would miss the Champions League game at home to Lille on Tuesday and that Hincapié’s injury “looks a little bit more s",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/12/piero-hincapie-martin-zubimendi-injuries-warm-down-arsenal-mikel-arteta-william-saliba",
-      "published": "Mon, 12 Oct 2026 15:01:34 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3775,6 +3775,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "The Ballond’Or サッカーの不思議をキャプチャしません。–Michael Olise 証拠 |Zito Madu",
+      "summary": "フランスのいつもクールなウィンガーは、彼のすべての動きにぶら下がる群衆を持っています - 私は若かったとき、私は私のサッカーチームにキャプテンになりたいと思っていたとき、任意のタイトルよりも多くのことを認め、その後、私はアームバンドが最高のプレーヤーに与えられたと仮定しました。自分のユースチームがトーナメントやトロフィーを獲得したとしても、私はトップスコアラーと最高の選手賞を獲得したので、私はまだ、他の人が常に腕元を持っていたので、不満を感じました。私は別のチームメイトのスパーを見たとき、",
+      "title_original": "The Ballon d’Or doesn’t capture football’s wonder – Michael Olise is proof | Zito Madu",
+      "summary_original": "France’s always-cool winger has crowds hanging on his every move – adulation that means more than any title could When I was younger, I wanted to be the captain on my football team because back then, I assumed that the armband was given to the best player. It was a goal of mine for so long that, even as my youth teams won tournaments and trophies, and I won top scorer and best player awards, I still felt unsatisfied because someone else always had the armband. Whenever I saw another teammate spr",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/13/michael-olise-ballon-dor-france-belgium",
+      "published": "Tue, 13 Oct 2026 09:00:20 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "バイキングの2 つのヘッドコーチチャンピオンズリーグ冒険:「私たちにとって、それは世界で最高のチームです」",
       "summary": "ノルウェーの王者、ホストバイエルン・ミュンヘン毎週火曜日は、Bjarte Lunde Aarsheim そして、Morten Jensen. We「プレイヤーを募集するとき、大胆なことを言う」 朝のトレーニングセッション Lyse Arena 昼食を終わらせ、Morten Jensen 彼がどのように説明しているのか Bjarte Lunde Aarsheim 預言者 Viking Stavanger メディオリティからヨーロッパのエリート間の不可分な場所へ。「私たちはいつも彼らに伝えます:「バイキングに来て、私たちのために遊びなさい」",
       "title_original": "Viking’s two head coaches on Champions League adventure: ‘For us, it’s the best team in the world’",
@@ -3796,20 +3810,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/13/christian-pulisic-focal-point-milan-usmnt",
       "published": "Tue, 13 Oct 2026 09:00:20 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Daniel Maldini 家族で何年も経ち、カリアリで彼の足を見つけるセリエ A シャドー",
-      "summary": "チェザールのパオロと孫は、ミラノで自分自身を確立するために苦労しましたが、Fabio Pisacane 自分の潜在能力を解放し始めている Sardinia The 今までにない可能性はあります。セリエ A’ s は、このシーズンの最初のゴールレス ドローは、その 54 番目の試合に到着しました。, より有利なチームの 2 つの間にアイロンをかけ. おそらく、コモとコモの違いが異なるかもしれないローマ部門の一流のスコアラーなら、ドニエル・マレン, 獲得しなかったレッドカード後半のスタートで。見逃せない機会",
-      "title_original": "Daniel Maldini finds his feet at Cagliari after years in family’s Serie A shadow",
-      "summary_original": "Son of Paolo and grandson of Cesare struggled to establish himself at Milan but Fabio Pisacane is beginning to unlock his potential in Sardinia The abundance could not last for ever. Serie A’s first goalless draw of this season arrived in its 54th match, ironically between two of its more prolific teams. Perhaps things might have ended differently between Como and Roma if the division’s leading scorer, Donyell Malen, had not earned a red card at the start of the second half. A missed opportunity",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/12/daniel-maldini-cagliari-fabio-pisacane-serie-a",
-      "published": "Mon, 12 Oct 2026 11:56:59 GMT",
       "category": "seriea",
       "type": "seriea",
       "label": "セリエA",
