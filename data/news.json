@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-10-19T23:08:55.198728+00:00",
+  "updated_at": "2026-10-20T01:49:08.341999+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "The Los Angeles Rams": "",
-    "Sri Lanka ODI": "",
     "Will Team USA": "",
     "Presidents Cup": "",
     "Javier Tebas": "",
@@ -3001,7 +2999,9 @@
     "Northern Ireland Open": "",
     "Coventry LIVE": "",
     "South Africa's": "",
-    "Ryan Rickelton": ""
+    "Ryan Rickelton": "",
+    "Troy Deeney": "トロイ・ディーニー",
+    "Roberto De Zerbi’s": ""
   },
   "items": [
     {
@@ -3047,17 +3047,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マディソンが戻って輝きます -トッテナム v Coventry の評価",
-      "summary": "使い方トッテナムそして、コヴェントリー・シティ FC's のプレイヤーは、プレミアリーグマッチ。",
-      "title_original": "Maddison shines on return - Tottenham v Coventry ratings",
-      "summary_original": "How Spurs and Coventry City's players rated following their Premier League match.",
+      "title": "トロイさんを作った人プレミアリーグ週のチーム?",
+      "summary": "すべてのラウンドの後プレミアリーグ季節に合わせてトロイ・ディーニー今週のチームにチームを与えます。獲得を問い合わせ",
+      "title_original": "Who has made Troy's Premier League team of the week?",
+      "summary_original": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crx23ndd337wo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 21:05:28 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqgm0zy4d23po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 23:22:24 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": true,
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3072,6 +3072,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "マディソンが戻って輝きます -トッテナム v Coventry の評価",
+      "summary": "使い方トッテナムそして、コヴェントリー・シティ FC's のプレイヤーは、プレミアリーグマッチ。",
+      "title_original": "Maddison shines on return - Tottenham v Coventry ratings",
+      "summary_original": "How Spurs and Coventry City's players rated following their Premier League match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crx23ndd337wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 21:05:28 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3131,20 +3145,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ブレントフォードラグビーボールが試合中にスタジアムにキックした後、警察に連絡する",
-      "summary": "ブレントフォードラグビーボールがピッチに向かって高さから蹴られた「危険な」事件の後に警察と協力していると言うプレミアリーグゲームとリヴァプール.",
-      "title_original": "Brentford contact police after rugby ball kicked into stadium during game",
-      "summary_original": "Brentford say they are working with the police following a \"dangerous\" incident in which a rugby ball was kicked from a height towards the pitch during their Premier League game with Liverpool.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g17d11zvwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 16:26:44 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Araujo、ストップギャップソリューションの修正リヴァプール問題",
       "summary": "Ronald Araujo 到着以来感動しましたリヴァプールからバルセロナ. 長期的解決策を証明できますか?",
       "title_original": "Araujo the stopgap solution fixing Liverpool's problems",
@@ -3169,6 +3169,20 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ブレントフォードラグビーボールが試合中にスタジアムにキックした後、警察に連絡する",
+      "summary": "ブレントフォードラグビーボールがピッチに向かって高さから蹴られた「危険な」事件の後に警察と協力していると言うプレミアリーグゲームとリヴァプール.",
+      "title_original": "Brentford contact police after rugby ball kicked into stadium during game",
+      "summary_original": "Brentford say they are working with the police following a \"dangerous\" incident in which a rugby ball was kicked from a height towards the pitch during their Premier League game with Liverpool.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g17d11zvwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 16:26:44 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3243,20 +3257,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "ジョタ 'met いくつかの悪魔' 間に 長い 怪我 不在",
-      "summary": "ジョータは、彼の長い怪我の欠如中に「いくつかの悪魔をメット」認めるが、「急いで」彼のリターンは、フルマッチフィットネスに全試合する必要性がないと信じるセルティック.",
-      "title_original": "Jota 'met some demons' during long injury absence",
-      "summary_original": "Jota admits he \"met some demons\" during his long injury absence but believes there is no need to \"rush\" his return to full match fitness at Celtic.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c820vzrq695xo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 15:43:31 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "ビール&ブラックプールのビーチは、英国の選手が結ばれた方法だった - Pulis",
       "summary": "BBC スポーツコラムニスト Tony Pulis 何かを説明するトッテナムチーム・ボンディング・トリップからスペインに行き、その日のマネージャーがチーム・モラルを築き上げた方法をご紹介します。",
       "title_original": "Beer & Blackpool beach was how British players bonded - Pulis",
@@ -3264,6 +3264,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 06:23:48 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ジョタ 'met いくつかの悪魔' 間に 長い 怪我 不在",
+      "summary": "ジョータは、彼の長い怪我の欠如中に「いくつかの悪魔をメット」認めるが、「急いで」彼のリターンは、フルマッチフィットネスに全試合する必要性がないと信じるセルティック.",
+      "title_original": "Jota 'met some demons' during long injury absence",
+      "summary_original": "Jota admits he \"met some demons\" during his long injury absence but believes there is no need to \"rush\" his return to full match fitness at Celtic.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c820vzrq695xo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 15:43:31 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3281,20 +3295,6 @@
       "category": "transfer",
       "type": "transfer",
       "label": "移籍",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "私は誰ですか? プラス今日の他のクイズ",
-      "summary": "今日のサッカーに関する知識をテストする Who Am 私は?、ファイブとブレインティーザーの5 つ。",
-      "title_original": "Who am I? Plus today's other quizzes",
-      "summary_original": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwkg57jpj3yyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 05:47:12 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3496,9 +3496,9 @@
     },
     {
       "title": "獲得を問い合わせラミン・ヤマル別の魔法の呪文をとして隠すバルセロナパスファーストテスト |Sid Lowe",
-      "summary": "19 歳はセビリアでクラックラーを獲得しました, 彼の「ほぼロビナ」の後に日ガラタサライ, としてラ・リーガリーダーのビートレアル・ベティス最後は時間だったラミン・ヤマル開園日以降は、90 分前までに19 歳になるのは、レアル・ベティスファンは、タッチラインに彼のすべての方法をホイストバルセロナコーチが待っていました。ここの作業は、ハンジ・フリック彼が望んでいたことではなく、彼の足と彼の肩を離れて体重を取るために彼を招待しました。ログイン",
+      "summary": "19 歳はセビリアでクラックラーを獲得しました, 彼の「ほぼロビナ」の後に日ガラタサライ, としてラ・リーガリーダーのビートレアル・ベティス最後は時間だったラミン・ヤマル開園日以降は、90 分前までに19 歳になるのは、レアル・ベティスファンは、彼のタッチラインにすべての方法をホイストバルセロナコーチが待っていました。彼の作品はここにありました。ハンジ・フリック彼が望んでいたことではなく、彼の足と彼の肩を離れて体重を取るために彼を招待しました。",
       "title_original": "Will that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid Lowe",
-      "summary_original": "The 19-year-old scored a cracker in Seville, days after his ‘almost rabona’ at Galatasaray, as La Liga leaders beat Real Betis When at last it was time for Lamine Yamal to leave, the 19-year-old’s number going up before the 90th minute for only the second time since the opening day, Real Betis fans whistled him all the way to the touchline where Barcelona’s coach was waiting. His work here done, Hansi Flick invited him to take the weight off his feet and his shoulders, not that he wanted to. Fir",
+      "summary_original": "The 19-year-old scored a cracker in Seville, days after his ‘almost rabona’ at Galatasaray, as La Liga leaders beat Real Betis When at last it was time for Lamine Yamal to leave, the 19-year-old’s number going up before the 90th minute for only the second time since the opening day, Real Betis fans whistled him all the way to the touchline where Barcelona’s coach was waiting. His work here was done, Hansi Flick invited him to take the weight off his feet and his shoulders, not that he wanted to.",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/19/lamine-yamal-wonder-goal-barcelona-real-betis-la-liga",
       "published": "Mon, 19 Oct 2026 17:29:16 GMT",
@@ -3636,9 +3636,9 @@
     },
     {
       "title": "ホウディニはヴェネツィアの葉で行動します Massimiliano Allegri エスケープを探すナポリ | Nicky Bandini",
-      "summary": "マネージャーの最新のセットバックは、彼のスクワッドと彼のアプローチについての疑問を明らかにしました Davide Nicola ヴェネチア・サポーターズのバナーを約束し、ベネチア・サポーターズ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・ベネチア・パーカーズ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・オブ・オブ・オブ・ザ・オブ・オブ・オブ・オブ・ザ・オブ・ザ・オブ・オブ・ザ・オブ・オブ・ザ・ザ・オブ・オブ・ザ・オブ・ウィン・ベネチア・ザ・ウィンズ・ウィン・ウィン・ウィンズ・ウィンズ・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィンズ・ウィンズ・ウィン・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィンズ・ウィン・ウィンズ・ウィンズ・ウィン クラブとの関係が敗北を生き残る可能性があることを長い間前に証明したファンベースからモアを燃やします。すでに6 ラウンドで6 ラウンドを保証していたセリエ A 季節:一点でも勝者なしで部門唯一のチーム。最後の時間",
+      "summary": "マネージャーの最新のセットバックは、彼のスクワッドと彼のアプローチについての疑問を明らかにしました Davide Nicola ヴェネチア・サポーターズのバナーを約束し、ベネチア・サポーターズ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・オブ・ザ・ベネチア・パーカーズ・オブ・オブ・ザ・オブ・オブ・ザ・オブ・ザ・オブ・オブ・オブ・ザ・オブ・オブ・オブ・ザ・オブ・ウィン・ベネチア・オブ・オブ・ザ・オブ・オブ・ザ・ウィン・ウィン・ザ・ウィン・ウィン・ベネチア・ザ・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ウィン・ クラブとの関係が敗北を生き残る可能性があることを長い間前に証明したファンベースからモアを燃やします。すでに6 ラウンドで6 ラウンドを保証していたセリエ A 季節:勝利や単点でも部門で唯一のチーム。最後の時間",
       "title_original": "Houdini act in Venice leaves Massimiliano Allegri searching for an escape at Napoli | Nicky Bandini",
-      "summary_original": "Manager’s latest setback exposed growing doubts about his squad and his approach as Davide Nicola began his Venezia tenure with a remarkable win “I’ll love you even if you win,” promised the Venezia supporter’s banner. More gallows humour from a fanbase that proved long ago that its relationship with the club could survive a defeat. They had endured six already in the first six rounds of this Serie A season: the only team in the division without a winor even a single point. The last time they we",
+      "summary_original": "Manager’s latest setback exposed growing doubts about his squad and his approach as Davide Nicola began his Venezia tenure with a remarkable win “I’ll love you even if you win,” promised the Venezia supporter’s banner. More gallows humour from a fanbase that proved long ago that its relationship with the club could survive a defeat. They had endured six already in the first six rounds of this Serie A season: the only team in the division without a win or even a single point. The last time they w",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/19/massimiliano-allegri-napoli-davide-nicola-venezia-serie-a",
       "published": "Mon, 19 Oct 2026 16:25:22 GMT",
@@ -3817,17 +3817,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Houthi の衝突は影をとして投げました Saudi Arabia スケールバックスポーツパイプ夢",
-      "summary": "ミサイル攻撃警告によって遅延されたマッチは、何ではありません Cristiano Ronaldo そして、共同はのためにサインアップしましたが、それは新しい現実です。サウジアラビアスポーティングジュガーノートは、Cristiano Ronaldo 色のスカーフをつかむ Saudi Arabian スペーサでも熱心な群衆にフラグをつけ、それを呼び起こします。勝訴ではなく、失礼のジェスチャーで、「ケップの落ち着きと持ち運び」と同等のサウジアラビアをカプセル化しました。月曜日の夜のアジアチャンピオンズリーグエリートゲーム B",
-      "title_original": "Houthi conflict casts shadow as Saudi Arabia scales back sporting pipe dreams",
-      "summary_original": "A match delayed by missile attack warnings is not what Cristiano Ronaldo and co signed up for but it’s the new reality; the Saudi sporting juggernaut is stalling Cristiano Ronaldo grabbed the scarf in the colours of the Saudi Arabian flag and waved it at the sparse but enthusiastic crowd, who responded with rapturous cheers. It was a gesture of defiance rather than a victory salute, encapsulating the Saudi equivalent of “Keep calm and carry on”. Monday night’s Asian Champions League Elite game b",
+      "title": "欧州は爆破です。しかし、あなたがいないなら祝福よりも呪いが増えますプレミアリーグスーパークラブ IJonathan Wilson",
+      "summary": "4 つのプレミアリーグ日曜日には、より少ない大陸大会でプレーするクラブが3 つあります。太陽の輝き。温度は20 秒の高さでした。生き生きがいの気分はありました。正式な割り当てで苦労していたら、トレアンスの社長にメールを送ったり、並べ替えたりすることができました。これらを「Nuno-tickets」と呼んでいますか? 彼らがいた。それだけでなく、スタジアムで好きな場所でも座ることもできます。",
+      "title_original": "Europe is a blast – but more a curse than a blessing if you are not a Premier League super-club I Jonathan Wilson",
+      "summary_original": "The four Premier League clubs playing in the lesser continental competitions face each other on Sunday – but three are struggling domestically The sun shone. The temperature was in the high 20s. There was a mood of great conviviality. If you were struggling with the official allocation, it turned out you could just email the president of Torreense and he’d sort you out. Were these “Nuno-tickets” real? It turned out they were. Not only that, but you could sit anywhere you wanted in a stadium too ",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/sport/2026/oct/17/houthi-conflict-casts-shadow-as-saudi-arabia-scales-back-sporting-pipe-dreams",
-      "published": "Sat, 17 Oct 2026 07:00:24 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
+      "url": "https://www.theguardian.com/football/2026/oct/17/europe-is-a-blast-but-more-a-curse-than-a-blessing-if-you-are-not-a-super-club",
+      "published": "Sat, 17 Oct 2026 19:00:38 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
