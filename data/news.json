@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-10-24T23:43:50.174666+00:00",
+  "updated_at": "2026-10-25T01:41:02.819485+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Lee Cattermole’s": "",
-    "Ben Clarke": "",
-    "Adidas Jabulani": "",
     "Follow Guardian Soccer": "",
     "TikTok The": "",
     "United States": "",
@@ -3001,7 +2998,10 @@
     "Cardiff City": "カーディフ・シティFC",
     "By Gino Pivatelli. At": "",
     "Dalton Smith": "",
-    "Alberto Puello": ""
+    "Alberto Puello": "",
+    "Britain's Alisha Palmowski": "",
+    "Can Wolff's": "",
+    "Drivers' Championship": ""
   },
   "items": [
     {
@@ -3845,6 +3845,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "フェラーリのペースが再び蒸発したのはなぜですか?",
+      "summary": "フェラーリが初めて待ちますグランプリ2025 年8 月よりポールポジションを継続 United States 土曜日に Charles Leclerc そして、Lewis Hamilton お気に入りとして広く刻まれたセッションでトップ3 の外側に資格があります。",
+      "title_original": "‘Night and day different’ – why did Ferrari's pace evaporate again?",
+      "summary_original": "Ferrari's wait for a first Grand Prix pole position since August 2025 continued in the United States on Saturday as Charles Leclerc and Lewis Hamilton qualified outside the top three in a session they had been widely tipped as favourites for.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13603156/lewis-hamilton-charles-leclerc-reasons-why-ferrari-went-from-us-gp-pole-favourites-to-behind-kimi-antonelli-red-bulls-on-grid",
+      "published": "Sat, 24 Oct 2026 23:50:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「夢が叶う!」 -Britain's Palmowski2026 年度 F1 アカデミー優勝",
+      "summary": "Britain's Alisha Palmowski2026 年 F1 アカデミーのチャンピオンとなり、オースティンで不安定なリードを築き上げて3 つのレースを獲得しました。",
+      "title_original": "'Dream come true!' - Britain's Palmowski becomes 2026 F1 Academy champion",
+      "summary_original": "Britain's Alisha Palmowski became the 2026 F1 Academy champion with three races to spare after building an unassailable lead in Austin.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13603359/f1-academy-alisha-palmowski-becomes-2026-champion-with-three-races-of-season-to-spare-in-austin",
+      "published": "Sun, 25 Oct 2026 01:00:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Antonelli はアメリカでシーリングタイトルのチャンスを高めるために驚きの棒を取ります",
       "summary": "Kimi Antonelli ビート Max Verstappen 米国のための棒の位置へのグランプリ日曜日のレースで乙女世界選手権を封印するチャンスを高めるために。",
       "title_original": "Antonelli takes surprise pole to boost chances of sealing title in USA",
@@ -3852,6 +3880,20 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13603149/united-states-gp-qualifying-kimi-antonelli-beats-max-verstappen-to-surprise-pole-to-boost-chances-of-sealing-maiden-f1-title-on-sunday",
       "published": "Sat, 24 Oct 2026 23:00:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "「現実的ではない」 -Can Wolff'sAntonelli のタイトルチャンスの評価は信頼できますか?",
+      "summary": "メルセデスのチーム プリンシパルトト・ヴォルフ「現実的ではない」と信じる Kimi Antonelli 勝つために 2026 F1Drivers' Championship アメリカの日曜日グランプリ、イタリアが棒の立場で始まるにもかかわらず。",
+      "title_original": "'Not realistic' - Can Wolff's assessment of Antonelli's title chance be trusted?",
+      "summary_original": "Mercedes team principal Toto Wolff believes it is \"not realistic\" for Kimi Antonelli to win the 2026 F1 Drivers' Championship on Sunday at the United States Grand Prix, despite the Italian starting on pole position.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13603166/united-states-gp-how-likely-is-pole-sitter-kimi-antonelli-to-win-2026-f1-drivers-championship-on-sunday-in-austin",
+      "published": "Sun, 25 Oct 2026 01:00:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3870,6 +3912,20 @@
       "type": "transfer",
       "label": "移籍",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Palmowski は F1 アカデミーのタイトルを Larsen の勝利の乙女の競争として確保します",
+      "summary": "",
+      "title_original": "Palmowski secures F1 Academy title as Larsen wins maiden race",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "published": "Thu, 22 Oct 2026 23:25:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4066,62 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Leicester ダウン ホルダー Northampton として ブリストル ビート エクセター",
-      "summary": "Leicester Tigers' ドミナント・セカンド・ハーフ・パフォーマンスは、防衛王者に対する印象的な28-7 勝利を獲得しました Northampton Saints.",
-      "title_original": "Leicester down holders Northampton as Bristol beat Exeter",
-      "summary_original": "Leicester Tigers' dominant second-half performance earned them an impressive 28-7 victory over defending champions Northampton Saints.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13603289/gallagher-prem-leicester-beat-holders-northampton-as-bristol-get-better-of-exeter",
-      "published": "Sat, 24 Oct 2026 17:51:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Falkirk 3-0 キルマノック",
-      "summary": "ハイライトを見る Scottish PremiershipFalkirk と Kilmarnock の試合",
-      "title_original": "Falkirk 3-0 Kilmarnock",
-      "summary_original": "Watch the highlights from the Scottish Premiership match between Falkirk and Kilmarnock",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13603369/falkirk-3-0-kilmarnock-scottish-premiership-highlights",
-      "published": "Sat, 24 Oct 2026 20:31:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "St Mirren2-1 ダンディー",
-      "summary": "ハイライトから Scottish Premiership 間のマッチ St Mirren そしてダンディー。",
-      "title_original": "St Mirren 2-1 Dundee",
-      "summary_original": "Highlights from the Scottish Premiership match between St Mirren and Dundee.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13603367/st-mirren-2-1-dundee-scottish-premiership-highlights",
-      "published": "Sat, 24 Oct 2026 20:29:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "'NIGHTMARE!' - 自分のネットにボールをパンチ!",
-      "summary": "Mike Penders ボールを自分のネットにパンチして与えるトッテナムリード対チェルシー.",
-      "title_original": "'NIGHTMARE!' - Penders punches ball into own net!",
-      "summary_original": "Mike Penders punches the ball into his own net to give Spurs the lead against Chelsea.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13603327/goal-m-penders-og-chelsea-0-1-tottenham-hotspur",
-      "published": "Sat, 24 Oct 2026 19:13:00 BST",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
