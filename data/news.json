@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-10-26T23:23:08.712773+00:00",
+  "updated_at": "2026-10-27T02:16:13.327282+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Billy Kenny. So I’m": "",
-    "Sean Ingle": "",
-    "Billy Meredith": "",
     "FOOTBALL SENSATION": "",
     "MANCHESTER CITY’S GRAVE OFFENCES": "",
     "HEAVY PUNISHMENTS": "",
@@ -3001,7 +2998,10 @@
     "Watch Harry Kane's": "",
     "Young Talent": "",
     "Kane WINS Ballon": "",
-    "Or LIVE": ""
+    "Or LIVE": "",
+    "Palladium Theatre": "",
+    "Thunder's Williams": "",
+    "Harry Kane’s": ""
   },
   "items": [
     {
@@ -3061,13 +3061,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "初演はバレエ・ド・オルの勝者として発表したが、彼は1 人だけなかった",
-      "summary": "ハリー・ケインオルガニザーが賞を獲得した記事を発売したときに、月曜日に来るとボールン D'Or を獲得したのが夢でした。",
+      "title": "初演の Balon d'Or の勝者として発表したが、彼は1 つだけなかった",
+      "summary": "ハリー・ケイン'S Dreams of the Ballon d'Or は、月曜日に真似していたが、数時間前にオーガナイザーは、彼が賞を受賞した記事を公開した。",
       "title_original": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
-      "summary_original": "Harry Kane's dream of winning the Ballon d'Or seemed as if it had come true on Monday when the organisers released an article claiming he had won the award.",
+      "summary_original": "Harry Kane's dream of winning the Ballon d'Or came true on Monday, but a few hours earlier organisers prematurely released an article claiming he had clinched the award.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmly0g2y7q2zo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Oct 2026 18:10:26 GMT",
+      "published": "Mon, 26 Oct 2026 23:35:27 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3425,17 +3425,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バロン d’ または2026:ロンドンの表彰式からの更新 – ライブ",
-      "summary": "ゴール️ ボールン d’Or のアップデートは、8.45pm GMT/4.45pm ET の開始です。Stanley Matthews 女子権力ランキング:新勝者を獲得しますか? 英国勝者を語る電子メールを介してダニエルにあなたの考えを送信, それは絶対にそれを考えるといけない, で 1968, 3 勝者 –Denis Law, ボビー・チャールトンそして、George Best- 同じで再生マンチェスター・ユナイテッドチーム。しかし、お金にもかかわらず、プレミアリーグそして例外とアーリング・ハーランドそして、ブルーノ・フェルナンデス, なる",
-      "title_original": "Ballon d’Or 2026: Updates from awards ceremony in London – live",
-      "summary_original": "⚽️ Ballon d’Or updates from 8.45pm GMT/4.45pm ET ⚽️ Ceremony returns to England in nod to Stanley Matthews ⚽️ Women’s power rankings: will a new winner be crowned? ⚽️ Send your thoughts to Daniel via email Talking of UK winners, it’s absolutely insane to think that, in 1968, three winners – Denis Law, Bobby Charlton and George Best – played in the same Manchester United team. Now, though, despite the money in the Premier League and with the exception of Erling Haaland and Bruno Fernandes, the be",
+      "title": "ハリー・ケインクレーム 男子 ボールン d’Or 終了 イングランドの 25 年間の勝者待ち",
+      "summary": "Alexia Putellas ロンドンの式典でイングランドのキャプテンが認定された3 番目の女性賞をピックアップハリー・ケイン2026 年の Ballon d’Or の勝者で、25 年間でサッカーの最も権威ある個々のトロフィーを獲得する最初の英語マンです。華やかなお祝いに2 時間 Palladium Theatre ロンドンでは、カネの名前は、最終封筒から講堂の中の野生のチェッカーに出現しました。女性のバロン d’Or は、先ほどの瞬間を獲得しました。Alexia Putellas インフォメーション London City Lionesses, a",
+      "title_original": "Harry Kane claims men’s Ballon d’Or to end England’s 25-year wait for winner",
+      "summary_original": "Alexia Putellas picks up women’s award for third time England captain acclaimed in London ceremony Harry Kane is the Ballon d’Or winner for 2026, the first Englishman to win football’s most prestigious individual trophy in 25 years. Two hours into a lavishly excitable ceremony at the Palladium Theatre in London, Kane’s name emerged from the final envelope to wild cheers inside the auditorium. The women’s Ballon d’Or, awarded moments earlier, was won by Alexia Putellas of London City Lionesses, a",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/26/ballon-dor-2026-updates-from-70th-edition-in-london-live",
-      "published": "Mon, 26 Oct 2026 23:13:18 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
+      "url": "https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor",
+      "published": "Mon, 26 Oct 2026 23:11:22 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3446,6 +3446,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/26/michael-carrick-manchester-united-training-ground-club-discuss-sacking",
       "published": "Mon, 26 Oct 2026 16:57:27 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "データの損傷: 表示するステータスマイケル・キャリックの 運が出て行くためにバインドされた |Andrew Beasley",
+      "summary": "好ましい条件と緑のこしは後ろだったマンチェスター・ユナイテッド’ s 成功 終了 へ 最後のシーズンマンチェスター・ユナイテッド3 番目のベストチームであるプレミアリーグ獲得を問い合わせマイケル・キャリックヘッドコーチとして。自分の仕事は、脅威に限らずに脅威を抱くための努力です。アーセナル(57 ポイント)マンチェスター・シティ(56) は、45 歳児の10 年間で、イギリスより生産的になりました。背の高い障害は、永続的な事実を危険にさらします。ユナイテッドトッピングプレミアリーグ17 インチのインットで",
+      "title_original": "Damning data: stats that show Michael Carrick’s luck was bound to run out | Andrew Beasley",
+      "summary_original": "Favourable conditions and the rub of the green were behind Manchester United’s successful finish to last season Manchester United have been the third‑best team in the Premier League with Michael Carrick as their head coach. It is some effort for his job to be so under threat when only Arsenal (57 points) and Manchester City (56) have been more productive than United (46) during the 45-year-old’s tenure. The tally obscures pertinent facts. United topping the Premier League during his 17‑match int",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/26/damning-data-michael-carrick-manchester-united-head-coach",
+      "published": "Mon, 26 Oct 2026 18:50:43 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3464,20 +3478,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "わたしたちが抱いた馬マンチェスター・ユナイテッド’s tragic アーク |Jonathan Wilson",
-      "summary": "周りを行くために多くの非難があります Old Trafford. Like 一見小さく、接続されていない瞬間から始まったすべての欠点は、ここで無料のニュースレターにサインアップ そして、ここで私たちは再び、その時点で夜が引いて、マンチェスター・ユナイテッドマネージャーを切る準備をして下さい。秋: 霧の季節、黄実、危機 Old Trafford. Sunday’s3-0 家の敗北 Bournemouth , 先週の後ろに来る 4-1 コモに対する逆転, 多くが瞬間から恐れていたものをクリア",
-      "title_original": "The horse that ushered in Manchester United’s tragic arc | Jonathan Wilson",
-      "summary_original": "There’s plenty of blame to go around at Old Trafford. Like all downfalls it started with a seemingly small, unconnected moment Sign up for our free newsletter here And so here we are again, at that point as the nights draw in and Manchester United prepare to sack a manager . Autumn: season of mists, mellow fruitfulness and a crisis at Old Trafford. Sunday’s 3-0 home defeat to Bournemouth , coming on the back of last week’s 4-1 reverse against Como, made clear what many had feared from the moment",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/26/the-horse-that-brought-down-manchester-united",
-      "published": "Mon, 26 Oct 2026 14:43:51 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3551,13 +3551,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "データの損傷: 表示するステータスマイケル・キャリックの 運が出て行くためにバインドされた |Andrew Beasley",
-      "summary": "好ましい条件と緑のこしは後ろだったマンチェスター・ユナイテッド’ s 成功 終了 へ 最後のシーズンマンチェスター・ユナイテッド3 番目のベストチームであるプレミアリーグ獲得を問い合わせマイケル・キャリックヘッドコーチとして。自分の仕事は、脅威に限らずに脅威を抱くための努力です。アーセナル(57 ポイント)マンチェスター・シティ(56) は、45 歳児の10 年間で、イギリスより生産的になりました。背の高い障害は、永続的な事実を危険にさらします。ユナイテッドトッピングプレミアリーグ17 インチのインットで",
-      "title_original": "Damning data: stats that show Michael Carrick’s luck was bound to run out | Andrew Beasley",
-      "summary_original": "Favourable conditions and the rub of the green were behind Manchester United’s successful finish to last season Manchester United have been the third‑best team in the Premier League with Michael Carrick as their head coach. It is some effort for his job to be so under threat when only Arsenal (57 points) and Manchester City (56) have been more productive than United (46) during the 45-year-old’s tenure. The tally obscures pertinent facts. United topping the Premier League during his 17‑match int",
+      "title": "わたしたちが抱いた馬マンチェスター・ユナイテッド’s tragic アーク |Jonathan Wilson",
+      "summary": "周りを行くために多くの非難があります Old Trafford. Like 一見小さく、接続されていない瞬間から始まったすべての欠点は、ここで無料のニュースレターにサインアップ そして、ここで私たちは再び、その時点で夜が引いて、マンチェスター・ユナイテッドマネージャーを切る準備をして下さい。秋: 霧の季節、黄実、危機 Old Trafford. Sunday’s3-0 家の敗北 Bournemouth , 先週の後ろに来る 4-1 コモに対する逆転, 多くが瞬間から恐れていたものをクリア",
+      "title_original": "The horse that ushered in Manchester United’s tragic arc | Jonathan Wilson",
+      "summary_original": "There’s plenty of blame to go around at Old Trafford. Like all downfalls it started with a seemingly small, unconnected moment Sign up for our free newsletter here And so here we are again, at that point as the nights draw in and Manchester United prepare to sack a manager . Autumn: season of mists, mellow fruitfulness and a crisis at Old Trafford. Sunday’s 3-0 home defeat to Bournemouth , coming on the back of last week’s 4-1 reverse against Como, made clear what many had feared from the moment",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/26/damning-data-michael-carrick-manchester-united-head-coach",
-      "published": "Mon, 26 Oct 2026 18:50:43 GMT",
+      "url": "https://www.theguardian.com/football/2026/oct/26/the-horse-that-brought-down-manchester-united",
+      "published": "Mon, 26 Oct 2026 14:43:51 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Thunder's Williams 更新した足のための外科を要求し、足首を移しました",
+      "summary": "Oklahoma City Thunder スタースターJalen Williams 更新した左の fibula を修理し、108-101 の勝利の間に引き伸ばされた後に左足首を移すために手術が必要になりますロサンゼルスクリッパー。",
+      "title_original": "Thunder's Williams requires surgery for broken leg and dislocated ankle",
+      "summary_original": "Oklahoma City Thunder star Jalen Williams will need surgery to repair a broken left fibula and dislocated left ankle after being stretchered off during their 108-101 victory over the Los Angeles Clippers.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/basketball/news/12040/13604207/jalen-williams-oklahoma-city-thunder-star-requires-surgery-for-broken-leg-and-dislocated-ankle",
+      "published": "Mon, 26 Oct 2026 23:20:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "ガヌは25 年ぶりに、バロン・ドールで初めての英語賞を受賞",
       "summary": "ハリー・ケインロンドンで開催されたセレモニーで25 年ぶりのバレエ団の初日英語賞を受賞しました。",
       "title_original": "Kane becomes first English winner of Ballon d'Or in 25 years",
@@ -3856,6 +3870,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "バロン d'Or を獲得したゴールを見る",
+      "summary": "獲得を問い合わせハリー・ケインの目標バイエルン・ミュンヘンから 2025/2026 ブンデスリーガ季節は、レコードセットのゴールスコアラーが Ballon d'Or の初の英語の勝者になるので、マイケル・オーウェンで 2001.",
+      "title_original": "Watch the goals that won Kane the Ballon d'Or",
+      "summary_original": "We take a look at all Harry Kane's goals for Bayern Munich from the 2025/2026 Bundesliga season, as the record-setting goal scorer becomes the first English winner of the Ballon d'Or since Michael Owen in 2001.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13591355/can-the-english-goal-machine-secure-the-ballon-dor-all-of-harry-kanes-goals-from-the-2025-2026-bundesliga-season",
+      "published": "Thu, 24 Sep 2026 10:46:00 BST",
+      "category": "bundesliga",
+      "type": "bundesliga",
+      "label": "ブンデス",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3884,6 +3912,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "忘れられない EFL ローンから Balon d'Or の勝者へ - Kane's 'Cinderella story'",
+      "summary": "忘れられない EFL ローンの呪文から世界最高のプレーヤーを戴冠、それは不思議ではありませんハリー・ケイン’ 元ボスは、彼のバロン d'Or が妖精の物語として勝つと考えている.",
+      "title_original": "From forgettable EFL loans to Ballon d'Or winner - Kane's 'Cinderella story'",
+      "summary_original": "From forgettable EFL loan spells to being crowned the best player in the world, it is no wonder Harry Kane’s former boss thinks of his Ballon d'Or win as a fairy tale.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13602662/harry-kane-wins-ballon-dor-bayern-munich-striker-completes-cinderella-story-from-efl-loans-to-worlds-best-player",
+      "published": "Mon, 26 Oct 2026 23:35:00 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3943,17 +3985,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Kane WINS Ballon ログイン Or LIVE!",
+      "title": "スペインで2026 年のバレエの D'Or の優勝者全員バルセロナドミネーション...",
       "summary": "",
-      "title_original": "Kane WINS Ballon d'Or LIVE!",
+      "title_original": "All the 2026 Ballon d'Or winners as Spain and Barcelona dominate...",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13601936/ballon-dor-2026-ceremony-live-harry-kane-alexia-putellas-among-favourites-for-france-football-award",
-      "published": "Wed, 21 Oct 2026 15:36:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
+      "published": "Mon, 26 Oct 2026 23:30:00 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -4076,48 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13603629/mexico-city-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-autodromo-hermanos-rodriguez-live-on-sky-sports",
       "published": "Mon, 26 Oct 2026 11:40:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "誰が Ballon d'Or を持ち上げるべきですか? Merse, Carra と より多くの 選ぶ 彼らの 勝者...",
-      "summary": "スカイスポーツのパンディットとジャーナリストが2026 Ballon d'Or に勝つために支持されているかを見てみましょう。",
-      "title_original": "Who should lift Ballon d'Or? Merse, Carra and more pick their winner...",
-      "summary_original": "Take a look at who Sky Sports pundits and journalists are backing to win the 2026 Ballon d'Or.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13602377/harry-kane-lamine-yamal-who-should-win-the-ballon-dor",
-      "published": "Thu, 22 Oct 2026 16:55:00 BST",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "スミスビート シュインドラー にドルトムントスリラーの後 Littler's QF アクセス",
-      "summary": "Ross Smith 勝ちました Machineseeker European Championship 後半を克服した後、2 番目の時間 Martin Schindler11-8 勝利を主張する対決ドルトムント.",
-      "title_original": "Smith beats Schindler in Dortmund thriller after Littler's QF exit",
-      "summary_original": "Ross Smith has won the Machineseeker European Championship for a second time after overcoming a late Martin Schindler fightback to claim an 11-8 victory in Dortmund.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13603670/european-championship-darts-ross-smith-beats-martin-schindler-to-dortmund-title-after-luke-littlers-quarter-final-exit",
-      "published": "Sun, 25 Oct 2026 22:12:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「ドライバーのクオリティは非常に低い」 - アロンソは衝突後のアルボンを批判します",
-      "summary": "Aston Martin's Fernando Alonso 獲得を問い合わせ Williams' Alex Albon グリッドの下3 分のドライバーの品質は、ペアが衝突した後に「非常に低い」と述べたアメリカ合衆国 グランプリ.",
-      "title_original": "'Quality of drivers very low' - Alonso criticises Albon after clash",
-      "summary_original": "Aston Martin's Fernando Alonso hit out at Williams' Alex Albon and stated the quality of drivers in the bottom third of the grid is \"very low\" after the pair collided at the United States Grand Prix.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13603615/fernando-alonso-criticises-alex-albon-and-says-quality-of-drivers-is-very-low-in-bottom-third-of-f1-field-at-united-states-gp",
-      "published": "Mon, 26 Oct 2026 01:00:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
