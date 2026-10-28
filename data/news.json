@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-10-28T02:00:19.210839+00:00",
+  "updated_at": "2026-10-28T07:59:29.473827+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Rob Dorsett": "",
-    "From Bernabeu": "",
-    "No. In": "",
-    "Sky Sports' Jamie Carragher": "",
-    "Sky Sports News' Michael": "",
-    "Former Man City": "",
-    "Man City Women": "",
-    "Andree Jeglertz": "",
-    "Northampton Town": "ノーサンプトン・タウンFC",
-    "Alexandre Pato": "",
-    "Former Manchester United": "",
-    "Chris Smalling": "",
-    "Read Moving": "",
     "Mail Niall": "",
     "Cooney Cross": "",
     "Lisa Baum": "",
@@ -3001,7 +2988,20 @@
     "Spanish FA": "",
     "Stan Wawrinka's": "",
     "Swiss Indoors Basel": "",
-    "Is Fleetwood's": ""
+    "Is Fleetwood's": "",
+    "Manager Lawlor": "",
+    "Carabao Cup. The": "",
+    "Conor Haughey": "",
+    "Jay Lynch": "",
+    "Two-time World Darts Champion": "",
+    "World Drivers' Championship": "",
+    "England's World Cup": "",
+    "Luis Domingos": "",
+    "Bo's Broncos": "",
+    "Inside Denver's": "",
+    "Rocky Mountain Thunder. The": "",
+    "Mile High Stadium": "",
+    "Aston Martin": "アストンマーティン"
   },
   "items": [
     {
@@ -3019,9 +3019,9 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "怖いフリートウッドのためのクラブの歴史の中で「ビッグジェストナイト」",
-      "summary": "83 リーグが Fleetwood を分離するアーセナル, まだホストは自分の場所を予約しました EFL カップ彼らのおかげで四半期ファイナル PK 戦ガンナーに勝つ。",
-      "title_original": "'Biggest night in the club's history' for fearless Fleetwood",
+      "title": "'Biggest night in club's history' for fearless Fleetwood",
+      "summary": "A whopping 83 league places separated Fleetwood from アーセナル, yet the hosts booked their place in the EFL カップ quarter-final thanks to their PK 戦 win over the Gunners.",
+      "title_original": "'Biggest night in club's history' for fearless Fleetwood",
       "summary_original": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
@@ -3058,6 +3058,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Play the 100th edition of Who am I? Plus today's other quizzes",
+      "summary": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
+      "title_original": "Play the 100th edition of Who am I? Plus today's other quizzes",
+      "summary_original": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 06:33:14 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3215,20 +3229,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "私は誰ですか? プラス今日の他のクイズ",
-      "summary": "ボールの知識を今日からテストする Who Am 私は?、ファイブとブレインティーザーで5 つ。",
-      "title_original": "Who am I? Plus today's other quizzes",
-      "summary_original": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm62y818j9gjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 06:57:27 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "How Kane's Ballond'Or の勝利はブーストできますブンデスリーガ",
       "summary": "ハリー・ケインの Ballon d'Or は、賞の英語の勝者のための 25 年待ち終了しただけでなく、ブンデスリーガプレイヤーは、1996 年以来初めて勝利しました。",
       "title_original": "How Kane's Ballon d'Or win could boost the Bundesliga",
@@ -3313,6 +3313,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Lawlor delighted after beating 'best team in the country'",
+      "summary": "Fleetwood Town manager Matt Lawlor could not hide his delight after seeing his team knock プレミアリーグ champions アーセナル out of the EFL Cup on penalties.",
+      "title_original": "Lawlor delighted after beating 'best team in the country'",
+      "summary_original": "Fleetwood Town manager Matt Lawlor could not hide his delight after seeing his team knock Premier League champions Arsenal out of the EFL Cup on penalties.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr93z7p02743o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 07:28:41 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Ballon d'Or の勝者 Kane は、彼のゲームがどのように進化してきたかを説明しています",
       "summary": "8 月、ハリー・ケインインフォメーション Umir Irfan 彼が最近の季節に進化した方法 - 彼を導いた 表彰されたバロン ドー オル。",
       "title_original": "Ballon d'Or winner Kane explains how his game has evolved",
@@ -3369,20 +3383,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "マンチェスター・ユナイテッド欠乏の強度と戦い - エイダーウェイリード",
-      "summary": "デイパンディットのマッチトビー・アルデルヴェイレルトそして、アシュレー・ウィリアムズソリューションマンチェスター・ユナイテッドの 3-0 はボーンマスで敗北します。, と Alderweireld は、ユナイテッド・スクワッドの中で「togetherness」はありません。.",
-      "title_original": "Man Utd lacked intensity & fight - Alderweireld",
-      "summary_original": "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Manchester United's 3-0 defeat by Bournemouth, with Alderweireld suggesting there is no \"togetherness\" amongst the United squad.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6wyrg2vwjmgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 23:51:22 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Putellas は、記録的な第 3 回バレエ D'Or を獲得し、スペイン語の優位性を拡張",
       "summary": "バルセロナスペインのミッドフィルダーAlexia Putellas バロン d を獲得 Or Feminin 記録的な3 分の3 回目の開催",
       "title_original": "Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance",
@@ -3425,13 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Fantastic Fleetwood シールシュートアウト成功 EFL カップ衝撃に対してアーセナル",
-      "summary": "以来20 年以上アーセナル Highbury でプレーするが、旅行 League Two Fleetwood– 同じ名前のスタジアム – 彼らは捨てられたように、フォンドの記憶を持っていません EFL カップペンダント 赤いシャツと白の袖のチームが勝利しましたが、この機会に、それは英語のサッカーの歴史の中で最高の設定の1 を引き起こしました。Aaron Loupalo-Bi そして、Viktor Gyökeres 通常の時間に交換された目標アーセナル勝者が見つかりませんでした。",
-      "title_original": "Fantastic Fleetwood seal shootout success in Carabao Cup shock against Arsenal",
-      "summary_original": "It is more than 20 years since Arsenal played at Highbury but their trip to League Two Fleetwood – and a stadium of the same name – did not bring back fond memories as they were dumped out of the Carabao Cup on penalties. It was the team with red shirts and white sleeves that triumphed, but on this occasion it caused one of the greatest upsets in English football history. Aaron Loupalo-Bi and Viktor Gyökeres exchanged goals in normal time but Arsenal were unable to find a winner, despite being t",
+      "title": "‘What you live for’: Fleetwood revel in seismic アーセナル shock after Dowman sees red",
+      "summary": "Manager Lawlor reflects on ‘unbelievably special’ night アーセナル youngster sent off for retaliation before shootout Fleetwood’s manager, Matt Lawlor, hailed the club’s victory as one for all football after his side shocked the プレミアリーグ champions, アーセナル, on penalties in the EFL カップ. The side 18th in League Two held their nerve in the shootout, Conor Haughey hitting the winner to reach the quarter-finals. The goalkeeper, Jay Lynch, was Fleetwood’s other hero, saving from Bruno Guimarães",
+      "title_original": "‘What you live for’: Fleetwood revel in seismic Arsenal shock after Dowman sees red",
+      "summary_original": "Manager Lawlor reflects on ‘unbelievably special’ night Arsenal youngster sent off for retaliation before shootout Fleetwood’s manager, Matt Lawlor, hailed the club’s victory as one for all football after his side shocked the Premier League champions, Arsenal, on penalties in the Carabao Cup. The side 18th in League Two held their nerve in the shootout, Conor Haughey hitting the winner to reach the quarter-finals. The goalkeeper, Jay Lynch, was Fleetwood’s other hero, saving from Bruno Guimarães",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/fleetwood-town-arsenal-carabao-cup-fourth-round-match-report",
-      "published": "Tue, 27 Oct 2026 22:26:05 GMT",
+      "url": "https://www.theguardian.com/football/2026/oct/27/that-was-what-you-live-for-fleetwood-revel-in-unbelievably-special-arsenal-win",
+      "published": "Tue, 27 Oct 2026 23:52:21 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3495,16 +3495,16 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "バルセロナ罰金 £503 彼らのアプローチよりもアトレティコ・マドリード星 Álvarez",
-      "summary": "Atlético 認定バルセロナ夏のチェイスストライカー中、ファンと彼の評判を再構築バルセロナ’s の追求 Julián Álvarez 毎週火曜日にモデストの費用で来た Spanish FA クラブを罰金を科される €602 (£503) による苦情をフォローアトレティコ・マドリード以上の連絡先とストライカー。Atlético 認定バルセロナ2030 年6 月まで契約が実行されるアルゼンチンに近づくため、書面で最初に通知することなく。続きを読む...",
-      "title_original": "Barcelona fined £503 over their approach for Atlético Madrid star Álvarez",
-      "summary_original": "Atlético accused Barcelona during summer chase Striker now rebuilding his reputation with fans Barcelona’s pursuit of Julián Álvarez came at a modest cost ⁠on Tuesday after the Spanish FA fined the club €602 (£503) following a complaint by Atlético Madrid over contact ⁠with ​the striker. Atlético accused Barcelona of approaching the Argentine, whose contract runs until June 2030, ⁠without first notifying them in writing. Continue reading...",
+      "title": "Pierre Sage より多くの時間を与えて下さいクリスタル・パレスしかし、圧力の下に残っている",
+      "summary": "フレンチマンの未来は、シーズンの始まりが悪いと疑わしい もしかして、クリスタル・パレス失うトッテナム獲得を問い合わせ Saturday Pierre Sage 周りを回すためにより多くの時間を与えられましたクリスタル・パレスの fortunes しかし、彼は巨大な圧力の下に残っているし、彼らは反対に負けた場合、却下することができトッテナム土曜日に。フランス人男の立場は、2-0 敗北の別の悪い性能の後に深刻な疑問にありましたニューカッスル週末に。それに続く 5-0 発疹に対してブライトンセージが警告されたとき、彼は共同",
+      "title_original": "Pierre Sage given more time by Crystal Palace but remains under pressure",
+      "summary_original": "Frenchman’s future was in doubt after bad start to season He could be sacked if Palace lose at Spurs on Saturday Pierre Sage has been given more time to turn around Crystal Palace’s fortunes but he remains under huge pressure and could be dismissed if they lose against Tottenham on Saturday. The Frenchman’s position was in serious doubt after another poor performance in the 2-0 defeat against Newcastle at the weekend. That followed a 5-0 thrashing against Brighton when Sage was warned that he co",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarez",
-      "published": "Tue, 27 Oct 2026 23:18:47 GMT",
-      "category": "laliga",
-      "type": "laliga",
-      "label": "ラ・リーガ",
+      "url": "https://www.theguardian.com/football/2026/oct/27/pierre-sage-given-more-time-by-crystal-palace-but-remains-under-pressure",
+      "published": "Tue, 27 Oct 2026 12:22:57 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3523,20 +3523,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Pierre Sage より多くの時間を与えて下さいクリスタル・パレスしかし、圧力の下に残っている",
-      "summary": "フレンチマンの未来は、シーズンの始まりが悪いと疑わしい もしかして、クリスタル・パレス失うトッテナム獲得を問い合わせ Saturday Pierre Sage 周りを回すためにより多くの時間を与えられましたクリスタル・パレスの fortunes しかし、彼は巨大な圧力の下に残っているし、彼らは反対に負けた場合、却下することができトッテナム土曜日に。フランス人男の立場は、2-0 敗北の別の悪い性能の後に深刻な疑問にありましたニューカッスル週末に。それに続く 5-0 発疹に対してブライトンセージが警告されたとき、彼は共同",
-      "title_original": "Pierre Sage given more time by Crystal Palace but remains under pressure",
-      "summary_original": "Frenchman’s future was in doubt after bad start to season He could be sacked if Palace lose at Spurs on Saturday Pierre Sage has been given more time to turn around Crystal Palace’s fortunes but he remains under huge pressure and could be dismissed if they lose against Tottenham on Saturday. The Frenchman’s position was in serious doubt after another poor performance in the 2-0 defeat against Newcastle at the weekend. That followed a 5-0 thrashing against Brighton when Sage was warned that he co",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/pierre-sage-given-more-time-by-crystal-palace-but-remains-under-pressure",
-      "published": "Tue, 27 Oct 2026 12:22:57 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "両親が3 歳のことをあまりにも良いと言いた後、フロリダサッカーゲームに呼ばれた警察",
       "summary": "主催者は、両親が迷惑行為を引き起こしていたと述べました 誰も逮捕されなかったり、ゲームを退去したりしました Florida Police 週末にフロリダのサッカーゲームで3 歳の選手の両親を巻き込んだ紛争が呼び出されました。少年の両親は、自分の息子、ネバダを言って警察のボディカメラで聞いたことがあります。彼はサッカーであまりにも良いだったし、他の子供たちを恥ずかしがっていたので、キックアウトしました。しかし、ネバダが他の子供を追いかけ、両親がいたと述べたゲームの主催者は、",
       "title_original": "Police called to Florida soccer game after parents say three-year-old benched for being too good",
@@ -3548,6 +3534,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "バルセロナ罰金 £503 彼らのアプローチよりもアトレティコ・マドリード星 Álvarez",
+      "summary": "Atlético 認定バルセロナ夏のチェイスストライカー中、ファンと彼の評判を再構築バルセロナ’s の追求 Julián Álvarez 毎週火曜日にモデストの費用で来た Spanish FA クラブを罰金を科される €602 (£503) による苦情をフォローアトレティコ・マドリード以上の連絡先とストライカー。Atlético 認定バルセロナ2030 年6 月まで契約が実行されるアルゼンチンに近づくため、書面で最初に通知することなく。続きを読む...",
+      "title_original": "Barcelona fined £503 over their approach for Atlético Madrid star Álvarez",
+      "summary_original": "Atlético accused Barcelona during summer chase Striker now rebuilding his reputation with fans Barcelona’s pursuit of Julián Álvarez came at a modest cost ⁠on Tuesday after the Spanish FA fined the club €602 (£503) following a complaint by Atlético Madrid over contact ⁠with ​the striker. Atlético accused Barcelona of approaching the Argentine, whose contract runs until June 2030, ⁠without first notifying them in writing. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarez",
+      "published": "Tue, 27 Oct 2026 23:18:47 GMT",
+      "category": "laliga",
+      "type": "laliga",
+      "label": "ラ・リーガ",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "The two teenage darts superstars ready to challenge Littler",
+      "summary": "Two-time World Darts Champion Luke Littler is only 19 - but there are already two other teenage superstars hot on his heels and relishing a chance to beat him.",
+      "title_original": "The two teenage darts superstars ready to challenge Littler",
+      "summary_original": "Two-time World Darts Champion Luke Littler is only 19 - but there are already two other teenage superstars hot on his heels and relishing a chance to beat him.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/news/12040/13604135/beat-luke-littler-teenagers-jayden-walker-and-mitchell-lawrie-set-to-challenge-world-no-1-to-win-501000",
+      "published": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アーセナル dumped out of EFL カップ by League Two Fleetwood",
       "summary": "Fleetwood Town produced one of the biggest shocks in EFL カップ history as the League Two team dumped out プレミアリーグ champions アーセナル on penalties to reach the quarter-finals.",
       "title_original": "Arsenal dumped out of Carabao Cup by League Two Fleetwood",
@@ -3856,6 +3870,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "'Kimi's above the rest!' | Moments that DEFINED the 優勝争い so far",
+      "summary": "Take a look at our picks of the pivotal moments that defined the F1 season, as Kimi Antonelli looks to secure the 2026 World Drivers' Championship in Mexico.",
+      "title_original": "'Kimi's above the rest!' | Moments that DEFINED the title race so far",
+      "summary_original": "Take a look at our picks of the pivotal moments that defined the F1 season, as Kimi Antonelli looks to secure the 2026 World Drivers' Championship in Mexico.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13600943/kimi-antonellis-head-and-shoulders-above-the-rest-moments-that-defined-the-f1-title-race-so-far",
+      "published": "Mon, 19 Oct 2026 12:30:00 BST",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3943,6 +3971,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Reigning champions Knicks beat Pistons for first win of the season",
+      "summary": "NBA's reigning champions, the New York Knicks, secured their first win of the season when they came back to beat the Detroit Pistons 111-97.",
+      "title_original": "Reigning champions Knicks beat Pistons for first win of the season",
+      "summary_original": "NBA's reigning champions, the New York Knicks, secured their first win of the season when they came back to beat the Detroit Pistons 111-97.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/basketball/news/12040/13604679/new-york-knicks-111-97-detroit-pistons-reigning-champions-knicks-beat-pistons-for-first-win-of-the-season",
+      "published": "Wed, 28 Oct 2026 07:36:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "'Fleetwood's fantasy moment!' - Loupalo-Bi goal STUNS アーセナル with shock lead",
       "summary": "Fleetwood Town's Aaron Loupalo-Bi gives the League Two side a shock lead over アーセナル in their EFL カップ fourth round clash.",
       "title_original": "'Fleetwood's fantasy moment!' - Loupalo-Bi goal STUNS Arsenal with shock lead",
@@ -3957,6 +3999,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Rising star Domingos hopes to mastermind England's World Cup retention",
+      "summary": "Just 18 months ago, Luis Domingos had not played Wheelchair Rugby League and now he heads to Australia with the hope of defending a world title with England.",
+      "title_original": "Rising star Domingos hopes to mastermind England's World Cup retention",
+      "summary_original": "Just 18 months ago, Luis Domingos had not played Wheelchair Rugby League and now he heads to Australia with the hope of defending a world title with England.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13596191/rugby-league-world-cup-meet-england-wheelchairs-rising-basketball-star-luis-domingos-who-wants-to-help-the-side-keep-hold-of-their-title",
+      "published": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Bizarre scenes! Drone stops play two minutes into Fleetwood-アーセナル tie",
       "summary": "During their EFL カップ clash at Highbury stadium, Fleetwood versus アーセナル was delayed due to a drone over the pitch.",
       "title_original": "Bizarre scenes! Drone stops play two minutes into Fleetwood-Arsenal tie",
@@ -3967,6 +4023,34 @@
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Big foot, Bane & Bo's Broncos - Inside Denver's 5,280ft sporting empire",
+      "summary": "They call it the Rocky Mountain Thunder. The stadium-shuddering racket reverberated by デンバー・ブロンコス fans stomping their feet on the metal decks of their old Mile High Stadium.",
+      "title_original": "Big foot, Bane & Bo's Broncos - Inside Denver's 5,280ft sporting empire",
+      "summary_original": "They call it the Rocky Mountain Thunder. The stadium-shuddering racket reverberated by Denver Broncos fans stomping their feet on the metal decks of their old Mile High Stadium.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13598782/bo-nixs-broncos-bane-and-big-foot-inside-the-denver-sporting-empire-luring-fans-5280ft-in-the-clouds",
+      "published": "Wed, 28 Oct 2026 06:00:00 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Mekies reveals widespread インテル est in Red Bull engine amid アストンマーティン rumours",
+      "summary": "Red Bull boss Laurent Mekies has admitted there has been attention from \"a lot of teams\" about his outfit's power unit performance.",
+      "title_original": "Mekies reveals widespread interest in Red Bull engine amid Aston Martin rumours",
+      "summary_original": "Red Bull boss Laurent Mekies has admitted there has been attention from \"a lot of teams\" about his outfit's power unit performance.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13604056/laurent-mekies-reveals-attention-from-f1-teams-in-red-bull-ford-powertrains-power-unit-amid-aston-martin-rumours",
+      "published": "Wed, 28 Oct 2026 06:00:00 GMT",
+      "category": "seriea",
+      "type": "seriea",
+      "label": "セリエA",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -4038,90 +4122,6 @@
       "type": "other",
       "label": "その他",
       "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ブライトン最新: Minteh は、オンリターンで閉じます",
-      "summary": "",
-      "title_original": "Brighton latest: Minteh closes in on return",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "published": "Tue, 27 Oct 2026 16:04:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Wolff は、Russsell の将来の F1 タイトルの期待を超える Marko の疑惑を拒否します",
-      "summary": "メルセデス・チーフトト・ヴォルフ拒否 Helmut Marko's 提案する George Russell チームメイトが抜粋した後、将来的にフォーミュラ1 世界チャンピオンになるチャンスはほとんどありません Kimi Antonelli こちらの季節です。",
-      "title_original": "Wolff rejects Marko's doubts over Russell's future F1 title hopes",
-      "summary_original": "Mercedes chief Toto Wolff has rejected Helmut Marko's suggestion that George Russell has little chance of becoming Formula 1 world champion in the future after being outperformed by his team-mate Kimi Antonelli this season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13604106/george-russell-toto-wolff-rejects-helmut-markos-doubts-over-mercedes-drivers-future-hopes-as-kimi-antonelli-nears-title",
-      "published": "Tue, 27 Oct 2026 16:00:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Yarde still targeting long-awaited showdown with Buatsi",
-      "summary": "Anthony Yarde is still targeting a fight with domestic rival ジョシュア・ブアツィ if he wins his clash with Willy Hutchinson for the vacant WBC light heavyweight world title.",
-      "title_original": "Yarde still targeting long-awaited showdown with Buatsi",
-      "summary_original": "Anthony Yarde is still targeting a fight with domestic rival Joshua Buatsi if he wins his clash with Willy Hutchinson for the vacant WBC light heavyweight world title.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13604551/anthony-yarde-still-targeting-long-awaited-showdown-with-joshua-buatsi-if-he-beats-willy-hutchinson",
-      "published": "Tue, 27 Oct 2026 21:21:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "「彼についてのすべてのことは世界クラスです」 - ネビル・ヘイルズ・カネ・アフター・バロン・ドオル・ウィン",
-      "summary": "地元の企業に「クリスマスディナー」を提供するセージとパートナーシップを結んだ EFL イベントで、お祝い期間を上回る人々のために、Gary Neville ライルズ・ハリー・ケーヌのプロフェッショナリズムと、彼のルートでバロン・ドールを勝ち取ったエシックな仕事。",
-      "title_original": "'Everything about him is world class' - Neville hails Kane after Ballon d'Or win",
-      "summary_original": "Speaking at an EFL event in partnership with Sage giving local businesses 'early Christmas dinners' for those working over the festive period, Gary Neville hails Hary kane's professionalism and work ethic on his route to winning the Ballon d'Or.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13604421/harry-kane-wins-ballon-dor-gar-neville-describes-him-as-gold",
-      "published": "Tue, 27 Oct 2026 15:34:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Red Roses want to use back-to-back losses to Canada as 'learning opportunity'",
-      "summary": "Emma Sing knows England have had a tough run in the WXV Global Series after back-to-back defeats snapped a 41-game winning streak - but is hoping to turn the moment into a learning opportunity.",
-      "title_original": "Red Roses want to use back-to-back losses to Canada as 'learning opportunity'",
-      "summary_original": "Emma Sing knows England have had a tough run in the WXV Global Series after back-to-back defeats snapped a 41-game winning streak - but is hoping to turn the moment into a learning opportunity.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13604433/how-englands-red-roses-want-to-use-back-to-back-losses-to-canada-in-wxv-global-series-as-learning-opportunity",
-      "published": "Tue, 27 Oct 2026 16:07:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "カーリックは、充電中に残っているマンチェスター・ユナイテッド獲得を問い合わせチェルシーツアー",
-      "summary": "マイケル・キャリック残留料金マンチェスター・ユナイテッド対戦相手にチェルシー土曜日に。",
-      "title_original": "Carrick to remain in charge of Man Utd for Chelsea trip",
-      "summary_original": "Michael Carrick will remain in charge of Manchester United for their game against Chelsea on Saturday.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13604347/man-utd-boss-michael-carrick-to-remain-in-charge-vs-chelsea-and-given-chance-to-turn-situation-around",
-      "published": "Tue, 27 Oct 2026 12:03:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
       "translation_version": "football-ja-v8"
     }
   ]
