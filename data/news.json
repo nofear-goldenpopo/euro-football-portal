@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-10-30T23:18:42.067764+00:00",
+  "updated_at": "2026-10-31T02:28:22.411071+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Todd Boehly-Clearlake Capital": "",
-    "Goodison Gazza": "",
-    "Alex Ferguson": "",
     "George Best": "",
     "Brian McClair": "",
     "From Franco Mastantuono": "",
@@ -3001,7 +2998,10 @@
     "Champion Jockey Billy Loughnane": "",
     "Breeders' Cup Juvenile Turf": "ブリーダーズカップ・ジュヴェナイルターフ",
     "George Boughey": "",
-    "Under-pressure Red Roses": ""
+    "Under-pressure Red Roses": "",
+    "Man United’ Aston Villa": "",
+    "Nassef Sawiris. Continue": "",
+    "North America": "北アメリカ"
   },
   "items": [
     {
@@ -3016,6 +3016,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Villa to sue Carragher 以上 'unacceptable insults'",
+      "summary": "アストン・ヴィラ法的な行動を対抗する Jamie Carragher「受容不能な侮辱」としてブランドされているクラブについて。",
+      "title_original": "Villa to sue Carragher over 'unacceptable insults'",
+      "summary_original": "Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as \"unacceptable insults\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 23:05:45 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3086,20 +3100,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Villa to sue Carragher 以上 'unacceptable insults'",
-      "summary": "アストン・ヴィラ法的な行動を対抗する Jamie Carragher「受容不能な侮辱」としてブランドされているクラブについて。",
-      "title_original": "Villa to sue Carragher over 'unacceptable insults'",
-      "summary_original": "Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as \"unacceptable insults\".",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 23:05:45 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3453,6 +3453,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "アストン・ヴィラ法的行動を対抗するために Jamie Carragher「受容不能な侮辱」のため",
+      "summary": "ヴィラチェアは、ソーシャルメディア Carragher の計画を発表し、クラブは「永遠にある」と述べたマンチェスター・ユナイテッド’ アストン・ヴィラ法的措置を取るための計画を発表した Jamie Carragher クラブやサポーターについての「受容不能な侮辱」に続いてください。カラグラファーは、提案のための批判に直面した後、ヴィラファンに「キスアップ」に言いましたウナイ・エメリ服用を検討すべきマンチェスター・ユナイテッド求人情報 ヴィラは金曜日の夕方に反応し、X は椅子に獲得しました。Nassef Sawiris. Continue 読書。",
+      "title_original": "Aston Villa to take legal action against Jamie Carragher for ‘unacceptable insults’",
+      "summary_original": "Villa chair announces plan on social media Carragher said club will ‘never be Man United’ Aston Villa have announced plans to take legal action against Jamie Carragher following his “unacceptable insults” about the club and its supporters. Carragher told Villa fans to “shut the fuck up” after facing criticism for suggesting Unai Emery should consider taking the Manchester United job. Villa responded on Friday evening with a statement on X signed by their chair, Nassef Sawiris. Continue reading..",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/30/aston-villa-to-take-legal-action-against-jamie-carragher-for-unacceptable-insults",
+      "published": "Fri, 30 Oct 2026 23:55:37 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "シャビ・アロンソ1 月のルールレンタル移籍獲得を問い合わせチェルシーウィンガーEstêvão Willian",
       "summary": "「そのことについての議論はありません...誰もが準備ができている」ブラジルは、この季節に11 試合で2 回だけ始まったシャビ・アロンソ1 月1 日(月)の引退を決行 Estêvão Willian しかし、言ったチェルシー若い人は、チーム内の定期的なスポットを獲得する前に、プレイのスタイルに適応しなければなりません。Estêvão のロールの周りの議論は、今週の勢いを集めました, 19 歳の後に成長する騒音は、Alonso の側に失われたように未使用の代替物として見ましたリヴァプール罰則の EFL カップ Wednesda について",
       "title_original": "Xabi Alonso rules out January loan move for Chelsea winger Estêvão Willian",
@@ -3460,6 +3474,20 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/30/xabi-alonso-rules-out-january-loan-move-estevao-willian-chelsea-manchester-united-premier-league",
       "published": "Fri, 30 Oct 2026 22:30:26 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "遊ぶ方法マンチェスター・シティフィット Marc Guéhi’s 道徳的な宇宙? |Barney Ronay",
+      "summary": "クラブの優先順位上げインテル原則、個人と個人の両方に関する質問の尊重プレミアリーグ信じられないほどの驚異を感じました。私の頭はアズテックストーンで作られました。こういった人たちと一緒になっていなかったんです。銀と青の巨大な個人が私に来た人もいます。自分の足で落ち、片足を掴む。レースを締めくくり始めた。わたしから離れてキックしました。降りて歩く。空腹が超えていました。私の言葉ではありません。また、言葉ではなくマンチェスター・シティセンターバック M",
+      "title_original": "How can playing for Manchester City fit into Marc Guéhi’s moral universe? | Barney Ronay",
+      "summary_original": "Club’s predicament raises interesting questions about principles, both for individuals and the Premier League I felt unbelievably ponderous. My head was made of Aztec stone. I realised I didn’t want to be with all these people. Somebody came at me, a huge individual in silver and blue. I fell at his feet and grabbed one shoe. I started untying the lace. He kicked away from me. I got up and walked off. I was exceedingly hungry. Not my words. Also not the words of the Manchester City centre-back M",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/30/manchester-city-financial-charges-guilty-marc-guehi-premier-league",
+      "published": "Fri, 30 Oct 2026 20:00:22 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3477,20 +3505,6 @@
       "category": "ucl",
       "type": "ucl",
       "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "遊ぶ方法マンチェスター・シティフィット Marc Guéhi’s 道徳的な宇宙? |Barney Ronay",
-      "summary": "クラブの優先順位上げインテル原則、個人と個人の両方に関する質問の尊重プレミアリーグ信じられないほどの驚異を感じました。私の頭はアズテックストーンで作られました。こういった人たちと一緒になっていなかったんです。銀と青の巨大な個人が私に来た人もいます。自分の足で落ち、片足を掴む。レースを締めくくり始めた。わたしから離れてキックしました。降りて歩く。空腹が超えていました。私の言葉ではありません。また、言葉ではなくマンチェスター・シティセンターバック M",
-      "title_original": "How can playing for Manchester City fit into Marc Guéhi’s moral universe? | Barney Ronay",
-      "summary_original": "Club’s predicament raises interesting questions about principles, both for individuals and the Premier League I felt unbelievably ponderous. My head was made of Aztec stone. I realised I didn’t want to be with all these people. Somebody came at me, a huge individual in silver and blue. I fell at his feet and grabbed one shoe. I started untying the lace. He kicked away from me. I got up and walked off. I was exceedingly hungry. Not my words. Also not the words of the Manchester City centre-back M",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/30/manchester-city-financial-charges-guilty-marc-guehi-premier-league",
-      "published": "Fri, 30 Oct 2026 20:00:22 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
@@ -3520,20 +3534,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Fifa を逃す 等しい Women’s World CupInfantino がセットする賞金の野心",
-      "summary": "Infantino は2023 年の平等で Fifa のターゲット賞品のお金は倍増しましたが、大きなギャップは Fifa は来年のオファーで賞品のお金と性平等が不足していることです Women’s World Cup, レコードを作るにもかかわらず、$15bn (112億ポンド) この夏の男子トーナメントからの収入で.Gianni Infantino フィファ大統領は、2023 年に組織の野心が2027 年の賞品のポットに平等性を持たせたと述べた。獲得を問い合わせ",
-      "title_original": "Fifa to miss equal Women’s World Cup prize money ambition set by Infantino",
-      "summary_original": "Infantino said in 2023 equality was Fifa’s target Prize money could double but big gap will remain Fifa is to fall short of gender equality with the prize money on offer at next year’s Women’s World Cup, despite making a record $15bn (£11.2bn) in revenue from this summer’s men’s tournament. Gianni Infantino, the Fifa president, said in 2023 that the organisation’s ambition was to have equality for the prize pot for 2027, saying: “Fifa is stepping up with actions, not just with words.” There had,",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/30/fifa-miss-equal-womens-world-cup-prize-money-ambition-gianni-infantino",
-      "published": "Fri, 30 Oct 2026 09:59:10 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3845,6 +3845,34 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Moloney-MacDonald 星 として Red Roses アメリカのスラッシュで勝利する方法に戻る",
+      "summary": "England's Red Roses 破砕55-12 でカナダでショックバックバックバックバック敗北に応答 WXV Global Series アメリカで勝利ニュージャージー州, 勝ち方に戻る.",
+      "title_original": "Moloney-MacDonald stars as Red Roses return to winning ways with USA thrashing",
+      "summary_original": "England's Red Roses responded to shock back-to-back defeats in Canada with a crushing 55-12 WXV Global Series victory over the USA in New Jersey, returning to winning ways.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/usa-women-vs-england/report/113218",
+      "published": "Fri, 30 Oct 2026 23:25:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ブリストルでの勝利の後のレスタートップテーブル",
+      "summary": "Leicester は、PREM テーブルの上部に移動し、ブリストルで22-16 勝利のボーナスポイントで Ashton Gate エラーリデンゲームで。",
+      "title_original": "Leicester top table after victory over Bristol",
+      "summary_original": "Leicester moved to the top of the PREM table with a bonus-point 22-16 victory over Bristol at Ashton Gate in an error-ridden game.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/bristol-vs-leicester/report/113851",
+      "published": "Fri, 30 Oct 2026 23:08:00 GMT",
+      "category": "transfer",
+      "type": "transfer",
+      "label": "移籍",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Leclerc シール Mexico City ハミルトンが技術的な問題に苦しむように練習ダブル",
       "summary": "Charles Leclerc 金曜日練習ダブルで完了 Mexico City Grand Prix しかし、フェラーリの強烈なショーは、Lewis Hamilton 技術的な問題に苦しむ。",
       "title_original": "Leclerc seals Mexico City practice double as Hamilton suffers technical issue",
@@ -3884,6 +3912,20 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "How Antonelli 世界タイトルを獲得できる Mexico City GP 日曜日",
+      "summary": "Kimi Antonelli 初めてのレースでフォーミュラ1 世界選手権を封印できませんでしたが、イタリアは、この週末の歴史を作るための素晴らしい機会を残しました Mexico City.",
+      "title_original": "How Antonelli can win world title at Mexico City GP on Sunday",
+      "summary_original": "Kimi Antonelli was unable to seal the Formula 1 world championship at the first race where it was mathematically possible for him to do so, but the Italian has left himself with a great opportunity to make history this weekend in Mexico City.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13603683/kimi-antonelli-f1-title-permutations-how-mercedes-driver-can-win-2026-formula-1-drivers-championship-at-mexico-city-gp-on-sunday",
+      "published": "Mon, 26 Oct 2026 01:00:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3929,13 +3971,27 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Mexico City GP: ハミルトンが大幅なトラックタイムを失うため、再びルクルクが最速!",
+      "title": "メキシコの技術的な問題の後にハミルトンの「祈り」車は OK です",
       "summary": "",
-      "title_original": "Mexico City GP: Leclerc fastest again as Hamilton loses crucial track time LIVE!",
+      "title_original": "Hamilton 'praying' car is OK after Mexico technical issue",
       "summary_original": "",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13605426/f1-mexico-city-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend",
       "published": "Fri, 30 Oct 2026 21:32:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "ジョーンズ:Red Roses レビュー北アメリカツアー - 「私たちはより良いを得るために空腹しています」",
+      "summary": "",
+      "title_original": "Jones: Red Roses will review North America tour - 'We're hungry to get better'",
+      "summary_original": "",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/usa-women-vs-england/live/113218",
+      "published": "Fri, 30 Oct 2026 20:00:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3978,20 +4034,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13605937/libertango-and-billy-loughnane-storm-to-breeders-cup-success",
       "published": "Fri, 30 Oct 2026 20:36:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "米国 vsEngland LIVE! Under-pressure Red RosesBIG の勝利に対応",
-      "summary": "",
-      "title_original": "USA vs England LIVE! Under-pressure Red Roses respond with BIG victory",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/usa-women-vs-england/live/113218",
-      "published": "Fri, 30 Oct 2026 20:00:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -4080,48 +4122,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "リヴァプール最新:私たちが勝つほど、私たちがなるほど、イラオラ",
-      "summary": "",
-      "title_original": "Liverpool latest: The more we win, the better we'll become, says Iraola",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Fri, 30 Oct 2026 17:00:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "How SuzukiMartinez を交換するので、ヴィラファンを借りました",
-      "summary": "アストン・ヴィラ世界中のナンバーワンのゴールキーパーを持つことについて、ファンはまだ歌っています。しかし、何のためにチャントとして始まりました Emiliano Martinez 若き日本のゴールキーパーのための不断の支援に定着 Zion Suzuki 何か他のものになる。彼らは実際にそれを信じています。",
-      "title_original": "How Suzuki has wowed Villa fans since replacing Martinez",
-      "summary_original": "Aston Villa fans still sing about having the world's number one goalkeeper. But what started as a chant for Emiliano Martinez and morphed into defiant support for young Japanese goalkeeper Zion Suzuki has become something else. They actually believe it.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13605254/zion-suzuki-analysis-how-emi-martinezs-aston-villa-replacement-now-looks-like-a-potential-upgrade-given-his-range-of-skills",
-      "published": "Fri, 30 Oct 2026 14:30:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "ニューカッスル最新:プレイヤーがモチベーションに不満を向けるのをジェイスルが呼びます",
-      "summary": "",
-      "title_original": "Newcastle latest: Jaissle calls for players to turn frustration into motivation",
-      "summary_original": "",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "published": "Fri, 30 Oct 2026 14:09:00 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": false,
       "translation_version": "football-ja-v8"
     }
   ]
