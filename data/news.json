@@ -1,10 +1,7 @@
 {
-  "updated_at": "2026-11-11T00:02:26.489139+00:00",
+  "updated_at": "2026-11-11T05:37:31.965157+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Canada Test": "",
-    "England's Red Roses": "",
-    "Rugby's WXV Global Series": "",
     "Fenerbahce LIVE": "",
     "Man City LIVE": "",
     "Rory McIlroy": "ローリー・マキロイ",
@@ -3001,7 +2998,10 @@
     "The Minnesota Vikings": "",
     "Kirk Cousins": "",
     "Las Vegas Raiders": "ラスベガス・レイダース",
-    "BK Hacken": ""
+    "BK Hacken": "",
+    "Middle East": "中東",
+    "Linda Noskova": "",
+    "Immanuel Feyi-Waboso": ""
   },
   "items": [
     {
@@ -3971,6 +3971,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Noskova dismantles Gauff へ リーチ WTA ファイナルズ最後の4",
+      "summary": "Linda Noskova 到達する最初のプレーヤーになった WTA ファイナルズドミナント6-3 6-3 を追い越した後の準決勝 Coco Gauff.",
+      "title_original": "Noskova dismantles Gauff to reach WTA Finals last four",
+      "summary_original": "Linda Noskova became the first player to reach the WTA Finals semi-finals after securing a dominant 6-3 6-3 straight-sets victory over Coco Gauff.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13610698/wta-finals-linda-noskova-dismantles-coco-gauff-to-reach-semi-finals-as-jessica-pegula-keeps-hopes-alive-with-victory",
+      "published": "Wed, 11 Nov 2026 00:07:00 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "紙:ベルラダとウィルコックスは、Old Trafford",
       "summary": "水曜日の新聞から噂を移籍するトップストーリー...",
       "title_original": "Papers: Berrada and Wilcox set to remain at Old Trafford",
@@ -4104,20 +4118,6 @@
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13610700/sky-backs-equal-sport-projects-pledges-to-improve-equality-through-five-shared-ambitions-across-industry",
       "published": "Tue, 10 Nov 2026 17:24:00 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "最終2026 審査期間経過後、さらに F1 エンジンのアップグレードが不要",
-      "summary": "さらなるエンジンアップグレードの機会は、2026 シーズンの3 番目と最終レビュー期間に続くフォーミュラ1 のパワーユニットメーカーに付与されていない、FIA は確認しました。",
-      "title_original": "No further F1 engine upgrades handed out after final 2026 review period",
-      "summary_original": "No further engine upgrade opportunities have been granted to Formula 1's power unit manufacturers following the third and final review period of the 2026 season, the FIA has confirmed.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13610600/f1-aduo-fia-announces-no-further-engine-upgrades-handed-out-after-final-review-period-of-2026-season",
-      "published": "Tue, 10 Nov 2026 12:00:00 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
