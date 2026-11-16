@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-11-15T23:59:06.338141+00:00",
+  "updated_at": "2026-11-16T04:43:31.305952+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Super Bowl": "",
-    "Arthur Leclerc": "",
-    "GT World Challenge": "",
-    "Jim Nantz": "",
-    "JJ Watt": "",
     "Dallas Cowboys": "ダラス・カウボーイズ",
     "Green Bay Packers": "",
     "Newcastle's Sven Botman's": "",
@@ -3001,7 +2996,12 @@
     "Ten-man England": "",
     "Elliot Anderson's": "",
     "The Grand Slam": "",
-    "Indiana Pacers": "インディアナ・ペイサーズ"
+    "Indiana Pacers": "インディアナ・ペイサーズ",
+    "Sid Lowe": "",
+    "Dan Burn": "ダン・バーン",
+    "Thomas Tuchel. Palms": "",
+    "Haley Hopkins": "",
+    "Andrew Gilding": ""
   },
   "items": [
     {
@@ -3012,6 +3012,20 @@
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 23:52:43 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "イングランドがスペインに対して何を語ったのか、Tuchel はどのように違うのですか?",
+      "summary": "閉じた段階でリードを保護するために試みる, イングランドはここにいた - そこで、彼らはスペインに対して何をしたのですか?",
+      "title_original": "How did England cling on against Spain and what did Tuchel do differently?",
+      "summary_original": "Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 00:02:22 GMT",
       "category": "other",
       "type": "other",
       "label": "その他",
@@ -3411,20 +3425,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプール過去3 回ブライトンエンドウインレスラン",
-      "summary": "ツイート Beata Olsson ダブルヘルプリヴァプール印象的な3〜3 勝利までブライトン自分の5 ゲーム無勝利の実行を終了するには Women's Super League.",
-      "title_original": "Liverpool put three past Brighton to end winless run",
-      "summary_original": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 23:00:29 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "イングランドは、アンダーソンの赤から上まで、フィーリースペインの戦いの裏を離れてフェンダーNations League グループ",
       "summary": "ショーの試合でした Thomas Tuchel 彼のリブートイングランドのチームが持っている場所。確かに究極のテストでインテル国民のフットボール。スペイン トゥッチェルの言葉で「失う方法を忘れてしまった」という世界チャンピオンチーム 獲得を問い合わせ Nations League グループ決定者, 彼らは唯一の一度だけ打ち破っていた 43 試合 – 昨年この競争の決勝でポルトガルに対する罰.What England 制作は65 分。異なる理由で、同じように続くもの いつか",
       "title_original": "England fend off fiery Spain fightback after Anderson’s red to top Nations League group",
@@ -3551,6 +3551,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Three Lions’ スペインでの勝利は、第1 の優れた、2 番目の英雄の2 つの行為になります |Sid Lowe",
+      "summary": "訪問者は世界チャンピオンにゲームをとり、持株のプラムメットの彼らのホールドは顕著であるが、決勝では、イングランドがやっとややスペインをやった前の激しい瞬間がやっと落ち、ダン・バーン獲得を問い合わせダン・バーン何か、ボードが4 を上回ったとき、時計は十分に速く移動しなかったし、赤の男性は戻って来て、ハリー・ケインピッチの側面に立ち向かう Thomas Tuchel. Palms、Kane シグナル伝達され、指示され、appe",
+      "title_original": "Three Lions’ win over Spain comes in two acts: the first superb, the second heroic | Sid Lowe",
+      "summary_original": "Visitors take game to world champions and, though their hold on possession plummets, their rearguard is outstanding In the final, absurdly tense moments before England finally did it and Spain finally fell, when Dan Burn had been sent on to do Dan Burn things, when the board had gone up with a 4 on but the clock wasn’t moving fast enough and the men in red kept coming back, Harry Kane had come to the side of the pitch to stand beside Thomas Tuchel. Palms out, Kane signalled and directed and appe",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/15/england-superb-heroic-spain-nations-league",
+      "published": "Sun, 15 Nov 2026 23:50:31 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Mauricio Pochettino 米国のプロジェクトに自信を持たせるよう依頼。自分を信じるのか?",
       "summary": "USMNT のコーチの姿勢は、ハイスとロースの鞭打ちをもたらしました。彼はいくつかの目標に会ったが、彼は本当に買ったことはない印象で多くのを残して、それはアメリカの男性のナショナルチームコーチを取らなかった Mauricio Pochettino 彼の最初の大きなスイングを取るために非常に長い. 彼は2024 年に宇宙飛行士のパフォーマンスの後、プログラムの遺跡を撮ったコパ・アメリカ最初の家と彼の前任者の仕事の費用、World Cup 地平線に浮かぶ10 年。連盟は彼に導入しました New York Ci",
       "title_original": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
@@ -3561,20 +3575,6 @@
       "category": "other",
       "type": "other",
       "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "De la Fuente は緊張をとして感じますラミン・ヤマルクラブ v 国 debate rages で スペイン",
-      "summary": "ヘッドコーチは、イングランドゲームのための若いスターオーバーシャドウの準備のための優先的治療の提案として「常に」でヒット Madrid From 獲得を問い合わせ London Palladium 獲得を問い合わせ Madrid’s Metropolitano です。On Sunday 夜は、ゲームの最大の賞を持ち上げたサッカー選手が再び3 週間後に会い、今度はフィールドで、ディナージャケットが、後ろに残っている単一の男ではありません。ハリー・ケイン, バロン d’Or とゲルト・ミュラートロフィー受賞者 Unai Simón のホールダーレフ・ヤシン受賞歴 ルイス・デ・ラ・F",
-      "title_original": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
-      "summary_original": "Head coach hits out at ‘lies’ as suggestions of preferential treatment for young star overshadow preparations for England game in Madrid From the London Palladium to Madrid’s Metropolitano, they’re all here. On Sunday night, the footballers who lifted the game’s biggest awards meet again three weeks later and on the field this time, dinner jackets but not a single man left behind. Harry Kane, the Ballon d’Or and Gerd Müller trophy winner. Unai Simón, holder of the Lev Yashin award . Luis de la F",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
-      "published": "Sat, 14 Nov 2026 08:00:40 GMT",
-      "category": "transfer",
-      "type": "transfer",
-      "label": "移籍",
       "featured": false,
       "translation_version": "football-ja-v8"
     },
@@ -3650,9 +3650,9 @@
     },
     {
       "title": "ホプキンズの遅いスチュナーが送るカンザスシティ (ミズーリ州)ゴッサムと NWSL ファイナルへ",
-      "summary": "ホプキンス’ 89 分ボレーシール劇的な 2-1 アップセット Bethune スコア 見事な 無料キック 対 トップ 種 現在のに直面します Washington Spirit のための最初の NWSL のタイトルのためのヘッドライン grabbing の競技場の scheduling imbroglio によって支配される週の後で、Gotham FC そして、カンザスシティ (ミズーリ州)現在、日曜日の午後に NWSL セミファイナルの重要な事業に至りました。New York City’s Randall’s 土曜日の試合に次いでいる島。ハル",
+      "summary": "ホプキンス’ 89 分ボレーシール劇的な 2-1 アップセット Bethune スコア 見事な 無料キック 対 トップ 種 現在のに直面します Washington Spirit のための最初の NWSL のタイトルのためのヘッドライン grabbing の競技場の imbroo によって支配される週の後で、Gotham FC そして、カンザスシティ (ミズーリ州)現在、日曜日の午後に NWSL セミファイナルの重要な事業に至りました。New York City’s Randall’s 土曜日の試合に次いでいる島。Haley Hopkins",
       "title_original": "Hopkins’ late stunner sends Kansas City past Gotham and into NWSL final",
-      "summary_original": "Hopkins’ 89th-minute volley seals dramatic 2-1 upset Bethune scores stunning free kick against top seeds Current to face Washington Spirit for first NWSL title After a week dominated by a headline-grabbing stadium scheduling imbroglio , Gotham FC and the Kansas City Current finally got down to the vital business of their NWSL semi-final on Sunday afternoon, a frigid encounter at an unlikely venue on New York City’s Randall’s Island with a place in next Saturday’s championship match at stake. Hal",
+      "summary_original": "Hopkins’ 89th-minute volley seals dramatic 2-1 upset Bethune scores stunning free kick against top seeds Current to face Washington Spirit for first NWSL title After a week dominated by a headline-grabbing stadium imbroglio , Gotham FC and the Kansas City Current finally got down to the vital business of their NWSL semi-final on Sunday afternoon, a frigid encounter at an unlikely venue on New York City’s Randall’s Island with a place in next Saturday’s championship match at stake. Haley Hopkins ",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/nov/15/kansas-city-current-gotham-fc-nwsl-semi-final-haley-hopkins",
       "published": "Sun, 15 Nov 2026 23:03:38 GMT",
