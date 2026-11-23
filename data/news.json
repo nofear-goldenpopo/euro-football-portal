@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-11-22T23:58:58.078785+00:00",
+  "updated_at": "2026-11-23T05:33:21.891858+00:00",
   "translation_version": "football-ja-v8",
   "entity_cache": {
-    "Ranking England's Ballon": "",
-    "From Stanley Matthews": "",
-    "England's Ballon": "",
-    "No Saliba": "",
-    "William Saliba's": "",
-    "Mao Zedong": "毛沢東",
-    "Dongpeng Beverage": "",
     "Mao Zedong. In China": "",
     "Winning MOMENT": "",
     "Jez Litten": "",
@@ -3001,7 +2994,14 @@
     "Pittsburgh Steelers' DK Metcalf": "",
     "Philadelphia Eagles' Cooper DeJean": "",
     "Tennessee Titans' Carnell Tate": "",
-    "Dallas Cowboys": "ダラス・カウボーイズ"
+    "Dallas Cowboys": "ダラス・カウボーイズ",
+    "Did Liverpool": "",
+    "Ashley Young": "アシュリー・ヤング",
+    "Manchester United's Leny Yoro": "",
+    "Lal Hilditch’s": "",
+    "Crystal Palace. There": "",
+    "Alexander Isak. Pochettino": "",
+    "Jérémy Jac": ""
   },
   "items": [
     {
@@ -3145,6 +3145,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "先生リヴァプール「ラッキー」とレッドカード決断か。",
+      "summary": "デイパンディットのマッチ Danny Murphy そして、アシュリー・ヤング信じるリヴァプール多分「ラッキー」だったときマンチェスター・ユナイテッドの Leny Yoro は、Anfield で 8 分に渡されました。",
+      "title_original": "Did Liverpool 'get lucky' with red card decision?",
+      "summary_original": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 23:59:59 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Pochettino に 'painful' として最初のゲームで敗北マンチェスター・ユナイテッドログイン",
       "summary": "マンチェスター・ユナイテッド新しいヘッドコーチ Mauricio Pochettino 彼の側面は、自分の手で投げることから「怒り」を変換しなければならないと言うリヴァプール「エネルギー」へ。",
       "title_original": "Pochettino on 'painful' defeat in first game as Man Utd boss",
@@ -3173,6 +3187,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "「理解する」方法 Tzolakis 保存ブライトンベイエリア",
+      "summary": "デイパンディットのマッチ Danny Murphy 見る方法ハルゴールキーパーKonstantinos Tzolakis 高飛散を脅かすことができましたブライトン彼らの 2-0 で Seagulls に勝つ KC スタジアム.",
+      "title_original": "How 'outstanding' Tzolakis kept Brighton at bay",
+      "summary_original": "Match of the Day pundit Danny Murphy looks at how Hull goalkeeper Konstantinos Tzolakis was able to thwart high-flying Brighton in their 2-0 win over the Seagulls at the MKM Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 23:59:57 GMT",
+      "category": "other",
+      "type": "other",
+      "label": "その他",
+      "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "Iraola 'enjoyed' 大きい 勝ち 以上マンチェスター・ユナイテッド",
       "summary": "リヴァプールヘッドコーチ Andoni Iraola 彼らの優位な勝利で彼の側面のパフォーマンスに満足していますマンチェスター・ユナイテッドしかし、彼は彼の側はまだより良い再生することができますと言うが、.",
       "title_original": "Iraola 'enjoyed' big win over Man Utd",
@@ -3184,34 +3212,6 @@
       "type": "epl",
       "label": "プレミア",
       "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "トッテナムデニーマンチェスター・シティステートメントウィンでトップスポット",
-      "summary": "初期のリードを取るにもかかわらず Khadija Shaw, マンチェスター・シティ連続敗北に苦しむトッテナム印象的な勝利を獲得し、テーブルのトップに戻るチャンスを否定します。",
-      "title_original": "Spurs deny Man City top spot with statement win",
-      "summary_original": "Despite taking an early lead through Khadija Shaw, Manchester City suffer a second consecutive defeat as Spurs earn an impressive victory and deny them the chance to return to the top of the table.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Nov 2026 17:54:36 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "独自の不幸な贈り物ブライトン第一次勝利",
-      "summary": "ブライトン最初から保護 Women's Super League 奇妙なことのおかげで、シーズンの勝利オウンゴールからエヴァートンマツ・パチェコ",
-      "title_original": "Own-goal mishap gifts Brighton first away victory",
-      "summary_original": "Brighton secured their first Women's Super League away win of the season thanks to a bizarre own goal from Everton's Maz Pacheco.",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqx2w0m8v84wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Nov 2026 19:50:33 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3425,13 +3425,13 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リヴァプール手 Pochettino nightmare マンチェスター・ユナイテッドヨロが赤く見えた後に始まります",
-      "summary": "回復の緑のシュートは爆発炉でより長く持続しました Mauricio Pochettino 時代からマンチェスター・ユナイテッド. マンチェスターの秋の巨人のための別の熱狂的な Anfield の日に、Pochettino は8 分前に火のバプテスマを耐えました Leny Yoro 否定のために送りましたアレクサンデル・イサク明確なゴールコーチング機会。リヴァプール古いライバルをまだ再び苦しんでいる間、他の何も否定されません。Andoni Iraola 彼の最初の拳ポンプで KOP の盗難に侵入",
-      "title_original": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
-      "summary_original": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism of fire from the eighth minute onwards when Leny Yoro was sent off for denying Alexander Isak a clear goalscoring opportunity. Liverpool would not be denied anything else while tormenting their old rivals yet again. Andoni Iraola indulged in his first fist-pumps towards the Kop aft",
+      "title": "「私は痛い」: Pochettino 批評家 Yoro レッドカードで Anfield 屈辱",
+      "summary": "マンチェスター・ユナイテッド4-0 を失うリヴァプール初期の赤いアルゼンチンは、クラブのジョイントハイベストデビュー敗北を苦しむ Mauricio Pochettino と主張した Leny Yoro 誤って送信され、マンチェスター・ユナイテッド以前はペナルティを否定しましたリヴァプールクラブの歴史の中で一番のデビュー敗北に苦しむ後。リヴァプール' の emphatic 4-0 の勝利は Pochettino を等しく保障しました Lal Hilditch’s そのようなスコアラインによって彼の最初のユナイテッドゲームを失うことの1926 から不要なレコード。ユナイテッドの34 の目標は、ac を強制しました",
+      "title_original": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
+      "summary_original": "Manchester United lose 4-0 to Liverpool after early red Argentinian suffers club’s joint-heaviest debut defeat Mauricio Pochettino argued that Leny Yoro was wrongly sent off and that Manchester United were earlier denied a penalty against Liverpool after suffering the joint-heaviest debut defeat in the club’s history. Liverpool’s emphatic 4-0 win ensured Pochettino equalled Lal Hilditch’s unwanted record from 1926 of losing his first United game by such a scoreline. United’s 34 goals conceded ac",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
-      "published": "Sun, 22 Nov 2026 18:35:14 GMT",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+      "published": "Sun, 22 Nov 2026 21:31:03 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3439,17 +3439,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "McBurnie のダブルスナッチ ウィン 用ハル衝撃10 人へのブライトン",
-      "summary": "トーク中ブライトン今シーズンはサプライズタイトルのコンテンダーであり、これらはおそらく存在しているマージンを示す午後であり、どのようにプレミアリーグいつでもウェイクアップコールの最も罰を提供できます。間違いを犯さない Fabian Hürzeler’s 横は、次の数ヶ月でこのよりもはるかに悪い再生し、勝ちます。それらはテーブルの2 秒です。彼らが残った方法ハル彼らが大きな部分のために楽しんだドミナンスを与えられたほとんど欠陥の信条なしで",
-      "title_original": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
-      "summary_original": "Amid the talk of Brighton being surprise title contenders this season, these are perhaps the afternoons which show the margin that still exists, and how the Premier League can provide the most punishing of wake-up calls at any moment. Make no mistake about it, Fabian Hürzeler’s side will play far worse than this over the next few months and win. They are still second in the table. How they left Hull without even a point almost defies belief given the dominance they enjoyed for large parts of the",
+      "title": "Pochettino の新しいマニジャーバウンスがフラットに落ちる De Ligt 宇宙の一歩を踏み出す |Jamie Jackson",
+      "summary": "オランダの擁護者を上回る決定 Harry Maguire バックファイヤーマンチェスター・ユナイテッドアンフィールド・ベアピット・チャオティック、ビワダリング、そしてこの証拠に反して再資源化のドッグファイトに立ち向かう:ある3-リング・サーカスへの歓迎マンチェスター・ユナイテッド, Mauricio Pochettino. This4-0 rout として終了リヴァプール, 新しいヘッドコーチは、次の8 人の最も貧しい開口部の結果を見守るアレックス・ファーガソン2013 年5 月以降 ユナイテッドの最も激しい肋骨に対して来るこの結果の要因",
+      "title_original": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+      "summary_original": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three‑ring circus that is Manchester United, Mauricio Pochettino. This ended as a 4-0 rout in favour of Liverpool, the new head coach overseeing the poorest opening result of the eight who have followed Sir Alex Ferguson since May 2013. Factor in this result coming against United’s fiercest riva",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/22/hull-brighton-premier-league-match-report",
-      "published": "Sun, 22 Nov 2026 16:10:48 GMT",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
+      "published": "Sun, 22 Nov 2026 20:58:35 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3478,6 +3478,20 @@
       "type": "laliga",
       "label": "ラ・リーガ",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "McBurnie のダブルスナッチ ウィン 用ハル衝撃10 人へのブライトン",
+      "summary": "トーク中ブライトン今シーズンはサプライズタイトルのコンテンダーであり、これらはおそらく存在しているマージンを示す午後であり、どのようにプレミアリーグいつでもウェイクアップコールの最も罰を提供できます。間違いを犯さない Fabian Hürzeler’s 横は、次の数ヶ月でこのよりもはるかに悪い再生し、勝ちます。それらはテーブルの2 秒です。彼らが残った方法ハル彼らが大きな部分のために楽しんだドミナンスを与えられたほとんど欠陥の信条なしで",
+      "title_original": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
+      "summary_original": "Amid the talk of Brighton being surprise title contenders this season, these are perhaps the afternoons which show the margin that still exists, and how the Premier League can provide the most punishing of wake-up calls at any moment. Make no mistake about it, Fabian Hürzeler’s side will play far worse than this over the next few months and win. They are still second in the table. How they left Hull without even a point almost defies belief given the dominance they enjoyed for large parts of the",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/22/hull-brighton-premier-league-match-report",
+      "published": "Sun, 22 Nov 2026 16:10:48 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3523,20 +3537,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "リオネル・メッシ赤いカード論争の中心でインテルマイアミ直面初期 MLS playoff 出口",
-      "summary": "メッシボールを相手の顔に投げるために予約された コロンバスコーチ 主張する アルゼンチン 値するレッドカード防衛のチャンピオンはシリーズオープナーで3〜3〜3 を投げましたコロンバス・クルーコーチング Laurent Courtois 彼は言ったリオネル・メッシボールを相手の顔に投げた後、オフに送られなければならないインテルマイアミは3〜3 敗北にクラッシュ MLS Cup 土曜日にプレーオフ。メッシコロンバスの前面に投げられた時に半時間のストロークで沸騰したのは、Gonzalo Tapia10ma と、",
-      "title_original": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
-      "summary_original": "Messi booked for throwing ball into opponent’s face Columbus coach insists Argentine deserved red card Defending champions thrashed 3-0 in series opener Columbus Crew coach Laurent Courtois said Lionel Messi should have been sent off after throwing a ball into an opponent’s face as Inter Miami crashed to a 3-0 defeat in the MLS Cup playoffs on Saturday. Messi’s frustration boiled over on the stroke of half-time when he hurled a throw-in into the face of Columbus forward Gonzalo Tapia, with 10-ma",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs",
-      "published": "Sun, 22 Nov 2026 03:01:55 GMT",
-      "category": "seriea",
-      "type": "seriea",
-      "label": "セリエA",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "チャンピオンのコーナー:KC Current 最初に勝つ NWSL Championship スピリットを上回る2-1 スチュナー",
       "summary": "コーナーキック・デビンハから直進し、Trinity Rodman 貿易目標アディショナルタイム Washington Spirit 第三連続 NWSL ファイナルを失います Read Jeff Rueter’s 分別レポート 5 年、90 分と年齢の目標を取ったが、カンザスシティ (ミズーリ州)現時点では NWSL 選手権が初めて開催されています。ミッドフィルダーから54 分のオリンピコによって作られた勢いの波に乗って Vanessa DiBernardo, そして、デビンハから、すべての重要なブレイクアウトの勝者とそれをキャップ, 現在の",
       "title_original": "Champion’s corner: KC Current win first NWSL Championship with 2-1 stunner over Spirit",
@@ -3548,6 +3548,20 @@
       "type": "other",
       "label": "その他",
       "featured": false,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "リヴァプール手 Pochettino nightmare マンチェスター・ユナイテッドヨロが赤く見えた後に始まります",
+      "summary": "回復の緑のシュートは爆発炉でより長く持続しました Mauricio Pochettino 時代からマンチェスター・ユナイテッド. マンチェスターの秋の巨人のための別の熱狂的な Anfield の日に、Pochettino は8 分前に火のバプテスマを耐えました Leny Yoro 否定のために送りましたアレクサンデル・イサク明確なゴールコーチング機会。リヴァプール古いライバルをまだ再び苦しんでいる間、他の何も否定されません。Andoni Iraola 彼の最初の拳ポンプで KOP の盗難に侵入",
+      "title_original": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
+      "summary_original": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism of fire from the eighth minute onwards when Leny Yoro was sent off for denying Alexander Isak a clear goalscoring opportunity. Liverpool would not be denied anything else while tormenting their old rivals yet again. Andoni Iraola indulged in his first fist-pumps towards the Kop aft",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
+      "published": "Sun, 22 Nov 2026 18:35:14 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3579,20 +3593,6 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Evanilson と Kluivert シンク Forest で Bournemouth ninth 勝ち で 行",
-      "summary": "Marco Rose ブラジルが6 位を獲得した後、インフォーム・エヴァニルソンを救出プレミアリーグ Bournemouth を 2-0 で 4 位まで持ち上げる列でゲームノッティンガム・フォレスト. エバニルソンの華麗に取られた19 分のオープナーは、すべての競争でクラブレコード9 のストレート勝利のためにコースに彼の側面を置きました, 敗北は、森林が唯一の理由は、目標差の回復場所の上にあることを意味します 彼らの3-1 の勢いに基づいて構築できなかったマンチェスター・シティ前へインテルログイン",
-      "title_original": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
-      "summary_original": "Marco Rose saluted the in-form Evanilson after the Brazilian scored for a sixth Premier League game in a row to lift Bournemouth up to fourth place with a 2-0 win over Nottingham Forest. Evanilson’s brilliantly taken 19th-minute opener set his side on course for a club record ninth straight win in all competitions, while the defeat means Forest are only above the relegation places on goal difference having failed to build on the momentum of their 3-1 win against Manchester City before the intern",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
-      "published": "Sat, 21 Nov 2026 17:10:24 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
       "title": "Elliot Anderson ハルトマンチェスター・シティ’ s が実行を失いますが、boos greet Fulham ドロー",
       "summary": "マンチェスター・シティリビングプレミアリーグプルガティブは4 勝で勝てないが、少なくとも Fulham に対しては3 勝敗走を終えた。彼らが財政違反の罪悪感を発見した後に運命を待っているように、その形態は殺された。このパッシブドは、ホームファンからブームと会いました。引数は、アーリング・ハーランドの は、都市はこれ以上何も値しませんでした。The Norwegian 必見のチャンスを数多く見逃しました Rodrigo MunizC を利用しました",
       "title_original": "Elliot Anderson halts Manchester City’s losing run but boos greet Fulham draw",
@@ -3600,20 +3600,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
       "published": "Sat, 21 Nov 2026 14:34:03 GMT",
-      "category": "epl",
-      "type": "epl",
-      "label": "プレミア",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Pochettino の新しいマニジャーバウンスがフラットに落ちる De Ligt 宇宙の一歩を踏み出す |Jamie Jackson",
-      "summary": "オランダの擁護者を上回る決定 Harry Maguire バックファイヤーマンチェスター・ユナイテッドアンフィールド・ベアピット・チャオティック、ビワダリング、そしてこの証拠に反して再資源化のドッグファイトに立ち向かう:ある3-リング・サーカスへの歓迎マンチェスター・ユナイテッド, Mauricio Pochettino. This4-0 rout として終了リヴァプール, 新しいヘッドコーチは、次の8 人の最も貧しい開口部の結果を見守るアレックス・ファーガソン2013 年5 月以降 ユナイテッドの最も激しい肋骨に対して来るこの結果の要因",
-      "title_original": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
-      "summary_original": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three‑ring circus that is Manchester United, Mauricio Pochettino. This ended as a 4-0 rout in favour of Liverpool, the new head coach overseeing the poorest opening result of the eight who have followed Sir Alex Ferguson since May 2013. Factor in this result coming against United’s fiercest riva",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
-      "published": "Sun, 22 Nov 2026 20:58:35 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
@@ -3646,6 +3632,20 @@
       "type": "seriea",
       "label": "セリエA",
       "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Gonzalo García:「私は大好き」クレイヴン・コテージ- ファンは、あなたが到達し、連絡することができます",
+      "summary": "Spain Under-21 ストライカーはペースを認めるプレミアリーグ彼に驚いたが、彼は目標が干ばつの上に落ち着かなければならないと言う Fulham The まずは Rita Hayworth’s 彼が歩くと素晴らしい甥は言う:「Sorry I’m 後半。Gonzalo García 遅くはありませんが、それは彼が好きです:彼は、暗黙的に礼儀礼儀正しく、収容しています、そして彼にはほとんど優しい品質があります、それはあまり一般的ではありませんが、圧力が構築したときに特に瞬間に助けることができる落ち着きがあります。r に立っているコーチの1 つが理由があります",
+      "title_original": "Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’",
+      "summary_original": "Spain Under-21 striker admits the pace of the Premier League has surprised him but says he must stay calm over goal drought at Fulham The first thing Rita Hayworth’s great nephew says when he walks in is: “Sorry I’m late.” Gonzalo García is not late, but it’s very like him: he is impeccably polite, accommodating, and there’s an almost gentle quality to him, a calm that’s not common but can help, especially in moments when the pressure builds. There’s a reason one of the coaches standing in the r",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
+      "published": "Thu, 19 Nov 2026 12:16:42 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": false,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3733,6 +3733,20 @@
       "translation_version": "football-ja-v8"
     },
     {
+      "title": "Evanilson と Kluivert シンク Forest で Bournemouth ninth 勝ち で 行",
+      "summary": "Marco Rose ブラジルが6 位を獲得した後、インフォーム・エヴァニルソンを救出プレミアリーグ Bournemouth を 2-0 で 4 位まで持ち上げる列でゲームノッティンガム・フォレスト. エバニルソンの華麗に取られた19 分のオープナーは、すべての競争でクラブレコード9 のストレート勝利のためにコースに彼の側面を置きました, 敗北は、森林が唯一の理由は、目標差の回復場所の上にあることを意味します 彼らの3-1 の勢いに基づいて構築できなかったマンチェスター・シティ前へインテルログイン",
+      "title_original": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
+      "summary_original": "Marco Rose saluted the in-form Evanilson after the Brazilian scored for a sixth Premier League game in a row to lift Bournemouth up to fourth place with a 2-0 win over Nottingham Forest. Evanilson’s brilliantly taken 19th-minute opener set his side on course for a club record ninth straight win in all competitions, while the defeat means Forest are only above the relegation places on goal difference having failed to build on the momentum of their 3-1 win against Manchester City before the intern",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
+      "published": "Sat, 21 Nov 2026 17:10:24 GMT",
+      "category": "epl",
+      "type": "epl",
+      "label": "プレミア",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
       "title": "アストン・ヴィラ dgged として家で保持されるサンダーランド戦闘のための戦い Régis Le Bris",
       "summary": "のためにアストン・ヴィラ、家で痛みを伴う屋台サンダーランド・・・Régis Le Bris そして、彼の選手は、これは別の一種の勝利でした。生の数字は、Villa の苦難のボリュームを話しました。Unai Emery’s 湾の側面。対象となるヴィラの7 つのショットの1 つが訪問者の箱とその中の1 つから来られました。Ian Maatsen、忘れられない。変化、怪我、Emery resting の夏にオーイング John McGinn 火曜日の試合で Ga",
       "title_original": "Aston Villa held at home as dogged Sunderland battle for Régis Le Bris",
@@ -3761,45 +3775,17 @@
       "translation_version": "football-ja-v8"
     },
     {
-      "title": "Scottish Premiership ラウンドアップ: ダンディーは、心臓による8-0 の倍増後にリールを残しました",
-      "summary": "スティーヴン・プレスリー: 「私は恥ずかしい...私は気付く」セルティック 4-1 St Mirren; レンジャーズ 2-1 Motherwell Wouter Vrancken ハートス「10 人のダンディーの驚くべき8-0 解体は、彼が担当したので、彼のチームの最高のパフォーマンスでした Tynecastle. Sabah Kerjota そして、Pierre Landry KaboréClaudio で2 回スコアブラガ, Sabri Guendouz, Stuart Findlay そして、Ryan Finnigan オウンゴール rout を完了します。Vrancken は、自分の選手がそのようなスペシャックの行で3 敗走を終えたことを自然に喜んでいた",
-      "title_original": "Scottish Premiership roundup: Dundee left reeling after 8-0 mauling by Hearts",
-      "summary_original": "Steven Pressley: ‘I’m embarrassed … I apologise’ Celtic 4-1 St Mirren; Rangers 2-1 Motherwell Wouter Vrancken said Hearts ’ remarkable 8-0 demolition of 10-man Dundee was his team’s best performance since he took charge at Tynecastle. Sabah Kerjota and Pierre Landry Kaboré both scored twice with Claudio Braga, Sabri Guendouz, Stuart Findlay and a Ryan Finnigan own goal completing the rout. Vrancken was naturally delighted that his players had ended a run of three defeats in a row in such spectac",
+      "title": "「痛みを感じる」:4-0 で敗北するポチェチノリヴァプールスタートマンチェスター・ユナイテッド時代 – ビデオ",
+      "summary": "リヴァプール10 人10 人マンチェスター・ユナイテッド4-0 日曜日にアンフィールドで 4 に登るプレミアリーグ. しかし、敗北は、左のユナイテッド 19 位の上の 1 つの点だけクリスタル・パレス. 新規マネージャーのバウンスがなかった Mauricio Pochettino, 誰が見た Leny Yoro 最後の魔女のために8 分に送られたアレクサンデル・イサク. Pochettino は損失のために完全な責任を受け入れたが、却下が間違っていたと主張し、ユナイテッドは罰則の瞬間を前に持っていなければならない Jérémy Jac",
+      "title_original": "'We feel the pain': Pochettino on 4-0 defeat at Liverpool to start Manchester United era – video",
+      "summary_original": "Liverpool thrashed 10-man Manchester United 4-0 at Anfield on Sunday to climb to fourth in the Premier League. But the defeat left United 19th, only one point above bottom-placed Crystal Palace. There was no new manager bounce for Mauricio Pochettino, who saw Leny Yoro sent off in the eighth minute for a last-ditch foul on Alexander Isak. Pochettino accepted full responsibility for the loss, but claimed the dismissal was wrong and United should have had a penalty moments earlier for a Jérémy Jac",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
-      "published": "Sat, 21 Nov 2026 22:20:19 GMT",
-      "category": "other",
-      "type": "other",
-      "label": "その他",
-      "featured": false,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Pochettino ニーズ New Manager Bouncetorrid を破るためにマンチェスター・ユナイテッド売上高 |Jonathan Wilson",
-      "summary": "最新の雇用は、新鮮な顔やベッドの時間に依存します Old Trafford 誰がパターンを知っていますか? 性能は衰退します。結果の falter。タイトルチャレンジは、最後を追っていきます。チャンピオンズリーグスポットは中盤になります。または有望なスタートは、トルーブリングディップになります, 解放に対するフルオンの戦いになります. ファンはぶつかり始めます。火花が消えているかどうかメディアは疑問に思います。プレイヤーは不当に見えます。更衣室は、一度迷ったら、残忍な紅です",
-      "title_original": "Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson",
-      "summary_original": "Latest hire will depend on fresh faces and time to bed in at Old Trafford where the dugout churn is hardest to budge Everybody knows the pattern. Performances fade. Results falter. A title challenge becomes clinging on for the last Champions League spot becomes mid-table. Or a promising start becomes a troubling dip, becomes a full-on battle against relegation. Fans begin to grumble. The media wonder whether the spark has gone. Players look disaffected. A dressing room, once lost, is seldom redi",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
-      "published": "Sat, 21 Nov 2026 20:00:06 GMT",
-      "category": "ucl",
-      "type": "ucl",
-      "label": "CL",
-      "featured": true,
-      "translation_version": "football-ja-v8"
-    },
-    {
-      "title": "Gonzalo García:「私は大好き」クレイヴン・コテージ- ファンは、あなたが到達し、連絡することができます",
-      "summary": "Spain Under-21 ストライカーはペースを認めるプレミアリーグ彼に驚いたが、彼は目標が干ばつの上に落ち着かなければならないと言う Fulham The まずは Rita Hayworth’s 彼が歩くと素晴らしい甥は言う:「Sorry I’m 後半。Gonzalo García 遅くはありませんが、それは彼が好きです:彼は、暗黙的に礼儀礼儀正しく、収容しています、そして彼にはほとんど優しい品質があります、それはあまり一般的ではありませんが、圧力が構築したときに特に瞬間に助けることができる落ち着きがあります。r に立っているコーチの1 つが理由があります",
-      "title_original": "Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’",
-      "summary_original": "Spain Under-21 striker admits the pace of the Premier League has surprised him but says he must stay calm over goal drought at Fulham The first thing Rita Hayworth’s great nephew says when he walks in is: “Sorry I’m late.” Gonzalo García is not late, but it’s very like him: he is impeccably polite, accommodating, and there’s an almost gentle quality to him, a calm that’s not common but can help, especially in moments when the pressure builds. There’s a reason one of the coaches standing in the r",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
-      "published": "Thu, 19 Nov 2026 12:16:42 GMT",
+      "url": "https://www.theguardian.com/football/video/2026/nov/22/we-feel-the-pain-pochettino-on-4-0-defeat-at-liverpool-to-start-manchester-united-era-video",
+      "published": "Sun, 22 Nov 2026 23:33:33 GMT",
       "category": "epl",
       "type": "epl",
       "label": "プレミア",
-      "featured": false,
+      "featured": true,
       "translation_version": "football-ja-v8"
     },
     {
@@ -3827,6 +3813,20 @@
       "category": "laliga",
       "type": "laliga",
       "label": "ラ・リーガ",
+      "featured": true,
+      "translation_version": "football-ja-v8"
+    },
+    {
+      "title": "Pochettino ニーズ New Manager Bouncetorrid を破るためにマンチェスター・ユナイテッド売上高 |Jonathan Wilson",
+      "summary": "最新の雇用は、新鮮な顔やベッドの時間に依存します Old Trafford 誰がパターンを知っていますか? 性能は衰退します。結果の falter。タイトルチャレンジは、最後を追っていきます。チャンピオンズリーグスポットは中盤になります。または有望なスタートは、トルーブリングディップになります, 解放に対するフルオンの戦いになります. ファンはぶつかり始めます。火花が消えているかどうかメディアは疑問に思います。プレイヤーは不当に見えます。更衣室は、一度迷ったら、残忍な紅です",
+      "title_original": "Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson",
+      "summary_original": "Latest hire will depend on fresh faces and time to bed in at Old Trafford where the dugout churn is hardest to budge Everybody knows the pattern. Performances fade. Results falter. A title challenge becomes clinging on for the last Champions League spot becomes mid-table. Or a promising start becomes a troubling dip, becomes a full-on battle against relegation. Fans begin to grumble. The media wonder whether the spark has gone. Players look disaffected. A dressing room, once lost, is seldom redi",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
+      "published": "Sat, 21 Nov 2026 20:00:06 GMT",
+      "category": "ucl",
+      "type": "ucl",
+      "label": "CL",
       "featured": true,
       "translation_version": "football-ja-v8"
     },
